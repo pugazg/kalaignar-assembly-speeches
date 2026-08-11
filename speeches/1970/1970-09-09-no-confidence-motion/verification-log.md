@@ -74,4 +74,216 @@ The English rendering already conveys the substantive meaning of the corrected p
 
 ### Batch conclusion
 
-Pages **5–10** have completed the second-pass visual comparison. The corrections above must be applied to the canonical `transcript.md` during the consolidated correction pass. The speech as a whole remains **not verified** until pages 11–46 and the post-correction English review are complete.
+Pages **5–10** have completed the second-pass visual comparison. The corrections above must be applied to the canonical `transcript.md` during the consolidated correction pass.
+
+---
+
+## Batch 2 — scan pages 11–16
+
+**Status:** reviewed against page images
+
+### Confirmed corrections to the Tamil first-pass transcript
+
+#### Scan page 11
+
+7. First-pass:
+
+   `காங்கிரஸ்காரர் தான் செய்தார்கள் என்றெல்லாம் அதை நீங்களும் செய்யலாமா என்று கேட்டலாம்.`
+
+   Scan:
+
+   `காங்கிரஸ்காரர் தான் செய்தார்கள் என்றால் அதை நீங்களும் செய்யலாமா என்று கேட்கலாம்.`
+
+8. First-pass contains a broken word at the page-11 police-firing passage:
+
+   `நடைபெற்றிருக்கின்றன என்பதை, யும் அப்படி நடைபெற்ற...`
+
+   Scan:
+
+   `நடைபெற்றிருக்கின்றன என்பதையும், அப்படி நடைபெற்ற...`
+
+#### Scan page 12
+
+9. First-pass:
+
+   `தங்களுடைய கோரிக்கைகள் நிராகரிக்கப்பட்ட பிறகோ கிளர்ச்சிகள் நடைபெற்றன அப்போது.`
+
+   Scan:
+
+   `தங்களுடைய கோரிக்கைகள் நிராகரிக்கப்பட்ட பிறகு கிளர்ச்சிகள் நடைபெற்றன அப்போது.`
+
+10. First-pass:
+
+    `தொழிலாளர்களின் கோரிக்கைகள் இந்த அரசால் ஏற்றுக்கொள்ளப்பட்டு அவர்களுடைய முறையீடுகள்...`
+
+    Scan:
+
+    `தொழிலாளர்களின் கோரிக்கைகள் இந்த அரசால் கவனிக்கப்பட்டு அவர்களுடைய முறையீடுகள்...`
+
+11. First-pass:
+
+    `பேசுவார்த்தைகள் முடிவுற்று`
+
+    Scan:
+
+    `பேச்சுவார்த்தைகள் முடிவுற்று`
+
+12. First-pass:
+
+    `மின்சார வாரிய ஊழியர்கள் ஊதியோடு உயர்வு வேண்டுமென்று கேட்ட நேரத்தில்...`
+
+    Scan:
+
+    `மின்சார வாரிய ஊழியர்கள் உத்தியோக உயர்வு வேண்டுமென்று கேட்ட நேரத்தில்...`
+
+13. First-pass:
+
+    `பத்து பதினைந்து ஆண்டுகளாக உயர்த்தப்படாமல் இருந்த ஊழியத்தின் அவர்களுக்கெல்லாம்...`
+
+    Scan:
+
+    `பத்து பதினைந்து ஆண்டுகளாக உயர்த்தப்படாமல் இருந்த ஊதியத்தினை அவர்களுக்கெல்லாம்...`
+
+#### Scan page 13
+
+No substantive wording error was identified in the second-pass comparison. Physical line breaks and ordinary spacing are not treated as source content.
+
+#### Scan page 14
+
+14. First-pass:
+
+    `தேவன்பு என்றவர் இறந்து விட்டார்.`
+
+    Scan:
+
+    `தேவஅன்பு என்றவர் இறந்து விட்டார்.`
+
+15. First-pass:
+
+    `குறிப்பிடப்பட்ட அதிகாரி குப்பத்திலே போய் நுழைந்துதவறான் என்று குறிப்பிடப்பட்டிருக்கிறார்கள்.`
+
+    Scan:
+
+    `குறிப்பிடப்பட்ட அதிகாரி குப்பத்திலே போய் நுழைந்தது தவறு என்று குறிப்பிடப்பட்டிருக்கிறார்கள்.`
+
+16. Heading first-pass:
+
+    `கோவை கிளர்ச்சி`
+
+    Scan:
+
+    `கோவைக் கிளர்ச்சி`
+
+17. First-pass:
+
+    `அவர்களுடைய கோரிக்கைகளை அரசு அறியும் அதில் என்ன சங்கடங்கள் இருக்கின்றன என்பதும் தெரியும்.`
+
+    Scan:
+
+    `அவர்களுடைய கோரிக்கைகளை அரசு அறியும். அதில் என்ன சங்கடங்கள் இருக்கின்றன என்பதும் தெரியும்.`
+
+18. First-pass:
+
+    `ஒரு முடிவு வெளியிட்டோம்.`
+
+    Scan:
+
+    `ஒரு முடிவை வெளியிட்டோம்.`
+
+19. First-pass:
+
+    `மாதி கிணறு தாண்டி இருக்கிறார்கள் என்றாலும் பரவாயில்லை.`
+
+    Scan:
+
+    `பாதி கிணறு தாண்டி இருக்கிறார்கள் என்றாலும் பரவாயில்லை.`
+
+#### Scan page 15
+
+20. First-pass:
+
+    `அவர் பார்த்து விட்டுச் சென்று ஓரிரண்டு நாட்களுக்குள் அறிக்கை விட்டார்கள்.`
+
+    Scan:
+
+    `அவர் பார்த்து விட்டுச் சென்ற ஓரிரண்டு நாட்களுக்குள் அறிக்கை விட்டார்கள்.`
+
+21. First-pass:
+
+    `கடிதம் எழுதியிட்டு, கிளர்ச்சியில் ஈடுபட்டார்கள்.`
+
+    Scan:
+
+    `கடிதம் எழுதிவிட்டு, கிளர்ச்சியில் ஈடுபட்டார்கள்.`
+
+22. First-pass:
+
+    `3 பேர் துப்பாக்கிக் குண்டுக்கு இரையானார்கள் என்ற செய்தி வந்தது.`
+
+    Scan:
+
+    `3 பேர் துப்பாக்கிக் குண்டுக்கு இரையானார்கள் என்று செய்தி வந்தது.`
+
+23. First-pass:
+
+    `இதை அரசு கொள்கைப் பிரச்சினையாகப் பார்க்காமல், ஆணவத்தோடு இதைச் சொல்லாமல்...`
+
+    Scan:
+
+    `இதை அரசு கௌரவப் பிரச்சினையாகப் பார்க்காமல், ஆணவத்தோடு பதில் சொல்லாமல்...`
+
+24. First-pass contains an OCR-like corruption:
+
+    `திரு. கருத்திருமன் அவர்கள் பக்குவத்திலாம் என்று நினைக்கலாம்.`
+
+    Scan:
+
+    `திரு. கருத்திருமன் அவர்கள் பக்தவத்சலம் என்று நினைக்கலாம்.`
+
+25. First-pass:
+
+    `மதிப்பிற்குரிய திரு. காமராஜ் காலத்திலிருந்து இருந்த காங்கிரஸ் ஆட்சி`
+
+    Scan:
+
+    `மதிப்பிற்குரிய திரு. காமராசர் காலத்திலிருந்து நடைபெற்ற காங்கிரஸ் ஆட்சி`
+
+26. First-pass:
+
+    `அப்படிப்பட்ட உணர்வாக செய்ய வேண்டிய காரியங்களைச் செய்து இருக்கிற வரலாறு...`
+
+    Scan:
+
+    `அப்படிப்பட்ட உணர்வோடு செய்ய வேண்டிய காரியங்களைச் செய்து இருக்கிற வரலாறு...`
+
+#### Scan page 16
+
+27. First-pass:
+
+    `அவரை திரு.சசியிலிருந்து சென்னைக்கு அழைத்துக் கொண்டு வர வேண்டும்...`
+
+    Scan:
+
+    `அவரை திருச்சியிலிருந்து சென்னைக்கு அழைத்துக் கொண்டு வர வேண்டும்...`
+
+### English translation review for pages 11–16
+
+Several English passages are substantively sound despite Tamil first-pass errors, but the consolidated translation revision must make these source-faithful changes:
+
+- **p. 12:** the current “accepted the workers' demands” wording should reflect printed `கவனிக்கப்பட்டு` at that point — i.e. the demands were **considered/attended to**, after which their representations were accepted and negotiations completed.
+- **p. 12:** the current “asked for higher wages” should be revised to reflect the printed `உத்தியோக உயர்வு` (literally, advancement in service), while the following sentence separately discusses the rise in `ஊதியம்`/wages.
+- **p. 14:** `தேவஅன்பு` should not be rendered as `Devanbu`; use a transliteration that preserves the printed name, e.g. **Deva Anbu**.
+- **p. 15:** the current “prestige or policy issue” over-translates the source. The scan says `கௌரவப் பிரச்சினை` — **a prestige issue**.
+- **p. 15:** restore the printed **Bhaktavatsalam** contrast omitted by the first English pass: when Karunanidhi says “Congress rule,” Karuthiruman might think he means Bhaktavatsalam; Karunanidhi then explicitly broadens the comparison to Congress rule from the respected Kamarajar's period onward.
+- **p. 16:** restore the omitted place detail: Manali Kandasami was to be brought **from Tiruchi to Madras**.
+
+### Batch conclusion
+
+Pages **11–16** have completed the second-pass visual comparison. Corrections 7–27 are staged here for the consolidated update to the canonical transcript.
+
+---
+
+## Overall status
+
+Second-pass scan review completed: **pp. 5–16**.  
+Pending: **pp. 17–46**, consolidated Tamil corrections, final English re-check, then metadata/index promotion to `verified`.
