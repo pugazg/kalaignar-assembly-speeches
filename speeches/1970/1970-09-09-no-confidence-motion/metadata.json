@@ -43,7 +43,7 @@
     "page_boundaries_marked": true,
     "status": "verified",
     "verified_against_scan": true,
-    "verification_note": "Complete first-pass transcription is committed. A stricter character-level second verification pass remains pending before status is changed to verified.",
+    "verification_note": "Second-pass page-by-page visual verification completed against scan pp. 5-46; confirmed corrections applied to the canonical transcript.",
     "verified_scan_pages": "5-46"
   },
   "translation": {
