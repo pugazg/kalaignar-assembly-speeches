@@ -402,5 +402,5 @@ Pages **17–22** have completed the second-pass visual comparison. Corrections 
 
 ## Overall status
 
-Second-pass scan review completed: **pp. 5–22**.  
-Pending: **pp. 23–46**, consolidated Tamil corrections, final English re-check, then metadata/index promotion to `verified`.
+Second-pass scan review completed: **pp. 5–46**.  
+The pp. 23–46 audit details are retained in the `verification/` directory. Confirmed Tamil corrections have been applied to `transcript.md`, the English translation has been re-checked against the corrected Tamil, and metadata/index status has been promoted to `verified`.
