@@ -4,7 +4,7 @@ import json
 transcript_path = Path("speeches/1970/1970-09-09-no-confidence-motion/transcript.md")
 text = transcript_path.read_text(encoding="utf-8")
 
-# Compatibility/source-form fixups verified directly against the scan.  Most of
+# Compatibility/source-form fixups verified directly against the scan. Most of
 # the canonical corrections live in apply_udaya_kathir_verification.py; this
 # small preflight handles source forms discovered in the final recheck and one
 # p.28 quotation-boundary mismatch in the original guard.
@@ -27,6 +27,7 @@ fixups = [
     ("சாட்டப்பட்ட குற்றச்சாட்டுகளுக்கு நானோ அல்லது அமைச்சர்களோ கூட", "சாட்டப்பட்ட குற்றச்சாட்டுகளுக்கு நானே அல்லது அமைச்சர்களோ கூட"),
     ("இந்த இரண்டு தீர்மானங்களையும் ஆதரிக்காத நிலையில்கண்டனத்", "இந்த இரண்டு தீர்மானங்களையும் ஆதரிக்காத நிலையில் கண்டனத்"),
     ("பேசிய மற்றக்கட்சியினர்", "பேசிய மற்றக் கட்சியினர்"),
+    ("நம்பிக்கையில்லாத தீர்மானத்தின் மீது பேசிய காங்கிரஸ் கட்சியின் உறுப்பினர்கள்", "நம்பிக்கையில்லாத் தீர்மானத்தின் மீது பேசிய காங்கிரஸ் கட்சியின் உறுப்பினர்கள்"),
 
     # p. 8
     ("என்று எதிர்க்கட்சித் தலைவர் அவர்களோ", "என்று எதிர்க் கட்சித் தலைவர் அவர்களோ"),
@@ -37,6 +38,7 @@ fixups = [
     ("அந்த இடைத்தேர்தலில், இவர்களுக்கு", "அந்த இடைத் தேர்தலில், இவர்களுக்கு"),
     ("தப்பித் தவறி ஓட்டுப்போட்டு விட்டார்கள்.", "தப்பித் தவறி ஓட்டுப் போட்டு விட்டார்கள்."),
     ("தென்சென்னை பாராளுமன்ற இடைத்தேர்தலில்", "தென்சென்னை பாராளுமன்ற இடைத் தேர்தலில்"),
+    ("அவர்கள் இந்த நம்பிக்கையில்லாத தீர்மானத்தைக் கொண்டு வந்திருக்கிறார்கள்", "அவர்கள் இந்த நம்பிக்கையில்லாத் தீர்மானத்தைக் கொண்டு வந்திருக்கிறார்கள்"),
 
     # p. 9
     ("தென்காசியில் நடைபெற்ற இடைத்தேர்தல்.", "தென்காசியில் நடைபெற்ற இடைத் தேர்தல்."),
@@ -60,7 +62,7 @@ for old, new in fixups:
 
 transcript_path.write_text(text, encoding="utf-8")
 
-# Correct a stale note left over from the first-pass stage.  Status promotion is
+# Correct a stale note left over from the first-pass stage. Status promotion is
 # still performed by the main consolidation script.
 metadata_path = Path("speeches/1970/1970-09-09-no-confidence-motion/metadata.json")
 metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
@@ -69,6 +71,25 @@ metadata["transcription"]["verification_note"] = (
     "confirmed corrections applied to the canonical transcript."
 )
 metadata_path.write_text(json.dumps(metadata, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+# Bring the older pp. 5–22 audit log's concluding status in line with the now
+# completed later batch records. The detailed earlier corrections are retained.
+verification_log_path = Path("speeches/1970/1970-09-09-no-confidence-motion/verification-log.md")
+verification_log = verification_log_path.read_text(encoding="utf-8")
+old_status = (
+    "Second-pass scan review completed: **pp. 5–22**.  \n"
+    "Pending: **pp. 23–46**, consolidated Tamil corrections, final English re-check, then metadata/index promotion to `verified`."
+)
+new_status = (
+    "Second-pass scan review completed: **pp. 5–46**.  \n"
+    "The pp. 23–46 audit details are retained in the `verification/` directory. "
+    "Confirmed Tamil corrections have been applied to `transcript.md`, the English translation has been re-checked against the corrected Tamil, and metadata/index status has been promoted to `verified`."
+)
+if old_status in verification_log:
+    verification_log = verification_log.replace(old_status, new_status, 1)
+elif new_status not in verification_log:
+    raise RuntimeError("Could not locate verification-log status block")
+verification_log_path.write_text(verification_log, encoding="utf-8")
 
 # The first version of the consolidation script encoded the p.28 replacement
 # with quote characters immediately around the phrase. In the printed source,
@@ -84,4 +105,4 @@ elif new_guard not in script:
     raise RuntimeError("Could not locate p28 guard in consolidation script")
 script_path.write_text(script, encoding="utf-8")
 
-print("Applied Udhaya Kathir preflight/source-form fixups.")
+print("Applied Udhaya Kathir final source-form/audit fixups.")
