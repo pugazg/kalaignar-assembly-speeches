@@ -10,9 +10,12 @@
     "event_ta": "நம்பிக்கையில்லாத் தீர்மான விவாதத்திற்கான பதிலுரை",
     "event_en": "Reply to the debate on the no-confidence motion",
     "path": "speeches/1970/1970-09-09-no-confidence-motion",
-    "languages": ["ta", "en"],
-    "transcription_status": "transcribed",
-    "verified_against_scan": false,
-    "translation_status": "complete"
+    "languages": [
+      "ta",
+      "en"
+    ],
+    "transcription_status": "verified",
+    "verified_against_scan": true,
+    "translation_status": "verified"
   }
 ]

@@ -18,7 +18,7 @@ This repository is a source-faithful digital archive of M. Karunanidhi's speeche
 
 | Date | Publication / speech | Assembly event | Tamil | English | Verification |
 |---|---|---|---|---|---|
-| 09-09-1970 | [உதயக் கதிர்](./speeches/1970/1970-09-09-no-confidence-motion/) | நம்பிக்கையில்லாத் தீர்மான விவாதத்திற்கான பதிலுரை | Complete first pass | Complete | Not yet character-level verified |
+| 09-09-1970 | [உதயக் கதிர்](./speeches/1970/1970-09-09-no-confidence-motion/) | நம்பிக்கையில்லாத் தீர்மான விவாதத்திற்கான பதிலுரை | Verified | Verified | Verified against scan pp. 5–46 |
 
 Machine-readable index: [`data/speeches.json`](./data/speeches.json)
 
