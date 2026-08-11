@@ -41,12 +41,14 @@
     "preserve_source_punctuation": true,
     "preserve_headings": true,
     "page_boundaries_marked": true,
-    "status": "in-progress",
-    "verified_against_scan": false
+    "status": "transcribed",
+    "verified_against_scan": false,
+    "verification_note": "Complete first-pass transcription is committed. A stricter character-level second verification pass remains pending before status is changed to verified."
   },
   "translation": {
     "language": "English",
     "placement": "after the complete Tamil transcription",
-    "status": "in-progress"
+    "status": "complete",
+    "type": "faithful reading translation"
   }
 }
