@@ -43,6 +43,7 @@ jobs:
           git add README.md data/speeches.json \
             speeches/1970/1970-09-09-no-confidence-motion/README.md \
             speeches/1970/1970-09-09-no-confidence-motion/metadata.json \
-            speeches/1970/1970-09-09-no-confidence-motion/transcript.md
-          git commit -m 'Apply verified Udhaya Kathir transcription corrections'
+            speeches/1970/1970-09-09-no-confidence-motion/transcript.md \
+            speeches/1970/1970-09-09-no-confidence-motion/verification-log.md
+          git commit -m 'Finalize verified Udhaya Kathir archive entry'
           git push
