@@ -34,11 +34,11 @@
 
 ## Verification status
 
-- Scan pp. **5–10** — second-pass visual review completed; confirmed corrections are recorded in `verification-log.md`.
-- Scan pp. **11–46** — second-pass review pending.
-- English translation — complete; final re-check will follow the consolidated Tamil corrections.
+- Scan pp. **5–16** — second-pass visual review completed; confirmed corrections are recorded in `verification-log.md`.
+- Scan pp. **17–46** — second-pass review pending.
+- English translation — complete first pass; source-faithful corrections identified for the reviewed pages will be applied during the consolidated revision.
 
-The speech remains **not yet verified** as a whole until all pages 5–46 have passed the second comparison.
+The speech remains **not yet verified** as a whole until all pages 5–46 have passed the second comparison, the staged Tamil corrections are applied, and the English translation is re-checked against the corrected Tamil text.
 
 ## Archival note
 
