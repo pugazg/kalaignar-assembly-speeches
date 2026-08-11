@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'scripts/apply_udaya_kathir_verification.py'
+      - 'scripts/preflight_udaya_fixups.py'
       - '.github/workflows/apply-udaya-verification.yml'
   workflow_dispatch:
 
@@ -24,6 +25,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
+      - name: Apply verified preflight fixups
+        run: python scripts/preflight_udaya_fixups.py
 
       - name: Apply verified source corrections
         run: python scripts/apply_udaya_kathir_verification.py
