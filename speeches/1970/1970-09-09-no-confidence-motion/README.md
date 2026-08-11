@@ -24,12 +24,21 @@
 - [`transcript.md`](./transcript.md) — முதலில் முழு தமிழ் உரை; அதன் முடிவில் ஆங்கில மொழிபெயர்ப்பு.
 - [`metadata.json`](./metadata.json) — இயந்திரம் வாசிக்கக்கூடிய உரை மற்றும் மூலத் தகவல்கள்.
 - [`source-notes.md`](./source-notes.md) — பதிப்பியல், பக்க வரம்பு மற்றும் transcription policy குறிப்புகள்.
+- [`verification-log.md`](./verification-log.md) — இரண்டாம் சுற்று, பக்கம்-பக்கமாக scan-உடன் செய்யப்பட்ட சரிபார்ப்புப் பதிவு.
 
 ## பக்க அமைப்பு
 
 - Scan pp. 1–4 — அட்டை / பதிப்புத் தகவல் / புகைப்படங்கள்
 - Scan pp. 5–46 — சட்டமன்ற உரை
 - Scan pp. 47–48 — பிற வெளியீடுகளுக்கான விளம்பரங்கள்; உரையின் பகுதி அல்ல
+
+## Verification status
+
+- Scan pp. **5–10** — second-pass visual review completed; confirmed corrections are recorded in `verification-log.md`.
+- Scan pp. **11–46** — second-pass review pending.
+- English translation — complete; final re-check will follow the consolidated Tamil corrections.
+
+The speech remains **not yet verified** as a whole until all pages 5–46 have passed the second comparison.
 
 ## Archival note
 
