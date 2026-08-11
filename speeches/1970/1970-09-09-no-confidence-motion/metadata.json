@@ -1,0 +1,52 @@
+{
+  "id": "1970-09-09-no-confidence-motion",
+  "date": "1970-09-09",
+  "year": 1970,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role_ta": "தமிழக முதலமைச்சர்",
+    "role_en": "Chief Minister of Tamil Nadu"
+  },
+  "legislature": {
+    "name_ta": "தமிழகச் சட்டமன்றம்",
+    "name_en": "Tamil Nadu Legislative Assembly"
+  },
+  "speech": {
+    "title_ta": "உதயக் கதிர்",
+    "title_en": "Udhaya Kathir",
+    "event_ta": "நம்பிக்கையில்லாத் தீர்மான விவாதத்திற்கான பதிலுரை",
+    "event_en": "Reply to the debate on the no-confidence motion",
+    "type": "no-confidence-motion-reply"
+  },
+  "source": {
+    "publication_title_ta": "உதயக் கதிர்",
+    "author_ta": "கலைஞர் மு. கருணாநிதி",
+    "edition_ta": "முதற்பதிப்பு",
+    "publication_date": "1970-09",
+    "publisher_ta": "புகழ் பதிப்பகம்",
+    "publisher_location_ta": "சென்னை-6",
+    "printer_ta": "முரசொலி அச்சகம்",
+    "printer_location_ta": "சென்னை-6",
+    "cover_price_ta": "30 காசு",
+    "scan_filename": "TVA_BOK_0065650_உதயக்_கதிர்.pdf",
+    "scan_total_pages": 48,
+    "speech_scan_pages": "5-46",
+    "front_matter_scan_pages": "1-4",
+    "advertisement_scan_pages": "47-48"
+  },
+  "transcription": {
+    "method": "manual transcription from scan with page-by-page visual review",
+    "preserve_source_spelling": true,
+    "preserve_source_punctuation": true,
+    "preserve_headings": true,
+    "page_boundaries_marked": true,
+    "status": "in-progress",
+    "verified_against_scan": false
+  },
+  "translation": {
+    "language": "English",
+    "placement": "after the complete Tamil transcription",
+    "status": "in-progress"
+  }
+}
