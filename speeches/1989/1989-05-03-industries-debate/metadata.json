@@ -38,19 +38,20 @@
     "source_authority": "scan image"
   },
   "transcription": {
-    "method": "manual first-pass transcription from scan images",
-    "status": "in-progress",
+    "method": "manual first-pass transcription from scan images, followed by full-speech completeness audit",
+    "status": "transcribed",
     "full_speech_scan_pages": "62-98",
-    "completed_scan_pages": "62-91",
-    "completed_printed_pages": "61-90",
-    "next_scan_page": 92,
+    "completed_scan_pages": "62-98",
+    "completed_printed_pages": "61-97",
+    "next_scan_page": null,
     "page_markers_audited_for_completed_batch": true,
-    "full_speech_completeness_audit": false,
+    "full_speech_completeness_audit": true,
+    "full_speech_page_marker_audit": true,
     "verified_against_scan": false,
     "strict_full_speech_visual_verification": false,
     "explicit_unresolved_reading_markers": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "continuation_note": "Scan p.91 ends mid-sentence with 'தோல் தொழிற்சாலை'; scan p.92 continues 'பற்றிக்கூட சொன்னார்கள். அந்த மாசுகளையும் ...'."
+    "completion_note": "All 37 mapped scan pages 62-98 are represented. Markers are unique and monotonic. Scan p.98 ends Speech 3 with Kalaignar's reply to Thiru V.K. Chinnasamy followed by the decorative ending ornament; scan p.99 begins Speech 4 (18.04.1990)."
   },
   "translation": {
     "language": "English",
