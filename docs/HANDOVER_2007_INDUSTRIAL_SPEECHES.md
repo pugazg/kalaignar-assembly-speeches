@@ -83,9 +83,19 @@ Do not alter Speech 2 unless separately requested.
 
 ### Batch 1 complete
 
-Transcribed **scan pp.62–76 / printed pp.61–75** directly from the controlling scan images.
+Transcribed **scan pp.62–76 / printed pp.61–75**.
 
-- 15 source-page markers are present, unique and monotonic: **62–76**.
+- 15 source-page markers: **62–76**.
+- scan p.69 ends `வாலி`; scan p.70 continues `நோக்கத்தில்`.
+- scan p.76 ends `ஆனால் இதை வைத்துக் கொண்டு பொதுத் துறையே`.
+- final batch-1 state commit: `a80379906ecf6c044eab5419ddcb420eced53e8d`.
+
+### Batch 2 complete
+
+Transcribed **scan pp.77–91 / printed pp.76–90** directly from the controlling scan images.
+
+- 15 additional source-page markers: **77–91**.
+- Continuous completed first-pass range is now **scan pp.62–91 / printed pp.61–90**.
 - Speech remains **partial / in-progress**.
 - Explicit unresolved-reading markers: **0 currently flagged**. This is first-pass status only and does not imply verification.
 - Gate D full-speech completeness audit: **not yet eligible**.
@@ -93,50 +103,48 @@ Transcribed **scan pp.62–76 / printed pp.61–75** directly from the controlli
 - English translation: **blocked / not started**.
 - Root README speech index and `data/speeches.json`: **must remain unchanged for Speech 3 while it is partial**.
 
-Source-continuity notes from this batch:
+Batch 2 preserved, among other source material:
 
-- scan p.69 ends `வாலி`; scan p.70 continues `நோக்கத்தில்`;
-- scan p.76 ends mid-sentence with `ஆனால் இதை வைத்துக் கொண்டு பொதுத் துறையே`;
-- resume exactly at **scan p.77 / printed p.76**.
+- the granite/public-sector continuation and lease-policy discussion;
+- the mini-cement-factory tender/file history, including the printed `4½ மாதம்` delay and tender figures;
+- the numbered TIDCO-associated industrial projects and their printed amounts/production figures;
+- industrial-centre proposals and the refinery plan;
+- sugar-sector counts, locations, policy statements, and the `திரு. எஸ். திருநாவுக்கரசு` intervention.
 
-Files created for Speech 3 batch 1:
+Source-continuity note:
 
-- `speeches/1989/1989-05-03-industries-debate/transcript.md`
-- `speeches/1989/1989-05-03-industries-debate/metadata.json`
-- `speeches/1989/1989-05-03-industries-debate/README.md`
-- `speeches/1989/1989-05-03-industries-debate/source-notes.md`
-- `speeches/1989/1989-05-03-industries-debate/verification-log.md`
+- scan p.91 ends mid-sentence with `தோல் தொழிற்சாலை`;
+- scan p.92 continues `பற்றிக்கூட சொன்னார்கள். அந்த மாசுகளையும் ...`.
 
-Sequential batch commits:
+Batch-2 sequential commits:
 
-- transcript: `f00f68dc766fade34794a8d7f71e947d48b554d9`
-- metadata: `e0b3de13304d32fe67ebd859b8b35dff48bd2333`
-- README: `18c60ed681353cef281f92ed6a53c92eb2cc9f68`
-- source notes: `3100205648e161f4eb33b43e62c024bc35092e56`
-- verification log / final Speech-3 batch state: `a80379906ecf6c044eab5419ddcb420eced53e8d`
+- transcript through p.91: `17275b941461ac14f904e15fbd9a1e05b0bc5e25`
+- metadata through p.91: `329b950c16ee8345d4418df2e5dfb080ab237d82`
+- README through p.91: `56798e61959245df2eb55904e2b3c414344876fd`
+- source notes through p.91: `0747b5cc3da9312ce5739498b963f24765f1a60a`
+- verification log / final batch-2 Speech-3 state: `9e99d34323e1c52921a5db921310e7f24d2b63df`
 
 ## Immediate next action
 
-Continue **Speech 3 Gate C only** with the next bounded batch:
+Complete **Speech 3 Gate C** with the natural final first-pass batch:
 
-- scan pp. **77–91**
-- printed pp. **76–90**
+- scan pp. **92–98**
+- printed pp. **91–97**
 
-Start from the continuation of scan p.76: `ஆனால் இதை வைத்துக் கொண்டு பொதுத் துறையே ...`.
+Start from the p.91→92 continuation:
 
-For the next batch:
+`தோல் தொழிற்சாலை` → `பற்றிக்கூட சொன்னார்கள். அந்த மாசுகளையும் ...`
 
-1. Read the existing Speech 3 `transcript.md`, `metadata.json`, `source-notes.md` and `verification-log.md` from current `main` before editing.
-2. Render/read scan pp.77–91; scan images remain authoritative.
-3. Append only the Tamil first-pass text with explicit source-page markers.
+For the next step:
+
+1. Read the existing Speech 3 files from current `main` before editing.
+2. Render/read scan pp.92–98; scan images remain authoritative.
+3. Append only the remaining Tamil first-pass text with explicit source-page markers.
 4. Preserve printed wording, period spelling, punctuation, numerals, speaker changes/interventions and printed English; do not silently modernise unusual source forms.
 5. Mark genuinely unreadable material for review rather than guessing.
-6. Update Speech 3 metadata/README/source notes/verification log to the exact new continuation point.
-7. Do **not** run Gate D until all scan pp.62–98 are transcribed.
-8. Do **not** start Gate E or English translation during this bounded first-pass batch.
-9. Do **not** begin Speech 4 merely to fill a batch.
-
-After pp.77–91, the natural remaining Speech 3 first-pass range will be **scan pp.92–98 / printed pp.91–97**.
+6. After p.98 is transcribed, run **Gate D full-speech completeness audit** across scan pp.62–98: verify all 37 markers are present, unique and monotonic, boundaries are correct, no mapped page is skipped/duplicated, interventions are present, and unresolved readings are explicit.
+7. Do **not** start Gate E or English translation until Gate D is complete and the next Tamil step is explicitly established.
+8. Do **not** begin Speech 4.
 
 ## Content to leave untouched
 
