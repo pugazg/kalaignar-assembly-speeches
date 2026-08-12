@@ -28,7 +28,7 @@ The PDF is image-based. The scan image is authoritative; OCR or reconstructed te
 
 For this speech: `PDF scan page = printed page + 1`.
 
-The ending boundary was directly rechecked during the final first-pass batch: scan p.98 / printed p.97 ends with Kalaignar's reply to `திரு. வி. கே. சின்னசாமி` and the decorative floral ornament. Scan p.99 / printed p.98 begins `உரை : 4`, dated `18.04.1990`.
+The ending boundary was directly rechecked: scan p.98 / printed p.97 ends with Kalaignar's reply to `திரு. வி. கே. சின்னசாமி` and the decorative floral ornament. Scan p.99 / printed p.98 begins `உரை : 4`, dated `18.04.1990`.
 
 ## Completed bounded first-pass batches
 
@@ -39,7 +39,7 @@ Transcribed **scan pp.62–76 / printed pp.61–75**.
 - Start: scan p.62 prints `உரை : 3`, `நாள் : 03.05.1989`, and `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`.
 - Scan p.69 ends with `வாலி`; scan p.70 continues `நோக்கத்தில்`.
 - Printed English and transliterated industrial terms were retained.
-- Source forms that may look unusual were left as printed during first pass, including `1986-86-ல்`, `அசோசியேட் செக்டரி`, `கருத்தக் கூடாது`, and `வெளிக் கொணரத் தலைப்பட்டது`.
+- Source forms visibly printed and retained include `1986-86-ல்`, `அசோசியேட் செக்டரி`, and `வெளிக் கொணரத் தலைப்பட்டது`.
 - Scan p.76 ends `ஆனால் இதை வைத்துக் கொண்டு பொதுத் துறையே`.
 
 ### Batch 2
@@ -59,25 +59,32 @@ Transcribed **scan pp.92–98 / printed pp.91–97**.
 - Preserved the repeated `வலியுறுத்தி` / `கேட்டுக்கொண்டதன் பேரில்` wordplay and `(சிரிப்பு)` marker on p.93.
 - Preserved the `திரு. எஸ். திருநாவுக்கரசு` intervention on plastic-bag units and the subsequent MLA seniority clarification.
 - Preserved the p.95–98 interventions by `திரு. ஆர். சிங்காரம்`, `திருமதி ஏ. எஸ். பொன்னம்மாள்`, `திரு. பெ. சீனிவாசன்`, `திரு. எஸ். ஆர். பாலசுப்பிரமணியம்`, and `திரு. வி. கே. சின்னசாமி`, together with Kalaignar's replies.
-- Scan p.98 closes with `மாண்புமிகு உறுப்பினர் திரு. திருநாவுக்கரசு அறந்தாங்கியை விட்டுக் கொடுத்தால் அது உங்கள் தொகுதியில் வைக்கப்படும்.` followed by the decorative ending ornament.
-
-No explicit unreadable/`[REVIEW]` marker is present in the complete first pass. This does **not** imply Gate-E verification.
 
 ## Gate D — full-speech completeness audit
 
-Gate D was run after Batch 3 completed the mapped range.
-
-Checks passed:
+Gate D passed after Batch 3 completed the mapped range.
 
 - exactly **37** explicit source-page markers are represented, **62 through 98**;
 - markers are unique and monotonic;
 - no mapped page is skipped or duplicated;
-- the p.62 opening agrees with the locked source boundary;
-- the p.98 ending agrees with the locked source boundary and p.99 begins Speech 4;
+- opening and ending agree with the locked source boundaries;
 - printed speaker changes/interventions are retained through the final page sequence;
-- no explicit unreadable/`[REVIEW]` marker remains.
+- explicit unreadable/`[REVIEW]` markers: **0**.
 
-Accordingly, the Tamil first pass is now **complete / transcribed**. It is not yet `verified` because Gate E has not been performed.
+## Gate E — strict visual/source-fidelity verification
+
+A separate direct visual audit was completed against **every scan page 62–98** after Gate D. Each source-page section of the canonical Tamil was compared directly with its scan image. The review checked individual Tamil readings, names/initials, figures, dates, percentages, monetary values and units, printed English/transliterated terms, headings, speaker labels/interventions, punctuation where legible, and continuity across page transitions.
+
+Four concrete first-pass discrepancies were found and corrected in `transcript.md`:
+
+1. scan p.73: `கருத்தக் கூடாது` → source `கருதக் கூடாது`;
+2. scan p.94: `சுவரார் அளித்த சலுகைகளும்` → source `கவர்னர் அளித்த சலுகைகளும்`;
+3. scan p.96: `பரிசீலிப்பு விழாக்களில்` → source `பரிசளிப்பு விழாக்களில்`;
+4. scan p.97: `கூடங்குளம் போகும்` → source `கூடங்குளம் போக்கும்`.
+
+The audit deliberately retained visibly printed source forms and apparent source inconsistencies rather than repairing them editorially. Examples include `1986-86-ல்`, `அசோசியேட் செக்டரி`, `வெளிக் கொணரத் தலைப்பட்டது`, the p.92 sequence that first gives `547 கோடி` and later prints `541 கோடி` before the `721 கோடி` revised estimate, and the repeated `வலியுறுத்தி` / `கேட்டுக்கொண்டதன் பேரில்` wordplay on p.93.
+
+No unresolved Tamil reading remains after the strict audit.
 
 ## Source-supported speaker information
 
@@ -97,7 +104,7 @@ The speech start prints `மாண்புமிகு கலைஞர் ம�
 
 - Gate C Tamil first-pass: **complete for scan pp.62–98**.
 - Gate D full-speech completeness audit: **passed**.
-- Tamil status: **transcribed**.
-- Gate E strict Tamil source-fidelity verification: **not started**.
+- Gate E strict Tamil source-fidelity verification: **passed for scan pp.62–98**.
+- Tamil status: **verified**.
 - Explicit unresolved-reading markers: **0**.
-- English translation: **blocked / not started** until Gate E is complete and Tamil reaches `verified`.
+- English translation: **not started**; Gate F is now eligible and must translate only the final verified Tamil.
