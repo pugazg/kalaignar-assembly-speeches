@@ -29,44 +29,44 @@
 
 இந்த உரையில் scan page = printed page + 1. PDF scan page மற்றும் அச்சுப் பக்க எண் தனித்தனியாகப் பதிவு செய்யப்படுகின்றன.
 
-## Tamil first-pass and completeness status
+## Tamil transcription and verification status
 
-The complete first-pass transcription now covers **scan pp.62–98 / printed pp.61–97** in three bounded batches:
+The complete Tamil transcription covers **scan pp.62–98 / printed pp.61–97** in three first-pass batches:
 
 - Batch 1: **62–76**
 - Batch 2: **77–91**
 - Batch 3: **92–98**
 
-Gate D full-speech completeness audit has passed:
+Gate D full-speech completeness audit passed with exactly **37** unique, monotonic source-page markers, **62 through 98**, no skipped or duplicated mapped page, correct opening/ending boundaries and all printed interventions represented.
 
-- exactly **37** source-page markers are represented, from **62 through 98**;
-- markers are unique and monotonic;
-- no mapped page is skipped or duplicated;
-- the opening matches the locked Speech 3 boundary at scan p.62;
-- scan p.98 ends with Kalaignar's reply to `திரு. வி. கே. சின்னசாமி`, followed by the decorative ending ornament;
-- scan p.99 begins `உரை : 4 / நாள் : 18.04.1990`;
-- parliamentary speaker changes and interventions through the ending sequence are retained;
-- no explicit unreadable/`[REVIEW]` marker remains in the first pass.
+Gate E then re-read **every scan page 62–98 directly against the canonical Tamil**. The audit checked individual words/characters, names and initials, dates, numerals, percentages, monetary values and units, printed English/transliterations, headings, speaker labels/interventions, punctuation where legible and page-transition continuity.
 
-The Tamil status is therefore **transcribed**, not yet `verified`. Gate E, the strict page-by-page visual/source-fidelity audit, is the next Tamil stage.
+Four concrete first-pass discrepancies were corrected:
+
+1. scan p.73: `கருத்தக் கூடாது` → `கருதக் கூடாது`;
+2. scan p.94: `சுவரார் அளித்த சலுகைகளும்` → `கவர்னர் அளித்த சலுகைகளும்`;
+3. scan p.96: `பரிசீலிப்பு விழாக்களில்` → `பரிசளிப்பு விழாக்களில்`;
+4. scan p.97: `கூடங்குளம் போகும்` → `கூடங்குளம் போக்கும்`.
+
+No unresolved Tamil reading remains. The Tamil status is now **verified**.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — complete Tamil first-pass transcription, scan pp.62–98, with explicit source-page markers.
-- [`metadata.json`](./metadata.json) — source, full range, Gate-D and status metadata.
-- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries, bounded batches and transcription policy.
-- [`verification-log.md`](./verification-log.md) — Gate-C batch records and Gate-D completeness audit.
+- [`transcript.md`](./transcript.md) — complete verified Tamil transcription, scan pp.62–98, with explicit source-page markers.
+- [`metadata.json`](./metadata.json) — source, full range, Gate-D/Gate-E and status metadata.
+- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries, bounded batches and verification notes.
+- [`verification-log.md`](./verification-log.md) — Gate-C batch records, Gate-D completeness audit and Gate-E strict visual verification.
 
 ## தற்போதைய நிலை
 
-- Tamil first-pass transcription: **complete** — scan pp.62–98.
-- Full-speech Tamil completeness audit: **passed**.
-- Tamil status: **transcribed**.
-- Strict Tamil visual/source-fidelity verification: **not started**.
+- Tamil first-pass transcription: **complete**.
+- Full-speech Tamil completeness audit (Gate D): **passed**.
+- Strict Tamil visual/source-fidelity verification (Gate E): **passed for scan pp.62–98**.
+- Tamil status: **verified**.
 - Explicit unresolved-reading markers: **0**.
-- English translation: **blocked / not started** until Gate E is complete.
-- Root release index / `data/speeches.json`: **not updated** because Speech 3 is not yet verified/released.
+- English translation: **not started**; Gate F is now the next workflow stage and must translate only the final verified Tamil.
+- Root release index / `data/speeches.json`: **not updated** because English translation and its fidelity check are still pending.
 
 ## காப்பகக் குறிப்பு
 
-Scan image தான் canonical source. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels, interventions and printed English are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers, printed page numbers and the closing decorative ornament are treated as page furniture/boundary evidence rather than speech text. Source forms that may appear unusual are not silently modernised.
+Scan image தான் canonical source. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels, interventions and printed English are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers, printed page numbers and the closing decorative ornament are treated as page furniture/boundary evidence rather than speech text. Source forms that are visibly unusual remain preserved rather than silently modernised.
