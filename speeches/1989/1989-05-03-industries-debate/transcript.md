@@ -2,7 +2,7 @@
 
 ## உரை : 3 — நாள் : 03.05.1989
 
-> **Archival transcription note:** This is the verified Tamil transcription from the scanned May 2007 publication. The complete mapped range, PDF scan pp.62–98 / printed pp.61–97, has passed both the full-speech completeness audit (Gate D) and a strict direct page-by-page visual/source-fidelity verification (Gate E) against the controlling scan. Printed wording, period spelling, punctuation, numerals, headings, speaker labels, interventions and printed English are preserved as far as the scan permits; only physical line wrapping is normalised. PDF scan-page boundaries are marked explicitly. No unresolved Tamil reading remains. English translation has not yet started and must be produced only from this final verified Tamil.
+> **Archival transcription note:** This is the verified Tamil transcription from the scanned May 2007 publication. The complete mapped range, PDF scan pp.62–98 / printed pp.61–97, has passed both the full-speech completeness audit (Gate D) and a strict direct page-by-page visual/source-fidelity verification (Gate E) against the controlling scan. Printed wording, period spelling, punctuation, numerals, headings, speaker labels, interventions and printed English are preserved as far as the scan permits; only physical line wrapping is normalised. PDF scan-page boundaries are marked explicitly. No unresolved Tamil reading remains. The complete English translation now follows after the verified Tamil source layer; Gate F is complete, but the English has not yet passed the separate Gate G fidelity review.
 
 ---
 
@@ -304,3 +304,306 @@
 பஞ்சை திருப்பூரிலிருந்து வெளி மாநிலத்தினர்கள்கூட வாங்கிச் செல்கிறார்கள். அது புதுக்கோட்டைக்குப் போனதாகத் தகவல், எனவே எங்கள் பகுதியில் ஒரு கூட்டுறவு நூற்பாலை அமைக்க வேண்டுமென்று கேட்டுக் கொள்வதோடு, எங்கள் மாவட்டத்தின் இரண்டு சர்க்கரை ஆலைகளும் தனியார் துறையில் இயங்குகின்றன. பெரியார் மாவட்டத்தில் அதிகப்படியான கரும்பும் விளைகிறது. எனவே அங்கே கூட்டுறவுத் துறையில் ஒரு ஆலைக்கு அனுமதி வழங்குவதாக மாண்புமிகு முதலவர் அவர்கள் அறிவித்திருக்கிறார்கள். அதற்கு நன்றி தெரிவித்து, கூட்டுறவுத் துறையில் ஒரு சர்க்கரை ஆலையும் ஒரு நூற்பாலையும் துவங்க வருங்காலத்திலாவது அரசு ஆவண செய்யுமா என்று அறிய விரும்புகிறேன்.
 
 **மாண்புமிகு கலைஞர் மு. கருணாநிதி :** மாண்புமிகு உறுப்பினர் திரு. திருநாவுக்கரசு அறந்தாங்கியை விட்டுக் கொடுத்தால் அது உங்கள் தொகுதியில் வைக்கப்படும்.
+
+---
+
+# English translation
+
+> **Translation note:** This is a faithful English rendering of the verified Tamil transcription above. It preserves the source-page sequence, parliamentary speaker changes and interventions, names, figures, quotations, technical terminology, and the source's unusual or internally inconsistent claims without substituting external historical corrections. Terms printed in English or transliterated from English in the Tamil source are retained or rendered consistently with their source form. This Gate F translation is complete but has not yet passed the separate Gate G fidelity review.
+
+### Source page 62
+
+**Speech: 3**  
+**Date: 03.05.1989**
+
+**Hon. Kalaignar M. Karunanidhi:** Hon. Speaker, in today's demand concerning industrial development, the leaders and members of the Opposition parties and the members of the ruling party have placed their considered views before the House. I wish to offer just one clarification regarding the remark made by our friend Mr Thirunavukkarasu, Deputy Leader of the Opposition, about taking decisions. He said that the Chief Minister would take a decision quickly. He knows that, as far as possible, I do not change decisions once taken. Even recently, in connection with the golden jubilee of this great House, when a decision was taken to honour former members, former Speakers and Deputy Speakers, a list was prepared on the basis that they should have served in this House for fourteen or fifteen years. At the time it was about to be published, my dear friend Thirunavukkarasu and another dear friend K.K.S.S.R. spoke to you, to me and to the Secretary, saying, “We have been here four times; therefore our names too should be included in that list.” As he himself mentioned, I took a quick decision and requested you that their names also be included immediately in that list—
+
+### Source page 63
+
+and you generously accepted it. Because of them, another ten persons subsequently obtained a place in that list. But today I hear that they have decided not to participate in that function. So this is the value they attach to that generosity. When decisions are taken with the intention that they should be good decisions, I understand the unfortunate position in which they are unable to carry those decisions through. Even so, the decision you took is a decision. Even if they do not come and grace the function, Anna said, “Long live, wherever you are”; as his younger brothers, we convey our good wishes to them wherever they may be. (Sound of desk-thumping.) Since he thundered here about decisions... . . . . .
+
+**Hon. Speaker:** Along with the greetings, send those gift articles to their homes as well.
+
+**Hon. Kalaignar M. Karunanidhi:** I do not know whether they will receive them. If they are unable to come, the gifts may be sent to their homes; if they say they cannot come, sending them becomes difficult. Earlier, when the silver jubilee of independent India was celebrated and copper plaques were to be presented to freedom fighters, newspapers carried advertisements saying that copper plaques would be presented to Perunthalaivar Kamaraj, Thanthai Periyar and Rajaji. Rajaji wrote to me: “I read in the newspaper that there is a copper plaque for me too. I will send someone; please give it to him to bring back.” Even when no function had been arranged for presenting those copper plaques, such was his greatness that he wrote, “I will send a man; give it to him and send it.”
+
+### Source page 64
+
+But I took them myself and went to Thanthai Periyar's residence, Perunthalaivar Kamaraj's residence and likewise Rajaji's residence, and placed those copper plaques in their hands. Therefore, however many differences and differences of opinion there may be, when they themselves have established a new convention in such public functions, I regret that after accepting that convention a situation has arisen that makes one wonder whether they asked to be included only so that they could later refuse in this manner. I say this in advance because, after I speak today on this Industries demand, it should not later be said that I spoke wrongly on some point and that, because the Chief Minister spoke in such a manner, they are boycotting the function. That is why I found it unavoidable to place here in advance the information they had already announced. I believe our friends Thirunavukkarasu and K.K.S.S.R. will certainly understand my emotion and feeling.
+
+I wish to give a few explanations regarding the views expressed in the Industries demand. Although it has become late, I have to place before the House some important views and make some announcements concerning the Industries Department.
+
+Generally, during the election period, Ministers who came from the Centre repeatedly carried on a campaign that industrial prosperity had shrunk and declined during the twenty years of rule by the Dravidian parties. Whether the explanations given by our friend Thirunavukkarasu and those I am about to give constitute a sufficient answer is another—
+
+### Source page 65
+
+matter. Even so, it is not the case that nothing at all took place. There may have been shortcomings in what was done; there may have been hesitation and delay. Therefore, I am duty-bound to show that the allegation that nothing happened during the twenty years of rule by the Dravidian parties is a false one.
+
+It was in this very House, in 1957, that Perarignar Anna, when he was the leader of the Dravida Munnetra Kazhagam group—not even Leader of the Opposition; the Leader of the Opposition at that time was V.K. Ramasamy Mudaliar—spoke to the then Chief Minister Perunthalaivar Kamaraj. Anna said: “Take positively our cry that Tamil Nadu is being neglected, that the South is being neglected; use even us as an example and obtain Tamil Nadu's needs.”
+
+For eighteen years—from 1949, during those eighteen years in Opposition—the history of the Dravida Munnetra Kazhagam repeatedly citing, on platforms, in journals and at seminars, evidence that Tamil Nadu needed industrial growth, that industrial growth was increasing in the northern States and that it was lacking here, is not something that can be forgotten.
+
+At that time, under Anna's leadership, when the Dravida Munnetra Kazhagam raised its voice for Neyveli lignite, Cauvery-basin oil, the Sethu Samudram project and Salem iron, that voice was also ridiculed. People mocked us by saying, “If they build, they say it is gold; if they dig, they say it is iron.”
+
+### Source page 66
+
+But when we now see that the views voiced then by the Dravida Munnetra Kazhagam under Anna's leadership have led to a second lignite mine at Neyveli, and that the time when they mocked talk of oil in the Cauvery basin as though something was wrong with us has changed into a situation where oil is still gushing from the Cauvery basin and arrangements exist to extract it, no one can forget the period when, even before coming to power, the Dravida Munnetra Kazhagam was a movement that raised its voice for Tamil Nadu's industrial development, and the Delhi Government was compelled to respect that voice and come forward to give industries to Tamil Nadu.
+
+Our friend Varadarasan of the Marxist Communist Party, while speaking here, pointed out that Central Government investment in this State was very low, expressed his anguish and placed his condemnation before the House.
+
+If I give one set of statistics, it will be both astonishing and painful.
+
+In 1969-70, Central Government industrial investment in Andhra State—I am not speaking of State Government industrial investment—was Rs. 98 crore. In 1986-87 it was Rs. 6,761 crore, 69 times higher. In Maharashtra, Central Government investment was Rs. 120 crore in 1969-70 and Rs. 10,905 crore in 1986-87, that is, 91 times higher. In Gujarat, Central Government investment was Rs. 97 crore in 1969-70 and Rs. 3,179 crore in 1986-86, that is, 33 times higher. In Punjab, it was Rs. 34 crore in 1969-70 and Rs. 641 crore in 1986-87, 19 times higher.
+
+### Source page 67
+
+In Rajasthan, it was Rs. 34 crore in 1969-70 and Rs. 780 crore in 1986-87, 23 times higher. In Uttar Pradesh it was Rs. 154 crore in 1969-70 and Rs. 3,913 crore in 1986-87, 25 times higher. In Tamil Nadu, Central Government investment was Rs. 311 crore in 1969-70 and Rs. 3,018 crore in 1986-87—only about 10 times higher. Andhra: 69 times; Maharashtra: 91 times; Gujarat: 33 times; Punjab: 19 times; Rajasthan: 23 times; Uttar Pradesh: 25 times; but Tamil Nadu alone: only 10 times from 1969 to 1987. These figures therefore reinforce the truth behind the arguments made here—that year after year Central Government investment in our State has been very low. As far as the State Government is concerned, if industrial development is to be mentioned, it was during the Dravida Munnetra Kazhagam Government that the foundation stone for the Salem steel plant was laid and its work commenced. I remember it very well; nobody who read the newspapers then could have forgotten it. After I assumed office as Chief Minister following Arignar Anna, I attended the National Development Council meeting in Delhi and strongly pressed for the Salem project. Because it was not included in the Fourth Five-Year Plan at that time, I declared, on behalf of all the people of Tamil Nadu, that I rejected the Fourth Plan as presented. Even Mr C.S., who was then a Minister at the Centre, expressed regret to me that I had spoken so sharply. But the very next week after I spoke in that manner, Mother Indira Gandhi announced the Salem steel plant project, called me immediately to Delhi, and placed that announcement in my hands—
+
+### Source page 68
+
+The steel-plant project won through such a struggle is today no longer a steel-plant project; it has become merely a rolling-mill project. We must not forget that. I state here that this Government will not rest until it is converted once again into a steel-plant project.
+
+Likewise, efforts taken during the Dravida Munnetra Kazhagam Government to establish a second thermal power station at Neyveli succeeded. Similarly, the Mettur and Tuticorin thermal power stations were started during the Kazhagam Government. To mention one figure: when the Kazhagam assumed office in 1967, electricity generation was 1,470 MW. In 1976 it was 2,364 MW, an increase of 894 MW. Though I state that power generation has now risen to 3,900 MW, it is still not sufficient; we cannot forget the disruptions and difficulties in generation and the hardships they have caused today to farmers and others in this State.
+
+Just as the first Neyveli project began under the Congress Government, no one should forget that the Kalpakkam power-station project too was initiated earlier while the Dravida Munnetra Kazhagam Government was in office here.
+
+Not only that: the SPIC fertiliser factory, one of the largest fertiliser plants in Asia, was established in the joint sector during the period of the Dravida Munnetra Kazhagam Government. From 1969 to 1976, this Government established 23 factories in the public and joint sectors. Their total investment was about—
+
+### Source page 69
+
+Rs. 300 crore. Before 1967 the State Government's investment in the public sector was Rs. 14.54 crore; from 1968 to 1976 the total public-sector investment was Rs. 40.92 crore. This included Asbestos pipe, Asbestos sheet, Ariyalur cement, Arakonam steel and the second stage of Alankulam cement.
+
+The principle of the Joint Sector—that is, the joint sector—was introduced for the first time in India in Tamil Nadu during the Kazhagam Government. As a result, today there are more than forty industrial undertakings in that joint sector. A structure of 26 per cent Government, 25 per cent private and 49 per cent public shareholding is what is called the Joint Sector. To encourage certain industries, during the Kazhagam Government the Small Industries Development Corporation, SIDCO—Small Industries Development Corporation—was established in 1971. To establish medium industries, provide the basic requirements for large industries and help obtain the necessary financial support, SIPCOT—the State Industries Promotion Corporation of Tamil Nadu—was established during the Kazhagam Government in 1971. SIPCOT continues to assist industrial development together with TIDCO, the Tamil Nadu Industries Development Corporation, which had been established under the Congress Government before 1967. Together, TIDCO and SIPCOT have facilitated capital of about Rs. 1,400 crore. The number of industries started by TIDCO in the public sector so far is 10. Of these ten, two were started before 1967, five between 1969 and 1975, and three during the subsequent thirteen years. Of these three, only the explosives factory established at Katpadi is now in production. The magnesium metal factory started at Vali—
+
+### Source page 70
+
+nokkam and the ammonium nitrate factory planned to be started at Katpadi have still not commenced; I am duty-bound to bring this fact to the notice of the Hon. members.
+
+The present number of joint-sector industries is 43. Of these, 23 factories were started between 1969 and 1976 and are functioning. Of the remaining twenty, 10 factories were started during the previous Government and are in operation; another 10 remain at the initial stage. Out of a total investment of Rs. 921 crore in the public and joint sectors, TIDCO's investment alone is Rs. 92 crore. The remaining amounts are supplied by financial institutions and the public. Despite investing Rs. 92 crore, because adequate dividend or profit share has not been obtained, the Government has been placed in a position where it must reconsider this investment policy.
+
+As I said already, TIDCO's investment is 26 per cent, private investment 25 per cent and the public share 49 per cent. TIDCO's total investment so far at 26 per cent is Rs. 92 crore. If a large factory is to be established, still more capital is required. For this, between Rs. 25 crore and Rs. 30 crore a year would have to be allotted, and the Government itself would have to allot that money to TIDCO. But instead of being in a position to allocate Rs. 30 crore, the financial position permits the Government to invest only about Rs. 6 crore. Therefore, in this situation TIDCO is unable to invest 26 per cent in joint-sector projects—
+
+### Source page 71
+
+Other States have faced the same position and altered their investment percentages. Taking those examples into account, hereafter the Government's share in such industrial ventures will be only 11 per cent. For some industrial ventures, the old Joint Sector model will continue. Under the 11 per cent model, this will function under the source term “Associate Sectary,” that is, an encouraging or promotional sector. Therefore, even in several industrial projects already operating in the joint sector, it has been decided that, where necessary, the 26 per cent investment may be reduced and the undertaking may function as an Associate Sector project with an 11 per cent investment. Taking back investment made in the joint sector is disinvestment. That is what the Hon. member Thirunavukkarasu referred to here; I will come to it later. The policy of “disinvestment” has now been examined and it has been decided to implement it in some industrial undertakings. Agreements entered into in the joint sector provide for such withdrawal of investment. If the Government has invested 26 per cent in a joint-sector undertaking, the agreement provides for withdrawing it. The amount can be recovered and invested in another industry, while the private party takes over and runs the sector; the Government initially gives it as an incentive amount for the preliminary work. That is what Thirunavukkarasu asked about. He asked: when you accept this, how did you earlier condemn the sale by this Government of a factory at Karaikudi? I wish to explain that difference. Tamil Nadu Chemical Products at Karaikudi was started in the joint sector during the Kazhagam Government. When that industry—
+
+### Source page 72
+
+was started, the Government and a private party named Ananthasamy participated in the joint sector. I am not going into the details because there is no need. After the A.D.M.K. Government came to power in 1977, the Government itself acquired all the shares held by that private party and the Government's share rose to 62 per cent. Thus it had virtually become a public-sector industry. This was not a case where the private party held 25 per cent and the Government 26 per cent and the Government then withdrew. After the Government itself had acquired the industry from the private party and it became a public-sector undertaking, the Government came forward to sell it; that alone was the ground for criticism. Not only that: the Finance Secretary at the time wrote page after page in the file saying it should not be sold. Even after it was sold, the Accountant General pointed out page after page the errors that had occurred and showed that it had been sold irregularly. What is more striking is that, among the Government's industries, the factory at Karaikudi was the only one earning an annual income of Rs. 1 crore. The question was whether such a factory should be sold; nothing else. Therefore, I am duty-bound to state that there is a great difference between what they cited here and the policy I am now describing. I give this House the assurance that we will ensure that such mistakes do not occur under the present policy of “disinvestment.”
+
+Next, many members have expressed their views here on the policy note concerning TAMIN, a Government-related undertaking. I believe all members of the House would have read the small—
+
+### Source page 73
+
+booklet containing those views. Even so, it is my duty to underline one or two points. In 1983, when our late Hon. M.G.R. was Chief Minister, the Government acquired about 36,000 acres of land containing these stones and rocks with the intention of bringing them under public ownership for TAMIN. Though 36,000 acres were acquired, TAMIN initially took only a little over 3,000 acres for its own use and began operations there. Did it complete the work even on those roughly 3,000 acres and remove the stone? No. It used only 2,500 acres for quarrying. When we compare what was quarried and exported by the private sector and by us, the difference is like that between a mountain and a hollow. That is why the policy note states that, over five or six years, a loss of Rs. 10 crore occurred because money that should have come to us did not come.
+
+When I say all this, nobody should think that I did it with the intention of discovering something merely in order to level an accusation. In November—that is, November 1988—the matter was brought to the Governor's notice and a committee was then appointed. That committee examined these matters and began bringing out the irregularities being practised in TAMIN. After they were brought out, no action was taken against that officer at that time. After this Government assumed office, action has been taken against the officer. Our—
+
+### Source page 74
+
+Mr P.H. Pandian said here that even that was not sufficient action. This is one step in the action. There are a second, third and fourth step still to follow. As the first step, however, he has been placed under temporary suspension. Further enquiry is another matter; further action is another matter. But when we see how these mistakes occurred, we truly have cause for great pain.
+
+In 1983-84, private parties quarried stone from the areas allotted to them, and we too quarried from the area acquired for TAMIN. There were two varieties: grey rock and black rock. When both the private sector and we exported grey rock, private parties exported lower-grade grey rock at 420 dollars per cubic metre. At the same time, our TAMIN exported higher-grade grey rock at 277 to 294 dollars per cubic metre. Private parties exported lower-grade rock at 420 dollars per cubic metre while we exported better-quality grey rock at only 277 to 294 dollars. That was in 1983-84.
+
+In 1984-85, for the same lower-grade grey rock, private exporters obtained 475 dollars per cubic metre, while we exported higher-grade grey rock at 258 to 269 dollars per cubic metre. In 1985-86, private exporters obtained 460 dollars per cubic metre for lower-grade grey rock, while our TAMIN exported higher-grade grey rock at 299 dollars per cubic metre. In 1986-87, the lower-grade rock exported by the private sector—
+
+### Source page 75
+
+fetched 475 dollars per cubic metre. Our TAMIN exported higher-grade grey rock at 404 to 427 dollars per cubic metre. In 1987-88, private exporters received 575 dollars per cubic metre for lower-grade grey rock; our TAMIN exported very high-grade grey rock at 512 to 538 dollars per cubic metre. That is the position with grey rock.
+
+In the case of black rock, the wrongdoing was even greater. In 1986-87 at Kunnangiramam—a place reputed to be among the best locations for these rocks—both TAMIN and private parties quarried black rock and exported it abroad.
+
+The rock quarried by TAMIN was of higher quality than that sent by private parties. Yet, for those exports in 1986-87, TAMIN received an average price of 714 dollars per cubic metre. In the same year, a private company called Gem Granites exported at 1,500 dollars per cubic metre—more than twice as much. We exported at 714 dollars per cubic metre; the private company exported at 1,500 dollars. Because of this alone, the loss in a single quarry in one year was Rs. 48 lakhs. In 1986, for rock from a quarry at Thiruvakkarai, a Japanese company called Orient Sangyo offered 1,281 dollars per cubic metre. But our TAMIN did not give it to them. Instead, it exported to Mitsubishi Corporation at 550 dollars per cubic metre—the same price at which it had supplied in 1982. Another party offered 1,281 dollars, but instead of supplying to that party, in 1986 the company supplied at 550 dollars using the 1982 price.
+
+### Source page 76
+
+Because of this, the loss in that one quarry alone was Rs. 41 lakhs. During the Governor's rule, after the old Managing Director was changed and a new Managing Director appointed—I tell you this—the November 1988 price for black rock of 714 dollars per cubic metre was changed, and in December it was raised to 2,050 dollars. The very stone sold in December at 2,050 dollars per cubic metre had been sold in the preceding month—November—at only 714 dollars per cubic metre. Even during the Governor's rule, if these steps had been taken continuously within a few months of assuming responsibility, a still larger amount might have accrued to the Government. Since action was taken only in November during that administration, only one month could be saved; I am duty-bound to state that too. Because of this malpractice, TAMIN has suffered a loss of Rs. 10 crore since 1983 in the 2,500 acres used so far. Not only that: a Global Tender means a tender invited from many parts of the world. Instead, the same individual to whom it was first given continued to receive it in the following year without a fresh tender, at prices lower than those obtained by private parties. On this basis, nobody can say that the public sector itself is bad. I am not making allegations against any Minister—he too said that at that time he was not the Minister for this department. We must therefore consider in what manner and to what extent those who administered this department, or those above the M.D. who encouraged him, carried out such major corruption in the department. But on this basis, can we conclude that the public sector itself—
+
+### Source page 77
+
+is unnecessary? No. The public sector itself is not bad. It is true that bad people can enter the public sector; that does not make the public sector itself bad. During the Governor's rule, a committee of three I.A.S. officers was constituted, and it decided that the land remaining after TAMIN's requirements could be given on lease licence to private parties who had factories. That is what our Thirunavukkarasu asked about: “What is your policy on nationalisation? You say bus nationalisation, but you say you will give this to private parties. What policy is this? Likewise you say sugar mills should be cooperative—what policy is that?” Today, no one throughout India can establish, in every matter, a policy of complete nationalisation. Even in the finest Communist countries, there is a place for the private sector; the private sector has not been completely abolished. What we must consider here is that the total area is 36,000 acres. That is no small amount. If TAMIN alone is to quarry all these 36,000 acres, it will not be completed in the lifetime of our grandchildren, nor even in that of our great-grandchildren or their great-grandchildren.
+
+We must not forget that. We must also consider whether we should lose the revenue that can now come to the Government. Whatever efforts we make, our nationalised TAMIN company cannot quarry all 36,000 acres. In ten years we have quarried only 2,500 acres. We cannot quarry all 36,000 acres. Not only that; I will tell you another fact. If we give it to a private party, for every cubic metre—
+
+### Source page 78
+
+for black stone the private party has to pay the Government Rs. 400 per cubic metre. They have to pay the concerned Panchayat Union Rs. 1,000 per cubic metre. If it is grey rock, they have to pay the Government Rs. 200 per cubic metre and the concerned Panchayat Union Rs. 500 per cubic metre. Through this, the Government will receive at least Rs. 10 to 15 crore in additional revenue. The concerned Panchayat Unions, taken together, will receive revenue of about Rs. 30 crore.
+
+Should we lose this in the name of a policy of nationalisation? That is what I ask. This is not a view opposed to nationalisation. Wherever nationalisation can be implemented today, we will not hesitate to implement it. At the same time, while adhering to the policy of nationalisation and until the Government itself gradually develops the capacity to carry out the sales and exports from nationalised areas, should we lose a situation in which temporarily giving these areas to private parties can yield about Rs. 15 crore a year to the Government and Rs. 30 crore to the concerned Panchayat Unions? It is only for this reason that I said the Government is seriously considering the matter. Thirunavukkarasu asked why a sudden decision had not been taken. Even on that day, when speaking on another matter, he corrected himself and said that this Government had not yet taken a decision and that it was a decision taken during the Governor's rule. I say the same even today. If these lands are to be given to private parties, we must examine the conditions under which they may be given; can they simply be given to everyone who asks? Some members said so while speaking here.
+
+### Source page 79
+
+I think it was our Mr Chokkar. I was completely charmed by Chokkar's speech, because, as I recall, three-fourths of it was in praise. He also gave some advice and raised a few matters worth examining. He said: “Why classify applicants on the basis of whether they have an industrial establishment or not? Why not give it to everybody?” Giving it indiscriminately to everybody is precisely what will lead to many harmful consequences. That is why, before making an immediate decision, the Government has announced that it is examining the conditions under which these lands may be given to responsible persons who have the facilities and opportunity to quarry systematically, export properly and operate the factories. I must say one more thing here.
+
+This is not a matter concerning Ministers. Therefore, none of our former Ministers need worry about it. But this must be said. I wish to say it to show the extent to which the secretaries around our former Chief Minister M.G.R. used him when he was in poor health.
+
+In Muduvathur near Tiruchi, the Government established in 1967 a small factory capable of producing 20 tonnes of cement a day, at an estimated cost of about Rs. 24 lakhs. In 1974 this factory was handed over to the Central Government's Cement Research Institute for conducting cement research. That mini—
+
+### Source page 80
+
+cement factory started in 1967, with a capacity of 20 tonnes, was handed over to the Central Government's Cement Research Institute. In 1983 that institute handed the factory over to the Tamil Nadu Cements Corporation. Since it could not operate it, a decision was taken to sell it to a private party, and in 1986 the Government invited tenders. The Government announced that the tenders should reach it by 18-7-1986. Four persons sent tenders. Who were those four? A. Gopalaran, Madras—Rs. 11.70 lakhs; M.S. Abdul Salam, Madras—Rs. 37.51 lakhs; Kedarnath Agarwal, Howrah—Rs. 44.44 lakhs; N. Palanisamy, Coimbatore—Rs. 45 lakhs. An expert committee appointed to fix the price had advised that the company could be sold for a minimum “upset price” of Rs. 43 lakhs. Among the four tenderers, Palanisamy offered the highest amount, Rs. 45 lakhs. The then Finance Secretary recorded in the file that it could be accepted. Accepting that view, the Industries Minister, Mr Rajaram, signed on 29-8-1986. Then, on 28.9.1986, Navalar Nedunchezhiyan signed “for the Chief Minister.” The Chief Minister was not here then; he was in America. I think he had gone for treatment for the second time. Two days after that signature—two days later—the Chief Minister returned to Madras on 30-9-86. As soon as he returned, the Secretary of the department wrote on 6-10-1986 that the Chief Minister wished to see the file. The file immediately came to the Chief Minister's office. The Secretary wrote; the file came to the Chief Minister's office. Was it sent to the Chief Minister immediately? No. It remained there for 4½ months—
+
+### Source page 81
+
+in the office. Was it shown to the Chief Minister or not? I do not know. It remained there for 4½ months. The file in which the tender had been accepted and a decision taken to give the mini cement factory to the highest bidder for Rs. 45 lakhs remained in the Chief Minister's room for more than 4½ months. The person who called for it was the Chief Minister's Secretary, Paramasivam. He wrote on the tender file: because a long period had passed since tenders were invited—so, they say, a long time had elapsed since the tenders were invited. Did time pass, or was it made to pass? Who kept it for 4½ months? After keeping it themselves, Secretary Paramasivam wrote that because a long time had passed since tenders were invited, fresh tenders could be called and action taken. Even then, I do not know whether there was any reason for the Chief Minister to know of this. On 24-2-87 he sent the file back to the department, that is, the Secretary wrote that the Chief Minister so desired and sent the file back to the department. Again, instead of leaving the cement factory idle, a recommendation was made that it could be returned to the Central Government's research institute as before, and on 28-5-87 the file was sent for obtaining the Chief Minister's order. It was sent on 28 May. The file remained in the Chief Minister's office until December, until the end of December, and returned only after his death. Thereafter, when the file came up for consideration during President's Rule, the Central research institute said it could not take over and run the cement factory, and therefore tenders were again invited. When those tenders were invited, offers came from five persons—
+
+### Source page 82
+
+The highest offer among them was Rs. 34 lakhs. Initially, there had been an offer of Rs. 45 lakhs; it had not been accepted. Now the highest tender was Rs. 34 lakhs, and on 30-12-88 Pioneer Engineering Syndicate of Hyderabad purchased it for Rs. 34 lakhs. By refusing to sell for Rs. 45 lakhs, delaying the matter, tossing the files about and never issuing an order, the sale of this factory resulted in a loss of Rs. 11 lakhs. Why? What was the reason? There was no reason. The person who first offered Rs. 45 lakhs was Pongalur Palanisamy, a friend well known to our Balasubramaniam, and he belonged to the Dravida Munnetra Kazhagam. That was the one and only reason. For that one reason this Government lost Rs. 11 lakhs. The Chief Minister's Secretary acted with that animosity, without even the Chief Minister's knowledge. This is why, when Thirunavukkarasu earlier asked, “Why did you change all these officers as soon as you came?” I now ask my friend Thirunavukkarasu: could I have left in office an officer who betrayed the Chief Minister in this manner? (Sound of desk-thumping.) Let that be. What can we do? We have spoken about what happened. Should we not now announce what is going to happen? I come to that stage.
+
+I wish to place before the House details of factories involving Rs. 236 crore which have been started but remain unfinished or in a half-complete condition.
+
+In the past, various efforts were undertaken for industrial development on the basis of licences obtained by TIDCO. Of these—
+
+### Source page 83
+
+some industries have been started and are being implemented. Realising that there was not enough speed and vigour in implementing them, this Government has taken several measures to complete those projects within a specified period.
+
+First, for the first time the Central and State Governments are undertaking a joint venture: a Jelly Filled Cables factory at Arakkonam in North Arcot district, with a capital of Rs. 22 crore, to manufacture telephone wire, cable and certain other equipment required for telephones. The State Government has provided the required land to the industrial undertaking. Of the total capital, the State Government will provide 25 per cent and the Central Government 26 per cent to establish this new undertaking. Work has already begun, and the Government is making efforts to complete it quickly.
+
+(2) A petrochemicals and plastics factory using Italian technology.
+
+TIDCO and U.P. Petro are jointly establishing a petrochemicals factory in the joint sector at Manali with a capital of Rs. 71 crore, and work is under way.
+
+(3) A company called Dynavision was started in 1972 while the Kazhagam was in office. It began producing television sets in 1975. Thereafter the company remained without expansion and undertook no modernisation. TIDCO therefore advised it to adopt certain modern equipment and methods in the production of television sets. Using American—
+
+### Source page 84
+
+technology, this company is joining TIDCO in the joint sector to establish near Gummidipoondi, with a capital of Rs. 40 crore, an electric-lamp manufacturing concern called “Diano Lamps.” The Government has now provided the capital contribution due from it. It may be described as a factory using a modern method in electric-lamp production. These lamps will require less electricity while giving somewhat more light.
+
+Fourth, using Spanish technology, TIDCO and a private company will jointly establish in the joint sector near Gummidipoondi a factory manufacturing “Mortar Plas,” with a capital of Rs. 4½ crore.
+
+At a time when multi-storeyed buildings are increasing, foreign countries use a material called “Mortar Plas” on the upper surfaces of such buildings to prevent water from collecting because of rain and storms, causing damage, and to prevent water leakage. Efforts are now under way to obtain the technology for manufacturing such a material from Spain and to establish, near Gummidipoondi with a capital of Rs. 4½ crore, a factory in the joint sector between TIDCO and a private company. Arrangements have been made for the factory to be established shortly and begin production.
+
+(5) The “Titan” watch factory at Hosur in Dharmapuri district, established with French technology and a capital of Rs. 54 crore.
+
+TIDCO and the Tata company jointly manufacture watches in this joint-sector factory.
+
+### Source page 85
+
+This factory meets 52 per cent of India's total requirement for watches. The “quartz” watches manufactured by it are the highest-selling watches in India. The undertaking had been importing under licence the watch “cases,” the housings required for the watches. It has now obtained permission to manufacture those “cases” here itself; therefore, during this year, with a capital of Rs. 30 crore, the factory manufacturing the cases will be completed and begin production.
+
+(6) Soybean oil production factory.
+
+TIDCO in the joint sector and the Sakthi company have jointly established near Pollachi, with a capital of Rs. 27 crore, a factory to produce soybean oil from soybean seeds, which are rich in “protein.” It has been decided that the 90,000 tonnes of soybean seeds required each year should be produced in this State, and the project is moving towards that target.
+
+(7) At Madurantakam in Chengai-Anna district, a “Reliance Ceramics” factory is to be established with a capital of Rs. 17 crore. TIDCO and a company called “Light Roofing” will jointly establish in the joint sector, with a capital of Rs. 17 crore, the Reliance Ceramics factory to manufacture glazed floor and wall tiles.
+
+(8) On the road from Vellore to Vaniyambadi in North Arcot district, a leather-tanning factory has been started in the joint sector with a capital of Rs. 1.6 crore to tan leather and manufacture various products from it. It is now—
+
+### Source page 86
+
+nearing completion. The Government will make arrangements for this factory to begin production within this year itself.
+
+Apart from these eight factories, the Government has decided to increase the production capacity of two factories already taken up by TIDCO in the joint sector and to alter their production percentages.
+
+(9) At Cuddalore in South Arcot district, with a capital of Rs. 19 crore, there is an artificial-sweetener factory. TIDCO, together with a Calcutta-based company called “Ustade,” has established in the joint sector a company called “Bio-Tech,” and this factory will manufacture artificial sweetener using starch obtained from tapioca as its base material. This is a new venture.
+
+(10) At Denkanikottai near Hosur, the Sangam Aluminium factory was established in the joint sector with an investment of Rs. 6.14 crore. Its capital has now been increased to Rs. 10.35 crore. Production has also been increased from 4,000 metric tonnes to 7,000 metric tonnes. It manufactures aluminium sheets and strips. Steps are being taken to accelerate this production too.
+
+The total capital relating to the ten industrial undertakings mentioned above is Rs. 236.8 crore.
+
+Next, the oil refinery established by the Central Government is now carrying out its operations. R.G.P. Enterprise is making efforts to implement a naphtha cracker project with an investment of about Rs. 1,000 crore. Since the naphtha required is not available in sufficient quantity in India, the entire quantity we require must be imported from abroad—
+
+### Source page 87
+
+Using that imported naphtha, the company's operating plan is to implement the project as a one-hundred-per-cent export-oriented undertaking. I am happy to inform the House that the company has recently completed discussions on this with the Tamil Nadu Government. (Sound of desk-thumping.) As soon as the Central Government gives the necessary approval, our Government will make the arrangements required to establish this project in Tamil Nadu.
+
+The reason is that the establishment of such a major industry, particularly a petrochemical industry, creates opportunities for many related industries to develop. Since this will contribute to the State's economic advancement and employment opportunities, the Government is giving the matter its full attention.
+
+Next, industrial centres. Our Thirunavukkarasu expressed great disappointment: “You said something about them in the Budget, but we see nothing.” Responsibility for establishing the industrial centres recently announced by the Central Government has been entrusted to SIPCOT. The Central Government has allotted three locations to Tamil Nadu. The purpose of these industrial centres is to encourage industrial development and progress in backward areas. They can be established on the basis of conditions such as widespread poverty in an area, unemployment and a low standard of living with limited amenities.
+
+Although industrial estates already exist in places such as Hosur, Ranipet and Manamadurai, the Central Government has said, “Write to us suggesting six places; from those we will select and send approval for three.”
+
+### Source page 88
+
+They too asked, “With Rs. 25 crore, what is this talk of three places or six places? One place itself requires Rs. 30 crore.” The question is valid. But since the Central Government will provide the amount for this, our Rs. 25 crore is not the amount to be spent for that purpose; I am duty-bound to clarify this. Even so, we are recommending six locations to the Central Government. One is near Mayiladuthurai, near Tarangambadi and Poompuhar. One is in the suburban area adjoining Erode in Periyar district; one in the suburban area of Tirunelveli; one in Madurai district between Tirumangalam and Virudhunagar; one in Tiruchi district near Jayankondam and Ariyalur; and one at Omalur in Salem district. Establishing one centre will cost between Rs. 25 crore and Rs. 30 crore. We will press the Central Government to establish all six centres. If they say they can provide only three, we will accept that and the State Government will undertake efforts to establish the remaining three centres; I am happy to inform the House of this. (Sound of desk-thumping.)
+
+As I mentioned at the outset, the prospects for finding oil and natural gas along the Cauvery belt, in the Thanjavur and South Arcot areas, have increased greatly. Using this as raw material, we have prepared a project for establishing an oil refinery with a capacity of five lakh tonnes a year and sent it to the Central Government for consideration. This oil refinery will most probably be established at a place called Panangudi near Nannilam. This oil—
+
+### Source page 89
+
+refinery will create a favourable environment for industrial development in Thanjavur and South Arcot districts.
+
+Next, many members have spoken here about the sugar industry. The total number of sugar mills presently in Tamil Nadu is 27. There are 12 mills in the cooperative sector, 3 in the public sector and 12 in the private sector. Last year the Central Government granted permission for 9 new mills: 4 in the cooperative sector and 5 in the private sector. Mr Thirunavukkarasu said that all the private-sector mills had begun while the cooperative-sector mills had not. I trust the Deputy Leader of the Opposition knows very well that even in the private sector, with regard to the mill sanctioned in Thanjavur district, no preliminary work has yet begun. The cooperative mills at Cheyyar and Chidambaram have already begun efforts to start work. When the Cheyyar cooperative mill comes up, people of that region are raising the demand that Polur too should have a mill. Echoing all those voices, our Mr Latheef asked here for a sugar mill at Polur. Fortunately, I am satisfied that he asked for Polur rather than Chepauk. It is not possible in the financial position of this year. I convey to Mr Latheef the sweet news that in future a sugar mill will come to Polur too.
+
+Work to start sugar mills at two places, one in Dharmapuri district and one in Pudukkottai district, has begun this year.
+
+### Source page 90
+
+In Dharmapuri there was a fierce contest between two MLAs over where it should be started. Therefore, choosing a place between the two MLAs, the sugar mill will be established at a village called Gopalapuram in Harur taluk—considering it a very special place. Gopalapuram lies in the Harur constituency, a Marxist Communist Party MLA's constituency. But all the sugarcane cultivators for it are in the Morappur constituency, that is, in the constituency of the D.M.K. member. In Pudukkottai district it is proposed to establish it at Aranthangi. Let us see.
+
+**Mr S. Thirunavukkarasu:** Hon. Speaker, licences were obtained for four factories in the public and cooperative sectors, and two have been started. The Hon. Chief Minister has stated the location of one of them. In Pudukkottai district, at Nagudi in Aranthangi, the site-selection work for establishing a cooperative sugar mill has already been completed. But from what the Hon. Chief Minister has now said, I am worried as the MLA of that constituency. If it is started at Nagudi, it will be convenient for sugarcane to come from nearby Pattukkottai and Peravurani. That area is a C.M.P. area. In one part of Aranthangi there is access to Cauvery water; likewise it is available in the Peravurani and Pattukkottai areas. Therefore that is the suitable place. I request the Hon. Chief Minister to announce that it will be established there without changing the location. There is now an attempt to shift it elsewhere for political reasons. When the Hon. Chief Minister says, in a manner that appears to confirm this, “We will see,” I am worried that it may leave that constituency—
+
+### Source page 91
+
+The licence itself has been obtained for Nagudi. Therefore I request the Hon. Chief Minister to announce that it will be established there.
+
+**Hon. Kalaignar M. Karunanidhi:** Hon. Speaker, Mr Thirunavukkarasu knows very well that I have never had a narrow outlook. The problem is that officials say there is no water facility there. Even so, I will personally come, inspect the place and see whether the mill can be established there. Whether, as the MLA, he will be able to come with me, whether permission will be available or not, I do not know. (Laughter.) I feel sorry for him. The policy of this Government regarding sugar mills... .... .... ....
+
+**Hon. Speaker:** What was mentioned here was only that many people are going without food. (Laughter.)
+
+**Hon. Kalaignar M. Karunanidhi:** Hon. Speaker, the policy of this Government concerning sugar mills has been that they should be established in the public sector and the cooperative sector. Therefore, as all the members have pointed out here and as stated in the policy note, I state categorically that all sugar mills to be established in future will be in the cooperative sector.
+
+The greatest problem concerning sugar mills is pollution control. They have spoken about pollution control. They have also spoken about leather factories—
+
+### Source page 92
+
+The Government is implementing schemes costing several lakhs of rupees to remove that pollution and the problems caused by effluent water. I inform the House that those schemes will be implemented very vigorously, very shortly, even within this year.
+
+Finally, I must give the House one piece of happy news. This Government had already initiated a project to establish a thermal power station in North Madras. Under the plan, the first stage consists of three units of 210 MW, the second stage two units of 210 MW, and the third stage two units of 500 MW, making a total thermal power capacity of 2,050 MW. The Central Electricity Authority approved the first-stage power project in March 1984 and the Central Planning Commission approved it in April 1987. In 1984 its cost was estimated at Rs. 547 crore. Because so much time has now passed, the revised estimate is Rs. 721 crore. This is a revised estimate caused by delay. The amount of Rs. 541 crore has, because of the delay, become a revised estimate of Rs. 721 crore. The Asian Development Bank has come forward to provide financial assistance of 150 million dollars for the first two plants under the project—that is, Rs. 225 crore in Indian currency. Because they came forward, we have continued to pay interest from that time until now. The State Government has been placed in the unfortunate position of having to pay interest from the time they came forward. For this project, work to acquire 2,171 acres in Ennore and Puzhuthivakkam villages of Chengai-Anna district began in 1986. But about a thousand acres belonging to the V.G. Panneerdas company—
+
+### Source page 93
+
+and 117 acres belonging to the Christian Nagar Sangam are situated there. They challenged the acquisition of the land under the revenue administration and filed a case in the High Court. That case was dismissed. They went to the Supreme Court. For the past two years that case too has been proceeding without any result. As soon as this Government assumed office, discussions were held with them. They refused outright. They said they wanted to establish “Wonder Land” there. Their elder brother's dream was to establish Wonder Land, and therefore they said they could not give the land. I said: your elder brother's dream is “Wonder Land.” Do you know what our Anna's dream is? To enable the people of Tamil Nadu to live. For that, electricity is needed. I therefore “insisted, insisted, insisted”—our Kumari Ananthan, our literary treasure, often says things three times. There are certain meanings contained in each “insisted”; I do not wish to say them outside. So, on my “insisting, insisting, insisting,” and on my requesting, requesting, requesting (Laughter), they have now withdrawn the case from the Supreme Court. I am therefore extremely happy to inform all of you that work on this project will begin at this site in the first week of June. Having placed before you so many announcements that can give you happiness, I wish to make clear that the views expressed here were not intended to hurt anyone. Whatever has happened may have happened; what happens henceforth should be good. Tamil Nadu should become a land overflowing with industrial prosperity—
+
+### Source page 94
+
+For that, I seek everyone's cooperation. Since this is a Government of the workers, I wish to point out that this Government will also call industrialists for talks and grant them every kind of concession required to create industrial peace. I also state that the concessions granted by the Governor will take statutory form. The Government has encouraged industry in every way; in that spirit I ask you too to encourage it and contribute to its growth, and I humbly request that the cut motions you have moved be withdrawn.
+
+**Mr S. Thirunavukkarasu:** Hon. Speaker, it is already 3 o'clock. I will finish quickly. One small problem. There are about 80 or 85 factories manufacturing plastic bags in Tamil Nadu. Because of the jute lobby, an order has been issued from Delhi that everything must be packed in jute bags. As a result, 60 factories have been affected. About 50,000 workers are employed in them. They are small factories. In Aranthangi alone there are 10 factories. That is the problem; there are factories in other places too. Of these, 60 factories have been closed. Representatives of that association have even met the Hon. Chief Minister and explained their problems. They have taken loans from SIPCOT and TIIC. Because the units are closed, these small factories are suffering losses and the workers are unemployed. Therefore, a committee may be appointed to enquire into the matter and see what remedy can be found for them.
+
+Secondly, if an order is issued requiring the cement factories, sugar factories and others here to purchase from units in Tamil Nadu, instead of buying from other States, and to give those Tamil Nadu units priority—
+
+### Source page 95
+
+those small industrialists will be saved and the workers too will obtain employment. The Hon. Chief Minister should consider this. A committee may be appointed to enquire into it.
+
+Next, when the Chief Minister's statement appears in the newspapers, it should not be wrongly reported that I and Mr K.K.S.S.R. asked for a concession. I am duty-bound to respond to that. In the matter of honouring MLAs, when the decision is based on 13 years, a person elected three times is enough to receive the honour and becomes eligible. We have been elected four times, yet we did not appear in the list of senior members entitled to that recognition; that is why we asked. Our not attending is a decision of the party. The reason we asked was a right—not a concession—a right. Because we were elected four times, it is a right. We asked that it be recognised. That is all. On the matter I raised first, I request the Hon. Chief Minister to appoint a committee and enquire into it.
+
+**Hon. Kalaignar M. Karunanidhi:** Thank you for the first request you placed. It will be considered. For what you said last, you have my sympathy.
+
+**Mr R. Singaram:** Hon. Speaker, as our Hon. Chief Minister stated here, I convey my wholehearted and heartfelt thanks for proposing to establish a sugar mill at Nagudi in Pudukkottai district, in the constituency of our former Minister Mr Thirunavukkarasu. At the same time, if for unavoidable reasons it cannot be located at Nagudi, nearby Peravurani has abundant—
+
+### Source page 96
+
+facilities. I wish to know whether the Government will make efforts to establish it there.
+
+**Mr S. Thirunavukkarasu:** Hon. Speaker, I request the Chief Minister to consider this kindly. Even after I ceased to be a Minister, I went to Delhi seven times. In my personal capacity as a former Minister, I met Mr Lakshmi Ratan, who was then Joint Director, repeatedly explained the matter to him, met officials and Ministers and obtained the permission. Please establish it there.
+
+**Mrs A.S. Ponnammal:** Hon. Speaker, our Hon. Chief Minister has announced many schemes here. But an industrial complex over a thousand acres in Madurai district had already been sanctioned, sites had been examined, and finally—I do not know what misfortune occurred, Sir—the previous Government decided not to proceed with it. When we learn this from the department, it is very distressing. They had identified a thousand acres at a place called Sembatti and said they would begin it. I request our Hon. Chief Minister to consider Dindigul—what district is it? (Interruption.) Quaid-e-Millath Dindigul district is a very backward district...
+
+**Hon. Speaker:** It is not your fault. Time is like that.
+
+**Mrs A.S. Ponnammal:** Will the Government take steps to start an industrial complex there over a thousand acres?
+
+**Hon. Kalaignar M. Karunanidhi:** Hon. Speaker, at prize-giving functions there is a first prize, a second prize and a third—
+
+### Source page 97
+
+prize. If it is not possible to give someone one of those prizes, there is also what is called a consolation prize. The lady member will have a consolation prize.
+
+**Mr P. Srinivasan:** Hon. Speaker, agriculture is being damaged by dust from the Alangulam cement factory, and the industry too is suffering losses. When the Ariyalur factory is taken up for modernisation, I wish to know whether the Alangulam cement plant too will be included with it.
+
+**Hon. Kalaignar M. Karunanidhi:** It will be considered.
+
+**Mr S.R. Balasubramaniam:** Hon. Speaker, there is a severe power shortage in Tamil Nadu to an extent that affects industrial development. Therefore, to remove the power shortage, ignoring the false propaganda of imperialist-capitalist countries, will the Tamil Nadu Government extend assistance to the nuclear power station that the Government of India proposes to establish at Kudankulam with Soviet Union assistance, and help it come up quickly?
+
+**Hon. Kalaignar M. Karunanidhi:** If my friend gives an assurance that Kudankulam will remove the power shortage by tomorrow itself, I inform the House that the Kudankulam power station will be established tonight itself.
+
+**Mr V.K. Chinnasamy:** Hon. Speaker, it was earlier stated that orders had been issued to start a cooperative spinning mill in the Bhavanisagar area of Periyar district, and that when the Industries Minister was changed, that too was changed. Periyar district produces a great deal of cotton. Large numbers of farmers—thousands, lakhs—produce it. The cotton produced there—
+
+### Source page 98
+
+is bought even by people from other States who come from Tiruppur. We have information that the mill has gone to Pudukkottai. Therefore, while requesting that a cooperative spinning mill be established in our area, I also point out that both sugar mills in our district operate in the private sector. Periyar district also produces large quantities of sugarcane. The Hon. Chief Minister has announced that permission will be given for one mill there in the cooperative sector. I thank him for that and wish to know whether, at least in future, the Government will take steps to start both a cooperative sugar mill and a cooperative spinning mill.
+
+**Hon. Kalaignar M. Karunanidhi:** If the Hon. member Mr Thirunavukkarasu gives up Aranthangi, it will be located in your constituency.
