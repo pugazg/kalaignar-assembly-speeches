@@ -78,51 +78,58 @@ Final first-pass transcript commit: `d61e938659da1f41bb9188608835146e4f980556`.
 
 ### Gate D — passed
 
-The full-speech completeness audit has passed:
+The full-speech completeness audit confirmed exactly **37** unique, monotonic source-page markers, **62–98**, no mapped page skipped or duplicated, correct opening/ending boundaries, final parliamentary interventions represented and no unresolved marker.
 
-- exactly **37** source-page markers, **62–98**;
-- markers unique and monotonic;
-- no mapped page skipped or duplicated;
-- p.62 opening matches the locked Speech 3 start;
-- p.98 ends with Kalaignar's reply to `திரு. வி. கே. சின்னசாமி` followed by the decorative floral ending ornament;
-- p.99 directly checked and begins `உரை : 4 / நாள் : 18.04.1990`;
-- parliamentary interventions through pp.94–98 are represented;
-- explicit unreadable/`[REVIEW]` markers: **0**.
+Gate-D verification-log commit: `32823326403fc8560880ac21257d7c7f3ebac881`.
 
-Gate-D/status commits:
+### Gate E — passed
 
-- metadata: `5200d5f14c016374626eb7ee28fa47979a795432`
-- README: `7b30fce84a2427ae29328c072fe5a24aabe1f109`
-- source notes: `d927c4cc93ab301cb43057c463a50d60c63e4302`
-- verification log / Gate D: `32823326403fc8560880ac21257d7c7f3ebac881`
+A strict direct visual/source-fidelity audit was completed against **every controlling scan image p.62 through p.98**. The review checked words/characters, names/initials, dates, numerals, percentages, monetary values/units, printed English/transliterations, headings, speaker labels/interventions, punctuation where legible, and page-transition continuity.
+
+Four concrete first-pass discrepancies were corrected:
+
+1. scan p.73: `கருத்தக் கூடாது` → `கருதக் கூடாது`;
+2. scan p.94: `சுவரார் அளித்த சலுகைகளும்` → `கவர்னர் அளித்த சலுகைகளும்`;
+3. scan p.96: `பரிசீலிப்பு விழாக்களில்` → `பரிசளிப்பு விழாக்களில்`;
+4. scan p.97: `கூடங்குளம் போகும்` → `கூடங்குளம் போக்கும்`.
+
+Visibly printed unusual forms were retained rather than silently repaired, including `1986-86-ல்`, `அசோசியேட் செக்டரி`, `வெளிக் கொணரத் தலைப்பட்டது`, the p.92 `547` / `541` estimate inconsistency, and the repeated p.93 wordplay.
+
+Gate-E sequential commits:
+
+- verified transcript: `56716121b7535a3ba22475135e10ae93e4c3c22f`
+- verified metadata: `08d81282eef4bc3ffaf694d94727eecd4ecc96c2`
+- README/status: `0c231a9622bef8895ed57062f9bb122525ed6529`
+- source notes: `281d36a5c07c39c2e9a84838091092815a33d76b`
+- verification log / final Gate-E state: `523d7cbf26b1d0e605c5abe65a85974559983cbb`
 
 Current Speech 3 status:
 
 - Tamil first-pass: **complete**
 - Gate D completeness: **passed**
-- Tamil status: **transcribed**
-- unresolved Tamil readings: **0 explicitly flagged**
-- Gate E strict visual/source-fidelity verification: **not started**
-- English translation: **blocked / not started**
+- Gate E strict source-fidelity verification: **passed**
+- Tamil status: **verified**
+- unresolved Tamil readings: **0**
+- English translation: **not started**
+- Gate F: **next**
 - root README speech index / `data/speeches.json`: **not updated for Speech 3**
 
-## Immediate next action — Gate E
+## Immediate next action — Gate F English translation
 
-Perform a strict direct page-by-page visual/source-fidelity audit of the complete canonical Tamil against the controlling scan for **scan pp.62–98 / printed pp.61–97**.
+Translate the **final verified Tamil only** for Speech 3 and append the English layer after the complete Tamil in `transcript.md`.
 
-For Gate E:
+For Gate F:
 
-1. Read current `transcript.md`, `metadata.json`, `source-notes.md` and `verification-log.md` before editing.
-2. Re-read every scan image p.62 through p.98 directly; scan images control all readings.
-3. Compare the canonical Tamil page by page, checking words/characters, names/initials, dates, numerals, percentages, monetary values/units, printed English/transliterations, headings, speaker labels/interventions, punctuation where legible, and page-transition continuity.
-4. Correct every concrete discrepancy in `transcript.md` and document the corrections in `verification-log.md`.
-5. Do not silently modernise or repair source wording that is visibly printed, even when unusual.
-6. If a reading remains genuinely uncertain, leave an explicit review marker rather than guessing.
-7. Only after all pp.62–98 are directly checked may Tamil status become `verified`.
-8. English remains blocked until Gate E passes.
-9. Do not begin Speech 4.
+1. Read the current Speech 3 `transcript.md`, `metadata.json`, `source-notes.md` and `verification-log.md` from `main` before editing.
+2. Translate from the verified canonical Tamil, not OCR and not an earlier first-pass draft.
+3. Preserve source sequence and parliamentary context, including speaker changes/interventions, quotations, names, figures, dates, percentages, monetary values and technical terms.
+4. Preserve source claims and period terminology rather than silently correcting them from outside historical knowledge.
+5. Keep source-page correspondence in the English layer, following the established Speech 2 precedent.
+6. Do not begin Gate G until the full English translation is complete.
+7. Do not update root release/index files until the English translation has passed Gate G.
+8. Do not begin Speech 4.
 
-After Gate E passes, the next workflow stage will be Gate F English translation from the final verified Tamil.
+After Gate F, perform Gate G by re-reading the complete English against the final verified Tamil before marking English `verified`.
 
 ## Content to leave untouched
 
