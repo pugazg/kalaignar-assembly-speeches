@@ -13,67 +13,81 @@ This log tracks Speech 2 as a multi-batch transcription. `in-progress` is used l
 
 **Completed:** PDF scan pp. **27–41** / printed pp. **26–40**  
 **Batch size:** 15 scan pages  
-**Speech state:** partial
+**Speech state after batch:** partial
 
-The first-pass transcription was read from the scan images, not taken from OCR as canonical text. Printed English embedded in the Tamil speech was retained, including:
+The first-pass transcription was read from the scan images, not taken from OCR as canonical text. Printed English embedded in the Tamil speech was retained, including the poverty-line sentence, Comptroller and Auditor-General material and the Government of India letter-of-intent passage.
 
-- `High proportion of people in Tamil Nadu are below the poverty line.` on scan p.28;
-- `Comptroller and Auditor-General of India` and `Tamilnadu Sugarcane Farm Corporation` on scan p.31;
-- the Government of India letter-of-intent passage on scan p.40.
+## 3. Tamil first-pass batch 2
 
-## 3. Batch page-marker audit
+**Completed:** PDF scan pp. **42–56** / printed pp. **41–55**  
+**Batch size:** 15 scan pages  
+**Cumulative completed range:** scan pp. **27–56** / printed pp. **26–55**  
+**Speech state after batch:** partial
 
-**Status:** passed for the completed batch only
+This batch preserves the printed parliamentary exchanges involving the chair, `கலைஞர் மு. கருணாநிதி`, `மாண்புமிகு திரு. எஸ். திருநாவுக்கரசு`, `திரு. க. அன்பழகன்`, `திரு. கே. எஸ். ஜி. ஹாஜாஷெரீப்`, `திரு. துரைமுருகன்`, and `திரு. என். எஸ். வி. சித்தன்`, as printed.
 
-`transcript.md` contains exactly these source-page markers:
+Printed English source text is retained rather than translated or normalised, including:
 
-`27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41`
+- `Bagasse`;
+- `Not Feasible`;
+- `Interest free sales tax loan`;
+- `IDBI refinancing`;
+- the full scan-p.54 passage headed `THIRU K.S.G HAJA SHAREEF`.
+
+## 4. Cumulative page-marker audit
+
+**Status:** passed for the completed first-pass range only
+
+`transcript.md` contains exactly **30** source-page markers, covering:
+
+`27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56`
 
 Checks:
 
-- [x] 15 markers are present;
+- [x] 30 markers are present;
 - [x] markers are monotonic;
 - [x] no duplicate marker appears;
-- [x] no page in the completed 27–41 batch is skipped;
-- [x] scan p.27 start contains the expected `உரை : 2 / நாள் : 16.04.1981` boundary;
-- [x] scan p.41 is retained as an intentionally partial sentence ending;
-- [x] Speech 2 is not presented as complete.
+- [x] no page in the completed 27–56 range is skipped;
+- [x] Speech 2 is still presented as partial / `in-progress`;
+- [x] scan p.56 is retained as an intentionally partial sentence ending.
 
-This is a batch-integrity check, **not** the full-speech Tamil completeness audit.
+This is a batch-integrity check, **not** the full-speech Tamil completeness audit and **not** strict visual verification.
 
-## 4. Batch transition notes
+## 5. Batch-2 transition notes
 
-The following page continuations were preserved rather than silently rewriting sentence boundaries:
+The following source-page continuations are preserved explicitly:
 
-- p.28 → p.29: `அதிகாரிகளால்` → `சுட்டிக்காட்டப்பட்டு கூட...`
-- p.29 → p.30: `வேலை` → `வாய்ப்பைப் பெற்றிருக்கிறார்கள்...`
-- p.30 → p.31: `புள்ளி` → `விவரங்கள் "Comptroller and Auditor-General of India"...`
-- p.31 → p.32: `பெரம்பலூர்` → `சுகர் மில்ஸ் லிமிடெட்...`
-- p.32 → p.33: `பலரால்` → `எடுத்துக் காட்டப்பட்டது.`
-- p.33 → p.34: `தமிழகத்திற்கு வேண்டும்` → `என்று எப்படி கேட்பது?`
-- p.34 → p.35: `எழுச்சி நாள்` → `கொண்டாடினோம்.`
-- p.35 → p.36: `ஆக்கிவிட்டோமோ` → `என்று ஐயத்தக்க அளவிற்கு...`
-- p.36 → p.37: `மிகப்` → `பெரிய, முதல் முதல் ஒரு பெரிய...`
-- p.38 → p.39: `அறிவித்து விட்டு,` → `ஆனால் அது 1983-84ம் ஆண்டிலேதான்...`
-- p.39 → p.40: `மாநில திட்டக் குழுவின்` → `6வது திட்ட அறிக்கையிலே...`
-- p.40 → p.41: `இதற்கு` → `மேலான விவரங்கள்...`
+- p.41 → p.42: `ஒரு மனு` → `கொடுத்தார்கள். அண்ணா அவர்கள் 6.12.1968-ல்...`
+- p.42 → p.43: `தீதா கிருஷ்ணன் என்கிற` → `முன்னாள் தொழில்துறை செயலாளருக்கு மேல்;`
+- p.43 → p.44: `புறப்` → `ஆகியிருக்கிறது.`
+- p.44 → p.45: `இதைத்` → `தொடங்குவதற்குமுன்பு...`
+- p.45 → p.46: `வட பகுதியில் அவர்கள்` → `தொழிலைத் துவங்க விரும்புகிறார்கள்;`
+- p.46 → p.47: `தமிழக` → `அரசோடு அவர்கள் தொடர்பு கொண்டு...`
+- p.47 → p.48: `தர நீங்கள்` → `ஒப்புக்கொள்ளவில்லை.`
+- p.48 → p.49: `அவர்கள்` → `போயிருக்கிறார்கள்.`
+- p.49 → p.50: `இந்த அரசு` → `தரவில்லை என்பதுதான் காரணம்.`
+- p.50 → p.51: `இத்தனை ஏக்கர் இடம் வேண்டுமென்று` → `சொல்கிறார்கள்.`
+- p.51 → p.52: `எந்த, எந்த` → `நேரத்திலே...`
+- p.52 → p.53: `மாண்புமிகு ஜனாதிபதி` → `அவர்களும், ரயில்வே அமைச்சரும்...`
+- p.54 → p.55: `என்று தெரிந்த` → `உடனே அல்லது இங்கே இருந்து...`
+- p.55 → p.56: `என்று` → `சொல்கிறார்கள்.`
 
-## 5. Exact continuation point
+## 6. Exact continuation point
 
-Current canonical first-pass text stops at the end of scan p.41:
+Current canonical first-pass text stops at the end of scan p.56:
 
-`... கூட்டுத்துறையில் ஒரு நிறுவனத்தை ஆரம்பிக்க வேண்டுமென்று ஒரு மனு`
+`... தமிழ்நாட்டிலும் சில நிறுவனங்களில் தனியார் சிலர் தலைவர்களாக நியமிக்கப்`
 
-Scan p.42 begins:
+Scan p.57 begins:
 
-`கொடுத்தார்கள். அண்ணா அவர்கள் 6.12.1968-ல்...`
+`பட்டிருக்கிறார்கள். இது ஒன்றும் புதியது அல்ல. திரு. டாண்டன்...`
 
-**Next transcription action:** begin at scan p.42 and continue with the next bounded batch, recommended pp.42–56.
+**Next transcription action:** begin at scan p.57 and complete the final first-pass batch through scan p.61.
 
-## 6. Current status
+## 7. Current status
 
-- Completed scan pages: **27–41**.
-- Pending scan pages in Speech 2: **42–61**.
+- Completed scan pages: **27–56**.
+- Pending scan pages in Speech 2: **57–61**.
 - Tamil first-pass status: **in-progress**.
 - Full-speech completeness audit: **not yet eligible**.
 - Separate strict page-by-page visual/source-fidelity verification: **not completed**.
@@ -81,4 +95,4 @@ Scan p.42 begins:
 - English translation: **blocked / not started**.
 - Root release index update: **not eligible while partial**.
 
-No status in this file should be read as a claim that pp.27–41 have already passed the repository's later `verified` gate.
+No status in this file should be read as a claim that pp.27–56 have already passed the repository's later `verified` gate.

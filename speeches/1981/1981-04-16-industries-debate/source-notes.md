@@ -28,20 +28,30 @@ The repository's completed structural map locks this unit as:
 | PDF scan pages | **27–61** |
 | Printed pages | **26–60** |
 
-No contradictory boundary evidence was found while reading the first batch.
+No contradictory boundary evidence was found while reading the first two batches.
 
 For this speech the page relationship is:
 
 `PDF scan page = printed page + 1`
 
-## First bounded batch
+## Completed bounded batches
 
-This commit transcribes only **scan pp.27–41 / printed pp.26–40**.
+### Batch 1
+
+Transcribed **scan pp.27–41 / printed pp.26–40**.
 
 - Start: scan p.27 visibly prints `உரை : 2`, `நாள் : 16.04.1981`, and `கலைஞர் மு. கருணாநிதி :` before the speech begins.
-- End of current batch: scan p.41 ends mid-sentence with `ஒரு மனு`.
-- Continuation evidence: scan p.42 begins `கொடுத்தார்கள். அண்ணா அவர்கள் 6.12.1968-ல்...`.
-- The p.41→42 continuation is intentionally not merged into this batch; the next batch begins at scan p.42.
+- Batch boundary: scan p.41 ends with `ஒரு மனு`; scan p.42 continues `கொடுத்தார்கள். அண்ணா அவர்கள் 6.12.1968-ல்...`.
+
+### Batch 2
+
+Transcribed **scan pp.42–56 / printed pp.41–55**.
+
+- The p.41→42 continuation is preserved across explicit page markers rather than rewritten as a new sentence.
+- The batch contains multiple printed parliamentary interventions and an English speech passage headed `THIRU K.S.G HAJA SHAREEF` on scan p.54; these are retained in the Tamil source layer.
+- End of current batch: scan p.56 ends mid-sentence with `நியமிக்கப்`.
+- Continuation evidence: scan p.57 begins `பட்டிருக்கிறார்கள். இது ஒன்றும் புதியது அல்ல. திரு. டாண்டன்...`.
+- The p.56→57 continuation is intentionally left for the final first-pass batch.
 
 ## Source-supported speaker information
 
@@ -60,11 +70,11 @@ The opening `பேரவைத் தலைவர் அவர்களே` is 
 7. Mark genuinely unreadable material for review rather than guessing.
 8. Treat running headers and printed page numbers as page furniture, not repeated speech text.
 
-Several unusual-looking source forms are intentionally retained in the first pass rather than silently normalised, including period spellings/transliterations and source phrasing such as `வாங்கலை`, pending the later strict visual verification gate.
+Several unusual-looking source forms are intentionally retained in the first pass rather than silently normalised, including period spellings/transliterations, printed English, and source-specific forms such as `வாங்கலை`, `ஜாயிண்ட் செக்டார்`, `Not Feasible`, `Interest free sales tax loan`, `IDBI refinancing`, and the printed `::` before `பர்ஸ்ட் ஸ்டேஜ்` / `பெர்டிலைசர்ஸ்`, pending the later strict visual verification gate.
 
 ## Current scope and gates
 
-The first-pass text now contains source-page markers **27 through 41 inclusive**. This is only 15 of the speech's 35 scan pages.
+The first-pass text now contains source-page markers **27 through 56 inclusive**. This is 30 of the speech's 35 scan pages.
 
 Therefore:
 
@@ -73,4 +83,4 @@ Therefore:
 - a separate strict full-speech visual/source-fidelity verification has not yet been completed;
 - English translation remains **blocked**.
 
-No explicit `[REVIEW]`/unreadable marker is currently present in this batch. That means only that the first pass did not leave an unresolved placeholder; it is not a claim of verification.
+No explicit `[REVIEW]`/unreadable marker is currently present in the completed first-pass batches. That means only that the first pass did not leave an unresolved placeholder; it is not a claim of verification.

@@ -31,28 +31,28 @@
 
 ## தற்போதைய transcription batch
 
-- Completed first-pass scan pages: **27–41**
-- Corresponding printed pages: **26–40**
-- Batch size: **15 scan pages**
-- Next scan page: **42**
+- Completed first-pass scan pages: **27–56**
+- Corresponding printed pages: **26–55**
+- Completed batches: **2 × 15 scan pages**
+- Next scan page: **57**
 - Speech state: **partial / in-progress**
 
-Scan p.41 ends mid-sentence with `ஒரு மனு`. Scan p.42 continues `கொடுத்தார்கள். அண்ணா அவர்கள் 6.12.1968-ல்...`. The continuation is deliberately left for the next bounded batch.
+Batch 2 covers scan pp.42–56 / printed pp.41–55. Scan p.56 ends mid-sentence with `நியமிக்கப்`. Scan p.57 continues `பட்டிருக்கிறார்கள். இது ஒன்றும் புதியது அல்ல. திரு. டாண்டன்...`. The continuation is deliberately left for the final first-pass batch.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — partial Tamil first-pass transcription, scan pp.27–41, with source-page markers.
+- [`transcript.md`](./transcript.md) — partial Tamil first-pass transcription, scan pp.27–56, with source-page markers.
 - [`metadata.json`](./metadata.json) — source, page-range and status metadata.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries, batch boundary and transcription policy.
 - [`verification-log.md`](./verification-log.md) — batch first-pass record and page-marker audit; strict full-speech verification has not yet begun.
 
 ## தற்போதைய நிலை
 
-- Tamil first-pass transcription: **in progress** — pp.27–41 complete; pp.42–61 pending.
+- Tamil first-pass transcription: **in progress** — pp.27–56 complete; pp.57–61 pending.
 - Full-speech Tamil completeness audit: **not yet eligible**.
 - Strict Tamil visual/source-fidelity verification: **not started** as a separate full-speech gate.
 - Tamil status: **in-progress**.
-- Explicit unresolved-reading markers in this batch: **none currently flagged**; this does not imply verification.
+- Explicit unresolved-reading markers in the completed first-pass batches: **none currently flagged**; this does not imply verification.
 - English translation: **blocked / not started**.
 - Root release index / `data/speeches.json`: **not updated** while Speech 2 remains partial.
 

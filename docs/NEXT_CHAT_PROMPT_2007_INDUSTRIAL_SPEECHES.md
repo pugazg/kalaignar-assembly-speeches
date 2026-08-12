@@ -32,28 +32,31 @@ Speech 2:
 
 ### Already completed
 
-Tamil first-pass transcription is complete for **scan pp.27–41 / printed pp.26–40**.
+Tamil first-pass transcription is complete for **scan pp.27–56 / printed pp.26–55**, in two 15-page batches.
 
+- Source-page markers: **27–56 inclusive, 30 unique monotonic markers**
 - Tamil status: **in-progress**
 - Speech is still partial
+- Pending first-pass pages: **57–61**
 - Full-speech completeness audit has not begun
 - Strict full-speech visual verification has not been completed
+- Explicit unresolved-reading placeholders: none currently flagged; this is not a verification claim
 - English translation is blocked / not started
 - Do not update root release indexes while the speech is partial
 
-Exact current ending on scan p.41:
+Exact current ending on scan p.56:
 
-`... கூட்டுத்துறையில் ஒரு நிறுவனத்தை ஆரம்பிக்க வேண்டுமென்று ஒரு மனு`
+`... தமிழ்நாட்டிலும் சில நிறுவனங்களில் தனியார் சிலர் தலைவர்களாக நியமிக்கப்`
 
-Scan p.42 continues:
+Scan p.57 continues:
 
-`கொடுத்தார்கள். அண்ணா அவர்கள் 6.12.1968-ல்...`
+`பட்டிருக்கிறார்கள். இது ஒன்றும் புதியது அல்ல. திரு. டாண்டன்...`
 
 ## Next bounded batch
 
-Proceed directly with **Tamil first-pass transcription of scan pp.42–56 / printed pp.41–55**.
+Proceed directly with the **final Tamil first-pass transcription of scan pp.57–61 / printed pp.56–60**.
 
-Append to the existing `transcript.md`; do not redo pp.27–41 unless a concrete first-pass correction is identified from the scan.
+Append to the existing `transcript.md`; do not redo pp.27–56 unless a concrete first-pass correction is identified from the scan.
 
 Maintain/update:
 
@@ -80,8 +83,8 @@ Mandatory sequence:
 
 `Tamil first-pass → full-speech completeness audit → strict visual/source-fidelity verification → Tamil verified → English translation → English fidelity verification → release/index update`
 
-Because pp.57–61 will still remain after this next batch, Speech 2 must remain **in-progress** after pp.42–56. English must remain blocked.
+After pp.57–61 are transcribed, the Tamil first pass will be complete, but do **not** immediately mark the speech `verified` and do **not** begin English translation. First run the full-speech completeness audit across pp.27–61; then perform the separate strict page-by-page visual/source-fidelity verification required by the repository workflow.
 
-At the end give an exact handover with files changed, pages completed, continuation point, Tamil status, unresolved readings, translation status, commit SHA and exact next action.
+At the end give an exact handover with files changed, pages completed, continuation/end point, Tamil status, unresolved readings, translation status, commit SHA and exact next action.
 
 ---

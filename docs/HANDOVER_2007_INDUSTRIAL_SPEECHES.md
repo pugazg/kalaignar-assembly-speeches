@@ -69,8 +69,15 @@ Do not alter Speech 1 while processing Speech 2 unless explicitly requested.
 
 ### Batch 1 completed
 
-- Tamil first-pass pages completed: **scan pp.27–41 / printed pp.26–40**
-- Source-page markers present: **27 through 41 inclusive**
+- Tamil first-pass pages: **scan pp.27–41 / printed pp.26–40**
+- Batch size: **15 scan pages**
+
+### Batch 2 completed
+
+- Tamil first-pass pages: **scan pp.42–56 / printed pp.41–55**
+- Batch size: **15 scan pages**
+- Cumulative first-pass range: **scan pp.27–56 / printed pp.26–55**
+- Source-page markers present: **27 through 56 inclusive (30 unique, monotonic markers)**
 - Speech state: **partial**
 - Tamil status: **in-progress**
 - Full-speech completeness audit: **not yet eligible**
@@ -79,25 +86,25 @@ Do not alter Speech 1 while processing Speech 2 unless explicitly requested.
 - English translation: **blocked / not started**
 - Root release index / `data/speeches.json`: **not updated** while partial
 
-The first batch includes the source's printed English passages as source text, including the poverty-line sentence, Comptroller and Auditor-General reference, and the Government of India letter-of-intent passage.
+Batch 2 preserves the source's printed member interventions and printed English passages, including `Bagasse`, `Not Feasible`, `Interest free sales tax loan`, `IDBI refinancing`, and the full `THIRU K.S.G HAJA SHAREEF` passage on scan p.54.
 
 ### Exact continuation point
 
-Scan p.41 ends:
+Scan p.56 ends:
 
-`... கூட்டுத்துறையில் ஒரு நிறுவனத்தை ஆரம்பிக்க வேண்டுமென்று ஒரு மனு`
+`... தமிழ்நாட்டிலும் சில நிறுவனங்களில் தனியார் சிலர் தலைவர்களாக நியமிக்கப்`
 
-Scan p.42 begins:
+Scan p.57 begins:
 
-`கொடுத்தார்கள். அண்ணா அவர்கள் 6.12.1968-ல்...`
+`பட்டிருக்கிறார்கள். இது ஒன்றும் புதியது அல்ல. திரு. டாண்டன்...`
 
-Do not re-transcribe pp.27–41 in the next batch unless correcting a specifically identified first-pass issue.
+Do not re-transcribe pp.27–56 in the next batch unless correcting a specifically identified first-pass issue.
 
 ## Immediate next action
 
-Continue **Speech 2 Tamil first-pass transcription with scan pp.42–56 / printed pp.41–55** as the next bounded batch.
+Complete the **final Speech 2 Tamil first-pass batch: scan pp.57–61 / printed pp.56–60**.
 
-After that, the final first-pass batch should cover **scan pp.57–61 / printed pp.56–60**. Only when all pp.27–61 are represented should the full-speech completeness audit begin.
+After pp.57–61 are represented, run the **full-speech Tamil completeness audit across scan pp.27–61**. Do not begin English translation yet. The later strict page-by-page visual/source-fidelity review must still be completed before Tamil can be marked `verified` and before English translation is unblocked.
 
 ## Mandatory workflow
 
