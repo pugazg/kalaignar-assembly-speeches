@@ -28,38 +28,33 @@ Speech 1 (`1963-03-21-industries-debate`) and Speech 2 (`1981-04-16-industries-d
 - Canonical ID: `1989-05-03-industries-debate`
 - Full scan range: **62–98**
 - Printed pages: **61–97**
-- Current gate: **Gate C — Tamil first-pass transcription**
-- Completed first-pass scan pages: **62–91**
-- Completed printed pages: **61–90**
-- Tamil status: **in-progress**
-- Explicit unresolved-reading markers: **0 currently flagged**; this does not imply verification
-- Gate D: **not yet eligible**
+- Gate C: **complete**
+- Gate D: **passed**
+- Tamil status: **transcribed**
+- Explicit unresolved-reading markers: **0**
 - Gate E: **not started**
 - English: **blocked / not started**
-- Final batch-2 Speech-3 state commit: `9e99d34323e1c52921a5db921310e7f24d2b63df`
+- Final first-pass transcript commit: `d61e938659da1f41bb9188608835146e4f980556`
+- Gate-D verification-log commit: `32823326403fc8560880ac21257d7c7f3ebac881`
 
-Important continuation evidence:
+Gate D confirmed exactly **37** source-page markers, unique and monotonic from **62 through 98**. Scan p.98 ends Speech 3 with Kalaignar's reply to `திரு. வி. கே. சின்னசாமி` followed by the decorative ending ornament; scan p.99 begins `உரை : 4 / நாள் : 18.04.1990`.
 
-- scan p.91 ends mid-sentence with `தோல் தொழிற்சாலை`;
-- scan p.92 continues `பற்றிக்கூட சொன்னார்கள். அந்த மாசுகளையும் ...`.
+## Next action — Speech 3 Gate E
 
-## Next action — Speech 3 Gate C, final first-pass batch
+Perform a strict direct page-by-page visual/source-fidelity audit of the complete Tamil transcription against scan pp. **62–98**.
 
-Continue directly with:
-
-- scan pp. **92–98**
-- printed pp. **91–97**
-
-1. Fetch/read the existing Speech 3 `transcript.md`, `metadata.json`, `source-notes.md`, `verification-log.md` and `README.md` from current `main` before editing.
-2. Render/read scan pp.92–98 from the attached source; scan images control every reading.
-3. Append Tamil only, preserving explicit `<!-- source-page: N -->` markers.
-4. Preserve printed wording, period spelling, punctuation, numerals, quotations, speaker changes/interventions, technical terms and printed English. Do not silently modernise or repair unusual source forms.
-5. If a reading is genuinely uncertain after direct visual inspection, leave an explicit review marker rather than guessing.
-6. Update Speech 3 support files to the exact completed range and ending boundary.
-7. Once p.98 is transcribed, run Gate D across the full scan range **62–98**: confirm exactly **37** source-page markers, unique and monotonic; no mapped page skipped/duplicated; correct p.62 start and p.98 ending; interventions preserved; unresolved readings explicit.
-8. Do not begin Gate E or English translation until Gate D is complete and the next Tamil step is explicitly established.
+1. Fetch/read current `transcript.md`, `metadata.json`, `source-notes.md`, `verification-log.md` and `README.md` from `main` before editing.
+2. Re-read every scan image p.62 through p.98 directly; scan images control every reading.
+3. Compare each canonical source-page section against its scan, checking words/characters, names/initials, dates, numerals, percentages, monetary values/units, printed English/transliterations, headings, speaker labels/interventions, punctuation where legible, and page-transition continuity.
+4. Apply every concrete correction to `transcript.md` and document every correction in `verification-log.md`.
+5. Preserve visibly printed unusual source forms; do not silently modernise or historically correct them.
+6. If a reading remains genuinely uncertain, leave an explicit review marker rather than guessing.
+7. Only after all pp.62–98 are directly checked may Tamil status become `verified`; update metadata/README/source notes accordingly.
+8. English translation remains blocked until Gate E passes.
 9. Do not begin Speech 4.
 
-At the end, update `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` with exact pages completed, current gate, Tamil status, unresolved readings, English status, files changed, commit SHA and exact next action.
+After Gate E passes, the next workflow stage is Gate F English translation from the final verified Tamil.
+
+At the end, update `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` with exact pages reviewed, corrections made, Tamil status, unresolved readings, English status, files changed, commit SHA and exact next action.
 
 ---
