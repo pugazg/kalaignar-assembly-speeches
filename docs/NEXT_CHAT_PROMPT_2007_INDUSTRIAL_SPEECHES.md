@@ -15,7 +15,7 @@ Before doing any work, read current `main` versions of:
 - `sources/2007-industrial-speeches/mapping.md`
 - `speeches/1989/1989-05-03-industries-debate/`
 
-Treat those files as controlling instructions. The scan image is authoritative; OCR is not canonical.
+Treat those files as controlling instructions. The scan image is authoritative for the Tamil source layer; the final Gate-E-verified Tamil is authoritative for English fidelity. OCR is not canonical.
 
 ## Completed released work
 
@@ -32,36 +32,37 @@ Speech 1 (`1963-03-21-industries-debate`) and Speech 2 (`1981-04-16-industries-d
 - Gate D: **passed**
 - Gate E: **passed**
 - Tamil status: **verified**
-- Explicit unresolved-reading markers: **0**
-- English: **not started**
-- Verified transcript commit: `56716121b7535a3ba22475135e10ae93e4c3c22f`
-- Gate-E final verification-log commit: `523d7cbf26b1d0e605c5abe65a85974559983cbb`
+- Explicit unresolved Tamil readings: **0**
+- Gate F: **complete**
+- English status: **complete-unverified**
+- Gate G: **next / not started**
+- Gate-F transcript commit: `cc844648fa3c220b2c721f4177d6e572f58d66a8`
+- Gate-F final verification-log commit: `25469c85158c56cca96e95c8a93b45326f5346ea`
 
-Gate E directly checked every scan page **62–98** and corrected four first-pass discrepancies:
+Gate F translated the complete final verified Tamil and appended the English layer after it in `transcript.md`. The English has explicit `### Source page N` correspondence for exactly **37 pages, 62 through 98**, and retains the parliamentary sequence, speaker changes/interventions, quotations, figures and technical terminology. It is not yet verified.
 
-- p.73 `கருத்தக் கூடாது` → `கருதக் கூடாது`;
-- p.94 `சுவரார் அளித்த சலுகைகளும்` → `கவர்னர் அளித்த சலுகைகளும்`;
-- p.96 `பரிசீலிப்பு விழாக்களில்` → `பரிசளிப்பு விழாக்களில்`;
-- p.97 `கூடங்குளம் போகும்` → `கூடங்குளம் போக்கும்`.
+Source forms and inconsistencies that must remain visible in the fidelity review include:
 
-Visibly printed unusual source forms and inconsistencies were retained rather than editorially repaired. No unresolved Tamil reading remains.
+- `1986-86-ல்` in the Gujarat investment comparison;
+- `அசோசியேட் செக்டரி`, reflected in the provisional English as the source term “Associate Sectary”;
+- the p.92 sequence printing `547 கோடி` and later `541 கோடி` before the `721 கோடி` revised estimate;
+- the repeated `வலியுறுத்தி` / `கேட்டுக்கொண்டதன் பேரில்` wordplay on p.93;
+- printed laughter and desk-thumping markers and all final interventions.
 
-## Next action — Speech 3 Gate F English translation
+## Next action — Speech 3 Gate G English fidelity verification
 
-Translate the **final verified Tamil only** and append the English translation after the complete Tamil source layer in `transcript.md`.
+Perform a strict page-by-page fidelity review of the complete English translation against the **final verified Tamil** for source pages **62–98**.
 
 1. Fetch/read current Speech 3 `transcript.md`, `metadata.json`, `source-notes.md`, `verification-log.md` and `README.md` from `main` before editing.
-2. Translate from the final verified Tamil, not OCR and not an earlier draft.
-3. Preserve the complete argumentative/source sequence and parliamentary context.
-4. Preserve speaker changes/interventions, quotations, names, initials, dates, numerals, percentages, monetary values, units, printed-English passages and technical/transliterated terms consistently.
-5. Do not silently correct historical claims, source inconsistencies or period terminology.
-6. Follow the established Speech 2 English-layer precedent, including source-page correspondence through **62–98**.
-7. Complete the full English translation before starting Gate G.
-8. Do not update root release/index files yet.
-9. Do not begin Speech 4.
+2. Compare each English `### Source page N` section directly against the corresponding verified Tamil `<!-- source-page: N -->` section.
+3. Check every page for completeness and fidelity of meaning, speaker attribution, parliamentary interventions, quotations, names and initials, dates, numerals, percentages, monetary values and units, industrial terminology and page-transition continuity.
+4. Verify that source anomalies and period terminology are preserved rather than silently corrected from external knowledge, especially `1986-86-ல்`, `அசோசியேட் செக்டரி`, the p.92 `547` / `541` inconsistency and the p.93 repeated wordplay.
+5. Correct every concrete English fidelity discrepancy in `transcript.md` and document every correction in `verification-log.md`.
+6. Confirm exactly **37** English source-page headings, unique and monotonic from **62 through 98**, with no omission, duplication or spillover into Speech 4.
+7. Only after all 37 pages have been directly checked may English status become `verified`; update metadata/README/source notes accordingly.
+8. After Gate G passes, proceed to Gate H release/index by updating the root README and `data/speeches.json` following the Speech 2 precedent.
+9. Do not begin Speech 4 before Speech 3 Gate H is complete.
 
-After Gate F, perform Gate G by re-reading the complete English page by page against the final verified Tamil. Only after Gate G passes may English become `verified` and Speech 3 proceed to Gate H release/index.
-
-At the end, update `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` with English translation status, files changed, commit SHA and exact next action.
+At the end, update `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` with the Gate-G corrections, English status, files changed, commit SHA and exact Gate-H action.
 
 ---
