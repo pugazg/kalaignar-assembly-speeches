@@ -39,33 +39,48 @@ The complete Tamil transcription covers **scan pp.62–98 / printed pp.61–97**
 
 Gate D full-speech completeness audit passed with exactly **37** unique, monotonic source-page markers, **62 through 98**, no skipped or duplicated mapped page, correct opening/ending boundaries and all printed interventions represented.
 
-Gate E then re-read **every scan page 62–98 directly against the canonical Tamil**. The audit checked individual words/characters, names and initials, dates, numerals, percentages, monetary values and units, printed English/transliterations, headings, speaker labels/interventions, punctuation where legible and page-transition continuity.
-
-Four concrete first-pass discrepancies were corrected:
+Gate E then re-read **every scan page 62–98 directly against the canonical Tamil**. Four concrete first-pass discrepancies were corrected:
 
 1. scan p.73: `கருத்தக் கூடாது` → `கருதக் கூடாது`;
 2. scan p.94: `சுவரார் அளித்த சலுகைகளும்` → `கவர்னர் அளித்த சலுகைகளும்`;
 3. scan p.96: `பரிசீலிப்பு விழாக்களில்` → `பரிசளிப்பு விழாக்களில்`;
 4. scan p.97: `கூடங்குளம் போகும்` → `கூடங்குளம் போக்கும்`.
 
-No unresolved Tamil reading remains. The Tamil status is now **verified**.
+No unresolved Tamil reading remains. Tamil status is **verified**.
+
+## Gate F — English translation
+
+The complete English translation has now been appended **after the verified Tamil source layer** in `transcript.md`.
+
+Gate F covers the full source sequence **62–98** and preserves:
+
+- source-page correspondence for all **37** pages;
+- parliamentary speaker changes and interventions;
+- names and initials as represented by the verified Tamil;
+- dates, numerals, percentages, monetary values and units;
+- quotations, laughter/table-thumping markers and page-transition continuities;
+- industrial terminology, printed-English terms and unusual source claims without silently replacing them with outside historical corrections.
+
+The English translation is **complete but unverified**. Gate G, a separate page-by-page fidelity review against the final verified Tamil, is required before English may be marked `verified`.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — complete verified Tamil transcription, scan pp.62–98, with explicit source-page markers.
-- [`metadata.json`](./metadata.json) — source, full range, Gate-D/Gate-E and status metadata.
-- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries, bounded batches and verification notes.
-- [`verification-log.md`](./verification-log.md) — Gate-C batch records, Gate-D completeness audit and Gate-E strict visual verification.
+- [`transcript.md`](./transcript.md) — complete verified Tamil plus complete Gate-F English translation, both preserving source-page correspondence.
+- [`metadata.json`](./metadata.json) — source, full range, Tamil verification and English translation status metadata.
+- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries, verification and translation policy notes.
+- [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D, Gate-E and Gate-F workflow records.
 
 ## தற்போதைய நிலை
 
 - Tamil first-pass transcription: **complete**.
-- Full-speech Tamil completeness audit (Gate D): **passed**.
-- Strict Tamil visual/source-fidelity verification (Gate E): **passed for scan pp.62–98**.
+- Gate D Tamil completeness: **passed**.
+- Gate E Tamil source-fidelity verification: **passed for scan pp.62–98**.
 - Tamil status: **verified**.
-- Explicit unresolved-reading markers: **0**.
-- English translation: **not started**; Gate F is now the next workflow stage and must translate only the final verified Tamil.
-- Root release index / `data/speeches.json`: **not updated** because English translation and its fidelity check are still pending.
+- Explicit unresolved Tamil readings: **0**.
+- Gate F English translation: **complete**.
+- English status: **complete-unverified**.
+- Gate G English fidelity verification: **next / not started**.
+- Root release index / `data/speeches.json`: **not updated** because Gate G and Gate H remain pending.
 
 ## காப்பகக் குறிப்பு
 
