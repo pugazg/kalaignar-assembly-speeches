@@ -25,9 +25,7 @@ Status: **completed first pass**.
 
 ### Batch 3 — scan pp.92–98 / printed pp.91–97
 
-Status: **completed first pass; full mapped speech now represented**.
-
-Checks for the bounded batch:
+Status: **completed first pass; full mapped speech represented**.
 
 - transcribed all 7 scan pages from p.92 through p.98 directly from the controlling scan images;
 - retained source-page markers **92–98**;
@@ -37,10 +35,10 @@ Checks for the bounded batch:
 - retained the `திரு. எஸ். திருநாவுக்கரசு` plastic-bag intervention and MLA-seniority clarification;
 - retained the subsequent interventions by `திரு. ஆர். சிங்காரம்`, `திருமதி ஏ. எஸ். பொன்னம்மாள்`, `திரு. பெ. சீனிவாசன்`, `திரு. எஸ். ஆர். பாலசுப்பிரமணியம்`, and `திரு. வி. கே. சின்னசாமி`;
 - p.98 ends with Kalaignar's reply to `திரு. வி. கே. சின்னசாமி`, followed by the decorative ending ornament;
-- p.99 was directly checked and begins `உரை : 4 / நாள் : 18.04.1990`;
+- p.99 begins `உரை : 4 / நாள் : 18.04.1990`;
 - no explicit unreadable/`[REVIEW]` marker was flagged.
 
-Batch-level visual readings are first-pass work only and do not confer `verified` status.
+Batch-level visual readings were first-pass work only and did not confer `verified` status.
 
 ## Gate D — full-speech Tamil completeness audit
 
@@ -61,20 +59,58 @@ Audit results for locked scan range **62–98 / printed pp.61–97**:
 
 Tamil status after Gate D: **transcribed**.
 
-## Gates not yet started / blocked
+## Gate E — strict full-speech visual/source-fidelity verification
 
-- Gate E — strict full-speech visual/source-fidelity verification: **next step / not started**.
-- Gate F — English translation: **blocked** until Tamil is verified.
-- Gate G — English fidelity verification: **blocked**.
-- Gate H — release/index: **not eligible** until Tamil and English workflow requirements are completed.
+Status: **passed**.
+
+A separate direct page-by-page audit was completed against **every controlling scan image from p.62 through p.98**. The canonical Tamil was compared page by page for:
+
+- individual words and characters;
+- names and initials;
+- dates and numerals;
+- percentages, monetary values and units;
+- printed English and transliterated industrial terms;
+- headings and source labels;
+- speaker labels, member interventions and interruption markers;
+- punctuation where legible;
+- omissions, repetitions and continuity across page transitions.
+
+### Corrections applied during Gate E
+
+1. **scan p.73** — first-pass `கருத்தக் கூடாது` corrected to the visibly printed `கருதக் கூடாது`.
+2. **scan p.94** — first-pass `சுவரார் அளித்த சலுகைகளும்` corrected to `கவர்னர் அளித்த சலுகைகளும்`.
+3. **scan p.96** — first-pass `பரிசீலிப்பு விழாக்களில்` corrected to `பரிசளிப்பு விழாக்களில்`.
+4. **scan p.97** — first-pass `கூடங்குளம் போகும்` corrected to `கூடங்குளம் போக்கும்`.
+
+### Source forms deliberately retained
+
+The visual audit confirmed and retained unusual or internally inconsistent forms that are visibly printed rather than silently repairing them, including:
+
+- `1986-86-ல்` in the Gujarat investment comparison;
+- `அசோசியேட் செக்டரி`;
+- `வெளிக் கொணரத் தலைப்பட்டது`;
+- the p.92 North Chennai estimate sequence printing `547 கோடி` and later `541 கோடி` before `721 கோடி`;
+- the repeated `வலியுறுத்தி` and `கேட்டுக்கொண்டதன் பேரில்` wording on p.93;
+- the printed laughter/table-thumping markers and all final interventions.
+
+No unresolved reading remains after the full visual audit.
+
+Tamil status after Gate E: **verified**.
+
+## Remaining gates
+
+- Gate F — English translation: **next / not started**; it must be translated only from the final verified Tamil.
+- Gate G — English fidelity verification: **blocked until Gate F is complete**.
+- Gate H — release/index: **blocked until the English workflow is complete**.
 
 ## Current status
 
 - Canonical ID: `1989-05-03-industries-debate`
 - Locked full range: scan pp.62–98 / printed pp.61–97
-- Completed first-pass range: **62–98**
+- Gate C: **complete**
 - Gate D: **passed**
-- Tamil status: **transcribed**
+- Gate E: **passed**
+- Tamil status: **verified**
 - Explicit unresolved-reading markers: **0**
-- English status: **blocked-not-started**
-- Exact next action: perform **Gate E**, a strict direct page-by-page visual/source-fidelity audit of scan pp.62–98 against the canonical Tamil, applying and documenting every discrepancy before marking Tamil `verified`.
+- English status: **not-started**
+- Exact next action: perform **Gate F**, translating the complete final verified Tamil into English after the Tamil source layer in `transcript.md`; do not begin Speech 4.
