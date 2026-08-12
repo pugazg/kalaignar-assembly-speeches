@@ -14,6 +14,13 @@ This repository is a source-faithful digital archive of M. Karunanidhi's speeche
 - **Translation:** the complete Tamil source transcription comes first; an English translation is included **after** it.
 - **Canonical organisation:** folder names use `YYYY-MM-DD-event` so the collection can scale independently of later booklet/publication titles.
 
+Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.md)
+
+## Active source handovers
+
+- [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source structurally mapped into 10 dated speeches; transcription is the next phase.
+- Copy/paste continuation prompt: [`docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md`](./docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md)
+
 ## Speech index
 
 | Date | Publication / speech | Assembly event | Tamil | English | Verification |
@@ -29,13 +36,21 @@ kalaignar-assembly-speeches/
 ├── README.md
 ├── data/
 │   └── speeches.json
+├── docs/
+│   ├── ARCHIVAL_WORKFLOW.md
+│   ├── HANDOVER_2007_INDUSTRIAL_SPEECHES.md
+│   └── NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md
+├── sources/
+│   └── 2007-industrial-speeches/
+│       └── mapping.md
 └── speeches/
     └── 1970/
         └── 1970-09-09-no-confidence-motion/
             ├── README.md
             ├── metadata.json
             ├── source-notes.md
-            └── transcript.md
+            ├── transcript.md
+            └── verification-log.md
 ```
 
 ## Current verification convention
