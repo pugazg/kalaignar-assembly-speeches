@@ -13,50 +13,60 @@ Before doing any work, read current `main` versions of:
 - `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md`
 - `docs/ARCHIVAL_WORKFLOW.md`
 - `sources/2007-industrial-speeches/mapping.md`
-- `speeches/1981/1981-04-16-industries-debate/`
+- `speeches/1989/1989-05-03-industries-debate/`
 
 Treat those files as controlling instructions. The scan image is authoritative; OCR is not canonical.
 
-## Current state
+## Completed released work
 
-Speech 1 (`1963-03-21-industries-debate`) is fully released with verified Tamil and English and must remain untouched.
+Speech 1 (`1963-03-21-industries-debate`) and Speech 2 (`1981-04-16-industries-debate`) are fully released with verified Tamil and verified English and must remain untouched unless separately requested.
 
-Speech 2:
+Speech 2 Gate H release/index is complete:
 
-- Source label: `உரை : 2`
-- Printed date: `16.04.1981`
-- Canonical ID: `1981-04-16-industries-debate`
-- Full scan range: **27–61**
-- Printed pages: **26–60**
-- Tamil status: **verified**
-- Unresolved Tamil readings: **none**
-- English status: **verified**
-- English translation + fidelity commit: `9cf3b58fe6530089c8ef08206ceb392261f14d6a`
+- root README release commit: `ac49ce2e4696573569816e1dbd747c4dbef74a99`
+- `data/speeches.json` release commit: `eb5dda73afbcdf63bfb3735badd04e81b976502c`
 
-The complete English translation appears after the verified Tamil in `transcript.md`, with source-page headings **27–61**. A separate Gate-G page-by-page fidelity review against the final verified Tamil has passed.
+## Current active work — Speech 3
 
-Root README and `data/speeches.json` have **not yet been updated** for Speech 2.
+- Source label: `உரை : 3`
+- Printed date: `03.05.1989`
+- Canonical ID: `1989-05-03-industries-debate`
+- Full scan range: **62–98**
+- Printed pages: **61–97**
+- Current gate: **Gate C — Tamil first-pass transcription**
+- Completed first-pass scan pages: **62–76**
+- Completed printed pages: **61–75**
+- Tamil status: **in-progress**
+- Explicit unresolved-reading markers: **0 currently flagged**; this does not imply verification
+- Gate D: **not yet eligible**
+- Gate E: **not started**
+- English: **blocked / not started**
+- Final Speech-3 batch-1 state commit: `a80379906ecf6c044eab5419ddcb420eced53e8d`
 
-## Next action — Gate H release/index
+Important continuation evidence:
 
-Proceed directly with **Gate H for Speech 2**.
+- scan p.69 ends `வாலி`; scan p.70 continues `நோக்கத்தில்`;
+- scan p.76 ends mid-sentence with `ஆனால் இதை வைத்துக் கொண்டு பொதுத் துறையே`.
 
-1. Read the current root `README.md` and `data/speeches.json`.
-2. Follow the existing released-speech schema used for Speech 1 and the verified 1970 entry; do not invent fields.
-3. Add/release `1981-04-16-industries-debate` with **Tamil verified** and **English verified** statuses and the appropriate canonical links/metadata.
-4. Validate `data/speeches.json` after editing.
-5. Do not modify Speech 2 canonical transcript/source files unless a concrete release-blocking inconsistency is found.
-6. Do not begin Speech 3 in the same release commit.
+## Next action — Speech 3 Gate C, batch 2
 
-After Gate H is complete, the next mapped speech is:
+Continue directly with the next bounded Tamil first-pass batch:
 
-- Speech 3
-- printed date `03.05.1989`
-- canonical ID `1989-05-03-industries-debate`
-- scan pp. **62–98** / printed pp. **61–97**
+- scan pp. **77–91**
+- printed pp. **76–90**
 
-Speech 3 should then begin with bounded Tamil first-pass transcription. English remains blocked until Speech 3 passes its Tamil audit and strict verification gates.
+1. Fetch/read the existing Speech 3 `transcript.md`, `metadata.json`, `source-notes.md`, `verification-log.md` and `README.md` from current `main` before editing.
+2. Render/read scan pp.77–91 from the attached source; scan images control every reading.
+3. Append Tamil only, preserving explicit `<!-- source-page: N -->` markers.
+4. Preserve printed wording, period spelling, punctuation, numerals, quotations, speaker changes/interventions, technical terms and printed English. Do not silently modernise or repair unusual source forms.
+5. If a reading is genuinely uncertain after direct visual inspection, leave an explicit review marker rather than guessing.
+6. Update Speech 3 support files to the exact completed range and continuation point.
+7. Do not run the full-speech Gate D audit until scan pp.62–98 are all transcribed.
+8. Do not begin Gate E or English translation yet.
+9. Do not begin Speech 4.
 
-At the end provide an exact handover with files changed, Speech 2 release status, commit SHA, and the exact Speech 3 first-pass starting range.
+After this batch, the remaining Speech 3 first-pass range should be scan pp. **92–98** / printed pp. **91–97**.
+
+At the end, update `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` with exact pages completed, current gate, Tamil status, unresolved readings, English status, files changed, commit SHA and exact next action.
 
 ---
