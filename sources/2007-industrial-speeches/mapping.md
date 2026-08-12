@@ -27,106 +27,47 @@ A speech boundary is considered confirmed only where the source itself shows a n
 - [x] PDF scan pp. 26–50
 - [x] PDF scan pp. 51–75
 - [x] PDF scan pp. 76–100
-- [ ] PDF scan pp. 101–125
+- [x] PDF scan pp. 101–125
 - [ ] PDF scan pp. 126–150
 - [ ] Re-check every detected speech start/end boundary
 - [ ] Create final speech inventory with canonical repository IDs
 
 ---
 
-## Batch 1 — PDF scan pp. 1–25
+## Confirmed mapping through PDF scan p. 125
 
 ### Front matter
 
-PDF scan pp. **1–17** are publication/front-matter material rather than an Assembly speech.
-
-Observed structure:
-
-- p. 1 — cover
-- p. 2 — title / publisher / sales-rights page
-- p. 3 — first-edition / price / rights / printer information
-- pp. 4–9 — introductory matter (`என்னுரை`)
-- pp. 10–14 — `பதிப்புரை`
-- pp. 15–17 — transition/title/blank-or-reproduction pages before the speeches begin
-
-These pages must not be merged into Speech 1.
+PDF scan pp. **1–17** are publication/front-matter material and are not part of any Assembly speech.
 
 ### Speech 1
 
 - **Source label:** `உரை : 1`
 - **Date:** `21.03.1963`
-- **Speech start:** PDF scan **p. 18**
-- **Printed page at start:** **17**
-- **Speech end:** PDF scan **p. 26**
-- **Printed page at end:** **25**
-- **Boundary evidence:** p. 18 explicitly begins `உரை : 1` and `நாள் : 21.03.1963`; p. 26 closes the speech and is followed by a decorative end mark; p. 27 begins `உரை : 2`.
-- **Status:** boundary confirmed
-
-The opening speaker label on p. 18 is `கலைஞர் மு. கருணாநிதி`.
-
----
-
-## Batch 2 — PDF scan pp. 26–50
+- **PDF scan pages:** **18–26**
+- **Printed pages:** **17–25**
+- **Boundary evidence:** scan p. 18 explicitly begins `உரை : 1` / `நாள் : 21.03.1963`; scan p. 26 closes the speech; scan p. 27 begins `உரை : 2`.
+- **Status:** confirmed complete
 
 ### Speech 2
 
 - **Source label:** `உரை : 2`
 - **Date:** `16.04.1981`
-- **Speech start:** PDF scan **p. 27**
-- **Printed page at start:** **26**
-- **Speech end:** not yet reached by PDF scan p. 50
-- **Status at end of batch:** start boundary confirmed; end boundary open
+- **PDF scan pages:** **27–61**
+- **Printed pages:** **26–60**
+- **Boundary evidence:** scan p. 27 explicitly begins `உரை : 2` / `நாள் : 16.04.1981`; scan p. 61 closes the debate and carries a decorative end mark; scan p. 62 begins `உரை : 3`.
+- **Status:** confirmed complete
 
-PDF scan pp. 27–50 form a continuous Assembly debate/speech sequence. The pages continue to carry the publication running header `தொழில்துறை பற்றி` / `கலைஞரின் சட்டமன்ற உரைகள்`, with parliamentary speaker exchanges embedded in the speech. No new `உரை : N` / date heading appears through scan p. 50.
-
-Important: the interjections and exchanges by other members inside Speech 2 are part of the parliamentary source and must remain inside the Speech 2 transcription; they are **not** new speech boundaries.
-
----
-
-## Batch 3 — PDF scan pp. 51–75
-
-### Completion of Speech 2
-
-Speech 2 continues uninterrupted from scan p. 51 through scan p. 61. Parliamentary interventions by other members remain part of the same Assembly debate.
-
-- **Source label:** `உரை : 2`
-- **Date:** `16.04.1981`
-- **Speech start:** PDF scan **p. 27**
-- **Printed page at start:** **26**
-- **Speech end:** PDF scan **p. 61**
-- **Printed page at end:** **60**
-- **Boundary evidence:** scan p. 61 finishes the debate text and carries a decorative floral end mark; scan p. 62 begins a new explicit `உரை : 3` / date heading.
-- **Status:** boundary confirmed complete
+Parliamentary interventions by other members inside the sequence remain part of Speech 2 and are not separate archival speech boundaries.
 
 ### Speech 3
 
 - **Source label:** `உரை : 3`
 - **Date:** `03.05.1989`
-- **Speech start:** PDF scan **p. 62**
-- **Printed page at start:** **61**
-- **Speech end:** not yet reached by PDF scan p. 75
-- **Status at end of batch:** start boundary confirmed; end boundary open
-
-Scan p. 62 explicitly prints `உரை : 3` and `நாள் : 03.05.1989`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி` as the opening speaker label. The speech/debate continues continuously through scan p. 75 (printed p. 74) with no new `உரை : N` heading.
-
-The internal exchanges, historical comparisons, statistics and references to industrial institutions remain part of Speech 3 and must not be split into separate entries merely because other members speak within the debate.
-
----
-
-## Batch 4 — PDF scan pp. 76–100
-
-### Completion of Speech 3
-
-Speech 3 continues continuously from scan p. 76 through scan p. 98. The pages include further industrial-policy discussion, specific project examples, financial figures and parliamentary exchanges. None of the speaker changes inside this sequence is an editorial speech boundary.
-
-- **Source label:** `உரை : 3`
-- **Date:** `03.05.1989`
-- **Speech start:** PDF scan **p. 62**
-- **Printed page at start:** **61**
-- **Speech end:** PDF scan **p. 98**
-- **Printed page at end:** **97**
-- **Boundary evidence:** scan p. 98 closes the parliamentary exchange and carries a decorative floral end mark. Scan p. 99 begins a new explicit `உரை : 4` / date heading.
-- **Status:** boundary confirmed complete
+- **PDF scan pages:** **62–98**
+- **Printed pages:** **61–97**
+- **Boundary evidence:** scan p. 62 explicitly begins `உரை : 3` / `நாள் : 03.05.1989`; scan p. 98 ends the parliamentary exchange with a decorative floral end mark; scan p. 99 begins `உரை : 4`.
+- **Status:** confirmed complete
 
 ### Speech 4
 
@@ -134,22 +75,26 @@ Speech 3 continues continuously from scan p. 76 through scan p. 98. The pages in
 - **Date:** `18.04.1990`
 - **Speech start:** PDF scan **p. 99**
 - **Printed page at start:** **98**
-- **Speech end:** not yet reached by PDF scan p. 100
-- **Status:** start boundary confirmed; end boundary open
+- **Speech end:** not yet reached by PDF scan p. 125
+- **Status:** start confirmed; end boundary open
 
-Scan p. 99 explicitly prints `உரை : 4` and `நாள் : 18.04.1990`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி` as the opening speaker label. Scan p. 100 continues the same speech, with no new editorial boundary.
+Scan p. 99 explicitly prints `உரை : 4` and `நாள் : 18.04.1990`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி` as the opening speaker label.
+
+PDF scan pp. **101–125** continue the same speech without any new `உரை : N` / date heading. The sequence includes industrial-policy figures, references to specific public/private projects, English quotations from official correspondence, discussion of Salem Steel Plant and Madras Fertilisers, power-generation figures, industrial estates, co-operative industrial units, and parliamentary interventions. These changes in speaker or quoted material are internal to Speech 4 and are not editorial boundaries.
+
+No explicit new speech boundary appears through scan p. 125 (printed p. 124).
 
 ---
 
-## Current inventory after scan p. 100
+## Current inventory after scan p. 125
 
 | Source speech | Date | PDF scan pages | Printed pages | Boundary status |
 |---|---|---:|---:|---|
 | உரை 1 | 21.03.1963 | 18–26 | 17–25 | Confirmed complete |
 | உரை 2 | 16.04.1981 | 27–61 | 26–60 | Confirmed complete |
 | உரை 3 | 03.05.1989 | 62–98 | 61–97 | Confirmed complete |
-| உரை 4 | 18.04.1990 | 99–? | 98–? | Start confirmed; continues past p. 100 |
+| உரை 4 | 18.04.1990 | 99–? | 98–? | Start confirmed; continues past p. 125 |
 
 ## Exact continuation point
 
-Resume structural mapping at **PDF scan p. 101**, continuing Speech 4 until the next explicit speech boundary is found.
+Resume structural mapping at **PDF scan p. 126**, continuing Speech 4 until the next explicit speech boundary is found.
