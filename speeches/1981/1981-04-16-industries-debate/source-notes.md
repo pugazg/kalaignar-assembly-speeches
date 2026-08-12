@@ -102,11 +102,44 @@ The audit also deliberately retained source forms that may look unusual but are 
 
 The embedded English letter-of-intent passage on scan p.40 and the complete `THIRU K.S.G HAJA SHAREEF` intervention on scan p.54 were rechecked against the images and retained without editorial correction.
 
+## English translation — Gate F
+
+English translation began only after the Tamil transcript had passed Gates D and E and reached `verified` status.
+
+- The translation was made from the **final verified Tamil**, not OCR and not an earlier first-pass draft.
+- English is placed only after the complete Tamil transcription in `transcript.md`.
+- The English layer preserves the source sequence with `### Source page 27` through `### Source page 61`.
+- Parliamentary speaker changes, interventions, quotations, figures, dates, percentages, monetary values and technical terms are preserved in sequence.
+- Source claims and period terminology are translated as printed rather than silently corrected from outside historical knowledge.
+- The unusual p.34 source form `வாங்கலை` is conservatively carried into English as *vaangalai* rather than being assigned an unsupported meaning.
+- The p.40 Government of India letter-of-intent paragraph and the p.54 `THIRU K.S.G HAJA SHAREEF` intervention were already printed in English in the Tamil source layer; the translation explicitly identifies them as source English and retains their wording rather than treating them as newly authored translator prose.
+
+## English fidelity verification — Gate G
+
+A separate full page-by-page review was completed against the **final verified Tamil** after the English translation was drafted.
+
+The review checked:
+
+- argumentative and paragraph sequence;
+- all source-page transitions from 27 through 61;
+- parliamentary speaker labels and interventions;
+- names and initials;
+- dates, numerals, percentages, monetary values and units;
+- quotations and printed-English passages;
+- industrial/technical terms and transliterations;
+- omission or unintended duplication across page boundaries.
+
+Translation-specific fidelity decisions included retaining `Theetha Krishnan` for `தீதா கிருஷ்ணன்`, using `Kyuli` consistently for `கியூலி`, preserving the source character of the duplicated p.44 `Not Feasible என்று என்று`, retaining the exact printed-English phrase `Interest free sales tax loan` on p.47, preserving the p.55 wordplay as `Thiru Nedumaval Arasu`, retaining the printed p.60 `109 crore`, and translating the unusual p.61 sentence conservatively rather than repairing its historical or syntactic claim externally.
+
+The English page markers are complete, unique and monotonic: **35 headings, source pages 27–61**.
+
 ## Current gate status
 
 - Tamil completeness: **passed**.
 - Strict Tamil source-fidelity verification: **passed for scan pp.27–61**.
 - Tamil status: **verified**.
-- Unresolved readings: **none**.
-- English translation: **not started**; it is now eligible to begin from the verified Tamil only.
-- Root release/index files remain untouched until English translation and its separate fidelity verification are complete.
+- Unresolved Tamil readings: **none**.
+- English translation: **complete**.
+- English fidelity verification: **passed against verified Tamil, source pages 27–61**.
+- English status: **verified**.
+- Root release/index files remain untouched; **Gate H release/index is the next workflow stage**.

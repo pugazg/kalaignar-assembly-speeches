@@ -1,6 +1,6 @@
 # Verification log — உரை : 2 / 16.04.1981
 
-This log distinguishes first-pass completeness from strict source-fidelity verification. The canonical Tamil text was not marked `verified` until the full mapped range, PDF scan pp.27–61, had been checked directly against the controlling scan images.
+This log distinguishes first-pass completeness, strict Tamil source-fidelity verification, English translation, and the separate English fidelity verification. The canonical Tamil text was not marked `verified` until the full mapped range, PDF scan pp.27–61, had been checked directly against the controlling scan images; English was not marked `verified` until it was reread against that final verified Tamil.
 
 ## 1. Locked speech range
 
@@ -126,7 +126,7 @@ Important source-supported checks included:
 - p.60 the visibly printed `109 கோடி`, retained without external correction;
 - p.61 the unusual source wording `இப்படி பல்வேறு சட்டத்திலேயும் மத்திய திட்டக் குழுவிலேயும், கடுமையாக விமர்சிக்கப்பட்டு வர இருக்கிற ஒரு நல்ல ப்ராஜக்ட்`, retained rather than semantically rewritten.
 
-## 5. Page-transition fidelity check
+## 5. Tamil page-transition fidelity check
 
 All source-page transitions 27→28 through 60→61 were checked for missing or duplicated wording. Particular mid-sentence boundaries retained include:
 
@@ -154,9 +154,62 @@ No transition omission or unintended duplicate remains.
 - Unresolved readings: **none**.
 - Gate-E corrections: **9**, all applied to `transcript.md`.
 
-## 7. English translation gate
+## 7. English translation — Gate F
 
-- Translation status: **not started**.
-- No English translation layer has been added yet.
-- The Tamil verification prerequisite is now satisfied.
-- Exact next workflow stage: translate the **verified Tamil only**, preserving the source-page sequence and parliamentary context, then perform a separate full English fidelity verification before marking translation `verified`.
+**Status: COMPLETE for source pages 27–61**
+
+The English layer was created only after the final Tamil had reached `verified` status.
+
+Checks on translation structure:
+
+- [x] English is placed after the complete verified Tamil transcription;
+- [x] translation source was the verified Tamil, not OCR or an earlier draft;
+- [x] exactly **35** English source-page headings are present;
+- [x] headings run uniquely and monotonically from `### Source page 27` through `### Source page 61`;
+- [x] parliamentary speaker changes and interventions are preserved;
+- [x] names, figures, dates, percentages, monetary values and technical terms remain tied to their source-page sequence;
+- [x] source claims were not externally corrected;
+- [x] no historical office was inferred where the source did not establish one.
+
+The English passages already printed in the Tamil source are explicitly treated as source English. The Government of India letter-of-intent paragraph on p.40 and the full `THIRU K.S.G HAJA SHAREEF` intervention on p.54 are retained without silently correcting their source grammar.
+
+## 8. English fidelity verification — Gate G
+
+**Status: PASSED against the final verified Tamil, source pages 27–61**
+
+After the complete English draft was assembled, it was reread page by page against the verified Tamil. The review checked:
+
+- argumentative and paragraph sequence;
+- every source-page boundary;
+- all speaker labels, interventions and interruption markers;
+- names and initials;
+- all significant numerals, dates, percentages, monetary values and units;
+- quotations and printed-English passages;
+- industrial and technical terminology;
+- omission, accidental duplication and boundary drift.
+
+### Translation-specific fidelity decisions and second-pass corrections
+
+- p.29→30 and p.56→57: English was reflowed across the page markers without inventing physical word-break hyphenation.
+- p.34: unusual source `வாங்கலை` is retained conservatively as *vaangalai* rather than assigned an unsupported meaning.
+- p.42: `தீதா கிருஷ்ணன்` is rendered `Theetha Krishnan`, following the verified Tamil rather than an external name guess.
+- pp.43–45: `கியூலி` is rendered consistently as `Kyuli`.
+- p.44: the duplicated source character in `Not Feasible என்று என்று` is not silently regularised; the English reflects the repetition as `“Not Feasible”—so, so I hear.`
+- p.47: the source-English phrase `Interest free sales tax loan` is retained as printed.
+- p.40 and p.54: source-English passages are clearly identified and retained as source text rather than rewritten as translator prose.
+- p.55: the source wordplay is retained as `Thiru Nedumaval Arasu` without inserting an external explanation.
+- p.60: the visibly printed `109 கோடி` is translated as `Rs. 109 crore`; no outside correction is substituted.
+- p.61: the unusual source sentence about `சட்டத்திலேயும் ... மத்திய திட்டக் குழுவிலேயும் ...` is translated conservatively rather than repaired using external historical assumptions.
+
+No unresolved English fidelity issue remains after this review.
+
+## 9. Final bilingual state
+
+- Tamil status: **verified**.
+- Verified Tamil range: **scan pp.27–61 / printed pp.26–60**.
+- Unresolved Tamil readings: **none**.
+- English translation: **complete**.
+- English fidelity verification: **passed**.
+- English status: **verified**.
+- Root README / `data/speeches.json`: **not yet updated**.
+- Exact next workflow stage: **Gate H — release/index Speech 2**, then move to the next mapped speech only after that release gate is complete.

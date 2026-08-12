@@ -2,7 +2,7 @@
 
 ## உரை : 2 — நாள் : 16.04.1981
 
-> **Archival transcription note:** This is the verified Tamil transcription from the scanned May 2007 publication. The complete mapped range, PDF scan pp.27–61, has passed both the full-speech completeness audit and a strict direct page-by-page visual/source-fidelity verification against the controlling scan. Printed wording, spelling, punctuation, numerals, headings, speaker labels, interventions and printed English passages are preserved as far as the scan permits; only physical line wrapping is normalised. PDF scan-page boundaries are marked explicitly. Running page headers, printed page numbers and the closing decorative ornament are treated as page furniture/boundary evidence. English translation has not yet started.
+> **Archival transcription note:** This is the verified Tamil transcription from the scanned May 2007 publication. The complete mapped range, PDF scan pp.27–61, has passed both the full-speech completeness audit and a strict direct page-by-page visual/source-fidelity verification against the controlling scan. Printed wording, spelling, punctuation, numerals, headings, speaker labels, interventions and printed English passages are preserved as far as the scan permits; only physical line wrapping is normalised. PDF scan-page boundaries are marked explicitly. Running page headers, printed page numbers and the closing decorative ornament are treated as page furniture/boundary evidence. The English translation follows only after the complete verified Tamil transcription and has passed a separate fidelity review against that verified Tamil.
 
 ---
 
@@ -171,7 +171,7 @@ The Government of India, Ministry of Industry issued a letter of intent No.L.I/1
 
 அரசோடு அவர்கள் தொடர்பு கொண்டு சில சலுகைகளைக் கேட்டுக் கொண்டது உண்டா இல்லையா? அதைத் தமிழக அரசு மறுத்து விட்டதாக முதலமைச்சரவர்கள் இங்கே சொல்லி இருக்கிறார்கள். அது உண்மையா அல்லவா?
 
-**மாண்புமிகு திரு. எஸ். திருநாவுக்கரசு :** மாண்புமிகு பேரவைத் தலைவரவர்களே, நான் அதைத்தான் மீண்டும் சொல்கிறேன். ஏற்கனவே, அவர்கள் மட்டுமல்ல, அசோக் லேலண்ட் நிறுவனம் மட்டுமல்ல, பல தொழில் அதிபர்கள் தொழில்களைத் துவங்குவதற்காக நாடி வருகிறபொழுது, அல்லது இன்சென்டிவ்ஸ் என்ற பிரச்சினை வருகிறபொழுது மாநிலத் தொழிலமைச்சர்கள் மாநாட்டிலேயே நான் பேசினேன், இதைத்தான் காங்கிரஸ் கட்சியின் தலைவர் அவர்கள் கூட இதற்கு முன்னாலே பட்ஜெட்டிலே பேசும்பொழுது இங்கே சொன்னார்கள். சில மாநிலங்களில் அவர்களுடைய வசதி வாய்ப்புக்கேற்ப அவர்கள் சில உதவிகளை, சலுகைகளைச் செய்கிறார்கள். தமிழக அரசைப் பொறுத்தவரையில் நாங்கள் சில வரம்புகளை, சில சீலிங்ஸ் வைத்திருக்கிறோம். புதிதாக Interest free sales tax loan தான் இப்பொழுது மற்ற மாநிலங்களிலே கொடுக்கப்படுகிற இன்சென்டிவ்ஸைப் பொறுத்தவரையில் அதிகமாகத் தருகிற ஒரேயொரு பிரச்சினை. அதைப் பொறுத்தவரையில் 48 இலட்சம் ரூபாய் என்பதைப் புதிய நிறுவனம் துவக்குவதற்கு உச்சவரம்பாகவும், விரிவாக்கம் என்றால் 15 இலட்சம் ரூபாயாகவும் வைத்திருக்கிறோம். வேறு மாநிலங்களில் ஒரு கோடி, இரண்டு கோடி, மூன்று கோடி என்று வருவதாக சொல்கிறார்கள். தமிழக அரசைப் பொறுத்தவரையில் பரவலாகத் தொழில் வளர்ச்சி வர வேண்டுமென்று நாம் விரும்புகிறோம். எனவே, அந்த உச்ச அளவை ஓரளவிற்கு இருக்கின்ற அந்த அளவை அதிகப்படுத்த வேண்டுமென்ற எண்ணம் அரசுக்கு இருக்கிறது. அதைப்பற்றி நான் பின்னாலே சொல்கிறபொழுது சொல்கிறேன்.
+**மாண்புமிகு திரு. எஸ். திருநாவுக்கரசு :** மாண்புமிகு பேரவைத் தலைவர் அவர்களே, நான் அதைத்தான் மீண்டும் சொல்கிறேன். ஏற்கனவே, அவர்கள் மட்டுமல்ல, அசோக் லேலண்ட் நிறுவனம் மட்டுமல்ல, பல தொழில் அதிபர்கள் தொழில்களைத் துவங்குவதற்காக நாடி வருகிறபொழுது, அல்லது இன்சென்டிவ்ஸ் என்ற பிரச்சினை வருகிறபொழுது மாநிலத் தொழிலமைச்சர்கள் மாநாட்டிலேயே நான் பேசினேன், இதைத்தான் காங்கிரஸ் கட்சியின் தலைவர் அவர்கள் கூட இதற்கு முன்னாலே பட்ஜெட்டிலே பேசும்பொழுது இங்கே சொன்னார்கள். சில மாநிலங்களில் அவர்களுடைய வசதி வாய்ப்புக்கேற்ப அவர்கள் சில உதவிகளை, சலுகைகளைச் செய்கிறார்கள். தமிழக அரசைப் பொறுத்தவரையில் நாங்கள் சில வரம்புகளை, சில சீலிங்ஸ் வைத்திருக்கிறோம். புதிதாக Interest free sales tax loan தான் இப்பொழுது மற்ற மாநிலங்களிலே கொடுக்கப்படுகிற இன்சென்டிவ்ஸைப் பொறுத்தவரையில் அதிகமாகத் தருகிற ஒரேயொரு பிரச்சினை. அதைப் பொறுத்தவரையில் 48 இலட்சம் ரூபாய் என்பதைப் புதிய நிறுவனம் துவக்குவதற்கு உச்சவரம்பாகவும், விரிவாக்கம் என்றால் 15 இலட்சம் ரூபாயாகவும் வைத்திருக்கிறோம். வேறு மாநிலங்களில் ஒரு கோடி, இரண்டு கோடி, மூன்று கோடி என்று வருவதாக சொல்கிறார்கள். தமிழக அரசைப் பொறுத்தவரையில் பரவலாகத் தொழில் வளர்ச்சி வர வேண்டுமென்று நாம் விரும்புகிறோம். எனவே, அந்த உச்ச அளவை ஓரளவிற்கு இருக்கின்ற அந்த அளவை அதிகப்படுத்த வேண்டுமென்ற எண்ணம் அரசுக்கு இருக்கிறது. அதைப்பற்றி நான் பின்னாலே சொல்கிறபொழுது சொல்கிறேன்.
 
 **கலைஞர் மு. கருணாநிதி :** நான் தங்களிடமிருந்து ஒரு சுருக்கமான பதிலை எதிர்பார்க்கிறேன். தாங்கள் பதிலை வளர்த்தி எனக்கு வர வேண்டிய விடையை மறைக்கிறீர்கள். நான் அமைச்சரிடத்தில் தெரிந்துகொள்ள விரும்புவதெல்லாம் அவர்கள் கேட்ட ::பர்ஸ்ட் ஸ்டேஜ் எக்ஸ்பென்ஷனுக்கு, அந்தத் திட்டத்திற்கு அவர்கள் கோரிய சலுகைகளைத் தர நீங்கள்
 
@@ -290,3 +290,306 @@ The Government of India, Ministry of Industry issued a letter of intent No.L.I/1
 உலக வங்கியினுடைய டீம் கூட இங்கே இரண்டு மூன்று தடவை வந்து சென்றனர். இப்போது கூட தமிழகத்தினுடைய தொழில்துறை செயலாளர் வெளிநாட்டுக்குப் போயிருக்கிறார்கள். அமெரிக்காவிற்கெல்லாம் போயிருக்கிறார்கள். உலக வங்கியோடு இது சம்பந்தமாக விவாதம் நடத்துவதற்காக இப்படி பல்வேறு சட்டத்திலேயும் மத்திய திட்டக் குழுவிலேயும், கடுமையாக விமர்சிக்கப்பட்டு வர இருக்கிற ஒரு நல்ல ப்ராஜக்ட், எதிர்க்கட்சித் தலைவர் அவர்கள் அதை வரவேற்க வேண்டும். அதற்கு மாறாக ஏதாவது சொல்லி, அது இங்கே வராமல் போய்விடக்கூடாது என்பதினால்தான். . .(குறுக்கீடு)
 
 **கலைஞர் மு. கருணாநிதி :** பத்திரிகைகளில் தவறாக வரக்கூடாது என்பதற்காகச் சொல்கிறேன். நல்ல ப்ராஜக்ட் வர வேண்டும் என்பதை வரவேற்க வேண்டும் என்று சொன்னார்கள். வருகிற ப்ராஜக்ட் நல்ல ப்ராஜக்டாக வரவேண்டும் என்பதுதான் என்னுடைய விருப்பம்.
+
+---
+
+# English translation
+
+> **Translation note:** This is a faithful English rendering of the verified Tamil transcription above. It preserves the source-page sequence, parliamentary speaker changes and interventions, names, figures, quotations, technical terminology and the source's unusual or uncertain claims without substituting external historical corrections. Passages printed in English in the Tamil source are identified as such and retained rather than silently rewritten.
+
+### Source page 27
+
+**Speech: 2**  
+**Date: 16.04.1981**
+
+**Kalaignar M. Karunanidhi:** Hon. Speaker, on behalf of the Dravida Munnetra Kazhagam, I wish to place before the House my views on the industrial policies and schemes presented by the Industries Minister and on the demand for grants.
+
+As far as Tamil Nadu is concerned, after agriculture—which is a very important occupation capable of providing employment to a large section of the people and creating prosperity—the principle that major industries should be established in different regions is one that all of us accept. Agriculture is the principal occupation followed by the majority of the people both in Tamil Nadu and in India. Yet, however much encouragement, enthusiasm, fertiliser and concessions are provided to it, its growth can stop at a certain stage, and consequently employment can be provided only to a particular number of people. I am therefore duty-bound to point out that by developing, expanding and newly establishing various industries—whether small, medium or large—we can continuously provide employment to the people and overcome unemployment.
+
+### Source page 28
+
+As far as Tamil Nadu is concerned, if we consider population growth in proportional terms, it has fallen considerably. In absolute numbers the population is now greater than in the past, but when compared proportionately with other States, it shows a lower percentage. At the same time, if we take the number of people below the poverty line, it is increasing further and further; I wish to underline that this has been stated in the drafts issued on behalf of the Government itself.
+
+If we look at the statistics for the unemployed in the country, the national average is 8.5%. The Tamil Nadu average is 16.1%. We can see these figures in the notes supplied by the Government itself. Therefore, according to the statistics on the number of unemployed, our State stands second in India; that is not a matter for pride. When prizes are given, first prize, second prize and third prize are all worthy of appreciation. But when, compared with other States, our State stands second in the number of unemployed and in the condition of those below the poverty line, we have to regard it only with pain.
+
+Our State Planning Commission has prepared and published a Sixth Plan draft. Even in it they have very clearly acknowledged: “High proportion of people in Tamil Nadu are below the poverty line.” Many Hon. members who spoke here on behalf of the ruling party said that during the Dravida Munnetra Kazhagam Government the industrial sector had fallen very far behind, and that although officials had pointed out possibilities for locating various factories in different places—
+
+### Source page 29
+
+they said that the Kazhagam Government lacked the concern to follow them through to completion; they said the same even today. Some who spoke yesterday also expressed such views. But even the Government publication titled *Industrial Policies and Schemes* records the nature of the concern shown for industry during the Dravida Munnetra Kazhagam Government.
+
+The Tamil Nadu State Industries Promotion Corporation (SIPCOT) was established in 1971 as a public company wholly owned by the Government of Tamil Nadu, with an authorised capital of six crore rupees, and began its work in January with an integrated development programme to encourage entrepreneurs, with the principal objectives of promoting and expanding medium and large industries in the private sector and rapidly industrialising areas of this State that had until then remained backward. Since then, SIPCOT has carried out the work of promoting and expanding medium and large industries efficiently over the past seven years. Up to 31 December 1980, the corporation had approved total assistance of Rs. 6,136.65 lakhs under various schemes, and through this had provided total direct employment to more than 46,000 persons. One of the most important aspects of the corporation's activities is that the greater part of the investment promoted by it was deployed in backward areas of this State.
+
+The Government's own note states that, of the total assistance approved so far, 53 crore rupees was approved for industrial undertakings established in backward areas alone. It also shows with what good intention SIPCOT was established during the Dravida Munnetra Kazhagam Government in 1972 and that through it more than approximately 46,000 persons obtained
+
+### Source page 30
+
+employment. I consider it my duty to place that before this House.
+
+Likewise, another organisation is the Tamil Nadu Small Industries Development Corporation, known as SIDCO. This corporation was established on 23 March 1970 and was later converted into a public company on 21 January 1971. The Government's note states that its basic objective is to engage in the work of encouraging widespread and extensive growth and development of industry in Tamil Nadu, particularly in the small-scale sector.
+
+It further states that, from 1971, when SIDCO was started, up to 1979-80, about 514 industrial sheds were constructed and allotted under the hire-purchase scheme at Ambattur, Ranipet, Hosur, Namakkal and other places. In 1979-80, 58 industrial sheds were constructed and allotted at Ambattur, Ranipet, Pudukkottai and other places. Thus the continuing work of this Government too has been included in the same account. Therefore, I submit that the accusation that concern for industrial development was lacking during the Kazhagam Government is meaningless.
+
+At the same time, as a matter of continuing action, I wish to point out that during the present Government the interest shown in industrial development during the Kazhagam Government and the Government before it has not been shown. I say this not with the intention merely of finding fault with this Government, but with the good intention that industries should grow further.
+
+The statistics showing the extent to which the industries we have taken up are operating at losses—
+
+### Source page 31
+
+are contained in the report examined by the Comptroller and Auditor-General of India and placed before this House on 23.1.1981. The audit report states that the Tamilnadu Sugarcane Farm Corporation was started in 1974-75, that is, during the Kazhagam Government. From 22.2.1974 to 30.6.1975 the farm operated at a profit of Rs. 6.12 lakhs. But according to the examination report of the Comptroller and Auditor-General of India, the Sugarcane Farm Corporation incurred losses of Rs. 10.58 lakhs in 1976-77, Rs. 28.06 lakhs in 1977-78, and Rs. 5.84 lakhs in 1978-79. This is pointed out in the report.
+
+This report points out not only this but several other losses. On page 154 it records: Tamil Nadu Industrial Development Corporation, according to the 1978-79 accounts, a loss of Rs. 46.86 lakhs; Tamil Nadu Small Industries Corporation Limited, according to the 1978-79 accounts, a loss of Rs. 37.66 lakhs; Tamil Nadu Handicrafts Development Corporation, according to the 1976-77 accounts, a loss of Rs. 25.12 lakhs; Tamil Nadu Ceramic Limited, according to the 1978-79 accounts, a loss of Rs. 30.53 lakhs; Tamil Nadu Sugarcane Farm Corporation, according to the 1979-80 accounts, a loss of Rs. 5.84 lakhs; Tamil Nadu Salt Corporation Limited, according to the 1978-79 accounts, a loss of Rs. 10.30 lakhs.
+
+Tamil Nadu Sugar Corporation Limited—according to the 1978 accounts, a loss of Rs. 66.18 lakhs; Tamil Nadu Minerals Limited—according to the 1978-79 accounts, a loss of Rs. 6.02 lakhs; Southern Brick Works Limited—according to the 1978-79 accounts, a loss of Rs. 9.42 lakhs; Tamil Nadu Cements Corporation Limited—according to the 1978-79 accounts, a loss of Rs. 28.37 lakhs; Perambalur—
+
+### Source page 32
+
+Sugar Mills Limited—according to the 1978 accounts, a loss of Rs. 63.28 lakhs; Tamil Nadu Mopeds Limited—according to the 1978-79 accounts, a loss of Rs. 38.83 lakhs. I am duty-bound to point out in this House, with the good intention that they should be corrected, that running these factories at such losses demonstrates administrative inefficiency.
+
+Next, the draft report of the Sixth Five-Year Plan. A view has been expressed in this report submitted by the State Planning Commission, and I wish to point out here that the Dravida Munnetra Kazhagam is in a position to agree with and argue in support of that view. While total Central assistance to all of India in 1979 was Rs. 15,668 crore, the amount received by Tamil Nadu alone was only Rs. 516 crore, the report states. Not only that: even on the basis of Tamil Nadu's population, instead of giving us 8 per cent, only 4 per cent has been given; this too is underlined in the State Planning Commission's report. I welcome the contention that, in fairness, more should have been given. I agree with that view. For many years, whether it was the Dravida Munnetra Kazhagam Government or the Government now in office, we have had to press the Central Government, advance arguments, obtain what is due and bring many schemes here. My grievance is that during the present Government such arguments have not been advanced to the extent that they were during the Kazhagam Government.
+
+At the same time as they accuse the Centre of giving us nothing, several Hon. members here referred to one scheme that the Centre itself came forward to offer—
+
+### Source page 33
+
+Members belonging to several parties also referred to it. When the Central Government came forward to give Tamil Nadu a Rs. 400-crore scheme for establishing a railway coach manufacturing factory, please consider whose fault it was that the opportunity was not utilised. The Central Government told this Government that under the Rs. 400-crore project a total of one thousand acres would be required; that 200 acres would be sufficient for the factory itself; that the remaining land would be needed for various buildings connected with the factory and for other facilities; and that the Tamil Nadu Government should take the necessary steps. Because the State Government behaved as though it had deaf ears on the matter, the Rs. 400-crore railway coach factory project that should have come to us did not come. It was a major scheme that could have given employment not to one or two but to ten thousand people. The factory itself could have employed 10,000 persons, and industries producing the components and ancillary goods required by it could have employed more than 5,000. It seems strange to me that after we failed to make timely contact and secure this great Rs. 400-crore project, and after the project went to Tirupati—that is, to Andhra Pradesh—some members ask why we should not fight to bring it here.
+
+When they offered the project, we were not prepared to accept it. We were not prepared to provide the Central Government with the facilities required. Now the project has slipped away. It has gone to Andhra Pradesh. After it has gone to Andhra Pradesh, how can we ask that the project should come to Tamil Nadu—
+
+### Source page 34
+
+What face can we show and ask for it? I do not understand. I request those who made that accusation to explain.
+
+That is not all. When a major industrial project described as the Ashok Leyland expansion sought certain concessions, those concessions were stubbornly refused. Because of that refusal, the factory is today functioning in Rajasthan and Maharashtra as a project providing employment to many thousands of workers. Since those two States came forward to grant the concessions sought, the Ashok Leyland expansion project went to another State instead of being located here. I wish to point out that this too must be regarded as a shortcoming.
+
+An Hon. member of the ruling party said, while speaking, that during the Kazhagam Government we did not argue and fight with the Central Government to obtain projects. It was said here that because the Dravida Munnetra Kazhagam Government developed hostility towards the Central Government, many projects did not come to us. Let them at least cultivate friendship; I welcome that. But the Dravida Munnetra Kazhagam Government did not cultivate hostility. At all times, on the principle that we would extend a hand for relations and raise our voice for rights, it placed before the Central Government its own *vaangalai*.
+
+During the Dravida Munnetra Kazhagam Government, when Arignar Anna had assumed office, we observed an Uprising Day demanding the Salem steel plant project, the Neyveli project and the Tuticorin harbour project—
+
+### Source page 35
+
+Even though we were the ruling party, Uprising Day was observed throughout Tamil Nadu, pressing the demand that more such projects should come to Tamil Nadu. After the death of Perarignar Anna, when I was placed in the position of assuming responsibility, the draft of the Fourth Five-Year Plan came before the National Development Council in Delhi. While the Chief Ministers of all the other States welcomed and accepted it, I rejected the draft, saying I was not prepared to accept the Fourth Five-Year Plan because the Salem project had not been included. The news caused a stir in the newspapers at the time. Within a month or two, the then Prime Minister, Mrs Indira Gandhi, approved the Salem project. When she came to that region for the foundation-stone ceremony, Hon. Speaker, you and I welcomed her and conducted the function. At that time you presented to the Prime Minister of India, to me and to the other ministers the Salem mango—the three fruits fashioned in silver and gold-plated. You and I cannot forget that event, even if some people in today's ruling party have forgotten it.
+
+Thus the Tamil Nadu Government fought and secured the Salem project during the Dravida Munnetra Kazhagam Government. Even afterwards there were many difficulties and obstacles. Many obstacles arose so that it should not be implemented here. We overcame them too, argued with the Central Government and created the conditions for the project to take shape. Even so, today that great project has been drastically reduced, to the point that one may wonder whether we have turned it into merely a Salem Steel Rolling Company—
+
+### Source page 36
+
+It remains in a neglected condition. With great pain, I am duty-bound in this great House to associate myself with the task of pointing this out to the Central Government on behalf of this Government.
+
+During the Janata Government, when Hon. Biju Patnaik was a Central Minister holding the Industries portfolio, several important schemes were sanctioned for the Durgapur plant.
+
+Likewise, at Kudremukh in Karnataka and at Visakhapatnam in Andhra Pradesh, steel plants have now been established and are coming into operation. At such a time, the Salem steel plant project—which we obtained only after great effort, repeated struggles, the observance of Uprising Day, strong arguments on behalf of Tamil Nadu in the N.D.C. meeting, and even the declaration that we would reject the Fourth Five-Year Plan—is shrinking to a state where one fears it may become merely a steel rolling company. I fear such a condition may have arisen because of the lethargy of today's rulers. Therefore I am duty-bound to insist that the rulers take the necessary action and make arrangements for the steel plant project we demanded to take shape.
+
+The B. & C. Mill, with 13,000 workers, is today closed. Although this is the Industries grant, industry and workers are inseparable. There is no industry without workers; workers live depending upon industries. Therefore, one of the largest institutions in India—indeed in Asia—
+
+### Source page 37
+
+the B. & C. Mill was an institution that first had a great and historic union. Tamil Nadu's great martyrs and trade-union leaders continuously worked in the movement of the B. & C. Mill workers. Yet the mill still has not reopened. When we ask what concern and interest this Government has shown, we see the interest taken by Members of Parliament belonging to this Government's side, Members of Parliament in the Opposition, Members of Parliament of all parties, and the Deputy Chairman of Parliament. They met Central Ministers and spoke to them many times. What steps did this Government take to supplement those efforts? Which ministers met whom in Delhi, and how many times? We must consider what concern this Government showed to reopen the B. & C. mill and relieve the suffering of 13,000 workers. Therefore, on behalf of those 13,000 workers, I am duty-bound to level against this Government the charge that it did not raise the necessary and timely voice.
+
+I wish to state here with regret that there are no major industrial projects either in the financial statement or in the policy notes supplied by our Industries Minister. In particular, many industrial-sector schemes and employment schemes mentioned in the Budget and financial statement—announcements that we are going to start industries by the thousand, ten thousand and lakh—when we ask whether these are being implemented through what is called “follow-up action,” the answer we receive is no.
+
+### Source page 38
+
+From 1977 onwards, whether in the Budget or in the Industries Minister's statement, many industrial schemes have been announced, but none of them has been taken up to the point of implementation. I wish to place that charge here.
+
+In the statement read here by our Finance Minister Navalar, a major industrial project mentioned is an explosives factory to be established in North Arcot district. But when will that explosives factory begin? If we look at the policy note supplied by the Minister, it will be started there only in 1983-84; until then, it says, survey and study work will take place. The Finance Minister gave importance in the Budget speech to an explosives factory that is to start only in 1983-84 near Katpadi in North Arcot, yet he made no reference to the newsprint manufacturing factory that is to be implemented at a cost of about Rs. 200 crore.
+
+A newsprint manufacturing factory to be implemented at roughly Rs. 200 crore is not something that can be left out of the financial statement. The Deputy Leader of the Opposition, Professor, also mentioned this while speaking on the financial statement and asked what mystery lay behind the Finance Minister failing to announce such a large project in the Budget speech. Several friends here too have welcomed and spoken about the project. They announce a Rs. 20-crore project with such urgency—
+
+### Source page 39
+
+even though it will begin only in 1983-84. Why is there such eagerness to announce it in advance, while the Finance Minister did not announce this newsprint factory costing nearly Rs. 200 crore? Why were there not even major advertisements about it? All this remains an incomprehensible puzzle.
+
+I too searched for this project in the financial statement and could not find it. When I searched through the large books you supplied, only there did I find that Rs. 27½ crore had been allotted and that this paper factory—a newsprint factory, not merely a paper factory—was to be started. For the newsprint paper factory, the estimated cost announced in 1979 was Rs. 153 crore.
+
+In 1980, in a report given by the Chairman of Tamil Nadu Newsprint and Papers Limited, the report book stated Rs. 160 crore. We should arrange those differences in sequence. In 1979, the announcement was Rs. 153 crore. In 1980, the Chairman of Tamil Nadu Newsprint and Papers Limited announced that it would come to Rs. 160 crore. In this book supplied by this Government as the Sixth Five-Year Plan, the State Planning Commission stated Rs. 180 crore. Within a few months of that book being published, in the Minister's statement on this demand for grants, page 105 again states Rs. 180 crore; and today a correction has been made and in the Minister's preface it is announced as Rs. 190 crore.
+
+In 1979, Rs. 153 crore; in the Chairman's report in 1980, Rs. 160 crore; in the State Planning Commission's Sixth Plan report supplied here—
+
+### Source page 40
+
+Rs. 180 crore; and in the Industries Department's note, Rs. 190 crore. Thus within a year, or within a few months, there is a difference of about Rs. 40 crore. I wish to bring this to the attention of the House.
+
+In the Chairman's report—the report submitted by the chairman of the newsprint factory—he says that the State Government will give only Rs. 22 crore; it will not give more than Rs. 22 crore; Rs. 22 crore is expected. The Chairman himself expects only Rs. 22 crore. But the amount allotted is Rs. 27½ crore.
+
+The Ministers' statement clearly says that this paper-mill project will produce 50,000 tons of newsprint and 40,000 tons of writing paper and other papers. But what does the report of the person appointed chairman of the factory say? In the Directors' Report he says that the Government of India has issued a letter of intent for 83,000 tons of newsprint and 17,000 tons of writing and other printing paper.
+
+The source then prints the following in English:
+
+> The Government of India, Ministry of Industry issued a letter of intent No.L.I/183 (79), dated July 3, 1979 to the Company for manufacture of 83,000 tons of newsprint and 17,000 tons of writing and printing paper out of bagasse. The Company is taking steps to obtain extension of the validity of the letter of intent
+
+It is stated here in this way. After saying that 83 thousand tons of newsprint would be produced, the reports now say that 50 thousand tons of newsprint will be produced. My doubt is whether this factory can make this newsprint. I believe that even the Central Government issued the letter of intent only on the basis of the important undertaking that newsprint could be manufactured. As for—
+
+### Source page 41
+
+further details, I think even the Central Government has not been informed of them. But has this factory framed its methods and accelerated its work to the point where it can manufacture newsprint? No. Whom have they appointed chairman of this factory? Before putting that question, I wish to recall an old matter. When voting took place on the demand for grants in 1975-76, our present Education Minister, Hon. Aranganayagam, sat on this side in the Opposition as a member of the Anna Dravida Munnetra Kazhagam and raised an issue.
+
+He said: “We must speak of the SPIC factory started at Tuticorin. They are starting a factory there at a cost of Rs. 84 crore. Next, a licence has been granted to start one at Cuddalore at a cost of Rs. 120 crore. It has not been started at Cuddalore; you know that, but I am repeating what they said. Today this Government has made it possible for one individual to run a very large industrial empire of nearly Rs. 220 crore. On what qualification were they prepared to start these? In particular, on what basis does a person called Mr Chidambaram Chettiar stand foremost? I request the Industries Minister to explain.” When Mr Aranganayagam, today's Education Minister, asked this from the Opposition benches at the time, the then Industries Minister Madhavan replied: “They said that Anna's policy should be followed in the industrial sector. They asked how SPIC came into being. When Anna was there, a private company called South India Corporation met Anna and submitted a petition seeking to start an enterprise in the joint sector—
+
+### Source page 42
+
+The then Industries Minister Madhavan replied to today's Education Minister Aranganayagam during the 1975-76 demand for grants that Anna, on 6.12.1968, ordered that it should be started together with them in the joint-sector model.
+
+That was a joint sector. Joint sector means 51 per cent Government investment and the remainder private investment and shares. That is the joint sector. But this is not a joint sector. The paper factory you are starting today—the factory producing newsprint—is not a joint-sector undertaking. You yourselves have stated this in many places. The question that truly calls for close examination is whom you have appointed chairman of this Government factory. You have appointed five directors: C.V.R. Panicker, I.A.S.; Draviam, I.A.S.; Venkatesan, I.A.S.; Theetha Krishnan, I.A.S.; and Viswanathan, Managing Director, Seshasayi Paper & Co. Limited. Then, on the ground that Seshasayi Paper Limited is the consulting company, you have appointed Mr Viswanathan chairman of this newsprint factory. I ask you whether this is proper. Ordinarily even a consultant is not appointed as a director of such a factory; that is the convention. When the position is that a consultant should not even be appointed as a director, is it not irregular to appoint a consultant as chairman of this factory? Above whom has he been placed? Above the senior officer Panicker; above the second secretary Draviam; above former Finance Secretary Venkatesan; above former Industries Secretary Theetha Krishnan—
+
+### Source page 43
+
+Above all of them, this individual Viswanathan has today been appointed in the name of being a consultant. My argument is simply that because he is a consultant he ought not to have assumed, or been appointed to, the chairmanship.
+
+But in any of the reports they have given, have they stated what methods the person appointed chairman of such a great Rs. 200-crore project—there is not much difference between Rs. 190 crore and Rs. 200 crore; in next month's report it may become Rs. 200 crore, and after that even Rs. 300 crore—is adopting in his efforts to manufacture newsprint? No. Perhaps after I raise this question it may even be mentioned here.
+
+They have gone as far as Mexico and arranged a collaboration agreement for a scheme to manufacture newsprint paper from sugarcane bagasse, that is, from what is called Bagasse. I hear that there is a process in it called the Kyuli process. If we ask whether newsprint is being manufactured anywhere else in the world by using that Kyuli process, the answer we keep getting is no. This same Mexican company used the same Kyuli process—the technology for manufacturing newspaper paper from sugarcane bagasse—in a country called Peru, near Mexico. They started a newsprint factory there. What happened? We hear that it did not function at all—
+
+### Source page 44
+
+Thus the Kyuli process—the process supplied from Mexico—is unfit, should not be touched, and lacks the capacity to manufacture newsprint. Although all this is known, including that it was not successfully used and was not useful in neighbouring Peru, it is strange that collaboration is still being maintained with them.
+
+As for the company that speaks of the Kyuli process, is it an influential company in the world? No. It is a private concern; indeed, it is not even one of the large limited companies. It is what is called a proprietary concern. From what I have enquired, by using the Kyuli process on sugarcane bagasse one may perhaps make some other kind of paper, but one cannot manufacture the printing paper called newsprint. I hear that it is impossible—“Not Feasible”—so, so I hear. I also hear that officials have expressed dissenting views about this. I hear that the three Industries Secretaries preceding the present Industries Secretary expressed the view that this was a project that should not be touched. The Minister must tell me whether that is true or not. Even though all the previous officials, including three secretaries and the Finance Secretary, are said to have expressed the view that it is not feasible, what is the purpose of now making the Industries Secretary himself the Executive Director of the company and implementing a Rs. 200-crore scheme with Viswanathan as chairman? I hear these things; I hope they are not true. Because frightening reports are being heard that there is a 10 per cent commission in foreign exchange on this Rs. 200-crore project and about who may be involved, before this is—
+
+### Source page 45
+
+started I am duty-bound to warn you, precisely so that no room is given for such corruption.
+
+What I ask is: why did you choose technology that has not been proved feasible for this project? That is one. Has that Kyuli process been successfully used anywhere else? Two. Did three important Industries Secretaries among our officials object that it was not feasible or not? If they did, will you place those notes before the House so that others may see them? Is it proper for the consultant Viswanathan to be chairman? Because these questions give rise to fear that various forms of corruption may arise, your involvement in this manner is improper. If you implement this project properly, we are prepared to welcome it. This is not a joint sector; after calling it a Government-sector undertaking, it is not proper to put a consultant in as chairman and conduct the matter in this way.
+
+From the Industries Minister's reply, it appears that no request was made on behalf of Ashok Leyland. From his statement that they did not need to conduct that business in Tamil Nadu and wanted to go to another State, it appears that they made no request. Is that true?
+
+**Hon. Mr S. Thirunavukkarasu:** Hon. Speaker, their existing production in Tamil Nadu is not supplied only within Tamil Nadu. As far as sales are concerned, they supply throughout India. Therefore, when the Central Government permitted their expansion in the northern part of India, they wished to start the industry in the northern region of the country; that is why I said they started the factory there.
+
+### Source page 46
+
+**Kalaignar M. Karunanidhi:** Hon. Speaker, what I wish to know from the Minister is whether the Tamil Nadu Government sought to have the Ashok Leyland expansion here or not.
+
+**Hon. Mr S. Thirunavukkarasu:** Hon. Speaker, they asked for the Ashok Leyland expansion, and on that basis land was allotted at Hosur and an expansion involving an investment of Rs. 100 crore has taken place there. If you ask why they did not do still more, they have gone to the North on the basis that, commercially and technically, it is profitable for them. I said that they have gone to the northern States.
+
+**Mr K. Anbazhagan:** Hon. Speaker, when the Minister speaks he repeatedly stresses that they went to other States for commercial reasons. Does the Minister accept that obtaining incentives is itself part of commercial considerations? Or does he think obtaining incentives is one thing and commercial considerations another?
+
+**Hon. Mr S. Thirunavukkarasu:** Hon. Speaker, the Deputy Leader of the Opposition said that the Minister is emphasising “commercial reasons.” I am not emphasising it; the M.D. of Ashok Leyland himself has said it. It has appeared many times in the newspapers. He himself has repeatedly said: we did not go because we had any complaint against this Government or because the Government did not cooperate with us...
+
+**Kalaignar M. Karunanidhi:** Hon. Speaker, the Hosur project mentioned by the Minister is its second stage. For the first-stage expansion, did they contact the Tamil Nadu—
+
+### Source page 47
+
+Government and ask for certain concessions or not? The Chief Minister has said here that the Tamil Nadu Government refused them. Is that true or not?
+
+**Hon. Mr S. Thirunavukkarasu:** Hon. Speaker, I am saying the same thing again. Not only they, not only Ashok Leyland: when many industrialists approach us to start industries, or when the question of incentives arises, I spoke about this at the conference of State Industries Ministers. The leader of the Congress party too said this here earlier during the Budget discussion. Some States, according to their means, provide certain assistance and concessions. As far as the Tamil Nadu Government is concerned, we have fixed certain limits, certain ceilings. At present the one issue on which other States give a larger incentive is `Interest free sales tax loan`. In Tamil Nadu we have fixed Rs. 48 lakhs as the ceiling for starting a new undertaking and Rs. 15 lakhs for an expansion. They say that in other States it goes to one crore, two crore, three crore. The Tamil Nadu Government wants industrial growth to spread widely. Therefore, the Government is thinking of increasing that upper limit to some extent. I will speak about that later when I come to it.
+
+**Kalaignar M. Karunanidhi:** I expect a concise answer from you. By enlarging your answer you are concealing the reply I seek. All I want to know from the Minister is this: for the first-stage expansion they sought certain concessions for that project, and you did not agree to give them—
+
+### Source page 48
+
+As a result, they could not carry out any expansion. Is that correct or not?
+
+**Hon. Mr S. Thirunavukkarasu:** Hon. Speaker, they made certain requests. But that was not the reason they went away. They did not go to other States in anger with this Government or in disappointment with the Tamil Nadu Government because the incentives they sought for expansion of their factories in Tamil Nadu were not available here.
+
+**Mr K.S.G. Haja Shareef:** Hon. Speaker, the Minister said that an upper limit has been fixed. Whatever loan you give, IDBI refinances it, does it not? Then what difficulty do you have in it? Why do you keep this upper limit? If that Ashok Leyland factory had come here, many thousands of people would have obtained employment; you would have received at least more than Rs. 100 crore in profit from it year after year.
+
+**Hon. Mr S. Thirunavukkarasu:** Hon. Speaker, I give the leader of the Congress party the same answer. They did not go because we refused incentives, or because they did not receive incentives to the extent they asked. They may ask for as much as they wish; but what can be given must be given within a limit. The issue is whether they left because what they asked for was not given. They may ask for any amount. But did they leave because what they asked for was not given? Certainly not. They chose another State because carrying out that expansion elsewhere was commercially and economically profitable to them—
+
+### Source page 49
+
+That is what we said last year and what we say this year too. I will add one more thing. The same Ashok Leyland company, in the joint sector, another factory manufacturing castings...
+
+**Mr Duraimurugan:** When the Chief Minister replied last year, did he not say that they went to another State because he said he would not give that concession? What the Minister says now contradicts that...
+
+**Hon. Speaker:** Hon. member Duraimurugan says that the Chief Minister himself has already said it. After that, why get up and ask the same thing again and again? Let us move to the next matter.
+
+**Hon. Mr S. Thirunavukkarasu:** Hon. Speaker, forgive me. Before moving to the next matter, I wish finally to say one thing in continuation. If they had left here in anger, then in our Pudukkottai, together with TIDCO, in the joint sector, another factory manufacturing castings...
+
+**Kalaignar M. Karunanidhi:** Forgive me for interrupting frequently. No one said they left in anger. No industrialist, after engaging in some venture, will become angry with that country or State and pick up all the industries there and carry them away. They will continue to have connections in other industries. But we lost the opportunity for a major factory, an expansion, to be established here and provide employment to many thousands. The reason is that this Government did not grant the concession they asked for—
+
+### Source page 50
+
+That is our charge.
+
+**Hon. Mr S. Thirunavukkarasu:** That is precisely the charge for which there is no evidence, no basis. We denied it last year and deny it this year too. If it were true that they went to another State because more incentives were available there, they could also contact the Government of that other State regarding the undertaking they have with TIDCO in the joint sector, obtain the higher incentives offered there, and start it there. But the fact that they are starting it here shows that, as far as the incentives provided by this Government are concerned, they have no disagreement. As for the chassis and why they placed their expansion in another region, I keep repeating this: it is not merely what I say; the company's own director, its M.D., and its chairman have said that they selected a northern State, another State, for economic and commercial reasons.
+
+Similarly, the same accusation was made last year that the Central Government kept saying, “Take it, take it,” offering Tamil Nadu a Rs. 400-crore railway coach factory on one thousand acres, capable of providing employment to 10,000 people; that you said, “No, no”; and that they then turned and went to Tirupati. Kalaignar has repeated the same charge this year with a little polish. I again give the same answer I gave last year. They ask for land. If the Central Government is going to start an industry, they say: this factory is coming, we need so many acres for it—
+
+### Source page 51
+
+All the States write. We eagerly write: come here, come here, start here; if it is an expansion, come here. We select a site and write: we will give one thousand acres here; whatever you ask, we will give. But the Central Government has to decide. They decide on Tirupati, Andhra Pradesh. What is the reason? Kalaignar himself must ask. That is what I said here. We ask why it went there. We asked again. They asked us, “You are writing and expressing regret only after it has gone.” We wrote even afterwards. We wrote after such an announcement came. If by “after it had gone” you mean after it was inaugurated, only now has the President come and inaugurated it. But before it reached that stage, we wrote again and again: please reconsider...
+
+**Kalaignar M. Karunanidhi:** Even though you and the Chief Minister have explained it many times, we are still in a situation where we cannot accept your explanation. Perhaps that may even be our mistake. Perhaps what you say is correct and we may not know it. We may be speaking this way because we do not know all the correspondence in which you wrote to the Central Government and pressed for that factory to come here. Therefore, so that everyone can understand, if you place before this House as a report what correspondence you had, what replies came, we too are duty-bound to learn. We do not wish to be obstinate in our view. Such material may even help us free ourselves from that view. At what times did you write which letters? What replies did the Central Government send? If you give that compilation to this House, it will be useful to both sides. The issue will end there.
+
+### Source page 52
+
+**Hon. Speaker:** With the permission of the House, the sitting time is extended.
+
+**Hon. Mr S. Thirunavukkarasu:** Hon. Speaker, I did not say as though the Leader of the Opposition, Kalaignar, had committed some mistake. He need not go to that extent. What I say is that he is speaking from one line of argument. He himself may know why he is saying it; he surely knows. What we request of our Leader of the Opposition, Kalaignar, is this: rather than blaming ourselves, if his speech had been along the lines, “Even though we gave one thousand acres of land, the Central Government selected another State instead of Tamil Nadu; I condemn that. At least the industries the Central Government starts hereafter should be started in Tamil Nadu,” it would be very helpful to Tamil Nadu's industrial growth. That is my request and my view.
+
+**Mr N.S.V. Chithan:** If you tell us what reply the Central Government gave and what you wrote, we can decide accordingly. You have not answered that. Please answer it.
+
+**Hon. Mr S. Thirunavukkarasu:** I wish to tell the Hon. member Chithan: what has gone to Tirupati has gone. The foundation ceremony has taken place. The Hon. President—
+
+### Source page 53
+
+and the Railway Minister have come and conducted the function. Even if Chithan himself goes and asks now, it cannot be brought here. (Interruption) For that very reason, Hon. members such as Chithan must help. At least the factories or Central industries that are going to come hereafter should come here. We select places and send proposals. I gave one or two examples. I spoke about H.M.T. I spoke about Hindustan Photo Films. We can say in this House what we are asking for; there is nothing secret about it. All those matters are there. When you go there, instead of saying it here, say it there; tell the Prime Minister. When Central industries are expanded or new factories are to be established, we need the help of Congress party members to have them started in Tamil Nadu.
+
+**Kalaignar M. Karunanidhi:** For Tamil Nadu to prosper and industry to grow, the Dravida Munnetra Kazhagam is prepared to cooperate with this Government to whatever extent is necessary and to argue with the Central Government. I mentioned that in my speech too. I said while speaking that the Kazhagam will stand with you in arguing and fighting with the Central Government to obtain the resources Tamil Nadu needs. I said it even before you did. All I ask is: if you place before this House the compilation showing how you argued with the Central Government for that railway coach factory, at what times you wrote letters, on what dates you wrote, and what replies came, it will give us still greater strength to argue against the Central Government. Will you help?
+
+### Source page 54
+
+**THIRU K.S.G HAJA SHAREEF:** *The following intervention is printed in English in the source:*
+
+> Sir, You will kindly remember that on the very first occasion, when I began to speak in this house, I have given full support to the Government. I said although I am a Opposition Leader, I will not oppose anything and everything I will certainly appreciate what the Government does. Whatever the Government wants, we will certainly co-operate with them and see that our State becomes the first and foremost. I continue to state this and I will assure the Hon. Minister and other colleagues that what all lies in our power, we will certainly co-operate with them to see that this State becomes one of the most powerful State in our country. Kindly tell us what are all your difficulties. Let them not put the blame on somebody, if they are not prompt in taking action and seizing of the opportunity.
+
+**Hon. Mr S. Thirunavukkarasu:** Hon. Speaker, I am duty-bound to thank the Hon. Leader of the Opposition, Kalaignar, and the leader of the Congress party on behalf of the people of Tamil Nadu and on my own behalf. Hon. member Palaniappan, who first began the argument here on behalf of the Dravida Munnetra Kazhagam, said one thing. When we ask the Central Government for industries in this manner, he asked what would happen if Legislative Assembly members belonging to all parties in the State expressed support, signed and sent a representation. Now, linking that with what the Leader of the Opposition and likewise the Congress party leader have said, instead of stopping with the idea that all of us here support it in the Legislative Assembly and sign as MLAs, those in Parliament—members of the Dravida Munnetra Kazhagam and likewise members of the Congress party—when they learn that some Central industry is about to be started—
+
+### Source page 55
+
+or as soon as they know what proposals we have sent from here, if they jointly approach the concerned Minister and strongly press that the new industry must come to Tamil Nadu, I will be duty-bound to thank them.
+
+**Kalaignar M. Karunanidhi:** I wish to remind the Hon. Minister of one thing. Even in the Railways, there was an agitation demanding that the Nellai-Kumari line be connected with the Madurai division. Leaders of several parties participated. Members of Parliament also participated and submitted a petition. But because the rulers were not firm and strong in the matter, it went away from us. Even if all of us cooperate, success will come only if the rulers stand firmly behind it and argue with them. That is why I asked whether the correspondence we had already had concerning this railway coach factory could be disclosed. Without answering that, it is not good for Hon. Thirunavukkarasu to turn into “Thiru Nedumaval Arasu.”
+
+**Hon. Mr S. Thirunavukkarasu:** Hon. Speaker, as I already said, if they wish to see the letters that the Chief Minister and I wrote to the Central Government on behalf of the State Government regarding that railway coach factory, I am prepared to show them. There is no difficulty and no secrecy in it. Copies of the letters written from here are available. I state that there is no hesitation in showing them. It is not correct to say that it went to Tirupati only because Tamil Nadu made no effort. Similarly, when plans are drawn for Central factories, they ask us to identify a site here—
+
+### Source page 56
+
+We too examine where in Tamil Nadu there is a suitable opportunity and tell them. But the Central Government has to take the decision. When they decide, we repeatedly say that they should show consideration towards Tamil Nadu.
+
+The Hon. member of the Marxist Communist Party has already said that time is up and that we must return at four o'clock. Therefore, on behalf of the Government, I am duty-bound to make one or two announcements about what we intend to do in the coming days. As already stated here, we are going to start a paper factory at Pugalur in Tiruchi district at a cost of Rs. 190 crore. We are going to start an explosives factory in North Arcot district at a cost of Rs. 20 crore. We are going to establish a steel rolling mill at Arakkonam at a cost of Rs. 4 crore. We are going to establish a sugar mill at Tiruttani. I think Mr Chithan asked while speaking: you announced that small sugar mills would be established; what is their status? I wish to state that the Government is considering the establishment of such small sugar mills—of roughly 450-500-ton capacity—in Thanjavur district, Pudukkottai district and Madurai district.
+
+I wish to tell them this. In Madras Fertilisers—it is a Central Government company—Mr Mahalingam has served as chairman. Former Pondicherry Governor Mr Chediwal has served as chairman of Modern Bakeries, a Central Government company. In Tamil Nadu too, in some companies, private persons have been appointed as
+
+### Source page 57
+
+chairmen. This is nothing new either. A Mr Tandon has served as chairman of Punjab National Bank. People have been appointed in this way in various companies. Here Viswanathan has been appointed temporarily. At Seshasayi Mill they had planned to manufacture newsprint paper. In order that it should not go to the private sector, and in order to obtain the technical knowledge they possess and use it in this industry being started in the public sector, Mr Viswanathan has been appointed as “consultant and one of the directors.”
+
+Only about Rs. 30 crore of our money is involved in this. The rest is being put in by I.D.B.I. and the World Bank. Later, when a chairman is appointed, among the four directors the Managing Director will be a Government officer; whoever I.D.B.I. and the World Bank wish to be appointed chairman will be the person who can become chairman.
+
+That is the present position. Temporarily, in the efforts we are undertaking to create that organisation, we have placed him as chairman. There is nothing secret in this. There is no corruption or wrongdoing in this. They said that the letter of intent says 83 thousand tons, while in respect of newsprint the capacity here is stated as only 50 thousand tons. There is nothing incriminating in that. When obtaining the letter, we obtain permission for a higher quantity; that is all. But when we speak of production capacity, we produce only as much as we can. We cannot obtain a letter of intent for a lower quantity and then produce more. Therefore we have obtained a letter of intent for a higher quantity. If possible—
+
+### Source page 58
+
+we will try to increase production and expand it.
+
+Next, another matter was mentioned here. Please do not be angry that I am using this proverb here. They even say, “To frightened eyes, everything dark is a ghost.” I do not know whether they are calling everything they take up corruption in the same way. They said it is a Rs. 200-crore scheme, that 10 per cent of it is corruption, that money is being taken abroad, and that some big people are involved. There is no evidence whatsoever for all that. Moreover, these are not matters being done secretly. The World Bank is watching this. I.D.B.I., an institution of the Central Government, is involved. Its advisers and officials are involved. If machinery is purchased from abroad or technical knowledge is obtained, it will certainly take place only with the approval of the Central Government. Therefore, I believe Dr Kalaignar certainly will not say that the Central Government too will commit wrongdoing. So, to say in all this that some corruption is going to take place...
+
+**Kalaignar M. Karunanidhi:** Hon. Speaker, I raised these shortcomings here precisely so that they should also come to the attention of the Central Government. Because when you examine the Q.C. process you are obtaining there, it is a process that has not been proved—that is, not “proved”—to be a process that has succeeded in any country. Not only that. I hear that in Peru, a country near Mexico, this process itself was tested and news has come that it was not useful. Therefore, whether it is the State Government—
+
+### Source page 59
+
+or the Central Government, I said this only to bring it to their attention so that they will be cautious, and for no other reason.
+
+**Hon. Mr S. Ramachandran:** Hon. Speaker, as far as this project is concerned, it has already been brought to the attention of the Central Government. The Central Planning Commission examined it thoroughly, including the technology involved, and only after detailed examination did they agree to include it in the Sixth Five-Year Plan. Not only that, discussions are under way for the World Bank to provide finance for it. Therefore, after examining it, they have proceeded on the basis that this technology is feasible. It has been included in our Sixth Five-Year Plan and funds have been allotted for it. Therefore, the Hon. Leader of the Opposition need not say anything about the technology or others. The explanation given by the Hon. Industries Minister regarding investment—that such changes can occur when the actual report is prepared—is the explanation. Therefore there is no need for them to be suspicious.
+
+**Kalaignar M. Karunanidhi:** Hon. Speaker, the Industries Minister said, “To a frightened man's eyes, everything dark is a ghost.” I asked only because it is dark and therefore one cannot know what is there, and for no other reason.
+
+**Hon. Mr S. Thirunavukkarasu:** Very well. The Hon. Leader of the Opposition said that I had referred to him as frightened. I would not say that. Nor did I say so. I have great respect for him. That is why—
+
+### Source page 60
+
+I modified even that proverb slightly and said, “To frightened people's eyes, everything dark is a ghost.” I said it respectfully. If 10 per cent of Rs. 200 crore means an unimaginably large wrongdoing, how will that appear in the newspapers? You said it in order to create an impression that this Government is acting improperly and is going to receive Rs. 20 crore abroad. It was because such an accusation was made that I said what I did. Therefore there is no such situation in it. There is certainly no opportunity or occasion for wrongdoing to occur. The World Bank institution has put its advisers and directors into this. That is why I pointed it out.
+
+Not only that, they said that we announced in great haste the explosives factory that is to come at Rs. 20 crore. They asked why such a large Rs. 109-crore project was not mentioned in the Budget, and even said that there must be something in it and that this was why it had been concealed. This project was already mentioned in last year's Budget. We announced that the project would come. Therefore there is no compulsion to mention it every year. There is no need to conceal it. There is nothing secret in it. It was openly stated in last year's Budget.
+
+It was omitted only because there was no need to repeat this year the same project stated last year. There is nothing secret—
+
+### Source page 61
+
+about it. They asked whether all the secretaries who were here earlier had expressed objections. To the best of my knowledge, certainly not. When meetings are held and matters discussed, no one holds back from stating or exchanging their views. Even when the final decision is taken, it is the officials who take it. By officials I do not mean only officials of the Tamil Nadu Government. As I have already pointed out, all those in institutions such as I.D.B.I. and the World Bank together take the decision.
+
+A World Bank team too has come here two or three times. Even now Tamil Nadu's Industries Secretary has gone abroad, including to America, to hold discussions with the World Bank in this connection. In this way, in various laws and in the Central Planning Commission, a good project that is going to come while being severely criticised—the Leader of the Opposition should welcome it. It is only because, by saying something contrary to that, it should not end up failing to come here... (Interruption)
+
+**Kalaignar M. Karunanidhi:** I say this so that it should not be reported wrongly in the newspapers. They said that we should welcome a good project coming. My wish is that the project that comes should come as a good project.

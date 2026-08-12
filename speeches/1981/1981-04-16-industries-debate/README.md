@@ -31,24 +31,26 @@
 
 ## Tamil transcription and verification status
 
-The complete Tamil transcription covers **scan pp.27–61 / printed pp.26–60** in three bounded first-pass batches:
+The complete Tamil transcription covers **scan pp.27–61 / printed pp.26–60** in three bounded first-pass batches: 27–41, 42–56 and 57–61.
 
-- Batch 1: scan pp.27–41
-- Batch 2: scan pp.42–56
-- Batch 3: scan pp.57–61
-
-The full-speech completeness audit passed with all **35** source-page markers present, unique and monotonic. After that, a separate strict visual/source-fidelity verification was completed directly against every controlling scan image from p.27 through p.61.
-
-The Gate-E review checked wording and individual characters, names/initials, numerals, dates, percentages, monetary values and units, printed English passages, headings, speaker labels/interventions, punctuation where legible, and page-transition continuity. The first-pass discrepancies found in that review were corrected in the canonical `transcript.md` and recorded in `verification-log.md`.
+The full-speech completeness audit passed with all **35** source-page markers present, unique and monotonic. A separate strict visual/source-fidelity verification was then completed directly against every controlling scan image from p.27 through p.61. The first-pass discrepancies found in that review were corrected in the canonical `transcript.md` and recorded in `verification-log.md`.
 
 The ending remains source-faithful: scan p.61 contains Kalaignar's closing intervention followed by the decorative ending ornament; scan p.62 begins `உரை : 3 / நாள் : 03.05.1989`.
 
+## English translation and verification status
+
+The English translation now appears **only after the complete verified Tamil transcription** in `transcript.md` and preserves the same source-page sequence with `### Source page 27` through `### Source page 61`.
+
+The translation was made from the final verified Tamil rather than OCR or an earlier draft. A separate Gate-G fidelity review was then completed page by page against that verified Tamil. Names, figures, dates, percentages, monetary amounts, quotations, parliamentary speaker changes/interventions and technical terms were checked across the full range.
+
+Printed English already present in the Tamil source—including the Government of India letter-of-intent paragraph on scan p.40 and the full `THIRU K.S.G HAJA SHAREEF` intervention on scan p.54—is identified as source English and retained rather than silently rewritten. The translation does not substitute external historical corrections for source claims.
+
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — **verified Tamil transcription**, scan pp.27–61, with source-page markers.
-- [`metadata.json`](./metadata.json) — source, page-range and verification/translation status metadata.
-- [`source-notes.md`](./source-notes.md) — source authority, boundaries, transcription policy and Gate-E source notes.
-- [`verification-log.md`](./verification-log.md) — first-pass batches, Gate-D completeness audit and Gate-E page-by-page verification/correction record.
+- [`transcript.md`](./transcript.md) — **verified Tamil transcription followed by verified English translation**, scan/source pp.27–61.
+- [`metadata.json`](./metadata.json) — source, page-range, Tamil verification and English verification status metadata.
+- [`source-notes.md`](./source-notes.md) — source authority, boundaries, transcription policy and translation policy/status.
+- [`verification-log.md`](./verification-log.md) — first-pass batches, Gate-D completeness, Gate-E Tamil verification and Gate-G English fidelity record.
 
 ## தற்போதைய நிலை
 
@@ -57,9 +59,11 @@ The ending remains source-faithful: scan p.61 contains Kalaignar's closing inter
 - Strict Tamil visual/source-fidelity verification: **passed for scan pp.27–61**.
 - Tamil status: **verified**.
 - Unresolved Tamil readings: **none**.
-- English translation: **not started**; the verified-Tamil prerequisite is now satisfied.
-- Root release index / `data/speeches.json`: **not yet updated**; release remains after English translation and English fidelity verification.
+- English translation: **complete**.
+- English fidelity verification: **passed against the verified Tamil for source pages 27–61**.
+- English status: **verified**.
+- Root release index / `data/speeches.json`: **not yet updated**; Gate H remains the next workflow stage.
 
 ## காப்பகக் குறிப்பு
 
-Scan image தான் canonical source. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels, interventions and printed English passages are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers, printed page numbers and the closing decorative ornament are not repeated as speech text.
+Scan image தான் canonical Tamil source. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels, interventions and printed English passages are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers, printed page numbers and the closing decorative ornament are not repeated as speech text. The English layer is a faithful reading translation of that verified Tamil source layer, not a historical rewrite.
