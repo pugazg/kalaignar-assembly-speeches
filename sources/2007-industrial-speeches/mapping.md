@@ -21,6 +21,8 @@ Mapping is performed by direct visual inspection of the scanned page images. OCR
 
 A speech boundary is considered confirmed only where the source itself shows a new `உரை : N` / `நாள் : DD.MM.YYYY` heading or an equally explicit editorial boundary.
 
+If the supplied scan ends before a speech concludes, that speech must be recorded as incomplete in this source rather than being given an invented end boundary.
+
 ## Iterative mapping plan
 
 - [x] PDF scan pp. 1–25
@@ -28,13 +30,13 @@ A speech boundary is considered confirmed only where the source itself shows a n
 - [x] PDF scan pp. 51–75
 - [x] PDF scan pp. 76–100
 - [x] PDF scan pp. 101–125
-- [ ] PDF scan pp. 126–150
+- [x] PDF scan pp. 126–150
 - [ ] Re-check every detected speech start/end boundary
 - [ ] Create final speech inventory with canonical repository IDs
 
 ---
 
-## Confirmed mapping through PDF scan p. 125
+## Confirmed mapping after full 150-page scan pass
 
 ### Front matter
 
@@ -73,28 +75,41 @@ Parliamentary interventions by other members inside the sequence remain part of 
 
 - **Source label:** `உரை : 4`
 - **Date:** `18.04.1990`
-- **Speech start:** PDF scan **p. 99**
-- **Printed page at start:** **98**
-- **Speech end:** not yet reached by PDF scan p. 125
-- **Status:** start confirmed; end boundary open
+- **PDF scan pages:** **99–135**
+- **Printed pages:** **98–134**
+- **Boundary evidence:** scan p. 99 explicitly begins `உரை : 4` / `நாள் : 18.04.1990`; scan p. 135 finishes the parliamentary exchange and carries a decorative floral end mark; scan p. 136 begins `உரை : 5`.
+- **Status:** confirmed complete
 
-Scan p. 99 explicitly prints `உரை : 4` and `நாள் : 18.04.1990`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி` as the opening speaker label.
+The many speaker interventions, quoted official correspondence and statistical/project discussions within pp. 99–135 are internal to Speech 4 and are not separate editorial speech boundaries.
 
-PDF scan pp. **101–125** continue the same speech without any new `உரை : N` / date heading. The sequence includes industrial-policy figures, references to specific public/private projects, English quotations from official correspondence, discussion of Salem Steel Plant and Madras Fertilisers, power-generation figures, industrial estates, co-operative industrial units, and parliamentary interventions. These changes in speaker or quoted material are internal to Speech 4 and are not editorial boundaries.
+### Speech 5
 
-No explicit new speech boundary appears through scan p. 125 (printed p. 124).
+- **Source label:** `உரை : 5`
+- **Date:** `14.08.1996`
+- **Speech start:** PDF scan **p. 136**
+- **Printed page at start:** **135**
+- **Available scan extent:** PDF scan **pp. 136–150**
+- **Available printed pages:** **135–149**
+- **Boundary evidence:** scan p. 136 explicitly begins `உரை : 5` and `நாள் : 14.08.1996`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி`.
+- **End boundary:** **not present in the supplied PDF**
+- **Status:** start confirmed; incomplete in supplied scan
+
+Speech 5 continues continuously through the final PDF page. Scan p. 150 / printed p. 149 ends in the middle of Karunanidhi's sentence (`உங்கள் அண்ணனின் ஆசை அந்த ...`) with no decorative closing mark, no new `உரை` heading and no other editorial indication of completion.
+
+Therefore PDF scan p. 150 must **not** be treated as the true end of Speech 5. The supplied 150-page file ends before the speech conclusion. Any transcription based on this file must explicitly record Speech 5 as source-incomplete unless continuation pages are later obtained from another copy/source.
 
 ---
 
-## Current inventory after scan p. 125
+## Current inventory after scan p. 150
 
 | Source speech | Date | PDF scan pages | Printed pages | Boundary status |
 |---|---|---:|---:|---|
 | உரை 1 | 21.03.1963 | 18–26 | 17–25 | Confirmed complete |
 | உரை 2 | 16.04.1981 | 27–61 | 26–60 | Confirmed complete |
 | உரை 3 | 03.05.1989 | 62–98 | 61–97 | Confirmed complete |
-| உரை 4 | 18.04.1990 | 99–? | 98–? | Start confirmed; continues past p. 125 |
+| உரை 4 | 18.04.1990 | 99–135 | 98–134 | Confirmed complete |
+| உரை 5 | 14.08.1996 | 136–150 available | 135–149 available | Incomplete: supplied scan ends mid-speech |
 
-## Exact continuation point
+## Next mapping step
 
-Resume structural mapping at **PDF scan p. 126**, continuing Speech 4 until the next explicit speech boundary is found.
+Perform a focused boundary re-check around scan pp. **18, 26–27, 61–62, 98–99, 135–136 and 150**, then create the final canonical speech inventory and repository IDs. Speech 5 must retain an explicit incomplete-source flag unless additional continuation pages are supplied.
