@@ -31,30 +31,31 @@
 
 ## தற்போதைய transcription batch
 
-- Completed first-pass scan pages: **62–76**
-- Corresponding printed pages: **61–75**
-- Batch size: **15 scan pages**
-- Next scan page: **77**
+- Completed first-pass scan pages: **62–91**
+- Corresponding printed pages: **61–90**
+- Batch 1: **62–76**
+- Batch 2: **77–91**
+- Next scan page: **92**
 - Speech state: **partial / in-progress**
 
-Scan p.76 ends mid-sentence with `ஆனால் இதை வைத்துக் கொண்டு பொதுத் துறையே`. The sentence continues on scan p.77; that continuation is deliberately left for the next bounded batch.
+Scan p.91 ends mid-sentence with `தோல் தொழிற்சாலை`; scan p.92 continues `பற்றிக்கூட சொன்னார்கள். அந்த மாசுகளையும் ...`. The remaining first-pass range is scan pp.92–98 / printed pp.91–97.
 
-A source-page boundary inside this batch is also intentionally preserved where scan p.69 ends with `வாலி` and scan p.70 continues `நோக்கத்தில்`.
+Source-page boundaries and parliamentary interventions remain explicitly preserved. Batch 2 includes the tender/file-history discussion, the numbered TIDCO-associated industrial projects, industrial-centre proposals, oil-refinery discussion, sugar-industry policy, and the `திரு. எஸ். திருநாவுக்கரசு` intervention on scan pp.90–91.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — partial Tamil first-pass transcription, scan pp.62–76, with explicit source-page markers.
-- [`metadata.json`](./metadata.json) — source, locked full-speech range, completed batch and status metadata.
-- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries, batch boundary and transcription policy.
-- [`verification-log.md`](./verification-log.md) — Gate-C batch record and page-marker audit; full-speech Tamil audit and strict verification have not yet begun.
+- [`transcript.md`](./transcript.md) — partial Tamil first-pass transcription, scan pp.62–91, with explicit source-page markers.
+- [`metadata.json`](./metadata.json) — source, locked full-speech range, completed batches and status metadata.
+- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries, batch boundaries and transcription policy.
+- [`verification-log.md`](./verification-log.md) — Gate-C batch records and page-marker audits; full-speech Tamil audit and strict verification have not yet begun.
 
 ## தற்போதைய நிலை
 
-- Tamil first-pass transcription: **in progress** — pp.62–76 complete; pp.77–98 pending.
+- Tamil first-pass transcription: **in progress** — pp.62–91 complete; pp.92–98 pending.
 - Full-speech Tamil completeness audit: **not yet eligible**.
 - Strict Tamil visual/source-fidelity verification: **not started** as a separate full-speech gate.
 - Tamil status: **in-progress**.
-- Explicit unresolved-reading markers in this batch: **none currently flagged**; this does not imply verification.
+- Explicit unresolved-reading markers in completed first-pass batches: **none currently flagged**; this does not imply verification.
 - English translation: **blocked / not started**.
 - Root release index / `data/speeches.json`: **not updated** while Speech 3 remains partial.
 
