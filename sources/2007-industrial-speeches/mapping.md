@@ -10,8 +10,15 @@
 - **Rights:** ஆசிரியருக்கே
 - **Printer / binder:** Eagle Press, Chennai - 600 013
 - **Scan filename:** `TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf`
-- **Scan pages:** 150
+- **Actual PDF pages:** **329**
+- **File size:** 217,124,211 bytes
 - **SHA-256:** `c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370`
+
+## Important correction to the working record
+
+The first inspection interface exposed only the first **150** rendered pages even though the attached PDF itself contains **329 pages**. The earlier note that Speech 5 was `source-incomplete` at scan p. 150 was therefore incorrect and is superseded by this mapping.
+
+The original PDF bytes have now been checked directly. Structural mapping continues beyond p. 150 using direct page rendering from the 329-page source.
 
 ## Mapping policy
 
@@ -21,8 +28,6 @@ Mapping is performed by direct visual inspection of the scanned page images. OCR
 
 A speech boundary is considered confirmed only where the source itself shows a new `உரை : N` / `நாள் : DD.MM.YYYY` heading or an equally explicit editorial boundary.
 
-If the supplied scan ends before a speech concludes, that speech must be recorded as incomplete in this source rather than being given an invented end boundary.
-
 ## Iterative mapping plan
 
 - [x] PDF scan pp. 1–25
@@ -31,12 +36,20 @@ If the supplied scan ends before a speech concludes, that speech must be recorde
 - [x] PDF scan pp. 76–100
 - [x] PDF scan pp. 101–125
 - [x] PDF scan pp. 126–150
+- [x] PDF scan pp. 151–175
+- [ ] PDF scan pp. 176–200
+- [ ] PDF scan pp. 201–225
+- [ ] PDF scan pp. 226–250
+- [ ] PDF scan pp. 251–275
+- [ ] PDF scan pp. 276–300
+- [ ] PDF scan pp. 301–325
+- [ ] PDF scan pp. 326–329
 - [ ] Re-check every detected speech start/end boundary
 - [ ] Create final speech inventory with canonical repository IDs
 
 ---
 
-## Confirmed mapping after full 150-page scan pass
+## Confirmed mapping through PDF scan p. 175
 
 ### Front matter
 
@@ -48,7 +61,6 @@ PDF scan pp. **1–17** are publication/front-matter material and are not part o
 - **Date:** `21.03.1963`
 - **PDF scan pages:** **18–26**
 - **Printed pages:** **17–25**
-- **Boundary evidence:** scan p. 18 explicitly begins `உரை : 1` / `நாள் : 21.03.1963`; scan p. 26 closes the speech; scan p. 27 begins `உரை : 2`.
 - **Status:** confirmed complete
 
 ### Speech 2
@@ -57,10 +69,7 @@ PDF scan pp. **1–17** are publication/front-matter material and are not part o
 - **Date:** `16.04.1981`
 - **PDF scan pages:** **27–61**
 - **Printed pages:** **26–60**
-- **Boundary evidence:** scan p. 27 explicitly begins `உரை : 2` / `நாள் : 16.04.1981`; scan p. 61 closes the debate and carries a decorative end mark; scan p. 62 begins `உரை : 3`.
 - **Status:** confirmed complete
-
-Parliamentary interventions by other members inside the sequence remain part of Speech 2 and are not separate archival speech boundaries.
 
 ### Speech 3
 
@@ -68,7 +77,6 @@ Parliamentary interventions by other members inside the sequence remain part of 
 - **Date:** `03.05.1989`
 - **PDF scan pages:** **62–98**
 - **Printed pages:** **61–97**
-- **Boundary evidence:** scan p. 62 explicitly begins `உரை : 3` / `நாள் : 03.05.1989`; scan p. 98 ends the parliamentary exchange with a decorative floral end mark; scan p. 99 begins `உரை : 4`.
 - **Status:** confirmed complete
 
 ### Speech 4
@@ -77,30 +85,32 @@ Parliamentary interventions by other members inside the sequence remain part of 
 - **Date:** `18.04.1990`
 - **PDF scan pages:** **99–135**
 - **Printed pages:** **98–134**
-- **Boundary evidence:** scan p. 99 explicitly begins `உரை : 4` / `நாள் : 18.04.1990`; scan p. 135 finishes the parliamentary exchange and carries a decorative floral end mark; scan p. 136 begins `உரை : 5`.
+- **Boundary evidence:** scan p. 135 closes the parliamentary exchange and carries a decorative end mark; scan p. 136 begins `உரை : 5`.
 - **Status:** confirmed complete
-
-The many speaker interventions, quoted official correspondence and statistical/project discussions within pp. 99–135 are internal to Speech 4 and are not separate editorial speech boundaries.
 
 ### Speech 5
 
 - **Source label:** `உரை : 5`
 - **Date:** `14.08.1996`
-- **Speech start:** PDF scan **p. 136**
-- **Printed page at start:** **135**
-- **Available scan extent:** PDF scan **pp. 136–150**
-- **Available printed pages:** **135–149**
-- **Boundary evidence:** scan p. 136 explicitly begins `உரை : 5` and `நாள் : 14.08.1996`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி`.
-- **End boundary:** **not present in the supplied PDF**
-- **Status:** start confirmed; incomplete in supplied scan
+- **PDF scan pages:** **136–171**
+- **Printed pages:** **135–170**
+- **Boundary evidence:** scan p. 136 explicitly begins `உரை : 5` / `நாள் : 14.08.1996`; the speech continues through the pages that were previously hidden by the 150-page rendering limit; scan p. 171 closes the debate with a decorative torch/flame end mark; scan p. 172 begins `உரை : 6`.
+- **Status:** confirmed complete
 
-Speech 5 continues continuously through the final PDF page. Scan p. 150 / printed p. 149 ends in the middle of Karunanidhi's sentence (`உங்கள் அண்ணனின் ஆசை அந்த ...`) with no decorative closing mark, no new `உரை` heading and no other editorial indication of completion.
+### Speech 6
 
-Therefore PDF scan p. 150 must **not** be treated as the true end of Speech 5. The supplied 150-page file ends before the speech conclusion. Any transcription based on this file must explicitly record Speech 5 as source-incomplete unless continuation pages are later obtained from another copy/source.
+- **Source label:** `உரை : 6`
+- **Date:** `23.04.1997`
+- **Speech start:** PDF scan **p. 172**
+- **Printed page at start:** **171**
+- **Speech end:** not yet reached by PDF scan p. 175
+- **Status:** start confirmed; end boundary open
+
+Scan p. 172 explicitly prints `உரை : 6` and `நாள் : 23.04.1997`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி` as the opening speaker label. Scan pp. 173–175 continue the same speech.
 
 ---
 
-## Current inventory after scan p. 150
+## Current inventory after scan p. 175
 
 | Source speech | Date | PDF scan pages | Printed pages | Boundary status |
 |---|---|---:|---:|---|
@@ -108,8 +118,9 @@ Therefore PDF scan p. 150 must **not** be treated as the true end of Speech 5. T
 | உரை 2 | 16.04.1981 | 27–61 | 26–60 | Confirmed complete |
 | உரை 3 | 03.05.1989 | 62–98 | 61–97 | Confirmed complete |
 | உரை 4 | 18.04.1990 | 99–135 | 98–134 | Confirmed complete |
-| உரை 5 | 14.08.1996 | 136–150 available | 135–149 available | Incomplete: supplied scan ends mid-speech |
+| உரை 5 | 14.08.1996 | 136–171 | 135–170 | Confirmed complete |
+| உரை 6 | 23.04.1997 | 172–? | 171–? | Start confirmed; continues past p. 175 |
 
-## Next mapping step
+## Exact continuation point
 
-Perform a focused boundary re-check around scan pp. **18, 26–27, 61–62, 98–99, 135–136 and 150**, then create the final canonical speech inventory and repository IDs. Speech 5 must retain an explicit incomplete-source flag unless additional continuation pages are supplied.
+Resume structural mapping at **PDF scan p. 176**, continuing Speech 6 until the next explicit speech boundary is found.
