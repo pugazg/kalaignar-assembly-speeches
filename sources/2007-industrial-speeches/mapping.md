@@ -16,17 +16,15 @@
 
 ## Important correction to the working record
 
-The first inspection interface exposed only the first **150** rendered pages even though the attached PDF itself contains **329 pages**. The earlier note that Speech 5 was `source-incomplete` at scan p. 150 was therefore incorrect and is superseded by this mapping.
+The first inspection interface exposed only the first **150** rendered pages even though the attached PDF itself contains **329 pages**. The earlier note that Speech 5 was `source-incomplete` at scan p. 150 was incorrect and is superseded by this mapping.
 
-The original PDF bytes have now been checked directly. Structural mapping continues beyond p. 150 using direct page rendering from the 329-page source.
+Structural mapping beyond p. 150 is based on direct visual rendering of the original 329-page PDF. OCR is not treated as authoritative.
 
 ## Mapping policy
 
-This 2007 publication is a compilation containing multiple Assembly speeches. It must **not** be archived as one speech. Each dated `உரை` is to become its own canonical speech entry under `speeches/YYYY/YYYY-MM-DD-.../` after its scan boundaries are established.
+This 2007 publication is a compilation containing multiple Assembly speeches. It must **not** be archived as one speech. Each dated `உரை` becomes its own canonical speech entry after its scan boundaries are established.
 
-Mapping is performed by direct visual inspection of the scanned page images. OCR is not treated as authoritative. Printed page numbers and PDF scan page numbers are tracked separately.
-
-A speech boundary is considered confirmed only where the source itself shows a new `உரை : N` / `நாள் : DD.MM.YYYY` heading or an equally explicit editorial boundary.
+Printed page numbers and PDF scan page numbers are tracked separately. A speech boundary is considered confirmed only where the source shows a new `உரை : N` / `நாள் : DD.MM.YYYY` heading or an equally explicit editorial ending such as the decorative closing mark used throughout the volume.
 
 ## Iterative mapping plan
 
@@ -39,9 +37,9 @@ A speech boundary is considered confirmed only where the source itself shows a n
 - [x] PDF scan pp. 151–175
 - [x] PDF scan pp. 176–200
 - [x] PDF scan pp. 201–225
-- [ ] PDF scan pp. 226–250
-- [ ] PDF scan pp. 251–275
-- [ ] PDF scan pp. 276–300
+- [x] PDF scan pp. 226–250
+- [x] PDF scan pp. 251–275
+- [x] PDF scan pp. 276–300
 - [ ] PDF scan pp. 301–325
 - [ ] PDF scan pp. 326–329
 - [ ] Re-check every detected speech start/end boundary
@@ -49,7 +47,7 @@ A speech boundary is considered confirmed only where the source itself shows a n
 
 ---
 
-## Confirmed mapping through PDF scan p. 225
+## Confirmed mapping through PDF scan p. 300
 
 ### Front matter
 
@@ -94,7 +92,7 @@ PDF scan pp. **1–17** are publication/front-matter material and are not part o
 - **Date:** `14.08.1996`
 - **PDF scan pages:** **136–171**
 - **Printed pages:** **135–170**
-- **Boundary evidence:** scan p. 136 explicitly begins `உரை : 5` / `நாள் : 14.08.1996`; scan p. 171 closes the debate with a decorative end mark; scan p. 172 begins `உரை : 6`.
+- **Boundary evidence:** scan p. 171 closes the debate with a decorative end mark; scan p. 172 begins `உரை : 6`.
 - **Status:** confirmed complete
 
 ### Speech 6
@@ -103,27 +101,43 @@ PDF scan pp. **1–17** are publication/front-matter material and are not part o
 - **Date:** `23.04.1997`
 - **PDF scan pages:** **172–198**
 - **Printed pages:** **171–197**
-- **Boundary evidence:** scan p. 172 explicitly begins `உரை : 6` / `நாள் : 23.04.1997`; scan pp. 176–197 continue the same speech without a new editorial heading; scan p. 198 (printed p. 197) finishes the speech and carries a decorative closing mark; scan p. 199 begins `உரை : 7`.
+- **Boundary evidence:** scan p. 198 carries the decorative closing mark; scan p. 199 begins `உரை : 7`.
 - **Status:** confirmed complete
-
-The long middle portion of Speech 6 contains statistics, lists of industries/projects, English technical and investment-policy terms, and quoted material. These are continuous parts of the same Assembly speech and are not separate archival boundaries.
 
 ### Speech 7
 
 - **Source label:** `உரை : 7`
 - **Date:** `14.05.1998`
-- **Speech start:** PDF scan **p. 199**
-- **Printed page at start:** **198**
-- **Speech end:** not yet reached by PDF scan p. 225
+- **PDF scan pages:** **199–240**
+- **Printed pages:** **198–239**
+- **Boundary evidence:** scan p. 240 carries the decorative closing mark; scan p. 241 begins `உரை : 8`.
+- **Status:** confirmed complete
+
+### Speech 8
+
+- **Source label:** `உரை : 8`
+- **Date:** `29.04.1999`
+- **PDF scan pages:** **241–277**
+- **Printed pages:** **240–276**
+- **Boundary evidence:** scan p. 241 explicitly begins `உரை : 8` / `நாள் : 29.04.1999`; scan pp. 251–276 continue the same Assembly speech; scan p. 277 (printed p. 276) ends the exchange and carries the decorative closing mark; scan p. 278 begins `உரை : 9`.
+- **Status:** confirmed complete
+
+### Speech 9
+
+- **Source label:** `உரை : 9`
+- **Date:** `8.05.2000`
+- **Speech start:** PDF scan **p. 278**
+- **Printed page at start:** **277**
+- **Speech end:** not yet reached by PDF scan p. 300
 - **Status:** start confirmed; end boundary open
 
-Scan p. 199 explicitly prints `உரை : 7` and `நாள் : 14.05.1998`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி` as the opening speaker label.
+Scan p. 278 explicitly prints `உரை : 9` and `நாள் : 8.05.2000`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி` as the opening speaker label. PDF scan pp. **279–300** continue the same speech without a new `உரை : N` / date heading or decorative ending.
 
-PDF scan pp. **201–225** (printed pp. **200–224**) continue the same speech without any explicit `உரை : N` / date heading, decorative closing mark, or other editorial boundary. The sequence remains a continuous Assembly discussion with industrial-policy statistics, project and investment references, technical/English terminology, and member interventions. These internal changes of subject or speaker are not new archival speech boundaries.
+The sequence in Speech 9 includes industrial-investment statistics, export and IT-sector material, infrastructure and industrial-estate references, quoted English passages, and member interventions. These are internal parts of the same Assembly speech and are not separate archival boundaries.
 
 ---
 
-## Current inventory after scan p. 225
+## Current inventory after scan p. 300
 
 | Source speech | Date | PDF scan pages | Printed pages | Boundary status |
 |---|---|---:|---:|---|
@@ -133,8 +147,10 @@ PDF scan pp. **201–225** (printed pp. **200–224**) continue the same speech 
 | உரை 4 | 18.04.1990 | 99–135 | 98–134 | Confirmed complete |
 | உரை 5 | 14.08.1996 | 136–171 | 135–170 | Confirmed complete |
 | உரை 6 | 23.04.1997 | 172–198 | 171–197 | Confirmed complete |
-| உரை 7 | 14.05.1998 | 199–? | 198–? | Start confirmed; continues past p. 225 |
+| உரை 7 | 14.05.1998 | 199–240 | 198–239 | Confirmed complete |
+| உரை 8 | 29.04.1999 | 241–277 | 240–276 | Confirmed complete |
+| உரை 9 | 8.05.2000 | 278–? | 277–? | Start confirmed; continues past p. 300 |
 
 ## Exact continuation point
 
-Resume structural mapping at **PDF scan p. 226**, continuing Speech 7 until the next explicit speech boundary is found.
+Resume structural mapping at **PDF scan p. 301**, continuing Speech 9 until the next explicit speech boundary is found.
