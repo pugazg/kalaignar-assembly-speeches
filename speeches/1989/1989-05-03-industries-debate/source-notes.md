@@ -30,7 +30,7 @@ For this speech: `PDF scan page = printed page + 1`.
 
 The structural map and prior boundary re-check establish scan p.62 as the Speech 3 start and scan p.98 as its end; scan p.99 begins Speech 4, dated `18.04.1990`.
 
-## Completed bounded first-pass batch
+## Completed bounded first-pass batches
 
 ### Batch 1
 
@@ -41,9 +41,22 @@ Transcribed **scan pp.62–76 / printed pp.61–75**.
 - Scan p.69 ends with `வாலி`; scan p.70 continues `நோக்கத்தில்`. The page break is retained rather than silently joining the source-page boundary.
 - Printed English and transliterated industrial terms are retained where they appear, including `Asbestos pipe`, `Small Industries Development Corporation`, `State Industries Promotion Corporation of Tamil Nadu`, `Tamil Nadu Industries Development Corporation`, `டிஸ்-இன்வெஸ்ட்மென்ட்`, and `குளோபல் டெண்டர்`.
 - Source forms that may look unusual are left as printed during this first pass, including `1986-86-ல்` in the Gujarat investment comparison, `அசோசியேட் செக்டரி`, `கருத்தக் கூடாது`, and `வெளிக் கொணரத் தலைப்பட்டது`.
-- Scan p.76 ends mid-sentence with `ஆனால் இதை வைத்துக் கொண்டு பொதுத் துறையே`; scan p.77 is the exact continuation point.
+- Scan p.76 ends mid-sentence with `ஆனால் இதை வைத்துக் கொண்டு பொதுத் துறையே`.
 
-No explicit unreadable/`[REVIEW]` marker is currently present in this batch. That is a first-pass state only and must not be treated as strict verification.
+### Batch 2
+
+Transcribed **scan pp.77–91 / printed pp.76–90**.
+
+- The p.76→77 sentence is continued across explicit source-page markers.
+- Fifteen additional source-page markers, 77 through 91, are present in sequence.
+- Printed figures and tender/file-history details are retained, including the `4½ மாதம்` delay, tender values `11.70`, `37.51`, `44.44`, `45` and later `34 லட்சம்`, and the stated `11 லட்சம்` loss.
+- Numbered industrial-project material is preserved across pp.83–86, including `ஜெல்லி ஃபீல்ட் கேபிள்ஸ்`, `பெட்ரோ-கெமிக்கல்ஸ்`, `டைனாவிஷன்`, `டையனோ லாம்ப்ஸ்`, `மார்ட்டர் பிளாஸ்`, `டைட்டான்`, `சோயா பீன்ஸ்`, `ரெலையன்ஸ் செராமிக்ஸ்`, `பையோ-டெக்`, and the aluminium project.
+- Printed amounts/production figures retained in that sequence include `4½ கோடி`, `54 கோடி`, `27 கோடி`, `1.6 கோடி`, `6.14 கோடி`, `10.35 கோடி`, `4,000`, `7,000`, and total `236.8 கோடி`.
+- The industrial-centre proposals and oil-refinery discussion on pp.87–88 are preserved, including the six proposed locations and the `5 இலட்சம் டன்` refinery plan near `பனங்குடி`.
+- The sugar-industry section preserves the printed sector counts, proposed locations, the `திரு. எஸ். திருநாவுக்கரசு` intervention on pp.90–91, and the subsequent exchange with the Speaker.
+- Scan p.91 ends mid-sentence with `தோல் தொழிற்சாலை`; scan p.92 continues `பற்றிக்கூட சொன்னார்கள். அந்த மாசுகளையும் ...`.
+
+No explicit unreadable/`[REVIEW]` marker is currently present in either first-pass batch. That is a first-pass state only and must not be treated as strict verification.
 
 ## Source-supported speaker information
 
@@ -62,10 +75,11 @@ The speech start prints `மாண்புமிகு கலைஞர் ம�
 ## Current gate status
 
 - Gate C Tamil first-pass: **in progress**.
-- Completed: **scan pp.62–76 / printed pp.61–75**.
-- Next scan page: **77**.
+- Completed: **scan pp.62–91 / printed pp.61–90**.
+- Next scan page: **92**.
+- Remaining first-pass range: **scan pp.92–98 / printed pp.91–97**.
 - Tamil status: **in-progress**.
 - Full-speech completeness audit (Gate D): **not yet eligible**.
 - Strict Tamil source-fidelity verification (Gate E): **not started**.
-- Explicit unresolved-reading markers: **none currently flagged in this batch**.
+- Explicit unresolved-reading markers: **none currently flagged in completed first-pass batches**.
 - English translation: **blocked / not started** until the complete Tamil transcript passes its Tamil gates.
