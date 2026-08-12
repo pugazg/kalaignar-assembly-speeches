@@ -1,5 +1,24 @@
 [
   {
+    "id": "1963-03-21-industries-debate",
+    "date": "1963-03-21",
+    "year": 1963,
+    "speaker_ta": "மு. கருணாநிதி",
+    "speaker_en": "M. Karunanidhi",
+    "title_ta": "தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 1",
+    "title_en": "Kalaignar's Legislative Assembly Speeches on Industry — Speech 1",
+    "event_ta": "தொழில்துறை மானியத்தின்மீது உரை",
+    "event_en": "Speech on the Industries grant",
+    "path": "speeches/1963/1963-03-21-industries-debate",
+    "languages": [
+      "ta",
+      "en"
+    ],
+    "transcription_status": "verified",
+    "verified_against_scan": true,
+    "translation_status": "verified"
+  },
+  {
     "id": "1970-09-09-no-confidence-motion",
     "date": "1970-09-09",
     "year": 1970,

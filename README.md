@@ -18,13 +18,14 @@ Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.
 
 ## Active source handovers
 
-- [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source structurally mapped into 10 dated speeches; transcription is the next phase.
+- [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source mapped into 10 dated speeches. Speech 1 (21.03.1963) is fully released with verified Tamil and English; Speech 2 (16.04.1981) is the next transcription unit.
 - Copy/paste continuation prompt: [`docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md`](./docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md)
 
 ## Speech index
 
 | Date | Publication / speech | Assembly event | Tamil | English | Verification |
 |---|---|---|---|---|---|
+| 21-03-1963 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 1](./speeches/1963/1963-03-21-industries-debate/) | தொழில்துறை மானியத்தின்மீது உரை | Verified | Verified | Verified against scan pp. 18–26 |
 | 09-09-1970 | [உதயக் கதிர்](./speeches/1970/1970-09-09-no-confidence-motion/) | நம்பிக்கையில்லாத் தீர்மான விவாதத்திற்கான பதிலுரை | Verified | Verified | Verified against scan pp. 5–46 |
 
 Machine-readable index: [`data/speeches.json`](./data/speeches.json)
@@ -44,6 +45,13 @@ kalaignar-assembly-speeches/
 │   └── 2007-industrial-speeches/
 │       └── mapping.md
 └── speeches/
+    ├── 1963/
+    │   └── 1963-03-21-industries-debate/
+    │       ├── README.md
+    │       ├── metadata.json
+    │       ├── source-notes.md
+    │       ├── transcript.md
+    │       └── verification-log.md
     └── 1970/
         └── 1970-09-09-no-confidence-motion/
             ├── README.md
