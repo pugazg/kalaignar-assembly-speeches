@@ -40,14 +40,14 @@ Printed page numbers and PDF scan page numbers are tracked separately. A speech 
 - [x] PDF scan pp. 226–250
 - [x] PDF scan pp. 251–275
 - [x] PDF scan pp. 276–300
-- [ ] PDF scan pp. 301–325
-- [ ] PDF scan pp. 326–329
+- [x] PDF scan pp. 301–325
+- [x] PDF scan pp. 326–329
 - [ ] Re-check every detected speech start/end boundary
 - [ ] Create final speech inventory with canonical repository IDs
 
 ---
 
-## Confirmed mapping through PDF scan p. 300
+## Confirmed mapping through PDF scan p. 329
 
 ### Front matter
 
@@ -119,25 +119,39 @@ PDF scan pp. **1–17** are publication/front-matter material and are not part o
 - **Date:** `29.04.1999`
 - **PDF scan pages:** **241–277**
 - **Printed pages:** **240–276**
-- **Boundary evidence:** scan p. 241 explicitly begins `உரை : 8` / `நாள் : 29.04.1999`; scan pp. 251–276 continue the same Assembly speech; scan p. 277 (printed p. 276) ends the exchange and carries the decorative closing mark; scan p. 278 begins `உரை : 9`.
+- **Boundary evidence:** scan p. 241 begins `உரை : 8` / `நாள் : 29.04.1999`; scan p. 277 carries the decorative closing mark; scan p. 278 begins `உரை : 9`.
 - **Status:** confirmed complete
 
 ### Speech 9
 
 - **Source label:** `உரை : 9`
 - **Date:** `8.05.2000`
-- **Speech start:** PDF scan **p. 278**
-- **Printed page at start:** **277**
-- **Speech end:** not yet reached by PDF scan p. 300
-- **Status:** start confirmed; end boundary open
+- **PDF scan pages:** **278–303**
+- **Printed pages:** **277–302**
+- **Boundary evidence:** scan p. 278 explicitly begins `உரை : 9` / `நாள் : 8.05.2000`; scan pp. 301–302 continue the same Assembly speech; scan p. 303 (printed p. 302) finishes the exchange and carries the decorative closing mark; scan p. 304 begins `உரை : 10`.
+- **Status:** confirmed complete
 
-Scan p. 278 explicitly prints `உரை : 9` and `நாள் : 8.05.2000`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி` as the opening speaker label. PDF scan pp. **279–300** continue the same speech without a new `உரை : N` / date heading or decorative ending.
+### Speech 10
 
-The sequence in Speech 9 includes industrial-investment statistics, export and IT-sector material, infrastructure and industrial-estate references, quoted English passages, and member interventions. These are internal parts of the same Assembly speech and are not separate archival boundaries.
+- **Source label:** `உரை : 10`
+- **Date:** `23.08.2006`
+- **PDF scan pages:** **304–326**
+- **Printed pages:** **303–325**
+- **Boundary evidence:** scan p. 304 explicitly begins `உரை : 10` / `நாள் : 23.08.2006`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி` as the opening speaker label; scan pp. 305–325 continue the same speech; scan p. 326 (printed p. 325) ends with the volume's decorative closing mark.
+- **Status:** confirmed complete
+
+### Back matter
+
+PDF scan pp. **327–329** are not part of Speech 10:
+
+- scan pp. 327–328 — `குறிப்புகள்` note pages
+- scan p. 329 — closing portrait/back-matter image
+
+No additional `உரை : N` heading appears after Speech 10.
 
 ---
 
-## Current inventory after scan p. 300
+## Current inventory after full scan pass
 
 | Source speech | Date | PDF scan pages | Printed pages | Boundary status |
 |---|---|---:|---:|---|
@@ -149,8 +163,9 @@ The sequence in Speech 9 includes industrial-investment statistics, export and I
 | உரை 6 | 23.04.1997 | 172–198 | 171–197 | Confirmed complete |
 | உரை 7 | 14.05.1998 | 199–240 | 198–239 | Confirmed complete |
 | உரை 8 | 29.04.1999 | 241–277 | 240–276 | Confirmed complete |
-| உரை 9 | 8.05.2000 | 278–? | 277–? | Start confirmed; continues past p. 300 |
+| உரை 9 | 8.05.2000 | 278–303 | 277–302 | Confirmed complete |
+| உரை 10 | 23.08.2006 | 304–326 | 303–325 | Confirmed complete |
 
-## Exact continuation point
+## Next step
 
-Resume structural mapping at **PDF scan p. 301**, continuing Speech 9 until the next explicit speech boundary is found.
+The first full structural pass is complete. Re-check the critical boundaries around scan pp. **18, 26–27, 61–62, 98–99, 135–136, 171–172, 198–199, 240–241, 277–278, 303–304, 326–327**, then lock the final dated inventory and assign canonical repository IDs before transcription begins.
