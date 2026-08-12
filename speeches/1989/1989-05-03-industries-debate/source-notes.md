@@ -73,7 +73,7 @@ Gate D passed after Batch 3 completed the mapped range.
 
 ## Gate E — strict visual/source-fidelity verification
 
-A separate direct visual audit was completed against **every scan page 62–98** after Gate D. Each source-page section of the canonical Tamil was compared directly with its scan image. The review checked individual Tamil readings, names/initials, figures, dates, percentages, monetary values and units, printed English/transliterated terms, headings, speaker labels/interventions, punctuation where legible, and continuity across page transitions.
+A separate direct visual audit was completed against **every scan page 62–98** after Gate D. Each source-page section of the canonical Tamil was compared directly with its scan image.
 
 Four concrete first-pass discrepancies were found and corrected in `transcript.md`:
 
@@ -85,6 +85,22 @@ Four concrete first-pass discrepancies were found and corrected in `transcript.m
 The audit deliberately retained visibly printed source forms and apparent source inconsistencies rather than repairing them editorially. Examples include `1986-86-ல்`, `அசோசியேட் செக்டரி`, `வெளிக் கொணரத் தலைப்பட்டது`, the p.92 sequence that first gives `547 கோடி` and later prints `541 கோடி` before the `721 கோடி` revised estimate, and the repeated `வலியுறுத்தி` / `கேட்டுக்கொண்டதன் பேரில்` wordplay on p.93.
 
 No unresolved Tamil reading remains after the strict audit.
+
+## Gate F — English translation
+
+Gate F is complete. The complete English translation was produced **only from the final Gate-E-verified Tamil**, not from OCR or an earlier draft, and was appended after the Tamil source layer in `transcript.md`.
+
+Translation policy applied:
+
+1. Keep the full source sequence and provide explicit English `### Source page N` correspondence for **all 37 pages, 62–98**.
+2. Preserve parliamentary speaker changes, interventions, interruptions, laughter and desk-thumping markers.
+3. Preserve names, initials, dates, numerals, percentages, monetary values, units, quotations and industrial terminology as represented by the verified Tamil.
+4. Do not silently substitute external historical corrections for the source's claims or apparent inconsistencies.
+5. Preserve or explicitly reflect unusual source terminology where material to fidelity, including the source form `அசோசியேட் செக்டரி` as “Associate Sectary” in the English layer rather than silently normalising it away.
+6. Retain the p.92 `547` / `541` inconsistency and other source-supported figures in the English translation.
+7. Keep the English layer provisional until a separate Gate G page-by-page fidelity audit is completed.
+
+Gate F does **not** itself certify the English as verified. English status is `complete-unverified`.
 
 ## Source-supported speaker information
 
@@ -106,5 +122,8 @@ The speech start prints `மாண்புமிகு கலைஞர் ம�
 - Gate D full-speech completeness audit: **passed**.
 - Gate E strict Tamil source-fidelity verification: **passed for scan pp.62–98**.
 - Tamil status: **verified**.
-- Explicit unresolved-reading markers: **0**.
-- English translation: **not started**; Gate F is now eligible and must translate only the final verified Tamil.
+- Explicit unresolved Tamil readings: **0**.
+- Gate F English translation: **complete for source pages 62–98**.
+- English status: **complete-unverified**.
+- Gate G English fidelity verification: **next / not started**.
+- Gate H release/index: **not eligible until Gate G passes**.
