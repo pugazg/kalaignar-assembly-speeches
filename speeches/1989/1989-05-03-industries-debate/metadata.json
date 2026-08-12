@@ -41,16 +41,16 @@
     "method": "manual first-pass transcription from scan images",
     "status": "in-progress",
     "full_speech_scan_pages": "62-98",
-    "completed_scan_pages": "62-76",
-    "completed_printed_pages": "61-75",
-    "next_scan_page": 77,
+    "completed_scan_pages": "62-91",
+    "completed_printed_pages": "61-90",
+    "next_scan_page": 92,
     "page_markers_audited_for_completed_batch": true,
     "full_speech_completeness_audit": false,
     "verified_against_scan": false,
     "strict_full_speech_visual_verification": false,
     "explicit_unresolved_reading_markers": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "continuation_note": "Scan p.76 ends mid-sentence with 'ஆனால் இதை வைத்துக் கொண்டு பொதுத் துறையே'; resume at scan p.77."
+    "continuation_note": "Scan p.91 ends mid-sentence with 'தோல் தொழிற்சாலை'; scan p.92 continues 'பற்றிக்கூட சொன்னார்கள். அந்த மாசுகளையும் ...'."
   },
   "translation": {
     "language": "English",
