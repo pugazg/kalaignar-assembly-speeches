@@ -56,9 +56,13 @@
   "translation": {
     "language": "English",
     "placement": "after the complete verified Tamil transcription",
-    "status": "not-started",
+    "status": "verified",
+    "type": "faithful reading translation",
+    "source_text": "verified Tamil transcription",
+    "translated_source_pages": "18-26",
     "requires_verified_tamil": true,
     "tamil_gate_satisfied": true,
-    "verified_against_tamil": false
+    "verified_against_tamil": true,
+    "verification_note": "The complete English rendering was reread page by page against the final verified Tamil, including names, figures, quotations, mid-sentence source-page transitions and parliamentary context. No external historical correction was substituted for source claims."
   }
 }

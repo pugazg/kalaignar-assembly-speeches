@@ -49,7 +49,7 @@ These two page systems remain separate in metadata and audit records.
 
 - **Start:** scan p.18 / printed p.17 visibly prints the publication heading, `உரை : 1`, `நாள் : 21.03.1963`, and the speaker label `கலைஞர் மு. கருணாநிதி :` before the speech begins.
 - **End:** scan p.26 / printed p.25 ends with `என்னுடைய உரையை முடிக்கின்றேன்.` followed by a decorative bouquet/closing ornament and no further speech text on the page.
-- The next mapped speech is outside this bounded unit and was not transcribed.
+- The next mapped speech is outside this bounded unit and was not transcribed or translated.
 
 ## Source-supported speaker information
 
@@ -74,6 +74,17 @@ All nine speech pages are legible at the available scan resolution. The first pa
 
 After the final visual audit, **no unresolved reading remains** for scan pp.18–26.
 
-## Translation gate
+## English translation policy and status
 
-English translation was deliberately **not started** in this unit. The Tamil transcription has now passed completeness and direct visual source-fidelity verification; a later translation pass may begin from this verified Tamil text, followed by its own English fidelity check.
+English translation began only after the complete Tamil transcription had passed the completeness audit and strict visual/source-fidelity verification.
+
+The English rendering in `transcript.md`:
+
+- is translated from the **verified Tamil**, not OCR or an earlier draft;
+- follows the same source-page sequence, using `### Source page N` headings for scan pp.18–26;
+- preserves names, figures, quotations, argument order and parliamentary framing;
+- retains source uncertainty and historical claims rather than silently correcting them from outside knowledge;
+- does not infer a historical office for the speaker;
+- has been reread page by page against the verified Tamil.
+
+English translation status: **verified**. The detailed fidelity check is recorded in `verification-log.md`.

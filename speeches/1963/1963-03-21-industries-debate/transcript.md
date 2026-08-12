@@ -2,7 +2,7 @@
 
 ## உரை : 1 — நாள் : 21.03.1963
 
-> **Archival transcription note:** The Tamil transcription below follows the scanned May 2007 publication. Physical line-wraps are normalised into paragraphs, but printed wording, spelling, punctuation, numerals, headings and parliamentary context are retained as far as the scan permits. PDF scan-page boundaries are marked explicitly. Running page headers, printed page numbers and the closing decorative ornament are not treated as speech text. English translation has not yet been started.
+> **Archival transcription note:** The Tamil transcription below follows the scanned May 2007 publication. Physical line-wraps are normalised into paragraphs, but printed wording, spelling, punctuation, numerals, headings and parliamentary context are retained as far as the scan permits. PDF scan-page boundaries are marked explicitly. Running page headers, printed page numbers and the closing decorative ornament are not treated as speech text. The English translation appears only after the complete verified Tamil transcription.
 
 ---
 
@@ -85,3 +85,87 @@
 <!-- source-page: 26 -->
 
 மாவட்டத்திற்கு, அந்தந்தப்பகுதிகளுக்கு இன்னின்ன தொழிற்சாலைகள் வேண்டும் என்று எதிர் கட்சியைச் சேர்ந்த அங்கத்தினர்களும், ஆளும் கட்சியைச் சேர்ந்த அங்கத்தினர்களும் உங்களைப் பார்த்து தைரியமாகக் கேட்கிறபோது, அந்த தைரியத்தை பெற்று, டில்லி சென்று, தெளிவாக, தைரியமாக வாதாடி, தமிழகம் வாழ்வதற்கு, தமிழகத்தில் தொழில்கள் சிறப்பதற்கு, தொழில்கள் மூலம் தமிழகம் வளம் பெறுவதற்கு, தமிழக மக்களுடைய வாழ்க்கை நலம் பெறுவதற்கு, உறுதுணையாக இந்த அமைச்சரவை போராட வேண்டுமென்று கேட்டுக்கொண்டு என்னுடைய உரையை முடிக்கின்றேன்.
+
+---
+
+# English translation
+
+> **Translation note:** This is a faithful English rendering of the verified Tamil transcription above. It aims to preserve the argument, rhetoric, quoted material, names, figures, parliamentary context and source sequence without correcting historical claims or source wording. The Tamil transcription remains the archival source.
+
+### Source page 18
+
+**On Industry**
+
+# Kalaignar's Legislative Assembly Speeches
+
+**Speech: 1**  
+**Date: 21.03.1963**
+
+**Kalaignar M. Karunanidhi:** Hon. Deputy Speaker, today I wish to present my views here in support of the cut motions moved by friends in the Opposition on the Industries grant. The lady member of the ruling party who spoke before me said that industrial development had begun in Coimbatore district and that a state of stagnation had now arisen there. She spoke with reference to Coimbatore district. The difference between them and us is only this: they spoke only about their district; we speak with reference to this State. I wish first to point out that my speech here is based on that very statement of the lady member: “There is stagnation in industrial development.” When all our comrades who spoke on behalf of the Dravida Munnetra Kazhagam used here the phrase, “The North lives; the South declines,” friends in the ruling party said that this was an old pallavi; our friend Matha Gowder remarked that one person had begun the pallavi and Mathiazhagan had reached the anupallavi. We are at the stage of pallavi and anupallavi—
+
+### Source page 19
+
+that is where we remain. But I regret that those belonging to the ruling party have gone to Delhi and, instead of fighting, have reached the stage of charanam—surrender.
+
+When we speak on the Industries grant, what we say is that more industrial establishments must be created and greater attention must be paid to industry in order to bring forward Tamil Nadu, which remains backward. Because we speak of North and South, no one should think that the Dravida Munnetra Kazhagam is angry with the northern direction itself.
+
+Our party comrade Sriramulu, speaking here two days ago, said, “South Salem lives; North Salem withers.” Rajaram of the ruling party, who spoke today, said of South Arcot district, “The southern part lives; the northern part withers.” Therefore this is a problem arising from inequality; it is not a condition arising from direction.
+
+We must bear in mind that these efforts are being undertaken so that the South, which is backward in industry, may advance industrially. Our Industries Minister may dismiss the matter easily. Yesterday, when Mr Arangannal spoke, the Minister replied, “Problems cannot be solved by speeches.” The very reason a Legislative Assembly meets and debate takes place here is that the views expressed here should register in the minds of ministers and remedies should be found for the grievances that members from the respective areas raise here. It is precisely so that our State ministers may gather them together, place them before those in Delhi, and take the necessary action—not for any other reason.
+
+### Source page 20
+
+To those who ask, “Is Tamil Nadu really backward?”, I can give some statistics. In Bombay State, the number of earners is 43. The number who must be supported by them is 57. In Tamil Nadu, the earners are 31. There are 69 people who must be supported by those 31 earners. We must not forget this. We must not forget that the annual income of a cultivator in the northern States is about 200 rupees more than that of a farmer engaged in agriculture in Tamil Nadu. By the end of the Third Plan, industrial income in the eastern region of India will rise by 54.60 per cent. All-India industrial income will rise by 34.94 per cent. But in the South it will be only 17.90 per cent. This is a tendency to develop regions in an unbalanced manner. This appears in the economic report of the Institute of Public Opinion.
+
+If we look specifically at regional income, let us consider the period from 1950-51 to 1965-66. Andhra stands at 73.31 per cent, Kerala at 63.53 per cent, Tamil Nadu at 79.61 per cent, Mysore at 82.01 per cent, Orissa at 229.37 per cent, Punjab at 189.75 per cent, and Delhi at 177.03 per cent. Tamil Nadu's income is only 79.61 per cent. This has been set out in the economic report.
+
+Let us see, region by region, the average annual income per person in industry. We find Andhra at 31.24 per cent, Kerala at 12.70 per cent, Mysore at 29.56 per cent, Orissa at 166.77 per cent, Delhi at 60.19 per cent, and Tamil Nadu at 39.99 per cent. The Industries Minister may say: instead of comparing with the statistics of northern States that are below Tamil Nadu, why are you comparing with States that are above it—is this not for your propaganda?
+
+### Source page 21
+
+“Look upon those weaker than yourselves,  
+and rejoice inwardly: Ah, how great are our possessions!”
+
+Do not drag into politics the philosophical maxim represented in that saying. I point out how high average income is in other States and what it is in Tamil Nadu only so that, recognising how far we lag behind, we may increase our industrial wealth and our economic wealth. “A mind that says ‘Enough’ is the medicine that makes gold” is advice to be given to a greedy man; it should not become a proverb addressed to a man in great hunger. Do not treat “If it cannot be obtained, cut it off and forget it” as the advice to adopt after asking Delhi and being refused. Instead, act with the resolve that “Effort makes the undertaking succeed,” and in keeping with the Kural quoted by the Hon. member from Erode: “Those who strive without faltering or slackening will see even fate turn its back.” Fight Delhi further so that Tamil Nadu's industries may grow.
+
+For industrial development, the welfare of workers must receive very great attention. Only if workers' prosperity and welfare are protected, only if their rights are properly granted, and only if there is peace in the lives of workers can we create the conditions for the production we expect in industry to increase and for the country to advance economically. A report of the association for geology, mining and mineralogy in India speaks about the efficiency of the Indian worker compared with workers in other countries. The report states that in a day an English worker excavates 6 tons, a German worker 8.99 tons, an American worker 21.68 tons, and an Indian worker only 2.7 tons. The report of the association for mining, geology and mineralogy states this. The reason I say this is to point out why the Indian worker is, to this extent, less efficient—
+
+### Source page 22
+
+in production—not only in geology, mineralogy and mining. Whether it is a cotton mill, a jute factory or a paper factory, we must examine why the Indian worker has lower productive capacity. The reason given is that his physical strength is not adequate and that his wages are not sufficient to maintain and protect his physical strength. The Government must immediately study this, understand it, and take the necessary action.
+
+In view of the present emergency situation, all the trade unions have decided that some demands of workers, even when they are legitimate demands, should as far as possible be postponed during the emergency. Industrialists have said that they too would cooperate. But the industrialists have not acted as they said they would. If we look at the resolution of the executive committee of the Tamil Nadu Indian National Trade Union Congress, which met yesterday, it states that the total burden of these various taxes will fall upon poor workers and that the rise in prices must be controlled. Considering that industrial relations in the State are deteriorating, the executive committee says that industrialists do not appear to appreciate the industrial-peace resolution, and the Tamil Nadu Indian National Trade Union Congress makes that accusation.
+
+In the final resolution it adopted, after referring to the retrenchment that followed rationalisation at the B. & C. Mill in Madras, it states that the rationalisation is not in accordance with the recommendation of the Textile Industry Wage Board, and adopts a resolution condemning the B. & C. Mill management for dismissing many workers today in the name of this rationalisation. If workers' lives are affected, if conditions arise that cause the hearts of workers to wither, can we attain the production we expect—
+
+### Source page 23
+
+especially in this emergency situation? We must think about whether we can attain it, whether we can achieve it.
+
+The Hon. Mathiazhagan, who spoke before me, said that the industrial sector has largely been handed over to the private sector. Ever since 1957, when the Dravida Munnetra Kazhagam entered this House, we have continued to insist that the public sector should be developed and that the Government should withdraw its policy of encouraging the private sector. No individual capitalist starts an industry with the good intention of providing employment to a thousand people in the country, or with the idealistic aim of creating an industry for that purpose. The capitalist class enters industry in the private sector with a profit motive, calculating how much profit it will receive. The Government gives every concession to private industries and continues to encourage the private sector more and more; when questioned, it says that this is what is called Avadi Socialism and that this mixed economy is the philosophy of the Congress Party. I wish to state that this is not, in truth, a position that progressive forces can accept.
+
+If I say that Government loans to the private sector, or assistance provided through the Finance Corporation, are given to certain favoured people on the basis of the connections, kinship, bonds and affection between those in authority and those capitalists, I would say that this Cabinet cannot sincerely deny it. This condition does not exist here alone. In India itself, Mrs Sucheta Kripalani—who, I think, was the chair of the committee appointed in 1955 to examine this finance commission—has said the same thing. She said that such assistance was given to favoured people and that individual capitalists were given—
+
+### Source page 24
+
+concessions; that is what she stated in the report she submitted on behalf of that committee.
+
+Therefore I very humbly request that the private sector be abolished and that this Government move itself toward the public sector.
+
+The Minister may say: those in the private sector have money; we too provide some money; thus their investment is available to develop industry, and the money we provide is available as assistance. I would offer them a suggestion. I ask the Minister to think about it. Why should the Government not invest 50 per cent in an industry and raise the remaining money from the public? Will the public not participate? Will they not join as shareholders? Are members of the public not becoming shareholders even today? When the public takes shares in industries started by private individuals and invests share money trusting those individuals, do they think the public will not participate by trusting a Government that possesses trustworthiness and integrity? One-half of the money, or whatever portion is fixed, may be obtained from the public; a specified percentage may be contributed by the Government; and the public and the Government together may operate public-sector industries. I ask this Government to consider both such a method and another method in which the Government itself takes over and operates all sectors.
+
+When the Minister replied last year, he said that even if the large industries they run in the private sector earn enormous profits, we impose heavy taxes and take away a large part of them. To us, that argument looks like “letting go of the thumbai—
+
+### Source page 25
+
+and catching hold of the tail”; like going around the head to touch the nose instead of touching it directly. Therefore, as far as industry is concerned, I request that this sector be shifted to the public sector vigorously and with great urgency.
+
+Finally, it is because economic planning is placed on an all-India basis that some regions remain backward. When explaining why they are unable to advance, this is not an opinion expressed by us alone. The respected Omandur Ramasamy Reddiar, who had sat as a minister and is at present a member of the ruling party, said it—not yesterday, not last week, but in 1955. He said: “In our State, as much tax as can be imposed has already been imposed. What we receive from the Central Government is not much. As far as Tamil Nadu is concerned, we ask the Central Government too little for assistance. We simply remain quiet, thinking it is fate. We must press this upon the Central Government. It is the crying child that gets something. Therefore the people of Tamil Nadu must make more noise. Only then will something be obtained. Our ministers must fight with the Central Government and win.” Omandur Ramasamy Reddiar said this on 23 August 1955.
+
+Raja Sir Muthiah Chettiar, a person very important to the Congress Party today, has said: “There is no use sitting here and talking. Go to Delhi; go there and fight. Go to Delhi—Delhi Chalo, Delhi Chalo.” He has said this many times in this House.
+
+If we consider all these things, it is not we alone who say this. When members of the Opposition and members of the ruling party boldly ask you that, for each—
+
+### Source page 26
+
+district and each area, such-and-such factories are needed, take courage from that, go to Delhi, argue clearly and courageously, and let this Cabinet fight so that Tamil Nadu may thrive, industries in Tamil Nadu may flourish, Tamil Nadu may gain prosperity through industry, and the lives of the people of Tamil Nadu may improve. With that request, I conclude my speech.
