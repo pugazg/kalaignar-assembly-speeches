@@ -1,0 +1,64 @@
+{
+  "id": "1963-03-21-industries-debate",
+  "date": "1963-03-21",
+  "year": 1963,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "source_label_ta": "கலைஞர் மு. கருணாநிதி",
+    "role_ta": null,
+    "role_en": null,
+    "role_note": "The speech page does not establish the speaker's historical office; no role has been inferred from external knowledge."
+  },
+  "legislature": {
+    "source_context_ta": "சட்டமன்ற உரை",
+    "source_context_en": "Legislative Assembly speech"
+  },
+  "speech": {
+    "source_label_ta": "உரை : 1",
+    "printed_date": "21.03.1963",
+    "archive_subject_slug": "industries-debate",
+    "archive_title_note": "The industries-debate slug is a neutral archival subject label derived from the anthology subject, not an assertion of an official printed legislative event title."
+  },
+  "source": {
+    "publication_title_ta": "தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்",
+    "edition_ta": "முதற்பதிப்பு",
+    "publication_date": "2007-05",
+    "publication_date_printed_ta": "மே, 2007",
+    "publisher_ta": "தமிழ்க்கனி பதிப்பகம்",
+    "publisher_location_ta": "சென்னை - 600 004",
+    "sales_rights_ta": "பூம்புகார் பதிப்பகம்",
+    "printer_binder": "Eagle Press, Chennai - 600 013",
+    "scan_filename": "TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf",
+    "scan_total_pages": 329,
+    "scan_file_size_bytes": 217124211,
+    "sha256": "c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370",
+    "speech_scan_pages": "18-26",
+    "speech_printed_pages": "17-25",
+    "scan_printed_page_relationship": "For this speech, scan page = printed page + 1.",
+    "source_authority": "scan image"
+  },
+  "transcription": {
+    "method": "manual transcription from scan followed by completeness audit and strict page-by-page visual source-fidelity verification",
+    "preserve_source_spelling": true,
+    "preserve_source_punctuation": true,
+    "preserve_source_numerals": true,
+    "preserve_headings": true,
+    "preserve_speaker_labels_and_interventions": true,
+    "page_boundaries_marked": true,
+    "status": "verified",
+    "completeness_audit_passed": true,
+    "verified_against_scan": true,
+    "verified_scan_pages": "18-26",
+    "unresolved_readings": 0,
+    "verification_note": "Complete Tamil text for scan pp. 18-26 was checked directly against every controlling page image; discovered first-pass errors were corrected and recorded in verification-log.md."
+  },
+  "translation": {
+    "language": "English",
+    "placement": "after the complete verified Tamil transcription",
+    "status": "not-started",
+    "requires_verified_tamil": true,
+    "tamil_gate_satisfied": true,
+    "verified_against_tamil": false
+  }
+}
