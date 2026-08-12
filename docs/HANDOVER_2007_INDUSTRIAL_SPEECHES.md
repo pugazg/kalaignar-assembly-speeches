@@ -84,7 +84,7 @@ Gate-D verification-log commit: `32823326403fc8560880ac21257d7c7f3ebac881`.
 
 ### Gate E — passed
 
-A strict direct visual/source-fidelity audit was completed against **every controlling scan image p.62 through p.98**. The review checked words/characters, names/initials, dates, numerals, percentages, monetary values/units, printed English/transliterations, headings, speaker labels/interventions, punctuation where legible, and page-transition continuity.
+A strict direct visual/source-fidelity audit was completed against **every controlling scan image p.62 through p.98**.
 
 Four concrete first-pass discrepancies were corrected:
 
@@ -103,6 +103,29 @@ Gate-E sequential commits:
 - source notes: `281d36a5c07c39c2e9a84838091092815a33d76b`
 - verification log / final Gate-E state: `523d7cbf26b1d0e605c5abe65a85974559983cbb`
 
+### Gate F — complete
+
+The complete English translation has been produced **only from the final verified Tamil** and appended after the Tamil source layer in `transcript.md`.
+
+Gate-F state:
+
+- English source-page correspondence: **37 pages, 62–98**;
+- full argumentative/source sequence retained;
+- speaker changes and parliamentary interventions translated;
+- dates, figures, percentages, monetary values, units, quotations and technical terminology carried through;
+- laughter and desk-thumping markers retained in English;
+- unusual source-supported terminology and internal inconsistencies were not silently corrected from outside knowledge;
+- English status: **complete-unverified**;
+- Gate G fidelity review: **not started**.
+
+Gate-F sequential commits:
+
+- transcript with complete English layer: `cc844648fa3c220b2c721f4177d6e572f58d66a8`
+- metadata/status: `d47131215ba08ed318ba3a2406b95a29817cc4e0`
+- README/status: `df8c140672d4f36c1affe44639bb92c6f1b54e45`
+- source notes: `b320fbd82a326ce86e00822d5c7d0417d81a4704`
+- verification log / final Gate-F Speech-3 state: `25469c85158c56cca96e95c8a93b45326f5346ea`
+
 Current Speech 3 status:
 
 - Tamil first-pass: **complete**
@@ -110,26 +133,26 @@ Current Speech 3 status:
 - Gate E strict source-fidelity verification: **passed**
 - Tamil status: **verified**
 - unresolved Tamil readings: **0**
-- English translation: **not started**
-- Gate F: **next**
+- Gate F English translation: **complete**
+- English status: **complete-unverified**
+- Gate G: **next**
+- Gate H: **blocked**
 - root README speech index / `data/speeches.json`: **not updated for Speech 3**
 
-## Immediate next action — Gate F English translation
+## Immediate next action — Gate G English fidelity verification
 
-Translate the **final verified Tamil only** for Speech 3 and append the English layer after the complete Tamil in `transcript.md`.
+Perform a strict page-by-page review of the **complete English translation against the final verified Tamil** for source pages **62–98**.
 
-For Gate F:
+For Gate G:
 
-1. Read the current Speech 3 `transcript.md`, `metadata.json`, `source-notes.md` and `verification-log.md` from `main` before editing.
-2. Translate from the verified canonical Tamil, not OCR and not an earlier first-pass draft.
-3. Preserve source sequence and parliamentary context, including speaker changes/interventions, quotations, names, figures, dates, percentages, monetary values and technical terms.
-4. Preserve source claims and period terminology rather than silently correcting them from outside historical knowledge.
-5. Keep source-page correspondence in the English layer, following the established Speech 2 precedent.
-6. Do not begin Gate G until the full English translation is complete.
-7. Do not update root release/index files until the English translation has passed Gate G.
-8. Do not begin Speech 4.
-
-After Gate F, perform Gate G by re-reading the complete English against the final verified Tamil before marking English `verified`.
+1. Read the current Speech 3 `transcript.md`, `metadata.json`, `source-notes.md`, `verification-log.md` and `README.md` from `main` before editing.
+2. Compare each English `### Source page N` section directly against the corresponding verified Tamil `<!-- source-page: N -->` section.
+3. Check completeness and fidelity of meaning, speaker attribution, parliamentary interventions, quotations, dates, numerals, percentages, monetary values/units, industrial terminology, source-supported names/initials and page-transition continuity.
+4. Pay particular attention to source anomalies deliberately retained in Tamil, including `1986-86-ல்`, `அசோசியேட் செக்டரி`, the p.92 `547` / `541` inconsistency, and the repeated p.93 wordplay. The English must not silently erase or historically repair these.
+5. Correct every concrete English fidelity discrepancy in `transcript.md` and document all corrections in `verification-log.md`.
+6. Only after all **37 pages 62–98** have been directly checked may English status become `verified`.
+7. After Gate G passes, Gate H release/index becomes eligible: update root README and `data/speeches.json` following the Speech 2 precedent.
+8. Do not begin Speech 4 before Speech 3 Gate H is complete.
 
 ## Content to leave untouched
 
@@ -140,7 +163,7 @@ Unless explicitly requested otherwise:
 - `speeches/1981/1981-04-16-industries-debate/`;
 - root released-speech index entries for already released speeches;
 - unrelated sources/speeches;
-- Speech 4 until Speech 3 has completed its own workflow and release.
+- Speech 4 until Speech 3 Gate H is complete.
 
 ## End-of-session handover requirement
 
