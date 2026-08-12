@@ -8,14 +8,14 @@ I am continuing my GitHub project `pugazg/kalaignar-assembly-speeches` using:
 
 `TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf`
 
-Before transcription, read current `main` versions of:
+Before doing any work, read current `main` versions of:
 
 - `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md`
 - `docs/ARCHIVAL_WORKFLOW.md`
 - `sources/2007-industrial-speeches/mapping.md`
 - `speeches/1981/1981-04-16-industries-debate/`
 
-Treat them as controlling instructions. The scan image is authoritative; OCR is not canonical.
+Treat those files as controlling instructions. The scan image is authoritative; OCR is not canonical.
 
 ## Current state
 
@@ -26,65 +26,51 @@ Speech 2:
 - Source label: `உரை : 2`
 - Printed date: `16.04.1981`
 - Canonical ID: `1981-04-16-industries-debate`
-- Full PDF scan range: **27–61**
+- Full scan range: **27–61**
 - Printed pages: **26–60**
-- Folder: `speeches/1981/1981-04-16-industries-debate/`
 
-### Already completed
+### Completed
 
-Tamil first-pass transcription is complete for **scan pp.27–56 / printed pp.26–55**, in two 15-page batches.
+The Tamil first-pass transcription is complete for **all scan pp.27–61**, in three batches: 27–41, 42–56, and 57–61.
 
-- Source-page markers: **27–56 inclusive, 30 unique monotonic markers**
-- Tamil status: **in-progress**
-- Speech is still partial
-- Pending first-pass pages: **57–61**
-- Full-speech completeness audit has not begun
-- Strict full-speech visual verification has not been completed
-- Explicit unresolved-reading placeholders: none currently flagged; this is not a verification claim
-- English translation is blocked / not started
-- Do not update root release indexes while the speech is partial
+The full-speech Tamil completeness audit has passed:
 
-Exact current ending on scan p.56:
+- 35 source-page markers, 27–61 inclusive;
+- unique and monotonic;
+- no mapped page skipped or duplicated;
+- opening and ending align with the locked map;
+- printed speaker changes/interventions are represented;
+- no explicit unreadable/`[REVIEW]` placeholder remains;
+- scan p.61 ends Speech 2 with Kalaignar's final intervention and a decorative ornament;
+- scan p.62 begins `உரை : 3 / நாள் : 03.05.1989`.
 
-`... தமிழ்நாட்டிலும் சில நிறுவனங்களில் தனியார் சிலர் தலைவர்களாக நியமிக்கப்`
+Current Tamil status is **`transcribed`**, not `verified`.
 
-Scan p.57 continues:
+A direct visual reading corrected the old p.57 continuation note: the scan reads `பட்டிருக்கிறார்கள். இது ஒன்றும் புதிதும் அல்ல.`
 
-`பட்டிருக்கிறார்கள். இது ஒன்றும் புதியது அல்ல. திரு. டாண்டன்...`
+English translation remains **blocked / not started**. Do not update the root release index or `data/speeches.json` yet.
 
-## Next bounded batch
+## Next action — strict Tamil verification
 
-Proceed directly with the **final Tamil first-pass transcription of scan pp.57–61 / printed pp.56–60**.
+Proceed directly with **Gate E: strict page-by-page visual/source-fidelity verification of Speech 2, scan pp.27–61**.
 
-Append to the existing `transcript.md`; do not redo pp.27–56 unless a concrete first-pass correction is identified from the scan.
+Compare the complete canonical Tamil transcript directly against every scan image. At minimum check:
 
-Maintain/update:
+- words and individual Tamil characters;
+- names and initials;
+- numerals, dates, percentages, monetary amounts and units;
+- printed English passages;
+- headings and speaker labels;
+- interventions/interruptions;
+- punctuation where legible;
+- page-transition omissions or repetitions.
 
-```text
-speeches/1981/1981-04-16-industries-debate/
-├── README.md
-├── metadata.json
-├── source-notes.md
-├── transcript.md
-└── verification-log.md
-```
+Apply corrections to the canonical transcript and document them in `verification-log.md`.
 
-## Rules
+Do **not** mark Tamil `verified` until the full 35-page visual audit is genuinely complete. Do **not** begin English translation before that point.
 
-- Preserve printed wording, period spelling, punctuation, numerals, headings, speaker labels, interventions and printed English passages as far as legible.
-- Normalise only physical line wrapping.
-- Add `<!-- source-page: N -->` for every new PDF page.
-- Do not silently correct source errors, grammar, historical claims or terminology.
-- Mark genuinely unreadable text for review rather than guessing.
-- Keep scan-page and printed-page numbering separate.
-- Do not infer the speaker's historical office from general knowledge.
+Preserve source wording, period spelling, printer errors and historical claims rather than silently correcting them. Mark genuinely unreadable text for review rather than guessing. Do not infer the speaker's historical office from general knowledge.
 
-Mandatory sequence:
-
-`Tamil first-pass → full-speech completeness audit → strict visual/source-fidelity verification → Tamil verified → English translation → English fidelity verification → release/index update`
-
-After pp.57–61 are transcribed, the Tamil first pass will be complete, but do **not** immediately mark the speech `verified` and do **not** begin English translation. First run the full-speech completeness audit across pp.27–61; then perform the separate strict page-by-page visual/source-fidelity verification required by the repository workflow.
-
-At the end give an exact handover with files changed, pages completed, continuation/end point, Tamil status, unresolved readings, translation status, commit SHA and exact next action.
+At the end provide an exact handover: pages visually verified, corrections made, unresolved readings, Tamil status, English status, files changed, commit SHA, and exact next action.
 
 ---

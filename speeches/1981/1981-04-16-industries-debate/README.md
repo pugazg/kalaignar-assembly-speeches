@@ -29,33 +29,33 @@
 
 இந்த உரையில் scan page = printed page + 1. PDF scan page மற்றும் அச்சுப் பக்க எண் தனித்தனியாகப் பதிவு செய்யப்படுகின்றன.
 
-## தற்போதைய transcription batch
+## Tamil transcription status
 
-- Completed first-pass scan pages: **27–56**
-- Corresponding printed pages: **26–55**
-- Completed batches: **2 × 15 scan pages**
-- Next scan page: **57**
-- Speech state: **partial / in-progress**
+The complete Tamil first-pass transcription now covers **scan pp.27–61 / printed pp.26–60** in three bounded batches:
 
-Batch 2 covers scan pp.42–56 / printed pp.41–55. Scan p.56 ends mid-sentence with `நியமிக்கப்`. Scan p.57 continues `பட்டிருக்கிறார்கள். இது ஒன்றும் புதியது அல்ல. திரு. டாண்டன்...`. The continuation is deliberately left for the final first-pass batch.
+- Batch 1: scan pp.27–41
+- Batch 2: scan pp.42–56
+- Batch 3: scan pp.57–61
+
+A full-speech completeness audit has passed: all **35** source-page markers are present, unique and monotonic; the opening aligns with the locked Speech 2 boundary; scan p.61 contains the closing Kalaignar intervention followed by the decorative ending ornament; scan p.62 begins `உரை : 3 / நாள் : 03.05.1989`.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — partial Tamil first-pass transcription, scan pp.27–56, with source-page markers.
-- [`metadata.json`](./metadata.json) — source, page-range and status metadata.
-- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries, batch boundary and transcription policy.
-- [`verification-log.md`](./verification-log.md) — batch first-pass record and page-marker audit; strict full-speech verification has not yet begun.
+- [`transcript.md`](./transcript.md) — complete Tamil first-pass transcription, scan pp.27–61, with source-page markers.
+- [`metadata.json`](./metadata.json) — source, page-range and current gate/status metadata.
+- [`source-notes.md`](./source-notes.md) — source authority, boundaries, batch notes and transcription policy.
+- [`verification-log.md`](./verification-log.md) — first-pass batches and full-speech completeness audit.
 
 ## தற்போதைய நிலை
 
-- Tamil first-pass transcription: **in progress** — pp.27–56 complete; pp.57–61 pending.
-- Full-speech Tamil completeness audit: **not yet eligible**.
-- Strict Tamil visual/source-fidelity verification: **not started** as a separate full-speech gate.
-- Tamil status: **in-progress**.
-- Explicit unresolved-reading markers in the completed first-pass batches: **none currently flagged**; this does not imply verification.
+- Tamil first-pass transcription: **complete**.
+- Full-speech Tamil completeness audit: **passed**.
+- Tamil status: **transcribed** — this does **not** mean verified.
+- Strict Tamil visual/source-fidelity verification: **not yet completed**.
+- Explicit unresolved-reading markers: **none currently flagged**; this is not a verification claim.
 - English translation: **blocked / not started**.
-- Root release index / `data/speeches.json`: **not updated** while Speech 2 remains partial.
+- Root release index / `data/speeches.json`: **not updated** until the later verification/translation/release gates are satisfied.
 
 ## காப்பகக் குறிப்பு
 
-Scan image தான் canonical source. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels and printed English passages are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers and printed page numbers are not repeated as speech text.
+Scan image தான் canonical source. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels and printed English passages are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers, printed page numbers and the closing decorative ornament are not repeated as speech text.

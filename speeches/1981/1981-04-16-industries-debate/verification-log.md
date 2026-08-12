@@ -1,98 +1,84 @@
 # Verification log — உரை : 2 / 16.04.1981
 
-This log tracks Speech 2 as a multi-batch transcription. `in-progress` is used literally: only part of the locked speech range has been transcribed, so neither `transcribed` nor `verified` is appropriate yet.
+This log distinguishes first-pass completeness from later strict source-fidelity verification.
 
 ## 1. Locked speech range
 
 - PDF scan pages: **27–61**
 - Printed pages: **26–60**
-- Total scan pages in speech: **35**
+- Total scan pages: **35**
 - Canonical ID: `1981-04-16-industries-debate`
 
 ## 2. Tamil first-pass batch 1
 
-**Completed:** PDF scan pp. **27–41** / printed pp. **26–40**  
-**Batch size:** 15 scan pages  
-**Speech state after batch:** partial
+**Completed:** scan pp. **27–41** / printed pp. **26–40**  
+**Batch size:** 15 scan pages
 
-The first-pass transcription was read from the scan images, not taken from OCR as canonical text. Printed English embedded in the Tamil speech was retained, including the poverty-line sentence, Comptroller and Auditor-General material and the Government of India letter-of-intent passage.
+Printed English embedded in the Tamil speech was retained, including the poverty-line sentence, Comptroller and Auditor-General material and the Government of India letter-of-intent passage.
 
 ## 3. Tamil first-pass batch 2
 
-**Completed:** PDF scan pp. **42–56** / printed pp. **41–55**  
-**Batch size:** 15 scan pages  
-**Cumulative completed range:** scan pp. **27–56** / printed pp. **26–55**  
-**Speech state after batch:** partial
+**Completed:** scan pp. **42–56** / printed pp. **41–55**  
+**Batch size:** 15 scan pages
 
-This batch preserves the printed parliamentary exchanges involving the chair, `கலைஞர் மு. கருணாநிதி`, `மாண்புமிகு திரு. எஸ். திருநாவுக்கரசு`, `திரு. க. அன்பழகன்`, `திரு. கே. எஸ். ஜி. ஹாஜாஷெரீப்`, `திரு. துரைமுருகன்`, and `திரு. என். எஸ். வி. சித்தன்`, as printed.
+This batch preserves printed parliamentary exchanges and source English including `Bagasse`, `Not Feasible`, `Interest free sales tax loan`, `IDBI refinancing`, and the full scan-p.54 `THIRU K.S.G HAJA SHAREEF` passage.
 
-Printed English source text is retained rather than translated or normalised, including:
+## 4. Tamil first-pass batch 3
 
-- `Bagasse`;
-- `Not Feasible`;
-- `Interest free sales tax loan`;
-- `IDBI refinancing`;
-- the full scan-p.54 passage headed `THIRU K.S.G HAJA SHAREEF`.
+**Completed:** scan pp. **57–61** / printed pp. **56–60**  
+**Batch size:** 5 scan pages  
+**First-pass speech state after batch:** complete
 
-## 4. Cumulative page-marker audit
+The final batch continues p.56's `நியமிக்கப்` on p.57 as `பட்டிருக்கிறார்கள். இது ஒன்றும் புதிதும் அல்ல.` and preserves the subsequent printed exchanges through Kalaignar's final intervention on p.61.
 
-**Status:** passed for the completed first-pass range only
+Source-specific items retained in the final batch include:
 
-`transcript.md` contains exactly **30** source-page markers, covering:
+- `பஞ்சாப் நேஷனல் பாங்க்`;
+- `செஷசாயி மில்லில் நியூஸ் பிரிண்ட் பேப்பர்`;
+- `கன்சல்டண்ட் அண்ட் ஒன் ஆஃப் தி டைரக்டர்ஸ்`;
+- `ஐ. டி. பி. ஐ.` and World Bank references;
+- `க்யூ. சி. ப்ராசஸ்`, `ப்ரூவ்`, `பீசிபிள்`, `ஆக்சுவல் ரிப்போர்ட்`;
+- the printed figures `30 கோடி`, `83 ஆயிரம் டன்`, `50 ஆயிரம் டன்`, `200 கோடி`, `10 சதவீதம்`, `20 கோடி`, and `109 கோடி` as they appear in the source.
 
-`27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56`
+## 5. Full-speech Tamil completeness audit — Gate D
+
+**Status: PASSED**
+
+The complete first-pass transcript contains exactly **35** source-page markers:
+
+`27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61`
 
 Checks:
 
-- [x] 30 markers are present;
+- [x] every mapped scan page 27–61 is represented;
+- [x] 35 markers are present;
 - [x] markers are monotonic;
-- [x] no duplicate marker appears;
-- [x] no page in the completed 27–56 range is skipped;
-- [x] Speech 2 is still presented as partial / `in-progress`;
-- [x] scan p.56 is retained as an intentionally partial sentence ending.
+- [x] no marker is duplicated;
+- [x] no mapped page is skipped;
+- [x] scan p.27 begins at the locked `உரை : 2 / நாள் : 16.04.1981` boundary;
+- [x] page-to-page sentence continuations remain represented across explicit markers;
+- [x] printed member/speaker changes and intervention sequence are represented in the first pass;
+- [x] scan p.61 contains Kalaignar's final intervention followed by the decorative ending ornament;
+- [x] scan p.62 begins `உரை : 3 / நாள் : 03.05.1989`, confirming the end boundary;
+- [x] no explicit unreadable/`[REVIEW]` placeholder remains.
 
-This is a batch-integrity check, **not** the full-speech Tamil completeness audit and **not** strict visual verification.
+The status is therefore promoted from `in-progress` to **`transcribed`**.
 
-## 5. Batch-2 transition notes
+## 6. Important distinction: Gate E has NOT passed
 
-The following source-page continuations are preserved explicitly:
+The completeness audit is not the repository's strict source-fidelity verification.
 
-- p.41 → p.42: `ஒரு மனு` → `கொடுத்தார்கள். அண்ணா அவர்கள் 6.12.1968-ல்...`
-- p.42 → p.43: `தீதா கிருஷ்ணன் என்கிற` → `முன்னாள் தொழில்துறை செயலாளருக்கு மேல்;`
-- p.43 → p.44: `புறப்` → `ஆகியிருக்கிறது.`
-- p.44 → p.45: `இதைத்` → `தொடங்குவதற்குமுன்பு...`
-- p.45 → p.46: `வட பகுதியில் அவர்கள்` → `தொழிலைத் துவங்க விரும்புகிறார்கள்;`
-- p.46 → p.47: `தமிழக` → `அரசோடு அவர்கள் தொடர்பு கொண்டு...`
-- p.47 → p.48: `தர நீங்கள்` → `ஒப்புக்கொள்ளவில்லை.`
-- p.48 → p.49: `அவர்கள்` → `போயிருக்கிறார்கள்.`
-- p.49 → p.50: `இந்த அரசு` → `தரவில்லை என்பதுதான் காரணம்.`
-- p.50 → p.51: `இத்தனை ஏக்கர் இடம் வேண்டுமென்று` → `சொல்கிறார்கள்.`
-- p.51 → p.52: `எந்த, எந்த` → `நேரத்திலே...`
-- p.52 → p.53: `மாண்புமிகு ஜனாதிபதி` → `அவர்களும், ரயில்வே அமைச்சரும்...`
-- p.54 → p.55: `என்று தெரிந்த` → `உடனே அல்லது இங்கே இருந்து...`
-- p.55 → p.56: `என்று` → `சொல்கிறார்கள்.`
+A separate direct visual review of every page 27–61 is still required to check individual characters, names/initials, numerals, punctuation, printed English, speaker labels and omissions/repetitions across transitions. Corrections found in that pass must be applied before Tamil can be marked `verified`.
 
-## 6. Exact continuation point
+Therefore:
 
-Current canonical first-pass text stops at the end of scan p.56:
+- Tamil status: **transcribed**;
+- strict page-by-page visual/source-fidelity verification: **not completed**;
+- `verified_against_scan`: **false**;
+- explicit unresolved-reading placeholders: **0**, but this is not a verification claim;
+- English translation: **blocked / not started**;
+- root release/index update: **not yet eligible**.
 
-`... தமிழ்நாட்டிலும் சில நிறுவனங்களில் தனியார் சிலர் தலைவர்களாக நியமிக்கப்`
+## 7. Exact next action
 
-Scan p.57 begins:
-
-`பட்டிருக்கிறார்கள். இது ஒன்றும் புதியது அல்ல. திரு. டாண்டன்...`
-
-**Next transcription action:** begin at scan p.57 and complete the final first-pass batch through scan p.61.
-
-## 7. Current status
-
-- Completed scan pages: **27–56**.
-- Pending scan pages in Speech 2: **57–61**.
-- Tamil first-pass status: **in-progress**.
-- Full-speech completeness audit: **not yet eligible**.
-- Separate strict page-by-page visual/source-fidelity verification: **not completed**.
-- Explicit unresolved-reading placeholders: **none currently flagged**.
-- English translation: **blocked / not started**.
-- Root release index update: **not eligible while partial**.
-
-No status in this file should be read as a claim that pp.27–56 have already passed the repository's later `verified` gate.
+Perform the **strict Tamil visual/source-fidelity verification across scan pp.27–61**, page by page. English translation must remain blocked until that verification is genuinely complete and Tamil is promoted to `verified`.

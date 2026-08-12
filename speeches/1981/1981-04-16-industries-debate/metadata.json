@@ -38,19 +38,20 @@
     "source_authority": "scan image"
   },
   "transcription": {
-    "method": "manual first-pass transcription from scan images",
-    "status": "in-progress",
+    "method": "manual first-pass transcription from scan images, followed by full-speech completeness audit",
+    "status": "transcribed",
     "full_speech_scan_pages": "27-61",
-    "completed_scan_pages": "27-56",
-    "completed_printed_pages": "26-55",
-    "next_scan_page": 57,
+    "completed_scan_pages": "27-61",
+    "completed_printed_pages": "26-60",
+    "next_scan_page": null,
     "page_markers_audited_for_completed_batch": true,
-    "full_speech_completeness_audit": false,
+    "full_speech_completeness_audit": true,
+    "full_speech_page_marker_audit": true,
     "verified_against_scan": false,
     "strict_full_speech_visual_verification": false,
     "explicit_unresolved_reading_markers": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "continuation_note": "Scan p.56 ends with 'நியமிக்கப்'; scan p.57 continues 'பட்டிருக்கிறார்கள். இது ஒன்றும் புதியது அல்ல. திரு. டாண்டன்...'."
+    "completion_note": "All 35 mapped scan pages 27-61 are represented. Markers are unique and monotonic. Scan p.61 ends with Kalaignar's final intervention and a decorative ornament; scan p.62 begins Speech 3 (03.05.1989)."
   },
   "translation": {
     "language": "English",
