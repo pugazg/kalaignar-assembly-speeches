@@ -57,58 +57,48 @@ Do not alter Speech 1 unless separately requested.
 - Source range: **scan pp.27–61 / printed pp.26–60**
 - Folder: `speeches/1981/1981-04-16-industries-debate/`
 - First-pass/completeness commit: `88fb033a2def03f3ef972907b9b6558ad6dbd679`
+- Tamil verification commit: `69692a5ed47c937cebea3a19914d2becacc0ab7a`
+- English translation + fidelity commit: `9cf3b58fe6530089c8ef08206ceb392261f14d6a`
 
-### Tamil first pass and Gate D — complete
+### Tamil gates complete
 
-Speech 2 was transcribed in three bounded batches: **27–41**, **42–56**, and **57–61**.
+Speech 2 was transcribed in three bounded batches: **27–41**, **42–56**, and **57–61**. Gate D passed with exactly **35** unique, monotonic source-page markers, correct locked boundaries and no unresolved placeholder.
 
-The Gate-D completeness audit passed with exactly **35** unique, monotonic source-page markers, no skipped/duplicated mapped page, correct opening and ending boundaries, and no unresolved placeholder.
+Gate E then directly re-read every scan image from **p.27 through p.61** against the canonical Tamil. Nine first-pass discrepancies were corrected and documented. Tamil status is now **verified**, with **no unresolved Tamil readings**.
 
-### Gate E — strict Tamil source-fidelity verification complete
+### English translation and Gate G complete
 
-Every scan image from **p.27 through p.61** was directly re-read against the canonical transcript after Gate D. The audit checked words/characters, names/initials, figures/dates/percentages/units, printed English, headings, speaker labels/interventions, legible punctuation and page-transition continuity.
+The English translation was produced only from the final verified Tamil and appended after the complete Tamil transcription. It preserves **35 source-page headings, 27–61**, parliamentary speaker changes/interventions, names, figures, quotations and technical terms.
 
-Nine additional first-pass discrepancies were corrected:
+A separate Gate-G fidelity review was completed page by page against the final verified Tamil. Printed English already present in the source—especially the Government of India letter-of-intent passage on scan p.40 and the `THIRU K.S.G HAJA SHAREEF` intervention on scan p.54—was retained as source English rather than silently rewritten.
 
-- p.29 `இன்னைக்கும்` → `இன்றைக்கும்`;
-- p.29 `சனவரி திங்களில்` → `சனவரித் திங்களில்`;
-- p.32 `நமக்கு கொடுப்பதற்கு` → `நமக்குக் கொடுப்பதற்கு` in the `8 சதவீதம்` sentence;
-- p.38 `திட்டத்தட்ட` → `கிட்டத்தட்ட`;
-- p.38 `விடப்படைக்கூடிய` → `விடப்படையக்கூடிய`;
-- p.44 `ஃபீசிபிள் அல்ல` → `பீசிபிள் அல்ல` at that specific source occurrence;
-- p.45 `நாட் ஃபீசிபிள்` → `நாட் பீசிபிள்`;
-- p.51 `இப்பொழுதுதான்` → `இப்பொழுது தான்`;
-- p.60 `நிலையையும்` → `நிலைமையும்`.
+Current Speech 2 status:
 
-Unusual but visibly printed forms were deliberately retained rather than normalised, including `வாங்கலை`, `Not Feasible என்று என்று`, the separate p.45 `ஃபீசிபிள் என்று ப்ரூப் செய்யப்படாத`, `::பர்ஸ்ட் ஸ்டேஜ்`, `::பெர்டிலைசர்ஸ்`, `109 கோடி`, and the unusual p.61 `சட்டத்திலேயும் ... கடுமையாக விமர்சிக்கப்பட்டு` passage.
-
-### Current Speech 2 status
-
-- Tamil first-pass: **complete**
-- Tamil completeness audit: **passed**
-- Strict Tamil page-by-page/source-fidelity verification: **passed for pp.27–61**
-- Tamil status: **verified**
+- Tamil transcription: **verified**
 - Unresolved Tamil readings: **none**
-- English translation: **not started**
-- Verified-Tamil prerequisite for translation: **satisfied**
-- Root release index and `data/speeches.json`: **not yet updated**
+- English translation: **complete**
+- English fidelity verification: **passed**
+- English status: **verified**
+- Root README and `data/speeches.json`: **not yet updated**
 
-The root release/index files must remain untouched until the English translation is complete and has passed its own fidelity verification.
+## Immediate next action — Gate H release/index
 
-## Immediate next action
+Release/index **Speech 2 only**.
 
-Begin **English translation of Speech 2 from the verified Tamil only**.
+Before editing, inspect the current root `README.md` and `data/speeches.json` and follow the established released-speech schema used for Speech 1 and the existing verified 1970 speech. Do not invent fields.
 
-Requirements for the English stage:
+Update only the release/index files actually required by that schema. Record Speech 2 as having verified Tamil and verified English, with links/metadata consistent with existing entries. Validate JSON after editing.
 
-- place English only after the complete verified Tamil in `transcript.md`;
-- preserve the source-page sequence with `### Source page 27` through `### Source page 61`;
-- preserve argumentative sequence, parliamentary context, quotations, names, figures and technical terms;
-- translate the verified Tamil, not OCR or an earlier draft;
-- do not silently correct source claims, period terminology or unusual printed statements;
-- keep embedded English source passages faithful to what is already printed rather than rewriting them as if they were translator prose.
+Do **not** alter Speech 2 transcript/source files during Gate H unless a concrete release-blocking inconsistency is discovered. Do not begin Speech 3 in the same release commit.
 
-After the complete English translation, perform a **separate full English fidelity verification against the final verified Tamil**. Only after that may English be marked `verified` and the Gate-H release/index update begin.
+After Gate H is complete, the next mapped unit is:
+
+- Speech 3
+- printed date: `03.05.1989`
+- canonical ID: `1989-05-03-industries-debate`
+- scan pp. **62–98** / printed pp. **61–97**
+
+Speech 3 must then begin with Tamil first-pass transcription; English remains blocked until its Tamil gates are completed.
 
 ## Content to leave untouched
 
@@ -116,9 +106,10 @@ Unless explicitly requested otherwise:
 
 - `speeches/1963/1963-03-21-industries-debate/`;
 - `speeches/1970/1970-09-09-no-confidence-motion/`;
-- root README and `data/speeches.json` until Speech 2 reaches the release gate;
-- Speech 3 and unrelated sources/speeches.
+- Speech 2 canonical text during the Gate-H index update;
+- Speech 3 until Speech 2 Gate H is complete;
+- unrelated sources/speeches.
 
 ## End-of-session handover requirement
 
-Always record canonical ID, exact pages completed/reviewed, current gate, Tamil status, unresolved readings, translation status, files changed, commit SHA, and exact next action.
+Always record canonical ID, exact pages completed/reviewed, current gate, Tamil status, unresolved readings, English status, files changed, commit SHA and exact next action.

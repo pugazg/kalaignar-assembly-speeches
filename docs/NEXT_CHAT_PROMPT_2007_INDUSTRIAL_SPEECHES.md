@@ -28,54 +28,35 @@ Speech 2:
 - Canonical ID: `1981-04-16-industries-debate`
 - Full scan range: **27–61**
 - Printed pages: **26–60**
+- Tamil status: **verified**
+- Unresolved Tamil readings: **none**
+- English status: **verified**
+- English translation + fidelity commit: `9cf3b58fe6530089c8ef08206ceb392261f14d6a`
 
-### Tamil work completed
+The complete English translation appears after the verified Tamil in `transcript.md`, with source-page headings **27–61**. A separate Gate-G page-by-page fidelity review against the final verified Tamil has passed.
 
-The Tamil first-pass transcription is complete for all scan pp.27–61. Gate D completeness passed with 35 unique monotonic page markers and no mapped page omitted or duplicated.
+Root README and `data/speeches.json` have **not yet been updated** for Speech 2.
 
-Gate E has also been completed: every scan page 27–61 was directly compared against the canonical Tamil. Nine additional first-pass discrepancies were corrected and documented in `verification-log.md`.
+## Next action — Gate H release/index
 
-Current Tamil status is **`verified`**. Unresolved Tamil readings: **none**.
+Proceed directly with **Gate H for Speech 2**.
 
-English translation has **not started**, but the verified-Tamil prerequisite is now satisfied. Root README and `data/speeches.json` must remain untouched until English is translated and separately verified.
+1. Read the current root `README.md` and `data/speeches.json`.
+2. Follow the existing released-speech schema used for Speech 1 and the verified 1970 entry; do not invent fields.
+3. Add/release `1981-04-16-industries-debate` with **Tamil verified** and **English verified** statuses and the appropriate canonical links/metadata.
+4. Validate `data/speeches.json` after editing.
+5. Do not modify Speech 2 canonical transcript/source files unless a concrete release-blocking inconsistency is found.
+6. Do not begin Speech 3 in the same release commit.
 
-## Next action — English translation
+After Gate H is complete, the next mapped speech is:
 
-Proceed directly with the **complete English translation of Speech 2 from the verified Tamil only**.
+- Speech 3
+- printed date `03.05.1989`
+- canonical ID `1989-05-03-industries-debate`
+- scan pp. **62–98** / printed pp. **61–97**
 
-Append the English layer after the complete Tamil transcription in `transcript.md`, following the established repository precedent:
+Speech 3 should then begin with bounded Tamil first-pass transcription. English remains blocked until Speech 3 passes its Tamil audit and strict verification gates.
 
-```text
----
-# English translation
-> Translation note ...
-
-### Source page 27
-...
-
-### Source page 28
-...
-
-...
-
-### Source page 61
-...
-```
-
-Translation rules:
-
-- translate the verified Tamil, not OCR and not an earlier draft;
-- preserve the source-page sequence 27–61;
-- preserve parliamentary speaker changes/interventions and quoted material;
-- preserve all names, numerals, dates, percentages, monetary amounts and technical terms consistently;
-- do not silently correct factual or historical claims made in the source;
-- do not infer a historical office not established by the source;
-- where the Tamil layer already contains printed English passages, keep their source character clear rather than treating them as newly authored translator prose.
-
-After the complete translation, perform a **separate English fidelity verification against the final verified Tamil, page by page**. Do not mark English `verified` before that check.
-
-Only after English is verified should the root README and `data/speeches.json` be updated for release.
-
-At the end provide an exact handover: pages translated, English fidelity status, Tamil status, unresolved issues, files changed, commit SHA, and exact next action.
+At the end provide an exact handover with files changed, Speech 2 release status, commit SHA, and the exact Speech 3 first-pass starting range.
 
 ---
