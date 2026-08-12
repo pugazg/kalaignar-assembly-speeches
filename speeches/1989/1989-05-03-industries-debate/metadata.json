@@ -1,0 +1,63 @@
+{
+  "id": "1989-05-03-industries-debate",
+  "date": "1989-05-03",
+  "year": 1989,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "source_label_ta": "மாண்புமிகு கலைஞர் மு. கருணாநிதி",
+    "role_ta": null,
+    "role_en": null,
+    "role_note": "The source page supplies the speaker label but no historical office has been inferred from external knowledge."
+  },
+  "legislature": {
+    "source_context_ta": "சட்டமன்ற உரை",
+    "source_context_en": "Legislative Assembly speech"
+  },
+  "speech": {
+    "source_label_ta": "உரை : 3",
+    "printed_date": "03.05.1989",
+    "archive_subject_slug": "industries-debate",
+    "archive_title_note": "The slug is a neutral archival subject label derived from the anthology's industrial theme, not a claim that the printed Assembly event carried that formal title."
+  },
+  "source": {
+    "publication_title_ta": "தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்",
+    "edition_ta": "முதற்பதிப்பு",
+    "publication_date": "2007-05",
+    "publication_date_printed_ta": "மே, 2007",
+    "publisher_ta": "தமிழ்க்கனி பதிப்பகம்",
+    "location": "சென்னை - 600 004",
+    "sales_rights": "பூம்புகார் பதிப்பகம்",
+    "scan_filename": "TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf",
+    "scan_total_pages": 329,
+    "file_size": 217124211,
+    "sha256": "c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370",
+    "speech_scan_pages": "62-98",
+    "speech_printed_pages": "61-97",
+    "relationship": "For this speech, scan page = printed page + 1.",
+    "source_authority": "scan image"
+  },
+  "transcription": {
+    "method": "manual first-pass transcription from scan images",
+    "status": "in-progress",
+    "full_speech_scan_pages": "62-98",
+    "completed_scan_pages": "62-76",
+    "completed_printed_pages": "61-75",
+    "next_scan_page": 77,
+    "page_markers_audited_for_completed_batch": true,
+    "full_speech_completeness_audit": false,
+    "verified_against_scan": false,
+    "strict_full_speech_visual_verification": false,
+    "explicit_unresolved_reading_markers": 0,
+    "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
+    "continuation_note": "Scan p.76 ends mid-sentence with 'ஆனால் இதை வைத்துக் கொண்டு பொதுத் துறையே'; resume at scan p.77."
+  },
+  "translation": {
+    "language": "English",
+    "placement": "after the complete verified Tamil transcription",
+    "status": "blocked-not-started",
+    "requires_verified_tamil": true,
+    "tamil_gate_satisfied": false,
+    "verified_against_tamil": false
+  }
+}
