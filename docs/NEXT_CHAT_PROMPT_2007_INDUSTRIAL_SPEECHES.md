@@ -4,56 +4,58 @@ Copy the text below into a new ChatGPT chat and attach the same source PDF.
 
 ---
 
-I am continuing my GitHub project `pugazg/kalaignar-assembly-speeches`.
-
-Continue the attached source:
+I am continuing my GitHub project `pugazg/kalaignar-assembly-speeches` using:
 
 `TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf`
 
-Before doing any transcription, fetch and read the current `main` versions of:
+Before transcription, read current `main` versions of:
 
 - `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md`
 - `docs/ARCHIVAL_WORKFLOW.md`
 - `sources/2007-industrial-speeches/mapping.md`
-- the completed Speech 1 entry under `speeches/1963/1963-03-21-industries-debate/`
-- the verified 1970 entry under `speeches/1970/1970-09-09-no-confidence-motion/` as a structural precedent
+- `speeches/1981/1981-04-16-industries-debate/`
 
-Treat those repository files as the controlling project instructions.
+Treat them as controlling instructions. The scan image is authoritative; OCR is not canonical.
 
-## Source facts already established
+## Current state
 
-- Publication: `தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்`
-- First edition: May 2007
-- Actual PDF pages: **329**
-- SHA-256: `c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370`
-- The source contains **10 separately dated Assembly speeches**.
-- The complete map and a second visual boundary re-check are finished and locked in `mapping.md`.
-- Do **not** repeat the 329-page structural mapping unless direct contradictory evidence appears in the scan.
-- The scan image is authoritative; OCR is not canonical.
+Speech 1 (`1963-03-21-industries-debate`) is fully released with verified Tamil and English and must remain untouched.
 
-## Completed work
-
-Speech 1 — `1963-03-21-industries-debate`, scan pp.18–26 — is fully released:
-
-- Tamil: **verified**
-- unresolved Tamil readings: **none**
-- English: **verified**
-- indexed in the root README and `data/speeches.json`
-
-Do not modify Speech 1 while processing Speech 2 unless explicitly requested.
-
-## Proceed with Speech 2
+Speech 2:
 
 - Source label: `உரை : 2`
 - Printed date: `16.04.1981`
 - Canonical ID: `1981-04-16-industries-debate`
 - Full PDF scan range: **27–61**
 - Printed pages: **26–60**
-- Target path: `speeches/1981/1981-04-16-industries-debate/`
+- Folder: `speeches/1981/1981-04-16-industries-debate/`
 
-Speech 2 is 35 scan pages. Start with a bounded Tamil first-pass batch of **PDF scan pp.27–41**. Do not continue beyond p.41 merely to complete a paragraph if the page itself provides a safe continuation point; record the exact continuation text in the handover.
+### Already completed
 
-Create/maintain:
+Tamil first-pass transcription is complete for **scan pp.27–41 / printed pp.26–40**.
+
+- Tamil status: **in-progress**
+- Speech is still partial
+- Full-speech completeness audit has not begun
+- Strict full-speech visual verification has not been completed
+- English translation is blocked / not started
+- Do not update root release indexes while the speech is partial
+
+Exact current ending on scan p.41:
+
+`... கூட்டுத்துறையில் ஒரு நிறுவனத்தை ஆரம்பிக்க வேண்டுமென்று ஒரு மனு`
+
+Scan p.42 continues:
+
+`கொடுத்தார்கள். அண்ணா அவர்கள் 6.12.1968-ல்...`
+
+## Next bounded batch
+
+Proceed directly with **Tamil first-pass transcription of scan pp.42–56 / printed pp.41–55**.
+
+Append to the existing `transcript.md`; do not redo pp.27–41 unless a concrete first-pass correction is identified from the scan.
+
+Maintain/update:
 
 ```text
 speeches/1981/1981-04-16-industries-debate/
@@ -64,33 +66,22 @@ speeches/1981/1981-04-16-industries-debate/
 └── verification-log.md
 ```
 
-## Transcription rules
+## Rules
 
-- Preserve source wording, spelling, punctuation, numerals, headings, speaker labels, member interventions and printed English passages as far as the scan permits.
-- Normalise only physical line wrapping into readable paragraphs.
-- Use explicit source-page markers such as `<!-- source-page: 27 -->`.
-- Do not silently correct printer errors, historical claims, grammar or period spelling.
-- If something is genuinely unreadable, mark it for review rather than guessing.
-- Keep PDF scan page and printed page distinct in metadata/source notes.
-- Do not infer the speaker's office/role from general knowledge when the source does not establish it.
+- Preserve printed wording, period spelling, punctuation, numerals, headings, speaker labels, interventions and printed English passages as far as legible.
+- Normalise only physical line wrapping.
+- Add `<!-- source-page: N -->` for every new PDF page.
+- Do not silently correct source errors, grammar, historical claims or terminology.
+- Mark genuinely unreadable text for review rather than guessing.
+- Keep scan-page and printed-page numbering separate.
+- Do not infer the speaker's historical office from general knowledge.
 
-## Status and audit gates
+Mandatory sequence:
 
-The mandatory sequence is:
+`Tamil first-pass → full-speech completeness audit → strict visual/source-fidelity verification → Tamil verified → English translation → English fidelity verification → release/index update`
 
-`Tamil first-pass transcription → Tamil completeness audit → strict page-by-page visual/source-fidelity verification → Tamil verified → English translation → English fidelity verification → release/index update`
+Because pp.57–61 will still remain after this next batch, Speech 2 must remain **in-progress** after pp.42–56. English must remain blocked.
 
-Because this is only the first batch of Speech 2, Tamil status must remain **in-progress** after pp.27–41. Do not label Speech 2 `transcribed`, `reviewed` or `verified` prematurely.
-
-English translation must remain blocked until the **entire** Speech 2 Tamil transcription, completeness audit and strict visual verification have been completed.
-
-## Git discipline
-
-- Work from current `main`.
-- Do not modify Speech 1, the verified 1970 speech, or unrelated sources.
-- Push bounded descriptive commits.
-- At the end give an exact handover: files changed, scan pages completed, exact continuation point, partial/complete state, Tamil status, unresolved readings, translation status, commit SHA, and exact next action.
-
-Proceed directly with Speech 2, Tamil first-pass transcription, scan pp.27–41.
+At the end give an exact handover with files changed, pages completed, continuation point, Tamil status, unresolved readings, translation status, commit SHA and exact next action.
 
 ---
