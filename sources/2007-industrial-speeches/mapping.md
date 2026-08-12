@@ -37,7 +37,7 @@ A speech boundary is considered confirmed only where the source itself shows a n
 - [x] PDF scan pp. 101–125
 - [x] PDF scan pp. 126–150
 - [x] PDF scan pp. 151–175
-- [ ] PDF scan pp. 176–200
+- [x] PDF scan pp. 176–200
 - [ ] PDF scan pp. 201–225
 - [ ] PDF scan pp. 226–250
 - [ ] PDF scan pp. 251–275
@@ -49,7 +49,7 @@ A speech boundary is considered confirmed only where the source itself shows a n
 
 ---
 
-## Confirmed mapping through PDF scan p. 175
+## Confirmed mapping through PDF scan p. 200
 
 ### Front matter
 
@@ -94,23 +94,34 @@ PDF scan pp. **1–17** are publication/front-matter material and are not part o
 - **Date:** `14.08.1996`
 - **PDF scan pages:** **136–171**
 - **Printed pages:** **135–170**
-- **Boundary evidence:** scan p. 136 explicitly begins `உரை : 5` / `நாள் : 14.08.1996`; the speech continues through the pages that were previously hidden by the 150-page rendering limit; scan p. 171 closes the debate with a decorative torch/flame end mark; scan p. 172 begins `உரை : 6`.
+- **Boundary evidence:** scan p. 136 explicitly begins `உரை : 5` / `நாள் : 14.08.1996`; scan p. 171 closes the debate with a decorative end mark; scan p. 172 begins `உரை : 6`.
 - **Status:** confirmed complete
 
 ### Speech 6
 
 - **Source label:** `உரை : 6`
 - **Date:** `23.04.1997`
-- **Speech start:** PDF scan **p. 172**
-- **Printed page at start:** **171**
-- **Speech end:** not yet reached by PDF scan p. 175
+- **PDF scan pages:** **172–198**
+- **Printed pages:** **171–197**
+- **Boundary evidence:** scan p. 172 explicitly begins `உரை : 6` / `நாள் : 23.04.1997`; scan pp. 176–197 continue the same speech without a new editorial heading; scan p. 198 (printed p. 197) finishes the speech and carries a decorative closing mark; scan p. 199 begins `உரை : 7`.
+- **Status:** confirmed complete
+
+The long middle portion of Speech 6 contains statistics, lists of industries/projects, English technical and investment-policy terms, and quoted material. These are continuous parts of the same Assembly speech and are not separate archival boundaries.
+
+### Speech 7
+
+- **Source label:** `உரை : 7`
+- **Date:** `14.05.1998`
+- **Speech start:** PDF scan **p. 199**
+- **Printed page at start:** **198**
+- **Speech end:** not yet reached by PDF scan p. 200
 - **Status:** start confirmed; end boundary open
 
-Scan p. 172 explicitly prints `உரை : 6` and `நாள் : 23.04.1997`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி` as the opening speaker label. Scan pp. 173–175 continue the same speech.
+Scan p. 199 explicitly prints `உரை : 7` and `நாள் : 14.05.1998`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி` as the opening speaker label. Scan p. 200 continues the same speech.
 
 ---
 
-## Current inventory after scan p. 175
+## Current inventory after scan p. 200
 
 | Source speech | Date | PDF scan pages | Printed pages | Boundary status |
 |---|---|---:|---:|---|
@@ -119,8 +130,9 @@ Scan p. 172 explicitly prints `உரை : 6` and `நாள் : 23.04.1997`, f
 | உரை 3 | 03.05.1989 | 62–98 | 61–97 | Confirmed complete |
 | உரை 4 | 18.04.1990 | 99–135 | 98–134 | Confirmed complete |
 | உரை 5 | 14.08.1996 | 136–171 | 135–170 | Confirmed complete |
-| உரை 6 | 23.04.1997 | 172–? | 171–? | Start confirmed; continues past p. 175 |
+| உரை 6 | 23.04.1997 | 172–198 | 171–197 | Confirmed complete |
+| உரை 7 | 14.05.1998 | 199–? | 198–? | Start confirmed; continues past p. 200 |
 
 ## Exact continuation point
 
-Resume structural mapping at **PDF scan p. 176**, continuing Speech 6 until the next explicit speech boundary is found.
+Resume structural mapping at **PDF scan p. 201**, continuing Speech 7 until the next explicit speech boundary is found.
