@@ -38,8 +38,8 @@
     "source_authority": "scan image"
   },
   "transcription": {
-    "method": "manual first-pass transcription from scan images, followed by full-speech completeness audit",
-    "status": "transcribed",
+    "method": "manual first-pass transcription from scan images, followed by full-speech completeness audit and strict direct page-by-page visual source-fidelity verification",
+    "status": "verified",
     "full_speech_scan_pages": "62-98",
     "completed_scan_pages": "62-98",
     "completed_printed_pages": "61-97",
@@ -47,18 +47,21 @@
     "page_markers_audited_for_completed_batch": true,
     "full_speech_completeness_audit": true,
     "full_speech_page_marker_audit": true,
-    "verified_against_scan": false,
-    "strict_full_speech_visual_verification": false,
+    "verified_against_scan": true,
+    "verified_scan_pages": "62-98",
+    "strict_full_speech_visual_verification": true,
     "explicit_unresolved_reading_markers": 0,
+    "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "All 37 mapped scan pages 62-98 are represented. Markers are unique and monotonic. Scan p.98 ends Speech 3 with Kalaignar's reply to Thiru V.K. Chinnasamy followed by the decorative ending ornament; scan p.99 begins Speech 4 (18.04.1990)."
+    "completion_note": "All 37 mapped scan pages 62-98 are represented. Markers are unique and monotonic. Scan p.98 ends Speech 3 with Kalaignar's reply to Thiru V.K. Chinnasamy followed by the decorative ending ornament; scan p.99 begins Speech 4 (18.04.1990).",
+    "verification_note": "The complete Tamil transcript for scan pp.62-98 was checked directly page by page against the controlling scan. Four concrete first-pass discrepancies found in that audit were corrected in transcript.md and documented in verification-log.md."
   },
   "translation": {
     "language": "English",
     "placement": "after the complete verified Tamil transcription",
-    "status": "blocked-not-started",
+    "status": "not-started",
     "requires_verified_tamil": true,
-    "tamil_gate_satisfied": false,
+    "tamil_gate_satisfied": true,
     "verified_against_tamil": false
   }
 }
