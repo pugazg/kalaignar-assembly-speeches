@@ -29,33 +29,37 @@
 
 இந்த உரையில் scan page = printed page + 1. PDF scan page மற்றும் அச்சுப் பக்க எண் தனித்தனியாகப் பதிவு செய்யப்படுகின்றன.
 
-## Tamil transcription status
+## Tamil transcription and verification status
 
-The complete Tamil first-pass transcription now covers **scan pp.27–61 / printed pp.26–60** in three bounded batches:
+The complete Tamil transcription covers **scan pp.27–61 / printed pp.26–60** in three bounded first-pass batches:
 
 - Batch 1: scan pp.27–41
 - Batch 2: scan pp.42–56
 - Batch 3: scan pp.57–61
 
-A full-speech completeness audit has passed: all **35** source-page markers are present, unique and monotonic; the opening aligns with the locked Speech 2 boundary; scan p.61 contains the closing Kalaignar intervention followed by the decorative ending ornament; scan p.62 begins `உரை : 3 / நாள் : 03.05.1989`.
+The full-speech completeness audit passed with all **35** source-page markers present, unique and monotonic. After that, a separate strict visual/source-fidelity verification was completed directly against every controlling scan image from p.27 through p.61.
+
+The Gate-E review checked wording and individual characters, names/initials, numerals, dates, percentages, monetary values and units, printed English passages, headings, speaker labels/interventions, punctuation where legible, and page-transition continuity. The first-pass discrepancies found in that review were corrected in the canonical `transcript.md` and recorded in `verification-log.md`.
+
+The ending remains source-faithful: scan p.61 contains Kalaignar's closing intervention followed by the decorative ending ornament; scan p.62 begins `உரை : 3 / நாள் : 03.05.1989`.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — complete Tamil first-pass transcription, scan pp.27–61, with source-page markers.
-- [`metadata.json`](./metadata.json) — source, page-range and current gate/status metadata.
-- [`source-notes.md`](./source-notes.md) — source authority, boundaries, batch notes and transcription policy.
-- [`verification-log.md`](./verification-log.md) — first-pass batches and full-speech completeness audit.
+- [`transcript.md`](./transcript.md) — **verified Tamil transcription**, scan pp.27–61, with source-page markers.
+- [`metadata.json`](./metadata.json) — source, page-range and verification/translation status metadata.
+- [`source-notes.md`](./source-notes.md) — source authority, boundaries, transcription policy and Gate-E source notes.
+- [`verification-log.md`](./verification-log.md) — first-pass batches, Gate-D completeness audit and Gate-E page-by-page verification/correction record.
 
 ## தற்போதைய நிலை
 
 - Tamil first-pass transcription: **complete**.
 - Full-speech Tamil completeness audit: **passed**.
-- Tamil status: **transcribed** — this does **not** mean verified.
-- Strict Tamil visual/source-fidelity verification: **not yet completed**.
-- Explicit unresolved-reading markers: **none currently flagged**; this is not a verification claim.
-- English translation: **blocked / not started**.
-- Root release index / `data/speeches.json`: **not updated** until the later verification/translation/release gates are satisfied.
+- Strict Tamil visual/source-fidelity verification: **passed for scan pp.27–61**.
+- Tamil status: **verified**.
+- Unresolved Tamil readings: **none**.
+- English translation: **not started**; the verified-Tamil prerequisite is now satisfied.
+- Root release index / `data/speeches.json`: **not yet updated**; release remains after English translation and English fidelity verification.
 
 ## காப்பகக் குறிப்பு
 
-Scan image தான் canonical source. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels and printed English passages are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers, printed page numbers and the closing decorative ornament are not repeated as speech text.
+Scan image தான் canonical source. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels, interventions and printed English passages are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers, printed page numbers and the closing decorative ornament are not repeated as speech text.

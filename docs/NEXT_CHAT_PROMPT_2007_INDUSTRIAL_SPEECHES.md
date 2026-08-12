@@ -29,48 +29,53 @@ Speech 2:
 - Full scan range: **27–61**
 - Printed pages: **26–60**
 
-### Completed
+### Tamil work completed
 
-The Tamil first-pass transcription is complete for **all scan pp.27–61**, in three batches: 27–41, 42–56, and 57–61.
+The Tamil first-pass transcription is complete for all scan pp.27–61. Gate D completeness passed with 35 unique monotonic page markers and no mapped page omitted or duplicated.
 
-The full-speech Tamil completeness audit has passed:
+Gate E has also been completed: every scan page 27–61 was directly compared against the canonical Tamil. Nine additional first-pass discrepancies were corrected and documented in `verification-log.md`.
 
-- 35 source-page markers, 27–61 inclusive;
-- unique and monotonic;
-- no mapped page skipped or duplicated;
-- opening and ending align with the locked map;
-- printed speaker changes/interventions are represented;
-- no explicit unreadable/`[REVIEW]` placeholder remains;
-- scan p.61 ends Speech 2 with Kalaignar's final intervention and a decorative ornament;
-- scan p.62 begins `உரை : 3 / நாள் : 03.05.1989`.
+Current Tamil status is **`verified`**. Unresolved Tamil readings: **none**.
 
-Current Tamil status is **`transcribed`**, not `verified`.
+English translation has **not started**, but the verified-Tamil prerequisite is now satisfied. Root README and `data/speeches.json` must remain untouched until English is translated and separately verified.
 
-A direct visual reading corrected the old p.57 continuation note: the scan reads `பட்டிருக்கிறார்கள். இது ஒன்றும் புதிதும் அல்ல.`
+## Next action — English translation
 
-English translation remains **blocked / not started**. Do not update the root release index or `data/speeches.json` yet.
+Proceed directly with the **complete English translation of Speech 2 from the verified Tamil only**.
 
-## Next action — strict Tamil verification
+Append the English layer after the complete Tamil transcription in `transcript.md`, following the established repository precedent:
 
-Proceed directly with **Gate E: strict page-by-page visual/source-fidelity verification of Speech 2, scan pp.27–61**.
+```text
+---
+# English translation
+> Translation note ...
 
-Compare the complete canonical Tamil transcript directly against every scan image. At minimum check:
+### Source page 27
+...
 
-- words and individual Tamil characters;
-- names and initials;
-- numerals, dates, percentages, monetary amounts and units;
-- printed English passages;
-- headings and speaker labels;
-- interventions/interruptions;
-- punctuation where legible;
-- page-transition omissions or repetitions.
+### Source page 28
+...
 
-Apply corrections to the canonical transcript and document them in `verification-log.md`.
+...
 
-Do **not** mark Tamil `verified` until the full 35-page visual audit is genuinely complete. Do **not** begin English translation before that point.
+### Source page 61
+...
+```
 
-Preserve source wording, period spelling, printer errors and historical claims rather than silently correcting them. Mark genuinely unreadable text for review rather than guessing. Do not infer the speaker's historical office from general knowledge.
+Translation rules:
 
-At the end provide an exact handover: pages visually verified, corrections made, unresolved readings, Tamil status, English status, files changed, commit SHA, and exact next action.
+- translate the verified Tamil, not OCR and not an earlier draft;
+- preserve the source-page sequence 27–61;
+- preserve parliamentary speaker changes/interventions and quoted material;
+- preserve all names, numerals, dates, percentages, monetary amounts and technical terms consistently;
+- do not silently correct factual or historical claims made in the source;
+- do not infer a historical office not established by the source;
+- where the Tamil layer already contains printed English passages, keep their source character clear rather than treating them as newly authored translator prose.
+
+After the complete translation, perform a **separate English fidelity verification against the final verified Tamil, page by page**. Do not mark English `verified` before that check.
+
+Only after English is verified should the root README and `data/speeches.json` be updated for release.
+
+At the end provide an exact handover: pages translated, English fidelity status, Tamil status, unresolved issues, files changed, commit SHA, and exact next action.
 
 ---

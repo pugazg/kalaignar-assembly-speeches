@@ -45,7 +45,7 @@ Transcribed **scan pp.42–56 / printed pp.41–55**.
 
 - Multiple printed parliamentary interventions are retained.
 - Printed English remains in the Tamil source layer, including `Bagasse`, `Not Feasible`, `Interest free sales tax loan`, `IDBI refinancing`, and the `THIRU K.S.G HAJA SHAREEF` passage on scan p.54.
-- p.56 ends with `நியமிக்கப்`; p.57 actually continues `பட்டிருக்கிறார்கள். இது ஒன்றும் புதிதும் அல்ல. திரு. டாண்டன்...`. The earlier first-pass continuation note that said `புதியது அல்ல` is superseded by this direct visual reading of the scan.
+- p.56 ends with `நியமிக்கப்`; p.57 continues `பட்டிருக்கிறார்கள். இது ஒன்றும் புதிதும் அல்ல.` after direct visual correction of the earlier continuation note.
 
 ### Batch 3
 
@@ -69,19 +69,44 @@ The speech page prints `கலைஞர் மு. கருணாநிதி :
 6. Mark genuinely unreadable material for review rather than guessing.
 7. Treat running headers, printed page numbers and decorative ending marks as page furniture/boundary evidence, not speech text.
 
-Several unusual-looking source forms are intentionally retained pending the later strict verification gate, including period transliterations, printed English, `வாங்கலை`, `ஜாயிண்ட் செக்டார்`, `Not Feasible`, `Interest free sales tax loan`, `IDBI refinancing`, and the printed `::` forms already present in the first pass.
+## Full-speech completeness audit — Gate D
 
-## Full-speech completeness audit
+The Tamil first pass represents **all scan pp.27–61 / printed pp.26–60**.
 
-The Tamil first pass now represents **all scan pp.27–61 / printed pp.26–60**.
-
-Gate-D checks completed:
+Gate-D checks passed:
 
 - 35 page markers are present;
 - markers are unique and monotonic from 27 through 61;
 - no mapped page is skipped or duplicated;
 - opening and ending align with the locked structural map;
-- printed speaker changes/interventions are represented in the first-pass sequence;
+- printed speaker changes/interventions are represented in sequence;
 - no explicit unreadable/`[REVIEW]` placeholder remains.
 
-This passes **completeness**, not source-fidelity verification. A separate strict page-by-page/character-level visual review of pp.27–61 is still required before Tamil may be marked `verified` and before English translation can begin.
+## Strict visual/source-fidelity verification — Gate E
+
+A separate direct visual audit was completed against **every scan page 27–61** after Gate D. The review checked individual Tamil readings, names/initials, figures, dates, percentages, monetary values and units, printed English, speaker labels, interventions, punctuation where legible, and page-transition continuity.
+
+Nine additional first-pass discrepancies were corrected in the canonical transcript:
+
+1. scan p.29: `இன்னைக்கும்` → source `இன்றைக்கும்`;
+2. scan p.29: `சனவரி திங்களில்` → source `சனவரித் திங்களில்`;
+3. scan p.32: `8 சதவீதம் நமக்கு கொடுப்பதற்கு` → source `8 சதவீதம் நமக்குக் கொடுப்பதற்கு`;
+4. scan p.38: `திட்டத்தட்ட` → source `கிட்டத்தட்ட`;
+5. scan p.38: `விடப்படைக்கூடிய` → source `விடப்படையக்கூடிய`;
+6. scan p.44: `இது ஃபீசிபிள் அல்ல` → source `இது பீசிபிள் அல்ல`;
+7. scan p.45: `இது நாட் ஃபீசிபிள்` → source `இது நாட் பீசிபிள்`;
+8. scan p.51: `இப்பொழுதுதான்` → source `இப்பொழுது தான்`;
+9. scan p.60: `எந்த நிலையையும் இல்லை` → source `எந்த நிலைமையும் இல்லை`.
+
+The audit also deliberately retained source forms that may look unusual but are visibly printed, including `வாங்கலை`, duplicate `Not Feasible என்று என்று`, the first p.45 `ஃபீசிபிள் என்று ப்ரூப் செய்யப்படாத`, `::பர்ஸ்ட் ஸ்டேஜ்`, `::பெர்டிலைசர்ஸ்`, `109 கோடி`, and the p.61 wording `இப்படி பல்வேறு சட்டத்திலேயும் ... கடுமையாக விமர்சிக்கப்பட்டு வர இருக்கிற ஒரு நல்ல ப்ராஜக்ட்` rather than silently rewriting them.
+
+The embedded English letter-of-intent passage on scan p.40 and the complete `THIRU K.S.G HAJA SHAREEF` intervention on scan p.54 were rechecked against the images and retained without editorial correction.
+
+## Current gate status
+
+- Tamil completeness: **passed**.
+- Strict Tamil source-fidelity verification: **passed for scan pp.27–61**.
+- Tamil status: **verified**.
+- Unresolved readings: **none**.
+- English translation: **not started**; it is now eligible to begin from the verified Tamil only.
+- Root release/index files remain untouched until English translation and its separate fidelity verification are complete.
