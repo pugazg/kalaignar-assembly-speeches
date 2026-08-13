@@ -66,8 +66,6 @@ The verified Tamil source on p.94 visibly reads:
 
 That Tamil wording remains unchanged because the scan controls the archival transcription.
 
-During Gate G, the English was changed from `TIIC` to `TIC` only to mirror the printed `டிக்`. The project owner later clarified that the institution intended here is **TIIC**, not `TIC`, and requested correction.
-
 Final project state:
 
 - Tamil source layer: retains **`டிக்`** exactly as printed.
@@ -92,11 +90,11 @@ Do not revert the English back to `TIC` in later work.
 - Locked range: **scan pp.99–135 / printed pp.98–134**
 - Total mapped pages: **37**
 - Gate C: **in progress**
-- Gate C completed pages: **scan pp.99–113 / printed pp.98–112**
-- Represented source-page markers: **15 of 37**, exactly **99–113**, unique and monotonic
+- Gate C completed pages: **scan pp.99–128 / printed pp.98–127**
+- Represented source-page markers: **30 of 37**, exactly **99–128**, unique and monotonic
 - Tamil status: **in-progress**
 - Explicit unresolved Tamil readings: **0**
-- Next scan page: **114 / printed p.113**
+- Next scan page: **129 / printed p.128**
 - Gate D: **not started**
 - Gate E: **not started**
 - English: **blocked / not started until Tamil Gates C–E are complete**
@@ -108,37 +106,54 @@ Boundary remains locked: scan p.98 ends Speech 3; scan p.99 begins `உரை : 
 
 Batch 1 directly transcribed **scan pp.99–113 / printed pp.98–112** from the controlling scan images.
 
-Files created:
-
-- `speeches/1990/1990-04-18-industries-debate/README.md`
-- `speeches/1990/1990-04-18-industries-debate/metadata.json`
-- `speeches/1990/1990-04-18-industries-debate/source-notes.md`
-- `speeches/1990/1990-04-18-industries-debate/transcript.md`
-- `speeches/1990/1990-04-18-industries-debate/verification-log.md`
-
 Batch 1 commit: `4f876e0e40057f423741239fcd74b1d000eb0099`
 
-Exact continuation boundary:
+Batch-1 continuation was:
 
 - scan p.113 ends: `யாரோ “என்.ஆர்.ஐ.” பெர்சன்களையெல்லாம்`
 - scan p.114 begins: `துரத்துகிறோம் என்று - அந்த பெரியசாமி அவர்கள் நடத்துகின்ற...`
 
-Scan p.114 was inspected only to establish the continuation; it has **not** yet been transcribed.
+### Gate C Batch 2 completed
 
-## Immediate next action — Speech 4 Gate C Batch 2
+Batch 2 directly transcribed **scan pp.114–128 / printed pp.113–127** from the controlling scan images and appended it to the canonical `transcript.md`.
 
-Continue Tamil first-pass transcription for **scan pp.114–128 / printed pp.113–127**.
+The Speech-4 progress files were updated:
+
+- `speeches/1990/1990-04-18-industries-debate/transcript.md`
+- `speeches/1990/1990-04-18-industries-debate/metadata.json`
+- `speeches/1990/1990-04-18-industries-debate/README.md`
+- `speeches/1990/1990-04-18-industries-debate/source-notes.md`
+- `speeches/1990/1990-04-18-industries-debate/verification-log.md`
+
+Batch-2/progress commits:
+
+- transcript: `07067b8dbaed5c5baf66b86fe49b9c5773b9a2c0`
+- metadata: `13403ab4ebd71074e734bad81d769a5b43d0edeb`
+- README: `5a18086ceb841d94dfd7c4273d437713e27381cf`
+- source notes: `a5f226328776de308f66867bf1a0b98d9fae6d77`
+- verification log: `3490b23cd66e1473abf1a54cfd0432fcfb8394f6`
+
+Exact Batch-2 continuation boundary:
+
+- scan p.128 ends: `30 வட்டங்`
+- scan p.129 begins: `களைத் தனியாக அறிவித்து அவர்களுக்கு மேலும் சில சலுகைகளைச் செய்யலாம் என்ற முயற்சியை இப்போது அரசு மேற்கொண்டிருக்கிறது...`
+
+Scan p.129 was inspected only to establish the continuation; it has **not** yet been transcribed.
+
+## Immediate next action — Speech 4 Gate C final batch
+
+Complete the remaining Tamil first-pass transcription for **scan pp.129–135 / printed pp.128–134**.
 
 1. Re-read current `docs/ARCHIVAL_WORKFLOW.md`, this handover, `sources/2007-industrial-speeches/mapping.md`, and the existing Speech 4 files before editing.
-2. Reconfirm scan p.114 directly from the rendered page and continue from `துரத்துகிறோம் என்று - அந்த பெரியசாமி அவர்கள் நடத்துகின்ற...`.
-3. Append scan pp.114–128 to `speeches/1990/1990-04-18-industries-debate/transcript.md`.
-4. Add exactly one `<!-- source-page: N -->` marker for every newly transcribed scan page.
+2. Reconfirm scan p.129 directly from the rendered page and continue from `களைத் தனியாக அறிவித்து அவர்களுக்கு மேலும் சில சலுகைகளைச் செய்யலாம்...`.
+3. Append scan pp.129–135 to `speeches/1990/1990-04-18-industries-debate/transcript.md`.
+4. Add exactly one `<!-- source-page: N -->` marker for every remaining scan page.
 5. Preserve wording, period spelling, punctuation, numerals, headings, speaker labels, interventions, technical transliterations and printed English as visible.
 6. Mark genuinely unreadable text explicitly instead of guessing.
-7. Update Speech 4 `README.md`, `metadata.json`, `source-notes.md` and `verification-log.md` with Batch-2 progress and the exact p.128 continuation.
-8. Set `next_scan_page` to **129** after the batch, provided pp.114–128 are all represented.
-9. Keep Speech 4 `in-progress`; do not run Gate D until pp.99–135 are all represented.
-10. Do not begin English translation or Speech 5.
+7. Reconfirm scan p.135 is the locked Speech-4 ending and scan p.136 begins Speech 5; do not transcribe Speech 5.
+8. Once pp.129–135 are represented, run Gate D full-speech completeness audit for exactly **37 markers, 99–135**, unique and monotonic, with no skipped/duplicated page and correct start/end boundaries.
+9. After Gate D, keep Tamil status `transcribed`; do **not** mark `verified` until a separate Gate E strict page-by-page visual audit has been completed.
+10. Do not begin English translation before Gate E passes.
 
 ## Content to leave untouched
 
