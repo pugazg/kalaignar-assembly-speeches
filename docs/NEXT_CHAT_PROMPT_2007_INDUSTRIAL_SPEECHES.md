@@ -15,27 +15,38 @@ Before doing any work, read current `main` versions of:
 - `sources/2007-industrial-speeches/mapping.md`
 - root `README.md`
 - `data/speeches.json`
-- a fully released anthology speech folder such as `speeches/1989/1989-05-03-industries-debate/` as the structural precedent
+- `speeches/1989/1989-05-03-industries-debate/` as the released structural precedent
 
-Treat those repository files as controlling instructions. The scan image is authoritative; OCR is only a helper and is never canonical.
+Treat those repository files as controlling instructions. The scan image is authoritative for Tamil transcription; OCR is only a helper and is never canonical.
 
 ## Completed released work
 
-Speeches 1, 2 and 3 from this anthology are fully released with verified Tamil and verified English and must remain untouched unless separately requested:
+Speeches 1, 2 and 3 from this anthology are fully released with verified Tamil and verified English:
 
 - `1963-03-21-industries-debate` — scan pp.18–26
 - `1981-04-16-industries-debate` — scan pp.27–61
 - `1989-05-03-industries-debate` — scan pp.62–98
 
-Speech 3 Gate H is complete. Release commits:
+Speech 3 Gate H release commits:
 
 - root README: `3e3dfe207435dd8d78ef263d472798e2acc248e5`
 - `data/speeches.json`: `a83d671fb6d313e30c3846658f38546eff049796`
-- Speech 3 final README release state: `3cef665ace36720a29b06710799810e985a59143`
-- Speech 3 final source notes: `94a5fd5610157440e0cc0630dab4493f26790b22`
-- Speech 3 final verification log: `8c5dac2bf2d563d9fbb4f50bc69c65706e67ac0c`
 
-The machine-readable index was validated as valid JSON after the Speech 3 append, and the pre-existing released records were unchanged.
+## Important Speech 3 correction already completed
+
+On source p.94 the verified Tamil scan/transcription reads `சிப்காட், டிக் நிறுவனங்களிடமிருந்து...` and must remain `டிக்` in the Tamil source layer.
+
+The final English, however, must use **`SIPCOT and TIIC`**. A previous Gate-G choice had rendered this as `TIC` merely to mirror the Tamil letters, but the project owner clarified that the intended Tamil Nadu industrial institution is TIIC, not TIC.
+
+This is an explicitly documented editorial/institutional identification in English and must **not** be reverted to `TIC`.
+
+Correction commits:
+
+- Speech 3 `transcript.md`: `822bb9ca97d43655f80ec222b2a4572a898c3e58`
+- Speech 3 `README.md`: `0adad93cd31e71a88900cad5a35180b619974f5e`
+- Speech 3 `source-notes.md`: `0eadb079ed213a14517f437e49f0483ce9c9c750`
+- Speech 3 `verification-log.md`: `5b2016282588dcec121e2354c567711eda4e47da`
+- updated handover: `3c8c799799959d7ef6d07bc44171d35d9b83b441`
 
 ## Current active work — Speech 4
 
@@ -69,8 +80,8 @@ Begin the Tamil first-pass transcription for **scan pp.99–113 / printed pp.98�
 6. Mark genuinely unreadable text explicitly for review rather than guessing.
 7. At the end of scan p.113, record the exact continuation words/boundary and set `next_scan_page` to **114**.
 8. Keep Speech 4 `in-progress`; Gate D is not eligible until all scan pages **99–135** are represented.
-9. Do not start English translation, Speech 5, or modify any already released speech/index record.
+9. Do not start English translation, Speech 5, or modify already released speeches/index entries.
 
-At the end, update `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` with the Batch-1 page range, continuation point, unresolved readings, files changed, commit SHAs and exact next action.
+At the end, update `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` with the Batch-1 range, continuation point, unresolved readings, files changed, commit SHAs and exact next action.
 
 ---
