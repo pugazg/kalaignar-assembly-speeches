@@ -83,12 +83,32 @@ The audit also deliberately retained source anomalies rather than silently moder
 
 Tamil status after Gate E: **verified**. Explicit unresolved Tamil readings: **0**.
 
-## Transcription policy applied
+## Gate F — English translation
 
-1. Preserve printed wording, period spelling, punctuation, numerals, quotations and headings as far as legible.
+Gate F is **complete** for all **37 verified source pages, scan pp.99–135**.
+
+The English was produced from the final Gate-E Tamil rather than OCR or the earlier first-pass transcript. A matching `### Source page N` section exists for every Tamil source page from 99 through 135 in `translation.md`.
+
+Translation policy applied:
+
+1. preserve the order and argumentative structure of the verified Tamil;
+2. preserve parliamentary speaker changes, interventions, interruption/laughter/desk-thumping markers and the final exchanges;
+3. keep all figures, dates, percentages, monetary amounts, units and project/company references tied to the corresponding Tamil source page;
+4. do not silently correct historical/factual claims made in the source;
+5. reproduce long English passages already printed in the source in their printed form rather than silently repairing their grammar/spelling;
+6. preserve source anomalies where they materially belong to the English layer, including `financed`, `constitute and Inter-Ministerial Committee`, `cilicon`, `stainlees`, `Spensioner Mill` and `ancilary`;
+7. retain unusual source list content such as the p.128 sequence corresponding to `ஆலங்குடி 3, 1, அறந்தாங்கி 4` rather than reconciling it externally.
+
+Gate-F working file: [`translation.md`](./translation.md).
+
+The English is **translated, not yet verified**. `translation.md` is a working Gate-F companion artifact so Gate G can review the English without modifying the already verified Tamil layer. After Gate G passes, the verified English should be incorporated after the Tamil source layer in the canonical `transcript.md` to match the established released-speech format.
+
+## Transcription/translation policy applied
+
+1. Preserve printed wording, period spelling, punctuation, numerals, quotations and headings as far as legible in the Tamil source layer.
 2. Preserve printed English and transliterated technical terms in the Tamil source layer; normalise only physical line wrapping.
 3. Preserve speaker/member interventions and interruption markers where printed.
-4. Mark every PDF source page with `<!-- source-page: N -->`.
+4. Mark every PDF source page in the Tamil with `<!-- source-page: N -->`; preserve corresponding `### Source page N` divisions in English.
 5. Do not silently repair printer errors, grammar, political/historical claims or unusual source forms.
 6. Mark genuinely unreadable material for review rather than guessing.
 7. Treat running headers, printed page numbers and decorative ending marks as page furniture/boundary evidence rather than speech text.
@@ -100,10 +120,11 @@ Tamil status after Gate E: **verified**. Explicit unresolved Tamil readings: **0
 - Gate E strict Tamil source-fidelity verification: **passed**.
 - Tamil status: **verified**.
 - Explicit unresolved Tamil readings: **0**.
-- Gate F English translation: **ready / not started**.
+- Gate F English translation: **complete for 99–135**.
+- English status: **translated / not yet verified**.
 - Gate G English fidelity verification: **not started**.
 - Gate H release/index: **not started**.
 
 ## Exact next action
 
-Run Gate F: translate the **final verified Tamil** for scan pp.99–135 into English, preserving source-page correspondence, parliamentary interventions, figures, names, technical terms and source claims/anomalies. Do not begin Speech 5. After the complete English translation exists, run Gate G before any Gate-H release/index update.
+Run **Gate G**: re-read every English section in `translation.md`, source pages **99–135**, against the final verified Tamil, correcting omissions, additions, mistranslations, names, figures, technical terms, speaker/intervention structure and page correspondence. Only after the entire Gate-G audit passes should the English be marked `verified` and integrated after the Tamil in `transcript.md`. Do not begin Speech 5 or Gate H before then.
