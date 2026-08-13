@@ -103,7 +103,7 @@ Tamil status after Gate E: **verified**. Explicit unresolved Tamil readings: **0
 
 Status: **complete**.
 
-A complete English translation was produced from the **final verified Tamil**, covering all **37 source pages, 99–135**, in [`translation.md`](./translation.md).
+A complete English translation was produced from the **final verified Tamil**, covering all **37 source pages, 99–135**.
 
 Gate-F checks included:
 
@@ -141,14 +141,23 @@ Every English source-page section **99–135** was re-read against the correspon
 - p.135 interrupted wording and Sathankulam wordplay: preserved without completing the missing source phrase;
 - English translation status: **verified**.
 
-The verified English remains in [`translation.md`](./translation.md) as the audited companion file. To avoid disturbing the already verified Tamil while Gate G was active, the canonical merge into `transcript.md` is deferred to the release operation in Gate H.
+## Gate H — canonical merge, index and release
+
+Status: **passed**.
+
+Release checks completed:
+
+- the complete Gate-G-verified English was merged after the verified Tamil in canonical [`transcript.md`](./transcript.md);
+- the top archival note now records both Tamil and English as verified;
+- canonical `transcript.md` contains all **37 Tamil source-page markers, 99–135**, and all **37 matching English `### Source page N` sections, 99–135**;
+- the final Tamil and English both end with the p.135 K. Ramani exchange and do not spill into Speech 5;
+- `metadata.json`, `README.md`, `source-notes.md`, this verification log, `data/speeches.json`, and the root speech index were brought into agreement on ID, date, page ranges and verified statuses;
+- the temporary `translation.md` Gate-F/G companion was retired after canonical integration so there is no second potentially divergent English copy;
+- Tamil status: **verified**;
+- English status: **verified**;
+- explicit unresolved Tamil readings: **0**;
+- release status: **fully released**.
 
 ## Exact next action
 
-Run **Gate H — Speech 4 release/index**. During that release step:
-
-1. merge the verified English from `translation.md` after the verified Tamil in canonical `transcript.md`, preserving the translation note and all source-page headings;
-2. update `data/speeches.json` and the root speech index as required by the existing released-speech precedent;
-3. ensure README/metadata/source notes agree on verified Tamil and verified English status and exact page ranges;
-4. confirm the canonical entry is self-contained after the merge;
-5. only after those release checks pass mark Speech 4 fully released, then move to Speech 5.
+Speech 4 is complete. Begin **Speech 5 — `1996-08-14-industries-debate`**, locked range **scan pp.136–171 / printed pp.135–170**, with Gate C Batch 1 at **scan pp.136–150 / printed pp.135–149**. English remains blocked until Speech 5 completes the Tamil audit gates.
