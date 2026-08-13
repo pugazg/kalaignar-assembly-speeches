@@ -29,59 +29,34 @@
 
 இந்த உரையில் scan page = printed page + 1. PDF scan page மற்றும் அச்சுப் பக்க எண் தனித்தனியாகப் பதிவு செய்யப்படுகின்றன.
 
-## Tamil transcription — Gates C, D and E
+## Verification and release status
 
-Gate C first-pass transcription is **complete** for all 37 source pages, Gate D completeness audit **passed**, and Gate E strict visual/source-fidelity verification **passed** for **scan pp.99–135**.
+All archival gates for this speech are complete.
 
-- source-page markers: **37/37**, exactly **99–135**;
-- markers unique and monotonic;
-- opening boundary: scan p.99 (`உரை : 4`, `நாள் : 18.04.1990`);
-- ending boundary: scan p.135, final exchange followed by the decorative ending ornament;
-- scan p.136 begins `உரை : 5`, dated `14.08.1996`;
-- explicit unresolved Tamil readings: **0**;
-- Tamil status: **verified**.
+- Gate C Tamil first-pass: **complete** — 37/37 pages.
+- Gate D Tamil completeness audit: **passed**.
+- Gate E strict Tamil source-fidelity verification: **passed**.
+- Tamil transcription: **verified**.
+- Explicit unresolved Tamil readings: **0**.
+- Gate F English translation: **complete** — 37/37 matching source-page sections.
+- Gate G English fidelity verification: **passed**.
+- English translation: **verified**.
+- Gate H canonical merge/index/release: **passed**.
+- Release status: **fully released**.
 
-Gate E corrected source-fidelity discrepancies and deliberately retained visibly printed source anomalies. The full correction ledger is in [`verification-log.md`](./verification-log.md).
+The canonical [`transcript.md`](./transcript.md) is now self-contained: the complete verified Tamil for scan pp.99–135 appears first, followed by the complete verified English translation with matching `### Source page N` divisions.
 
-## English translation — Gates F and G
+During Gate E, visible source anomalies were deliberately retained rather than silently regularised, including printed English forms such as `financed`, `constitute and Inter-Ministerial Committee`, `cilicon`, `stainlees`, `Spensioner Mill` and `ancilary`. Gate G likewise preserved source ambiguity and interrupted wording rather than completing or correcting the speaker's source text.
 
-Gate F translated the complete verified Tamil for **all 37 source pages, 99–135** into [`translation.md`](./translation.md).
+## Boundary
 
-Gate G has now **passed** after a separate page-by-page comparison of every English section against the final verified Tamil. The audit checked completeness, additions/omissions, speaker and intervention structure, figures, dates, percentages, monetary values, technical terms, argument sequence, interrupted wording and preservation of source anomalies.
-
-Gate-G corrections included:
-
-- restoring the stronger source claim on p.103 (`the most widely sold in India`);
-- avoiding an unsupported production-specific wording on p.104 (`operations to begin`);
-- removing an added comparison basis from the ambiguous p.129 M.B.C. criterion;
-- removing unsupported `and so on` from the p.131 sales-tax repayment sentence;
-- preserving Kumari Ananthan's interrupted p.135 sentence without inventing the missing verb.
-
-Printed English source anomalies on pp.108–112 remain intact in the English layer where they are quoted, including `financed`, `constitute and Inter-Ministerial Committee`, `cilicon`, `stainlees`, `Spensioner Mill` and `ancilary`.
-
-English translation status: **verified**.
+The opening boundary is scan p.99 / printed p.98, beginning `உரை : 4`, `நாள் : 18.04.1990`. Scan p.135 / printed p.134 contains the final interventions and ends with Kalaignar's reply to `திரு. கே. ரமணி`, followed by the decorative ending ornament. Scan p.136 begins `உரை : 5`, dated `14.08.1996`.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — complete **verified Tamil** transcription for scan pp.99–135; canonical English merge is pending Gate H release.
-- [`translation.md`](./translation.md) — complete **verified English** translation for source pages 99–135.
-- [`metadata.json`](./metadata.json) — source, locked range and verified Tamil/English status.
-- [`source-notes.md`](./source-notes.md) — source authority, boundaries and processing notes.
-- [`verification-log.md`](./verification-log.md) — Gate C–G audit and correction record.
+- [`transcript.md`](./transcript.md) — canonical complete **verified Tamil + verified English**.
+- [`metadata.json`](./metadata.json) — source, page ranges and final verification statuses.
+- [`source-notes.md`](./source-notes.md) — source authority, boundaries and Gate C–H notes.
+- [`verification-log.md`](./verification-log.md) — concrete Tamil and English audit records plus release checks.
 
-## தற்போதைய நிலை
-
-- Gate C Tamil first-pass: **complete**.
-- Gate D Tamil completeness audit: **passed**.
-- Gate E Tamil source-fidelity verification: **passed**.
-- Tamil: **verified**.
-- Explicit unresolved Tamil readings: **0**.
-- Gate F English translation: **complete, 37/37 source pages**.
-- Gate G English fidelity verification: **passed**.
-- English: **verified**.
-- Gate H release/index: **not started**.
-- Exact next action: **Gate H — merge the verified English after the verified Tamil in canonical `transcript.md`, update the speech index/data records, run release consistency checks and mark Speech 4 fully released.**
-
-## காப்பகக் குறிப்பு
-
-Scan image தான் canonical source for the Tamil layer. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels, interventions and printed English are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers, printed page numbers and the final decorative ornament are page furniture/boundary evidence rather than speech text. The English layer is derived only from the final verified Tamil and has now passed its own independent Gate-G fidelity review.
+The temporary Gate-F/G companion `translation.md` was retired after its verified English was merged into the canonical transcript, matching the released-speech repository structure.
