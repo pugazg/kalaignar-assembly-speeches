@@ -14,7 +14,7 @@ Controlling source facts:
 - file size: **217,124,211 bytes**
 - SHA-256: `c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370`
 
-The PDF is image-based. The scan image is authoritative; OCR or reconstructed text is not canonical.
+The PDF is image-based. The scan image is authoritative for the Tamil source layer; OCR or reconstructed text is not canonical. The final Gate-E-verified Tamil is authoritative for the English translation and Gate-G fidelity review.
 
 ## Locked boundary for Speech 3
 
@@ -98,9 +98,21 @@ Translation policy applied:
 4. Do not silently substitute external historical corrections for the source's claims or apparent inconsistencies.
 5. Preserve or explicitly reflect unusual source terminology where material to fidelity, including the source form `அசோசியேட் செக்டரி` as “Associate Sectary” in the English layer rather than silently normalising it away.
 6. Retain the p.92 `547` / `541` inconsistency and other source-supported figures in the English translation.
-7. Keep the English layer provisional until a separate Gate G page-by-page fidelity audit is completed.
 
-Gate F does **not** itself certify the English as verified. English status is `complete-unverified`.
+## Gate G — English fidelity verification
+
+Gate G is **passed**. The complete English layer was re-read page by page against the final Gate-E-verified Tamil for **all 37 source pages, 62–98**.
+
+The review checked completeness and fidelity of meaning, speaker attribution, parliamentary interventions, quotations, names and initials, dates, numerals, percentages, monetary values and units, industrial terminology, source anomalies and page-transition continuity.
+
+Two concrete source-preservation/fidelity corrections were made in `transcript.md`:
+
+1. **source p.86** — provisional English `aluminium sheets and strips` was replaced with `aluminium sheets and pattadaigal (பட்டாடைகள், as printed in the Tamil source)`. The verified Tamil visibly preserves `பட்டாடைகள்`; the English no longer silently interprets or repairs that source form as `strips`.
+2. **source p.94** — provisional English `SIPCOT and TIIC` was replaced with `SIPCOT and TIC (டிக் in the Tamil source)`. The verified Tamil prints `டிக்`; the English no longer expands it to an institution name not explicitly supplied by this source layer.
+
+The Gate-G review also confirmed that the English retains the p.66 `1986-86` date, p.71 “Associate Sectary,” p.92 `547` / `541` / `721` estimate sequence, p.93 repeated wordplay and laughter marker, and all final parliamentary interventions through p.98.
+
+English status after Gate G: **verified**.
 
 ## Source-supported speaker information
 
@@ -124,6 +136,6 @@ The speech start prints `மாண்புமிகு கலைஞர் ம�
 - Tamil status: **verified**.
 - Explicit unresolved Tamil readings: **0**.
 - Gate F English translation: **complete for source pages 62–98**.
-- English status: **complete-unverified**.
-- Gate G English fidelity verification: **next / not started**.
-- Gate H release/index: **not eligible until Gate G passes**.
+- Gate G English fidelity verification: **passed for all 37 source pages, 62–98**.
+- English status: **verified**.
+- Gate H release/index: **next / eligible**.
