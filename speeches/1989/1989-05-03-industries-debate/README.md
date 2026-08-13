@@ -58,14 +58,19 @@ Gate F covers the full source sequence **62–98** and preserves source-page cor
 
 Gate G has **passed**. Each of the **37 English source-page sections, 62–98**, was re-read directly against the corresponding final verified Tamil section.
 
-Two source-preservation/fidelity corrections were required:
+The p.86 source-preservation correction remains:
 
-1. **source p.86** — provisional English `aluminium sheets and strips` was changed to `aluminium sheets and pattadaigal (பட்டாடைகள், as printed in the Tamil source)`.
-2. **source p.94** — provisional English `SIPCOT and TIIC` was changed to `SIPCOT and TIC (டிக் in the Tamil source)`.
+- **source p.86** — provisional English `aluminium sheets and strips` was changed to `aluminium sheets and pattadaigal (பட்டாடைகள், as printed in the Tamil source)`.
+
+### Post-release institutional correction — source p.94
+
+The Tamil source layer visibly prints `சிப்காட், டிக் நிறுவனங்களிடமிருந்து...` and remains unchanged because the scan controls the transcription. During Gate G the English had been changed from `TIIC` to `TIC` solely to mirror the printed Tamil form `டிக்`.
+
+The project owner subsequently clarified that the institution referred to is **TIIC**, not `TIC`; there is no intended Tamil Nadu industrial institution called `TIC` in this context. The final English translation has therefore been corrected to **`SIPCOT and TIIC`**. This is recorded as an editorial/institutional identification in the English layer, while the source-faithful Tamil continues to preserve the printed `டிக்`.
 
 The review also confirmed that source anomalies deliberately retained in the Tamil remain visible in English, including the p.66 `1986-86` date, the p.71 source term `Associate Sectary`, the p.92 `547` / `541` / `721` estimate sequence and the repeated p.93 wordplay.
 
-English status is **verified**.
+English status remains **verified** after the documented post-release correction.
 
 ## Gate H — release/index
 
@@ -84,10 +89,10 @@ Release/index commits:
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — complete verified Tamil plus Gate-G-verified English translation, with source-page correspondence.
+- [`transcript.md`](./transcript.md) — complete verified Tamil plus verified English translation, with source-page correspondence and the documented p.94 TIIC institutional correction.
 - [`metadata.json`](./metadata.json) — source, full range, Tamil verification and English verification status metadata.
-- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and verification/release notes.
-- [`verification-log.md`](./verification-log.md) — Gate-C through Gate-H workflow records.
+- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and verification/release/editorial-correction notes.
+- [`verification-log.md`](./verification-log.md) — Gate-C through Gate-H workflow records plus the post-release TIIC correction.
 
 ## தற்போதைய நிலை
 
@@ -101,8 +106,9 @@ Release/index commits:
 - English status: **verified**.
 - Gate H release/index: **passed**.
 - Release status: **fully released**.
+- Post-release p.94 institutional correction: **English uses TIIC; Tamil source remains `டிக்`**.
 - Next anthology unit: Speech 4, `1990-04-18-industries-debate`, scan pp.99–135 / printed pp.98–134.
 
 ## காப்பகக் குறிப்பு
 
-Scan image தான் canonical source for the Tamil layer. The final Gate-E-verified Tamil is authoritative for English fidelity. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels, interventions and printed English are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers, printed page numbers and the closing decorative ornament are treated as page furniture/boundary evidence rather than speech text. Source forms that are visibly unusual remain preserved rather than silently modernised.
+Scan image தான் canonical source for the Tamil layer. The final Gate-E-verified Tamil is authoritative for English fidelity, while explicitly documented editorial identification may be recorded separately in the English layer when requested. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels, interventions and printed English are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers, printed page numbers and the closing decorative ornament are treated as page furniture/boundary evidence rather than speech text. Source forms that are visibly unusual remain preserved rather than silently modernised.
