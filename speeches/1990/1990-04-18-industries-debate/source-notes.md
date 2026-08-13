@@ -41,17 +41,30 @@ Transcribed **scan pp.99–113 / printed pp.98–112** directly from the control
 - visible source spellings and anomalies in the English passages were retained rather than silently corrected, while physical line-break hyphenation was normalised;
 - explicit unreadable/`[REVIEW]` markers: **0**.
 
-### Exact continuation point
+Batch-1 continuation: scan p.113 / printed p.112 ended `யாரோ “என்.ஆர்.ஐ.” பெர்சன்களையெல்லாம்`; scan p.114 continued `துரத்துகிறோம் என்று - அந்த பெரியசாமி அவர்கள் நடத்துகின்ற...`.
 
-Scan p.113 / printed p.112 ends mid-sentence:
+## Gate C — Batch 2
 
-`யாரோ “என்.ஆர்.ஐ.” பெர்சன்களையெல்லாம்`
+Transcribed **scan pp.114–128 / printed pp.113–127** directly from the controlling scan images.
 
-Scan p.114 / printed p.113 was inspected only to establish the safe continuation and begins:
+- source-page markers added: **114–128**;
+- Batch-2 marker count: **15**;
+- combined Gate-C markers: **30**, exactly **99–128**, unique and monotonic;
+- retained the sugar-factory sequence and continuation from p.113, electricity allocation and North Chennai station figures, TAMIN/granite pricing and loss figures, Sivaganga graphite discussion, Vedaranyam soda/chemical-project discussion, NRI examples, reopened mills, Neyveli royalty figures, TIIC sanction/disbursement figures, printed English tax-incentive terminology, and the beginning of the backward-area taluk list;
+- explicit unreadable/`[REVIEW]` markers: **0**;
+- Gate C remains first-pass work only and does not confer verified status.
 
-`துரத்துகிறோம் என்று - அந்த பெரியசாமி அவர்கள் நடத்துகின்ற...`
+### Exact Batch-2 continuation point
 
-**Scan p.114 is not part of Batch 1 and has not yet been transcribed.**
+Scan p.128 / printed p.127 ends mid-word:
+
+`30 வட்டங்`
+
+Scan p.129 / printed p.128 was inspected only to establish the next safe continuation and begins:
+
+`களைத் தனியாக அறிவித்து அவர்களுக்கு மேலும் சில சலுகைகளைச் செய்யலாம் என்ற முயற்சியை இப்போது அரசு மேற்கொண்டிருக்கிறது...`
+
+**Scan p.129 is not part of Batch 2 and has not yet been transcribed.**
 
 ## Transcription policy applied
 
@@ -65,8 +78,8 @@ Scan p.114 / printed p.113 was inspected only to establish the safe continuation
 
 ## Current gate status
 
-- Gate C Tamil first-pass: **in progress; scan pp.99–113 complete**.
-- Next scan page: **114**.
+- Gate C Tamil first-pass: **in progress; scan pp.99–128 complete**.
+- Next scan page: **129**.
 - Gate D full-speech completeness audit: **not started**.
 - Gate E strict Tamil source-fidelity verification: **not started**.
 - Tamil status: **in-progress**.
