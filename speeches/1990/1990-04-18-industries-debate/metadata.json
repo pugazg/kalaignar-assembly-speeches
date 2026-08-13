@@ -41,9 +41,9 @@
     "method": "manual first-pass transcription directly from scan images",
     "status": "in-progress",
     "full_speech_scan_pages": "99-135",
-    "completed_scan_pages": "99-113",
-    "completed_printed_pages": "98-112",
-    "next_scan_page": 114,
+    "completed_scan_pages": "99-128",
+    "completed_printed_pages": "98-127",
+    "next_scan_page": 129,
     "page_markers_audited_for_completed_batch": true,
     "full_speech_completeness_audit": false,
     "full_speech_page_marker_audit": false,
@@ -53,7 +53,7 @@
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C Batch 1 represents scan pp.99-113 / printed pp.98-112 with 15 unique monotonic source-page markers. Scan p.113 ends mid-sentence with `யாரோ “என்.ஆர்.ஐ.” பெர்சன்களையெல்லாம்`; scan p.114 continues `துரத்துகிறோம் என்று - அந்த பெரியசாமி அவர்கள் நடத்துகின்ற...`. Scan p.114 has been inspected only to lock the continuation and is not yet transcribed."
+    "completion_note": "Gate C Batches 1-2 represent scan pp.99-128 / printed pp.98-127 with 30 unique monotonic source-page markers. Scan p.128 ends mid-word with `30 வட்டங்`; scan p.129 continues `களைத் தனியாக அறிவித்து அவர்களுக்கு மேலும் சில சலுகைகளைச் செய்யலாம்...`. Scan p.129 has been inspected only to lock the continuation and is not yet transcribed."
   },
   "translation": {
     "language": "English",
