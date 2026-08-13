@@ -28,7 +28,9 @@ The PDF is image-based. The scan image is authoritative for the Tamil source lay
 
 For this speech: `PDF scan page = printed page + 1`.
 
-The opening boundary is visually explicit: scan p.99 / printed p.98 begins `உரை : 4`, `நாள் : 18.04.1990`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`. The locked anthology map places the end of Speech 4 at scan p.135 / printed p.134; scan p.136 begins Speech 5.
+The opening boundary is visually explicit: scan p.99 / printed p.98 begins `உரை : 4`, `நாள் : 18.04.1990`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`.
+
+The ending boundary was directly reconfirmed during the final Gate-C batch: scan p.135 / printed p.134 contains the final interventions and ends with Kalaignar's reply to `திரு. கே. ரமணி`, followed by the decorative floral ending ornament. Scan p.136 / printed p.135 begins `உரை : 5`, `நாள் : 14.08.1996`.
 
 ## Gate C — Batch 1
 
@@ -36,12 +38,12 @@ Transcribed **scan pp.99–113 / printed pp.98–112** directly from the control
 
 - source-page markers represented: **99–113**;
 - marker count: **15**;
-- markers are unique and monotonic;
-- the batch preserves printed Tamil, figures, dates, percentages, company/project names, parliamentary wording and the long printed English passages/letters on scan pp.108–112;
-- visible source spellings and anomalies in the English passages were retained rather than silently corrected, while physical line-break hyphenation was normalised;
+- markers unique and monotonic;
+- preserved printed Tamil, figures, dates, percentages, company/project names, parliamentary wording and long printed English passages/letters on scan pp.108–112;
+- visible source spellings and anomalies in printed English were retained rather than silently corrected, while physical line-break hyphenation was normalised;
 - explicit unreadable/`[REVIEW]` markers: **0**.
 
-Batch-1 continuation: scan p.113 / printed p.112 ended `யாரோ “என்.ஆர்.ஐ.” பெர்சன்களையெல்லாம்`; scan p.114 continued `துரத்துகிறோம் என்று - அந்த பெரியசாமி அவர்கள் நடத்துகின்ற...`.
+Batch-1 continuation: scan p.113 ended `யாரோ “என்.ஆர்.ஐ.” பெர்சன்களையெல்லாம்`; scan p.114 continued `துரத்துகிறோம் என்று - அந்த பெரியசாமி அவர்கள் நடத்துகின்ற...`.
 
 ## Gate C — Batch 2
 
@@ -49,22 +51,45 @@ Transcribed **scan pp.114–128 / printed pp.113–127** directly from the contr
 
 - source-page markers added: **114–128**;
 - Batch-2 marker count: **15**;
-- combined Gate-C markers: **30**, exactly **99–128**, unique and monotonic;
-- retained the sugar-factory sequence and continuation from p.113, electricity allocation and North Chennai station figures, TAMIN/granite pricing and loss figures, Sivaganga graphite discussion, Vedaranyam soda/chemical-project discussion, NRI examples, reopened mills, Neyveli royalty figures, TIIC sanction/disbursement figures, printed English tax-incentive terminology, and the beginning of the backward-area taluk list;
-- explicit unreadable/`[REVIEW]` markers: **0**;
-- Gate C remains first-pass work only and does not confer verified status.
+- combined markers after Batch 2: **99–128**;
+- retained the sugar-factory sequence, electricity and North Chennai power-station figures, TAMIN/granite pricing and loss sequence, Sivaganga graphite material, Vedaranyam chemical-project discussion, NRI examples, reopened mills, Neyveli royalty figures, TIIC figures, printed English incentive terminology and backward-area taluk counts;
+- explicit unreadable/`[REVIEW]` markers: **0**.
 
-### Exact Batch-2 continuation point
+Batch-2 continuation: scan p.128 ended mid-word `30 வட்டங்`; scan p.129 continued `களைத் தனியாக அறிவித்து அவர்களுக்கு மேலும் சில சலுகைகளைச் செய்யலாம்...`.
 
-Scan p.128 / printed p.127 ends mid-word:
+## Gate C — Batch 3 / final batch
 
-`30 வட்டங்`
+Transcribed the remaining **scan pp.129–135 / printed pp.128–134** directly from the controlling scan images.
 
-Scan p.129 / printed p.128 was inspected only to establish the next safe continuation and begins:
+- source-page markers added: **129–135**;
+- Batch-3 marker count: **7**;
+- combined Gate-C range: **99–135**, all **37** mapped pages;
+- continued the p.128→129 split word and retained the criteria used in the speech for backward and most-backward areas, the list of selected taluks, and the subsequent incentive announcements;
+- preserved the printed figures and conditions in the sales-tax exemption/deferral material, including 5-year and 9-year periods, the `ரூ. 3 கோடி` prior ceiling and the 80/60/50 percent capital-cost references;
+- retained the closing request to withdraw cut motions and all subsequent parliamentary interventions by `திரு. எஸ். ஆர். இராதா`, `திருமதி. ஏ. எஸ். பொன்னம்மாள்`, the Speaker, `திரு. எஸ். டி. உகம்சந்த்`, `திரு. சா. பீட்டர் ஆல்போன்ஸ்`, `திரு. இரா. மோகன்`, `திரு. எம். முகமதுத்தீக்`, `திரு. குமரி அனந்தன்` and `திரு. கே. ரமணி`, together with Kalaignar's replies;
+- scan p.135 ends with Kalaignar's final reply, followed by the decorative ending ornament;
+- explicit unreadable/`[REVIEW]` markers: **0**.
 
-`களைத் தனியாக அறிவித்து அவர்களுக்கு மேலும் சில சலுகைகளைச் செய்யலாம் என்ற முயற்சியை இப்போது அரசு மேற்கொண்டிருக்கிறது...`
+Gate C is now complete. Batch-level visual transcription does not confer `verified` status.
 
-**Scan p.129 is not part of Batch 2 and has not yet been transcribed.**
+## Gate D — full-speech completeness audit
+
+Gate D is **passed** for locked scan range **99–135 / printed pp.98–134**.
+
+Audit results:
+
+- expected source-page markers: **37**;
+- represented source-page markers: **37**;
+- marker sequence: **99, 100, 101, …, 135**;
+- markers are unique and monotonic;
+- no mapped page is skipped or duplicated;
+- opening boundary matches scan p.99 (`உரை : 4`, `நாள் : 18.04.1990`);
+- ending boundary matches scan p.135 and its decorative ornament;
+- scan p.136 begins Speech 5 (`14.08.1996`), confirming no spillover;
+- printed speaker changes/interventions are represented through the final exchange;
+- explicit unresolved-reading markers: **0**.
+
+Tamil status after Gate D: **transcribed**. It is not yet `verified` because Gate E has not been performed.
 
 ## Transcription policy applied
 
@@ -74,15 +99,18 @@ Scan p.129 / printed p.128 was inspected only to establish the next safe continu
 4. Mark every PDF source page with `<!-- source-page: N -->`.
 5. Do not silently repair printer errors, grammar, political/historical claims or unusual source forms.
 6. Mark genuinely unreadable material for review rather than guessing.
-7. Treat running headers and printed page numbers as page furniture rather than speech text.
+7. Treat running headers, printed page numbers and decorative ending marks as page furniture/boundary evidence rather than speech text.
 
 ## Current gate status
 
-- Gate C Tamil first-pass: **in progress; scan pp.99–128 complete**.
-- Next scan page: **129**.
-- Gate D full-speech completeness audit: **not started**.
-- Gate E strict Tamil source-fidelity verification: **not started**.
-- Tamil status: **in-progress**.
+- Gate C Tamil first-pass: **complete for scan pp.99–135**.
+- Gate D full-speech completeness audit: **passed**.
+- Tamil status: **transcribed**.
 - Explicit unresolved Tamil readings: **0**.
-- English translation: **blocked / not started** until Tamil Gates C–E are complete.
+- Gate E strict Tamil source-fidelity verification: **not started**.
+- English translation: **blocked / not started** until Gate E passes.
 - Gate H release/index: **not started**.
+
+## Exact next action
+
+Perform Gate E: re-read the complete canonical Tamil **page by page against every controlling scan image from p.99 through p.135**, apply any source-fidelity corrections found, and record them in `verification-log.md`. Only after Gate E passes may Tamil be marked `verified` and English Gate F begin.
