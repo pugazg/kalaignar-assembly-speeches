@@ -31,18 +31,23 @@
 
 ## Gate C — Tamil first-pass transcription
 
-Batch 1 is complete for **scan pp.99–113 / printed pp.98–112**.
+Two bounded first-pass batches are complete:
 
-- represented source-page markers: **15**, exactly **99 through 113**;
+- Batch 1: **scan pp.99–113 / printed pp.98–112**
+- Batch 2: **scan pp.114–128 / printed pp.113–127**
+
+Current Gate-C coverage is therefore **scan pp.99–128 / printed pp.98–127**.
+
+- represented source-page markers: **30**, exactly **99 through 128**;
 - markers are unique and monotonic;
-- scan p.99 begins `உரை : 4`, `நாள் : 18.04.1990`, and `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`;
-- printed Tamil wording, names, figures, industrial terms and embedded English correspondence have been retained as visible in the scan;
-- explicit unresolved/`[REVIEW]` readings in this batch: **0**;
-- scan p.113 ends mid-sentence with `யாரோ “என்.ஆர்.ஐ.” பெர்சன்களையெல்லாம்`;
-- scan p.114 was inspected only to lock the continuation and begins `துரத்துகிறோம் என்று - அந்த பெரியசாமி அவர்கள் நடத்துகின்ற...`;
-- **next transcription page: scan p.114 / printed p.113**.
+- printed Tamil wording, figures, dates, percentages, company/project names, technical transliterations, parliamentary markers and embedded English are preserved as visible in the scan;
+- Batch 2 includes the sugar-factory discussion, electricity allocation and North Chennai power-station material, TAMIN/granite and graphite material, Vedaranyam soda/chemical projects, NRI discussion, reopened mills, Neyveli royalty, TIIC and sales-tax incentive discussion, and the beginning of the backward-area taluk list;
+- explicit unresolved/`[REVIEW]` readings across completed Gate-C pages: **0**;
+- scan p.128 ends mid-word with `30 வட்டங்`;
+- scan p.129 was inspected only to lock the continuation and begins `களைத் தனியாக அறிவித்து அவர்களுக்கு மேலும் சில சலுகைகளைச் செய்யலாம்...`;
+- **next transcription page: scan p.129 / printed p.128**.
 
-This is first-pass work only. Speech 4 remains **in-progress**. Gate D full-speech completeness and Gate E strict source-fidelity verification have not started.
+This remains first-pass work only. Speech 4 is **in-progress**. Gate D full-speech completeness and Gate E strict source-fidelity verification have not started.
 
 ## English translation
 
@@ -50,17 +55,17 @@ English translation is **blocked** until the complete Tamil transcription for sc
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — in-progress Tamil first-pass transcription, currently scan pp.99–113.
+- [`transcript.md`](./transcript.md) — in-progress Tamil first-pass transcription, currently scan pp.99–128.
 - [`metadata.json`](./metadata.json) — source, locked range, current Gate-C progress and blocked English status.
-- [`source-notes.md`](./source-notes.md) — source authority, boundary facts and Batch-1 continuation point.
-- [`verification-log.md`](./verification-log.md) — Gate-C batch record and pending audit gates.
+- [`source-notes.md`](./source-notes.md) — source authority, boundary facts and Gate-C batch continuation points.
+- [`verification-log.md`](./verification-log.md) — Gate-C batch records and pending audit gates.
 
 ## தற்போதைய நிலை
 
-- Gate C Tamil first-pass: **complete through scan p.113**.
+- Gate C Tamil first-pass: **complete through scan p.128**.
 - Full mapped speech range: **scan pp.99–135**.
 - Tamil transcription status: **in-progress**.
-- Next scan page: **114**.
+- Next scan page: **129**.
 - Gate D full-speech completeness audit: **not started**.
 - Gate E strict Tamil source-fidelity verification: **not started**.
 - Explicit unresolved Tamil readings: **0**.
