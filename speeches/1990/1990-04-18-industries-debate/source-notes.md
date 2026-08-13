@@ -48,12 +48,10 @@ Important page transitions preserved include p.113→114 (`யாரோ “எ�
 
 Gate D **passed** for locked scan range **99–135 / printed pp.98–134**.
 
-- expected source-page markers: **37**;
-- represented markers: **37**, exactly **99–135**;
+- expected/represented source-page markers: **37/37**, exactly **99–135**;
 - markers unique and monotonic;
 - no mapped page skipped or duplicated;
-- correct p.99 opening boundary;
-- correct p.135 ending boundary and ornament;
+- correct p.99 opening and p.135 ending boundaries;
 - p.136 begins Speech 5, confirming no spillover;
 - printed speaker changes/interventions represented through the final exchange;
 - unresolved-reading markers: **0**.
@@ -62,85 +60,62 @@ Gate D **passed** for locked scan range **99–135 / printed pp.98–134**.
 
 Gate E **passed** after the complete canonical Tamil was compared directly against every controlling scan image from **p.99 through p.135**.
 
-The audit checked individual words/characters, names and initials, numerals, dates, percentages, monetary values and units, embedded English passages, speaker labels, punctuation and page-transition continuity. Corrections supported directly by the scan were applied to `transcript.md`; the full correction ledger is in `verification-log.md`.
+The audit checked individual words/characters, names and initials, numerals, dates, percentages, monetary values and units, embedded English passages, speaker labels, punctuation and page-transition continuity. Corrections supported directly by the scan were applied to `transcript.md`; the full concrete correction ledger is in `verification-log.md`.
 
-Representative source-fidelity corrections include:
+Representative source-fidelity corrections included:
 
 - p.111 printed English `ancilary` retained instead of first-pass `ancillary`;
 - p.112 interruption punctuation corrected to `(குறுக்கீடு) சிரிப்பு.`;
-- p.114 wording corrected to `அரசுத் தலையிட தயங்காது`, `குறிப்பிட விரும்புகிறேன்`, and `விவாதிக்கப்பட இருப்பதால்`;
+- p.114 wording restored to the printed forms `அரசுத் தலையிட தயங்காது`, `குறிப்பிட விரும்புகிறேன்`, and `விவாதிக்கப்பட இருப்பதால்`;
 - p.119 company wording corrected to `ஹம்போல் ஹெவி ஆலை`;
-- p.120 source forms restored for `அழகர்சாமி ... குறிப்பிட்டார்கள்`, `ராஜேந்திரன் ... எழுப்பினார்கள்`, `அளவிற்குத்`, and `கேஸ்டிக் சோடா`;
+- p.120 source forms restored for `அழகர்சாமி ... குறிப்பிட்டார்கள்`, `ராஜேந்திரன் ... எழுப்பினார்கள்`, `அளவிற்குத்`, and printed `கேஸ்டிக் சோடா`;
 - p.122 `உமா ஓயர் பிராடக்ட்` restored;
-- p.123 date corrected from `1-11-1990` to the printed `1-1-1990`;
-- pp.125–127 wording corrected in the Neyveli/TIIC/sales-tax discussion, including `பேச்சு நடைபெற்று`, `அனுமதிப்பதையும்`, `வட்டி இல்லாத`, `ஏற்பட வாய்ப்பு`, and `சட்டத்திருத்தமும்`;
-- p.128 list fidelity corrected for punctuation, `கும்மிடிப்பூண்டி` and `தாராபுரம் 7`;
-- p.129 split printed form normalised only across physical line wrapping to `சதவிகிதத்திற்குக்`;
+- p.123 date restored to printed `1-1-1990`;
+- pp.125–127 Neyveli/TIIC/sales-tax wording corrections including `பேச்சு நடைபெற்று`, `அனுமதிப்பதையும்`, `வட்டி இல்லாத`, `ஏற்பட வாய்ப்பு`, and `சட்டத்திருத்தமும்`;
+- p.128 punctuation/list corrections including `கும்மிடிப்பூண்டி` and `தாராபுரம் 7`;
+- p.129 physical line split normalised to `சதவிகிதத்திற்குக்` without lexical rewriting;
 - p.133 source quotation marks around `“தொழில்கள்”` and the printed asterisk before `திரு. சா. பீட்டர் ஆல்போன்ஸ்` preserved;
 - p.135 `இருக்கக் கூடிய` restored.
 
-The audit deliberately retained source anomalies rather than silently modernising them, including printed English `Government of India for financed`, `constitute and Inter-Ministerial Committee`, `cilicon`, `stainlees`, `Spensioner Mill`, and `ancilary`, as well as p.128 `ஆலங்குடி 3, 1, அறந்தாங்கி 4`.
+Visible source anomalies deliberately retained include printed English `Government of India for financed`, `constitute and Inter-Ministerial Committee`, `cilicon`, `stainlees`, `Spensioner Mill`, and `ancilary`, the distinct p.120/p.121 `கேஸ்டிக்`/`காஸ்டிக்` forms, and p.128 `ஆலங்குடி 3, 1, அறந்தாங்கி 4`.
 
 Tamil status after Gate E: **verified**. Explicit unresolved Tamil readings: **0**.
 
 ## Gate F — English translation
 
-Gate F is **complete** for all **37 verified source pages, scan pp.99–135**.
-
-The English was produced from the final Gate-E Tamil rather than OCR or the earlier first-pass transcript. A matching `### Source page N` section exists for every Tamil source page from 99 through 135 in [`translation.md`](./translation.md).
-
-Translation policy applied:
-
-1. preserve the order and argumentative structure of the verified Tamil;
-2. preserve parliamentary speaker changes, interventions and interruption/laughter/desk-thumping markers;
-3. keep figures, dates, percentages, monetary amounts, units and project/company references tied to the corresponding source page;
-4. do not silently correct historical/factual claims made in the source;
-5. reproduce long English passages already printed in the source in their printed form;
-6. preserve source anomalies where they materially belong to the English layer, including `financed`, `constitute and Inter-Ministerial Committee`, `cilicon`, `stainlees`, `Spensioner Mill` and `ancilary`;
-7. retain unusual source list content such as p.128 `ஆலங்குடி 3, 1, அறந்தாங்கி 4` rather than reconciling it externally.
+Gate F translated the final verified Tamil for all **37 source pages, 99–135**. The English preserved source-page correspondence, speaker/intervention structure, figures, dates, percentages, monetary amounts, technical/project terminology, argumentative sequence and the source's internally unusual claims. Long English correspondence already printed in the Tamil source was reproduced in source form rather than silently repaired.
 
 ## Gate G — English fidelity verification
 
-Gate G **passed** after all **37 English source-page sections, pp.99–135**, were compared directly against the final verified Tamil.
+Gate G **passed** after every English source-page section **99–135** was re-read against the corresponding final verified Tamil.
 
-The Gate-G audit checked completeness, additions/omissions, page correspondence, speaker/intervention structure, names, figures, dates, percentages, monetary values, technical terminology, argument sequence, source-printed English and interrupted wording.
+Concrete Gate-G corrections were:
 
-Concrete Gate-G corrections were limited to source-supported fidelity issues:
+1. p.103 `among the most widely sold in India` → `the most widely sold in India`, preserving the Tamil's superlative claim;
+2. p.104 `production to commence` → `operations to begin` for `தொழில் தொடங்கும்`;
+3. p.129 removed a translator-added comparison basis from the source's ambiguous M.B.C. criterion;
+4. p.131 removed unsupported `and so on`;
+5. p.135 restored Kumari Ananthan's interrupted sentence as a fragment rather than supplying a missing verb.
 
-- p.103 `among the most widely sold in India` → `the most widely sold in India`;
-- p.104 `production to commence` → `operations to begin` for source `தொழில் தொடங்கும்`;
-- p.129 removed the added denominator from the M.B.C. criterion so the English does not supply a comparison basis absent from the Tamil;
-- p.131 removed unsupported `and so on` from the deferred-sales-tax repayment sequence;
-- p.135 removed the invented verb in Kumari Ananthan's interrupted sentence and retained the fragment as a fragment.
+English sections verified: **37/37, source pp.99–135**. English status: **verified**.
 
-The source-printed English anomalies on pp.108–112 remain reproduced rather than corrected. The p.128 unusual list/count sequence is also retained. No external historical or institutional research was used to rewrite the translation.
+## Gate H — canonical merge and release
 
-English status after Gate G: **verified**.
+Gate H **passed**.
 
-The verified English currently remains in [`translation.md`](./translation.md). This separation protected the already verified Tamil while Gate G was active. The merge of the verified English after the verified Tamil in canonical `transcript.md` is now a Gate-H release operation.
+- the complete verified English was merged after the verified Tamil in canonical [`transcript.md`](./transcript.md);
+- the top archival note now records both Tamil and English verification;
+- the canonical transcript is self-contained and preserves Tamil `<!-- source-page: N -->` markers and matching English `### Source page N` divisions for all **99–135**;
+- `metadata.json`, this file, `README.md`, `verification-log.md`, `data/speeches.json`, and the root speech index were aligned to the final status;
+- the temporary Gate-F/G `translation.md` companion was retired after the canonical merge to avoid divergent English copies.
 
-## Transcription/translation policy applied
+## Final status
 
-1. Preserve printed wording, period spelling, punctuation, numerals, quotations and headings as far as legible in the Tamil source layer.
-2. Preserve printed English and transliterated technical terms in the Tamil source layer; normalise only physical line wrapping.
-3. Preserve speaker/member interventions and interruption markers where printed.
-4. Mark every PDF source page in Tamil with `<!-- source-page: N -->`; preserve corresponding `### Source page N` divisions in English.
-5. Do not silently repair printer errors, grammar, political/historical claims or unusual source forms.
-6. Mark genuinely unreadable material for review rather than guessing.
-7. Treat running headers, printed page numbers and decorative ending marks as page furniture/boundary evidence rather than speech text.
+- Gates C–H: **complete/passed**
+- Tamil: **verified**
+- English: **verified**
+- unresolved Tamil readings: **0**
+- release status: **fully released**
+- canonical transcript: `transcript.md`
 
-## Current gate status
-
-- Gate C Tamil first-pass: **complete**.
-- Gate D full-speech completeness audit: **passed**.
-- Gate E strict Tamil source-fidelity verification: **passed**.
-- Tamil status: **verified**.
-- Explicit unresolved Tamil readings: **0**.
-- Gate F English translation: **complete for 99–135**.
-- Gate G English fidelity verification: **passed**.
-- English status: **verified**.
-- Gate H release/index: **not started**.
-
-## Exact next action
-
-Run **Gate H — Speech 4 release/index**: merge verified `translation.md` after the verified Tamil in canonical `transcript.md`, update `data/speeches.json` and the root speech index according to the released-speech precedent, verify all paths/statuses/page ranges, and only then mark Speech 4 fully released. Do not begin Speech 5 until Gate H passes.
+The next anthology speech is Speech 5: `1996-08-14-industries-debate`, scan pp.136–171 / printed pp.135–170. No Speech-5 transcription is included in this Speech-4 release.
