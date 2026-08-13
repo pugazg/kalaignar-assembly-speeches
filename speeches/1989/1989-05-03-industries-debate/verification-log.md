@@ -124,7 +124,7 @@ Audit results:
 ### Corrections applied during Gate G
 
 1. **source p.86** — provisional English `aluminium sheets and strips` was corrected to `aluminium sheets and pattadaigal (பட்டாடைகள், as printed in the Tamil source)`.
-2. **source p.94** — provisional English `SIPCOT and TIIC` was corrected to `SIPCOT and TIC (டிக் in the Tamil source)`.
+2. **source p.94 — superseded later:** provisional English `SIPCOT and TIIC` was changed to `SIPCOT and TIC (டிக் in the Tamil source)` solely to mirror the Tamil print. This Gate-G choice was later superseded by the documented post-release institutional correction below.
 
 ### Source anomalies confirmed in English
 
@@ -156,6 +156,25 @@ Release commits:
 - root README: `3e3dfe207435dd8d78ef263d472798e2acc248e5`
 - `data/speeches.json`: `a83d671fb6d313e30c3846658f38546eff049796`
 
+## Post-release correction — source p.94 institution
+
+Status: **applied**.
+
+The source-faithful Tamil on p.94 remains:
+
+`சிப்காட், டிக் நிறுவனங்களிடமிருந்து லோன் வாங்கியிருக்கிறார்கள்.`
+
+The project owner subsequently identified the institution intended by `டிக்` as **TIIC** and explicitly corrected the earlier `TIC` English rendering, noting that there is no relevant `TIC` institution in the Tamil Nadu industrial context.
+
+Action taken:
+
+- Tamil transcription: **unchanged** (`டிக்` retained from the scan);
+- English translation: `SIPCOT and TIC` → **`SIPCOT and TIIC`**;
+- translation note/source notes updated to distinguish this editorial institutional identification from the literal scan reading;
+- Gate G and Gate H remain passed; English status remains **verified**.
+
+This correction is intentionally transparent: it uses project-supplied contextual identification in the English layer without rewriting the archival Tamil source layer.
+
 ## Current status
 
 - Canonical ID: `1989-05-03-industries-debate`
@@ -170,4 +189,5 @@ Release commits:
 - English status: **verified**
 - Gate H: **passed**
 - Release status: **fully released**
-- Exact next action: begin Speech 4 (`1990-04-18-industries-debate`, scan pp.99–135 / printed pp.98–134) at Gate C with a bounded first-pass transcription batch; do not alter the released Speech 1–3 entries.
+- Post-release p.94 institutional correction: **final English = TIIC; Tamil source = `டிக்`**
+- Exact next action: begin Speech 4 (`1990-04-18-industries-debate`, scan pp.99–135 / printed pp.98–134) at Gate C with a bounded first-pass transcription batch; do not alter the released Speech 1–3 entries except for explicitly requested corrections such as the p.94 TIIC clarification already completed.
