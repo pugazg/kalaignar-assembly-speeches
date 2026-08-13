@@ -123,8 +123,8 @@ Audit results:
 
 ### Corrections applied during Gate G
 
-1. **source p.86** — provisional English `aluminium sheets and strips` was corrected to `aluminium sheets and pattadaigal (பட்டாடைகள், as printed in the Tamil source)`. This prevents the English layer from silently interpreting or repairing the visibly retained Tamil source form `பட்டாடைகள்`.
-2. **source p.94** — provisional English `SIPCOT and TIIC` was corrected to `SIPCOT and TIC (டிக் in the Tamil source)`. This prevents the English layer from expanding `டிக்` to an institution name that the verified Tamil itself does not explicitly supply.
+1. **source p.86** — provisional English `aluminium sheets and strips` was corrected to `aluminium sheets and pattadaigal (பட்டாடைகள், as printed in the Tamil source)`.
+2. **source p.94** — provisional English `SIPCOT and TIIC` was corrected to `SIPCOT and TIC (டிக் in the Tamil source)`.
 
 ### Source anomalies confirmed in English
 
@@ -138,9 +138,23 @@ The review confirmed that the English continues to preserve or explicitly flag s
 
 English status after Gate G: **verified**.
 
-## Remaining gate
+## Gate H — release/index
 
-- Gate H — release/index: **next / eligible**.
+Status: **passed**.
+
+Release checks:
+
+- root speech index contains one Speech 3 entry for `03-05-1989` linking to `speeches/1989/1989-05-03-industries-debate/`;
+- the root entry marks Tamil `Verified`, English `Verified`, and verification against scan pp.62–98;
+- `data/speeches.json` contains one Speech 3 record using canonical ID `1989-05-03-industries-debate`;
+- the Speech 3 machine-readable record has `languages` = `ta`, `en`; `transcription_status` = `verified`; `verified_against_scan` = `true`; `translation_status` = `verified`;
+- the JSON was parsed successfully and contains four released records after the append;
+- comparison against the pre-Speech-3 machine-readable index confirmed the existing Speech 1, 1970 and Speech 2 records were unchanged.
+
+Release commits:
+
+- root README: `3e3dfe207435dd8d78ef263d472798e2acc248e5`
+- `data/speeches.json`: `a83d671fb6d313e30c3846658f38546eff049796`
 
 ## Current status
 
@@ -154,6 +168,6 @@ English status after Gate G: **verified**.
 - Gate F: **complete**
 - Gate G: **passed**
 - English status: **verified**
-- Gate H: **next / eligible**
-- Root README speech index / `data/speeches.json`: **not yet updated for Speech 3**
-- Exact next action: perform **Gate H release/index**, updating the root README and `data/speeches.json` from the verified Speech 3 metadata following the released Speech 2 precedent, validate the machine-readable JSON, and do not begin Speech 4 until Gate H is complete.
+- Gate H: **passed**
+- Release status: **fully released**
+- Exact next action: begin Speech 4 (`1990-04-18-industries-debate`, scan pp.99–135 / printed pp.98–134) at Gate C with a bounded first-pass transcription batch; do not alter the released Speech 1–3 entries.
