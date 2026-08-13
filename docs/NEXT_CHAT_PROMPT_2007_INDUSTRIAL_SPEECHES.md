@@ -19,6 +19,18 @@ Before doing any work, read current `main` versions of:
 
 Treat those repository files as controlling instructions. The scan image is authoritative for Tamil transcription; OCR is only a helper and is never canonical.
 
+## Mandatory project rule after every completed speech
+
+After **every speech** is fully completed and released through Gate H, **before starting the next speech**, perform a project handover checkpoint:
+
+1. Update `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` with the completed speech's final Gates C–H state, verified Tamil/English status, unresolved readings, exact source ranges, important corrections/anomalies, canonical files and release commit SHAs.
+2. Update released-speech inventory and identify the next speech with its canonical ID, source label/date, exact locked range and opening boundary.
+3. Record the exact next activity/batch, blocked work, files that must remain untouched, and current `main` HEAD.
+4. Update this `docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md` so a fresh chat can continue directly from that point.
+5. Push those handover updates **before any transcription of the next speech begins**.
+
+This handover checkpoint is required after every completed speech throughout this anthology.
+
 ## Completed released work
 
 Speeches 1–4 from this anthology are fully released with verified Tamil and verified English:
@@ -70,6 +82,6 @@ Begin Tamil first-pass transcription for **scan pp.136–150 / printed pp.135–
 8. Keep Speech 5 `in-progress`; Gate D is not eligible until all scan pages **136–171** are represented.
 9. Do not start English translation, Speech 6, or modify already released Speeches 1–4 except for necessary index consistency.
 
-At the end, update `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` with the Batch-1 range, continuation point, unresolved readings, files changed, commit SHAs and exact next action.
+At the end of each work session, update `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` with the completed range, continuation point, unresolved readings, files changed, commit SHAs and exact next action. When Speech 5 eventually passes Gate H, perform the mandatory post-release handover checkpoint above before beginning Speech 6.
 
 ---
