@@ -103,16 +103,30 @@ Translation policy applied:
 
 Gate G is **passed**. The complete English layer was re-read page by page against the final Gate-E-verified Tamil for **all 37 source pages, 62–98**.
 
-The review checked completeness and fidelity of meaning, speaker attribution, parliamentary interventions, quotations, names and initials, dates, numerals, percentages, monetary values and units, industrial terminology, source anomalies and page-transition continuity.
-
 Two concrete source-preservation/fidelity corrections were made in `transcript.md`:
 
-1. **source p.86** — provisional English `aluminium sheets and strips` was replaced with `aluminium sheets and pattadaigal (பட்டாடைகள், as printed in the Tamil source)`. The verified Tamil visibly preserves `பட்டாடைகள்`; the English no longer silently interprets or repairs that source form as `strips`.
-2. **source p.94** — provisional English `SIPCOT and TIIC` was replaced with `SIPCOT and TIC (டிக் in the Tamil source)`. The verified Tamil prints `டிக்`; the English no longer expands it to an institution name not explicitly supplied by this source layer.
+1. **source p.86** — provisional English `aluminium sheets and strips` was replaced with `aluminium sheets and pattadaigal (பட்டாடைகள், as printed in the Tamil source)`.
+2. **source p.94** — provisional English `SIPCOT and TIIC` was replaced with `SIPCOT and TIC (டிக் in the Tamil source)`.
 
 The Gate-G review also confirmed that the English retains the p.66 `1986-86` date, p.71 “Associate Sectary,” p.92 `547` / `541` / `721` estimate sequence, p.93 repeated wordplay and laughter marker, and all final parliamentary interventions through p.98.
 
 English status after Gate G: **verified**.
+
+## Gate H — release/index
+
+Gate H is **passed**.
+
+The release indexes were checked against the final Speech 3 metadata and source notes:
+
+- root `README.md` now lists Speech 3 at `03-05-1989`, links to `speeches/1989/1989-05-03-industries-debate/`, marks Tamil and English `Verified`, and records verification against scan pp.62–98;
+- `data/speeches.json` now includes the Speech 3 record with canonical ID `1989-05-03-industries-debate`, languages `ta` and `en`, verified Tamil, `verified_against_scan: true`, and verified English;
+- the JSON was parsed successfully after the append;
+- comparison with the pre-release index confirmed that the prior Speech 1, 1970 and Speech 2 records were not modified by the Speech 3 append.
+
+Gate-H release commits:
+
+- root README: `3e3dfe207435dd8d78ef263d472798e2acc248e5`
+- machine-readable index: `a83d671fb6d313e30c3846658f38546eff049796`
 
 ## Source-supported speaker information
 
@@ -138,4 +152,6 @@ The speech start prints `மாண்புமிகு கலைஞர் ம�
 - Gate F English translation: **complete for source pages 62–98**.
 - Gate G English fidelity verification: **passed for all 37 source pages, 62–98**.
 - English status: **verified**.
-- Gate H release/index: **next / eligible**.
+- Gate H release/index: **passed**.
+- Release status: **fully released**.
+- Next anthology unit: Speech 4, `1990-04-18-industries-debate`, scan pp.99–135 / printed pp.98–134.
