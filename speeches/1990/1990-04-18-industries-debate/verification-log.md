@@ -117,12 +117,33 @@ These forms remain because the scan, not modern usage or contextual plausibility
 - explicit unresolved readings after audit: **0**;
 - Tamil status: **verified**.
 
-## English translation
+## Gate F — English translation
 
-Status: **ready / not started**.
+Status: **complete / not yet verified**.
 
-The verified Tamil now satisfies the prerequisite for Gate F. English must be translated from this final Tamil, not from OCR or any earlier first-pass version. Gate G will separately verify the English against the verified Tamil before release.
+A complete English translation has been produced from the **final verified Tamil**, covering all **37 source pages, 99–135**, in [`translation.md`](./translation.md).
+
+Gate-F completion checks:
+
+- English source-page sections present for **99–135**, 37/37;
+- page order preserved and no source page intentionally omitted;
+- Tamil speaker changes and parliamentary interventions carried into English, including the Speaker, S.R. Radha, A.S. Ponnammal, S.T. Ugamchand, S.A. Peter Alphonse, R. Mohan, M. Mohamed Theek, Kumari Ananthan and K. Ramani;
+- figures, dates, percentages, monetary values and units translated in the corresponding source-page sections;
+- industrial/company/project names and technical terms rendered consistently with the verified Tamil without using outside research to rewrite the source;
+- long English correspondence printed on pp.108–112 reproduced in source form, retaining visible source anomalies such as `financed`, `constitute and Inter-Ministerial Committee`, `cilicon`, `stainlees`, `Spensioner Mill` and `ancilary`;
+- source-specific unusual forms and claims were not silently reconciled against external knowledge;
+- final p.135 exchanges and Kalaignar's closing reply are represented.
+
+Gate F does **not** confer verified status on the English. The translation is therefore currently **translated**, not `verified`.
+
+The working translation remains in `translation.md` for the separate Gate-G audit so that the already verified Tamil layer in `transcript.md` is not disturbed during first-pass translation. After Gate G passes, the corrected verified English should be incorporated after the Tamil in canonical `transcript.md`, following the released-speech precedent.
+
+## Gate G — English fidelity verification
+
+Status: **not started**.
+
+Gate G must re-read every English source-page section **99–135** against the final verified Tamil, checking completeness, additions/omissions, names, figures, terminology, speaker/intervention structure, page correspondence and preservation of source anomalies. Every correction found must be documented before English can be marked `verified`.
 
 ## Exact next action
 
-Run **Gate F — English translation for the complete verified Speech 4, scan pp.99–135**, preserving source-page correspondence, speaker/intervention structure, figures, names, technical terms, argument sequence and visible source anomalies. Do not begin Speech 5 or Gate H yet.
+Run **Gate G — full English fidelity review for source pages 99–135** against the final verified Tamil. Correct `translation.md` as needed, document all concrete changes here, and only after the complete review passes mark English `verified` and integrate it after the Tamil in `transcript.md`. Do not begin Speech 5 or Gate H yet.
