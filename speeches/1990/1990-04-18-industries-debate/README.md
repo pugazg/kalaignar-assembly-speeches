@@ -31,56 +31,63 @@
 
 ## Gate C — Tamil first-pass transcription
 
-The complete first-pass Tamil transcription was produced in three bounded batches:
+Gate C is **complete** for the full locked range **scan pp.99–135 / printed pp.98–134**, produced in three bounded batches:
 
-- Batch 1: **scan pp.99–113 / printed pp.98–112**
-- Batch 2: **scan pp.114–128 / printed pp.113–127**
-- Batch 3: **scan pp.129–135 / printed pp.128–134**
+- Batch 1: scan pp.99–113 / printed pp.98–112
+- Batch 2: scan pp.114–128 / printed pp.113–127
+- Batch 3: scan pp.129–135 / printed pp.128–134
 
-Gate C now covers the complete locked speech range **scan pp.99–135 / printed pp.98–134**.
-
-The final batch preserves the continuation of the backward-area taluk list, the backward/most-backward criteria, the sales-tax exemption and deferral announcements, the closing request to withdraw cut motions, and all printed interventions through the final exchange with `திரு. கே. ரமணி`.
-
-Explicit unresolved/`[REVIEW]` readings after Gate C: **0**.
+All 37 source pages are represented. Explicit unresolved/`[REVIEW]` readings after Gate C: **0**.
 
 ## Gate D — Tamil completeness audit
 
-Gate D has **passed**.
+Gate D **passed**.
 
-- expected mapped scan pages: **37**;
-- represented source-page markers: **37**, exactly **99 through 135**;
+- expected mapped pages: **37**;
+- represented source-page markers: **37**, exactly **99–135**;
 - markers are unique and monotonic;
-- no mapped scan page is skipped or duplicated;
-- opening boundary agrees with scan p.99 (`உரை : 4`, `நாள் : 18.04.1990`);
-- ending boundary agrees with scan p.135, where Kalaignar replies to `திரு. கே. ரமணி` and the decorative ending ornament follows;
-- scan p.136 begins `உரை : 5`, dated `14.08.1996`, confirming that Speech 4 does not spill into Speech 5;
-- the final printed speaker changes/interventions are represented;
-- explicit unresolved-reading markers: **0**.
+- no mapped page is skipped or duplicated;
+- opening boundary matches scan p.99 (`உரை : 4`, `நாள் : 18.04.1990`);
+- ending boundary matches scan p.135, where the final exchange is followed by the decorative ending ornament;
+- scan p.136 begins `உரை : 5`, dated `14.08.1996`;
+- final printed speaker changes/interventions are represented;
+- unresolved-reading markers: **0**.
 
-Tamil status after Gate D is **transcribed**, not `verified`. Gate E is a separate strict page-by-page source-fidelity audit and has not yet been performed.
+## Gate E — strict Tamil source-fidelity verification
+
+Gate E **passed** for **all scan pp.99–135**.
+
+The canonical Tamil was re-read page by page directly against the controlling scan, checking words/characters, names and initials, numerals, dates, percentages, monetary values and units, embedded English, speaker labels, punctuation and page transitions. Source-supported first-pass discrepancies were corrected in `transcript.md`; the concrete corrections are recorded in [`verification-log.md`](./verification-log.md).
+
+Visible source anomalies were deliberately retained rather than silently regularised, including printed English forms such as `financed`, `constitute and Inter-Ministerial Committee`, `cilicon`, `stainlees`, `Spensioner Mill` and `ancilary` where those are what the scan prints.
+
+Tamil status is now **verified**. Explicit unresolved Tamil readings: **0**.
 
 ## English translation
 
-English translation remains **blocked** until the complete Tamil has passed Gate E. No English translation has been started for Speech 4.
+The Tamil gate is now satisfied. **Gate F English translation has not yet started.**
+
+The English must be translated from this final verified Tamil, preserve source-page correspondence and parliamentary context, and must not silently repair claims or source anomalies. English will receive its own Gate G fidelity check before release.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — complete first-pass Tamil transcription for scan pp.99–135; Gate D passed, Gate E pending.
-- [`metadata.json`](./metadata.json) — source, locked range, Gate-C completion, Gate-D status and blocked English status.
-- [`source-notes.md`](./source-notes.md) — source authority, boundary evidence and batch/audit notes.
-- [`verification-log.md`](./verification-log.md) — Gate-C batch records, Gate-D audit and pending Gate E.
+- [`transcript.md`](./transcript.md) — complete **verified** Tamil transcription for scan pp.99–135.
+- [`metadata.json`](./metadata.json) — source, locked range and Gate C–E status; Gate F ready.
+- [`source-notes.md`](./source-notes.md) — source authority, boundaries, batch history and Gate-E audit notes.
+- [`verification-log.md`](./verification-log.md) — Gate C, Gate D and strict Gate-E correction record.
 
 ## தற்போதைய நிலை
 
-- Gate C Tamil first-pass: **complete for scan pp.99–135**.
+- Gate C Tamil first-pass: **complete**.
 - Gate D full-speech completeness audit: **passed**.
-- Tamil transcription status: **transcribed**.
-- Gate E strict Tamil source-fidelity verification: **not started**.
+- Gate E strict Tamil source-fidelity verification: **passed**.
+- Tamil transcription status: **verified**.
 - Explicit unresolved Tamil readings: **0**.
-- English translation: **blocked / not started**.
-- Gate H release/index: **not applicable yet**.
-- Exact next action: **Gate E strict page-by-page visual/source-fidelity verification for scan pp.99–135**.
+- Gate F English translation: **ready / not started**.
+- Gate G English fidelity check: **not started**.
+- Gate H release/index: **not started**.
+- Exact next action: **Gate F — translate the verified Tamil for scan pp.99–135 into English, preserving source-page correspondence.**
 
 ## காப்பகக் குறிப்பு
 
-Scan image தான் canonical source for the Tamil layer. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels, interventions and printed English are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers, printed page numbers and the final decorative ornament are page furniture/boundary evidence rather than speech text. Completeness must not be confused with verification.
+Scan image தான் canonical source for the Tamil layer. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels, interventions and printed English are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers, printed page numbers and the final decorative ornament are page furniture/boundary evidence rather than speech text.
