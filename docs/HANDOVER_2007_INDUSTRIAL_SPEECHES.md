@@ -91,30 +91,52 @@ Do not revert the English back to `TIC` in later work.
 - Canonical ID: `1990-04-18-industries-debate`
 - Locked range: **scan pp.99–135 / printed pp.98–134**
 - Total mapped pages: **37**
-- Gate C: **not started**
-- Tamil status: **not started**
-- English: **blocked until Tamil Gates C–E are complete**
-- Speech 4 folder: **not yet created**
+- Gate C: **in progress**
+- Gate C completed pages: **scan pp.99–113 / printed pp.98–112**
+- Represented source-page markers: **15 of 37**, exactly **99–113**, unique and monotonic
+- Tamil status: **in-progress**
+- Explicit unresolved Tamil readings: **0**
+- Next scan page: **114 / printed p.113**
+- Gate D: **not started**
+- Gate E: **not started**
+- English: **blocked / not started until Tamil Gates C–E are complete**
+- Speech 4 folder: `speeches/1990/1990-04-18-industries-debate/`
 
-Boundary is already locked: scan p.98 ends Speech 3; scan p.99 begins `உரை : 4`, dated `18.04.1990`.
+Boundary remains locked: scan p.98 ends Speech 3; scan p.99 begins `உரை : 4`, dated `18.04.1990`; Speech 4 ends at scan p.135 and scan p.136 begins Speech 5.
 
-## Immediate next action — Speech 4 Gate C Batch 1
+### Gate C Batch 1 completed
 
-Start Tamil first-pass transcription for **scan pp.99–113 / printed pp.98–112**.
+Batch 1 directly transcribed **scan pp.99–113 / printed pp.98–112** from the controlling scan images.
 
-1. Read current `docs/ARCHIVAL_WORKFLOW.md`, this handover, `sources/2007-industrial-speeches/mapping.md`, and a released anthology speech folder as structural precedent.
-2. Reconfirm scan p.99 directly from the rendered page.
-3. Create `speeches/1990/1990-04-18-industries-debate/` with:
-   - `README.md`
-   - `metadata.json`
-   - `source-notes.md`
-   - `transcript.md`
-   - `verification-log.md`
-4. Transcribe scan pp.99–113 directly from scan images.
-5. Add `<!-- source-page: N -->` for every page.
-6. Preserve wording, spelling, punctuation, numerals, headings, speaker labels, interventions and printed English as visible.
-7. Mark genuinely unreadable text explicitly instead of guessing.
-8. Record the exact end-of-p.113 continuation and set `next_scan_page` to **114**.
+Files created:
+
+- `speeches/1990/1990-04-18-industries-debate/README.md`
+- `speeches/1990/1990-04-18-industries-debate/metadata.json`
+- `speeches/1990/1990-04-18-industries-debate/source-notes.md`
+- `speeches/1990/1990-04-18-industries-debate/transcript.md`
+- `speeches/1990/1990-04-18-industries-debate/verification-log.md`
+
+Batch 1 commit: `4f876e0e40057f423741239fcd74b1d000eb0099`
+
+Exact continuation boundary:
+
+- scan p.113 ends: `யாரோ “என்.ஆர்.ஐ.” பெர்சன்களையெல்லாம்`
+- scan p.114 begins: `துரத்துகிறோம் என்று - அந்த பெரியசாமி அவர்கள் நடத்துகின்ற...`
+
+Scan p.114 was inspected only to establish the continuation; it has **not** yet been transcribed.
+
+## Immediate next action — Speech 4 Gate C Batch 2
+
+Continue Tamil first-pass transcription for **scan pp.114–128 / printed pp.113–127**.
+
+1. Re-read current `docs/ARCHIVAL_WORKFLOW.md`, this handover, `sources/2007-industrial-speeches/mapping.md`, and the existing Speech 4 files before editing.
+2. Reconfirm scan p.114 directly from the rendered page and continue from `துரத்துகிறோம் என்று - அந்த பெரியசாமி அவர்கள் நடத்துகின்ற...`.
+3. Append scan pp.114–128 to `speeches/1990/1990-04-18-industries-debate/transcript.md`.
+4. Add exactly one `<!-- source-page: N -->` marker for every newly transcribed scan page.
+5. Preserve wording, period spelling, punctuation, numerals, headings, speaker labels, interventions, technical transliterations and printed English as visible.
+6. Mark genuinely unreadable text explicitly instead of guessing.
+7. Update Speech 4 `README.md`, `metadata.json`, `source-notes.md` and `verification-log.md` with Batch-2 progress and the exact p.128 continuation.
+8. Set `next_scan_page` to **129** after the batch, provided pp.114–128 are all represented.
 9. Keep Speech 4 `in-progress`; do not run Gate D until pp.99–135 are all represented.
 10. Do not begin English translation or Speech 5.
 
