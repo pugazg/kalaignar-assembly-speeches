@@ -88,7 +88,7 @@ Tamil status after Gate E: **verified**.
 
 ## Gate F — English translation
 
-Status: **complete; not yet fidelity-verified**.
+Status: **complete**.
 
 The complete English layer was translated only from the final Gate-E-verified Tamil and appended after the Tamil source layer in `transcript.md`.
 
@@ -102,14 +102,45 @@ Gate-F structural checks:
 - the final p.98 intervention and Kalaignar reply are translated;
 - parliamentary speaker changes, interruptions, `(சிரிப்பு)` / laughter and `(மேசையைத் தட்டும் ஒலி)` / desk-thumping markers are represented;
 - names, dates, figures, percentages, monetary values and units were carried into the English layer;
-- source-supported unusual terminology and internal inconsistencies were not silently corrected from external knowledge, including the p.92 `547` / `541` figure sequence and the source term `அசோசியேட் செக்டரி`.
+- source-supported unusual terminology and internal inconsistencies were not to be silently corrected from external knowledge.
 
-Gate F is a translation-completion gate only. It does **not** certify English fidelity. The English must be re-read page by page against the final verified Tamil at Gate G before its status can become `verified`.
+Gate F was a translation-completion gate only; fidelity certification was deferred to Gate G.
 
-## Remaining gates
+## Gate G — English fidelity verification
 
-- Gate G — English fidelity verification: **next / not started**.
-- Gate H — release/index: **blocked until Gate G passes**.
+Status: **passed**.
+
+The complete English layer was re-read page by page against the final Gate-E-verified Tamil for source pages **62–98**.
+
+Audit results:
+
+- English source-page headings checked: **37**;
+- English source-page sequence: **62, 63, 64, …, 98**;
+- headings are unique and monotonic;
+- no mapped English page is omitted or duplicated;
+- no English spillover into Speech 4 is present;
+- completeness and fidelity of meaning, speaker attribution, parliamentary interventions, quotations, names/initials, dates, numerals, percentages, monetary values/units, industrial terminology and page-transition continuity were checked against the corresponding verified Tamil.
+
+### Corrections applied during Gate G
+
+1. **source p.86** — provisional English `aluminium sheets and strips` was corrected to `aluminium sheets and pattadaigal (பட்டாடைகள், as printed in the Tamil source)`. This prevents the English layer from silently interpreting or repairing the visibly retained Tamil source form `பட்டாடைகள்`.
+2. **source p.94** — provisional English `SIPCOT and TIIC` was corrected to `SIPCOT and TIC (டிக் in the Tamil source)`. This prevents the English layer from expanding `டிக்` to an institution name that the verified Tamil itself does not explicitly supply.
+
+### Source anomalies confirmed in English
+
+The review confirmed that the English continues to preserve or explicitly flag source-supported unusual forms and inconsistencies, including:
+
+- p.66 `1986-86` in the Gujarat investment comparison;
+- p.71 the source term “Associate Sectary” for `அசோசியேட் செக்டரி`;
+- p.92 the `547 crore` / `541 crore` / `721 crore` estimate sequence;
+- p.93 the repeated “insisted” / “requesting” wordplay and laughter marker;
+- the parliamentary interventions and final exchange through p.98.
+
+English status after Gate G: **verified**.
+
+## Remaining gate
+
+- Gate H — release/index: **next / eligible**.
 
 ## Current status
 
@@ -121,7 +152,8 @@ Gate F is a translation-completion gate only. It does **not** certify English fi
 - Tamil status: **verified**
 - Explicit unresolved Tamil readings: **0**
 - Gate F: **complete**
-- English status: **complete-unverified**
-- Gate G: **next / not started**
-- Gate H: **blocked**
-- Exact next action: perform **Gate G**, re-reading each English source-page section 62–98 directly against the final verified Tamil, correcting and logging every fidelity discrepancy before marking English `verified`; do not begin Speech 4.
+- Gate G: **passed**
+- English status: **verified**
+- Gate H: **next / eligible**
+- Root README speech index / `data/speeches.json`: **not yet updated for Speech 3**
+- Exact next action: perform **Gate H release/index**, updating the root README and `data/speeches.json` from the verified Speech 3 metadata following the released Speech 2 precedent, validate the machine-readable JSON, and do not begin Speech 4 until Gate H is complete.
