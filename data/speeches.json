@@ -74,5 +74,24 @@
     "transcription_status": "verified",
     "verified_against_scan": true,
     "translation_status": "verified"
+  },
+  {
+    "id": "1990-04-18-industries-debate",
+    "date": "1990-04-18",
+    "year": 1990,
+    "speaker_ta": "மு. கருணாநிதி",
+    "speaker_en": "M. Karunanidhi",
+    "title_ta": "தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 4",
+    "title_en": "Kalaignar's Legislative Assembly Speeches on Industry — Speech 4",
+    "event_ta": "தொழில்துறை மானிய விவாத உரை",
+    "event_en": "Speech in the Industries grant debate",
+    "path": "speeches/1990/1990-04-18-industries-debate",
+    "languages": [
+      "ta",
+      "en"
+    ],
+    "transcription_status": "verified",
+    "verified_against_scan": true,
+    "translation_status": "verified"
   }
 ]
