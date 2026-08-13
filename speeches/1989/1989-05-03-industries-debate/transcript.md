@@ -2,7 +2,7 @@
 
 ## உரை : 3 — நாள் : 03.05.1989
 
-> **Archival transcription note:** This is the verified Tamil transcription from the scanned May 2007 publication. The complete mapped range, PDF scan pp.62–98 / printed pp.61–97, has passed both the full-speech completeness audit (Gate D) and a strict direct page-by-page visual/source-fidelity verification (Gate E) against the controlling scan. Printed wording, period spelling, punctuation, numerals, headings, speaker labels, interventions and printed English are preserved as far as the scan permits; only physical line wrapping is normalised. PDF scan-page boundaries are marked explicitly. No unresolved Tamil reading remains. The complete English translation now follows after the verified Tamil source layer; Gate F is complete, but the English has not yet passed the separate Gate G fidelity review.
+> **Archival transcription note:** This is the verified Tamil transcription from the scanned May 2007 publication. The complete mapped range, PDF scan pp.62–98 / printed pp.61–97, has passed both the full-speech completeness audit (Gate D) and a strict direct page-by-page visual/source-fidelity verification (Gate E) against the controlling scan. Printed wording, period spelling, punctuation, numerals, headings, speaker labels, interventions and printed English are preserved as far as the scan permits; only physical line wrapping is normalised. PDF scan-page boundaries are marked explicitly. No unresolved Tamil reading remains. The complete English translation follows after the verified Tamil source layer; Gate F is complete and the English has now passed the separate Gate G page-by-page fidelity review against the verified Tamil.
 
 ---
 
@@ -309,7 +309,7 @@
 
 # English translation
 
-> **Translation note:** This is a faithful English rendering of the verified Tamil transcription above. It preserves the source-page sequence, parliamentary speaker changes and interventions, names, figures, quotations, technical terminology, and the source's unusual or internally inconsistent claims without substituting external historical corrections. Terms printed in English or transliterated from English in the Tamil source are retained or rendered consistently with their source form. This Gate F translation is complete but has not yet passed the separate Gate G fidelity review.
+> **Translation note:** This is a faithful English rendering of the verified Tamil transcription above. It preserves the source-page sequence, parliamentary speaker changes and interventions, names, figures, quotations, technical terminology, and the source's unusual or internally inconsistent claims without substituting external historical corrections. Terms printed in English or transliterated from English in the Tamil source are retained or rendered consistently with their source form. This translation was produced at Gate F from the verified Tamil and has now passed the separate Gate G page-by-page fidelity review against that Tamil.
 
 ### Source page 62
 
@@ -498,7 +498,7 @@ Apart from these eight factories, the Government has decided to increase the pro
 
 (9) At Cuddalore in South Arcot district, with a capital of Rs. 19 crore, there is an artificial-sweetener factory. TIDCO, together with a Calcutta-based company called “Ustade,” has established in the joint sector a company called “Bio-Tech,” and this factory will manufacture artificial sweetener using starch obtained from tapioca as its base material. This is a new venture.
 
-(10) At Denkanikottai near Hosur, the Sangam Aluminium factory was established in the joint sector with an investment of Rs. 6.14 crore. Its capital has now been increased to Rs. 10.35 crore. Production has also been increased from 4,000 metric tonnes to 7,000 metric tonnes. It manufactures aluminium sheets and strips. Steps are being taken to accelerate this production too.
+(10) At Denkanikottai near Hosur, the Sangam Aluminium factory was established in the joint sector with an investment of Rs. 6.14 crore. Its capital has now been increased to Rs. 10.35 crore. Production has also been increased from 4,000 metric tonnes to 7,000 metric tonnes. It manufactures aluminium sheets and `pattadaigal` (`பட்டாடைகள்`, as printed in the Tamil source). Steps are being taken to accelerate this production too.
 
 The total capital relating to the ten industrial undertakings mentioned above is Rs. 236.8 crore.
 
@@ -560,7 +560,7 @@ and 117 acres belonging to the Christian Nagar Sangam are situated there. They c
 
 For that, I seek everyone's cooperation. Since this is a Government of the workers, I wish to point out that this Government will also call industrialists for talks and grant them every kind of concession required to create industrial peace. I also state that the concessions granted by the Governor will take statutory form. The Government has encouraged industry in every way; in that spirit I ask you too to encourage it and contribute to its growth, and I humbly request that the cut motions you have moved be withdrawn.
 
-**Mr S. Thirunavukkarasu:** Hon. Speaker, it is already 3 o'clock. I will finish quickly. One small problem. There are about 80 or 85 factories manufacturing plastic bags in Tamil Nadu. Because of the jute lobby, an order has been issued from Delhi that everything must be packed in jute bags. As a result, 60 factories have been affected. About 50,000 workers are employed in them. They are small factories. In Aranthangi alone there are 10 factories. That is the problem; there are factories in other places too. Of these, 60 factories have been closed. Representatives of that association have even met the Hon. Chief Minister and explained their problems. They have taken loans from SIPCOT and TIIC. Because the units are closed, these small factories are suffering losses and the workers are unemployed. Therefore, a committee may be appointed to enquire into the matter and see what remedy can be found for them.
+**Mr S. Thirunavukkarasu:** Hon. Speaker, it is already 3 o'clock. I will finish quickly. One small problem. There are about 80 or 85 factories manufacturing plastic bags in Tamil Nadu. Because of the jute lobby, an order has been issued from Delhi that everything must be packed in jute bags. As a result, 60 factories have been affected. About 50,000 workers are employed in them. They are small factories. In Aranthangi alone there are 10 factories. That is the problem; there are factories in other places too. Of these, 60 factories have been closed. Representatives of that association have even met the Hon. Chief Minister and explained their problems. They have taken loans from SIPCOT and `TIC` (`டிக்` in the Tamil source). Because the units are closed, these small factories are suffering losses and the workers are unemployed. Therefore, a committee may be appointed to enquire into the matter and see what remedy can be found for them.
 
 Secondly, if an order is issued requiring the cement factories, sugar factories and others here to purchase from units in Tamil Nadu, instead of buying from other States, and to give those Tamil Nadu units priority—
 
