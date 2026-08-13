@@ -14,7 +14,7 @@ Controlling source facts:
 - file size: **217,124,211 bytes**
 - SHA-256: `c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370`
 
-The PDF is image-based. The scan image is authoritative for the Tamil source layer; OCR or reconstructed text is not canonical. The final Gate-E-verified Tamil is authoritative for the English translation and Gate-G fidelity review.
+The PDF is image-based. The scan image is authoritative for the Tamil source layer; OCR or reconstructed text is not canonical. The final Gate-E-verified Tamil is authoritative for the English translation and Gate-G fidelity review. Any later editorial identification in English must be explicitly documented and must not overwrite the source-faithful Tamil.
 
 ## Locked boundary for Speech 3
 
@@ -103,14 +103,25 @@ Translation policy applied:
 
 Gate G is **passed**. The complete English layer was re-read page by page against the final Gate-E-verified Tamil for **all 37 source pages, 62–98**.
 
-Two concrete source-preservation/fidelity corrections were made in `transcript.md`:
+The p.86 source-preservation correction remains in the final English:
 
-1. **source p.86** — provisional English `aluminium sheets and strips` was replaced with `aluminium sheets and pattadaigal (பட்டாடைகள், as printed in the Tamil source)`.
-2. **source p.94** — provisional English `SIPCOT and TIIC` was replaced with `SIPCOT and TIC (டிக் in the Tamil source)`.
+- **source p.86** — provisional English `aluminium sheets and strips` was replaced with `aluminium sheets and pattadaigal (பட்டாடைகள், as printed in the Tamil source)`.
 
 The Gate-G review also confirmed that the English retains the p.66 `1986-86` date, p.71 “Associate Sectary,” p.92 `547` / `541` / `721` estimate sequence, p.93 repeated wordplay and laughter marker, and all final parliamentary interventions through p.98.
 
 English status after Gate G: **verified**.
+
+## Post-release editorial/institutional correction — source p.94
+
+The verified Tamil transcription on source p.94 remains exactly:
+
+`சிப்காட், டிக் நிறுவனங்களிடமிருந்து லோன் வாங்கியிருக்கிறார்கள்.`
+
+That wording is retained because the scan is authoritative for the Tamil source layer.
+
+During Gate G, the provisional English `SIPCOT and TIIC` was changed to `SIPCOT and TIC` only because the Tamil scan prints `டிக்`. The project owner later supplied the contextual institutional identification that the intended institution is **TIIC**, not `TIC`, and specifically requested correction because there is no relevant Tamil Nadu industrial institution `TIC` in this context.
+
+Accordingly, the final English now reads **`SIPCOT and TIIC`**. This is an explicitly documented editorial identification supplied after the source-fidelity pass; it does not alter the Tamil transcription and is not presented as a reading visible in the scan itself.
 
 ## Gate H — release/index
 
@@ -118,9 +129,9 @@ Gate H is **passed**.
 
 The release indexes were checked against the final Speech 3 metadata and source notes:
 
-- root `README.md` now lists Speech 3 at `03-05-1989`, links to `speeches/1989/1989-05-03-industries-debate/`, marks Tamil and English `Verified`, and records verification against scan pp.62–98;
-- `data/speeches.json` now includes the Speech 3 record with canonical ID `1989-05-03-industries-debate`, languages `ta` and `en`, verified Tamil, `verified_against_scan: true`, and verified English;
-- the JSON was parsed successfully after the append;
+- root `README.md` lists Speech 3 at `03-05-1989`, links to `speeches/1989/1989-05-03-industries-debate/`, marks Tamil and English `Verified`, and records verification against scan pp.62–98;
+- `data/speeches.json` includes the Speech 3 record with canonical ID `1989-05-03-industries-debate`, languages `ta` and `en`, verified Tamil, `verified_against_scan: true`, and verified English;
+- the JSON parsed successfully after the append;
 - comparison with the pre-release index confirmed that the prior Speech 1, 1970 and Speech 2 records were not modified by the Speech 3 append.
 
 Gate-H release commits:
@@ -154,4 +165,5 @@ The speech start prints `மாண்புமிகு கலைஞர் ம�
 - English status: **verified**.
 - Gate H release/index: **passed**.
 - Release status: **fully released**.
+- Post-release p.94 correction: **English uses TIIC; Tamil source remains `டிக்`**.
 - Next anthology unit: Speech 4, `1990-04-18-industries-debate`, scan pp.99–135 / printed pp.98–134.
