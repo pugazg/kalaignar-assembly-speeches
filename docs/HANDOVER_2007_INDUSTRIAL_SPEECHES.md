@@ -8,6 +8,22 @@ Continuation point for `pugazg/kalaignar-assembly-speeches` using:
 
 The scan image is authoritative for Tamil transcription. OCR is only a helper. English is translated from and checked against the verified Tamil. External contextual identifications must never rewrite the source-faithful Tamil.
 
+## Mandatory recurring handover checkpoint
+
+**After every speech is fully completed and released through Gate H, create/update this project handover before beginning the next speech. This is a required activity after every completed speech.**
+
+At that checkpoint:
+
+1. Record the completed speech's canonical ID, source label/date, exact scan/printed page range, Gates C–H status, final Tamil/English verification status and unresolved-reading count.
+2. Record important source anomalies, verification corrections and editorial/contextual exceptions that must not be reverted.
+3. Record the final canonical files, release/index changes, temporary working files retired after merge, and relevant commit SHAs.
+4. Update the released-speech inventory and identify the next active speech with its canonical ID, source label/date, exact locked range and verified opening boundary.
+5. State the exact next activity/batch, what remains blocked, and what must not be modified.
+6. Update `docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md` so a fresh chat can resume directly from the same state.
+7. Push the handover changes and record the new current `main` HEAD.
+
+**Do not begin the next speech until this post-release handover checkpoint is complete.**
+
 ## Controlling source
 
 - Publication: `தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்`
@@ -127,4 +143,4 @@ Begin Tamil first-pass transcription for **scan pp.136–150 / printed pp.135–
 
 ## End-of-session requirement
 
-Record canonical ID, exact pages completed/audited, current gate, Tamil status, unresolved readings, English status, files changed, commit SHA and exact next action.
+Record canonical ID, exact pages completed/audited, current gate, Tamil status, unresolved readings, English status, files changed, commit SHA and exact next action. If the current speech has just passed Gate H, the mandatory post-release handover checkpoint above must be completed before the next speech starts.
