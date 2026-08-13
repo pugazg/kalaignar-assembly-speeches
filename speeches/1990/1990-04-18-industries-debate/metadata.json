@@ -38,22 +38,22 @@
     "source_authority": "scan image"
   },
   "transcription": {
-    "method": "manual first-pass transcription directly from scan images",
-    "status": "in-progress",
+    "method": "manual first-pass transcription directly from scan images, followed by full-speech completeness audit",
+    "status": "transcribed",
     "full_speech_scan_pages": "99-135",
-    "completed_scan_pages": "99-128",
-    "completed_printed_pages": "98-127",
-    "next_scan_page": 129,
+    "completed_scan_pages": "99-135",
+    "completed_printed_pages": "98-134",
+    "next_scan_page": null,
     "page_markers_audited_for_completed_batch": true,
-    "full_speech_completeness_audit": false,
-    "full_speech_page_marker_audit": false,
+    "full_speech_completeness_audit": true,
+    "full_speech_page_marker_audit": true,
     "verified_against_scan": false,
     "verified_scan_pages": null,
     "strict_full_speech_visual_verification": false,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C Batches 1-2 represent scan pp.99-128 / printed pp.98-127 with 30 unique monotonic source-page markers. Scan p.128 ends mid-word with `30 வட்டங்`; scan p.129 continues `களைத் தனியாக அறிவித்து அவர்களுக்கு மேலும் சில சலுகைகளைச் செய்யலாம்...`. Scan p.129 has been inspected only to lock the continuation and is not yet transcribed."
+    "completion_note": "Gate C is complete for all 37 mapped pages, scan pp.99-135 / printed pp.98-134. Gate D passed with exactly 37 unique monotonic source-page markers 99-135, no skipped or duplicated mapped page, correct opening and ending boundaries, and the final printed interventions represented. Scan p.135 ends with Kalaignar's reply to Thiru K. Ramani followed by the decorative ending ornament; scan p.136 begins Speech 5 (14.08.1996). Gate E has not started."
   },
   "translation": {
     "language": "English",
