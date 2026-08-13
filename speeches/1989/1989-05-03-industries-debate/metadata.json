@@ -59,14 +59,15 @@
   "translation": {
     "language": "English",
     "placement": "after the complete verified Tamil transcription",
-    "status": "complete-unverified",
+    "status": "verified",
     "requires_verified_tamil": true,
     "tamil_gate_satisfied": true,
     "source": "final verified Tamil transcription",
     "completed_source_pages": "62-98",
     "source_page_correspondence": true,
-    "verified_against_tamil": false,
-    "verification_gate": "Gate G pending",
-    "completion_note": "Gate F is complete for the full speech. The English layer follows the verified Tamil and preserves the 37-page source sequence, speaker changes/interventions, figures, quotations and technical terminology. It must not be marked verified until Gate G is completed."
+    "verified_against_tamil": true,
+    "verification_gate": "Gate G passed",
+    "verification_pages": "62-98",
+    "completion_note": "Gate F translated the full speech; Gate G re-read all 37 English source-page sections 62-98 against the final verified Tamil, corrected the documented fidelity/source-preservation discrepancies, and confirmed complete source-page correspondence, speaker/intervention fidelity, figures, names, terminology and source anomalies."
   }
 }
