@@ -38,8 +38,8 @@
     "source_authority": "scan image"
   },
   "transcription": {
-    "method": "manual first-pass transcription directly from scan images, followed by full-speech completeness audit",
-    "status": "transcribed",
+    "method": "manual first-pass transcription directly from scan images, followed by full-speech completeness audit and strict direct page-by-page visual source-fidelity verification",
+    "status": "verified",
     "full_speech_scan_pages": "99-135",
     "completed_scan_pages": "99-135",
     "completed_printed_pages": "98-134",
@@ -47,24 +47,25 @@
     "page_markers_audited_for_completed_batch": true,
     "full_speech_completeness_audit": true,
     "full_speech_page_marker_audit": true,
-    "verified_against_scan": false,
-    "verified_scan_pages": null,
-    "strict_full_speech_visual_verification": false,
+    "verified_against_scan": true,
+    "verified_scan_pages": "99-135",
+    "strict_full_speech_visual_verification": true,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C is complete for all 37 mapped pages, scan pp.99-135 / printed pp.98-134. Gate D passed with exactly 37 unique monotonic source-page markers 99-135, no skipped or duplicated mapped page, correct opening and ending boundaries, and the final printed interventions represented. Scan p.135 ends with Kalaignar's reply to Thiru K. Ramani followed by the decorative ending ornament; scan p.136 begins Speech 5 (14.08.1996). Gate E has not started."
+    "completion_note": "All 37 mapped scan pages 99-135 are represented. Markers are unique and monotonic. Scan p.135 ends Speech 4 with Kalaignar's reply to Thiru K. Ramani followed by the decorative ending ornament; scan p.136 begins Speech 5 (14.08.1996).",
+    "verification_note": "Gate E checked the complete Tamil transcript directly page by page against the controlling scan for pp.99-135. Source-fidelity corrections discovered in the audit were applied to transcript.md and documented in verification-log.md. No unresolved readings remain."
   },
   "translation": {
     "language": "English",
     "placement": "after the complete verified Tamil transcription",
-    "status": "blocked",
+    "status": "not-started",
     "requires_verified_tamil": true,
-    "tamil_gate_satisfied": false,
-    "source": null,
+    "tamil_gate_satisfied": true,
+    "source": "final verified Tamil transcription",
     "completed_source_pages": null,
     "source_page_correspondence": false,
     "verified_against_tamil": false,
-    "verification_gate": "blocked until Tamil Gates C-E are complete"
+    "verification_gate": "Gate F ready; English translation not started"
   }
 }
