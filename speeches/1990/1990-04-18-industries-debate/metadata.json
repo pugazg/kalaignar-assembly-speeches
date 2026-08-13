@@ -58,14 +58,16 @@
   },
   "translation": {
     "language": "English",
-    "placement": "after the complete verified Tamil transcription",
-    "status": "not-started",
+    "placement": "Gate-F working companion translation.md; intended to follow the verified Tamil in the canonical transcript after Gate G",
+    "working_file": "translation.md",
+    "status": "translated",
     "requires_verified_tamil": true,
     "tamil_gate_satisfied": true,
     "source": "final verified Tamil transcription",
-    "completed_source_pages": null,
-    "source_page_correspondence": false,
+    "completed_source_pages": "99-135",
+    "source_page_correspondence": true,
     "verified_against_tamil": false,
-    "verification_gate": "Gate F ready; English translation not started"
+    "verification_gate": "Gate F complete; Gate G pending",
+    "completion_note": "Gate F translated all 37 verified Tamil source-page sections 99-135 into English, preserving speaker/intervention structure, figures, technical terminology, argument sequence and source anomalies. Gate G has not yet re-read the complete English against the verified Tamil."
   }
 }
