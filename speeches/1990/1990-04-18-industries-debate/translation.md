@@ -1,6 +1,6 @@
 # English translation — உரை : 4 / 18.04.1990
 
-> **Gate F translation note:** This is a faithful English rendering of the final verified Tamil transcription for scan pp.99–135 / printed pp.98–134. It preserves source-page correspondence, parliamentary speaker changes and interventions, names, figures, quotations, technical terminology, argument sequence, and unusual or internally inconsistent source claims without substituting external historical corrections. English passages printed in the Tamil source are reproduced in their source form, including visible anomalies. This Gate F translation is complete but has **not yet passed Gate G English fidelity verification** against the verified Tamil.
+> **Gate F/G translation note:** This is a faithful English rendering of the final verified Tamil transcription for scan pp.99–135 / printed pp.98–134. It preserves source-page correspondence, parliamentary speaker changes and interventions, names, figures, quotations, technical terminology, argument sequence, and unusual or internally inconsistent source claims without substituting external historical corrections. English passages printed in the Tamil source are reproduced in their source form, including visible anomalies. Gate F translation is complete and the full English has now passed Gate G page-by-page fidelity verification against the verified Tamil.
 
 ### Source page 99
 
@@ -37,7 +37,7 @@ In that connection, I stated last year that, even in the case of factories annou
 
 we did not abandon them merely because the previous Government had announced them. This Government took steps to start all those factories and implemented efforts involving expenditure of Rs. 62.3 crore. To give the details: Tamil Nadu Magnesium and Marine Chemicals at Valinokkam, a factory undertaken by TIDCO alone at a cost of Rs. 9.60 crore. This factory produces magnesium metal from waste brine. This metal is used in atomic-power production. Production has already begun there. This was announced by the previous Government, but no action had been taken and it had lain dormant; I wish to state that it has now begun production.
 
-Next, Titan Watches. The watch-making industry had already been started at Hosur. A Cases and Precisions project, costing about Rs. 30 crore, has been established in the SIPCOT industrial complex at Hosur, with TIDCO and the Tata company jointly manufacturing watches in the joint sector. I am happy to state here that the watches produced in this factory are today among the most widely sold in India. Until now the cases required for those watches had been imported from abroad; to change that situation and make them there itself, the factory has been expanded this year to the extent of about Rs. 30 crore.
+Next, Titan Watches. The watch-making industry had already been started at Hosur. A Cases and Precisions project, costing about Rs. 30 crore, has been established in the SIPCOT industrial complex at Hosur, with TIDCO and the Tata company jointly manufacturing watches in the joint sector. I am happy to state here that the watches produced in this factory are today the most widely sold in India. Until now the cases required for those watches had been imported from abroad; to change that situation and make them there itself, the factory has been expanded this year to the extent of about Rs. 30 crore.
 
 Sakthi Soyas Limited is a joint-sector undertaking. TIDCO and Sakthi have jointly established it near Pollachi with a capital of Rs. 22.48 crore. It is a factory producing cooking oil from soya. Production—
 
@@ -47,7 +47,7 @@ has also commenced, I wish to state.
 
 I would further like to give details of industries that will begin production this year. U.P. Petro Products Limited is a joint-sector factory being started at Manali with a capital of Rs. 80.65 crore. All construction work is nearing completion. The work of installing machinery will be completed in another two months. It is a factory producing polyols and other petroleum products. Polyols are a material useful for plastics industries and some other industries.
 
-Fifth is Tamil Nadu Telecommunications Limited, a factory in a joint venture of the Central and State Governments producing telephone cables and certain equipment required for telephones. It is located at Arakkonam at a cost of Rs. 23.30 crore. The State Government has a 25 per cent share and the Central Government 26 per cent. Construction work began in May 1989, and the work is progressing rapidly enough for the machinery to arrive by July 1990 and production to commence.
+Fifth is Tamil Nadu Telecommunications Limited, a factory in a joint venture of the Central and State Governments producing telephone cables and certain equipment required for telephones. It is located at Arakkonam at a cost of Rs. 23.30 crore. The State Government has a 25 per cent share and the Central Government 26 per cent. Construction work began in May 1989, and the work is progressing rapidly enough for the machinery to arrive by July 1990 and operations to begin.
 
 Sixth is Sangam Aluminium Limited. This is a joint-sector factory being started at Denkanikottai with an investment of Rs. 10.35 crore. Aluminium products will be manufactured there. Construction work is in progress. Machinery will be installed in September and production is to begin in December.
 
@@ -255,7 +255,7 @@ are being separately identified so that some additional concessions may be given
 
 If you ask how we determine a backward area and a most-backward area: for a backward area, the average proportion of industrial workers must be below the State average of 1.26 per cent. In the same taluk, the value of large or medium industries must be below Rs. 15 crore. We include such areas under B.C.—backward areas. On this basis, we have taken 105 areas.
 
-Then, how do we determine M.B.C.? The average proportion of factory workers in that taluk must be less than 25 per cent of the relevant average. There must be no medium industry or any large industry in that taluk. On that basis, thirty backward taluks have been selected.
+Then, how do we determine M.B.C.? The average proportion of factory workers in that taluk must be below 25 per cent. There must be no medium industry or any large industry in that taluk. On that basis, thirty backward taluks have been selected.
 
 I wish to read their names here. In Chengai-Anna district, Pallipattu; in Dharmapuri, Pennagaram; in Dindigul Quaid-e-Millath district, Vedasandur and Kodaikanal; in Kamarajar district, Tiruchuli; in Madurai, Usilampatti; in Tirunelveli-Kattabomman district, Tenkasi and Radhapuram; in Periyar district, Gobichettipalayam; in Salem district, Yercaud; in South Arcot district, Kattumannarkoil and Tirukovilur. Nobody should be jealous of Thanjavur district—it is a district where there is no industry. In Thanjavur district: Papanasam, Valangaiman, Kudavasal, Peravurani, Nannilam, Orathanadu, Sirkazhi, Pattukkottai, Tiruvarur and Tiruthuraipoondi. (Laughter, interruption.) If the pipeline he asked for comes, industries will come there too.
 
@@ -271,7 +271,7 @@ After nine years, these industrial undertakings need only begin paying sales tax
 
 ### Source page 131
 
-and so on. At present, in other areas of Tamil Nadu, apart from pioneer industries, there has so far been no sales-tax deferral scheme for other industries. Hereafter, the sales-tax deferral scheme will be extended to all industries in the other areas as well. In those areas, the scheme will apply both to expansion of industries (Part 1) and to new industries (Part 2). New industries will receive sales-tax deferral for five years, with a ceiling of 60 per cent of capital expenditure. For expansion of existing industries, the ceiling will be 50 per cent of capital expenditure.
+At present, in other areas of Tamil Nadu, apart from pioneer industries, there has so far been no sales-tax deferral scheme for other industries. Hereafter, the sales-tax deferral scheme will be extended to all industries in the other areas as well. In those areas, the scheme will apply both to expansion of industries (Part 1) and to new industries (Part 2). New industries will receive sales-tax deferral for five years, with a ceiling of 60 per cent of capital expenditure. For expansion of existing industries, the ceiling will be 50 per cent of capital expenditure.
 
 Further, with the good intention that large industries should be started in the State, industries commenced with capital expenditure above Rs. 50 crore will, as a special concession, receive sales-tax deferral for nine years up to the amount of capital expenditure, no matter in which part of the State they are established. (Sound of desk-thumping.) I believe this announcement will create a good opportunity for large industries to arise in the State.
 
@@ -317,7 +317,7 @@ will that be done? Will they at least carry out a project to produce oil from so
 
 ### Source page 135
 
-**Mr Kumari Ananthan:** Hon. Speaker, even during my speech I referred to the backward condition of Sathankulam. Even at the drinking-water scheme meeting convened yesterday by our Hon. Dr Ponmudi, I said, “There is nothing at all; only if you give us something will there be anything to drink.” In the same way, please treat it as a most-backward area, you... . . . . .
+**Mr Kumari Ananthan:** Hon. Speaker, even during my speech I referred to the backward condition of Sathankulam. Even at the drinking-water scheme meeting convened yesterday by our Hon. Dr Ponmudi, I said, “There is nothing at all; only if you give us something will there be anything to drink.” Likewise, please, the most-backward area—you... . . . . .
 
 **Hon. Kalaignar M. Karunanidhi:** Do not worry; Satan will not fall into the tank. (Laughter.)
 
