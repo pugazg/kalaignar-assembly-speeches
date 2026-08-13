@@ -56,25 +56,38 @@ Gate F covers the full source sequence **62–98** and preserves source-page cor
 
 ## Gate G — English fidelity verification
 
-Gate G has now **passed**. Each of the **37 English source-page sections, 62–98**, was re-read directly against the corresponding final verified Tamil section.
-
-The review checked completeness and fidelity of meaning, speaker attribution, parliamentary interventions, quotations, names and initials, dates, numerals, percentages, monetary values and units, industrial terminology and page-transition continuity.
+Gate G has **passed**. Each of the **37 English source-page sections, 62–98**, was re-read directly against the corresponding final verified Tamil section.
 
 Two source-preservation/fidelity corrections were required:
 
-1. **source p.86** — provisional English `aluminium sheets and strips` was changed to `aluminium sheets and pattadaigal (பட்டாடைகள், as printed in the Tamil source)`, so that the English does not silently repair the visibly retained Tamil source form `பட்டாடைகள்`.
-2. **source p.94** — provisional English `SIPCOT and TIIC` was changed to `SIPCOT and TIC (டிக் in the Tamil source)`, avoiding an unsupported expansion of the printed Tamil source term `டிக்`.
+1. **source p.86** — provisional English `aluminium sheets and strips` was changed to `aluminium sheets and pattadaigal (பட்டாடைகள், as printed in the Tamil source)`.
+2. **source p.94** — provisional English `SIPCOT and TIIC` was changed to `SIPCOT and TIC (டிக் in the Tamil source)`.
 
 The review also confirmed that source anomalies deliberately retained in the Tamil remain visible in English, including the p.66 `1986-86` date, the p.71 source term `Associate Sectary`, the p.92 `547` / `541` / `721` estimate sequence and the repeated p.93 wordplay.
 
-English status is now **verified**.
+English status is **verified**.
+
+## Gate H — release/index
+
+Gate H has **passed**.
+
+- Speech 3 is present in the root repository speech index with Tamil and English both marked `Verified` and source coverage `scan pp. 62–98`.
+- `data/speeches.json` contains the `1989-05-03-industries-debate` record using the existing released-entry schema.
+- The machine-readable entry records `languages: ["ta", "en"]`, `transcription_status: "verified"`, `verified_against_scan: true`, and `translation_status: "verified"`.
+- The existing released Speech 1, 1970, and Speech 2 records were left unchanged; Speech 3 was appended as the fourth machine-readable record.
+- The resulting `data/speeches.json` was parsed successfully as valid JSON.
+
+Release/index commits:
+
+- root README: `3e3dfe207435dd8d78ef263d472798e2acc248e5`
+- `data/speeches.json`: `a83d671fb6d313e30c3846658f38546eff049796`
 
 ## கோப்புகள்
 
 - [`transcript.md`](./transcript.md) — complete verified Tamil plus Gate-G-verified English translation, with source-page correspondence.
 - [`metadata.json`](./metadata.json) — source, full range, Tamil verification and English verification status metadata.
-- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries, verification and translation policy notes.
-- [`verification-log.md`](./verification-log.md) — Gate-C through Gate-G workflow records.
+- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and verification/release notes.
+- [`verification-log.md`](./verification-log.md) — Gate-C through Gate-H workflow records.
 
 ## தற்போதைய நிலை
 
@@ -86,8 +99,9 @@ English status is now **verified**.
 - Gate F English translation: **complete**.
 - Gate G English fidelity verification: **passed for all 37 source pages, 62–98**.
 - English status: **verified**.
-- Gate H release/index: **next / eligible**.
-- Root release index / `data/speeches.json`: **not yet updated for Speech 3**.
+- Gate H release/index: **passed**.
+- Release status: **fully released**.
+- Next anthology unit: Speech 4, `1990-04-18-industries-debate`, scan pp.99–135 / printed pp.98–134.
 
 ## காப்பகக் குறிப்பு
 
