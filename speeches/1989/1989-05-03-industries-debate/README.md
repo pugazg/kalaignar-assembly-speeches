@@ -50,25 +50,31 @@ No unresolved Tamil reading remains. Tamil status is **verified**.
 
 ## Gate F — English translation
 
-The complete English translation has now been appended **after the verified Tamil source layer** in `transcript.md`.
+The complete English translation was produced **only from the final verified Tamil** and appended after the Tamil source layer in `transcript.md`.
 
-Gate F covers the full source sequence **62–98** and preserves:
+Gate F covers the full source sequence **62–98** and preserves source-page correspondence for all **37** pages, the parliamentary speaker sequence and interventions, names/initials, dates, numerals, percentages, monetary values/units, quotations, laughter and desk-thumping markers, technical terminology and source-supported anomalies.
 
-- source-page correspondence for all **37** pages;
-- parliamentary speaker changes and interventions;
-- names and initials as represented by the verified Tamil;
-- dates, numerals, percentages, monetary values and units;
-- quotations, laughter/table-thumping markers and page-transition continuities;
-- industrial terminology, printed-English terms and unusual source claims without silently replacing them with outside historical corrections.
+## Gate G — English fidelity verification
 
-The English translation is **complete but unverified**. Gate G, a separate page-by-page fidelity review against the final verified Tamil, is required before English may be marked `verified`.
+Gate G has now **passed**. Each of the **37 English source-page sections, 62–98**, was re-read directly against the corresponding final verified Tamil section.
+
+The review checked completeness and fidelity of meaning, speaker attribution, parliamentary interventions, quotations, names and initials, dates, numerals, percentages, monetary values and units, industrial terminology and page-transition continuity.
+
+Two source-preservation/fidelity corrections were required:
+
+1. **source p.86** — provisional English `aluminium sheets and strips` was changed to `aluminium sheets and pattadaigal (பட்டாடைகள், as printed in the Tamil source)`, so that the English does not silently repair the visibly retained Tamil source form `பட்டாடைகள்`.
+2. **source p.94** — provisional English `SIPCOT and TIIC` was changed to `SIPCOT and TIC (டிக் in the Tamil source)`, avoiding an unsupported expansion of the printed Tamil source term `டிக்`.
+
+The review also confirmed that source anomalies deliberately retained in the Tamil remain visible in English, including the p.66 `1986-86` date, the p.71 source term `Associate Sectary`, the p.92 `547` / `541` / `721` estimate sequence and the repeated p.93 wordplay.
+
+English status is now **verified**.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — complete verified Tamil plus complete Gate-F English translation, both preserving source-page correspondence.
-- [`metadata.json`](./metadata.json) — source, full range, Tamil verification and English translation status metadata.
+- [`transcript.md`](./transcript.md) — complete verified Tamil plus Gate-G-verified English translation, with source-page correspondence.
+- [`metadata.json`](./metadata.json) — source, full range, Tamil verification and English verification status metadata.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries, verification and translation policy notes.
-- [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D, Gate-E and Gate-F workflow records.
+- [`verification-log.md`](./verification-log.md) — Gate-C through Gate-G workflow records.
 
 ## தற்போதைய நிலை
 
@@ -78,10 +84,11 @@ The English translation is **complete but unverified**. Gate G, a separate page-
 - Tamil status: **verified**.
 - Explicit unresolved Tamil readings: **0**.
 - Gate F English translation: **complete**.
-- English status: **complete-unverified**.
-- Gate G English fidelity verification: **next / not started**.
-- Root release index / `data/speeches.json`: **not updated** because Gate G and Gate H remain pending.
+- Gate G English fidelity verification: **passed for all 37 source pages, 62–98**.
+- English status: **verified**.
+- Gate H release/index: **next / eligible**.
+- Root release index / `data/speeches.json`: **not yet updated for Speech 3**.
 
 ## காப்பகக் குறிப்பு
 
-Scan image தான் canonical source. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels, interventions and printed English are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers, printed page numbers and the closing decorative ornament are treated as page furniture/boundary evidence rather than speech text. Source forms that are visibly unusual remain preserved rather than silently modernised.
+Scan image தான் canonical source for the Tamil layer. The final Gate-E-verified Tamil is authoritative for English fidelity. OCR canonical text அல்ல. Printed wording, period spelling, punctuation, numerals, quotations, speaker labels, interventions and printed English are preserved as far as the scan permits; physical line wrapping alone is normalised. Running headers, printed page numbers and the closing decorative ornament are treated as page furniture/boundary evidence rather than speech text. Source forms that are visibly unusual remain preserved rather than silently modernised.
