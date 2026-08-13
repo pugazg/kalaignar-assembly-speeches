@@ -6,7 +6,7 @@ Continuation point for `pugazg/kalaignar-assembly-speeches` using:
 
 `TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf`
 
-The scan image is authoritative for Tamil transcription. OCR is only a helper. English is translated from and checked against the verified Tamil. Any later contextual identification added to English must be documented without rewriting the source-faithful Tamil.
+The scan image is authoritative for Tamil transcription. OCR is only a helper. English is translated from and checked against the verified Tamil. External contextual identifications must never rewrite the source-faithful Tamil.
 
 ## Controlling source
 
@@ -35,22 +35,16 @@ The scan image is authoritative for Tamil transcription. OCR is only a helper. E
 
 ## Released anthology speeches
 
-Speeches 1, 2 and 3 are fully released with verified Tamil and verified English.
+Speeches **1, 2 and 3** are fully released with verified Tamil and verified English.
 
 ### Speech 3 final state and TIIC correction
 
 Canonical ID: `1989-05-03-industries-debate`  
 Range: scan pp.62–98 / printed pp.61–97
 
-- Gate C: complete
-- Gate D: passed
-- Gate E: passed
+- Gates C–H: complete/passed
 - Tamil: **verified**
-- unresolved Tamil readings: **0**
-- Gate F: complete
-- Gate G: passed
 - English: **verified**
-- Gate H: passed
 - release status: **fully released**
 
 The verified Tamil source on p.94 visibly reads `சிப்காட், டிக் நிறுவனங்களிடமிருந்து லோன் வாங்கியிருக்கிறார்கள்.` and must remain source-faithful. The final English uses **`SIPCOT and TIIC`** as an explicitly documented contextual/institutional identification. Do not revert English to `TIC`.
@@ -68,122 +62,97 @@ The verified Tamil source on p.94 visibly reads `சிப்காட், ட�
 - Tamil status: **verified**
 - Verified scan pages: **99–135**
 - Explicit unresolved Tamil readings: **0**
-- Gate F English translation: **complete — 37/37 pages**
-- English status: **translated / not yet verified**
-- Gate G English verification: **not started**
+- Gate F: **complete — 37/37 English sections**
+- Gate G: **passed**
+- English status: **verified**
+- Verified English file: `speeches/1990/1990-04-18-industries-debate/translation.md`
 - Gate H release/index: **not started**
-- Gate-F working file: `speeches/1990/1990-04-18-industries-debate/translation.md`
-- Speech 4 folder: `speeches/1990/1990-04-18-industries-debate/`
+- Canonical English merge into `transcript.md`: **pending Gate H**
 
 Boundary is verified: scan p.99 begins `உரை : 4`, dated `18.04.1990`; scan p.135 ends Speech 4 with Kalaignar's reply to `திரு. கே. ரமணி` followed by the decorative floral ornament; scan p.136 begins `உரை : 5`, dated `14.08.1996`.
 
-## Speech 4 completed Tamil work
+## Speech 4 Tamil history
 
 ### Gate C
 
-The complete first-pass Tamil was transcribed in three bounded batches:
+Complete first-pass Tamil was transcribed in three bounded batches:
 
-- Batch 1: **scan pp.99–113 / printed pp.98–112**
-- Batch 2: **scan pp.114–128 / printed pp.113–127**
-- Batch 3: **scan pp.129–135 / printed pp.128–134**
+- pp.99–113
+- pp.114–128
+- pp.129–135
 
-The final first-pass transcript commit was `3d5349eaa6d13dda96ba0968a2c75e71fde45f1a`.
+Final first-pass transcript commit: `3d5349eaa6d13dda96ba0968a2c75e71fde45f1a`.
 
 ### Gate D
 
-Gate D passed with:
+Passed with **37/37** markers, exactly **99–135**, unique and monotonic, no skipped/duplicated page, correct p.99/p.135 boundaries and zero unresolved markers.
 
-- **37/37** source-page markers, exactly **99–135**;
-- markers unique and monotonic;
-- no skipped/duplicated mapped page;
-- correct p.99 opening and p.135 ending boundaries;
-- p.136 confirmed as Speech 5;
-- all final interventions represented;
-- unresolved markers: **0**.
+### Gate E
 
-Gate-D progress commits:
+Strict visual/source-fidelity verification passed for every page **99–135**.
 
-- transcript/final Gate-C batch: `3d5349eaa6d13dda96ba0968a2c75e71fde45f1a`
-- metadata: `0c8a06fbc918096fdb7f5ecc664b67f4431eddf3`
-- README: `6969ee7e2059270359b462858a3033078fa02710`
-- source notes: `88ef0ac298964448bb0e8bfb5ed6a7c19b3d5739`
-- verification log: `acbcf42da0ecf7d654b42732cf36f44d6827e271`
+Notable source-supported corrections included p.111 `ancilary`; p.112 `(குறுக்கீடு) சிரிப்பு.`; p.114 wording corrections; p.119 `ஹம்போல் ஹெவி ஆலை`; p.120 restored forms including `கேஸ்டிக் சோடா`; p.123 printed date `1-1-1990`; pp.125–127 Neyveli/TIIC/sales-tax corrections; p.128 `கும்மிடிப்பூண்டி` and `தாராபுரம் 7`; p.129 `சதவிகிதத்திற்குக்`; p.133 source quotation marks and printed asterisk before Peter Alphonse; and p.135 `இருக்கக் கூடிய`.
 
-### Gate E — strict visual/source-fidelity verification
+Source anomalies deliberately retained include `Government of India for financed`, `constitute and Inter-Ministerial Committee`, `cilicon`, `stainlees`, `Spensioner Mill`, `ancilary`, distinct p.120/p.121 `கேஸ்டிக்`/`காஸ்டிக்`, and p.128 `ஆலங்குடி 3, 1, அறந்தாங்கி 4`.
 
-Gate E was completed for **every scan page p.99 through p.135** against the controlling rendered scan.
-
-The audit checked words/characters, names/initials, dates, figures, percentages, monetary values/units, embedded English, speaker labels, punctuation and page-transition continuity. All source-supported discrepancies found were applied to canonical `transcript.md`; `verification-log.md` contains the full correction ledger.
-
-Notable corrections included p.111 `ancilary`; p.112 `(குறுக்கீடு) சிரிப்பு.`; p.114 source wording corrections; p.119 `ஹம்போல் ஹெவி ஆலை`; p.120 restored forms including `கேஸ்டிக் சோடா`; p.123 printed date `1-1-1990`; pp.125–127 Neyveli/TIIC/sales-tax corrections; p.128 `கும்மிடிப்பூண்டி` and `தாராபுரம் 7`; p.129 `சதவிகிதத்திற்குக்`; p.133 source quotation marks and printed asterisk before Peter Alphonse; and p.135 `இருக்கக் கூடிய`.
-
-Source anomalies were deliberately preserved where visibly printed, including `Government of India for financed`, `constitute and Inter-Ministerial Committee`, `cilicon`, `stainlees`, `Spensioner Mill`, `ancilary`, the distinct p.120/p.121 `கேஸ்டிக்`/`காஸ்டிக்` forms, and p.128 `ஆலங்குடி 3, 1, அறந்தாங்கி 4`.
-
-Gate-E final state:
-
-- pages audited: **37/37, pp.99–135**
-- Tamil status: **verified**
-- `verified_against_scan`: **true**
-- `verified_scan_pages`: **99–135**
-- strict full-speech visual verification: **true**
-- unresolved readings: **0**
-
-Gate-E commits:
-
-- canonical verified transcript: `bfeeee9f01e53d76b344a3bf2f2038f5635d6c1c`
-- metadata: `fd9beffbb9724aec251b5eaa2ed1bb7e1ba49d81`
-- README: `0ef6b24fdd757308acc550c4eb37c9c36f5424ae`
-- source notes: `528d938e032de686276bd445a88d6fd70b0be49f`
-- verification log: `e91233707f92b317710e8b4328f588b572488a98`
+Gate-E canonical verified transcript commit: `bfeeee9f01e53d76b344a3bf2f2038f5635d6c1c`.
 
 ## Speech 4 Gate F — English translation
 
-Gate F is now **complete** for the entire verified speech range **scan pp.99–135 / printed pp.98–134**.
+Gate F translated the complete verified Tamil for **all 37 source pages, 99–135** into `translation.md`.
 
-The translation was produced solely from the final Gate-E Tamil and stored as a Gate-F working companion in:
+Gate-F translation commit: `a59ebbf8a2316297f76a313d4dafafce711bbdfb`.
 
-`speeches/1990/1990-04-18-industries-debate/translation.md`
+The translation preserved source-page order, speaker/intervention structure, figures, dates, percentages, monetary values, industrial/project terminology and the long printed English passages on pp.108–112. Source-printed anomalies were not silently repaired.
 
-Gate-F state:
+## Speech 4 Gate G — English fidelity verification
 
-- English source-page sections: **37/37, exactly 99–135**;
-- source-page order preserved;
-- speaker labels and all final parliamentary interventions represented;
-- figures, dates, percentages, monetary amounts and units carried into the corresponding English page sections;
-- industrial/project names and technical terminology rendered from the verified Tamil without external factual rewriting;
-- printed English correspondence on pp.108–112 reproduced in source form, including visible anomalies such as `financed`, `constitute and Inter-Ministerial Committee`, `cilicon`, `stainlees`, `Spensioner Mill` and `ancilary`;
-- unusual or internally inconsistent source claims/list forms were not silently corrected;
-- English status: **translated**, not `verified`;
-- Gate G: **pending**.
+Gate G has **passed** after a page-by-page comparison of all **37 English sections, pp.99–135**, against the final verified Tamil.
 
-The separate `translation.md` file is intentional at this stage: it allows Gate G to audit/correct the English without disturbing the already verified Tamil layer. Once Gate G passes, incorporate the verified English after the Tamil in canonical `transcript.md`, following the released-speech precedent, and then remove or otherwise retire the temporary companion translation artifact as appropriate.
+Gate-G corrections applied to `translation.md`:
 
-Gate-F commits:
+1. **p.103:** `among the most widely sold in India` → `the most widely sold in India` to preserve the Tamil's superlative claim.
+2. **p.104:** `production to commence` → `operations to begin` for `தொழில் தொடங்கும்`.
+3. **p.129:** removed the translator-added denominator from the ambiguous M.B.C. criterion; English now leaves the source formulation ambiguous rather than supplying a missing comparison basis.
+4. **p.131:** removed unsupported `and so on` from the deferred-sales-tax repayment sentence.
+5. **p.135:** removed the invented verb from Kumari Ananthan's interrupted sentence; the English now remains fragmentary like the source.
 
-- English translation: `a59ebbf8a2316297f76a313d4dafafce711bbdfb`
-- metadata: `0da72ab91b0d58c9e6910945e31876b0e21dd208`
-- README: `3b6f2aff97c2d649f50b1d3db058eced584792e2`
-- source notes: `503c5ec508e5e9245b66940b6b9b61696dc8a4fe`
-- verification log: `e80da603a45bd95cea1164a858cb3f5be20972e8`
+Gate-G final checks:
 
-## Immediate next action — Speech 4 Gate G
+- English sections verified: **37/37, pp.99–135**
+- source-page order/correspondence: complete
+- speaker/intervention structure: confirmed
+- figures/dates/percentages/monetary values: checked
+- printed English anomalies on pp.108–112: retained
+- p.128 unusual list/count sequence: retained
+- final p.135 interrupted wording and Sathankulam wordplay: preserved
+- English status: **verified**
 
-Perform the separate English fidelity verification for **every English source-page section 99–135** against the final verified Tamil.
+Gate-G commits:
 
-1. Re-read current `docs/ARCHIVAL_WORKFLOW.md`, this handover, current Speech-4 `metadata.json`, `source-notes.md`, `verification-log.md`, verified Tamil in `transcript.md`, and Gate-F English in `translation.md`.
-2. Compare every English `### Source page N` section directly against the matching verified Tamil `<!-- source-page: N -->` section, for **all 37 pages**.
-3. Check completeness, additions/omissions, argumentative sequence, figures, dates, percentages, monetary values and units, names, project/company terminology, speaker labels/interventions, interruption markers, quotations and page correspondence.
-4. Preserve long English passages already printed in the source in their source form; do not silently clean up source anomalies.
-5. Apply every fidelity correction supported by the verified Tamil to `translation.md` and record the concrete change in `verification-log.md`.
-6. Only if the complete 99–135 English audit passes, set translation status to **`verified`**, `verified_against_tamil: true`, and Gate G passed.
-7. After Gate G passes, incorporate the final verified English after the Tamil in canonical `transcript.md` in the same pattern as released Speech 3. Update the transcript archival/translation note accordingly.
-8. Once the canonical transcript contains the verified English, retire the temporary `translation.md` companion as appropriate and make sure README/metadata/source notes no longer imply that the English is only external to `transcript.md`.
-9. Do **not** perform Gate H release/index updates until Gate G and canonical integration are complete.
-10. Do not begin Speech 5 while Speech 4 remains in Gate G.
+- verified `translation.md`: `b50ddd187994605c6959f7a4430f50b2ad6a9717`
+- metadata: `6563fe4dc8f0f8bdc951510463c3316c2258284f`
+- verification log: `e4e5b90c6fa82b6f35ec8fcefd8cdbc09505f0f7`
+- README: `4b27211c9519ce45f1950a74d108b593769d0202`
+- source notes: `d92ac7ae1925b79bb23618e0a7f88701c953a27e`
+
+## Immediate next action — Speech 4 Gate H
+
+Perform **Gate H release/index** for Speech 4.
+
+1. Re-read `docs/ARCHIVAL_WORKFLOW.md`, this handover and current Speech-4 files.
+2. Merge the complete verified English from `translation.md` **after the verified Tamil** in canonical `transcript.md`, using the released Speech-3 structure (`---`, `# English translation`, translation note, then `### Source page N`).
+3. Update the archival note at the top of `transcript.md` to state that Tamil and English are both verified.
+4. Decide whether to remove `translation.md` after the canonical merge or retain it only if repository precedent supports a companion artifact; avoid two divergent canonical English copies.
+5. Update `data/speeches.json` and the root speech index following the released-speech precedent.
+6. Confirm metadata, README, source notes, verification log, transcript and index records all agree on ID/date/page ranges/statuses.
+7. Confirm canonical `transcript.md` is self-contained and contains all verified Tamil and all verified English sections **99–135**.
+8. Mark Gate H passed / Speech 4 fully released only after those checks succeed.
+9. After Speech 4 is fully released, the next active speech is Speech 5: `1996-08-14-industries-debate`, scan pp.136–171 / printed pp.135–170.
 
 ## Content to leave untouched
 
-Unless explicitly requested, do not modify released Speeches 1–3, released index records, unrelated sources, or Speech 5+ while Speech 4 is active. The Speech 3 TIIC correction described above is the final intended state.
+Unless explicitly requested, do not modify released Speeches 1–3 beyond necessary index consistency. The Speech-3 TIIC correction described above is the final intended state. Do not begin Speech 5 until Speech 4 Gate H passes.
 
 ## End-of-session requirement
 
