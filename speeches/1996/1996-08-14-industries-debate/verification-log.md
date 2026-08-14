@@ -92,11 +92,35 @@ The earlier first-pass p.146 note `ஓட்டலுக்கு மறுப�
 
 Batch-1 unresolved/`[REVIEW]` markers after strict audit: **0**.
 
-Gate-E pages completed so far: **scan pp.136–150 / printed pp.135–149**. This partial batch does **not** confer verified status on the full speech. Tamil remains `transcribed` until scan pp.151–171 also pass Gate E.
+### Batch 2 — scan pp.151–165 / printed pp.150–164
+
+Status: **strict visual audit completed for this batch**.
+
+All **15** pages were compared directly against the controlling scan images for words and individual characters, names, numerals, dates, percentages, monetary values and units, embedded English, punctuation where legible, and page-transition continuity. The following **4 concrete source-supported corrections** were applied to canonical `transcript.md`:
+
+- p.153: `தொழிற்சாலை உருவாவதற்குக் தேவை` → `தொழிற்சாலை உருவாவதற்குத் தேவை`;
+- p.159: `ஒரு பிரஞ்சு கம்பெனி` → `ஒரு பிரெஞ்சு கம்பெனி`;
+- p.164: later sentence `அவர்களெல்லாம் உயர்மட்டக் குழுவிலே இருந்தார்கள்.` → `அவர்கள் எல்லாம் உயர்மட்டக் குழுவிலே இருந்தார்கள்.`;
+- p.165: `கடைபிடித்து அதிக லாபத்தை, அதிக வருமானத்தை` → `கடைபிடித்து அதிகலாபத்தை, அதிக வருமானத்தை`.
+
+Important deliberate retentions after direct visual checking:
+
+- p.154 `Our closed historical and cultural ties` is printed that way and remains unchanged;
+- p.155 `Sigapore` is visibly printed and remains unchanged;
+- p.156 `Tom, Tick & Harry` is retained exactly as printed;
+- p.157 `business-men` is retained exactly as printed;
+- pp.158–159 `Liquified Natural Gas` and `LNG Terminal (Liquified)` are retained as printed;
+- p.162 `அருணா ஷூகாஸ்` is retained as printed;
+- p.163 `தேவையேயில்லாமல்,,` retains the printed double comma, and `ஊழல் நடத்திருக்கிறது` is retained as printed;
+- p.164 `ஸ்பெசிபிக் நேர்வு` is retained as printed.
+
+Batch-2 unresolved/`[REVIEW]` markers after strict audit: **0**.
+
+Gate-E coverage now stands at **30/36 pages**, scan pp.136–165 / printed pp.135–164. A cumulative **22 source-supported corrections** have been applied across Gate-E Batches 1–2. This partial verification does **not** confer verified status on the full speech. Tamil remains `transcribed` until scan pp.166–171 also pass Gate E.
 
 ### Next Gate-E batch
 
-Audit **scan pp.151–165 / printed pp.150–164** directly against the controlling scan. Then audit pp.166–171. Only after the entire range **136–171** passes may Tamil be marked `verified`.
+Audit the final **scan pp.166–171 / printed pp.165–170** directly against the controlling scan. Deliberately check the still-unverified unusual first-pass forms on pp.167–170, including the transliterated meat-industry organisation/place sequence, `வறுமை தேன் எனக் கொட்டுகிறது`, `side effects`, `anti-biotic`, `சிண்டாக்`, and the State Planning Commission names/parenthetical roles. Only after the entire range **136–171** passes may Tamil be marked `verified`.
 
 ## Gate F — English translation
 
