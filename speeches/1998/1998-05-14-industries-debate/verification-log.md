@@ -94,8 +94,37 @@ A separate closure pass was performed after all 42 pages had completed bounded v
 - Gate E: **passed**;
 - Tamil: **verified against scan**.
 
-English Gate F is now unblocked. Translation must use only the final verified Tamil as its source; OCR and earlier Tamil drafts remain non-authoritative.
+## Gate F — English translation
 
-## Next activity — Gate F English translation
+Status: **complete**.
 
-Begin the repository-defined **Gate F** workflow for Speech 7. Translate the verified Tamil in source-page correspondence, preserve parliamentary context and source claims, retain names/figures/technical terminology consistently, and do not silently correct historical or factual claims. Gate G remains required before English can be marked verified. Do not begin Speech 8.
+English was translated only from the final verified Tamil in nine bounded batches covering source pp.199–240. All 42 source pages are represented with source-page correspondence. Gate-F unresolved translation questions: **0**.
+
+## Gate G — full-speech English fidelity verification
+
+Status: **passed**.
+
+The complete English `translation.md` was re-read against the final verified Tamil `transcript.md` in source-page order for **pp.199–240**. The review checked completeness, page correspondence, cross-page continuations, speaker changes/interventions, names and initials, dates, percentages, money, acreage, employment figures, megawatt figures, project/company/institution names, technical terminology, printed English, argument order, humour/context markers and the exact closing boundary.
+
+The review also specifically reconfirmed the source-sensitive areas documented in `translation-review.md`, including the Arakkonam loss figures, sugarcane/sugar-mill passages, foreign-investment analogies, Business India / Economic Intelligency Unit material, public-sector/SIPCOT chronology, the verified Hyundai **532-acre** p.214 reading, the source's separate **543-acre** p.222 figure, all fifteen power projects and their megawatt figures, the industrial-project list, biotechnology/venture-capital/ITIT/TANITEC material, `Y2 K-1`, TIDEL/Coimbatore software parks, `Single Window System`, the Ponnammal humour and the complete printed-English `THIRU B. VENKATASAMY` intervention.
+
+Gate-G findings:
+
+- English pages checked: **42/42**;
+- missing/duplicate/reordered pages: **0**;
+- p.241 / Speech-8 spillover: **0**;
+- unresolved translation questions: **0**;
+- definite Gate-G English corrections required: **0**;
+- verified against final Tamil: **yes**.
+
+### Gate-G final result
+
+- Gate G: **passed**;
+- English: **verified against final verified Tamil**;
+- Gate-G correction count: **0**.
+
+See [`translation-review.md`](./translation-review.md) for the dedicated Gate-G audit record.
+
+## Next activity — Gate H / release canonicalisation
+
+Perform the repository-defined Gate H work for Speech 7: reconcile the verified English layer into the canonical speech presentation, update `data/speeches.json` and the root speech index as appropriate, ensure all status/source-path/page-range fields agree across files, and leave Speech 7 in a release-ready state. Do not modify the verified Tamil content while doing this work. Do not begin Speech 8 until Gate H for Speech 7 is complete.
