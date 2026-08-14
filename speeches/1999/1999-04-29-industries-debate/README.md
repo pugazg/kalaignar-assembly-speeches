@@ -30,37 +30,33 @@
 
 ## Current status
 
-Speech 8 Gate C Tamil first-pass transcription is **in progress**.
+Speech 8 Gate C Tamil first-pass transcription is **in progress, with the final batch transcribed and staged pending canonical merge**.
 
 - Gate C Batch 1: **complete — scan pp.241–255 / printed pp.240–254**.
-- Gate C Batch 2: **complete — scan pp.256–270 / printed pp.255–269**.
-- Gate C current total: **30/37 pages**.
-- Gate C next scan page: **271**.
-- Gate-C unresolved/`[REVIEW]` readings: **0**.
+- Gate C Batch 2: **complete and canonical — scan pp.256–270 / printed pp.255–269**.
+- Gate C Batch 3: **transcribed and staged — scan pp.271–277 / printed pp.270–276**.
+- Canonical `transcript.md` currently covers **30/37 pages, scan pp.241–270**.
+- Staged Batch-3 file: [`gate-c-batch3-pp271-277.md`](./gate-c-batch3-pp271-277.md).
+- Batch-3 unresolved/`[REVIEW]` readings: **0**.
 - Gate D completeness/page-marker audit: **not started**.
 - Gate E strict Tamil source-fidelity verification: **not started**.
 - Tamil verified: **no**.
 - English Gate F: **blocked until the complete Tamil passes Gates D and E**.
 
-The current text is a first-pass transcription only. It must not be described as verified merely because the mapped pages have been transcribed.
+The final seven pages were transcribed directly from rendered scan images. They include the `தமிழ்நெட் 1999` / Unicode / `Tamil Virtual University` passages, the school-computer-training court discussion, the granite-lease case and printed High Court English quotations, the final granite-policy remarks, and the Opposition Leader's salt-pan intervention and closing reply.
 
-## Batch-2 continuation lock
+The staged text stops exactly at scan p.277 after the closing `உப்பளத் தொழில் / அப்பளத் தொழில்` reply and `(மேசையைத் தட்டும் ஒலி).` Scan p.278 begins Speech 9 and was not entered.
 
-Scan p.270 ends with:
+The current text remains first-pass transcription only. It must not be described as verified merely because all mapped pages now have first-pass text available.
 
-`...தமிழகம் முழுவதும் இணைய மயமாக ஆகின்ற அந்த விஞ்ஞானப் புதுமையையும் இந்த அரசு உங்கள் ஆதரவோடு செய்து காட்டும் என்பதை நான் தெரிவித்துக் கொள்கிறேன். (மேசையைத் தட்டும் ஒலி).`
+## Exact next activity
 
-Scan p.271 continues:
-
-`கணினிப் பயன்பாடுகளில் உலக அளவில் போதுமான தமிழ் குறியீடுகள் இல்லாத குறையைப் போக்குவதற்காகத்தான் “தமிழ்நெட் 1999” என்ற ஒரு மாநாட்டை நாம் நடத்தினோம்.`
-
-## Next activity
-
-Proceed with the **final Gate C Batch 3: scan pp.271–277 / printed pp.270–276**. This batch should complete the first-pass Tamil for Speech 8. Preserve source wording and printed English exactly as supported by the scan; mark uncertainty rather than guessing. Stop exactly at the Speech-8 closing boundary on p.277 and do not enter p.278 / Speech 9. After Batch 3, perform Gate D before any Gate E or English work.
+Merge staged **pp.271–277** into canonical `transcript.md`, confirm the exact monotonic source-page sequence **241–277** with no p.278 spillover, mark Gate C complete at **37/37 pages** and Tamil status `transcribed` (not verified), remove the temporary staging file, and then perform the separate Gate D full-speech completeness/page-marker audit. Do not begin Gate E or English before Gate D is complete.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — Tamil Gate C in progress; pp.241–270 currently transcribed.
+- [`transcript.md`](./transcript.md) — canonical Tamil Gate C text through p.270.
+- [`gate-c-batch3-pp271-277.md`](./gate-c-batch3-pp271-277.md) — final Gate-C batch staged for safe canonical merge.
 - [`metadata.json`](./metadata.json) — source mapping and current Gate-C status.
-- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and continuation point.
+- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and continuation/closure notes.
 - [`verification-log.md`](./verification-log.md) — Gate-C progress and later audit trail.
