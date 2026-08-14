@@ -167,6 +167,24 @@ The final boundary was rechecked directly: scan p.198 ends with `நன்றி
 - `verified_against_scan`: **true**;
 - Tamil status: **verified**.
 
+## Gate F — English translation
+
+Status: **complete; English not yet verified**.
+
+A complete first-pass English translation was produced in [`translation.md`](./translation.md) exclusively from the final Gate-E-verified Tamil in canonical `transcript.md`. The translation contains exactly **27 source-page sections, 172–198**, in source order. A structural assertion checked that the headings are exactly 172, 173, …, 198, that no p.199/Speech-7 section is present, and that no `[REVIEW]` marker is present.
+
+The Gate-F translation preserves the parliamentary sequence, names and figures, technical terminology, lists, humour/context markers and source claims. Printed English already embedded in the Tamil source was reproduced in source form rather than silently repaired; deliberate examples include `Financial Time`, `Bernard Fintlay`, `transparent appoach`, `Liquified Natural Gas`, the Mark Nicholson quotations/headline, `Single Window Clearance`, `Industrial Township`, `Executive Authority`, `(Seigniorage fee)`, `(Transport Permit)`, `(Technology Parks)`, `(Software Techno Parks)`, and the LNG bidder list.
+
+Gate-F result:
+
+- translated source pages: **172–198**, **27/27**;
+- source-page correspondence: **complete and structurally asserted**;
+- unresolved translation questions recorded at Gate F: **0**;
+- English status: **complete, unverified**;
+- `verified_against_tamil`: **false** until Gate G passes.
+
+Gate F does not confer English verification.
+
 ## Next activity
 
-Proceed to **Gate F — English translation from the final verified Tamil**. Translate only from canonical verified `transcript.md`, preserve the parliamentary sequence and source claims, and do not silently repair historical/source anomalies. Gate G English fidelity verification will still be required after Gate F. Do not begin Speech 7 or Gate-H root index/release work yet.
+Proceed to **Gate G — full English fidelity verification against the final verified Tamil**. Re-read every English source-page section 172–198 against canonical verified Tamil, correct omissions/additions/mistranslations and inconsistencies in names, figures, technical terms, quotations, anomalies and page boundaries, and record every correction. Only after Gate G passes may English be marked `verified` and incorporated after the Tamil source layer in canonical `transcript.md`. Do not begin Speech 7 or Gate-H root index/release work yet.

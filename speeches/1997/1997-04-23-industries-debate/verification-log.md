@@ -173,6 +173,34 @@ The strict audit deliberately retained, among others:
 
 Gate E **passes** for the complete Speech-6 Tamil, scan pp.**172–198** / printed pp.**171–197**. All **27/27** pages have undergone direct page-by-page visual verification. Total Gate-E corrections: **6**. Tamil status is now **verified against the scan**.
 
-## Exact next activity — Gate F English translation
+## Gate F — English translation
 
-Begin **Gate F — English translation from the final verified Tamil**. Translate from canonical verified `transcript.md`, not OCR or an earlier draft. Preserve argumentative sequence, parliamentary context, names, figures, technical terms and source claims. Do not silently correct historical statements or source anomalies. Gate G will later require a full English fidelity check against the verified Tamil. Do not begin Speech 7 or Gate-H release/index work yet.
+Status: **complete; not yet verified**.
+
+A complete first-pass English rendering was created in [`translation.md`](./translation.md) from the **final verified Tamil**, covering every source page **172–198**. Gate F did not use OCR or an earlier Tamil draft as its translation authority.
+
+### Gate-F structural assertions
+
+- expected English source-page headings: **27**;
+- actual English source-page headings: **27**;
+- exact heading sequence: **172–198**;
+- missing / duplicate / reordered headings: **0 / 0 / 0**;
+- p.199 / Speech-7 spillover: **absent**;
+- `[REVIEW]` markers in working English: **0**;
+- unresolved translation questions recorded at this gate: **0**.
+
+### Translation-fidelity principles used
+
+The first-pass English preserves argumentative and parliamentary sequence, source claims, names, dates, percentages, rupee values, acreage, megawatts, technical terms, the p.180–181 15-item Joint Sector list, the p.193 13-item LNG bidder list, and contextual markers such as desk-thumping and laughter. Printed English passages already present in the Tamil source are reproduced in source form, including visible anomalies such as `Financial Time`, `Bernard Fintlay`, `transparent appoach`, and `Liquified Natural Gas`; Gate F does not silently repair them from outside knowledge.
+
+### Gate-F result
+
+- translated pages: **27/27**, scan pp.172–198 / printed pp.171–197;
+- working file: `translation.md`;
+- English status: **complete-unverified**;
+- `verified_against_tamil`: **false**;
+- Gate G: **required**.
+
+## Exact next activity — Gate G English fidelity verification
+
+Re-read **all 27 English source-page sections, 172–198**, against the final verified Tamil in canonical `transcript.md`. Check completeness, additions/omissions, page-boundary continuity, names/initials, figures, dates, percentages, monetary values/units, technical and industrial terminology, quotations, printed English passages, source anomalies, humour/context markers and the final p.198 closing. Apply and itemise every correction in this log. Only after the complete comparison passes may English be marked `verified` and merged after the Tamil source layer in canonical `transcript.md`. Do not begin Speech 7 or Gate-H release/index work yet.
