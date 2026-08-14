@@ -131,6 +131,48 @@ The strict audit deliberately retains source-supported forms rather than moderni
 - Tamil status remains **transcribed, not fully verified** because scan pp.187–198 have not yet passed Gate E;
 - English remains **blocked** until Gate E covers all 27 pages.
 
-## Exact next activity — Gate E Batch 2
+## Gate E Batch 2 — scan pp.187–198 / printed pp.186–197
 
-Continue strict Tamil visual/source-fidelity verification with **scan pp.187–198 / printed pp.186–197**. Apply only source-supported corrections, record every correction and retained unusual source form, explicitly record unresolved readings, and verify the p.198 ending / p.199 Speech-7 boundary again. If all remaining pages pass with no unresolved readings, Gate E may close and Tamil may then be marked `verified`; only after that may Gate F English translation begin.
+Status: **complete; Gate E passed**.
+
+The remaining **12** scan pages were directly audited against the rendered controlling scan. The scan, not OCR or reconstructed text, controlled every decision.
+
+### Source-supported corrections
+
+1. **scan p.192 / printed p.191** — `திரவமயமாக்கப்பட்ட எரிவாயு` → `திரவமயமாக்கப் பட்ட எரிவாயு`. The scan visibly prints `திரவமயமாக்கப் பட்ட` with a space on the same line; this is not a physical line-wrap normalisation.
+2. **scan p.198 / printed p.197** — `இனிமேல் பின்னாக இருக்க மாட்டீர்கள்` → `இனிமேல் பின்னாக இருக்க மாட்டார்கள்`.
+
+Batch-2 correction count: **2**. Cumulative Gate-E correction count: **6**.
+
+### Visually confirmed source forms retained
+
+The strict audit deliberately retained, among others:
+
+- p.187 `(Flori-Culture)`, `ப்ளை ஆஷ்பேஸ்ட் பிளாக்ஸ்`, `38.42`, `630`, `10,000`, `2450`;
+- p.188 `Financial Time 10 ஏப்ரல் 1997`, the printed Mark Nicholson quotations, `Bernard Fintlay`, and `Madras revs up to achieve car ambitions`;
+- p.189 `Single Window Clearance`, `Industrial Township`, `(Consultants)`, `35.41`, `14 சதவீதம்`, `96 சதவீதம்`;
+- p.190 `Executive Authority`, `Load`, `(Seigniorage fee)`, `(Transport Permit)`, `(ஐ.டி.ஐ)`;
+- pp.191–192 `(Technology Parks)`, `(Software Techno Parks)`, `L.N.G. (Liquified Natural Gas)`, `2 மில்லியன் டன்`, `2,500 மெகாவாட்`, `12,000 கோடி`;
+- p.193 the complete 13-item L.N.G. bidder list with its printed spellings;
+- p.194 `1989-90-91-ல்`, `முதலிப் பாளையத்தில்`, `(Construction Blocks)`, and the Jayankondam wording;
+- p.195 `விடிவுகாலம்`, `Singapore Indian Chamber of Commerce`, `(Window)`, `7,000 ஏக்கர்`, `சையம்பெல்கம்ப்`;
+- p.196 `(Naphtha Crackers & Olefins)`, `(ஹேலைடு லாம்ப்)`, `Biaxially oriented poly propylene - (Bopp)`, `பிஸ்பினால்-ஏ (Bisphenol-A)`, `சக்தியூட்டப்பட்ட கரி`, `(Siscal)`, `தேனிரும்புத் தொழிற்சாலை`;
+- p.197 `பல்க்டிரக் இண்டார்மீடியட்ஸ்`, `'டான்சம்'`, `(சிரிப்பு)`, `விடேன் தொடேன்`;
+- p.198 the final Krishnagiri mango-factory assurance and closing desk-thump.
+
+### Boundary and completeness checks
+
+- p.186→187 continuation remains intact: `அவற்றுள் சிலவற்றை` → `மாத்திரம் இங்கே உங்கள் முன்னால் வைக்க விரும்புகிறேன்.`;
+- scan p.198 ends `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).` followed by the decorative ornament;
+- scan p.199 begins `உரை : 7`, `நாள் : 14.05.1998`;
+- source-page markers remain exactly **172–198**;
+- Speech-7 spillover: **none**;
+- unresolved/`[REVIEW]` readings: **0**.
+
+## Gate-E final result
+
+Gate E **passes** for the complete Speech-6 Tamil, scan pp.**172–198** / printed pp.**171–197**. All **27/27** pages have undergone direct page-by-page visual verification. Total Gate-E corrections: **6**. Tamil status is now **verified against the scan**.
+
+## Exact next activity — Gate F English translation
+
+Begin **Gate F — English translation from the final verified Tamil**. Translate from canonical verified `transcript.md`, not OCR or an earlier draft. Preserve argumentative sequence, parliamentary context, names, figures, technical terms and source claims. Do not silently correct historical statements or source anomalies. Gate G will later require a full English fidelity check against the verified Tamil. Do not begin Speech 7 or Gate-H release/index work yet.

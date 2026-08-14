@@ -143,6 +143,30 @@ Batch-1 result:
 - Tamil remains **transcribed, not fully verified**;
 - English remains blocked.
 
+### Batch 2 — scan pp.187–198 / printed pp.186–197
+
+Status: **complete; Gate E passed**.
+
+All 12 remaining pages were rendered from and directly compared with the controlling scan. The audit checked individual Tamil characters/words, names and initials, figures, dates, money, units, embedded English, transliterations, punctuation where legible, contextual markers and every page transition.
+
+Two source-supported corrections were applied to canonical `transcript.md`:
+
+1. p.192 `திரவமயமாக்கப்பட்ட எரிவாயு` → `திரவமயமாக்கப் பட்ட எரிவாயு`, preserving the visible source spacing on the same printed line;
+2. p.198 `இனிமேல் பின்னாக இருக்க மாட்டீர்கள்` → `இனிமேல் பின்னாக இருக்க மாட்டார்கள்`.
+
+The audit explicitly confirmed and retained source forms including `(Flori-Culture)`, `ப்ளை ஆஷ்பேஸ்ட் பிளாக்ஸ்`, `Financial Time 10 ஏப்ரல் 1997`, the Mark Nicholson English quotations and heading, `Single Window Clearance`, `Industrial Township`, `Executive Authority`, `Load`, `(Seigniorage fee)`, `(Transport Permit)`, `(Technology Parks)`, `(Software Techno Parks)`, `L.N.G. (Liquified Natural Gas)`, the complete p.193 13-item bidder list, `விடிவுகாலம்`, `Singapore Indian Chamber of Commerce`, `(Window)`, `(Naphtha Crackers & Olefins)`, `Biaxially oriented poly propylene - (Bopp)`, `பிஸ்பினால்-ஏ (Bisphenol-A)`, `(Siscal)`, `பல்க்டிரக் இண்டார்மீடியட்ஸ்`, `'டான்சம்'`, `(சிரிப்பு)`, and `விடேன் தொடேன்`.
+
+The final boundary was rechecked directly: scan p.198 ends with `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).` followed by the decorative ornament; scan p.199 begins `உரை : 7`, `நாள் : 14.05.1998`. No Speech-7 material is included in Speech 6.
+
+### Gate-E final result
+
+- audited scan pages: **172–198**, **27/27**;
+- printed pages: **171–197**;
+- total concrete source-supported corrections: **6** (Batch 1: 4; Batch 2: 2);
+- unresolved/`[REVIEW]` readings: **0**;
+- `verified_against_scan`: **true**;
+- Tamil status: **verified**.
+
 ## Next activity
 
-Proceed to **Gate E Batch 2 — strict Tamil visual/source-fidelity verification for scan pp.187–198 / printed pp.186–197**. Apply only source-supported corrections; document every correction and unusual retained source form; explicitly record any unresolved reading; and re-confirm the p.198 ending / p.199 Speech-7 boundary. Only after all remaining pages pass may Tamil be marked `verified` and Gate F English become eligible.
+Proceed to **Gate F — English translation from the final verified Tamil**. Translate only from canonical verified `transcript.md`, preserve the parliamentary sequence and source claims, and do not silently repair historical/source anomalies. Gate G English fidelity verification will still be required after Gate F. Do not begin Speech 7 or Gate-H root index/release work yet.
