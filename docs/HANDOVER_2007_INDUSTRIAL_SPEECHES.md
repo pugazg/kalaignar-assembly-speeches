@@ -33,7 +33,7 @@ Speeches **1–6** are fully released with verified Tamil and verified English. 
 - Gate-E corrections: **5**
 - Tamil unresolved/`[REVIEW]`: **0**
 - Tamil status: **verified**
-- English Gate F: **in progress — pp.199–218 translated, 20/42 pages**
+- English Gate F: **in progress — pp.199–223 translated, 25/42 pages**
 - English Gate G: **not started**
 - unresolved translation questions: **0**
 
@@ -61,29 +61,29 @@ English working file: `speeches/1998/1998-05-14-industries-debate/translation.md
 - Batch 1: source pp.199–203 — complete.
 - Batch 2: source pp.204–208 — complete.
 - Batch 3: source pp.209–213 — complete.
-- Batch 4: source pp.214–218 — complete and merged into canonical `translation.md`.
-- Total translated: **20/42 pages**.
-- Exact continuation: **source/scan p.219 / printed p.218**.
+- Batch 4: source pp.214–218 — complete.
+- Batch 5: source pp.219–223 — complete.
+- Total translated: **25/42 pages**.
+- Exact continuation: **source/scan p.224 / printed p.223**.
 
-Batch 4 preserves the p.213→214 M.R.L. oil-refinery continuation, 250 MW oil-residue proposal, SIPCOT complex figures, verified Hyundai `532 acres`, investment/export data, Business Today `Objective / Perception / Rank` wording, and FDI figures/argument. A concurrent SHA change initially prevented the merge, so pp.214–218 were staged in `gate-f-batch4-pp214-218.md`; the batch was subsequently merged safely into current canonical `translation.md` without overwriting pp.199–213.
+Batch 5 preserves the p.218→219 FDI-benefits continuation, the Salem integrated-steel proposal, the source’s 20/15 short-term power-project list and company forms, the Kumaramangalam reference, SIPCOT agreement chronology, Hyundai figures, the Integrated Iron and Steel Plant / Rynex International material, Fenner Refineries Limited, Nanguneri Hi-Tech Technology Industrial Park, and Mahindra Industries Park Limited through the end of source p.223. Source spellings and internally unusual claims were translated without external correction.
 
 Current Gate-F checkpoints:
 
-- Batch-4 staged translation: `3ebb821cb1ba435efc2cb0adf2662143feca71a1`
-- canonical Batch-4 merge: `ce433f91838e31220e5a04e14c2fb6a82a77cb20`
-- metadata after Batch 4: `e67e9eafe32aac2a1314b944bf25d65c01de9a6d`
-- README after Batch 4: `a191610a09f2f14769a96dbd6f6d08a96a64c4a0`
+- Batch-5 canonical translation: `5d9646f168e847ad2bf39381ac906787605c4206`
+- metadata after Batch 5: `03fcbf02668532d4d0b5da7a337995229d1dd0cd`
+- README after Batch 5: `4fbb06eb5c67787feb473860fdbf1056dee9d627`
 
-## Exact next activity — Speech 7 Gate F Batch 5
+## Exact next activity — Speech 7 Gate F Batch 6
 
 1. Continue from current canonical `translation.md`; do not restart Gate F.
 2. Translate only from final verified Tamil.
-3. Translate bounded source/scan **pp.219–223 / printed pp.218–222**.
+3. Translate bounded source/scan **pp.224–228 / printed pp.223–227**.
 4. Preserve source-page correspondence, names, initials, dates, figures, percentages, monetary amounts, acreage/units, project/company names, technical terms, parliamentary context and printed English.
-5. Preserve the p.218→219 continuation and any later cross-page continuations exactly enough to remain source-faithful.
+5. Preserve the p.223→224 continuation and any later cross-page continuations exactly enough to remain source-faithful.
 6. Do not silently correct source claims or unusual company/name forms.
 7. Record unresolved translation questions explicitly rather than guessing.
-8. After Batch 5, update `translation.md`, `metadata.json`, README/handover/prompt and set the next exact source page.
+8. After Batch 6, update `translation.md`, `metadata.json`, README/handover/prompt and set the next exact source page.
 9. Gate F is a first pass only. Do not mark English verified until separate Gate G passes after all 42 pages are translated.
 10. Do not begin Speech 8.
 
@@ -93,4 +93,4 @@ The verified Tamil body is authoritative. The short archival note at the top of 
 
 ## End-of-handoff state
 
-Speech 7 Tamil is verified. English Gate F is active with **pp.199–218 complete**. Resume exactly at **p.219** for Batch 5, pp.219–223.
+Speech 7 Tamil is verified. English Gate F is active with **pp.199–223 complete**. Resume exactly at **p.224** for Batch 6, pp.224–228.
