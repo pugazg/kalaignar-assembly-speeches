@@ -26,24 +26,24 @@
 | PDF scan pages | 199–240 |
 | Printed pages | 198–239 |
 
-இந்த உரையில் scan page = printed page + 1.
+இந்த உரையில் scan page = printed page + 1. Scan p.241 begins Speech 8 and is not part of this entry.
 
-## Current status
+## Release status
 
-Speech 7 Tamil and English have both completed their verification gates.
+**Speech 7 is release-ready. Gates C–H are complete.**
 
-- Gate C: **complete — 42/42 first-pass Tamil pages**.
-- Gate D completeness/page-marker audit: **passed**.
+- Gate C: complete — **42/42 Tamil pages**.
+- Gate D: **passed**.
 - Gate E: **passed — 42/42 Tamil pages verified against scan**.
-- Gate E cumulative corrections: **5**.
-- Gate E unresolved/`[REVIEW]` readings: **0**.
-- English Gate F: **complete — source/scan pp.199–240 translated (42/42 pages)**.
-- English Gate G: **passed — 42/42 pages checked against the final verified Tamil**.
-- Gate G corrections: **0**.
+- Gate-E corrections: **5**.
+- Tamil unresolved readings: **0**.
+- Gate F: **complete — 42/42 English pages**.
+- Gate G: **passed — English verified against final verified Tamil**.
+- Gate-G corrections: **0**.
 - Unresolved translation questions: **0**.
-- English verified: **yes**.
+- Gate H: **passed — canonical presentation and repository indexes reconciled**.
 
-## Gate E — canonical corrections
+## Gate E — canonical Tamil corrections
 
 1. p.202 `விற்கப்படுகின்ற` → `விற்கப்படுகிற`;
 2. p.205 `தெரிவித்து உண்மை` → `தெரிவித்தது உண்மை`;
@@ -51,35 +51,27 @@ Speech 7 Tamil and English have both completed their verification gates.
 4. p.214 Hyundai land allotment `552 ஏக்கர்` → `532 ஏக்கர்`;
 5. p.227 `புயூஜிகுரா லிமிடெட்` → `ப்யூஜிகுரா லிமிடெட்`.
 
-The full Gate-E closure reconciled all three visual-audit batches, confirmed exact source-page coverage 199–240, zero unresolved readings, no p.241/Speech-8 spillover, and intact opening/closing parliamentary sequences.
+The full Gate-E closure confirmed exact source-page coverage 199–240, zero unresolved readings, no p.241/Speech-8 spillover, and intact opening and closing parliamentary sequences.
 
-## Gate F / Gate G — English translation
+## English verification
 
-English was translated only from the **final verified Tamil** in [`translation.md`](./translation.md), preserving source-page correspondence for all **42/42 pages**.
+Gate F translated only from the final verified Tamil. Gate G then checked all **42/42** English source-page sections against the final verified Tamil. It found **0 definite fidelity corrections** and **0 unresolved translation questions**. The p.240 printed-English `THIRU B. VENKATASAMY` intervention and final Hosur ELCOT/ELNET exchange are retained, and the English stops at the Speech-7 boundary.
 
-Gate G then re-read the complete English against the verified Tamil across source pp.199–240. The audit checked page correspondence, omissions/duplications, cross-page continuations, parliamentary speaker changes, names, dates, figures, percentages, acreage, employment and megawatt values, project/company and technical names, printed English, argument sequence, humour/context markers and the exact p.240 closing boundary.
+See [`translation-review.md`](./translation-review.md) for the Gate-G review record.
 
-Gate-G result:
+## Gate H — canonical release
 
-- source pages verified: **199–240**;
-- page count: **42/42**;
-- missing/duplicate/reordered English pages: **0**;
-- unresolved translation questions: **0**;
-- definite Gate-G corrections required: **0**;
-- Speech-8 spillover: **0**;
-- English status: **verified against final verified Tamil**.
+The verified English layer now follows the verified Tamil source layer in canonical [`transcript.md`](./transcript.md), matching the repository's completed-speech convention. `data/speeches.json` and the root speech index include Speech 7 as Tamil/English verified. Source ranges, status fields and canonical path have been reconciled across the entry.
 
-See [`translation-review.md`](./translation-review.md) for the dedicated Gate-G review record.
+## Files
 
-## Next activity
-
-Proceed with **Gate H / release canonicalisation** for Speech 7. Reconcile the verified English layer into the repository's canonical speech presentation, update `data/speeches.json` and the root speech index as appropriate, verify that source paths/page ranges and status fields agree across the entry, and leave Speech 7 release-ready. Do not modify the verified Tamil content. Do not begin Speech 8 until Gate H for Speech 7 is complete.
-
-## கோப்புகள்
-
-- [`transcript.md`](./transcript.md) — complete Tamil source layer, verified against scan pp.199–240.
-- [`translation.md`](./translation.md) — complete English translation, verified against final Tamil pp.199–240.
+- [`transcript.md`](./transcript.md) — canonical verified Tamil followed by verified English.
+- [`translation.md`](./translation.md) — verified English working companion.
 - [`translation-review.md`](./translation-review.md) — Gate-G full-speech English fidelity review.
-- [`metadata.json`](./metadata.json) — Tamil verified; Gate F complete; Gate G passed.
-- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and verification record.
-- [`verification-log.md`](./verification-log.md) — Gate-C/D/E/F/G audit trail.
+- [`metadata.json`](./metadata.json) — verified Tamil/English and Gate-H release status.
+- [`source-notes.md`](./source-notes.md) — source authority and locked boundaries.
+- [`verification-log.md`](./verification-log.md) — Gate-C through Gate-H audit trail.
+
+## Next anthology unit
+
+Speech 7 is complete. The next mapped unit is **உரை : 8 / 29.04.1999**, canonical ID `1999-04-29-industries-debate`, scan pp.241–277 / printed pp.240–276. Do not alter this verified Speech-7 entry when beginning Speech 8.
