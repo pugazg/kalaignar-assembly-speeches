@@ -29,42 +29,50 @@
 
 ## Current transcription status
 
-Speech 6 Gates C and D are complete. Tamil remains **transcribed**, not verified; Gate E has not yet started.
+Speech 6 Gates C and D are complete. Gate E is **in progress**: Batch 1 has completed the direct strict visual audit of scan pp.172–186 / printed pp.171–185. Tamil remains **transcribed, not fully verified** until the remaining scan pp.187–198 pass Gate E.
 
 - Full mapped speech: **27 scan pages**, pp.172–198 / printed pp.171–197.
-- Gate C Batch 1: **complete — 15 pages**, scan pp.172–186 / printed pp.171–185.
-- Gate C Batch 2: **complete — 12 pages**, scan pp.187–198 / printed pp.186–197.
-- Gate C total: **27/27 pages represented**.
+- Gate C: **complete — 27/27 pages represented**.
 - Gate D full-speech completeness/page-marker audit: **passed**.
-- Source-page markers: exactly **172–198**, 27 markers, unique and monotonic with no gap or duplication.
+- Gate E Batch 1: **complete — 15/15 batch pages**, scan pp.172–186 / printed pp.171–185.
+- Gate E coverage: **15/27 pages**.
+- Gate E Batch-1 source-supported corrections: **4**.
+- Gate E unresolved/`[REVIEW]` readings: **0**.
+- Next Gate-E page: **scan p.187 / printed p.186**.
+- Source-page markers remain exactly **172–198**, unique and monotonic with no gap or duplication.
 - Opening boundary: scan p.172 begins `உரை : 6`, `நாள் : 23.04.1997`, followed by the printed Kalaignar speaker label.
 - Ending boundary: scan p.198 ends the speech with `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).` and the decorative ornament; scan p.199 begins `உரை : 7`, `14.05.1998`.
 - Speech-7 spillover in canonical transcript: **none**.
-- The source remains one continuous Kalaignar speech after the opening speaker label; printed contextual markers such as `(மேசையைத் தட்டும் ஒலி)` and `(சிரிப்பு)` remain represented.
-- Explicit unreadable/`[REVIEW]` markers: **0**.
-- Tamil status: **transcribed** — complete and structurally audited, but not source-fidelity verified.
-- Gate E strict visual/source-fidelity verification: **not started**.
-- English translation: **blocked until Gate E passes**.
+- English translation: **blocked until the complete Gate-E audit passes**.
 
-The complete first pass was transcribed directly from rendered images of the controlling scan. Printed wording, historical spelling, punctuation, numerals, headings, names, technical terms, contextual markers and embedded English were retained rather than silently normalised.
+## Gate E Batch 1 — strict source-fidelity result
 
-Batch 2 continues the p.186 sentence from `அவற்றுள் சிலவற்றை` into p.187 `மாத்திரம் இங்கே உங்கள் முன்னால் வைக்க விரும்புகிறேன்.` and carries the speech through the industrial-project announcements, Single Window Clearance / Industrial Township discussion, quarry administration, industrial training, technology/software parks, L.N.G. project and bidder list, satellite towns, Jayankondam lignite project, Singapore investment window, TIDCO projects, Sterlite and other factory proposals, and the closing exchanges.
+All scan pages **172–186** were directly compared with canonical `transcript.md`. The audit checked words/characters, names, numerals, dates, percentages, rupee values, units, headings, the speaker label, embedded English, transliterations, punctuation where legible, contextual markers and page transitions.
 
-Source-supported printed forms retained in Batch 2 include `Financial Time 10 ஏப்ரல் 1997`, the printed Mark Nicholson quotations, `Single Window Clearance`, `Industrial Township`, `Executive Authority`, `(Seigniorage fee)`, `(Transport Permit)`, `(Technology Parks)`, `(Software Techno Parks)`, `L.N.G. (Liquified Natural Gas)`, the 13-item LNG bidder list, `Singapore Indian Chamber of Commerce`, `(Naphtha Crackers & Olefins)`, `Biaxially oriented poly propylene - (Bopp)`, `பிஸ்பினால்-ஏ (Bisphenol-A)`, and the source forms `விடிவுகாலம்`, `பல்க்டிரக் இண்டார்மீடியட்ஸ்`, and `விடேன் தொடேன்`.
+Four source-supported corrections were applied:
+
+1. p.173 `சென்னை எண்ணெய் சுத்திகரிப்பு நிறுவனம்` → `சென்னை எண்ணெய்ச் சுத்திகரிப்பு நிறுவனம்`;
+2. p.175 `உலக அளவிலான வீழ்ச்சி இல்லை` → `உலக அளவிலான விழுக்காடு வீழ்ச்சி இல்லை`;
+3. p.175 `'சிப்காட்'னுடைய` → `'சிப்காட்'டினுடைய`;
+4. p.177 `'சிப்காட்'ன் சார்பாக` → `'சிப்காட்'டின் சார்பாக`.
+
+The audit also deliberately retained visually supported source forms, including `நாம் மிக அடுத்த நிலையிலே இருக்கிறோம்`, `'ஷைலக்'`, `'கொரமாண்டல் பாலிபேக்ஸ்'`, `Capital Subsidy`, `State Industries Promotion Corporation of Tamil Nadu`, `Small Industries Development Corporation`, `Joint Sector -லே`, `Associate Sector 11%`, `Electronic Corporation of Tamil Nadu`, the p.180–181 15-item industry list, `Economist Intelligence Unit`, `India uncaged`, `Seeking opportunities in the South`, `Industry-Friendly Policies`, and the printed p.186 misspelling `transparent appoach`.
+
+The p.186→187 continuation remains source-supported: p.186 ends `அவற்றுள் சிலவற்றை`; p.187 begins `மாத்திரம் இங்கே உங்கள் முன்னால் வைக்க விரும்புகிறேன்.`
 
 ## Gate D — completeness audit result
 
 Gate D checked the complete canonical speech as a structural unit rather than performing character-level source verification. It confirmed all **27** mapped scan pages are represented exactly once and in source order, the p.172 opening and p.198/p.199 ending boundary match the locked anthology map, no Speech-7 material is present, the continuous speaker/context structure is retained through the ending, and unresolved markers remain **0**.
 
-Gate D does **not** make the Tamil `verified`. That status is reserved for Gate E's direct page-by-page visual comparison against the scan.
+Gate D does **not** make the Tamil `verified`. That status is reserved for completion of Gate E across the full scan pp.172–198.
 
 ## Next activity
 
-Proceed to **Gate E — strict Tamil visual/source-fidelity verification**. Begin with a bounded direct visual audit of **scan pp.172–186 / printed pp.171–185**, recording every source-supported correction and retaining unusual printed forms rather than silently normalising them. English translation remains blocked until the complete Gate-E audit passes.
+Proceed to **Gate E Batch 2 — strict Tamil visual/source-fidelity verification of scan pp.187–198 / printed pp.186–197**. Record every source-supported correction and unusual retained source form, explicitly record any unresolved reading, and re-confirm the p.198 ending / p.199 Speech-7 boundary. English translation remains blocked until Gate E passes completely.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — complete Gate-C first-pass Tamil, structurally audited at Gate D, scan pp.172–198.
-- [`metadata.json`](./metadata.json) — source metadata, Gate D passed, Tamil still `transcribed`.
-- [`source-notes.md`](./source-notes.md) — source authority, boundaries and Gate-C/Gate-D notes.
-- [`verification-log.md`](./verification-log.md) — Gate-C record, Gate-D audit and Gate-E continuation point.
+- [`transcript.md`](./transcript.md) — complete Tamil transcription; Gate E verified subset currently pp.172–186.
+- [`metadata.json`](./metadata.json) — source metadata and current Gate-E progress.
+- [`source-notes.md`](./source-notes.md) — source authority, boundaries and audit notes.
+- [`verification-log.md`](./verification-log.md) — itemised Gate-C/D/E audit record and exact continuation point.
