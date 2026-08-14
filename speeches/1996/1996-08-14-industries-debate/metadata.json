@@ -36,27 +36,27 @@
     "speech_printed_pages": "135-170",
     "relationship": "For this speech, scan page = printed page + 1.",
     "source_authority": "scan image",
-    "working_source_note": "The current uploaded raw PDF was directly verified as the full 329-page source. A chat preview limit that exposed images only through scan p.150 did not limit the raw PDF; scan pp.151-165 were rendered directly from it for Batch 2."
+    "working_source_note": "The uploaded raw PDF was directly verified as the full 329-page source. A chat preview limit that exposed images only through scan p.150 did not limit the raw PDF; later batches were rendered directly from the controlling raw PDF."
   },
   "transcription": {
-    "method": "manual first-pass transcription directly from scan images; later completeness and strict page-by-page visual source-fidelity audits are required before verification",
-    "status": "in-progress",
+    "method": "manual first-pass transcription directly from scan images, followed by full-speech completeness/page-marker audit; strict page-by-page visual source-fidelity verification remains required before verified status",
+    "status": "transcribed",
     "full_speech_scan_pages": "136-171",
-    "completed_scan_pages": "136-165",
-    "completed_printed_pages": "135-164",
-    "completed_page_count": 30,
+    "completed_scan_pages": "136-171",
+    "completed_printed_pages": "135-170",
+    "completed_page_count": 36,
     "total_page_count": 36,
-    "next_scan_page": 166,
+    "next_scan_page": null,
     "page_markers_audited_for_completed_batches": true,
-    "full_speech_completeness_audit": false,
-    "full_speech_page_marker_audit": false,
+    "full_speech_completeness_audit": true,
+    "full_speech_page_marker_audit": true,
     "verified_against_scan": false,
     "verified_scan_pages": null,
     "strict_full_speech_visual_verification": false,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C Batches 1-2 represent all 30 scan pages 136-165 with unique monotonic source-page markers. Scan p.165 ends mid-sentence with '... அந்த மாவட்டம் தொழில் வளம் பெருகுவதுமான ஒரு சூழ்நிலை ஏற்படும்'. Scan p.166 visibly continues 'என்பதையும் நான் இங்கே சொல்லிக்கொள்ள வேண்டியவனாக இருக்கின்றேன்.' The full mapped speech remains incomplete, so Gate D is not yet eligible."
+    "completion_note": "Gate C now represents all 36 mapped scan pages 136-171 with one source-page marker per page. Gate D passed: markers cover exactly 136-171 in source order without a mapped page omission or duplication; the p.136 opening matches உரை : 5 / 14.08.1996; p.171 contains the final Thiru R. Chokkar intervention and Kalaignar reply followed by the decorative ending ornament; scan p.172 begins உரை : 6 / 23.04.1997. No explicit unresolved-reading markers remain. Tamil is transcribed but not yet verified; Gate E is next."
   },
   "translation": {
     "language": "English",
@@ -68,8 +68,8 @@
     "completed_source_pages": null,
     "source_page_correspondence": false,
     "verified_against_tamil": false,
-    "verification_gate": "blocked until Tamil Gates C-E pass",
+    "verification_gate": "blocked until Tamil Gate E passes",
     "verification_pages": null,
-    "completion_note": "English translation has not started and must remain blocked until the full Tamil for scan pp.136-171 passes Gates C, D and E."
+    "completion_note": "English translation has not started. It remains blocked until strict Gate E verification of the complete Tamil for scan pp.136-171 is complete and the Tamil is marked verified."
   }
 }
