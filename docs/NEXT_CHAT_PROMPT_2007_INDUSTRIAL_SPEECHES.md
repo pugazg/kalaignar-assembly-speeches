@@ -1,15 +1,15 @@
-# Next-chat prompt — Speech 7 Gate C Batch 2 / 14.05.1998
+# Next-chat prompt — Speech 7 Gate C Batch 3 / 14.05.1998
 
 Continue the Kalaignar Assembly Speeches archival project in `pugazg/kalaignar-assembly-speeches`.
 
-Continue **Speech 7** from the 2007 anthology `தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்`. **Do not restart Speech 7. Gate C Batch 1 is already complete through scan p.213.**
+Continue **Speech 7** from the 2007 anthology `தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்`. **Do not restart Speech 7. Gate C Batches 1 and 2 are already complete through scan p.228.**
 
 ## Mandatory startup
 
 1. Read `docs/ARCHIVAL_WORKFLOW.md` completely before doing any work.
 2. Read `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` completely.
 3. Read `sources/2007-industrial-speeches/mapping.md`.
-4. Inspect the existing canonical folder `speeches/1998/1998-05-14-industries-debate/` and continue the files already there. Do not create duplicates and do not rewrite completed Batch-1 pages merely for style.
+4. Inspect the existing canonical folder `speeches/1998/1998-05-14-industries-debate/` and continue the files already there. Do not create duplicates and do not rewrite completed pages merely for style.
 5. Inspect the actual controlling PDF scan before continuing transcription. Do not rely on OCR, extracted text, prior prose summaries or the repository transcript as source authority.
 
 ## Source authority
@@ -23,7 +23,7 @@ Controlling publication: `தொழில்துறை பற்றி கல�
 - OCR/extracted text is only a helper
 - do not silently modernise, correct, normalise, reconstruct, or improve printed Tamil
 
-The PDF itself is not stored in the repository. If it is not available in this new chat, ask me to attach:
+The PDF itself is not stored in the repository. If it is not available in a new chat, ask for:
 
 `TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf`
 
@@ -46,66 +46,62 @@ Speech-6 Gate-H canonical release commit: `188a79e1b9de76b6bf2bbe037185aef2b6ffe
 - total mapped pages: **42**
 - scan page = printed page + 1
 - scan p.198 closes released Speech 6
-- scan p.199 begins Speech 7 with `உரை : 7`, `நாள் : 14.05.1998`
+- scan p.199 begins Speech 7
 - scan p.240 closes Speech 7
 - scan p.241 begins Speech 8 dated `29.04.1999`
 
-Both boundaries were directly re-confirmed from the controlling scan during Batch 1; the locked map did not change.
+Both boundaries have been directly re-confirmed from the controlling scan.
 
-## Completed Speech-7 state — Gate C Batch 1
+## Completed Speech-7 state — Gate C Batches 1 and 2
 
-The five canonical files exist under `speeches/1998/1998-05-14-industries-debate/`.
+The five canonical files already exist under `speeches/1998/1998-05-14-industries-debate/`.
 
-Batch 1 completed:
+Completed:
 
-- scan pages: **199–213**
-- printed pages: **198–212**
-- completed pages: **15/42**
-- remaining pages: **27**
-- Tamil status: **in-progress**
-- unresolved/uncertainty readings: **0**
-- Gate D: **not started**
-- Gate E: **not started**
-- English: **blocked**
+- Batch 1: scan pp.**199–213** / printed pp.**198–212** — 15 pages;
+- Batch 2: scan pp.**214–228** / printed pp.**213–227** — 15 pages;
+- cumulative represented pages: **30/42**;
+- remaining pages: **12**;
+- Tamil status: **in-progress**;
+- unresolved/uncertainty readings: **0**;
+- Gate D: **not started**;
+- Gate E: **not started**;
+- English: **blocked**.
 
-Two post-write Gate-C typing corrections were directly checked against the scan and applied to canonical `transcript.md`:
+Relevant Batch-2 checkpoints:
 
-1. p.202 `அந்த இடைப்பட்ட தொகைவை` → `அந்த இடைப்பட்ட தொகையை`;
-2. p.207 `அதிகே மிகுந்த எச்சரிக்கையோடு` → `அதிலே மிகுந்த எச்சரிக்கையோடு`.
-
-Do not treat those corrections as Gate E; the strict full-speech Tamil fidelity audit has not begun.
-
-Relevant checkpoints:
-
-- corrected Batch-1 canonical transcript: `e3ddee675269c65a756fe0641b20668554df732f`
-- Batch-1 verification log/content checkpoint: `4fa6eb6ef84e3931b6440d78c63f2ab59982b7f7`
-- refreshed handover after Batch 1: `515be2ccd4d5702490572ab916754298198f1a33`
+- canonical transcript through p.228: `938679d94990e460d23ba0a72c7488c94f65e839`
+- metadata: `a74e71a4aa9fd440563e034ed76ad0c69c453c99`
+- README: `b99d6b266aea3e8b4e117207e5e8a6f6b2c420db`
+- source notes: `eb7135364874cc66c2d41689fa66df8781ffd82c`
+- verification log: `0926fc9939401eb5eb078604fa6ec8230a6de2f4`
+- refreshed handover: `7362a4975d8fcff521120b69781c88218026bda5`
 
 ## Exact continuation
 
-Canonical `transcript.md` currently ends scan p.213 / printed p.212 with:
+Canonical `transcript.md` currently ends scan p.228 / printed p.227 with:
 
-`மேலும், எண்ணெய்க் கசடு`
+`இதற்கான ஒப்பந்தம் 7-1-1998 அன்று கையெழுத்தானது.`
 
-Direct inspection of the controlling scan shows scan p.214 / printed p.213 begins the continuation:
+Direct inspection of the controlling scan shows scan p.229 / printed p.228 begins:
 
-`வெளுகிறதே, அதிலேயிருந்து மின்சாரம் தயாரிக்கலாம், 250`
+`PVC foamed sheets -செயற்கை மரப்பொருள் திட்டம்.`
 
-The exact next source page is therefore **scan p.214 / printed p.213**.
+The exact next source page is therefore **scan p.229 / printed p.228**.
 
-## Exact next activity — Speech 7 Gate C Batch 2
+## Exact next activity — Speech 7 Gate C Batch 3
 
-1. Re-open scan pp.213→214 and confirm the continuation above before appending anything.
-2. Continue the existing `transcript.md` from **scan p.214 / printed p.213**.
-3. Transcribe the next bounded batch **scan pp.214–228 / printed pp.213–227**, unless the source structure gives a strong reason to stop earlier.
-4. Preserve source wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English exactly as supported by the scan. Only physical line wrapping may be normalised.
-5. Append explicit `<!-- source-page: N -->` markers in order. Do not alter already completed pp.199–213 unless a separately documented source-supported correction is discovered.
-6. Record exact pages completed, ending continuation words, unresolved readings and next scan page in the Speech-7 status/audit files.
-7. Keep Tamil status `in-progress`; Batch 2 will still be partial if it ends at p.228.
-8. Do not begin Gate D or Gate E until all mapped Speech-7 pages **199–240** have a complete first-pass Tamil transcription.
-9. Do not start English. English remains blocked until the complete Tamil passes Gates D and E.
-10. Do not begin Speech 8.
+1. Re-open scan pp.228→229 and confirm the continuation above before appending anything.
+2. Continue the existing `transcript.md` from **scan p.229 / printed p.228**.
+3. Transcribe the remaining Speech-7 range **scan pp.229–240 / printed pp.228–239**.
+4. Stop at the Speech-7 closing ornament on p.240. Do not include scan p.241 / Speech 8.
+5. Preserve source wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English exactly as supported by the scan. Only physical line wrapping may be normalised.
+6. Append explicit `<!-- source-page: N -->` markers in order. Do not alter already completed pp.199–228 unless a separately documented source-supported correction is discovered.
+7. Record uncertain readings rather than guessing.
+8. After p.240 is transcribed, assert exact Gate-C page coverage **199–240**, with no gaps, duplicates, reordering or p.241 spillover. Only then may Tamil status become `transcribed`.
+9. Perform **Gate D** as a separate full-speech completeness/page-marker audit after Gate C completes. Do not conflate Gate C completion with Gate D.
+10. Do not begin Gate E until Gate D passes.
+11. Do not start English. English remains blocked until the complete Tamil passes Gates D and E.
+12. Do not begin Speech 8.
 
-If Batch 2 reaches p.228 as planned, the likely final Gate-C batch is scan pp.229–240 / printed pp.228–239; verify that from the scan rather than assuming.
-
-At the end of the session, refresh the handover and this next-chat prompt again with the exact continuation point and relevant commit SHA(s).
+At the end of the session, refresh the handover and this next-chat prompt again with Gate-C completion, Gate-D status, exact next activity and relevant commit SHA(s).
