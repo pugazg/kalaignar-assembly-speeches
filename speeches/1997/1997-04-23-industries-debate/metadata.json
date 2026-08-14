@@ -38,7 +38,7 @@
     "source_authority": "scan image"
   },
   "transcription": {
-    "method": "manual first-pass transcription directly from rendered scan images; later full-speech completeness and strict source-fidelity audits required",
+    "method": "manual first-pass transcription directly from rendered scan images, followed by full-speech completeness/page-marker audit; strict source-fidelity audit still required",
     "status": "transcribed",
     "full_speech_scan_pages": "172-198",
     "completed_scan_pages": "172-198",
@@ -47,8 +47,9 @@
     "total_page_count": 27,
     "next_scan_page": null,
     "page_markers_audited_for_completed_batch": true,
-    "full_speech_completeness_audit": false,
-    "full_speech_page_marker_audit": false,
+    "full_speech_completeness_audit": true,
+    "full_speech_page_marker_audit": true,
+    "gate_d_status": "passed",
     "gate_e_status": "not-started",
     "verified_against_scan": false,
     "verified_scan_pages": null,
@@ -56,7 +57,7 @@
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C is complete in two bounded batches: scan pp.172-186 / printed pp.171-185 and scan pp.187-198 / printed pp.186-197. All 27 mapped pages are represented and the source-page marker sequence was assertion-checked as exactly 172-198. The p.186 phrase `அவற்றுள் சிலவற்றை` continues on p.187 with `மாத்திரம் இங்கே உங்கள் முன்னால் வைக்க விரும்புகிறேன்.` Scan p.198 contains the final Speech-6 reply and closing desk-thump, followed by the decorative ending ornament; scan p.199 begins உரை : 7 / 14.05.1998. No explicit [REVIEW] markers remain in the first pass. Gate D has not yet been performed, so Tamil is transcribed, not verified."
+    "completion_note": "Gate C completed all 27 mapped scan pages 172-198 in two bounded batches. Gate D then audited the complete canonical transcript: source-page markers are exactly 172-198 with no gap, duplication, reordering or p.199 spillover; the opening matches scan p.172 (உரை : 6 / நாள் : 23.04.1997), the ending matches scan p.198 with the closing desk-thump and decorative ornament, and scan p.199 begins உரை : 7 / 14.05.1998. The speech remains a single continuous Kalaignar speech after the opening speaker label; printed contextual markers such as desk-thumps and laughter remain represented. Explicit [REVIEW] markers remain 0. Tamil is transcribed, not verified, until Gate E passes."
   },
   "translation": {
     "language": "English",
@@ -68,6 +69,6 @@
     "completed_source_pages": null,
     "source_page_correspondence": false,
     "verified_against_tamil": false,
-    "verification_gate": "blocked until the complete Tamil transcription passes Gates D and E"
+    "verification_gate": "blocked until the complete Tamil transcription passes Gate E after Gate D"
   }
 }
