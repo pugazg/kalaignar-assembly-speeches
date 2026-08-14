@@ -30,49 +30,41 @@
 
 ## Current status
 
-Speech 7 has completed **Gate C** and **Gate D**.
+Speech 7 has completed **Gate C** and **Gate D**; **Gate E is in progress**.
 
 - Full mapped speech: **42 scan pages**, pp.199–240 / printed pp.198–239.
-- Gate C Batch 1: **complete — 15 pages**, scan pp.199–213.
-- Gate C Batch 2: **complete — 15 pages**, scan pp.214–228.
-- Gate C Batch 3: **complete — 12 pages**, scan pp.229–240.
 - Gate C: **complete — 42/42 first-pass Tamil pages**.
 - Gate D completeness/page-marker audit: **passed**.
-- Gate E strict Tamil source-fidelity verification: **not started**.
+- Gate E Batch 1: **passed — scan pp.199–213 / printed pp.198–212**.
+- Gate E audited so far: **15/42 pages**.
+- Gate E corrections so far: **3**.
+- Gate E next scan page: **214**.
 - Current Tamil status: **transcribed, not verified**.
 - Explicit unresolved/`[REVIEW]` readings: **0**.
-- English: **blocked** until Gate E passes.
+- English: **blocked** until Gate E passes across all 42 pages.
 
-## Gate D — full-speech Tamil completeness/page-marker audit
+## Gate E — Batch 1
 
-Gate D audited canonical `transcript.md` as one structural unit against the locked source range **scan pp.199–240 / printed pp.198–239**.
+The controlling scan was re-read page by page for scan pp.**199–213**. Three source-supported corrections were applied to canonical `transcript.md`:
 
-Result:
+1. p.202 `விற்கப்படுகின்ற` → `விற்கப்படுகிற`;
+2. p.205 `தெரிவித்து உண்மை` → `தெரிவித்தது உண்மை`;
+3. p.209 `சுட்டிக் காட்டியிருக்கின்றேன்` → `சுட்டிக் காட்டியிருக்கிறேன்`.
 
-- expected source-page markers: **42**;
-- represented source-page markers: **42**;
-- exact marker sequence: **199–240**, monotonic;
-- gaps: **0**;
-- duplicates: **0**;
-- reordering: **0**;
-- `<!-- source-page: 241 -->`: **absent**;
-- opening boundary: p.199 contains `உரை : 7`, `நாள் : 14.05.1998` and the source speaker label;
-- closing boundary: pp.238–240 preserve the Subbarayan, Ponnammal and Venkatasamy interventions, the printed English Venkatasamy passage and Kalaignar's final reply;
-- source/context markers including `(மேசையைத் தட்டும் ஒலி)` and `(சிரிப்பு)` remain represented;
-- Speech-8 heading/date spillover: **absent**;
-- unresolved/`[REVIEW]` markers: **0**.
+A preliminary audit note had incorrectly characterised the p.202 administered-price paragraph and p.209 Economic Intelligency Unit introduction as omissions. A direct canonical fetch established that both were already present, so no duplicate text was inserted; the correction record was amended before Batch 1 was closed.
 
-Gate D therefore **passes**. This structural audit did not certify character-level source fidelity and did not change Tamil status to verified.
+Batch-1 correction commit: `4c42c979f087a78cdaeef3e96a12506bcdd7693e`.
 
 ## Next activity
 
-Begin **Gate E — strict Tamil visual/source-fidelity verification**, starting with a bounded first audit batch **scan pp.199–213 / printed pp.198–212**. Re-read every page directly against the controlling scan, check individual words/characters, names, figures, dates, percentages, money, units, printed English, speaker labels, interventions, punctuation where legible and cross-page continuity. Apply only source-supported corrections and record them in `verification-log.md`.
+Continue **Gate E Batch 2 — strict Tamil visual/source-fidelity verification for scan pp.214–228 / printed pp.213–227**. Re-read every page directly against the controlling scan and apply only source-supported corrections.
 
 Do not begin English until Gate E passes for all **42** Speech-7 pages.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — complete first-pass Tamil, scan pp.199–240.
-- [`metadata.json`](./metadata.json) — Gate D passed; Tamil remains `transcribed`.
-- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and Gate-C/D notes.
-- [`verification-log.md`](./verification-log.md) — Gate-C and Gate-D audit trail.
+- [`transcript.md`](./transcript.md) — complete first-pass Tamil with Gate-E corrections applied to pp.199–213.
+- [`metadata.json`](./metadata.json) — Gate E status and audited-page counts.
+- [`source-notes.md`](./source-notes.md) — source authority and locked boundaries.
+- [`verification-log.md`](./verification-log.md) — Gate-C/D history and Gate-E correction audit trail.
+- [`gate-e-batch1-corrections.md`](./gate-e-batch1-corrections.md) — corrected Batch-1 source-fidelity findings.
