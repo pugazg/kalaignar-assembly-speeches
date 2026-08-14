@@ -51,17 +51,18 @@
     "full_speech_completeness_audit": true,
     "full_speech_page_marker_audit": true,
     "gate_e_status": "in-progress",
-    "gate_e_verified_scan_pages": "136-150",
-    "gate_e_verified_printed_pages": "135-149",
-    "gate_e_verified_page_count": 15,
-    "gate_e_next_scan_page": 151,
+    "gate_e_verified_scan_pages": "136-165",
+    "gate_e_verified_printed_pages": "135-164",
+    "gate_e_verified_page_count": 30,
+    "gate_e_next_scan_page": 166,
+    "gate_e_correction_count": 22,
     "verified_against_scan": false,
     "verified_scan_pages": null,
     "strict_full_speech_visual_verification": false,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C represents all 36 mapped scan pages 136-171 and Gate D passed. Gate E Batch 1 has strictly verified scan pp.136-150 / printed pp.135-149 directly against the scan and applied 18 source-supported corrections. No unresolved reading markers remain. Scan pp.151-171 are still pending Gate E, so the full Tamil remains transcribed rather than verified. The next strict visual-audit page is scan p.151."
+    "completion_note": "Gate C represents all 36 mapped scan pages 136-171 and Gate D passed. Gate E Batches 1-2 have strictly audited scan pp.136-165 / printed pp.135-164 directly against the scan, applying 22 source-supported corrections in total (18 in Batch 1 and 4 in Batch 2). No unresolved reading markers remain. Scan pp.166-171 are still pending Gate E, so the full Tamil remains transcribed rather than verified. The next strict visual-audit page is scan p.166."
   },
   "translation": {
     "language": "English",
