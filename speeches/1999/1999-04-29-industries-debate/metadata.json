@@ -1,0 +1,73 @@
+{
+  "id": "1999-04-29-industries-debate",
+  "date": "1999-04-29",
+  "year": 1999,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "source_label_ta": "மாண்புமிகு கலைஞர் மு. கருணாநிதி",
+    "role_ta": null,
+    "role_en": null,
+    "role_note": "The source page supplies the speaker label but no historical office has been inferred from external knowledge."
+  },
+  "legislature": {
+    "source_context_ta": "சட்டமன்ற உரை",
+    "source_context_en": "Legislative Assembly speech"
+  },
+  "speech": {
+    "source_label_ta": "உரை : 8",
+    "printed_date": "29.04.1999",
+    "archive_subject_slug": "industries-debate",
+    "archive_title_note": "The slug is a neutral archival subject label derived from the anthology's industrial theme, not a claim that the printed Assembly event carried that formal title."
+  },
+  "source": {
+    "publication_title_ta": "தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்",
+    "edition_ta": "முதற்பதிப்பு",
+    "publication_date": "2007-05",
+    "publication_date_printed_ta": "மே, 2007",
+    "publisher_ta": "தமிழ்க்கனி பதிப்பகம்",
+    "location": "சென்னை - 600 004",
+    "sales_rights": "பூம்புகார் பதிப்பகம்",
+    "scan_filename": "TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf",
+    "scan_total_pages": 329,
+    "file_size": 217124211,
+    "sha256": "c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370",
+    "speech_scan_pages": "241-277",
+    "speech_printed_pages": "240-276",
+    "relationship": "For this speech, scan page = printed page + 1.",
+    "source_authority": "scan image"
+  },
+  "transcription": {
+    "method": "manual first-pass transcription directly from rendered scan images; later subject to Gate D completeness/page-marker audit and Gate E strict visual source-fidelity verification",
+    "status": "in-progress",
+    "full_speech_scan_pages": "241-277",
+    "completed_scan_pages": "241-255",
+    "completed_printed_pages": "240-254",
+    "completed_page_count": 15,
+    "total_page_count": 37,
+    "next_scan_page": 256,
+    "page_markers_audited_for_completed_batch": true,
+    "full_speech_completeness_audit": false,
+    "full_speech_page_marker_audit": false,
+    "gate_d_status": "not-started",
+    "gate_e_status": "not-started",
+    "verified_against_scan": false,
+    "verified_scan_pages": null,
+    "explicit_unresolved_reading_markers": 0,
+    "unresolved_readings": 0,
+    "completion_note": "Gate C Batch 1 completed scan pp.241-255 / printed pp.240-254 directly from rendered scan images. Speech 8 remains partial. Next scan page is 256."
+  },
+  "translation": {
+    "language": "English",
+    "status": "blocked",
+    "gate_f_status": "not-started",
+    "gate_g_status": "not-started",
+    "requires_verified_tamil": true,
+    "tamil_gate_satisfied": false,
+    "completed_source_pages": null,
+    "completed_page_count": 0,
+    "total_page_count": 37,
+    "unresolved_translation_questions": 0,
+    "verified_against_tamil": false
+  }
+}
