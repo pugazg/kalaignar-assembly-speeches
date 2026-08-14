@@ -39,7 +39,7 @@
     "working_source_note": "The uploaded raw PDF was directly verified as the full 329-page source. A chat preview limit that exposed images only through scan p.150 did not limit the raw PDF; later batches were rendered directly from the controlling raw PDF."
   },
   "transcription": {
-    "method": "manual first-pass transcription directly from scan images, followed by full-speech completeness/page-marker audit; strict page-by-page visual source-fidelity verification remains required before verified status",
+    "method": "manual first-pass transcription directly from scan images, followed by full-speech completeness/page-marker audit and strict direct page-by-page visual source-fidelity verification",
     "status": "transcribed",
     "full_speech_scan_pages": "136-171",
     "completed_scan_pages": "136-171",
@@ -50,13 +50,18 @@
     "page_markers_audited_for_completed_batches": true,
     "full_speech_completeness_audit": true,
     "full_speech_page_marker_audit": true,
+    "gate_e_status": "in-progress",
+    "gate_e_verified_scan_pages": "136-150",
+    "gate_e_verified_printed_pages": "135-149",
+    "gate_e_verified_page_count": 15,
+    "gate_e_next_scan_page": 151,
     "verified_against_scan": false,
     "verified_scan_pages": null,
     "strict_full_speech_visual_verification": false,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C now represents all 36 mapped scan pages 136-171 with one source-page marker per page. Gate D passed: markers cover exactly 136-171 in source order without a mapped page omission or duplication; the p.136 opening matches உரை : 5 / 14.08.1996; p.171 contains the final Thiru R. Chokkar intervention and Kalaignar reply followed by the decorative ending ornament; scan p.172 begins உரை : 6 / 23.04.1997. No explicit unresolved-reading markers remain. Tamil is transcribed but not yet verified; Gate E is next."
+    "completion_note": "Gate C represents all 36 mapped scan pages 136-171 and Gate D passed. Gate E Batch 1 has strictly verified scan pp.136-150 / printed pp.135-149 directly against the scan and applied 18 source-supported corrections. No unresolved reading markers remain. Scan pp.151-171 are still pending Gate E, so the full Tamil remains transcribed rather than verified. The next strict visual-audit page is scan p.151."
   },
   "translation": {
     "language": "English",
@@ -68,7 +73,7 @@
     "completed_source_pages": null,
     "source_page_correspondence": false,
     "verified_against_tamil": false,
-    "verification_gate": "blocked until Tamil Gate E passes",
+    "verification_gate": "blocked until Tamil Gate E passes for scan pp.136-171",
     "verification_pages": null,
     "completion_note": "English translation has not started. It remains blocked until strict Gate E verification of the complete Tamil for scan pp.136-171 is complete and the Tamil is marked verified."
   }
