@@ -37,7 +37,7 @@ Speech 7 Tamil has completed **Gate C, Gate D and Gate E** and is **verified aga
 - Gate E: **passed — 42/42 pages verified against scan**.
 - Gate E cumulative corrections: **5**.
 - Gate E unresolved/`[REVIEW]` readings: **0**.
-- English Gate F: **in progress — source/scan pp.199–228 translated (30/42 pages)**.
+- English Gate F: **in progress — source/scan pp.199–233 translated (35/42 pages)**.
 - English Gate G: **not started**.
 - English verified: **no**.
 
@@ -60,23 +60,24 @@ English is translated only from the **final verified Tamil** in [`translation.md
 - Batch 3: source pp.209–213 — complete.
 - Batch 4: source pp.214–218 — complete.
 - Batch 5: source pp.219–223 — complete.
-- Batch 6: source pp.224–228 — complete and merged into canonical `translation.md`.
-- Current total: **30/42 pages**.
-- Next source page: **229**.
+- Batch 6: source pp.224–228 — complete.
+- Batch 7: source pp.229–233 — complete and merged into canonical `translation.md`.
+- Current total: **35/42 pages**.
+- Next source page: **234**.
 - Unresolved translation questions: **0**.
 
-Batch 6 preserves the p.223→224 project-list continuation and the source forms for Saint-Gobain, P.V.C. Rexine, Bis-Phenol-A, Tamil Nadu Toll Road Management Company Ltd., Biaxially Oriented Polypropylene, Iljin Automotive, Makushta Aircondition India, Dynamatic, Marqube India, Mando Brake System, Pos Hyundai Steel Manufacturing India, the Maraimalai Nagar Optical Fibre Cable project with verified Fujikura reading, MCC Scrab Agro Limited, Metal Halide Lamp, Tauraus Novelties Limited, Pioneer Breeding Farms and Frozen French Fries through p.228. No outside factual correction was substituted.
+Batch 7 preserves the p.228→229 continuation, PVC foamed sheets/artificial-wood products, Sriram Auto Components, Ramana Sekar Steels, S.K.M. egg processing, the 33-factory progress summary, the M.S. Swaminathan/Siruseri biotechnology park announcement, motor-component and software venture-capital schemes, the `Global Village` passage, and the ITIT→TANITEC announcement through the p.233→234 continuation.
 
 ## Next activity
 
-Continue **Gate F Batch 7** from verified Tamil **source/scan p.229**, using a bounded five-page batch **pp.229–233 / printed pp.228–232**. Preserve exact page correspondence, figures, technical names/terms, source claims and printed English. Do not mark English verified; Gate G remains separate after the complete first pass.
+Continue **Gate F Batch 8** from verified Tamil **source/scan p.234**, using a bounded five-page batch **pp.234–238 / printed pp.233–237**. Preserve exact page correspondence, figures, technical names/terms, source claims, humour/parliamentary context and printed English. Do not mark English verified; Gate G remains separate after the complete first pass.
 
 Do not begin Speech 8.
 
 ## கோப்புகள்
 
 - [`transcript.md`](./transcript.md) — complete Tamil source layer, verified against scan pp.199–240.
-- [`translation.md`](./translation.md) — Gate-F English working translation, currently pp.199–228.
-- [`metadata.json`](./metadata.json) — Tamil verified; Gate F in progress at 30/42 pages.
+- [`translation.md`](./translation.md) — Gate-F English working translation, currently pp.199–233.
+- [`metadata.json`](./metadata.json) — Tamil verified; Gate F in progress at 35/42 pages.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and verification record.
 - [`verification-log.md`](./verification-log.md) — Gate-C/D history and Gate-E audit/closure trail.
