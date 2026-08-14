@@ -30,57 +30,55 @@
 
 ## Current status
 
-Speech 7 is **in progress** at Gate C.
+Speech 7 has completed **Gate C first-pass Tamil transcription**.
 
 - Full mapped speech: **42 scan pages**, pp.199–240 / printed pp.198–239.
-- Gate C Batch 1: **complete — 15/42 pages**, scan pp.199–213 / printed pp.198–212.
-- Gate C Batch 2: **complete — another 15 pages**, scan pp.214–228 / printed pp.213–227.
-- First-pass Tamil represented so far: **30/42 pages**, scan pp.199–228 / printed pp.198–227.
-- Current Tamil status: **in-progress**.
-- Gate D completeness audit: **not started**.
+- Gate C Batch 1: **complete — 15 pages**, scan pp.199–213 / printed pp.198–212.
+- Gate C Batch 2: **complete — 15 pages**, scan pp.214–228 / printed pp.213–227.
+- Gate C Batch 3: **complete — 12 pages**, scan pp.229–240 / printed pp.228–239.
+- First-pass Tamil represented: **42/42 pages**, exactly scan pp.199–240.
+- Current Tamil status: **transcribed, not verified**.
+- Gate D completeness/page-marker audit: **next**.
 - Gate E strict Tamil source-fidelity verification: **not started**.
 - Explicit unresolved/`[REVIEW]` readings: **0**.
-- Next scan page: **229** / printed p.228.
 - English: **blocked** until the complete Tamil passes Gates D and E.
 
-The source boundaries remain locked: scan p.198 closes Speech 6; scan p.199 begins `உரை : 7`, `நாள் : 14.05.1998`; scan p.240 closes Speech 7; scan p.241 begins `உரை : 8`, `நாள் : 29.04.1999`.
+The source boundaries remain locked. Scan p.240 ends Speech 7 with the final Kalaignar reply after the Ponnammal/Venkatasamy interventions and the decorative ending ornament. Scan p.241 was directly rechecked and begins `உரை : 8`, `நாள் : 29.04.1999`; no Speech-8 material is present in Speech 7.
 
 ## Gate C — Batch 1
 
-Batch 1 covers scan pp.**199–213** / printed pp.**198–212** and ends with:
-
-`மேலும், எண்ணெய்க் கசடு`
+Batch 1 covers scan pp.**199–213** / printed pp.**198–212**.
 
 ## Gate C — Batch 2
 
-Batch 2 covers scan pp.**214–228** / printed pp.**213–227**. The p.213→214 continuation was preserved, beginning on scan p.214 with:
+Batch 2 covers scan pp.**214–228** / printed pp.**213–227** and ends with the `Frozen French Fries` project agreement dated `7-1-1998`.
 
-`வருகிறதே, அதிலேயிருந்து மின்சாரம் தயாரிக்கலாம், 250`
+## Gate C — Batch 3
 
-The batch includes, among other source material:
+Batch 3 covers the remaining scan pp.**229–240** / printed pp.**228–239**.
 
-- SIPCOT industrial-estate progress at Cheyyar, Irungattukottai, Gummidipoondi, Sriperumbudur, Nemili and Vadamangalam;
-- investment/export rankings and the printed *Business Today* `Objective / Perception / Rank` discussion;
-- foreign-direct-investment figures and claimed social/economic effects;
-- the Salem steel/power discussion and the printed 15-project power list;
-- Hyundai Motor India and the subsequent TIDCO/SIPCOT project list;
-- printed English/company forms including `Integrated Iron and Steel Plant`, `Rynex International`, `Fenner Refineries Limited`, `Hi-Tech Technology Industrial Park (TNFAC)`, `Mahindra Industries Park Limited`, `Tamil Nadu Toll Road Management Company Ltd.`, `Telecommunication Consultant India Limited`, `MCC Scrab Agro Limited`, `Metal Halide Lamp`, `Advanced Lighting Technology`, `Axes Technology`, `Tauraus Novelties Limited`, `Srivathsan and Associates`, `Pioneer Breeding Farms`, and `Frozen French Fries`.
+The final batch preserves, among other source material:
 
-Batch 2 ends at the bottom of scan p.228 with the agreement date for the `Frozen French Fries` project:
+- `PVC foamed sheets -செயற்கை மரப்பொருள் திட்டம்`, `Sriram Auto Components (Madras) Limited`, ரமண சேகர் ஸ்டீல்ஸ் and எஸ்.கே.எம். முட்டை பதப்படுத்தும் தொழிற்சாலை;
+- the 33-project completion/status discussion and the stated three-and-a-half-lakh employment figure;
+- the biotechnology park announcement, `tissue culture`, `seed multiplication`, `venture capital`, `thrust sector`, and `Global Village` passages;
+- `Information Technology Institute of Tamil Nadu (ITIT)`, `Registered society`, `TANITEC`, and the printed information-technology course names;
+- ELCOT turnover/profit figures and the extended `Software` / `Y2 K-1` discussion as printed;
+- TIDEL software park, Coimbatore software park, `Software Professionals`, `Single Window System`, and `Pending issues`;
+- the closing Assembly interventions by திரு. கே. சுப்பராயன், திருமதி ஏ.எஸ். பொன்னம்மாள் and திரு. பி. வெங்கடசாமி;
+- the complete printed English intervention beginning `THIRU B. VENKATASAMY : Hon. Speaker Sir...`.
 
-`இதற்கான ஒப்பந்தம் 7-1-1998 அன்று கையெழுத்தானது.`
+Batch 3 ends on scan p.240 with Kalaignar's reply:
 
-Direct inspection of scan p.229 / printed p.228 confirms the next section begins:
-
-`PVC foamed sheets -செயற்கை மரப்பொருள் திட்டம்.`
+`பேரவைத் தலைவர் அவர்களே, மாண்புமிகு உறுப்பினர் அவர்கள் அதைப்பற்றித் தனியாக என்னிடத்திலே விவரம் தருவார்களேயானால், உடனடியாக விசாரித்து அதைப்பற்றிக் கூற இயலும்.`
 
 ## Next activity
 
-Continue **Gate C Batch 3** from **scan p.229 / printed p.228** through the remaining Speech-7 range **scan pp.229–240 / printed pp.228–239**, unless a natural source boundary requires an earlier stop. After all 42 pages are represented, run Gate D; do not begin Gate E before Gate D passes, and do not begin English before both Gates D and E pass.
+Run **Gate D — full-speech Tamil completeness/page-marker audit** against the locked range scan pp.199–240 / printed pp.198–239. Confirm all 42 page markers, boundaries, speaker changes/interventions and the absence of Speech-8 spillover. Do not begin Gate E until Gate D passes, and do not begin English before both Gates D and E pass.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — Tamil first-pass transcription currently covering scan pp.199–228.
-- [`metadata.json`](./metadata.json) — source metadata and in-progress status.
+- [`transcript.md`](./transcript.md) — complete first-pass Tamil, scan pp.199–240.
+- [`metadata.json`](./metadata.json) — source metadata and `transcribed` Tamil status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and Gate-C notes.
-- [`verification-log.md`](./verification-log.md) — Gate-C audit trail and exact continuation point.
+- [`verification-log.md`](./verification-log.md) — Gate-C audit trail and completion record.
