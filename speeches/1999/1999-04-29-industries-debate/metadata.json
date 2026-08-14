@@ -46,6 +46,11 @@
     "completed_page_count": 30,
     "total_page_count": 37,
     "next_scan_page": 271,
+    "staged_scan_pages": "271-277",
+    "staged_printed_pages": "270-276",
+    "staged_page_count": 7,
+    "staged_file": "gate-c-batch3-pp271-277.md",
+    "gate_c_batch3_status": "transcribed-staged-pending-canonical-merge",
     "page_markers_audited_for_completed_batch": true,
     "full_speech_completeness_audit": false,
     "full_speech_page_marker_audit": false,
@@ -55,7 +60,7 @@
     "verified_scan_pages": null,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
-    "completion_note": "Gate C Batches 1-2 completed scan pp.241-270 / printed pp.240-269 directly from rendered scan images. Speech 8 remains partial. Next scan page is 271."
+    "completion_note": "Gate C Batches 1-2 are canonical through scan p.270. Final Batch 3, scan pp.271-277 / printed pp.270-276, has been transcribed directly from rendered scan images and staged for safe merge. Canonical Gate C remains 30/37 until that staged batch is merged and the full 241-277 source-page sequence is checked."
   },
   "translation": {
     "language": "English",
