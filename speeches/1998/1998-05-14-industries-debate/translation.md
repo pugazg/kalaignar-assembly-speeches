@@ -1,6 +1,6 @@
 # English translation — உரை : 7 / 14.05.1998
 
-> **Gate F working note:** English translation is being prepared only from the final verified Tamil transcription. This file preserves source-page correspondence, parliamentary context, names, figures, technical terminology, argument sequence, quotations, humour/context markers, and unusual or internally inconsistent source claims without substituting external historical corrections. Gate F is **in progress**. Batches 1–2 now cover scan/source pp.199–208 / printed pp.198–207. English has not yet passed Gate G and is therefore **not verified**.
+> **Gate F working note:** English translation is being prepared only from the final verified Tamil transcription. This file preserves source-page correspondence, parliamentary context, names, figures, technical terminology, argument sequence, quotations, humour/context markers, and unusual or internally inconsistent source claims without substituting external historical corrections. Gate F is **in progress**. Batches 1–3 now cover scan/source pp.199–213 / printed pp.198–212. English has not yet passed Gate G and is therefore **not verified**.
 
 ### Source page 199
 
@@ -96,3 +96,69 @@ I wish to point out one thing to you. In 1994, an article appeared in an English
 Says one Madras-based Industrialist. You need not cultivate every Tom, Tick and Harry. If you can please the Presiding Deity, your interests are taken care of. But if you fall out ever, your life is a mess. Jayalalitha's whimsical behaviour has reported to put off several major industrial houses.
 
 Although Tamil Nadu's infrastructure is one of the best, Jayalalitha's behaviour has put off businessmen.
+
+### Source page 209
+
+“What the Madras-based industrialist says is this. You do not need to appease every Kuppan, Suppan and Muniyan. It is enough if you appease the presiding deity, Jayalalitha; your interests will be protected. But if you deviate from that, your whole life itself will be in confusion. Jayalalitha’s peculiar traits have prevented many major industrial houses from coming at all.
+
+Although Tamil Nadu had obtained very good infrastructure facilities, Jayalalitha’s actions kept industrialists away,” says the English article that appeared in “Business India”.
+
+Not only that. I pointed this out last year itself, in this House. In the Report of a Research Unit called the Economic Intelligency Unit, in an article under the title India Uncaged and under the heading “Seeking opportunities in the South” — “opportunities in the South” — in November 1995, this was stated.
+
+The report says:
+
+If there is any State with a reputation for corruption, it is Tamil Nadu'.
+
+If one has to say which State has that reputation — that it excels in corruption, in Corruption — it is Tamil Nadu, says the Report of the Economic Intelligency Unit, a Research Unit, referring to the period when Jayalalitha’s Government was in office in 1995. It is this lady, who has earned such notoriety, who today has issued a statement about former Finance Minister Thiru P. Chidambaram and former Industries Minister Thiru Murasoli Maran, as though they had ruined Tamil Nadu and reduced it to a wreck. I do not wish to go too deeply into that statement and offer an explanation. It says something about imposing a tax on imports, a tax on exports—
+
+### Source page 210
+
+—and says that Thiru Murasoli Maran was complicit in that, and that the two of them together caused suffering to the people of Tamil Nadu, indeed to the people of India itself. What is amusing in this is that a person who was a breeding ground of corruption, an embodiment of bribery, and who ruined all of Tamil Nadu’s resources including its industrial prosperity, has found fault with Thiru Chidambaram and Murasoli Maran, who, even though they were Ministers of India and had to do good for all the States in India, nevertheless, with the thought that this State was their own State, provided funds and rights to bring many industrial resources to Tamil Nadu. I wish to state here that this is a great betrayal they are committing against Tamil Nadu. (Sound of desk-thumping.)
+
+They may have a grievance that Chidambaram and Maran did not speak of dismissing the Government. As for all those who are Ministers at the Centre now — I am not speaking of all the Ministers — as for the AIADMK Ministers — the other Ministers criticise us too, and also attend to their work. If we take Thiru Vazhapadi Ramamurthi now, or Thiru Rangarajan Kumaramangalam, or Thiru Dalit Ezhilmalai, at some times they too speak about us, but at the same time they also attend to work connected with their departments. For the other AIADMK Ministers, the work connected with their departments itself is to topple the Government here; to protect Amma. That is the work they are doing. Without involving themselves in work of that kind, for the country’s development, for the country’s advancement—
+
+### Source page 211
+
+—because the two Ministers worked for industrial development, the lady who has been issuing statements about them day after day, in ever-changing fashion, has issued yet another statement even today.
+
+I read these two here only to show what the country thought about them, what the industrialists in the country thought, and what publications concerned with industrial development thought.
+
+As far as Tamil Nadu is concerned, as examples of the great concern we have for public-sector undertakings: Tamil Nadu Cements Corporation — Ariyalur, Alangulam — was established during the Dravida Munnetra Kazhagam Government.
+
+Tamil Nadu Magnesite, Salem. That public-sector undertaking too was established during the DMK Government.
+
+Tamil Nadu Newsprint Corporation was established during the period of our dear friend M.G.R.; a public-sector undertaking.
+
+Southern Structurals Corporation. Public sector; established under the DMK Government.
+
+Tamil Nadu Minerals — mineral corporation (TAMIN) — was established under the DMK Government.
+
+Tamil Nadu Salt Corporation was established under the Dravida Munnetra Kazhagam Government.
+
+Electronics Corporation of Tamil Nadu (ELCOT) was established under the Dravida Munnetra Kazhagam Government.
+
+Tamil Nadu Industrial Explosives Corporation was established under the Government of our dear friend M.G.R.
+
+Tamil Nadu Sugar Corporation was established under the Dravida Munnetra Kazhagam Government.
+
+### Source page 212
+
+State Industries Promotion Corporation of Tamil Nadu (SIPCOT) was established under the Dravida Munnetra Kazhagam Government.
+
+Tamil Nadu Industrial Development Corporation (TIDCO) was established during the Congress Government.
+
+Tamil Nadu Industrial Infrastructure Development Corporation (TASIC) was established during the Government of our dear friend M.G.R.
+
+Then, if I am to give some details about it: the SIPCOT complex at Ranipet was created in 1971 under the Dravida Munnetra Kazhagam Government. I have said this here many times. During the Congress Government, land had been purchased, and later arrangements were made to sell that land on the ground that it was not suitable for establishing an industrial complex. It was precisely when the file for that came up that the Dravida Munnetra Kazhagam assumed office in 1967. After Anna’s death, after I assumed responsibility, the then Industries Minister Thiru Madhavan and I inspected that land and decided: why should this be sold; we can establish a complex here. Accordingly, the SIPCOT complex at Ranipet was started in 1971.
+
+Let me give you one detail. In the three-year period, the SIPCOT complex that was started in 1971, from 1973 to 1976, had 107 industrial establishments started and operating there with an investment of Rs. 168 crore over an area of 729 acres. After that, over the 12-year period from 1976 to 1988, only 49 industrial establishments were created there. Then, when we were again in office in 1989–90, in the two years 1989 and 1990, 25 industrial establishments. From 1991 to 1996, over five years under the previous Jayalalitha Government, 30 industrial establishments in five years. From May 1996—
+
+### Source page 213
+
+—to March 1998, 65 industrial establishments under the Dravida Munnetra Kazhagam Government.
+
+In 1974, 186 industrial establishments were started at Hosur with an investment of Rs. 500 crore. From 1991–96, during five years of the Jayalalitha Government, 35 industrial establishments. In 1996–98, during these two years, 133 establishments. At Pudukkottai SIPCOT, from 1991–96, 13 industries in five years. In 1996–98, during these two years, 14 industrial establishments. At Gummidipoondi, from 1991–96, 65 industrial establishments in five years. In 1996–98, during these two years under the Kazhagam Government, 78 industrial establishments.
+
+Thiru Subbarayan said here that our Government should press those at the Centre and secure some public-sector undertakings and industries. He asked what had happened to Neyveli. When I replied to the Industries grant last year, I mentioned that, although public-sector undertakings worth approximately Rs. 20,000 crore are today being administered by the Tamil Nadu Government, we were pressing the Central Government for another Rs. 16,000 crore worth of industries to come into the public sector. Among the four or five major industries I mentioned in that connection was the Neyveli mine — the Third mine cut, which he asked about. I am happy to inform you that Rs. 6,100 crore has been allotted for that Third mine cut and that the work has begun, as a result of continued pressure. (Sound of desk-thumping.)
+
+Likewise, the M.R.L. oil refinery. Approval has been given for the scheme to increase its production capacity. I am happy to inform you that Rs. 1,200 crore has been sanctioned for it. Further, the oil residue—
