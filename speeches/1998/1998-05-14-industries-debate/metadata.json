@@ -68,11 +68,11 @@
   },
   "translation": {
     "language": "English",
-    "placement": "working companion translation.md; merge into canonical transcript.md only after Gate G passes",
+    "placement": "verified companion translation.md; Gate H canonical presentation/index reconciliation remains",
     "working_file": "translation.md",
-    "status": "translated",
+    "status": "verified",
     "gate_f_status": "complete",
-    "gate_g_status": "not-started",
+    "gate_g_status": "passed",
     "requires_verified_tamil": true,
     "tamil_gate_satisfied": true,
     "source": "final verified Tamil transcription",
@@ -81,11 +81,11 @@
     "total_page_count": 42,
     "source_page_correspondence": true,
     "unresolved_translation_questions": 0,
-    "verified_against_tamil": false,
-    "verification_gate": null,
-    "completion_note": "Gate F Batches 1-9 translated the complete source/scan pp.199-240 from the final verified Tamil, preserving source-page correspondence, cross-page continuations, parliamentary context, humour, printed English and source forms. All 42 source pages are translated. English remains unverified until separate full-speech Gate G passes.",
+    "verified_against_tamil": true,
+    "verification_gate": "Gate G",
+    "completion_note": "Gate F translated all 42 source pages from the final verified Tamil. Gate G then re-read the complete English translation against the verified Tamil in source-page order, including page correspondence, parliamentary interventions, figures, technical/company names, printed English, humour/context and cross-page continuations. Gate G passed with no definite English correction required.",
     "unresolved_english_fidelity_issues": 0,
-    "verification_pages": null,
+    "verification_pages": "199-240",
     "gate_g_correction_count": 0
   }
 }
