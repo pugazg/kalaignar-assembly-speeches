@@ -38,8 +38,8 @@
     "source_authority": "scan image"
   },
   "transcription": {
-    "method": "manual first-pass transcription directly from rendered scan images, followed by full-speech completeness/page-marker audit and bounded direct visual source-fidelity verification",
-    "status": "transcribed",
+    "method": "manual first-pass transcription directly from rendered scan images, followed by full-speech completeness/page-marker audit and strict direct page-by-page visual source-fidelity verification",
+    "status": "verified",
     "full_speech_scan_pages": "172-198",
     "completed_scan_pages": "172-198",
     "completed_printed_pages": "171-197",
@@ -50,31 +50,32 @@
     "full_speech_completeness_audit": true,
     "full_speech_page_marker_audit": true,
     "gate_d_status": "passed",
-    "gate_e_status": "in-progress",
-    "gate_e_audited_scan_pages": "172-186",
-    "gate_e_audited_printed_pages": "171-185",
-    "gate_e_audited_page_count": 15,
+    "gate_e_status": "passed",
+    "gate_e_audited_scan_pages": "172-198",
+    "gate_e_audited_printed_pages": "171-197",
+    "gate_e_audited_page_count": 27,
     "gate_e_total_page_count": 27,
-    "gate_e_correction_count": 4,
-    "gate_e_next_scan_page": 187,
-    "verified_against_scan": false,
-    "verified_scan_pages": "172-186",
-    "strict_full_speech_visual_verification": false,
+    "gate_e_correction_count": 6,
+    "gate_e_next_scan_page": null,
+    "verified_against_scan": true,
+    "verified_scan_pages": "172-198",
+    "strict_full_speech_visual_verification": true,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C completed all 27 mapped scan pages 172-198 in two bounded batches and Gate D passed the full completeness/page-marker audit. Gate E Batch 1 then directly compared scan pp.172-186 / printed pp.171-185 against the controlling scan, covering 15/27 pages. Four source-supported corrections were applied: p.173 சென்னை எண்ணெய் சுத்திகரிப்பு நிறுவனம் -> சென்னை எண்ணெய்ச் சுத்திகரிப்பு நிறுவனம்; p.175 restored விழுக்காடு in உலக அளவிலான விழுக்காடு வீழ்ச்சி இல்லை; p.175 'சிப்காட்'னுடைய -> 'சிப்காட்'டினுடைய; p.177 'சிப்காட்'ன் சார்பாக -> 'சிப்காட்'டின் சார்பாக. Unresolved/[REVIEW] readings remain 0. Tamil remains transcribed, not fully verified, until Gate E covers scan pp.187-198; next Gate-E page is 187."
+    "completion_note": "Gate C completed all 27 mapped scan pages 172-198 in two bounded batches and Gate D passed the full completeness/page-marker audit. Gate E then directly re-read all 27 pages against the controlling scan in two batches, applying 6 source-supported corrections total (4 in Batch 1, 2 in Batch 2). Batch-2 corrections restored the printed spacing in p.192 `திரவமயமாக்கப் பட்ட` and the p.198 wording `இனிமேல் பின்னாக இருக்க மாட்டார்கள்`. No unresolved/[REVIEW] readings remain. The p.198 closing and decorative ornament were rechecked, and scan p.199 begins உரை : 7 / 14.05.1998.",
+    "verification_note": "Gate E passed for the complete Tamil transcript, scan pp.172-198 / printed pp.171-197. Names, figures, embedded English, source anomalies, contextual markers, punctuation where legible and page transitions were directly checked against the scan. Tamil is verified."
   },
   "translation": {
     "language": "English",
     "placement": "after the complete verified Tamil transcription in canonical transcript.md",
-    "status": "blocked",
+    "status": "not-started",
     "requires_verified_tamil": true,
-    "tamil_gate_satisfied": false,
+    "tamil_gate_satisfied": true,
     "source": "final verified Tamil transcription",
     "completed_source_pages": null,
     "source_page_correspondence": false,
     "verified_against_tamil": false,
-    "verification_gate": "blocked until the complete Tamil transcription passes Gate E after Gate D"
+    "verification_gate": "Gate F eligible; English translation not started"
   }
 }
