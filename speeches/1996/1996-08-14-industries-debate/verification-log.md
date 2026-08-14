@@ -28,12 +28,10 @@ Status: **completed first pass; Gate C complete**.
 - transcribed all **6** remaining scan pages directly from rendered source images;
 - p.166 correctly continues the p.165 boundary with `என்பதையும் நான் இங்கே சொல்லிக்கொள்ள வேண்டியவனாக இருக்கின்றேன்.`;
 - retained the full meat-processing and pollution-control discussion, employment/medicine analogy, State Planning Commission list and final interventions;
-- source-page markers now cover the complete locked speech **136–171**;
+- source-page markers cover the complete locked speech **136–171**;
 - explicit unreadable/`[REVIEW]` markers in Batch 3: **0**;
 - p.171 ends after the final `திரு. ஆர். சொக்கர்` intervention and Kalaignar reply, followed by the decorative ending ornament;
 - scan p.172 begins `உரை : 6 / நாள் : 23.04.1997`.
-
-First-pass forms deliberately left source-faithful pending Gate-E character-level confirmation include p.167 `ராஜஸ்தான் ஷிப் அண்டு உல்::பெடரேஷன்`, p.168 `வறுமை தேன் எனக் கொட்டுகிறது`, printed `side effects` / `anti-biotic` / `சிண்டாக்`, and the names/roles in the p.169–170 State Planning Commission list.
 
 Gate C completion does **not** confer `reviewed` or `verified` status.
 
@@ -52,30 +50,59 @@ Audit results for the locked full range **scan pp.136–171 / printed pp.135–1
 - printed speaker changes/interventions are represented through the final exchange;
 - explicit unresolved-reading markers: **0**.
 
-Tamil status after Gate D: **transcribed**. It is not yet reviewed or verified.
+Tamil status after Gate D: **transcribed**. It is not yet fully verified.
 
 ## Gate E — strict Tamil visual/source-fidelity verification
 
-Status: **not started; next activity**.
+Status: **in progress**.
 
-Gate E is now eligible. The complete canonical Tamil for **all 36 source pages, scan pp.136–171**, must be re-read directly against the controlling scan images. Check at minimum:
+### Batch 1 — scan pp.136–150 / printed pp.135–149
 
-- words and individual characters;
-- names and initials;
-- numerals, dates, percentages, monetary values and units;
-- embedded English passages and quotations;
-- headings and speaker labels;
-- punctuation where legible;
-- omissions/repetitions across page transitions;
-- all first-pass unusual forms recorded in `source-notes.md`.
+Status: **strict visual audit completed for this batch**.
 
-Apply only source-supported corrections to `transcript.md` and document concrete corrections here. Tamil may be marked `verified` only after the entire range passes this audit.
+All **15** pages were re-read directly against the controlling scan images. Words/characters, names, numerals, dates, percentages, monetary values and units, embedded English, speaker/context labels, punctuation where legible, and page transitions were checked. The following **18 concrete source-supported corrections** were applied to canonical `transcript.md`:
+
+- p.137: `தாழ்ந்துபோய் இருக்கிறது` → `தாழ்ந்துபோய் இருக்கின்றது`;
+- p.137: `தொழில் தொடங்க வருகிறவர்கள்` → `தொழில் தொடங்க வருகின்றவர்கள்`;
+- p.139: `முதலீடு செய்கின்ற திட்டம்` → `முதலீடு செய்யப்படுகிற திட்டம்`;
+- p.139: after `அந்த 10 ரூபாய்`, first-pass `---` → printed `--`;
+- p.141: `கண்ணாடி தொழிற்சாலை - இதற்கான` → printed `கண்ணாடி தொழிற்சாலை -- இதற்கான`;
+- p.142: `இன்டர்மீடியட்ஸ்` → `இண்டர்மீடியட்ஸ்`;
+- p.142: `மெத்தைல் கெமிக்கல்ஸ்` → `பென்சைல் கெமிக்கல்ஸ்`;
+- p.142: `சொல்லுகிற செய்தி` → `சொல்லுகின்ற செய்தி`;
+- p.143: `உறுதி கூறிக் கொள்கிறேன்` → `உறுதி கூறிக் கொள்கின்றேன்`;
+- p.143: final `தெரிவித்துக் கொள்கிறேன்` → `தெரிவித்துக் கொள்கின்றேன்`;
+- p.144: opening `தெரிவித்துக் கொள்கிறேன்` → `தெரிவித்துக் கொள்கின்றேன்`;
+- p.144: `நினைவுபடுத்துகிறேன்` → `நினைவுபடுத்துகின்றேன்`;
+- p.144: final `தெரிவித்துக் கொள்கிறேன்` → `தெரிவித்துக் கொள்கின்றேன்`;
+- p.145: first paragraph `தெரிவித்துக் கொள்கிறேன்` → `தெரிவித்துக் கொள்கின்றேன்`;
+- p.145: `ஸ்டோன்வேர் பைப்` → `ஸ்டோன்வேர் பைப்ஸ்`;
+- p.146: `எப்படி நடைபெற்றதானால் ஓட்டலுக்கு மறுப்பு எழுதினாரோ` → `எப்படி கொடைக்கானல் ஓட்டலுக்கு மறுப்பு எழுதினாரோ`;
+- p.150: `எதிர்பார்க்கின்றார்கள், விரும்புகின்றார்கள்` → `எதிர்பார்க்கிறார்கள், விரும்புகிறார்கள்`;
+- p.150: `பன்னீர்தாஸ் குடும்பத்தின் என்பதை அறிந்து` → `பன்னீர்தாஸ் குடும்பத்தினர் என்பதை அறிந்து`.
+
+Important deliberate retentions after direct visual checking:
+
+- p.142 `இஃதன்னியில்` is printed that way and remains unchanged;
+- p.145 `ஆலங்குளம் ஆஸ்பெஸ்டாஸ் பயிற்சித் தொழிற்சாலை` is retained as printed;
+- p.149 embedded English audit quotations were checked against the scan and retained;
+- p.150 `'Good atmosphere'` is retained; only physical scan line wrapping is normalised.
+
+The earlier first-pass p.146 note `ஓட்டலுக்கு மறுப்பு எழுதினாரோ` is no longer a retained anomaly: the scan clearly contains `கொடைக்கானல் ஓட்டலுக்கு மறுப்பு எழுதினாரோ`, and the canonical transcript has been corrected accordingly.
+
+Batch-1 unresolved/`[REVIEW]` markers after strict audit: **0**.
+
+Gate-E pages completed so far: **scan pp.136–150 / printed pp.135–149**. This partial batch does **not** confer verified status on the full speech. Tamil remains `transcribed` until scan pp.151–171 also pass Gate E.
+
+### Next Gate-E batch
+
+Audit **scan pp.151–165 / printed pp.150–164** directly against the controlling scan. Then audit pp.166–171. Only after the entire range **136–171** passes may Tamil be marked `verified`.
 
 ## Gate F — English translation
 
 Status: **blocked**.
 
-English translation must not begin until Gate E passes and Tamil is marked verified.
+English translation must not begin until Gate E passes for the complete speech and Tamil is marked verified.
 
 ## Gate G — English fidelity verification
 
