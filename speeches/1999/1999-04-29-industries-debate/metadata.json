@@ -41,11 +41,11 @@
     "method": "manual first-pass transcription directly from rendered scan images; later subject to Gate D completeness/page-marker audit and Gate E strict visual source-fidelity verification",
     "status": "in-progress",
     "full_speech_scan_pages": "241-277",
-    "completed_scan_pages": "241-255",
-    "completed_printed_pages": "240-254",
-    "completed_page_count": 15,
+    "completed_scan_pages": "241-270",
+    "completed_printed_pages": "240-269",
+    "completed_page_count": 30,
     "total_page_count": 37,
-    "next_scan_page": 256,
+    "next_scan_page": 271,
     "page_markers_audited_for_completed_batch": true,
     "full_speech_completeness_audit": false,
     "full_speech_page_marker_audit": false,
@@ -55,7 +55,7 @@
     "verified_scan_pages": null,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
-    "completion_note": "Gate C Batch 1 completed scan pp.241-255 / printed pp.240-254 directly from rendered scan images. Speech 8 remains partial. Next scan page is 256."
+    "completion_note": "Gate C Batches 1-2 completed scan pp.241-270 / printed pp.240-269 directly from rendered scan images. Speech 8 remains partial. Next scan page is 271."
   },
   "translation": {
     "language": "English",
