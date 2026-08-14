@@ -32,7 +32,7 @@ The boundaries were directly confirmed from the controlling scan: scan p.198 clo
 
 ## Gate C and Gate D
 
-Gate C is complete across all **42/42** mapped pages in three batches: pp.199–213, 214–228 and 229–240. Gate D subsequently passed the full structural/page-marker audit with exact markers **199–240**, no gaps, duplicates, reordering or p.241 spillover. Tamil therefore entered Gate E as **transcribed, not verified**.
+Gate C is complete across all **42/42** mapped pages in three batches: pp.199–213, 214–228 and 229–240. Gate D subsequently passed the full structural/page-marker audit with exact markers **199–240**, no gaps, duplicates, reordering or p.241 spillover.
 
 ## Gate E — strict visual/source-fidelity verification
 
@@ -67,20 +67,24 @@ All final 12 pages were re-read directly from rendered scan images. The source-s
 
 Batch-3 unresolved/`[REVIEW]` readings: **0**.
 
-### Gate-E page-audit state
+## Full Gate-E closure
 
-- audited scan pages: **199–240**;
-- audited printed pages: **198–239**;
-- audited count: **42/42**;
-- cumulative Gate-E corrections: **5**;
-- unresolved/`[REVIEW]` readings: **0**;
-- unaudited Speech-7 pages: **0**;
-- Tamil status: **transcribed, not yet formally verified**;
-- Gate E: **pending a separate full-speech closure check**;
-- English: **blocked**.
+Status: **passed**.
+
+A separate closure pass reconciled the three bounded Gate-E audits against the current canonical transcript and status records.
+
+Closure checks:
+
+- Batch 1 **199–213**, Batch 2 **214–228**, Batch 3 **229–240** collectively cover exactly **42/42** scan pages / printed pp.198–239 with no gap or overlap problem.
+- The five logged corrected forms are present canonically: p.202 `விற்கப்படுகிற`; p.205 `தெரிவித்தது உண்மை`; p.209 `சுட்டிக் காட்டியிருக்கிறேன்`; p.214 `532 ஏக்கர்`; p.227 `ப்யூஜிகுரா லிமிடெட்`.
+- Unresolved/`[REVIEW]` readings: **0**.
+- The source-page structure remains the locked **199–240** Speech-7 range; no p.241 marker or Speech-8 material is present.
+- The p.199 source heading/date/speaker opening remains intact.
+- The p.240 Speaker / `THIRU B. VENKATASAMY` / Tamil follow-up / Kalaignar final-reply sequence remains intact.
+- Printed-English passages audited under Gate E remain represented.
+
+Tamil status is therefore **verified against the controlling scan** for scan pp.199–240 / printed pp.198–239.
 
 ## Next source work
 
-Run the **full Gate-E closure check** over the complete Speech-7 canonical unit. Reconcile the three batch records, confirm all five corrections are canonically present, verify zero unresolved readings, exact page markers 199–240, no p.241 spillover, intact opening and closing boundaries, printed English representation and status consistency across the canonical files.
-
-Only after that closure check passes may Tamil be marked verified and English Gate F begin.
+Tamil source work for Speech 7 is complete through Gate E. **Gate F — English translation is now unblocked** and must translate only from the final verified Tamil, preserving source claims, figures, technical terms, parliamentary context and source-page correspondence. Do not begin Speech 8.
