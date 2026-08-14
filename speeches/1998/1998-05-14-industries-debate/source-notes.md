@@ -16,7 +16,7 @@ Controlling source facts:
 
 The source is image-based. The rendered scan image is authoritative for the Tamil source layer; OCR, extracted text and contextual reconstruction are not canonical.
 
-The PDF attached for this session was independently checked before transcription and exactly matches the locked source facts above: **329 pages**, **217,124,211 bytes**, SHA-256 `c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370`.
+The PDF attached for this session exactly matches the locked source facts above.
 
 ## Locked boundary for Speech 7
 
@@ -30,11 +30,11 @@ The PDF attached for this session was independently checked before transcription
 
 For this speech: `PDF scan page = printed page + 1`.
 
-The boundaries were directly re-confirmed from the controlling scan:
+The boundaries have been directly confirmed from the controlling scan:
 
-- scan p.198 / printed p.197 closes Speech 6 with its final paragraph, `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).`, and the decorative ending ornament;
-- scan p.199 / printed p.198 begins `உரை : 7`, `நாள் : 14.05.1998`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`;
-- scan p.240 / printed p.239 contains the final Speech-7 exchange and a decorative ending ornament;
+- scan p.198 / printed p.197 closes Speech 6;
+- scan p.199 / printed p.198 begins `உரை : 7`, `நாள் : 14.05.1998`;
+- scan p.240 / printed p.239 contains the final Speech-7 exchange and decorative ending ornament;
 - scan p.241 / printed p.240 begins `உரை : 8`, `நாள் : 29.04.1999`.
 
 No boundary changed from the locked anthology map.
@@ -43,65 +43,71 @@ No boundary changed from the locked anthology map.
 
 ### Batch 1 — scan pp.199–213 / printed pp.198–212
 
-Status: **completed first pass; Speech 7 remains in progress**.
+Status: **completed first pass**.
 
-All **15** pages were transcribed from rendered images of the controlling scan. The source-page markers are exactly **199–213**, unique and monotonic.
+All **15** pages were transcribed from rendered images of the controlling scan. Two obvious Gate-C typing errors were later rechecked against the scan and corrected in canonical `transcript.md`:
+
+1. p.202 `அந்த இடைப்பட்ட தொகைவை` → `அந்த இடைப்பட்ட தொகையை`;
+2. p.207 `அதிகே மிகுந்த எச்சரிக்கையோடு` → `அதிலே மிகுந்த எச்சரிக்கையோடு`.
 
 Batch-1 explicit unreadable/`[REVIEW]` markers: **0**.
 
-Two post-write Gate-C typing corrections were rechecked directly against the scan and applied to canonical `transcript.md`:
-
-1. scan p.202 `அந்த இடைப்பட்ட தொகைவை` → `அந்த இடைப்பட்ட தொகையை`;
-2. scan p.207 `அதிகே மிகுந்த எச்சரிக்கையோடு` → `அதிலே மிகுந்த எச்சரிக்கையோடு`.
-
-These do not constitute Gate E.
-
 ### Batch 2 — scan pp.214–228 / printed pp.213–227
 
-Status: **completed first pass; Speech 7 remains in progress**.
+Status: **completed first pass**.
 
 All **15** pages were read from rendered scan images. OCR was used only as a secondary helper on some image-based pages; source-supported readings were taken from the scan image.
 
 The p.213→214 continuation was preserved:
 
-- scan p.213 ends `மேலும், எண்ணெய்க் கசடு`;
-- scan p.214 begins `வருகிறதே, அதிலேயிருந்து மின்சாரம் தயாரிக்கலாம், 250`.
+- p.213 ends `மேலும், எண்ணெய்க் கசடு`;
+- p.214 begins `வருகிறதே, அதிலேயிருந்து மின்சாரம் தயாரிக்கலாம், 250`.
 
-Batch 2 covers:
-
-- the proposed 250 MW generation from refinery residue;
-- SIPCOT industrial-estate development at Cheyyar, Irungattukottai, Gummidipoondi, Sriperumbudur, Nemili and Vadamangalam;
-- investment/export figures and the printed *Business Today* `Objective / Perception / Rank` discussion;
-- foreign-direct-investment figures and the source's stated social/economic effects;
-- the Salem integrated steel/power proposal and the printed list of 15 short-term power projects;
-- Hyundai Motor India and subsequent TIDCO/SIPCOT industrial projects through the `Frozen French Fries` proposal.
-
-Source-supported printed English/company forms retained include `Business Today`, `Objective`, `Perception`, `Rank`, `Integrated Iron and Steel Plant`, `Rynex International`, `Fenner Refineries Limited`, `Hi-Tech Technology Industrial Park (TNFAC)`, `Axes Technologies`, `Mahindra Industries Park Limited`, `Mahindra Reality and Infrastructural Development Limited`, `ILFS`, `Tamil Nadu Toll Road Management Company Ltd.`, `Telecommunication Consultant India Limited`, `MCC Scrab Agro Limited`, `Metal Halide Lamp`, `Advanced Lighting Technology`, `Axes Technology`, `Tauraus Novelties Limited`, `Srivathsan and Associates`, `dolomite`, `stoneware`, `Pioneer Breeding Farms`, and `Frozen French Fries`.
-
-The first pass deliberately does not use outside knowledge to repair source spellings, transliterations, company names, figures or political/factual claims.
+Batch 2 covers the 250 MW refinery-residue proposal, SIPCOT estate development, investment/export rankings, the *Business Today* `Objective / Perception / Rank` passage, FDI discussion, the Salem steel/power proposal, the 15 short-term power projects, Hyundai Motor India, and the subsequent TIDCO/SIPCOT project list through the `Frozen French Fries` proposal.
 
 Batch-2 explicit unreadable/`[REVIEW]` markers: **0**.
 
-### Batch 2 boundary
+### Batch 3 — scan pp.229–240 / printed pp.228–239
 
-Scan p.228 / printed p.227 ends:
+Status: **completed first pass; Gate C complete**.
 
-`இதற்கான ஒப்பந்தம் 7-1-1998 அன்று கையெழுத்தானது.`
+All **12** remaining pages were rendered from the controlling scan and inspected directly. OCR was used only as a helper to accelerate the image-based first pass, then source-supported readings were corrected from the page images.
 
-Direct inspection of scan p.229 / printed p.228 shows the next section begins:
+Batch 3 begins on scan p.229 with:
 
 `PVC foamed sheets -செயற்கை மரப்பொருள் திட்டம்.`
 
-### Gate-C current state
+The batch preserves, among other source material:
 
-- represented scan pages: **30/42**, exactly **199–228**;
-- represented printed pages: **198–227**;
-- source-page markers for completed work: **199–228**, intended exact, unique and monotonic;
+- `Sriram Auto Components (Madras) Limited`, ரமண சேகர் ஸ்டீல்ஸ் and எஸ்.கே.எம். முட்டை பதப்படுத்தும் தொழிற்சாலை;
+- the 33-project completion/status discussion and stated three-and-a-half-lakh employment figure;
+- biotechnology park material including `tissue culture` and `seed multiplication`;
+- the `venture capital` / `thrust sector` / `Global Village` passages;
+- `Information Technology Institute of Tamil Nadu (ITIT)`, `Registered society`, `TANITEC`, and the printed course/technology names;
+- ELCOT turnover and profit figures, including the printed `4½ கோடி ரூபாய்` figure;
+- the extended `Software` / `Y2 K-1` discussion, including the humour and `(சிரிப்பு)` / `(மேசையைத் தட்டும் ஒலி)` markers;
+- TIDEL and Coimbatore software-park announcements, `Software Professionals`, `Single Window System`, and `Pending issues`;
+- the closing interventions by திரு. கே. சுப்பராயன், திருமதி ஏ.எஸ். பொன்னம்மாள் and திரு. பி. வெங்கடசாமி;
+- the complete printed English intervention beginning `THIRU B. VENKATASAMY : Hon. Speaker Sir...`.
+
+Important helper-OCR errors were not copied blindly. The scan image was used to retain/correct forms such as `4½ கோடி ரூபாய்`, `மிட்சுபிஷி`, `அப்போதுதான் நெருக்கடி தீரும்`, `இரண்டு வார்த்தைகளைப் பயன்படுத்தினார்கள்`, `ஹோசூர் எல்காட் பற்றித்தானே?`, and `எம்.டி.-ஐப்`.
+
+Batch-3 explicit unreadable/`[REVIEW]` markers: **0**.
+
+The final scan p.240 reply is:
+
+`பேரவைத் தலைவர் அவர்களே, மாண்புமிகு உறுப்பினர் அவர்கள் அதைப்பற்றித் தனியாக என்னிடத்திலே விவரம் தருவார்களேயானால், உடனடியாக விசாரித்து அதைப்பற்றிக் கூற இயலும்.`
+
+Scan p.241 was directly rendered and checked after Batch 3; it begins Speech 8 (`உரை : 8`, `நாள் : 29.04.1999`). No Speech-8 text was included.
+
+### Gate-C final state
+
+- represented scan pages: **42/42**, exactly **199–240**;
+- represented printed pages: **198–239**;
+- first-pass Tamil status: **transcribed**, not verified;
 - explicit unreadable/`[REVIEW]` markers: **0**;
-- Tamil transcription status: **in-progress**;
-- next source page: **scan p.229 / printed p.228**;
 - Gate D: **not started**;
 - Gate E: **not started**;
 - English: **blocked**.
 
-No Speech-8 material is present. The remaining Gate-C range is scan pp.229–240 / printed pp.228–239.
+Gate C completeness does not confer reviewed or verified status. Gate D must now audit the complete speech structure/page markers before Gate E begins.
