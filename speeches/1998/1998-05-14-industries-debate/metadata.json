@@ -63,12 +63,11 @@
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C completed all 42 mapped pages and Gate D passed the full structural audit. Gate E then directly re-read all 42 pages against the controlling scan in three bounded batches: pp.199-213, 214-228 and 229-240. Five source-supported canonical corrections were applied in total. The full-speech Gate-E closure check passed. Tamil is verified against the scan.",
-    "verification_note": "Gate E passed for the complete Tamil transcript, scan pp.199-240 / printed pp.198-239. Unresolved readings are zero."
+    "completion_note": "Gate C completed all 42 mapped pages and Gate D passed the full structural audit. Gate E then directly re-read all 42 pages against the controlling scan in three bounded batches. Five source-supported canonical corrections were applied. Tamil is verified against the scan."
   },
   "translation": {
     "language": "English",
-    "placement": "verified companion translation.md; Gate H canonical presentation/index reconciliation remains",
+    "placement": "verified English follows the verified Tamil in canonical transcript.md; translation.md is retained as the verified working companion",
     "working_file": "translation.md",
     "status": "verified",
     "gate_f_status": "complete",
@@ -82,10 +81,16 @@
     "source_page_correspondence": true,
     "unresolved_translation_questions": 0,
     "verified_against_tamil": true,
-    "verification_gate": "Gate G",
-    "completion_note": "Gate F translated all 42 source pages from the final verified Tamil. Gate G then re-read the complete English translation against the verified Tamil in source-page order, including page correspondence, parliamentary interventions, figures, technical/company names, printed English, humour/context and cross-page continuations. Gate G passed with no definite English correction required.",
+    "verification_gate": "Gate G passed",
+    "completion_note": "Gate F translated all 42 verified Tamil source-page sections. Gate G re-read the full English against the final verified Tamil and passed with 0 corrections. Gate H merged the verified English into canonical transcript.md and reconciled release metadata and indexes.",
     "unresolved_english_fidelity_issues": 0,
     "verification_pages": "199-240",
     "gate_g_correction_count": 0
+  },
+  "release": {
+    "gate_h_status": "passed",
+    "canonical_transcript_contains_verified_tamil_and_english": true,
+    "indexed": true,
+    "release_ready": true
   }
 }
