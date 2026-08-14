@@ -6,28 +6,31 @@ Active unit: `1996-08-14-industries-debate` (`உரை : 5`, 14.08.1996), locke
 
 Current state:
 
-- Gate C Batch 1 complete: scan pp.136–150 / printed pp.135–149.
-- Gate C Batch 2 complete: scan pp.151–165 / printed pp.150–164.
-- Represented: **30/36 pages**.
-- Tamil: **in-progress**, not reviewed or verified.
+- Gate C Batch 1 complete: scan pp.136–150.
+- Gate C Batch 2 complete: scan pp.151–165.
+- Gate C Batch 3 complete: scan pp.166–171.
+- Gate C: **complete — 36/36 pages represented**.
+- Gate D full-speech completeness/page-marker audit: **passed**.
+- Tamil status: **transcribed**, not reviewed or verified.
 - Explicit unresolved/`[REVIEW]` readings: **0**.
-- Next scan page: **166**.
-- Gate D: not eligible until pp.136–171 are all represented.
-- Gate E: not started.
-- English: blocked until Tamil Gates C–E pass.
+- Gate E: **not started; exact next activity**.
+- English / Gate F: **blocked until Gate E passes and Tamil is verified**.
+- Gates G/H: not started.
 
-The current raw PDF is the full **329-page**, **217,124,211-byte** controlling source. The earlier p.150 availability note was only a preview-layer limitation and has been corrected.
+The controlling raw PDF is the full **329-page**, **217,124,211-byte** source. Scan p.171 / printed p.170 ends Speech 5 after the final `திரு. ஆர். சொக்கர்` intervention and Kalaignar reply, followed by the decorative ending ornament. Scan p.172 / printed p.171 begins `உரை : 6`, dated `23.04.1997`.
 
-Scan p.165 / printed p.164 ends:
+## Next action — Gate E strict Tamil verification
 
-`... அதன் மூலம் இந்த கிராபைட் தொழிற்சாலை பெரும் அளவிற்கு எதிர்காலத்திலே வளரும், அந்த மாவட்டம் தொழில் வளம் பெருகுவதுமான ஒரு சூழ்நிலை ஏற்படும்`
+Begin a strict direct visual/source-fidelity audit of Speech 5 against the controlling scan. Use bounded review batches while treating Gate E as a full-speech gate:
 
-Scan p.166 / printed p.165 visibly continues:
+1. Start with **scan pp.136–150 / printed pp.135–149**.
+2. Compare the canonical Tamil page by page against the rendered scan images, checking individual words/characters, names/initials, figures, dates, percentages, money/units, embedded English, headings, speaker labels, punctuation and page-transition continuity.
+3. Do not modernise, regularise or repair source anomalies. Correct only where the scan proves the first-pass transcription differs from the print.
+4. Record every concrete correction in `verification-log.md` and apply it to canonical `transcript.md`.
+5. Keep Tamil status `transcribed` until **all scan pp.136–171** have passed Gate E. Do not mark partial Gate-E batches as verified.
+6. After pp.136–150, continue Gate E with pp.151–165 and then pp.166–171.
+7. English remains blocked throughout Gate E. Do not start Speech 6 or Gate-H index changes.
 
-`என்பதையும் நான் இங்கே சொல்லிக்கொள்ள வேண்டியவனாக இருக்கின்றேன்.`
+First-pass unusual forms already recorded in `source-notes.md`—including `Sigapore`, `Tom, Tick & Harry`, `business-men`, `Liquified`, `தேவையேயில்லாமல்,,`, `ஊழல் நடத்திருக்கிறது`, `ராஜஸ்தான் ஷிப் அண்டு உல்::பெடரேஷன்`, `வறுமை தேன் எனக் கொட்டுகிறது`, `anti-biotic`, and `சிண்டாக்`—must be checked visually rather than automatically corrected.
 
-## Next action — Gate C Batch 3
-
-Transcribe the remaining scan pp.166–171 / printed pp.165–170 directly from the scan. Add source-page markers 166–171, preserve the printed source faithfully, and update all five Speech-5 files. Then run Gate D completeness/page-marker audit. Gate E strict Tamil verification follows only after Gate D passes. English, Speech 6, and Gate-H index updates remain blocked until their required gates are complete.
-
-After the session, refresh the handover and this continuation prompt with the completed state and commit SHAs.
+After each Gate-E batch, update the five Speech-5 files plus the handover with the exact verified range, concrete corrections, unresolved readings, commit SHAs and next review page.
