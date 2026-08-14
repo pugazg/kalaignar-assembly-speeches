@@ -1,8 +1,8 @@
-# Next-chat prompt — Speech 7 Gate E Batch 2 / 14.05.1998
+# Next-chat prompt — Speech 7 Gate E Batch 3 / 14.05.1998
 
 Continue the Kalaignar Assembly Speeches archival project in `pugazg/kalaignar-assembly-speeches`.
 
-Continue **Speech 7** from the 2007 anthology `தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்`. **Do not restart transcription or Gate E. Gate C is complete, Gate D passed, and Gate E Batch 1 has passed through scan p.213.**
+Continue **Speech 7** from the 2007 anthology `தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்`. **Do not restart transcription or Gate E. Gate C is complete, Gate D passed, and Gate E Batches 1–2 have passed through scan p.228.**
 
 ## Mandatory startup
 
@@ -42,41 +42,39 @@ If the controlling PDF is unavailable in a new chat, attach:
 - Gate C: **complete — 42/42 pages**;
 - Gate D: **passed**;
 - Gate E Batch 1: **passed — scan pp.199–213 / printed pp.198–212**;
-- Gate E audited: **15/42 pages**;
-- Gate-E corrections: **3**;
+- Gate E Batch 2: **passed — scan pp.214–228 / printed pp.213–227**;
+- Gate E audited: **30/42 pages**;
+- Gate-E corrections: **5 cumulative**;
 - unresolved/`[REVIEW]`: **0**;
 - Tamil status: **transcribed, not verified**;
 - English: **blocked**.
 
-Gate-E Batch-1 corrections applied in canonical transcript commit `4c42c979f087a78cdaeef3e96a12506bcdd7693e`:
+Batch-1 corrections are documented in the repository. Batch-2 canonical corrections in transcript commit `2ae1963b7d9c5dde4a96eb5ff8b8affbaf3a6693` are:
 
-1. p.202 `விற்கப்படுகின்ற` → `விற்கப்படுகிற`;
-2. p.205 `தெரிவித்து உண்மை` → `தெரிவித்தது உண்மை`;
-3. p.209 `சுட்டிக் காட்டியிருக்கின்றேன்` → `சுட்டிக் காட்டியிருக்கிறேன்`.
+1. scan p.214 / printed p.213 — `552 ஏக்கர்` → `532 ஏக்கர்` for the Hyundai land allotment;
+2. scan p.227 / printed p.226 — `புயூஜிகுரா லிமிடெட்` → `ப்யூஜிகுரா லிமிடெட்`.
 
-The corrected Batch-1 audit record is in `gate-e-batch1-corrections.md`.
+Relevant Batch-2 checkpoints:
 
-Relevant checkpoints:
+- transcript: `2ae1963b7d9c5dde4a96eb5ff8b8affbaf3a6693`
+- metadata: `0dde50ee34d942d81eb233923c0b9ee374955ae3`
+- README: `3016e1b9bd61509307cae00ac593c23bb915a0ce`
+- source notes: `5974d9ac73ca2db8bc1e2dc9f83902d8fa8556ec`
+- verification log: `fe553776f0eabe2e4079b60606f5e05b81b7a116`
+- handover: `bbc3492b8e7b2b9735632b6df6177692f3a41db0`
 
-- canonical transcript corrections: `4c42c979f087a78cdaeef3e96a12506bcdd7693e`
-- corrected Batch-1 audit record: `b268d0d6b62ce8366258260303915e7052bd41c7`
-- metadata: `cfa53dec9a3febc14269a1127a3cc7928d86381b`
-- verification log: `7e8164170d29c53ce837a21625c4bda73387e845`
-- README: `4d7fc9162bbc777d39d6dcf829c28e41d784c424`
-- handover: `57ebdcd5327fe1469e8f6e6d8382787ae7919736`
+## Exact next activity — Speech 7 Gate E Batch 3
 
-## Exact next activity — Speech 7 Gate E Batch 2
-
-1. Re-open the controlling scan at **scan p.214 / printed p.213**.
-2. Strictly verify **scan pp.214–228 / printed pp.213–227** against canonical `transcript.md`.
+1. Re-open the controlling scan at **scan p.229 / printed p.228**.
+2. Strictly verify the remaining Speech-7 range **scan pp.229–240 / printed pp.228–239** against canonical `transcript.md`.
 3. Check Tamil words/characters, names/initials, dates, percentages, monetary values, acreage/units, headings, speaker labels, interventions/context markers, embedded/printed English, punctuation where legible and cross-page continuity.
 4. The scan wins over OCR, extracted text, outside knowledge and plausible reconstruction.
 5. Preserve unusual/historical/source forms.
 6. Apply each source-supported correction to canonical `transcript.md` and itemise it in `verification-log.md` with scan/printed page references.
 7. Record unresolved readings explicitly rather than guessing.
-8. Update the Speech-7 status/audit files with Batch-2 progress.
-9. After Batch 2, Gate E will still have scan pp.229–240 remaining.
-10. Do not begin English until Gate E passes all 42 pages.
+8. Stop at the p.240 closing boundary. Do not include p.241 / Speech 8.
+9. If all remaining 12 pages pass, perform a full Gate-E closure check over all **42/42** Speech-7 pages and update all status files accordingly.
+10. Only after full Gate E passes may Tamil be marked verified and English Gate F begin.
 11. Do not begin Speech 8.
 
-At the end of the session, refresh the handover and this prompt with the exact next Gate-E page and relevant commit SHA(s).
+At the end of the session, refresh the handover and this prompt with Gate-E closure status, exact next activity and relevant commit SHA(s).
