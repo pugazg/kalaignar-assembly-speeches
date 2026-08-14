@@ -1,0 +1,67 @@
+name: Temporary Speech 5 Gate F check
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.event.head_commit.message == 'Temporary patch Speech 5 Gate F translation'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check and patch Gate F files
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          trans = Path('speeches/1996/1996-08-14-industries-debate/translation.md')
+          text = trans.read_text(encoding='utf-8')
+
+          replacements = [
+              (
+                  'potassium chlorate is used as a raw material in match manufacture',
+                  'potassium chloride is used as a raw material in match manufacture'
+              ),
+              (
+                  '"Although Tamil Nadu\'s infrastructure is one of the best, Jayalalitha\'s behaviour has put off business-men. தொழில் தொடங்குவதற்கான அனைத்து வசதிகளும் கொண்ட மாநிலமாக தமிழ்நாடு இருந்தாலும்கூட ஜெயலலிதாவின் நடவடிக்கை பல தொழிலதிபர்களை தொழில் தொடங்க வொட்டாமல் செய்துவிட்டது என்று வேதனையோடு அந்தச் செய்தி வெளியிடுகிறது.',
+                  '"Although Tamil Nadu\'s infrastructure is one of the best, Jayalalitha\'s behaviour has put off business-men. The report states with regret that, even though Tamil Nadu is a State with all the facilities required for starting industries, Jayalalitha\'s conduct prevented many industrialists from starting industries.'
+              ),
+          ]
+
+          for old, new in replacements:
+              count = text.count(old)
+              if count != 1:
+                  raise SystemExit(f'Expected exactly one translation occurrence, found {count}: {old!r}')
+              text = text.replace(old, new, 1)
+
+          pages = [int(x) for x in re.findall(r'^### Source page (\d+)$', text, flags=re.M)]
+          expected = list(range(136, 172))
+          if pages != expected:
+              raise SystemExit(f'Bad Gate F page sequence: {pages}')
+
+          trans.write_text(text, encoding='utf-8')
+
+          transcript = Path('speeches/1996/1996-08-14-industries-debate/transcript.md')
+          t = transcript.read_text(encoding='utf-8')
+          old = 'Gate F English translation is now ready but has not started; it must use this verified Tamil as its source.'
+          new = 'Gate F English translation is complete in the working companion `translation.md`, covering all 36 verified source-page sections; Gate G English fidelity verification has not yet started. The verified Tamil in this file remains the controlling translation source.'
+          count = t.count(old)
+          if count != 1:
+              raise SystemExit(f'Expected transcript Gate-F note once, found {count}')
+          transcript.write_text(t.replace(old, new, 1), encoding='utf-8')
+
+      - name: Commit Gate F checks
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add speeches/1996/1996-08-14-industries-debate/translation.md speeches/1996/1996-08-14-industries-debate/transcript.md
+          git commit -m "Check Speech 5 Gate F translation"
+          git push
