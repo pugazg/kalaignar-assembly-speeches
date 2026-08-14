@@ -28,51 +28,53 @@ The rendered scan image is authoritative for the Tamil source layer. OCR/extract
 
 For this speech: `PDF scan page = printed page + 1`.
 
-The boundaries were directly confirmed from the controlling scan:
+The boundaries were directly confirmed from the controlling scan: scan p.198 closes Speech 6; p.199 begins Speech 7; p.240 closes Speech 7; p.241 begins Speech 8 dated `29.04.1999`.
 
-- scan p.198 closes Speech 6;
-- scan p.199 begins `உரை : 7`, `நாள் : 14.05.1998`;
-- scan p.240 contains the final Speech-7 exchange and decorative ending ornament;
-- scan p.241 begins `உரை : 8`, `நாள் : 29.04.1999`.
+## Gate C and Gate D
 
-## Gate C — Tamil first-pass transcription
+Gate C is complete across all **42/42** mapped pages in three batches: pp.199–213, 214–228 and 229–240. Gate D subsequently passed the full structural/page-marker audit with exact markers **199–240**, no gaps, duplicates, reordering or p.241 spillover. Tamil therefore entered Gate E as **transcribed, not verified**.
 
-Gate C is complete in three bounded batches:
+## Gate E — strict visual/source-fidelity verification
 
-- Batch 1: scan pp.199–213 / printed pp.198–212 — **15 pages**;
-- Batch 2: scan pp.214–228 / printed pp.213–227 — **15 pages**;
-- Batch 3: scan pp.229–240 / printed pp.228–239 — **12 pages**.
-
-Total represented first-pass pages: **42/42**. Explicit unreadable/`[REVIEW]` markers: **0**.
-
-The first pass preserves source-supported Tamil, figures, printed English, project/company names, parliamentary labels/interventions and contextual markers. OCR was used only as helper material on image-only pages; source images controlled readings. Two Batch-1 typing errors and several helper-OCR misreadings in Batch 3 were corrected from the scan during Gate C. These corrections do not constitute Gate E verification.
-
-## Gate D — full-speech completeness/page-marker audit
+### Batch 1 — scan pp.199–213 / printed pp.198–212
 
 Status: **passed**.
 
-Canonical `transcript.md` was audited structurally as one complete Speech-7 unit against the locked **199–240** map.
+Three scan-supported corrections were applied:
 
-Checks passed:
+1. p.202 `விற்கப்படுகின்ற` → `விற்கப்படுகிற`;
+2. p.205 `தெரிவித்து உண்மை` → `தெரிவித்தது உண்மை`;
+3. p.209 `சுட்டிக் காட்டியிருக்கின்றேன்` → `சுட்டிக் காட்டியிருக்கிறேன்`.
 
-- expected page markers: **42**;
-- actual represented markers: **42**;
-- exact sequence: **199, 200, …, 240**;
-- gaps: **0**;
-- duplicates: **0**;
-- reordering: **0**;
-- p.241 marker: **absent**;
-- opening boundary on p.199: `உரை : 7`, `நாள் : 14.05.1998`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`;
-- closing sequence on pp.238–240 includes the printed speaker/intervention changes for `திரு. கே. சுப்பராயன்`, `மாண்புமிகு பேரவைத் தலைவர்`, `திருமதி ஏ.எஸ். பொன்னம்மாள்`, `THIRU B. VENKATASAMY`, `திரு. பி. வெங்கடசாமி`, and Kalaignar's final reply;
-- the printed English Venkatasamy intervention is represented;
-- contextual markers such as `(மேசையைத் தட்டும் ஒலி)` and `(சிரிப்பு)` remain represented;
-- Speech-8 heading/date spillover is absent;
-- unresolved/`[REVIEW]` markers: **0**.
+Correction commit: `4c42c979f087a78cdaeef3e96a12506bcdd7693e`.
 
-Gate D is structural only. It did not perform the required page-by-page character-level source-fidelity comparison. Tamil therefore remains **transcribed, not verified**.
+### Batch 2 — scan pp.214–228 / printed pp.213–227
+
+Status: **passed**.
+
+All 15 pages were re-read against rendered scan images. Two definite canonical corrections were identified and applied:
+
+1. **scan p.214 / printed p.213** — the Hyundai land-allotment figure is printed as `532 ஏக்கர்`; canonical `552 ஏக்கர்` was corrected to `532 ஏக்கர்`.
+2. **scan p.227 / printed p.226** — the printed Japanese-company transliteration reads `ப்யூஜிகுரா லிமிடெட்`; canonical `புயூஜிகுரா லிமிடெட்` was corrected accordingly.
+
+The corrected forms were visually rechecked. No additional definite canonical correction was identified on scan pp.215–226 or 228 in this pass. In particular, helper-OCR alternatives were not substituted where the scan supported the existing unusual printed form. OCR remained non-authoritative throughout.
+
+Batch-2 correction commit: `2ae1963b7d9c5dde4a96eb5ff8b8affbaf3a6693`.
+
+### Gate-E current state
+
+- audited scan pages: **199–228**;
+- audited printed pages: **198–227**;
+- audited count: **30/42**;
+- cumulative Gate-E corrections: **5**;
+- unresolved/`[REVIEW]` readings: **0**;
+- next source page: **scan p.229 / printed p.228**;
+- Tamil status: **transcribed, not verified**;
+- full-speech Gate E: **in progress**;
+- English: **blocked**.
 
 ## Next source work
 
-Gate E must now re-read the complete Tamil directly against scan pp.199–240. Use bounded visual-audit batches, starting with **scan pp.199–213 / printed pp.198–212**. Check words/characters, names, initials, figures, dates, percentages, monetary amounts, units, printed English, labels/interventions, punctuation where legible and cross-page continuity. Record and apply only source-supported corrections.
+Run **Gate E Batch 3** over the remaining Speech-7 range **scan pp.229–240 / printed pp.228–239**. Compare every remaining page directly with the scan, preserve source-supported unusual forms, record and apply only definite source-supported corrections, and stop at the p.240 Speech-7 boundary. Do not enter p.241 / Speech 8.
 
-English remains blocked until Gate E passes for all 42 pages.
+Only when all 42 pages have passed Gate E may the Tamil be marked verified and English begin.
