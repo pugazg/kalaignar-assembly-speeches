@@ -43,29 +43,46 @@ Status: **complete for scan pp.241–255 / printed pp.240–254**.
 
 ## Gate C — Batch 2
 
-Status: **complete for scan pp.256–270 / printed pp.255–269; Speech 8 remains in progress**.
+Status: **complete and merged canonically for scan pp.256–270 / printed pp.255–269**.
 
 - page count: **15 pages**;
-- cumulative Gate-C coverage: **30/37 pages, scan pp.241–270 / printed pp.240–269**;
+- cumulative canonical Gate-C coverage after Batch 2: **30/37 pages, scan pp.241–270 / printed pp.240–269**;
 - source-page markers for this batch: **256–270**;
 - unresolved/`[REVIEW]` readings: **0**;
-- Tamil verification: **not yet performed**.
+- canonical merge checkpoint: `1da567dc66d89847bfa10704254d8bf9e3c8b46a`.
 
-Batch 2 was transcribed directly from rendered scan images. Source-specific forms, company/project names, statistics and printed English were retained rather than externally normalised. Particular material in this batch includes the SIPCOT/industrial-history passage, the 1996–99 factory and investment lists, the C.M.I.E. investment comparison, printed `Economic Times` and `Times of India` quotations, and the information-technology / I.T. policy material.
+Batch 2 includes the SIPCOT/industrial-history passage, the 1996–99 factory and investment lists, the C.M.I.E. investment comparison, printed `Economic Times` and `Times of India` quotations, and the information-technology / I.T. policy material.
 
-This is first-pass transcription only. Gate D and Gate E remain required before Tamil can be marked verified.
+## Gate C — Batch 3
 
-### Exact continuation point
+Status: **first-pass transcription complete for the final seven pages, staged pending canonical merge**.
 
-Scan p.270 ends:
+- scan pages transcribed: **271–277**;
+- printed pages: **270–276**;
+- page count: **7 pages**;
+- staging file: [`gate-c-batch3-pp271-277.md`](./gate-c-batch3-pp271-277.md);
+- unresolved/`[REVIEW]` readings in the staged batch: **0**;
+- canonical `transcript.md` remains at **pp.241–270 / 30/37 pages** until the staged file is safely merged.
 
-`...தமிழகம் முழுவதும் இணைய மயமாக ஆகின்ற அந்த விஞ்ஞானப் புதுமையையும் இந்த அரசு உங்கள் ஆதரவோடு செய்து காட்டும் என்பதை நான் தெரிவித்துக் கொள்கிறேன். (மேசையைத் தட்டும் ஒலி).`
+Batch 3 was transcribed directly from rendered scan images. Source-sensitive material retained includes:
 
-Scan p.271 begins:
+- p.271 `தமிழ்நெட் 1999`, the Unicode Consortium discussion and printed `Tamil Virtual University`;
+- pp.271–272 the 1,200-school / 48,000-student computer-training discussion and the court passage;
+- pp.273–276 the granite-lease case, Rule 39 material and all printed High Court English quotations, including `Mr. Dyaneswaran`;
+- p.276 the source form `8-ஏ` in the granite-rule amendment passage;
+- pp.276–277 the Opposition Leader's salt-pan intervention and Kalaignar's closing `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay.
 
-`கணினிப் பயன்பாடுகளில் உலக அளவில் போதுமான தமிழ் குறியீடுகள் இல்லாத குறையைப் போக்குவதற்காகத்தான் “தமிழ்நெட் 1999” என்ற ஒரு மாநாட்டை நாம் நடத்தினோம்.`
+The staged text ends exactly on scan p.277 after:
 
-The next bounded activity is the **final Gate C Batch 3: scan pp.271–277 / printed pp.270–276**. Stop at the Speech-8 closing boundary; scan p.278 belongs to Speech 9.
+`உப்பளத் தொழில் மாத்திரம் அல்ல, தமிழகத்தில் அப்பளத் தொழிலும் கெடாமல் இந்த அரசு பார்த்துக் கொள்ளும். (மேசையைத் தட்டும் ஒலி).`
+
+The rendered p.278 boundary was also inspected: it begins `உரை : 9`, `நாள் : 8.05.2000`; none of that material is present in the staged Speech-8 text.
+
+This remains first-pass transcription only. Gate D and Gate E are still required before Tamil can be marked verified.
+
+## Exact next activity
+
+Merge staged pp.271–277 into canonical `transcript.md`, confirm exact source-page sequence **241–277** with no p.278 spillover, mark Gate C complete at **37/37** and Tamil `transcribed` (not verified), remove the staging file, and perform the separate Gate D completeness/page-marker audit next.
 
 ## Translation status
 
