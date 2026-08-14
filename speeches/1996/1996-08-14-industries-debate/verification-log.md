@@ -186,9 +186,23 @@ The corrected English has been incorporated after the verified Tamil in canonica
 
 ## Gate H — canonical release/indexing
 
-Status: **not started**.
+Status: **passed**.
 
-Gate H is now the exact next activity. Add Speech 5 to the release/index records only after cross-checking `metadata.json`, `README.md`, `source-notes.md`, `verification-log.md`, `transcript.md`, `translation.md`, root `README.md` and `data/speeches.json` for consistent statuses and ranges. Do not begin Speech 6 until Gate H and the required handover updates are complete.
+Final release audit:
+
+- Speech-5 canonical ID/date/ranges agree across `metadata.json`, `README.md`, `source-notes.md`, `verification-log.md`, `transcript.md`, and `translation.md`: `1996-08-14-industries-debate`, `14.08.1996`, scan pp.136–171 / printed pp.135–170;
+- canonical `transcript.md` contains the complete verified Tamil layer and the complete verified English layer for all 36 source pages;
+- Tamil remains **verified against scan**, unresolved Tamil readings **0**;
+- English remains **verified against the final verified Tamil**, unresolved English fidelity issues **0**;
+- `data/speeches.json` contains the Speech-5 record with `transcription_status: verified`, `verified_against_scan: true`, and `translation_status: verified`;
+- root `README.md` contains the released 14-08-1996 Speech-5 row with scan verification range 136–171;
+- Speech 5 contains no p.172 / Speech-6 spillover.
+
+Gate H is closed. Speech 5 is fully released.
+
+## Next activity
+
+Begin **Speech 6 — `உரை : 6`, 23.04.1997**, locked to **scan pp.172–198 / printed pp.171–197**. Gates A–B are already complete for the anthology; resume with **Gate C Tamil first-pass transcription at scan p.172**.
 
 ## Source availability correction retained
 
