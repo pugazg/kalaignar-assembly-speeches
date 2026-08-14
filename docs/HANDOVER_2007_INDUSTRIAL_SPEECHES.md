@@ -20,39 +20,38 @@ The scan image is authoritative for Tamil transcription and verification. OCR/ex
 - Tamil unresolved readings: **0**
 - Tamil status: **verified**
 - English Gate F canonical: **pp.199–238, 40/42 pages**
+- English Gate F Batch 9: **pp.239–240 translated and staged, not yet canonical**
 - English Gate G: **not started**
 
 ## Gate F English progress
 
-Canonical `translation.md` now contains Batches 1–8, source pp.199–238, **40/42 pages**.
+Canonical `translation.md` contains Batches 1–8, source pp.199–238, **40/42 pages**.
 
-- Batch 1: pp.199–203 — complete and canonical
-- Batch 2: pp.204–208 — complete and canonical
-- Batch 3: pp.209–213 — complete and canonical
-- Batch 4: pp.214–218 — complete and canonical
-- Batch 5: pp.219–223 — complete and canonical
-- Batch 6: pp.224–228 — complete and canonical
-- Batch 7: pp.229–233 — complete and canonical
-- Batch 8: pp.234–238 — complete and canonical
+Batch 9, source pp.239–240, has now been translated only from the final verified Tamil and staged in:
 
-Batch 8 was translated only from the final verified Tamil and preserves source-page correspondence and the p.233→234 continuation. It covers TANITEC funding, ELCOT turnover/profit figures, the Software/Hardware explanation, the source-form `Y2 K-1` discussion and humour, the two-digit year problem, European single-currency work, TIDEL Software Park at Taramani, the Coimbatore software park, the `Single Window System`, the >Rs.100-crore and <Rs.100-crore approval committees, withdrawal of cut motions, and Thiru K. Subbarayan’s textile/cotton intervention with Kalaignar’s reply through p.238.
+`speeches/1998/1998-05-14-industries-debate/gate-f-batch9-pp239-240.md`
 
-Current checkpoints:
+The staged final batch preserves:
 
-- Batch-8 canonical translation: `e293864f67e5ff7e1299cf8062c4df9cde3b33bc`
-- metadata after Batch 8: `34b72993298b82ef6fcfd32a54bcd1cb36b0bb09`
-- README after Batch 8: `76f63fe3a747d65ed0574aaaebdbb7fa1e575c22`
+- Hon. Speaker → Tmt. A.S. Ponnammal intervention;
+- the 413-acre / 380-acre industrial-complex discussion;
+- the Alanganallur Sugar Factory / 2,500 employment reference;
+- Kalaignar’s `கனவு கண்டேன் / கண் துடைப்பு` humour and laughter marker;
+- the complete printed English intervention by `THIRU B. VENKATASAMY` exactly as printed in the verified Tamil source layer;
+- the Hosur ELCOT / ELNET / M.D. exchange;
+- Kalaignar’s final reply;
+- the exact Speech-7 closing boundary on source p.240, with no p.241 / Speech-8 spillover.
 
-No unresolved translation question was introduced. English remains in progress and unverified.
+Batch-9 staged translation commit: `acdd1a08bc818a9b500cd2771b5575e071c1189e`.
 
-## Exact next activity — Speech 7 Gate F Batch 9
+No unresolved translation question was introduced. English remains in progress and unverified because the final two translated pages are staged rather than canonical.
 
-1. Continue from current canonical `translation.md`; do not restart Gate F.
-2. Translate only from final verified Tamil.
-3. Translate the final bounded source/scan **pp.239–240 / printed pp.238–239**.
-4. Preserve every parliamentary speaker change/intervention, names, figures, dates, factory/place references, humour/context, and any printed English.
-5. Stop exactly at the Speech-7 closing boundary on p.240. Do not enter p.241 / Speech 8.
-6. Record unresolved translation questions explicitly rather than guessing.
-7. After pp.239–240 are translated, Gate F will be complete at **42/42 pages**, but English must still remain **not verified** until separate full-speech Gate G passes.
-8. Update `translation.md`, `metadata.json`, Speech-7 README, this handover and the next-chat prompt accordingly.
-9. Do not begin Speech 8.
+## Exact next activity
+
+1. Safely merge `gate-f-batch9-pp239-240.md` into current canonical `translation.md` immediately after source p.238, without altering pp.199–238.
+2. Confirm canonical page sequence is exactly pp.199–240 and that the Speech-7 closing boundary is intact.
+3. Confirm there is no p.241 / Speech-8 content in the canonical Speech-7 translation.
+4. Update `metadata.json`, Speech-7 README, this handover and `docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md` to **Gate F complete — 42/42 pages**.
+5. Delete the staged Batch-9 file only after the canonical merge is confirmed.
+6. Do **not** mark English verified yet. The next activity after canonical Gate-F closure is a separate full-speech **Gate G English fidelity check** against the final verified Tamil.
+7. Do not begin Speech 8.
