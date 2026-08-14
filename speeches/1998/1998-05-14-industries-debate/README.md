@@ -30,16 +30,18 @@
 
 ## Current status
 
-Speech 7 Tamil has completed **Gate C, Gate D and Gate E** and is **verified against scan pp.199–240**.
+Speech 7 Tamil and English have both completed their verification gates.
 
 - Gate C: **complete — 42/42 first-pass Tamil pages**.
 - Gate D completeness/page-marker audit: **passed**.
-- Gate E: **passed — 42/42 pages verified against scan**.
+- Gate E: **passed — 42/42 Tamil pages verified against scan**.
 - Gate E cumulative corrections: **5**.
 - Gate E unresolved/`[REVIEW]` readings: **0**.
 - English Gate F: **complete — source/scan pp.199–240 translated (42/42 pages)**.
-- English Gate G: **not started**.
-- English verified: **no**.
+- English Gate G: **passed — 42/42 pages checked against the final verified Tamil**.
+- Gate G corrections: **0**.
+- Unresolved translation questions: **0**.
+- English verified: **yes**.
 
 ## Gate E — canonical corrections
 
@@ -51,32 +53,33 @@ Speech 7 Tamil has completed **Gate C, Gate D and Gate E** and is **verified aga
 
 The full Gate-E closure reconciled all three visual-audit batches, confirmed exact source-page coverage 199–240, zero unresolved readings, no p.241/Speech-8 spillover, and intact opening/closing parliamentary sequences.
 
-## Gate F — English translation progress
+## Gate F / Gate G — English translation
 
-English has been translated only from the **final verified Tamil** in [`translation.md`](./translation.md), with source-page correspondence preserved.
+English was translated only from the **final verified Tamil** in [`translation.md`](./translation.md), preserving source-page correspondence for all **42/42 pages**.
 
-- Batch 1: source pp.199–203 — complete.
-- Batch 2: source pp.204–208 — complete.
-- Batch 3: source pp.209–213 — complete.
-- Batch 4: source pp.214–218 — complete.
-- Batch 5: source pp.219–223 — complete.
-- Batch 6: source pp.224–228 — complete.
-- Batch 7: source pp.229–233 — complete.
-- Batch 8: source pp.234–238 — complete.
-- Batch 9: source pp.239–240 — complete and merged into canonical `translation.md`.
-- Current total: **42/42 pages**.
-- Unresolved translation questions: **0**.
+Gate G then re-read the complete English against the verified Tamil across source pp.199–240. The audit checked page correspondence, omissions/duplications, cross-page continuations, parliamentary speaker changes, names, dates, figures, percentages, acreage, employment and megawatt values, project/company and technical names, printed English, argument sequence, humour/context markers and the exact p.240 closing boundary.
 
-Batch 9 preserves the complete A.S. Ponnammal intervention, Kalaignar’s `கனவு / கண் துடைப்பு` wordplay and laughter marker, the full printed-English `THIRU B. VENKATASAMY` intervention, and the final Hosur ELCOT/ELNET exchange. The English stops exactly at the Speech-7 closing boundary on p.240; no p.241/Speech-8 material is included.
+Gate-G result:
+
+- source pages verified: **199–240**;
+- page count: **42/42**;
+- missing/duplicate/reordered English pages: **0**;
+- unresolved translation questions: **0**;
+- definite Gate-G corrections required: **0**;
+- Speech-8 spillover: **0**;
+- English status: **verified against final verified Tamil**.
+
+See [`translation-review.md`](./translation-review.md) for the dedicated Gate-G review record.
 
 ## Next activity
 
-Begin the separate **Gate G full-speech English fidelity check**. Re-read canonical `translation.md` against the final verified Tamil `transcript.md` for the complete source range **pp.199–240**, checking page correspondence, completeness, speaker changes, figures, dates, technical/company names, printed English, humour/context and cross-page continuations. Apply any English corrections found and document them. Do not mark English verified until Gate G has passed. Do not begin Speech 8.
+Proceed with **Gate H / release canonicalisation** for Speech 7. Reconcile the verified English layer into the repository's canonical speech presentation, update `data/speeches.json` and the root speech index as appropriate, verify that source paths/page ranges and status fields agree across the entry, and leave Speech 7 release-ready. Do not modify the verified Tamil content. Do not begin Speech 8 until Gate H for Speech 7 is complete.
 
 ## கோப்புகள்
 
 - [`transcript.md`](./transcript.md) — complete Tamil source layer, verified against scan pp.199–240.
-- [`translation.md`](./translation.md) — complete Gate-F English working translation, pp.199–240; not yet Gate-G verified.
-- [`metadata.json`](./metadata.json) — Tamil verified; Gate F complete at 42/42 pages; Gate G not started.
+- [`translation.md`](./translation.md) — complete English translation, verified against final Tamil pp.199–240.
+- [`translation-review.md`](./translation-review.md) — Gate-G full-speech English fidelity review.
+- [`metadata.json`](./metadata.json) — Tamil verified; Gate F complete; Gate G passed.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and verification record.
-- [`verification-log.md`](./verification-log.md) — Gate-C/D history and Gate-E audit/closure trail.
+- [`verification-log.md`](./verification-log.md) — Gate-C/D/E/F/G audit trail.
