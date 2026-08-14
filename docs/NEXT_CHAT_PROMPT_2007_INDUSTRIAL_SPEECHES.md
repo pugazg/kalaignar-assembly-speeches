@@ -1,8 +1,8 @@
-# Next-chat prompt — Speech 8 Gate C Batch 2 / 29.04.1999
+# Next-chat prompt — Speech 8 final Gate C Batch 3 / 29.04.1999
 
 Continue the Kalaignar Assembly Speeches archival project in `pugazg/kalaignar-assembly-speeches`.
 
-Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or modify Speech 7.** Speech 8 has now been started and Gate C Batch 1 is complete. Continue the existing Speech-8 entry; do not create duplicates.
+Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or modify Speech 7.** Speech 8 Gate C Batches 1 and 2 are complete. Continue the existing Speech-8 entry; do not create duplicates.
 
 ## Mandatory startup
 
@@ -22,38 +22,37 @@ Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or mo
 - scan p.240 closes Speech 7
 - scan p.278 begins Speech 9 (`8.05.2000`)
 
-The boundaries were re-confirmed directly from the controlling scan before Speech-8 transcription began.
-
 ## Current Speech-8 state
 
 - Gate C Batch 1: **complete — scan pp.241–255 / printed pp.240–254**
-- Gate C progress: **15/37 pages**
-- next scan page: **256**
+- Gate C Batch 2: **complete — scan pp.256–270 / printed pp.255–269**
+- Gate C progress: **30/37 pages, scan pp.241–270 / printed pp.240–269**
+- next scan page: **271**
 - Tamil status: **in-progress, not verified**
 - unresolved/`[REVIEW]` readings: **0**
 - Gate D: **not started**
 - Gate E: **not started**
 - English: **blocked**
 
-Batch-1 canonical transcript commit: `6203b66c7f81b6a17e1ee192ccb98460f9bd551e`.
+Batch-2 canonical merge commit: `1da567dc66d89847bfa10704254d8bf9e3c8b46a`.
 
 ## Exact continuation
 
-Scan p.255 ends:
+Scan p.270 ends:
 
-`...24 நாடாளுமன்ற உறுப்பினர்களும் அன்றைக்குப் பயன்படுத்தப்பட்டார்கள் என்பதை உங்களுக்குத் தெரிவிப்பதற்காகத்தான் இதைச் சொல்கிறேன்.`
+`...தமிழகம் முழுவதும் இணைய மயமாக ஆகின்ற அந்த விஞ்ஞானப் புதுமையையும் இந்த அரசு உங்கள் ஆதரவோடு செய்து காட்டும் என்பதை நான் தெரிவித்துக் கொள்கிறேன். (மேசையைத் தட்டும் ஒலி).`
 
-Scan p.256 begins:
+Scan p.271 begins:
 
-`இந்தக் காலகட்டத்திலேதான் ஆலங்குளம் சிமெண்ட் தொழிற்சாலையும் அமைக்கப்பட்டது.`
+`கணினிப் பயன்பாடுகளில் உலக அளவில் போதுமான தமிழ் குறியீடுகள் இல்லாத குறையைப் போக்குவதற்காகத்தான் “தமிழ்நெட் 1999” என்ற ஒரு மாநாட்டை நாம் நடத்தினோம்.`
 
-## Exact next activity — Gate C Batch 2
+## Exact next activity — final Gate C Batch 3
 
-1. Continue `transcript.md` from scan p.256.
-2. Transcribe **scan pp.256–270 / printed pp.255–269** directly from rendered scan images.
+1. Continue `transcript.md` from scan p.271.
+2. Transcribe **scan pp.271–277 / printed pp.270–276** directly from rendered scan images.
 3. Preserve source-supported spelling, wording, punctuation, numerals, names, technical terms, speaker labels/interventions and printed English exactly as visible, normalising only physical line wrapping.
 4. Mark uncertain readings explicitly; do not guess or modernise.
-5. Record the exact p.270 ending and p.271 continuation point.
-6. Update metadata, README, source notes, verification log and handover after the bounded batch.
-7. Do not begin English until the entire Speech-8 Tamil passes Gates D and E.
-8. Do not enter scan p.278 / Speech 9.
+5. Stop exactly at the Speech-8 closing boundary on p.277. Do not enter p.278 / Speech 9.
+6. After Batch 3, update metadata, README, source notes, verification log and handover and mark Gate C complete at **37/37 pages**, with Tamil still only `transcribed`, not verified.
+7. Perform Gate D next. Do not start Gate E or English in the same step unless explicitly proceeding to the next activity after Gate D.
+8. English must remain blocked until the entire Tamil passes Gate E.
