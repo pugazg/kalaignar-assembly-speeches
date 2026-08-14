@@ -31,7 +31,7 @@
 
 ## Current transcription status
 
-Speech 5 has completed Gate C, passed Gate D, and now **passed Gate E for the complete Tamil source**.
+Speech 5 has completed Gates C–G. Tamil and English are both **verified**; Gate H release/indexing has not yet been performed.
 
 - Gate C Tamil first-pass: **complete** — **36/36 pages**, scan pp.136–171 / printed pp.135–170.
 - Gate D full-speech completeness/page-marker audit: **passed**.
@@ -40,13 +40,15 @@ Speech 5 has completed Gate C, passed Gate D, and now **passed Gate E for the co
 - Gate E Batch 3: **complete** — scan pp.166–171 / printed pp.165–170 — **1** correction.
 - Gate E final coverage: **36/36 pages**, scan pp.136–171.
 - Cumulative Gate-E source-supported corrections: **23**.
-- Explicit unresolved/`[REVIEW]` readings: **0**.
+- Explicit unresolved/`[REVIEW]` Tamil readings: **0**.
 - Tamil transcription status: **verified**.
-- English translation / Gate F: **complete** — all **36/36** verified source-page sections translated in [`translation.md`](./translation.md); English status is `translated`, not yet verified.
-- Gate G English fidelity verification: **not started**.
+- Gate F English translation: **complete** — **36/36** source-page sections.
+- Gate G English fidelity verification: **passed — 36/36 sections checked against final verified Tamil**.
+- Gate-G fidelity corrections: **7**.
+- English translation status: **verified**.
 - Gate H release/indexing: **not started**.
 
-The canonical [`transcript.md`](./transcript.md) contains the complete **verified Tamil** for all mapped scan pages 136–171. Gate F has translated that verified Tamil into the working companion [`translation.md`](./translation.md), with explicit source-page sections 136–171. Gate G must now verify the complete English against the verified Tamil before the English is merged into canonical `transcript.md`.
+The canonical [`transcript.md`](./transcript.md) now contains the complete verified Tamil followed by the complete verified English for source pages **136–171**. [`translation.md`](./translation.md) is retained as the verified English companion.
 
 ## Gate E correction summary
 
@@ -90,18 +92,32 @@ Scan p.171 / printed p.170 contains the final intervention by `திரு. ஆ
 
 ## Gate F — English translation
 
-Gate F is **complete / not yet verified**. The working companion [`translation.md`](./translation.md) contains **36/36** English source-page sections, exactly **136–171**, translated from the final verified Tamil. The translation preserves page correspondence, parliamentary structure, figures, dates, industrial/technical terms, printed English passages and source anomalies. The page-heading sequence was assertion-checked as exactly 136–171.
+Gate F is **complete**. [`translation.md`](./translation.md) contains **36/36** English source-page sections, exactly **136–171**, translated only from the final verified Tamil. The source-page heading sequence was assertion-checked as exactly 136–171.
 
-Gate F does not confer verified status on English.
+## Gate G — English fidelity verification
+
+Gate G is **passed**. Every English source-page section **136–171** was re-read against the final verified Tamil and the corrected English was merged after the Tamil in canonical [`transcript.md`](./transcript.md).
+
+Seven concrete fidelity corrections were applied during Gate G:
+
+1. p.144 — the remaining `potassium chlorate` occurrence was corrected to source-faithful `potassium chloride`.
+2. pp.156–157 — an omitted repeated Tamil gloss following the second *Business India* quotation was restored in English, including the bribe/payment and “presiding deity” sequence.
+3. p.157 — verified Tamil `நினைவாகி` is no longer silently normalised to “become reality”; the English preserves the printed wording as “become a memory.”
+4. p.162 — the lime-purchase sentence now correctly says an **additional Rs. 200 per metric tonne**, rather than treating Rs. 200 as the base price.
+5. p.163 — verified source `பொதுப் பணித் துறை` is preserved as **Public Works Department** instead of being silently normalised to “public-sector.”
+6. p.167 — verified source `ராஜஸ்தான் ஷிப்...` is preserved as **Rajasthan Ship and Wool::Federation**, rather than silently correcting `Ship` to `Sheep`.
+7. p.167 — the source spelling distinction between `அல்லானா சன்ஸ்` and later `அலானா சன்ஸ், கோவா` is preserved as **Allana Sons** / **Alana Sons, Goa**.
+
+English status after Gate G: **verified**.
 
 ## Next activity
 
-Begin **Gate G — English fidelity verification**. Re-read every English source-page section **136–171** against the final verified Tamil, checking completeness, additions/omissions, names, figures, terminology, speaker/intervention structure, page correspondence and preservation of source anomalies. Document and correct every issue found before marking English `verified` or performing Gate H.
+Proceed to **Gate H — canonical release/indexing** for Speech 5. Update `data/speeches.json` and the root speech index as appropriate, ensure all statuses and source ranges agree across the canonical files, and record the release commit(s). Do not begin Speech 6 until Speech 5 Gate H is complete and the handover/continuation prompt have been refreshed.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — complete verified Tamil; Gate-F completion is noted, but English is kept separate pending Gate G.
-- [`translation.md`](./translation.md) — complete Gate-F English working translation, 36/36 source-page sections; not yet Gate-G verified.
-- [`metadata.json`](./metadata.json) — verified Tamil and Gate-F `translated` status.
-- [`source-notes.md`](./source-notes.md) — source authority, Tamil audit findings and Gate-F translation notes.
-- [`verification-log.md`](./verification-log.md) — Gates C–F records and Gate-G continuation point.
+- [`transcript.md`](./transcript.md) — canonical verified Tamil + verified English.
+- [`translation.md`](./translation.md) — verified English companion, 36/36 source-page sections.
+- [`metadata.json`](./metadata.json) — verified Tamil and verified English; Gate G passed.
+- [`source-notes.md`](./source-notes.md) — source authority, Tamil audit findings and Gate-F/G translation notes.
+- [`verification-log.md`](./verification-log.md) — Gates C–G records and Gate-H continuation point.
