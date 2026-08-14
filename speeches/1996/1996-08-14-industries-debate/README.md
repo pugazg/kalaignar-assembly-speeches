@@ -31,36 +31,41 @@
 
 ## Current transcription status
 
-Speech 5 is **in progress**.
+Speech 5 has completed Gate C and passed Gate D, but it is **not yet verified**.
 
-- Gate C Tamil first-pass: **in progress** — Batches 1–2 complete, **30/36 pages** represented.
-- Batch 1: **scan pp.136–150 / printed pp.135–149**.
-- Batch 2: **scan pp.151–165 / printed pp.150–164**.
-- Tamil transcription status: **in-progress**; not reviewed or verified.
-- Explicit unresolved/`[REVIEW]` readings through Batch 2: **0**.
-- Next scan page: **166**.
-- Gate D Tamil completeness audit: **not eligible** until all scan pp.136–171 are represented.
-- Gate E strict Tamil source-fidelity verification: **not started**.
-- English translation: **blocked until Tamil Gates C–E are complete**.
+- Gate C Tamil first-pass: **complete** — **36/36 pages**, scan pp.136–171 / printed pp.135–170.
+- Batch 1: scan pp.136–150.
+- Batch 2: scan pp.151–165.
+- Batch 3: scan pp.166–171.
+- Gate D full-speech completeness/page-marker audit: **passed**.
+- Tamil transcription status: **transcribed**; not reviewed or verified.
+- Explicit unresolved/`[REVIEW]` readings after Gate D: **0**.
+- Gate E strict Tamil source-fidelity verification: **not started; next activity**.
+- English translation: **blocked until Gate E is complete and Tamil is verified**.
 - Gate H release/indexing: **not started**.
 
-The canonical [`transcript.md`](./transcript.md) currently contains Gate-C first-pass Tamil for scan pp.136–165. It must not be described as reviewed or verified.
+The canonical [`transcript.md`](./transcript.md) contains the complete first-pass Tamil for all mapped scan pages 136–171 with explicit source-page markers. It must not yet be described as verified.
 
-## Current continuation boundary
+## Final Gate-C boundary
 
-Scan p.165 / printed p.164 ends mid-sentence with:
+Scan p.171 / printed p.170 contains the final intervention by `திரு. ஆர். சொக்கர்` about the `சிங்கப்பூர் காரிடார்`, followed by Kalaignar's reply that the government would try to bring a corridor-like major industry from Singapore to Tamil Nadu. The printed decorative ending ornament follows that reply.
 
-`... அதன் மூலம் இந்த கிராபைட் தொழிற்சாலை பெரும் அளவிற்கு எதிர்காலத்திலே வளரும், அந்த மாவட்டம் தொழில் வளம் பெருகுவதுமான ஒரு சூழ்நிலை ஏற்படும்`
+A direct boundary check confirms scan p.172 / printed p.171 begins the next anthology unit: `உரை : 6`, dated `23.04.1997`.
 
-Scan p.166 / printed p.165 visibly continues with `என்பதையும் நான் இங்கே சொல்லிக்கொள்ள வேண்டியவனாக இருக்கின்றேன்.` The next Gate-C transcription page is therefore **scan p.166 / printed p.165**.
+## Gate D result
 
-## Source availability
+- expected mapped pages: **36**;
+- represented source-page range: **136–171**, complete and in order;
+- no mapped page omitted or duplicated;
+- opening and ending boundaries align with the locked anthology map;
+- final speaker/intervention sequence is represented;
+- explicit unresolved-reading markers: **0**.
 
-The current uploaded PDF was checked directly as a raw PDF and contains the full **329 scan pages** with the established file size **217,124,211 bytes**. The earlier chat file-preview layer exposed images only through p.150; that preview limitation was not a limitation of the controlling PDF itself. Batch 2 was therefore rendered directly from the raw controlling PDF for scan pp.151–165.
+Gate D establishes completeness, not source fidelity. Gate E must now compare the entire Tamil transcript directly against every scan page before `verified` status is allowed.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — current Gate-C first-pass Tamil, scan pp.136–165.
-- [`metadata.json`](./metadata.json) — source, full range, completed range and current statuses.
-- [`source-notes.md`](./source-notes.md) — source authority, Batch-1/Batch-2 notes and continuation boundary.
-- [`verification-log.md`](./verification-log.md) — Gate-C batch records and blocked downstream gates.
+- [`transcript.md`](./transcript.md) — complete Gate-C first-pass Tamil, scan pp.136–171; Gate D passed.
+- [`metadata.json`](./metadata.json) — source, completed range and current statuses.
+- [`source-notes.md`](./source-notes.md) — source authority, three Gate-C batches, boundary and Gate-D notes.
+- [`verification-log.md`](./verification-log.md) — Gate-C batches, Gate-D audit and blocked downstream gates.
