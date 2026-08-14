@@ -217,6 +217,27 @@ All **27 English source-page sections, 172–198**, were re-read against the cor
 
 The corrected English has been incorporated after the verified Tamil in canonical [`transcript.md`](./transcript.md).
 
-## Exact next activity — Gate H canonical release/indexing
+## Gate H — canonical release/indexing
 
-Perform **Gate H for Speech 6**. Reconcile all Speech-6 canonical and companion files, confirm ID/date/ranges/statuses agree, confirm canonical `transcript.md` contains the complete verified Tamil followed by complete verified English, then update root `README.md` and `data/speeches.json` to release Speech 6 with `transcription_status: verified`, `verified_against_scan: true`, and `translation_status: verified`. Do not begin Speech 7 until Gate H closes.
+Status: **passed**.
+
+Final consistency audit:
+
+- canonical ID: `1997-04-23-industries-debate`;
+- printed date: `23.04.1997`; ISO date: `1997-04-23`;
+- scan / printed ranges: **172–198 / 171–197**;
+- canonical Tamil source-page markers: **27**, exactly 172–198;
+- canonical English source-page sections: **27**, exactly 172–198;
+- Tamil: **verified**, `verified_against_scan: true`;
+- English: **verified**, `verified_against_tamil: true`;
+- unresolved Tamil readings: **0**;
+- unresolved English fidelity issues: **0**;
+- p.199 / Speech-7 spillover: **none**;
+- root `README.md`: Speech 6 indexed as Verified/Verified;
+- `data/speeches.json`: Speech 6 added with `transcription_status: verified`, `verified_against_scan: true`, `translation_status: verified`.
+
+Speech 6 is **released**.
+
+## Exact next activity — Speech 7 in a new chat
+
+Start `உரை : 7` dated `14.05.1998`, canonical ID `1998-05-14-industries-debate`, locked to scan pp.199–240 / printed pp.198–239. Re-read the workflow and mapping, re-confirm the p.198→199 and p.240→241 boundaries directly from the controlling scan, confirm no Speech-7 folder already exists, create the standard canonical files, and begin Gate C Tamil transcription in a bounded first batch. English remains blocked until Speech 7 passes Gates D and E.

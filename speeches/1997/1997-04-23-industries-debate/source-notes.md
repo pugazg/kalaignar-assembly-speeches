@@ -205,6 +205,10 @@ Gate-G final result:
 
 The corrected English has been incorporated after the verified Tamil in canonical [`transcript.md`](./transcript.md), following the released Speech-5 precedent.
 
+## Gate H — canonical release/indexing
+
+Status: **passed**. The final release audit reconciled `metadata.json`, `README.md`, `source-notes.md`, `verification-log.md`, `translation.md`, and canonical `transcript.md`. ID/date/ranges agree; canonical Tamil markers and English sections are exactly 172–198; Tamil is verified against the scan; English is verified against final Tamil; unresolved issues are 0; and no p.199/Speech-7 content is present. Root `README.md` and `data/speeches.json` now contain the released Speech-6 entry.
+
 ## Next activity
 
-Proceed to **Gate H — canonical release/indexing for Speech 6**. Re-audit consistency across `metadata.json`, `README.md`, `source-notes.md`, `verification-log.md`, `translation.md`, and canonical `transcript.md`; then update root `README.md` and `data/speeches.json` with the verified Tamil and verified English release state. Do not begin Speech 7 until Gate H is closed.
+Begin Speech 7 (`உரை : 7`, `14.05.1998`, scan pp.199–240 / printed pp.198–239, canonical ID `1998-05-14-industries-debate`) in a fresh chat window using `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` and `docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md`.
