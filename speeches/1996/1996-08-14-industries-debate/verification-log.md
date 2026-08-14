@@ -33,7 +33,7 @@ Status: **completed first pass; Gate C complete**.
 - p.171 ends after the final `திரு. ஆர். சொக்கர்` intervention and Kalaignar reply, followed by the decorative ending ornament;
 - scan p.172 begins `உரை : 6 / நாள் : 23.04.1997`.
 
-Gate C completion does **not** confer `reviewed` or `verified` status.
+Gate C completion did **not** by itself confer `reviewed` or `verified` status.
 
 ## Gate D — full-speech Tamil completeness/page-marker audit
 
@@ -50,15 +50,15 @@ Audit results for the locked full range **scan pp.136–171 / printed pp.135–1
 - printed speaker changes/interventions are represented through the final exchange;
 - explicit unresolved-reading markers: **0**.
 
-Tamil status after Gate D: **transcribed**. It is not yet fully verified.
+Gate D established completeness only. Tamil remained `transcribed` until Gate E was finished.
 
 ## Gate E — strict Tamil visual/source-fidelity verification
 
-Status: **in progress**.
+Status: **passed — complete 36/36-page direct visual audit**.
 
 ### Batch 1 — scan pp.136–150 / printed pp.135–149
 
-Status: **strict visual audit completed for this batch**.
+Status: **strict visual audit completed**.
 
 All **15** pages were re-read directly against the controlling scan images. Words/characters, names, numerals, dates, percentages, monetary values and units, embedded English, speaker/context labels, punctuation where legible, and page transitions were checked. The following **18 concrete source-supported corrections** were applied to canonical `transcript.md`:
 
@@ -88,15 +88,13 @@ Important deliberate retentions after direct visual checking:
 - p.149 embedded English audit quotations were checked against the scan and retained;
 - p.150 `'Good atmosphere'` is retained; only physical scan line wrapping is normalised.
 
-The earlier first-pass p.146 note `ஓட்டலுக்கு மறுப்பு எழுதினாரோ` is no longer a retained anomaly: the scan clearly contains `கொடைக்கானல் ஓட்டலுக்கு மறுப்பு எழுதினாரோ`, and the canonical transcript has been corrected accordingly.
-
 Batch-1 unresolved/`[REVIEW]` markers after strict audit: **0**.
 
 ### Batch 2 — scan pp.151–165 / printed pp.150–164
 
-Status: **strict visual audit completed for this batch**.
+Status: **strict visual audit completed**.
 
-All **15** pages were compared directly against the controlling scan images for words and individual characters, names, numerals, dates, percentages, monetary values and units, embedded English, punctuation where legible, and page-transition continuity. The following **4 concrete source-supported corrections** were applied to canonical `transcript.md`:
+All **15** pages were compared directly against the controlling scan images for words and individual characters, names, numerals, dates, percentages, monetary values and units, embedded English, punctuation where legible, and page-transition continuity. The following **4 concrete source-supported corrections** were applied:
 
 - p.153: `தொழிற்சாலை உருவாவதற்குக் தேவை` → `தொழிற்சாலை உருவாவதற்குத் தேவை`;
 - p.159: `ஒரு பிரஞ்சு கம்பெனி` → `ஒரு பிரெஞ்சு கம்பெனி`;
@@ -105,28 +103,54 @@ All **15** pages were compared directly against the controlling scan images for 
 
 Important deliberate retentions after direct visual checking:
 
-- p.154 `Our closed historical and cultural ties` is printed that way and remains unchanged;
-- p.155 `Sigapore` is visibly printed and remains unchanged;
-- p.156 `Tom, Tick & Harry` is retained exactly as printed;
-- p.157 `business-men` is retained exactly as printed;
-- pp.158–159 `Liquified Natural Gas` and `LNG Terminal (Liquified)` are retained as printed;
-- p.162 `அருணா ஷூகாஸ்` is retained as printed;
-- p.163 `தேவையேயில்லாமல்,,` retains the printed double comma, and `ஊழல் நடத்திருக்கிறது` is retained as printed;
-- p.164 `ஸ்பெசிபிக் நேர்வு` is retained as printed.
+- p.154 `Our closed historical and cultural ties`;
+- p.155 `Sigapore`;
+- p.156 `Tom, Tick & Harry`;
+- p.157 `business-men`;
+- pp.158–159 `Liquified Natural Gas` and `LNG Terminal (Liquified)`;
+- p.162 `அருணா ஷூகாஸ்`;
+- p.163 `தேவையேயில்லாமல்,,` and `ஊழல் நடத்திருக்கிறது`;
+- p.164 `ஸ்பெசிபிக் நேர்வு`.
 
 Batch-2 unresolved/`[REVIEW]` markers after strict audit: **0**.
 
-Gate-E coverage now stands at **30/36 pages**, scan pp.136–165 / printed pp.135–164. A cumulative **22 source-supported corrections** have been applied across Gate-E Batches 1–2. This partial verification does **not** confer verified status on the full speech. Tamil remains `transcribed` until scan pp.166–171 also pass Gate E.
+### Batch 3 — scan pp.166–171 / printed pp.165–170
 
-### Next Gate-E batch
+Status: **strict visual audit completed; Gate E closed**.
 
-Audit the final **scan pp.166–171 / printed pp.165–170** directly against the controlling scan. Deliberately check the still-unverified unusual first-pass forms on pp.167–170, including the transliterated meat-industry organisation/place sequence, `வறுமை தேன் எனக் கொட்டுகிறது`, `side effects`, `anti-biotic`, `சிண்டாக்`, and the State Planning Commission names/parenthetical roles. Only after the entire range **136–171** passes may Tamil be marked `verified`.
+All **6** final pages were re-read directly against the controlling scan. The audit checked the p.165→166 continuation, the meat-processing organisation/place sequence, the pollution-control and medicine analogy, the complete State Planning Commission list, the final speaker/intervention sequence, and the p.171/p.172 ending boundary.
+
+The following **1 concrete source-supported correction** was applied:
+
+- p.167: `நாட்டிலே மாத்திரமல்ல; உங்களுக்கு சொல்லவேண்டுமேயானால்.` → `நாட்டிலே மாத்திரமல்ல; உங்களுக்குச் சொல்லவேண்டுமேயானால்.`
+
+Important deliberate retentions confirmed directly from the scan:
+
+- p.167 `ராஜஸ்தான் ஷிப் அண்டு உல்::பெடரேஷன்` is visibly printed and remains unchanged;
+- p.167 the transliterated sequence including `பஞ்சாப் மீட் லிமிடெட், தேராபாணி`, `டியோனர் அபட்டார் பி.எம்.சி.`, `ஹிண்ட் இண்டஸ்ட்ரீஸ் லிமிடெட்`, `அல்பீர் எக்ஸ்போர்ட் லிமிடெட்`, `அல்லானா சன்ஸ்`, `அரேபியன் எக்ஸ்போர்ட்ஸ்`, `எம்.கே. ஓவர்சீஸ் எக்ஸ்போர்ட்ஸ்`, and `அலானா சன்ஸ், கோவா` was checked and retained;
+- p.168 `வறுமை தேன் எனக் கொட்டுகிறது`, printed `side effects`, repeated `anti-biotic`, and `சிண்டாக்` / quoted `'சிண்டாக்'` are scan-supported and retained;
+- p.169–170 State Planning Commission entries were character-checked and retained, including `திரு. எல்.சி. ஜெயின்`, `திரு. எஸ். வெங்கிட ரமணன்`, `திரு. எஸ். குகன்`, `திரு. டி.வி. அந்தோணி`, `திருமதி. லலிதா காமேஸ்வரன்`, `டாக்டர் வைத்தியநாதன்`, `டாக்டர் சண்முகசுந்தரம்`, and `திரு. கே.வி. பழனிதுரை`, with their printed parenthetical roles;
+- p.170 final interventions by `மாண்புமிகு திரு. கோ. சி. மணி`, `மாண்புமிகு கலைஞர் மு. கருணாநிதி`, and `திரு. சி. ஞானசேகரன்` were checked against the scan;
+- p.171 final `திரு. ஆர். சொக்கர்` intervention and Kalaignar reply were checked, followed by the printed decorative ending ornament;
+- scan p.172 begins `உரை : 6`, dated `23.04.1997`, confirming the ending boundary.
+
+Batch-3 unresolved/`[REVIEW]` markers after strict audit: **0**.
+
+### Gate-E final result
+
+- strictly audited scan pages: **36/36**, exactly **136–171**;
+- printed pages: **135–170**;
+- source-supported corrections: **23 cumulative** — 18 + 4 + 1;
+- unresolved readings: **0**;
+- `verified_against_scan`: **true**;
+- strict full-speech visual verification: **true**;
+- Tamil status: **verified**.
 
 ## Gate F — English translation
 
-Status: **blocked**.
+Status: **ready / not started**.
 
-English translation must not begin until Gate E passes for the complete speech and Tamil is marked verified.
+Gate F may now begin because the Tamil source gate is satisfied. Translate only from the final verified Tamil in canonical `transcript.md`, preserve source-page correspondence and speaker/intervention structure, and do not silently repair source claims or anomalies.
 
 ## Gate G — English fidelity verification
 
@@ -136,7 +160,7 @@ Status: **not started**.
 
 Status: **not started**.
 
-Do not add Speech 5 to the released root index or `data/speeches.json` until the final Tamil and English have completed their required gates.
+Do not add Speech 5 to the released root index or `data/speeches.json` until Gate F is complete and Gate G has passed.
 
 ## Source availability correction retained
 
