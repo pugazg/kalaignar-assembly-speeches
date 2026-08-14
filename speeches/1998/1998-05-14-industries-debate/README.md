@@ -30,7 +30,7 @@
 
 ## Current status
 
-Speech 7 has completed **Gate C** and **Gate D**. All three bounded Gate-E visual-audit batches are complete; a separate full-speech Gate-E closure check is still pending.
+Speech 7 Tamil has completed **Gate C, Gate D and Gate E**.
 
 - Full mapped speech: **42 scan pages**, pp.199–240 / printed pp.198–239.
 - Gate C: **complete — 42/42 first-pass Tamil pages**.
@@ -38,12 +38,12 @@ Speech 7 has completed **Gate C** and **Gate D**. All three bounded Gate-E visua
 - Gate E Batch 1: **passed — scan pp.199–213 / printed pp.198–212**.
 - Gate E Batch 2: **passed — scan pp.214–228 / printed pp.213–227**.
 - Gate E Batch 3: **passed — scan pp.229–240 / printed pp.228–239**.
-- Gate E pages individually audited: **42/42**.
+- Full Gate-E closure check: **passed**.
+- Gate E verified pages: **42/42**.
 - Gate E cumulative corrections: **5**.
 - Gate E unresolved/`[REVIEW]` readings: **0**.
-- Gate E formal status: **pending full-speech closure check**.
-- Current Tamil status: **transcribed, not yet formally verified**.
-- English: **blocked** until Gate-E closure passes.
+- Current Tamil status: **verified against scan**.
+- English Gate F: **unblocked, not started**.
 
 ## Gate E — corrections
 
@@ -64,16 +64,30 @@ Batch-2 correction commit: `2ae1963b7d9c5dde4a96eb5ff8b8affbaf3a6693`.
 
 Batch 3 directly re-read scan pp.229–240 and found **no additional definite canonical correction**. It included the project-list continuation, IT/software/Y2K/TIDEL material, `Single Window System`, the Subbarayan and Ponnammal interventions, the full printed `THIRU B. VENKATASAMY` intervention and Kalaignar's final reply. Scan p.241 / Speech 8 was excluded.
 
+## Full Gate-E closure
+
+The separate closure check reconciled all three Gate-E batch records and the current canonical transcript. It confirmed:
+
+- exact bounded coverage: **199–213 + 214–228 + 229–240 = 42/42 pages**;
+- all five logged corrected forms are present canonically;
+- unresolved readings: **0**;
+- the source-page sequence remains exactly **199–240**, with no p.241/Speech-8 spillover;
+- the p.199 `உரை : 7` / `நாள் : 14.05.1998` / speaker opening remains intact;
+- the p.240 Speaker → `THIRU B. VENKATASAMY` → Tamil follow-up → Kalaignar final-reply sequence remains intact;
+- audited printed-English passages remain represented.
+
+Tamil therefore satisfies the repository definition of **verified**.
+
 ## Next activity
 
-Perform the **full Gate-E closure check** across the complete Speech-7 unit. Confirm exact batch coverage, all five canonical corrections, zero unresolved readings, the 42 source-page markers 199–240, no p.241/Speech-8 spillover, intact opening/closing boundaries and internal status consistency.
+Begin **Gate F — English translation** from the **final verified Tamil**, following `docs/ARCHIVAL_WORKFLOW.md` and the established structure used by the released speeches. Do not translate from OCR or an earlier Tamil draft. Preserve source claims, parliamentary context, figures, technical terms and page correspondence.
 
-Only after that closure check passes may Tamil be marked verified and English Gate F begin.
+Do not begin Speech 8.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — complete Tamil transcript; all 42 source pages have now been visually audited.
-- [`metadata.json`](./metadata.json) — Gate E page-audit complete / closure pending.
-- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and Gate-E progress.
-- [`verification-log.md`](./verification-log.md) — Gate-C/D history and the complete Gate-E batch audit trail.
+- [`transcript.md`](./transcript.md) — complete Tamil source layer, verified against scan pp.199–240.
+- [`metadata.json`](./metadata.json) — Gate E passed; Tamil verified; English Gate F unblocked.
+- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and verification record.
+- [`verification-log.md`](./verification-log.md) — Gate-C/D history, Gate-E batch audit and closure trail.
 - [`gate-e-batch1-corrections.md`](./gate-e-batch1-corrections.md) — corrected Batch-1 source-fidelity findings.
