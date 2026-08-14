@@ -175,32 +175,48 @@ Gate E **passes** for the complete Speech-6 Tamil, scan pp.**172–198** / print
 
 ## Gate F — English translation
 
-Status: **complete; not yet verified**.
+Status: **complete**.
 
-A complete first-pass English rendering was created in [`translation.md`](./translation.md) from the **final verified Tamil**, covering every source page **172–198**. Gate F did not use OCR or an earlier Tamil draft as its translation authority.
+A complete first-pass English rendering was created in [`translation.md`](./translation.md) from the final verified Tamil, covering every source page **172–198**. Gate-F structural assertions confirmed exactly 27 ordered page headings, no p.199/Speech-7 spillover, no `[REVIEW]` markers, and 0 unresolved translation questions. Gate F itself did not confer verification.
 
-### Gate-F structural assertions
+## Gate G — English fidelity verification
 
-- expected English source-page headings: **27**;
-- actual English source-page headings: **27**;
-- exact heading sequence: **172–198**;
-- missing / duplicate / reordered headings: **0 / 0 / 0**;
-- p.199 / Speech-7 spillover: **absent**;
-- `[REVIEW]` markers in working English: **0**;
-- unresolved translation questions recorded at this gate: **0**.
+Status: **passed**.
 
-### Translation-fidelity principles used
+All **27 English source-page sections, 172–198**, were re-read against the corresponding final verified Tamil. The audit checked completeness, additions/omissions, page-boundary continuity, names and initials, dates, percentages, rupee values, acreage, megawatts and other figures, industrial/technical terminology, lists, quotations, printed English passages, desk-thump/laughter markers, humour, source anomalies and the p.198 closing.
 
-The first-pass English preserves argumentative and parliamentary sequence, source claims, names, dates, percentages, rupee values, acreage, megawatts, technical terms, the p.180–181 15-item Joint Sector list, the p.193 13-item LNG bidder list, and contextual markers such as desk-thumping and laughter. Printed English passages already present in the Tamil source are reproduced in source form, including visible anomalies such as `Financial Time`, `Bernard Fintlay`, `transparent appoach`, and `Liquified Natural Gas`; Gate F does not silently repair them from outside knowledge.
+### Corrections applied during Gate G
 
-### Gate-F result
+1. **p.172 — context-marker position:** moved `(Sound of desk-thumping.)` to immediately after the request to borrow Anna's heart, matching the verified Tamil sequence.
+2. **p.177 — terminology:** `industrial complex` → `industrial undertaking` for verified `தொழில் நிறுவனம்`.
+3. **p.178 — source inconsistency/omission:** restored the explicit 1972 `Tamil Nadu Electronics Corporation — ‘ELCOT’` clause and retained the later 1975 `Electronic Corporation of Tamil Nadu ... ‘ELCOT’` statement, rather than silently reconciling the source's internal chronology.
+4. **p.181 — source-name anomaly:** `Inter Continental Leathers Limited` → `Indar Continental Leathers Limited`, preserving verified `இண்டார் காண்டினென்டல்`.
+5. **p.182 — unsupported inference:** `foundation ceremony` → `commencement ceremony` for verified `தொடக்க விழா`.
+6. **p.184 — terminology:** `Vigilance Wing` → `Vigilance Task Force` for verified `விழிப்புப் பணிக்குழு`.
+7. **p.191 — figure semantics:** `each over 50 hectares` → `each covering 50 hectares`, matching verified `ஒவ்வொன்றும் 50 ஹெக்டேர்`.
+8. **pp.194–195 — source wording:** changed every Jayankondam `lignite` rendering in this passage to `coal`, preserving verified `நிலக்கரி` without adding specificity.
+9. **p.195 — addition removed:** `a single window (Window)` → `a window (Window)`, matching verified `ஒரு சாளரமாகச் (Window)`.
+10. **p.197 — source-name anomaly:** `TANCEM` → `Tansam`, preserving verified `'டான்சம்'` rather than silently normalising the name from outside knowledge.
+11. **p.197 — place wording:** `go back to their constituencies` → `go back home`, matching verified `ஊருக்குப் போவோம்`.
+12. **p.197 — source anomaly/wording:** `I will pursue it without letting go` → `I will make the effort saying, “I will not leave it; I will not touch it,”`, preserving verified `விடேன் தொடேன்` instead of repairing its odd wording.
 
-- translated pages: **27/27**, scan pp.172–198 / printed pp.171–197;
-- working file: `translation.md`;
-- English status: **complete-unverified**;
-- `verified_against_tamil`: **false**;
-- Gate G: **required**.
+### Gate-G final checks
 
-## Exact next activity — Gate G English fidelity verification
+- English sections audited: **27/27**, exactly **172–198**;
+- missing / duplicate / reordered English sections: **0 / 0 / 0**;
+- printed English anomalies retained, including `Financial Time`, `Bernard Fintlay`, `transparent appoach`, `Liquified Natural Gas` and the Mark Nicholson quotations/headline;
+- pp.180–181 15-item Joint Sector list checked;
+- pp.185–186 *Economist Intelligence Unit* passage checked;
+- pp.192–193 LNG project and 13-item bidder list checked;
+- pp.194–196 Jayankondam/Singapore/TIDCO projects checked;
+- p.197 rubber-factory humour/source anomaly checked;
+- p.198 front-row/backward wordplay and final grant closure checked;
+- p.199 / Speech-7 spillover: **none**;
+- unresolved English fidelity issues after audit: **0**;
+- English status: **verified**.
 
-Re-read **all 27 English source-page sections, 172–198**, against the final verified Tamil in canonical `transcript.md`. Check completeness, additions/omissions, page-boundary continuity, names/initials, figures, dates, percentages, monetary values/units, technical and industrial terminology, quotations, printed English passages, source anomalies, humour/context markers and the final p.198 closing. Apply and itemise every correction in this log. Only after the complete comparison passes may English be marked `verified` and merged after the Tamil source layer in canonical `transcript.md`. Do not begin Speech 7 or Gate-H release/index work yet.
+The corrected English has been incorporated after the verified Tamil in canonical [`transcript.md`](./transcript.md).
+
+## Exact next activity — Gate H canonical release/indexing
+
+Perform **Gate H for Speech 6**. Reconcile all Speech-6 canonical and companion files, confirm ID/date/ranges/statuses agree, confirm canonical `transcript.md` contains the complete verified Tamil followed by complete verified English, then update root `README.md` and `data/speeches.json` to release Speech 6 with `transcription_status: verified`, `verified_against_scan: true`, and `translation_status: verified`. Do not begin Speech 7 until Gate H closes.

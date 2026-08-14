@@ -68,11 +68,11 @@
   },
   "translation": {
     "language": "English",
-    "placement": "working translation is in translation.md; after Gate G verification the corrected English will be incorporated after the verified Tamil in canonical transcript.md",
+    "placement": "verified English follows the verified Tamil in canonical transcript.md; translation.md is retained as the verified working companion",
     "working_file": "translation.md",
-    "status": "complete-unverified",
+    "status": "verified",
     "gate_f_status": "complete",
-    "gate_g_status": "not-started",
+    "gate_g_status": "passed",
     "requires_verified_tamil": true,
     "tamil_gate_satisfied": true,
     "source": "final verified Tamil transcription",
@@ -81,8 +81,11 @@
     "total_page_count": 27,
     "source_page_correspondence": true,
     "unresolved_translation_questions": 0,
-    "verified_against_tamil": false,
-    "verification_gate": "Gate F complete; Gate G English fidelity verification required before English can be marked verified",
-    "completion_note": "Gate F produced a complete first-pass English translation of all 27 verified Tamil source-page sections 172-198 in translation.md. Printed English passages embedded in the Tamil source were retained in source form, including visible anomalies. English is complete but not verified until Gate G re-reads every section against the final verified Tamil."
+    "verified_against_tamil": true,
+    "verification_gate": "Gate G passed",
+    "completion_note": "Gate F translated all 27 verified Tamil source-page sections 172-198. Gate G then re-read all 27 English sections page by page against the final verified Tamil, applied 12 fidelity corrections, and passed. The corrected verified English has been merged after the Tamil source layer in canonical transcript.md. English status is verified.",
+    "unresolved_english_fidelity_issues": 0,
+    "verification_pages": "172-198",
+    "gate_g_correction_count": 12
   }
 }

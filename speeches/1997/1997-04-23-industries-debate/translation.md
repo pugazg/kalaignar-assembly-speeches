@@ -1,6 +1,6 @@
 # English translation — உரை : 6 / 23.04.1997
 
-> **Gate F translation note:** This is the complete first-pass English translation of the final verified Tamil transcription for scan pp.172–198 / printed pp.171–197. It preserves source-page correspondence, parliamentary context, names, figures, technical terminology, argument sequence, quotations and source claims. Printed English passages embedded in the Tamil source are reproduced in their source form, including visible anomalies. Gate F is **complete**, but the English is **not yet verified**; Gate G must re-read every English source-page section against the final verified Tamil before English can be marked verified.
+> **Gate G verification note:** This is the complete English rendering of the final verified Tamil transcription for scan pp.172–198 / printed pp.171–197. It preserves source-page correspondence, parliamentary context, names, figures, technical terminology, argument sequence, quotations, humour/context markers, and unusual or internally inconsistent source claims without substituting external historical corrections. Printed English passages embedded in the Tamil source are reproduced in their source form, including visible anomalies. Gate F is complete and Gate G has **passed** after a full page-by-page fidelity review of all 27 English source-page sections against the final verified Tamil. Gate-G corrections are documented in `verification-log.md`. English status is **verified**.
 
 ### Source page 172
 
@@ -9,7 +9,7 @@
 
 **Hon. Kalaignar M. Karunanidhi:** Hon. Speaker, on the demand for grants for the Large Industries Department, many members belonging to the Opposition and allied parties have given good explanations and constructive suggestions so that industry may grow further in Tamil Nadu. Following those views, and having obtained the opportunity that this Government has so far taken up in the industrial field, I now stand before this House.
 
-First, our Legislative Assembly member and Tamil Maanila Congress member Thiru Alagiri, when he began speaking on this grant, said that he was speaking with a heavy heart and said that, like him, I too would be heavy-hearted. Perhaps, because we are going to speak about heavy industries, the word “heavy” found a place in his mind. As far as I am concerned, I am not one who ever wishes to make my heart heavy, nor have I done so. For, when Anna passed away, I asked him to lend me his heart, and it is with that heart which can bear anything that I have conducted my public life, particularly my political life. (Sound of desk-thumping.)
+First, our Legislative Assembly member and Tamil Maanila Congress member Thiru Alagiri, when he began speaking on this grant, said that he was speaking with a heavy heart and said that, like him, I too would be heavy-hearted. Perhaps, because we are going to speak about heavy industries, the word “heavy” found a place in his mind. As far as I am concerned, I am not one who ever wishes to make my heart heavy, nor have I done so. For, when Anna passed away, I asked him to lend me his heart. (Sound of desk-thumping.) It is with that heart which can bear anything that I have conducted my public life, particularly my political life.
 
 In the film *Poompuhar*, I wrote the dialogue, “Only when conscience sleeps does the monkey-mind set out to roam the town.” If not only I, but everyone begins to think about that—
 
@@ -51,7 +51,7 @@ Similarly, during Kazhagam rule, with the view that public-sector factories alon
 
 loan assistance needed for industrial projects together with a capital subsidy — ‘Capital Subsidy’. It was the Kazhagam Government that created the new institution State Industries Promotion Corporation of Tamil Nadu — ‘SIPCOT’ — in 1971. Thereafter, SIPCOT established industrial complexes in which all basic facilities required for industrial growth could be provided in one place. Hon. members know very well that Ranipet was one such place.
 
-In 1973, on 729.78 acres, 107 industrial units involving an investment of Rs. 168 crore were created there during Kazhagam rule. When the Kazhagam assumed office, we heard about that site at Ranipet. My friend Thiru Madhavan was then Industries Minister and brought the matter to my attention. The information was that the site had already been purchased during Congress rule for setting up an industrial estate, but because the estate had not been established there, the preceding Congress Government had thought of selling the land or abandoning the idea. He said we should visit the site. I, the Industries Minister of that day, and other officials went to Ranipet, inspected the place and decided that there was no need to sell it or give it away and that SIPCOT itself could establish an industrial complex there. The result was that on that roughly 730-acre area, 107 industrial units involving Rs. 168 crore of investment were established even then.
+In 1973, on 729.78 acres, 107 industrial units involving an investment of Rs. 168 crore were created there during Kazhagam rule. When the Kazhagam assumed office, we heard about that site at Ranipet. My friend Thiru Madhavan was then Industries Minister and brought the matter to my attention. The information was that the site had already been purchased during Congress rule for setting up an industrial estate, but because the estate had not been established there, the preceding Congress Government had thought of selling the land or abandoning the idea. He said we should visit the site. I, the Industries Minister of that day, and other officials went to Ranipet, inspected the place and decided that there was no need to sell it or give it away and that SIPCOT itself could establish an industrial undertaking there. The result was that on that roughly 730-acre area, 107 industrial units involving Rs. 168 crore of investment were established even then.
 
 ### Source page 178
 
@@ -61,7 +61,7 @@ Following this, it was also the Kazhagam Government that started ‘SIDCO’ in 
 
 With the objective of encouraging small-industry growth in Tamil Nadu, the Small Industries Development Corporation — ‘SIDCO’ — was established. Likewise, ‘TIDCO’ had already been created in 1965 during Congress rule. Under that organisation, a change was made during Kazhagam rule so that industries could be established in the Joint Sector, with a Government share of 26 per cent, and in the Associate Sector, with a Government share of 11 per cent. These two sectors began to be implemented jointly with TIDCO, and many industries were established in Tamil Nadu.
 
-Similarly, in 1972, with a long-term plan that electronics industries should prosper in Tamil Nadu, an electronics division was created in the office of the Director of Industries and Commerce and various related industrial divisions were developed. The Electronic Corporation of Tamil Nadu was established in 1975 under the abbreviated name ‘ELCOT’—
+Similarly, it was in 1972 that the Tamil Nadu Electronics Corporation — ‘ELCOT’ — with a long-term plan that electronics industries should prosper in Tamil Nadu, created an electronics division in the office of the Director of Industries and Commerce in 1972 and, in connection with it, established various industrial divisions. Electronic Corporation of Tamil Nadu was established in 1975 under the abbreviated name ‘ELCOT’—
 
 ### Source page 179
 
@@ -105,7 +105,7 @@ Australia, all these matters should be taken into account. His open appreciation
 
 14. A casting foundry at Arakkonam.
 
-15. Inter Continental Leathers Limited, manufacturing glove leather, garments, leather, upper leather and similar products.
+15. Indar Continental Leathers Limited, manufacturing glove leather, garments, leather, upper leather and similar products.
 
 I am duty-bound to inform the House that these took shape as Joint Sector industries.
 
@@ -115,7 +115,7 @@ You know the North Chennai Thermal Power Station. Sites had been considered for 
 
 ### Source page 182
 
-and because litigation went all the way to the Supreme Court, the land had not been acquired by the Government when the Dravida Munnetra Kazhagam Government assumed office in 1989. Immediately after taking office, we called the owners of the site, spoke to them and obtained their agreement, and no one can forget that the then President of India was invited to conduct the foundation ceremony for the North Chennai Thermal Power Station at that very site. But because of the two-year delay, the Rs. 500 crore project became a Rs. 700 crore project and has now grown to a scale of Rs. 1,000 or Rs. 1,200 crore. Thus it was under Kazhagam rule, immediately after we returned to office, that the North Chennai Thermal Power Station was begun. Today it is functioning.
+and because litigation went all the way to the Supreme Court, the land had not been acquired by the Government when the Dravida Munnetra Kazhagam Government assumed office in 1989. Immediately after taking office, we called the owners of the site, spoke to them and obtained their agreement, and no one can forget that the then President of India was invited to conduct the commencement ceremony for the North Chennai Thermal Power Station at that very site. But because of the two-year delay, the Rs. 500 crore project became a Rs. 700 crore project and has now grown to a scale of Rs. 1,000 or Rs. 1,200 crore. Thus it was under Kazhagam rule, immediately after we returned to office, that the North Chennai Thermal Power Station was begun. Today it is functioning.
 
 At the existing Ranipet complex, a second-phase industrial complex was established on 113 acres — a further 113 acres — and through it employment has been provided to 3,400 people.
 
@@ -137,7 +137,7 @@ During Kazhagam rule in 1989-90, we took action to make the policy for granting 
 
 The tender system was changed. The tender system is a method capable of operating fairly and honestly, a method praised and appreciated by everyone. When Jayalalitha assumed office as Chief Minister and a Government was formed under her leadership, this very tender system was changed and a procedure called Rule 39 was introduced. As a result, in the three-year period from 1993 to April 1996, Government revenue from quarry leases was only Rs. 5.12 crore. Under Kazhagam rule in 1989-90, the Government had earlier received Rs. 20 crore. But from 1993 to 1996, over three years, revenue was only Rs. 5.12 crore because the system had been changed.
 
-In an inquiry conducted by the Vigilance Wing and the ‘Vigilance Commission’ in this connection, it was estimated that because proper procedures had not been followed in granting leases during the previous Government and lease amounts had not been collected, the Government suffered a revenue loss of between Rs. 70 crore and Rs. 95 crore. After the Kazhagam Government again assumed office in 1996, Rule 39 was removed and it was announced that the quotation/tender system would again be followed. Today that activity is running profitably; I shall announce the amount of profit at the appropriate stage when the next announcement is made.
+In an inquiry conducted by the Vigilance Task Force and the ‘Vigilance Commission’ in this connection, it was estimated that because proper procedures had not been followed in granting leases during the previous Government and lease amounts had not been collected, the Government suffered a revenue loss of between Rs. 70 crore and Rs. 95 crore. After the Kazhagam Government again assumed office in 1996, Rule 39 was removed and it was announced that the quotation/tender system would again be followed. Today that activity is running profitably; I shall announce the amount of profit at the appropriate stage when the next announcement is made.
 
 ### Source page 185
 
@@ -193,7 +193,7 @@ There is difficulty in obtaining enough trained workers for newly emerging facto
 
 ### Source page 191
 
-The Government has decided to start four new Joint Sector projects using granite stone, each over 50 hectares, together covering 200 hectares, for industries based on granite. I inform you that quotations for these projects will soon be invited through the proper procedure.
+The Government has decided to start four new Joint Sector projects using granite stone, each covering 50 hectares, together covering 200 hectares, for industries based on granite. I inform you that quotations for these projects will soon be invited through the proper procedure.
 
 When Thiru Subbarayan spoke, he pointed out that when each industry is started, consideration must be given to what the environmental situation will be; otherwise, problems will arise after it begins. Tanning, dyeing, foundry, stone-breaking and several other industries had continuously discharged waste indiscriminately without concern for environmental protection. Following a recent court judgment regarding the environmental damage caused by this, difficulties have arisen in continuing these industries.
 
@@ -239,13 +239,13 @@ Already, when the Kazhagam Government was in office in 1989-90-91, a private kni
 
 The Government has decided to give appropriate assistance to entrepreneurs who come forward to manufacture brick-like construction material (Construction Blocks) using fly ash discharged from thermal power stations at Ennore, Tuticorin, Mettur, Neyveli and North Chennai.
 
-The Jayankondam lignite company: this is a major problem that has remained unresolved for a long time. The Jayankondam Lignite Company, registered in 1991, has remained merely at the announcement stage without being started because of the approach of the previous Government. Agreements made under the previous Government for mining the lignite and supplying the required machinery, without inviting tenders, have been cancelled by this Government. When that Government was preparing to entrust work for the Jayankondam Lignite Company without calling tenders, this Government assumed office. Those agreements were then cancelled. Tenders have now been invited from companies willing to supply, each year—
+The Jayankondam coal company: this is a major problem that has remained unresolved for a long time. The Jayankondam Coal Company, registered in 1991, has remained merely at the announcement stage without being started because of the approach of the previous Government. Agreements made under the previous Government for mining the coal and supplying the required machinery, without inviting tenders, have been cancelled by this Government. When that Government was preparing to entrust work for the Jayankondam Coal Company without calling tenders, this Government assumed office. Those agreements were then cancelled. Tenders have now been invited from companies willing to supply, each year—
 
 ### Source page 195
 
-4 million tonnes of lignite and 500 megawatts of electricity at a low price. I am certain that a dawn will come for this project this year. (Sound of desk-thumping.)
+4 million tonnes of coal and 500 megawatts of electricity at a low price. I am certain that a dawn will come for this project this year. (Sound of desk-thumping.)
 
-The Singapore Indian Chamber of Commerce in Singapore has agreed to function as a single window (Window), giving entrepreneurs in Singapore information about investing in Tamil Nadu, which I am happy to inform you. A team consisting of our Government officials and entrepreneurs was sent to Singapore, where they held discussions and obtained agreement from those there. An agreement has also been entered into with this organisation for the purpose. I am duty-bound to say with great happiness that these efforts will serve as an incentive for investment by Singapore companies to reach Tamil Nadu.
+The Singapore Indian Chamber of Commerce in Singapore has agreed to function as a window (Window), giving entrepreneurs in Singapore information about investing in Tamil Nadu, which I am happy to inform you. A team consisting of our Government officials and entrepreneurs was sent to Singapore, where they held discussions and obtained agreement from those there. An agreement has also been entered into with this organisation for the purpose. I am duty-bound to say with great happiness that these efforts will serve as an incentive for investment by Singapore companies to reach Tamil Nadu.
 
 TIDCO’s new projects: a petrochemical park will be established on about 7,000 acres around the new Ennore Port. Treatment plants will be set up there to purify wastewater and turn it into good water for reuse.
 
@@ -279,9 +279,9 @@ A Bulk Drug Intermediates factory will be established at Manali in the Joint Sec
 
 An industrial-enzyme factory will be started with an investment of Rs. 70 crore.
 
-Through ‘TANCEM’, the Government has planned to start this year at Virudhachalam a factory costing Rs. 1.4 crore to produce 1,920 tonnes a year of high-grade aluminium stones.
+Through ‘Tansam’, the Government has planned to start this year at Virudhachalam a factory costing Rs. 1.4 crore to produce 1,920 tonnes a year of high-grade aluminium stones.
 
-Our Hon. member Mani and our Hon. member Moses spoke about the rubber industry in Kanyakumari and asked how they could go back to their constituencies. You may go back boldly. For many years I too have been trying to ensure that a rubber factory must somehow come there. Because it is a rubber factory, it keeps stretching on. (Laughter.) Therefore, this year I will pursue it without letting go until the factory comes; that will be my first task. I inform the people and members of Kanyakumari of this. (Sound of desk-thumping.)
+Our Hon. member Mani and our Hon. member Moses spoke about the rubber industry in Kanyakumari and asked how they could go back home. You may go back boldly. For many years I too have been trying to ensure that a rubber factory must somehow come there. Because it is a rubber factory, it keeps stretching on. (Laughter.) Therefore, this year I will make the effort saying, “I will not leave it; I will not touch it,” so that the factory somehow comes; that will be my first task. I inform the people and members of Kanyakumari of this. (Sound of desk-thumping.)
 
 ### Source page 198
 
