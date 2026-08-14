@@ -1,87 +1,15 @@
 # Next-chat prompt — 2007 industrial speeches transcription
 
-Copy the text below into a new ChatGPT chat and attach the same source PDF.
+Continue `pugazg/kalaignar-assembly-speeches` exactly from the current `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` and follow `docs/ARCHIVAL_WORKFLOW.md`.
 
----
+The active unit is `1996-08-14-industries-debate` (`உரை : 5`, 14.08.1996), locked to scan pp.136–171 / printed pp.135–170.
 
-I am continuing my GitHub project `pugazg/kalaignar-assembly-speeches` using:
+Gate C Batch 1 is complete for scan pp.136–150 / printed pp.135–149. Tamil remains `in-progress`, with 15/36 pages represented and 0 explicit unresolved readings. English remains blocked.
 
-`TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf`
+The exact visible p.150 continuation is:
 
-Before doing any work, read current `main` versions of:
+`... நான் அவரிடத்திலே சொன்னேன். உங்கள் அண்ணனின் ஆசை அந்த`
 
-- `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md`
-- `docs/ARCHIVAL_WORKFLOW.md`
-- `sources/2007-industrial-speeches/mapping.md`
-- root `README.md`
-- `data/speeches.json`
-- `speeches/1990/1990-04-18-industries-debate/` as the latest released structural precedent
+The next required source page is scan p.151. When the controlling scan p.151 onward is available, perform Gate C Batch 2 for scan pp.151–165 / printed pp.150–164, appending to the existing Speech-5 transcript and updating all five Speech-5 files. If p.151 onward is unavailable, stop rather than guessing the continuation.
 
-Treat those repository files as controlling instructions. The scan image is authoritative for Tamil transcription; OCR is only a helper and is never canonical.
-
-## Mandatory project rule after every completed speech
-
-After **every speech** is fully completed and released through Gate H, **before starting the next speech**, perform a project handover checkpoint:
-
-1. Update `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` with the completed speech's final Gates C–H state, verified Tamil/English status, unresolved readings, exact source ranges, important corrections/anomalies, canonical files and release commit SHAs.
-2. Update released-speech inventory and identify the next speech with its canonical ID, source label/date, exact locked range and opening boundary.
-3. Record the exact next activity/batch, blocked work, files that must remain untouched, and current `main` HEAD.
-4. Update this `docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md` so a fresh chat can continue directly from that point.
-5. Push those handover updates **before any transcription of the next speech begins**.
-
-This handover checkpoint is required after every completed speech throughout this anthology.
-
-## Completed released work
-
-Speeches 1–4 from this anthology are fully released with verified Tamil and verified English:
-
-- `1963-03-21-industries-debate` — scan pp.18–26
-- `1981-04-16-industries-debate` — scan pp.27–61
-- `1989-05-03-industries-debate` — scan pp.62–98
-- `1990-04-18-industries-debate` — scan pp.99–135
-
-Speech 4 completed Gates C–H. Its canonical `transcript.md` contains verified Tamil first and verified English after it. The temporary translation companion was retired after canonical integration.
-
-Important source anomalies intentionally retained in Speech 4 include printed `financed`, `constitute and Inter-Ministerial Committee`, `cilicon`, `stainlees`, `Spensioner Mill`, `ancilary`, the separate p.120/p.121 `கேஸ்டிக்`/`காஸ்டிக்` forms, and p.128 `ஆலங்குடி 3, 1, அறந்தாங்கி 4`.
-
-## Important Speech 3 correction already completed
-
-On Speech-3 source p.94 the verified Tamil reads `சிப்காட், டிக் நிறுவனங்களிடமிருந்து...` and must remain `டிக்` in the Tamil source layer. The final English uses **`SIPCOT and TIIC`** as an explicitly documented institutional identification. Do not revert it to `TIC`.
-
-## Current active work — Speech 5
-
-- Source label: `உரை : 5`
-- Printed date: `14.08.1996`
-- Canonical ID: `1996-08-14-industries-debate`
-- Full scan range: **136–171**
-- Printed pages: **135–170**
-- Total mapped scan pages: **36**
-- Gate C: **not started**
-- Tamil status: **not started**
-- English: **blocked until Tamil Gates C–E are complete**
-- Speech 5 folder: **not yet created**
-
-Boundary is already locked: scan p.135 ends Speech 4; scan p.136 / printed p.135 begins `உரை : 5`, dated `14.08.1996`.
-
-## Next action — Speech 5 Gate C Batch 1
-
-Begin Tamil first-pass transcription for **scan pp.136–150 / printed pp.135–149**.
-
-1. Reconfirm the Speech-5 opening on scan p.136 directly from the rendered page.
-2. Create `speeches/1996/1996-08-14-industries-debate/` with the standard five files:
-   - `README.md`
-   - `metadata.json`
-   - `source-notes.md`
-   - `transcript.md`
-   - `verification-log.md`
-3. Transcribe scan pp.136–150 directly from the scan images. OCR may assist but must not be treated as canonical text.
-4. Preserve printed wording, period spelling, punctuation, numerals, headings, speaker labels, interventions and printed English exactly as far as the scan permits.
-5. Add one explicit `<!-- source-page: N -->` marker for every scan page transcribed.
-6. Mark genuinely unreadable text explicitly for review rather than guessing.
-7. At the end of scan p.150, record the exact continuation words/boundary and set `next_scan_page` to **151**.
-8. Keep Speech 5 `in-progress`; Gate D is not eligible until all scan pages **136–171** are represented.
-9. Do not start English translation, Speech 6, or modify already released Speeches 1–4 except for necessary index consistency.
-
-At the end of each work session, update `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` with the completed range, continuation point, unresolved readings, files changed, commit SHAs and exact next action. When Speech 5 eventually passes Gate H, perform the mandatory post-release handover checkpoint above before beginning Speech 6.
-
----
+Do not run Gate D until pp.136–171 are all represented. Do not start English, Speech 6, or Gate-H index updates. The scan image is authoritative; OCR is only a helper.
