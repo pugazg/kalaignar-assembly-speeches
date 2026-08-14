@@ -1,6 +1,6 @@
 # English translation — உரை : 7 / 14.05.1998
 
-> **Gate F working note:** English translation is being prepared only from the final verified Tamil transcription. This file preserves source-page correspondence, parliamentary context, names, figures, technical terminology, argument sequence, quotations, humour/context markers, and unusual or internally inconsistent source claims without substituting external historical corrections. Gate F is **in progress**. Batches 1–7 now cover scan/source pp.199–233 / printed pp.198–232. English has not yet passed Gate G and is therefore **not verified**.
+> **Gate F working note:** English translation is being prepared only from the final verified Tamil transcription. This file preserves source-page correspondence, parliamentary context, names, figures, technical terminology, argument sequence, quotations, humour/context markers, and unusual or internally inconsistent source claims without substituting external historical corrections. Gate F is **in progress**. Batches 1–8 now cover scan/source pp.199–238 / printed pp.198–237. English has not yet passed Gate G and is therefore **not verified**.
 
 ### Source page 199
 
@@ -340,3 +340,47 @@ That is, Information Technology. It is regarded as the key to the rapid developm
 The next century will be the century of information technology. In order to create a foundation suited to that, and so that in the twenty-first century we may be a world leader in the field of information technology, for the first time in India an organisation called the Information Technology Institute of Tamil Nadu (ITIT) will be established in Chennai. It will first be started as a registered self-financing organisation — a Registered society — and gradually converted into a self-financing university. This organisation will establish links with leading American universities and renowned private institutions in this field, and young people of unmatched ability will be developed in every aspect of information technology, such as Computer Graphics, Software Engineering and Hardware Systems, Multimedia, Telecommunications, Information Technology and Digital Technology. I had announced then that Rs. 10 crore would be allotted for this in the coming year.
 
 Accordingly, its name is now being changed to the Tamil Nadu Information Technology Education Centre. Its abbreviated name has been set as TANITEC. To establish this centre, and for assistance from industrial institutions and practical facilities, the Tamil Nadu Information Technology Education Centre was registered under Section 25 of the Indian Companies Act 56. This centre will initially function in association with Anna University and later, step by step, develop into a self-financing university. At the outset, from July 1998, this centre is to begin postgraduate and degree classes in information technology in the ELCOT building at Perungudi near Chennai. It is planned gradually to introduce undergraduate and postgraduate technology degree programmes. This—
+
+### Source page 234
+
+—centre was initially given Rs. 5 crore by the Government as share capital in 1997–98. In the 1998–99 Budget Statement, the Government has allotted another Rs. 5 crore to this centre.
+
+If we take the sales achievement of ELCOT, in 1995–96, during the Anna Dravida Munnetra Kazhagam Government, its turnover was Rs. 7.86 crore. In 1997–98, ELCOT’s total sales — turnover — were Rs. 38.79 crore. (Sound of desk-thumping.) ELCOT’s net profit was Rs. 2.71 lakh in 1995–96; Rs. 33.59 lakh in 1996–97; and Rs. 4½ crore in 1997–98. (Sound of desk-thumping.)
+
+Another announcement. It is about ‘Software’. When we keep saying ‘Software’, ‘Software’ like this, many people do not know what it is. Even I, at first, in those days, did not understand it. What is this ‘Software’, ‘Software’ that they keep talking about? If you ask someone what his son is doing, he will say he is in the ‘Software’ industry. We say ‘Hardware’, ‘Software’. As for what ‘Software’ means — forgive me, some members too may perhaps not know. Even so, like watching an English film, they may nod their heads along with me. If I have to explain what ‘Software’ is: the computer and the Monitor, Key Board, Printer and so on connected with it are called ‘Hardware’. The package supplied to operate this computer is what is called ‘software’. At present, what is being discussed most intensely throughout the world in the software field is the year 2000 — the Y2 K-1 problem.
+
+For the past 30 years, in computer language, for the sake of saving space, only two digits have been used when years are indicated. Now there is a fear that this—
+
+### Source page 235
+
+—may become dangerous. Whenever I sign files, for example, I do not write 7-2-98. I write only 7-2-1998. Even my Secretaries have asked me, “All the Ministers write only ‘98’; why do you alone write ‘1998’?” All the Ministers will write ‘98’ this year. Next year they will write ‘99’. I asked what two digits they would write the year after that. When 2000 comes, only two zeroes will have to be written. (Laughter.) That is why I am getting used to it now itself. Preparing for two thousand, I am writing ‘1998’ even now. (Sound of desk-thumping.) This is the philosophy of Software. For 30 years, in computer language, for the sake of saving space, everyone has used these two digits, these two zeroes — whether to put them in or leave them out, whether to write ‘98’, ‘68’, ‘78’ — and the consequence is that, when the year 2000 arrives and only the figures ‘00’ appear in the computer field, all operations carried out through computers may suddenly have to stop. Suppose an aircraft is flying — this is not going to happen; I am saying it as an example — if only those two ‘00’s have been entered, while the aircraft is flying, in the year 2000, if this calculation goes wrong, if it is in two digits instead of four digits, the aircraft will stop in the sky midway. You know what will happen if it stops. Such a danger could arise in this computer age. As a result, there is a fear that life may come to a standstill even in the highly advanced Western countries.
+
+It is believed that the work of correcting this will provide abundant employment opportunities to software companies in our country—
+
+### Source page 236
+
+—In Chennai alone, at present, 2,000 software (Software) specialists are engaged in this work. Likewise, when all European countries move to a single-currency system, a great many employment opportunities will arise in the computer field. According to one estimate, the value of the work is expected to be approximately Rs. 2 lakh crore.
+
+Through this too, it is expected that numerous employment opportunities will become available in the software field in our country. It is on this basis that I am making this announcement.
+
+TIDEL Software Park, Taramani. In paragraph 74 of the 1998–99 Budget Statement, I had referred to TIDCO establishing a software industrial park at Taramani in Chennai.
+
+At present, various Information Technology Companies from many parts of the world are coming to Tamil Nadu to establish their offices and facilities in the software (Software) sector. In order to meet their needs, TIDCO and ELCOT are jointly establishing at Taramani, over an area of 7.5 acres, a highly modern software park of 8 lakh square feet with an investment of Rs. 160 crore. Work has begun. The work of clearing the land is now under way. All the studies for this are nearing completion. Construction will begin in July and is expected to be completed in just 12 months. The park will have highly modern technological facilities and communications facilities enabling contact with all parts of the world through V.S.N.L. Approximately 8,000 Software Professionals—
+
+### Source page 237
+
+—will work in this park. Through this, substantial foreign exchange will be earned, and I state firmly that Chennai will be able to attain a leading position in the country in the software sector.
+
+After Chennai, many information-technology companies are also establishing their offices and branches in Coimbatore city. Keeping their requirements in view, ELCOT and SIPCOT are jointly establishing a modern software park on six acres of land situated near Coimbatore airport. Construction of this park, to be built at a cost of approximately Rs. 50 crore with 2.5 lakh square feet of building space, will begin next month and be completed within 12 months. I also make the announcement here that approximately 2,500 software professionals will work in this park.
+
+Finally, the matter with which member Thiru Ranganathan began. I shall finish with what he began. He expressed the valuable view that a ‘Single Window System’ is needed to develop industry and enable it to advance further. In other States, in all our neighbouring States, that ‘Single Window System’ is now being followed. Here, particularly in relation to the large factories that have already been started — for example Hyundai, Saint-Gobain and Mitsubishi — to examine the problems that arise from time to time, every Monday, under the chairmanship of the Industries Secretary, officers from all departments and the industrial investors concerned meet, examine the Pending issues, and immediately resolve the problems. Further, in order to make it easy for those coming forward to start new industries to obtain permission, for a project proposing to start an industry with an investment of more than Rs. 100 crore—
+
+### Source page 238
+
+—I inform you that a high-level committee under the chairmanship of the Chief Minister will immediately be constituted to examine the project and obtain without delay the approvals of the departments concerned. (Sound of desk-thumping.)
+
+Likewise, I inform you that a high-level committee under the chairmanship of the Chief Secretary will be constituted to obtain quickly the approvals of all departments for those starting industries with investments of less than Rs. 100 crore. (Sound of desk-thumping.) Therefore, I conclude at this point by requesting that all these cut motions be withdrawn and that the demands for grants be passed.
+
+**Thiru K. Subbarayan:** Hon. Speaker, textile mills play a very important role in the economic life of Tamil Nadu. Reports continue to come that a severe crisis prevails there. The textile mills, in order to express such a problem, have observed a one-day strike and drawn the State Government’s attention. Therefore, I wish to know whether the State Government will call them, ascertain what their grievance is and what the reason for the cotton crisis is, and make an effort to find a solution to their problem.
+
+**Hon. Kalaignar M. Karunanidhi:** Hon. Speaker, when the Hon. member spoke, he said that, if the cotton crisis is to be resolved, more cotton must be cultivated, and that only then will the crisis be resolved. Therefore, the Government will undertake efforts in that direction.
