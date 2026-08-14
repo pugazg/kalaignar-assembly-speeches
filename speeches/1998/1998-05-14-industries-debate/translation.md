@@ -1,6 +1,6 @@
 # English translation — உரை : 7 / 14.05.1998
 
-> **Gate F working note:** English translation is being prepared only from the final verified Tamil transcription. This file preserves source-page correspondence, parliamentary context, names, figures, technical terminology, argument sequence, quotations, humour/context markers, and unusual or internally inconsistent source claims without substituting external historical corrections. Gate F is **in progress**. This first bounded batch covers scan/source pp.199–203 / printed pp.198–202. English has not yet passed Gate G and is therefore **not verified**.
+> **Gate F working note:** English translation is being prepared only from the final verified Tamil transcription. This file preserves source-page correspondence, parliamentary context, names, figures, technical terminology, argument sequence, quotations, humour/context markers, and unusual or internally inconsistent source claims without substituting external historical corrections. Gate F is **in progress**. Batches 1–2 now cover scan/source pp.199–208 / printed pp.198–207. English has not yet passed Gate G and is therefore **not verified**.
 
 ### Source page 199
 
@@ -52,3 +52,47 @@ As a consequence, the electric rolling mill too has not operated since 18-8-1997
 That is, the expert committee suggested that the Steel Corporation’s assets could be sold and only this Twisting work could be carried on. Since the amount receivable by the Tamil Nadu Steel Corporation was only Rs. 5.75 crore, while the debt payable by the undertaking was Rs. 40 crore, that too was not workable. In this situation, because the efforts undertaken to rehabilitate the plant did not yield results and the workers also did not cooperate, the Government decided to close the plant. Even so, on the ground that the workers should not be left to suffer, just as an agreement had been reached in the B and C Mill, on the basis that workers who wished to leave could do so, the Arakkonam steel-plant workers were given more than what had been given to the B and C Mill workers. Rs. 1.25 lakh plus gratuity — concessions of this kind were all provided to them. Nearly 90 per cent of them agreed to it, obtained the applications, returned the applications, and declared that they agreed to it.
 
 Similarly, when it was proposed to implement this voluntary retirement scheme there, the workers have been asking that they should be given more than what was given here in the B and C Mill. We have agreed to give that too. If it is Rs. 1.25 lakh here, we have agreed to give them more than that, to an extent that would satisfy them. But they are expecting a very, very high amount. I inform the House that the Government is considering this because, if this is fulfilled today, a situation may arise in which workers in other factories subsequently make a similar demand.
+
+### Source page 204
+
+For these reasons, I am duty-bound to state here repeatedly that it is not possible for the Government itself once again to operate that plant at Arakkonam at a cost of Rs. 200 crore, as the Hon. member mentioned.
+
+When Thiru Sundaram spoke here, he made many allegations. Finally, because there was no time to speak about his constituency, he persisted and, in a situation that I myself did not desire and in which I felt it need not happen, the Deputy Speaker had no other course and a situation arose in which he had to be removed from the House. I regret that; I would have liked him to remain and hear my reply. Nevertheless, since he may hear it, I shall say it. He made an allegation against an officer connected with the paper mill. I gave an assurance immediately. If such an allegation had earlier been made in this House by the Hon. Thiru Parithi, who is seated today as Deputy Speaker, or by anyone else, they themselves know what would have happened. Dr. Chellakumar, who is here, once made such an allegation during the previous Government. Our Thiru S.R. Balasubramaniam made one. Our Thiru C. Gnanasekaran and others made such allegations, and I know very well what all of them had to undergo.
+
+But as soon as this allegation was made under this Government, I gave an assurance: whoever that officer may be, give me the details in writing and I will take action. Whether that allegation is true or contrary to truth will become known only during the inquiry. I shall certainly inform this House of the explanation that emerges, because it is something I accepted in the House. Therefore, I shall inform this House.
+
+### Source page 205
+
+He said one thing. He said TIDCO was suffering a huge loss. That is incorrect information. TIDCO made a profit of Rs. 3.21 crore in 1995-96, Rs. 2.35 crore in 1996-97, and Rs. 4.26 crore in 1997-98. Therefore, what Thiru Sundaram said is not true. I say “not true” because I should not use another word. I am duty-bound to tell him that TIDCO made a profit of Rs. 4.26 crore in 1997-98.
+
+When our friend Thiru Alagaraja spoke here, and when Thiru Raman and some others spoke here, they pointed out: why are cooperative and public-sector sugar mills incurring losses while private sugar mills are making profits?
+
+Even our Thiru Santhanam said in his speech that the reason sugar mills are incurring losses is that you have not given farmers one thousand rupees for sugarcane. I consider that he made that observation so that an even greater loss should be incurred. It is true that, at election time, in the election manifesto, the Dravida Munnetra Kazhagam stated that one thousand rupees would be given. That sugarcane farmers should be given one thousand rupees is a policy, an objective. It is because we are proceeding towards that objective that the State Government has been paying a higher price for sugarcane in Tamil Nadu than the price fixed by the Central Government. For example, the Central Government fixes the price only at around Rs. 450 or Rs. 470. Here, the Tamil Nadu Government has been paying it at around Rs. 650 — that is, Rs. 650 according to the recovery rate, and for sugarcane with a good recovery rate, even more than Rs. 700. Therefore, as for when this one thousand rupees will be paid—
+
+### Source page 206
+
+only two years have been completed. Three years still remain. Within these three years, we shall pay this one thousand rupees as the sugarcane price and earn all your appreciation, which I wish to convey. (Sound of desk-thumping.)
+
+They asked: when private sugar mills make profits, why are there no profits in cooperative and public-sector sugar mills? Thiru Alagaraja asked this. I wish to give a few explanations. In 1994-95 and 1995-96, both at the all-India level and likewise at the State level in Tamil Nadu, because of increased sugarcane production and increased sugar production, the selling price of sugar fell below the production cost of sugar. That was an important reason for the loss. In 1994-95 and 1995-96, because the private mills concerned did not take for crushing the sugarcane registered with cooperative mills, in accordance with what they had requested, a situation arose in which that cane too had to be crushed in the cooperative mills. Since the private mills did not take the sugarcane that had been allotted to them, the cooperative mills had to accept it as well. With the objective that the sugarcane already cultivated by farmers should somehow be crushed, the crushing season in cooperative and public-sector mills had to be extended under Government orders, and I wish to state that the extended crushing also caused losses.
+
+We must not forget that, as far as private mills are concerned, they have income not only from the sugar industry but also from other associated industries such as distilleries. Nevertheless, as a result of the many measures taken by the Government—
+
+### Source page 207
+
+although they expressed concern here, in contrast to that, the position of a Rs. 108 crore loss in 1996-97 has changed, and in 1997-98 the loss has been reduced to only Rs. 50 crore, which I wish to inform the House. If the prices of sugar and molasses are remunerative, there is an opportunity to operate the sugar mills profitably again, and I state that categorically here. Our Thiru Ranganathan, in his opening speech, asked whether everything announced had been implemented, how many new factories there were, and so on.
+
+Thiru Subbarayan recalled and repeated here the words I had used a year ago: that we must be cautious about dependence on foreign investment. As to the extent to which we should support foreign investments here, I said then that if it is like a garland falling around the neck, it may be accepted; but we must ensure that it does not turn into a rope. He pointed out that observation. This Government will exercise great caution in that regard. Thiru Subbarayan knows very well how progressive a policy I, who lead this Government, hold on this issue; what kind of progressive policies all the Ministers in this Cabinet hold; and by whom they were nurtured.
+
+Therefore, he need not have that concern. Our Thiru Raman too gave an example. When riding a horse, he said, the exercise is for the horse, not for the rider; that should not be forgotten. Therefore, those who make foreign investments—
+
+### Source page 208
+
+—the foreigners—will be the ones who make the profit, while we will gain nothing: that was the analogy he gave. I do not know whether he said it correctly or said it after trying a ride himself. The horse gets exercise. At the same time, the rider too gets a benefit. The rider can travel the distance he intends; if he is on the horse, he can reach the specified place. The horse may get exercise; that is another matter. For that reason one cannot refrain from riding the horse altogether. When a situation arises in which one has to ride, instead of riding a donkey, it is not wrong for us to engage in the effort to expand our industrial development and economic development to the extent of riding a horse. (Sound of desk-thumping.) I convey that to him.
+
+The All India Anna Dravida Munnetra Kazhagam member Thiru Sundaram came here determined to speak on this Industries Department grant by making allegations. But our Thiru Subbarayan, because there was not much time here, explained in one or two lines how Tamil Nadu’s economy and industrial prosperity had deteriorated in the past.
+
+I wish to point out one thing to you. In 1994, an article appeared in an English magazine called ‘Business India’. I shall read out a passage from that article.
+
+Says one Madras-based Industrialist. You need not cultivate every Tom, Tick and Harry. If you can please the Presiding Deity, your interests are taken care of. But if you fall out ever, your life is a mess. Jayalalitha's whimsical behaviour has reported to put off several major industrial houses.
+
+Although Tamil Nadu's infrastructure is one of the best, Jayalalitha's behaviour has put off businessmen.
