@@ -18,7 +18,7 @@ Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.
 
 ## Active source handovers
 
-- [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source mapped into 10 dated speeches. Speeches 1 (21.03.1963), 2 (16.04.1981), 3 (03.05.1989) and 4 (18.04.1990) are fully released with verified Tamil and English; Speech 5 (14.08.1996) is the next transcription unit.
+- [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source mapped into 10 dated speeches. Speeches 1 (21.03.1963), 2 (16.04.1981), 3 (03.05.1989), 4 (18.04.1990) and 5 (14.08.1996) are fully released with verified Tamil and English; Speech 6 (23.04.1997) is the next transcription unit.
 - Copy/paste continuation prompt: [`docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md`](./docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md)
 
 ## Speech index
@@ -30,6 +30,7 @@ Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.
 | 16-04-1981 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 2](./speeches/1981/1981-04-16-industries-debate/) | தொழில் கொள்கைகள், திட்டங்கள் மற்றும் மானியக் கோரிக்கை குறித்த உரை | Verified | Verified | Verified against scan pp. 27–61 |
 | 03-05-1989 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 3](./speeches/1989/1989-05-03-industries-debate/) | தொழில்துறை மானிய விவாத உரை | Verified | Verified | Verified against scan pp. 62–98 |
 | 18-04-1990 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 4](./speeches/1990/1990-04-18-industries-debate/) | தொழில்துறை மானிய விவாத உரை | Verified | Verified | Verified against scan pp. 99–135 |
+| 14-08-1996 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 5](./speeches/1996/1996-08-14-industries-debate/) | தொழில்துறை மானிய விவாத உரை | Verified | Verified | Verified against scan pp. 136–171 |
 
 Machine-readable index: [`data/speeches.json`](./data/speeches.json)
 
@@ -76,12 +77,20 @@ kalaignar-assembly-speeches/
     │       ├── source-notes.md
     │       ├── transcript.md
     │       └── verification-log.md
-    └── 1990/
-        └── 1990-04-18-industries-debate/
+    ├── 1990/
+    │   └── 1990-04-18-industries-debate/
+    │       ├── README.md
+    │       ├── metadata.json
+    │       ├── source-notes.md
+    │       ├── transcript.md
+    │       └── verification-log.md
+    └── 1996/
+        └── 1996-08-14-industries-debate/
             ├── README.md
             ├── metadata.json
             ├── source-notes.md
             ├── transcript.md
+            ├── translation.md
             └── verification-log.md
 ```
 
