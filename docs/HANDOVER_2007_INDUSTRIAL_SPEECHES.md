@@ -19,39 +19,42 @@ The scan image is authoritative for Tamil transcription and verification. OCR/ex
 - Gate-E corrections: **5**
 - Tamil unresolved readings: **0**
 - Tamil status: **verified**
-- English Gate F canonical: **pp.199–238, 40/42 pages**
-- English Gate F Batch 9: **pp.239–240 translated and staged, not yet canonical**
+- English Gate F: **complete — pp.199–240, 42/42 pages canonical**
 - English Gate G: **not started**
+- English status: **translated, not verified**
 
-## Gate F English progress
+## Gate F English completion
 
-Canonical `translation.md` contains Batches 1–8, source pp.199–238, **40/42 pages**.
+Canonical `translation.md` now contains Batches 1–9, source pp.199–240, **42/42 pages**.
 
-Batch 9, source pp.239–240, has now been translated only from the final verified Tamil and staged in:
+- Batch 1: pp.199–203 — complete and canonical
+- Batch 2: pp.204–208 — complete and canonical
+- Batch 3: pp.209–213 — complete and canonical
+- Batch 4: pp.214–218 — complete and canonical
+- Batch 5: pp.219–223 — complete and canonical
+- Batch 6: pp.224–228 — complete and canonical
+- Batch 7: pp.229–233 — complete and canonical
+- Batch 8: pp.234–238 — complete and canonical
+- Batch 9: pp.239–240 — complete and canonical
 
-`speeches/1998/1998-05-14-industries-debate/gate-f-batch9-pp239-240.md`
+Batch 9 preserves the A.S. Ponnammal intervention, the 413-acre / 380-acre discussion, Alanganallur Sugar Factory / 2,500 jobs reference, Kalaignar’s `கனவு / கண் துடைப்பு` humour and laughter marker, the complete printed-English `THIRU B. VENKATASAMY` intervention, the Hosur ELCOT / ELNET / M.D. exchange, and Kalaignar’s final reply.
 
-The staged final batch preserves:
+The canonical English stops exactly at source p.240. There is no p.241 / Speech-8 spillover.
 
-- Hon. Speaker → Tmt. A.S. Ponnammal intervention;
-- the 413-acre / 380-acre industrial-complex discussion;
-- the Alanganallur Sugar Factory / 2,500 employment reference;
-- Kalaignar’s `கனவு கண்டேன் / கண் துடைப்பு` humour and laughter marker;
-- the complete printed English intervention by `THIRU B. VENKATASAMY` exactly as printed in the verified Tamil source layer;
-- the Hosur ELCOT / ELNET / M.D. exchange;
-- Kalaignar’s final reply;
-- the exact Speech-7 closing boundary on source p.240, with no p.241 / Speech-8 spillover.
+Current checkpoints:
 
-Batch-9 staged translation commit: `acdd1a08bc818a9b500cd2771b5575e071c1189e`.
+- Gate-F canonical completion: `8ce93472ccb01bb2efd41435d4745d3c97f9da1a`
+- metadata after Gate F completion: `265efc6106c68f0b57e3a60b6a7491dbbcaf54ae`
+- Speech-7 README after Gate F completion: `611dd060b9f397eea337923d3800ae2838a3f2a5`
 
-No unresolved translation question was introduced. English remains in progress and unverified because the final two translated pages are staged rather than canonical.
+No unresolved translation question is currently recorded. English remains **not verified** until Gate G passes.
 
-## Exact next activity
+## Exact next activity — Speech 7 Gate G
 
-1. Safely merge `gate-f-batch9-pp239-240.md` into current canonical `translation.md` immediately after source p.238, without altering pp.199–238.
-2. Confirm canonical page sequence is exactly pp.199–240 and that the Speech-7 closing boundary is intact.
-3. Confirm there is no p.241 / Speech-8 content in the canonical Speech-7 translation.
-4. Update `metadata.json`, Speech-7 README, this handover and `docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md` to **Gate F complete — 42/42 pages**.
-5. Delete the staged Batch-9 file only after the canonical merge is confirmed.
-6. Do **not** mark English verified yet. The next activity after canonical Gate-F closure is a separate full-speech **Gate G English fidelity check** against the final verified Tamil.
+1. Begin a separate full-speech English fidelity check against the final verified Tamil.
+2. Review canonical `translation.md` against `transcript.md` across the complete source range **pp.199–240**.
+3. Check page correspondence, completeness, speaker changes/interventions, names and initials, dates, figures, percentages, money, units, technical/company/project names, printed English passages, humour/context markers and cross-page continuations.
+4. Preserve source claims and unusual/historical source forms; do not use outside knowledge to silently correct them.
+5. Apply any English corrections discovered to canonical `translation.md` and document them in a Gate-G review record / verification log.
+6. Only after the complete Gate-G pass may English be marked `verified`.
 7. Do not begin Speech 8.
