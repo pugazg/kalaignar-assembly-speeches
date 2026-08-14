@@ -36,9 +36,10 @@ Speech 7 has completed **Gate C** and **Gate D**; **Gate E is in progress**.
 - Gate C: **complete — 42/42 first-pass Tamil pages**.
 - Gate D completeness/page-marker audit: **passed**.
 - Gate E Batch 1: **passed — scan pp.199–213 / printed pp.198–212**.
-- Gate E audited so far: **15/42 pages**.
-- Gate E corrections so far: **3**.
-- Gate E next scan page: **214**.
+- Gate E Batch 2: **passed — scan pp.214–228 / printed pp.213–227**.
+- Gate E audited so far: **30/42 pages**.
+- Gate E corrections so far: **5**.
+- Gate E next scan page: **229**.
 - Current Tamil status: **transcribed, not verified**.
 - Explicit unresolved/`[REVIEW]` readings: **0**.
 - English: **blocked** until Gate E passes across all 42 pages.
@@ -51,19 +52,28 @@ The controlling scan was re-read page by page for scan pp.**199–213**. Three s
 2. p.205 `தெரிவித்து உண்மை` → `தெரிவித்தது உண்மை`;
 3. p.209 `சுட்டிக் காட்டியிருக்கின்றேன்` → `சுட்டிக் காட்டியிருக்கிறேன்`.
 
-A preliminary audit note had incorrectly characterised the p.202 administered-price paragraph and p.209 Economic Intelligency Unit introduction as omissions. A direct canonical fetch established that both were already present, so no duplicate text was inserted; the correction record was amended before Batch 1 was closed.
-
 Batch-1 correction commit: `4c42c979f087a78cdaeef3e96a12506bcdd7693e`.
+
+## Gate E — Batch 2
+
+The controlling scan was re-read page by page for scan pp.**214–228** / printed pp.**213–227**. Two definite source-supported corrections were applied:
+
+1. **scan p.214 / printed p.213** — Hyundai land allotment `552 ஏக்கர்` → `532 ஏக்கர்`;
+2. **scan p.227 / printed p.226** — `புயூஜிகுரா லிமிடெட்` → `ப்யூஜிகுரா லிமிடெட்`.
+
+The corrected forms were checked directly against the rendered scan. No other definite canonical correction was identified on scan pp.215–226 or 228 in this pass. Unusual printed names/forms were not externally normalised.
+
+Batch-2 correction commit: `2ae1963b7d9c5dde4a96eb5ff8b8affbaf3a6693`.
 
 ## Next activity
 
-Continue **Gate E Batch 2 — strict Tamil visual/source-fidelity verification for scan pp.214–228 / printed pp.213–227**. Re-read every page directly against the controlling scan and apply only source-supported corrections.
+Continue **Gate E Batch 3 — strict Tamil visual/source-fidelity verification for scan pp.229–240 / printed pp.228–239**. Re-read every remaining Speech-7 page directly against the controlling scan and apply only source-supported corrections. Stop at the verified Speech-7 boundary on p.240; do not enter p.241 / Speech 8.
 
-Do not begin English until Gate E passes for all **42** Speech-7 pages.
+Only after all **42/42** pages pass Gate E may the Tamil be marked verified and English work begin.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — complete first-pass Tamil with Gate-E corrections applied to pp.199–213.
+- [`transcript.md`](./transcript.md) — complete Tamil transcript with Gate-E corrections through p.228.
 - [`metadata.json`](./metadata.json) — Gate E status and audited-page counts.
 - [`source-notes.md`](./source-notes.md) — source authority and locked boundaries.
 - [`verification-log.md`](./verification-log.md) — Gate-C/D history and Gate-E correction audit trail.
