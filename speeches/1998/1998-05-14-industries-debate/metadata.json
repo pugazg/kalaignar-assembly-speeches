@@ -38,14 +38,14 @@
     "source_authority": "scan image"
   },
   "transcription": {
-    "method": "manual first-pass transcription directly from rendered scan images; OCR/extracted text is non-authoritative helper material only",
-    "status": "in-progress",
+    "method": "manual first-pass transcription directly from rendered scan images, with OCR used only as a non-authoritative helper and source-image visual correction",
+    "status": "transcribed",
     "full_speech_scan_pages": "199-240",
-    "completed_scan_pages": "199-228",
-    "completed_printed_pages": "198-227",
-    "completed_page_count": 30,
+    "completed_scan_pages": "199-240",
+    "completed_printed_pages": "198-239",
+    "completed_page_count": 42,
     "total_page_count": 42,
-    "next_scan_page": 229,
+    "next_scan_page": null,
     "page_markers_audited_for_completed_batch": true,
     "full_speech_completeness_audit": false,
     "full_speech_page_marker_audit": false,
@@ -63,8 +63,8 @@
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C Batch 1 completed scan pp.199-213 / printed pp.198-212. Gate C Batch 2 completed scan pp.214-228 / printed pp.213-227, bringing the first-pass Tamil to 30/42 mapped pages. Scan p.228 ends with the Frozen French Fries project agreement dated 7-1-1998. Scan p.229 / printed p.228 begins `PVC foamed sheets -செயற்கை மரப்பொருள் திட்டம்.` Tamil remains in-progress; Gates D and E have not begun.",
-    "verification_note": "The Speech-7 start/end boundaries remain locked at scan pp.199-240. Batch 2 was read from rendered scan images and preserves printed Tamil/English forms, figures, project/company names and source-page boundaries. This remains Gate-C first-pass work only and is not verified Tamil."
+    "completion_note": "Gate C is complete for all 42 mapped pages. Batch 1 covered scan pp.199-213, Batch 2 pp.214-228, and Batch 3 pp.229-240. The final page preserves the Ponnammal/Venkatasamy interventions and printed English passage and ends with Kalaignar's reply. Scan p.241 was directly checked and begins உரை : 8 / 29.04.1999, so no Speech-8 material is included. Tamil is now transcribed but not reviewed or verified; Gate D is next.",
+    "verification_note": "All mapped Speech-7 pages are represented by first-pass Tamil source-page sections. The final Batch-3 pages were read from rendered scan images and visually corrected against the source, while OCR remained helper-only. Gate D completeness/page-marker audit and Gate E strict source-fidelity verification are still required before Tamil can be marked verified."
   },
   "translation": {
     "language": "English",
