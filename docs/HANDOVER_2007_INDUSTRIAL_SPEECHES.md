@@ -56,115 +56,97 @@ Important retained released-speech note: Speech-3 verified Tamil on p.94 remains
 - Printed date: `14.08.1996`
 - Canonical ID: `1996-08-14-industries-debate`
 - Locked range: **scan pp.136–171 / printed pp.135–170**
-- Total mapped scan pages: **36**
-- Gate C: **complete — 36/36 pages represented**
+- Total mapped source pages: **36**
+- Gate C: **complete — 36/36**
 - Gate D: **passed**
-- Gate E: **passed — 36/36 pages strictly verified against scan**
+- Gate E: **passed — 36/36 directly verified against scan**
 - Tamil status: **verified**
-- `verified_against_scan`: **true**
-- `verified_scan_pages`: **136–171**
-- Gate-E corrections: **23 cumulative** — 18 + 4 + 1
-- explicit unresolved/`[REVIEW]` readings: **0**
-- Gate F English translation: **ready / not started**
-- Gate G English verification: **not started**
-- Gate H release/index: **not started**
+- Gate-E corrections: **23**
+- unresolved Tamil readings: **0**
+- Gate F: **complete — 36/36 English source-page sections in `translation.md`**
+- English status: **translated**, not verified
+- Gate G: **not started**
+- Gate H: **not started**
 
-The standard five-file folder is `speeches/1996/1996-08-14-industries-debate/`.
+The working files are under `speeches/1996/1996-08-14-industries-debate/`. Gate F adds a working companion `translation.md`; the five standard archival files remain `README.md`, `metadata.json`, `source-notes.md`, `transcript.md`, and `verification-log.md`.
 
-## Gate C and Gate D retained state
+## Tamil Gates C–E — final retained state
 
-Gate C was completed in three batches: scan pp.136–150, 151–165 and 166–171. Gate D then passed with exactly 36 source-page markers, no mapped omission or duplication, the correct p.136 opening, and the correct p.171 ending. Scan p.172 begins `உரை : 6`, dated `23.04.1997`. Gate D established completeness only; Gate E established source fidelity.
+Gate C represented all 36 mapped pages. Gate D passed with exactly 36 monotonic source-page markers, correct p.136 opening and p.171 ending, and no spillover into p.172. Gate E then re-read every page directly against the scan.
 
-## Gate E — completed
+Gate-E batches:
 
-Strict direct visual/source-fidelity verification was completed for **every scan page 136–171 / printed pp.135–170**.
+- pp.136–150: **18 corrections**;
+- pp.151–165: **4 corrections**;
+- pp.166–171: **1 correction**;
+- cumulative: **23 corrections**;
+- unresolved readings after Gate E: **0**.
 
-### Batch 1 — scan pp.136–150
+Notable corrected Tamil includes p.142 `இண்டர்மீடியட்ஸ்` / `பென்சைல் கெமிக்கல்ஸ்`, p.145 `ஸ்டோன்வேர் பைப்ஸ்`, p.146 restored `கொடைக்கானல்`, p.150 `பன்னீர்தாஸ் குடும்பத்தினர்`, p.153 `உருவாவதற்குத் தேவை`, p.159 `பிரெஞ்சு`, p.165 `அதிகலாபத்தை`, and p.167 `உங்களுக்குச் சொல்லவேண்டுமேயானால்`.
 
-- strict audit complete;
-- **18** source-supported corrections;
-- unresolved readings: **0**.
+Visually confirmed source anomalies/forms retained include p.142 `இஃதன்னியில்`, p.154 `Our closed historical and cultural ties`, p.155 `Sigapore`, p.156 `Tom, Tick & Harry`, p.157 `business-men`, pp.158–159 `Liquified Natural Gas` / `LNG Terminal (Liquified)`, p.163 `தேவையேயில்லாமல்,,` / `ஊழல் நடத்திருக்கிறது`, p.167 `ராஜஸ்தான் ஷிப் அண்டு உல்::பெடரேஷன்`, p.168 `வறுமை தேன் எனக் கொட்டுகிறது` / `side effects` / `anti-biotic` / `சிண்டாக்`, and the p.169–170 State Planning Commission list.
 
-Notable corrections included p.142 `இண்டர்மீடியட்ஸ்`, `பென்சைல் கெமிக்கல்ஸ்`, p.145 `ஸ்டோன்வேர் பைப்ஸ்`, p.146 restored `கொடைக்கானல்`, and p.150 `பன்னீர்தாஸ் குடும்பத்தினர்`.
+Final boundary remains verified: p.171 ends with `திரு. ஆர். சொக்கர்` and Kalaignar's reply followed by the decorative ornament; p.172 begins `உரை : 6`, `23.04.1997`.
 
-Confirmed source forms include p.142 `இஃதன்னியில்`, p.145 `ஆலங்குளம் ஆஸ்பெஸ்டாஸ் பயிற்சித் தொழிற்சாலை`, p.149 embedded English audit quotations and p.150 `'Good atmosphere'`.
+## Gate F — English translation completed
 
-### Batch 2 — scan pp.151–165
+A complete working English translation now exists at:
 
-- strict audit complete;
-- **4** source-supported corrections;
-- unresolved readings: **0**.
+`speeches/1996/1996-08-14-industries-debate/translation.md`
 
-Corrections:
+Gate-F result:
 
-- p.153 `தொழிற்சாலை உருவாவதற்குக் தேவை` → `தொழிற்சாலை உருவாவதற்குத் தேவை`;
-- p.159 `ஒரு பிரஞ்சு கம்பெனி` → `ஒரு பிரெஞ்சு கம்பெனி`;
-- p.164 later `அவர்களெல்லாம் உயர்மட்டக் குழுவிலே இருந்தார்கள்.` → `அவர்கள் எல்லாம் உயர்மட்டக் குழுவிலே இருந்தார்கள்.`;
-- p.165 `கடைபிடித்து அதிக லாபத்தை, அதிக வருமானத்தை` → `கடைபிடித்து அதிகலாபத்தை, அதிக வருமானத்தை`.
+- source-page sections: **36/36**;
+- exact English heading sequence: **136–171**, assertion-checked;
+- translation source: **final verified Tamil only**;
+- page correspondence preserved;
+- parliamentary speakers/interventions preserved through p.171;
+- figures, dates, monetary values, industrial/project terms and argument sequence carried across;
+- printed English passages reproduced in source form where present;
+- outside research was not used to rewrite source claims or anomalies;
+- English status: **translated**, not `verified`.
 
-Confirmed source forms include p.154 `Our closed historical and cultural ties`, p.155 `Sigapore`, p.156 `Tom, Tick & Harry`, p.157 `business-men`, pp.158–159 `Liquified Natural Gas` / `LNG Terminal (Liquified)`, p.162 `அருணா ஷூகாஸ்`, p.163 `தேவையேயில்லாமல்,,` / `ஊழல் நடத்திருக்கிறது`, and p.164 `ஸ்பெசிபிக் நேர்வு`.
+Two first-draft translation issues were caught and corrected before Gate-F status was recorded:
 
-### Batch 3 — scan pp.166–171
+1. p.144 was restored to source-faithful **`potassium chloride`**, rather than an inferred alternative;
+2. after the p.157 printed `business-men` sentence, a Tamil continuation that had initially remained untranslated was translated into English.
 
-- strict audit complete;
-- **1** source-supported correction;
-- unresolved readings: **0**;
-- Gate E closed successfully.
+Potentially sensitive Gate-G review points include all names/transliterations and unusual source forms, especially the p.142 project terminology, the p.154–155 Singapore letter, p.156–157 Business India quotations, pp.158–159 LNG terminology, the p.167 meat-industry organisation/place sequence, p.168 medicine analogy, and the p.169–170 Planning Commission list.
 
-Correction:
+## Gate-F commits
 
-- p.167 `உங்களுக்கு சொல்லவேண்டுமேயானால்` → the visibly printed `உங்களுக்குச் சொல்லவேண்டுமேயானால்`.
+- working English `translation.md` created — `12eb080fc1ad442a986c23b2d32eec041b4406e3`
+- Gate-F assertion check, two first-draft corrections, and `transcript.md` Gate-F status note — `074f69f930e708204d4a458808853c03d91ccd85`
+- metadata advanced to Gate-F `translated` state — `6911094ab926edd797c8ff291f20e5502bd03115`
+- README/source-notes/verification-log Gate-F tracking — `9d2dc62a7ec9b0c4a992d1a91bda1092f8b7d161`
+- next-chat prompt advanced to Gate G — `14a9a1205cccd2bb1892c8af51b102b62cf6b5b9`
+- temporary Gate-F workflows were deleted after use — `b300ecf06f615f01bebbba0ae86cae3c0a569289` and `32f8ecd1a18d4d6cc813c1816499286169f4905b`.
 
-Direct visual checking confirmed and retained:
+The temporary workflows were used only for exact assertion-checked replacements because the connector exposes whole-file replacement rather than a small patch operation. They are not project infrastructure.
 
-- p.167 `ராஜஸ்தான் ஷிப் அண்டு உல்::பெடரேஷன்`;
-- p.167 the complete transliterated meat-industry organisation/place sequence;
-- p.168 `வறுமை தேன் எனக் கொட்டுகிறது`, `side effects`, repeated `anti-biotic`, `சிண்டாக்` / `'சிண்டாக்'`;
-- p.169–170 State Planning Commission names and parenthetical roles;
-- p.170 final interventions by `மாண்புமிகு திரு. கோ. சி. மணி`, Kalaignar and `திரு. சி. ஞானசேகரன்`;
-- p.171 final `திரு. ஆர். சொக்கர்` intervention and Kalaignar reply, followed by the decorative ending ornament;
-- scan p.172 begins `உரை : 6`, `23.04.1997`, confirming no spillover.
+## Exact next activity — Speech 5 Gate G
 
-### Gate-E final result
+Perform **English fidelity verification** for every source-page section **136–171** in `translation.md` against the **final verified Tamil** in canonical `transcript.md`.
 
-- pages audited: **36/36**;
-- source-supported corrections: **23**;
-- unresolved readings: **0**;
-- Tamil status: **verified**;
-- strict full-speech visual verification: **true**.
+For each page verify:
 
-## Gate-E completion commits
+1. complete semantic coverage — no omissions or additions;
+2. correct source-page boundary and continuation;
+3. names/initials and institutional/project terminology;
+4. figures, dates, percentages, money and units;
+5. speaker labels, interventions, interruptions and quotations;
+6. printed English passages reproduced faithfully where they belong;
+7. source anomalies and internally inconsistent claims preserved rather than silently corrected;
+8. final p.170–171 intervention sequence and p.171 ending reply.
 
-- temporary assertion-checked workflow creation — `9289ed8005c18b2d487bc23c41dcc633ffcd6bdf`
-- canonical verified `transcript.md` and p.167 correction — `298d8e1e2d33b9ae5bf9e71a50d114220c545bd2`
-- temporary workflow removed — `dcb2c7e49750740c97cb283863c3a1939c723c36`
-- `verification-log.md` Gate-E pass — `d43bfffe57b17a9f638d074ed748980de3ac262e`
-- `metadata.json` Tamil marked verified — `cb34ddc5a8414b77e1d96d57eddff3f905ebdc2a`
-- speech `README.md` updated after Gate E — `504964a5627db66d8d6be56f4a408c33f2e3a34b`
-- `source-notes.md` final Gate-E findings — `e74b86ded6a6949d91ea03faae875d600e6e9f34`
-- `docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md` advanced to Gate F — `ed1220e5384e6508e4bcaa0524c2b84e76191a62`
+Document every concrete correction in `verification-log.md` and apply it to `translation.md`. Only after all 36 pages pass may English be marked **verified**.
 
-The temporary workflow was used solely because the canonical transcript is long and the connector exposes whole-file replacement rather than a small patch action. It performed exact assertion-checked replacements and was deleted immediately; it is not project infrastructure.
-
-## Exact next activity — Speech 5 Gate F
-
-Begin the English translation of the **final verified Tamil** for the complete Speech-5 range **scan pp.136–171 / printed pp.135–170**.
-
-1. Re-read current `docs/ARCHIVAL_WORKFLOW.md`, this handover, Speech-5 `metadata.json`, `source-notes.md`, `verification-log.md`, and the final verified Tamil in `transcript.md`.
-2. Treat the verified Tamil after Gate E as the sole translation source; do not translate from OCR or an older first-pass copy.
-3. Translate all **36 source-page sections** in order and preserve explicit source-page correspondence in the English layer.
-4. Preserve argumentative sequence, figures, dates, percentages, monetary values/units, names, industrial/technical terms, speaker labels, member interventions, interruptions and quotations.
-5. Do not silently correct factual/historical claims made in the source. Any necessary translator clarification must be visibly distinguished from source wording.
-6. Preserve source anomalies as source facts; do not use the English translation to rewrite verified Tamil.
-7. Keep the final p.170–171 intervention sequence and p.171 ending boundary complete.
-8. Update all five Speech-5 files when Gate F is complete.
-9. After the complete English exists, run Gate G against the verified Tamil before marking English `verified`.
-10. Do not perform Gate H release/index updates and do not begin Speech 6 until the required Speech-5 gates pass.
+After Gate G passes, merge the corrected verified English after the verified Tamil in canonical `transcript.md`, update the speech tracking files, and only then proceed toward Gate H. Do not begin Speech 6 while Speech 5 remains in Gate G/H.
 
 ## Content to leave untouched
 
-Unless separately justified, do not modify released Speeches 1–4, root release/index records, unrelated sources, or Speech 6+ while Speech 5 is in Gate F/G.
+Unless separately justified, do not modify released Speeches 1–4, root release/index records, unrelated sources, or Speech 6+ while Speech 5 is in Gate G/H.
 
 ## End-of-session checkpoint
 
-This handover records completion of Speech-5 Gate E. The next work begins with **Gate F English translation, scan p.136 / printed p.135**, using the final verified Tamil as the sole translation source.
+This handover records completion of **Speech-5 Gate F**. Resume with **Gate G English fidelity verification at source page 136**, comparing `translation.md` against the final verified Tamil in `transcript.md`.
