@@ -108,6 +108,41 @@ Audit results:
 
 Gate D therefore passes. Tamil remains **transcribed**, not verified. No source wording was changed during Gate D.
 
+## Gate E — strict Tamil visual/source-fidelity verification
+
+### Batch 1 — scan pp.172–186 / printed pp.171–185
+
+Status: **complete**.
+
+All 15 pages were inspected directly against rendered images of the controlling scan. OCR/extracted text was not used as source authority. The visual audit covered individual Tamil characters, names/initials, numerals, dates, percentages, money, acreage/units, headings, the opening speaker label, contextual markers, printed English, transliterations, legible punctuation and cross-page continuity.
+
+Four source-supported corrections were applied to canonical `transcript.md`:
+
+1. p.173 `சென்னை எண்ணெய் சுத்திகரிப்பு நிறுவனம்` → `சென்னை எண்ணெய்ச் சுத்திகரிப்பு நிறுவனம்`;
+2. p.175 `உலக அளவிலான வீழ்ச்சி இல்லை` → `உலக அளவிலான விழுக்காடு வீழ்ச்சி இல்லை`;
+3. p.175 `'சிப்காட்'னுடைய` → `'சிப்காட்'டினுடைய`;
+4. p.177 `'சிப்காட்'ன் சார்பாக` → `'சிப்காட்'டின் சார்பாக`.
+
+The audit visually confirmed and retained source-supported forms including:
+
+- p.174 `நாம் மிக அடுத்த நிலையிலே இருக்கிறோம்` and the p.174→175 continuation `இந்தியாவின் ஏற்றுமதியும் குறிப்பிட்டதற்க` / `வகையில் உயரவில்லை`;
+- p.175 `'ஷைலக்'`, `'கொரமாண்டல் பாலிபேக்ஸ்'`, `45.50`, `45`, and `117`;
+- p.177 `Capital Subsidy`, `State Industries Promotion Corporation of Tamil Nadu`, `729.78` and later `730`;
+- p.178 `Small Industries Development Corporation`, `Joint Sector -லே`, `Associate Sector 11%`, `Electronic Corporation of Tamil Nadu`;
+- pp.180–181 the complete 15-item list and unusual printed forms `குளோரின் அலைட்`, `மார்த்திக் கிரிஸ்டல் சால்ட்`, `வார்ப்படம் கொல்லுலை`, `இண்டார் காண்டினென்டல் லெதர்ஸ்`;
+- p.184 `272 ஹெக்டேர்`, `103`, `5.12`, `விதி 39`, `விழிப்புப் பணிக்குழு`, `'விஜிலென்ஸ் கமிஷன்'`, `ஒப்பந்தபுள்ளி, டெண்டர்முறை`;
+- p.185 `விதிகள் 8, 8-ஏ`, `2.88`, `26.17`, `67.32`, `Economist Intelligence Unit`, `India uncaged`, and `Seeking opportunities in the South`;
+- p.186 the printed `back handers` quotation, `Industry-Friendly Policies`, and misspelled `transparent appoach`.
+
+Batch-1 result:
+
+- audited Gate-E scan pages: **172–186**, **15/27** pages;
+- corrections: **4**;
+- unresolved/`[REVIEW]` readings: **0**;
+- p.186 ends `அவற்றுள் சிலவற்றை` and p.187 begins `மாத்திரம் இங்கே உங்கள் முன்னால் வைக்க விரும்புகிறேன்.`;
+- Tamil remains **transcribed, not fully verified**;
+- English remains blocked.
+
 ## Next activity
 
-Proceed to **Gate E — strict Tamil visual/source-fidelity verification**. Start with a bounded direct page-by-page audit of **scan pp.172–186 / printed pp.171–185** against the controlling scan. Check words/characters, names, initials, dates, figures, percentages, monetary values, units, headings, punctuation where legible, embedded English, context markers and page transitions. Apply only source-supported corrections and document each one. English remains blocked until the complete Gate-E audit passes.
+Proceed to **Gate E Batch 2 — strict Tamil visual/source-fidelity verification for scan pp.187–198 / printed pp.186–197**. Apply only source-supported corrections; document every correction and unusual retained source form; explicitly record any unresolved reading; and re-confirm the p.198 ending / p.199 Speech-7 boundary. Only after all remaining pages pass may Tamil be marked `verified` and Gate F English become eligible.
