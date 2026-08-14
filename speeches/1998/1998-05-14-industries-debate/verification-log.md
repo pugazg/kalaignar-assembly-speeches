@@ -27,15 +27,9 @@ Gate C completed all **42/42** mapped pages in three batches:
 
 Gate-C unresolved/`[REVIEW]` readings: **0**. Tamil status after Gate C: **transcribed**, not verified.
 
-Two Batch-1 post-write source recheck corrections were recorded during Gate C, and Batch 3 used OCR only as helper material with scan-supported corrections applied before Gate-C completion. None of that is treated as Gate-E verification.
-
 ## Gate D — full-speech Tamil completeness/page-marker audit
 
 Status: **passed**.
-
-The complete canonical Speech-7 transcript was audited as one structural unit against the locked range **scan pp.199–240 / printed pp.198–239**.
-
-### Gate-D checks
 
 - expected page markers: **42**;
 - actual page markers: **42**;
@@ -44,33 +38,43 @@ The complete canonical Speech-7 transcript was audited as one structural unit ag
 - duplicates: **0**;
 - reordering: **0**;
 - `<!-- source-page: 241 -->`: **absent**;
-- Speech-8 heading/date (`உரை : 8` / `29.04.1999`): **absent**;
-- opening boundary matches scan p.199: `உரை : 7`, `நாள் : 14.05.1998`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`;
-- closing sequence is represented on pp.238–240, including `திரு. கே. சுப்பராயன்`, the Speaker, `திருமதி ஏ.எஸ். பொன்னம்மாள்`, Kalaignar's `(சிரிப்பு)` response, the `THIRU B. VENKATASAMY` printed English intervention, `திரு. பி. வெங்கடசாமி`, and Kalaignar's final response;
-- contextual source markers including `(மேசையைத் தட்டும் ஒலி)`, `(மேசையைத் தட்டும் பலத்த ஒலி)` and `(சிரிப்பு)` remain represented where transcribed;
-- unresolved/`[REVIEW]` markers: **0**.
+- Speech-8 heading/date spillover: **absent**;
+- p.199 opening and p.240 closing sequence align with the locked boundaries.
 
-The canonical transcript's p.240 marker was explicitly re-located during Gate D, and a search for a p.241 marker returned no match. The closing intervention sequence remains inside p.240 and no Speech-8 text is present.
+Gate D is structural only; it did not certify character-level source fidelity.
 
-### Gate-D result
+## Gate E — strict Tamil visual/source-fidelity verification
 
-Gate D **passes**. No source wording was changed during this structural audit. Tamil remains **transcribed, not verified** because the character-level visual/source-fidelity audit required by Gate E has not yet been performed.
+### Batch 1 — scan pp.199–213 / printed pp.198–212
 
-## Next activity — Gate E Batch 1
+Status: **passed after corrections**.
 
-Begin strict Tamil visual/source-fidelity verification for **scan pp.199–213 / printed pp.198–212**.
+Every page in the batch was re-read against the rendered controlling scan. Checks included Tamil characters and word forms, names, initials, dates, money, percentages, English strings, interventions, punctuation where legible and cross-page continuity.
 
-Check at minimum:
+The first draft Gate-E findings incorrectly described two passages as missing: the p.202 administered-price paragraph and the p.209 Economic Intelligency Unit / `India Uncaged` / `Seeking opportunities in the South` introduction. A direct canonical blob fetch showed both were already present. They were therefore **not inserted again**. The audit record was corrected before Batch 1 was closed.
 
-- individual Tamil words and characters;
-- names and initials;
-- dates, percentages, monetary values, acreage and other units;
-- source headings and speaker labels;
-- interventions/contextual markers;
-- embedded/printed English;
-- punctuation where legible;
-- cross-page sentence continuity.
+Actual canonical corrections applied in commit `4c42c979f087a78cdaeef3e96a12506bcdd7693e`:
 
-Apply only source-supported corrections to canonical `transcript.md`, itemise every correction here, and record unresolved readings rather than guessing. After Batch 1, Tamil must remain `transcribed`, not verified; Gate E will still have remaining pages.
+1. **scan p.202 / printed p.201** — `விற்கப்படுகின்ற` → `விற்கப்படுகிற` in the `administered price` paragraph.
+2. **scan p.205 / printed p.204** — `தெரிவித்து உண்மை` → `தெரிவித்தது உண்மை`.
+3. **scan p.209 / printed p.208** — `சுட்டிக் காட்டியிருக்கின்றேன்` → `சுட்டிக் காட்டியிருக்கிறேன்`.
 
-English remains blocked until Gate E passes across all **42** pages.
+The corrected forms were visually rechecked against scan pp.202, 205 and 209. No additional canonical correction was identified on scan pp.199–201, 203–204, 206–208 or 210–213 during this batch.
+
+Batch-1 unresolved/`[REVIEW]` readings: **0**.
+
+### Gate-E current result
+
+- audited: **15/42 scan pages**, pp.199–213 / printed pp.198–212;
+- Gate-E corrections so far: **3**;
+- unresolved/`[REVIEW]` readings: **0**;
+- next scan page: **214**;
+- Tamil status: **transcribed, not yet verified**;
+- full-speech Gate E: **in progress**;
+- English: **blocked**.
+
+## Next activity — Gate E Batch 2
+
+Continue strict Tamil visual/source-fidelity verification for **scan pp.214–228 / printed pp.213–227**.
+
+Re-read each page directly from the scan, apply only source-supported corrections, and record every change. Do not begin English until Gate E passes across all **42** Speech-7 pages.
