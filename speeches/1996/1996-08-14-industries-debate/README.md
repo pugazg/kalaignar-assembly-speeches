@@ -29,9 +29,9 @@
 
 இந்த உரையில் scan page = printed page + 1. PDF scan page மற்றும் அச்சுப் பக்க எண் தனித்தனியாகப் பதிவு செய்யப்படுகின்றன.
 
-## Current transcription status
+## Current archival status
 
-Speech 5 has completed Gates C–G. Tamil and English are both **verified**; Gate H release/indexing has not yet been performed.
+Speech 5 has completed **Gates C–H** and is fully released. Tamil and English are both **verified**.
 
 - Gate C Tamil first-pass: **complete** — **36/36 pages**, scan pp.136–171 / printed pp.135–170.
 - Gate D full-speech completeness/page-marker audit: **passed**.
@@ -46,9 +46,9 @@ Speech 5 has completed Gates C–G. Tamil and English are both **verified**; Gat
 - Gate G English fidelity verification: **passed — 36/36 sections checked against final verified Tamil**.
 - Gate-G fidelity corrections: **7**.
 - English translation status: **verified**.
-- Gate H release/indexing: **not started**.
+- Gate H release/indexing: **passed** — root `README.md` and `data/speeches.json` updated.
 
-The canonical [`transcript.md`](./transcript.md) now contains the complete verified Tamil followed by the complete verified English for source pages **136–171**. [`translation.md`](./translation.md) is retained as the verified English companion.
+The canonical [`transcript.md`](./transcript.md) contains the complete verified Tamil followed by the complete verified English for source pages **136–171**. [`translation.md`](./translation.md) is retained as the verified English companion.
 
 ## Gate E correction summary
 
@@ -110,14 +110,25 @@ Seven concrete fidelity corrections were applied during Gate G:
 
 English status after Gate G: **verified**.
 
+## Gate H — canonical release/indexing
+
+Gate H is **passed**.
+
+- canonical ID/date/range/statuses were cross-checked across the Speech-5 files;
+- `data/speeches.json` now contains the released Speech-5 record using the established schema;
+- the root `README.md` speech index now contains the 14-08-1996 Speech-5 entry;
+- Tamil remains `verified` against scan pp.136–171;
+- English remains `verified` against the final verified Tamil;
+- no Speech-6 text was introduced into Speech 5.
+
 ## Next activity
 
-Proceed to **Gate H — canonical release/indexing** for Speech 5. Update `data/speeches.json` and the root speech index as appropriate, ensure all statuses and source ranges agree across the canonical files, and record the release commit(s). Do not begin Speech 6 until Speech 5 Gate H is complete and the handover/continuation prompt have been refreshed.
+Speech 5 is complete and released. The next anthology unit is **Speech 6 — `உரை : 6`, 23.04.1997**, locked to **scan pp.172–198 / printed pp.171–197**. Begin with Gate C Tamil first-pass transcription from scan p.172, following the repository workflow and the updated handover.
 
 ## கோப்புகள்
 
 - [`transcript.md`](./transcript.md) — canonical verified Tamil + verified English.
 - [`translation.md`](./translation.md) — verified English companion, 36/36 source-page sections.
 - [`metadata.json`](./metadata.json) — verified Tamil and verified English; Gate G passed.
-- [`source-notes.md`](./source-notes.md) — source authority, Tamil audit findings and Gate-F/G translation notes.
-- [`verification-log.md`](./verification-log.md) — Gates C–G records and Gate-H continuation point.
+- [`source-notes.md`](./source-notes.md) — source authority, Tamil audit findings and Gate-F/G/H notes.
+- [`verification-log.md`](./verification-log.md) — complete Gates C–H audit/release record.
