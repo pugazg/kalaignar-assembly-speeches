@@ -47,7 +47,7 @@ Status: **completed first pass; Gate C complete**.
 The Batch-2 application was assertion-checked before its canonical commit:
 
 - source-page markers must equal exactly **172, 173, …, 198**;
-- `<-- source-page: 199 -->` / Speech-7 heading/date spillover is prohibited;
+- `<!-- source-page: 199 -->` / Speech-7 heading/date spillover is prohibited;
 - explicit `[REVIEW]` marker count must remain **0**.
 
 The assertion passed. The canonical transcript therefore contains **27/27 first-pass source-page sections, exactly scan pp.172–198**.
