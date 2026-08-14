@@ -8,39 +8,36 @@ Current state:
 
 - Gate C: **complete — 36/36 pages represented**.
 - Gate D full-speech completeness/page-marker audit: **passed**.
-- Gate E: **in progress**.
-- Gate E Batch 1 complete: **scan pp.136–150 / printed pp.135–149** — 18 source-supported corrections.
-- Gate E Batch 2 complete: **scan pp.151–165 / printed pp.150–164** — 4 source-supported corrections.
-- Gate-E coverage: **30/36 pages**, scan pp.136–165.
-- Cumulative Gate-E corrections: **22**.
+- Gate E: **passed — all 36 scan pages 136–171 strictly audited against the controlling scan**.
+- Gate E Batch 1: pp.136–150 — **18** corrections.
+- Gate E Batch 2: pp.151–165 — **4** corrections.
+- Gate E Batch 3: pp.166–171 — **1** correction.
+- Cumulative Gate-E corrections: **23**.
 - Explicit unresolved/`[REVIEW]` readings: **0**.
-- Tamil status: **transcribed**, not fully verified.
-- Next Gate-E page: **scan p.166 / printed p.165**.
-- English / Gate F: **blocked until Gate E passes for the complete range and Tamil is verified**.
-- Gates G/H: not started.
+- Tamil status: **verified**.
+- `verified_against_scan`: **true**.
+- `verified_scan_pages`: **136–171**.
+- Gate F English translation: **ready / not started**.
+- Gate G English fidelity verification: **not started**.
+- Gate H release/indexing: **not started**.
 
-Gate E Batch 2 corrected:
+Gate E Batch 3 corrected p.167 `உங்களுக்கு சொல்லவேண்டுமேயானால்` → the visibly printed `உங்களுக்குச் சொல்லவேண்டுமேயானால்`.
 
-- p.153 `தொழிற்சாலை உருவாவதற்குக் தேவை` → `தொழிற்சாலை உருவாவதற்குத் தேவை`;
-- p.159 `ஒரு பிரஞ்சு கம்பெனி` → `ஒரு பிரெஞ்சு கம்பெனி`;
-- p.164 later `அவர்களெல்லாம் உயர்மட்டக் குழுவிலே இருந்தார்கள்.` → `அவர்கள் எல்லாம் உயர்மட்டக் குழுவிலே இருந்தார்கள்.`;
-- p.165 `கடைபிடித்து அதிக லாபத்தை, அதிக வருமானத்தை` → `கடைபிடித்து அதிகலாபத்தை, அதிக வருமானத்தை`.
+Gate E also visually confirmed and intentionally retained the source forms p.167 `ராஜஸ்தான் ஷிப் அண்டு உல்::பெடரேஷன்` and the transliterated organisation/place sequence; p.168 `வறுமை தேன் எனக் கொட்டுகிறது`, `side effects`, repeated `anti-biotic`, `சிண்டாக்` / `'சிண்டாக்'`; and the p.169–170 State Planning Commission names/roles. The final p.170–171 parliamentary interventions were checked. Scan p.171 ends after the final `திரு. ஆர். சொக்கர்` / Kalaignar exchange and decorative ornament; scan p.172 begins `உரை : 6`, dated `23.04.1997`.
 
-Batch 2 visually confirmed and intentionally retained the printed forms p.154 `Our closed historical and cultural ties`, p.155 `Sigapore`, p.156 `Tom, Tick & Harry`, p.157 `business-men`, pp.158–159 `Liquified Natural Gas` / `LNG Terminal (Liquified)`, p.162 `அருணா ஷூகாஸ்`, p.163 `தேவையேயில்லாமல்,,` / `ஊழல் நடத்திருக்கிறது`, and p.164 `ஸ்பெசிபிக் நேர்வு`.
+## Next action — Gate F English translation
 
-## Next action — Gate E Batch 3
+Translate the **complete final verified Tamil** for Speech 5, scan pp.136–171 / printed pp.135–170, into English.
 
-Strictly audit the final **scan pp.166–171 / printed pp.165–170** directly against the controlling scan images.
+1. Re-read `docs/ARCHIVAL_WORKFLOW.md`, this handover, Speech-5 `metadata.json`, `source-notes.md`, `verification-log.md`, and the final verified Tamil in canonical `transcript.md`.
+2. Treat the verified Tamil after Gate E as the sole translation source. Do not translate from OCR or any older first-pass text.
+3. Translate all **36 source-page sections** in order and preserve explicit source-page correspondence in the English layer.
+4. Preserve argumentative sequence, figures, dates, percentages, monetary values/units, names, industrial/technical terms, speaker labels, member interventions, interruptions, quotations and printed English where relevant.
+5. Do not silently correct factual/historical claims or source anomalies. Translator clarification, if absolutely needed, must be visibly distinguished from source wording.
+6. Preserve the distinction between source anomalies and translator English; never rewrite the verified Tamil while translating.
+7. Keep the final p.170–171 intervention sequence complete and preserve the p.171 ending boundary.
+8. When all 36 English sections are complete, update all five Speech-5 files plus this continuation prompt and the handover with Gate-F status, exact page coverage, unresolved translation issues if any, and commit SHAs.
+9. After Gate F is complete, the exact next activity is Gate G English fidelity verification against the verified Tamil.
+10. Do not begin Speech 6 or Gate-H index/release work while Speech 5 remains in Gate F/G.
 
-For every page compare canonical Tamil against the scan, checking individual words/characters, names/initials, figures, dates, money/units, embedded English, speaker labels, punctuation where legible and page-transition continuity. Correct only where the scan proves the canonical text differs from the print. Do not modernise or normalise source anomalies.
-
-Pay deliberate attention to the still-unverified first-pass forms:
-
-- p.167 `ராஜஸ்தான் ஷிப் அண்டு உல்::பெடரேஷன்` and the full transliterated organisation/place sequence;
-- p.168 `வறுமை தேன் எனக் கொட்டுகிறது`, `side effects`, `anti-biotic`, `சிண்டாக்` / `'சிண்டாக்'`;
-- pp.169–170 State Planning Commission names and parenthetical roles;
-- the final p.170–171 parliamentary intervention sequence and p.171 ending boundary.
-
-Record every concrete correction in `verification-log.md`, apply it to canonical `transcript.md`, and update all five Speech-5 files. If the complete range pp.136–171 then passes with no unresolved reading, Gate E may be closed and Tamil marked `verified`; only after that may Gate F English translation begin. Do not start Speech 6 or Gate-H index changes before their required gates.
-
-After the batch, refresh the handover and this continuation prompt with the final Gate-E status, correction count, unresolved readings, commit SHAs and exact next activity.
+The canonical Tamil correction commit that closed Gate E is `298d8e1e2d33b9ae5bf9e71a50d114220c545bd2`. The temporary workflow used only for assertion-checked replacement was removed immediately afterward and must not be treated as project infrastructure.
