@@ -1,0 +1,62 @@
+name: Temporary Speech 5 Gate F tracking
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.event.head_commit.message == 'Temporary update Speech 5 Gate F tracking'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update Gate F tracking files
+        shell: python
+        run: |
+          from pathlib import Path
+
+          def one(path, old, new):
+              p = Path(path)
+              t = p.read_text(encoding='utf-8')
+              c = t.count(old)
+              if c != 1:
+                  raise SystemExit(f'{path}: expected one occurrence, found {c}: {old!r}')
+              p.write_text(t.replace(old, new, 1), encoding='utf-8')
+
+          readme = 'speeches/1996/1996-08-14-industries-debate/README.md'
+          one(readme,
+              '- English translation / Gate F: **ready / not started**.',
+              '- English translation / Gate F: **complete** — all **36/36** verified source-page sections translated in [`translation.md`](./translation.md); English status is `translated`, not yet verified.')
+          one(readme,
+              'The canonical [`transcript.md`](./transcript.md) now contains the complete **verified Tamil** for all mapped scan pages 136–171. Gate F must translate from this final verified Tamil, not from OCR or an earlier first-pass copy.',
+              'The canonical [`transcript.md`](./transcript.md) contains the complete **verified Tamil** for all mapped scan pages 136–171. Gate F has translated that verified Tamil into the working companion [`translation.md`](./translation.md), with explicit source-page sections 136–171. Gate G must now verify the complete English against the verified Tamil before the English is merged into canonical `transcript.md`.')
+          one(readme,
+              '## Next activity\n\nBegin **Gate F — English translation** from the final verified Tamil for **scan pp.136–171 / printed pp.135–170**. Preserve explicit source-page correspondence, speaker labels, interventions, figures, technical/industrial terms, embedded quotations and argument sequence. Do not silently repair source anomalies or factual claims. Gate G must verify the complete English against the verified Tamil before any Gate-H release/index work.',
+              '## Gate F — English translation\n\nGate F is **complete / not yet verified**. The working companion [`translation.md`](./translation.md) contains **36/36** English source-page sections, exactly **136–171**, translated from the final verified Tamil. The translation preserves page correspondence, parliamentary structure, figures, dates, industrial/technical terms, printed English passages and source anomalies. The page-heading sequence was assertion-checked as exactly 136–171.\n\nGate F does not confer verified status on English.\n\n## Next activity\n\nBegin **Gate G — English fidelity verification**. Re-read every English source-page section **136–171** against the final verified Tamil, checking completeness, additions/omissions, names, figures, terminology, speaker/intervention structure, page correspondence and preservation of source anomalies. Document and correct every issue found before marking English `verified` or performing Gate H.')
+          one(readme,
+              '- [`transcript.md`](./transcript.md) — complete verified Tamil; Gate F English not yet started.\n- [`metadata.json`](./metadata.json) — source, Gate-E pass and verified Tamil status.\n- [`source-notes.md`](./source-notes.md) — source authority, Gate-C/D notes and Gate-E audit findings.\n- [`verification-log.md`](./verification-log.md) — Gate-C/D records and the complete Gate-E correction ledger.',
+              '- [`transcript.md`](./transcript.md) — complete verified Tamil; Gate-F completion is noted, but English is kept separate pending Gate G.\n- [`translation.md`](./translation.md) — complete Gate-F English working translation, 36/36 source-page sections; not yet Gate-G verified.\n- [`metadata.json`](./metadata.json) — verified Tamil and Gate-F `translated` status.\n- [`source-notes.md`](./source-notes.md) — source authority, Tamil audit findings and Gate-F translation notes.\n- [`verification-log.md`](./verification-log.md) — Gates C–F records and Gate-G continuation point.')
+
+          notes = 'speeches/1996/1996-08-14-industries-debate/source-notes.md'
+          old_notes = '''## Next gate activity\n\n**Gate F — English translation** is now ready and has not started. Translate from the final verified Tamil in canonical `transcript.md`, preserving explicit source-page correspondence, speaker/intervention structure, figures, technical/industrial terms, embedded quotations and source anomalies. Do not translate from OCR or an older first-pass copy.\n\nGate G remains not started and must verify the complete English against the verified Tamil before Gate H. Do not start Speech 6 or release/index Speech 5 until the required downstream gates pass.'''
+          new_notes = '''## Gate F — English translation\n\nStatus: **complete / not yet verified**.\n\nA complete English working translation has been produced in [`translation.md`](./translation.md) from the **final verified Tamil**, covering all **36 source pages 136–171**.\n\nGate-F checks and translation constraints:\n\n- source-page headings are present in exact order **136–171**, 36/36;\n- translation source is the final verified Tamil in canonical `transcript.md`, not OCR or an earlier draft;\n- parliamentary speaker changes/interventions, figures, dates, monetary values, industrial/project terminology and argument sequence are represented;\n- the p.154–155 Singapore Prime Minister letter and pp.149/156–157 printed English passages are retained in their printed source form, including source anomalies such as `Our closed historical and cultural ties`, `Sigapore`, `Tom, Tick & Harry` and `business-men`;\n- unusual verified Tamil/source forms are treated as source facts rather than silently corrected through outside knowledge;\n- the p.170–171 final intervention sequence and ending reply are included.\n\nDuring the Gate-F completion check, two first-draft translation issues were corrected before status was recorded: p.144 was restored to source-faithful **potassium chloride** rather than an inferred alternative, and the Tamil continuation after the p.157 printed `business-men` sentence was translated instead of being left untranslated.\n\nThe English status is **translated**, not `verified`. Gate F does not confer Gate-G fidelity approval.\n\n## Next gate activity\n\nBegin **Gate G — English fidelity verification**. Re-read every English section **136–171** against the final verified Tamil, checking completeness, additions/omissions, names, figures, dates, technical terminology, speaker/intervention structure, source-page correspondence, printed English passages and preservation of source anomalies. Apply and document every Gate-G correction before marking English verified.\n\nDo not start Speech 6 or perform Gate-H release/index changes until Speech 5 completes the required downstream gates.'''
+          one(notes, old_notes, new_notes)
+
+          vlog = 'speeches/1996/1996-08-14-industries-debate/verification-log.md'
+          old_vlog = '''## Gate F — English translation\n\nStatus: **ready / not started**.\n\nGate F may now begin because the Tamil source gate is satisfied. Translate only from the final verified Tamil in canonical `transcript.md`, preserve source-page correspondence and speaker/intervention structure, and do not silently repair source claims or anomalies.\n\n## Gate G — English fidelity verification\n\nStatus: **not started**.'''
+          new_vlog = '''## Gate F — English translation\n\nStatus: **complete / not yet verified**.\n\nA complete English translation has been produced from the **final verified Tamil**, covering all **36 source pages, 136–171**, in [`translation.md`](./translation.md).\n\nGate-F completion checks:\n\n- English source-page sections present in exact sequence **136–171**, 36/36;\n- page order preserved with no source page intentionally omitted;\n- speaker changes and parliamentary interventions carried into English through the final p.171 exchange;\n- figures, dates, percentages, monetary values and units represented in their corresponding source-page sections;\n- industrial/company/project names and technical terms rendered from the verified Tamil without using outside research to rewrite source claims;\n- printed English passages are reproduced in source form, including p.154–155 `Our closed historical and cultural ties` / `Sigapore`, p.156 `Tom, Tick & Harry`, p.157 `business-men`, and pp.158–159 `Liquified Natural Gas` / `LNG Terminal (Liquified)`;\n- unusual source forms and internally inconsistent claims were not silently reconciled against external knowledge;\n- final p.170–171 interventions and Kalaignar's closing reply are represented.\n\nBefore recording Gate-F completion, an assertion check confirmed that the English page headings are exactly 136–171. Two first-draft translation issues were also corrected: p.144 `potassium chloride` was restored to match the verified Tamil source, and the Tamil continuation after the p.157 printed `business-men` passage was translated into English rather than left as Tamil.\n\nGate F does **not** confer verified status on English. The working translation remains in `translation.md` so Gate G can audit it without disturbing the verified Tamil layer in canonical `transcript.md`.\n\n## Gate G — English fidelity verification\n\nStatus: **not started**.\n\nGate G must re-read all 36 English source-page sections 136–171 against the final verified Tamil and document every correction before English may be marked `verified`.'''
+          one(vlog, old_vlog, new_vlog)
+
+      - name: Commit Gate F tracking
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add speeches/1996/1996-08-14-industries-debate/README.md speeches/1996/1996-08-14-industries-debate/source-notes.md speeches/1996/1996-08-14-industries-debate/verification-log.md
+          git commit -m "Record Speech 5 Gate F tracking"
+          git push
