@@ -94,26 +94,45 @@ The earlier first-pass note treating p.146 `ஓட்டலுக்கு ம�
 
 Gate-E Batch-1 unresolved/`[REVIEW]` markers: **0**.
 
-Gate-E coverage now stands at **15/36 pages**, scan pp.136–150 / printed pp.135–149. This is partial verification only; the full Tamil must not yet be labelled `verified`.
+### Batch 2 — scan pp.151–165 / printed pp.150–164
 
-## Pending first-pass forms for later Gate-E batches
+Status: **completed strict visual audit for this batch**.
 
-These remain first-pass readings until their own scan pages are strictly audited:
+All fifteen pages were re-read directly against the controlling scan. The canonical transcript received **4 source-supported corrections**:
+
+- p.153 `தொழிற்சாலை உருவாவதற்குக் தேவை` → `தொழிற்சாலை உருவாவதற்குத் தேவை`;
+- p.159 `ஒரு பிரஞ்சு கம்பெனி` → `ஒரு பிரெஞ்சு கம்பெனி`;
+- p.164 the later sentence `அவர்களெல்லாம் உயர்மட்டக் குழுவிலே இருந்தார்கள்.` → `அவர்கள் எல்லாம் உயர்மட்டக் குழுவிலே இருந்தார்கள்.`;
+- p.165 `கடைபிடித்து அதிக லாபத்தை, அதிக வருமானத்தை` → `கடைபிடித்து அதிகலாபத்தை, அதிக வருமானத்தை`.
+
+### Source forms explicitly confirmed in Batch 2
+
+The following first-pass forms were deliberately checked and retained because the scan supports them:
 
 - p.154 `Our closed historical and cultural ties`;
 - p.155 `Sigapore`;
 - p.156 `Tom, Tick & Harry`;
 - p.157 `business-men`;
-- pp.158–159 `Liquified Natural Gas` / `LNG Terminal (Liquified)`;
+- pp.158–159 `Liquified Natural Gas` and `LNG Terminal (Liquified)`;
 - p.162 `அருணா ஷூகாஸ்`;
 - p.163 `தேவையேயில்லாமல்,,` and `ஊழல் நடத்திருக்கிறது`;
-- p.164 `ஸ்பெசிபிக் நேர்வு`;
-- p.167 `ராஜஸ்தான் ஷிப் அண்டு உல்::பெடரேஷன்` and the transliterated organisation/place sequence;
-- p.168 `வறுமை தேன் எனக் கொட்டுகிறது`, `side effects`, `anti-biotic`, `சிண்டாக்`;
-- p.169–170 State Planning Commission names and parenthetical roles.
+- p.164 `ஸ்பெசிபிக் நேர்வு`.
+
+Gate-E Batch-2 unresolved/`[REVIEW]` markers: **0**.
+
+Gate-E coverage now stands at **30/36 pages**, scan pp.136–165 / printed pp.135–164. A cumulative **22 source-supported corrections** have been applied across Batches 1–2. The full Tamil must not yet be labelled `verified`.
+
+## Pending first-pass forms for Gate-E Batch 3
+
+These remain first-pass readings until their scan pages are strictly audited:
+
+- p.167 `ராஜஸ்தான் ஷிப் அண்டு உல்::பெடரேஷன்` and the transliterated organisation/place sequence including `பஞ்சாப் மீட் லிமிடெட், தேராபாணி`, `டியோனர் அபட்டார் பி.எம்.சி.`, `அல்பீர் எக்ஸ்போர்ட் லிமிடெட்`, `அரேபியன் எக்ஸ்போர்ட்ஸ்`, and related entries;
+- p.168 `வறுமை தேன் எனக் கொட்டுகிறது`;
+- p.168 printed English `side effects`, `anti-biotic`, and the Tamil drug form `சிண்டாக்` / quoted `'சிண்டாக்'`;
+- the p.169–170 State Planning Commission names and parenthetical roles.
 
 ## Next gate activity
 
-Continue Gate E with **Batch 2: scan pp.151–165 / printed pp.150–164**. Check every page directly against the scan and apply only source-supported corrections. After that, Gate E Batch 3 covers scan pp.166–171.
+Continue Gate E with the final **Batch 3: scan pp.166–171 / printed pp.165–170**. Check every page directly against the scan and apply only source-supported corrections. Only after this final six-page batch passes may the complete Tamil be marked `verified`.
 
 English / Gate F remains **blocked** until the entire Gate E range passes and Tamil is marked verified. Gates G and H have not started.
