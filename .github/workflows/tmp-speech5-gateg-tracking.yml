@@ -1,0 +1,129 @@
+name: Temporary Speech 5 Gate G tracking
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  track:
+    if: github.event.head_commit.message == 'Temporary record Speech 5 Gate G tracking'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update source notes and verification log
+        shell: python
+        run: |
+          from pathlib import Path
+
+          notes = Path('speeches/1996/1996-08-14-industries-debate/source-notes.md')
+          n = notes.read_text(encoding='utf-8')
+          marker = '## Gate F — English translation\n'
+          if n.count(marker) != 1:
+              raise SystemExit('source-notes Gate F marker missing or duplicated')
+          prefix = n.split(marker, 1)[0]
+          tail = '''## Gate F — English translation
+
+Status: **complete**.
+
+A complete English translation was produced in [`translation.md`](./translation.md) from the **final verified Tamil**, covering all **36 source pages 136–171**. The source-page headings were assertion-checked as exactly **136–171**. Speaker/intervention structure, figures, dates, monetary values, industrial/project terminology, argument sequence and printed English passages were carried across without using outside research to rewrite source claims.
+
+## Gate G — English fidelity verification
+
+Status: **passed — 36/36 English sections verified against the final verified Tamil**.
+
+The complete English was re-read page by page against canonical `transcript.md`. Seven concrete fidelity corrections were applied before English was marked verified:
+
+1. **p.144:** the remaining `potassium chlorate` occurrence was corrected to the verified Tamil `potassium chloride`.
+2. **pp.156–157:** restored an omitted repeated Tamil gloss following the second *Business India* quotation, including the bribe/payment and “presiding deity” sequence.
+3. **p.157:** verified source `நினைவாகி` is preserved as **“become a memory”** instead of being silently normalised to “become reality.”
+4. **p.162:** corrected the lime-purchase meaning to **an additional Rs. 200 per metric tonne**.
+5. **p.163:** verified source `பொதுப் பணித் துறை` is preserved as **Public Works Department**, not normalised to “public-sector.”
+6. **p.167:** verified `ராஜஸ்தான் ஷிப் அண்டு உல்::பெடரேஷன்` is represented as **Rajasthan Ship and Wool::Federation**, preserving `Ship` rather than silently changing it to `Sheep`.
+7. **p.167:** preserved the source spelling contrast `அல்லானா சன்ஸ்` / `அலானா சன்ஸ், கோவா` as **Allana Sons** / **Alana Sons, Goa**.
+
+Gate-G checks also reconfirmed:
+
+- English source-page sequence exactly **136–171**, 36/36;
+- complete speaker/intervention sequence through p.171;
+- figures, dates, percentages, monetary values and units checked against the verified Tamil;
+- p.154–155 Singapore Prime Minister letter retained in its printed English form, including `Our closed historical and cultural ties` and `Sigapore`;
+- p.156 `Tom, Tick & Harry`, p.157 `business-men`, and pp.158–159 `Liquified Natural Gas` / `LNG Terminal (Liquified)` retained as printed source forms;
+- p.168 `வறுமை தேன் எனக் கொட்டுகிறது` and the medicine analogy remain source-faithful in meaning without external correction;
+- p.169–170 Planning Commission names/roles and p.170–171 final interventions are complete.
+
+The corrected verified English has been merged after the verified Tamil in canonical [`transcript.md`](./transcript.md). [`translation.md`](./translation.md) is retained as the verified English companion. English status is **verified**.
+
+## Next gate activity
+
+Proceed to **Gate H — canonical release/indexing** for Speech 5. Update `data/speeches.json` and the root speech index as appropriate, verify all statuses/source ranges across the canonical files, and record the release commits. Do not begin Speech 6 until Speech 5 has completed Gate H and the handover/continuation prompt are refreshed.
+'''
+          notes.write_text(prefix + tail, encoding='utf-8')
+
+          vlog = Path('speeches/1996/1996-08-14-industries-debate/verification-log.md')
+          v = vlog.read_text(encoding='utf-8')
+          if v.count(marker) != 1:
+              raise SystemExit('verification-log Gate F marker missing or duplicated')
+          vprefix = v.split(marker, 1)[0]
+          vtail = '''## Gate F — English translation
+
+Status: **complete**.
+
+A complete English translation was produced from the **final verified Tamil**, covering all **36 source pages 136–171**, in [`translation.md`](./translation.md). Gate F itself did not confer verified status.
+
+## Gate G — English fidelity verification
+
+Status: **passed**.
+
+All **36 English source-page sections, 136–171**, were re-read against the final verified Tamil in canonical `transcript.md`. The audit checked completeness, additions/omissions, page-boundary continuity, names/initials, figures, dates, percentages, monetary values/units, industrial and technical terminology, speaker labels, interventions, interruptions, quotations, printed English passages and preservation of source anomalies.
+
+### Corrections applied during Gate G
+
+1. **p.144 — terminology:** remaining `potassium chlorate` → `potassium chloride`, matching both verified Tamil occurrences of `பொட்டாசியம் குளோரைடு`.
+2. **pp.156–157 — omission:** restored the repeated Tamil gloss after the second *Business India* quotation: the bribe/payment statement, the fact that work still did not get done, and the continuation about satisfying the “presiding deity.”
+3. **p.157 — source anomaly:** `நினைவாகி` had been silently rendered as “become reality”; corrected to **“become a memory”** so the English does not repair the verified source wording.
+4. **p.162 — amount semantics:** `at Rs. 200 per metric tonne — paying that additional amount` → **`paying an additional Rs. 200 per metric tonne`**.
+5. **p.163 — source wording:** `cooperative and public-sector sugar mills` → **`cooperative and Public Works Department sugar mills`**, preserving verified `பொதுப் பணித் துறை` rather than normalising it.
+6. **p.167 — source-name anomaly:** `Rajasthan Sheep and Wool::Federation` → **`Rajasthan Ship and Wool::Federation`**, preserving verified `ஷிப்`.
+7. **p.167 — spelling distinction:** later `Allana Sons, Goa` → **`Alana Sons, Goa`**, preserving the verified distinction between `அல்லானா` and later `அலானா`.
+
+### Gate-G final checks
+
+- English sections audited: **36/36**, exactly **136–171**;
+- no source-page section omitted or duplicated;
+- p.154–155 printed Singapore letter retained in source English, including visible anomalies;
+- p.156–157 *Business India* printed quotations retained, including `Tom, Tick & Harry` and `business-men`;
+- pp.158–159 `Liquified Natural Gas` / `LNG Terminal (Liquified)` retained;
+- p.167 organisation/place sequence re-checked against verified Tamil;
+- p.168 pollution-control/medicine analogy complete;
+- p.169–170 State Planning Commission names and roles complete;
+- p.170–171 final speaker/intervention sequence and p.171 ending reply complete;
+- unresolved English fidelity issues after audit: **0**;
+- English status: **verified**.
+
+The corrected English has been incorporated after the verified Tamil in canonical [`transcript.md`](./transcript.md), following the released-speech precedent.
+
+## Gate H — canonical release/indexing
+
+Status: **not started**.
+
+Gate H is now the exact next activity. Add Speech 5 to the release/index records only after cross-checking `metadata.json`, `README.md`, `source-notes.md`, `verification-log.md`, `transcript.md`, `translation.md`, root `README.md` and `data/speeches.json` for consistent statuses and ranges. Do not begin Speech 6 until Gate H and the required handover updates are complete.
+
+## Source availability correction retained
+
+The earlier working note that the attachment ended at scan p.150 was caused by the chat preview/preprocessing layer. Direct raw-PDF inspection confirmed the upload is the complete **329-page**, **217,124,211-byte** controlling file.
+'''
+          vlog.write_text(vprefix + vtail, encoding='utf-8')
+
+      - name: Commit Gate G tracking
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add speeches/1996/1996-08-14-industries-debate/source-notes.md speeches/1996/1996-08-14-industries-debate/verification-log.md
+          git commit -m "Document Speech 5 Gate G verification"
+          git push
