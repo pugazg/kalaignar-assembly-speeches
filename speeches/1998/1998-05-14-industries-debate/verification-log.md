@@ -1,130 +1,101 @@
 # Verification log — உரை : 7 / 14.05.1998
 
-## Source preflight and boundary re-confirmation
+## Source preflight and locked boundary
 
-The attached PDF matches the locked controlling source:
+Controlling PDF:
 
-- actual pages: **329**;
-- file size: **217,124,211 bytes**;
-- SHA-256: `c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370`.
+- actual pages: **329**
+- file size: **217,124,211 bytes**
+- SHA-256: `c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370`
+- Speech-7 scan range: **199–240**
+- printed range: **198–239**
+- scan p.241 begins Speech 8 and is excluded
 
-The locked Speech-7 range remains **scan pp.199–240 / printed pp.198–239**. Scan p.241 begins Speech 8 and is excluded.
+## Gate C — Tamil first pass
 
-## Gate C — Tamil first-pass transcription
+**Passed / complete.** All **42/42** mapped pages were transcribed in bounded batches. Gate-C unresolved readings: **0**.
 
-Gate C completed all **42/42** mapped pages in three batches. Gate-C unresolved/`[REVIEW]` readings: **0**. Tamil status after Gate C: **transcribed**, not verified.
+## Gate D — Tamil completeness/page-marker audit
 
-## Gate D — full-speech Tamil completeness/page-marker audit
+**Passed.** The Tamil layer contains exact source-page sequence **199–240**, with no gaps, duplicates, reordering or p.241 spillover. Opening and closing parliamentary boundaries were confirmed.
 
-Status: **passed**.
+## Gate E — strict Tamil source-fidelity verification
 
-The canonical transcript contains the exact source-page sequence **199–240**, with 42 markers, no gaps, duplicates, reordering or p.241 spillover. Gate D was structural only and did not certify character-level source fidelity.
+**Passed.** All **42/42** pages were directly re-read against rendered scan images.
 
-## Gate E — strict Tamil visual/source-fidelity verification
+Five source-supported corrections were applied:
 
-### Batch 1 — scan pp.199–213 / printed pp.198–212
+1. p.202 `விற்கப்படுகின்ற` → `விற்கப்படுகிற`;
+2. p.205 `தெரிவித்து உண்மை` → `தெரிவித்தது உண்மை`;
+3. p.209 `சுட்டிக் காட்டியிருக்கின்றேன்` → `சுட்டிக் காட்டியிருக்கிறேன்`;
+4. p.214 Hyundai land allotment `552 ஏக்கர்` → `532 ஏக்கர்`;
+5. p.227 `புயூஜிகுரா லிமிடெட்` → `ப்யூஜிகுரா லிமிடெட்`.
 
-Status: **passed after corrections**.
+Correction checkpoints include `4c42c979f087a78cdaeef3e96a12506bcdd7693e` and `2ae1963b7d9c5dde4a96eb5ff8b8affbaf3a6693`.
 
-Canonical corrections applied in commit `4c42c979f087a78cdaeef3e96a12506bcdd7693e`:
+Gate-E closure confirmed:
 
-1. **scan p.202 / printed p.201** — `விற்கப்படுகின்ற` → `விற்கப்படுகிற`.
-2. **scan p.205 / printed p.204** — `தெரிவித்து உண்மை` → `தெரிவித்தது உண்மை`.
-3. **scan p.209 / printed p.208** — `சுட்டிக் காட்டியிருக்கின்றேன்` → `சுட்டிக் காட்டியிருக்கிறேன்`.
+- verified pages: **199–240, 42/42**;
+- unresolved/`[REVIEW]` readings: **0**;
+- all five corrected forms present;
+- p.199 heading/date/speaker opening intact;
+- printed English passages retained;
+- p.240 Speaker → `THIRU B. VENKATASAMY` → Tamil follow-up → final Kalaignar reply intact;
+- p.241/Speech-8 spillover: **0**.
 
-Batch-1 unresolved/`[REVIEW]` readings: **0**.
-
-### Batch 2 — scan pp.214–228 / printed pp.213–227
-
-Status: **passed after corrections**.
-
-Canonical corrections applied in commit `2ae1963b7d9c5dde4a96eb5ff8b8affbaf3a6693`:
-
-1. **scan p.214 / printed p.213** — Hyundai land allotment: `552 ஏக்கர்` → `532 ஏக்கர்`.
-2. **scan p.227 / printed p.226** — `புயூஜிகுரா லிமிடெட்` → `ப்யூஜிகுரா லிமிடெட்`.
-
-The corrected forms were visually rechecked. No further definite canonical correction was identified on scan pp.215–226 or 228. Batch-2 unresolved/`[REVIEW]` readings: **0**.
-
-### Batch 3 — scan pp.229–240 / printed pp.228–239
-
-Status: **passed; no additional canonical correction required**.
-
-The remaining 12 Speech-7 pages were re-read directly against rendered scan images. The audit checked Tamil word/character forms, names and initials, monetary figures, dates, acreage and other units, project/company names, embedded/printed English, punctuation where legible, speaker/intervention labels, contextual markers and cross-page continuity.
-
-Particular source-sensitive material visually rechecked in this batch included:
-
-- p.229 project-list continuation beginning `PVC foamed sheets -செயற்கை மரப்பொருள் திட்டம்.` and the printed `albumen powder. yolk powder` line;
-- pp.230–233 the 33-project summary, M.S. Swaminathan biotechnology-park announcement, venture-capital material and `Information Technology Institute of Tamil Nadu (ITIT)` / `TANITEC` section;
-- pp.234–236 the printed `Software`, `Hardware`, `Y2 K-1`, year-2000 explanation and TIDEL/software-park material;
-- pp.237–238 the Coimbatore software-park and `Single Window System` passages and the Subbarayan intervention;
-- p.239 the Ponnammal intervention and Kalaignar's `(சிரிப்பு)` response;
-- p.240 the Speaker transition, full printed `THIRU B. VENKATASAMY` English intervention, Tamil follow-up exchange and final decorative ending.
-
-No definite source-supported discrepancy requiring a canonical text change was identified on scan pp.229–240 in this pass. Unusual printed forms were preserved rather than modernised or reconciled externally. Scan p.241 / Speech 8 was not entered.
-
-Batch-3 unresolved/`[REVIEW]` readings: **0**.
-
-## Full Gate-E closure check
-
-Status: **passed**.
-
-A separate closure pass was performed after all 42 pages had completed bounded visual audit.
-
-### Closure results
-
-- bounded coverage: Batch 1 **199–213** + Batch 2 **214–228** + Batch 3 **229–240** = exactly **42/42 scan pages**, printed pp.198–239;
-- cumulative Gate-E corrections: **5**, exactly the five logged corrections above;
-- current canonical transcript contains all five corrected forms: `விற்கப்படுகிற`, `தெரிவித்தது உண்மை`, `சுட்டிக் காட்டியிருக்கிறேன்`, Hyundai `532 ஏக்கர்`, and `ப்யூஜிகுரா லிமிடெட்`;
-- unresolved/`REVIEW` readings: **0**;
-- structural range remains exactly **source-page 199 through 240** in the locked Speech-7 sequence;
-- `<!-- source-page: 241 -->`: **absent**;
-- Speech-8 heading/date spillover: **absent**;
-- p.199 opening remains `உரை : 7`, `நாள் : 14.05.1998`, followed by the printed speaker label `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`;
-- p.240 closing remains intact: Speaker transition → full printed `THIRU B. VENKATASAMY` English intervention → Kalaignar question → `திரு. பி. வெங்கடசாமி` reply → Kalaignar final response;
-- the earlier printed English `Business India` / `Economic Intelligency Unit` material and the p.240 English intervention remain represented in the canonical transcript;
-- Gate-E audit records, metadata, README and source notes have been reconciled to the passed state.
-
-### Gate-E final result
-
-- verified scan pages: **199–240**;
-- verified printed pages: **198–239**;
-- verified page count: **42/42**;
-- source-supported Gate-E corrections: **5**;
-- unresolved readings: **0**;
-- Gate E: **passed**;
-- Tamil: **verified against scan**.
+Tamil status: **verified against scan**.
 
 ## Gate F — English translation
 
-Status: **complete**.
+**Complete.** English was translated only from the final verified Tamil in nine bounded batches, covering **42/42 source pages, pp.199–240**. Source-page correspondence, cross-page continuations, parliamentary context, source claims, figures, technical/company names, printed English and humour markers were preserved. Unresolved translation questions: **0**.
 
-English was translated only from the final verified Tamil in nine bounded batches covering source pp.199–240. All 42 source pages are represented with source-page correspondence. Gate-F unresolved translation questions: **0**.
+Gate-F canonical completion checkpoint: `8ce93472ccb01bb2efd41435d4745d3c97f9da1a`.
 
-## Gate G — full-speech English fidelity verification
+## Gate G — English fidelity verification
 
-Status: **passed**.
+**Passed.** The complete 42-page English translation was re-read against the final verified Tamil.
 
-The complete English `translation.md` was re-read against the final verified Tamil `transcript.md` in source-page order for **pp.199–240**. The review checked completeness, page correspondence, cross-page continuations, speaker changes/interventions, names and initials, dates, percentages, money, acreage, employment figures, megawatt figures, project/company/institution names, technical terminology, printed English, argument order, humour/context markers and the exact closing boundary.
+Findings:
 
-The review also specifically reconfirmed the source-sensitive areas documented in `translation-review.md`, including the Arakkonam loss figures, sugarcane/sugar-mill passages, foreign-investment analogies, Business India / Economic Intelligency Unit material, public-sector/SIPCOT chronology, the verified Hyundai **532-acre** p.214 reading, the source's separate **543-acre** p.222 figure, all fifteen power projects and their megawatt figures, the industrial-project list, biotechnology/venture-capital/ITIT/TANITEC material, `Y2 K-1`, TIDEL/Coimbatore software parks, `Single Window System`, the Ponnammal humour and the complete printed-English `THIRU B. VENKATASAMY` intervention.
-
-Gate-G findings:
-
-- English pages checked: **42/42**;
-- missing/duplicate/reordered pages: **0**;
-- p.241 / Speech-8 spillover: **0**;
+- pages checked: **42/42**;
+- missing/duplicate/reordered English pages: **0**;
+- cross-page continuation defects: **0**;
+- p.241/Speech-8 spillover: **0**;
 - unresolved translation questions: **0**;
-- definite Gate-G English corrections required: **0**;
-- verified against final Tamil: **yes**.
+- definite Gate-G corrections: **0**.
 
-### Gate-G final result
+The review reconfirmed source-sensitive figures and forms including Hyundai **532 acres** on p.214 and the separate source **543 acres** on p.222, the fifteen power-project figures, `Y2 K-1`, the Ponnammal wordplay/laughter marker, and the complete printed-English p.240 intervention.
 
-- Gate G: **passed**;
-- English: **verified against final verified Tamil**;
-- Gate-G correction count: **0**.
+Dedicated record: [`translation-review.md`](./translation-review.md). Gate-G review artifact commit: `acbfa87f6d806bcae98f51e4df7ad1709fc094ef`.
 
-See [`translation-review.md`](./translation-review.md) for the dedicated Gate-G audit record.
+English status: **verified against final verified Tamil**.
 
-## Next activity — Gate H / release canonicalisation
+## Gate H — index/release canonicalisation
 
-Perform the repository-defined Gate H work for Speech 7: reconcile the verified English layer into the canonical speech presentation, update `data/speeches.json` and the root speech index as appropriate, ensure all status/source-path/page-range fields agree across files, and leave Speech 7 in a release-ready state. Do not modify the verified Tamil content while doing this work. Do not begin Speech 8 until Gate H for Speech 7 is complete.
+**Passed.**
+
+Release actions:
+
+- verified English was merged after the verified Tamil source layer in canonical `transcript.md` — commit `fcc4fc41c53f20e344b6b5714f6a1398209abfa8`;
+- the old Gate-F `translation.md` working copy was retired to a canonical-pointer note after merge, preventing two independently editable released English copies — commit `7aea577892449e66730ce132a0ee19debe3469bb`;
+- `metadata.json` was reconciled to verified Tamil, verified English and release-ready status — commit `e3dd6050319ccada14268ccb1795b4760053bcf2`;
+- `data/speeches.json` was updated with Speech 7 — commit `ba6e71ddd768cd2c682f43cc50bb3105c0ce642d`;
+- the root README/speech index was updated through Speech 7 — commit `338731883f15d439d7775f0d07c019a05e9d2ad4`;
+- Speech-7 README and source notes were reconciled to release status.
+
+### Final release invariant
+
+- canonical ID: `1998-05-14-industries-debate`;
+- source pages: **199–240**;
+- printed pages: **198–239**;
+- Tamil: **verified**;
+- English: **verified**;
+- unresolved Tamil readings: **0**;
+- unresolved English questions: **0**;
+- Speech-8 spillover: **0**;
+- Gate H: **passed**;
+- Speech 7: **release-ready**.
+
+## Next anthology unit
+
+Proceed next with **உரை : 8 / 29.04.1999**, canonical ID `1999-04-29-industries-debate`, scan pp.241–277 / printed pp.240–276. Re-confirm its scan boundaries before starting Gate C. Do not alter the released Speech-7 entry.
