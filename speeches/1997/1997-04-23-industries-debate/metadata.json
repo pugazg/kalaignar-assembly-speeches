@@ -1,0 +1,73 @@
+{
+  "id": "1997-04-23-industries-debate",
+  "date": "1997-04-23",
+  "year": 1997,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "source_label_ta": "மாண்புமிகு கலைஞர் மு. கருணாநிதி",
+    "role_ta": null,
+    "role_en": null,
+    "role_note": "The source page supplies the speaker label but no historical office has been inferred from external knowledge."
+  },
+  "legislature": {
+    "source_context_ta": "சட்டமன்ற உரை",
+    "source_context_en": "Legislative Assembly speech"
+  },
+  "speech": {
+    "source_label_ta": "உரை : 6",
+    "printed_date": "23.04.1997",
+    "archive_subject_slug": "industries-debate",
+    "archive_title_note": "The slug is a neutral archival subject label derived from the anthology's industrial theme, not a claim that the printed Assembly event carried that formal title."
+  },
+  "source": {
+    "publication_title_ta": "தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்",
+    "edition_ta": "முதற்பதிப்பு",
+    "publication_date": "2007-05",
+    "publication_date_printed_ta": "மே, 2007",
+    "publisher_ta": "தமிழ்க்கனி பதிப்பகம்",
+    "location": "சென்னை - 600 004",
+    "sales_rights": "பூம்புகார் பதிப்பகம்",
+    "scan_filename": "TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf",
+    "scan_total_pages": 329,
+    "file_size": 217124211,
+    "sha256": "c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370",
+    "speech_scan_pages": "172-198",
+    "speech_printed_pages": "171-197",
+    "relationship": "For this speech, scan page = printed page + 1.",
+    "source_authority": "scan image"
+  },
+  "transcription": {
+    "method": "manual first-pass transcription directly from rendered scan images; later full-speech completeness and strict source-fidelity audits required",
+    "status": "in-progress",
+    "full_speech_scan_pages": "172-198",
+    "completed_scan_pages": "172-186",
+    "completed_printed_pages": "171-185",
+    "completed_page_count": 15,
+    "total_page_count": 27,
+    "next_scan_page": 187,
+    "page_markers_audited_for_completed_batch": true,
+    "full_speech_completeness_audit": false,
+    "full_speech_page_marker_audit": false,
+    "gate_e_status": "not-started",
+    "verified_against_scan": false,
+    "verified_scan_pages": null,
+    "strict_full_speech_visual_verification": false,
+    "explicit_unresolved_reading_markers": 0,
+    "unresolved_readings": 0,
+    "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
+    "completion_note": "Gate C Batch 1 directly transcribed scan pp.172-186 / printed pp.171-185 from the controlling scan. The 15 source-page markers are unique, monotonic and exactly 172-186. Scan p.186 ends mid-sentence with `அவற்றுள் சிலவற்றை`; scan p.187 continues `மாத்திரம் இங்கே உங்கள் முன்னால் வைக்க விரும்புகிறேன்.` No explicit [REVIEW] markers were required in this first pass."
+  },
+  "translation": {
+    "language": "English",
+    "placement": "after the complete verified Tamil transcription in canonical transcript.md",
+    "status": "blocked",
+    "requires_verified_tamil": true,
+    "tamil_gate_satisfied": false,
+    "source": "final verified Tamil transcription",
+    "completed_source_pages": null,
+    "source_page_correspondence": false,
+    "verified_against_tamil": false,
+    "verification_gate": "blocked until the complete Tamil transcription passes Gates D and E"
+  }
+}
