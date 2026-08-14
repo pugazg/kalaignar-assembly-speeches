@@ -33,31 +33,34 @@
 
 Speech 5 is **in progress**.
 
-- Gate C Tamil first-pass: **in progress** — Batch 1 complete, **15/36 pages** represented.
-- Completed Batch 1: **scan pp.136–150 / printed pp.135–149**.
+- Gate C Tamil first-pass: **in progress** — Batches 1–2 complete, **30/36 pages** represented.
+- Batch 1: **scan pp.136–150 / printed pp.135–149**.
+- Batch 2: **scan pp.151–165 / printed pp.150–164**.
 - Tamil transcription status: **in-progress**; not reviewed or verified.
-- Explicit unresolved/`[REVIEW]` readings in Batch 1: **0**.
-- Next scan page: **151**.
+- Explicit unresolved/`[REVIEW]` readings through Batch 2: **0**.
+- Next scan page: **166**.
 - Gate D Tamil completeness audit: **not eligible** until all scan pp.136–171 are represented.
 - Gate E strict Tamil source-fidelity verification: **not started**.
 - English translation: **blocked until Tamil Gates C–E are complete**.
 - Gate H release/indexing: **not started**.
 
-The canonical [`transcript.md`](./transcript.md) currently contains only the Gate-C first-pass Tamil for scan pp.136–150. It must not be described as verified.
+The canonical [`transcript.md`](./transcript.md) currently contains Gate-C first-pass Tamil for scan pp.136–165. It must not be described as reviewed or verified.
 
 ## Current continuation boundary
 
-Scan p.150 / printed p.149 ends mid-sentence with:
+Scan p.165 / printed p.164 ends mid-sentence with:
 
-`... நான் அவரிடத்திலே சொன்னேன். உங்கள் அண்ணனின் ஆசை அந்த`
+`... அதன் மூலம் இந்த கிராபைட் தொழிற்சாலை பெரும் அளவிற்கு எதிர்காலத்திலே வளரும், அந்த மாவட்டம் தொழில் வளம் பெருகுவதுமான ஒரு சூழ்நிலை ஏற்படும்`
 
-The next source page required is **scan p.151 / printed p.150**.
+Scan p.166 / printed p.165 visibly continues with `என்பதையும் நான் இங்கே சொல்லிக்கொள்ள வேண்டியவனாக இருக்கின்றேன்.` The next Gate-C transcription page is therefore **scan p.166 / printed p.165**.
 
-The PDF attachment available in the current working chat exposes only scan pages through p.150. The canonical source remains the mapped **329-page** publication; later Speech-5 pages must be taken from that controlling source when they are available, not reconstructed from context.
+## Source availability
+
+The current uploaded PDF was checked directly as a raw PDF and contains the full **329 scan pages** with the established file size **217,124,211 bytes**. The earlier chat file-preview layer exposed images only through p.150; that preview limitation was not a limitation of the controlling PDF itself. Batch 2 was therefore rendered directly from the raw controlling PDF for scan pp.151–165.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — current Gate-C first-pass Tamil, scan pp.136–150.
+- [`transcript.md`](./transcript.md) — current Gate-C first-pass Tamil, scan pp.136–165.
 - [`metadata.json`](./metadata.json) — source, full range, completed range and current statuses.
-- [`source-notes.md`](./source-notes.md) — source authority, boundary and current batch notes.
-- [`verification-log.md`](./verification-log.md) — Gate-C Batch-1 record and blocked downstream gates.
+- [`source-notes.md`](./source-notes.md) — source authority, Batch-1/Batch-2 notes and continuation boundary.
+- [`verification-log.md`](./verification-log.md) — Gate-C batch records and blocked downstream gates.
