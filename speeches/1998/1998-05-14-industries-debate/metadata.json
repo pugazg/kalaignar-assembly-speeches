@@ -38,7 +38,7 @@
     "source_authority": "scan image"
   },
   "transcription": {
-    "method": "manual first-pass transcription directly from rendered scan images, followed by a full-speech structural completeness/page-marker audit; OCR/extracted text remains non-authoritative helper material",
+    "method": "manual first-pass transcription directly from rendered scan images, followed by structural and strict visual/source-fidelity audits; OCR/extracted text remains non-authoritative helper material",
     "status": "transcribed",
     "full_speech_scan_pages": "199-240",
     "completed_scan_pages": "199-240",
@@ -50,21 +50,21 @@
     "full_speech_completeness_audit": true,
     "full_speech_page_marker_audit": true,
     "gate_d_status": "passed",
-    "gate_e_status": "not-started",
-    "gate_e_audited_scan_pages": null,
-    "gate_e_audited_printed_pages": null,
-    "gate_e_audited_page_count": 0,
+    "gate_e_status": "in-progress",
+    "gate_e_audited_scan_pages": "199-213",
+    "gate_e_audited_printed_pages": "198-212",
+    "gate_e_audited_page_count": 15,
     "gate_e_total_page_count": 42,
-    "gate_e_correction_count": 0,
-    "gate_e_next_scan_page": 199,
+    "gate_e_correction_count": 3,
+    "gate_e_next_scan_page": 214,
     "verified_against_scan": false,
     "verified_scan_pages": null,
     "strict_full_speech_visual_verification": false,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C completed all 42 mapped pages in three bounded batches. Gate D then passed the full structural audit: source-page markers are exactly 199-240 in monotonic order with no gaps, duplicates, reordering or p.241 spillover; the p.199 opening and p.240 closing sequence align with the locked map; the closing Subbarayan/Ponnammal/Venkatasamy interventions and printed English intervention are represented. Tamil remains transcribed, not verified. Gate E is next.",
-    "verification_note": "Gate D is a completeness/structure result only. Strict page-by-page Tamil source-fidelity verification has not begun, so verified_against_scan remains false and English remains blocked."
+    "completion_note": "Gate C completed all 42 mapped pages and Gate D passed. Gate E Batch 1 then passed for scan pp.199-213 / printed pp.198-212 after three source-supported word/form corrections on scan pp.202, 205 and 209. Gate E remains in progress with 15/42 pages audited; next scan page is 214.",
+    "verification_note": "Gate E Batch 1 was performed directly against rendered scan images. The first draft correction note incorrectly described two already-present passages as omissions; canonical fetch and recheck prevented duplicate insertion. The actual corrections were p.202 விற்கப்படுகின்ற→விற்கப்படுகிற, p.205 தெரிவித்து→தெரிவித்தது, and p.209 சுட்டிக் காட்டியிருக்கின்றேன்→சுட்டிக் காட்டியிருக்கிறேன். Full-speech verification is not yet complete, so verified_against_scan remains false and English remains blocked."
   },
   "translation": {
     "language": "English",
@@ -83,7 +83,7 @@
     "unresolved_translation_questions": 0,
     "verified_against_tamil": false,
     "verification_gate": null,
-    "completion_note": "English remains blocked until the complete Tamil transcription passes Gate E after the already-passed Gate D.",
+    "completion_note": "English remains blocked until Gate E passes across all 42 Speech-7 pages.",
     "unresolved_english_fidelity_issues": 0,
     "verification_pages": null,
     "gate_g_correction_count": 0
