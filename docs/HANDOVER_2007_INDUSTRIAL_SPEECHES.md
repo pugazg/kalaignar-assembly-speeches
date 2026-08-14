@@ -15,7 +15,7 @@ The scan image is authoritative for Tamil transcription and verification. OCR/ex
 - SHA-256: `c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370`
 - Locked map: `sources/2007-industrial-speeches/mapping.md`
 
-The attached PDF used for Speech-7 work independently matched all three locked byte-level facts above.
+The attached PDF used for Speech-7 work matched the locked source facts above.
 
 ## Locked speech inventory
 
@@ -36,7 +36,7 @@ The attached PDF used for Speech-7 work independently matched all three locked b
 
 Speeches **1–6** are fully released with verified Tamil and verified English. Leave them untouched absent a separately justified correction.
 
-Speech 6 (`23.04.1997`) completed Gates C–H. Gate-H release commit: `188a79e1b9de76b6bf2bbe037185aef2b6ffe7b1`.
+Speech-6 Gate-H release commit: `188a79e1b9de76b6bf2bbe037185aef2b6ffe7b1`.
 
 ## Active unit — Speech 7
 
@@ -51,91 +51,90 @@ Speech 6 (`23.04.1997`) completed Gates C–H. Gate-H release commit: `188a79e1b
 - canonical folder: `speeches/1998/1998-05-14-industries-debate/`
 - Gate A: complete at anthology level
 - Gate B: complete / boundary locked
-- Gate C: **in progress — Batches 1 and 2 complete, 30/42 pages**
-- Gates D–H: **not started**
-- English: **blocked until the complete Tamil passes Gates D and E**
+- Gate C: **complete — 42/42 first-pass pages**
+- Gate D: **passed**
+- Gate E: **not started**
+- Tamil status: **transcribed, not verified**
+- English: **blocked until Gate E passes**
 
-### Boundaries
+## Boundaries
 
-The controlling scan was directly checked at both Speech-7 boundaries:
+Direct scan checks confirm:
 
-- scan p.198 / printed p.197 closes Speech 6 with `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).` and the decorative ending ornament;
-- scan p.199 / printed p.198 begins `உரை : 7`, `நாள் : 14.05.1998`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`;
-- scan p.240 / printed p.239 closes Speech 7 with the final exchange and decorative ending ornament;
-- scan p.241 / printed p.240 begins `உரை : 8`, `நாள் : 29.04.1999`.
+- scan p.198 closes Speech 6;
+- scan p.199 begins `உரை : 7`, `நாள் : 14.05.1998`;
+- scan p.240 closes Speech 7 with its final intervention/reply sequence and decorative ornament;
+- scan p.241 begins `உரை : 8`, `நாள் : 29.04.1999`.
 
 No boundary changed.
 
-## Speech 7 — Gate C completed work
+## Speech 7 — Gate C complete
 
-### Batch 1
+Gate C was completed in three bounded batches:
 
-- scan pages: **199–213**
-- printed pages: **198–212**
-- count: **15 pages**
-- post-write Gate-C corrections: 2
-- unresolved readings: 0
+- Batch 1: scan pp.199–213 / printed pp.198–212 — **15 pages**;
+- Batch 2: scan pp.214–228 / printed pp.213–227 — **15 pages**;
+- Batch 3: scan pp.229–240 / printed pp.228–239 — **12 pages**.
 
-Batch 1 ended:
+Total: **42/42 pages**. Explicit unresolved/`[REVIEW]` readings: **0**.
 
-`மேலும், எண்ணெய்க் கசடு`
+Batch 3 preserved the project list from `PVC foamed sheets -செயற்கை மரப்பொருள் திட்டம்.` onward, the biotechnology/venture-capital/ITIT/TANITEC/software/Y2K/TIDEL material, `Single Window System`, and the closing Subbarayan/Ponnammal/Venkatasamy interventions, including the full printed English `THIRU B. VENKATASAMY` passage.
 
-### Batch 2
+Gate-C completion checkpoints:
 
-- scan pages: **214–228**
-- printed pages: **213–227**
-- count: **15 pages**
-- cumulative first-pass pages: **30/42**
-- unresolved/`[REVIEW]` readings: **0**
-- Tamil status: **in-progress**
-- English status: **blocked**
+- complete canonical transcript: `4432eaa5e584d881e38cd606b3f6b7f5306b76ef`
+- metadata Gate-C complete: `fea7218267a2f21c87e55212a7f39062414176e5`
+- README Gate-C complete: `ac41ae6be2bc30c115e00505304d35f219c5bf23`
+- source notes Gate-C complete: `61c74253f58d8cccb336fc19b412c4d88a1e1928`
+- verification log Gate-C complete: `84a121b806993948282a44909da976a5a5895260`
 
-The p.213→214 continuation was preserved, with scan p.214 beginning:
+## Speech 7 — Gate D passed
 
-`வருகிறதே, அதிலேயிருந்து மின்சாரம் தயாரிக்கலாம், 250`
+The complete canonical transcript was audited structurally against the locked range **199–240**.
 
-Batch 2 covers SIPCOT expansion/progress, investment/export ranking discussion, foreign direct investment, power projects, Hyundai Motor India and a long TIDCO/SIPCOT industrial-project sequence. Printed English/company forms were retained rather than externally corrected.
+Gate-D result:
 
-### Exact continuation point
+- expected page markers: **42**;
+- represented page markers: **42**;
+- exact sequence: **199–240**;
+- gaps/duplicates/reordering: **0**;
+- p.241 marker: **absent**;
+- opening p.199 heading/date/speaker label: represented;
+- closing pp.238–240 interventions and speaker changes: represented;
+- printed English Venkatasamy intervention: represented;
+- contextual desk-thump/laughter markers: represented where transcribed;
+- Speech-8 heading/date spillover: absent;
+- unresolved/`[REVIEW]`: **0**.
 
-Scan p.228 / printed p.227 ends:
+Gate D made no source-text changes. Tamil remains **transcribed, not verified**.
 
-`இதற்கான ஒப்பந்தம் 7-1-1998 அன்று கையெழுத்தானது.`
+Gate-D checkpoints:
 
-Direct inspection of scan p.229 / printed p.228 confirms the next section begins:
+- metadata Gate-D pass: `bad345777cd6f49a7f002a623680376392cc23ce`
+- README Gate-D pass: `7407681b41a4df9b1aad56bd2933766391065980`
+- source notes Gate-D pass: `6463e1ee8d6972d9c8992ac76b1951bbbcb3bfc1`
+- verification log Gate-D pass: `7b8408cb5f5b39322d52acb7dd96bbb28147015b`
 
-`PVC foamed sheets -செயற்கை மரப்பொருள் திட்டம்.`
-
-Therefore the exact next page is **scan p.229 / printed p.228**.
-
-### Speech-7 Batch-2 repository checkpoints
-
-- canonical transcript through p.228: `938679d94990e460d23ba0a72c7488c94f65e839`
-- metadata status update: `a74e71a4aa9fd440563e034ed76ad0c69c453c99`
-- README Batch-2 update: `b99d6b266aea3e8b4e117207e5e8a6f6b2c420db`
-- source-notes Batch-2 update: `eb7135364874cc66c2d41689fa66df8781ffd82c`
-- verification-log Batch-2 update: `0926fc9939401eb5eb078604fa6ec8230a6de2f4`
-
-## Exact next activity — Speech 7 Gate C Batch 3
+## Exact next activity — Speech 7 Gate E Batch 1
 
 1. Read `docs/ARCHIVAL_WORKFLOW.md`, this handover, `docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md`, and `sources/2007-industrial-speeches/mapping.md` before writing.
-2. Inspect the existing Speech-7 canonical files and continue them; do not create duplicates or rewrite pp.199–228 merely for style.
-3. Re-open scan pp.228→229 and confirm the continuation above before appending.
-4. Continue Gate C from **scan p.229 / printed p.228**.
-5. Transcribe the remaining bounded range **scan pp.229–240 / printed pp.228–239**. Stop at the verified Speech-7 boundary; do not enter scan p.241 / Speech 8.
-6. Preserve source-supported wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English exactly as supported by the scan. Only physical line wrapping may be normalised.
-7. Append explicit page markers and record any uncertain readings rather than guessing.
-8. When all 42 Speech-7 pages are represented, mark Gate C `transcribed` only after asserting exact page coverage **199–240**, then perform Gate D as a separate completeness/page-marker audit.
-9. Do not begin Gate E until Gate D passes.
-10. Do not start English until the complete Tamil passes Gates D and E.
+2. Inspect the existing Speech-7 canonical files; continue them and do not restart Gate C.
+3. Re-open the controlling scan and begin strict source-fidelity verification at **scan p.199 / printed p.198**.
+4. Audit the first bounded Gate-E range **scan pp.199–213 / printed pp.198–212**.
+5. Compare every page directly against the scan for individual Tamil words/characters, names/initials, dates, percentages, monetary amounts, acreage/units, source headings, speaker labels, interventions/context markers, embedded/printed English, punctuation where legible and cross-page continuity.
+6. Do not use OCR as source authority. If OCR conflicts with the scan, the scan wins.
+7. Apply only source-supported corrections to canonical `transcript.md` and itemise each correction in `verification-log.md`.
+8. Record any unresolved reading explicitly rather than guessing.
+9. After Batch 1, Tamil remains `transcribed`, not verified; Gate E still has pp.214–240 remaining.
+10. Do not start English until Gate E passes across all 42 pages.
 11. Do not begin Speech 8.
 
-At the end of Batch 3, refresh this handover and the next-chat prompt with Gate-C completion/Gate-D status and relevant commit SHA(s).
+At the end of Gate-E Batch 1, update the Speech-7 status/audit files and refresh this handover and next-chat prompt with the exact next audit page and relevant commit SHA(s).
 
 ## New-window source requirement
 
-The controlling PDF is not stored in the GitHub repository. In a new chat window, if the PDF is not already available there, the user must attach `TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf` before scan-level transcription can continue.
+The controlling PDF is not stored in the GitHub repository. In a new chat, if the PDF is unavailable, attach `TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf` before Gate-E scan verification continues.
 
 ## End-of-handoff state
 
-Speeches 1–6 remain fully released and untouched. Speech 7 is the sole active anthology unit. Gate C Batches 1–2 are complete through **scan p.228 / printed p.227**, covering **30/42 pages**. Resume exactly at **scan p.229 / printed p.228** with `PVC foamed sheets -செயற்கை மரப்பொருள் திட்டம்.`
+Speeches 1–6 remain fully released and untouched. Speech 7 is the sole active anthology unit. **Gate C is complete, Gate D passed, Gate E has not started. Resume at scan p.199 for Gate-E Batch 1 (pp.199–213).**
