@@ -1,0 +1,65 @@
+name: Temporary Speech 6 Gate E Batch 2 Finalize
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/tmp-speech6-gatee2-finalize.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch-transcript:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply assertion-checked source corrections and close Gate E
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          path = Path('speeches/1997/1997-04-23-industries-debate/transcript.md')
+          text = path.read_text(encoding='utf-8')
+
+          replacements = [
+              (
+                  '2 மில்லியன் டன் திரவமயமாக்கப்பட்ட எரிவாயு',
+                  '2 மில்லியன் டன் திரவமயமாக்கப் பட்ட எரிவாயு',
+              ),
+              (
+                  'இனிமேல் பின்னாக இருக்க மாட்டீர்கள் என்ற நம்பிக்கையோடு',
+                  'இனிமேல் பின்னாக இருக்க மாட்டார்கள் என்ற நம்பிக்கையோடு',
+              ),
+              (
+                  '> **Archival transcription note:** This is the complete Gate-C Tamil transcription from the controlling May 2007 scan, structurally audited at Gate D. Speech 6 is locked to PDF scan pp.172–198 / printed pp.171–197. Gate E strict visual/source-fidelity verification is in progress: Batch 1, scan pp.172–186 / printed pp.171–185, has been directly audited against the scan; the remaining pp.187–198 are not yet Gate-E verified. The scan image is authoritative; wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English are preserved as visible, with only physical line wrapping normalised. Tamil remains **transcribed, not fully verified** until Gate E covers the complete speech.',
+                  '> **Archival transcription note:** This Tamil transcription from the controlling May 2007 scan has passed Gate D completeness/page-marker audit and the complete Gate E direct page-by-page visual/source-fidelity verification for scan pp.172–198 / printed pp.171–197. The scan image is authoritative; wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English are preserved as visible, with only physical line wrapping normalised. Tamil status: **verified against the scan**.',
+              ),
+          ]
+
+          for old, new in replacements:
+              count = text.count(old)
+              if count != 1:
+                  raise SystemExit(f'Expected exactly one occurrence, found {count}: {old!r}')
+              text = text.replace(old, new, 1)
+
+          markers = [int(x) for x in re.findall(r'<!-- source-page: (\d+) -->', text)]
+          if markers != list(range(172, 199)):
+              raise SystemExit(f'Unexpected source-page marker sequence: {markers}')
+          if '<!-- source-page: 199 -->' in text or '**உரை : 7**' in text or '**நாள் : 14.05.1998**' in text:
+              raise SystemExit('Speech 7 spillover detected')
+          if '[REVIEW]' in text:
+              raise SystemExit('Unexpected unresolved [REVIEW] marker')
+
+          path.write_text(text, encoding='utf-8')
+      - name: Commit transcript changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add speeches/1997/1997-04-23-industries-debate/transcript.md
+          git diff --cached --check
+          git commit -m 'Complete Speech 6 Gate E Tamil verification'
+          git push
