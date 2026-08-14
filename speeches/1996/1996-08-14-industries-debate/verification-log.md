@@ -148,13 +148,30 @@ Batch-3 unresolved/`[REVIEW]` markers after strict audit: **0**.
 
 ## Gate F — English translation
 
-Status: **ready / not started**.
+Status: **complete / not yet verified**.
 
-Gate F may now begin because the Tamil source gate is satisfied. Translate only from the final verified Tamil in canonical `transcript.md`, preserve source-page correspondence and speaker/intervention structure, and do not silently repair source claims or anomalies.
+A complete English translation has been produced from the **final verified Tamil**, covering all **36 source pages, 136–171**, in [`translation.md`](./translation.md).
+
+Gate-F completion checks:
+
+- English source-page sections present in exact sequence **136–171**, 36/36;
+- page order preserved with no source page intentionally omitted;
+- speaker changes and parliamentary interventions carried into English through the final p.171 exchange;
+- figures, dates, percentages, monetary values and units represented in their corresponding source-page sections;
+- industrial/company/project names and technical terms rendered from the verified Tamil without using outside research to rewrite source claims;
+- printed English passages are reproduced in source form, including p.154–155 `Our closed historical and cultural ties` / `Sigapore`, p.156 `Tom, Tick & Harry`, p.157 `business-men`, and pp.158–159 `Liquified Natural Gas` / `LNG Terminal (Liquified)`;
+- unusual source forms and internally inconsistent claims were not silently reconciled against external knowledge;
+- final p.170–171 interventions and Kalaignar's closing reply are represented.
+
+Before recording Gate-F completion, an assertion check confirmed that the English page headings are exactly 136–171. Two first-draft translation issues were also corrected: p.144 `potassium chloride` was restored to match the verified Tamil source, and the Tamil continuation after the p.157 printed `business-men` passage was translated into English rather than left as Tamil.
+
+Gate F does **not** confer verified status on English. The working translation remains in `translation.md` so Gate G can audit it without disturbing the verified Tamil layer in canonical `transcript.md`.
 
 ## Gate G — English fidelity verification
 
 Status: **not started**.
+
+Gate G must re-read all 36 English source-page sections 136–171 against the final verified Tamil and document every correction before English may be marked `verified`.
 
 ## Gate H — canonical release/indexing
 

@@ -147,8 +147,27 @@ Batch-3 unresolved/`[REVIEW]` markers: **0**.
 - `verified_scan_pages`: **136–171**;
 - strict full-speech visual verification: **true**.
 
+## Gate F — English translation
+
+Status: **complete / not yet verified**.
+
+A complete English working translation has been produced in [`translation.md`](./translation.md) from the **final verified Tamil**, covering all **36 source pages 136–171**.
+
+Gate-F checks and translation constraints:
+
+- source-page headings are present in exact order **136–171**, 36/36;
+- translation source is the final verified Tamil in canonical `transcript.md`, not OCR or an earlier draft;
+- parliamentary speaker changes/interventions, figures, dates, monetary values, industrial/project terminology and argument sequence are represented;
+- the p.154–155 Singapore Prime Minister letter and pp.149/156–157 printed English passages are retained in their printed source form, including source anomalies such as `Our closed historical and cultural ties`, `Sigapore`, `Tom, Tick & Harry` and `business-men`;
+- unusual verified Tamil/source forms are treated as source facts rather than silently corrected through outside knowledge;
+- the p.170–171 final intervention sequence and ending reply are included.
+
+During the Gate-F completion check, two first-draft translation issues were corrected before status was recorded: p.144 was restored to source-faithful **potassium chloride** rather than an inferred alternative, and the Tamil continuation after the p.157 printed `business-men` sentence was translated instead of being left untranslated.
+
+The English status is **translated**, not `verified`. Gate F does not confer Gate-G fidelity approval.
+
 ## Next gate activity
 
-**Gate F — English translation** is now ready and has not started. Translate from the final verified Tamil in canonical `transcript.md`, preserving explicit source-page correspondence, speaker/intervention structure, figures, technical/industrial terms, embedded quotations and source anomalies. Do not translate from OCR or an older first-pass copy.
+Begin **Gate G — English fidelity verification**. Re-read every English section **136–171** against the final verified Tamil, checking completeness, additions/omissions, names, figures, dates, technical terminology, speaker/intervention structure, source-page correspondence, printed English passages and preservation of source anomalies. Apply and document every Gate-G correction before marking English verified.
 
-Gate G remains not started and must verify the complete English against the verified Tamil before Gate H. Do not start Speech 6 or release/index Speech 5 until the required downstream gates pass.
+Do not start Speech 6 or perform Gate-H release/index changes until Speech 5 completes the required downstream gates.
