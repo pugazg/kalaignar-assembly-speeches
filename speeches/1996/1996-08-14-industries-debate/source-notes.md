@@ -34,7 +34,7 @@ For this speech: `PDF scan page = printed page + 1`.
 
 The opening boundary is visually explicit: scan p.136 / printed p.135 begins `உரை : 5`, `நாள் : 14.08.1996`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`.
 
-The ending boundary is now Gate-E verified: scan p.171 / printed p.170 contains the final `திரு. ஆர். சொக்கர்` intervention and Kalaignar's reply, followed by the decorative ending ornament. Scan p.172 / printed p.171 begins `உரை : 6`, `நாள் : 23.04.1997`.
+The ending boundary is Gate-E verified: scan p.171 / printed p.170 contains the final `திரு. ஆர். சொக்கர்` intervention and Kalaignar's reply, followed by the decorative ending ornament. Scan p.172 / printed p.171 begins `உரை : 6`, `நாள் : 23.04.1997`.
 
 ## Gate C — Tamil first-pass transcription
 
@@ -179,6 +179,22 @@ Gate-G checks also reconfirmed:
 
 The corrected verified English has been merged after the verified Tamil in canonical [`transcript.md`](./transcript.md). [`translation.md`](./translation.md) is retained as the verified English companion. English status is **verified**.
 
-## Next gate activity
+## Gate H — canonical release/indexing
 
-Proceed to **Gate H — canonical release/indexing** for Speech 5. Update `data/speeches.json` and the root speech index as appropriate, verify all statuses/source ranges across the canonical files, and record the release commits. Do not begin Speech 6 until Speech 5 has completed Gate H and the handover/continuation prompt are refreshed.
+Status: **passed**.
+
+Release checks:
+
+- canonical ID `1996-08-14-industries-debate`, printed date `14.08.1996`, scan pp.136–171 and printed pp.135–170 agree across the Speech-5 files;
+- canonical `transcript.md` contains the verified Tamil source layer followed by the verified English layer;
+- Tamil status remains **verified** and unresolved Tamil readings remain **0**;
+- English status remains **verified** after Gate G, with **0** unresolved English fidelity issues;
+- `data/speeches.json` contains the Speech-5 record using the established schema and chronological ordering;
+- the root `README.md` speech index contains the released 14-08-1996 entry;
+- p.172 / Speech 6 content remains outside Speech 5.
+
+Speech 5 is therefore fully released through Gate H.
+
+## Next activity
+
+Begin **Speech 6 — `உரை : 6`, 23.04.1997**, locked to **scan pp.172–198 / printed pp.171–197**. Gates A–B are already satisfied by the controlling-source preflight and locked anthology map; the next work is **Gate C Tamil first-pass transcription**, beginning at scan p.172. Do not alter released Speeches 1–5 absent a separately justified correction.
