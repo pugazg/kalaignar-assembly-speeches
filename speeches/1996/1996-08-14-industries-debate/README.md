@@ -31,26 +31,26 @@
 
 ## Current transcription status
 
-Speech 5 has completed Gate C and passed Gate D. **Gate E is now in progress; the full Tamil is not yet verified.**
+Speech 5 has completed Gate C and passed Gate D. **Gate E is in progress; the full Tamil is not yet verified.**
 
 - Gate C Tamil first-pass: **complete** — **36/36 pages**, scan pp.136–171 / printed pp.135–170.
 - Gate D full-speech completeness/page-marker audit: **passed**.
-- Gate E Batch 1: **complete** — strict visual/source-fidelity audit of scan pp.136–150 / printed pp.135–149.
-- Gate E verified so far: **15/36 pages**.
-- Source-supported corrections applied in Gate E Batch 1: **18**.
+- Gate E Batch 1: **complete** — scan pp.136–150 / printed pp.135–149.
+- Gate E Batch 2: **complete** — scan pp.151–165 / printed pp.150–164.
+- Gate E strictly audited so far: **30/36 pages**, scan pp.136–165.
+- Source-supported Gate-E corrections applied so far: **22** — 18 in Batch 1 and 4 in Batch 2.
 - Explicit unresolved/`[REVIEW]` readings: **0**.
 - Tamil transcription status: **transcribed**; not fully verified.
-- Next Gate-E page: **scan p.151 / printed p.150**.
+- Next Gate-E page: **scan p.166 / printed p.165**.
+- Remaining Gate-E range: **scan pp.166–171 / printed pp.165–170**.
 - English translation: **blocked until Gate E is complete for pp.136–171 and Tamil is verified**.
 - Gate H release/indexing: **not started**.
 
-The canonical [`transcript.md`](./transcript.md) contains all mapped pages 136–171. Gate-E corrections for pp.136–150 have been applied directly to it. It must not yet be described as fully verified.
+The canonical [`transcript.md`](./transcript.md) contains all mapped pages 136–171. Gate-E corrections for pp.136–165 have been applied directly to it. It must not yet be described as fully verified.
 
 ## Gate E Batch 1
 
-Scan pp.136–150 were re-read page by page against the controlling scan. The audit checked individual words/characters, names, figures, dates, monetary values and units, embedded English, punctuation where legible, and page-transition continuity.
-
-Among the source-supported corrections were:
+Scan pp.136–150 were re-read page by page against the controlling scan. The audit produced **18 source-supported corrections**. Notable examples include:
 
 - p.137 `வருகிறவர்கள்` → `வருகின்றவர்கள்` and `இருக்கிறது` → `இருக்கின்றது` in the relevant phrases;
 - p.139 `முதலீடு செய்கின்ற திட்டம்` → `முதலீடு செய்யப்படுகிற திட்டம்`;
@@ -59,9 +59,20 @@ Among the source-supported corrections were:
 - p.146 the incomplete first-pass reading `ஓட்டலுக்கு மறுப்பு எழுதினாரோ` was corrected to the visibly printed `கொடைக்கானல் ஓட்டலுக்கு மறுப்பு எழுதினாரோ`;
 - p.150 `பன்னீர்தாஸ் குடும்பத்தின்` → `பன்னீர்தாஸ் குடும்பத்தினர்`.
 
-The full correction list is recorded in [`verification-log.md`](./verification-log.md).
+Important source forms confirmed rather than normalised include p.142 `இஃதன்னியில்`, p.145 `ஆலங்குளம் ஆஸ்பெஸ்டாஸ் பயிற்சித் தொழிற்சாலை`, the p.149 embedded English audit quotations and p.150 `'Good atmosphere'`.
 
-Important source forms confirmed rather than normalised include p.142 `இஃதன்னியில்` and p.145 `ஆலங்குளம் ஆஸ்பெஸ்டாஸ் பயிற்சித் தொழிற்சாலை`. The p.149 embedded English audit quotations and p.150 `'Good atmosphere'` were also checked against the scan.
+## Gate E Batch 2
+
+Scan pp.151–165 were strictly compared page by page against the controlling scan. **4 source-supported corrections** were applied:
+
+- p.153 `தொழிற்சாலை உருவாவதற்குக் தேவை` → `தொழிற்சாலை உருவாவதற்குத் தேவை`;
+- p.159 `ஒரு பிரஞ்சு கம்பெனி` → `ஒரு பிரெஞ்சு கம்பெனி`;
+- p.164 `அவர்களெல்லாம் உயர்மட்டக் குழுவிலே இருந்தார்கள்.` → `அவர்கள் எல்லாம் உயர்மட்டக் குழுவிலே இருந்தார்கள்.` in the later sentence;
+- p.165 `கடைபிடித்து அதிக லாபத்தை, அதிக வருமானத்தை` → `கடைபிடித்து அதிகலாபத்தை, அதிக வருமானத்தை`.
+
+The audit also confirmed and retained source forms that could otherwise be mistaken for transcription errors: p.154 `Our closed historical and cultural ties`, p.155 `Sigapore`, p.156 `Tom, Tick & Harry`, p.157 `business-men`, pp.158–159 `Liquified Natural Gas` / `LNG Terminal (Liquified)`, p.162 `அருணா ஷூகாஸ்`, p.163 `தேவையேயில்லாமல்,,` / `ஊழல் நடத்திருக்கிறது`, and p.164 `ஸ்பெசிபிக் நேர்வு`.
+
+The complete correction record is in [`verification-log.md`](./verification-log.md).
 
 ## Final speech boundary
 
@@ -69,11 +80,11 @@ Scan p.171 / printed p.170 contains the final intervention by `திரு. ஆ
 
 ## Next activity
 
-Continue **Gate E Batch 2: scan pp.151–165 / printed pp.150–164**. Apply only scan-supported corrections and record every concrete change. Then Gate E Batch 3 will cover pp.166–171. Tamil may be marked `verified` only after the complete 36-page range passes Gate E.
+Continue **Gate E Batch 3: scan pp.166–171 / printed pp.165–170**. Apply only scan-supported corrections and record every concrete change. This final Gate-E batch must deliberately verify the unusual forms on pp.167–170, including the transliterated meat-industry organisation/place sequence, `வறுமை தேன் எனக் கொட்டுகிறது`, `side effects`, `anti-biotic`, `சிண்டாக்`, and the State Planning Commission names/roles. Tamil may be marked `verified` only after this complete six-page final batch passes.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — complete Tamil, with Gate-E corrections applied through scan p.150.
+- [`transcript.md`](./transcript.md) — complete Tamil, with Gate-E corrections applied through scan p.165.
 - [`metadata.json`](./metadata.json) — source, completed range and partial Gate-E status.
 - [`source-notes.md`](./source-notes.md) — source authority, Gate-C/D notes and Gate-E findings.
 - [`verification-log.md`](./verification-log.md) — Gate-C/D records plus concrete Gate-E corrections.
