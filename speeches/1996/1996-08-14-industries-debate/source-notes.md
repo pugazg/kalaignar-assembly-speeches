@@ -149,25 +149,36 @@ Batch-3 unresolved/`[REVIEW]` markers: **0**.
 
 ## Gate F — English translation
 
-Status: **complete / not yet verified**.
+Status: **complete**.
 
-A complete English working translation has been produced in [`translation.md`](./translation.md) from the **final verified Tamil**, covering all **36 source pages 136–171**.
+A complete English translation was produced in [`translation.md`](./translation.md) from the **final verified Tamil**, covering all **36 source pages 136–171**. The source-page headings were assertion-checked as exactly **136–171**. Speaker/intervention structure, figures, dates, monetary values, industrial/project terminology, argument sequence and printed English passages were carried across without using outside research to rewrite source claims.
 
-Gate-F checks and translation constraints:
+## Gate G — English fidelity verification
 
-- source-page headings are present in exact order **136–171**, 36/36;
-- translation source is the final verified Tamil in canonical `transcript.md`, not OCR or an earlier draft;
-- parliamentary speaker changes/interventions, figures, dates, monetary values, industrial/project terminology and argument sequence are represented;
-- the p.154–155 Singapore Prime Minister letter and pp.149/156–157 printed English passages are retained in their printed source form, including source anomalies such as `Our closed historical and cultural ties`, `Sigapore`, `Tom, Tick & Harry` and `business-men`;
-- unusual verified Tamil/source forms are treated as source facts rather than silently corrected through outside knowledge;
-- the p.170–171 final intervention sequence and ending reply are included.
+Status: **passed — 36/36 English sections verified against the final verified Tamil**.
 
-During the Gate-F completion check, two first-draft translation issues were corrected before status was recorded: p.144 was restored to source-faithful **potassium chloride** rather than an inferred alternative, and the Tamil continuation after the p.157 printed `business-men` sentence was translated instead of being left untranslated.
+The complete English was re-read page by page against canonical `transcript.md`. Seven concrete fidelity corrections were applied before English was marked verified:
 
-The English status is **translated**, not `verified`. Gate F does not confer Gate-G fidelity approval.
+1. **p.144:** the remaining `potassium chlorate` occurrence was corrected to the verified Tamil `potassium chloride`.
+2. **pp.156–157:** restored an omitted repeated Tamil gloss following the second *Business India* quotation, including the bribe/payment and “presiding deity” sequence.
+3. **p.157:** verified source `நினைவாகி` is preserved as **“become a memory”** instead of being silently normalised to “become reality.”
+4. **p.162:** corrected the lime-purchase meaning to **an additional Rs. 200 per metric tonne**.
+5. **p.163:** verified source `பொதுப் பணித் துறை` is preserved as **Public Works Department**, not normalised to “public-sector.”
+6. **p.167:** verified `ராஜஸ்தான் ஷிப் அண்டு உல்::பெடரேஷன்` is represented as **Rajasthan Ship and Wool::Federation**, preserving `Ship` rather than silently changing it to `Sheep`.
+7. **p.167:** preserved the source spelling contrast `அல்லானா சன்ஸ்` / `அலானா சன்ஸ், கோவா` as **Allana Sons** / **Alana Sons, Goa**.
+
+Gate-G checks also reconfirmed:
+
+- English source-page sequence exactly **136–171**, 36/36;
+- complete speaker/intervention sequence through p.171;
+- figures, dates, percentages, monetary values and units checked against the verified Tamil;
+- p.154–155 Singapore Prime Minister letter retained in its printed English form, including `Our closed historical and cultural ties` and `Sigapore`;
+- p.156 `Tom, Tick & Harry`, p.157 `business-men`, and pp.158–159 `Liquified Natural Gas` / `LNG Terminal (Liquified)` retained as printed source forms;
+- p.168 `வறுமை தேன் எனக் கொட்டுகிறது` and the medicine analogy remain source-faithful in meaning without external correction;
+- p.169–170 Planning Commission names/roles and p.170–171 final interventions are complete.
+
+The corrected verified English has been merged after the verified Tamil in canonical [`transcript.md`](./transcript.md). [`translation.md`](./translation.md) is retained as the verified English companion. English status is **verified**.
 
 ## Next gate activity
 
-Begin **Gate G — English fidelity verification**. Re-read every English section **136–171** against the final verified Tamil, checking completeness, additions/omissions, names, figures, dates, technical terminology, speaker/intervention structure, source-page correspondence, printed English passages and preservation of source anomalies. Apply and document every Gate-G correction before marking English verified.
-
-Do not start Speech 6 or perform Gate-H release/index changes until Speech 5 completes the required downstream gates.
+Proceed to **Gate H — canonical release/indexing** for Speech 5. Update `data/speeches.json` and the root speech index as appropriate, verify all statuses/source ranges across the canonical files, and record the release commits. Do not begin Speech 6 until Speech 5 has completed Gate H and the handover/continuation prompt are refreshed.

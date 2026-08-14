@@ -148,36 +148,47 @@ Batch-3 unresolved/`[REVIEW]` markers after strict audit: **0**.
 
 ## Gate F — English translation
 
-Status: **complete / not yet verified**.
+Status: **complete**.
 
-A complete English translation has been produced from the **final verified Tamil**, covering all **36 source pages, 136–171**, in [`translation.md`](./translation.md).
-
-Gate-F completion checks:
-
-- English source-page sections present in exact sequence **136–171**, 36/36;
-- page order preserved with no source page intentionally omitted;
-- speaker changes and parliamentary interventions carried into English through the final p.171 exchange;
-- figures, dates, percentages, monetary values and units represented in their corresponding source-page sections;
-- industrial/company/project names and technical terms rendered from the verified Tamil without using outside research to rewrite source claims;
-- printed English passages are reproduced in source form, including p.154–155 `Our closed historical and cultural ties` / `Sigapore`, p.156 `Tom, Tick & Harry`, p.157 `business-men`, and pp.158–159 `Liquified Natural Gas` / `LNG Terminal (Liquified)`;
-- unusual source forms and internally inconsistent claims were not silently reconciled against external knowledge;
-- final p.170–171 interventions and Kalaignar's closing reply are represented.
-
-Before recording Gate-F completion, an assertion check confirmed that the English page headings are exactly 136–171. Two first-draft translation issues were also corrected: p.144 `potassium chloride` was restored to match the verified Tamil source, and the Tamil continuation after the p.157 printed `business-men` passage was translated into English rather than left as Tamil.
-
-Gate F does **not** confer verified status on English. The working translation remains in `translation.md` so Gate G can audit it without disturbing the verified Tamil layer in canonical `transcript.md`.
+A complete English translation was produced from the **final verified Tamil**, covering all **36 source pages 136–171**, in [`translation.md`](./translation.md). Gate F itself did not confer verified status.
 
 ## Gate G — English fidelity verification
 
-Status: **not started**.
+Status: **passed**.
 
-Gate G must re-read all 36 English source-page sections 136–171 against the final verified Tamil and document every correction before English may be marked `verified`.
+All **36 English source-page sections, 136–171**, were re-read against the final verified Tamil in canonical `transcript.md`. The audit checked completeness, additions/omissions, page-boundary continuity, names/initials, figures, dates, percentages, monetary values/units, industrial and technical terminology, speaker labels, interventions, interruptions, quotations, printed English passages and preservation of source anomalies.
+
+### Corrections applied during Gate G
+
+1. **p.144 — terminology:** remaining `potassium chlorate` → `potassium chloride`, matching both verified Tamil occurrences of `பொட்டாசியம் குளோரைடு`.
+2. **pp.156–157 — omission:** restored the repeated Tamil gloss after the second *Business India* quotation: the bribe/payment statement, the fact that work still did not get done, and the continuation about satisfying the “presiding deity.”
+3. **p.157 — source anomaly:** `நினைவாகி` had been silently rendered as “become reality”; corrected to **“become a memory”** so the English does not repair the verified source wording.
+4. **p.162 — amount semantics:** `at Rs. 200 per metric tonne — paying that additional amount` → **`paying an additional Rs. 200 per metric tonne`**.
+5. **p.163 — source wording:** `cooperative and public-sector sugar mills` → **`cooperative and Public Works Department sugar mills`**, preserving verified `பொதுப் பணித் துறை` rather than normalising it.
+6. **p.167 — source-name anomaly:** `Rajasthan Sheep and Wool::Federation` → **`Rajasthan Ship and Wool::Federation`**, preserving verified `ஷிப்`.
+7. **p.167 — spelling distinction:** later `Allana Sons, Goa` → **`Alana Sons, Goa`**, preserving the verified distinction between `அல்லானா` and later `அலானா`.
+
+### Gate-G final checks
+
+- English sections audited: **36/36**, exactly **136–171**;
+- no source-page section omitted or duplicated;
+- p.154–155 printed Singapore letter retained in source English, including visible anomalies;
+- p.156–157 *Business India* printed quotations retained, including `Tom, Tick & Harry` and `business-men`;
+- pp.158–159 `Liquified Natural Gas` / `LNG Terminal (Liquified)` retained;
+- p.167 organisation/place sequence re-checked against verified Tamil;
+- p.168 pollution-control/medicine analogy complete;
+- p.169–170 State Planning Commission names and roles complete;
+- p.170–171 final speaker/intervention sequence and p.171 ending reply complete;
+- unresolved English fidelity issues after audit: **0**;
+- English status: **verified**.
+
+The corrected English has been incorporated after the verified Tamil in canonical [`transcript.md`](./transcript.md), following the released-speech precedent.
 
 ## Gate H — canonical release/indexing
 
 Status: **not started**.
 
-Do not add Speech 5 to the released root index or `data/speeches.json` until Gate F is complete and Gate G has passed.
+Gate H is now the exact next activity. Add Speech 5 to the release/index records only after cross-checking `metadata.json`, `README.md`, `source-notes.md`, `verification-log.md`, `transcript.md`, `translation.md`, root `README.md` and `data/speeches.json` for consistent statuses and ranges. Do not begin Speech 6 until Gate H and the required handover updates are complete.
 
 ## Source availability correction retained
 
