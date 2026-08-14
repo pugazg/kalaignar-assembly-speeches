@@ -31,41 +31,49 @@
 
 ## Current transcription status
 
-Speech 5 has completed Gate C and passed Gate D, but it is **not yet verified**.
+Speech 5 has completed Gate C and passed Gate D. **Gate E is now in progress; the full Tamil is not yet verified.**
 
 - Gate C Tamil first-pass: **complete** — **36/36 pages**, scan pp.136–171 / printed pp.135–170.
-- Batch 1: scan pp.136–150.
-- Batch 2: scan pp.151–165.
-- Batch 3: scan pp.166–171.
 - Gate D full-speech completeness/page-marker audit: **passed**.
-- Tamil transcription status: **transcribed**; not reviewed or verified.
-- Explicit unresolved/`[REVIEW]` readings after Gate D: **0**.
-- Gate E strict Tamil source-fidelity verification: **not started; next activity**.
-- English translation: **blocked until Gate E is complete and Tamil is verified**.
+- Gate E Batch 1: **complete** — strict visual/source-fidelity audit of scan pp.136–150 / printed pp.135–149.
+- Gate E verified so far: **15/36 pages**.
+- Source-supported corrections applied in Gate E Batch 1: **18**.
+- Explicit unresolved/`[REVIEW]` readings: **0**.
+- Tamil transcription status: **transcribed**; not fully verified.
+- Next Gate-E page: **scan p.151 / printed p.150**.
+- English translation: **blocked until Gate E is complete for pp.136–171 and Tamil is verified**.
 - Gate H release/indexing: **not started**.
 
-The canonical [`transcript.md`](./transcript.md) contains the complete first-pass Tamil for all mapped scan pages 136–171 with explicit source-page markers. It must not yet be described as verified.
+The canonical [`transcript.md`](./transcript.md) contains all mapped pages 136–171. Gate-E corrections for pp.136–150 have been applied directly to it. It must not yet be described as fully verified.
 
-## Final Gate-C boundary
+## Gate E Batch 1
 
-Scan p.171 / printed p.170 contains the final intervention by `திரு. ஆர். சொக்கர்` about the `சிங்கப்பூர் காரிடார்`, followed by Kalaignar's reply that the government would try to bring a corridor-like major industry from Singapore to Tamil Nadu. The printed decorative ending ornament follows that reply.
+Scan pp.136–150 were re-read page by page against the controlling scan. The audit checked individual words/characters, names, figures, dates, monetary values and units, embedded English, punctuation where legible, and page-transition continuity.
 
-A direct boundary check confirms scan p.172 / printed p.171 begins the next anthology unit: `உரை : 6`, dated `23.04.1997`.
+Among the source-supported corrections were:
 
-## Gate D result
+- p.137 `வருகிறவர்கள்` → `வருகின்றவர்கள்` and `இருக்கிறது` → `இருக்கின்றது` in the relevant phrases;
+- p.139 `முதலீடு செய்கின்ற திட்டம்` → `முதலீடு செய்யப்படுகிற திட்டம்`;
+- p.142 `இன்டர்மீடியட்ஸ்` → `இண்டர்மீடியட்ஸ்` and `மெத்தைல் கெமிக்கல்ஸ்` → `பென்சைல் கெமிக்கல்ஸ்`;
+- p.145 `ஸ்டோன்வேர் பைப்` → `ஸ்டோன்வேர் பைப்ஸ்`;
+- p.146 the incomplete first-pass reading `ஓட்டலுக்கு மறுப்பு எழுதினாரோ` was corrected to the visibly printed `கொடைக்கானல் ஓட்டலுக்கு மறுப்பு எழுதினாரோ`;
+- p.150 `பன்னீர்தாஸ் குடும்பத்தின்` → `பன்னீர்தாஸ் குடும்பத்தினர்`.
 
-- expected mapped pages: **36**;
-- represented source-page range: **136–171**, complete and in order;
-- no mapped page omitted or duplicated;
-- opening and ending boundaries align with the locked anthology map;
-- final speaker/intervention sequence is represented;
-- explicit unresolved-reading markers: **0**.
+The full correction list is recorded in [`verification-log.md`](./verification-log.md).
 
-Gate D establishes completeness, not source fidelity. Gate E must now compare the entire Tamil transcript directly against every scan page before `verified` status is allowed.
+Important source forms confirmed rather than normalised include p.142 `இஃதன்னியில்` and p.145 `ஆலங்குளம் ஆஸ்பெஸ்டாஸ் பயிற்சித் தொழிற்சாலை`. The p.149 embedded English audit quotations and p.150 `'Good atmosphere'` were also checked against the scan.
+
+## Final speech boundary
+
+Scan p.171 / printed p.170 contains the final intervention by `திரு. ஆர். சொக்கர்` about the `சிங்கப்பூர் காரிடார்`, followed by Kalaignar's reply. The decorative ending ornament follows. Scan p.172 / printed p.171 begins `உரை : 6`, dated `23.04.1997`.
+
+## Next activity
+
+Continue **Gate E Batch 2: scan pp.151–165 / printed pp.150–164**. Apply only scan-supported corrections and record every concrete change. Then Gate E Batch 3 will cover pp.166–171. Tamil may be marked `verified` only after the complete 36-page range passes Gate E.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — complete Gate-C first-pass Tamil, scan pp.136–171; Gate D passed.
-- [`metadata.json`](./metadata.json) — source, completed range and current statuses.
-- [`source-notes.md`](./source-notes.md) — source authority, three Gate-C batches, boundary and Gate-D notes.
-- [`verification-log.md`](./verification-log.md) — Gate-C batches, Gate-D audit and blocked downstream gates.
+- [`transcript.md`](./transcript.md) — complete Tamil, with Gate-E corrections applied through scan p.150.
+- [`metadata.json`](./metadata.json) — source, completed range and partial Gate-E status.
+- [`source-notes.md`](./source-notes.md) — source authority, Gate-C/D notes and Gate-E findings.
+- [`verification-log.md`](./verification-log.md) — Gate-C/D records plus concrete Gate-E corrections.
