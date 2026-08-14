@@ -30,7 +30,7 @@ For this speech: `PDF scan page = printed page + 1`.
 
 The opening boundary is visually explicit: scan p.172 / printed p.171 begins `உரை : 6`, `நாள் : 23.04.1997`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`.
 
-The ending boundary was already locked during anthology mapping: scan p.198 / printed p.197 is the final page of Speech 6; scan p.199 / printed p.198 begins Speech 7 (`14.05.1998`).
+The ending boundary was directly re-inspected during Gate-C Batch 2: scan p.198 / printed p.197 contains the final Speech-6 response and `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).`, followed by the decorative ending ornament. Scan p.199 / printed p.198 begins Speech 7, `உரை : 7`, `14.05.1998`.
 
 ## Gate C — Tamil first-pass transcription
 
@@ -50,46 +50,47 @@ The batch preserves, as printed:
 - granite and minor-mineral tender-policy discussion;
 - embedded English passages and institutional names.
 
-Printed English/source forms retained include:
-
-- `Capital Subsidy`;
-- `State Industries Promotion Corporation of Tamil Nadu`;
-- `World Trade Organisation (W.T.O.)`;
-- `Small Industries Development Corporation`;
-- `Joint Sector` / `Associate Sector`;
-- `Electronic Corporation of Tamil Nadu`;
-- `Economist Intelligence Unit`;
-- `India uncaged`;
-- `Seeking opportunities in the South`;
-- `The going rate for back handers in the form of commission is said to be about 10 to 15 percent of even the project cost`;
-- `Industry-Friendly Policies`;
-- printed `transparent appoach`.
-
-The first pass deliberately does not use external knowledge to repair source spellings, company names or quoted English.
+Printed English/source forms retained include `Capital Subsidy`, `State Industries Promotion Corporation of Tamil Nadu`, `World Trade Organisation (W.T.O.)`, `Small Industries Development Corporation`, `Joint Sector` / `Associate Sector`, `Electronic Corporation of Tamil Nadu`, `Economist Intelligence Unit`, `India uncaged`, `Seeking opportunities in the South`, the printed commission quotation, `Industry-Friendly Policies`, and printed `transparent appoach`.
 
 Batch-1 explicit unreadable/`[REVIEW]` markers: **0**.
 
-## Batch boundary / continuation
+### Batch 2 — scan pp.187–198 / printed pp.186–197
 
-Scan p.186 / printed p.185 ends with the incomplete phrase:
+Status: **completed first pass; Gate C complete**.
 
-`அவற்றுள் சிலவற்றை`
+All **12** remaining pages were rendered and visually inspected from the controlling PDF before transcription. The p.186→187 continuation was preserved: p.186 ends `அவற்றுள் சிலவற்றை`; p.187 begins `மாத்திரம் இங்கே உங்கள் முன்னால் வைக்க விரும்புகிறேன்.`
 
-For continuity only, scan p.187 / printed p.186 was inspected and begins:
+Batch 2 covers the announced industrial projects; the *Financial Time* / Mark Nicholson car-industry passage; Tamil Nadu Graphite; `Single Window Clearance`, `Industrial Township` and `Executive Authority`; quarry/local-body administration; I.T.I. expansion; environmental industry parks; `Technology Parks` / `Software Techno Parks`; the L.N.G. project and 13-item bidder list; satellite towns; Jayankondam lignite; the Singapore investment window; TIDCO project proposals; Sterlite and other industrial proposals; Kanyakumari rubber-industry exchange; and the final Krishnagiri mango-factory assurance.
 
-`மாத்திரம் இங்கே உங்கள் முன்னால் வைக்க விரும்புகிறேன்.`
+Important printed/source forms retained in this first pass include:
 
-No p.187 text has yet been added to the canonical transcript.
+- p.187 `(Flori-Culture)` and `ப்ளை ஆஷ்பேஸ்ட் பிளாக்ஸ்`;
+- p.188 `Financial Time 10 ஏப்ரல் 1997`, source English quotations about the Tamil Nadu car industry, and the Mark Nicholson heading/subheading;
+- p.189 `Single Window Clearance`, `Industrial Township`, and the source phrase about `திரு. சிதம்பரம்`;
+- p.190 `Executive Authority`, `Load`, `(Seigniorage fee)`, `(Transport Permit)`, and `(ஐ.டி.ஐ)`;
+- pp.191–192 `(Technology Parks)`, `(Software Techno Parks)`, and `L.N.G. (Liquified Natural Gas)`;
+- p.193 the complete 13-item L.N.G. bidder list, including source forms `டோடல்`, `நிசோ இவாய்`, `மருபேனி கார்ப்பரேஷன்`, `க்ளெனக் இன்ஜினியரிங் குரூப்`, and `இம்ப்பீரியல் எஸ்டிஎன் பிஎஹெச்டி`;
+- p.195 source `விடிவுகாலம்`, `Singapore Indian Chamber of Commerce`, and `(Window)`;
+- p.196 `(Naphtha Crackers & Olefins)`, `Biaxially oriented poly propylene - (Bopp)`, `பிஸ்பினால்-ஏ (Bisphenol-A)`, `சக்தியூட்டப்பட்ட கரி`, and `(Siscal)`;
+- p.197 `பல்க்டிரக் இண்டார்மீடியட்ஸ்`, `'டான்சம்'`, `(சிரிப்பு)`, and source phrase `விடேன் தொடேன்`;
+- p.198 final `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).`.
 
-## Current state
+The first pass deliberately does not use external knowledge to repair source spellings, company names, institutional names or quoted English.
 
-- Gate C coverage: **15/27 pages** — scan pp.172–186.
-- Gate C remaining: **12 pages** — scan pp.187–198.
-- Gate D: **not started**.
-- Gate E: **not started**.
-- Tamil status: **in-progress**, not verified.
-- English: **blocked** until the complete Tamil passes Gates D and E.
+Batch-2 explicit unreadable/`[REVIEW]` markers: **0**.
+
+### Gate-C final state
+
+- represented scan pages: **27/27**, exactly **172–198**;
+- printed pages: **171–197**;
+- source-page sequence was assertion-checked as exactly **172–198**;
+- no p.199 / Speech-7 spillover was allowed by the assertion check;
+- explicit unreadable/`[REVIEW]` markers: **0**;
+- Tamil transcription status: **transcribed**, not verified;
+- Gate D full-speech completeness/page-marker audit: **not started**;
+- Gate E strict source-fidelity verification: **not started**;
+- English: **blocked** until Gates D and E have passed.
 
 ## Next activity
 
-Continue Gate C with **Batch 2 — scan pp.187–198 / printed pp.186–197**, beginning with the continuation after `அவற்றுள் சிலவற்றை`. After all 27 pages are represented, perform Gate D completeness/page-marker audit before any Gate-E verification or English work.
+Proceed to **Gate D — full-speech Tamil completeness/page-marker audit** for scan pp.172–198 / printed pp.171–197. Gate D should confirm every mapped page is represented once and in order, the opening and closing boundaries match the locked map, all printed speaker changes/interventions are represented, and unresolved markers remain explicitly tracked. Do not start Gate E or English translation as part of Gate D unless separately requested.
