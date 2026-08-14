@@ -8,40 +8,17 @@ The attached PDF matches the locked controlling source:
 - file size: **217,124,211 bytes**;
 - SHA-256: `c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370`.
 
-The Speech-7 boundaries were directly checked from rendered scan images:
-
-- scan p.198 closes Speech 6;
-- scan p.199 begins `உரை : 7`, `நாள் : 14.05.1998`;
-- scan p.240 closes Speech 7 with the final exchange and decorative ending ornament;
-- scan p.241 begins `உரை : 8`, `நாள் : 29.04.1999`.
-
-The locked Speech-7 range **199–240** remains unchanged.
+The locked Speech-7 range remains **scan pp.199–240 / printed pp.198–239**. Scan p.241 begins Speech 8 and is excluded.
 
 ## Gate C — Tamil first-pass transcription
 
-Gate C completed all **42/42** mapped pages in three batches:
-
-- Batch 1: pp.199–213 — 15 pages;
-- Batch 2: pp.214–228 — 15 pages;
-- Batch 3: pp.229–240 — 12 pages.
-
-Gate-C unresolved/`[REVIEW]` readings: **0**. Tamil status after Gate C: **transcribed**, not verified.
+Gate C completed all **42/42** mapped pages in three batches. Gate-C unresolved/`[REVIEW]` readings: **0**. Tamil status after Gate C: **transcribed**, not verified.
 
 ## Gate D — full-speech Tamil completeness/page-marker audit
 
 Status: **passed**.
 
-- expected page markers: **42**;
-- actual page markers: **42**;
-- exact marker sequence: **199–240**;
-- gaps: **0**;
-- duplicates: **0**;
-- reordering: **0**;
-- `<!-- source-page: 241 -->`: **absent**;
-- Speech-8 heading/date spillover: **absent**;
-- p.199 opening and p.240 closing sequence align with the locked boundaries.
-
-Gate D is structural only; it did not certify character-level source fidelity.
+The canonical transcript contains the exact source-page sequence **199–240**, with 42 markers, no gaps, duplicates, reordering or p.241 spillover. Gate D was structural only and did not certify character-level source fidelity.
 
 ## Gate E — strict Tamil visual/source-fidelity verification
 
@@ -49,32 +26,41 @@ Gate D is structural only; it did not certify character-level source fidelity.
 
 Status: **passed after corrections**.
 
-Every page in the batch was re-read against the rendered controlling scan. Checks included Tamil characters and word forms, names, initials, dates, money, percentages, English strings, interventions, punctuation where legible and cross-page continuity.
+Canonical corrections applied in commit `4c42c979f087a78cdaeef3e96a12506bcdd7693e`:
 
-The first draft Gate-E findings incorrectly described two passages as missing: the p.202 administered-price paragraph and the p.209 Economic Intelligency Unit / `India Uncaged` / `Seeking opportunities in the South` introduction. A direct canonical blob fetch showed both were already present. They were therefore **not inserted again**. The audit record was corrected before Batch 1 was closed.
-
-Actual canonical corrections applied in commit `4c42c979f087a78cdaeef3e96a12506bcdd7693e`:
-
-1. **scan p.202 / printed p.201** — `விற்கப்படுகின்ற` → `விற்கப்படுகிற` in the `administered price` paragraph.
+1. **scan p.202 / printed p.201** — `விற்கப்படுகின்ற` → `விற்கப்படுகிற`.
 2. **scan p.205 / printed p.204** — `தெரிவித்து உண்மை` → `தெரிவித்தது உண்மை`.
 3. **scan p.209 / printed p.208** — `சுட்டிக் காட்டியிருக்கின்றேன்` → `சுட்டிக் காட்டியிருக்கிறேன்`.
 
-The corrected forms were visually rechecked against scan pp.202, 205 and 209. No additional canonical correction was identified on scan pp.199–201, 203–204, 206–208 or 210–213 during this batch.
-
 Batch-1 unresolved/`[REVIEW]` readings: **0**.
+
+### Batch 2 — scan pp.214–228 / printed pp.213–227
+
+Status: **passed after corrections**.
+
+Every page in the bounded batch was re-read directly against rendered scan images. Tamil word forms, project/company names, figures, dates, money, percentages, acreage/units, printed English, punctuation where legible and cross-page continuity were checked. OCR/extracted text was helper-only; the scan image controlled each decision.
+
+Canonical corrections applied in commit `2ae1963b7d9c5dde4a96eb5ff8b8affbaf3a6693`:
+
+1. **scan p.214 / printed p.213** — Hyundai land allotment: `552 ஏக்கர்` → `532 ஏக்கர்`. The scan clearly prints `532 ஏக்கர்`.
+2. **scan p.227 / printed p.226** — Japanese-company transliteration: `புயூஜிகுரா லிமிடெட்` → `ப்யூஜிகுரா லிமிடெட்`.
+
+The corrected canonical forms were visually rechecked against the scan. No further definite canonical correction was identified on scan pp.**215–226 or 228** in this pass. Helper-OCR alternatives were deliberately rejected where direct visual inspection supported the existing source form; no external modernisation or company-name correction was performed.
+
+Batch-2 unresolved/`[REVIEW]` readings: **0**.
 
 ### Gate-E current result
 
-- audited: **15/42 scan pages**, pp.199–213 / printed pp.198–212;
-- Gate-E corrections so far: **3**;
+- audited: **30/42 scan pages**, pp.199–228 / printed pp.198–227;
+- Gate-E corrections: **5 cumulative** — 3 in Batch 1, 2 in Batch 2;
 - unresolved/`[REVIEW]` readings: **0**;
-- next scan page: **214**;
+- next scan page: **229**;
 - Tamil status: **transcribed, not yet verified**;
 - full-speech Gate E: **in progress**;
 - English: **blocked**.
 
-## Next activity — Gate E Batch 2
+## Next activity — Gate E Batch 3
 
-Continue strict Tamil visual/source-fidelity verification for **scan pp.214–228 / printed pp.213–227**.
+Continue strict Tamil visual/source-fidelity verification for the remaining Speech-7 pages **scan pp.229–240 / printed pp.228–239**. Re-read each page directly against the controlling scan, apply and log only source-supported corrections, and stop at the Speech-7 closing boundary on p.240. Do not include scan p.241 / Speech 8.
 
-Re-read each page directly from the scan, apply only source-supported corrections, and record every change. Do not begin English until Gate E passes across all **42** Speech-7 pages.
+If all remaining 12 pages pass and no unresolved reading remains, perform the full Gate-E closure checks and only then mark Tamil verified. English remains blocked until that full Gate-E pass.
