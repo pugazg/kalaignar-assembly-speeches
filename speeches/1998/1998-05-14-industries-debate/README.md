@@ -37,7 +37,7 @@ Speech 7 Tamil has completed **Gate C, Gate D and Gate E** and is **verified aga
 - Gate E: **passed — 42/42 pages verified against scan**.
 - Gate E cumulative corrections: **5**.
 - Gate E unresolved/`[REVIEW]` readings: **0**.
-- English Gate F: **in progress — source/scan pp.199–238 translated (40/42 pages)**.
+- English Gate F: **complete — source/scan pp.199–240 translated (42/42 pages)**.
 - English Gate G: **not started**.
 - English verified: **no**.
 
@@ -53,7 +53,7 @@ The full Gate-E closure reconciled all three visual-audit batches, confirmed exa
 
 ## Gate F — English translation progress
 
-English is translated only from the **final verified Tamil** in [`translation.md`](./translation.md), with source-page correspondence preserved.
+English has been translated only from the **final verified Tamil** in [`translation.md`](./translation.md), with source-page correspondence preserved.
 
 - Batch 1: source pp.199–203 — complete.
 - Batch 2: source pp.204–208 — complete.
@@ -62,21 +62,21 @@ English is translated only from the **final verified Tamil** in [`translation.md
 - Batch 5: source pp.219–223 — complete.
 - Batch 6: source pp.224–228 — complete.
 - Batch 7: source pp.229–233 — complete.
-- Batch 8: source pp.234–238 — complete and merged into canonical `translation.md`.
-- Current total: **40/42 pages**.
-- Next source page: **239**.
+- Batch 8: source pp.234–238 — complete.
+- Batch 9: source pp.239–240 — complete and merged into canonical `translation.md`.
+- Current total: **42/42 pages**.
 - Unresolved translation questions: **0**.
 
-Batch 8 preserves the p.233→234 TANITEC continuation, ELCOT turnover/profit figures, the Software/Hardware explanation and Y2 K-1 humour, the year-2000 two-digit discussion, European single-currency employment estimate, TIDEL Software Park at Taramani, the Coimbatore software park, the `Single Window System` discussion, the two high-level approval committees, the withdrawal of cut motions, and Thiru K. Subbarayan’s textile/cotton intervention with Kalaignar’s reply through p.238.
+Batch 9 preserves the complete A.S. Ponnammal intervention, Kalaignar’s `கனவு / கண் துடைப்பு` wordplay and laughter marker, the full printed-English `THIRU B. VENKATASAMY` intervention, and the final Hosur ELCOT/ELNET exchange. The English stops exactly at the Speech-7 closing boundary on p.240; no p.241/Speech-8 material is included.
 
 ## Next activity
 
-Complete the **final Gate F Batch 9** from verified Tamil **source/scan pp.239–240 / printed pp.238–239**. Preserve all parliamentary speaker changes/interventions and stop at the Speech-7 closing boundary on p.240. Do not begin Speech 8. After Gate F is complete, English remains unverified until the separate full-speech Gate G fidelity check passes.
+Begin the separate **Gate G full-speech English fidelity check**. Re-read canonical `translation.md` against the final verified Tamil `transcript.md` for the complete source range **pp.199–240**, checking page correspondence, completeness, speaker changes, figures, dates, technical/company names, printed English, humour/context and cross-page continuations. Apply any English corrections found and document them. Do not mark English verified until Gate G has passed. Do not begin Speech 8.
 
 ## கோப்புகள்
 
 - [`transcript.md`](./transcript.md) — complete Tamil source layer, verified against scan pp.199–240.
-- [`translation.md`](./translation.md) — Gate-F English working translation, currently pp.199–238.
-- [`metadata.json`](./metadata.json) — Tamil verified; Gate F in progress at 40/42 pages.
+- [`translation.md`](./translation.md) — complete Gate-F English working translation, pp.199–240; not yet Gate-G verified.
+- [`metadata.json`](./metadata.json) — Tamil verified; Gate F complete at 42/42 pages; Gate G not started.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and verification record.
 - [`verification-log.md`](./verification-log.md) — Gate-C/D history and Gate-E audit/closure trail.
