@@ -64,27 +64,38 @@ No definite source-supported discrepancy requiring a canonical text change was i
 
 Batch-3 unresolved/`[REVIEW]` readings: **0**.
 
-### Gate-E current result
+## Full Gate-E closure check
 
-- individually audited: **42/42 scan pages**, pp.199–240 / printed pp.198–239;
-- Gate-E corrections: **5 cumulative** — 3 in Batch 1, 2 in Batch 2, 0 in Batch 3;
-- unresolved/`[REVIEW]` readings: **0**;
-- remaining unaudited pages: **0**;
-- Tamil status: **transcribed, not yet formally verified**;
-- Gate E status: **pending full-speech closure check**;
-- English: **blocked**.
+Status: **passed**.
 
-## Next activity — full Gate-E closure check
+A separate closure pass was performed after all 42 pages had completed bounded visual audit.
 
-Perform a separate full-speech Gate-E closure check across the complete canonical Speech-7 unit before changing Tamil status to verified. Confirm at minimum:
+### Closure results
 
-- all three bounded visual-audit batches collectively cover exactly scan pp.199–240 / printed pp.198–239;
-- cumulative corrections are exactly the five logged source-supported changes and are present canonically;
-- unresolved/`[REVIEW]` count is zero;
-- exact 42 source-page markers remain in sequence 199–240;
-- no p.241 / Speech-8 spillover exists;
-- opening heading/date/speaker label and p.240 closing intervention sequence remain intact after corrections;
-- printed English passages audited during Gate E remain represented;
-- metadata/status files agree with the canonical transcript.
+- bounded coverage: Batch 1 **199–213** + Batch 2 **214–228** + Batch 3 **229–240** = exactly **42/42 scan pages**, printed pp.198–239;
+- cumulative Gate-E corrections: **5**, exactly the five logged corrections above;
+- current canonical transcript contains all five corrected forms: `விற்கப்படுகிற`, `தெரிவித்தது உண்மை`, `சுட்டிக் காட்டியிருக்கிறேன்`, Hyundai `532 ஏக்கர்`, and `ப்யூஜிகுரா லிமிடெட்`;
+- unresolved/`REVIEW` readings: **0**;
+- structural range remains exactly **source-page 199 through 240** in the locked Speech-7 sequence;
+- `<!-- source-page: 241 -->`: **absent**;
+- Speech-8 heading/date spillover: **absent**;
+- p.199 opening remains `உரை : 7`, `நாள் : 14.05.1998`, followed by the printed speaker label `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`;
+- p.240 closing remains intact: Speaker transition → full printed `THIRU B. VENKATASAMY` English intervention → Kalaignar question → `திரு. பி. வெங்கடசாமி` reply → Kalaignar final response;
+- the earlier printed English `Business India` / `Economic Intelligency Unit` material and the p.240 English intervention remain represented in the canonical transcript;
+- Gate-E audit records, metadata, README and source notes have been reconciled to the passed state.
 
-Only after that closure check passes may `verified_against_scan` become true, Tamil status become verified, and English Gate F begin.
+### Gate-E final result
+
+- verified scan pages: **199–240**;
+- verified printed pages: **198–239**;
+- verified page count: **42/42**;
+- source-supported Gate-E corrections: **5**;
+- unresolved readings: **0**;
+- Gate E: **passed**;
+- Tamil: **verified against scan**.
+
+English Gate F is now unblocked. Translation must use only the final verified Tamil as its source; OCR and earlier Tamil drafts remain non-authoritative.
+
+## Next activity — Gate F English translation
+
+Begin the repository-defined **Gate F** workflow for Speech 7. Translate the verified Tamil in source-page correspondence, preserve parliamentary context and source claims, retain names/figures/technical terminology consistently, and do not silently correct historical or factual claims. Gate G remains required before English can be marked verified. Do not begin Speech 8.
