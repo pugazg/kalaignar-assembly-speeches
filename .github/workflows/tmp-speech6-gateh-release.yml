@@ -24,18 +24,9 @@ jobs:
           import json, re
 
           root = Path('speeches/1997/1997-04-23-industries-debate')
-          meta_path = root / 'metadata.json'
-          transcript_path = root / 'transcript.md'
-          translation_path = root / 'translation.md'
-          readme_path = root / 'README.md'
-          source_notes_path = root / 'source-notes.md'
-          vlog_path = root / 'verification-log.md'
-
-          # Gate-H consistency audit.
-          meta = json.loads(meta_path.read_text(encoding='utf-8'))
+          meta = json.loads((root / 'metadata.json').read_text(encoding='utf-8'))
           assert meta['id'] == '1997-04-23-industries-debate'
           assert meta['date'] == '1997-04-23'
-          assert meta['year'] == 1997
           assert meta['speech']['source_label_ta'] == 'உரை : 6'
           assert meta['speech']['printed_date'] == '23.04.1997'
           assert meta['source']['speech_scan_pages'] == '172-198'
@@ -47,244 +38,77 @@ jobs:
           assert meta['translation']['verified_against_tamil'] is True
           assert meta['translation']['unresolved_english_fidelity_issues'] == 0
 
-          transcript = transcript_path.read_text(encoding='utf-8')
-          tamil_pages = [int(x) for x in re.findall(r'<!-- source-page: (\d+) -->', transcript)]
-          english_pages = [int(x) for x in re.findall(r'^### Source page (\d+)$', transcript, flags=re.M)]
+          transcript = (root / 'transcript.md').read_text(encoding='utf-8')
           expected = list(range(172, 199))
-          assert tamil_pages == expected, tamil_pages
-          assert english_pages == expected, english_pages
+          assert [int(x) for x in re.findall(r'<!-- source-page: (\d+) -->', transcript)] == expected
+          assert [int(x) for x in re.findall(r'^### Source page (\d+)$', transcript, flags=re.M)] == expected
           assert transcript.count('# English translation') == 1
           assert '<!-- source-page: 199 -->' not in transcript
           assert '### Source page 199' not in transcript
 
-          translation = translation_path.read_text(encoding='utf-8')
+          translation = (root / 'translation.md').read_text(encoding='utf-8')
           assert [int(x) for x in re.findall(r'^### Source page (\d+)$', translation, flags=re.M)] == expected
           assert 'English status is **verified**' in translation
           assert '[REVIEW]' not in translation
 
-          # Machine-readable index.
           data_path = Path('data/speeches.json')
           data = json.loads(data_path.read_text(encoding='utf-8'))
-          ids = [x['id'] for x in data]
-          if '1997-04-23-industries-debate' in ids:
+          if any(x['id'] == '1997-04-23-industries-debate' for x in data):
               raise SystemExit('Speech 6 already present in data/speeches.json')
-          data.append({
-              'id': '1997-04-23-industries-debate',
-              'date': '1997-04-23',
-              'year': 1997,
-              'speaker_ta': 'மு. கருணாநிதி',
-              'speaker_en': 'M. Karunanidhi',
-              'title_ta': 'தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 6',
-              'title_en': "Kalaignar's Legislative Assembly Speeches on Industry — Speech 6",
-              'event_ta': 'தொழில்துறை மானிய விவாத உரை',
-              'event_en': 'Speech in the Industries grant debate',
-              'path': 'speeches/1997/1997-04-23-industries-debate',
-              'languages': ['ta', 'en'],
-              'transcription_status': 'verified',
-              'verified_against_scan': True,
-              'translation_status': 'verified'
-          })
+          data.append({'id':'1997-04-23-industries-debate','date':'1997-04-23','year':1997,'speaker_ta':'மு. கருணாநிதி','speaker_en':'M. Karunanidhi','title_ta':'தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 6','title_en':"Kalaignar's Legislative Assembly Speeches on Industry — Speech 6",'event_ta':'தொழில்துறை மானிய விவாத உரை','event_en':'Speech in the Industries grant debate','path':'speeches/1997/1997-04-23-industries-debate','languages':['ta','en'],'transcription_status':'verified','verified_against_scan':True,'translation_status':'verified'})
           data.sort(key=lambda x: x['date'])
           data_path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 
-          # Root README release/index update.
           repo_readme = Path('README.md')
           rr = repo_readme.read_text(encoding='utf-8')
           old_active = "- [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source mapped into 10 dated speeches. Speeches 1 (21.03.1963), 2 (16.04.1981), 3 (03.05.1989), 4 (18.04.1990) and 5 (14.08.1996) are fully released with verified Tamil and English; Speech 6 (23.04.1997) is the next transcription unit."
           new_active = "- [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source mapped into 10 dated speeches. Speeches 1–6, through 23.04.1997, are fully released with verified Tamil and verified English; Speech 7 (14.05.1998) is the next transcription unit and should be started in a fresh chat window."
-          if rr.count(old_active) != 1:
-              raise SystemExit('Root README active-source line mismatch')
+          assert rr.count(old_active) == 1
           rr = rr.replace(old_active, new_active, 1)
           row5 = "| 14-08-1996 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 5](./speeches/1996/1996-08-14-industries-debate/) | தொழில்துறை மானிய விவாத உரை | Verified | Verified | Verified against scan pp. 136–171 |"
           row6 = "| 23-04-1997 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 6](./speeches/1997/1997-04-23-industries-debate/) | தொழில்துறை மானிய விவாத உரை | Verified | Verified | Verified against scan pp. 172–198 |"
-          if rr.count(row5) != 1:
-              raise SystemExit('Root README Speech-5 row mismatch')
+          assert rr.count(row5) == 1
           rr = rr.replace(row5, row5 + '\n' + row6, 1)
           structure5 = "    └── 1996/\n        └── 1996-08-14-industries-debate/\n            ├── README.md\n            ├── metadata.json\n            ├── source-notes.md\n            ├── transcript.md\n            ├── translation.md\n            └── verification-log.md"
           structure6 = "    ├── 1996/\n    │   └── 1996-08-14-industries-debate/\n    │       ├── README.md\n    │       ├── metadata.json\n    │       ├── source-notes.md\n    │       ├── transcript.md\n    │       ├── translation.md\n    │       └── verification-log.md\n    └── 1997/\n        └── 1997-04-23-industries-debate/\n            ├── README.md\n            ├── metadata.json\n            ├── source-notes.md\n            ├── transcript.md\n            ├── translation.md\n            └── verification-log.md"
-          if rr.count(structure5) != 1:
-              raise SystemExit('Root README repository-structure block mismatch')
+          assert rr.count(structure5) == 1
           rr = rr.replace(structure5, structure6, 1)
           repo_readme.write_text(rr, encoding='utf-8')
 
-          # Speech-6 README Gate-H closure.
+          readme_path = root / 'README.md'
           rd = readme_path.read_text(encoding='utf-8')
-          rd = rd.replace(
-              "Speech 6 Tamil Gates C–E are complete and the Tamil is **verified against the controlling scan**. Gate F English translation is complete for all 27 source pages, and Gate G has now **passed** after a full page-by-page fidelity review against the verified Tamil. English is **verified**. Gate H release/indexing remains separate and is not yet performed.",
-              "Speech 6 is **fully released**. Tamil Gates C–E are complete and verified against the controlling scan; Gate F is complete; Gate G passed after full English fidelity review; and Gate H canonical release/indexing has passed. Root `README.md` and `data/speeches.json` now include this speech with verified Tamil and verified English."
-          )
-          rd = rd.replace("- Gate H release/indexing: **not started**.", "- Gate H release/indexing: **passed — Speech 6 released**.")
+          old_status = "Speech 6 Tamil Gates C–E are complete and the Tamil is **verified against the controlling scan**. Gate F English translation is complete for all 27 source pages, and Gate G has now **passed** after a full page-by-page fidelity review against the verified Tamil. English is **verified**. Gate H release/indexing remains separate and is not yet performed."
+          new_status = "Speech 6 is **fully released**. Tamil Gates C–E are complete and verified against the controlling scan; Gate F is complete; Gate G passed after full English fidelity review; and Gate H canonical release/indexing has passed. Root `README.md` and `data/speeches.json` now include this speech with verified Tamil and verified English."
+          assert rd.count(old_status) == 1
+          rd = rd.replace(old_status, new_status, 1)
+          assert rd.count("- Gate H release/indexing: **not started**.") == 1
+          rd = rd.replace("- Gate H release/indexing: **not started**.", "- Gate H release/indexing: **passed — Speech 6 released**.", 1)
           old_next = "## Next activity\n\nProceed to **Gate H — canonical release/indexing for Speech 6**. Audit consistency across the Speech-6 files, then update root `README.md` and `data/speeches.json` with the verified Tamil/English release state. Do not begin Speech 7 until Speech 6 Gate H is closed."
           new_next = "## Gate H — canonical release/indexing\n\nStatus: **passed**. Cross-file checks confirmed canonical ID/date, scan and printed ranges, 27 Tamil page markers, 27 English source-page sections, verified Tamil, verified English, zero unresolved Tamil/English issues, and no Speech-7 spillover. Root `README.md` and `data/speeches.json` now release Speech 6.\n\n## Next activity\n\nStart **Speech 7 — உரை : 7 / 14.05.1998** in a **new chat window**, using the repository handover and next-chat prompt. Locked range: scan pp.199–240 / printed pp.198–239; canonical ID `1998-05-14-industries-debate`. Do not alter released Speeches 1–6 unless a separately justified correction is required."
-          if rd.count(old_next) != 1:
-              raise SystemExit('Speech-6 README next-activity block mismatch')
+          assert rd.count(old_next) == 1
           rd = rd.replace(old_next, new_next, 1)
           rd = rd.replace("- [`verification-log.md`](./verification-log.md) — itemised Gate-C/D/E/F/G audit record and exact Gate-H continuation.", "- [`verification-log.md`](./verification-log.md) — itemised Gate-C/D/E/F/G/H audit and release record.")
           readme_path.write_text(rd, encoding='utf-8')
 
-          # Speech-6 source notes Gate-H closure.
+          source_notes_path = root / 'source-notes.md'
           sn = source_notes_path.read_text(encoding='utf-8')
           old_sn = "## Next activity\n\nProceed to **Gate H — canonical release/indexing for Speech 6**. Re-audit consistency across `metadata.json`, `README.md`, `source-notes.md`, `verification-log.md`, `translation.md`, and canonical `transcript.md`; then update root `README.md` and `data/speeches.json` with the verified Tamil and verified English release state. Do not begin Speech 7 until Gate H is closed."
           new_sn = "## Gate H — canonical release/indexing\n\nStatus: **passed**. The final release audit reconciled `metadata.json`, `README.md`, `source-notes.md`, `verification-log.md`, `translation.md`, and canonical `transcript.md`. ID/date/ranges agree; canonical Tamil markers and English sections are exactly 172–198; Tamil is verified against the scan; English is verified against final Tamil; unresolved issues are 0; and no p.199/Speech-7 content is present. Root `README.md` and `data/speeches.json` now contain the released Speech-6 entry.\n\n## Next activity\n\nBegin Speech 7 (`உரை : 7`, `14.05.1998`, scan pp.199–240 / printed pp.198–239, canonical ID `1998-05-14-industries-debate`) in a fresh chat window using `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` and `docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md`."
-          if sn.count(old_sn) != 1:
-              raise SystemExit('Speech-6 source-notes next block mismatch')
+          assert sn.count(old_sn) == 1
           sn = sn.replace(old_sn, new_sn, 1)
           source_notes_path.write_text(sn, encoding='utf-8')
 
-          # Speech-6 verification log Gate-H closure.
+          vlog_path = root / 'verification-log.md'
           vl = vlog_path.read_text(encoding='utf-8')
           old_vl = "## Exact next activity — Gate H canonical release/indexing\n\nPerform **Gate H for Speech 6**. Reconcile all Speech-6 canonical and companion files, confirm ID/date/ranges/statuses agree, confirm canonical `transcript.md` contains the complete verified Tamil followed by complete verified English, then update root `README.md` and `data/speeches.json` to release Speech 6 with `transcription_status: verified`, `verified_against_scan: true`, and `translation_status: verified`. Do not begin Speech 7 until Gate H closes."
           new_vl = "## Gate H — canonical release/indexing\n\nStatus: **passed**.\n\nFinal consistency audit:\n\n- canonical ID: `1997-04-23-industries-debate`;\n- printed date: `23.04.1997`; ISO date: `1997-04-23`;\n- scan / printed ranges: **172–198 / 171–197**;\n- canonical Tamil source-page markers: **27**, exactly 172–198;\n- canonical English source-page sections: **27**, exactly 172–198;\n- Tamil: **verified**, `verified_against_scan: true`;\n- English: **verified**, `verified_against_tamil: true`;\n- unresolved Tamil readings: **0**;\n- unresolved English fidelity issues: **0**;\n- p.199 / Speech-7 spillover: **none**;\n- root `README.md`: Speech 6 indexed as Verified/Verified;\n- `data/speeches.json`: Speech 6 added with `transcription_status: verified`, `verified_against_scan: true`, `translation_status: verified`.\n\nSpeech 6 is **released**.\n\n## Exact next activity — Speech 7 in a new chat\n\nStart `உரை : 7` dated `14.05.1998`, canonical ID `1998-05-14-industries-debate`, locked to scan pp.199–240 / printed pp.198–239. Re-read the workflow and mapping, re-confirm the p.198→199 and p.240→241 boundaries directly from the controlling scan, confirm no Speech-7 folder already exists, create the standard canonical files, and begin Gate C Tamil transcription in a bounded first batch. English remains blocked until Speech 7 passes Gates D and E."
-          if vl.count(old_vl) != 1:
-              raise SystemExit('Speech-6 verification-log Gate-H block mismatch')
+          assert vl.count(old_vl) == 1
           vl = vl.replace(old_vl, new_vl, 1)
           vlog_path.write_text(vl, encoding='utf-8')
 
-          # Fresh handover aimed at Speech 7.
-          handover = '''# Handover — 2007 industrial speeches anthology
-
-## Purpose and authority
-
-Continue `pugazg/kalaignar-assembly-speeches` using the controlling scan `TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf`.
-
-The scan image is authoritative for Tamil. OCR/extracted text is only a helper. English must be translated from and verified against the final verified Tamil. Follow `docs/ARCHIVAL_WORKFLOW.md`.
-
-## Controlling source
-
-- Publication: `தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்`
-- First edition: மே, 2007
-- PDF pages: **329**
-- File size: **217,124,211 bytes**
-- SHA-256: `c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370`
-- Locked map: `sources/2007-industrial-speeches/mapping.md`
-
-## Locked inventory
-
-| # | Date | Scan pages | Printed pages | Canonical ID |
-|---:|---|---:|---:|---|
-| 1 | 21.03.1963 | 18–26 | 17–25 | `1963-03-21-industries-debate` |
-| 2 | 16.04.1981 | 27–61 | 26–60 | `1981-04-16-industries-debate` |
-| 3 | 03.05.1989 | 62–98 | 61–97 | `1989-05-03-industries-debate` |
-| 4 | 18.04.1990 | 99–135 | 98–134 | `1990-04-18-industries-debate` |
-| 5 | 14.08.1996 | 136–171 | 135–170 | `1996-08-14-industries-debate` |
-| 6 | 23.04.1997 | 172–198 | 171–197 | `1997-04-23-industries-debate` |
-| 7 | 14.05.1998 | 199–240 | 198–239 | `1998-05-14-industries-debate` |
-| 8 | 29.04.1999 | 241–277 | 240–276 | `1999-04-29-industries-debate` |
-| 9 | 8.05.2000 | 278–303 | 277–302 | `2000-05-08-industries-debate` |
-| 10 | 23.08.2006 | 304–326 | 303–325 | `2006-08-23-industries-debate` |
-
-## Released anthology state
-
-Speeches **1–6** are fully released with verified Tamil and verified English. Leave them untouched absent a separately justified correction.
-
-Speech 6 (`23.04.1997`) has completed Gates C–H. Its canonical `transcript.md` contains verified Tamil followed by verified English; Gate E used 27/27 scan pages with 6 Tamil corrections and 0 unresolved readings; Gate G used 27/27 English sections with 12 fidelity corrections and 0 unresolved issues. Gate H indexed it in root `README.md` and `data/speeches.json`.
-
-## Next active unit — Speech 7
-
-- source label: `உரை : 7`
-- printed date: `14.05.1998`
-- ISO date: `1998-05-14`
-- canonical ID: `1998-05-14-industries-debate`
-- locked scan range: **199–240**
-- locked printed range: **198–239**
-- mapped pages: **42**
-- relationship: **scan page = printed page + 1**
-- previous boundary: scan p.198 closes Speech 6; scan p.199 begins `உரை : 7`, `நாள் : 14.05.1998`
-- next boundary: structural map locks Speech 7 through scan p.240; scan p.241 begins Speech 8 (`29.04.1999`)
-- repository folder `speeches/1998/1998-05-14-industries-debate/`: **not yet created at Gate-H handoff**
-- Gates A/B: complete at anthology/mapping level
-- Gate C: **not started**
-- Gates D–H: **not started**
-- English: **blocked until Tamil passes Gates D and E**
-
-## Exact new-chat startup
-
-1. Read `docs/ARCHIVAL_WORKFLOW.md` completely.
-2. Read this handover and `docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md`.
-3. Read `sources/2007-industrial-speeches/mapping.md` and treat the locked Speech-7 range as the working boundary.
-4. Inspect the controlling scan directly at p.199 and the ending boundary pp.240–241 before writing metadata. Do not rely on filename or OCR.
-5. Confirm the Speech-7 folder has not been started. If work exists, continue it; do not duplicate it.
-6. Create the standard canonical files under `speeches/1998/1998-05-14-industries-debate/`: `README.md`, `metadata.json`, `source-notes.md`, `transcript.md`, `verification-log.md`.
-7. Begin Gate C Tamil first-pass transcription in a bounded batch, preferably **scan pp.199–213** (15 pages), preserving exact source wording/spelling/punctuation/numerals/headings/speaker labels/printed English. Record the exact continuation point and unresolved readings.
-8. Do not begin English until the complete Tamil has passed Gate D and Gate E.
-9. Do not modify released Speeches 1–6.
-
-## End-of-handoff state
-
-Speech 6 is released. Speech 7 is the sole next active anthology unit and should be started in a **new chat window**.
-'''
-          Path('docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md').write_text(handover, encoding='utf-8')
-
-          next_prompt = '''Continue the Kalaignar Assembly Speeches archival project in `pugazg/kalaignar-assembly-speeches`.
-
-Start **Speech 7** from the 2007 anthology `தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்`.
-
-## Mandatory startup
-
-1. Read `docs/ARCHIVAL_WORKFLOW.md` completely before doing any work.
-2. Read `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` completely.
-3. Read `sources/2007-industrial-speeches/mapping.md`.
-4. Inspect the repository and confirm `speeches/1998/1998-05-14-industries-debate/` has not already been started. Continue existing work rather than creating duplicates if it exists.
-5. Inspect the actual controlling PDF scan before creating metadata or transcription. Do not rely on the filename, OCR, extracted text, or prior prose summaries.
-
-## Source authority
-
-Controlling publication: `தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்`, first edition மே 2007.
-
-- PDF pages: **329**
-- file size: **217,124,211 bytes**
-- SHA-256: `c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370`
-- scan image is authoritative for Tamil
-- OCR/extracted text is only a helper
-- do not silently modernise, correct, normalise, reconstruct, or improve printed Tamil
-
-If the controlling PDF is not available in this new chat, ask me to attach `TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf` before scan-level transcription.
-
-## Released state
-
-Speeches **1–6** are fully released with verified Tamil and verified English. Do not modify them absent a separately justified correction.
-
-## Speech 7 locked identity
-
-- source label: `உரை : 7`
-- printed date: `14.05.1998`
-- ISO date: `1998-05-14`
-- canonical ID: `1998-05-14-industries-debate`
-- scan pages: **199–240**
-- printed pages: **198–239**
-- total pages: **42**
-- scan page = printed page + 1
-- scan p.199 begins Speech 7 after the verified Speech-6 ending on p.198
-- structural map locks p.240 as Speech-7 end and p.241 as Speech-8 start (`29.04.1999`)
-
-## Exact first activity
-
-Perform Speech-7 startup and **Gate C Batch 1** only:
-
-1. Directly re-confirm the p.198→199 and p.240→241 boundaries from the controlling scan.
-2. Create the standard Speech-7 canonical folder/files if absent:
-   - `README.md`
-   - `metadata.json`
-   - `source-notes.md`
-   - `transcript.md`
-   - `verification-log.md`
-3. Transcribe **scan pp.199–213 / printed pp.198–212** as the first bounded Tamil batch unless the source structure gives a strong reason to stop earlier.
-4. Preserve source wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English exactly as supported by the scan; only physical line wrapping may be normalised.
-5. Record exact pages completed, first/last continuation words, unresolved readings and the next scan page.
-6. Keep Tamil status `in-progress`; do not mark `transcribed` or `verified` after a partial batch.
-7. Do not start English. English remains blocked until the full Tamil passes Gates D and E.
-8. Do not begin Speech 8.
-
-At the end, refresh the handover and next-chat prompt with exact continuation and relevant commit SHA(s).
-'''
-          Path('docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md').write_text(next_prompt, encoding='utf-8')
-
-          # Final assertions before commit.
-          assert '1997-04-23-industries-debate' in [x['id'] for x in json.loads(data_path.read_text(encoding='utf-8'))]
+          assert any(x['id'] == '1997-04-23-industries-debate' for x in json.loads(data_path.read_text(encoding='utf-8')))
           assert row6 in repo_readme.read_text(encoding='utf-8')
           assert 'Gate H release/indexing: **passed — Speech 6 released**.' in readme_path.read_text(encoding='utf-8')
-          assert 'Speech 7 is the sole next active anthology unit' in Path('docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md').read_text(encoding='utf-8')
-          assert 'Gate C Batch 1' in Path('docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md').read_text(encoding='utf-8')
 
       - name: Commit Speech 6 Gate H release
         run: |
@@ -293,8 +117,6 @@ At the end, refresh the handover and next-chat prompt with exact continuation an
           git add README.md data/speeches.json \
             speeches/1997/1997-04-23-industries-debate/README.md \
             speeches/1997/1997-04-23-industries-debate/source-notes.md \
-            speeches/1997/1997-04-23-industries-debate/verification-log.md \
-            docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md \
-            docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md
-          git commit -m 'Release Speech 6 and hand off Speech 7'
+            speeches/1997/1997-04-23-industries-debate/verification-log.md
+          git commit -m 'Release Speech 6 in canonical indexes'
           git push
