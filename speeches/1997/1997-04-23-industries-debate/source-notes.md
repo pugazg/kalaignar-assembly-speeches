@@ -30,7 +30,7 @@ For this speech: `PDF scan page = printed page + 1`.
 
 The opening boundary is visually explicit: scan p.172 / printed p.171 begins `உரை : 6`, `நாள் : 23.04.1997`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`.
 
-The ending boundary was directly re-inspected during Gate-C Batch 2: scan p.198 / printed p.197 contains the final Speech-6 response and `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).`, followed by the decorative ending ornament. Scan p.199 / printed p.198 begins Speech 7, `உரை : 7`, `14.05.1998`.
+The ending boundary was directly re-inspected during Gate-C Batch 2 and again for Gate D: scan p.198 / printed p.197 contains the final Speech-6 response and `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).`, followed by the decorative ending ornament. Scan p.199 / printed p.198 begins Speech 7, `உரை : 7`, `14.05.1998`.
 
 ## Gate C — Tamil first-pass transcription
 
@@ -86,11 +86,28 @@ Batch-2 explicit unreadable/`[REVIEW]` markers: **0**.
 - source-page sequence was assertion-checked as exactly **172–198**;
 - no p.199 / Speech-7 spillover was allowed by the assertion check;
 - explicit unreadable/`[REVIEW]` markers: **0**;
-- Tamil transcription status: **transcribed**, not verified;
-- Gate D full-speech completeness/page-marker audit: **not started**;
-- Gate E strict source-fidelity verification: **not started**;
-- English: **blocked** until Gates D and E have passed.
+- Tamil transcription status: **transcribed**, not verified.
+
+## Gate D — full-speech Tamil completeness/page-marker audit
+
+Status: **passed**.
+
+Gate D re-audited the complete Speech-6 unit against the locked structural map and the source-page structure. This was a completeness/structure audit, not the character-level source-fidelity audit reserved for Gate E.
+
+Audit results:
+
+- expected mapped source pages: **27**;
+- represented source pages: **27**, exactly **172–198**;
+- every page marker occurs once and the sequence is monotonic, with no skipped, duplicated or reordered page;
+- opening boundary matches scan p.172: `உரை : 6`, `நாள் : 23.04.1997`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`;
+- the source is a continuous Kalaignar speech after that opening speaker label; no separate later speaker-change heading appears in the mapped scan sequence;
+- printed contextual markers visible in the source, including `(மேசையைத் தட்டும் ஒலி)` and the p.197 `(சிரிப்பு)`, remain represented in the first pass;
+- p.198 contains the final reply and closing desk-thump, followed by the decorative ending ornament;
+- scan p.199 begins `உரை : 7`, `14.05.1998`, and no Speech-7 heading/date/page marker appears in the Speech-6 canonical transcript;
+- explicit unresolved/`[REVIEW]` markers: **0**.
+
+Gate D therefore passes. Tamil remains **transcribed**, not verified. No source wording was changed during Gate D.
 
 ## Next activity
 
-Proceed to **Gate D — full-speech Tamil completeness/page-marker audit** for scan pp.172–198 / printed pp.171–197. Gate D should confirm every mapped page is represented once and in order, the opening and closing boundaries match the locked map, all printed speaker changes/interventions are represented, and unresolved markers remain explicitly tracked. Do not start Gate E or English translation as part of Gate D unless separately requested.
+Proceed to **Gate E — strict Tamil visual/source-fidelity verification**. Start with a bounded direct page-by-page audit of **scan pp.172–186 / printed pp.171–185** against the controlling scan. Check words/characters, names, initials, dates, figures, percentages, monetary values, units, headings, punctuation where legible, embedded English, context markers and page transitions. Apply only source-supported corrections and document each one. English remains blocked until the complete Gate-E audit passes.
