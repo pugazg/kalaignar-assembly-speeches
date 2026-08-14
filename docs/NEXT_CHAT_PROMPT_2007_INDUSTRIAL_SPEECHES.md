@@ -23,55 +23,56 @@ Speeches **1–5** are fully released with verified Tamil and verified English. 
 - locked range: **scan pp.172–198 / printed pp.171–197**;
 - total mapped scan pages: **27**;
 - scan/printed relationship: **scan page = printed page + 1**;
-- Gate A: complete at anthology level;
-- Gate B: complete / locked;
 - Gate C Tamil first-pass transcription: **complete — 27/27 pages**;
 - Gate D completeness/page-marker audit: **passed**;
-- Tamil status: **transcribed**, not verified;
-- source-page markers: **27 markers, exactly 172–198**, no gaps, duplicates or reordering;
-- Speech-7/p.199 spillover: **none**;
+- Gate E strict visual/source-fidelity verification: **in progress**;
+- Gate E Batch 1: **complete — scan pp.172–186 / printed pp.171–185, 15/15 pages**;
+- total Gate-E coverage: **15/27 pages**;
+- Gate-E Batch-1 corrections: **4**;
 - explicit unreadable/`[REVIEW]` markers: **0**;
-- Gate E strict visual/source-fidelity verification: **not started**;
-- Gate F English: **blocked until Gate E passes**;
+- Tamil status: **transcribed, not fully verified**;
+- Gate F English: **blocked until Gate E passes completely**;
 - Gate G: not started;
 - Gate H: not started.
 
 Canonical folder: `speeches/1997/1997-04-23-industries-debate/`.
 
-## Gate D retained result
+## Gate E Batch 1 — completed state
 
-Gate D audited the complete Speech-6 transcript as a structural unit. It confirmed:
+Scan pp.172–186 were directly compared page-by-page with canonical `transcript.md`. Four source-supported corrections are now canonical:
 
-- every mapped scan page **172–198** is represented exactly once and in order;
-- the opening matches scan p.172: `உரை : 6`, `நாள் : 23.04.1997`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`;
-- the source remains one continuous Kalaignar speech after the opening speaker label, with no later separate speaker-change heading in the mapped pages;
-- printed contextual markers such as `(மேசையைத் தட்டும் ஒலி)` and p.197 `(சிரிப்பு)` remain represented;
-- p.198 ends with the Krishnagiri mango-factory assurance and `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).`, followed by the decorative ornament;
-- scan p.199 begins `உரை : 7`, dated `14.05.1998`, and no Speech-7 material is present in Speech 6;
-- unresolved/`[REVIEW]` markers remain **0**.
+1. p.173 `சென்னை எண்ணெய் சுத்திகரிப்பு நிறுவனம்` → `சென்னை எண்ணெய்ச் சுத்திகரிப்பு நிறுவனம்`;
+2. p.175 `உலக அளவிலான வீழ்ச்சி இல்லை` → `உலக அளவிலான விழுக்காடு வீழ்ச்சி இல்லை`;
+3. p.175 `'சிப்காட்'னுடைய` → `'சிப்காட்'டினுடைய`;
+4. p.177 `'சிப்காட்'ன் சார்பாக` → `'சிப்காட்'டின் சார்பாக`.
 
-Gate D made no wording changes. It proves completeness/structure only; Tamil remains `transcribed`, not `verified`.
+No unresolved readings remain in the audited batch.
 
-## Exact next action — Speech 6 Gate E Batch 1
+Source-supported unusual forms deliberately retained include `நாம் மிக அடுத்த நிலையிலே இருக்கிறோம்`, `'ஷைலக்'`, `'கொரமாண்டல் பாலிபேக்ஸ்'`, `Capital Subsidy`, `State Industries Promotion Corporation of Tamil Nadu`, `Small Industries Development Corporation`, `Joint Sector -லே`, `Associate Sector 11%`, `Electronic Corporation of Tamil Nadu`, the p.180–181 15-item industry list, `Economist Intelligence Unit`, `India uncaged`, `Seeking opportunities in the South`, `Industry-Friendly Policies`, and printed `transparent appoach`.
 
-Begin **strict page-by-page Tamil visual/source-fidelity verification** for **scan pp.172–186 / printed pp.171–185** only.
+The Batch-1 boundary remains source-supported: scan p.186 ends `அவற்றுள் சிலவற்றை`; scan p.187 begins `மாத்திரம் இங்கே உங்கள் முன்னால் வைக்க விரும்புகிறேன்.`
+
+## Exact next action — Speech 6 Gate E Batch 2
+
+Perform **strict page-by-page Tamil visual/source-fidelity verification for scan pp.187–198 / printed pp.186–197**.
 
 1. Re-read `docs/ARCHIVAL_WORKFLOW.md`, the handover, this prompt, `sources/2007-industrial-speeches/mapping.md`, and every Speech-6 canonical file.
-2. Use the rendered controlling scan pages 172–186 as authority; OCR/extracted text may only assist.
-3. Compare each page directly against canonical `transcript.md` for words/characters, names/initials, numerals, dates, percentages, monetary values, units, headings, opening speaker label, embedded English, transliterations, punctuation where legible, contextual markers and page transitions.
-4. Preserve unusual source spelling/wording when visually supported; do not silently modernise or repair source forms.
-5. Apply every source-supported correction to canonical `transcript.md` and itemise it in `verification-log.md`.
-6. Record explicitly confirmed unusual source forms and any unresolved readings.
-7. At the end of Batch 1, record exact verified range **172–186**, correction count, unresolved count, and the next Gate-E continuation page **187**.
-8. Update `metadata.json`, `README.md`, `source-notes.md`, `verification-log.md`, the handover and this prompt.
-9. Do not mark Tamil `verified` until Gate E covers the entire **172–198** range.
-10. Do not begin English translation; it remains blocked until Gate E passes completely.
+2. Render/inspect the controlling scan pages 187–198 directly; OCR/extracted text may only assist.
+3. Compare every page against canonical `transcript.md` for words/characters, names/initials, numerals, dates, percentages, monetary values, units, headings, embedded English, transliterated names, punctuation where legible, contextual markers and page transitions.
+4. Pay particular attention to the source forms already noted in Gate C: `(Flori-Culture)`, `ப்ளை ஆஷ்பேஸ்ட் பிளாக்ஸ்`, `Financial Time 10 ஏப்ரல் 1997`, the Mark Nicholson quotations, `Single Window Clearance`, `Industrial Township`, `Executive Authority`, `Load`, `(Seigniorage fee)`, `(Transport Permit)`, `(Technology Parks)`, `(Software Techno Parks)`, `L.N.G. (Liquified Natural Gas)`, the p.193 13-item bidder list, `விடிவுகாலம்`, `Singapore Indian Chamber of Commerce`, `(Window)`, `(Naphtha Crackers & Olefins)`, `(Bopp)`, `(Bisphenol-A)`, `(Siscal)`, `பல்க்டிரக் இண்டார்மீடியட்ஸ்`, `'டான்சம்'`, `(சிரிப்பு)`, and `விடேன் தொடேன்`.
+5. Apply only source-supported corrections to canonical `transcript.md` and itemise every correction in `verification-log.md`.
+6. Record explicitly confirmed unusual source forms and all unresolved readings.
+7. Re-confirm scan p.198 ends with `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).` plus the decorative ornament, and scan p.199 begins Speech 7 (`உரை : 7`, `14.05.1998`).
+8. If all remaining 12 pages pass with no unresolved readings, close Gate E, mark Tamil `verified` for the complete scan pp.172–198 / printed pp.171–197, and make Gate F English eligible. Do not begin Gate F unless proceeding as a separate next activity.
+9. Refresh `metadata.json`, `README.md`, `source-notes.md`, `verification-log.md`, this prompt and the handover.
+10. Do not modify released Speeches 1–5 or begin Speech 7.
 
-## Gate-D commits
+## Gate E Batch-1 commits
 
-- metadata Gate-D state — `60b8dd4c91593525ecf53e4ddbda911d28fd6923`;
-- Speech-6 README Gate-D state — `6e9056baeb6336354702ac2a0a12e356465c979e`;
-- source-notes Gate-D record — `60a6ffb4a6199d206fb869152fef99912aeb052f`;
-- verification-log Gate-D closure — `58a8be43b8c960a7ac7ed84bbeddc2edcf2325bf`.
-
-Gate C's assertion-checked canonical transcript commit remains `1266549a60a491ce1baa62f897a5f70e30e5aa8a`. No transcription wording was changed during Gate D.
+- first p.173 source correction — `555902e8f4e9d80935474053dc1d04dc6ade1c31`;
+- remaining transcript corrections + current archival note — `430ebeec01252e433ff32bb31def225133c2a177`;
+- verification log — `97638130ce3875421501885433fbde3a2b133aee`;
+- metadata — `e74570f227e644fbadd9f9b8efd44a8971d26861`;
+- Speech-6 README — `2eb80a1bdfcfca35d888baa41a52e328c59a87a1`;
+- source notes — `e3b3ea10c540d5c45f8948d394b08e79584d4e03`;
+- temporary finalize workflow removed — `72fe69747661ae5087f70a5909197d032b58faf0`.
