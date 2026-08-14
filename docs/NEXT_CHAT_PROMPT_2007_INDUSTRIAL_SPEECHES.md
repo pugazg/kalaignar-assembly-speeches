@@ -2,17 +2,18 @@
 
 Continue `pugazg/kalaignar-assembly-speeches` from `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` and follow `docs/ARCHIVAL_WORKFLOW.md`.
 
+## Source authority
+
+Controlling publication: `தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்`, first edition மே 2007.
+
+- PDF scan pages: **329**
+- file size: **217,124,211 bytes**
+- SHA-256: `c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370`
+- scan image is authoritative for Tamil; OCR/extracted text is only a helper.
+
 ## Released anthology state
 
-Speeches **1–5** are fully released with verified Tamil and verified English:
-
-- Speech 1 — `1963-03-21-industries-debate`, scan pp.18–26;
-- Speech 2 — `1981-04-16-industries-debate`, scan pp.27–61;
-- Speech 3 — `1989-05-03-industries-debate`, scan pp.62–98;
-- Speech 4 — `1990-04-18-industries-debate`, scan pp.99–135;
-- Speech 5 — `1996-08-14-industries-debate`, scan pp.136–171.
-
-Do not modify those released speeches absent a separately justified correction.
+Speeches **1–5** are fully released with verified Tamil and verified English. Do not modify them absent a separately justified correction.
 
 ## Active unit — Speech 6
 
@@ -22,60 +23,57 @@ Do not modify those released speeches absent a separately justified correction.
 - locked range: **scan pp.172–198 / printed pp.171–197**;
 - total mapped scan pages: **27**;
 - scan/printed relationship: **scan page = printed page + 1**;
-- Gate A source preflight: **complete at anthology level**;
-- Gate B structural mapping: **complete and locked**;
-- Gate C Tamil first-pass transcription: **in progress — Batch 1 complete, 15/27 pages**;
-- completed Gate-C pages: **scan pp.172–186 / printed pp.171–185**;
-- remaining Gate-C pages: **scan pp.187–198 / printed pp.186–197**;
-- current source-page markers: **172–186**, unique and monotonic;
-- explicit unreadable/`[REVIEW]` markers in Batch 1: **0**;
-- Tamil status: **in-progress**, not verified;
+- Gate A: complete at anthology level;
+- Gate B: complete / locked;
+- Gate C Tamil first-pass transcription: **complete — 27/27 pages**;
+- Tamil status: **transcribed**, not verified;
+- source-page markers: **172–198**, assertion-checked as exact, unique and monotonic;
+- explicit unreadable/`[REVIEW]` markers: **0**;
 - Gate D: **not started**;
 - Gate E: **not started**;
-- Gate F English translation: **blocked until complete Tamil passes Gates D and E**;
-- Gate G: **not started**;
-- Gate H: **not started**.
+- Gate F English: **blocked until Gates D and E pass**;
+- Gate G: not started;
+- Gate H: not started.
 
-Canonical Speech-6 folder now exists at `speeches/1997/1997-04-23-industries-debate/` with `README.md`, `metadata.json`, `source-notes.md`, `transcript.md`, and `verification-log.md`.
+Canonical folder: `speeches/1997/1997-04-23-industries-debate/`.
 
-## Gate C Batch 1 retained state
+## Gate C retained state
 
-Batch 1 directly transcribed **scan pp.172–186 / printed pp.171–185** from rendered images of the controlling scan.
+Batch 1 covered scan pp.172–186 / printed pp.171–185. Batch 2 covered scan pp.187–198 / printed pp.186–197.
 
-The first pass preserves source wording, historical spelling, punctuation where legible, numerals, figures, headings, speaker/context labels, interventions and embedded English. It includes the public-sector discussion, export/W.T.O. figures, SIPCOT/SIDCO/TIDCO/ELCOT history, the p.180–181 15-item joint-sector list, North Chennai Thermal Power Station, industrial-estate discussion, granite/minor-mineral tender policy, and the p.185–186 *Economist Intelligence Unit* passage.
+The p.186→187 continuation is:
 
-Printed English/source forms retained include `Capital Subsidy`, `State Industries Promotion Corporation of Tamil Nadu`, `World Trade Organisation (W.T.O.)`, `Small Industries Development Corporation`, `Joint Sector`, `Associate Sector`, `Electronic Corporation of Tamil Nadu`, `Economist Intelligence Unit`, `India uncaged`, `Seeking opportunities in the South`, `Industry-Friendly Policies`, and the source form `transparent appoach`.
+- p.186 ends `அவற்றுள் சிலவற்றை`
+- p.187 begins `மாத்திரம் இங்கே உங்கள் முன்னால் வைக்க விரும்புகிறேன்.`
 
-### Exact continuation
+Batch 2 retained source-supported wording and printed English rather than silently correcting it, including `Financial Time 10 ஏப்ரல் 1997`, the Mark Nicholson car-industry quotations, `Single Window Clearance`, `Industrial Township`, `Executive Authority`, `(Seigniorage fee)`, `(Transport Permit)`, `(Technology Parks)`, `(Software Techno Parks)`, `L.N.G. (Liquified Natural Gas)`, the complete 13-item LNG bidder list, `Singapore Indian Chamber of Commerce`, `(Naphtha Crackers & Olefins)`, `(Bopp)`, `(Bisphenol-A)`, `(Siscal)`, and source Tamil forms such as `விடிவுகாலம்`, `பல்க்டிரக் இண்டார்மீடியட்ஸ்`, and `விடேன் தொடேன்`.
 
-Scan p.186 / printed p.185 ends:
+Final boundary is visually confirmed: scan p.198 ends Speech 6 with `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).` followed by the decorative ornament. Scan p.199 begins `உரை : 7`, `14.05.1998`. No Speech-7 text belongs in Speech 6.
 
-`அவற்றுள் சிலவற்றை`
+## Exact next action — Speech 6 Gate D
 
-Scan p.187 / printed p.186 begins:
+Perform **full-speech Tamil completeness/page-marker audit** only. Do not start Gate E or English in the same activity.
 
-`மாத்திரம் இங்கே உங்கள் முன்னால் வைக்க விரும்புகிறேன்.`
+1. Re-read `docs/ARCHIVAL_WORKFLOW.md`, the handover, this prompt, `sources/2007-industrial-speeches/mapping.md`, and every Speech-6 canonical file.
+2. Audit canonical `transcript.md` across the full locked range scan pp.172–198.
+3. Confirm exactly 27 source-page markers, exactly **172–198**, with no duplicate, gap, reordering or p.199 marker.
+4. Confirm the opening matches scan p.172 (`உரை : 6`, `நாள் : 23.04.1997`) and the ending matches scan p.198, with p.199 beginning Speech 7.
+5. Confirm all printed speaker changes/interventions/desk-thump or other contextual markers represented in the first pass remain represented through the final page.
+6. Confirm unresolved/`[REVIEW]` marker count and record it explicitly.
+7. If Gate D passes, update Speech-6 `metadata.json`, `README.md`, `source-notes.md`, and `verification-log.md` to record Gate D passed while Tamil remains **transcribed**, not verified.
+8. Refresh this prompt and the handover with Gate-D commits and set the exact next activity to **Gate E — strict page-by-page Tamil visual/source-fidelity verification**.
+9. English remains blocked until Gate E passes.
 
-The p.187 line was inspected only to establish continuity and has **not yet** been added to canonical `transcript.md`.
+## Gate-C Batch-2 commits
 
-## Exact next action — Speech 6 Gate C Batch 2
+- temporary application workflow created — `62ae30a9107e95373ef0c105deb42a9660b7fea3`;
+- Batch-2 staging file created — `de69f5c5ef4d97a41379685f3cb2738ecd8c85ec`;
+- assertion-checked canonical transcript / staging removal — `1266549a60a491ce1baa62f897a5f70e30e5aa8a`;
+- temporary workflow removed — `cdbf29dad7ebc181bcd35ca9dc53732db328904d`;
+- metadata marked Gate-C complete — `ca5abf2f5ce23093f0b917e15239a83dcceb9c7f`;
+- Speech-6 README Gate-C completion — `f80aba3725e84962c0a067b06ff3f0dcf42e645e`;
+- source notes Batch-2 / Gate-C record — `f47dceb20bd3abb5c16b2e9257a781fbd319e401`;
+- verification-log Gate-C closure — `ac2bdf4574c0dad7cb014478d373b5de044ffad6`;
+- verification-log assertion-notation fix — `6500a89199cd2a161372ae7d196cc7b7b29dc15e`.
 
-Complete the remaining **12 pages**, scan pp.187–198 / printed pp.186–197.
-
-1. Re-read `docs/ARCHIVAL_WORKFLOW.md`, the handover, this prompt, all Speech-6 tracking files and `sources/2007-industrial-speeches/mapping.md`.
-2. Render and inspect scan pp.187–198 directly from the controlling PDF; the scan image remains authoritative.
-3. Continue the p.186 sentence exactly from `அவற்றுள் சிலவற்றை` into p.187.
-4. Append explicit `<!-- source-page: 187 -->` through `<!-- source-page: 198 -->` markers and transcribe all remaining source text.
-5. Preserve source wording, historical spelling, punctuation, numerals, names, headings, interventions and printed English. Mark uncertainty rather than guessing.
-6. Confirm the closing boundary on p.198 and that scan p.199 begins Speech 7 (`உரை : 7`, `14.05.1998`).
-7. After all **27/27** Speech-6 pages are represented, update `metadata.json`, `README.md`, `source-notes.md`, and `verification-log.md` to Gate-C complete / Tamil `transcribed` as appropriate.
-8. Then the exact next gate is **Gate D — full-speech completeness/page-marker audit**. Do not start Gate E or English translation in the same first-pass activity unless separately requested.
-
-## Gate-C Batch-1 commits
-
-- canonical Tamil transcript, scan pp.172–186 — `c7868e2a823bb414db06944f1da4c799fa0a3f43`;
-- metadata / Gate-C progress — `4969c29e39185696cb3ed8289802d18c0597813b`;
-- Speech-6 README — `72a39a311e495e7407b1a01787a9aa5528fadf6c`;
-- source notes — `7405f636200b4c48e42e8b90461d562ceed1a9dc`;
-- verification log — `bb08fb1f97ec913928a16fb8e660461de3c4f7f4`;
-- handover updated for Batch 1 — `a24965898334df8f2f061b0b3a0f5c48abf1de9c`.
+All temporary Batch-2 workflow/staging artifacts were removed after the successful assertion-checked transcript update.
