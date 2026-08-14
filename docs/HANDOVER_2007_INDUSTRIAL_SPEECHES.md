@@ -31,42 +31,50 @@ The opening and closing boundaries were re-confirmed directly from the controlli
 
 - scan pages: **241–255**
 - printed pages: **240–254**
-- completed count: **15/37 pages**
+- page count: **15**
+
+### Batch 2 — complete
+
+- scan pages: **256–270**
+- printed pages: **255–269**
+- page count: **15**
+- canonical merge commit: `1da567dc66d89847bfa10704254d8bf9e3c8b46a`
+
+### Current cumulative state
+
 - canonical path: `speeches/1999/1999-04-29-industries-debate/`
+- Gate C coverage: **scan pp.241–270 / printed pp.240–269 — 30/37 pages**
+- next scan page: **271**
 - Tamil status: **in-progress, not verified**
 - unresolved/`[REVIEW]` readings: **0**
 - Gate D: not started
 - Gate E: not started
 - English: blocked
 
-Batch-1 transcript checkpoint:
+Batch-2 status checkpoints:
 
-- `6203b66c7f81b6a17e1ee192ccb98460f9bd551e`
-
-Companion-file checkpoints:
-
-- README: `44843a474677b49f7e9187780a7005236b46cd14`
-- metadata: `5ce1fb2c3f2daaca8e48bc84c21dc269b059f014`
-- source notes: `141770eb22c9831017bc8e6170ac1a2e051fb54b`
-- verification log: `18ef85c24a0c311ebb1abf31247b89a072cff3b7`
+- canonical transcript: `1da567dc66d89847bfa10704254d8bf9e3c8b46a`
+- metadata: `663c22600647a276b9d1dd606c4e02ff7bc3497a`
+- README: `2671f02e015c2ba776a30218eb1cfd6243532111`
+- source notes: `c1a29fad8327b54e51014e48137c36e18cde80f2`
+- verification log: `8d6229157ff0a767e8a1f02164cba8bf7de7d178`
 
 ## Exact continuation lock
 
-Scan p.255 ends after the Salem Steel Plant / 24 MPs / Indira Gandhi passage with:
+Scan p.270 ends:
 
-`...24 நாடாளுமன்ற உறுப்பினர்களும் அன்றைக்குப் பயன்படுத்தப்பட்டார்கள் என்பதை உங்களுக்குத் தெரிவிப்பதற்காகத்தான் இதைச் சொல்கிறேன்.`
+`...தமிழகம் முழுவதும் இணைய மயமாக ஆகின்ற அந்த விஞ்ஞானப் புதுமையையும் இந்த அரசு உங்கள் ஆதரவோடு செய்து காட்டும் என்பதை நான் தெரிவித்துக் கொள்கிறேன். (மேசையைத் தட்டும் ஒலி).`
 
-Scan p.256 begins:
+Scan p.271 begins:
 
-`இந்தக் காலகட்டத்திலேதான் ஆலங்குளம் சிமெண்ட் தொழிற்சாலையும் அமைக்கப்பட்டது.`
+`கணினிப் பயன்பாடுகளில் உலக அளவில் போதுமான தமிழ் குறியீடுகள் இல்லாத குறையைப் போக்குவதற்காகத்தான் “தமிழ்நெட் 1999” என்ற ஒரு மாநாட்டை நாம் நடத்தினோம்.`
 
-## Exact next activity — Speech 8 Gate C Batch 2
+## Exact next activity — Speech 8 final Gate C Batch 3
 
 1. Continue the canonical `transcript.md`; do not create a duplicate Speech-8 entry.
-2. Transcribe **scan pp.256–270 / printed pp.255–269** directly from rendered scan images.
+2. Transcribe **scan pp.271–277 / printed pp.270–276** directly from rendered scan images.
 3. Preserve source-supported wording, spelling, punctuation, numerals, names, technical terms, speaker changes/interventions and printed English. Mark uncertainty rather than guessing.
-4. Record the exact p.270 ending and p.271 continuation point.
-5. Update Speech-8 metadata/README/source notes/verification log and this handover after the bounded batch.
-6. Keep Tamil `in-progress, not verified`; Gate D and Gate E have not started.
-7. Do not begin English.
-8. Do not enter scan p.278 / Speech 9.
+4. Stop exactly at the Speech-8 closing boundary on scan p.277. Do not enter p.278 / Speech 9.
+5. After Batch 3, reconcile metadata/README/source notes/verification log and mark Gate C complete at **37/37 pages**, but do **not** mark Tamil verified.
+6. Then perform the separate Gate D full-speech completeness/page-marker audit before Gate E.
+7. Do not begin English until Gate E passes.
