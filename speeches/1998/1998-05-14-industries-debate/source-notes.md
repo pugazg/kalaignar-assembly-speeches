@@ -52,29 +52,35 @@ Correction commit: `4c42c979f087a78cdaeef3e96a12506bcdd7693e`.
 
 Status: **passed**.
 
-All 15 pages were re-read against rendered scan images. Two definite canonical corrections were identified and applied:
+Two definite canonical corrections were identified and applied:
 
-1. **scan p.214 / printed p.213** — the Hyundai land-allotment figure is printed as `532 ஏக்கர்`; canonical `552 ஏக்கர்` was corrected to `532 ஏக்கர்`.
-2. **scan p.227 / printed p.226** — the printed Japanese-company transliteration reads `ப்யூஜிகுரா லிமிடெட்`; canonical `புயூஜிகுரா லிமிடெட்` was corrected accordingly.
-
-The corrected forms were visually rechecked. No additional definite canonical correction was identified on scan pp.215–226 or 228 in this pass. In particular, helper-OCR alternatives were not substituted where the scan supported the existing unusual printed form. OCR remained non-authoritative throughout.
+1. **scan p.214 / printed p.213** — `552 ஏக்கர்` → `532 ஏக்கர்` for the Hyundai land allotment.
+2. **scan p.227 / printed p.226** — `புயூஜிகுரா லிமிடெட்` → `ப்யூஜிகுரா லிமிடெட்`.
 
 Batch-2 correction commit: `2ae1963b7d9c5dde4a96eb5ff8b8affbaf3a6693`.
 
-### Gate-E current state
+### Batch 3 — scan pp.229–240 / printed pp.228–239
 
-- audited scan pages: **199–228**;
-- audited printed pages: **198–227**;
-- audited count: **30/42**;
+Status: **passed; no additional canonical correction required**.
+
+All final 12 pages were re-read directly from rendered scan images. The source-sensitive project/company names, figures, dates, printed English, IT/software/Y2K passages, intervention labels, contextual markers and cross-page continuities were checked. The p.240 closing sequence—including the full printed `THIRU B. VENKATASAMY` intervention and final Tamil exchange—was directly compared with the scan. No definite discrepancy requiring a canonical text change was identified. Scan p.241 / Speech 8 was not included.
+
+Batch-3 unresolved/`[REVIEW]` readings: **0**.
+
+### Gate-E page-audit state
+
+- audited scan pages: **199–240**;
+- audited printed pages: **198–239**;
+- audited count: **42/42**;
 - cumulative Gate-E corrections: **5**;
 - unresolved/`[REVIEW]` readings: **0**;
-- next source page: **scan p.229 / printed p.228**;
-- Tamil status: **transcribed, not verified**;
-- full-speech Gate E: **in progress**;
+- unaudited Speech-7 pages: **0**;
+- Tamil status: **transcribed, not yet formally verified**;
+- Gate E: **pending a separate full-speech closure check**;
 - English: **blocked**.
 
 ## Next source work
 
-Run **Gate E Batch 3** over the remaining Speech-7 range **scan pp.229–240 / printed pp.228–239**. Compare every remaining page directly with the scan, preserve source-supported unusual forms, record and apply only definite source-supported corrections, and stop at the p.240 Speech-7 boundary. Do not enter p.241 / Speech 8.
+Run the **full Gate-E closure check** over the complete Speech-7 canonical unit. Reconcile the three batch records, confirm all five corrections are canonically present, verify zero unresolved readings, exact page markers 199–240, no p.241 spillover, intact opening and closing boundaries, printed English representation and status consistency across the canonical files.
 
-Only when all 42 pages have passed Gate E may the Tamil be marked verified and English begin.
+Only after that closure check passes may Tamil be marked verified and English Gate F begin.
