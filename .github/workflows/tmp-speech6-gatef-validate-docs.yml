@@ -1,0 +1,62 @@
+name: Temporary Speech 6 Gate F Validate Docs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/tmp-speech6-gatef-validate-docs.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  validate-and-document:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Validate Gate F source-page structure and update docs
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          translation = Path('speeches/1997/1997-04-23-industries-debate/translation.md')
+          text = translation.read_text(encoding='utf-8')
+          pages = [int(x) for x in re.findall(r'^### Source page (\d+)$', text, flags=re.M)]
+          expected = list(range(172, 199))
+          if pages != expected:
+              raise SystemExit(f'Unexpected Gate F source-page headings: {pages}')
+          if '[REVIEW]' in text:
+              raise SystemExit('Unexpected [REVIEW] marker in Gate F translation')
+          if 'Gate F is **complete**' not in text:
+              raise SystemExit('Gate F completion note missing from translation.md')
+          if '### Source page 199' in text:
+              raise SystemExit('Speech 7 spillover detected in translation.md')
+
+          source_notes = Path('speeches/1997/1997-04-23-industries-debate/source-notes.md')
+          src = source_notes.read_text(encoding='utf-8')
+          marker = '## Next activity\n\nProceed to **Gate F — English translation from the final verified Tamil**.'
+          pos = src.rfind(marker)
+          if pos < 0:
+              raise SystemExit('Gate F source-notes continuation marker not found')
+          src = src[:pos] + '''## Gate F — English translation\n\nStatus: **complete; English not yet verified**.\n\nA complete first-pass English translation was produced in [`translation.md`](./translation.md) exclusively from the final Gate-E-verified Tamil in canonical `transcript.md`. The translation contains exactly **27 source-page sections, 172–198**, in source order. A structural assertion checked that the headings are exactly 172, 173, …, 198, that no p.199/Speech-7 section is present, and that no `[REVIEW]` marker is present.\n\nThe Gate-F translation preserves the parliamentary sequence, names and figures, technical terminology, lists, humour/context markers and source claims. Printed English already embedded in the Tamil source was reproduced in source form rather than silently repaired; deliberate examples include `Financial Time`, `Bernard Fintlay`, `transparent appoach`, `Liquified Natural Gas`, the Mark Nicholson quotations/headline, `Single Window Clearance`, `Industrial Township`, `Executive Authority`, `(Seigniorage fee)`, `(Transport Permit)`, `(Technology Parks)`, `(Software Techno Parks)`, and the LNG bidder list.\n\nGate-F result:\n\n- translated source pages: **172–198**, **27/27**;\n- source-page correspondence: **complete and structurally asserted**;\n- unresolved translation questions recorded at Gate F: **0**;\n- English status: **complete, unverified**;\n- `verified_against_tamil`: **false** until Gate G passes.\n\nGate F does not confer English verification.\n\n## Next activity\n\nProceed to **Gate G — full English fidelity verification against the final verified Tamil**. Re-read every English source-page section 172–198 against canonical verified Tamil, correct omissions/additions/mistranslations and inconsistencies in names, figures, technical terms, quotations, anomalies and page boundaries, and record every correction. Only after Gate G passes may English be marked `verified` and incorporated after the Tamil source layer in canonical `transcript.md`. Do not begin Speech 7 or Gate-H root index/release work yet.\n'''
+          source_notes.write_text(src, encoding='utf-8')
+
+          vlog = Path('speeches/1997/1997-04-23-industries-debate/verification-log.md')
+          v = vlog.read_text(encoding='utf-8')
+          vmarker = '## Exact next activity — Gate F English translation'
+          vpos = v.rfind(vmarker)
+          if vpos < 0:
+              raise SystemExit('Gate F verification-log continuation marker not found')
+          v = v[:vpos] + '''## Gate F — English translation\n\nStatus: **complete; not yet verified**.\n\nA complete first-pass English rendering was created in [`translation.md`](./translation.md) from the **final verified Tamil**, covering every source page **172–198**. Gate F did not use OCR or an earlier Tamil draft as its translation authority.\n\n### Gate-F structural assertions\n\n- expected English source-page headings: **27**;\n- actual English source-page headings: **27**;\n- exact heading sequence: **172–198**;\n- missing / duplicate / reordered headings: **0 / 0 / 0**;\n- p.199 / Speech-7 spillover: **absent**;\n- `[REVIEW]` markers in working English: **0**;\n- unresolved translation questions recorded at this gate: **0**.\n\n### Translation-fidelity principles used\n\nThe first-pass English preserves argumentative and parliamentary sequence, source claims, names, dates, percentages, rupee values, acreage, megawatts, technical terms, the p.180–181 15-item Joint Sector list, the p.193 13-item LNG bidder list, and contextual markers such as desk-thumping and laughter. Printed English passages already present in the Tamil source are reproduced in source form, including visible anomalies such as `Financial Time`, `Bernard Fintlay`, `transparent appoach`, and `Liquified Natural Gas`; Gate F does not silently repair them from outside knowledge.\n\n### Gate-F result\n\n- translated pages: **27/27**, scan pp.172–198 / printed pp.171–197;\n- working file: `translation.md`;\n- English status: **complete-unverified**;\n- `verified_against_tamil`: **false**;\n- Gate G: **required**.\n\n## Exact next activity — Gate G English fidelity verification\n\nRe-read **all 27 English source-page sections, 172–198**, against the final verified Tamil in canonical `transcript.md`. Check completeness, additions/omissions, page-boundary continuity, names/initials, figures, dates, percentages, monetary values/units, technical and industrial terminology, quotations, printed English passages, source anomalies, humour/context markers and the final p.198 closing. Apply and itemise every correction in this log. Only after the complete comparison passes may English be marked `verified` and merged after the Tamil source layer in canonical `transcript.md`. Do not begin Speech 7 or Gate-H release/index work yet.\n'''
+          vlog.write_text(v, encoding='utf-8')
+      - name: Commit Gate F documentation
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add speeches/1997/1997-04-23-industries-debate/source-notes.md speeches/1997/1997-04-23-industries-debate/verification-log.md
+          git diff --cached --check
+          git commit -m 'Record Speech 6 Gate F translation completion'
+          git push
