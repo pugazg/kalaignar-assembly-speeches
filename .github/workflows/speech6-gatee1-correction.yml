@@ -1,0 +1,50 @@
+name: Apply Speech 6 Gate E Batch 1 Correction
+
+on:
+  push:
+    paths:
+      - '.github/workflows/speech6-gatee1-correction.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply verified source correction
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path('speeches/1997/1997-04-23-industries-debate/transcript.md')
+          text = path.read_text(encoding='utf-8')
+
+          old = 'சென்னை எண்ணெய் சுத்திகரிப்பு நிறுவனம்'
+          new = 'சென்னை எண்ணெய்ச் சுத்திகரிப்பு நிறுவனம்'
+          count = text.count(old)
+          if count != 1:
+              raise SystemExit(f'Expected exactly one source correction target, found {count}')
+          text = text.replace(old, new, 1)
+
+          markers = [int(x) for x in re.findall(r'<!-- source-page: (\d+) -->', text)]
+          if markers != list(range(172, 199)):
+              raise SystemExit(f'Unexpected source-page markers: {markers}')
+          if '<!-- source-page: 199 -->' in text or '**உரை : 7**' in text or 'நாள் : 14.05.1998' in text:
+              raise SystemExit('Speech 7 spillover detected')
+          if '[REVIEW]' in text:
+              raise SystemExit('Unexpected unresolved REVIEW marker')
+
+          path.write_text(text, encoding='utf-8')
+          PY
+      - name: Commit correction
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add speeches/1997/1997-04-23-industries-debate/transcript.md
+          git commit -m 'Apply Speech 6 Gate E batch 1 correction'
+          git push
