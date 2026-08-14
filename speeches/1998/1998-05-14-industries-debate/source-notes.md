@@ -30,7 +30,7 @@ The PDF attached for this session was independently checked before transcription
 
 For this speech: `PDF scan page = printed page + 1`.
 
-The boundaries were directly re-confirmed from the controlling scan in this session:
+The boundaries were directly re-confirmed from the controlling scan:
 
 - scan p.198 / printed p.197 closes Speech 6 with its final paragraph, `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).`, and the decorative ending ornament;
 - scan p.199 / printed p.198 begins `உரை : 7`, `நாள் : 14.05.1998`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`;
@@ -45,44 +45,63 @@ No boundary changed from the locked anthology map.
 
 Status: **completed first pass; Speech 7 remains in progress**.
 
-All **15** pages were transcribed directly from rendered images of the controlling scan. The source-page markers are exactly **199–213**, unique and monotonic.
-
-The batch preserves, as printed:
-
-- the `உரை : 7` / `நாள் : 14.05.1998` heading and opening speaker label;
-- requests and interventions concerning sandalwood, coconut, spinning, rubber, Pennagaram, Arakkonam and sugar industries;
-- Tamil Nadu Steel / Arakkonam figures and discussion of `Steel Melting Shop`, `Re-rolling Mill`, `administered price` and `Twisting`;
-- the printed p.201 form `பாட்டாளி மக்கள் கட்சி 1-இன்` without silently repairing it;
-- the printed `பி ஆண்டு சி மில்` wording and `ரூ. 1.25 இலட்சம் பிளஸ் கிராஜூட்டி`;
-- TIDCO profit figures and co-operative/public-sector sugar-mill loss and cane-price passages;
-- repeated `(மேசையைத் தட்டும் ஒலி)` where printed;
-- the p.208 *Business India* English passage exactly as printed, including `Tom, Tick and Harry` and `has reported to put off`;
-- the p.209 source forms `Economic Intelligency Unit`, `Research Unit`, `India Uncaged`, `Seeking opportunities in the South`, and the printed English corruption quotation;
-- the public-sector company list on pp.210–211, including source forms `சதான் ஸ்ட்ரக்சரல்ஸ்`, `(டாமின்)`, `(எல்காட்)` and `(டாசிக்)`;
-- SIPCOT establishment/growth figures for Ranipet, Hosur, Pudukkottai and Gummidipoondi;
-- p.212 `Third mine cut`, `6,100 கோடி`, `எம்.ஆர்.எல்.` and `1,200 கோடி`.
-
-The first pass deliberately does not use external knowledge to repair source spellings, company names, English quotations, political claims or institutional names.
+All **15** pages were transcribed from rendered images of the controlling scan. The source-page markers are exactly **199–213**, unique and monotonic.
 
 Batch-1 explicit unreadable/`[REVIEW]` markers: **0**.
 
-### Batch 1 boundary
+Two post-write Gate-C typing corrections were rechecked directly against the scan and applied to canonical `transcript.md`:
 
-The first batch stops at the physical end of scan p.213 / printed p.212 with:
+1. scan p.202 `அந்த இடைப்பட்ட தொகைவை` → `அந்த இடைப்பட்ட தொகையை`;
+2. scan p.207 `அதிகே மிகுந்த எச்சரிக்கையோடு` → `அதிலே மிகுந்த எச்சரிக்கையோடு`.
 
-`மேலும், எண்ணெய்க் கசடு`
+These do not constitute Gate E.
 
-The next scan page is **214** / printed p.213. The sentence continues there and must be preserved when Batch 2 is appended.
+### Batch 2 — scan pp.214–228 / printed pp.213–227
+
+Status: **completed first pass; Speech 7 remains in progress**.
+
+All **15** pages were read from rendered scan images. OCR was used only as a secondary helper on some image-based pages; source-supported readings were taken from the scan image.
+
+The p.213→214 continuation was preserved:
+
+- scan p.213 ends `மேலும், எண்ணெய்க் கசடு`;
+- scan p.214 begins `வருகிறதே, அதிலேயிருந்து மின்சாரம் தயாரிக்கலாம், 250`.
+
+Batch 2 covers:
+
+- the proposed 250 MW generation from refinery residue;
+- SIPCOT industrial-estate development at Cheyyar, Irungattukottai, Gummidipoondi, Sriperumbudur, Nemili and Vadamangalam;
+- investment/export figures and the printed *Business Today* `Objective / Perception / Rank` discussion;
+- foreign-direct-investment figures and the source's stated social/economic effects;
+- the Salem integrated steel/power proposal and the printed list of 15 short-term power projects;
+- Hyundai Motor India and subsequent TIDCO/SIPCOT industrial projects through the `Frozen French Fries` proposal.
+
+Source-supported printed English/company forms retained include `Business Today`, `Objective`, `Perception`, `Rank`, `Integrated Iron and Steel Plant`, `Rynex International`, `Fenner Refineries Limited`, `Hi-Tech Technology Industrial Park (TNFAC)`, `Axes Technologies`, `Mahindra Industries Park Limited`, `Mahindra Reality and Infrastructural Development Limited`, `ILFS`, `Tamil Nadu Toll Road Management Company Ltd.`, `Telecommunication Consultant India Limited`, `MCC Scrab Agro Limited`, `Metal Halide Lamp`, `Advanced Lighting Technology`, `Axes Technology`, `Tauraus Novelties Limited`, `Srivathsan and Associates`, `dolomite`, `stoneware`, `Pioneer Breeding Farms`, and `Frozen French Fries`.
+
+The first pass deliberately does not use outside knowledge to repair source spellings, transliterations, company names, figures or political/factual claims.
+
+Batch-2 explicit unreadable/`[REVIEW]` markers: **0**.
+
+### Batch 2 boundary
+
+Scan p.228 / printed p.227 ends:
+
+`இதற்கான ஒப்பந்தம் 7-1-1998 அன்று கையெழுத்தானது.`
+
+Direct inspection of scan p.229 / printed p.228 shows the next section begins:
+
+`PVC foamed sheets -செயற்கை மரப்பொருள் திட்டம்.`
 
 ### Gate-C current state
 
-- represented scan pages: **15/42**, exactly **199–213**;
-- represented printed pages: **198–212**;
-- source-page markers for the completed batch: **199–213**, exact, unique and monotonic;
+- represented scan pages: **30/42**, exactly **199–228**;
+- represented printed pages: **198–227**;
+- source-page markers for completed work: **199–228**, intended exact, unique and monotonic;
 - explicit unreadable/`[REVIEW]` markers: **0**;
 - Tamil transcription status: **in-progress**;
+- next source page: **scan p.229 / printed p.228**;
 - Gate D: **not started**;
 - Gate E: **not started**;
 - English: **blocked**.
 
-No scan p.214 text has been included in Batch 1, and no Speech-8 material is present.
+No Speech-8 material is present. The remaining Gate-C range is scan pp.229–240 / printed pp.228–239.
