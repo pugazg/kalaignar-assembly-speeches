@@ -26,54 +26,52 @@ Speeches **1–5** are fully released with verified Tamil and verified English. 
 - Gate A: complete at anthology level;
 - Gate B: complete / locked;
 - Gate C Tamil first-pass transcription: **complete — 27/27 pages**;
+- Gate D completeness/page-marker audit: **passed**;
 - Tamil status: **transcribed**, not verified;
-- source-page markers: **172–198**, assertion-checked as exact, unique and monotonic;
+- source-page markers: **27 markers, exactly 172–198**, no gaps, duplicates or reordering;
+- Speech-7/p.199 spillover: **none**;
 - explicit unreadable/`[REVIEW]` markers: **0**;
-- Gate D: **not started**;
-- Gate E: **not started**;
-- Gate F English: **blocked until Gates D and E pass**;
+- Gate E strict visual/source-fidelity verification: **not started**;
+- Gate F English: **blocked until Gate E passes**;
 - Gate G: not started;
 - Gate H: not started.
 
 Canonical folder: `speeches/1997/1997-04-23-industries-debate/`.
 
-## Gate C retained state
+## Gate D retained result
 
-Batch 1 covered scan pp.172–186 / printed pp.171–185. Batch 2 covered scan pp.187–198 / printed pp.186–197.
+Gate D audited the complete Speech-6 transcript as a structural unit. It confirmed:
 
-The p.186→187 continuation is:
+- every mapped scan page **172–198** is represented exactly once and in order;
+- the opening matches scan p.172: `உரை : 6`, `நாள் : 23.04.1997`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`;
+- the source remains one continuous Kalaignar speech after the opening speaker label, with no later separate speaker-change heading in the mapped pages;
+- printed contextual markers such as `(மேசையைத் தட்டும் ஒலி)` and p.197 `(சிரிப்பு)` remain represented;
+- p.198 ends with the Krishnagiri mango-factory assurance and `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).`, followed by the decorative ornament;
+- scan p.199 begins `உரை : 7`, dated `14.05.1998`, and no Speech-7 material is present in Speech 6;
+- unresolved/`[REVIEW]` markers remain **0**.
 
-- p.186 ends `அவற்றுள் சிலவற்றை`
-- p.187 begins `மாத்திரம் இங்கே உங்கள் முன்னால் வைக்க விரும்புகிறேன்.`
+Gate D made no wording changes. It proves completeness/structure only; Tamil remains `transcribed`, not `verified`.
 
-Batch 2 retained source-supported wording and printed English rather than silently correcting it, including `Financial Time 10 ஏப்ரல் 1997`, the Mark Nicholson car-industry quotations, `Single Window Clearance`, `Industrial Township`, `Executive Authority`, `(Seigniorage fee)`, `(Transport Permit)`, `(Technology Parks)`, `(Software Techno Parks)`, `L.N.G. (Liquified Natural Gas)`, the complete 13-item LNG bidder list, `Singapore Indian Chamber of Commerce`, `(Naphtha Crackers & Olefins)`, `(Bopp)`, `(Bisphenol-A)`, `(Siscal)`, and source Tamil forms such as `விடிவுகாலம்`, `பல்க்டிரக் இண்டார்மீடியட்ஸ்`, and `விடேன் தொடேன்`.
+## Exact next action — Speech 6 Gate E Batch 1
 
-Final boundary is visually confirmed: scan p.198 ends Speech 6 with `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).` followed by the decorative ornament. Scan p.199 begins `உரை : 7`, `14.05.1998`. No Speech-7 text belongs in Speech 6.
-
-## Exact next action — Speech 6 Gate D
-
-Perform **full-speech Tamil completeness/page-marker audit** only. Do not start Gate E or English in the same activity.
+Begin **strict page-by-page Tamil visual/source-fidelity verification** for **scan pp.172–186 / printed pp.171–185** only.
 
 1. Re-read `docs/ARCHIVAL_WORKFLOW.md`, the handover, this prompt, `sources/2007-industrial-speeches/mapping.md`, and every Speech-6 canonical file.
-2. Audit canonical `transcript.md` across the full locked range scan pp.172–198.
-3. Confirm exactly 27 source-page markers, exactly **172–198**, with no duplicate, gap, reordering or p.199 marker.
-4. Confirm the opening matches scan p.172 (`உரை : 6`, `நாள் : 23.04.1997`) and the ending matches scan p.198, with p.199 beginning Speech 7.
-5. Confirm all printed speaker changes/interventions/desk-thump or other contextual markers represented in the first pass remain represented through the final page.
-6. Confirm unresolved/`[REVIEW]` marker count and record it explicitly.
-7. If Gate D passes, update Speech-6 `metadata.json`, `README.md`, `source-notes.md`, and `verification-log.md` to record Gate D passed while Tamil remains **transcribed**, not verified.
-8. Refresh this prompt and the handover with Gate-D commits and set the exact next activity to **Gate E — strict page-by-page Tamil visual/source-fidelity verification**.
-9. English remains blocked until Gate E passes.
+2. Use the rendered controlling scan pages 172–186 as authority; OCR/extracted text may only assist.
+3. Compare each page directly against canonical `transcript.md` for words/characters, names/initials, numerals, dates, percentages, monetary values, units, headings, opening speaker label, embedded English, transliterations, punctuation where legible, contextual markers and page transitions.
+4. Preserve unusual source spelling/wording when visually supported; do not silently modernise or repair source forms.
+5. Apply every source-supported correction to canonical `transcript.md` and itemise it in `verification-log.md`.
+6. Record explicitly confirmed unusual source forms and any unresolved readings.
+7. At the end of Batch 1, record exact verified range **172–186**, correction count, unresolved count, and the next Gate-E continuation page **187**.
+8. Update `metadata.json`, `README.md`, `source-notes.md`, `verification-log.md`, the handover and this prompt.
+9. Do not mark Tamil `verified` until Gate E covers the entire **172–198** range.
+10. Do not begin English translation; it remains blocked until Gate E passes completely.
 
-## Gate-C Batch-2 commits
+## Gate-D commits
 
-- temporary application workflow created — `62ae30a9107e95373ef0c105deb42a9660b7fea3`;
-- Batch-2 staging file created — `de69f5c5ef4d97a41379685f3cb2738ecd8c85ec`;
-- assertion-checked canonical transcript / staging removal — `1266549a60a491ce1baa62f897a5f70e30e5aa8a`;
-- temporary workflow removed — `cdbf29dad7ebc181bcd35ca9dc53732db328904d`;
-- metadata marked Gate-C complete — `ca5abf2f5ce23093f0b917e15239a83dcceb9c7f`;
-- Speech-6 README Gate-C completion — `f80aba3725e84962c0a067b06ff3f0dcf42e645e`;
-- source notes Batch-2 / Gate-C record — `f47dceb20bd3abb5c16b2e9257a781fbd319e401`;
-- verification-log Gate-C closure — `ac2bdf4574c0dad7cb014478d373b5de044ffad6`;
-- verification-log assertion-notation fix — `6500a89199cd2a161372ae7d196cc7b7b29dc15e`.
+- metadata Gate-D state — `60b8dd4c91593525ecf53e4ddbda911d28fd6923`;
+- Speech-6 README Gate-D state — `6e9056baeb6336354702ac2a0a12e356465c979e`;
+- source-notes Gate-D record — `60a6ffb4a6199d206fb869152fef99912aeb052f`;
+- verification-log Gate-D closure — `58a8be43b8c960a7ac7ed84bbeddc2edcf2325bf`.
 
-All temporary Batch-2 workflow/staging artifacts were removed after the successful assertion-checked transcript update.
+Gate C's assertion-checked canonical transcript commit remains `1266549a60a491ce1baa62f897a5f70e30e5aa8a`. No transcription wording was changed during Gate D.
