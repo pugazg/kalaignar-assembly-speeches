@@ -1,28 +1,14 @@
 # Handover — 2007 industrial speeches anthology
 
-## Purpose
+## Purpose and authority
 
-Continuation point for `pugazg/kalaignar-assembly-speeches` using:
+Continuation point for `pugazg/kalaignar-assembly-speeches` using `TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf`.
 
-`TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf`
+The scan image is authoritative for Tamil transcription. OCR is only a helper. English is translated from and checked against the verified Tamil. External context must never rewrite the source-faithful Tamil.
 
-The scan image is authoritative for Tamil transcription. OCR is only a helper. English is translated from and checked against the verified Tamil. External contextual identifications must never rewrite the source-faithful Tamil.
+## Mandatory recurring checkpoint
 
-## Mandatory recurring handover checkpoint
-
-**After every speech is fully completed and released through Gate H, create/update this project handover before beginning the next speech. This is a required activity after every completed speech.**
-
-At that checkpoint:
-
-1. Record the completed speech's canonical ID, source label/date, exact scan/printed page range, Gates C–H status, final Tamil/English verification status and unresolved-reading count.
-2. Record important source anomalies, verification corrections and editorial/contextual exceptions that must not be reverted.
-3. Record the final canonical files, release/index changes, temporary working files retired after merge, and relevant commit SHAs.
-4. Update the released-speech inventory and identify the next active speech with its canonical ID, source label/date, exact locked range and verified opening boundary.
-5. State the exact next activity/batch, what remains blocked, and what must not be modified.
-6. Update `docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md` so a fresh chat can resume directly from the same state.
-7. Push the handover changes and record the new current `main` HEAD.
-
-**Do not begin the next speech until this post-release handover checkpoint is complete.**
+After every speech is fully completed and released through Gate H, update this handover and `docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md` before beginning the next speech. Record final Gates C–H status, exact ranges, unresolved readings, important corrections/anomalies, canonical files, release commits, next speech, exact next batch and current continuation point.
 
 ## Controlling source
 
@@ -58,52 +44,13 @@ Speeches **1–4** are fully released with verified Tamil and verified English:
 - Speech 3 — `1989-05-03-industries-debate`, scan pp.62–98
 - Speech 4 — `1990-04-18-industries-debate`, scan pp.99–135
 
-### Speech 3 TIIC correction — retain final state
+### Retained released-speech exceptions
 
-The verified Tamil source on p.94 visibly reads `சிப்காட், டிக் நிறுவனங்களிடமிருந்து லோன் வாங்கியிருக்கிறார்கள்.` and must remain source-faithful. The final English uses **`SIPCOT and TIIC`** as an explicitly documented contextual/institutional identification. Do not revert English to `TIC`.
+Speech 3: the verified Tamil on p.94 remains `சிப்காட், டிக் நிறுவனங்களிடமிருந்து...`; final English uses **`SIPCOT and TIIC`** as a documented contextual identification. Do not revert English to `TIC`.
 
-## Speech 4 final released state
+Speech 4 is fully released through Gates C–H with unresolved Tamil readings **0**. Its canonical `transcript.md` contains verified Tamil followed by verified English. Retained source anomalies include `Government of India for financed`, `constitute and Inter-Ministerial Committee`, `cilicon`, `stainlees`, `Spensioner Mill`, `ancilary`, distinct p.120/p.121 `கேஸ்டிக்`/`காஸ்டிக்`, and p.128 `ஆலங்குடி 3, 1, அறந்தாங்கி 4`.
 
-Canonical ID: `1990-04-18-industries-debate`  
-Source label: `உரை : 4`  
-Printed date: `18.04.1990`  
-Locked range: **scan pp.99–135 / printed pp.98–134**
-
-- Gate C: **complete**
-- Gate D: **passed**
-- Gate E: **passed**
-- Tamil: **verified**
-- unresolved Tamil readings: **0**
-- Gate F: **complete**
-- Gate G: **passed**
-- English: **verified**
-- Gate H: **passed**
-- release status: **fully released**
-
-The canonical `speeches/1990/1990-04-18-industries-debate/transcript.md` is self-contained: complete verified Tamil first, followed by complete verified English, with all 37 corresponding source-page divisions **99–135**. The temporary Gate-F/G `translation.md` companion was deleted after canonical integration to prevent divergent English copies.
-
-Gate-G English corrections retained in the final canonical transcript:
-
-1. p.103 superlative restored to `the most widely sold in India`;
-2. p.104 `operations to begin` for `தொழில் தொடங்கும்`;
-3. p.129 no translator-added comparison denominator for the source's ambiguous M.B.C. criterion;
-4. p.131 unsupported `and so on` removed;
-5. p.135 Kumari Ananthan's interrupted sentence remains fragmentary.
-
-Source anomalies deliberately retained include `Government of India for financed`, `constitute and Inter-Ministerial Committee`, `cilicon`, `stainlees`, `Spensioner Mill`, `ancilary`, distinct p.120/p.121 `கேஸ்டிக்`/`காஸ்டிக்`, and p.128 `ஆலங்குடி 3, 1, அறந்தாங்கி 4`.
-
-### Speech 4 Gate-H release commits
-
-- canonical Tamil+English `transcript.md`: `c6bc44783b452d8eb904350dc49fa20907303e9a`
-- final `metadata.json`: `7b31bdfc936a584189257897b765f2888e9d332d`
-- final speech `README.md`: `1b7a166e33b1abc74c8cb457fd0aedea19cf3e9f`
-- final `source-notes.md`: `da510174668b7f252bde59bd510bcc8fc6c7ed25`
-- final `verification-log.md`: `ff393efa52855d5837aa2f1eb5936f0e83324d2f`
-- `data/speeches.json`: `351c6188290cb53bea5e86616244f5a05a3eb1cd`
-- root `README.md`: `773ba4530b98008ba589a8ef1c76231a206dee9b`
-- retired temporary `translation.md`: `82b12a91893144349d0ef8b53d19a56fda8e55d2`
-
-Boundary remains verified: scan p.135 ends Speech 4 after Kalaignar's reply to `திரு. கே. ரமணி`; scan p.136 begins `உரை : 5`, dated `14.08.1996`.
+Speech-4 release commits remain as previously recorded: transcript `c6bc44783b452d8eb904350dc49fa20907303e9a`; metadata `7b31bdfc936a584189257897b765f2888e9d332d`; README `1b7a166e33b1abc74c8cb457fd0aedea19cf3e9f`; source-notes `da510174668b7f252bde59bd510bcc8fc6c7ed25`; verification-log `ff393efa52855d5837aa2f1eb5936f0e83324d2f`; `data/speeches.json` `351c6188290cb53bea5e86616244f5a05a3eb1cd`; root README `773ba4530b98008ba589a8ef1c76231a206dee9b`; retired temporary translation `82b12a91893144349d0ef8b53d19a56fda8e55d2`.
 
 ## Current active work — Speech 5
 
@@ -112,35 +59,58 @@ Boundary remains verified: scan p.135 ends Speech 4 after Kalaignar's reply to `
 - Canonical ID: `1996-08-14-industries-debate`
 - Locked range: **scan pp.136–171 / printed pp.135–170**
 - Total mapped scan pages: **36**
-- Gate C: **not started**
-- Tamil status: **not started**
-- Gate D: **not eligible yet**
+- Gate C: **in progress**
+- Gate-C Batch 1: **complete** — scan pp.136–150 / printed pp.135–149
+- represented pages: **15/36**
+- Tamil status: **in-progress**, not reviewed or verified
+- explicit unresolved/`[REVIEW]` readings in Batch 1: **0**
+- `next_scan_page`: **151**
+- Gate D: **not eligible**
 - Gate E: **not started**
-- English: **blocked until Tamil Gates C–E are complete**
-- Speech 5 folder: **not yet created**
+- English / Gate F: **blocked until Tamil Gates C–E are complete**
+- Gates G/H: **not started**
 
-The opening boundary is already locked by the anthology map and the Speech-4 ending check: scan p.136 / printed p.135 begins `உரை : 5`, `நாள் : 14.08.1996`.
+The opening remains visually locked at scan p.136 / printed p.135: `உரை : 5`, `நாள் : 14.08.1996`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`.
 
-## Immediate next action — Speech 5 Gate C Batch 1
+### Gate C Batch 1 — completed state
 
-Begin Tamil first-pass transcription for **scan pp.136–150 / printed pp.135–149**.
+The standard five-file folder now exists at `speeches/1996/1996-08-14-industries-debate/`.
 
-1. Re-read current `docs/ARCHIVAL_WORKFLOW.md`, this handover, `sources/2007-industrial-speeches/mapping.md`, root `README.md`, and `data/speeches.json`.
-2. Reconfirm the Speech-5 opening on scan p.136 from the controlling rendered source.
-3. Create `speeches/1996/1996-08-14-industries-debate/` with the standard five files:
-   - `README.md`
-   - `metadata.json`
-   - `source-notes.md`
-   - `transcript.md`
-   - `verification-log.md`
-4. Transcribe scan pp.136–150 directly from the scan images. OCR may assist but is not canonical.
-5. Preserve printed wording, period spelling, punctuation, numerals, headings, speaker labels, interventions and printed English as far as the scan permits.
-6. Add one explicit `<!-- source-page: N -->` marker for every scan page transcribed.
-7. Mark genuinely unreadable material explicitly for review rather than guessing.
-8. At the end of p.150, record the exact continuation boundary and set `next_scan_page` to **151**.
-9. Keep Speech 5 `in-progress`; do not run Gate D until every mapped page **136–171** is represented.
-10. Do not start English, Speech 6, or modify released Speeches 1–4 except for necessary index consistency.
+- `README.md` — commit `c6247afea9be2d7a5ddaf6432ad604f140afb94b`
+- `metadata.json` — commit `8026bf9790c2e4bf5798969056af3ea92138c7fc`
+- `source-notes.md` — commit `195282cdec217aca45e1692d86c6ec1cce2ebc0b`
+- `transcript.md` — commit `089e1055c5e5fcdbe4ce84d80465094c12243f66`
+- `verification-log.md` — commit `dd69cdc1da419ecefe48e9abbdfb29c3206ffc11`
 
-## End-of-session requirement
+The Batch-1 transcript contains exactly one source-page marker for every scan page **136–150**. No `[REVIEW]` marker was required in this first pass.
 
-Record canonical ID, exact pages completed/audited, current gate, Tamil status, unresolved readings, English status, files changed, commit SHA and exact next action. If the current speech has just passed Gate H, the mandatory post-release handover checkpoint above must be completed before the next speech starts.
+Visible source forms deliberately retained rather than regularised include `இஃதன்னியில்` (p.142), `ஆலங்குளம் ஆஸ்பெஸ்டாஸ் பயிற்சித் தொழிற்சாலை` (p.145), and `ஓட்டலுக்கு மறுப்பு எழுதினாரோ அந்தச் செயலாளர்` (p.146), plus printed English/mixed-language passages including `Memorandum of Understanding`, `BIRKMEIER G.M.B.H.`, the audit quotations on p.149, `Investor-friendly`, and `Good atmosphere`.
+
+Scan p.150 / printed p.149 ends mid-sentence with the exact visible continuation marker:
+
+`... நான் அவரிடத்திலே சொன்னேன். உங்கள் அண்ணனின் ஆசை அந்த`
+
+The next required page is **scan p.151 / printed p.150**.
+
+## Source-availability block
+
+The PDF attachment available in the current work session exposes only **150 pages**, ending exactly at scan p.150. It is sufficient for Batch 1 but not for the next page. The canonical source remains the already mapped **329-page** publication. Do not replace canonical source metadata with the shorter attachment and do not reconstruct the p.151 continuation from context.
+
+## Immediate next action — Speech 5 Gate C Batch 2
+
+When controlling scan p.151 onward is available, transcribe **scan pp.151–165 / printed pp.150–164** directly from the scan.
+
+1. Confirm p.151 visually continues the p.150 fragment above.
+2. Append page markers and Tamil transcription for pp.151–165 to the existing canonical `transcript.md`.
+3. Preserve printed wording, spelling, punctuation, numerals, headings, speaker labels, interventions and printed English.
+4. Mark any genuinely unreadable text explicitly rather than guessing.
+5. Update all five Speech-5 files with Batch-2 status, unresolved-reading count and exact ending continuation marker.
+6. If p.165 is completed, set `next_scan_page` to **166**.
+7. Keep Speech 5 `in-progress`; Gate D waits until all pp.136–171 are represented.
+8. Do not start English, Speech 6, or Gate-H index changes. Do not add Speech 5 to root `README.md` or `data/speeches.json` as a released speech.
+
+If scan p.151 onward is not available, stop at this source-availability block.
+
+## End-of-session checkpoint
+
+Current work commits through Batch 1 end at `dd69cdc1da419ecefe48e9abbdfb29c3206ffc11`. The next-chat prompt update was attempted in this session but the GitHub write action was blocked by the connector safety layer, so its previous repository version may still point to Batch 1. This handover is therefore the controlling continuation document until that prompt file can be advanced.
