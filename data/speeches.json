@@ -10,10 +10,7 @@
     "event_ta": "தொழில்துறை மானியத்தின்மீது உரை",
     "event_en": "Speech on the Industries grant",
     "path": "speeches/1963/1963-03-21-industries-debate",
-    "languages": [
-      "ta",
-      "en"
-    ],
+    "languages": ["ta", "en"],
     "transcription_status": "verified",
     "verified_against_scan": true,
     "translation_status": "verified"
@@ -29,10 +26,7 @@
     "event_ta": "நம்பிக்கையில்லாத் தீர்மான விவாதத்திற்கான பதிலுரை",
     "event_en": "Reply to the debate on the no-confidence motion",
     "path": "speeches/1970/1970-09-09-no-confidence-motion",
-    "languages": [
-      "ta",
-      "en"
-    ],
+    "languages": ["ta", "en"],
     "transcription_status": "verified",
     "verified_against_scan": true,
     "translation_status": "verified"
@@ -48,10 +42,7 @@
     "event_ta": "தொழில் கொள்கைகள், திட்டங்கள் மற்றும் மானியக் கோரிக்கை குறித்த உரை",
     "event_en": "Speech on industrial policies, plans and the grant demand",
     "path": "speeches/1981/1981-04-16-industries-debate",
-    "languages": [
-      "ta",
-      "en"
-    ],
+    "languages": ["ta", "en"],
     "transcription_status": "verified",
     "verified_against_scan": true,
     "translation_status": "verified"
@@ -67,10 +58,7 @@
     "event_ta": "தொழில்துறை மானிய விவாத உரை",
     "event_en": "Speech in the Industries grant debate",
     "path": "speeches/1989/1989-05-03-industries-debate",
-    "languages": [
-      "ta",
-      "en"
-    ],
+    "languages": ["ta", "en"],
     "transcription_status": "verified",
     "verified_against_scan": true,
     "translation_status": "verified"
@@ -86,10 +74,7 @@
     "event_ta": "தொழில்துறை மானிய விவாத உரை",
     "event_en": "Speech in the Industries grant debate",
     "path": "speeches/1990/1990-04-18-industries-debate",
-    "languages": [
-      "ta",
-      "en"
-    ],
+    "languages": ["ta", "en"],
     "transcription_status": "verified",
     "verified_against_scan": true,
     "translation_status": "verified"
@@ -105,10 +90,7 @@
     "event_ta": "தொழில்துறை மானிய விவாத உரை",
     "event_en": "Speech in the Industries grant debate",
     "path": "speeches/1996/1996-08-14-industries-debate",
-    "languages": [
-      "ta",
-      "en"
-    ],
+    "languages": ["ta", "en"],
     "transcription_status": "verified",
     "verified_against_scan": true,
     "translation_status": "verified"
@@ -124,10 +106,23 @@
     "event_ta": "தொழில்துறை மானிய விவாத உரை",
     "event_en": "Speech in the Industries grant debate",
     "path": "speeches/1997/1997-04-23-industries-debate",
-    "languages": [
-      "ta",
-      "en"
-    ],
+    "languages": ["ta", "en"],
+    "transcription_status": "verified",
+    "verified_against_scan": true,
+    "translation_status": "verified"
+  },
+  {
+    "id": "1998-05-14-industries-debate",
+    "date": "1998-05-14",
+    "year": 1998,
+    "speaker_ta": "மு. கருணாநிதி",
+    "speaker_en": "M. Karunanidhi",
+    "title_ta": "தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 7",
+    "title_en": "Kalaignar's Legislative Assembly Speeches on Industry — Speech 7",
+    "event_ta": "தொழில்துறை மானிய விவாத உரை",
+    "event_en": "Speech in the Industries grant debate",
+    "path": "speeches/1998/1998-05-14-industries-debate",
+    "languages": ["ta", "en"],
     "transcription_status": "verified",
     "verified_against_scan": true,
     "translation_status": "verified"
