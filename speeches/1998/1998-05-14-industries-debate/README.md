@@ -37,7 +37,7 @@ Speech 7 Tamil has completed **Gate C, Gate D and Gate E** and is **verified aga
 - Gate E: **passed — 42/42 pages verified against scan**.
 - Gate E cumulative corrections: **5**.
 - Gate E unresolved/`[REVIEW]` readings: **0**.
-- English Gate F: **in progress — source/scan pp.199–233 translated (35/42 pages)**.
+- English Gate F: **in progress — source/scan pp.199–238 translated (40/42 pages)**.
 - English Gate G: **not started**.
 - English verified: **no**.
 
@@ -61,23 +61,22 @@ English is translated only from the **final verified Tamil** in [`translation.md
 - Batch 4: source pp.214–218 — complete.
 - Batch 5: source pp.219–223 — complete.
 - Batch 6: source pp.224–228 — complete.
-- Batch 7: source pp.229–233 — complete and merged into canonical `translation.md`.
-- Current total: **35/42 pages**.
-- Next source page: **234**.
+- Batch 7: source pp.229–233 — complete.
+- Batch 8: source pp.234–238 — complete and merged into canonical `translation.md`.
+- Current total: **40/42 pages**.
+- Next source page: **239**.
 - Unresolved translation questions: **0**.
 
-Batch 7 preserves the p.228→229 continuation, PVC foamed sheets/artificial-wood products, Sriram Auto Components, Ramana Sekar Steels, S.K.M. egg processing, the 33-factory progress summary, the M.S. Swaminathan/Siruseri biotechnology park announcement, motor-component and software venture-capital schemes, the `Global Village` passage, and the ITIT→TANITEC announcement through the p.233→234 continuation.
+Batch 8 preserves the p.233→234 TANITEC continuation, ELCOT turnover/profit figures, the Software/Hardware explanation and Y2 K-1 humour, the year-2000 two-digit discussion, European single-currency employment estimate, TIDEL Software Park at Taramani, the Coimbatore software park, the `Single Window System` discussion, the two high-level approval committees, the withdrawal of cut motions, and Thiru K. Subbarayan’s textile/cotton intervention with Kalaignar’s reply through p.238.
 
 ## Next activity
 
-Continue **Gate F Batch 8** from verified Tamil **source/scan p.234**, using a bounded five-page batch **pp.234–238 / printed pp.233–237**. Preserve exact page correspondence, figures, technical names/terms, source claims, humour/parliamentary context and printed English. Do not mark English verified; Gate G remains separate after the complete first pass.
-
-Do not begin Speech 8.
+Complete the **final Gate F Batch 9** from verified Tamil **source/scan pp.239–240 / printed pp.238–239**. Preserve all parliamentary speaker changes/interventions and stop at the Speech-7 closing boundary on p.240. Do not begin Speech 8. After Gate F is complete, English remains unverified until the separate full-speech Gate G fidelity check passes.
 
 ## கோப்புகள்
 
 - [`transcript.md`](./transcript.md) — complete Tamil source layer, verified against scan pp.199–240.
-- [`translation.md`](./translation.md) — Gate-F English working translation, currently pp.199–233.
-- [`metadata.json`](./metadata.json) — Tamil verified; Gate F in progress at 35/42 pages.
+- [`translation.md`](./translation.md) — Gate-F English working translation, currently pp.199–238.
+- [`metadata.json`](./metadata.json) — Tamil verified; Gate F in progress at 40/42 pages.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and verification record.
 - [`verification-log.md`](./verification-log.md) — Gate-C/D history and Gate-E audit/closure trail.
