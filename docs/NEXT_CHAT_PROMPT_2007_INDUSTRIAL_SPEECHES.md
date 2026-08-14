@@ -1,15 +1,33 @@
 # Next-chat prompt — 2007 industrial speeches transcription
 
-Continue `pugazg/kalaignar-assembly-speeches` exactly from the current `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` and follow `docs/ARCHIVAL_WORKFLOW.md`.
+Continue `pugazg/kalaignar-assembly-speeches` from `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` and follow `docs/ARCHIVAL_WORKFLOW.md`.
 
-The active unit is `1996-08-14-industries-debate` (`உரை : 5`, 14.08.1996), locked to scan pp.136–171 / printed pp.135–170.
+Active unit: `1996-08-14-industries-debate` (`உரை : 5`, 14.08.1996), locked to scan pp.136–171 / printed pp.135–170.
 
-Gate C Batch 1 is complete for scan pp.136–150 / printed pp.135–149. Tamil remains `in-progress`, with 15/36 pages represented and 0 explicit unresolved readings. English remains blocked.
+Current state:
 
-The exact visible p.150 continuation is:
+- Gate C Batch 1 complete: scan pp.136–150 / printed pp.135–149.
+- Gate C Batch 2 complete: scan pp.151–165 / printed pp.150–164.
+- Represented: **30/36 pages**.
+- Tamil: **in-progress**, not reviewed or verified.
+- Explicit unresolved/`[REVIEW]` readings: **0**.
+- Next scan page: **166**.
+- Gate D: not eligible until pp.136–171 are all represented.
+- Gate E: not started.
+- English: blocked until Tamil Gates C–E pass.
 
-`... நான் அவரிடத்திலே சொன்னேன். உங்கள் அண்ணனின் ஆசை அந்த`
+The current raw PDF is the full **329-page**, **217,124,211-byte** controlling source. The earlier p.150 availability note was only a preview-layer limitation and has been corrected.
 
-The next required source page is scan p.151. When the controlling scan p.151 onward is available, perform Gate C Batch 2 for scan pp.151–165 / printed pp.150–164, appending to the existing Speech-5 transcript and updating all five Speech-5 files. If p.151 onward is unavailable, stop rather than guessing the continuation.
+Scan p.165 / printed p.164 ends:
 
-Do not run Gate D until pp.136–171 are all represented. Do not start English, Speech 6, or Gate-H index updates. The scan image is authoritative; OCR is only a helper.
+`... அதன் மூலம் இந்த கிராபைட் தொழிற்சாலை பெரும் அளவிற்கு எதிர்காலத்திலே வளரும், அந்த மாவட்டம் தொழில் வளம் பெருகுவதுமான ஒரு சூழ்நிலை ஏற்படும்`
+
+Scan p.166 / printed p.165 visibly continues:
+
+`என்பதையும் நான் இங்கே சொல்லிக்கொள்ள வேண்டியவனாக இருக்கின்றேன்.`
+
+## Next action — Gate C Batch 3
+
+Transcribe the remaining scan pp.166–171 / printed pp.165–170 directly from the scan. Add source-page markers 166–171, preserve the printed source faithfully, and update all five Speech-5 files. Then run Gate D completeness/page-marker audit. Gate E strict Tamil verification follows only after Gate D passes. English, Speech 6, and Gate-H index updates remain blocked until their required gates are complete.
+
+After the session, refresh the handover and this continuation prompt with the completed state and commit SHAs.
