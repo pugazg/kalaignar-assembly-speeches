@@ -8,35 +8,9 @@ The scan image is authoritative for Tamil transcription and verification. OCR/ex
 
 ## Released through Speech 7
 
-Speech 7 (`உரை : 7`, `14.05.1998`, canonical ID `1998-05-14-industries-debate`) is fully released.
+Speech 7 (`உரை : 7`, `14.05.1998`, canonical ID `1998-05-14-industries-debate`) is fully released through Gate H. Do not alter its verified Tamil or English while processing the next unit.
 
-- scan range: **199–240**
-- printed range: **198–239**
-- Tamil Gate C: complete — 42/42
-- Gate D: passed
-- Gate E: passed — 42/42 verified against scan
-- Gate-E corrections: 5
-- Tamil unresolved readings: 0
-- Gate F: complete — 42/42 English pages
-- Gate G: passed — 42/42 English pages verified against final Tamil
-- Gate-G corrections: 0
-- unresolved translation questions: 0
-- Gate H: passed
-- canonical `transcript.md`: verified Tamil followed by verified English
-- `data/speeches.json` and root speech index: updated
-- p.241 / Speech-8 spillover: none
-
-Gate-H checkpoints:
-
-- canonical transcript merge: `fcc4fc41c53f20e344b6b5714f6a1398209abfa8`
-- Gate-H metadata: `e3dd6050319ccada14268ccb1795b4760053bcf2`
-- machine-readable index: `ba6e71ddd768cd2c682f43cc50bb3105c0ce642d`
-- root README/index: `338731883f15d439d7775f0d07c019a05e9d2ad4`
-- Speech-7 README: `647be633b812a88715dc7d33ae8ad5e57dfbfd9f`
-
-Do not alter the verified Speech-7 Tamil or English when processing the next unit.
-
-## Active next unit — Speech 8
+## Active unit — Speech 8
 
 Locked source mapping:
 
@@ -49,13 +23,50 @@ Locked source mapping:
 - previous boundary: scan p.240 closes Speech 7
 - next boundary: scan p.278 begins Speech 9 (`8.05.2000`)
 
-## Exact next activity — Speech 8 startup / Gate C Batch 1
+The opening and closing boundaries were re-confirmed directly from the controlling scan before Speech-8 transcription started: p.241 begins `உரை : 8 / நாள் : 29.04.1999`; p.277 closes Speech 8; p.278 begins Speech 9.
 
-1. Read `docs/ARCHIVAL_WORKFLOW.md`, this handover and `sources/2007-industrial-speeches/mapping.md`.
-2. Inspect the repository first and confirm Speech 8 has not already been started; continue existing work if present rather than duplicating it.
-3. Re-confirm the locked Speech-8 opening on scan p.241 and closing boundary on p.277 from the controlling scan before writing metadata/transcript files.
-4. Create or continue the canonical entry at `speeches/1999/1999-04-29-industries-debate/` following the established Speech-7 structure.
-5. Begin Gate C with a bounded first-pass Tamil transcription of **scan pp.241–255 / printed pp.240–254**, directly from rendered scan images.
-6. Preserve source wording, spelling, punctuation, numerals, names, speaker changes, interventions and printed English. Mark uncertainty rather than guessing.
-7. Record the exact continuation point after p.255. Do not begin English before Tamil Gates D and E pass.
-8. Do not enter Speech 9.
+## Gate C progress
+
+### Batch 1 — complete
+
+- scan pages: **241–255**
+- printed pages: **240–254**
+- completed count: **15/37 pages**
+- canonical path: `speeches/1999/1999-04-29-industries-debate/`
+- Tamil status: **in-progress, not verified**
+- unresolved/`[REVIEW]` readings: **0**
+- Gate D: not started
+- Gate E: not started
+- English: blocked
+
+Batch-1 transcript checkpoint:
+
+- `6203b66c7f81b6a17e1ee192ccb98460f9bd551e`
+
+Companion-file checkpoints:
+
+- README: `44843a474677b49f7e9187780a7005236b46cd14`
+- metadata: `5ce1fb2c3f2daaca8e48bc84c21dc269b059f014`
+- source notes: `141770eb22c9831017bc8e6170ac1a2e051fb54b`
+- verification log: `18ef85c24a0c311ebb1abf31247b89a072cff3b7`
+
+## Exact continuation lock
+
+Scan p.255 ends after the Salem Steel Plant / 24 MPs / Indira Gandhi passage with:
+
+`...24 நாடாளுமன்ற உறுப்பினர்களும் அன்றைக்குப் பயன்படுத்தப்பட்டார்கள் என்பதை உங்களுக்குத் தெரிவிப்பதற்காகத்தான் இதைச் சொல்கிறேன்.`
+
+Scan p.256 begins:
+
+`இந்தக் காலகட்டத்திலேதான் ஆலங்குளம் சிமெண்ட் தொழிற்சாலையும் அமைக்கப்பட்டது.`
+
+## Exact next activity — Speech 8 Gate C Batch 2
+
+1. Continue the canonical `transcript.md`; do not create a duplicate Speech-8 entry.
+2. Transcribe **scan pp.256–270 / printed pp.255–269** directly from rendered scan images.
+3. Preserve source-supported wording, spelling, punctuation, numerals, names, technical terms, speaker changes/interventions and printed English. Mark uncertainty rather than guessing.
+4. Record the exact p.270 ending and p.271 continuation point.
+5. Update Speech-8 metadata/README/source notes/verification log and this handover after the bounded batch.
+6. Keep Tamil `in-progress, not verified`; Gate D and Gate E have not started.
+7. Do not begin English.
+8. Do not enter scan p.278 / Speech 9.
