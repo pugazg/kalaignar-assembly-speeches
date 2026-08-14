@@ -68,14 +68,21 @@
   },
   "translation": {
     "language": "English",
-    "placement": "after the complete verified Tamil transcription in canonical transcript.md",
-    "status": "not-started",
+    "placement": "working translation is in translation.md; after Gate G verification the corrected English will be incorporated after the verified Tamil in canonical transcript.md",
+    "working_file": "translation.md",
+    "status": "complete-unverified",
+    "gate_f_status": "complete",
+    "gate_g_status": "not-started",
     "requires_verified_tamil": true,
     "tamil_gate_satisfied": true,
     "source": "final verified Tamil transcription",
-    "completed_source_pages": null,
-    "source_page_correspondence": false,
+    "completed_source_pages": "172-198",
+    "completed_page_count": 27,
+    "total_page_count": 27,
+    "source_page_correspondence": true,
+    "unresolved_translation_questions": 0,
     "verified_against_tamil": false,
-    "verification_gate": "Gate F eligible; English translation not started"
+    "verification_gate": "Gate F complete; Gate G English fidelity verification required before English can be marked verified",
+    "completion_note": "Gate F produced a complete first-pass English translation of all 27 verified Tamil source-page sections 172-198 in translation.md. Printed English passages embedded in the Tamil source were retained in source form, including visible anomalies. English is complete but not verified until Gate G re-reads every section against the final verified Tamil."
   }
 }
