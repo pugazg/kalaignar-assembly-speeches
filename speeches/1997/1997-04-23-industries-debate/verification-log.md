@@ -60,25 +60,50 @@ The assertion passed. The canonical transcript therefore contains **27/27 first-
 - opening boundary: scan p.172 `உரை : 6 / நாள் : 23.04.1997`;
 - ending boundary: scan p.198 closing response + decorative ornament;
 - next source boundary: scan p.199 `உரை : 7 / 14.05.1998`;
-- Tamil status: **transcribed**, not verified;
-- Gate D: **not started**;
-- Gate E: **not started**;
-- English translation: **blocked**.
+- Tamil status: **transcribed**, not verified.
 
-Gate C completeness does **not** confer `reviewed` or `verified` status. The full speech must now pass Gate D, followed by a separate strict page-by-page Gate-E visual audit.
+Gate C completeness does **not** confer `reviewed` or `verified` status.
 
-## Exact next activity — Gate D
+## Gate D — full-speech Tamil completeness/page-marker audit
 
-Perform the **full-speech Tamil completeness/page-marker audit** for scan pp.172–198 / printed pp.171–197.
+Status: **passed**.
 
-Confirm:
+The complete canonical Speech-6 transcript was audited as one structural unit against the locked range **scan pp.172–198 / printed pp.171–197**.
 
-- every mapped page is represented once;
-- marker order is exactly 172–198;
-- no page is skipped or duplicated;
-- the opening and ending align with the locked structural map;
-- p.199 / Speech 7 has not spilled into the canonical transcript;
-- all printed speaker changes/interventions are represented through the ending;
-- unresolved readings remain explicitly marked and counted.
+### Gate-D checks
 
-Do not begin Gate E or English translation during the Gate-D activity unless separately requested.
+- expected page markers: **27**;
+- actual page markers: **27**;
+- exact marker sequence: **172–198**;
+- gaps: **0**;
+- duplicates: **0**;
+- reordering: **0**;
+- p.199 marker in canonical Speech-6 transcript: **absent**;
+- Speech-7 heading/date spillover (`உரை : 7` / `14.05.1998`): **absent**;
+- opening boundary matches scan p.172: `உரை : 6`, `நாள் : 23.04.1997`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`;
+- ending boundary matches scan p.198: final Krishnagiri mango-factory assurance, `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).`, then the decorative ending ornament;
+- scan p.199 was checked as the next boundary and begins Speech 7;
+- the mapped source remains a continuous Kalaignar speech after the opening speaker label; no later separate speaker-change heading appears in the source pages;
+- contextual stage/parliamentary markers visible in the source remain represented, including repeated `(மேசையைத் தட்டும் ஒலி)` and p.197 `(சிரிப்பு)`;
+- unresolved/`[REVIEW]` markers: **0**.
+
+### Gate-D result
+
+Gate D **passes**. No transcription wording was changed during this structural audit. Tamil status remains **transcribed**, not verified. Gate E is required before `verified_against_scan` may become true.
+
+## Exact next activity — Gate E Batch 1
+
+Begin **strict Tamil visual/source-fidelity verification** for **scan pp.172–186 / printed pp.171–185**.
+
+For every page, compare canonical `transcript.md` directly against the controlling scan and check:
+
+- words and individual characters;
+- names and initials;
+- numerals, dates, percentages, monetary values and units;
+- headings and the opening speaker label;
+- embedded English and transliterated company/institution names;
+- punctuation where the scan is legible;
+- contextual markers such as `(மேசையைத் தட்டும் ஒலி)`;
+- continuity across page transitions.
+
+Apply only source-supported corrections, record every correction here, keep unusual source forms when visually confirmed, and state unresolved readings explicitly. Do not begin English translation during Gate E. English remains blocked until the complete Speech-6 Tamil passes Gate E.
