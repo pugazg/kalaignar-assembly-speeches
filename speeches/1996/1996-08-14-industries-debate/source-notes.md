@@ -16,7 +16,9 @@ Controlling source facts:
 
 The source is image-based. The rendered scan image is authoritative for the Tamil source layer; OCR, extracted text and contextual reconstruction are not canonical.
 
-The PDF attachment available in the working chat for this batch exposes only **150 pages**. It contains the required controlling scan images through Speech-5 scan p.150, but its shorter exposed page count must not replace the already established metadata of the full 329-page source. Speech-5 pages after p.150 must be obtained from the controlling source when available.
+### Working-source correction
+
+The chat file-preview layer initially exposed rendered pages only through scan p.150. Direct inspection of the uploaded raw PDF established that the attachment itself is the full **329-page**, **217,124,211-byte** controlling source. The earlier note treating p.151 onward as unavailable was therefore a preview-layer limitation, not a source limitation. Gate-C Batch 2 was rendered directly from the raw PDF for scan pp.151–165.
 
 ## Locked boundary for Speech 5
 
@@ -32,7 +34,7 @@ For this speech: `PDF scan page = printed page + 1`.
 
 The opening boundary is visually explicit: scan p.136 / printed p.135 begins `உரை : 5`, `நாள் : 14.08.1996`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`.
 
-The locked ending remains scan p.171 / printed p.170, as established in the anthology mapping. That ending is not yet part of the current transcription batch.
+The locked ending remains scan p.171 / printed p.170, as established in the anthology mapping. It is not yet represented in Gate C.
 
 ## Gate C — Tamil first-pass transcription
 
@@ -40,31 +42,43 @@ The locked ending remains scan p.171 / printed p.170, as established in the anth
 
 Status: **completed first pass for this batch**.
 
-- all **15** scan pages were transcribed directly from the rendered scan images;
-- explicit `<!-- source-page: N -->` markers cover **136–150**, unique and monotonic;
-- printed speech/date heading, speaker label, interventions, figures, dates, monetary values, industrial/project names, transliterations and printed English passages were retained as visible;
-- physical line wrapping was normalised without intentionally rewriting source wording;
-- explicit unreadable/`[REVIEW]` markers: **0**;
-- Tamil status remains **in-progress**, because scan pp.151–171 are not yet represented.
+- all **15** scan pages were transcribed directly from the scan images;
+- `<!-- source-page: N -->` markers cover **136–150**, unique and monotonic;
+- explicit unreadable/`[REVIEW]` markers: **0**.
 
-Visible source forms that were deliberately retained rather than silently regularised include examples such as `இஃதன்னியில்` on scan p.142, `ஆலங்குளம் ஆஸ்பெஸ்டாஸ் பயிற்சித் தொழிற்சாலை` on p.145, and `ஓட்டலுக்கு மறுப்பு எழுதினாரோ அந்தச் செயலாளர்` on p.146. Embedded English and mixed-language material such as `Memorandum of Understanding`, `BIRKMEIER G.M.B.H.`, the quoted audit passages on p.149, `Investor-friendly`, and `Good atmosphere` were also preserved as printed.
+Visible forms deliberately retained include `இஃதன்னியில்` (p.142), `ஆலங்குளம் ஆஸ்பெஸ்டாஸ் பயிற்சித் தொழிற்சாலை` (p.145), `ஓட்டலுக்கு மறுப்பு எழுதினாரோ அந்தச் செயலாளர்` (p.146), and printed English/mixed-language material such as `Memorandum of Understanding`, `BIRKMEIER G.M.B.H.`, the p.149 audit quotations, `Investor-friendly`, and `Good atmosphere`.
+
+### Batch 2 — scan pp.151–165 / printed pp.150–164
+
+Status: **completed first pass for this batch**.
+
+- all **15** scan pages were transcribed directly from raw-PDF renders;
+- source-page markers now cover **136–165**, unique and monotonic across the two batches;
+- physical line wrapping was normalised without intentionally rewriting source wording;
+- printed figures, dates, monetary values, interventions, mixed-language terms and embedded English were retained as visible;
+- explicit unreadable/`[REVIEW]` markers: **0**;
+- Tamil remains **in-progress** because scan pp.166–171 are still untranscribed.
+
+Batch-2 source forms intentionally retained rather than silently regularised include the Singapore letter's printed `Our closed historical and cultural ties` (p.154) and `Sigapore` (p.155), `Tom, Tick & Harry` (p.156), `business-men` (p.157), `Liquified Natural Gas` / `LNG Terminal (Liquified)` (pp.158–159), `அருணா ஷூகாஸ்` (p.162), the printed double comma in `தேவையேயில்லாமல்,,` and `ஊழல் நடத்திருக்கிறது` (p.163), and `ஸ்பெசிபிக் நேர்வு` (p.164).
 
 ## Current continuation boundary
 
-Scan p.150 / printed p.149 ends in the middle of a sentence. The exact visible continuation marker is:
+Scan p.165 / printed p.164 ends in the middle of a sentence with:
 
-`... நான் அவரிடத்திலே சொன்னேன். உங்கள் அண்ணனின் ஆசை அந்த`
+`... அதன் மூலம் இந்த கிராபைட் தொழிற்சாலை பெரும் அளவிற்கு எதிர்காலத்திலே வளரும், அந்த மாவட்டம் தொழில் வளம் பெருகுவதுமான ஒரு சூழ்நிலை ஏற்படும்`
 
-The next required source page is **scan p.151 / printed p.150**.
+A boundary-only visual check of scan p.166 / printed p.165 confirms the immediate continuation:
 
-Because the working attachment ends at scan p.150, the next Gate-C batch is currently blocked on source availability. No wording beyond the visible p.150 ending may be reconstructed or guessed from context.
+`என்பதையும் நான் இங்கே சொல்லிக்கொள்ள வேண்டியவனாக இருக்கின்றேன்.`
+
+The next Gate-C transcription page is therefore **scan p.166 / printed p.165**.
 
 ## Downstream gates
 
-- Gate C: **in progress** — 15/36 mapped pages represented.
+- Gate C: **in progress** — **30/36** mapped pages represented.
 - Gate D: **not eligible** until all scan pp.136–171 are represented.
 - Gate E: **not started**.
 - Tamil: **in-progress**, not reviewed or verified.
-- explicit unresolved readings in the completed first-pass batch: **0**.
+- explicit unresolved readings in Batches 1–2: **0**.
 - English / Gate F: **blocked until Tamil Gates C–E are complete**.
 - Gates G and H: **not started**.
