@@ -33,8 +33,9 @@
 Speech 8 Gate C Tamil first-pass transcription is **in progress**.
 
 - Gate C Batch 1: **complete — scan pp.241–255 / printed pp.240–254**.
-- Gate C current total: **15/37 pages**.
-- Gate C next scan page: **256**.
+- Gate C Batch 2: **complete — scan pp.256–270 / printed pp.255–269**.
+- Gate C current total: **30/37 pages**.
+- Gate C next scan page: **271**.
 - Gate-C unresolved/`[REVIEW]` readings: **0**.
 - Gate D completeness/page-marker audit: **not started**.
 - Gate E strict Tamil source-fidelity verification: **not started**.
@@ -43,23 +44,23 @@ Speech 8 Gate C Tamil first-pass transcription is **in progress**.
 
 The current text is a first-pass transcription only. It must not be described as verified merely because the mapped pages have been transcribed.
 
-## Batch-1 continuation lock
+## Batch-2 continuation lock
 
-Scan p.255 closes the current batch after the Salem Steel Plant / 24 MPs / Indira Gandhi passage, ending with:
+Scan p.270 ends with:
 
-`...24 நாடாளுமன்ற உறுப்பினர்களும் அன்றைக்குப் பயன்படுத்தப்பட்டார்கள் என்பதை உங்களுக்குத் தெரிவிப்பதற்காகத்தான் இதைச் சொல்கிறேன்.`
+`...தமிழகம் முழுவதும் இணைய மயமாக ஆகின்ற அந்த விஞ்ஞானப் புதுமையையும் இந்த அரசு உங்கள் ஆதரவோடு செய்து காட்டும் என்பதை நான் தெரிவித்துக் கொள்கிறேன். (மேசையைத் தட்டும் ஒலி).`
 
-Scan p.256 continues:
+Scan p.271 continues:
 
-`இந்தக் காலகட்டத்திலேதான் ஆலங்குளம் சிமெண்ட் தொழிற்சாலையும் அமைக்கப்பட்டது.`
+`கணினிப் பயன்பாடுகளில் உலக அளவில் போதுமான தமிழ் குறியீடுகள் இல்லாத குறையைப் போக்குவதற்காகத்தான் “தமிழ்நெட் 1999” என்ற ஒரு மாநாட்டை நாம் நடத்தினோம்.`
 
 ## Next activity
 
-Proceed with **Gate C Batch 2: scan pp.256–270 / printed pp.255–269**. Continue directly from the p.256 sentence above. Preserve source wording and printed English exactly as supported by the scan; mark uncertainty rather than guessing. Do not begin English. Do not enter Speech 9.
+Proceed with the **final Gate C Batch 3: scan pp.271–277 / printed pp.270–276**. This batch should complete the first-pass Tamil for Speech 8. Preserve source wording and printed English exactly as supported by the scan; mark uncertainty rather than guessing. Stop exactly at the Speech-8 closing boundary on p.277 and do not enter p.278 / Speech 9. After Batch 3, perform Gate D before any Gate E or English work.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — Tamil Gate C in progress; pp.241–255 currently transcribed.
+- [`transcript.md`](./transcript.md) — Tamil Gate C in progress; pp.241–270 currently transcribed.
 - [`metadata.json`](./metadata.json) — source mapping and current Gate-C status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and continuation point.
 - [`verification-log.md`](./verification-log.md) — Gate-C progress and later audit trail.
