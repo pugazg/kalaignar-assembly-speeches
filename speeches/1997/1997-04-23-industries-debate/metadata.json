@@ -38,7 +38,7 @@
     "source_authority": "scan image"
   },
   "transcription": {
-    "method": "manual first-pass transcription directly from rendered scan images, followed by full-speech completeness/page-marker audit; strict source-fidelity audit still required",
+    "method": "manual first-pass transcription directly from rendered scan images, followed by full-speech completeness/page-marker audit and bounded direct visual source-fidelity verification",
     "status": "transcribed",
     "full_speech_scan_pages": "172-198",
     "completed_scan_pages": "172-198",
@@ -50,14 +50,20 @@
     "full_speech_completeness_audit": true,
     "full_speech_page_marker_audit": true,
     "gate_d_status": "passed",
-    "gate_e_status": "not-started",
+    "gate_e_status": "in-progress",
+    "gate_e_audited_scan_pages": "172-186",
+    "gate_e_audited_printed_pages": "171-185",
+    "gate_e_audited_page_count": 15,
+    "gate_e_total_page_count": 27,
+    "gate_e_correction_count": 4,
+    "gate_e_next_scan_page": 187,
     "verified_against_scan": false,
-    "verified_scan_pages": null,
+    "verified_scan_pages": "172-186",
     "strict_full_speech_visual_verification": false,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C completed all 27 mapped scan pages 172-198 in two bounded batches. Gate D then audited the complete canonical transcript: source-page markers are exactly 172-198 with no gap, duplication, reordering or p.199 spillover; the opening matches scan p.172 (உரை : 6 / நாள் : 23.04.1997), the ending matches scan p.198 with the closing desk-thump and decorative ornament, and scan p.199 begins உரை : 7 / 14.05.1998. The speech remains a single continuous Kalaignar speech after the opening speaker label; printed contextual markers such as desk-thumps and laughter remain represented. Explicit [REVIEW] markers remain 0. Tamil is transcribed, not verified, until Gate E passes."
+    "completion_note": "Gate C completed all 27 mapped scan pages 172-198 in two bounded batches and Gate D passed the full completeness/page-marker audit. Gate E Batch 1 then directly compared scan pp.172-186 / printed pp.171-185 against the controlling scan, covering 15/27 pages. Four source-supported corrections were applied: p.173 சென்னை எண்ணெய் சுத்திகரிப்பு நிறுவனம் -> சென்னை எண்ணெய்ச் சுத்திகரிப்பு நிறுவனம்; p.175 restored விழுக்காடு in உலக அளவிலான விழுக்காடு வீழ்ச்சி இல்லை; p.175 'சிப்காட்'னுடைய -> 'சிப்காட்'டினுடைய; p.177 'சிப்காட்'ன் சார்பாக -> 'சிப்காட்'டின் சார்பாக. Unresolved/[REVIEW] readings remain 0. Tamil remains transcribed, not fully verified, until Gate E covers scan pp.187-198; next Gate-E page is 187."
   },
   "translation": {
     "language": "English",
