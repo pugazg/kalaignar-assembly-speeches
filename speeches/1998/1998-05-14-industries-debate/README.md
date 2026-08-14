@@ -37,7 +37,7 @@ Speech 7 Tamil has completed **Gate C, Gate D and Gate E** and is **verified aga
 - Gate E: **passed — 42/42 pages verified against scan**.
 - Gate E cumulative corrections: **5**.
 - Gate E unresolved/`[REVIEW]` readings: **0**.
-- English Gate F: **in progress — source/scan pp.199–213 translated (15/42 pages)**.
+- English Gate F: **in progress — source/scan pp.199–218 translated (20/42 pages)**.
 - English Gate G: **not started**.
 - English verified: **no**.
 
@@ -58,22 +58,23 @@ English is translated only from the **final verified Tamil** in [`translation.md
 - Batch 1: source pp.199–203 — complete.
 - Batch 2: source pp.204–208 — complete.
 - Batch 3: source pp.209–213 — complete.
-- Current total: **15/42 pages**.
-- Next source page: **214**.
+- Batch 4: source pp.214–218 — complete and merged into canonical `translation.md`.
+- Current total: **20/42 pages**.
+- Next source page: **219**.
 - Unresolved translation questions: **0**.
 
-Batch 3 preserves the source’s repeated rendering of the `Business India` passage, the printed `Economic Intelligency Unit` / `India Uncaged` / `Seeking opportunities in the South` material, the source-printed English corruption quotation, public-sector undertaking list, Ranipet SIPCOT chronology, industrial-establishment figures, Neyveli `Third mine cut`, and the M.R.L. continuation into p.214. No outside factual correction was substituted into the translation.
+Batch 4 preserves the p.213→214 M.R.L. oil-refinery continuation, the 250 MW oil-residue power proposal, Cheyyar/Irungattukottai/Gummidipoondi and Sriperumbudur/Nemili/Vadamangalam SIPCOT figures, the verified Hyundai `532 acres` reading, investment/export figures, the `Business Today` `Objective / Perception / Rank` passage, and the foreign-direct-investment figures and source argument without external correction.
 
 ## Next activity
 
-Continue **Gate F Batch 4** from verified Tamil **source/scan p.214**, using a bounded five-page batch **pp.214–218 / printed pp.213–217**. Preserve exact page correspondence, figures, technical names/terms, source claims and printed English. Do not mark English verified; Gate G remains separate after the complete first pass.
+Continue **Gate F Batch 5** from verified Tamil **source/scan p.219**, using a bounded five-page batch **pp.219–223 / printed pp.218–222**. Preserve exact page correspondence, figures, technical names/terms, source claims and printed English. Do not mark English verified; Gate G remains separate after the complete first pass.
 
 Do not begin Speech 8.
 
 ## கோப்புகள்
 
 - [`transcript.md`](./transcript.md) — complete Tamil source layer, verified against scan pp.199–240.
-- [`translation.md`](./translation.md) — Gate-F English working translation, currently pp.199–213.
-- [`metadata.json`](./metadata.json) — Tamil verified; Gate F in progress at 15/42 pages.
+- [`translation.md`](./translation.md) — Gate-F English working translation, currently pp.199–218.
+- [`metadata.json`](./metadata.json) — Tamil verified; Gate F in progress at 20/42 pages.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and verification record.
 - [`verification-log.md`](./verification-log.md) — Gate-C/D history and Gate-E audit/closure trail.
