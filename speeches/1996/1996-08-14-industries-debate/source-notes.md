@@ -34,71 +34,86 @@ For this speech: `PDF scan page = printed page + 1`.
 
 The opening boundary is visually explicit: scan p.136 / printed p.135 begins `உரை : 5`, `நாள் : 14.08.1996`, followed by `மாண்புமிகு கலைஞர் மு. கருணாநிதி :`.
 
-The ending boundary was directly checked after Batch 3: scan p.171 / printed p.170 contains the final `திரு. ஆர். சொக்கர்` intervention and Kalaignar's reply, followed by the decorative ending ornament. Scan p.172 / printed p.171 begins `உரை : 6`, `நாள் : 23.04.1997`.
+The ending boundary was directly checked after Gate C: scan p.171 / printed p.170 contains the final `திரு. ஆர். சொக்கர்` intervention and Kalaignar's reply, followed by the decorative ending ornament. Scan p.172 / printed p.171 begins `உரை : 6`, `நாள் : 23.04.1997`.
 
 ## Gate C — Tamil first-pass transcription
 
-### Batch 1 — scan pp.136–150 / printed pp.135–149
+Gate C is complete across three batches:
 
-Status: **completed first pass**.
+- Batch 1: scan pp.136–150 / printed pp.135–149;
+- Batch 2: scan pp.151–165 / printed pp.150–164;
+- Batch 3: scan pp.166–171 / printed pp.165–170.
 
-- 15 pages represented with markers 136–150;
-- explicit unreadable/`[REVIEW]` markers: **0**.
-
-Visible forms deliberately retained include `இஃதன்னியில்` (p.142), `ஆலங்குளம் ஆஸ்பெஸ்டாஸ் பயிற்சித் தொழிற்சாலை` (p.145), `ஓட்டலுக்கு மறுப்பு எழுதினாரோ அந்தச் செயலாளர்` (p.146), and printed English/mixed-language material such as `Memorandum of Understanding`, `BIRKMEIER G.M.B.H.`, the p.149 audit quotations, `Investor-friendly`, and `Good atmosphere`.
-
-### Batch 2 — scan pp.151–165 / printed pp.150–164
-
-Status: **completed first pass**.
-
-- 15 pages represented with source-page markers continuing through 165;
-- explicit unreadable/`[REVIEW]` markers: **0**.
-
-Source forms intentionally retained rather than silently regularised include the Singapore letter's printed `Our closed historical and cultural ties` (p.154) and `Sigapore` (p.155), `Tom, Tick & Harry` (p.156), `business-men` (p.157), `Liquified Natural Gas` / `LNG Terminal (Liquified)` (pp.158–159), `அருணா ஷூகாஸ்` (p.162), the printed double comma in `தேவையேயில்லாமல்,,` and `ஊழல் நடத்திருக்கிறது` (p.163), and `ஸ்பெசிபிக் நேர்வு` (p.164).
-
-### Batch 3 — scan pp.166–171 / printed pp.165–170
-
-Status: **completed first pass; full mapped speech represented**.
-
-- all six final scan pages were transcribed directly from rendered source images;
-- p.166 continues the p.165 sentence with `என்பதையும் நான் இங்கே சொல்லிக்கொள்ள வேண்டியவனாக இருக்கின்றேன்.`;
-- the meat-processing/slaughterhouse discussion, pollution-control exchange, employment/`anti-biotic` analogy, State Planning Commission membership list and final parliamentary interventions were retained;
-- explicit unreadable/`[REVIEW]` markers in Batch 3: **0**;
-- p.171 contains the final intervention and Kalaignar reply, followed by the printed decorative ending ornament;
-- p.172 begins Speech 6, confirming the ending boundary.
-
-First-pass forms on these pages that may look unusual and therefore must be checked rather than silently normalised during Gate E include:
-
-- p.167 `ராஜஸ்தான் ஷிப் அண்டு உல்::பெடரேஷன்`;
-- p.167 the printed transliterated organisation/place sequence including `பஞ்சாப் மீட் லிமிடெட், தேராபாணி`, `டியோனர் அபட்டார் பி.எம்.சி.`, `அல்பீர் எக்ஸ்போர்ட் லிமிடெட்`, `அரேபியன் எக்ஸ்போர்ட்ஸ்`, and related entries;
-- p.168 `வறுமை தேன் எனக் கொட்டுகிறது`;
-- p.168 printed English `side effects`, `anti-biotic`, and the Tamil drug form `சிண்டாக்` / quoted `'சிண்டாக்'`;
-- the p.169–170 State Planning Commission names and parenthetical roles, which require character-level checking in Gate E.
-
-Physical line wrapping such as p.166→167 `தமிழ்` / `நாட்டிலே` was normalised only as ordinary paragraph flow, without lexical rewriting.
+All **36** mapped scan pages are represented. First-pass explicit unreadable/`[REVIEW]` markers: **0**.
 
 ## Gate D — full-speech Tamil completeness/page-marker audit
 
 Status: **passed**.
 
-Audit result for locked scan range **136–171 / printed pp.135–170**:
-
 - expected mapped source pages: **36**;
 - represented source pages: **36**, exactly **136–171**;
-- source-page markers are in increasing source order;
-- no mapped page is omitted or duplicated;
-- opening boundary matches scan p.136 (`உரை : 5`, `நாள் : 14.08.1996`);
-- ending boundary matches scan p.171 after the final `திரு. ஆர். சொக்கர்` / Kalaignar exchange and decorative ornament;
-- scan p.172 begins Speech 6 (`23.04.1997`), confirming no spillover;
+- source-page markers are monotonic with no mapped omission or duplication;
+- opening and ending boundaries match the locked map;
+- scan p.172 begins Speech 6, confirming no spillover;
 - final speaker changes/interventions are represented;
 - explicit unresolved-reading markers: **0**.
 
-Tamil status after Gate D: **transcribed**. This does **not** confer `reviewed` or `verified` status.
+Gate D establishes completeness only. Tamil remains `transcribed` until strict visual verification is complete.
 
-## Next gate
+## Gate E — strict visual/source-fidelity verification
 
-Gate E is now eligible and is the exact next activity: strict direct page-by-page visual/source-fidelity verification of the complete Tamil against scan pp.136–171.
+Status: **in progress**.
 
-Gate E must check words/characters, names/initials, numerals, dates, monetary values, units, embedded English, headings, speaker labels, punctuation and page-transition continuity. Any source-supported corrections must be applied to the canonical transcript and logged in `verification-log.md`.
+### Batch 1 — scan pp.136–150 / printed pp.135–149
 
-English / Gate F remains **blocked** until Gate E passes and the Tamil is marked verified. Gates G and H have not started.
+Status: **completed strict visual audit for this batch**.
+
+All fifteen pages were re-read directly against the controlling scan. The canonical transcript received **18 source-supported corrections**. The complete itemised list is in `verification-log.md`.
+
+Notable corrections include:
+
+- p.137 `தாழ்ந்துபோய் இருக்கிறது` → `தாழ்ந்துபோய் இருக்கின்றது` and `வருகிறவர்கள்` → `வருகின்றவர்கள்`;
+- p.139 `முதலீடு செய்கின்ற திட்டம்` → `முதலீடு செய்யப்படுகிற திட்டம்`, plus a source punctuation correction;
+- p.141 the printed double hyphen before `இதற்கான`;
+- p.142 `இன்டர்மீடியட்ஸ்` → `இண்டர்மீடியட்ஸ்`, `மெத்தைல் கெமிக்கல்ஸ்` → `பென்சைல் கெமிக்கல்ஸ்`, and `சொல்லுகிற` → `சொல்லுகின்ற`;
+- pp.143–145 several first-pass `கொள்கிறேன்` / `நினைவுபடுத்துகிறேன்` forms corrected to the printed `கொள்கின்றேன்` / `நினைவுபடுத்துகின்றேன்`;
+- p.145 `ஸ்டோன்வேர் பைப்` → `ஸ்டோன்வேர் பைப்ஸ்`;
+- p.146 the significant first-pass omission was resolved: the source reads `எப்படி கொடைக்கானல் ஓட்டலுக்கு மறுப்பு எழுதினாரோ அந்தச் செயலாளர்`, not merely `... ஓட்டலுக்கு ...`;
+- p.150 `எதிர்பார்க்கின்றார்கள், விரும்புகின்றார்கள்` → `எதிர்பார்க்கிறார்கள், விரும்புகிறார்கள்` and `பன்னீர்தாஸ் குடும்பத்தின்` → `பன்னீர்தாஸ் குடும்பத்தினர்`.
+
+### Source forms explicitly confirmed in Batch 1
+
+The following potentially suspicious forms were visually checked and retained because the scan supports them:
+
+- p.142 `இஃதன்னியில்`;
+- p.145 `ஆலங்குளம் ஆஸ்பெஸ்டாஸ் பயிற்சித் தொழிற்சாலை`;
+- p.149 the embedded English audit passages, including `had TIDCO adopted this rate...` and `as such discounting the rate further...`;
+- p.150 `'Good atmosphere'`.
+
+The earlier first-pass note treating p.146 `ஓட்டலுக்கு மறுப்பு எழுதினாரோ` as an unusual retained form is superseded: strict visual inspection proved the omitted word `கொடைக்கானல்`, and the transcript has been corrected.
+
+Gate-E Batch-1 unresolved/`[REVIEW]` markers: **0**.
+
+Gate-E coverage now stands at **15/36 pages**, scan pp.136–150 / printed pp.135–149. This is partial verification only; the full Tamil must not yet be labelled `verified`.
+
+## Pending first-pass forms for later Gate-E batches
+
+These remain first-pass readings until their own scan pages are strictly audited:
+
+- p.154 `Our closed historical and cultural ties`;
+- p.155 `Sigapore`;
+- p.156 `Tom, Tick & Harry`;
+- p.157 `business-men`;
+- pp.158–159 `Liquified Natural Gas` / `LNG Terminal (Liquified)`;
+- p.162 `அருணா ஷூகாஸ்`;
+- p.163 `தேவையேயில்லாமல்,,` and `ஊழல் நடத்திருக்கிறது`;
+- p.164 `ஸ்பெசிபிக் நேர்வு`;
+- p.167 `ராஜஸ்தான் ஷிப் அண்டு உல்::பெடரேஷன்` and the transliterated organisation/place sequence;
+- p.168 `வறுமை தேன் எனக் கொட்டுகிறது`, `side effects`, `anti-biotic`, `சிண்டாக்`;
+- p.169–170 State Planning Commission names and parenthetical roles.
+
+## Next gate activity
+
+Continue Gate E with **Batch 2: scan pp.151–165 / printed pp.150–164**. Check every page directly against the scan and apply only source-supported corrections. After that, Gate E Batch 3 covers scan pp.166–171.
+
+English / Gate F remains **blocked** until the entire Gate E range passes and Tamil is marked verified. Gates G and H have not started.
