@@ -85,7 +85,7 @@ company has approached us for this purpose. I also inform you that this too will
 
 If Kanyakumari is a district without industrial development, our district too is similarly a district without industrial development. So, in future, let the two of us compete with each other to develop industry in Kanyakumari and Thanjavur, and let us resolve to develop industry throughout Tamil Nadu as well.
 
-Hon. member Tha. Kiruttinan said that potassium chlorate is used as a raw material in match manufacture and that it currently attracts 11 per cent sales tax in Tamil Nadu. Taking industrial growth into account, under the tax concessions we have announced, I remind Thiru Kiruttinan that this House has already announced that when potassium chlorate is purchased as a raw material for match manufacture in Tamil Nadu, the sales tax will be only 3 per cent. I also happily inform the House that the notification for this will be issued shortly.
+Hon. member Tha. Kiruttinan said that potassium chloride is used as a raw material in match manufacture and that it currently attracts 11 per cent sales tax in Tamil Nadu. Taking industrial growth into account, under the tax concessions we have announced, I remind Thiru Kiruttinan that this House has already announced that when potassium chlorate is purchased as a raw material for match manufacture in Tamil Nadu, the sales tax will be only 3 per cent. I also happily inform the House that the notification for this will be issued shortly.
 
 During Kazhagam rule, action had already been taken as a progressive step in the industrial sector. There was already what was called the Joint Sector. In the Joint Sector the Government share was 26 per cent. In the Associate Sector, the Government share was 11 per cent. When the Kazhagam Government had been in office earlier, we had introduced such an arrangement. Thus the Government would invest 11 per cent or a lower percentage. Through this, private companies could function with freedom, without excessive Government control, while at the same time receiving all Government assistance needed for industrial development.
 
@@ -228,7 +228,7 @@ It was said that it is not necessary to satisfy everybody in the A.I.A.D.M.K. Go
 
 ### Source page 157
 
-the magazine writes that because of the principal conduct of the former Chief Minister, Tamil Nadu lost many major industries. "Although Tamil Nadu's infrastructure is one of the best, Jayalalitha's behaviour has put off business-men. தொழில் தொடங்குவதற்கான அனைத்து வசதிகளும் கொண்ட மாநிலமாக தமிழ்நாடு இருந்தாலும்கூட ஜெயலலிதாவின் நடவடிக்கை பல தொழிலதிபர்களை தொழில் தொடங்க வொட்டாமல் செய்துவிட்டது என்று வேதனையோடு அந்தச் செய்தி வெளியிடுகிறது.
+the magazine writes that because of the principal conduct of the former Chief Minister, Tamil Nadu lost many major industries. "Although Tamil Nadu's infrastructure is one of the best, Jayalalitha's behaviour has put off business-men. The report states with regret that, even though Tamil Nadu is a State with all the facilities required for starting industries, Jayalalitha's conduct prevented many industrialists from starting industries.
 
 To expand electricity generation further, there is another large scheme. When I announce it, it may appear to you like a great dream. But this is a time when dreams can become reality. When Thiru Thirunavukkarasu's ten-year dream has today become reality, why should this not be fulfilled?
 
