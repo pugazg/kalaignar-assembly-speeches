@@ -30,64 +30,50 @@
 
 ## Current status
 
-Speech 7 Tamil has completed **Gate C, Gate D and Gate E**.
+Speech 7 Tamil has completed **Gate C, Gate D and Gate E** and is **verified against scan pp.199–240**.
 
-- Full mapped speech: **42 scan pages**, pp.199–240 / printed pp.198–239.
 - Gate C: **complete — 42/42 first-pass Tamil pages**.
 - Gate D completeness/page-marker audit: **passed**.
-- Gate E Batch 1: **passed — scan pp.199–213 / printed pp.198–212**.
-- Gate E Batch 2: **passed — scan pp.214–228 / printed pp.213–227**.
-- Gate E Batch 3: **passed — scan pp.229–240 / printed pp.228–239**.
-- Full Gate-E closure check: **passed**.
-- Gate E verified pages: **42/42**.
+- Gate E: **passed — 42/42 pages verified against scan**.
 - Gate E cumulative corrections: **5**.
 - Gate E unresolved/`[REVIEW]` readings: **0**.
-- Current Tamil status: **verified against scan**.
-- English Gate F: **unblocked, not started**.
+- English Gate F: **in progress — source/scan pp.199–213 translated (15/42 pages)**.
+- English Gate G: **not started**.
+- English verified: **no**.
 
-## Gate E — corrections
-
-Batch 1 applied three source-supported corrections:
+## Gate E — canonical corrections
 
 1. p.202 `விற்கப்படுகின்ற` → `விற்கப்படுகிற`;
 2. p.205 `தெரிவித்து உண்மை` → `தெரிவித்தது உண்மை`;
-3. p.209 `சுட்டிக் காட்டியிருக்கின்றேன்` → `சுட்டிக் காட்டியிருக்கிறேன்`.
+3. p.209 `சுட்டிக் காட்டியிருக்கின்றேன்` → `சுட்டிக் காட்டியிருக்கிறேன்`;
+4. p.214 Hyundai land allotment `552 ஏக்கர்` → `532 ஏக்கர்`;
+5. p.227 `புயூஜிகுரா லிமிடெட்` → `ப்யூஜிகுரா லிமிடெட்`.
 
-Batch-1 correction commit: `4c42c979f087a78cdaeef3e96a12506bcdd7693e`.
+The full Gate-E closure reconciled all three visual-audit batches, confirmed exact source-page coverage 199–240, zero unresolved readings, no p.241/Speech-8 spillover, and intact opening/closing parliamentary sequences.
 
-Batch 2 applied two source-supported corrections:
+## Gate F — English translation progress
 
-1. p.214 Hyundai land allotment `552 ஏக்கர்` → `532 ஏக்கர்`;
-2. p.227 `புயூஜிகுரா லிமிடெட்` → `ப்யூஜிகுரா லிமிடெட்`.
+English is translated only from the **final verified Tamil** in [`translation.md`](./translation.md), with source-page correspondence preserved.
 
-Batch-2 correction commit: `2ae1963b7d9c5dde4a96eb5ff8b8affbaf3a6693`.
+- Batch 1: source pp.199–203 — complete.
+- Batch 2: source pp.204–208 — complete.
+- Batch 3: source pp.209–213 — complete.
+- Current total: **15/42 pages**.
+- Next source page: **214**.
+- Unresolved translation questions: **0**.
 
-Batch 3 directly re-read scan pp.229–240 and found **no additional definite canonical correction**. It included the project-list continuation, IT/software/Y2K/TIDEL material, `Single Window System`, the Subbarayan and Ponnammal interventions, the full printed `THIRU B. VENKATASAMY` intervention and Kalaignar's final reply. Scan p.241 / Speech 8 was excluded.
-
-## Full Gate-E closure
-
-The separate closure check reconciled all three Gate-E batch records and the current canonical transcript. It confirmed:
-
-- exact bounded coverage: **199–213 + 214–228 + 229–240 = 42/42 pages**;
-- all five logged corrected forms are present canonically;
-- unresolved readings: **0**;
-- the source-page sequence remains exactly **199–240**, with no p.241/Speech-8 spillover;
-- the p.199 `உரை : 7` / `நாள் : 14.05.1998` / speaker opening remains intact;
-- the p.240 Speaker → `THIRU B. VENKATASAMY` → Tamil follow-up → Kalaignar final-reply sequence remains intact;
-- audited printed-English passages remain represented.
-
-Tamil therefore satisfies the repository definition of **verified**.
+Batch 3 preserves the source’s repeated rendering of the `Business India` passage, the printed `Economic Intelligency Unit` / `India Uncaged` / `Seeking opportunities in the South` material, the source-printed English corruption quotation, public-sector undertaking list, Ranipet SIPCOT chronology, industrial-establishment figures, Neyveli `Third mine cut`, and the M.R.L. continuation into p.214. No outside factual correction was substituted into the translation.
 
 ## Next activity
 
-Begin **Gate F — English translation** from the **final verified Tamil**, following `docs/ARCHIVAL_WORKFLOW.md` and the established structure used by the released speeches. Do not translate from OCR or an earlier Tamil draft. Preserve source claims, parliamentary context, figures, technical terms and page correspondence.
+Continue **Gate F Batch 4** from verified Tamil **source/scan p.214**, using a bounded five-page batch **pp.214–218 / printed pp.213–217**. Preserve exact page correspondence, figures, technical names/terms, source claims and printed English. Do not mark English verified; Gate G remains separate after the complete first pass.
 
 Do not begin Speech 8.
 
 ## கோப்புகள்
 
 - [`transcript.md`](./transcript.md) — complete Tamil source layer, verified against scan pp.199–240.
-- [`metadata.json`](./metadata.json) — Gate E passed; Tamil verified; English Gate F unblocked.
+- [`translation.md`](./translation.md) — Gate-F English working translation, currently pp.199–213.
+- [`metadata.json`](./metadata.json) — Tamil verified; Gate F in progress at 15/42 pages.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and verification record.
-- [`verification-log.md`](./verification-log.md) — Gate-C/D history, Gate-E batch audit and closure trail.
-- [`gate-e-batch1-corrections.md`](./gate-e-batch1-corrections.md) — corrected Batch-1 source-fidelity findings.
+- [`verification-log.md`](./verification-log.md) — Gate-C/D history and Gate-E audit/closure trail.
