@@ -113,4 +113,6 @@ If scan p.151 onward is not available, stop at this source-availability block.
 
 ## End-of-session checkpoint
 
-Current work commits through Batch 1 end at `dd69cdc1da419ecefe48e9abbdfb29c3206ffc11`. The next-chat prompt update was attempted in this session but the GitHub write action was blocked by the connector safety layer, so its previous repository version may still point to Batch 1. This handover is therefore the controlling continuation document until that prompt file can be advanced.
+Speech-5 Gate-C Batch-1 canonical file commits are listed above. The first handover checkpoint update was committed as `258c2ba55fecb2206bc39743925ab6a27cfa340d`. `docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md` was then successfully advanced to Batch 2 in commit `412e81abcb1ec689fa7e5c961d2674073d6d22f2`.
+
+The `main` HEAD immediately before this final handover refresh was `412e81abcb1ec689fa7e5c961d2674073d6d22f2`. After this handover commit, resume only from **scan p.151** when that source page is available.
