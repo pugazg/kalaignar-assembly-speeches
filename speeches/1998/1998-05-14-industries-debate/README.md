@@ -55,21 +55,23 @@ The full Gate-E closure confirmed exact source-page coverage 199–240, zero unr
 
 ## English verification
 
-Gate F translated only from the final verified Tamil. Gate G then checked all **42/42** English source-page sections against the final verified Tamil. It found **0 definite fidelity corrections** and **0 unresolved translation questions**. The p.240 printed-English `THIRU B. VENKATASAMY` intervention and final Hosur ELCOT/ELNET exchange are retained, and the English stops at the Speech-7 boundary.
+Gate F translated only from the final verified Tamil. Gate G checked all **42/42** English source-page sections against the final verified Tamil and found **0 definite fidelity corrections** and **0 unresolved translation questions**. The p.240 printed-English `THIRU B. VENKATASAMY` intervention and final Hosur ELCOT/ELNET exchange are retained, and the English stops at the Speech-7 boundary.
 
 See [`translation-review.md`](./translation-review.md) for the Gate-G review record.
 
 ## Gate H — canonical release
 
-The verified English layer now follows the verified Tamil source layer in canonical [`transcript.md`](./transcript.md), matching the repository's completed-speech convention. `data/speeches.json` and the root speech index include Speech 7 as Tamil/English verified. Source ranges, status fields and canonical path have been reconciled across the entry.
+The verified English layer now follows the verified Tamil source layer in canonical [`transcript.md`](./transcript.md), matching the repository's completed-speech presentation. `data/speeches.json` and the root speech index include Speech 7 as Tamil/English verified. Source ranges, status fields and canonical path have been reconciled across the entry.
+
+The former Gate-F [`translation.md`](./translation.md) working copy is retained only as a pointer to the canonical English in `transcript.md`, avoiding two independently editable released copies.
 
 ## Files
 
 - [`transcript.md`](./transcript.md) — canonical verified Tamil followed by verified English.
-- [`translation.md`](./translation.md) — verified English working companion.
+- [`translation.md`](./translation.md) — retired Gate-F pointer to canonical English.
 - [`translation-review.md`](./translation-review.md) — Gate-G full-speech English fidelity review.
 - [`metadata.json`](./metadata.json) — verified Tamil/English and Gate-H release status.
-- [`source-notes.md`](./source-notes.md) — source authority and locked boundaries.
+- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and release closure.
 - [`verification-log.md`](./verification-log.md) — Gate-C through Gate-H audit trail.
 
 ## Next anthology unit
