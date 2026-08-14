@@ -10,6 +10,7 @@ Controlling publication: `தொழில்துறை பற்றி கல�
 - file size: **217,124,211 bytes**
 - SHA-256: `c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370`
 - scan image is authoritative for Tamil; OCR/extracted text is only a helper.
+- English translation and verification must use the **final verified Tamil**, not OCR or an earlier draft.
 
 ## Released anthology state
 
@@ -26,57 +27,59 @@ Speeches **1–5** are fully released with verified Tamil and verified English. 
 - Gate C Tamil first-pass transcription: **complete — 27/27 pages**;
 - Gate D completeness/page-marker audit: **passed**;
 - Gate E strict visual/source-fidelity verification: **passed — 27/27 pages**;
-- Gate E Batch 1: scan pp.172–186 — **4 corrections**;
-- Gate E Batch 2: scan pp.187–198 — **2 corrections**;
-- total Gate-E corrections: **6**;
-- explicit unreadable/`[REVIEW]` markers: **0**;
+- Gate-E corrections: **6 total**;
+- Tamil unresolved/`[REVIEW]` markers: **0**;
 - Tamil status: **verified against the scan**;
-- Gate F English: **eligible, not started**;
-- Gate G: not started;
-- Gate H: not started.
+- Gate F English translation: **complete — 27/27 source-page sections, 172–198**;
+- Gate-F working file: `speeches/1997/1997-04-23-industries-debate/translation.md`;
+- Gate-F structural assertion: **passed** — exact English page headings 172–198, no p.199 spillover, no `[REVIEW]` marker;
+- unresolved translation questions recorded at Gate F: **0**;
+- English status: **complete-unverified**;
+- Gate G English fidelity verification: **not started**;
+- Gate H: **not started**.
 
 Canonical folder: `speeches/1997/1997-04-23-industries-debate/`.
 
-## Gate E final state
+## Gate E retained result
 
-The full Tamil transcript was directly compared page-by-page with the controlling scan for scan pp.172–198 / printed pp.171–197. The six source-supported corrections now canonical are:
+The full Tamil transcript was directly compared page-by-page with the controlling scan for scan pp.172–198 / printed pp.171–197. Six source-supported corrections were applied and no unresolved readings remain. Important deliberately retained source forms include `transparent appoach`, `(Flori-Culture)`, `ப்ளை ஆஷ்பேஸ்ட் பிளாக்ஸ்`, `Financial Time 10 ஏப்ரல் 1997`, the printed Mark Nicholson quotations, `Single Window Clearance`, `Industrial Township`, `Executive Authority`, `Load`, `(Seigniorage fee)`, `(Transport Permit)`, `(Technology Parks)`, `(Software Techno Parks)`, `L.N.G. (Liquified Natural Gas)`, the p.193 13-item bidder list, `விடிவுகாலம்`, `Singapore Indian Chamber of Commerce`, `(Window)`, `(Naphtha Crackers & Olefins)`, `Biaxially oriented poly propylene - (Bopp)`, `பிஸ்பினால்-ஏ (Bisphenol-A)`, `(Siscal)`, `பல்க்டிரக் இண்டார்மீடியட்ஸ்`, `'டான்சம்'`, `(சிரிப்பு)`, and `விடேன் தொடேன்`.
 
-1. p.173 `சென்னை எண்ணெய் சுத்திகரிப்பு நிறுவனம்` → `சென்னை எண்ணெய்ச் சுத்திகரிப்பு நிறுவனம்`;
-2. p.175 `உலக அளவிலான வீழ்ச்சி இல்லை` → `உலக அளவிலான விழுக்காடு வீழ்ச்சி இல்லை`;
-3. p.175 `'சிப்காட்'னுடைய` → `'சிப்காட்'டினுடைய`;
-4. p.177 `'சிப்காட்'ன் சார்பாக` → `'சிப்காட்'டின் சார்பாக`;
-5. p.192 `திரவமயமாக்கப்பட்ட எரிவாயு` → `திரவமயமாக்கப் பட்ட எரிவாயு`;
-6. p.198 `இனிமேல் பின்னாக இருக்க மாட்டீர்கள்` → `இனிமேல் பின்னாக இருக்க மாட்டார்கள்`.
+The final Tamil boundary remains locked: scan p.198 ends `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).` followed by the decorative ornament; scan p.199 begins `உரை : 7`, `நாள் : 14.05.1998`. No Speech-7 spillover is present.
 
-No unresolved readings remain.
+## Gate F — completed English translation
 
-The audit deliberately retained visually supported source forms including `transparent appoach`, `(Flori-Culture)`, `ப்ளை ஆஷ்பேஸ்ட் பிளாக்ஸ்`, `Financial Time 10 ஏப்ரல் 1997`, the printed Mark Nicholson quotations, `Single Window Clearance`, `Industrial Township`, `Executive Authority`, `Load`, `(Seigniorage fee)`, `(Transport Permit)`, `(Technology Parks)`, `(Software Techno Parks)`, `L.N.G. (Liquified Natural Gas)`, the full p.193 13-item bidder list, `விடிவுகாலம்`, `Singapore Indian Chamber of Commerce`, `(Window)`, `(Naphtha Crackers & Olefins)`, `Biaxially oriented poly propylene - (Bopp)`, `பிஸ்பினால்-ஏ (Bisphenol-A)`, `(Siscal)`, `பல்க்டிரக் இண்டார்மீடியட்ஸ்`, `'டான்சம்'`, `(சிரிப்பு)`, and `விடேன் தொடேன்`.
+A full first-pass English translation was created from the **final verified Tamil only**, in `translation.md`, with one `### Source page N` section for each source page **172 through 198**.
 
-The final boundary was rechecked: scan p.198 ends `நன்றி, வணக்கம். (மேசையைத் தட்டும் ஒலி).` followed by the decorative ornament; scan p.199 begins `உரை : 7`, `நாள் : 14.05.1998`. No Speech-7 spillover is present.
+Gate-F translation principles/results:
 
-## Exact next action — Speech 6 Gate F
+- exact source-page correspondence: **27/27**, sequence **172–198**;
+- missing / duplicate / reordered English page headings: **0 / 0 / 0**;
+- p.199 / Speech-7 spillover: **absent**;
+- unresolved translation questions: **0**;
+- parliamentary sequence, names, figures, dates, percentages, rupee values, acreage, megawatts, technical terms, lists and context markers were preserved;
+- printed English already embedded in the source was retained in source form rather than silently repaired, including `Financial Time`, `Bernard Fintlay`, `transparent appoach`, `Liquified Natural Gas`, the Mark Nicholson quotations/headline and other printed English institutional/technical forms;
+- Gate F does **not** make English verified.
 
-Begin **Gate F — English translation from the final verified Tamil**.
+## Exact next action — Speech 6 Gate G
 
-1. Re-read `docs/ARCHIVAL_WORKFLOW.md`, the handover, this prompt, and all five Speech-6 canonical files.
-2. Study the completed Speech-5 English structure only as a repository-format reference; do not copy its wording or silently import interpretations.
-3. Translate from the **final verified Tamil in canonical `transcript.md`**, never from OCR or an earlier first-pass draft.
-4. Preserve the argumentative sequence, parliamentary context, names, figures, dates, percentages, money, units, technical terminology, quoted material and source claims.
-5. Do not silently correct historical statements, company spellings, unusual source terminology or printed anomalies. Translator clarification, if genuinely needed, must be visibly distinguished from source content.
-6. Maintain source-page correspondence for all **27 source pages, 172–198**.
-7. Use the repository's established translation working-file convention if present (inspect Speech 5 before creating or editing a Speech-6 translation file).
-8. At Gate-F completion, record the exact translated source range, page count, unresolved translation questions and relevant commit SHAs in Speech-6 documentation.
-9. Do **not** mark English verified at Gate F. Gate G must re-read the complete English against the verified Tamil before that status is allowed.
-10. Do not begin Speech 7 and do not make Gate-H root index/release changes yet.
+Perform **Gate G — full English fidelity verification** against the final verified Tamil.
 
-## Gate E completion commits
+1. Re-read `docs/ARCHIVAL_WORKFLOW.md`, the handover, this prompt, all Speech-6 canonical files and `translation.md`.
+2. Use canonical verified `transcript.md` as the Tamil authority and `translation.md` as the English working layer.
+3. Re-read **all 27 English source-page sections, 172–198**, against the corresponding verified Tamil source-page sections.
+4. Check completeness and omissions/additions; page-boundary continuity; names and initials; dates, percentages, money, acreage, megawatts and other figures; technical/industrial terminology; speaker/context markers; lists; quotations; humour; and source anomalies.
+5. Printed English already present in the Tamil source must remain source-faithful. Do not silently correct `Financial Time`, `Bernard Fintlay`, `transparent appoach`, `Liquified Natural Gas` or other source-supported anomalies merely from outside knowledge.
+6. Pay particular attention to the p.174 export passage; pp.180–181 15-item Joint Sector list; pp.185–186 *Economist Intelligence Unit* passage; p.188 Mark Nicholson quotations; pp.189–190 Single Window / quarry / I.T.I. passages; pp.192–193 LNG project and complete 13-item bidder list; pp.194–196 Jayankondam/Singapore/TIDCO projects; p.197 rubber-industry humour; and the p.198 front-row/backward-wordplay and final closing.
+7. Apply every English correction to `translation.md` and itemise every concrete Gate-G correction in `verification-log.md`.
+8. If all 27 sections pass and no unresolved English fidelity issues remain, mark English `verified`, update metadata/README/source notes/log, and incorporate the corrected verified English after the Tamil source layer in canonical `transcript.md`, following the released Speech-5 precedent.
+9. Gate G completion does **not** itself perform Gate H. Do not update root `README.md` or `data/speeches.json` until the separate Gate-H release/index activity.
+10. Do not begin Speech 7 while Speech 6 Gate G is active.
 
-- Batch-1 first correction — `555902e8f4e9d80935474053dc1d04dc6ade1c31`;
-- Batch-1 remaining corrections + transcript note — `430ebeec01252e433ff32bb31def225133c2a177`;
-- Batch-1 checkpoint handover — `2be0d73246328653ca661a8b7fffb372933bbebe`;
-- Batch-2 verified transcript closure — `fbee30ca62ef3e2d1bee00bf434455dfc63776cc`;
-- Batch-2 transcript workflow removed — `76a2a184a616f4ae40e8ad1484e0468d07c23953`;
-- Gate-E metadata closure — `0fc7a378d62572530081f31265a1b9d27b01f939`;
-- Speech-6 README verified-Tamil state — `586d9c13df6dacb49775c513e573ca213fa835b5`;
-- Batch-2 source-notes / verification-log record — `6db44a8249d9e4a0edd87f471b3404063c6edef7`;
-- temporary Batch-2 docs workflow removed — `4dd789f4b1338bc9cf914f6ab10c8028451be8fb`.
+## Gate F commits
+
+- complete first-pass `translation.md` — `1f253edca1b52269b0921f74a5ab916f2fa3be99`;
+- metadata Gate-F state — `9ced35950c584c2017e7c9b15adba13894a9f949`;
+- Speech-6 README Gate-F state — `f478438f86a242740436bcee1f6447750c7912c1`;
+- temporary Gate-F validation/docs workflow staged — `6d0abc2a34ccf2dd4d458f91ec2327fd0378546e`;
+- Gate-F structural assertion + source-notes/verification-log record — `607ca9c3eca73ff0cf51085b9f170daa7bdc1720`;
+- temporary Gate-F validation workflow removed — `961495e28b21240a19d560e11b0ecd0460538363`.
