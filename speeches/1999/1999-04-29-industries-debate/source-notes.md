@@ -72,30 +72,26 @@ These five pages were visually verified directly against rendered images from th
 
 Scan pp.258–260 required no definite word/character correction. Cross-page continuations p.255→256 and p.260→261 were checked and remain intact. Unresolved readings in Batch 4: **0**.
 
-Canonical Gate-E verified range after Batch 4: **scan pp.241–260 / printed pp.240–259 — 20/37 pages**. Cumulative corrections already merged: **25**.
+### Batch 5 — scan pp.261–265 / printed pp.260–264
 
-### Batch 5 visual review — scan pp.261–265 / printed pp.260–264
-
-All five pages were re-read directly against rendered images from the controlling scan. One definite source-supported correction was identified:
+All five pages were visually verified directly against rendered images from the controlling scan. One definite source-supported correction was applied to canonical `transcript.md`:
 
 1. scan p.261: `ஆட்டோமொபைல்` → `ஆட்டோ மொபைல்`.
 
-The scan prints `ஆட்டோ` and `மொபைல்` as separate words across the physical line break in the Sriram Auto Components entry. The source form is therefore staged for preservation rather than silently normalised to the compound.
-
-Scan pp.262–265 required no additional definite word/character correction. Checks included company/project names, monetary and employment figures, acreages/MW figures, printed English/Latin-script text, punctuation/spacing where source-significant, and cross-page continuity.
+The scan prints `ஆட்டோ` and `மொபைல்` separately in the Sriram Auto Components entry. Scan pp.262–265 required no additional definite correction. Checks covered company/project names, monetary and employment figures, acreages/MW figures, printed English/Latin-script text, punctuation/spacing where source-significant and cross-page continuity.
 
 Boundary checks:
 
 - p.260→261: p.260 closes with the Asian Lighting metal-tube-lamp factory; p.261 begins the Karur Yarn Links entry — intact;
 - p.265→266: p.265 closes with the `Economic Times` lead-in dated `28-4-1999`; p.266 begins the printed English quotation `Tamil Nadu followed closely by Gujarat...` — intact.
 
-Batch-5 unresolved readings: **0**.
+Batch-5 unresolved readings: **0**. Canonical Batch-5 transcript checkpoint: `a1a90353a222507c4a14a926ce0d856b25741c65`.
 
-Because the one p.261 correction has not yet been merged into the large canonical transcript, Batch 5 is recorded in [`gate-e-batch5-pp261-265.md`](./gate-e-batch5-pp261-265.md) as a completed visual review **pending canonical merge**. Canonical verified coverage therefore remains **20/37 pages** and cumulative applied corrections remain **25** until that merge is completed.
+Current Gate-E verified range: **scan pp.241–265 / printed pp.240–264 — 25/37 pages**. Cumulative definite Gate-E corrections: **26**. Tamil remains **reviewed, not fully verified**.
 
-## Next audit action
+## Next audit
 
-Merge the staged p.261 correction into canonical `transcript.md`, update its archival note to verified through scan p.265 / printed p.264, validate the diff, then close Batch 5 at **25/37 pages** and **26 cumulative corrections**. Remove the staging file after the successful merge. Only then proceed with **Gate E Batch 6 — scan pp.266–270 / printed pp.265–269**.
+Proceed with **Gate E Batch 6 — scan pp.266–270 / printed pp.265–269**. The rendered scan remains controlling. Apply and log only source-supported corrections; do not modernise or externally normalise the source.
 
 ## Translation status
 
