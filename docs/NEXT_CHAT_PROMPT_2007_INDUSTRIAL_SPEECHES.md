@@ -1,16 +1,16 @@
-# Next-chat prompt — Speech 8 Gate F final merge / Gate G start / 29.04.1999
+# Next-chat prompt — Speech 8 Gate G Batch 2 / 29.04.1999
 
 Continue the Kalaignar Assembly Speeches archival project in `pugazg/kalaignar-assembly-speeches`.
 
-Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or modify Speech 7.** Speech 8 Tamil Gates C–E are complete and Tamil is verified against the controlling scan. Gate F Batches 1–7 are canonically merged. Final Gate F Batch 8 has been fully translated in a staging file and awaits canonical merge. Continue the existing Speech-8 entry; do not create duplicates.
+Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or modify Speech 7.** Speech 8 Tamil Gates C–E are complete and verified, Gate F English translation is complete for all 37 pages, and Gate G fidelity review Batch 1 is complete. Continue the existing Speech-8 entry; do not create duplicates.
 
 ## Mandatory startup
 
 1. Read `docs/ARCHIVAL_WORKFLOW.md` completely.
 2. Read `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` completely.
 3. Read `sources/2007-industrial-speeches/mapping.md`.
-4. Read current `speeches/1999/1999-04-29-industries-debate/metadata.json`, `README.md`, `translation.md`, `gate-f-batch8-pp276-277.md`, and canonical `transcript.md`.
-5. Use the **final verified Tamil** in canonical `transcript.md` as the sole textual authority for English fidelity work.
+4. Read current `speeches/1999/1999-04-29-industries-debate/metadata.json`, `README.md`, `translation-review.md`, canonical `translation.md`, and final verified `transcript.md`.
+5. Use the **final verified Tamil** in canonical `transcript.md` as the sole textual authority for Gate G. Do not use OCR or outside historical information to override it.
 
 ## Speech 8 locked mapping
 
@@ -30,28 +30,35 @@ Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or mo
 - Gate-E cumulative corrections: **29**
 - unresolved Tamil readings: **0**
 - Tamil status: **verified against scan**
-- Gate F canonical: **Batches 1–7 merged, source pp.241–275 / printed pp.240–274, 35/37 pages**
-- canonical Batch-7 merge checkpoint: `673265033d6618c173ca3e03927cc714f1747ee7`
-- final Gate F Batch 8: **translation complete in staging, source pp.276–277 / printed pp.275–276, 2 pages**
-- staging file: `speeches/1999/1999-04-29-industries-debate/gate-f-batch8-pp276-277.md`
-- staging commit: `435add96dd85cd8a618636bbc4b90e4030deb9de`
-- Batch-8 unresolved translation questions: **0**
-- Speech-8 ending confirmed at source p.277; p.278 begins Speech 9; **no Speech-9 spillover**
-- Gate G: **not-started**
+- Gate F: **complete — source pp.241–277 / printed pp.240–276, 37/37 pages**
+- final Gate-F merge checkpoint: `ed79a499ecb56f8fb750f5ea9d946d1b2a71fde3`
+- final Gate-F staging deletion: `006b846958383f354dd27e3fe8066c4982261d69`
+- Gate G: **in progress**
+- Gate G Batch 1 reviewed: **source pp.241–245 / printed pp.240–244, 5/37 pages**
+- Gate-G cumulative definite corrections: **1**
+- Gate-G unresolved fidelity issues: **0**
+- next Gate-G source page: **246**
+- English overall status: **complete, not yet verified**
 
-## Exact next activity
+## Batch-1 correction already applied
 
-First close Gate F canonically, then begin Gate G.
+On source p.245, Gate F had rendered `நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள்` as `You are taking the nameplate and going away with it.` Gate G corrected this definite over-literalisation to **`You are taking the credit for it.`**
 
-1. Fetch current canonical `translation.md` and staged `gate-f-batch8-pp276-277.md` immediately before editing.
-2. Append source-page sections **276–277** from the staging file after canonical source p.275.
-3. Change the Gate-F working note only as needed to state that Gate F covers **source pp.241–277 / printed pp.240–276, 37/37 pages**, and that Gate F is complete while English remains unverified.
-4. Inspect the canonical commit/diff to ensure Batches 1–7 were not accidentally changed.
-5. Reconcile metadata and README to Gate F `complete`, completed source pp.241–277 / printed pp.240–276, 37/37 pages, next source page null, unresolved translation questions **0**; remove the pending-batch record.
-6. Delete `gate-f-batch8-pp276-277.md` after a clean merge.
-7. Do **not** mark translation `verified`; Gate G is a separate full-speech fidelity review.
-8. Begin Gate G against the final verified Tamil. Use bounded review batches, compare Tamil and English page-by-page, record definite corrections, and inspect canonical diffs before advancing verified coverage.
-9. Preserve printed English passages exactly where they were intentionally retained in Gate F. Do not silently modernise or fact-correct source claims during Gate G.
-10. Do not start Speech 9 until Speech 8 completes Gate G and Gate H unless the user explicitly changes priority.
+Canonical correction commit: `badea74b3e3bf9e3c561a75550560caec8ef2bab`. The inspected diff contains only this English change.
 
-Final Batch 8 begins on source p.276 with the printed High Court quotation `.... the money due to the Government has been siphoned off by them...` and ends on p.277 with the `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay after the So. Balakrishnan intervention.
+## Exact next activity — Gate G Batch 2
+
+Review **source/scan pp.246–250 / printed pp.245–249** against the final verified Tamil.
+
+1. Fetch the exact Tamil and English ranges before review.
+2. Compare page-by-page for omissions, additions, mistranslations, meaning shifts and cross-page continuations.
+3. Check all speaker/context markers, names, dates, monetary values, percentages, technical/company terms, printed English and humour/idiom.
+4. Preserve unusual source claims and source wording; do not fact-correct or modernise from outside knowledge.
+5. Apply only definite English fidelity corrections.
+6. Inspect the canonical translation commit/diff before advancing reviewed coverage.
+7. Update `translation-review.md`, metadata, README, handover and this prompt truthfully.
+8. If Batch 2 passes, Gate G advances to **10/37 pages**, next source page **251**.
+9. Do not mark English fully verified until all source pp.241–277 pass Gate G.
+10. Do not begin Gate H or Speech 9 until Speech 8 Gate G passes unless the user explicitly changes priority.
+
+Batch 2 begins on source p.246 with the continuation of the Pugalur corruption-inquiry passage and runs through p.250, ending mid-way through the State-wise sugarcane-price comparison after Gujarat's 10.72 per cent recovery figure.
