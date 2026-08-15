@@ -47,18 +47,35 @@ Source-sensitive Batch-1 items deliberately retained for later Gate-E verificati
 - cumulative source-page markers: **278–287**, each once and in strict order;
 - missing/duplicate/reordered markers in completed range: **0**;
 - unresolved first-pass readings: **0**;
-- next source page: **288**;
 - ending continuation: p.287 ends inside the High Court quotation after `தமிழக அரசின்மீது இந்த நீதிமன்றம்`.
 
 Canonical Batch-2 transcript commit: `3fc93b8b3bb7860db225ead53511a747149a0ebd`. Its inspected diff changes only the Gate-C coverage note and appends source-page sections 283–287; completed pp.278–282 were not rewritten.
 
-A direct post-write scan reread reconfirmed the main source-sensitive forms in this batch:
+A direct post-write scan reread reconfirmed the main source-sensitive forms in this batch, including the p.283 *Industrial Herald* quotation, p.284 `e-` sequence, p.286 `இந்தக் கேமிரா கழுவும்போது` wording and technical forms, and p.287 TamilNet / Tamil Virtual University / school-computerisation material.
 
-1. p.283 printed-English *Industrial Herald* passage beginning `Now the third largest, the Tamil Nadu economy...`;
-2. p.284 exact `e-Mail. e-Commerce, e-Medicine, e-Value, e-biz.` / `e-business--, e-Stock, e-Education` sequence and `Internet`/`internet` capitalisation difference;
-3. p.286 clearly printed but semantically unusual wording `இந்தக் கேமிரா கழுவும்போது இருட்டான இடங்களையும் வெளிச்சமாக்கும்.`;
-4. p.286 technical forms `V.S.N.L.`, `DoT`, `Thermal Energy Storage System`, `Venture Capital Fund`, and the TIDEL Park figures;
-5. p.287 `தமிழ்நெட் 1999`, `Tamil Virtual University`, the 1,200-school / 600+600 / 48,000-student figures, and the High Court quotation boundary into p.288.
+### Batch 3 — source pp.288–292 / printed pp.287–291
+
+**Complete for this bounded batch.**
+
+- pages transcribed in Batch 3: **5**;
+- cumulative Speech-9 coverage: **15/26**;
+- cumulative source-page markers: **278–292**, each once and in strict order;
+- missing/duplicate/reordered markers in completed range: **0**;
+- unresolved first-pass readings: **0**;
+- next source page: **293**;
+- ending continuation: p.292 ends mid-sentence after `Tanflora Infrastructure Park; 24.85 கோடி ரூபாய் முதலீட்டில் மலரைப் பதப்படுத்தும் தொழில் பூங்கா ஒன்று`.
+
+Canonical Batch-3 transcript commit: `8de59961b972844acffb7f831d1867d2193cbf9d`. The inspected diff changes only the Gate-C coverage note and appends source-page sections 288–292; completed pp.278–287 were not rewritten.
+
+A direct post-write scan reread reconfirmed source-sensitive material including:
+
+1. the p.288 High Court continuation and closure, `கவனம் கொள்ளும் என்று நம்பிக்கை கொள்கிறது`;
+2. Dr. ஆனந்த கிருஷ்ணன் / Tamil internet research centre, software-company figures 34 / 562 / 58, `வேர்ல்ட் டெல்`, 13,000 centres and 1 இலட்சத்து 50 ஆயிரம் employment figure;
+3. *Economic and Political Weekly*, `Raising Global Competitiveness of Tamil Nadu's IT Industry`, `நிருபம் பாஜ்பாய்`, `நவி ரட்ஜிவ்`, `Intellectual Power House`, and `அடிப்படை யுத்தியாக`;
+4. p.289 source form `தொடங்கப்பட்ட இருக்கின்ற`;
+5. p.290 Polaris letter including `more then 100% per year`; `TIDCO`, `TCIL`, `ஃப்யூஜிகுரா`, `Optic Fibre Telecom Cables`, and `வைக்கவிரும்புகிறேன்`;
+6. p.291 `Condoms`, `Technical Products`, `Export Promotion Industrial Park`, and `Special Economic Zone`;
+7. p.292 source wording `இரண்டு கிழங்கட்டை இருந்தால் செத்துப் போய்விடும்`, Nanguneri 9,000 / 55,000 / 8,000 crore figures, and the Tanflora continuation boundary.
 
 This is **Gate C first-pass transcription only**. No claim of full character-level source verification is made yet.
 
@@ -79,4 +96,4 @@ English may begin only after Tamil Gates C–E are complete.
 
 ## Exact next activity
 
-Continue **Gate C Batch 3 — source/scan pp.288–292 / printed pp.287–291**, beginning with the continuation of the unfinished High Court quotation from p.287. Do not alter released Speech 8 and do not begin Speech 10.
+Continue **Gate C Batch 4 — source/scan pp.293–297 / printed pp.292–296**, beginning with the continuation of the unfinished Tanflora Infrastructure Park sentence from p.292. Do not alter released Speech 8 and do not begin Speech 10.
