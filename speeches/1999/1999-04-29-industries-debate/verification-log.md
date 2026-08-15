@@ -99,23 +99,61 @@ Batch-2 result:
 - corrections applied in batch: **6**;
 - unresolved readings: **0**.
 
-### Gate-E cumulative state after Batch 2
+### Batch 3 — scan pp.251–255 / printed pp.250–254
 
-- verified scan range: **241–250**;
-- verified printed range: **240–249**;
-- verified pages: **10/37**;
-- cumulative definite corrections: **11**;
+Pages checked directly against rendered scan images: **5/5**.
+
+Checks covered wording and individual characters, names, numerals/percentages/monetary values, printed English and abbreviations, punctuation/spacing where source-significant, and the p.250→251 and p.255→256 transitions.
+
+Definite corrections applied to canonical `transcript.md`:
+
+1. p.251 `நிதிமன்றத்திற்குச்` → `நீதிமன்றத்திற்குச்`;
+2. p.251 `இடைக்காலத்தடையை` → `இடைக் காலத்தடையை`;
+3. p.251 `ஏஜென்சியால்` → `ஏஜென்ஸியால்`;
+4. p.251 `தாமதமாகும்போலக்கூட` → `தாமதமாகும்போல்கூட`;
+5. p.253 `நிபந்தனைகளுக்கு குறைவான` → `நிபந்தனைகளுக்குக் குறைவான`;
+6. p.253 `முன்வருமானால்` → `முன் வருமானால்`;
+7. p.254 `இருக்கின்றதா` → `இருக்கிறதா`;
+8. p.254 `வளருவதற்கு காரணமாக` → `வளருவதற்குக் காரணமாக`;
+9. p.255 `அந்த காலகட்டத்திலேதான்` → `அந்தக் காலகட்டத்திலேதான்`;
+10. p.255 `அந்தத் திட்ட வரவை` → `அந்தத் திட்ட வரைவை`;
+11. p.255 `நிதியமைச்சராக` → `நிதிஅமைச்சராக`;
+12. p.255 `தெரிவித்துக்கொள்கிறேன்` → `தெரிவித்துக் கொள்கிறேன்`.
+
+Scan p.252 definite corrections: **0**.
+
+Boundary/continuation checks:
+
+- p.250→251: `10.72 சதவிகிதம் கட்டுமானம் உள்ள குஜராத்தில்` → `கரும்பு விலை ஒரு டன் 648 ரூபாய்.` — intact;
+- p.255→256: Speech-history passage closes on p.255 and p.256 begins `இந்தக் காலகட்டத்திலேதான் ஆலங்குளம் சிமெண்ட் தொழிற்சாலையும் அமைக்கப்பட்டது.` — intact.
+
+Batch-3 canonical correction checkpoint: `856297ff79dcb3f2539ac569941e09a27aaeccde`.
+
+Batch-3 result:
+
+- verified scan range: **251–255**;
+- verified printed range: **250–254**;
+- verified pages in batch: **5/5**;
+- corrections applied in batch: **12**;
+- unresolved readings: **0**.
+
+### Gate-E cumulative state after Batch 3
+
+- verified scan range: **241–255**;
+- verified printed range: **240–254**;
+- verified pages: **15/37**;
+- cumulative definite corrections: **23**;
 - unresolved readings in verified range: **0**.
 
 Tamil status remains **reviewed, not fully verified**. Gate E must cover all 37 pages before Tamil can be marked verified.
 
 ## Gates not yet complete
 
-- Gate E strict Tamil visual/source-fidelity verification: **in progress — 10/37 pages verified**.
+- Gate E strict Tamil visual/source-fidelity verification: **in progress — 15/37 pages verified**.
 - Gate F English translation: **blocked**.
 - Gate G English fidelity verification: **not started**.
 - Gate H release/index: **not started**.
 
 ## Next activity
 
-Continue **Gate E Batch 3 — scan pp.251–255 / printed pp.250–254**. Compare canonical Tamil directly against the rendered scan and apply/log only definite source-supported corrections. Do not begin English.
+Continue **Gate E Batch 4 — scan pp.256–260 / printed pp.255–259**. Compare canonical Tamil directly against the rendered scan and apply/log only definite source-supported corrections. Do not begin English.
