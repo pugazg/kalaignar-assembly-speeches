@@ -81,20 +81,30 @@ All five pages were visually verified directly against rendered images from the 
 
 1. scan p.267: `அப்போதை` → `அப்போதைய`.
 
-Scan p.266 and pp.268–270 required no additional definite word/character correction. Checks included the printed `Economic Times` and `Times of India` passages, CDR figures, `International Real Estates`, `Jones Long Wootten`, the Vikatan editorial, and the information-technology section including `Software Professionals`, `I.T. Task Force`, `I.T.Policy`, `Hardware`, `Software` and `I.T. Super Highway`.
+Scan p.266 and pp.268–270 required no additional definite word/character correction. Boundary checks p.265→266 and p.270→271 are intact. Batch-6 unresolved readings: **0**. Canonical Batch-6 transcript checkpoint: `2d43d163d6c7ac9e470ae08299d0d20e91ebe089`.
+
+### Batch 7 visual review — scan pp.271–275 / printed pp.270–274
+
+All five pages were re-read directly against rendered images from the controlling scan. One definite source-supported correction was identified:
+
+1. scan p.274: `ஏராளமான தொகைகளை லஞ்சம் செய்து கொண்டு` → `ஏராளமான தொகைகளை வசூல் செய்து கொண்டு`.
+
+The scan clearly prints `வசூல் செய்து கொண்டு` in the Tamil summary immediately before the first printed High Court English quotation. This is a source-fidelity correction, not an external semantic normalisation.
+
+Scan pp.271–273 and p.275 required no additional definite word/character correction. Checks covered `தமிழ்நெட் 1999`, Unicode Consortium, `Tamil Virtual University`, the 1,200-school / 48,000-student passage, Rule 39, Government Order No. 97 dated `8-3-1993`, acreage/lease/loss figures, and all printed High Court English quotations through p.275.
 
 Boundary checks:
 
-- p.265→266: `Economic Times` lead-in dated `28-4-1999` → printed English `Tamil Nadu followed closely by Gujarat...` — intact;
-- p.270→271: `வேர்ல்ட்டெல்` / internetisation passage → `தமிழ்நெட் 1999` — intact.
+- p.270→271: `வேர்ல்ட்டெல்` / internetisation passage → `தமிழ்நெட் 1999` — intact;
+- p.275→276: `மேலும், நீதிபதி, தன்னுடைய தீர்ப்பில் தொடர்ந்து சொல்கிறார் :` → printed English `.... the money due to the Government has been siphoned off...` — intact.
 
-Batch-6 unresolved readings: **0**. Canonical Batch-6 transcript checkpoint: `2d43d163d6c7ac9e470ae08299d0d20e91ebe089`.
+Batch-7 unresolved readings: **0**.
 
-Current Gate-E verified range: **scan pp.241–270 / printed pp.240–269 — 30/37 pages**. Cumulative definite Gate-E corrections: **27**. Tamil remains **reviewed, not fully verified**.
+Because the p.274 correction has not yet been merged into the large canonical transcript, Batch 7 is recorded in [`gate-e-batch7-pp271-275.md`](./gate-e-batch7-pp271-275.md) as a completed visual review **pending canonical merge**. Canonical verified coverage therefore remains **scan pp.241–270 / printed pp.240–269 — 30/37 pages**, with **27** cumulative applied corrections until that merge is completed.
 
-## Next audit
+## Next audit action
 
-Proceed with **Gate E Batch 7 — scan pp.271–275 / printed pp.270–274**. The rendered scan remains controlling. Apply and log only source-supported corrections; do not modernise or externally normalise the source.
+Merge the staged p.274 correction into canonical `transcript.md`, update its archival note through scan p.275 / printed p.274, validate the diff, then close Batch 7 at **35/37 pages** and **28 cumulative corrections**. Remove the staging file after successful merge. Only then proceed with the final **Gate E Batch 8 — scan pp.276–277 / printed pp.275–276**.
 
 ## Translation status
 
