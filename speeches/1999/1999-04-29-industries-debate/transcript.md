@@ -2,7 +2,7 @@
 
 ## உரை : 8 — நாள் : 29.04.1999
 
-> **Archival transcription note:** This is a complete Tamil transcription from the controlling May 2007 scan. Gate C covers scan pp.241–277 / printed pp.240–276 (37/37 pages), and Gate D structural completeness has passed. Gate E strict visual source-fidelity verification is in progress; scan pp.241–260 / printed pp.240–259 have been visually verified. The scan image is authoritative; wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English are preserved as visible, with only physical line wrapping normalised. Tamil status: **reviewed, not yet fully verified**. English remains blocked until Gate E passes all 37 pages.
+> **Archival transcription note:** This is a complete Tamil transcription from the controlling May 2007 scan. Gate C covers scan pp.241–277 / printed pp.240–276 (37/37 pages), and Gate D structural completeness has passed. Gate E strict visual source-fidelity verification is in progress; scan pp.241–265 / printed pp.240–264 have been visually verified. The scan image is authoritative; wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English are preserved as visible, with only physical line wrapping normalised. Tamil status: **reviewed, not yet fully verified**. English remains blocked until Gate E passes all 37 pages.
 
 ---
 
@@ -215,7 +215,7 @@ WORLD TEL நிறுவனத்தைப்பற்றி டாக்டர
 
 10 கோடி ரூபாய் செலவில் ஓசூரில் டாரஸ் நாவல்டீஸ் லிமிடெட் நிறுவனத்தின் டோலமைட், ஸ்டோன்வேர் பொருட்கள் தயாரிக்கும் தொழிற்சாலை.
 
-21 கோடி ரூபாய் செலவில் திருப்போரூரில் ஸ்ரீராம் ஆட்டோ காம்போனென்ட்ஸ் லிமிடெட் நிறுவனத்தின் ஆட்டோமொபைல் கார் உதிரி பாகங்கள் தயாரிக்கும் தொழிற்சாலை.
+21 கோடி ரூபாய் செலவில் திருப்போரூரில் ஸ்ரீராம் ஆட்டோ காம்போனென்ட்ஸ் லிமிடெட் நிறுவனத்தின் ஆட்டோ மொபைல் கார் உதிரி பாகங்கள் தயாரிக்கும் தொழிற்சாலை.
 
 11 கோடி ரூபாய் செலவில் சென்னைக்கருகில் உள்ள மணலியில் ரமணசேகர் ஸ்டீல்ஸ் லிமிடெட் நிறுவனத்தின் உலோகச் சுருள்களைத் தகடாக மாற்றும் தொழிற்சாலை.
 
