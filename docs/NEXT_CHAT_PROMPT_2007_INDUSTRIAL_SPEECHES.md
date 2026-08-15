@@ -1,8 +1,8 @@
-# Next-chat prompt — Speech 8 Gate F Batch 3 / 29.04.1999
+# Next-chat prompt — Speech 8 Gate F Batch 4 / 29.04.1999
 
 Continue the Kalaignar Assembly Speeches archival project in `pugazg/kalaignar-assembly-speeches`.
 
-Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or modify Speech 7.** Speech 8 Tamil Gates C–E are complete and Tamil is verified against the controlling scan. Gate F Batches 1–2 are complete. Continue the existing Speech-8 entry; do not create duplicates.
+Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or modify Speech 7.** Speech 8 Tamil Gates C–E are complete and Tamil is verified against the controlling scan. Gate F Batches 1–3 are complete. Continue the existing Speech-8 entry; do not create duplicates.
 
 ## Mandatory startup
 
@@ -30,14 +30,14 @@ Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or mo
 - Gate-E cumulative corrections: **29**
 - unresolved Tamil readings: **0**
 - Tamil status: **verified against scan**
-- Gate F: **in progress — Batches 1–2 complete, source pp.241–250 / printed pp.240–249, 10/37 pages**
-- next Gate-F source page: **251**
+- Gate F: **in progress — Batches 1–3 complete, source pp.241–255 / printed pp.240–254, 15/37 pages**
+- next Gate-F source page: **256**
 - unresolved translation questions: **0**
 - Gate G: **not-started**
 
-## Exact next activity — Gate F Batch 3
+## Exact next activity — Gate F Batch 4
 
-Translate **scan/source pp.251–255 / printed pp.250–254** from the final verified Tamil into faithful English.
+Translate **scan/source pp.256–260 / printed pp.255–259** from the final verified Tamil into faithful English.
 
 Translation rules:
 
@@ -49,6 +49,6 @@ Translation rules:
 6. Do not modernise or improve the source's meaning.
 7. Where Tamil contains printed English, retain it appropriately rather than mistranslating it back into a different form.
 8. Record any genuine translation uncertainty explicitly rather than guessing.
-9. After Batch 3, update metadata/README/handover/prompt truthfully with completed English source pages and next page. English remains **in-progress, not verified** until all 37 pages finish Gate F and then pass separate Gate G.
+9. After Batch 4, update metadata/README/handover/prompt truthfully with completed English source pages and next page. English remains **in-progress, not verified** until all 37 pages finish Gate F and then pass separate Gate G.
 
-Batch 2 ends on source p.250 mid-way through the State-wise sugarcane comparison, after Gujarat is introduced with a 10.72 per cent sugar-recovery figure. Source p.251 continues with Gujarat's price and then Tamil Nadu's comparison.
+Batch 3 ends on source p.255 after the Salem Steel Plant account, with Kalaignar stating that the 24 Kazhagam Members of Parliament were used at that time for the country and for the State. Source p.256 begins with the Alangulam cement factory and the Ranipet/Hosur SIPCOT industrial-complex history.
