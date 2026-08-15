@@ -72,9 +72,7 @@ Definite corrections:
 5. p.248 `மிக வெற்று` → `மிகை வெற்று`;
 6. p.249 `அது தொடர்பான தேவையான கச்சாப் பொருட்கள்` → `அது தொடர்ந்து நடப்பதற்குத் தேவையான கச்சாப்பொருட்கள்`.
 
-Scan p.250 definite corrections: **0**.
-
-Boundary checks p.245→246, p.249→250 and p.250→251: intact.
+Scan p.250 definite corrections: **0**. Boundary checks p.245→246, p.249→250 and p.250→251: intact.
 
 Checkpoint: `bcddfa24237941596f5acaab0531974b783e7b77`.
 
@@ -134,64 +132,46 @@ Canonical checkpoint: `a1a90353a222507c4a14a926ce0d856b25741c65`.
 
 The canonical commit diff was inspected after the merge and contains only the archival status-note update plus this one correction; no unrelated Tamil change was introduced.
 
-### Canonical state after Batch 5
+### Batch 6 — scan pp.266–270 / printed pp.265–269
 
-- verified scan range: **241–265**;
-- verified printed range: **240–264**;
-- verified pages: **25/37**;
-- cumulative corrections applied: **26**;
-- unresolved readings: **0**.
+Pages checked directly against rendered scan images: **5/5**.
 
-### Batch 6 visual review — scan pp.266–270 / printed pp.265–269
-
-Pages visually checked directly against the controlling scan: **5/5**.
-
-Checks covered words/characters, embedded printed English, names, dates, percentages, CDR figures, IT terminology, punctuation where source-significant and cross-page continuations.
-
-One definite source-supported correction was found:
+One definite source-supported correction was applied to canonical `transcript.md`:
 
 1. p.267 `அப்போதை` → `அப்போதைய`.
 
 Scan p.266 and pp.268–270 required **0 additional definite corrections**.
 
-Source-sensitive checks included:
+Source-sensitive checks included the three `Economic Times` quotations on p.266; the `Times of India` / CDR passages and figures `55.5`, `92.3`, `74.2`, `68.7`, `59`, `70.9`, `69.1` on p.267; `International Real Estates`, `Jones Long Wootten`, the Chennai quotation and Vikatan editorial on p.268; `Software Professionals` on p.269; and `I.T. Task Force`, `I.T.Policy`, `Hardware`, `Software` and `I.T. Super Highway` on p.270.
 
-- the three `Economic Times` English quotations on p.266;
-- `The States of Tamil Nadu...`, the all-India CDR paragraph, and the Andhra/Maharashtra/Manipur/NCT/Chandigarh paragraph on p.267;
-- CDR figures `55.5`, `92.3`, `74.2`, `68.7`, `59`, `70.9`, `69.1`;
-- `International Real Estates`, `Jones Long Wootten`, `Chennai has distinct strength over other Cities for attracting investments.` and the Vikatan editorial on p.268;
-- `Software Professionals` on p.269;
-- `I.T. Task Force`, `I.T.Policy`, `Hardware`, `Software` and `I.T. Super Highway` on p.270.
+Boundary checks p.265→266 and p.270→271: intact. Batch-6 unresolved readings: **0**.
 
-Boundary checks:
+Canonical checkpoint: `2d43d163d6c7ac9e470ae08299d0d20e91ebe089`.
 
-- p.265→266: `Economic Times ... 28-4-1999-ல் எழுதியிருக்கிறது.` → `Tamil Nadu followed closely by Gujarat...` — intact;
-- p.270→271: `வேர்ல்ட்டெல்` / 1.5-lakh employment and internetisation passage ending `(மேசையைத் தட்டும் ஒலி).` → `தமிழ்நெட் 1999` — intact.
+The canonical commit diff was inspected after the merge. It contains only:
 
-Batch-6 unresolved readings: **0**.
+- archival status note `241–265 / 240–264` → `241–270 / 240–269`;
+- p.267 `அப்போதை` → `அப்போதைய`.
 
-The one correction is recorded in `gate-e-batch6-pp266-270.md` but is **not yet merged into canonical `transcript.md`**. Therefore Batch 6 is a completed visual review pending canonical merge and is not yet counted in canonical verified coverage.
+No unrelated Tamil change was introduced.
 
-Staging checkpoint: `5dbe646ada65968165c4465a98a8f77325036336`.
+### Gate-E cumulative state after Batch 6
 
-## Current Gate-E state
-
-- canonical verified scan range: **241–265**;
-- canonical verified printed range: **240–264**;
-- canonical verified pages: **25/37**;
-- cumulative corrections already applied: **26**;
-- Batch-6 visually reviewed pages awaiting merge: **266–270**;
-- pending canonical corrections: **1**;
+- verified scan range: **241–270**;
+- verified printed range: **240–269**;
+- verified pages: **30/37**;
+- cumulative corrections applied: **27**;
 - unresolved readings: **0**;
+- next verification scan page: **271**;
 - Tamil status: **reviewed, not fully verified**.
 
 ## Gates not yet complete
 
-- Gate E: **in progress**;
+- Gate E: **in progress — 30/37 pages verified**;
 - Gate F English translation: **blocked**;
 - Gate G English fidelity verification: **not started**;
 - Gate H release/index: **not started**.
 
 ## Exact next activity
 
-Merge the staged p.267 `அப்போதை` → `அப்போதைய` correction into canonical `transcript.md`, update its archival note to verified through scan p.270 / printed p.269, validate the resulting diff, then close Batch 6 at **30/37 pages** and **27 cumulative corrections**. Remove the staging file after successful merge. Only then begin **Gate E Batch 7 — scan pp.271–275 / printed pp.270–274**. Do not begin English.
+Proceed with **Gate E Batch 7 — scan pp.271–275 / printed pp.270–274**. Compare canonical Tamil directly against the controlling rendered scan, apply and log only definite source-supported corrections, and keep English blocked.
