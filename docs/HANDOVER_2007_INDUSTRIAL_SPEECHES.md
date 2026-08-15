@@ -35,64 +35,63 @@ The full-speech structural completeness/page-marker audit passed. All **37** sou
 
 ## Gate E — in progress
 
-### Batch 1 complete — scan pp.241–245 / printed pp.240–244
+### Batches 1–4 canonically complete
 
-- verified pages: **5**
-- definite corrections: **5**
-- unresolved readings: **0**
-- canonical transcript checkpoint: `201b5eff42382bcb6192475be75e01a6865ed921`
+- Batch 1: scan pp.241–245 — 5 pages — 5 corrections — checkpoint `201b5eff42382bcb6192475be75e01a6865ed921`
+- Batch 2: scan pp.246–250 — 5 pages — 6 corrections — checkpoint `bcddfa24237941596f5acaab0531974b783e7b77`
+- Batch 3: scan pp.251–255 — 5 pages — 12 corrections — checkpoint `856297ff79dcb3f2539ac569941e09a27aaeccde`
+- Batch 4: scan pp.256–260 — 5 pages — 2 corrections — checkpoint `03f32ed5460c118007693539e32db100af07ffe6`
 
-### Batch 2 complete — scan pp.246–250 / printed pp.245–249
-
-- verified pages: **5**
-- definite corrections: **6**
-- unresolved readings: **0**
-- canonical transcript checkpoint: `bcddfa24237941596f5acaab0531974b783e7b77`
-
-### Batch 3 complete — scan pp.251–255 / printed pp.250–254
-
-- verified pages: **5**
-- definite corrections: **12**
-- unresolved readings: **0**
-- canonical transcript checkpoint: `856297ff79dcb3f2539ac569941e09a27aaeccde`
-
-### Batch 4 complete — scan pp.256–260 / printed pp.255–259
-
-These five pages were visually re-read directly against the controlling rendered scan. Two definite source-supported corrections were applied:
-
-1. p.256 `அமைந்தது` → `அமைந்து`;
-2. p.257 `டி.பி. பெட்ரோ புராடக்ட்ஸ்` → `டி,பி, பெட்ரோ புராடக்ட்ஸ்`.
-
-Scan pp.258–260 required no definite word/character correction. The p.255→256 and p.260→261 continuations were checked and remain intact. Batch-4 unresolved readings: **0**.
-
-Batch-4 canonical transcript checkpoint: `03f32ed5460c118007693539e32db100af07ffe6`.
-
-### Current Gate-E state
+Canonical state after Batch 4:
 
 - verified scan range: **241–260**
 - verified printed range: **240–259**
 - verified pages: **20/37**
-- cumulative definite corrections: **25**
-- unresolved readings in verified range: **0**
-- Tamil status: **reviewed, not fully verified**
-- English: **blocked**
+- cumulative applied corrections: **25**
+- unresolved readings: **0**
 
-Batch-4 status checkpoints:
+### Batch 5 visual review complete — canonical merge pending
 
-- canonical transcript: `03f32ed5460c118007693539e32db100af07ffe6`
-- metadata: `2277ed3d03a49ccc1ab918d9dc7ac0a41926b968`
-- README: `24ed8b6b345ee800dfea84e2377007c135f85e03`
-- source notes: `81b0479129c96e056b5f10d5a323e3b9eef338ac`
-- verification log: `977f3776aca93dd9dbcd33a7a954486aeca62c25`
+Scan pp.**261–265** / printed pp.**260–264** were visually re-read directly against the controlling rendered scan, all 5/5 pages.
 
-## Exact next activity — Speech 8 Gate E Batch 5
+One definite source-supported correction was found:
 
-1. Fetch the current canonical `speeches/1999/1999-04-29-industries-debate/transcript.md` before editing.
-2. Visually verify **scan pp.261–265 / printed pp.260–264** directly against the controlling rendered scan.
-3. Check words/characters, names/initials, numerals, dates, figures, punctuation, printed English, speaker labels and cross-page continuations.
-4. Preserve historical/source forms; do not modernise or reconcile against outside knowledge.
-5. Apply only definite scan-supported corrections to canonical Tamil and record every correction in `verification-log.md`.
-6. Record unresolved readings explicitly instead of guessing.
-7. Update metadata/README/source notes/verification log/handover/prompt after the bounded batch.
-8. After Batch 5, continue Gate E from **scan p.266**.
-9. Keep Tamil **not fully verified** and English blocked until all **37/37** pages pass Gate E.
+1. p.261 `ஆட்டோமொபைல்` → `ஆட்டோ மொபைல்`.
+
+The source visibly prints `ஆட்டோ` and `மொபைல்` as separate words in the Sriram Auto Components entry. Scan pp.262–265 required no additional definite correction.
+
+Boundary checks passed:
+
+- p.260→261: Asian Lighting entry → Karur Yarn Links entry;
+- p.265→266: `Economic Times` lead-in dated `28-4-1999` → printed English `Tamil Nadu followed closely by Gujarat...`.
+
+Batch-5 unresolved readings: **0**.
+
+For safety, the correction is staged in:
+
+`speeches/1999/1999-04-29-industries-debate/gate-e-batch5-pp261-265.md`
+
+Staging commit: `a1f1a9f7e2221cfd525b052ae440c3511c224237`.
+
+Do **not** count Batch 5 as canonically verified until the p.261 correction has been merged into the large `transcript.md` and its diff has been checked. Therefore current canonical verified state remains **20/37 pages / 25 applied corrections**.
+
+Status checkpoints after staging:
+
+- staging audit: `a1f1a9f7e2221cfd525b052ae440c3511c224237`
+- metadata pending-state update: `e3211e7d20d3dfda2ec2255d0b0097cb0f8ea727`
+- README pending-state update: `e79205be002e622c9df9a26aafc4d129fd0c2e0c`
+- source notes pending-state update: `9d204d82d35289221b3d0c286c72f74cbccb205c`
+- verification log pending-state update: `a953d99482bcfb5dd9c4df1d4e4664fb17d6c9ba`
+
+Current Tamil status: **reviewed, not fully verified**. English remains **blocked**.
+
+## Exact next activity — close Gate E Batch 5
+
+1. Fetch the current canonical `speeches/1999/1999-04-29-industries-debate/transcript.md` immediately before editing.
+2. Merge exactly one source correction on scan p.261: `ஆட்டோமொபைல்` → `ஆட்டோ மொபைல்`.
+3. Update only the archival note from verified through scan p.260 / printed p.259 to verified through **scan p.265 / printed p.264**.
+4. Inspect the resulting commit diff and confirm there are no unrelated Tamil changes.
+5. Then update metadata/README/source notes/verification log to **25/37 pages verified**, **26 cumulative corrections**, next scan page **266**, unresolved **0**.
+6. Delete `gate-e-batch5-pp261-265.md` only after the successful canonical merge and status closure.
+7. Only after Batch 5 is canonically closed, proceed to **Gate E Batch 6 — scan pp.266–270 / printed pp.265–269**.
+8. Keep English blocked until all **37/37** Tamil pages pass Gate E.
