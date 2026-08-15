@@ -28,67 +28,83 @@ Boundary status: **confirmed; unchanged from the locked anthology map**.
 **Complete for this bounded batch.**
 
 - pages transcribed: **5**;
-- cumulative Speech-9 coverage after Batch 1: **5/26**;
-- source-page markers: **278, 279, 280, 281, 282**;
-- missing/duplicate/reordered markers in completed batch: **0**;
+- cumulative coverage after Batch 1: **5/26**;
 - unresolved first-pass readings: **0**;
-- ending continuation: source p.282 ends mid-sentence after `இந்த 1999-2000-ல்`.
+- ending continuation: `இந்த 1999-2000-ல்`.
 
-A post-write visual reread of p.282 caught one definite first-pass transcription error before batch closure: `முக்கிய களமாக` was corrected to the scan-supported `முக்கிய தளமாக`. Correction commit: `dbdcdab67fee3085607bd8929d5cf0b524a8ed85`. The inspected commit diff contains only that one word-level correction. This is a Gate-C first-pass correction, **not** a Gate-E verification correction.
-
-Source-sensitive Batch-1 items deliberately retained for later Gate-E verification include p.280 `22-4-200` versus `22-4-2000`, p.280 `1,14,893` versus p.281 `1,41,893 + 15,000 = 1,56,893`, the p.282 printed-English *Economic Times* quotation and the p.281 embedded English export-category labels.
+A post-write visual reread corrected p.282 `முக்கிய களமாக` → `முக்கிய தளமாக`. Correction commit: `dbdcdab67fee3085607bd8929d5cf0b524a8ed85`. This was a Gate-C first-pass correction, **not** Gate-E verification.
 
 ### Batch 2 — source pp.283–287 / printed pp.282–286
 
 **Complete for this bounded batch.**
 
-- pages transcribed in Batch 2: **5**;
-- cumulative Speech-9 coverage: **10/26**;
+- cumulative coverage: **10/26**;
 - cumulative source-page markers: **278–287**, each once and in strict order;
-- missing/duplicate/reordered markers in completed range: **0**;
 - unresolved first-pass readings: **0**;
-- ending continuation: p.287 ends inside the High Court quotation after `தமிழக அரசின்மீது இந்த நீதிமன்றம்`.
+- ending continuation: p.287 ends after `தமிழக அரசின்மீது இந்த நீதிமன்றம்`.
 
-Canonical Batch-2 transcript commit: `3fc93b8b3bb7860db225ead53511a747149a0ebd`. Its inspected diff changes only the Gate-C coverage note and appends source-page sections 283–287; completed pp.278–282 were not rewritten.
-
-A direct post-write scan reread reconfirmed the main source-sensitive forms in this batch, including the p.283 *Industrial Herald* quotation, p.284 `e-` sequence, p.286 `இந்தக் கேமிரா கழுவும்போது` wording and technical forms, and p.287 TamilNet / Tamil Virtual University / school-computerisation material.
+Canonical Batch-2 transcript commit: `3fc93b8b3bb7860db225ead53511a747149a0ebd`. Its inspected diff changed only the coverage note and appended pp.283–287.
 
 ### Batch 3 — source pp.288–292 / printed pp.287–291
 
 **Complete for this bounded batch.**
 
-- pages transcribed in Batch 3: **5**;
-- cumulative Speech-9 coverage: **15/26**;
+- cumulative coverage: **15/26**;
 - cumulative source-page markers: **278–292**, each once and in strict order;
-- missing/duplicate/reordered markers in completed range: **0**;
 - unresolved first-pass readings: **0**;
-- ending continuation: p.292 ends mid-sentence after `Tanflora Infrastructure Park; 24.85 கோடி ரூபாய் முதலீட்டில் மலரைப் பதப்படுத்தும் தொழில் பூங்கா ஒன்று`.
+- ending continuation: `Tanflora Infrastructure Park; 24.85 கோடி ரூபாய் முதலீட்டில் மலரைப் பதப்படுத்தும் தொழில் பூங்கா ஒன்று`.
 
-Canonical Batch-3 transcript commit: `8de59961b972844acffb7f831d1867d2193cbf9d`. The inspected diff changes only the Gate-C coverage note and appends source-page sections 288–292; completed pp.278–287 were not rewritten.
-
-A direct post-write scan reread reconfirmed source-sensitive material including the p.288 High Court closure; Dr. ஆனந்த கிருஷ்ணன் / software-company / WorldTel figures; the *Economic and Political Weekly* passage; p.289 `தொடங்கப்பட்ட இருக்கின்ற`; the p.290 Polaris letter with `more then 100% per year`; the TIDCO/TCIL/ஃப்யூஜிகுரா project; p.291 `Condoms`, `Technical Products`, `Export Promotion Industrial Park`, `Special Economic Zone`; and p.292 `இரண்டு கிழங்கட்டை இருந்தால் செத்துப் போய்விடும்` / Nanguneri figures.
+Canonical Batch-3 transcript commit: `8de59961b972844acffb7f831d1867d2193cbf9d`. Its inspected diff changed only the coverage note and appended pp.288–292.
 
 ### Batch 4 — source pp.293–297 / printed pp.292–296
 
 **Complete for this bounded batch.**
 
-- pages transcribed in Batch 4: **5**;
-- cumulative Speech-9 coverage: **20/26**;
+- cumulative coverage: **20/26**;
 - cumulative source-page markers: **278–297**, each once and in strict order;
+- unresolved first-pass readings: **0**;
+- ending continuation: `ஆனால், தினமும்`.
+
+Canonical Batch-4 transcript commit: `dcc52ef8fcc7a48517dfa924f5dc297e7a96867d`. Its inspected diff changed only the coverage note and appended pp.293–297. A focused reread supported the unusual p.293 source form `இன்னொன்றியில் சென்னை வர்த்தக மையம்;`; no uncertainty marker remained.
+
+### Batch 5 — source pp.298–302 / printed pp.297–301
+
+**Complete for this bounded batch.**
+
+- pages transcribed in Batch 5: **5**;
+- cumulative Speech-9 coverage: **25/26**;
+- cumulative source-page markers: **278–302**, each once and in strict order;
 - missing/duplicate/reordered markers in completed range: **0**;
 - unresolved first-pass readings: **0**;
-- next source page: **298**;
-- ending continuation: p.297 ends mid-sentence after `ஆனால், தினமும்`.
+- next source page: **303**;
+- ending continuation: p.302 ends mid-sentence after `வெட்டுத் தீர்மானங்களுடைய எண்ணிக்கை 111. நம்பர்`.
 
-Canonical Batch-4 transcript commit: `dcc52ef8fcc7a48517dfa924f5dc297e7a96867d`. Its inspected diff changes only the Gate-C coverage note and appends source-page sections 293–297; completed pp.278–292 were not rewritten.
+Initial Batch-5 transcript commit: `ed2ade25fb1f3808a8cb8f6bfd0918ca1be7f3a5`. Its inspected diff updated the Gate-C coverage note from 20/26 to 25/26 and appended source-page sections 298–302; completed pp.278–297 were not intentionally rewritten.
 
-A focused high-resolution reread of the unusual p.293 paragraph opener supports the source form `இன்னொன்றியில் சென்னை வர்த்தக மையம்;`, so no REVIEW marker remains. The batch also deliberately preserves source-sensitive forms including `(TIDCO)`, `(ITPO)`, `20.000`, `Bio-Technology`, `வழங்கப்பட விருக்கிறது`, `industrial gases`, `பென்னார் ரிபைனர்ஸ் லிமிடெட்`, `கவிதி மலைப் பகுதிகளிலும்`, `இரும்புத் துண்டங்களை`, `நாம்தா டெக்ஸ்டைல்ஸ்`, and the p.296 printed date `24-3-2001` without external reconciliation. The p.297 Ariyalur passage preserves `பேசவில்லை யானாலும்`, `விற்காது, விற்காது` and the full no-privatisation assurance.
+A focused high-resolution post-write reread found four definite first-pass source-reading corrections:
 
-This is **Gate C first-pass transcription only**. No claim of full character-level source verification is made yet.
+1. p.298 `பழனிசாமி ஏற்றுக்கொள்கிறாரோ` → `பழனிசாமி ஏற்றுக் கொள்கிறாரோ`;
+2. p.298 `டி. மணி ஏற்றுக்கொள்கிறாரோ` → `டி. மணி ஏற்றுக் கொள்கிறாரோ`;
+3. p.300 `சிமெண்ட் தயார்செய்வதன்` → `சிமெண்ட் தயார் செய்வதன்`;
+4. p.300 `குறைந்த விலையில் தயார்செய்து` → `குறைந்த விலையில் தயார் செய்து`.
+
+Correction commit: `8ed2c3685857e16b368139252386b623875284ab`. The inspected diff contains exactly those four textual corrections and no other transcript changes. These are **Gate-C first-pass corrections, not Gate-E verification corrections**.
+
+Batch-5 source-sensitive material retained without external reconciliation includes:
+
+- p.298 `ரைட்` and the source-varying `ஏற்றுக்கொள்கிறாரோ` / `ஏற்றுக் கொள்கிறாரோ` forms;
+- p.299 `'TANCEM'`, `12-12-1994`, the printed `Counter Affidavit` quotation and the source Tamil explanation `மூன்றாவது பிரதிவாதியான டான்செம் நிறைவேற்றவில்லை.` even though its wording is not a literal match for the English quote;
+- p.300 the two printed English Government sentences and So. Balakrishnan's `தயார் செய்வதன்` / `தயார் செய்து` wording;
+- p.301 the complete 1991-92 through 1999-2000 Ariyalur production figures;
+- p.302 `அம்புஜா`, Rs.85 / Rs.145, `50 சதவிகிதத்திலே`, the Chief Secretary committee and `111` cut motions.
+
+Current corrected canonical transcript checkpoint after Batch 5: commit `8ed2c3685857e16b368139252386b623875284ab`, blob `67b1cc071ce4c8c04c1ea6748a65e0ffd1d91d3b`.
+
+This remains **Gate C first-pass transcription only**. No claim of full character-level source verification is made yet.
 
 ## Gate D — Tamil completeness/page-marker audit
 
-**Not started.** Gate D must wait until all 26 mapped Speech-9 pages have a first-pass transcription.
+**Not started.** Gate D must wait until final source p.303 has been transcribed and Gate C reaches all 26 mapped pages.
 
 ## Gate E — strict Tamil source-fidelity verification
 
@@ -103,4 +119,4 @@ English may begin only after Tamil Gates C–E are complete.
 
 ## Exact next activity
 
-Continue **Gate C Batch 5 — source/scan pp.298–302 / printed pp.297–301**, beginning with the continuation of the unfinished p.297 sentence after `ஆனால், தினமும்`. Do not alter released Speech 8 and do not begin Speech 10.
+Continue **Gate C final Batch 6 — source/scan p.303 / printed p.302 only**, beginning with the continuation after `111. நம்பர்`. Confirm the Speech-9 closing ornament/boundary and do not include p.304, which begins Speech 10. If p.303 completes cleanly, Gate C reaches **26/26** and the Tamil transcription status may become `transcribed` but must remain **not verified**; Gate D then becomes the next activity.
