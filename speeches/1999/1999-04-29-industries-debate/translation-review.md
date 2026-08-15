@@ -158,10 +158,29 @@ The batch was checked page-by-page against the final verified Tamil. Confirmed i
 
 No omission, addition, speaker/context loss, numerical mismatch, printed-English alteration, cross-page break error or definite meaning shift requiring a canonical English edit was found in this range. The canonical `translation.md` therefore remains unchanged for Batch 6; the reviewed translation blob remains `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
 
+## Batch 7 — source pp.271–275 / printed pp.270–274
+
+**Status: reviewed and passed with no definite fidelity correction required.**
+
+The batch was checked page-by-page against the final verified Tamil. Confirmed items include:
+
+- source p.271's `தமிழ்நெட் 1999` / `TamilNet 1999` conference, representatives from many parts of the world, consensus on Tamil internet formats, the one-or-two-month release statement, Tamil Nadu's associate membership in the Unicode Consortium in the United States and the source claim that it was the only State in India so registered;
+- the July finalised-Tamil-format statement, the proposal to alter the Tamil formats already existing in Unicode, `Tamil Virtual University`, and the stated aim of extending internet and information-technology benefits to Tamil people throughout the world;
+- the p.271→272 continuation of the 1,200 higher-secondary-school computer-training scheme for Standards 11 and 12, the source's 40-student wording, approximately 48,000 students, tender and interim-stay sequence;
+- source p.272's court-judgment passage, including the petitioner's-interest explanation, the court's praise of the Government's stated objective, both desk-thumping markers, confidence in the Tamil Nadu Government, social-justice / rural-and-middle-class welfare wording, and the rhetorical transition into past industrial-sector setbacks and irregularities;
+- source p.273's granite-lease case, Special Court proceedings, former Industries Minister's High Court quash petition, Rule 39, Government Order No. 97, Industries Department, dated 8-3-1993, the Tamil Nadu Minor Mineral Rules, the 1989 Kazhagam-Government order, pending High Court cases, lessees' willingness letters, Central Government prior approval for Forest Department land, Advocate General / Chief Secretary objections, and the Rs.12 crore single-lease revenue statement continuing to p.274;
+- source p.274's introduction of Rule 39 into the Tamil Nadu Minor Mineral Rules, 1959, the 125 granite leases / 9 districts / 196.80 hectares / Rs.95 crore figures, the Nomination method, Thiru Chinnasamy and the High Court's rejection of his request;
+- the Tamil High Court summary concerning collection of enormous sums and misuse of the Minor Mineral Rules, followed by the printed English quotation `The accused has granted leases to the private individuals without fixing any lease amount for granite quarry in pursuance of the conspiracy hatched between them.` and its Tamil explanation;
+- the printed judicial quotation beginning on p.274 with `The persons to whom the granite leases have been granted, have paid huge amounts as bribe which has been corroborated by` and continuing on p.275 with `many of the witnesses...`, preserved across the page boundary without alteration;
+- source p.275's Tamil explanations concerning currency-note denominations and recovered slips, the printed `Mr. Dyaneswaran...` quotation and its Tamil explanation, and the printed `The records and circumstances indicate that the entire fraud had taken place with his full knowledge and involvement.` quotation and Tamil explanation;
+- the p.275 ending `The judge further continues in his judgment:` correctly remains a continuation into source p.276 and was not pulled into this batch.
+
+No omission, addition, speaker/context loss, numerical mismatch, printed-English alteration, cross-page break error or definite meaning shift requiring a canonical English edit was found in this range. The canonical `translation.md` therefore remains unchanged for Batch 7; the reviewed translation blob remains `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
+
 ## Current Gate G findings
 
-- Reviewed English source pages: **241–270, 30/37 pages**.
-- Reviewed printed pages: **240–269**.
+- Reviewed English source pages: **241–275, 35/37 pages**.
+- Reviewed printed pages: **240–274**.
 - Missing/duplicate/reordered pages in reviewed range: **0**.
 - Unresolved translation questions / fidelity issues in reviewed range: **0**.
 - Definite Gate-G fidelity corrections applied cumulatively: **1**.
@@ -170,8 +189,9 @@ No omission, addition, speaker/context loss, numerical mismatch, printed-English
 - Batch-4 corrections: **0**.
 - Batch-5 corrections: **0**.
 - Batch-6 corrections: **0**.
-- Next review source page: **271**.
+- Batch-7 corrections: **0**.
+- Next review source page: **276**.
 - Overall Gate G status: **in progress**.
 - English overall status: **complete, not yet verified**.
 
-The next activity is **Gate G Batch 7 — source/scan pp.271–275 / printed pp.270–274**. English must not be marked fully verified until all 37 pages pass Gate G.
+The next activity is **Gate G Batch 8 — source/scan pp.276–277 / printed pp.275–276**. English must not be marked fully verified until those final two pages pass Gate G.
