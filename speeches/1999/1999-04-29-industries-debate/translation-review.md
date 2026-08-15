@@ -99,17 +99,37 @@ The review also retained the source's rhetorical sequence around the 24 MPs and 
 
 No omission, addition, speaker/context loss, numerical mismatch, cross-page break error or definite meaning shift requiring a canonical English edit was found in this range. The canonical `translation.md` therefore remains unchanged for Batch 3; the reviewed translation blob remains `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
 
+## Batch 4 — source pp.256–260 / printed pp.255–259
+
+**Status: reviewed and passed with no definite fidelity correction required.**
+
+The batch was checked page-by-page against the final verified Tamil. Confirmed items include:
+
+- the Alangulam cement factory, the 1973 Ranipet 729-acre SIPCOT complex, Industries Minister Madhavan, 107 industries / Rs.168 crore, and the 1974 Hosur 1,236-acre complex with 186 factories / Rs.500 crore; the combined 293-industry / approximately 20,000-employment figures are intact;
+- the 1989–90 list beginning with `Asian Paints` / Rs.22 crore and `Tele Communications Consultant India Limited` / Rs.29 crore;
+- source p.257's `Titanium Dioxide`, `Usta-De-Biotech`, `Tantec Agro`, `Tungsten Metal Powder`, `Tamil Nadu Petro Products`, `T,P, Petro Products`, artificial-diamond, Tamil Nadu Magnesium and Marine Chemical, Tamil Nadu Fluorine and Sulphide Chemical, and `Titan` wristwatch-component entries, with their dates and investment figures preserved;
+- the source-specific p.257 figure **`Rs. 1.125 crore`** for the 1991–96 / 21-factory total is preserved distinctly from p.258's **`Rs. 1,125 crore`** restatement; no external reconciliation was made;
+- the p.257→258 continuation into 4,230 direct jobs, the five-year 21 versus three-year 28 comparison, Rs.6,067 crore, 9,626 direct jobs, the further 28 projects / Rs.22,946 crore / 11,000 jobs and all desk-thumping markers;
+- the 1996–99 Irungattukottai 1,829-acre acquisition and the Hyundai Rs.2,450 crore, Mitsubishi Lancer Rs.320 crore, Ford Motors Rs.1,700 crore and Iljin Industrial Rs.40 crore entries;
+- source p.259's Dynamatic Group Companies, Bose Hyundai Steel Manufacturing / `Coil Centre`, Valeo Friction Materials, Mando Brake Systems, Mitsubishida Airconditioning, Lumax Samlip, J.P.M. Sangwoo, J.K.M. Deriam Automotive and P.H.C. Manufacturing entries and their printed figures;
+- source p.260's Dongi Vision, Motor Industries / `Car Exhaust`, Blooming Meadows, `S.K.M. Egg Products Limited`, Mayilsamy Gounder → Mayilanandam caste-title / `samy` wordplay, Bharat Tex Fashions, Thapar DuPont and Asian Lighting entries.
+
+Company-name forms were checked against the verified Tamil rather than silently normalised from outside knowledge. The p.257 `1.125` / p.258 `1,125` distinction, the source's unusual project names and the p.260 Mayilsamy/Mayilanandam passage are all represented without a definite fidelity error requiring amendment.
+
+No omission, addition, speaker/context loss, numerical mismatch, cross-page break error or definite meaning shift requiring a canonical English edit was found in this range. The canonical `translation.md` therefore remains unchanged for Batch 4; the reviewed translation blob remains `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
+
 ## Current Gate G findings
 
-- Reviewed English source pages: **241–255, 15/37 pages**.
-- Reviewed printed pages: **240–254**.
+- Reviewed English source pages: **241–260, 20/37 pages**.
+- Reviewed printed pages: **240–259**.
 - Missing/duplicate/reordered pages in reviewed range: **0**.
 - Unresolved translation questions / fidelity issues in reviewed range: **0**.
 - Definite Gate-G fidelity corrections applied cumulatively: **1**.
 - Batch-2 corrections: **0**.
 - Batch-3 corrections: **0**.
-- Next review source page: **256**.
+- Batch-4 corrections: **0**.
+- Next review source page: **261**.
 - Overall Gate G status: **in progress**.
 - English overall status: **complete, not yet verified**.
 
-The next activity is **Gate G Batch 4 — source/scan pp.256–260 / printed pp.255–259**. English must not be marked fully verified until all 37 pages pass Gate G.
+The next activity is **Gate G Batch 5 — source/scan pp.261–265 / printed pp.260–264**. English must not be marked fully verified until all 37 pages pass Gate G.
