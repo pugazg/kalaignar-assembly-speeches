@@ -16,9 +16,9 @@
   "transcription": {"method": "manual first-pass transcription directly from rendered scan images, followed by full-speech completeness/page-marker audit and strict direct page-by-page visual source-fidelity verification", "status": "verified", "full_speech_scan_pages": "241-277", "completed_scan_pages": "241-277", "completed_printed_pages": "240-276", "completed_page_count": 37, "total_page_count": 37, "next_scan_page": null, "page_markers_audited_for_completed_batch": true, "full_speech_completeness_audit": true, "full_speech_page_marker_audit": true, "gate_d_status": "passed", "gate_e_status": "passed", "gate_e_audited_scan_pages": "241-277", "gate_e_audited_printed_pages": "240-276", "gate_e_audited_page_count": 37, "gate_e_total_page_count": 37, "gate_e_correction_count": 29, "gate_e_next_scan_page": null, "verified_against_scan": true, "verified_scan_pages": "241-277", "verified_printed_pages": "240-276", "verified_page_count": 37, "next_verification_scan_page": null, "strict_full_speech_visual_verification": true, "explicit_unresolved_reading_markers": 0, "unresolved_readings": 0, "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true, "completion_note": "Gate C completed all 37 mapped pages and Gate D passed the structural audit. Gate E directly re-read all 37 pages against the controlling scan and applied 29 definite source-supported corrections. Final Batch 8 corrected the p.276 Speaker line from எதிர்க்கட்சித் தலைவர் to the source form எதிர்க் கட்சித் தலைவர்; scan p.277 required no correction. The exact p.277 close and p.278 Speech-9 boundary were confirmed. Tamil is verified against the scan."},
   "translation": {
     "language": "English",
-    "status": "complete-unverified",
+    "status": "verified",
     "gate_f_status": "complete",
-    "gate_g_status": "in-progress",
+    "gate_g_status": "complete",
     "requires_verified_tamil": true,
     "tamil_gate_satisfied": true,
     "source": "final verified Tamil transcription",
@@ -29,14 +29,14 @@
     "next_source_page": null,
     "source_page_correspondence": true,
     "unresolved_translation_questions": 0,
-    "verified_against_tamil": false,
-    "gate_g_reviewed_source_pages": "241-275",
-    "gate_g_reviewed_printed_pages": "240-274",
-    "gate_g_reviewed_page_count": 35,
+    "verified_against_tamil": true,
+    "gate_g_reviewed_source_pages": "241-277",
+    "gate_g_reviewed_printed_pages": "240-276",
+    "gate_g_reviewed_page_count": 37,
     "gate_g_total_page_count": 37,
-    "gate_g_next_source_page": 276,
+    "gate_g_next_source_page": null,
     "gate_g_correction_count": 1,
     "gate_g_unresolved_fidelity_issues": 0,
-    "completion_note": "Gate F translated all 37 verified Tamil source-page sections. Gate G is in progress. Batch 1 reviewed source pp.241-245 and applied one definite fidelity correction on p.245, changing the over-literal 'taking the nameplate and going away with it' to 'taking the credit for it' for the Tamil phrase நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள். Batches 2-7 reviewed source pp.246-275 and required no further canonical English correction. Batch 7 reconfirmed TamilNet 1999 / Unicode Consortium / Tamil Virtual University, the 1,200-school / approximately 48,000-student computer-training and court-judgment passages, Rule 39 / Government Order No.97 dated 8-3-1993, the 125 leases / 9 districts / 196.80 hectares / Rs.95 crore figures, and the printed High Court quotations through p.275. Gate G has now reviewed 35/37 pages with one cumulative correction and zero unresolved fidelity issues. English remains unverified until source pp.276-277 pass Gate G."
+    "completion_note": "Gate F translated all 37 verified Tamil source-page sections. Gate G then re-read source pp.241-277 against the final verified Tamil. Batch 1 applied one definite fidelity correction on p.245, changing the over-literal 'taking the nameplate and going away with it' to 'taking the credit for it' for the Tamil phrase நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள். Batches 2-8 required no further canonical English correction. Final Batch 8 reconfirmed the p.276 High Court quotation, 8-A / TAMIN / public-auction material, Kalaignar's close, Speaker and Thiru So. Balakrishnan intervention, the p.277 5,000 acres / Rs.29 / Rs.429 / Rs.1½ crore figures, the salt-pan / appalam wordplay and the Speech-8 boundary. Gate G passed all 37/37 pages with one cumulative correction and zero unresolved fidelity issues. English is verified against the final Tamil."
   }
 }
