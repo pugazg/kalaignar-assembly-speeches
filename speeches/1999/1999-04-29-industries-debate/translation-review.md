@@ -177,21 +177,41 @@ The batch was checked page-by-page against the final verified Tamil. Confirmed i
 
 No omission, addition, speaker/context loss, numerical mismatch, printed-English alteration, cross-page break error or definite meaning shift requiring a canonical English edit was found in this range. The canonical `translation.md` therefore remains unchanged for Batch 7; the reviewed translation blob remains `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
 
-## Current Gate G findings
+## Batch 8 — source pp.276–277 / printed pp.275–276
 
-- Reviewed English source pages: **241–275, 35/37 pages**.
-- Reviewed printed pages: **240–274**.
-- Missing/duplicate/reordered pages in reviewed range: **0**.
-- Unresolved translation questions / fidelity issues in reviewed range: **0**.
+**Status: reviewed and passed with no definite fidelity correction required. Gate G complete.**
+
+The final two source pages were checked page-by-page against the final verified Tamil. Confirmed items include:
+
+- the p.275→276 High Court continuation and printed English quotation `".... the money due to the Government has been siphoned off by them and as a result of which they had pecuniary advantage to the extent of several crores."`, preserved without grammatical or editorial repair;
+- the transition from the quoted judgment to Kalaignar's statement that the earlier situation had changed, with the desk-thumping marker intact;
+- the granite-industry passage concerning the `8-ஏ` / 8-A amendment, auction methods and consideration of additional Government revenue, together with the Budget-reply reference;
+- the `டாமின்` / TAMIN land passage, including the public-auction proposal and the source's `டாமினே வைத்துக் கொண்டு தூங்காமல்` wording represented without external normalisation, followed by Kalaignar's thanks, `Vanakkam` and desk-thumping marker;
+- the Speaker → Thiru So. Balakrishnan intervention and its p.276→277 continuation;
+- source p.277's salt-pan-industry figures: more than 5,000 acres, Rs.29 per acre, Rs.429 per acre and the Government-run salt-pan industry's Rs.1½ crore payment obligation, together with the court-stay and closure-risk passages;
+- the request to restore the old Rs.29 rate, the statement that nowhere else in India was the rate this high, and the request to protect the industry and thousands of workers;
+- Kalaignar's response that the suggestion would not be disregarded, the source's approximately Rs.400 reference, possible reduction to a mutually acceptable level, and the final `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay represented as salt-pan (*uppalam*) / *appalam* so the Tamil sound-play remains visible;
+- the final desk-thumping marker and locked boundary: source p.277 closes Speech 8, while source p.278 begins Speech 9 (`உரை : 9`, `8.05.2000`); no Speech-9 material is present in the English translation.
+
+No omission, addition, speaker/context loss, numerical mismatch, printed-English alteration, cross-page break error or definite meaning shift requiring a canonical English edit was found in the final range. The canonical `translation.md` therefore remains unchanged for Batch 8; the final reviewed translation blob is `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
+
+## Final Gate G findings
+
+- Reviewed English source pages: **241–277, 37/37 pages**.
+- Reviewed printed pages: **240–276**.
+- Missing/duplicate/reordered pages in the reviewed speech: **0**.
+- Unresolved translation questions / fidelity issues: **0**.
 - Definite Gate-G fidelity corrections applied cumulatively: **1**.
+- Batch-1 corrections: **1**.
 - Batch-2 corrections: **0**.
 - Batch-3 corrections: **0**.
 - Batch-4 corrections: **0**.
 - Batch-5 corrections: **0**.
 - Batch-6 corrections: **0**.
 - Batch-7 corrections: **0**.
-- Next review source page: **276**.
-- Overall Gate G status: **in progress**.
-- English overall status: **complete, not yet verified**.
+- Batch-8 corrections: **0**.
+- Next review source page: **none**.
+- Overall Gate G status: **complete**.
+- English overall status: **verified against final Tamil**.
 
-The next activity is **Gate G Batch 8 — source/scan pp.276–277 / printed pp.275–276**. English must not be marked fully verified until those final two pages pass Gate G.
+The next activity is **Gate H — index/release for Speech 8**. Gate H should update the repository index/data surfaces and release-facing canonical structure without beginning Speech 9 until Speech 8 release is complete.
