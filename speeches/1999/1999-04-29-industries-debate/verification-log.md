@@ -137,23 +137,51 @@ Batch-3 result:
 - corrections applied in batch: **12**;
 - unresolved readings: **0**.
 
-### Gate-E cumulative state after Batch 3
+### Batch 4 — scan pp.256–260 / printed pp.255–259
 
-- verified scan range: **241–255**;
-- verified printed range: **240–254**;
-- verified pages: **15/37**;
-- cumulative definite corrections: **23**;
+Pages checked directly against rendered scan images: **5/5**.
+
+Checks covered wording and individual characters, company names, years, acreages, monetary values, employment figures, printed English/Latin-script text, punctuation where clearly legible, and the p.255→256 and p.260→261 transitions.
+
+Definite corrections applied to canonical `transcript.md`:
+
+1. p.256 `அமைந்தது` → `அமைந்து`;
+2. p.257 `டி.பி. பெட்ரோ புராடக்ட்ஸ்` → `டி,பி, பெட்ரோ புராடக்ட்ஸ்`.
+
+Scan pp.258–260 definite corrections: **0**.
+
+Boundary/continuation checks:
+
+- p.255→256: the Speech-history passage continues into `இந்தக் காலகட்டத்திலேதான் ஆலங்குளம் சிமெண்ட் தொழிற்சாலையும் அமைக்கப்பட்டது.` — intact;
+- p.260→261: the p.260 list closes with the `ஆசியன் லைட்டிங்` metal-tube-lamp factory, and p.261 begins the `4.5 கோடி ரூபாய்... கரூர் யார்ன் லிங்க்ஸ் லிமிடெட்` entry — intact.
+
+Batch-4 canonical correction checkpoint: `03f32ed5460c118007693539e32db100af07ffe6`.
+
+Batch-4 result:
+
+- verified scan range: **256–260**;
+- verified printed range: **255–259**;
+- verified pages in batch: **5/5**;
+- corrections applied in batch: **2**;
+- unresolved readings: **0**.
+
+### Gate-E cumulative state after Batch 4
+
+- verified scan range: **241–260**;
+- verified printed range: **240–259**;
+- verified pages: **20/37**;
+- cumulative definite corrections: **25**;
 - unresolved readings in verified range: **0**.
 
 Tamil status remains **reviewed, not fully verified**. Gate E must cover all 37 pages before Tamil can be marked verified.
 
 ## Gates not yet complete
 
-- Gate E strict Tamil visual/source-fidelity verification: **in progress — 15/37 pages verified**.
+- Gate E strict Tamil visual/source-fidelity verification: **in progress — 20/37 pages verified**.
 - Gate F English translation: **blocked**.
 - Gate G English fidelity verification: **not started**.
 - Gate H release/index: **not started**.
 
 ## Next activity
 
-Continue **Gate E Batch 4 — scan pp.256–260 / printed pp.255–259**. Compare canonical Tamil directly against the rendered scan and apply/log only definite source-supported corrections. Do not begin English.
+Continue **Gate E Batch 5 — scan pp.261–265 / printed pp.260–264**. Compare canonical Tamil directly against the rendered scan and apply/log only definite source-supported corrections. Do not begin English.
