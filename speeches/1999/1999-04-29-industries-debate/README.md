@@ -30,29 +30,28 @@
 
 ## Current status
 
-Speech 8 **Gate C is complete**. The full first-pass Tamil transcription is canonical in `transcript.md`.
+Speech 8 Gate C is complete and **Gate D has passed**.
 
-- Gate C Batch 1: **complete — scan pp.241–255 / printed pp.240–254**.
-- Gate C Batch 2: **complete — scan pp.256–270 / printed pp.255–269**.
-- Gate C Batch 3: **complete and merged — scan pp.271–277 / printed pp.270–276**.
-- Gate C total: **37/37 pages, scan pp.241–277 / printed pp.240–276**.
-- Gate-C unresolved/`[REVIEW]` readings: **0**.
-- Tamil status: **transcribed, not verified**.
-- Gate D completeness/page-marker audit: **next / not yet performed**.
-- Gate E strict Tamil source-fidelity verification: **not started**.
-- English Gate F: **blocked until the complete Tamil passes Gates D and E**.
+- Gate C: **complete — 37/37 pages, scan pp.241–277 / printed pp.240–276**.
+- Gate D completeness/page-marker audit: **passed**.
+- Gate-D source-page sequence: **241–277, 37 markers, exactly once each, strict monotonic order**.
+- Opening: `உரை : 8`, `நாள் : 29.04.1999`, source speaker label — **present**.
+- Structural interventions: Dr. A. Chellakumar intervention/reply and final Speaker → `திரு. சோ. பாலகிருஷ்ணன்` → Kalaignar sequence — **present**.
+- `source-page: 278`, `உரை : 9`, `8.05.2000` spillover — **absent**.
+- unresolved/`REVIEW` readings: **0**.
+- Tamil status: **reviewed, not verified**.
+- Gate E strict Tamil source-fidelity verification: **next / not started**.
+- English Gate F: **blocked until Gate E passes**.
 
-The Gate-C closure check confirmed the canonical p.270→271 continuation, the complete p.276→277 Opposition Leader / Kalaignar closing sequence, and no `source-page: 278` or Speech-9 spillover.
-
-The current text is still a first-pass transcription. Completion of Gate C does not make the Tamil verified.
+Gate D is a structural completeness audit, not a page-by-page visual fidelity verification. The Tamil must still pass Gate E before it can be marked `verified`.
 
 ## Exact next activity
 
-Perform **Gate D — full-speech Tamil completeness/page-marker audit** across scan pp.241–277. Confirm every mapped page is represented exactly once and in order, opening/closing boundaries align with the locked source map, speaker changes/interventions are present, no p.278/Speech-9 material appears, and unresolved markers are counted. Do not begin Gate E or English until Gate D passes.
+Proceed with **Gate E — strict Tamil visual/source-fidelity verification**, beginning with **scan pp.241–245 / printed pp.240–244**. Compare the canonical Tamil directly against the rendered scan page by page, checking wording/characters, names, figures, dates, English passages, punctuation, speaker labels and page transitions. Apply only scan-supported corrections, record each correction, and keep English blocked.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — complete first-pass Tamil, Gate C complete; not yet verified.
-- [`metadata.json`](./metadata.json) — source mapping and current Gate-C/Gate-D status.
-- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and Gate-C closure notes.
-- [`verification-log.md`](./verification-log.md) — Gate-C progress and audit trail.
+- [`transcript.md`](./transcript.md) — complete Tamil source layer; Gate D passed; not yet Gate-E verified.
+- [`metadata.json`](./metadata.json) — source mapping and current audit status.
+- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and audit notes.
+- [`verification-log.md`](./verification-log.md) — Gate-C and Gate-D audit trail.
