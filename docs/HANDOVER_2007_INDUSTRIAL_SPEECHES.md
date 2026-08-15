@@ -43,41 +43,43 @@ Speech 7 (`உரை : 7`, `14.05.1998`, canonical ID `1998-05-14-industries-deb
 ## English Gate G
 
 - Gate G: **in progress**
-- Batches 1–5 reviewed source/scan pp. **241–265** / printed pp. **240–264**
-- reviewed pages: **25/37**
+- Batches 1–6 reviewed source/scan pp. **241–270** / printed pp. **240–269**
+- reviewed pages: **30/37**
 - definite Gate-G fidelity corrections applied cumulatively: **1**
 - Batch-2 corrections: **0**
 - Batch-3 corrections: **0**
 - Batch-4 corrections: **0**
 - Batch-5 corrections: **0**
+- Batch-6 corrections: **0**
 - unresolved fidelity issues: **0**
-- next Gate-G source page: **266**
+- next Gate-G source page: **271**
 - English overall status: **complete, not yet verified**
 - Gate-G review record: `speeches/1999/1999-04-29-industries-debate/translation-review.md`
 - current canonical English blob: `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`
 
 Batch 1 applied one definite English fidelity correction on source p.245. Gate F had translated `நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள்` as `You are taking the nameplate and going away with it.` Gate G corrected this to **`You are taking the credit for it.`** Canonical correction commit: `badea74b3e3bf9e3c561a75550560caec8ef2bab`; the inspected diff contains only that English change.
 
-Batches 2–4 reviewed source pp.246–260 and required **no further canonical English correction**.
+Batches 2–5 reviewed source pp.246–265 and required **no further canonical English correction**.
 
-Batch 5 reviewed source pp.261–265 and also required **no canonical English correction**. It reconfirmed the Karur Yarn Links / Taurus Novelties / Sriram Auto Components / Ramanasekar / Insil / Sembawang-Sriram / SISCOL / G.M.R. Vasavi entries; Saint-Gobain and the Bangalore-road / Hyundai / glass-factory passage; Marqube / Covema Uttiplast / Autolec / Reynolds; `Blood bags`, `Bio-technology Park for women`, Mahindra Industrial Park, TIDEL and related projects; the source's internally differing Pennar **Rs.320 crore** and **Rs.3,200 crore** statements; Ennore L.N.G. / 2,000 MW; Jayankondam Rs.4,000 crore / 4 million tonnes / 500 MW; Rs.22,946 crore / 11,000 direct / 1½ lakh indirect employment; and the p.265 C.M.I.E. ranking figures, horse-race / tug-of-war rhetoric and `Economic Times` lead-in dated 28-4-1999. The canonical English blob remains `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
+Batch 6 reviewed source pp.266–270 and also required **no canonical English correction**. It reconfirmed all three printed `Economic Times` quotations on p.266, including the source's unusual `As against 3,503, cent per cent EOUS...` wording; the 3,503 / 584 figures and State sequence; the `Times of India` CDR quotations and 55.5 / 92.3 / 74.2 / 68.7 / 59 / 70.9 / 69.1 figures; Jones Long Wootten / `International Real Estates`; the *Vikatan* editorial; source p.269's 23,000 / 13,000 / 22,000 IT figures and 5-10-1998 department date; and p.270's `I.T. Task Force`, `I.T.Policy`, 1,000-acre Siruseri park, `I.T. Super Highway`, TCS/Wipro/Infosys/Polaris and WORLD TEL one-lakh-fifty-thousand-employment continuation. The p.270→271 boundary was checked and no `தமிழ்நெட் 1999` material was included in Batch 6. The canonical English blob remains `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
 
-## Exact next activity — Gate G Batch 6
+## Exact next activity — Gate G Batch 7
 
-Review **source/scan pp.266–270 / printed pp.265–269** against the final verified Tamil.
+Review **source/scan pp.271–275 / printed pp.270–274** against the final verified Tamil.
 
 Requirements:
 
 1. Fetch the final verified Tamil and current canonical English for the exact bounded range.
 2. Compare page-by-page for omissions, additions, meaning shifts, cross-page continuations, names, dates, figures, units, technical/company names, printed English and humour/idiom.
-3. Preserve source-specific claims and unusual printed English exactly; do not fact-correct or silently repair source grammar/spelling from outside knowledge.
-4. Pay special attention to the `Economic Times` printed-English passages on pp.266–267, including the source form `As against 3,503, cent per cent EOUS...`; preserve printed English where Gate F intentionally retained it.
-5. Check the 3,503 / 584 figures, State sequence, Times of India CDR passages and figures, Jones Long Wootten / `International Real Estates`, the *Vikatan* editorial, IT-development figures, `I.T. Task Force`, `I.T.Policy`, `I.T. Super Highway` and WORLD TEL employment continuation through p.270.
-6. Apply only definite English fidelity corrections.
-7. Inspect every canonical translation diff before advancing reviewed coverage. If no correction is required, record the unchanged canonical blob checkpoint.
-8. Update `translation-review.md`, metadata, README, handover and next prompt truthfully.
-9. If Batch 6 passes, Gate G advances to **30/37 pages**, next source page **271**.
-10. English remains **not fully verified** until all source pp.241–277 pass Gate G.
-11. Do not begin Speech 9 or Gate H until Speech 8 Gate G passes unless the user explicitly changes priority.
+3. Preserve source-specific claims and unusual printed English exactly; do not fact-correct or silently modernise from outside knowledge.
+4. Check `தமிழ்நெட் 1999`, the Unicode Consortium / associate-membership passage, July Tamil formats, `Tamil Virtual University`, the 1,200-school / 40-student / approximately 48,000-student computer-training scheme and the court judgment carefully.
+5. Continue through the granite-lease / Rule 39 / Government Order No.97 dated 8-3-1993 material, the 125 leases / 9 districts / 196.80 hectares / Rs.95 crore figures and the High Court quotations through source p.275.
+6. Preserve printed judicial English exactly where it appears in the verified Tamil, including quotation continuations across pages.
+7. Apply only definite English fidelity corrections.
+8. Inspect every canonical translation diff before advancing reviewed coverage. If no correction is required, record the unchanged canonical blob checkpoint.
+9. Update `translation-review.md`, metadata, README, handover and next prompt truthfully.
+10. If Batch 7 passes, Gate G advances to **35/37 pages**, next source page **276**.
+11. English remains **not fully verified** until source pp.276–277 also pass Gate G.
+12. Do not begin Speech 9 or Gate H until Speech 8 Gate G passes unless the user explicitly changes priority.
 
-Batch 6 begins on source p.266 with the first printed `Economic Times` quotation and runs through source p.270, ending in the WORLD TEL / information-technology employment discussion before the `தமிழ்நெட் 1999` material on p.271.
+Batch 7 begins on source p.271 with `தமிழ்நெட் 1999` / Unicode Consortium and ends on source p.275 within the High Court granite-lease quotation sequence.
