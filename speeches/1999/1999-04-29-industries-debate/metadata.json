@@ -52,22 +52,14 @@
     "gate_d_status": "passed",
     "gate_e_status": "in-progress",
     "verified_against_scan": false,
-    "verified_scan_pages": "241-270",
-    "verified_printed_pages": "240-269",
-    "verified_page_count": 30,
-    "next_verification_scan_page": 271,
-    "gate_e_corrections_applied": 27,
+    "verified_scan_pages": "241-275",
+    "verified_printed_pages": "240-274",
+    "verified_page_count": 35,
+    "next_verification_scan_page": 276,
+    "gate_e_corrections_applied": 28,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
-    "pending_gate_e_batch": {
-      "scan_pages": "271-275",
-      "printed_pages": "270-274",
-      "visual_review_status": "complete",
-      "pending_canonical_corrections": 1,
-      "unresolved_readings": 0,
-      "staging_file": "gate-e-batch7-pp271-275.md"
-    },
-    "completion_note": "Gate D passed. Gate E Batches 1-6 are canonically verified through scan p.270 / printed p.269 with 27 corrections applied. Gate E Batch 7 scan pp.271-275 / printed pp.270-274 has been visually reviewed 5/5 against the controlling scan and found one definite correction on p.274: ஏராளமான தொகைகளை லஞ்சம் செய்து கொண்டு→ஏராளமான தொகைகளை வசூல் செய்து கொண்டு. Scan pp.271-273 and p.275 required no other definite correction; p.270→271 and p.275→276 continuations are intact. The correction is staged but not yet merged into canonical transcript.md, so verified coverage remains 30/37 until canonical merge. English remains blocked."
+    "completion_note": "Gate D passed. Gate E Batches 1-7 are canonically verified through scan p.275 / printed p.274. Batch 7 visually checked scan pp.271-275 / printed pp.270-274 and applied one source-supported correction on p.274: ஏராளமான தொகைகளை லஞ்சம் செய்து கொண்டு→ஏராளமான தொகைகளை வசூல் செய்து கொண்டு. Scan pp.271-273 and p.275 required no other definite correction; p.270→271 and p.275→276 continuations are intact. Cumulative Gate-E corrections: 28. No unresolved readings remain in the verified range. Tamil remains reviewed, not fully verified; Gate E continues at scan p.276."
   },
   "translation": {
     "language": "English",
