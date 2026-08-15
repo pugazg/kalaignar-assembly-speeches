@@ -28,7 +28,7 @@ Batch results:
 - Batch 1, pp.241–245: **5 corrections** — `201b5eff42382bcb6192475be75e01a6865ed921`
 - Batch 2, pp.246–250: **6 corrections** — `bcddfa24237941596f5acaab0531974b783e7b77`
 - Batch 3, pp.251–255: **12 corrections** — `856297ff79dcb3f2539ac569941e09a27aaeccde`
-- Batch 4, pp.256–260: **2 corrections** — `03f32ed5460c11804c7130ae20edb8b4cca62`
+- Batch 4, pp.256–260: **2 corrections** — `03f32ed5460c118007693539e32db100af07ffe6`
 - Batch 5, pp.261–265: **1 correction** — `a1a90353a222507c4a14a926ce0d856b25741c65`
 - Batch 6, pp.266–270: **1 correction** — `2d43d163d6c7ac9e470ae08299d0d20e91ebe089`
 - Batch 7, pp.271–275: **1 correction** — `d3106a9d88ed7d5c801398b14e1705eff446a18c`
