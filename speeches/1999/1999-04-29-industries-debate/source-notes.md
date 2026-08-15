@@ -41,7 +41,7 @@ Gate C first-pass Tamil transcription is complete across all **37/37** mapped pa
 - Batch 2: scan pp.**256–270** / printed pp.**255–269** — 15 pages;
 - Batch 3: scan pp.**271–277** / printed pp.**270–276** — 7 pages;
 - cumulative canonical coverage: scan pp.**241–277** / printed pp.**240–276**;
-- unresolved/`REVIEW` readings: **0**.
+- unresolved `REVIEW` readings: **0**.
 
 The final Batch 3 was first staged separately, then merged into canonical `transcript.md`. The merged transcript preserves the p.270→271 continuation beginning with `கணினிப் பயன்பாடுகளில்... “தமிழ்நெட் 1999”`, and the p.276→277 closing sequence: Speaker → Opposition Leader `திரு. சோ. பாலகிருஷ்ணன்` → Kalaignar reply ending with the `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay and `(மேசையைத் தட்டும் ஒலி).`
 
@@ -65,11 +65,27 @@ Findings:
 
 Gate D establishes completeness and structure only. It does **not** establish character-by-character fidelity against the scan.
 
-Tamil status after Gate D: **reviewed, not verified**.
+## Gate E — in progress
+
+### Batch 1 — scan pp.241–245 / printed pp.240–244
+
+These five pages were re-read directly against rendered images from the controlling scan. The check covered wording/characters, names, numerals, dates, monetary figures, printed English, punctuation, speaker labels and cross-page continuations.
+
+Definite source-supported corrections applied to canonical `transcript.md`:
+
+1. scan p.241: `நிதிமன்றத்திலே` → `நீதிமன்றத்திலே`;
+2. scan p.243: first `பொது ஒப்பந்த முறையில்` → `பொது ஒப்பந்த முறைப்படி`;
+3. scan p.243: second `பொது ஒப்பந்த முறையில்` → `பொது ஒப்பந்த முறைப்படி`;
+4. scan p.243: `நிதிமன்ற இடைக்காலத் தடையை` → `நீதிமன்ற இடைக்காலத் தடையை`;
+5. scan p.244: `நடைபெற்றிருக்கிறது` → `நடைபெற்றிருக்கின்றது`.
+
+No additional definite correction was required on scan p.242 or p.245. Cross-page continuations p.241→242 and p.244→245 remain intact. Unresolved readings in the verified Batch-1 range: **0**.
+
+Current Gate-E verified range: **scan pp.241–245 / printed pp.240–244 — 5/37 pages**. Tamil remains **reviewed, not fully verified**.
 
 ## Next audit
 
-Proceed with **Gate E — strict Tamil visual/source-fidelity verification**, beginning with **scan pp.241–245 / printed pp.240–244**. The rendered scan remains controlling. Apply and log only source-supported corrections; do not modernise or externally normalise the source.
+Proceed with **Gate E Batch 2 — scan pp.246–250 / printed pp.245–249**. The rendered scan remains controlling. Apply and log only source-supported corrections; do not modernise or externally normalise the source.
 
 ## Translation status
 
