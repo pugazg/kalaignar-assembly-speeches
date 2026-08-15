@@ -32,30 +32,31 @@ Speech 7 (`உரை : 7`, `14.05.1998`, canonical ID `1998-05-14-industries-deb
 
 ## English status
 
-- Gate F canonical working translation: **Batches 1–6 merged**
-- canonical translated source/scan pages: **241–270**
-- canonical corresponding printed pages: **240–269**
-- canonical completed English pages: **30/37**
-- canonical Batch-6 merge checkpoint: `8ebc4ee41b88888c70b10647cad46fa4fca8af86`
-- Gate F Batch 7: **translation complete in staging — source pp.271–275 / printed pp.270–274 — 5 pages**
-- Batch-7 staging file: `speeches/1999/1999-04-29-industries-debate/gate-f-batch7-pp271-275.md`
-- Batch-7 staging commit: `fc53f15e568f5b60a4de9d2b79653dd48c67b2ca`
-- Batch-7 unresolved translation questions: **0**
+- Gate F canonical working translation: **Batches 1–7 merged**
+- canonical translated source/scan pages: **241–275**
+- canonical corresponding printed pages: **240–274**
+- canonical completed English pages: **35/37**
+- canonical Batch-7 merge checkpoint: `673265033d6618c173ca3e03927cc714f1747ee7`
+- Gate F final Batch 8: **translation complete in staging — source pp.276–277 / printed pp.275–276 — 2 pages**
+- Batch-8 staging file: `speeches/1999/1999-04-29-industries-debate/gate-f-batch8-pp276-277.md`
+- Batch-8 staging commit: `435add96dd85cd8a618636bbc4b90e4030deb9de`
+- Batch-8 unresolved translation questions: **0**
+- Speech-8 boundary: **ends at source p.277; source p.278 begins Speech 9; no spillover**
 - English status: **in progress, not verified**
 - Gate G: **not started**
 
 Gate F uses only the final verified Tamil and preserves source-page correspondence, interventions, names, figures, embedded printed English, humour/context and source historical/factual claims without silent correction.
 
-Batch 7 covers pp.271–275: `தமிழ்நெட் 1999`, the Unicode Consortium and `Tamil Virtual University`; the 1,200-school / approximately 48,000-student computer-training scheme and the court's remarks; the transition to the granite-lease case; Rule 39 and Government Order No. 97 dated 8-3-1993; the source's 125 leases / 9 districts / 196.80 hectares / Rs.95 crore figures; and the High Court passages through p.275. Printed English judicial quotations are retained as printed, including the quotation split across pp.274–275.
+Final Batch 8 preserves the remaining printed High Court quotation; `8-ஏ`; the `டாமின்` / TAMIN public-auction passage; Kalaignar's closing; the Speaker → `திரு. சோ. பாலகிருஷ்ணன்` intervention; the source figures 5,000 acres / Rs.29 / Rs.429 / Rs.1½ crore / roughly Rs.400; and the final `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay, represented as salt-pan (*uppalam*) / *appalam* so the sound-play is not lost.
 
-## Exact next activity — merge Batch 7, then final Gate F Batch 8
+## Exact next activity — close Gate F, then begin Gate G
 
-1. Fetch current canonical `translation.md` and staged `gate-f-batch7-pp271-275.md` immediately before editing.
-2. Merge source-page sections **271–275** after canonical source p.270.
-3. Update only the Gate-F working note from 30/37 through p.270 to **35/37 through p.275**.
-4. Inspect the resulting commit/diff for accidental changes to Batches 1–6.
-5. If clean, reconcile metadata and README to canonical Gate F **35/37**, completed source pp.241–275 / printed pp.240–274, next source page **276**, unresolved translation questions **0**, and remove the pending-batch record.
-6. Delete `gate-f-batch7-pp271-275.md` after successful canonical merge.
-7. Then proceed to **final Gate F Batch 8 — source/scan pp.276–277 / printed pp.275–276**.
-8. Preserve the remaining printed High Court quotation, the granite/TAMIN closing, the Speaker/Thiru So. Balakrishnan intervention, all figures and the `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay faithfully.
-9. After pp.276–277 are translated, Gate F may be complete at **37/37**, but English must still remain **not verified** until separate Gate G is performed.
+1. Fetch current canonical `translation.md` and staged `gate-f-batch8-pp276-277.md` immediately before editing.
+2. Merge source-page sections **276–277** after canonical source p.275.
+3. Update only the Gate-F working note as needed to say Gate F covers **source pp.241–277 / printed pp.240–276, 37/37 pages** and is complete.
+4. Inspect the canonical commit/diff carefully to ensure Batches 1–7 were not accidentally changed.
+5. If clean, reconcile metadata and README to Gate F **complete — 37/37**, completed source pp.241–277 / printed pp.240–276, next source page null, unresolved translation questions **0**; remove the pending-batch record.
+6. Delete `gate-f-batch8-pp276-277.md` after successful canonical merge.
+7. Gate F completion does **not** make English verified. Set Gate F complete while keeping translation unverified and Gate G not-started until the separate fidelity review begins.
+8. Then begin **Gate G — full-speech English fidelity review against the final verified Tamil**, preferably in bounded batches with corrections documented and canonical diffs inspected.
+9. Do not start Speech 9 until Speech 8 has completed Gate G and Gate H unless the user explicitly changes priority.
