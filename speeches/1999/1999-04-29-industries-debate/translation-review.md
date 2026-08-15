@@ -81,16 +81,35 @@ The batch was checked page-by-page against the final verified Tamil. Confirmed i
 
 No omission, addition, speaker/context loss, numerical mismatch, cross-page break error or definite meaning shift requiring a canonical English edit was found in this range. The current canonical `translation.md` therefore remains unchanged for Batch 2; the reviewed translation blob at this checkpoint is `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
 
+## Batch 3 — source pp.251–255 / printed pp.250–254
+
+**Status: reviewed and passed with no definite fidelity correction required.**
+
+The batch was checked page-by-page against the final verified Tamil. Confirmed items include:
+
+- the p.250→251 continuation of the sugarcane comparison: Gujarat Rs.648 per tonne and Tamil Nadu 8.94% recovery / Rs.753 per tonne, followed by the court-stay and tripartite-talks passage;
+- `WORLD TEL`, Sam Pitroda, `International Telecommunication Union (ITU)`, the U.N. agency description, `Assembly of Governors`, the Central Government representative, `Joint Sector Project`, and the explanation for not calling a global tender;
+- the p.251→252 continuation concerning additional WORLD TEL conditions, possible delay, consideration of another organisation and employment reaching people in their homes;
+- Dr. A. Chellakumar's intervention with `International Level`, 1½ lakh employment, 13,000 connections, 26 per cent Government share, `Transparency` and `Global tender`;
+- Kalaignar's p.252→253 response concerning Sam Pitroda's efforts across the States, the Chennai press conference, willingness to consider another capable organisation under less demanding conditions, Rajiv Gandhi, Orissa, the desk-thumping marker, and the p.253→254 continuation into consideration of other organisations;
+- the industrial-history transition on p.254: Kamarajar, Bhaktavatsalam, the Five-Year Plans, the 1967 DMK Government under Perarignar Anna, the 1969–1975 period, Tuticorin SPIC and the source's Rs.100/150 crore → Rs.1,000/2,000 crore comparison;
+- the p.254→255 SIPCOT continuation, `State Industries Promotion Corporation of Tamil Nadu`, SPIC / Ranipet / Hosur complexes, the Salem Steel Plant, the 24 Kazhagam Members of Parliament, Indira Gandhi's Minority Government, Morarji Desai, Navalar Mathialagan, the draft-Plan walkout, telegram to Delhi and the Salem-factory order.
+
+The review also retained the source's rhetorical sequence around the 24 MPs and Indira Gandhi rather than externally reconciling or fact-correcting it. The existing English rendering conveys the source argument without a definite fidelity error requiring amendment.
+
+No omission, addition, speaker/context loss, numerical mismatch, cross-page break error or definite meaning shift requiring a canonical English edit was found in this range. The canonical `translation.md` therefore remains unchanged for Batch 3; the reviewed translation blob remains `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
+
 ## Current Gate G findings
 
-- Reviewed English source pages: **241–250, 10/37 pages**.
-- Reviewed printed pages: **240–249**.
+- Reviewed English source pages: **241–255, 15/37 pages**.
+- Reviewed printed pages: **240–254**.
 - Missing/duplicate/reordered pages in reviewed range: **0**.
 - Unresolved translation questions / fidelity issues in reviewed range: **0**.
 - Definite Gate-G fidelity corrections applied cumulatively: **1**.
 - Batch-2 corrections: **0**.
-- Next review source page: **251**.
+- Batch-3 corrections: **0**.
+- Next review source page: **256**.
 - Overall Gate G status: **in progress**.
 - English overall status: **complete, not yet verified**.
 
-The next activity is **Gate G Batch 3 — source/scan pp.251–255 / printed pp.250–254**. English must not be marked fully verified until all 37 pages pass Gate G.
+The next activity is **Gate G Batch 4 — source/scan pp.256–260 / printed pp.255–259**. English must not be marked fully verified until all 37 pages pass Gate G.
