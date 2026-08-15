@@ -70,16 +70,21 @@
   },
   "translation": {
     "language": "English",
-    "status": "not-started",
-    "gate_f_status": "not-started",
+    "status": "in-progress",
+    "gate_f_status": "in-progress",
     "gate_g_status": "not-started",
     "requires_verified_tamil": true,
     "tamil_gate_satisfied": true,
     "source": "final verified Tamil transcription",
-    "completed_source_pages": null,
-    "completed_page_count": 0,
+    "working_file": "translation.md",
+    "completed_source_pages": "241-245",
+    "completed_printed_pages": "240-244",
+    "completed_page_count": 5,
     "total_page_count": 37,
+    "next_source_page": 246,
+    "source_page_correspondence": true,
     "unresolved_translation_questions": 0,
-    "verified_against_tamil": false
+    "verified_against_tamil": false,
+    "completion_note": "Gate F Batch 1 translated source/scan pp.241-245 / printed pp.240-244 from the final verified Tamil. English remains in progress and unverified until all 37 pages complete Gate F and the separate Gate G fidelity review passes."
   }
 }
