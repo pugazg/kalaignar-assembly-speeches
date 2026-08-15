@@ -43,33 +43,37 @@ Speech 7 (`உரை : 7`, `14.05.1998`, canonical ID `1998-05-14-industries-deb
 ## English Gate G
 
 - Gate G: **in progress**
-- Batches 1–2 reviewed source/scan pp. **241–250** / printed pp. **240–249**
-- reviewed pages: **10/37**
+- Batches 1–3 reviewed source/scan pp. **241–255** / printed pp. **240–254**
+- reviewed pages: **15/37**
 - definite Gate-G fidelity corrections applied cumulatively: **1**
 - Batch-2 corrections: **0**
+- Batch-3 corrections: **0**
 - unresolved fidelity issues: **0**
-- next Gate-G source page: **251**
+- next Gate-G source page: **256**
 - English overall status: **complete, not yet verified**
 - Gate-G review record: `speeches/1999/1999-04-29-industries-debate/translation-review.md`
 
 Batch 1 applied one definite English fidelity correction on source p.245. Gate F had translated `நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள்` as `You are taking the nameplate and going away with it.` Gate G corrected this to **`You are taking the credit for it.`** Canonical correction commit: `badea74b3e3bf9e3c561a75550560caec8ef2bab`; the inspected diff contains only that English change.
 
-Batch 2 reviewed source pp.246–250 and required **no canonical English correction**. It reconfirmed the Pugalur corruption inquiry; Pollachi industrially-backward-taluk request; Mohamed Ismail / Bhagyaraj / Kudaganar passages; Dr. Chellakumar's Best and Crompton / `Urban Land Ceiling` allegation and Cabinet explanation; `surplus vacant land`; L.N.G. / Siemens / UNOCAL / C.M.S. / GRASIM / WOODSIDE and Valappadi Ramamurthi; Alanganallur; Kanyakumari rope/rubber humour; Tmt. Ponnammal's jasmine / Singapore / sari remarks; the election-manifesto discussion; and the State-wise sugarcane-price comparison through Gujarat's 10.72% recovery figure. Cross-page continuations p.245→246, p.249→250 and p.250→251 were intact. Reviewed canonical English blob at the Batch-2 checkpoint: `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
+Batch 2 reviewed source pp.246–250 and required **no canonical English correction**.
 
-## Exact next activity — Gate G Batch 3
+Batch 3 reviewed source pp.251–255 and also required **no canonical English correction**. It reconfirmed the Gujarat Rs.648 / Tamil Nadu 8.94% and Rs.753 sugarcane comparison; WORLD TEL / `International Telecommunication Union (ITU)` / `Assembly of Governors` / `Joint Sector Project`; Dr. A. Chellakumar's `International Level`, 1½ lakh employment, 13,000 connections, 26% Government share, `Transparency` and `Global tender`; Sam Pitroda, Rajiv Gandhi and Orissa; and the historical industrial-development narrative through Kamarajar, Bhaktavatsalam, the Five-Year Plans, Perarignar Anna, SPIC, SIPCOT, Salem Steel Plant, the 24 Kazhagam MPs, Indira Gandhi, Morarji Desai and Navalar Mathialagan. The p.250→251, p.251→252, p.252→253, p.253→254 and p.254→255 continuations were intact. Reviewed canonical English blob remains `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
 
-Review **source/scan pp.251–255 / printed pp.250–254** against the final verified Tamil.
+## Exact next activity — Gate G Batch 4
+
+Review **source/scan pp.256–260 / printed pp.255–259** against the final verified Tamil.
 
 Requirements:
 
 1. Fetch the final verified Tamil and current canonical English for the exact bounded range.
 2. Compare page-by-page for omissions, additions, meaning shifts, cross-page continuations, speaker/context markers, names, dates, figures, units, technical/company names and humour/idiom.
-3. Preserve source-specific claims; do not fact-correct from outside knowledge.
-4. Apply only definite English fidelity corrections.
-5. Inspect every canonical translation diff before advancing reviewed coverage.
-6. Update `translation-review.md`, metadata, README, handover and next prompt truthfully.
-7. If Batch 3 passes, Gate G advances to **15/37 pages**, next source page **256**.
-8. English remains **not fully verified** until all source pp.241–277 pass Gate G.
-9. Do not begin Speech 9 or Gate H until Speech 8 Gate G passes unless the user explicitly changes priority.
+3. Preserve source-specific claims and internally unusual figures; do not fact-correct from outside knowledge.
+4. Pay special attention to the factory/project list and source-specific company-name spellings/transliterations.
+5. Apply only definite English fidelity corrections.
+6. Inspect every canonical translation diff before advancing reviewed coverage. If no correction is required, record the unchanged canonical blob checkpoint.
+7. Update `translation-review.md`, metadata, README, handover and next prompt truthfully.
+8. If Batch 4 passes, Gate G advances to **20/37 pages**, next source page **261**.
+9. English remains **not fully verified** until all source pp.241–277 pass Gate G.
+10. Do not begin Speech 9 or Gate H until Speech 8 Gate G passes unless the user explicitly changes priority.
 
-Batch 3 begins on source p.251 with the continuation of Gujarat's sugarcane-price comparison and then moves into the WORLD TEL / Sam Pitroda discussion before the historical industrial-development / SIPCOT / Salem Steel Plant passages through source p.255.
+Batch 4 begins on source p.256 with the Alangulam cement factory and Ranipet/Hosur SIPCOT history, then moves into the 1989–90 factory list and the 1991–96 versus 1996–99 investment/employment comparison, followed by Hyundai/Mitsubishi/Ford and the Irungattukottai component-industry list through source p.260.
