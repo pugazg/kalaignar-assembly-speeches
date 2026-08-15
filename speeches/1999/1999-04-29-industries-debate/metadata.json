@@ -39,7 +39,7 @@
   },
   "transcription": {
     "method": "manual first-pass transcription directly from rendered scan images; later subject to Gate D completeness/page-marker audit and Gate E strict visual source-fidelity verification",
-    "status": "transcribed",
+    "status": "reviewed",
     "full_speech_scan_pages": "241-277",
     "completed_scan_pages": "241-277",
     "completed_printed_pages": "240-276",
@@ -47,15 +47,15 @@
     "total_page_count": 37,
     "next_scan_page": null,
     "page_markers_audited_for_completed_batch": true,
-    "full_speech_completeness_audit": false,
-    "full_speech_page_marker_audit": false,
-    "gate_d_status": "not-started",
+    "full_speech_completeness_audit": true,
+    "full_speech_page_marker_audit": true,
+    "gate_d_status": "passed",
     "gate_e_status": "not-started",
     "verified_against_scan": false,
     "verified_scan_pages": null,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
-    "completion_note": "Gate C completed all 37 mapped source pages, scan pp.241-277 / printed pp.240-276. The final staged pp.271-277 were merged into canonical transcript.md and the p.277 closing was confirmed with no p.278/Speech-9 spillover. Tamil is transcribed but not verified; Gate D is next."
+    "completion_note": "Gate D passed after a full structural audit of scan pp.241-277 / printed pp.240-276. All 37 source-page markers are present exactly once in strict sequence 241-277, the opening and p.277 closing boundaries are intact, printed speaker/intervention transitions are structurally represented, and no p.278/Speech-9 material or unresolved REVIEW marker is present. Tamil is reviewed but not verified; Gate E visual source-fidelity verification is next."
   },
   "translation": {
     "language": "English",
