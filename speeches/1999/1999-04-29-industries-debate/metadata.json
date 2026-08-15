@@ -18,7 +18,7 @@
     "language": "English",
     "status": "complete-unverified",
     "gate_f_status": "complete",
-    "gate_g_status": "not-started",
+    "gate_g_status": "in-progress",
     "requires_verified_tamil": true,
     "tamil_gate_satisfied": true,
     "source": "final verified Tamil transcription",
@@ -30,6 +30,13 @@
     "source_page_correspondence": true,
     "unresolved_translation_questions": 0,
     "verified_against_tamil": false,
-    "completion_note": "Gate F translated all 37 verified Tamil source-page sections. Speech 8 ends on source p.277 and source p.278 begins Speech 9; no Speech-9 material is included. English remains unverified until the separate Gate G full-speech fidelity review passes."
+    "gate_g_reviewed_source_pages": "241-245",
+    "gate_g_reviewed_printed_pages": "240-244",
+    "gate_g_reviewed_page_count": 5,
+    "gate_g_total_page_count": 37,
+    "gate_g_next_source_page": 246,
+    "gate_g_correction_count": 1,
+    "gate_g_unresolved_fidelity_issues": 0,
+    "completion_note": "Gate F translated all 37 verified Tamil source-page sections. Gate G is now in progress. Batch 1 reviewed source pp.241-245 and applied one definite fidelity correction on p.245, changing the over-literal 'taking the nameplate and going away with it' to 'taking the credit for it' for the Tamil phrase நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள். English remains unverified until all 37 pages pass Gate G."
   }
 }
