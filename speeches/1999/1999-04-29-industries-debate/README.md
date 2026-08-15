@@ -38,7 +38,7 @@ Speech 8 Tamil processing is complete through Gate E. English Gate F is in progr
 - Gate-E cumulative definite corrections applied: **29**.
 - Unresolved Tamil readings: **0**.
 - Tamil status: **verified against scan**.
-- English Gate F: **in progress — Batches 1–2 complete, source/scan pp.241–250 / printed pp.240–249, 10/37 pages**.
+- English Gate F: **in progress — Batches 1–3 complete, source/scan pp.241–255 / printed pp.240–254, 15/37 pages**.
 - English Gate G: **not started**.
 - Unresolved translation questions: **0**.
 
@@ -46,12 +46,12 @@ Gate F is translated only from the final verified Tamil and preserves source-pag
 
 ## Exact next activity
 
-Continue **Gate F Batch 3 — source/scan pp.251–255 / printed pp.250–254** from the final verified Tamil.
+Continue **Gate F Batch 4 — source/scan pp.256–260 / printed pp.255–259** from the final verified Tamil.
 
 ## Files
 
 - [`transcript.md`](./transcript.md) — complete and verified Tamil source layer.
-- [`translation.md`](./translation.md) — Gate-F English working translation, currently 10/37 pages.
+- [`translation.md`](./translation.md) — Gate-F English working translation, currently 15/37 pages.
 - [`metadata.json`](./metadata.json) — source mapping and processing status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and audit notes.
 - [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D and Gate-E audit trail.
