@@ -16,30 +16,20 @@
   "transcription": {"method": "manual first-pass transcription directly from rendered scan images, followed by full-speech completeness/page-marker audit and strict direct page-by-page visual source-fidelity verification", "status": "verified", "full_speech_scan_pages": "241-277", "completed_scan_pages": "241-277", "completed_printed_pages": "240-276", "completed_page_count": 37, "total_page_count": 37, "next_scan_page": null, "page_markers_audited_for_completed_batch": true, "full_speech_completeness_audit": true, "full_speech_page_marker_audit": true, "gate_d_status": "passed", "gate_e_status": "passed", "gate_e_audited_scan_pages": "241-277", "gate_e_audited_printed_pages": "240-276", "gate_e_audited_page_count": 37, "gate_e_total_page_count": 37, "gate_e_correction_count": 29, "gate_e_next_scan_page": null, "verified_against_scan": true, "verified_scan_pages": "241-277", "verified_printed_pages": "240-276", "verified_page_count": 37, "next_verification_scan_page": null, "strict_full_speech_visual_verification": true, "explicit_unresolved_reading_markers": 0, "unresolved_readings": 0, "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true, "completion_note": "Gate C completed all 37 mapped pages and Gate D passed the structural audit. Gate E directly re-read all 37 pages against the controlling scan and applied 29 definite source-supported corrections. Final Batch 8 corrected the p.276 Speaker line from எதிர்க்கட்சித் தலைவர் to the source form எதிர்க் கட்சித் தலைவர்; scan p.277 required no correction. The exact p.277 close and p.278 Speech-9 boundary were confirmed. Tamil is verified against the scan."},
   "translation": {
     "language": "English",
-    "status": "in-progress",
-    "gate_f_status": "in-progress",
+    "status": "complete-unverified",
+    "gate_f_status": "complete",
     "gate_g_status": "not-started",
     "requires_verified_tamil": true,
     "tamil_gate_satisfied": true,
     "source": "final verified Tamil transcription",
-    "completed_source_pages": "241-275",
-    "completed_printed_pages": "240-274",
-    "completed_page_count": 35,
+    "completed_source_pages": "241-277",
+    "completed_printed_pages": "240-276",
+    "completed_page_count": 37,
     "total_page_count": 37,
-    "next_source_page": 276,
+    "next_source_page": null,
+    "source_page_correspondence": true,
     "unresolved_translation_questions": 0,
     "verified_against_tamil": false,
-    "pending_gate_f_batch": {
-      "batch": 8,
-      "source_pages": "276-277",
-      "printed_pages": "275-276",
-      "translated_page_count": 2,
-      "translation_status": "complete",
-      "pending_canonical_merge": true,
-      "staging_file": "gate-f-batch8-pp276-277.md",
-      "unresolved_translation_questions": 0,
-      "speech_boundary_confirmed": true,
-      "speech9_spillover": false
-    }
+    "completion_note": "Gate F translated all 37 verified Tamil source-page sections. Speech 8 ends on source p.277 and source p.278 begins Speech 9; no Speech-9 material is included. English remains unverified until the separate Gate G full-speech fidelity review passes."
   }
 }
