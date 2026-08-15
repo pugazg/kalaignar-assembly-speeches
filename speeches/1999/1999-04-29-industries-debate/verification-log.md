@@ -120,25 +120,17 @@ Checkpoint: `03f32ed5460c118007693539e32db100af07ffe6`.
 
 Result: **5 pages**, **2 corrections**, **0 unresolved**.
 
-### Canonical state after Batch 4
+### Batch 5 — scan pp.261–265 / printed pp.260–264
 
-- verified scan range: **241–260**;
-- verified printed range: **240–259**;
-- verified pages: **20/37**;
-- cumulative corrections applied: **25**;
-- unresolved readings: **0**.
-
-### Batch 5 visual review — scan pp.261–265 / printed pp.260–264
-
-Pages visually checked directly against the controlling scan: **5/5**.
+Pages checked directly against rendered scan images: **5/5**.
 
 Checks covered words/characters, company and project names, years, monetary values, employment figures, acreages and MW figures, printed English/Latin-script text, punctuation/spacing where source-significant, and cross-page continuations.
 
-One definite source-supported correction was found:
+Definite correction applied to canonical `transcript.md`:
 
 1. p.261 `ஆட்டோமொபைல்` → `ஆட்டோ மொபைல்`.
 
-The source visibly prints `ஆட்டோ` and `மொபைல்` as separate words in the Sriram Auto Components entry. Scan pp.262–265 required **0 additional definite corrections**.
+The source visibly prints `ஆட்டோ` and `மொபைல்` separately in the Sriram Auto Components entry. Scan pp.262–265 required **0 additional definite corrections**.
 
 Boundary checks:
 
@@ -147,28 +139,32 @@ Boundary checks:
 
 Batch-5 unresolved readings: **0**.
 
-The one correction is recorded in `gate-e-batch5-pp261-265.md` but is **not yet merged into canonical `transcript.md`**. Therefore Batch 5 is a completed visual review pending canonical merge and is not yet counted in canonical verified coverage.
+Canonical checkpoint: `a1a90353a222507c4a14a926ce0d856b25741c65`.
 
-Staging checkpoint: `a1f1a9f7e2221cfd525b052ae440c3511c224237`.
+The canonical commit diff was inspected after the merge. It contains only:
 
-## Current Gate-E state
+- archival status note `241–260 / 240–259` → `241–265 / 240–264`;
+- p.261 `ஆட்டோமொபைல்` → `ஆட்டோ மொபைல்`.
 
-- canonical verified scan range: **241–260**;
-- canonical verified printed range: **240–259**;
-- canonical verified pages: **20/37**;
-- cumulative corrections already applied: **25**;
-- Batch-5 visually reviewed pages awaiting merge: **261–265**;
-- pending canonical corrections: **1**;
+No unrelated Tamil change was introduced.
+
+### Gate-E cumulative state after Batch 5
+
+- verified scan range: **241–265**;
+- verified printed range: **240–264**;
+- verified pages: **25/37**;
+- cumulative corrections applied: **26**;
 - unresolved readings: **0**;
+- next verification scan page: **266**;
 - Tamil status: **reviewed, not fully verified**.
 
 ## Gates not yet complete
 
-- Gate E: **in progress**;
+- Gate E: **in progress — 25/37 pages verified**;
 - Gate F English translation: **blocked**;
 - Gate G English fidelity verification: **not started**;
 - Gate H release/index: **not started**.
 
 ## Exact next activity
 
-Merge the staged p.261 `ஆட்டோமொபைல்` → `ஆட்டோ மொபைல்` correction into canonical `transcript.md`, update its archival note to verified through scan p.265 / printed p.264, validate the resulting diff, then close Batch 5 at **25/37 pages** and **26 cumulative corrections**. Remove the staging file after successful merge. Only then begin **Gate E Batch 6 — scan pp.266–270 / printed pp.265–269**. Do not begin English.
+Proceed with **Gate E Batch 6 — scan pp.266–270 / printed pp.265–269**. Compare the canonical Tamil directly against the controlling rendered scan, apply and log only definite source-supported corrections, and keep English blocked.
