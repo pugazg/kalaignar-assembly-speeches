@@ -41,11 +41,11 @@
     "method": "manual first-pass transcription directly from rendered scan images",
     "status": "in-progress",
     "full_speech_scan_pages": "278-303",
-    "completed_scan_pages": "278-297",
-    "completed_printed_pages": "277-296",
-    "completed_page_count": 20,
+    "completed_scan_pages": "278-302",
+    "completed_printed_pages": "277-301",
+    "completed_page_count": 25,
     "total_page_count": 26,
-    "next_scan_page": 298,
+    "next_scan_page": 303,
     "page_markers_audited_for_completed_batch": true,
     "full_speech_completeness_audit": false,
     "full_speech_page_marker_audit": false,
@@ -55,7 +55,7 @@
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C Batches 1-4 transcribed source/scan pp.278-297 / printed pp.277-296 directly from the rendered scan. Twenty source-page markers are present once and in order. Batch 4 continued the unfinished Tanflora Infrastructure Park sentence through source p.297 and ends mid-sentence after ஆனால், தினமும் for continuation on p.298. No unresolved reading marker is currently required. This remains a first-pass transcription and is not verified until later Gates D and E pass."
+    "completion_note": "Gate C Batches 1-5 transcribed source/scan pp.278-302 / printed pp.277-301 directly from the rendered scan. Twenty-five source-page markers are present once and in order. Batch 5 continued the unfinished p.297 sentence through source p.302 and ends mid-sentence after 111. நம்பர் for continuation on final source p.303. A post-write scan reread corrected two auxiliary-spacing readings on p.298 and two தயார் word-spacing readings on p.300. No unresolved reading marker is currently required. This remains a first-pass transcription and is not verified until later Gates D and E pass."
   },
   "translation": {
     "language": "English",
