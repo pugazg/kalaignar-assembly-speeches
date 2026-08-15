@@ -30,7 +30,7 @@
 
 ## Current status
 
-Speech 8 Tamil processing is complete through Gate E, and Gate F English translation is in progress.
+Speech 8 Tamil processing is complete through Gate E. English Gate F is in progress.
 
 - Gate C: **complete — 37/37 pages, scan pp.241–277 / printed pp.240–276**.
 - Gate D completeness/page-marker audit: **passed**.
@@ -38,23 +38,20 @@ Speech 8 Tamil processing is complete through Gate E, and Gate F English transla
 - Gate-E cumulative definite corrections applied: **29**.
 - Unresolved Tamil readings: **0**.
 - Tamil status: **verified against scan**.
-- Gate F English: **in progress — source/scan pp.241–245 / printed pp.240–244 — 5/37 pages**.
-- Gate F unresolved translation questions: **0**.
-- Gate G English fidelity review: **not started**.
-- English status: **in progress, not verified**.
+- English Gate F: **in progress — Batches 1–2 complete, source/scan pp.241–250 / printed pp.240–249, 10/37 pages**.
+- English Gate G: **not started**.
+- Unresolved translation questions: **0**.
 
-Gate F Batch 1 was translated only from the final verified Tamil and preserves source-page correspondence, parliamentary context, names, figures, technical/company names, printed English, humour/context markers and the source's historical/factual claims without silent correction. The working translation is in [`translation.md`](./translation.md).
-
-The Batch-1 continuation is locked: source p.245 ends with the Pugalur complaint being sent to the corruption inquiry committee; source p.246 continues with the inquiry being in progress and the promise of action against responsible officers.
+Gate F is translated only from the final verified Tamil and preserves source-page correspondence, parliamentary context, interventions, names, figures, technical/company names, printed English, humour/context markers and source historical/factual claims without silent correction. English remains **not verified** until the complete 37-page Gate F translation passes the separate Gate G fidelity review.
 
 ## Exact next activity
 
-Proceed with **Gate F Batch 2 — source/scan pp.246–250 / printed pp.245–249** from the final verified Tamil. Preserve all page correspondence and parliamentary/context markers. English must remain unverified until Gate F covers all 37 pages and the separate Gate G fidelity review passes.
+Continue **Gate F Batch 3 — source/scan pp.251–255 / printed pp.250–254** from the final verified Tamil.
 
 ## Files
 
 - [`transcript.md`](./transcript.md) — complete and verified Tamil source layer.
-- [`translation.md`](./translation.md) — Gate-F English working translation, currently 5/37 pages.
-- [`metadata.json`](./metadata.json) — source mapping, Tamil verification and translation progress.
+- [`translation.md`](./translation.md) — Gate-F English working translation, currently 10/37 pages.
+- [`metadata.json`](./metadata.json) — source mapping and processing status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and audit notes.
 - [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D and Gate-E audit trail.
