@@ -41,30 +41,31 @@ Speech 8 Tamil processing is complete through Gate E. Gate F English translation
 - English Gate F: **complete — source/scan pp.241–277 / printed pp.240–276, 37/37 pages**.
 - Gate-F unresolved translation questions: **0**.
 - Speech-8 ending confirmed at source p.277; p.278 begins Speech 9. **No Speech-9 spillover.**
-- English Gate G: **in progress — Batches 1–3 reviewed source pp.241–255 / printed pp.240–254, 15/37 pages**.
+- English Gate G: **in progress — Batches 1–4 reviewed source pp.241–260 / printed pp.240–259, 20/37 pages**.
 - Gate-G definite fidelity corrections applied cumulatively: **1**.
 - Gate-G Batch-2 corrections: **0**.
 - Gate-G Batch-3 corrections: **0**.
+- Gate-G Batch-4 corrections: **0**.
 - Gate-G unresolved fidelity issues: **0**.
 - English overall status: **complete, not yet verified**.
 
 Gate G Batch 1 applied one definite correction on source p.245: the over-literal `You are taking the nameplate and going away with it.` was corrected to `You are taking the credit for it.` for the Tamil phrase `நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள்`.
 
-Gate G Batch 2 reviewed source pp.246–250 and required no canonical English correction.
+Gate G Batches 2–3 reviewed source pp.246–255 and required no further canonical English correction.
 
-Gate G Batch 3 reviewed source pp.251–255 page-by-page against the final verified Tamil and also required **no canonical English correction**. It reconfirmed the Gujarat/Tamil Nadu sugarcane comparison; WORLD TEL / ITU / Assembly of Governors / Joint Sector Project; Dr. A. Chellakumar's 1½ lakh / 13,000 / 26% / Transparency / Global tender intervention; Sam Pitroda and the possible-alternative-organisation discussion; the Kamarajar/Bhaktavatsalam/Five-Year-Plan narrative; SPIC and SIPCOT; and the Salem Steel Plant / 24 MPs / Indira Gandhi / Morarji Desai / Navalar Mathialagan passage through source p.255.
+Gate G Batch 4 reviewed source pp.256–260 page-by-page and also required **no canonical English correction**. It reconfirmed the Alangulam / Ranipet / Hosur SIPCOT chronology and figures, the 1989–90 factory list, the 1991–96 versus 1996–99 comparison, Hyundai / Mitsubishi / Ford and the Irungattukottai component-industry list, and the source-company-name forms through p.260. The source-specific p.257 **`Rs. 1.125 crore`** versus p.258 **`Rs. 1,125 crore`** distinction is intentionally preserved without external reconciliation.
 
 English must not be marked fully verified until all 37 pages pass Gate G.
 
 ## Exact next activity
 
-Continue **Gate G Batch 4 — source/scan pp.256–260 / printed pp.255–259**. Compare the canonical English against the final verified Tamil page-by-page, apply only definite fidelity corrections, update [`translation-review.md`](./translation-review.md), and keep the overall English status unverified until Gate G covers all 37 pages.
+Continue **Gate G Batch 5 — source/scan pp.261–265 / printed pp.260–264**. Compare the canonical English against the final verified Tamil page-by-page, apply only definite fidelity corrections, update [`translation-review.md`](./translation-review.md), and keep the overall English status unverified until Gate G covers all 37 pages.
 
 ## Files
 
 - [`transcript.md`](./transcript.md) — complete and verified Tamil source layer.
 - [`translation.md`](./translation.md) — complete 37/37-page English translation; Gate G in progress.
-- [`translation-review.md`](./translation-review.md) — Gate-G fidelity-review record, currently 15/37 pages.
+- [`translation-review.md`](./translation-review.md) — Gate-G fidelity-review record, currently 20/37 pages.
 - [`metadata.json`](./metadata.json) — source mapping and processing status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and audit notes.
 - [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D and Gate-E audit trail.
