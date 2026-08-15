@@ -32,30 +32,28 @@ Speech 7 (`உரை : 7`, `14.05.1998`, canonical ID `1998-05-14-industries-deb
 
 ## English status
 
-- Gate F: **in progress — Batches 1–3 complete**
-- translated source/scan pages: **241–255**
-- corresponding printed pages: **240–254**
-- completed English pages: **15/37**
-- next source page: **256**
-- unresolved translation questions: **0**
+- Gate F canonical working translation: **Batches 1–3 merged**
+- canonical translated source/scan pages: **241–255**
+- canonical corresponding printed pages: **240–254**
+- canonical completed English pages: **15/37**
+- Gate F Batch 4: **translation complete in staging — source pp.256–260 / printed pp.255–259 — 5 pages**
+- Batch-4 staging file: `speeches/1999/1999-04-29-industries-debate/gate-f-batch4-pp256-260.md`
+- Batch-4 staging commit: `57279f22d23da9f285890db6b64ce8325eafea23`
+- Batch-4 unresolved translation questions: **0**
 - English status: **in progress, not verified**
 - Gate G: **not started**
 
 Gate F uses only the final verified Tamil and preserves source-page correspondence, interventions, names, figures, embedded printed English, humour/context and source historical/factual claims without silent correction.
 
-Batch 3 covers pp.251–255: completion of the State-wise sugarcane-price comparison; WORLD TEL / ITU / Joint Sector Project explanation; Dr. A. Chellakumar's intervention concerning 1½ lakh jobs, 13,000 connections, 26 per cent Government share, Transparency and Global tender; Kalaignar's response about Sam Pitroda and possible alternative organisations; the transition into the historical industrial-development account; SPIC; creation of SIPCOT; and the Salem Steel Plant campaign. Source p.255 ends with the statement that the 24 Kazhagam MPs were used for the country and the State.
+Batch 4 covers pp.256–260: Alangulam cement factory; Ranipet and Hosur SIPCOT industrial complexes; 1989–90 industries; the 1991–96 and 1996–99 investment/employment comparison; Hyundai, Mitsubishi Lancer, Ford and the Irungattukottai component-factory list; S.K.M. Egg Products / Mayilsamy Gounder–Mayilanandam passage; Thapar DuPont; and Asian Lighting. The translation deliberately preserves source-supported anomalies rather than correcting them, including p.257 `Rs. 1.125 crore` followed by p.258 `Rs. 1,125 crore`.
 
-## Exact next activity — Gate F Batch 4
+## Exact next activity — merge Batch 4, then begin Batch 5
 
-Translate **source/scan pp.256–260 / printed pp.255–259** from the final verified Tamil.
-
-Requirements:
-
-1. Preserve source-page markers/correspondence and cross-page continuations.
-2. Preserve all parliamentary interventions and context markers.
-3. Preserve names, figures, dates, percentages, technical/company names and printed English exactly where appropriate.
-4. Do not silently correct claims made in the source.
-5. Keep the translation faithful rather than stylistically improving the speech.
-6. Record genuine uncertainty instead of guessing.
-7. Update `translation.md`, metadata, README, handover and prompt truthfully after the batch.
+1. Fetch current canonical `translation.md` immediately before editing.
+2. Merge the completed staged Batch 4 sections for source pp.256–260 after source p.255.
+3. Update only the Gate-F working note from 15/37 through p.255 to **20/37 through p.260**.
+4. Inspect the resulting commit/diff for accidental changes to Batches 1–3.
+5. If clean, reconcile metadata and README to canonical Gate F **20/37**, completed source pp.241–260 / printed pp.240–259, next source page **261**, unresolved translation questions **0**, and remove `pending_gate_f_batch`.
+6. Delete `gate-f-batch4-pp256-260.md` after successful canonical merge.
+7. Then proceed to **Gate F Batch 5 — source/scan pp.261–265 / printed pp.260–264**.
 8. Do not mark English verified; Gate G remains separate after Gate F completes all 37 pages.
