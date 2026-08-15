@@ -53,55 +53,48 @@ Gate D establishes completeness and structure only. It does **not** establish ch
 
 ### Batch 1 — scan pp.241–245 / printed pp.240–244
 
-These five pages were re-read directly against rendered images from the controlling scan. Five definite source-supported corrections were applied; unresolved readings: **0**.
+Five definite source-supported corrections were applied; unresolved readings: **0**.
 
 ### Batch 2 — scan pp.246–250 / printed pp.245–249
 
-These five pages were visually verified directly against the controlling scan. Six definite source-supported corrections were applied; unresolved readings: **0**.
+Six definite source-supported corrections were applied; unresolved readings: **0**.
 
 ### Batch 3 — scan pp.251–255 / printed pp.250–254
 
-These five pages were visually verified directly against rendered images from the controlling scan. Twelve definite source-supported corrections were applied; unresolved readings: **0**.
+Twelve definite source-supported corrections were applied; unresolved readings: **0**.
 
 ### Batch 4 — scan pp.256–260 / printed pp.255–259
 
-These five pages were visually verified directly against rendered images from the controlling scan. Two definite source-supported corrections were applied to canonical `transcript.md`:
-
-1. scan p.256: `அமைந்தது` → `அமைந்து`;
-2. scan p.257: `டி.பி. பெட்ரோ புராடக்ட்ஸ்` → `டி,பி, பெட்ரோ புராடக்ட்ஸ்`.
-
-Scan pp.258–260 required no definite word/character correction. Cross-page continuations p.255→256 and p.260→261 were checked and remain intact. Unresolved readings in Batch 4: **0**.
+Two definite source-supported corrections were applied; unresolved readings: **0**.
 
 ### Batch 5 — scan pp.261–265 / printed pp.260–264
 
-All five pages were visually verified directly against rendered images from the controlling scan. One definite source-supported correction was applied to canonical `transcript.md`:
+One definite source-supported correction was applied to canonical `transcript.md`:
 
 1. scan p.261: `ஆட்டோமொபைல்` → `ஆட்டோ மொபைல்`.
 
-The scan prints `ஆட்டோ` and `மொபைல்` separately in the Sriram Auto Components entry. Scan pp.262–265 required no additional definite correction. Boundary checks p.260→261 and p.265→266 are intact. Batch-5 unresolved readings: **0**. Canonical Batch-5 transcript checkpoint: `a1a90353a222507c4a14a926ce0d856b25741c65`.
+Scan pp.262–265 required no additional definite correction. Boundary checks p.260→261 and p.265→266 are intact. Batch-5 unresolved readings: **0**.
 
-### Batch 6 visual review — scan pp.266–270 / printed pp.265–269
+### Batch 6 — scan pp.266–270 / printed pp.265–269
 
-All five pages were visually re-read directly against rendered images from the controlling scan. One definite source-supported correction was identified:
+All five pages were visually verified directly against rendered images from the controlling scan. One definite source-supported correction was applied to canonical `transcript.md`:
 
 1. scan p.267: `அப்போதை` → `அப்போதைய`.
 
-The source clearly prints `அப்போதைய` in the Tamil explanation following the CDR quotation. Scan p.266 and pp.268–270 required no additional definite correction.
-
-Checks included the three printed `Economic Times` English quotations on p.266; `Times of India` / CDR quotations and percentages on p.267; `International Real Estates`, `Jones Long Wootten`, the Chennai quotation and Vikatan passage on p.268; and the information-technology terminology on pp.269–270 including `Software Professionals`, `I.T. Task Force`, `I.T.Policy`, `Hardware`, `Software`, and `I.T. Super Highway`.
+Scan p.266 and pp.268–270 required no additional definite word/character correction. Checks included the printed `Economic Times` and `Times of India` passages, CDR figures, `International Real Estates`, `Jones Long Wootten`, the Vikatan editorial, and the information-technology section including `Software Professionals`, `I.T. Task Force`, `I.T.Policy`, `Hardware`, `Software` and `I.T. Super Highway`.
 
 Boundary checks:
 
-- p.265→266: `Economic Times` lead-in dated `28-4-1999` → `Tamil Nadu followed closely by Gujarat...` — intact;
-- p.270→271: the `வேர்ல்ட்டெல்` / internetisation passage and `(மேசையைத் தட்டும் ஒலி).` → `தமிழ்நெட் 1999` — intact.
+- p.265→266: `Economic Times` lead-in dated `28-4-1999` → printed English `Tamil Nadu followed closely by Gujarat...` — intact;
+- p.270→271: `வேர்ல்ட்டெல்` / internetisation passage → `தமிழ்நெட் 1999` — intact.
 
-Batch-6 unresolved readings: **0**. The correction is staged in [`gate-e-batch6-pp266-270.md`](./gate-e-batch6-pp266-270.md) and is not yet counted as canonical verification.
+Batch-6 unresolved readings: **0**. Canonical Batch-6 transcript checkpoint: `2d43d163d6c7ac9e470ae08299d0d20e91ebe089`.
 
-Current canonical Gate-E verified range remains **scan pp.241–265 / printed pp.240–264 — 25/37 pages**. Cumulative definite corrections already applied: **26**. Tamil remains **reviewed, not fully verified**.
+Current Gate-E verified range: **scan pp.241–270 / printed pp.240–269 — 30/37 pages**. Cumulative definite Gate-E corrections: **27**. Tamil remains **reviewed, not fully verified**.
 
-## Next audit action
+## Next audit
 
-Merge the staged p.267 correction into canonical `transcript.md`, update its archival note to verified through scan p.270 / printed p.269, validate the diff, then close Batch 6 at **30/37 pages** and **27 cumulative corrections**. Remove the staging file after the successful merge. Only then proceed with **Gate E Batch 7 — scan pp.271–275 / printed pp.270–274**.
+Proceed with **Gate E Batch 7 — scan pp.271–275 / printed pp.270–274**. The rendered scan remains controlling. Apply and log only source-supported corrections; do not modernise or externally normalise the source.
 
 ## Translation status
 
