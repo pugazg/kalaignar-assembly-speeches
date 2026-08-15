@@ -77,11 +77,9 @@ First-pass Tamil transcription completed for **scan/source pp.288–292 / printe
 
 - cumulative source-page markers present: **278–292**, once and in order;
 - cumulative completed pages: **15/26**;
-- next scan/source page: **293**;
-- unresolved first-pass readings: **0**;
-- Tamil status: **in-progress; not verified**.
+- unresolved first-pass readings: **0**.
 
-Batch 3 begins by completing the p.287 High Court quotation. It ends on p.292 mid-sentence after `Tanflora Infrastructure Park; 24.85 கோடி ரூபாய் முதலீட்டில் மலரைப் பதப்படுத்தும் தொழில் பூங்கா ஒன்று`; Batch 4 must continue directly from source p.293.
+Batch 3 begins by completing the p.287 High Court quotation. It ends on p.292 mid-sentence after `Tanflora Infrastructure Park; 24.85 கோடி ரூபாய் முதலீட்டில் மலரைப் பதப்படுத்தும் தொழில் பூங்கா ஒன்று`.
 
 ### Source-sensitive forms retained in Batch 3
 
@@ -93,6 +91,32 @@ Batch 3 begins by completing the p.287 High Court quotation. It ends on p.292 mi
 - p.290 retains `TIDCO`, `TCIL`, `ஃப்யூஜிகுரா`, `Optic Fibre Telecom Cables`, `Perundurai Growth Centre`, and the source wording `வைக்கவிரும்புகிறேன்`;
 - p.291 retains `Condoms`, `Technical Products`, `Export Promotion Industrial Park`, and `Special Economic Zone` as printed English forms;
 - p.292 preserves the rhetorical source wording `இரண்டு கிழங்கட்டை இருந்தால் செத்துப் போய்விடும்`, the Nanguneri 9,000 / 55,000 / 8,000 crore figures, and the Tanflora continuation boundary.
+
+## Gate C — Batch 4
+
+First-pass Tamil transcription completed for **scan/source pp.293–297 / printed pp.292–296**.
+
+- cumulative source-page markers present: **278–297**, once and in order;
+- cumulative completed pages: **20/26**;
+- next scan/source page: **298**;
+- unresolved first-pass readings: **0**;
+- Tamil status: **in-progress; not verified**.
+
+Batch 4 begins with the exact Tanflora continuation `ஓசூரில் 220 ஏக்கர்...` and ends on p.297 mid-sentence after `ஆனால், தினமும்`; Batch 5 must continue directly from source p.298.
+
+### Source-sensitive forms retained in Batch 4
+
+- p.293 prints `இன்னொன்றியில் சென்னை வர்த்தக மையம்;`; the high-resolution scan was re-inspected before committing and the unusual form was retained as printed;
+- the Chennai Trade Centre passage preserves `(TIDCO)`, `(ITPO)`, `20.000 சதுர மீட்டர்`, `5000 சதுர மீட்டர்`, `30-1-2000` and `2000 நவம்பரில்`;
+- p.293 preserves `Bio-Technology`, `உயிரியல் தொழில் நுட்பவியல் ஊக்க மூலதன நிதி` and the unusual source form `வழங்கப்பட விருக்கிறது`;
+- the p.293→294 transition is preserved exactly after `அதிவேகப் பயன்பாட்டிற்கு`, with p.294 beginning `உகந்த டீசல்`;
+- p.294 retains `ப்ராக்சேர் இந்தியா பிரைவேட் லிமிடெட்`, `industrial gases`, `செயிண்ட் கோபைன்`, the 480-crore / 450-job / 3-crore-10-lakh figures, and `பென்னார் ரிபைனர்ஸ் லிமிடெட்` at 3,200 crore / 500 acres;
+- pp.294–295 retain the 432-crore Vasavi integrated textile project and the cross-page continuation from `ஜப்பான், ஜெர்மனி போன்ற நாடுகளில் உள்ள` to `பெரிய நிறுவனங்கள் பங்கேற்கும்`;
+- p.295 preserves `கஞ்சமலை`, `வேதியப்பன் மலை`, source form `கவிதி மலைப் பகுதிகளிலும்`, 450 million tons, 35%→67%, `இரும்புத் துண்டங்களை`, and `நாம்தா டெக்ஸ்டைல்ஸ்` with its 8,000 / 70,000 / 4,500 / 700-crore figures;
+- p.296 explicitly prints **`24-3-2001`** in a speech dated `8.05.2000`. The transcript retains that date exactly and does not reconcile it from outside knowledge;
+- p.296 retains the expert-committee names and institutional forms as printed, including Dr. M. S. Swaminathan, Dr. S. Ramachandran, Dr. M. D. Nair, Dr. S. Chandrasekar, Dr. K. Thamalingam, Dr. P. Kaliraj, Dr. Joseph Thomas, Dr. Kundala Jayaraman, `ஸ்பிக்` and `டிட்கோ`;
+- the p.296→297 word split is preserved as `திருவண்ணா` / `மலையிலும்`;
+- p.297 preserves `பேசவில்லை யானாலும்`, the repeated `விற்காது, விற்காது`, and the categorical no-privatisation wording regarding Ariyalur cement plant / Tamil Nadu Cements divisions.
 
 ## Verification status
 
