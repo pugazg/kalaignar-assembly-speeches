@@ -10,41 +10,34 @@ Controlling PDF:
 - Speech-8 scan range: **241–277**;
 - printed range: **240–276**.
 
-Before Gate C started, the locked boundaries were re-confirmed directly from the rendered scan:
+Locked boundaries:
 
 - p.241 begins `உரை : 8`, `நாள் : 29.04.1999`;
-- p.277 is the Speech-8 closing page;
+- p.277 closes Speech 8;
 - p.278 begins `உரை : 9`, `நாள் : 8.05.2000`, and is excluded.
 
 ## Gate C — Tamil first-pass transcription
 
 **Complete — 37/37 mapped pages.**
 
-### Batch 1 — scan pp.241–255 / printed pp.240–254
-
-- pages: **15**;
-- canonical source-page range: **241–255**;
-- unresolved/`REVIEW` readings: **0**.
-
-### Batch 2 — scan pp.256–270 / printed pp.255–269
-
-- pages: **15**;
-- canonical source-page range: **256–270**;
-- canonical Batch-2 merge checkpoint: `1da567dc66d89847bfa10704254d8bf9e3c8b46a`;
-- unresolved/`REVIEW` readings: **0**.
-
-### Batch 3 — scan pp.271–277 / printed pp.270–276
-
-- pages: **7**;
-- canonical source-page range: **271–277**;
-- unresolved/`REVIEW` readings: **0**;
-- canonical Gate-C completion checkpoint: `d0fd3ea71f29838299eb5d7008e4149b7399498c`.
+- Batch 1: scan pp.241–255 / printed pp.240–254 — 15 pages;
+- Batch 2: scan pp.256–270 / printed pp.255–269 — 15 pages;
+- Batch 3: scan pp.271–277 / printed pp.270–276 — 7 pages;
+- canonical Gate-C completion checkpoint: `d0fd3ea71f29838299eb5d7008e4149b7399498c`;
+- unresolved `REVIEW` readings: **0**.
 
 ## Gate D — Tamil completeness/page-marker audit
 
-**Passed.** The complete canonical Tamil layer contains all 37 source-page markers in exact sequence 241–277, with no gaps, duplicates, reordering or Speech-9 spillover. Opening, interventions and final p.277 closing structure are intact. Unresolved `REVIEW` markers: **0**.
+**Passed.**
 
-Tamil status after Gate D: **reviewed, not verified**. Character-level and source-fidelity verification still requires Gate E.
+- expected source pages: **241–277**;
+- canonical source-page markers: **37**, exactly once and in strict order;
+- missing/duplicate/reordered sections: **0**;
+- opening, interventions and p.277 closing structure: intact;
+- p.278 / Speech-9 spillover: absent;
+- unresolved `REVIEW` markers: **0**.
+
+Tamil status after Gate D: **reviewed, not verified**.
 
 ## Gate E — strict Tamil visual/source-fidelity verification
 
@@ -62,17 +55,15 @@ Definite corrections applied to canonical `transcript.md`:
 4. p.243 `நிதிமன்ற இடைக்காலத் தடையை` → `நீதிமன்ற இடைக்காலத் தடையை`;
 5. p.244 `நடைபெற்றிருக்கிறது` → `நடைபெற்றிருக்கின்றது`.
 
-Batch-1 canonical correction checkpoint: `201b5eff42382bcb6192475be75e01a6865ed921`.
+Checkpoint: `201b5eff42382bcb6192475be75e01a6865ed921`.
 
-Batch-1 result: verified **5/37** pages; corrections **5**; unresolved readings **0**.
+Result: **5 pages**, **5 corrections**, **0 unresolved**.
 
 ### Batch 2 — scan pp.246–250 / printed pp.245–249
 
 Pages checked directly against rendered scan images: **5/5**.
 
-Checks covered wording and individual characters, names, numerals and figures, punctuation where legible, printed English/Latin-script forms, and the p.245→246, p.249→250 and p.250→251 transitions.
-
-Definite corrections applied to canonical `transcript.md`:
+Definite corrections:
 
 1. p.246 `ஊழல்களை எல்லாம்` → `ஊழல்களை யெல்லாம்`;
 2. p.246 `எடுத்து வருகிறார்` → `எடுத்து வருகின்றார்`;
@@ -83,29 +74,17 @@ Definite corrections applied to canonical `transcript.md`:
 
 Scan p.250 definite corrections: **0**.
 
-Boundary/continuation checks:
+Boundary checks p.245→246, p.249→250 and p.250→251: intact.
 
-- p.245→246: `அது ஊழல் விசாரிப்புக் குழுவிற்கு` → `அனுப்பப்பட்டு...` — intact;
-- p.249→250: `தமிழகத்திற்குத் தேவையான, நல்ல வேலைகளை` → `நல்லத் தொழிற்சாலைகளை...` — intact;
-- p.250→251: `10.72 சதவிகிதம் கட்டுமானம் உள்ள குஜராத்தில்` → `கரும்பு விலை ஒரு டன் 648 ரூபாய்.` — intact.
+Checkpoint: `bcddfa24237941596f5acaab0531974b783e7b77`.
 
-Batch-2 canonical correction checkpoint: `bcddfa24237941596f5acaab0531974b783e7b77`.
-
-Batch-2 result:
-
-- verified scan range: **246–250**;
-- verified printed range: **245–249**;
-- verified pages in batch: **5/5**;
-- corrections applied in batch: **6**;
-- unresolved readings: **0**.
+Result: **5 pages**, **6 corrections**, **0 unresolved**.
 
 ### Batch 3 — scan pp.251–255 / printed pp.250–254
 
 Pages checked directly against rendered scan images: **5/5**.
 
-Checks covered wording and individual characters, names, numerals/percentages/monetary values, printed English and abbreviations, punctuation/spacing where source-significant, and the p.250→251 and p.255→256 transitions.
-
-Definite corrections applied to canonical `transcript.md`:
+Definite corrections:
 
 1. p.251 `நிதிமன்றத்திற்குச்` → `நீதிமன்றத்திற்குச்`;
 2. p.251 `இடைக்காலத்தடையை` → `இடைக் காலத்தடையை`;
@@ -120,68 +99,76 @@ Definite corrections applied to canonical `transcript.md`:
 11. p.255 `நிதியமைச்சராக` → `நிதிஅமைச்சராக`;
 12. p.255 `தெரிவித்துக்கொள்கிறேன்` → `தெரிவித்துக் கொள்கிறேன்`.
 
-Scan p.252 definite corrections: **0**.
+Scan p.252 definite corrections: **0**. Boundary checks p.250→251 and p.255→256: intact.
 
-Boundary/continuation checks:
+Checkpoint: `856297ff79dcb3f2539ac569941e09a27aaeccde`.
 
-- p.250→251: `10.72 சதவிகிதம் கட்டுமானம் உள்ள குஜராத்தில்` → `கரும்பு விலை ஒரு டன் 648 ரூபாய்.` — intact;
-- p.255→256: Speech-history passage closes on p.255 and p.256 begins `இந்தக் காலகட்டத்திலேதான் ஆலங்குளம் சிமெண்ட் தொழிற்சாலையும் அமைக்கப்பட்டது.` — intact.
-
-Batch-3 canonical correction checkpoint: `856297ff79dcb3f2539ac569941e09a27aaeccde`.
-
-Batch-3 result:
-
-- verified scan range: **251–255**;
-- verified printed range: **250–254**;
-- verified pages in batch: **5/5**;
-- corrections applied in batch: **12**;
-- unresolved readings: **0**.
+Result: **5 pages**, **12 corrections**, **0 unresolved**.
 
 ### Batch 4 — scan pp.256–260 / printed pp.255–259
 
 Pages checked directly against rendered scan images: **5/5**.
 
-Checks covered wording and individual characters, company names, years, acreages, monetary values, employment figures, printed English/Latin-script text, punctuation where clearly legible, and the p.255→256 and p.260→261 transitions.
-
-Definite corrections applied to canonical `transcript.md`:
+Definite corrections:
 
 1. p.256 `அமைந்தது` → `அமைந்து`;
 2. p.257 `டி.பி. பெட்ரோ புராடக்ட்ஸ்` → `டி,பி, பெட்ரோ புராடக்ட்ஸ்`.
 
-Scan pp.258–260 definite corrections: **0**.
+Scan pp.258–260 definite corrections: **0**. Boundary checks p.255→256 and p.260→261: intact.
 
-Boundary/continuation checks:
+Checkpoint: `03f32ed5460c118007693539e32db100af07ffe6`.
 
-- p.255→256: the Speech-history passage continues into `இந்தக் காலகட்டத்திலேதான் ஆலங்குளம் சிமெண்ட் தொழிற்சாலையும் அமைக்கப்பட்டது.` — intact;
-- p.260→261: the p.260 list closes with the `ஆசியன் லைட்டிங்` metal-tube-lamp factory, and p.261 begins the `4.5 கோடி ரூபாய்... கரூர் யார்ன் லிங்க்ஸ் லிமிடெட்` entry — intact.
+Result: **5 pages**, **2 corrections**, **0 unresolved**.
 
-Batch-4 canonical correction checkpoint: `03f32ed5460c118007693539e32db100af07ffe6`.
-
-Batch-4 result:
-
-- verified scan range: **256–260**;
-- verified printed range: **255–259**;
-- verified pages in batch: **5/5**;
-- corrections applied in batch: **2**;
-- unresolved readings: **0**.
-
-### Gate-E cumulative state after Batch 4
+### Canonical state after Batch 4
 
 - verified scan range: **241–260**;
 - verified printed range: **240–259**;
 - verified pages: **20/37**;
-- cumulative definite corrections: **25**;
-- unresolved readings in verified range: **0**.
+- cumulative corrections applied: **25**;
+- unresolved readings: **0**.
 
-Tamil status remains **reviewed, not fully verified**. Gate E must cover all 37 pages before Tamil can be marked verified.
+### Batch 5 visual review — scan pp.261–265 / printed pp.260–264
+
+Pages visually checked directly against the controlling scan: **5/5**.
+
+Checks covered words/characters, company and project names, years, monetary values, employment figures, acreages and MW figures, printed English/Latin-script text, punctuation/spacing where source-significant, and cross-page continuations.
+
+One definite source-supported correction was found:
+
+1. p.261 `ஆட்டோமொபைல்` → `ஆட்டோ மொபைல்`.
+
+The source visibly prints `ஆட்டோ` and `மொபைல்` as separate words in the Sriram Auto Components entry. Scan pp.262–265 required **0 additional definite corrections**.
+
+Boundary checks:
+
+- p.260→261: Asian Lighting entry → `4.5 கோடி ரூபாய்... கரூர் யார்ன் லிங்க்ஸ் லிமிடெட்` — intact;
+- p.265→266: `Economic Times ... 28-4-1999-ல் எழுதியிருக்கிறது.` → printed English `Tamil Nadu followed closely by Gujarat...` — intact.
+
+Batch-5 unresolved readings: **0**.
+
+The one correction is recorded in `gate-e-batch5-pp261-265.md` but is **not yet merged into canonical `transcript.md`**. Therefore Batch 5 is a completed visual review pending canonical merge and is not yet counted in canonical verified coverage.
+
+Staging checkpoint: `a1f1a9f7e2221cfd525b052ae440c3511c224237`.
+
+## Current Gate-E state
+
+- canonical verified scan range: **241–260**;
+- canonical verified printed range: **240–259**;
+- canonical verified pages: **20/37**;
+- cumulative corrections already applied: **25**;
+- Batch-5 visually reviewed pages awaiting merge: **261–265**;
+- pending canonical corrections: **1**;
+- unresolved readings: **0**;
+- Tamil status: **reviewed, not fully verified**.
 
 ## Gates not yet complete
 
-- Gate E strict Tamil visual/source-fidelity verification: **in progress — 20/37 pages verified**.
-- Gate F English translation: **blocked**.
-- Gate G English fidelity verification: **not started**.
+- Gate E: **in progress**;
+- Gate F English translation: **blocked**;
+- Gate G English fidelity verification: **not started**;
 - Gate H release/index: **not started**.
 
-## Next activity
+## Exact next activity
 
-Continue **Gate E Batch 5 — scan pp.261–265 / printed pp.260–264**. Compare canonical Tamil directly against the rendered scan and apply/log only definite source-supported corrections. Do not begin English.
+Merge the staged p.261 `ஆட்டோமொபைல்` → `ஆட்டோ மொபைல்` correction into canonical `transcript.md`, update its archival note to verified through scan p.265 / printed p.264, validate the resulting diff, then close Batch 5 at **25/37 pages** and **26 cumulative corrections**. Remove the staging file after successful merge. Only then begin **Gate E Batch 6 — scan pp.266–270 / printed pp.265–269**. Do not begin English.
