@@ -30,34 +30,30 @@
 
 ## Current status
 
-Speech 8 Gate C is complete, **Gate D has passed**, and Gate E strict visual verification is now in progress.
+Speech 8 Gate C is complete, **Gate D has passed**, and Gate E strict visual verification is in progress.
 
 - Gate C: **complete — 37/37 pages, scan pp.241–277 / printed pp.240–276**.
 - Gate D completeness/page-marker audit: **passed**.
-- Gate-E Batch 1: **verified — scan pp.241–245 / printed pp.240–244 — 5/37 pages**.
-- Gate-E corrections applied in Batch 1: **5**.
+- Gate-E Batch 1: **verified — scan pp.241–245 / printed pp.240–244 — 5 pages**.
+- Gate-E Batch 2: **verified — scan pp.246–250 / printed pp.245–249 — 5 pages**.
+- Gate-E cumulative verified coverage: **scan pp.241–250 / printed pp.240–249 — 10/37 pages**.
+- Gate-E corrections: **5 in Batch 1 + 6 in Batch 2 = 11 cumulative**.
 - Gate-E unresolved readings in verified range: **0**.
 - Tamil status: **reviewed, not fully verified**.
-- Gate E next scan page: **246**.
+- Gate E next scan page: **251**.
 - English Gate F: **blocked until Gate E passes all 37 pages**.
 
-Gate-E Batch 1 corrections applied to canonical `transcript.md`:
+Gate-E Batch 2 applied six definite scan-supported corrections to canonical `transcript.md`: p.246 `ஊழல்களை எல்லாம்` → `ஊழல்களை யெல்லாம்`, p.246 `எடுத்து வருகிறார்` → `எடுத்து வருகின்றார்`, p.247 `முதலமைச்சர்கூட` → `முதலமைச்சரேகூட`, p.247 `நாளாக` → `நானாக`, p.248 `மிக வெற்று` → `மிகை வெற்று`, and p.249 `அது தொடர்பான தேவையான கச்சாப் பொருட்கள்` → `அது தொடர்ந்து நடப்பதற்குத் தேவையான கச்சாப்பொருட்கள்`.
 
-1. p.241 `நிதிமன்றத்திலே` → `நீதிமன்றத்திலே`;
-2. p.243 first `பொது ஒப்பந்த முறையில்` → `பொது ஒப்பந்த முறைப்படி`;
-3. p.243 second `பொது ஒப்பந்த முறையில்` → `பொது ஒப்பந்த முறைப்படி`;
-4. p.243 `நிதிமன்ற இடைக்காலத் தடையை` → `நீதிமன்ற இடைக்காலத் தடையை`;
-5. p.244 `நடைபெற்றிருக்கிறது` → `நடைபெற்றிருக்கின்றது`.
-
-These are scan-supported source-fidelity corrections only; no outside normalisation was used. Pages 245 and the other compared text in pp.241–245 required no further definite correction.
+These are source-fidelity corrections only; no outside normalisation was used. Scan p.250 required no definite word/character correction. The p.245→246, p.249→250 and p.250→251 continuations were checked and remain intact.
 
 ## Exact next activity
 
-Proceed with **Gate E Batch 2 — scan pp.246–250 / printed pp.245–249**. Compare canonical Tamil directly against the rendered scan, character by character where needed, applying and logging only definite source-supported corrections. Keep English blocked.
+Proceed with **Gate E Batch 3 — scan pp.251–255 / printed pp.250–254**. Compare canonical Tamil directly against the rendered scan, character by character where needed, applying and logging only definite source-supported corrections. Keep English blocked.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — complete Tamil source layer; Gate D passed; Gate E verified through scan p.245.
+- [`transcript.md`](./transcript.md) — complete Tamil source layer; Gate D passed; Gate E verified through scan p.250.
 - [`metadata.json`](./metadata.json) — source mapping and current audit status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and audit notes.
 - [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D and Gate-E audit trail.
