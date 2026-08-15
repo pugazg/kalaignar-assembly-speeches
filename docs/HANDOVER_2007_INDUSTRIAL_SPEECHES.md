@@ -32,22 +32,22 @@ Speech 7 (`உரை : 7`, `14.05.1998`, canonical ID `1998-05-14-industries-deb
 
 ## English status
 
-- Gate F: **in progress — Batches 1–2 complete**
-- translated source/scan pages: **241–250**
-- corresponding printed pages: **240–249**
-- completed English pages: **10/37**
-- next source page: **251**
+- Gate F: **in progress — Batches 1–3 complete**
+- translated source/scan pages: **241–255**
+- corresponding printed pages: **240–254**
+- completed English pages: **15/37**
+- next source page: **256**
 - unresolved translation questions: **0**
 - English status: **in progress, not verified**
 - Gate G: **not started**
 
 Gate F uses only the final verified Tamil and preserves source-page correspondence, interventions, names, figures, embedded printed English, humour/context and source historical/factual claims without silent correction.
 
-Batch 2 covers pp.246–250. It continues the Pugalur inquiry; Pollachi backward-taluk request; Mohamed Ismail/Kudaganar discussion; Dr. Chellakumar's Best and Crompton Urban Land Ceiling allegation and Cabinet explanation; L.N.G./Siemens consortium explanation; Alanganallur public-sector factory; Kanyakumari rope and rubber industries; Tmt. Ponnammal's jasmine/singapore remarks; and begins the sugarcane-price/state comparison. Source p.250 ends mid-comparison after Gujarat's 10.72 per cent recovery figure.
+Batch 3 covers pp.251–255: completion of the State-wise sugarcane-price comparison; WORLD TEL / ITU / Joint Sector Project explanation; Dr. A. Chellakumar's intervention concerning 1½ lakh jobs, 13,000 connections, 26 per cent Government share, Transparency and Global tender; Kalaignar's response about Sam Pitroda and possible alternative organisations; the transition into the historical industrial-development account; SPIC; creation of SIPCOT; and the Salem Steel Plant campaign. Source p.255 ends with the statement that the 24 Kazhagam MPs were used for the country and the State.
 
-## Exact next activity — Gate F Batch 3
+## Exact next activity — Gate F Batch 4
 
-Translate **source/scan pp.251–255 / printed pp.250–254** from the final verified Tamil.
+Translate **source/scan pp.256–260 / printed pp.255–259** from the final verified Tamil.
 
 Requirements:
 
