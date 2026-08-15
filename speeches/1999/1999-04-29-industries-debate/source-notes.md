@@ -26,63 +26,32 @@ The rendered scan image is authoritative for the Tamil source layer. OCR/extract
 
 For this speech: `PDF scan page = printed page + 1`.
 
-The boundaries were re-confirmed directly from the controlling scan before starting transcription:
+The boundaries were re-confirmed directly from the controlling scan before transcription:
 
 - scan p.240 closes Speech 7;
 - scan p.241 / printed p.240 begins `உரை : 8`, `நாள் : 29.04.1999`;
-- scan p.277 / printed p.276 closes Speech 8 with its ending ornament;
+- scan p.277 / printed p.276 closes Speech 8;
 - scan p.278 / printed p.277 begins Speech 9, `உரை : 9`, `நாள் : 8.05.2000`.
 
-## Gate C — Batch 1
+## Gate C — complete
 
-Status: **complete for scan pp.241–255 / printed pp.240–254**.
+Gate C first-pass Tamil transcription is complete across all **37/37** mapped pages.
 
-- page count: **15 pages**;
-- source-page markers: **241–255**;
+- Batch 1: scan pp.**241–255** / printed pp.**240–254** — 15 pages;
+- Batch 2: scan pp.**256–270** / printed pp.**255–269** — 15 pages;
+- Batch 3: scan pp.**271–277** / printed pp.**270–276** — 7 pages;
+- cumulative canonical coverage: scan pp.**241–277** / printed pp.**240–276**;
 - unresolved/`[REVIEW]` readings: **0**.
 
-## Gate C — Batch 2
+The final Batch 3 was first staged separately, then merged into canonical `transcript.md` after refetching the current canonical file. The merged transcript preserves the p.270→271 continuation beginning with `கணினிப் பயன்பாடுகளில்... “தமிழ்நெட் 1999”`, and the p.276→277 closing sequence: Speaker → Opposition Leader `திரு. சோ. பாலகிருஷ்ணன்` → Kalaignar reply ending with the `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay and `(மேசையைத் தட்டும் ஒலி).`
 
-Status: **complete and merged canonically for scan pp.256–270 / printed pp.255–269**.
+The canonical file contains no `source-page: 278`; Speech 9 was not entered. The temporary Batch-3 staging file was removed only after the canonical merge and boundary check.
 
-- page count: **15 pages**;
-- cumulative canonical Gate-C coverage after Batch 2: **30/37 pages, scan pp.241–270 / printed pp.240–269**;
-- source-page markers for this batch: **256–270**;
-- unresolved/`[REVIEW]` readings: **0**;
-- canonical merge checkpoint: `1da567dc66d89847bfa10704254d8bf9e3c8b46a`.
+Tamil status is **transcribed, not verified**. Gate C completion is not a Gate-E fidelity claim.
 
-Batch 2 includes the SIPCOT/industrial-history passage, the 1996–99 factory and investment lists, the C.M.I.E. investment comparison, printed `Economic Times` and `Times of India` quotations, and the information-technology / I.T. policy material.
+## Next audit
 
-## Gate C — Batch 3
-
-Status: **first-pass transcription complete for the final seven pages, staged pending canonical merge**.
-
-- scan pages transcribed: **271–277**;
-- printed pages: **270–276**;
-- page count: **7 pages**;
-- staging file: [`gate-c-batch3-pp271-277.md`](./gate-c-batch3-pp271-277.md);
-- unresolved/`[REVIEW]` readings in the staged batch: **0**;
-- canonical `transcript.md` remains at **pp.241–270 / 30/37 pages** until the staged file is safely merged.
-
-Batch 3 was transcribed directly from rendered scan images. Source-sensitive material retained includes:
-
-- p.271 `தமிழ்நெட் 1999`, the Unicode Consortium discussion and printed `Tamil Virtual University`;
-- pp.271–272 the 1,200-school / 48,000-student computer-training discussion and the court passage;
-- pp.273–276 the granite-lease case, Rule 39 material and all printed High Court English quotations, including `Mr. Dyaneswaran`;
-- p.276 the source form `8-ஏ` in the granite-rule amendment passage;
-- pp.276–277 the Opposition Leader's salt-pan intervention and Kalaignar's closing `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay.
-
-The staged text ends exactly on scan p.277 after:
-
-`உப்பளத் தொழில் மாத்திரம் அல்ல, தமிழகத்தில் அப்பளத் தொழிலும் கெடாமல் இந்த அரசு பார்த்துக் கொள்ளும். (மேசையைத் தட்டும் ஒலி).`
-
-The rendered p.278 boundary was also inspected: it begins `உரை : 9`, `நாள் : 8.05.2000`; none of that material is present in the staged Speech-8 text.
-
-This remains first-pass transcription only. Gate D and Gate E are still required before Tamil can be marked verified.
-
-## Exact next activity
-
-Merge staged pp.271–277 into canonical `transcript.md`, confirm exact source-page sequence **241–277** with no p.278 spillover, mark Gate C complete at **37/37** and Tamil `transcribed` (not verified), remove the staging file, and perform the separate Gate D completeness/page-marker audit next.
+The exact next activity is **Gate D — full-speech completeness/page-marker audit**. It must check all scan pages 241–277 for one-to-one, monotonic source-page representation, opening/closing boundaries, speaker/intervention completeness, and absence of p.278 spillover. Gate E begins only after Gate D passes.
 
 ## Translation status
 
