@@ -50,55 +50,61 @@ Before Speech 9 transcription began, both locked boundaries were re-confirmed di
 
 A post-write visual reread of source p.282 caught one definite first-pass error: `முக்கிய களமாக` → `முக்கிய தளமாக`. This was a Gate-C correction, not Gate-E verification.
 
-Important Batch-1 source-sensitive forms remain locked for later Gate E: p.280 `22-4-200` versus `22-4-2000`; p.280 `1,14,893` versus p.281 `1,41,893 + 15,000 = 1,56,893`; the p.282 printed-English *Economic Times* passage; and p.281 embedded English export labels.
-
 ### Batch 2 — complete
 
 - source/scan pages: **283–287**
 - printed pages: **282–286**
-- cumulative coverage: **10/26 pages, source pp.278–287 / printed pp.277–286**
-- page markers: **278–287**, once and in order
+- cumulative coverage after Batch 2: **10/26 pages**
+- unresolved first-pass readings: **0**
+- canonical transcript commit: `3fc93b8b3bb7860db225ead53511a747149a0ebd`
+
+Batch 2 preserves the p.283 *Industrial Herald* quotation, p.284 `e-` sequence, p.286 unusual `இந்தக் கேமிரா கழுவும்போது` wording, TIDEL technical forms, and p.287 TamilNet / Tamil Virtual University / school-computerisation material.
+
+### Batch 3 — complete
+
+- source/scan pages: **288–292**
+- printed pages: **287–291**
+- cumulative coverage: **15/26 pages, source pp.278–292 / printed pp.277–291**
+- page markers: **278–292**, once and in order
 - unresolved first-pass readings: **0**
 - Tamil status: **in-progress; not verified**
 - Gate D: **not started**
 - Gate E: **not started**
 - English Gate F: **blocked**
-- next source page: **288**
-- canonical Batch-2 transcript commit: `3fc93b8b3bb7860db225ead53511a747149a0ebd`
+- next source page: **293**
+- canonical Batch-3 transcript commit: `8de59961b972844acffb7f831d1867d2193cbf9d`
+- metadata checkpoint: `d9619959948904ad0beee84f5e51fe4d329ebd2c`
+- README checkpoint: `51c40a1f0ba42253327e4790b6ecf76d0764cd3e`
+- source-notes checkpoint: `d833ff46da7be8571e377644a98db7c8c66c34b5`
+- verification-log checkpoint: `83728eae735a8aabc1f5dc2fc70bb22ed3e0fa93`
 
-The Batch-2 commit diff was inspected and changes only the Gate-C coverage note plus the appended source sections 283–287; pp.278–282 were not rewritten.
+The Batch-3 transcript commit diff was inspected and changes only the Gate-C coverage note plus appended source sections 288–292; completed pp.278–287 were not rewritten.
 
-Batch-2 source-sensitive forms to preserve:
+Batch-3 source-sensitive forms to preserve:
 
-- p.283 printed-English *Industrial Herald* quotation beginning `Now the third largest, the Tamil Nadu economy...`;
-- p.284 exact sequence `e-Mail. e-Commerce, e-Medicine, e-Value, e-biz.` followed by `e-business--, e-Stock, e-Education`, plus source `Internet` / later `internet` capitalisation;
-- p.286 clearly printed but semantically unusual `இந்தக் கேமிரா கழுவும்போது இருட்டான இடங்களையும் வெளிச்சமாக்கும்.`;
-- p.286 `V.S.N.L.`, `DoT`, `Thermal Energy Storage System`, `Venture Capital Fund`, TIDEL Park figures and `4-ந் தேதியன்று`;
-- p.287 `தமிழ்நெட் 1999`, `Tamil Virtual University`, the 1,200-school / 600+600 / 48,000-student figures.
+- p.288 closes the High Court quotation with `கவனம் கொள்ளும் என்று நம்பிக்கை கொள்கிறது`;
+- p.288 Dr. ஆனந்த கிருஷ்ணன் / Tamil internet research centre; 34 / 562 / 58 software-company figures; `வேர்ல்ட் டெல்`; 13,000 centres; 1 இலட்சத்து 50 ஆயிரம் employment figure;
+- pp.288–289 *Economic and Political Weekly*, `Raising Global Competitiveness of Tamil Nadu's IT Industry`, `நிருபம் பாஜ்பாய்`, `நவி ரட்ஜிவ்`, `Intellectual Power House`, and `அடிப்படை யுத்தியாக`;
+- p.289 source form `தொடங்கப்பட்ட இருக்கின்ற`;
+- p.290 Polaris letter with source grammar `more then 100% per year` and no printed closing quotation mark; `TIDCO`, `TCIL`, `ஃப்யூஜிகுரா`, `Optic Fibre Telecom Cables`, `Perundurai Growth Centre`, and `வைக்கவிரும்புகிறேன்`;
+- p.291 `Condoms`, `Technical Products`, `Export Promotion Industrial Park`, `Special Economic Zone`;
+- p.292 `இரண்டு கிழங்கட்டை இருந்தால் செத்துப் போய்விடும்`, Nanguneri 9,000 / 55,000 / 8,000 crore figures.
 
-Source p.287 ends **inside a High Court quotation** after exactly:
+Source p.292 ends **mid-sentence** after exactly:
 
-`தமிழக அரசின்மீது இந்த நீதிமன்றம்`
+`Tanflora Infrastructure Park; 24.85 கோடி ரூபாய் முதலீட்டில் மலரைப் பதப்படுத்தும் தொழில் பூங்கா ஒன்று`
 
-Do not reconstruct the continuation from memory or outside sources; resume directly from rendered scan p.288.
+Do not reconstruct the continuation from memory or outside sources; resume directly from rendered scan p.293.
 
-Current Speech-9 repository state after Batch 2:
-
-- transcript commit: `3fc93b8b3bb7860db225ead53511a747149a0ebd`
-- metadata commit: `738c968d98c3d1dee17b8bd51012c7a9e89914d8`
-- README commit: `302a18d6f3dc4283536c68923de44fb279438b73`
-- source-notes commit: `4aab6da7724af6681c297e72b79be3f6549e20d5`
-- verification-log commit: `5966c7593403b612293c2dd46180667581fa544b`
-
-## Exact next activity — Speech 9 Gate C Batch 3
+## Exact next activity — Speech 9 Gate C Batch 4
 
 1. Read `docs/ARCHIVAL_WORKFLOW.md`, this handover, `sources/2007-industrial-speeches/mapping.md`, and the current Speech-9 files before writing.
-2. Process **source/scan pp.288–292 / printed pp.287–291**.
-3. Begin p.288 with the exact continuation of the unfinished High Court quotation from p.287.
+2. Process **source/scan pp.293–297 / printed pp.292–296**.
+3. Begin p.293 with the exact continuation of the unfinished Tanflora Infrastructure Park sentence from p.292.
 4. Preserve source wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions, repetition, unusual grammar and printed English. Do not silently modernise or fact-correct.
-5. Use source markers `<!-- source-page: 288 -->` through `<!-- source-page: 292 -->`, each once and in order.
+5. Use source markers `<!-- source-page: 293 -->` through `<!-- source-page: 297 -->`, each once and in order.
 6. Record every genuinely uncertain reading explicitly rather than guessing.
-7. Do not rewrite pp.278–287 unless a concrete source-supported transcription mistake is discovered and explicitly documented.
-8. If all five pages complete cleanly, cumulative Gate-C coverage becomes **15/26 pages, source pp.278–292 / printed pp.277–291**, and next source page becomes **293**.
+7. Do not rewrite pp.278–292 unless a concrete source-supported transcription mistake is discovered and explicitly documented.
+8. If all five pages complete cleanly, cumulative Gate-C coverage becomes **20/26 pages, source pp.278–297 / printed pp.277–296**, and next source page becomes **298**.
 9. Gate C remains first-pass only. Do not mark Tamil verified; Gates D and E remain later full-speech stages.
 10. Do not begin English translation or Speech 10.
