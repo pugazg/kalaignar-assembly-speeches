@@ -37,27 +37,28 @@ Speech 7 (`உரை : 7`, `14.05.1998`, canonical ID `1998-05-14-industries-deb
 - corresponding printed pages: **240–276**
 - unresolved Gate-F translation questions: **0**
 - final Gate-F canonical merge checkpoint: `ed79a499ecb56f8fb750f5ea9d946d1b2a71fde3`
-- final Batch-8 staging file has been deleted after clean merge: deletion commit `006b846958383f354dd27e3fe8066c4982261d69`
+- final Batch-8 staging file deleted after clean merge: `006b846958383f354dd27e3fe8066c4982261d69`
 - Speech-8 boundary confirmed at source p.277; source p.278 begins Speech 9; **no spillover**
 
 ## English Gate G
 
 - Gate G: **in progress**
-- Batch 1 reviewed source/scan pp. **241–245** / printed pp. **240–244**
-- reviewed pages: **5/37**
-- definite Gate-G fidelity corrections applied: **1**
+- Batches 1–2 reviewed source/scan pp. **241–250** / printed pp. **240–249**
+- reviewed pages: **10/37**
+- definite Gate-G fidelity corrections applied cumulatively: **1**
+- Batch-2 corrections: **0**
 - unresolved fidelity issues: **0**
-- next Gate-G source page: **246**
+- next Gate-G source page: **251**
 - English overall status: **complete, not yet verified**
 - Gate-G review record: `speeches/1999/1999-04-29-industries-debate/translation-review.md`
 
-Batch 1 confirmed the opening, Ranganathan and south-district passages, Subbarayan/TANCEM/athirasam material, TWAD tender figures and terms, Tiruppur court-stay discussion, Singapore/Malaysia/Colachel/flying-road passage, Nellore comparison, Sundaram's three-instalment joke, Ford/MoU/1996 passage and the p.245→246 Pugalur continuation.
+Batch 1 applied one definite English fidelity correction on source p.245. Gate F had translated `நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள்` as `You are taking the nameplate and going away with it.` Gate G corrected this to **`You are taking the credit for it.`** Canonical correction commit: `badea74b3e3bf9e3c561a75550560caec8ef2bab`; the inspected diff contains only that English change.
 
-One definite English fidelity correction was applied on source p.245. Gate F had translated `நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள்` as `You are taking the nameplate and going away with it.` Gate G corrected this to **`You are taking the credit for it.`** Canonical correction commit: `badea74b3e3bf9e3c561a75550560caec8ef2bab`. The diff contains only this English change.
+Batch 2 reviewed source pp.246–250 and required **no canonical English correction**. It reconfirmed the Pugalur corruption inquiry; Pollachi industrially-backward-taluk request; Mohamed Ismail / Bhagyaraj / Kudaganar passages; Dr. Chellakumar's Best and Crompton / `Urban Land Ceiling` allegation and Cabinet explanation; `surplus vacant land`; L.N.G. / Siemens / UNOCAL / C.M.S. / GRASIM / WOODSIDE and Valappadi Ramamurthi; Alanganallur; Kanyakumari rope/rubber humour; Tmt. Ponnammal's jasmine / Singapore / sari remarks; the election-manifesto discussion; and the State-wise sugarcane-price comparison through Gujarat's 10.72% recovery figure. Cross-page continuations p.245→246, p.249→250 and p.250→251 were intact. Reviewed canonical English blob at the Batch-2 checkpoint: `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
 
-## Exact next activity — Gate G Batch 2
+## Exact next activity — Gate G Batch 3
 
-Review **source/scan pp.246–250 / printed pp.245–249** against the final verified Tamil.
+Review **source/scan pp.251–255 / printed pp.250–254** against the final verified Tamil.
 
 Requirements:
 
@@ -67,5 +68,8 @@ Requirements:
 4. Apply only definite English fidelity corrections.
 5. Inspect every canonical translation diff before advancing reviewed coverage.
 6. Update `translation-review.md`, metadata, README, handover and next prompt truthfully.
-7. English remains **not fully verified** until all source pp.241–277 pass Gate G.
-8. Do not begin Speech 9 or Gate H until Speech 8 Gate G passes unless the user explicitly changes priority.
+7. If Batch 3 passes, Gate G advances to **15/37 pages**, next source page **256**.
+8. English remains **not fully verified** until all source pp.241–277 pass Gate G.
+9. Do not begin Speech 9 or Gate H until Speech 8 Gate G passes unless the user explicitly changes priority.
+
+Batch 3 begins on source p.251 with the continuation of Gujarat's sugarcane-price comparison and then moves into the WORLD TEL / Sam Pitroda discussion before the historical industrial-development / SIPCOT / Salem Steel Plant passages through source p.255.
