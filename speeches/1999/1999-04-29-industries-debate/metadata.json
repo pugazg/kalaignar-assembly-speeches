@@ -52,14 +52,14 @@
     "gate_d_status": "passed",
     "gate_e_status": "in-progress",
     "verified_against_scan": false,
-    "verified_scan_pages": "241-245",
-    "verified_printed_pages": "240-244",
-    "verified_page_count": 5,
-    "next_verification_scan_page": 246,
-    "gate_e_corrections_applied": 5,
+    "verified_scan_pages": "241-250",
+    "verified_printed_pages": "240-249",
+    "verified_page_count": 10,
+    "next_verification_scan_page": 251,
+    "gate_e_corrections_applied": 11,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
-    "completion_note": "Gate D passed. Gate E Batch 1 visually verified scan pp.241-245 / printed pp.240-244 directly against the controlling scan and applied five source-supported corrections to canonical transcript.md: p.241 நிதிமன்றத்திலே→நீதிமன்றத்திலே; p.243 two occurrences of பொது ஒப்பந்த முறையில்→பொது ஒப்பந்த முறைப்படி; p.243 நிதிமன்ற இடைக்காலத் தடையை→நீதிமன்ற இடைக்காலத் தடையை; p.244 நடைபெற்றிருக்கிறது→நடைபெற்றிருக்கின்றது. No unresolved readings remain in the verified batch. Tamil remains reviewed, not fully verified; Gate E continues at scan p.246."
+    "completion_note": "Gate D passed. Gate E Batches 1-2 visually verified scan pp.241-250 / printed pp.240-249 directly against the controlling scan. Batch 2 applied six additional source-supported corrections: p.246 ஊழல்களை எல்லாம்→ஊழல்களை யெல்லாம் and எடுத்து வருகிறார்→எடுத்து வருகின்றார்; p.247 முதலமைச்சர்கூட→முதலமைச்சரேகூட and நாளாக→நானாக; p.248 மிக வெற்று→மிகை வெற்று; p.249 அது தொடர்பான தேவையான கச்சாப் பொருட்கள்→அது தொடர்ந்து நடப்பதற்குத் தேவையான கச்சாப்பொருட்கள். Cumulative Gate-E corrections: 11. No unresolved readings remain in the verified range. Tamil remains reviewed, not fully verified; Gate E continues at scan p.251."
   },
   "translation": {
     "language": "English",
