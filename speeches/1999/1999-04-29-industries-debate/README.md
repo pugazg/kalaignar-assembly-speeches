@@ -38,9 +38,8 @@ Speech 8 Tamil processing is complete through Gate E. English Gate F is in progr
 - Gate-E cumulative definite corrections applied: **29**.
 - Unresolved Tamil readings: **0**.
 - Tamil status: **verified against scan**.
-- English Gate F canonical working translation: **Batches 1–3 merged — source/scan pp.241–255 / printed pp.240–254, 15/37 pages**.
-- Gate F Batch 4 translation: **complete in staging — source/scan pp.256–260 / printed pp.255–259, 5 pages; canonical merge pending**.
-- Batch-4 unresolved translation questions: **0**.
+- English Gate F canonical working translation: **Batches 1–4 merged — source/scan pp.241–260 / printed pp.240–259, 20/37 pages**.
+- Unresolved translation questions: **0**.
 - English Gate G: **not started**.
 
 Gate F is translated only from the final verified Tamil and preserves source-page correspondence, parliamentary context, interventions, names, figures, technical/company names, printed English, humour/context markers and source historical/factual claims without silent correction. English remains **not verified** until the complete 37-page Gate F translation passes the separate Gate G fidelity review.
@@ -49,13 +48,12 @@ Batch 4 covers the Alangulam cement factory; Ranipet and Hosur SIPCOT industrial
 
 ## Exact next activity
 
-Safely merge [`gate-f-batch4-pp256-260.md`](./gate-f-batch4-pp256-260.md) into canonical [`translation.md`](./translation.md), advance canonical Gate F to **20/37 pages through source p.260**, remove the staging file after a clean merge, and then proceed to **Gate F Batch 5 — source/scan pp.261–265 / printed pp.260–264**.
+Proceed with **Gate F Batch 5 — source/scan pp.261–265 / printed pp.260–264** from the final verified Tamil.
 
 ## Files
 
 - [`transcript.md`](./transcript.md) — complete and verified Tamil source layer.
-- [`translation.md`](./translation.md) — canonical Gate-F English working translation, currently 15/37 pages.
-- [`gate-f-batch4-pp256-260.md`](./gate-f-batch4-pp256-260.md) — completed Batch-4 English translation awaiting canonical merge.
+- [`translation.md`](./translation.md) — canonical Gate-F English working translation, currently 20/37 pages.
 - [`metadata.json`](./metadata.json) — source mapping and processing status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and audit notes.
 - [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D and Gate-E audit trail.
