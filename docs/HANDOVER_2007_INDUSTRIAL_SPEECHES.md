@@ -55,13 +55,15 @@ Before Speech 9 transcription began, both locked boundaries were re-confirmed di
 - English Gate F: **blocked**
 - next source page: **283**
 
-Batch-1 repository commits:
+Batch-1 repository checkpoints:
 
 - metadata: `704f40b46042488edacd86a5dbede9afc35e0304`
 - README: `a7799c8a37dbe2ea04264db6f2a36a0fdda89be6`
 - source notes: `c68906b6d24fb779eccfba75520d9a6023fd36ea`
-- transcript pp.278–282: `c24278da9c78a73217af9a6ddf2a49d1d5732901`
-- verification log: `84d35cd375e48fd8ff11260c3d04a927ab751981`
+- current transcript pp.278–282: `dbdcdab67fee3085607bd8929d5cf0b524a8ed85`
+- current verification log: `cb6711a21e876b9c5601d63e4e5c79cf11fd0690`
+
+A post-write visual reread of source p.282 caught one definite first-pass error: `முக்கிய களமாக` was corrected to the scan-supported `முக்கிய தளமாக`. Commit `dbdcdab67fee3085607bd8929d5cf0b524a8ed85` changes only that word. This is a Gate-C correction, not a Gate-E verification correction.
 
 ### Source-sensitive Batch-1 forms
 
