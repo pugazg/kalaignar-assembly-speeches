@@ -35,6 +35,10 @@ Boundary status: **confirmed; unchanged from the locked anthology map**.
 - next source page: **283**;
 - ending continuation: source p.282 ends mid-sentence after `இந்த 1999-2000-ல்`.
 
+A post-write visual reread of p.282 caught one definite first-pass transcription error before batch closure: `முக்கிய களமாக` was corrected to the scan-supported `முக்கிய தளமாக`. Correction commit: `dbdcdab67fee3085607bd8929d5cf0b524a8ed85`. The inspected commit diff contains only that one word-level correction. This is a Gate-C first-pass correction, **not** a Gate-E verification correction.
+
+Current Batch-1 transcript checkpoint: `dbdcdab67fee3085607bd8929d5cf0b524a8ed85`.
+
 Source-sensitive items deliberately retained for later Gate-E verification include:
 
 1. p.280 `22-4-200` in the first date occurrence versus `22-4-2000` later in the same passage;
@@ -42,7 +46,7 @@ Source-sensitive items deliberately retained for later Gate-E verification inclu
 3. the printed-English `Economic Times` passage on p.282, including its source grammar and capitalisation;
 4. the embedded English export-category labels on p.281.
 
-This is **Gate C first-pass transcription only**. No claim of character-level source verification is made yet.
+This is **Gate C first-pass transcription only**. No claim of full character-level source verification is made yet.
 
 ## Gate D — Tamil completeness/page-marker audit
 
