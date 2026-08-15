@@ -34,30 +34,26 @@ Speech 8 Gate C is complete, **Gate D has passed**, and Gate E strict visual ver
 
 - Gate C: **complete — 37/37 pages, scan pp.241–277 / printed pp.240–276**.
 - Gate D completeness/page-marker audit: **passed**.
-- Gate-E Batches 1–5: **canonically verified — scan pp.241–265 / printed pp.240–264 — 25/37 pages**.
-- Gate-E cumulative corrections already applied to canonical Tamil: **26**.
-- Gate-E Batch 6 visual review: **complete — scan pp.266–270 / printed pp.265–269 — 5/5 pages checked**.
-- Batch-6 definite corrections found: **1**.
-- Batch-6 unresolved readings: **0**.
-- Batch-6 canonical merge: **pending**.
+- Gate-E Batches 1–6: **canonically verified — scan pp.241–270 / printed pp.240–269 — 30/37 pages**.
+- Gate-E cumulative corrections applied to canonical Tamil: **27**.
+- Gate-E unresolved readings in verified range: **0**.
 - Tamil status: **reviewed, not fully verified**.
-- Canonical Gate-E verified coverage remains **25/37** until the staged correction is merged.
+- Gate E next scan page: **271**.
 - English Gate F: **blocked until Gate E passes all 37 pages**.
 
-Gate-E Batch 6 found one definite scan-supported correction:
+Gate-E Batch 6 visually checked scan pp.266–270 / printed pp.265–269 and applied one definite scan-supported correction:
 
 1. p.267 `அப்போதை` → `அப்போதைய`.
 
-Scan pp.266 and 268–270 required no additional definite word/character correction. The p.265→266 and p.270→271 continuations were checked and remain intact. The correction is recorded in [`gate-e-batch6-pp266-270.md`](./gate-e-batch6-pp266-270.md) and has **not yet** been counted as canonical verification.
+Scan p.266 and pp.268–270 required no additional definite correction. The p.265→266 and p.270→271 continuations were checked and remain intact. Canonical Batch-6 transcript checkpoint: `2d43d163d6c7ac9e470ae08299d0d20e91ebe089`.
 
 ## Exact next activity
 
-Merge the single staged p.267 correction into canonical `transcript.md`, update the archival note to Gate E verified through **scan p.270 / printed p.269**, verify that the canonical commit contains only the archival-status change and the source-supported correction, then close Batch 6 at **30/37 pages** and **27 cumulative corrections**. Remove the staging file after the successful merge. Only then proceed to **Gate E Batch 7 — scan pp.271–275 / printed pp.270–274**.
+Proceed with **Gate E Batch 7 — scan pp.271–275 / printed pp.270–274**. Compare canonical Tamil directly against the controlling rendered scan and apply/log only definite source-supported corrections. Keep English blocked.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — complete Tamil source layer; Gate D passed; canonical Gate E verified through scan p.265.
-- [`gate-e-batch6-pp266-270.md`](./gate-e-batch6-pp266-270.md) — completed Batch-6 visual audit and pending p.267 canonical correction.
+- [`transcript.md`](./transcript.md) — complete Tamil source layer; Gate D passed; Gate E verified through scan p.270.
 - [`metadata.json`](./metadata.json) — source mapping and current audit status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and audit notes.
 - [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D and Gate-E audit trail.
