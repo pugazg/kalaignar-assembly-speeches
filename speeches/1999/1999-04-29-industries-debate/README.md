@@ -41,33 +41,34 @@ Speech 8 Tamil processing is complete through Gate E. Gate F English translation
 - English Gate F: **complete — source/scan pp.241–277 / printed pp.240–276, 37/37 pages**.
 - Gate-F unresolved translation questions: **0**.
 - Speech-8 ending confirmed at source p.277; p.278 begins Speech 9. **No Speech-9 spillover.**
-- English Gate G: **in progress — Batches 1–6 reviewed source pp.241–270 / printed pp.240–269, 30/37 pages**.
+- English Gate G: **in progress — Batches 1–7 reviewed source pp.241–275 / printed pp.240–274, 35/37 pages**.
 - Gate-G definite fidelity corrections applied cumulatively: **1**.
 - Gate-G Batch-2 corrections: **0**.
 - Gate-G Batch-3 corrections: **0**.
 - Gate-G Batch-4 corrections: **0**.
 - Gate-G Batch-5 corrections: **0**.
 - Gate-G Batch-6 corrections: **0**.
+- Gate-G Batch-7 corrections: **0**.
 - Gate-G unresolved fidelity issues: **0**.
 - English overall status: **complete, not yet verified**.
 
 Gate G Batch 1 applied one definite correction on source p.245: the over-literal `You are taking the nameplate and going away with it.` was corrected to `You are taking the credit for it.` for the Tamil phrase `நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள்`.
 
-Gate G Batches 2–5 reviewed source pp.246–265 and required no further canonical English correction.
+Gate G Batches 2–6 reviewed source pp.246–270 and required no further canonical English correction.
 
-Gate G Batch 6 reviewed source pp.266–270 page-by-page and also required **no canonical English correction**. It reconfirmed the printed `Economic Times` quotations including the source form `As against 3,503, cent per cent EOUS...`; the 3,503 / 584 figures and State order; the `Times of India` CDR passages and figures; Jones Long Wootten / `International Real Estates`; the *Vikatan* editorial; the IT-development figures; `I.T. Task Force`, `I.T.Policy`, `I.T. Super Highway`; and the WORLD TEL employment / internet-enablement continuation through source p.270. Printed English and source-specific wording were preserved without silent repair.
+Gate G Batch 7 reviewed source pp.271–275 page-by-page and also required **no canonical English correction**. It reconfirmed `தமிழ்நெட் 1999` / Unicode Consortium / `Tamil Virtual University`; the 1,200-school / 40-student / approximately 48,000-student computer-training scheme and court-judgment passage; the Rule 39 / Government Order No.97 dated 8-3-1993 granite-lease sequence; 125 leases / 9 districts / 196.80 hectares / Rs.95 crore; Thiru Chinnasamy; and the printed High Court English quotations through source p.275, including the p.274→275 quotation continuation. Printed English and source-specific claims were preserved without silent repair.
 
-English must not be marked fully verified until all 37 pages pass Gate G.
+English must not be marked fully verified until the final source pp.276–277 pass Gate G.
 
 ## Exact next activity
 
-Continue **Gate G Batch 7 — source/scan pp.271–275 / printed pp.270–274**. Compare the canonical English against the final verified Tamil page-by-page, apply only definite fidelity corrections, update [`translation-review.md`](./translation-review.md), and keep the overall English status unverified until Gate G covers all 37 pages.
+Continue **Gate G Batch 8 — source/scan pp.276–277 / printed pp.275–276**. Compare the final two pages of canonical English against the final verified Tamil page-by-page, apply only definite fidelity corrections, close Gate G only if both pages pass, then update [`translation-review.md`](./translation-review.md), metadata and release handover truthfully before beginning Gate H.
 
 ## Files
 
 - [`transcript.md`](./transcript.md) — complete and verified Tamil source layer.
 - [`translation.md`](./translation.md) — complete 37/37-page English translation; Gate G in progress.
-- [`translation-review.md`](./translation-review.md) — Gate-G fidelity-review record, currently 30/37 pages.
+- [`translation-review.md`](./translation-review.md) — Gate-G fidelity-review record, currently 35/37 pages.
 - [`metadata.json`](./metadata.json) — source mapping and processing status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and audit notes.
 - [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D and Gate-E audit trail.
