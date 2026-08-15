@@ -30,33 +30,29 @@
 
 ## Current status
 
-Speech 8 Gate C Tamil first-pass transcription is **in progress, with the final batch transcribed and staged pending canonical merge**.
+Speech 8 **Gate C is complete**. The full first-pass Tamil transcription is canonical in `transcript.md`.
 
 - Gate C Batch 1: **complete — scan pp.241–255 / printed pp.240–254**.
-- Gate C Batch 2: **complete and canonical — scan pp.256–270 / printed pp.255–269**.
-- Gate C Batch 3: **transcribed and staged — scan pp.271–277 / printed pp.270–276**.
-- Canonical `transcript.md` currently covers **30/37 pages, scan pp.241–270**.
-- Staged Batch-3 file: [`gate-c-batch3-pp271-277.md`](./gate-c-batch3-pp271-277.md).
-- Batch-3 unresolved/`[REVIEW]` readings: **0**.
-- Gate D completeness/page-marker audit: **not started**.
+- Gate C Batch 2: **complete — scan pp.256–270 / printed pp.255–269**.
+- Gate C Batch 3: **complete and merged — scan pp.271–277 / printed pp.270–276**.
+- Gate C total: **37/37 pages, scan pp.241–277 / printed pp.240–276**.
+- Gate-C unresolved/`[REVIEW]` readings: **0**.
+- Tamil status: **transcribed, not verified**.
+- Gate D completeness/page-marker audit: **next / not yet performed**.
 - Gate E strict Tamil source-fidelity verification: **not started**.
-- Tamil verified: **no**.
 - English Gate F: **blocked until the complete Tamil passes Gates D and E**.
 
-The final seven pages were transcribed directly from rendered scan images. They include the `தமிழ்நெட் 1999` / Unicode / `Tamil Virtual University` passages, the school-computer-training court discussion, the granite-lease case and printed High Court English quotations, the final granite-policy remarks, and the Opposition Leader's salt-pan intervention and closing reply.
+The Gate-C closure check confirmed the canonical p.270→271 continuation, the complete p.276→277 Opposition Leader / Kalaignar closing sequence, and no `source-page: 278` or Speech-9 spillover.
 
-The staged text stops exactly at scan p.277 after the closing `உப்பளத் தொழில் / அப்பளத் தொழில்` reply and `(மேசையைத் தட்டும் ஒலி).` Scan p.278 begins Speech 9 and was not entered.
-
-The current text remains first-pass transcription only. It must not be described as verified merely because all mapped pages now have first-pass text available.
+The current text is still a first-pass transcription. Completion of Gate C does not make the Tamil verified.
 
 ## Exact next activity
 
-Merge staged **pp.271–277** into canonical `transcript.md`, confirm the exact monotonic source-page sequence **241–277** with no p.278 spillover, mark Gate C complete at **37/37 pages** and Tamil status `transcribed` (not verified), remove the temporary staging file, and then perform the separate Gate D full-speech completeness/page-marker audit. Do not begin Gate E or English before Gate D is complete.
+Perform **Gate D — full-speech Tamil completeness/page-marker audit** across scan pp.241–277. Confirm every mapped page is represented exactly once and in order, opening/closing boundaries align with the locked source map, speaker changes/interventions are present, no p.278/Speech-9 material appears, and unresolved markers are counted. Do not begin Gate E or English until Gate D passes.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — canonical Tamil Gate C text through p.270.
-- [`gate-c-batch3-pp271-277.md`](./gate-c-batch3-pp271-277.md) — final Gate-C batch staged for safe canonical merge.
-- [`metadata.json`](./metadata.json) — source mapping and current Gate-C status.
-- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and continuation/closure notes.
-- [`verification-log.md`](./verification-log.md) — Gate-C progress and later audit trail.
+- [`transcript.md`](./transcript.md) — complete first-pass Tamil, Gate C complete; not yet verified.
+- [`metadata.json`](./metadata.json) — source mapping and current Gate-C/Gate-D status.
+- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and Gate-C closure notes.
+- [`verification-log.md`](./verification-log.md) — Gate-C progress and audit trail.
