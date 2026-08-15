@@ -1,17 +1,16 @@
-# Next-chat prompt — Speech 8 Gate E Batch 6 canonical merge / 29.04.1999
+# Next-chat prompt — Speech 8 Gate E Batch 7 / 29.04.1999
 
 Continue the Kalaignar Assembly Speeches archival project in `pugazg/kalaignar-assembly-speeches`.
 
-Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or modify Speech 7.** Speech 8 Gate C is complete at 37/37 pages, Gate D has passed, Gate E Batches 1–5 are canonically complete, and Batch 6 visual review is complete with one staged correction awaiting canonical merge. Continue the existing Speech-8 entry; do not create duplicates.
+Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or modify Speech 7.** Speech 8 Gate C is complete at 37/37 pages, Gate D has passed, and Gate E Batches 1–6 are canonically complete. Continue the existing Speech-8 entry; do not create duplicates.
 
 ## Mandatory startup
 
 1. Read `docs/ARCHIVAL_WORKFLOW.md` completely.
 2. Read `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` completely.
 3. Read `sources/2007-industrial-speeches/mapping.md`.
-4. Read `speeches/1999/1999-04-29-industries-debate/gate-e-batch6-pp266-270.md`.
-5. Fetch the current canonical `speeches/1999/1999-04-29-industries-debate/transcript.md` immediately before editing.
-6. Use the controlling rendered scan as the authority for Tamil. OCR/extracted text is only a helper.
+4. Fetch the current canonical `speeches/1999/1999-04-29-industries-debate/transcript.md` immediately before editing.
+5. Use the controlling rendered scan as the authority for Tamil. OCR/extracted text is only a helper.
 
 ## Speech 8 locked mapping
 
@@ -27,44 +26,33 @@ Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or mo
 
 - Gate C: **complete — 37/37 pages**
 - Gate D: **passed**
-- Gate E Batches 1–5: **canonically complete — scan pp.241–265 / printed pp.240–264**
-- canonical Gate-E verified pages: **25/37**
-- canonical Gate-E applied corrections: **26**
-- Batch 6 visual review: **complete — scan pp.266–270 / printed pp.265–269 — 5/5 pages**
-- Batch 6 unresolved readings: **0**
-- Batch 6 pending canonical corrections: **1**
+- Gate E Batches 1–6: **canonically complete — scan pp.241–270 / printed pp.240–269**
+- Gate-E verified pages: **30/37**
+- Gate-E cumulative corrections: **27**
+- unresolved readings in verified range: **0**
+- next verification scan page: **271**
 - Tamil status: **reviewed, not fully verified**
 - English: **blocked**
 
-## Batch-6 staged correction
+## Batch-6 closure
 
-Scan p.267:
+Scan pp.266–270 / printed pp.265–269 were visually verified 5/5. One definite source-supported correction was merged into canonical `transcript.md`:
 
-`அப்போதை` → `அப்போதைய`
+- p.267 `அப்போதை` → `அப்போதைய`.
 
-The controlling scan clearly prints `அப்போதைய` in the Tamil explanation following the CDR quotation. Scan p.266 and pp.268–270 required no other definite correction.
+Scan p.266 and pp.268–270 required no additional correction. The p.265→266 and p.270→271 continuations are intact. The canonical commit diff was inspected and contains only the archival status-note update plus this one correction. No unrelated Tamil change was introduced.
 
-The p.265→266 and p.270→271 continuations have already been visually checked and are intact.
+Batch-6 canonical transcript checkpoint: `2d43d163d6c7ac9e470ae08299d0d20e91ebe089`.
 
-Staging file:
+## Exact next activity — Gate E Batch 7
 
-`speeches/1999/1999-04-29-industries-debate/gate-e-batch6-pp266-270.md`
-
-Staging commit: `5dbe646ada65968165c4465a98a8f77325036336`.
-
-## Exact next activity — close Batch 6 safely
-
-1. Merge exactly the p.267 `அப்போதை` → `அப்போதைய` correction into canonical `transcript.md`.
-2. In the same canonical update, change only the archival status note from Gate E verified through scan pp.241–265 / printed pp.240–264 to **scan pp.241–270 / printed pp.240–269**.
-3. Inspect the canonical commit diff. It must contain no unrelated Tamil changes.
-4. After the diff is clean, update metadata, README, source notes and verification log to:
-   - verified scan range **241–270**;
-   - verified printed range **240–269**;
-   - verified pages **30/37**;
-   - cumulative Gate-E corrections **27**;
-   - next verification scan page **271**;
-   - unresolved readings **0**.
-5. Remove `gate-e-batch6-pp266-270.md` after successful canonical merge and status closure.
-6. Update handover and this prompt.
-7. The next bounded visual activity after Batch-6 closure is **Gate E Batch 7 — scan pp.271–275 / printed pp.270–274**.
-8. Do not begin English until Gate E has passed all **37/37** Tamil pages.
+1. Visually verify **scan pp.271–275 / printed pp.270–274** directly against the controlling scan.
+2. Compare canonical Tamil page by page, checking words and individual characters, names and initials, numerals, dates, embedded printed English quotations, punctuation, speaker/context markers and cross-page transitions.
+3. Pay particular attention to `தமிழ்நெட் 1999`, Unicode Consortium, `Tamil Virtual University`, the 1,200-school / 48,000-student computer-training passage, Rule 39 / granite material, and the printed High Court English quotations.
+4. Preserve source spelling and period forms exactly; do not modernise, improve or correct the source from outside knowledge.
+5. Apply only definite scan-supported corrections to canonical `transcript.md`.
+6. Log every correction with source page and before→after form in `verification-log.md`.
+7. Record any unresolved reading explicitly rather than guessing.
+8. Update metadata, README, source notes, verification log, handover and this prompt after the bounded batch.
+9. After Batch 7, continue Gate E from **scan p.276**.
+10. Keep English blocked until Gate E has passed all **37/37 pages**.
