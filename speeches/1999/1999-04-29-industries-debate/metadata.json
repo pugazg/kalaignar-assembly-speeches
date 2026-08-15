@@ -28,6 +28,18 @@
     "total_page_count": 37,
     "next_source_page": 276,
     "unresolved_translation_questions": 0,
-    "verified_against_tamil": false
+    "verified_against_tamil": false,
+    "pending_gate_f_batch": {
+      "batch": 8,
+      "source_pages": "276-277",
+      "printed_pages": "275-276",
+      "translated_page_count": 2,
+      "translation_status": "complete",
+      "pending_canonical_merge": true,
+      "staging_file": "gate-f-batch8-pp276-277.md",
+      "unresolved_translation_questions": 0,
+      "speech_boundary_confirmed": true,
+      "speech9_spillover": false
+    }
   }
 }
