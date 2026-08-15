@@ -52,14 +52,14 @@
     "gate_d_status": "passed",
     "gate_e_status": "in-progress",
     "verified_against_scan": false,
-    "verified_scan_pages": "241-255",
-    "verified_printed_pages": "240-254",
-    "verified_page_count": 15,
-    "next_verification_scan_page": 256,
-    "gate_e_corrections_applied": 23,
+    "verified_scan_pages": "241-260",
+    "verified_printed_pages": "240-259",
+    "verified_page_count": 20,
+    "next_verification_scan_page": 261,
+    "gate_e_corrections_applied": 25,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
-    "completion_note": "Gate D passed. Gate E Batches 1-3 visually verified scan pp.241-255 / printed pp.240-254 directly against the controlling scan. Batch 3 applied twelve additional source-supported corrections: p.251 நிதிமன்றத்திற்குச்→நீதிமன்றத்திற்குச், இடைக்காலத்தடையை→இடைக் காலத்தடையை, ஏஜென்சியால்→ஏஜென்ஸியால், தாமதமாகும்போலக்கூட→தாமதமாகும்போல்கூட; p.253 நிபந்தனைகளுக்கு குறைவான→நிபந்தனைகளுக்குக் குறைவான and முன்வருமானால்→முன் வருமானால்; p.254 இருக்கின்றதா→இருக்கிறதா and வளருவதற்கு காரணமாக→வளருவதற்குக் காரணமாக; p.255 அந்த காலகட்டத்திலேதான்→அந்தக் காலகட்டத்திலேதான், அந்தத் திட்ட வரவை→அந்தத் திட்ட வரைவை, நிதியமைச்சராக→நிதிஅமைச்சராக, தெரிவித்துக்கொள்கிறேன்→தெரிவித்துக் கொள்கிறேன். Cumulative Gate-E corrections: 23. No unresolved readings remain in the verified range. Tamil remains reviewed, not fully verified; Gate E continues at scan p.256."
+    "completion_note": "Gate D passed. Gate E Batches 1-4 visually verified scan pp.241-260 / printed pp.240-259 directly against the controlling scan. Batch 4 applied two additional source-supported corrections: p.256 அமைந்தது→அமைந்து; p.257 டி.பி. பெட்ரோ புராடக்ட்ஸ்→டி,பி, பெட்ரோ புராடக்ட்ஸ். Scan pp.258-260 required no definite word/character correction. The p.255→256 and p.260→261 continuations were checked and remain intact. Cumulative Gate-E corrections: 25. No unresolved readings remain in the verified range. Tamil remains reviewed, not fully verified; Gate E continues at scan p.261."
   },
   "translation": {
     "language": "English",
