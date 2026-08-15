@@ -24,20 +24,20 @@ Before Gate C started, the locked boundaries were re-confirmed directly from the
 
 - pages: **15**;
 - canonical source-page range: **241–255**;
-- unresolved/`[REVIEW]` readings: **0**.
+- unresolved/`REVIEW` readings: **0**.
 
 ### Batch 2 — scan pp.256–270 / printed pp.255–269
 
 - pages: **15**;
 - canonical source-page range: **256–270**;
 - canonical Batch-2 merge checkpoint: `1da567dc66d89847bfa10704254d8bf9e3c8b46a`;
-- unresolved/`[REVIEW]` readings: **0**.
+- unresolved/`REVIEW` readings: **0**.
 
 ### Batch 3 — scan pp.271–277 / printed pp.270–276
 
 - pages: **7**;
 - canonical source-page range: **271–277**;
-- unresolved/`[REVIEW]` readings: **0**;
+- unresolved/`REVIEW` readings: **0**;
 - staged first, then merged safely into canonical `transcript.md`;
 - canonical Gate-C completion checkpoint: `d0fd3ea71f29838299eb5d7008e4149b7399498c`.
 
@@ -52,13 +52,36 @@ After the final merge:
 - the final line retains the `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay and `(மேசையைத் தட்டும் ஒலி).`;
 - `source-page: 278` is absent;
 - Speech-9 material is absent;
-- temporary Batch-3 staging file was removed after successful canonical verification.
+- temporary Batch-3 staging file was removed after successful canonical merge.
 
-Tamil status after Gate C: **transcribed, not verified**.
+## Gate D — Tamil completeness/page-marker audit
+
+**Passed.** This was a separate structural audit of the complete canonical Tamil layer, not a Gate-E visual fidelity pass.
+
+Audit findings:
+
+- expected scan pages: **241–277**;
+- expected page count: **37**;
+- canonical source-page markers: **37**;
+- exact marker sequence: **241 through 277**, strictly monotonic;
+- missing source-page sections: **0**;
+- duplicate source-page sections: **0**;
+- reordered source-page sections: **0**;
+- opening contains `உரை : 8`, `நாள் : 29.04.1999`, and `மாண்புமிகு கலைஞர் மு. கருணாநிதி`;
+- printed intervention at p.252 by `டாக்டர் அ. செல்லக்குமார்` and Kalaignar's return are structurally represented;
+- final p.276→277 transition retains `மாண்புமிகு பேரவைத் தலைவர்` → `திரு. சோ. பாலகிருஷ்ணன்` → `மாண்புமிகு கலைஞர் மு. கருணாநிதி`;
+- p.277 final `உப்பளத் தொழில் / அப்பளத் தொழில்` line and `(மேசையைத் தட்டும் ஒலி).` are present;
+- `source-page: 278`: **0 occurrences**;
+- `உரை : 9`: **0 occurrences**;
+- `8.05.2000`: **0 occurrences**;
+- unresolved `REVIEW` markers: **0**.
+
+Gate-D result: **passed**.
+
+Tamil status after Gate D: **reviewed, not verified**. Character-level and source-fidelity verification still requires Gate E.
 
 ## Gates not yet performed
 
-- Gate D full-speech completeness/page-marker audit: **not started**.
 - Gate E strict Tamil visual/source-fidelity verification: **not started**.
 - Gate F English translation: **blocked**.
 - Gate G English fidelity verification: **not started**.
@@ -66,4 +89,4 @@ Tamil status after Gate C: **transcribed, not verified**.
 
 ## Next activity
 
-Perform **Gate D — full-speech Tamil completeness/page-marker audit** across scan pp.241–277. Confirm every mapped source page is represented exactly once in monotonic order; there are no gaps, duplicates or p.278 spillover; opening and closing match the locked map; and all printed speaker/intervention transitions represented in the first-pass transcript are structurally intact. Do not begin Gate E or English until Gate D passes.
+Begin **Gate E — strict Tamil visual/source-fidelity verification** with **Batch 1: scan pp.241–245 / printed pp.240–244**. Compare each page directly against the rendered scan; check wording/characters, names, numerals, dates, figures, printed English, punctuation, speaker labels and cross-page continuations. Apply only source-supported corrections and log every correction. Do not begin English.
