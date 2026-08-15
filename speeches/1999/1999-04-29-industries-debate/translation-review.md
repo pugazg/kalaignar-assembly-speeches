@@ -139,10 +139,29 @@ Company/project-name forms and internally unusual source figures were preserved 
 
 The canonical `translation.md` therefore remains unchanged for Batch 5; the reviewed translation blob remains `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
 
+## Batch 6 — source pp.266–270 / printed pp.265–269
+
+**Status: reviewed and passed with no definite fidelity correction required.**
+
+The batch was checked page-by-page against the final verified Tamil. Confirmed items include:
+
+- source p.266's three printed `Economic Times` quotations, preserved as printed, including the unusual source form `As against 3,503, cent per cent EOUS which have come up country-wide...` rather than silently repairing it;
+- the Tamil explanatory passages around the quotations, including the 3,503 all-India units, one-sixth share / 584 units in Tamil Nadu and the Maharashtra → Gujarat → Andhra Pradesh → Karnataka State sequence;
+- source p.267's `Times of India` credit-deposit-ratio passage and printed English quotation naming Tamil Nadu, Andhra Pradesh, Maharashtra and Manipur;
+- the printed-English CDR figures 55.5 per cent all-India / 92.3 per cent Tamil Nadu, followed by 74.2 per cent Andhra Pradesh / 68.7 per cent Maharashtra / 59 per cent Manipur and the printed NCT Delhi 70.9 / Chandigarh 69.1 figures, with the Tamil explanatory text translated without inventing an additional Tamil paraphrase for the Delhi/Chandigarh figures;
+- source p.268's explanation of CDR and the 18-12-1998 `Economic Times` / `International Real Estates` / Jones Long Wootten passage, including the printed `Chennai has distinct strength over other Cities for attracting investments.` quotation and the Chennai/Madras aside;
+- the 13-9-1998 *Vikatan* editorial, including Wipro, Pentafour, Tata Consultancy, the fifty-plus-company reference and the argument connecting information-technology growth with other industries;
+- source p.269's information-technology-development narrative: the seventies comparison, 21st-century world-economy role, rural reach, 23,000 engineering graduates / more than 13,000 in IT-related education, more than 22,000 `Software Professionals`, and the separate Secretariat IT department under an I.A.S. officer from 5-10-1998;
+- source p.270's `I.T. Task Force`, `I.T.Policy`, Siruseri 1,000-acre SIPCOT information-technology park, `Hardware`, `Software`, Taramani–Old Mahabalipuram Road `I.T. Super Highway`, Tata Consultancy Services / Wipro / Infosys / Polaris and Sholinganallur passages;
+- the WORLD TEL continuation promising employment for one lakh fifty thousand people across Tamil Nadu and the whole-State internet-enablement statement, with the desk-thumping marker intact;
+- the p.270→271 boundary: Batch 6 ends before `தமிழ்நெட் 1999` / Unicode Consortium material begins on source p.271.
+
+No omission, addition, speaker/context loss, numerical mismatch, printed-English alteration, cross-page break error or definite meaning shift requiring a canonical English edit was found in this range. The canonical `translation.md` therefore remains unchanged for Batch 6; the reviewed translation blob remains `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
+
 ## Current Gate G findings
 
-- Reviewed English source pages: **241–265, 25/37 pages**.
-- Reviewed printed pages: **240–264**.
+- Reviewed English source pages: **241–270, 30/37 pages**.
+- Reviewed printed pages: **240–269**.
 - Missing/duplicate/reordered pages in reviewed range: **0**.
 - Unresolved translation questions / fidelity issues in reviewed range: **0**.
 - Definite Gate-G fidelity corrections applied cumulatively: **1**.
@@ -150,8 +169,9 @@ The canonical `translation.md` therefore remains unchanged for Batch 5; the revi
 - Batch-3 corrections: **0**.
 - Batch-4 corrections: **0**.
 - Batch-5 corrections: **0**.
-- Next review source page: **266**.
+- Batch-6 corrections: **0**.
+- Next review source page: **271**.
 - Overall Gate G status: **in progress**.
 - English overall status: **complete, not yet verified**.
 
-The next activity is **Gate G Batch 6 — source/scan pp.266–270 / printed pp.265–269**. English must not be marked fully verified until all 37 pages pass Gate G.
+The next activity is **Gate G Batch 7 — source/scan pp.271–275 / printed pp.270–274**. English must not be marked fully verified until all 37 pages pass Gate G.
