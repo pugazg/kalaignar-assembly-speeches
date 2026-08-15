@@ -39,18 +39,13 @@
   },
   "transcription": {
     "method": "manual first-pass transcription directly from rendered scan images; later subject to Gate D completeness/page-marker audit and Gate E strict visual source-fidelity verification",
-    "status": "in-progress",
+    "status": "transcribed",
     "full_speech_scan_pages": "241-277",
-    "completed_scan_pages": "241-270",
-    "completed_printed_pages": "240-269",
-    "completed_page_count": 30,
+    "completed_scan_pages": "241-277",
+    "completed_printed_pages": "240-276",
+    "completed_page_count": 37,
     "total_page_count": 37,
-    "next_scan_page": 271,
-    "staged_scan_pages": "271-277",
-    "staged_printed_pages": "270-276",
-    "staged_page_count": 7,
-    "staged_file": "gate-c-batch3-pp271-277.md",
-    "gate_c_batch3_status": "transcribed-staged-pending-canonical-merge",
+    "next_scan_page": null,
     "page_markers_audited_for_completed_batch": true,
     "full_speech_completeness_audit": false,
     "full_speech_page_marker_audit": false,
@@ -60,7 +55,7 @@
     "verified_scan_pages": null,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
-    "completion_note": "Gate C Batches 1-2 are canonical through scan p.270. Final Batch 3, scan pp.271-277 / printed pp.270-276, has been transcribed directly from rendered scan images and staged for safe merge. Canonical Gate C remains 30/37 until that staged batch is merged and the full 241-277 source-page sequence is checked."
+    "completion_note": "Gate C completed all 37 mapped source pages, scan pp.241-277 / printed pp.240-276. The final staged pp.271-277 were merged into canonical transcript.md and the p.277 closing was confirmed with no p.278/Speech-9 spillover. Tamil is transcribed but not verified; Gate D is next."
   },
   "translation": {
     "language": "English",
