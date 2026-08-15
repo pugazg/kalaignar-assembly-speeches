@@ -62,20 +62,27 @@ A direct post-write scan reread reconfirmed the main source-sensitive forms in t
 - cumulative source-page markers: **278–292**, each once and in strict order;
 - missing/duplicate/reordered markers in completed range: **0**;
 - unresolved first-pass readings: **0**;
-- next source page: **293**;
 - ending continuation: p.292 ends mid-sentence after `Tanflora Infrastructure Park; 24.85 கோடி ரூபாய் முதலீட்டில் மலரைப் பதப்படுத்தும் தொழில் பூங்கா ஒன்று`.
 
 Canonical Batch-3 transcript commit: `8de59961b972844acffb7f831d1867d2193cbf9d`. The inspected diff changes only the Gate-C coverage note and appends source-page sections 288–292; completed pp.278–287 were not rewritten.
 
-A direct post-write scan reread reconfirmed source-sensitive material including:
+A direct post-write scan reread reconfirmed source-sensitive material including the p.288 High Court closure; Dr. ஆனந்த கிருஷ்ணன் / software-company / WorldTel figures; the *Economic and Political Weekly* passage; p.289 `தொடங்கப்பட்ட இருக்கின்ற`; the p.290 Polaris letter with `more then 100% per year`; the TIDCO/TCIL/ஃப்யூஜிகுரா project; p.291 `Condoms`, `Technical Products`, `Export Promotion Industrial Park`, `Special Economic Zone`; and p.292 `இரண்டு கிழங்கட்டை இருந்தால் செத்துப் போய்விடும்` / Nanguneri figures.
 
-1. the p.288 High Court continuation and closure, `கவனம் கொள்ளும் என்று நம்பிக்கை கொள்கிறது`;
-2. Dr. ஆனந்த கிருஷ்ணன் / Tamil internet research centre, software-company figures 34 / 562 / 58, `வேர்ல்ட் டெல்`, 13,000 centres and 1 இலட்சத்து 50 ஆயிரம் employment figure;
-3. *Economic and Political Weekly*, `Raising Global Competitiveness of Tamil Nadu's IT Industry`, `நிருபம் பாஜ்பாய்`, `நவி ரட்ஜிவ்`, `Intellectual Power House`, and `அடிப்படை யுத்தியாக`;
-4. p.289 source form `தொடங்கப்பட்ட இருக்கின்ற`;
-5. p.290 Polaris letter including `more then 100% per year`; `TIDCO`, `TCIL`, `ஃப்யூஜிகுரா`, `Optic Fibre Telecom Cables`, and `வைக்கவிரும்புகிறேன்`;
-6. p.291 `Condoms`, `Technical Products`, `Export Promotion Industrial Park`, and `Special Economic Zone`;
-7. p.292 source wording `இரண்டு கிழங்கட்டை இருந்தால் செத்துப் போய்விடும்`, Nanguneri 9,000 / 55,000 / 8,000 crore figures, and the Tanflora continuation boundary.
+### Batch 4 — source pp.293–297 / printed pp.292–296
+
+**Complete for this bounded batch.**
+
+- pages transcribed in Batch 4: **5**;
+- cumulative Speech-9 coverage: **20/26**;
+- cumulative source-page markers: **278–297**, each once and in strict order;
+- missing/duplicate/reordered markers in completed range: **0**;
+- unresolved first-pass readings: **0**;
+- next source page: **298**;
+- ending continuation: p.297 ends mid-sentence after `ஆனால், தினமும்`.
+
+Canonical Batch-4 transcript commit: `dcc52ef8fcc7a48517dfa924f5dc297e7a96867d`. Its inspected diff changes only the Gate-C coverage note and appends source-page sections 293–297; completed pp.278–292 were not rewritten.
+
+A focused high-resolution reread of the unusual p.293 paragraph opener supports the source form `இன்னொன்றியில் சென்னை வர்த்தக மையம்;`, so no REVIEW marker remains. The batch also deliberately preserves source-sensitive forms including `(TIDCO)`, `(ITPO)`, `20.000`, `Bio-Technology`, `வழங்கப்பட விருக்கிறது`, `industrial gases`, `பென்னார் ரிபைனர்ஸ் லிமிடெட்`, `கவிதி மலைப் பகுதிகளிலும்`, `இரும்புத் துண்டங்களை`, `நாம்தா டெக்ஸ்டைல்ஸ்`, and the p.296 printed date `24-3-2001` without external reconciliation. The p.297 Ariyalur passage preserves `பேசவில்லை யானாலும்`, `விற்காது, விற்காது` and the full no-privatisation assurance.
 
 This is **Gate C first-pass transcription only**. No claim of full character-level source verification is made yet.
 
@@ -96,4 +103,4 @@ English may begin only after Tamil Gates C–E are complete.
 
 ## Exact next activity
 
-Continue **Gate C Batch 4 — source/scan pp.293–297 / printed pp.292–296**, beginning with the continuation of the unfinished Tanflora Infrastructure Park sentence from p.292. Do not alter released Speech 8 and do not begin Speech 10.
+Continue **Gate C Batch 5 — source/scan pp.298–302 / printed pp.297–301**, beginning with the continuation of the unfinished p.297 sentence after `ஆனால், தினமும்`. Do not alter released Speech 8 and do not begin Speech 10.
