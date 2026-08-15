@@ -36,36 +36,48 @@ The opening and closing boundaries were re-confirmed directly from the controlli
 
 ## Gate D — passed
 
-A separate full-speech structural completeness/page-marker audit has passed.
-
-Findings:
+The full-speech structural completeness/page-marker audit passed:
 
 - all **37** source-page markers are present exactly once in strict sequence **241–277**;
 - missing, duplicate or reordered source-page sections: **0**;
-- opening `உரை : 8 / நாள் : 29.04.1999 / மாண்புமிகு கலைஞர் மு. கருணாநிதி`: intact;
-- p.252 `டாக்டர் அ. செல்லக்குமார்` intervention and Kalaignar return: intact;
-- p.276→277 Speaker → `திரு. சோ. பாலகிருஷ்ணன்` → Kalaignar closing exchange: intact;
-- p.277 closing `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay and `(மேசையைத் தட்டும் ஒலி).`: intact;
+- opening and closing boundaries: intact;
 - `source-page: 278`, `உரை : 9`, `8.05.2000`: absent;
 - unresolved `REVIEW` markers: **0**.
 
-Gate-D metadata checkpoint: `624f648da37e6752458b9f6a79184375692c78f1`.
-Gate-D README checkpoint: `8907fac46c8621db8d58ac1a6ace756057e03ad1`.
-Gate-D source-notes checkpoint: `294b8b357bf647ce981cb71b57d8034ee5a7a390`.
-Gate-D verification-log checkpoint: `49986497b5825bd75b8522ac94fb5f5d296ebd2a`.
+## Gate E — in progress
 
-Current Tamil status: **reviewed, not verified**. Gate D proves structural completeness; it does not replace the page-by-page Gate-E scan comparison.
+### Batch 1 complete — scan pp.241–245 / printed pp.240–244
 
-English remains blocked.
+These five pages were visually re-read directly against the controlling rendered scan. Gate-E coverage is now **5/37 pages**.
 
-## Exact next activity — Speech 8 Gate E Batch 1
+Source-supported canonical corrections:
+
+1. p.241 `நிதிமன்றத்திலே` → `நீதிமன்றத்திலே`;
+2. p.243 first `பொது ஒப்பந்த முறையில்` → `பொது ஒப்பந்த முறைப்படி`;
+3. p.243 second `பொது ஒப்பந்த முறையில்` → `பொது ஒப்பந்த முறைப்படி`;
+4. p.243 `நிதிமன்ற இடைக்காலத் தடையை` → `நீதிமன்ற இடைக்காலத் தடையை`;
+5. p.244 `நடைபெற்றிருக்கிறது` → `நடைபெற்றிருக்கின்றது`.
+
+Batch-1 unresolved readings: **0**. No definite correction was required on scan p.242 or p.245. The p.241→242 and p.244→245 continuations remain intact.
+
+Checkpoints:
+
+- canonical transcript Gate-E Batch-1 correction: `201b5eff42382bcb6192475be75e01a6865ed921`
+- metadata: `4abcee1f03e09c513773df64d3476b71a7e7b69a`
+- README: `07a2697197b1ec38109de229e95c21cc709ba58c`
+- source notes: `6b9c4d505168a94ca18ea7feb7b1b87eda60d783`
+- verification log: `7d297a444657b02bbc1f23bcfd11deb0b0357b49`
+
+Current Tamil status: **reviewed, not fully verified**. Gate E is **in progress, 5/37 pages verified**. English remains blocked.
+
+## Exact next activity — Speech 8 Gate E Batch 2
 
 1. Fetch the current canonical `speeches/1999/1999-04-29-industries-debate/transcript.md` before editing.
-2. Visually verify **scan pp.241–245 / printed pp.240–244** directly against the controlling rendered scan.
-3. Check every source-supported word/character, names/initials, numerals, dates, figures, punctuation, printed English, speaker labels and cross-page continuations.
-4. Preserve historical/source forms. Do not modernise or reconcile against external knowledge.
+2. Visually verify **scan pp.246–250 / printed pp.245–249** directly against the controlling rendered scan.
+3. Check words/characters, names/initials, numerals, dates, figures, punctuation, printed English, speaker labels and cross-page continuations.
+4. Preserve historical/source forms; do not modernise or reconcile against outside knowledge.
 5. Apply only definite scan-supported corrections to canonical Tamil and record every correction in `verification-log.md`.
-6. Record the exact verified range and any unresolved readings after the batch.
-7. Update metadata/README/source notes/verification log/handover/prompt after the batch.
-8. Keep Tamil **not verified overall** until all 37 pages pass Gate E.
-9. Do not begin English until full Gate E passes.
+6. Record unresolved readings explicitly instead of guessing.
+7. Update metadata/README/source notes/verification log/handover/prompt after the bounded batch.
+8. After Batch 2, continue Gate E from **scan p.251**.
+9. Keep Tamil **not fully verified** and English blocked until all **37/37** pages pass Gate E.
