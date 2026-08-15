@@ -44,41 +44,50 @@ The full-speech structural completeness/page-marker audit passed. All **37** sou
 - Batch 5: scan pp.261–265 — 5 pages — 1 correction — checkpoint `a1a90353a222507c4a14a926ce0d856b25741c65`
 - Batch 6: scan pp.266–270 — 5 pages — 1 correction — checkpoint `2d43d163d6c7ac9e470ae08299d0d20e91ebe089`
 
-Batch 6 applied the source-supported p.267 correction:
-
-`அப்போதை` → `அப்போதைய`
-
-The canonical commit diff was inspected and contains only the archival status-note update plus that one Tamil correction; no unrelated Tamil change was introduced. Scan p.266 and pp.268–270 required no additional definite correction. The p.265→266 and p.270→271 continuations are intact. The temporary Batch-6 staging file was removed after successful canonical merge.
-
-### Current Gate-E state
+Canonical state after Batch 6:
 
 - verified scan range: **241–270**
 - verified printed range: **240–269**
 - verified pages: **30/37**
 - cumulative applied corrections: **27**
-- unresolved readings in verified range: **0**
-- next verification scan page: **271**
-- Tamil status: **reviewed, not fully verified**
-- English: **blocked**
+- unresolved readings: **0**
 
-Batch-6 closure checkpoints:
+### Batch 7 visual review complete — canonical merge pending
 
-- canonical transcript: `2d43d163d6c7ac9e470ae08299d0d20e91ebe089`
-- metadata: `1b20d2313b8cf444bbfc1a39860b36665eee99ae`
-- README: `27ed2bfaf991055b1458e08908076bf3dd058c52`
-- source notes: `de119d2181e0c3dcd11b49fee02cb4d10493bf3a`
-- verification log: `63f01b67c388977254bb81272cfb3012396d0341`
-- staging-file deletion: `d65b2baa601805bb643854d3508f97cb35d518d5`
+Scan pp.**271–275** / printed pp.**270–274** were visually re-read directly against the controlling rendered scan, all 5/5 pages.
 
-## Exact next activity — Speech 8 Gate E Batch 7
+One definite source-supported correction was found:
 
-1. Fetch the current canonical `speeches/1999/1999-04-29-industries-debate/transcript.md` immediately before editing.
-2. Visually verify **scan pp.271–275 / printed pp.270–274** directly against the controlling rendered scan.
-3. Check words/characters, names/initials, numerals, dates, printed English, punctuation, speaker/context markers and cross-page continuations.
-4. Pay particular attention to `தமிழ்நெட் 1999`, Unicode Consortium, `Tamil Virtual University`, the 1,200-school / 48,000-student passage, Rule 39 / granite material, and the printed High Court English quotations.
-5. Preserve historical/source forms; do not modernise or reconcile against outside knowledge.
-6. Apply only definite scan-supported corrections to canonical Tamil and record every correction in `verification-log.md`.
-7. Record unresolved readings explicitly instead of guessing.
-8. Update metadata/README/source notes/verification log/handover/prompt after the bounded batch.
-9. After Batch 7, continue Gate E from **scan p.276**.
-10. Keep Tamil **not fully verified** and English blocked until all **37/37** pages pass Gate E.
+1. p.274 `ஏராளமான தொகைகளை லஞ்சம் செய்து கொண்டு` → `ஏராளமான தொகைகளை வசூல் செய்து கொண்டு`.
+
+The source clearly prints `வசூல் செய்து கொண்டு` in the Tamil court-summary sentence immediately before the first printed High Court English quotation. Scan pp.271–273 and p.275 required no other definite correction.
+
+Checks covered `தமிழ்நெட் 1999`, Unicode Consortium, `Tamil Virtual University`, the 1,200-school / 48,000-student passage, Rule 39 / Government Order No. 97 / `8-3-1993`, granite lease/area/loss figures, and printed High Court English quotations through p.275.
+
+Boundary checks passed:
+
+- p.270→271: internetisation passage → `தமிழ்நெட் 1999`;
+- p.275→276: `மேலும், நீதிபதி, தன்னுடைய தீர்ப்பில் தொடர்ந்து சொல்கிறார் :` → printed English `.... the money due to the Government has been siphoned off...`.
+
+Batch-7 unresolved readings: **0**.
+
+For safety, the correction is staged in:
+
+`speeches/1999/1999-04-29-industries-debate/gate-e-batch7-pp271-275.md`
+
+Staging commit: `f84f49652ac589c0310be4406e541f970e21a992`.
+
+Do **not** count Batch 7 as canonically verified until the p.274 correction has been merged into the large `transcript.md` and its diff has been checked. Therefore current canonical verified state remains **30/37 pages / 27 applied corrections**.
+
+Current Tamil status: **reviewed, not fully verified**. English remains **blocked**.
+
+## Exact next activity — close Gate E Batch 7
+
+1. Fetch current canonical `transcript.md` immediately before editing.
+2. Merge exactly one source correction on scan p.274: `ஏராளமான தொகைகளை லஞ்சம் செய்து கொண்டு` → `ஏராளமான தொகைகளை வசூல் செய்து கொண்டு`.
+3. Update only the archival note from verified through scan p.270 / printed p.269 to verified through **scan p.275 / printed p.274**.
+4. Inspect the resulting commit diff and confirm there are no unrelated Tamil changes.
+5. Then update metadata/README/source notes/verification log to **35/37 pages verified**, **28 cumulative corrections**, next scan page **276**, unresolved **0**.
+6. Delete `gate-e-batch7-pp271-275.md` only after successful canonical merge and status closure.
+7. Then proceed to the final **Gate E Batch 8 — scan pp.276–277 / printed pp.275–276**.
+8. Keep English blocked until all **37/37** Tamil pages pass Gate E.
