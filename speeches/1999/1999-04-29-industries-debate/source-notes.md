@@ -61,28 +61,22 @@ These five pages were visually verified directly against the controlling scan. S
 
 ### Batch 3 — scan pp.251–255 / printed pp.250–254
 
-These five pages were visually verified directly against rendered images from the controlling scan. Twelve definite source-supported corrections were applied to canonical `transcript.md`:
+These five pages were visually verified directly against rendered images from the controlling scan. Twelve definite source-supported corrections were applied; unresolved readings: **0**.
 
-1. scan p.251: `நிதிமன்றத்திற்குச்` → `நீதிமன்றத்திற்குச்`;
-2. scan p.251: `இடைக்காலத்தடையை` → `இடைக் காலத்தடையை`;
-3. scan p.251: `ஏஜென்சியால்` → `ஏஜென்ஸியால்`;
-4. scan p.251: `தாமதமாகும்போலக்கூட` → `தாமதமாகும்போல்கூட`;
-5. scan p.253: `நிபந்தனைகளுக்கு குறைவான` → `நிபந்தனைகளுக்குக் குறைவான`;
-6. scan p.253: `முன்வருமானால்` → `முன் வருமானால்`;
-7. scan p.254: `இருக்கின்றதா` → `இருக்கிறதா`;
-8. scan p.254: `வளருவதற்கு காரணமாக` → `வளருவதற்குக் காரணமாக`;
-9. scan p.255: `அந்த காலகட்டத்திலேதான்` → `அந்தக் காலகட்டத்திலேதான்`;
-10. scan p.255: `அந்தத் திட்ட வரவை` → `அந்தத் திட்ட வரைவை`;
-11. scan p.255: `நிதியமைச்சராக` → `நிதிஅமைச்சராக`;
-12. scan p.255: `தெரிவித்துக்கொள்கிறேன்` → `தெரிவித்துக் கொள்கிறேன்`.
+### Batch 4 — scan pp.256–260 / printed pp.255–259
 
-Scan p.252 required no definite word/character correction. Cross-page continuations p.250→251 and p.255→256 were checked and remain intact. Unresolved readings in Batch 3: **0**.
+These five pages were visually verified directly against rendered images from the controlling scan. Two definite source-supported corrections were applied to canonical `transcript.md`:
 
-Current Gate-E verified range: **scan pp.241–255 / printed pp.240–254 — 15/37 pages**. Cumulative definite Gate-E corrections: **23**. Tamil remains **reviewed, not fully verified**.
+1. scan p.256: `அமைந்தது` → `அமைந்து`;
+2. scan p.257: `டி.பி. பெட்ரோ புராடக்ட்ஸ்` → `டி,பி, பெட்ரோ புராடக்ட்ஸ்`.
+
+Scan pp.258–260 required no definite word/character correction. Cross-page continuations p.255→256 and p.260→261 were checked and remain intact. Unresolved readings in Batch 4: **0**.
+
+Current Gate-E verified range: **scan pp.241–260 / printed pp.240–259 — 20/37 pages**. Cumulative definite Gate-E corrections: **25**. Tamil remains **reviewed, not fully verified**.
 
 ## Next audit
 
-Proceed with **Gate E Batch 4 — scan pp.256–260 / printed pp.255–259**. The rendered scan remains controlling. Apply and log only source-supported corrections; do not modernise or externally normalise the source.
+Proceed with **Gate E Batch 5 — scan pp.261–265 / printed pp.260–264**. The rendered scan remains controlling. Apply and log only source-supported corrections; do not modernise or externally normalise the source.
 
 ## Translation status
 
