@@ -2,7 +2,7 @@
 
 ## உரை : 8 — நாள் : 29.04.1999
 
-> **Archival transcription note:** This is a complete Tamil transcription from the controlling May 2007 scan. Gate C covers scan pp.241–277 / printed pp.240–276 (37/37 pages), and Gate D structural completeness has passed. Gate E strict visual source-fidelity verification is in progress; scan pp.241–275 / printed pp.240–274 have been visually verified. The scan image is authoritative; wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English are preserved as visible, with only physical line wrapping normalised. Tamil status: **reviewed, not yet fully verified**. English remains blocked until Gate E passes all 37 pages.
+> **Archival transcription note:** This is a complete Tamil transcription from the controlling May 2007 scan. Gate C covers scan pp.241–277 / printed pp.240–276 (37/37 pages), Gate D structural completeness has passed, and Gate E strict visual source-fidelity verification has passed across all 37 pages. The scan image is authoritative; wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English are preserved as visible, with only physical line wrapping normalised. Tamil status: **verified against scan**. English translation may now begin from this final verified Tamil.
 
 ---
 
@@ -413,7 +413,7 @@ many of the witnesses who have also mentioned the denomination of the currency i
 
 கிரானைட் தொழிலை மேலும் ஊக்குவிக்க, இப்போது ‘டாமின்’, இடம் நிலம் இருக்கிறது அல்லவா? அந்த நிலத்திலே ஒரு பகுதியை, பொது ஏலத்திலே - டாமினே வைத்துக் கொண்டு தூங்காமல், கிடப்பிலே போடாமல், அந்த ‘டாமின்’ நிலத்தைக்கூட எடுத்து, அதனைப் பொது ஏலத்திலே விட்டு, அதன் மூலமாகவும் அரசு வருவாயைத் தேடலாம் என்று முயற்சித்துக் கொண்டிருக்கிறது என்பதையும் தெரிவித்து, காலை முதல் இதுவரையில் அரிய கருத்துக்களைச் சொல்லி, என்னை ஊக்கப்படுத்திய எல்லா உறுப்பினர்களுக்கும் நன்றியைத் தெரிவித்து அமைகிறேன். வணக்கம். (மேசையைத் தட்டும் ஒலி).
 
-**மாண்புமிகு பேரவைத் தலைவர் :** மாண்புமிகு எதிர்க்கட்சித் தலைவர்.
+**மாண்புமிகு பேரவைத் தலைவர் :** மாண்புமிகு எதிர்க் கட்சித் தலைவர்.
 
 **திரு. சோ. பாலகிருஷ்ணன் :** மாண்புமிகு பேரவைத் தலைவர் அவர்களே, நம்முடைய தமிழகத்தில் உப்பளத் தொழில் என்பது ஒரு ஆபத்தான நிலையிலே இருப்பதை இங்கே
 
