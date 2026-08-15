@@ -78,20 +78,30 @@ All five pages were visually verified directly against rendered images from the 
 
 1. scan p.261: `ஆட்டோமொபைல்` → `ஆட்டோ மொபைல்`.
 
-The scan prints `ஆட்டோ` and `மொபைல்` separately in the Sriram Auto Components entry. Scan pp.262–265 required no additional definite correction. Checks covered company/project names, monetary and employment figures, acreages/MW figures, printed English/Latin-script text, punctuation/spacing where source-significant and cross-page continuity.
+The scan prints `ஆட்டோ` and `மொபைல்` separately in the Sriram Auto Components entry. Scan pp.262–265 required no additional definite correction. Boundary checks p.260→261 and p.265→266 are intact. Batch-5 unresolved readings: **0**. Canonical Batch-5 transcript checkpoint: `a1a90353a222507c4a14a926ce0d856b25741c65`.
+
+### Batch 6 visual review — scan pp.266–270 / printed pp.265–269
+
+All five pages were visually re-read directly against rendered images from the controlling scan. One definite source-supported correction was identified:
+
+1. scan p.267: `அப்போதை` → `அப்போதைய`.
+
+The source clearly prints `அப்போதைய` in the Tamil explanation following the CDR quotation. Scan p.266 and pp.268–270 required no additional definite correction.
+
+Checks included the three printed `Economic Times` English quotations on p.266; `Times of India` / CDR quotations and percentages on p.267; `International Real Estates`, `Jones Long Wootten`, the Chennai quotation and Vikatan passage on p.268; and the information-technology terminology on pp.269–270 including `Software Professionals`, `I.T. Task Force`, `I.T.Policy`, `Hardware`, `Software`, and `I.T. Super Highway`.
 
 Boundary checks:
 
-- p.260→261: p.260 closes with the Asian Lighting metal-tube-lamp factory; p.261 begins the Karur Yarn Links entry — intact;
-- p.265→266: p.265 closes with the `Economic Times` lead-in dated `28-4-1999`; p.266 begins the printed English quotation `Tamil Nadu followed closely by Gujarat...` — intact.
+- p.265→266: `Economic Times` lead-in dated `28-4-1999` → `Tamil Nadu followed closely by Gujarat...` — intact;
+- p.270→271: the `வேர்ல்ட்டெல்` / internetisation passage and `(மேசையைத் தட்டும் ஒலி).` → `தமிழ்நெட் 1999` — intact.
 
-Batch-5 unresolved readings: **0**. Canonical Batch-5 transcript checkpoint: `a1a90353a222507c4a14a926ce0d856b25741c65`.
+Batch-6 unresolved readings: **0**. The correction is staged in [`gate-e-batch6-pp266-270.md`](./gate-e-batch6-pp266-270.md) and is not yet counted as canonical verification.
 
-Current Gate-E verified range: **scan pp.241–265 / printed pp.240–264 — 25/37 pages**. Cumulative definite Gate-E corrections: **26**. Tamil remains **reviewed, not fully verified**.
+Current canonical Gate-E verified range remains **scan pp.241–265 / printed pp.240–264 — 25/37 pages**. Cumulative definite corrections already applied: **26**. Tamil remains **reviewed, not fully verified**.
 
-## Next audit
+## Next audit action
 
-Proceed with **Gate E Batch 6 — scan pp.266–270 / printed pp.265–269**. The rendered scan remains controlling. Apply and log only source-supported corrections; do not modernise or externally normalise the source.
+Merge the staged p.267 correction into canonical `transcript.md`, update its archival note to verified through scan p.270 / printed p.269, validate the diff, then close Batch 6 at **30/37 pages** and **27 cumulative corrections**. Remove the staging file after the successful merge. Only then proceed with **Gate E Batch 7 — scan pp.271–275 / printed pp.270–274**.
 
 ## Translation status
 
