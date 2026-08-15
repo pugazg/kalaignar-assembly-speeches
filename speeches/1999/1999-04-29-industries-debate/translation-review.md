@@ -118,18 +118,40 @@ Company-name forms were checked against the verified Tamil rather than silently 
 
 No omission, addition, speaker/context loss, numerical mismatch, cross-page break error or definite meaning shift requiring a canonical English edit was found in this range. The canonical `translation.md` therefore remains unchanged for Batch 4; the reviewed translation blob remains `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
 
+## Batch 5 — source pp.261–265 / printed pp.260–264
+
+**Status: reviewed and passed with no definite fidelity correction required.**
+
+The batch was checked page-by-page against the final verified Tamil. Confirmed items include:
+
+- source p.261's Karur Yarn Links / Rs.4.5 crore, Taurus Novelties / Rs.10 crore, Sriram Auto Components / Rs.21 crore, Ramanasekar Steels / Rs.11 crore, Insil Industrial / Rs.12 crore, Sembawang-Sriram / Rs.33 crore, SISCOL steel / Rs.500 crore and G.M.R. Vasavi / Rs.756 crore entries;
+- the Rs.6,067 crore total, 9,626 direct jobs and 18,000 indirect jobs, followed by the p.261→262 Saint-Gobain float-glass continuation at Sriperumbudur / Rs.450 crore and the statement that three-fourths of the work had been completed;
+- the Bangalore-road / Kanchipuram / Hyundai / glass-factory passage, Thiru Chokkar and Leader-of-the-Opposition reference, and the p.262 project entries for Marqube India, Covema Uttiplast, Autolec Industries and Reynolds Pen India;
+- source p.263's Inval (Medical) / `Blood bags`, Danbora Infrastructure, `Bio-technology Park for women`, Mahindra Industrial Park, Meditech Products, Indian and Natural Medical Products, Optical Fiber Cable Project and TIDEL Park entries with their printed figures;
+- the Pennar Refiners passage exactly as the verified Tamil presents it: first **Rs.320 crore**, then a statement calling it a **Rs.3,200 crore** factory, with the March 2001 completion statement preserved without external reconciliation;
+- SISCOL metal coke / Rs.142.65 crore, Kawada Rims / Rs.44.78 crore and Van Ommeren Tank Terminal / Rs.200 crore;
+- source p.264's Ennore L.N.G. / 2,000 MW passage and Jayankondam Rs.4,000 crore / 4 million tonnes of coal per year / 500 MW project, including the 4–5 land-acquisition files per day, Rs.22,946 crore remaining-project total, 11,000 direct jobs and 1½ lakh indirect jobs with desk-thumping markers;
+- the p.264→265 industrial-investment ranking transition, including the 23-2-1999 Governor's Address debate reference, May 1996 fifth-place and January 1999 second-place statements;
+- the p.265 `Centre for Monitoring Indian Economy-C.M.I.E.` report covering May 1991–January 1999 and published in April 1999, and the State-wise figures: all-India Rs.13,15,017 crore; Andhra Pradesh Rs.1,06,364 crore / 8.09%; Karnataka Rs.1,07,703 crore / 8.19%; Orissa Rs.1,14,033 crore / 8.67%; Gujarat Rs.1,46,703 crore / 11.16%; Maharashtra Rs.1,51,058 crore / 11.49%; Tamil Nadu Rs.1,51,187 crore / 11.50%;
+- the horse-race / nose metaphor, Maharashtra's previous .02% lead, Tamil Nadu's current .01% lead, tug-of-war comparison and the `Economic Times` lead-in dated 28-4-1999, with the quotation correctly beginning on source p.266 rather than being pulled into this batch.
+
+Company/project-name forms and internally unusual source figures were preserved from the verified Tamil rather than normalised from outside knowledge. No omission, addition, speaker/context loss, numerical mismatch, cross-page break error or definite meaning shift requiring a canonical English edit was found in this range.
+
+The canonical `translation.md` therefore remains unchanged for Batch 5; the reviewed translation blob remains `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
+
 ## Current Gate G findings
 
-- Reviewed English source pages: **241–260, 20/37 pages**.
-- Reviewed printed pages: **240–259**.
+- Reviewed English source pages: **241–265, 25/37 pages**.
+- Reviewed printed pages: **240–264**.
 - Missing/duplicate/reordered pages in reviewed range: **0**.
 - Unresolved translation questions / fidelity issues in reviewed range: **0**.
 - Definite Gate-G fidelity corrections applied cumulatively: **1**.
 - Batch-2 corrections: **0**.
 - Batch-3 corrections: **0**.
 - Batch-4 corrections: **0**.
-- Next review source page: **261**.
+- Batch-5 corrections: **0**.
+- Next review source page: **266**.
 - Overall Gate G status: **in progress**.
 - English overall status: **complete, not yet verified**.
 
-The next activity is **Gate G Batch 5 — source/scan pp.261–265 / printed pp.260–264**. English must not be marked fully verified until all 37 pages pass Gate G.
+The next activity is **Gate G Batch 6 — source/scan pp.266–270 / printed pp.265–269**. English must not be marked fully verified until all 37 pages pass Gate G.
