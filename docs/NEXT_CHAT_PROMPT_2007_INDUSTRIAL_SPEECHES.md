@@ -1,8 +1,8 @@
-# Next-chat prompt — Speech 9 Gate C Batch 5 / 8.05.2000
+# Next-chat prompt — Speech 9 Gate C final Batch 6 / 8.05.2000
 
 Continue the Kalaignar Assembly Speeches archival project in `pugazg/kalaignar-assembly-speeches`.
 
-Speeches **1–8** from the 2007 industrial-speeches anthology are fully released through Gate H with verified Tamil and verified English. **Do not restart, retranscribe or modify those released entries.** Speech 9 is active and Gate C Batches 1–4 are complete.
+Speeches **1–8** from the 2007 industrial-speeches anthology are fully released through Gate H with verified Tamil and verified English. **Do not restart, retranscribe or modify those released entries.** Speech 9 is active and Gate C Batches 1–5 are complete.
 
 ## Mandatory startup
 
@@ -30,55 +30,52 @@ Both boundaries were re-confirmed directly from the controlling scan at Speech-9
 
 ## Current Speech-9 state
 
-Gate C Batches 1–4 are complete:
+Gate C Batches 1–5 are complete:
 
-- transcribed source/scan pages: **278–297**
-- corresponding printed pages: **277–296**
-- cumulative coverage: **20/26 pages**
-- page markers: **278–297**, once and in order
+- transcribed source/scan pages: **278–302**
+- corresponding printed pages: **277–301**
+- cumulative coverage: **25/26 pages**
+- page markers: **278–302**, once and in order
 - unresolved first-pass readings: **0**
 - Tamil status: **in-progress; not verified**
 - Gate D: **not started**
 - Gate E: **not started**
 - English Gate F: **blocked**
-- next source page: **298**
-- Batch-4 canonical transcript commit: `dcc52ef8fcc7a48517dfa924f5dc297e7a96867d`
-- metadata checkpoint: `4d166a5f5b59bd79f79fcad682602903dbecfcb6`
-- README checkpoint: `52507b64a83fac54432fa40a24473a803bacf519`
-- source-notes checkpoint: `bc80283fe01b0ea7fe2de978c03312927be7b5c6`
-- verification-log checkpoint: `d88ee0575563db9c61368cd40cb8f83b51d56d5b`
+- next and final Gate-C source page: **303**
+- initial Batch-5 transcript commit: `ed2ade25fb1f3808a8cb8f6bfd0918ca1be7f3a5`
+- corrected canonical transcript commit: `8ed2c3685857e16b368139252386b623875284ab`
+- corrected transcript blob: `67b1cc071ce4c8c04c1ea6748a65e0ffd1d91d3b`
+- metadata checkpoint: `d644f57d18ce8c15b6925528a3130cb5b7da9e8f`
+- README checkpoint: `7746597e74e8b2b69dcb91771351895fca753318`
+- source-notes checkpoint: `160ecfcb0d9985850573b863772487388914a7cf`
+- verification-log checkpoint: `7ae977e13f78e05ca4059685be67bbc19d130e9c`
 
-The Batch-4 transcript diff was inspected and contains only the Gate-C coverage-note update plus appended source pp.293–297. Completed pp.278–292 were not rewritten.
+The Batch-5 append diff was inspected. A subsequent high-resolution reread identified four definite source-reading corrections, and correction commit `8ed2c3685857e16b368139252386b623875284ab` was inspected to contain exactly these four changes:
 
-Important Batch-4 source-sensitive forms include:
+- p.298 `பழனிசாமி ஏற்றுக்கொள்கிறாரோ` → `பழனிசாமி ஏற்றுக் கொள்கிறாரோ`;
+- p.298 `டி. மணி ஏற்றுக்கொள்கிறாரோ` → `டி. மணி ஏற்றுக் கொள்கிறாரோ`;
+- p.300 `சிமெண்ட் தயார்செய்வதன்` → `சிமெண்ட் தயார் செய்வதன்`;
+- p.300 `குறைந்த விலையில் தயார்செய்து` → `குறைந்த விலையில் தயார் செய்து`.
 
-- p.293 high-resolution reread supports `இன்னொன்றியில் சென்னை வர்த்தக மையம்;`;
-- `(TIDCO)`, `(ITPO)`, `20.000 சதுர மீட்டர்`, `5000 சதுர மீட்டர்`, `30-1-2000`, `2000 நவம்பரில்`;
-- `Bio-Technology`, `உயிரியல் தொழில் நுட்பவியல் ஊக்க மூலதன நிதி`, `வழங்கப்பட விருக்கிறது`;
-- p.293→294 split after `அதிவேகப் பயன்பாட்டிற்கு`, then `உகந்த டீசல்`;
-- `ப்ராக்சேர் இந்தியா பிரைவேட் லிமிடெட்`, `industrial gases`, `செயிண்ட் கோபைன்`, `பென்னார் ரிபைனர்ஸ் லிமிடெட்`;
-- `கவிதி மலைப் பகுதிகளிலும்`, `இரும்புத் துண்டங்களை`, `நாம்தா டெக்ஸ்டைல்ஸ்`;
-- p.296 explicitly prints **`24-3-2001`** despite the speech date `8.05.2000`; preserve it exactly and do not fact-correct;
-- p.297 `பேசவில்லை யானாலும்`, repeated `விற்காது, விற்காது`, and the no-privatisation assurance.
+These are Gate-C first-pass corrections, not Gate-E verification.
 
-Source p.297 ends mid-sentence after exactly:
+Important Batch-5 source-sensitive forms to preserve include p.298 `ரைட்` and the varying auxiliary spacing; p.299 `'TANCEM'`, `12-12-1994`, the printed `Counter Affidavit` English and the source Tamil phrase `மூன்றாவது பிரதிவாதியான டான்செம் நிறைவேற்றவில்லை.`; p.300 the two printed Government English sentences; p.301 the exact cement-production figures; and p.302 `அம்புஜா`, Rs.85 / Rs.145, `50 சதவிகிதத்திலே` and 111 cut motions.
 
-`ஆனால், தினமும்`
+Source p.302 ends mid-sentence after exactly:
 
-## Exact next activity — Gate C Batch 5
+`வெட்டுத் தீர்மானங்களுடைய எண்ணிக்கை 111. நம்பர்`
 
-Process **source/scan pp.298–302 / printed pp.297–301**.
+## Exact next activity — Gate C final Batch 6
 
-1. Inspect rendered scan p.298 and continue directly from the unfinished p.297 sentence; do not reconstruct the continuation from memory or outside knowledge.
-2. Transcribe pp.298–302 directly from the scan, preserving wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions, repetition, unusual grammar and printed English.
-3. Do not silently modernise, reconstruct, fact-correct or reconcile internally unusual source wording. Physical line wraps alone may be normalised into readable paragraphs.
-4. Add explicit source markers `<!-- source-page: 298 -->` through `<!-- source-page: 302 -->`, each exactly once and in order.
-5. Record every genuinely uncertain reading explicitly rather than guessing.
-6. Append only to the current Tamil first-pass transcript; do not rewrite completed pp.278–297 unless a concrete source-supported transcription mistake is discovered and explicitly documented.
-7. Update Speech-9 metadata, README, source notes and verification log after the batch.
-8. If all five pages complete cleanly, cumulative Gate-C coverage becomes **25/26 pages, source pp.278–302 / printed pp.277–301**, and next source page becomes **303**.
-9. Gate C remains only a first-pass transcription. Do not mark Tamil `verified`; Gates D and E remain later full-speech stages.
-10. Do not include p.303 in this batch; it is the final Speech-9 page and should be handled in the next bounded activity unless the user explicitly changes priority.
-11. Do not begin English translation and do not begin Speech 10.
+Process **source/scan p.303 / printed p.302 only**.
 
-After this bounded activity, the expected next activity is **Speech 9 Gate C final Batch 6 — source p.303 / printed p.302**, followed by Gate D only after Gate C is fully complete.
+1. Inspect rendered scan p.303 and continue directly after `111. நம்பர்`; do not reconstruct the continuation from memory or outside knowledge.
+2. Transcribe p.303 directly from the scan, preserving wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions, repetition, unusual grammar and any printed English.
+3. Add explicit source marker `<!-- source-page: 303 -->` exactly once.
+4. Record every genuinely uncertain reading explicitly rather than guessing.
+5. Do not rewrite pp.278–302 unless a concrete source-supported transcription mistake is discovered and explicitly documented.
+6. Confirm the Speech-9 closing ornament/boundary on p.303 and **do not include scan p.304**, which begins Speech 10.
+7. If p.303 completes cleanly, cumulative Gate-C coverage becomes **26/26 pages, source pp.278–303 / printed pp.277–302**. Change the Tamil first-pass status from `in-progress` to **`transcribed`**, but keep `verified_against_scan=false`; Gate E has not happened.
+8. Update metadata, README, source notes and verification log to close Gate C truthfully.
+9. After Gate C closure, the **next activity is Gate D — full Tamil completeness/page-marker audit**. Do not begin Gate E or English translation in this bounded activity unless explicitly requested.
+10. Do not begin Speech 10.
