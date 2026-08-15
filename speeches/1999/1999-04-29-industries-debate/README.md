@@ -41,24 +41,27 @@ Speech 8 Tamil processing is complete through Gate E. Gate F English translation
 - English Gate F: **complete — source/scan pp.241–277 / printed pp.240–276, 37/37 pages**.
 - Gate-F unresolved translation questions: **0**.
 - Speech-8 ending confirmed at source p.277; p.278 begins Speech 9. **No Speech-9 spillover.**
-- English Gate G: **in progress — Batch 1 reviewed source pp.241–245 / printed pp.240–244, 5/37 pages**.
-- Gate-G definite fidelity corrections applied: **1**.
+- English Gate G: **in progress — Batches 1–2 reviewed source pp.241–250 / printed pp.240–249, 10/37 pages**.
+- Gate-G definite fidelity corrections applied cumulatively: **1**.
+- Gate-G Batch-2 corrections: **0**.
 - Gate-G unresolved fidelity issues: **0**.
 - English overall status: **complete, not yet verified**.
 
-Gate G Batch 1 compared the English page-by-page against the final verified Tamil. One definite correction was applied on source p.245: the over-literal `You are taking the nameplate and going away with it.` was corrected to `You are taking the credit for it.` for the Tamil phrase `நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள்`. The canonical diff contains only that English correction.
+Gate G Batch 1 applied one definite correction on source p.245: the over-literal `You are taking the nameplate and going away with it.` was corrected to `You are taking the credit for it.` for the Tamil phrase `நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள்`.
+
+Gate G Batch 2 reviewed source pp.246–250 page-by-page against the final verified Tamil and required **no canonical English correction**. The review reconfirmed the Pugalur inquiry, Pollachi criteria, Mohamed Ismail/Kudaganar material, Best and Crompton / Urban Land Ceiling and Cabinet passages, L.N.G./Siemens consortium material, Alanganallur discussion, Kanyakumari rope/rubber humour, Ponnammal's Singapore/sari remarks, the election-manifesto passage and the State-wise sugarcane-price figures through Gujarat's 10.72% recovery figure.
 
 English must not be marked fully verified until all 37 pages pass Gate G.
 
 ## Exact next activity
 
-Continue **Gate G Batch 2 — source/scan pp.246–250 / printed pp.245–249**. Compare the canonical English against the final verified Tamil page-by-page, apply only definite fidelity corrections, update [`translation-review.md`](./translation-review.md), and keep the overall English status unverified until Gate G covers all 37 pages.
+Continue **Gate G Batch 3 — source/scan pp.251–255 / printed pp.250–254**. Compare the canonical English against the final verified Tamil page-by-page, apply only definite fidelity corrections, update [`translation-review.md`](./translation-review.md), and keep the overall English status unverified until Gate G covers all 37 pages.
 
 ## Files
 
 - [`transcript.md`](./transcript.md) — complete and verified Tamil source layer.
 - [`translation.md`](./translation.md) — complete 37/37-page English translation; Gate G in progress.
-- [`translation-review.md`](./translation-review.md) — Gate-G fidelity-review record, currently 5/37 pages.
+- [`translation-review.md`](./translation-review.md) — Gate-G fidelity-review record, currently 10/37 pages.
 - [`metadata.json`](./metadata.json) — source mapping and processing status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and audit notes.
 - [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D and Gate-E audit trail.
