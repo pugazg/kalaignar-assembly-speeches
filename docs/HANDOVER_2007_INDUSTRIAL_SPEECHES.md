@@ -4,7 +4,7 @@
 
 Continue `pugazg/kalaignar-assembly-speeches` using the controlling scan `TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf`.
 
-The scan image is authoritative for Tamil transcription and verification. English must be translated from the final verified Tamil, not OCR or earlier drafts. Follow `docs/ARCHIVAL_WORKFLOW.md`.
+The scan image is authoritative for Tamil transcription and verification. English must be translated and fidelity-reviewed against the final verified Tamil, not OCR or earlier drafts. Follow `docs/ARCHIVAL_WORKFLOW.md`.
 
 ## Released through Speech 7
 
@@ -30,33 +30,42 @@ Speech 7 (`உரை : 7`, `14.05.1998`, canonical ID `1998-05-14-industries-deb
 - Tamil status: **verified**
 - canonical Gate-E completion checkpoint: `7ddf8745a4c3417750c0c7130ae20edb8b4cca62`
 
-## English status
+## English Gate F
 
-- Gate F canonical working translation: **Batches 1–7 merged**
-- canonical translated source/scan pages: **241–275**
-- canonical corresponding printed pages: **240–274**
-- canonical completed English pages: **35/37**
-- canonical Batch-7 merge checkpoint: `673265033d6618c173ca3e03927cc714f1747ee7`
-- Gate F final Batch 8: **translation complete in staging — source pp.276–277 / printed pp.275–276 — 2 pages**
-- Batch-8 staging file: `speeches/1999/1999-04-29-industries-debate/gate-f-batch8-pp276-277.md`
-- Batch-8 staging commit: `435add96dd85cd8a618636bbc4b90e4030deb9de`
-- Batch-8 unresolved translation questions: **0**
-- Speech-8 boundary: **ends at source p.277; source p.278 begins Speech 9; no spillover**
-- English status: **in progress, not verified**
-- Gate G: **not started**
+- Gate F: **complete — 37/37 pages**
+- translated source/scan pages: **241–277**
+- corresponding printed pages: **240–276**
+- unresolved Gate-F translation questions: **0**
+- final Gate-F canonical merge checkpoint: `ed79a499ecb56f8fb750f5ea9d946d1b2a71fde3`
+- final Batch-8 staging file has been deleted after clean merge: deletion commit `006b846958383f354dd27e3fe8066c4982261d69`
+- Speech-8 boundary confirmed at source p.277; source p.278 begins Speech 9; **no spillover**
 
-Gate F uses only the final verified Tamil and preserves source-page correspondence, interventions, names, figures, embedded printed English, humour/context and source historical/factual claims without silent correction.
+## English Gate G
 
-Final Batch 8 preserves the remaining printed High Court quotation; `8-ஏ`; the `டாமின்` / TAMIN public-auction passage; Kalaignar's closing; the Speaker → `திரு. சோ. பாலகிருஷ்ணன்` intervention; the source figures 5,000 acres / Rs.29 / Rs.429 / Rs.1½ crore / roughly Rs.400; and the final `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay, represented as salt-pan (*uppalam*) / *appalam* so the sound-play is not lost.
+- Gate G: **in progress**
+- Batch 1 reviewed source/scan pp. **241–245** / printed pp. **240–244**
+- reviewed pages: **5/37**
+- definite Gate-G fidelity corrections applied: **1**
+- unresolved fidelity issues: **0**
+- next Gate-G source page: **246**
+- English overall status: **complete, not yet verified**
+- Gate-G review record: `speeches/1999/1999-04-29-industries-debate/translation-review.md`
 
-## Exact next activity — close Gate F, then begin Gate G
+Batch 1 confirmed the opening, Ranganathan and south-district passages, Subbarayan/TANCEM/athirasam material, TWAD tender figures and terms, Tiruppur court-stay discussion, Singapore/Malaysia/Colachel/flying-road passage, Nellore comparison, Sundaram's three-instalment joke, Ford/MoU/1996 passage and the p.245→246 Pugalur continuation.
 
-1. Fetch current canonical `translation.md` and staged `gate-f-batch8-pp276-277.md` immediately before editing.
-2. Merge source-page sections **276–277** after canonical source p.275.
-3. Update only the Gate-F working note as needed to say Gate F covers **source pp.241–277 / printed pp.240–276, 37/37 pages** and is complete.
-4. Inspect the canonical commit/diff carefully to ensure Batches 1–7 were not accidentally changed.
-5. If clean, reconcile metadata and README to Gate F **complete — 37/37**, completed source pp.241–277 / printed pp.240–276, next source page null, unresolved translation questions **0**; remove the pending-batch record.
-6. Delete `gate-f-batch8-pp276-277.md` after successful canonical merge.
-7. Gate F completion does **not** make English verified. Set Gate F complete while keeping translation unverified and Gate G not-started until the separate fidelity review begins.
-8. Then begin **Gate G — full-speech English fidelity review against the final verified Tamil**, preferably in bounded batches with corrections documented and canonical diffs inspected.
-9. Do not start Speech 9 until Speech 8 has completed Gate G and Gate H unless the user explicitly changes priority.
+One definite English fidelity correction was applied on source p.245. Gate F had translated `நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள்` as `You are taking the nameplate and going away with it.` Gate G corrected this to **`You are taking the credit for it.`** Canonical correction commit: `badea74b3e3bf9e3c561a75550560caec8ef2bab`. The diff contains only this English change.
+
+## Exact next activity — Gate G Batch 2
+
+Review **source/scan pp.246–250 / printed pp.245–249** against the final verified Tamil.
+
+Requirements:
+
+1. Fetch the final verified Tamil and current canonical English for the exact bounded range.
+2. Compare page-by-page for omissions, additions, meaning shifts, cross-page continuations, speaker/context markers, names, dates, figures, units, technical/company names and humour/idiom.
+3. Preserve source-specific claims; do not fact-correct from outside knowledge.
+4. Apply only definite English fidelity corrections.
+5. Inspect every canonical translation diff before advancing reviewed coverage.
+6. Update `translation-review.md`, metadata, README, handover and next prompt truthfully.
+7. English remains **not fully verified** until all source pp.241–277 pass Gate G.
+8. Do not begin Speech 9 or Gate H until Speech 8 Gate G passes unless the user explicitly changes priority.
