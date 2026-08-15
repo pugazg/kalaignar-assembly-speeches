@@ -52,22 +52,14 @@
     "gate_d_status": "passed",
     "gate_e_status": "in-progress",
     "verified_against_scan": false,
-    "verified_scan_pages": "241-260",
-    "verified_printed_pages": "240-259",
-    "verified_page_count": 20,
-    "next_verification_scan_page": 261,
-    "gate_e_corrections_applied": 25,
+    "verified_scan_pages": "241-265",
+    "verified_printed_pages": "240-264",
+    "verified_page_count": 25,
+    "next_verification_scan_page": 266,
+    "gate_e_corrections_applied": 26,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
-    "pending_gate_e_batch": {
-      "scan_pages": "261-265",
-      "printed_pages": "260-264",
-      "visual_review_status": "complete",
-      "pending_canonical_corrections": 1,
-      "unresolved_readings": 0,
-      "staging_file": "gate-e-batch5-pp261-265.md"
-    },
-    "completion_note": "Gate D passed. Gate E Batches 1-4 are canonically verified through scan p.260 / printed p.259, with 25 corrections applied. Gate E Batch 5 scan pp.261-265 / printed pp.260-264 has been visually reviewed 5/5 against the controlling scan and found one definite correction, p.261 ஆட்டோமொபைல்→ஆட்டோ மொபைல், with no unresolved readings. That correction is staged but not yet merged into canonical transcript.md, so verified coverage remains 20/37 until the canonical merge is completed. English remains blocked."
+    "completion_note": "Gate D passed. Gate E Batches 1-5 are canonically verified through scan p.265 / printed p.264. Batch 5 visually checked scan pp.261-265 / printed pp.260-264 and applied one source-supported correction on p.261: ஆட்டோமொபைல்→ஆட்டோ மொபைல். Scan pp.262-265 required no definite correction; p.260→261 and p.265→266 continuations are intact. Cumulative Gate-E corrections: 26. No unresolved readings remain in the verified range. Tamil remains reviewed, not fully verified; Gate E continues at scan p.266."
   },
   "translation": {
     "language": "English",
