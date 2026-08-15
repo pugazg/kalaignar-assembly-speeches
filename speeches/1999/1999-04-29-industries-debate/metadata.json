@@ -22,22 +22,12 @@
     "requires_verified_tamil": true,
     "tamil_gate_satisfied": true,
     "source": "final verified Tamil transcription",
-    "completed_source_pages": "241-270",
-    "completed_printed_pages": "240-269",
-    "completed_page_count": 30,
+    "completed_source_pages": "241-275",
+    "completed_printed_pages": "240-274",
+    "completed_page_count": 35,
     "total_page_count": 37,
-    "next_source_page": 271,
+    "next_source_page": 276,
     "unresolved_translation_questions": 0,
-    "verified_against_tamil": false,
-    "pending_gate_f_batch": {
-      "batch": 7,
-      "source_pages": "271-275",
-      "printed_pages": "270-274",
-      "translated_page_count": 5,
-      "translation_status": "complete",
-      "pending_canonical_merge": true,
-      "staging_file": "gate-f-batch7-pp271-275.md",
-      "unresolved_translation_questions": 0
-    }
+    "verified_against_tamil": false
   }
 }
