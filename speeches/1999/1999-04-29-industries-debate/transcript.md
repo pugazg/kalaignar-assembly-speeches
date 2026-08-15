@@ -2,7 +2,7 @@
 
 ## உரை : 8 — நாள் : 29.04.1999
 
-> **Archival transcription note:** This is a complete Tamil transcription from the controlling May 2007 scan. Gate C covers scan pp.241–277 / printed pp.240–276 (37/37 pages), and Gate D structural completeness has passed. Gate E strict visual source-fidelity verification is in progress; scan pp.241–265 / printed pp.240–264 have been visually verified. The scan image is authoritative; wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English are preserved as visible, with only physical line wrapping normalised. Tamil status: **reviewed, not yet fully verified**. English remains blocked until Gate E passes all 37 pages.
+> **Archival transcription note:** This is a complete Tamil transcription from the controlling May 2007 scan. Gate C covers scan pp.241–277 / printed pp.240–276 (37/37 pages), and Gate D structural completeness has passed. Gate E strict visual source-fidelity verification is in progress; scan pp.241–270 / printed pp.240–269 have been visually verified. The scan image is authoritative; wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English are preserved as visible, with only physical line wrapping normalised. Tamil status: **reviewed, not yet fully verified**. English remains blocked until Gate E passes all 37 pages.
 
 ---
 
@@ -311,7 +311,7 @@ WORLD TEL நிறுவனத்தைப்பற்றி டாக்டர
 
 Against all-India average CDR of 55.5 per cent of all scheduled Commercial Banks (as on the last Friday of December 1997), Tamil Nadu's CDR was an astounding 92.3 per cent.
 
-1997-ஆம் ஆண்டு, டிசம்பர் மாதம், கடைசி வெள்ளிக் கிழமை நிலவரப்படி அனைத்து வர்த்தக வங்கிகளின் ஒட்டுமொத்த அனைத்திந்திய சராசரி கடன் தொகை வைப்புத் தொகை விகிதாச்சாரம் 55.5 சதவிகிதம் என்றால், தமிழகத்திலே அப்போதை விகிதாச்சாரம் 92.3 சதவிகிதம் என்கிற வியப்புக்குரிய செய்தி கிடைக்கிறது என்று அந்த ஏடு எழுதிக் காட்டுகிறது.
+1997-ஆம் ஆண்டு, டிசம்பர் மாதம், கடைசி வெள்ளிக் கிழமை நிலவரப்படி அனைத்து வர்த்தக வங்கிகளின் ஒட்டுமொத்த அனைத்திந்திய சராசரி கடன் தொகை வைப்புத் தொகை விகிதாச்சாரம் 55.5 சதவிகிதம் என்றால், தமிழகத்திலே அப்போதைய விகிதாச்சாரம் 92.3 சதவிகிதம் என்கிற வியப்புக்குரிய செய்தி கிடைக்கிறது என்று அந்த ஏடு எழுதிக் காட்டுகிறது.
 
 Andhra Pradesh recorded the second highest CDR of 74.2 per cent followed by Maharashtra's 68.7 per cent and Manipur's 59 per cent. The National Capital Territory (NCT) of Delhi registered a CDR of 70.9 per cent, close to the Union Territory of Chandigarh's 69.1 per cent.
 
