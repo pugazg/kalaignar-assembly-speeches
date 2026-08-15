@@ -52,59 +52,43 @@ Gate D establishes completeness and structure only. It does **not** establish ch
 ## Gate E — in progress
 
 ### Batch 1 — scan pp.241–245 / printed pp.240–244
-
 Five definite source-supported corrections were applied; unresolved readings: **0**.
 
 ### Batch 2 — scan pp.246–250 / printed pp.245–249
-
 Six definite source-supported corrections were applied; unresolved readings: **0**.
 
 ### Batch 3 — scan pp.251–255 / printed pp.250–254
-
 Twelve definite source-supported corrections were applied; unresolved readings: **0**.
 
 ### Batch 4 — scan pp.256–260 / printed pp.255–259
-
 Two definite source-supported corrections were applied; unresolved readings: **0**.
 
 ### Batch 5 — scan pp.261–265 / printed pp.260–264
-
-One definite source-supported correction was applied to canonical `transcript.md`:
-
-1. scan p.261: `ஆட்டோமொபைல்` → `ஆட்டோ மொபைல்`.
-
-Scan pp.262–265 required no additional definite correction. Boundary checks p.260→261 and p.265→266 are intact. Batch-5 unresolved readings: **0**.
+One definite source-supported correction was applied: p.261 `ஆட்டோமொபைல்` → `ஆட்டோ மொபைல்`. Unresolved readings: **0**.
 
 ### Batch 6 — scan pp.266–270 / printed pp.265–269
+One definite source-supported correction was applied: p.267 `அப்போதை` → `அப்போதைய`. Boundary checks p.265→266 and p.270→271 are intact. Unresolved readings: **0**. Canonical checkpoint: `2d43d163d6c7ac9e470ae08299d0d20e91ebe089`.
 
-All five pages were visually verified directly against rendered images from the controlling scan. One definite source-supported correction was applied to canonical `transcript.md`:
+### Batch 7 — scan pp.271–275 / printed pp.270–274
 
-1. scan p.267: `அப்போதை` → `அப்போதைய`.
-
-Scan p.266 and pp.268–270 required no additional definite word/character correction. Boundary checks p.265→266 and p.270→271 are intact. Batch-6 unresolved readings: **0**. Canonical Batch-6 transcript checkpoint: `2d43d163d6c7ac9e470ae08299d0d20e91ebe089`.
-
-### Batch 7 visual review — scan pp.271–275 / printed pp.270–274
-
-All five pages were re-read directly against rendered images from the controlling scan. One definite source-supported correction was identified:
+All five pages were visually verified directly against the controlling rendered scan. One definite source-supported correction was applied to canonical `transcript.md`:
 
 1. scan p.274: `ஏராளமான தொகைகளை லஞ்சம் செய்து கொண்டு` → `ஏராளமான தொகைகளை வசூல் செய்து கொண்டு`.
 
-The scan clearly prints `வசூல் செய்து கொண்டு` in the Tamil summary immediately before the first printed High Court English quotation. This is a source-fidelity correction, not an external semantic normalisation.
-
-Scan pp.271–273 and p.275 required no additional definite word/character correction. Checks covered `தமிழ்நெட் 1999`, Unicode Consortium, `Tamil Virtual University`, the 1,200-school / 48,000-student passage, Rule 39, Government Order No. 97 dated `8-3-1993`, acreage/lease/loss figures, and all printed High Court English quotations through p.275.
+The scan clearly prints `வசூல் செய்து கொண்டு` in the Tamil summary immediately before the first printed High Court English quotation. Scan pp.271–273 and p.275 required no additional definite correction. Checks covered `தமிழ்நெட் 1999`, Unicode Consortium, `Tamil Virtual University`, the 1,200-school / 48,000-student passage, Rule 39, Government Order No. 97 dated `8-3-1993`, acreage/lease/loss figures and the printed High Court English quotations through p.275.
 
 Boundary checks:
 
 - p.270→271: `வேர்ல்ட்டெல்` / internetisation passage → `தமிழ்நெட் 1999` — intact;
 - p.275→276: `மேலும், நீதிபதி, தன்னுடைய தீர்ப்பில் தொடர்ந்து சொல்கிறார் :` → printed English `.... the money due to the Government has been siphoned off...` — intact.
 
-Batch-7 unresolved readings: **0**.
+Batch-7 unresolved readings: **0**. The canonical commit diff was inspected after the merge and contains only the archival status-note update plus this source-supported p.274 correction; no unrelated Tamil change was introduced. Canonical Batch-7 transcript checkpoint: `d3106a9d88ed7d5c801398b14e1705eff446a18c`.
 
-Because the p.274 correction has not yet been merged into the large canonical transcript, Batch 7 is recorded in [`gate-e-batch7-pp271-275.md`](./gate-e-batch7-pp271-275.md) as a completed visual review **pending canonical merge**. Canonical verified coverage therefore remains **scan pp.241–270 / printed pp.240–269 — 30/37 pages**, with **27** cumulative applied corrections until that merge is completed.
+Current Gate-E verified range: **scan pp.241–275 / printed pp.240–274 — 35/37 pages**. Cumulative definite Gate-E corrections: **28**. Tamil remains **reviewed, not fully verified**.
 
-## Next audit action
+## Next audit
 
-Merge the staged p.274 correction into canonical `transcript.md`, update its archival note through scan p.275 / printed p.274, validate the diff, then close Batch 7 at **35/37 pages** and **28 cumulative corrections**. Remove the staging file after successful merge. Only then proceed with the final **Gate E Batch 8 — scan pp.276–277 / printed pp.275–276**.
+Proceed with the final **Gate E Batch 8 — scan pp.276–277 / printed pp.275–276**. Verify the exact Speech-8 close and confirm no p.278 / Speech-9 spillover. Apply and log only source-supported corrections; do not modernise or externally normalise the source.
 
 ## Translation status
 
