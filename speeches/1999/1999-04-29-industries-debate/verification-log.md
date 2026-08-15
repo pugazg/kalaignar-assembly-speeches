@@ -90,23 +90,55 @@ The canonical commit diff was inspected after the merge and contains only:
 
 No unrelated Tamil change was introduced.
 
-## Gate-E cumulative state after Batch 7
+### Final Batch 8 visual review — scan pp.276–277 / printed pp.275–276
 
-- verified scan range: **241–275**
-- verified printed range: **240–274**
-- verified pages: **35/37**
-- cumulative corrections applied: **28**
+Pages checked directly against the controlling rendered scan: **2/2**.
+
+One definite source-supported correction was found:
+
+1. p.276 Speaker line `மாண்புமிகு எதிர்க்கட்சித் தலைவர்.` → `மாண்புமிகு எதிர்க் கட்சித் தலைவர்.`
+
+The scan clearly prints the spaced source form `எதிர்க் கட்சித் தலைவர்`. Scan p.277 required **0 definite corrections**.
+
+Source-sensitive checks included:
+
+- printed High Court quotation `.... the money due to the Government has been siphoned off...`;
+- source form `8-ஏ`;
+- the `டாமின்` / public-auction passage;
+- Kalaignar's `வணக்கம்` and applause marker;
+- Speaker and `திரு. சோ. பாலகிருஷ்ணன்` labels;
+- `5,000-க்கு மேற்பட்ட ஏக்கரில்`, `29 ரூபாய்`, `429 ரூபாய்`, `ஒன்றரை கோடி ரூபாய்`, `400 ரூபாய்`;
+- final `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay and applause marker.
+
+Boundary checks:
+
+- p.275→276: judgment lead-in → printed English quotation — intact;
+- p.276→277: Opposition Leader intervention `இங்கே` → `குறிப்பிட விரும்புகிறேன்.` — intact;
+- p.277 closes Speech 8 after `(மேசையைத் தட்டும் ஒலி).`;
+- p.278 was separately rendered and begins `உரை : 9`, `நாள் : 8.05.2000`, so there is no Speech-9 spillover.
+
+Batch-8 unresolved readings: **0**.
+
+The correction is staged in `gate-e-batch8-pp276-277.md` but is **not yet merged into canonical `transcript.md`**. Therefore the visual review of all 37 pages is complete, but Gate E is not yet canonically passed.
+
+## Current Gate-E state
+
+- canonical verified scan range: **241–275**
+- canonical verified printed range: **240–274**
+- canonical verified pages: **35/37**
+- cumulative corrections already applied: **28**
+- final visually reviewed pages awaiting merge: **276–277**
+- pending canonical corrections: **1**
 - unresolved readings: **0**
-- next verification scan page: **276**
 - Tamil status: **reviewed, not fully verified**
 
 ## Gates not yet complete
 
-- Gate E: **in progress — 35/37 pages verified**
+- Gate E: **final visual review complete; canonical closure pending**
 - Gate F English translation: **blocked**
 - Gate G English fidelity verification: **not started**
 - Gate H release/index: **not started**
 
 ## Exact next activity
 
-Proceed with the final **Gate E Batch 8 — scan pp.276–277 / printed pp.275–276**. Verify both pages directly against the controlling scan, including the opening printed High Court English quotation on p.276, the source form `8-ஏ`, the closing Speaker / `திரு. சோ. பாலகிருஷ்ணன்` intervention, all figures (`5,000`, `29`, `429`, `ஒன்றரை கோடி`, `400`) and the `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay. Confirm the exact Speech-8 close and no p.278 / Speech-9 spillover. Do not begin English until Gate E passes all **37/37** pages.
+Merge p.276 `மாண்புமிகு எதிர்க்கட்சித் தலைவர்.` → `மாண்புமிகு எதிர்க் கட்சித் தலைவர்.` into canonical `transcript.md`, update the archival note to full Gate-E coverage **241–277 / 240–276 — 37/37**, and inspect the commit diff for unrelated changes. If clean, mark Tamil `verified`, Gate E `passed`, cumulative corrections **29**, unresolved readings **0**, remove `gate-e-batch8-pp276-277.md`, and unblock — but do not yet begin — Gate F English translation.
