@@ -41,18 +41,36 @@ Gate C first-pass Tamil transcription is complete across all **37/37** mapped pa
 - Batch 2: scan pp.**256–270** / printed pp.**255–269** — 15 pages;
 - Batch 3: scan pp.**271–277** / printed pp.**270–276** — 7 pages;
 - cumulative canonical coverage: scan pp.**241–277** / printed pp.**240–276**;
-- unresolved/`[REVIEW]` readings: **0**.
+- unresolved/`REVIEW` readings: **0**.
 
-The final Batch 3 was first staged separately, then merged into canonical `transcript.md` after refetching the current canonical file. The merged transcript preserves the p.270→271 continuation beginning with `கணினிப் பயன்பாடுகளில்... “தமிழ்நெட் 1999”`, and the p.276→277 closing sequence: Speaker → Opposition Leader `திரு. சோ. பாலகிருஷ்ணன்` → Kalaignar reply ending with the `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay and `(மேசையைத் தட்டும் ஒலி).`
+The final Batch 3 was first staged separately, then merged into canonical `transcript.md`. The merged transcript preserves the p.270→271 continuation beginning with `கணினிப் பயன்பாடுகளில்... “தமிழ்நெட் 1999”`, and the p.276→277 closing sequence: Speaker → Opposition Leader `திரு. சோ. பாலகிருஷ்ணன்` → Kalaignar reply ending with the `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay and `(மேசையைத் தட்டும் ஒலி).`
 
-The canonical file contains no `source-page: 278`; Speech 9 was not entered. The temporary Batch-3 staging file was removed only after the canonical merge and boundary check.
+## Gate D — passed
 
-Tamil status is **transcribed, not verified**. Gate C completion is not a Gate-E fidelity claim.
+A separate full-speech structural completeness/page-marker audit was performed on the canonical Tamil after Gate C closure.
+
+Findings:
+
+- expected source range: **241–277**;
+- source-page markers present: **37**;
+- marker sequence: **241, 242, ... 277** in strict monotonic order;
+- missing pages: **0**;
+- duplicate/reordered page sections: **0**;
+- opening `உரை : 8` / `நாள் : 29.04.1999` / source speaker label: **present**;
+- Dr. A. Chellakumar intervention and Kalaignar return: **structurally present**;
+- p.276→277 Speaker → `திரு. சோ. பாலகிருஷ்ணன்` → Kalaignar closing sequence: **present**;
+- `source-page: 278`: **absent**;
+- Speech-9 heading/date (`உரை : 9`, `8.05.2000`): **absent**;
+- unresolved `REVIEW` markers: **0**.
+
+Gate D establishes completeness and structure only. It does **not** establish character-by-character fidelity against the scan.
+
+Tamil status after Gate D: **reviewed, not verified**.
 
 ## Next audit
 
-The exact next activity is **Gate D — full-speech completeness/page-marker audit**. It must check all scan pages 241–277 for one-to-one, monotonic source-page representation, opening/closing boundaries, speaker/intervention completeness, and absence of p.278 spillover. Gate E begins only after Gate D passes.
+Proceed with **Gate E — strict Tamil visual/source-fidelity verification**, beginning with **scan pp.241–245 / printed pp.240–244**. The rendered scan remains controlling. Apply and log only source-supported corrections; do not modernise or externally normalise the source.
 
 ## Translation status
 
-English is blocked. It must not begin until the complete Speech-8 Tamil transcription passes Gate D and Gate E.
+English remains blocked. It must not begin until Gate E has passed for the complete Speech-8 Tamil layer.
