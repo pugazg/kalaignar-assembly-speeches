@@ -38,9 +38,8 @@ Speech 8 Tamil processing is complete through Gate E. English Gate F is in progr
 - Gate-E cumulative definite corrections applied: **29**.
 - Unresolved Tamil readings: **0**.
 - Tamil status: **verified against scan**.
-- English Gate F canonical working translation: **Batches 1–6 merged — source/scan pp.241–270 / printed pp.240–269, 30/37 pages**.
-- Gate F Batch 7 translation: **complete in staging — source/scan pp.271–275 / printed pp.270–274, 5 pages; canonical merge pending**.
-- Batch-7 unresolved translation questions: **0**.
+- English Gate F canonical working translation: **Batches 1–7 merged — source/scan pp.241–275 / printed pp.240–274, 35/37 pages**.
+- Unresolved translation questions: **0**.
 - English Gate G: **not started**.
 
 Gate F is translated only from the final verified Tamil and preserves source-page correspondence, parliamentary context, interventions, names, figures, technical/company names, printed English, humour/context markers and source historical/factual claims without silent correction. English remains **not verified** until the complete 37-page Gate F translation passes the separate Gate G fidelity review.
@@ -49,13 +48,12 @@ Batch 7 covers `தமிழ்நெட் 1999`, Unicode Consortium and `Tamil
 
 ## Exact next activity
 
-Safely merge [`gate-f-batch7-pp271-275.md`](./gate-f-batch7-pp271-275.md) into canonical [`translation.md`](./translation.md), advance canonical Gate F to **35/37 pages through source p.275**, remove the staging file after a clean merge, and then proceed to the **final Gate F Batch 8 — source/scan pp.276–277 / printed pp.275–276**.
+Proceed with the **final Gate F Batch 8 — source/scan pp.276–277 / printed pp.275–276** from the final verified Tamil. Preserve the remaining High Court quotation, `8-ஏ`, the `டாமின்` passage, Kalaignar's closing, the Speaker → `திரு. சோ. பாலகிருஷ்ணன்` intervention, all figures, and the `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay. After these two pages are canonically merged, Gate F may be complete at 37/37, but Gate G remains separate.
 
 ## Files
 
 - [`transcript.md`](./transcript.md) — complete and verified Tamil source layer.
-- [`translation.md`](./translation.md) — canonical Gate-F English working translation, currently 30/37 pages.
-- [`gate-f-batch7-pp271-275.md`](./gate-f-batch7-pp271-275.md) — completed Batch-7 English translation awaiting canonical merge.
+- [`translation.md`](./translation.md) — canonical Gate-F English working translation, currently 35/37 pages.
 - [`metadata.json`](./metadata.json) — source mapping and processing status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and audit notes.
 - [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D and Gate-E audit trail.
