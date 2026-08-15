@@ -47,7 +47,7 @@ Boundary checks passed:
 - p.277 exact Speech-8 ending after final `(மேசையைத் தட்டும் ஒலி).`;
 - p.278 begins Speech 9 and is excluded.
 
-The final canonical transcript commit diff was inspected and contains only the archival status-note change and the p.276 source-supported Speaker-line correction. No unrelated Tamil change was introduced. fileciteturn663file0L3-L12
+The final canonical transcript commit diff was inspected and contains only the archival status-note change and the p.276 source-supported Speaker-line correction. No unrelated Tamil change was introduced.
 
 ### Final Gate-E state
 
