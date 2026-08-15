@@ -1,16 +1,16 @@
-# Next-chat prompt — Speech 8 Gate D / 29.04.1999
+# Next-chat prompt — Speech 8 Gate E Batch 1 / 29.04.1999
 
 Continue the Kalaignar Assembly Speeches archival project in `pugazg/kalaignar-assembly-speeches`.
 
-Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or modify Speech 7.** Speech 8 Gate C is now complete at 37/37 pages. Continue the existing Speech-8 entry; do not create duplicates.
+Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or modify Speech 7.** Speech 8 Gate C is complete at 37/37 pages and Gate D has passed. Continue the existing Speech-8 entry; do not create duplicates.
 
 ## Mandatory startup
 
 1. Read `docs/ARCHIVAL_WORKFLOW.md` completely.
 2. Read `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` completely.
 3. Read `sources/2007-industrial-speeches/mapping.md`.
-4. Fetch the current canonical `speeches/1999/1999-04-29-industries-debate/transcript.md` before auditing.
-5. Use the controlling scan as the authority. OCR/extracted text is only a helper.
+4. Fetch the current canonical `speeches/1999/1999-04-29-industries-debate/transcript.md` before editing.
+5. Use the controlling rendered scan as the authority for Tamil. OCR/extracted text is only a helper.
 
 ## Speech 8 locked mapping
 
@@ -24,30 +24,35 @@ Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or mo
 
 ## Current Speech-8 state
 
-- Gate C Batch 1: **complete — scan pp.241–255 / printed pp.240–254**
-- Gate C Batch 2: **complete — scan pp.256–270 / printed pp.255–269**
-- Gate C Batch 3: **complete and merged — scan pp.271–277 / printed pp.270–276**
-- Gate C: **complete — 37/37 pages**
-- canonical transcript merge commit: `d0fd3ea71f29838299eb5d7008e4149b7399498c`
-- Tamil status: **transcribed, not verified**
-- unresolved/`[REVIEW]` readings: **0**
-- Gate D: **not started**
+- Gate C: **complete — 37/37 pages, scan pp.241–277 / printed pp.240–276**
+- Gate D: **passed**
+- Gate-D marker audit: **37 markers, exact sequence 241–277, no gaps/duplicates/reordering**
+- opening heading/date/speaker: **intact**
+- p.252 Dr. A. Chellakumar intervention and Kalaignar return: **intact**
+- p.276→277 Speaker → `திரு. சோ. பாலகிருஷ்ணன்` → Kalaignar closing sequence: **intact**
+- p.278 / Speech-9 spillover: **0**
+- unresolved `REVIEW` readings: **0**
+- Tamil status: **reviewed, not verified**
 - Gate E: **not started**
 - English: **blocked**
 
-The temporary Batch-3 staging file has been removed after successful canonical merge. The canonical transcript ends on p.277 with the Opposition Leader salt-pan intervention and Kalaignar's reply ending:
+Gate-D checkpoints:
 
-`உப்பளத் தொழில் மாத்திரம் அல்ல, தமிழகத்தில் அப்பளத் தொழிலும் கெடாமல் இந்த அரசு பார்த்துக் கொள்ளும். (மேசையைத் தட்டும் ஒலி).`
+- metadata: `624f648da37e6752458b9f6a79184375692c78f1`
+- README: `8907fac46c8621db8d58ac1a6ace756057e03ad1`
+- source notes: `294b8b357bf647ce981cb71b57d8034ee5a7a390`
+- verification log: `49986497b5825bd75b8522ac94fb5f5d296ebd2a`
 
-There is no `source-page: 278` and no Speech-9 spillover.
+Gate D is a structural completeness audit only. **Do not describe Tamil as verified until Gate E passes all 37 pages.**
 
-## Exact next activity — Gate D full-speech Tamil completeness/page-marker audit
+## Exact next activity — Gate E Batch 1
 
-1. Audit canonical `transcript.md` across **scan pp.241–277 / printed pp.240–276**.
-2. Confirm all **37** page markers are present exactly once and in strict monotonic sequence **241 through 277**, with no gaps, duplicates or reordering.
-3. Confirm the opening has `உரை : 8`, `நாள் : 29.04.1999`, and the source speaker label.
-4. Confirm the p.277 ending is the complete Speaker → `திரு. சோ. பாலகிருஷ்ணன்` → Kalaignar salt-pan closing sequence.
-5. Confirm there is no `source-page: 278`, `உரை : 9`, or `8.05.2000` in the Speech-8 transcript.
-6. Check that printed speaker changes/interventions are structurally represented and count any unresolved markers.
-7. If Gate D passes, update metadata, README, source notes, verification log, handover and this prompt. Keep Tamil **not verified**; Gate E remains required.
-8. Do not begin English. Gate F remains blocked until Gate E passes.
+1. Visually verify **scan pp.241–245 / printed pp.240–244** directly against the controlling scan.
+2. Compare the canonical Tamil page by page, checking words and individual characters, names and initials, numerals, dates, monetary values/units, printed English, punctuation, speaker labels and cross-page transitions.
+3. Preserve source spelling and period forms exactly; do not modernise, improve or correct the source from outside knowledge.
+4. Apply only definite scan-supported corrections to canonical `transcript.md`.
+5. Log every correction with source page and before→after form in `verification-log.md`.
+6. Record any unresolved reading explicitly rather than guessing.
+7. Update metadata, README, source notes, verification log, handover and this prompt after the bounded batch.
+8. After Batch 1, continue Gate E from **scan p.246**.
+9. Keep English blocked until Gate E has passed all **37/37 pages**.
