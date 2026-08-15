@@ -71,25 +71,53 @@ One definite source-supported correction was applied: p.267 `அப்போத�
 
 ### Batch 7 — scan pp.271–275 / printed pp.270–274
 
-All five pages were visually verified directly against the controlling rendered scan. One definite source-supported correction was applied to canonical `transcript.md`:
+One definite source-supported correction was applied to canonical `transcript.md`:
 
 1. scan p.274: `ஏராளமான தொகைகளை லஞ்சம் செய்து கொண்டு` → `ஏராளமான தொகைகளை வசூல் செய்து கொண்டு`.
 
-The scan clearly prints `வசூல் செய்து கொண்டு` in the Tamil summary immediately before the first printed High Court English quotation. Scan pp.271–273 and p.275 required no additional definite correction. Checks covered `தமிழ்நெட் 1999`, Unicode Consortium, `Tamil Virtual University`, the 1,200-school / 48,000-student passage, Rule 39, Government Order No. 97 dated `8-3-1993`, acreage/lease/loss figures and the printed High Court English quotations through p.275.
+Scan pp.271–273 and p.275 required no additional definite correction. Checks covered `தமிழ்நெட் 1999`, Unicode Consortium, `Tamil Virtual University`, the 1,200-school / 48,000-student passage, Rule 39, Government Order No. 97 dated `8-3-1993`, acreage/lease/loss figures and the printed High Court English quotations through p.275.
+
+Boundary checks p.270→271 and p.275→276 are intact. Unresolved readings: **0**. Canonical checkpoint: `d3106a9d88ed7d5c801398b14e1705eff446a18c`.
+
+### Final Batch 8 visual review — scan pp.276–277 / printed pp.275–276
+
+Both remaining Speech-8 pages were visually re-read directly against rendered images from the controlling scan.
+
+One definite source-supported correction was identified:
+
+1. scan p.276 Speaker line: `மாண்புமிகு எதிர்க்கட்சித் தலைவர்.` → `மாண்புமிகு எதிர்க் கட்சித் தலைவர்.`
+
+The scan clearly prints the spaced source form `எதிர்க் கட்சித் தலைவர்`. This should be preserved rather than normalised to the joined form.
+
+Source-sensitive checks included:
+
+- the printed High Court quotation beginning `.... the money due to the Government has been siphoned off...`;
+- the Tamil transition back to the industries discussion;
+- `8-ஏ` and the auction-method passage;
+- the `டாமின்` public-auction passage;
+- Kalaignar's `வணக்கம்` closing and applause marker;
+- the Speaker and `திரு. சோ. பாலகிருஷ்ணன்` labels;
+- the complete salt-pan intervention on p.277, including `5,000-க்கு மேற்பட்ட ஏக்கரில்`, `29 ரூபாய்`, `429 ரூபாய்` and `ஒன்றரை கோடி ரூபாய்`;
+- Kalaignar's final reply and the `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay;
+- the final `(மேசையைத் தட்டும் ஒலி).`.
 
 Boundary checks:
 
-- p.270→271: `வேர்ல்ட்டெல்` / internetisation passage → `தமிழ்நெட் 1999` — intact;
-- p.275→276: `மேலும், நீதிபதி, தன்னுடைய தீர்ப்பில் தொடர்ந்து சொல்கிறார் :` → printed English `.... the money due to the Government has been siphoned off...` — intact.
+- p.275→276: judgment lead-in → printed English quotation — intact;
+- p.276→277: Opposition Leader intervention continues from `இங்கே` → `குறிப்பிட விரும்புகிறேன்.` — intact;
+- p.277 closes Speech 8 after the final applause marker;
+- scan p.278 was separately rendered and begins `உரை : 9`, `நாள் : 8.05.2000`, confirming no Speech-9 spillover.
 
-Batch-7 unresolved readings: **0**. The canonical commit diff was inspected after the merge and contains only the archival status-note update plus this source-supported p.274 correction; no unrelated Tamil change was introduced. Canonical Batch-7 transcript checkpoint: `d3106a9d88ed7d5c801398b14e1705eff446a18c`.
+Batch-8 unresolved readings: **0**.
 
-Current Gate-E verified range: **scan pp.241–275 / printed pp.240–274 — 35/37 pages**. Cumulative definite Gate-E corrections: **28**. Tamil remains **reviewed, not fully verified**.
+Because the p.276 correction has not yet been merged into canonical `transcript.md`, final Batch 8 is recorded in [`gate-e-batch8-pp276-277.md`](./gate-e-batch8-pp276-277.md) as a completed visual review **pending canonical merge**.
 
-## Next audit
+Current canonical Gate-E verified range therefore remains **scan pp.241–275 / printed pp.240–274 — 35/37 pages**, with **28** applied corrections. Once the staged correction is merged, Gate E can close at **37/37** with **29** cumulative corrections and Tamil can be marked `verified`.
 
-Proceed with the final **Gate E Batch 8 — scan pp.276–277 / printed pp.275–276**. Verify the exact Speech-8 close and confirm no p.278 / Speech-9 spillover. Apply and log only source-supported corrections; do not modernise or externally normalise the source.
+## Next audit action
+
+Merge the staged p.276 Speaker-line correction into canonical `transcript.md`, update the archival note for complete Gate-E coverage, validate the diff, and then mark Gate E `passed` / Tamil `verified`. Remove the staging file after successful canonical closure. English may be unblocked only after that closure; Gate F should begin in a separate subsequent activity.
 
 ## Translation status
 
-English remains blocked. It must not begin until Gate E has passed for the complete Speech-8 Tamil layer.
+English remains blocked until the final Batch-8 correction is canonically merged and Gate E passes.
