@@ -36,29 +36,28 @@ Speech 9 is in **Gate C — Tamil first-pass transcription**.
 - Gate C Batch 2: **complete — source/scan pp.283–287 / printed pp.282–286**.
 - Gate C Batch 3: **complete — source/scan pp.288–292 / printed pp.287–291**.
 - Gate C Batch 4: **complete — source/scan pp.293–297 / printed pp.292–296**.
-- Cumulative Gate-C coverage: **20/26 pages, source pp.278–297 / printed pp.277–296**.
-- Next source page: **298**.
+- Gate C Batch 5: **complete — source/scan pp.298–302 / printed pp.297–301**.
+- Cumulative Gate-C coverage: **25/26 pages, source pp.278–302 / printed pp.277–301**.
+- Next and final Gate-C source page: **303**.
 - Unresolved first-pass readings: **0**.
 - Tamil status: **in-progress; not verified**.
 - Gate D completeness/page-marker audit: **not started**.
 - Gate E strict visual source-fidelity verification: **not started**.
 - English Gate F: **blocked until the complete Tamil passes Gates D and E**.
 
-Batch 1 preserves source-sensitive forms rather than reconciling them externally. In particular, source p.280 prints `22-4-200` in one occurrence and `22-4-2000` later in the same passage, and pp.280–281 print `1,14,893` before later giving `1,41,893 + 15,000 = 1,56,893`.
+Batches 1–4 preserve the documented source-sensitive forms and internal inconsistencies without external reconciliation, including p.280 `22-4-200`, pp.280–281 investment figures, the printed *Economic Times*, *Industrial Herald* and *Economic and Political Weekly* passages, p.286 `இந்தக் கேமிரா கழுவும்போது`, the Polaris letter's `more then 100% per year`, Nanguneri/Tanflora material, the p.293 `இன்னொன்றியில் சென்னை வர்த்தக மையம்;` reading, and the p.296 printed date `24-3-2001`.
 
-Batch 2 preserves the printed-English *Industrial Herald* quotation on p.283, the exact p.284 `e-Mail / e-Commerce / e-Medicine / e-Value / e-biz / e-business-- / e-Stock / e-Education` sequence, the clearly printed but unusual p.286 wording `இந்தக் கேமிரா கழுவும்போது`, and the High Court quotation beginning on p.287.
+Batch 5 continues the Ariyalur/TANCEM privatisation discussion and preserves the source's printed English Counter Affidavit passages, the Tamil paraphrase `மூன்றாவது பிரதிவாதியான டான்செம் நிறைவேற்றவில்லை` without reconciling it to the printed English, the exact 1991-92 through 1999-2000 Ariyalur cement-production figures, and the p.302 `அம்புஜா` / Rs.85 / Rs.145 / 50% tender discussion. A post-write high-resolution reread produced four definite Gate-C corrections: p.298 `பழனிசாமி ஏற்றுக்கொள்கிறாரோ` → `பழனிசாமி ஏற்றுக் கொள்கிறாரோ`; `டி. மணி ஏற்றுக்கொள்கிறாரோ` → `டி. மணி ஏற்றுக் கொள்கிறாரோ`; and p.300 `தயார்செய்வதன்` / `தயார்செய்து` → `தயார் செய்வதன்` / `தயார் செய்து`. These are first-pass corrections, not Gate-E verification.
 
-Batch 3 continues and closes that High Court quotation, preserves the *Economic and Political Weekly* / `Raising Global Competitiveness of Tamil Nadu's IT Industry` passage, the printed Polaris letter including the source form `more then 100%`, the TIDCO/TCIL/ஃப்யூஜிகுரா optic-fibre project, Perundurai Growth Centre, TIDEL, Export Promotion Industrial Park, Nanguneri `Special Economic Zone`, and the source-specific `இரண்டு கிழங்கட்டை` wording on p.292.
-
-Batch 4 continues the Tanflora Infrastructure Park sentence and preserves the source forms and figures for the Chennai Trade Centre, `Bio-Technology`, `industrial gases`, Saint-Gobain, Pennar refinery, the Vasavi integrated textile project, Kanjamalai/Vediyappan-malai iron-ore plan and Namtha Textiles. Source p.296 explicitly prints the internally anachronistic date **`24-3-2001`** inside this speech dated `8.05.2000`; it is retained exactly for later Gate-E verification rather than reconciled externally. Source p.297 also preserves the repeated assurance that the Ariyalur cement plant **`விற்காது, விற்காது`** and ends mid-sentence after `ஆனால், தினமும்`.
+Source p.302 ends mid-sentence after exactly `வெட்டுத் தீர்மானங்களுடைய எண்ணிக்கை 111. நம்பர்`.
 
 ## Exact next activity
 
-Proceed with **Gate C Batch 5 — source/scan pp.298–302 / printed pp.297–301**. Continue directly from the unfinished sentence at the end of source p.297 (`ஆனால், தினமும் ...`). Preserve all source wording, figures, printed English, speaker changes and page markers. Do not begin English translation.
+Proceed with **Gate C final Batch 6 — source/scan p.303 / printed p.302 only**. Continue directly from `111. நம்பர்`, transcribe the final Speech-9 page from the rendered scan, confirm the closing boundary/ornament, and do **not** include scan p.304, which begins Speech 10. If p.303 completes cleanly, Gate C becomes 26/26 pages and the Tamil status may advance to `transcribed` (not verified); Gate D is then the next stage. Do not begin English translation.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — Gate-C Tamil first-pass transcript, currently pp.278–297.
+- [`transcript.md`](./transcript.md) — Gate-C Tamil first-pass transcript, currently pp.278–302.
 - [`metadata.json`](./metadata.json) — source mapping and current processing status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and source-sensitive observations.
 - [`verification-log.md`](./verification-log.md) — batch-level audit trail; Tamil is not yet verified.
