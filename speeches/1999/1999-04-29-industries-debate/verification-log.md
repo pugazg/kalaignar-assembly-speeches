@@ -38,45 +38,11 @@ Before Gate C started, the locked boundaries were re-confirmed directly from the
 - pages: **7**;
 - canonical source-page range: **271–277**;
 - unresolved/`REVIEW` readings: **0**;
-- staged first, then merged safely into canonical `transcript.md`;
 - canonical Gate-C completion checkpoint: `d0fd3ea71f29838299eb5d7008e4149b7399498c`.
-
-### Gate-C closure checks
-
-After the final merge:
-
-- complete canonical range: **scan pp.241–277 / printed pp.240–276 — 37/37 pages**;
-- p.270→271 continuation is intact;
-- p.271 begins the `தமிழ்நெட் 1999` passage;
-- p.276→277 Speaker → `திரு. சோ. பாலகிருஷ்ணன்` → Kalaignar closing exchange is intact;
-- the final line retains the `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay and `(மேசையைத் தட்டும் ஒலி).`;
-- `source-page: 278` is absent;
-- Speech-9 material is absent;
-- temporary Batch-3 staging file was removed after successful canonical merge.
 
 ## Gate D — Tamil completeness/page-marker audit
 
-**Passed.** This was a separate structural audit of the complete canonical Tamil layer, not a Gate-E visual fidelity pass.
-
-Audit findings:
-
-- expected scan pages: **241–277**;
-- expected page count: **37**;
-- canonical source-page markers: **37**;
-- exact marker sequence: **241 through 277**, strictly monotonic;
-- missing source-page sections: **0**;
-- duplicate source-page sections: **0**;
-- reordered source-page sections: **0**;
-- opening contains `உரை : 8`, `நாள் : 29.04.1999`, and `மாண்புமிகு கலைஞர் மு. கருணாநிதி`;
-- printed intervention at p.252 by `டாக்டர் அ. செல்லக்குமார்` and Kalaignar's return are structurally represented;
-- final p.276→277 transition retains `மாண்புமிகு பேரவைத் தலைவர்` → `திரு. சோ. பாலகிருஷ்ணன்` → `மாண்புமிகு கலைஞர் மு. கருணாநிதி`;
-- p.277 final `உப்பளத் தொழில் / அப்பளத் தொழில்` line and `(மேசையைத் தட்டும் ஒலி).` are present;
-- `source-page: 278`: **0 occurrences**;
-- `உரை : 9`: **0 occurrences**;
-- `8.05.2000`: **0 occurrences**;
-- unresolved `REVIEW` markers: **0**.
-
-Gate-D result: **passed**.
+**Passed.** The complete canonical Tamil layer contains all 37 source-page markers in exact sequence 241–277, with no gaps, duplicates, reordering or Speech-9 spillover. Opening, interventions and final p.277 closing structure are intact. Unresolved `REVIEW` markers: **0**.
 
 Tamil status after Gate D: **reviewed, not verified**. Character-level and source-fidelity verification still requires Gate E.
 
@@ -88,16 +54,6 @@ Tamil status after Gate D: **reviewed, not verified**. Character-level and sourc
 
 Pages checked directly against rendered scan images: **5/5**.
 
-Checks included:
-
-- wording and individual characters;
-- names and speaker labels;
-- dates and numerals;
-- monetary values and units;
-- printed English/Latin-script text;
-- punctuation where legible;
-- p.241→242 and p.244→245 cross-page continuations.
-
 Definite corrections applied to canonical `transcript.md`:
 
 1. p.241 `நிதிமன்றத்திலே` → `நீதிமன்றத்திலே`;
@@ -108,25 +64,58 @@ Definite corrections applied to canonical `transcript.md`:
 
 Batch-1 canonical correction checkpoint: `201b5eff42382bcb6192475be75e01a6865ed921`.
 
-Batch-1 result:
+Batch-1 result: verified **5/37** pages; corrections **5**; unresolved readings **0**.
 
-- verified scan range: **241–245**;
-- verified printed range: **240–244**;
-- verified pages: **5/37**;
-- corrections applied: **5**;
-- unresolved readings: **0**;
-- scan p.242 definite corrections: **0**;
-- scan p.245 definite corrections: **0**.
+### Batch 2 — scan pp.246–250 / printed pp.245–249
+
+Pages checked directly against rendered scan images: **5/5**.
+
+Checks covered wording and individual characters, names, numerals and figures, punctuation where legible, printed English/Latin-script forms, and the p.245→246, p.249→250 and p.250→251 transitions.
+
+Definite corrections applied to canonical `transcript.md`:
+
+1. p.246 `ஊழல்களை எல்லாம்` → `ஊழல்களை யெல்லாம்`;
+2. p.246 `எடுத்து வருகிறார்` → `எடுத்து வருகின்றார்`;
+3. p.247 `முதலமைச்சர்கூட` → `முதலமைச்சரேகூட`;
+4. p.247 `நாளாக` → `நானாக`;
+5. p.248 `மிக வெற்று` → `மிகை வெற்று`;
+6. p.249 `அது தொடர்பான தேவையான கச்சாப் பொருட்கள்` → `அது தொடர்ந்து நடப்பதற்குத் தேவையான கச்சாப்பொருட்கள்`.
+
+Scan p.250 definite corrections: **0**.
+
+Boundary/continuation checks:
+
+- p.245→246: `அது ஊழல் விசாரிப்புக் குழுவிற்கு` → `அனுப்பப்பட்டு...` — intact;
+- p.249→250: `தமிழகத்திற்குத் தேவையான, நல்ல வேலைகளை` → `நல்லத் தொழிற்சாலைகளை...` — intact;
+- p.250→251: `10.72 சதவிகிதம் கட்டுமானம் உள்ள குஜராத்தில்` → `கரும்பு விலை ஒரு டன் 648 ரூபாய்.` — intact.
+
+Batch-2 canonical correction checkpoint: `bcddfa24237941596f5acaab0531974b783e7b77`.
+
+Batch-2 result:
+
+- verified scan range: **246–250**;
+- verified printed range: **245–249**;
+- verified pages in batch: **5/5**;
+- corrections applied in batch: **6**;
+- unresolved readings: **0**.
+
+### Gate-E cumulative state after Batch 2
+
+- verified scan range: **241–250**;
+- verified printed range: **240–249**;
+- verified pages: **10/37**;
+- cumulative definite corrections: **11**;
+- unresolved readings in verified range: **0**.
 
 Tamil status remains **reviewed, not fully verified**. Gate E must cover all 37 pages before Tamil can be marked verified.
 
 ## Gates not yet complete
 
-- Gate E strict Tamil visual/source-fidelity verification: **in progress — 5/37 pages verified**.
+- Gate E strict Tamil visual/source-fidelity verification: **in progress — 10/37 pages verified**.
 - Gate F English translation: **blocked**.
 - Gate G English fidelity verification: **not started**.
 - Gate H release/index: **not started**.
 
 ## Next activity
 
-Continue **Gate E Batch 2 — scan pp.246–250 / printed pp.245–249**. Compare the canonical Tamil directly against the rendered scan and apply/log only definite source-supported corrections. Do not begin English.
+Continue **Gate E Batch 3 — scan pp.251–255 / printed pp.250–254**. Compare canonical Tamil directly against the rendered scan and apply/log only definite source-supported corrections. Do not begin English.
