@@ -59,7 +59,15 @@
     "gate_e_corrections_applied": 25,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
-    "completion_note": "Gate D passed. Gate E Batches 1-4 visually verified scan pp.241-260 / printed pp.240-259 directly against the controlling scan. Batch 4 applied two additional source-supported corrections: p.256 அமைந்தது→அமைந்து; p.257 டி.பி. பெட்ரோ புராடக்ட்ஸ்→டி,பி, பெட்ரோ புராடக்ட்ஸ். Scan pp.258-260 required no definite word/character correction. The p.255→256 and p.260→261 continuations were checked and remain intact. Cumulative Gate-E corrections: 25. No unresolved readings remain in the verified range. Tamil remains reviewed, not fully verified; Gate E continues at scan p.261."
+    "pending_gate_e_batch": {
+      "scan_pages": "261-265",
+      "printed_pages": "260-264",
+      "visual_review_status": "complete",
+      "pending_canonical_corrections": 1,
+      "unresolved_readings": 0,
+      "staging_file": "gate-e-batch5-pp261-265.md"
+    },
+    "completion_note": "Gate D passed. Gate E Batches 1-4 are canonically verified through scan p.260 / printed p.259, with 25 corrections applied. Gate E Batch 5 scan pp.261-265 / printed pp.260-264 has been visually reviewed 5/5 against the controlling scan and found one definite correction, p.261 ஆட்டோமொபைல்→ஆட்டோ மொபைல், with no unresolved readings. That correction is staged but not yet merged into canonical transcript.md, so verified coverage remains 20/37 until the canonical merge is completed. English remains blocked."
   },
   "translation": {
     "language": "English",
