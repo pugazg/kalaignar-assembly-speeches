@@ -40,21 +40,38 @@ No Speech-8 or Speech-10 material belongs in the Speech-9 canonical entry.
 First-pass Tamil transcription completed for **scan/source pp.278–282 / printed pp.277–281**.
 
 - page markers present: **278, 279, 280, 281, 282**;
-- completed pages: **5/26**;
-- next scan/source page: **283**;
+- completed pages after Batch 1: **5/26**;
+- unresolved first-pass readings: **0**.
+
+Batch 1 ends mid-sentence on p.282 after `இந்த 1999-2000-ல்`.
+
+### Source-sensitive forms retained in Batch 1
+
+- source p.280 first prints the date as **`22-4-200`**, then later in the same paragraph prints **`22-4-2000`**;
+- source p.280 gives Tamil Nadu investment as **`1,14,893 கோடி ரூபாய்`**, while p.281 later prints **`1,41,893 + 15,000`** and total **`1,56,893 கோடி ரூபாய்`**;
+- source p.282 contains a multi-paragraph printed-English quotation from the *Economic Times* under `Exports in Tamil Nadu`; source grammar/capitalisation such as `one of the highly industrialised State of our Country` and `Country's exports` is retained as printed;
+- English industry labels embedded in p.281 (`handicrafts`, `coir`, `Readymade garments`, `Textiles`, `Computer Software`, `Chemicals`, `Gems and Jewellery`, `Drugs`, `Leather and Leather Products`) are retained as source content rather than normalised.
+
+## Gate C — Batch 2
+
+First-pass Tamil transcription completed for **scan/source pp.283–287 / printed pp.282–286**.
+
+- cumulative source-page markers present: **278–287**, once and in order;
+- cumulative completed pages: **10/26**;
+- next scan/source page: **288**;
 - unresolved first-pass readings: **0**;
 - Tamil status: **in-progress; not verified**.
 
-The batch ends mid-sentence on p.282 after `இந்த 1999-2000-ல்`, so Batch 2 must resume from source p.283 without supplying or reconstructing the continuation from outside the scan.
+Batch 2 begins with the exact continuation of p.282: `1890 கோடி ரூபாய்.` It ends on p.287 inside the High Court quotation after `தமிழக அரசின்மீது இந்த நீதிமன்றம்`; Batch 3 must continue that quotation directly from source p.288.
 
-## Source-sensitive forms retained in Batch 1
+### Source-sensitive forms retained in Batch 2
 
-These are observations for later Gate-E checking, not editorial corrections:
-
-- source p.280 first prints the date as **`22-4-200`**, then later in the same paragraph prints **`22-4-2000`**; the first-pass transcript preserves both forms exactly as printed;
-- source p.280 gives Tamil Nadu investment as **`1,14,893 கோடி ரூபாய்`**, while p.281 later prints **`1,41,893 + 15,000`** and total **`1,56,893 கோடி ரூபாய்`**; no attempt is made to reconcile the internal figures;
-- source p.282 contains a multi-paragraph printed-English quotation from the *Economic Times* under `Exports in Tamil Nadu`; source grammar/capitalisation such as `one of the highly industrialised State of our Country` and `Country's exports` is retained as printed;
-- English industry labels embedded in p.281 (`handicrafts`, `coir`, `Readymade garments`, `Textiles`, `Computer Software`, `Chemicals`, `Gems and Jewellery`, `Drugs`, `Leather and Leather Products`) are retained as source content rather than normalised.
+- p.283 reproduces the printed-English *Industrial Herald* passage beginning `Now the third largest, the Tamil Nadu economy...` and the source's Tamil explanation without outside factual correction;
+- p.284 preserves the exact sequence `e-Mail. e-Commerce, e-Medicine, e-Value, e-biz.`, followed by the source form `e-business--, e-Stock, e-Education`;
+- p.284 preserves source capitalisation differences between `Internet` and later `internet`;
+- p.286 clearly prints the semantically unusual wording **`இந்தக் கேமிரா கழுவும்போது இருட்டான இடங்களையும் வெளிச்சமாக்கும்.`**; it is retained as source wording rather than silently repaired;
+- p.286 retains printed technical forms `V.S.N.L.`, `DoT`, `Thermal Energy Storage System`, `Venture Capital Fund` and the date `4-ந் தேதியன்று`;
+- p.287 preserves `தமிழ்நெட் 1999`, `Tamil Virtual University`, the 1,200-school / 600+600 / 48,000-student figures, and the High Court quotation continuation boundary.
 
 ## Verification status
 
