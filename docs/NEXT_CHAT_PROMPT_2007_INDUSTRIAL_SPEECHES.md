@@ -1,15 +1,15 @@
-# Next-chat prompt — Speech 8 Gate F Batch 2 / 29.04.1999
+# Next-chat prompt — Speech 8 Gate F Batch 3 / 29.04.1999
 
 Continue the Kalaignar Assembly Speeches archival project in `pugazg/kalaignar-assembly-speeches`.
 
-Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or modify Speech 7.** Speech 8 Tamil Gates C–E are complete and Tamil is verified against the controlling scan. Gate F Batch 1 is complete. Continue the existing Speech-8 entry; do not create duplicates.
+Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or modify Speech 7.** Speech 8 Tamil Gates C–E are complete and Tamil is verified against the controlling scan. Gate F Batches 1–2 are complete. Continue the existing Speech-8 entry; do not create duplicates.
 
 ## Mandatory startup
 
 1. Read `docs/ARCHIVAL_WORKFLOW.md` completely.
 2. Read `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` completely.
 3. Read `sources/2007-industrial-speeches/mapping.md`.
-4. Read current `speeches/1999/1999-04-29-industries-debate/metadata.json`, `README.md`, canonical `transcript.md`, and `translation.md`.
+4. Read current `speeches/1999/1999-04-29-industries-debate/metadata.json`, `README.md`, `translation.md`, and canonical `transcript.md`.
 5. Use the **final verified Tamil** in canonical `transcript.md` as the sole textual source for English translation. Do not translate from OCR or an earlier draft.
 
 ## Speech 8 locked mapping
@@ -22,7 +22,7 @@ Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or mo
 - scan p.240 closes Speech 7
 - scan p.278 begins Speech 9 (`8.05.2000`)
 
-## Tamil state
+## Current Speech-8 state
 
 - Gate C: **complete — 37/37 pages**
 - Gate D: **passed**
@@ -30,38 +30,25 @@ Speech 7 (`14.05.1998`) is fully released through Gate H. **Do not restart or mo
 - Gate-E cumulative corrections: **29**
 - unresolved Tamil readings: **0**
 - Tamil status: **verified against scan**
-- canonical Gate-E completion checkpoint: `7ddf8745a4c3417750c0c7130ae20edb8b4cca62`
-
-## English Gate F state
-
-Batch 1 is complete in `translation.md`:
-
-- translated source/scan pages: **241–245**
-- translated printed pages: **240–244**
-- translated pages: **5/37**
-- Batch-1 checkpoint: `60eb41ae9973f0968ae19231798efad2d61cd225`
+- Gate F: **in progress — Batches 1–2 complete, source pp.241–250 / printed pp.240–249, 10/37 pages**
+- next Gate-F source page: **251**
 - unresolved translation questions: **0**
-- English status: **in-progress, not verified**
 - Gate G: **not-started**
-- next source page: **246**
 
-Batch 1 preserves the source-page sections, opening speaker/date, Ranganathan/Sivaraman/Subbarayan material, TANCEM/TWAD/L-1 figures, Tiruppur interim-stay passage, Singapore/Malaysia/Colachel material, Ford/MoU discussion and all context markers.
+## Exact next activity — Gate F Batch 3
 
-Locked cross-page continuation: source p.245 ends with the Pugalur complaint being sent to the corruption inquiry committee; p.246 continues that the inquiry is proceeding and that action will be taken against responsible officers.
-
-## Exact next activity — Gate F Batch 2
-
-Translate **source/scan pp.246–250 / printed pp.245–249** from the final verified Tamil and append them to the current `translation.md`.
+Translate **scan/source pp.251–255 / printed pp.250–254** from the final verified Tamil into faithful English.
 
 Translation rules:
 
-1. Preserve source-page correspondence and page boundaries using the existing `### Source page N` convention.
-2. Continue the p.245→246 sentence naturally and faithfully.
-3. Preserve argumentative sequence and parliamentary context.
-4. Preserve speaker labels/interventions, laughter/desk-thumping markers and humour.
-5. Keep names, figures, dates, monetary values, technical/company names and printed English consistent with the verified Tamil.
-6. Do not silently correct historical/factual claims made in the speech.
-7. Do not stylistically revise Batch 1 unless a definite translation error is found.
-8. Record genuine translation uncertainty explicitly instead of guessing.
-9. Stop exactly at source p.250 and record the p.250→251 continuation.
-10. If clean, update metadata/README/handover/prompt to **10/37 pages**, next source page **251**. English remains **in-progress, not verified** until all 37 pages complete Gate F and then pass separate Gate G.
+1. Preserve source-page correspondence and page boundaries.
+2. Preserve argumentative sequence and parliamentary context.
+3. Preserve speaker labels/interventions, laughter/applause markers and cross-page continuations.
+4. Keep names, initials, figures, dates, monetary values, percentages, technical/company names and printed English consistent with the verified Tamil.
+5. Do not silently correct historical/factual claims in the speech.
+6. Do not modernise or improve the source's meaning.
+7. Where Tamil contains printed English, retain it appropriately rather than mistranslating it back into a different form.
+8. Record any genuine translation uncertainty explicitly rather than guessing.
+9. After Batch 3, update metadata/README/handover/prompt truthfully with completed English source pages and next page. English remains **in-progress, not verified** until all 37 pages finish Gate F and then pass separate Gate G.
+
+Batch 2 ends on source p.250 mid-way through the State-wise sugarcane comparison, after Gujarat is introduced with a 10.72 per cent sugar-recovery figure. Source p.251 continues with Gujarat's price and then Tamil Nadu's comparison.
