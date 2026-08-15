@@ -32,28 +32,28 @@ Speech 7 (`உரை : 7`, `14.05.1998`, canonical ID `1998-05-14-industries-deb
 
 ## English status
 
-- Gate F canonical working translation: **Batches 1–3 merged**
-- canonical translated source/scan pages: **241–255**
-- canonical corresponding printed pages: **240–254**
-- canonical completed English pages: **15/37**
-- Gate F Batch 4: **translation complete in staging — source pp.256–260 / printed pp.255–259 — 5 pages**
-- Batch-4 staging file: `speeches/1999/1999-04-29-industries-debate/gate-f-batch4-pp256-260.md`
-- Batch-4 staging commit: `57279f22d23da9f285890db6b64ce8325eafea23`
-- Batch-4 unresolved translation questions: **0**
+- Gate F canonical working translation: **Batches 1–4 merged**
+- canonical translated source/scan pages: **241–260**
+- canonical corresponding printed pages: **240–259**
+- canonical completed English pages: **20/37**
+- Gate F Batch 5: **translation complete in staging — source pp.261–265 / printed pp.260–264 — 5 pages**
+- Batch-5 staging file: `speeches/1999/1999-04-29-industries-debate/gate-f-batch5-pp261-265.md`
+- Batch-5 staging commit: `966a186de3014496649fc23b29b704504d163366`
+- Batch-5 unresolved translation questions: **0**
 - English status: **in progress, not verified**
 - Gate G: **not started**
 
 Gate F uses only the final verified Tamil and preserves source-page correspondence, interventions, names, figures, embedded printed English, humour/context and source historical/factual claims without silent correction.
 
-Batch 4 covers pp.256–260: Alangulam cement factory; Ranipet and Hosur SIPCOT industrial complexes; 1989–90 industries; the 1991–96 and 1996–99 investment/employment comparison; Hyundai, Mitsubishi Lancer, Ford and the Irungattukottai component-factory list; S.K.M. Egg Products / Mayilsamy Gounder–Mayilanandam passage; Thapar DuPont; and Asian Lighting. The translation deliberately preserves source-supported anomalies rather than correcting them, including p.257 `Rs. 1.125 crore` followed by p.258 `Rs. 1,125 crore`.
+Batch 5 covers pp.261–265: Karur Yarn Links, Taurus Novelties, Sriram Auto Components, Ramanasekar Steels, the Salem SISCOL and Basin Bridge G.M.R. Vasavi projects; Saint-Gobain and the Irungattukottai project list; biotechnology/TIDEL/Pennar/SISCOL/Taramani projects; Ennore L.N.G. and Jayankondam power projects; total investment/employment figures; and the C.M.I.E. industrial-investment ranking through the `Economic Times` lead-in on p.265. Source-internal figures and forms are preserved rather than silently reconciled.
 
-## Exact next activity — merge Batch 4, then begin Batch 5
+## Exact next activity — merge Batch 5, then begin Batch 6
 
-1. Fetch current canonical `translation.md` immediately before editing.
-2. Merge the completed staged Batch 4 sections for source pp.256–260 after source p.255.
-3. Update only the Gate-F working note from 15/37 through p.255 to **20/37 through p.260**.
-4. Inspect the resulting commit/diff for accidental changes to Batches 1–3.
-5. If clean, reconcile metadata and README to canonical Gate F **20/37**, completed source pp.241–260 / printed pp.240–259, next source page **261**, unresolved translation questions **0**, and remove `pending_gate_f_batch`.
-6. Delete `gate-f-batch4-pp256-260.md` after successful canonical merge.
-7. Then proceed to **Gate F Batch 5 — source/scan pp.261–265 / printed pp.260–264**.
+1. Fetch current canonical `translation.md` and staged `gate-f-batch5-pp261-265.md` immediately before editing.
+2. Merge source-page sections **261–265** after canonical source p.260.
+3. Update only the Gate-F working note from 20/37 through p.260 to **25/37 through p.265**.
+4. Inspect the resulting commit/diff for accidental changes to Batches 1–4.
+5. If clean, reconcile metadata and README to canonical Gate F **25/37**, completed source pp.241–265 / printed pp.240–264, next source page **266**, unresolved translation questions **0**, and remove the pending-batch record.
+6. Delete `gate-f-batch5-pp261-265.md` after successful canonical merge.
+7. Then proceed to **Gate F Batch 6 — source/scan pp.266–270 / printed pp.265–269**.
 8. Do not mark English verified; Gate G remains separate after Gate F completes all 37 pages.
