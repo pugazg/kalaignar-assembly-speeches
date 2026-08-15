@@ -34,8 +34,9 @@ Speech 9 is in **Gate C — Tamil first-pass transcription**.
 
 - Gate C Batch 1: **complete — source/scan pp.278–282 / printed pp.277–281**.
 - Gate C Batch 2: **complete — source/scan pp.283–287 / printed pp.282–286**.
-- Cumulative Gate-C coverage: **10/26 pages, source pp.278–287 / printed pp.277–286**.
-- Next source page: **288**.
+- Gate C Batch 3: **complete — source/scan pp.288–292 / printed pp.287–291**.
+- Cumulative Gate-C coverage: **15/26 pages, source pp.278–292 / printed pp.277–291**.
+- Next source page: **293**.
 - Unresolved first-pass readings: **0**.
 - Tamil status: **in-progress; not verified**.
 - Gate D completeness/page-marker audit: **not started**.
@@ -44,15 +45,17 @@ Speech 9 is in **Gate C — Tamil first-pass transcription**.
 
 Batch 1 preserves source-sensitive forms rather than reconciling them externally. In particular, source p.280 prints `22-4-200` in one occurrence and `22-4-2000` later in the same passage, and pp.280–281 print `1,14,893` before later giving `1,41,893 + 15,000 = 1,56,893`.
 
-Batch 2 preserves the printed-English *Industrial Herald* quotation on p.283, the exact p.284 `e-Mail / e-Commerce / e-Medicine / e-Value / e-biz / e-business-- / e-Stock / e-Education` sequence, the clearly printed but unusual p.286 wording `இந்தக் கேமிரா கழுவும்போது`, and the High Court quotation beginning on p.287. Source p.287 ends mid-quotation after `தமிழக அரசின்மீது இந்த நீதிமன்றம்`, so p.288 must continue it directly from the scan.
+Batch 2 preserves the printed-English *Industrial Herald* quotation on p.283, the exact p.284 `e-Mail / e-Commerce / e-Medicine / e-Value / e-biz / e-business-- / e-Stock / e-Education` sequence, the clearly printed but unusual p.286 wording `இந்தக் கேமிரா கழுவும்போது`, and the High Court quotation beginning on p.287.
+
+Batch 3 continues and closes that High Court quotation, preserves the *Economic and Political Weekly* / `Raising Global Competitiveness of Tamil Nadu's IT Industry` passage, the printed Polaris letter including the source form `more then 100%`, the TIDCO/TCIL/ஃப்யூஜிகுரா optic-fibre project, Perundurai Growth Centre, TIDEL, Export Promotion Industrial Park, Nanguneri `Special Economic Zone`, and the source-specific `இரண்டு கிழங்கட்டை` wording on p.292. Source p.292 ends mid-sentence after `Tanflora Infrastructure Park; 24.85 கோடி ரூபாய் முதலீட்டில் மலரைப் பதப்படுத்தும் தொழில் பூங்கா ஒன்று`.
 
 ## Exact next activity
 
-Proceed with **Gate C Batch 3 — source/scan pp.288–292 / printed pp.287–291**. Continue directly from the unfinished High Court quotation at the end of source p.287. Preserve all source wording, figures, printed English, speaker changes and page markers. Do not begin English translation.
+Proceed with **Gate C Batch 4 — source/scan pp.293–297 / printed pp.292–296**. Continue directly from the unfinished Tanflora sentence at the end of source p.292. Preserve all source wording, figures, printed English, speaker changes and page markers. Do not begin English translation.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — Gate-C Tamil first-pass transcript, currently pp.278–287.
+- [`transcript.md`](./transcript.md) — Gate-C Tamil first-pass transcript, currently pp.278–292.
 - [`metadata.json`](./metadata.json) — source mapping and current processing status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and source-sensitive observations.
 - [`verification-log.md`](./verification-log.md) — batch-level audit trail; Tamil is not yet verified.
