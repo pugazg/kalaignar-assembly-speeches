@@ -62,14 +62,35 @@ Canonical correction commit: `badea74b3e3bf9e3c561a75550560caec8ef2bab`.
 
 The commit diff was inspected and contains only this one English fidelity correction; no other page or Tamil text was changed.
 
+## Batch 2 — source pp.246–250 / printed pp.245–249
+
+**Status: reviewed and passed with no definite fidelity correction required.**
+
+The batch was checked page-by-page against the final verified Tamil. Confirmed items include:
+
+- the p.245→246 continuation of the Pugalur corruption-inquiry passage, the promise of action against responsible officers and the desk-thumping marker;
+- Thiru Shanmugam's Pollachi industrially-backward-taluk request and the criteria/Question Hour explanation;
+- Mohamed Ismail's drumstick-factory request, the Bhagyaraj inauguration joke with laughter marker, and the Kudaganar sand-quarry / Karur District Collector Thiru Iyer passage;
+- Dr. Chellakumar's Best and Crompton / `Urban Land Ceiling` allegation, the ten-month-file and *Thillana Mohanambal* mystery reference, `surplus vacant land`, C. Subramaniam, the 22-storey Congress-grounds building and the Cabinet-decision explanation;
+- the p.248 Best & Crompton continuation, `L.N.G.`, the 13 names, Siemens, UNOCAL, C.M.S., GRASIM, WOODSIDE, the consortium explanation and Union Minister Valappadi Ramamurthi passage;
+- Thiru Santhanam / Forward Bloc and Tmt. Ponnammal references to the Alanganallur public-sector factory;
+- the p.249 discussion of giving the factory to a capable private operator, Thiru Velayudhan's Kanyakumari rope-twisting request and laughter marker, the rubber/stretching humour, and Tmt. Ponnammal's jasmine-scent / Singapore / sari passage with desk-thumping;
+- the p.249→250 continuation into jobs and factory-establishment plans;
+- the Rs.1,000 sugarcane-price / election-manifesto discussion, Tiruchi pre-election resolution, Opposition-versus-ruling-party remark, tripartite-talks manifesto quotation and State-wise comparison;
+- the p.250 figures: Andhra Pradesh 10.22% / Rs.630, Karnataka 10.54% / Rs.730, Maharashtra 11.11% / Rs.680, and Gujarat 10.72%, with the sentence correctly continuing onto source p.251.
+
+No omission, addition, speaker/context loss, numerical mismatch, cross-page break error or definite meaning shift requiring a canonical English edit was found in this range. The current canonical `translation.md` therefore remains unchanged for Batch 2; the reviewed translation blob at this checkpoint is `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`.
+
 ## Current Gate G findings
 
-- Reviewed English source pages: **241–245, 5/37 pages**.
+- Reviewed English source pages: **241–250, 10/37 pages**.
+- Reviewed printed pages: **240–249**.
 - Missing/duplicate/reordered pages in reviewed range: **0**.
-- Unresolved translation questions in reviewed range: **0**.
-- Definite Gate-G fidelity corrections applied: **1**.
-- Next review source page: **246**.
+- Unresolved translation questions / fidelity issues in reviewed range: **0**.
+- Definite Gate-G fidelity corrections applied cumulatively: **1**.
+- Batch-2 corrections: **0**.
+- Next review source page: **251**.
 - Overall Gate G status: **in progress**.
 - English overall status: **complete, not yet verified**.
 
-The next activity is **Gate G Batch 2 — source/scan pp.246–250 / printed pp.245–249**. English must not be marked fully verified until all 37 pages pass Gate G.
+The next activity is **Gate G Batch 3 — source/scan pp.251–255 / printed pp.250–254**. English must not be marked fully verified until all 37 pages pass Gate G.
