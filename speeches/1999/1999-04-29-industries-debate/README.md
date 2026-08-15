@@ -39,21 +39,23 @@ Speech 8 Tamil processing is complete through Gate E. English Gate F is in progr
 - Unresolved Tamil readings: **0**.
 - Tamil status: **verified against scan**.
 - English Gate F canonical working translation: **Batches 1–6 merged — source/scan pp.241–270 / printed pp.240–269, 30/37 pages**.
-- Unresolved translation questions: **0**.
+- Gate F Batch 7 translation: **complete in staging — source/scan pp.271–275 / printed pp.270–274, 5 pages; canonical merge pending**.
+- Batch-7 unresolved translation questions: **0**.
 - English Gate G: **not started**.
 
 Gate F is translated only from the final verified Tamil and preserves source-page correspondence, parliamentary context, interventions, names, figures, technical/company names, printed English, humour/context markers and source historical/factual claims without silent correction. English remains **not verified** until the complete 37-page Gate F translation passes the separate Gate G fidelity review.
 
-Batch 6 covers the printed `Economic Times` and `Times of India` quotations on export-oriented units and credit-deposit ratios; the Jones Long Wootten / Chennai passage; the 13-9-1998 `Vikatan` editorial; the information-technology development account; the 23,000 / 13,000 / 22,000 figures; the separate IT department from 5-10-1998; the `I.T. Task Force`, `I.T.Policy`, Siruseri 1,000-acre IT park, `I.T. Super Highway`, TCS/Wipro/Infosys/Polaris and the Worldtel 1½-lakh-employment passage. Printed English is retained as printed rather than silently rewritten.
+Batch 7 covers `தமிழ்நெட் 1999`, Unicode Consortium and `Tamil Virtual University`; the 1,200-school / approximately 48,000-student computer-training scheme and court remarks; the transition to the granite-lease case; Rule 39 / Government Order No. 97 dated 8-3-1993; 125 leases across 9 districts / 196.80 hectares / Rs.95 crore loss; and the High Court passages through source p.275. Printed English High Court quotations are retained as printed rather than silently rewritten.
 
 ## Exact next activity
 
-Proceed with **Gate F Batch 7 — source/scan pp.271–275 / printed pp.270–274** from the final verified Tamil.
+Safely merge [`gate-f-batch7-pp271-275.md`](./gate-f-batch7-pp271-275.md) into canonical [`translation.md`](./translation.md), advance canonical Gate F to **35/37 pages through source p.275**, remove the staging file after a clean merge, and then proceed to the **final Gate F Batch 8 — source/scan pp.276–277 / printed pp.275–276**.
 
 ## Files
 
 - [`transcript.md`](./transcript.md) — complete and verified Tamil source layer.
 - [`translation.md`](./translation.md) — canonical Gate-F English working translation, currently 30/37 pages.
+- [`gate-f-batch7-pp271-275.md`](./gate-f-batch7-pp271-275.md) — completed Batch-7 English translation awaiting canonical merge.
 - [`metadata.json`](./metadata.json) — source mapping and processing status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and audit notes.
 - [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D and Gate-E audit trail.
