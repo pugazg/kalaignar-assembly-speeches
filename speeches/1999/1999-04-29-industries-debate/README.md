@@ -28,41 +28,52 @@
 
 இந்த உரையில் scan page = printed page + 1. Scan p.240 closes Speech 7; scan p.278 begins Speech 9 (`உரை : 9`, `8.05.2000`).
 
-## Current status
+## Release status
 
-Speech 8 Tamil processing is complete and verified through Gate E. Gate F English translation and Gate G English fidelity verification are also complete. The speech is now ready for Gate H index/release work.
+**Speech 8 is release-ready. Gates C–H are complete.**
 
-- Gate C: **complete — 37/37 pages, scan pp.241–277 / printed pp.240–276**.
-- Gate D completeness/page-marker audit: **passed**.
-- Gate E strict visual source-fidelity verification: **passed — 37/37 pages**.
-- Gate-E cumulative definite corrections applied: **29**.
-- Unresolved Tamil readings: **0**.
-- Tamil status: **verified against scan**.
-- English Gate F: **complete — source/scan pp.241–277 / printed pp.240–276, 37/37 pages**.
-- Gate-F unresolved translation questions: **0**.
-- English Gate G: **complete — source pp.241–277 / printed pp.240–276, 37/37 pages**.
-- Gate-G definite fidelity corrections applied cumulatively: **1**.
-- Gate-G unresolved fidelity issues: **0**.
-- English overall status: **verified against final Tamil**.
-- Speech-8 ending confirmed at source p.277; p.278 begins Speech 9. **No Speech-9 spillover.**
+- Gate C: complete — **37/37 Tamil pages**.
+- Gate D: **passed**.
+- Gate E: **passed — 37/37 Tamil pages verified against scan**.
+- Gate-E corrections: **29**.
+- Tamil unresolved readings: **0**.
+- Gate F: **complete — 37/37 English pages**.
+- Gate G: **passed — English verified against final verified Tamil**.
+- Gate-G corrections: **1**.
+- Unresolved translation/fidelity questions: **0**.
+- Gate H: **passed — canonical presentation and repository indexes reconciled**.
 
-Gate G Batch 1 applied one definite correction on source p.245: the over-literal `You are taking the nameplate and going away with it.` was corrected to `You are taking the credit for it.` for the Tamil phrase `நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள்`.
+## Gate E — canonical Tamil verification
 
-Gate G Batches 2–7 reviewed source pp.246–275 and required no further canonical English correction.
+Gate E directly re-read all 37 pages against the controlling scan and applied **29** definite source-supported corrections. The final Batch-8 correction on source p.276 changed the Speaker line from `மாண்புமிகு எதிர்க்கட்சித் தலைவர்.` to the source form `மாண்புமிகு எதிர்க் கட்சித் தலைவர்.` Scan p.277 required no correction. The exact p.277 close and p.278 Speech-9 boundary were confirmed.
 
-Gate G Batch 8 reviewed source pp.276–277 and also required **no canonical English correction**. It reconfirmed the printed p.276 High Court quotation, the `8-ஏ` / 8-A granite-rule amendment, `டாமின்` / TAMIN public-auction passage, Kalaignar's closing, the Speaker → Thiru So. Balakrishnan intervention, the p.277 5,000 acres / Rs.29 / Rs.429 / Rs.1½ crore figures and the final `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay. The locked p.277→278 boundary was reconfirmed.
+Tamil status: **verified against scan**.
 
-The canonical English blob after Gate G remains `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`; no Batch-8 edit was necessary.
+## English verification
 
-## Exact next activity
+Gate F translated all **37/37** source-page sections only from the final verified Tamil. Gate G then checked the complete English against that Tamil and passed with **1 definite fidelity correction** and **0 unresolved issues**.
 
-Proceed to **Gate H — index/release for Speech 8**. Update `data/speeches.json` and the repository root speech index/release surfaces as appropriate, ensure the released entry points to the verified Tamil and English artifacts, and verify that all statuses, source paths and page ranges agree with `metadata.json`, `source-notes.md` and the locked anthology mapping. Do not begin Speech 9 until Speech 8 Gate H is complete unless priority is explicitly changed.
+The only canonical English correction was on source p.245: `You are taking the nameplate and going away with it.` → `You are taking the credit for it.` for `நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள்`.
+
+Batches 2–8 required no further canonical English edit. The final review reconfirmed the p.276 High Court quotation, `8-ஏ` / 8-A, `டாமின்` / TAMIN, Kalaignar's closing, the Speaker → Thiru So. Balakrishnan intervention, source p.277's 5,000 acres / Rs.29 / Rs.429 / Rs.1½ crore figures, the `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay, and the locked p.277→278 boundary.
+
+See [`translation-review.md`](./translation-review.md) for the Gate-G review record.
+
+## Gate H — canonical release
+
+The verified English layer now follows the verified Tamil source layer in canonical [`transcript.md`](./transcript.md), matching the repository's completed-speech presentation. `data/speeches.json` and the root speech index include Speech 8 as Tamil/English verified. Source ranges, status fields and canonical path have been reconciled across the entry.
+
+The former Gate-F [`translation.md`](./translation.md) working copy is retained only as a pointer to the canonical English in `transcript.md`, avoiding two independently editable released copies.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — complete and verified Tamil source layer.
-- [`translation.md`](./translation.md) — complete and Gate-G-verified English translation.
-- [`translation-review.md`](./translation-review.md) — completed Gate-G fidelity-review record for all 37 pages.
-- [`metadata.json`](./metadata.json) — source mapping and completed Tamil/English processing status.
-- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and audit notes.
-- [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D and Gate-E audit trail.
+- [`transcript.md`](./transcript.md) — canonical verified Tamil followed by verified English.
+- [`translation.md`](./translation.md) — retired Gate-F pointer to canonical English.
+- [`translation-review.md`](./translation-review.md) — Gate-G full-speech English fidelity review.
+- [`metadata.json`](./metadata.json) — verified Tamil/English and Gate-H release status.
+- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and release closure.
+- [`verification-log.md`](./verification-log.md) — Gate-C through Gate-H audit trail.
+
+## Next anthology unit
+
+Speech 8 is complete. The next mapped unit is **உரை : 9 / 8.05.2000**, canonical ID `2000-05-08-industries-debate`, scan pp.278–303 / printed pp.277–302. Do not alter this verified Speech-8 entry when beginning Speech 9.
