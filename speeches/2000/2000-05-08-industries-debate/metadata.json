@@ -41,11 +41,11 @@
     "method": "manual first-pass transcription directly from rendered scan images",
     "status": "in-progress",
     "full_speech_scan_pages": "278-303",
-    "completed_scan_pages": "278-282",
-    "completed_printed_pages": "277-281",
-    "completed_page_count": 5,
+    "completed_scan_pages": "278-287",
+    "completed_printed_pages": "277-286",
+    "completed_page_count": 10,
     "total_page_count": 26,
-    "next_scan_page": 283,
+    "next_scan_page": 288,
     "page_markers_audited_for_completed_batch": true,
     "full_speech_completeness_audit": false,
     "full_speech_page_marker_audit": false,
@@ -55,7 +55,7 @@
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C Batch 1 transcribed source/scan pp.278-282 / printed pp.277-281 directly from the rendered scan. Five source-page markers are present once and in order. No unresolved reading marker was required in this batch. This remains a first-pass transcription and is not verified until later Gates D and E pass."
+    "completion_note": "Gate C Batches 1-2 transcribed source/scan pp.278-287 / printed pp.277-286 directly from the rendered scan. Ten source-page markers are present once and in order. Batch 2 continued the unfinished p.282 sentence through source p.287 and ends mid-quotation for continuation on p.288. No unresolved reading marker is currently required. This remains a first-pass transcription and is not verified until later Gates D and E pass."
   },
   "translation": {
     "language": "English",
