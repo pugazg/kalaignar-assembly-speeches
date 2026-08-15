@@ -39,21 +39,23 @@ Speech 8 Tamil processing is complete through Gate E. English Gate F is in progr
 - Unresolved Tamil readings: **0**.
 - Tamil status: **verified against scan**.
 - English Gate F canonical working translation: **Batches 1–4 merged — source/scan pp.241–260 / printed pp.240–259, 20/37 pages**.
-- Unresolved translation questions: **0**.
+- Gate F Batch 5 translation: **complete in staging — source/scan pp.261–265 / printed pp.260–264, 5 pages; canonical merge pending**.
+- Batch-5 unresolved translation questions: **0**.
 - English Gate G: **not started**.
 
 Gate F is translated only from the final verified Tamil and preserves source-page correspondence, parliamentary context, interventions, names, figures, technical/company names, printed English, humour/context markers and source historical/factual claims without silent correction. English remains **not verified** until the complete 37-page Gate F translation passes the separate Gate G fidelity review.
 
-Batch 4 covers the Alangulam cement factory; Ranipet and Hosur SIPCOT industrial complexes; the 1989–90 factory list; the source's 1991–96 and 1996–99 investment/employment comparison; and the Irungattukottai/Tiruvallur/Maraimalai Nagar industrial list through the Asian Lighting entry on p.260. The source's internally unusual figures/forms, including p.257 `1.125 crore` followed by p.258 `1,125 crore`, are preserved rather than silently reconciled.
+Batch 5 covers the industrial list from Karur Yarn Links through the Saint-Gobain/Covema/Reynolds entries; the biotechnology, TIDEL/Pennar/SISCOL/Taramani project list; Ennore L.N.G. and Jayankondam power projects; investment/employment totals; and the C.M.I.E. industrial-investment ranking through the `Economic Times` lead-in on p.265. Source-internal forms and figures are preserved rather than reconciled.
 
 ## Exact next activity
 
-Proceed with **Gate F Batch 5 — source/scan pp.261–265 / printed pp.260–264** from the final verified Tamil.
+Safely merge [`gate-f-batch5-pp261-265.md`](./gate-f-batch5-pp261-265.md) into canonical [`translation.md`](./translation.md), advance canonical Gate F to **25/37 pages through source p.265**, remove the staging file after a clean merge, and then proceed to **Gate F Batch 6 — source/scan pp.266–270 / printed pp.265–269**.
 
 ## Files
 
 - [`transcript.md`](./transcript.md) — complete and verified Tamil source layer.
 - [`translation.md`](./translation.md) — canonical Gate-F English working translation, currently 20/37 pages.
+- [`gate-f-batch5-pp261-265.md`](./gate-f-batch5-pp261-265.md) — completed Batch-5 English translation awaiting canonical merge.
 - [`metadata.json`](./metadata.json) — source mapping and processing status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and audit notes.
 - [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D and Gate-E audit trail.
