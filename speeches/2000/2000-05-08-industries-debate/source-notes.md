@@ -58,11 +58,9 @@ First-pass Tamil transcription completed for **scan/source pp.283–287 / printe
 
 - cumulative source-page markers present: **278–287**, once and in order;
 - cumulative completed pages: **10/26**;
-- next scan/source page: **288**;
-- unresolved first-pass readings: **0**;
-- Tamil status: **in-progress; not verified**.
+- unresolved first-pass readings: **0**.
 
-Batch 2 begins with the exact continuation of p.282: `1890 கோடி ரூபாய்.` It ends on p.287 inside the High Court quotation after `தமிழக அரசின்மீது இந்த நீதிமன்றம்`; Batch 3 must continue that quotation directly from source p.288.
+Batch 2 begins with the exact continuation of p.282: `1890 கோடி ரூபாய்.` It ends on p.287 inside the High Court quotation after `தமிழக அரசின்மீது இந்த நீதிமன்றம்`.
 
 ### Source-sensitive forms retained in Batch 2
 
@@ -72,6 +70,29 @@ Batch 2 begins with the exact continuation of p.282: `1890 கோடி ரூ�
 - p.286 clearly prints the semantically unusual wording **`இந்தக் கேமிரா கழுவும்போது இருட்டான இடங்களையும் வெளிச்சமாக்கும்.`**; it is retained as source wording rather than silently repaired;
 - p.286 retains printed technical forms `V.S.N.L.`, `DoT`, `Thermal Energy Storage System`, `Venture Capital Fund` and the date `4-ந் தேதியன்று`;
 - p.287 preserves `தமிழ்நெட் 1999`, `Tamil Virtual University`, the 1,200-school / 600+600 / 48,000-student figures, and the High Court quotation continuation boundary.
+
+## Gate C — Batch 3
+
+First-pass Tamil transcription completed for **scan/source pp.288–292 / printed pp.287–291**.
+
+- cumulative source-page markers present: **278–292**, once and in order;
+- cumulative completed pages: **15/26**;
+- next scan/source page: **293**;
+- unresolved first-pass readings: **0**;
+- Tamil status: **in-progress; not verified**.
+
+Batch 3 begins by completing the p.287 High Court quotation. It ends on p.292 mid-sentence after `Tanflora Infrastructure Park; 24.85 கோடி ரூபாய் முதலீட்டில் மலரைப் பதப்படுத்தும் தொழில் பூங்கா ஒன்று`; Batch 4 must continue directly from source p.293.
+
+### Source-sensitive forms retained in Batch 3
+
+- p.288 preserves the High Court quotation's wording `கவனம் கொள்ளும் என்று நம்பிக்கை கொள்கிறது` and the Tamil internet-research-centre reference under Dr. ஆனந்த கிருஷ்ணன்;
+- p.288 preserves the 34 / 562 / 58 software-company figures, `வேர்ல்ட் டெல்`, 13,000 community internet centres and 1 இலட்சத்து 50 ஆயிரம் employment figure;
+- pp.288–289 preserve the *Economic and Political Weekly* article title `Raising Global Competitiveness of Tamil Nadu's IT Industry`, the names `நிருபம் பாஜ்பாய், நவி ரட்ஜிவ்`, `Intellectual Power House`, and the source wording `அடிப்படை யுத்தியாக`;
+- p.289 preserves the source form `தொடங்கப்பட்ட இருக்கின்ற` in the lead-in to the industrial-project list;
+- p.290 reproduces the Polaris chairman's printed English letter exactly, including the source grammar `more then 100% per year` and the absence of a printed closing quotation mark on the page;
+- p.290 retains `TIDCO`, `TCIL`, `ஃப்யூஜிகுரா`, `Optic Fibre Telecom Cables`, `Perundurai Growth Centre`, and the source wording `வைக்கவிரும்புகிறேன்`;
+- p.291 retains `Condoms`, `Technical Products`, `Export Promotion Industrial Park`, and `Special Economic Zone` as printed English forms;
+- p.292 preserves the rhetorical source wording `இரண்டு கிழங்கட்டை இருந்தால் செத்துப் போய்விடும்`, the Nanguneri 9,000 / 55,000 / 8,000 crore figures, and the Tanflora continuation boundary.
 
 ## Verification status
 
