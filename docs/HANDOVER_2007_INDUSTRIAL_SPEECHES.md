@@ -32,28 +32,29 @@ Speech 7 (`உரை : 7`, `14.05.1998`, canonical ID `1998-05-14-industries-deb
 
 ## English status
 
-- Gate F canonical working translation: **Batches 1–4 merged**
-- canonical translated source/scan pages: **241–260**
-- canonical corresponding printed pages: **240–259**
-- canonical completed English pages: **20/37**
-- Gate F Batch 5: **translation complete in staging — source pp.261–265 / printed pp.260–264 — 5 pages**
-- Batch-5 staging file: `speeches/1999/1999-04-29-industries-debate/gate-f-batch5-pp261-265.md`
-- Batch-5 staging commit: `966a186de3014496649fc23b29b704504d163366`
-- Batch-5 unresolved translation questions: **0**
+- Gate F canonical working translation: **Batches 1–5 merged**
+- canonical translated source/scan pages: **241–265**
+- canonical corresponding printed pages: **240–264**
+- canonical completed English pages: **25/37**
+- canonical Batch-5 merge checkpoint: `336291291d27d3144c8c2fd89b70a3363b2d3371`
+- Gate F Batch 6: **translation complete in staging — source pp.266–270 / printed pp.265–269 — 5 pages**
+- Batch-6 staging file: `speeches/1999/1999-04-29-industries-debate/gate-f-batch6-pp266-270.md`
+- Batch-6 staging commit: `a7c2cb03b9964720a34b5ad9c313d3aaba9b2bb7`
+- Batch-6 unresolved translation questions: **0**
 - English status: **in progress, not verified**
 - Gate G: **not started**
 
 Gate F uses only the final verified Tamil and preserves source-page correspondence, interventions, names, figures, embedded printed English, humour/context and source historical/factual claims without silent correction.
 
-Batch 5 covers pp.261–265: Karur Yarn Links, Taurus Novelties, Sriram Auto Components, Ramanasekar Steels, the Salem SISCOL and Basin Bridge G.M.R. Vasavi projects; Saint-Gobain and the Irungattukottai project list; biotechnology/TIDEL/Pennar/SISCOL/Taramani projects; Ennore L.N.G. and Jayankondam power projects; total investment/employment figures; and the C.M.I.E. industrial-investment ranking through the `Economic Times` lead-in on p.265. Source-internal figures and forms are preserved rather than silently reconciled.
+Batch 6 covers pp.266–270: the printed `Economic Times` quotations on 100-per-cent export-oriented units, including the source form `As against 3,503, cent per cent EOUS...`; the `Times of India` CDR quotations and Tamil explanation; Jones Long Wootten / `International Real Estates` / Chennai passage; the 13-9-1998 `Vikatan` editorial; information-technology development; 23,000 engineering graduates / more than 13,000 IT-related graduates / more than 22,000 `Software Professionals`; the separate department from 5-10-1998; `I.T. Task Force`, `(I.T.Policy)`, Siruseri 1,000-acre hardware/software park, `(I.T. Super Highway)`, TCS/Wipro/Infosys/Polaris and Worldtel / one-lakh-fifty-thousand employment. Printed English is retained rather than silently corrected.
 
-## Exact next activity — merge Batch 5, then begin Batch 6
+## Exact next activity — merge Batch 6, then begin Batch 7
 
-1. Fetch current canonical `translation.md` and staged `gate-f-batch5-pp261-265.md` immediately before editing.
-2. Merge source-page sections **261–265** after canonical source p.260.
-3. Update only the Gate-F working note from 20/37 through p.260 to **25/37 through p.265**.
-4. Inspect the resulting commit/diff for accidental changes to Batches 1–4.
-5. If clean, reconcile metadata and README to canonical Gate F **25/37**, completed source pp.241–265 / printed pp.240–264, next source page **266**, unresolved translation questions **0**, and remove the pending-batch record.
-6. Delete `gate-f-batch5-pp261-265.md` after successful canonical merge.
-7. Then proceed to **Gate F Batch 6 — source/scan pp.266–270 / printed pp.265–269**.
+1. Fetch current canonical `translation.md` and staged `gate-f-batch6-pp266-270.md` immediately before editing.
+2. Merge source-page sections **266–270** after canonical source p.265.
+3. Update only the Gate-F working note from 25/37 through p.265 to **30/37 through p.270**.
+4. Inspect the resulting commit/diff for accidental changes to Batches 1–5.
+5. If clean, reconcile metadata and README to canonical Gate F **30/37**, completed source pp.241–270 / printed pp.240–269, next source page **271**, unresolved translation questions **0**, and remove the pending-batch record.
+6. Delete `gate-f-batch6-pp266-270.md` after successful canonical merge.
+7. Then proceed to **Gate F Batch 7 — source/scan pp.271–275 / printed pp.270–274**.
 8. Do not mark English verified; Gate G remains separate after Gate F completes all 37 pages.
