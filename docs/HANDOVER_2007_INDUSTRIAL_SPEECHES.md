@@ -6,71 +6,62 @@ Continue `pugazg/kalaignar-assembly-speeches` using the controlling scan `TVA_BO
 
 The scan image is authoritative for Tamil transcription and verification. English must be translated and fidelity-reviewed against the final verified Tamil, not OCR or earlier drafts. Follow `docs/ARCHIVAL_WORKFLOW.md`.
 
-## Released through Speech 7
+## Released through Speech 8
 
-Speech 7 (`உரை : 7`, `14.05.1998`, canonical ID `1998-05-14-industries-debate`) is fully released through Gate H. Do not alter it while processing Speech 8.
+Speeches 1–8 of the anthology are now fully released through Gate H. Do not restart or modify their verified Tamil/English content while processing the next speech.
 
-## Active unit — Speech 8
+Latest released unit:
 
 - source label: `உரை : 8`
 - printed date: `29.04.1999`
 - canonical ID: `1999-04-29-industries-debate`
 - PDF scan pages: **241–277**
 - printed pages: **240–276**
-- scan p.240 closes Speech 7
-- scan p.278 begins Speech 9 (`8.05.2000`)
+- Tamil Gate E: **passed — 37/37 pages**, 29 corrections, 0 unresolved readings
+- English Gate F: **complete — 37/37 pages**
+- English Gate G: **passed — 37/37 pages**, 1 correction, 0 unresolved issues
+- Gate H: **passed / released**
+- source p.278 begins Speech 9; there is **no Speech-9 spillover** in Speech 8
 
-## Tamil gates
+Speech-8 Gate-H release commits:
 
-- Gate C: **complete — 37/37 pages**
-- Gate D: **passed**
-- Gate E: **passed — 37/37 pages directly verified against scan**
-- cumulative Gate-E corrections: **29**
-- unresolved Tamil readings: **0**
-- Tamil status: **verified**
-- canonical Gate-E completion checkpoint: `7ddf8745a4c3417750c0c7130ae20edb8b4cca62`
+- canonical verified Tamil + verified English in `transcript.md`: `b632cc665da8f9dc1569c0cd756c345d4b1c82bb`
+- retired `translation.md` working-copy pointer: `77646efdc22ca29115cba4d031f015bb82e39e8d`
+- `data/speeches.json` index entry: `61631e199df7c2711266d3490e264bf2caab48ef`
+- root README/index: `8f84fd5ea6b1ca0f1df8f6a97f6a7da2845a2ac2`
+- released metadata: `0523d96d9ecc01b19701b1f42202bc55d612b0d5`
+- released Speech-8 README: `666e3725a3d22486441e92df4995eb8a3be2f22a`
+- reconciled source notes: `a256abf6d8e1adc02a2c36eba39bd5143d146968`
+- release verification log correction/final checkpoint: `b2aada6c9c9651fd123bdcd78afb26adf5535fa4`
 
-## English Gate F
+The only Gate-G correction in Speech 8 was source p.245: `You are taking the nameplate and going away with it.` → **`You are taking the credit for it.`** for `நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள்`.
 
-- Gate F: **complete — 37/37 pages**
-- translated source/scan pages: **241–277**
-- corresponding printed pages: **240–276**
-- unresolved Gate-F translation questions: **0**
-- final Gate-F canonical merge checkpoint: `ed79a499ecb56f8fb750f5ea9d946d1b2a71fde3`
-- Speech-8 boundary confirmed at source p.277; source p.278 begins Speech 9; **no spillover**
+## Next active unit — Speech 9
 
-## English Gate G
+- source label: `உரை : 9`
+- printed date: `8.05.2000`
+- ISO date: `2000-05-08`
+- canonical ID: `2000-05-08-industries-debate`
+- PDF scan pages: **278–303**
+- printed pages: **277–302**
+- page relationship for this anthology section: scan page = printed page + 1
+- scan p.277 closes Speech 8
+- scan p.278 begins Speech 9
+- scan p.303 closes Speech 9
+- scan p.304 begins Speech 10 (`23.08.2006`)
 
-- Gate G: **complete — 37/37 pages**
-- reviewed source/scan pages: **241–277**
-- reviewed printed pages: **240–276**
-- definite Gate-G fidelity corrections applied cumulatively: **1**
-- Batch-1 corrections: **1**
-- Batches 2–8 corrections: **0**
-- unresolved fidelity issues: **0**
-- next Gate-G source page: **none**
-- English overall status: **verified against final Tamil**
-- Gate-G review record: `speeches/1999/1999-04-29-industries-debate/translation-review.md`
-- final reviewed canonical English blob: `e80b5bfe9b1951d3780448cca3f8dfb3e9490b66`
+The structural map is already locked, but re-confirm the exact p.277→278 and p.303→304 boundaries from the controlling scan when beginning Speech 9. Do not infer content from the filename or from OCR.
 
-Batch 1 applied the only definite English fidelity correction on source p.245: Gate F's over-literal `You are taking the nameplate and going away with it.` was corrected to **`You are taking the credit for it.`** for `நீங்கள் பெயர்தட்டிக் கொண்டு போகிறீர்கள்`. Canonical correction commit: `badea74b3e3bf9e3c561a75550560caec8ef2bab`.
+## Exact next activity — Speech 9 Gate C startup / Batch 1
 
-Batches 2–7 required no further canonical English correction.
+1. Read `docs/ARCHIVAL_WORKFLOW.md`, this handover and `sources/2007-industrial-speeches/mapping.md` before writing.
+2. Inspect the repository first and confirm that `speeches/2000/2000-05-08-industries-debate/` has not already been started. If work exists, continue it rather than creating duplicates.
+3. Re-confirm the locked Speech-9 start/end boundaries from the controlling scan: p.278 start and p.303 end, with p.277/p.304 as adjacent boundary evidence.
+4. Create/reconcile the Speech-9 archival entry and source metadata only from the scan-supported facts.
+5. Begin Gate C with the first bounded Tamil transcription batch: **scan/source pp.278–282 / printed pp.277–281**.
+6. Preserve source wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English. Do not silently modernise or fact-correct.
+7. Record exact source-page markers, unresolved readings and continuation state after the batch.
+8. Do not begin English translation until Speech 9 has completed and passed Tamil Gates C–E.
+9. Do not alter released Speech 8.
 
-Final Batch 8 reviewed source pp.276–277 and also required no canonical English edit. It reconfirmed the continuing printed High Court quotation, `8-ஏ` / 8-A, `டாமின்` / TAMIN public-auction passage, Kalaignar's close, the Speaker → Thiru So. Balakrishnan intervention, 5,000 acres / Rs.29 / Rs.429 / Rs.1½ crore, and the final `உப்பளத் தொழில் / அப்பளத் தொழில்` wordplay. Source p.277 closes Speech 8; source p.278 begins Speech 9. Gate G therefore passed all **37/37** pages with **1 cumulative correction and 0 unresolved issues**.
-
-## Exact next activity — Gate H
-
-Release/index **Speech 8**.
-
-Requirements:
-
-1. Inspect the current Gate-H implementation used for released Speech 7 before writing.
-2. Read current `data/speeches.json` and the repository root `README.md` / speech index surfaces.
-3. Add or update only the Speech-8 release/index entry; do not alter Speech 7 content.
-4. Ensure the released entry agrees exactly with Speech-8 `metadata.json`, `source-notes.md`, locked mapping and verified statuses.
-5. Ensure Tamil and English artifacts are represented as verified, with source pp.241–277 / printed pp.240–276 and no Speech-9 spillover.
-6. Inspect all Gate-H commit diffs before marking Speech 8 released.
-7. Update Speech-8 README/metadata/release notes if the established Gate-H pattern requires a released status marker.
-8. Update this handover and `docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md` so the exact next activity becomes Speech 9 only after Gate H is complete.
-9. Do not begin Speech 9 until Speech 8 Gate H has been completed and audited unless the user explicitly changes priority.
+After Batch 1, the next source page should be **283** unless the actual source boundary/content requires a documented exception.
