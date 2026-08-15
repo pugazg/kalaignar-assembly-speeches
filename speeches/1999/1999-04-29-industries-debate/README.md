@@ -30,28 +30,34 @@
 
 ## Current status
 
-Speech 8 Gate C is complete and **Gate D has passed**.
+Speech 8 Gate C is complete, **Gate D has passed**, and Gate E strict visual verification is now in progress.
 
 - Gate C: **complete — 37/37 pages, scan pp.241–277 / printed pp.240–276**.
 - Gate D completeness/page-marker audit: **passed**.
-- Gate-D source-page sequence: **241–277, 37 markers, exactly once each, strict monotonic order**.
-- Opening: `உரை : 8`, `நாள் : 29.04.1999`, source speaker label — **present**.
-- Structural interventions: Dr. A. Chellakumar intervention/reply and final Speaker → `திரு. சோ. பாலகிருஷ்ணன்` → Kalaignar sequence — **present**.
-- `source-page: 278`, `உரை : 9`, `8.05.2000` spillover — **absent**.
-- unresolved/`REVIEW` readings: **0**.
-- Tamil status: **reviewed, not verified**.
-- Gate E strict Tamil source-fidelity verification: **next / not started**.
-- English Gate F: **blocked until Gate E passes**.
+- Gate-E Batch 1: **verified — scan pp.241–245 / printed pp.240–244 — 5/37 pages**.
+- Gate-E corrections applied in Batch 1: **5**.
+- Gate-E unresolved readings in verified range: **0**.
+- Tamil status: **reviewed, not fully verified**.
+- Gate E next scan page: **246**.
+- English Gate F: **blocked until Gate E passes all 37 pages**.
 
-Gate D is a structural completeness audit, not a page-by-page visual fidelity verification. The Tamil must still pass Gate E before it can be marked `verified`.
+Gate-E Batch 1 corrections applied to canonical `transcript.md`:
+
+1. p.241 `நிதிமன்றத்திலே` → `நீதிமன்றத்திலே`;
+2. p.243 first `பொது ஒப்பந்த முறையில்` → `பொது ஒப்பந்த முறைப்படி`;
+3. p.243 second `பொது ஒப்பந்த முறையில்` → `பொது ஒப்பந்த முறைப்படி`;
+4. p.243 `நிதிமன்ற இடைக்காலத் தடையை` → `நீதிமன்ற இடைக்காலத் தடையை`;
+5. p.244 `நடைபெற்றிருக்கிறது` → `நடைபெற்றிருக்கின்றது`.
+
+These are scan-supported source-fidelity corrections only; no outside normalisation was used. Pages 245 and the other compared text in pp.241–245 required no further definite correction.
 
 ## Exact next activity
 
-Proceed with **Gate E — strict Tamil visual/source-fidelity verification**, beginning with **scan pp.241–245 / printed pp.240–244**. Compare the canonical Tamil directly against the rendered scan page by page, checking wording/characters, names, figures, dates, English passages, punctuation, speaker labels and page transitions. Apply only scan-supported corrections, record each correction, and keep English blocked.
+Proceed with **Gate E Batch 2 — scan pp.246–250 / printed pp.245–249**. Compare canonical Tamil directly against the rendered scan, character by character where needed, applying and logging only definite source-supported corrections. Keep English blocked.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — complete Tamil source layer; Gate D passed; not yet Gate-E verified.
+- [`transcript.md`](./transcript.md) — complete Tamil source layer; Gate D passed; Gate E verified through scan p.245.
 - [`metadata.json`](./metadata.json) — source mapping and current audit status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and audit notes.
-- [`verification-log.md`](./verification-log.md) — Gate-C and Gate-D audit trail.
+- [`verification-log.md`](./verification-log.md) — Gate-C, Gate-D and Gate-E audit trail.
