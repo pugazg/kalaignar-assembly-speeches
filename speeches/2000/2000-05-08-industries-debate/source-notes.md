@@ -98,11 +98,9 @@ First-pass Tamil transcription completed for **scan/source pp.293–297 / printe
 
 - cumulative source-page markers present: **278–297**, once and in order;
 - cumulative completed pages: **20/26**;
-- next scan/source page: **298**;
-- unresolved first-pass readings: **0**;
-- Tamil status: **in-progress; not verified**.
+- unresolved first-pass readings: **0**.
 
-Batch 4 begins with the exact Tanflora continuation `ஓசூரில் 220 ஏக்கர்...` and ends on p.297 mid-sentence after `ஆனால், தினமும்`; Batch 5 must continue directly from source p.298.
+Batch 4 begins with the exact Tanflora continuation `ஓசூரில் 220 ஏக்கர்...` and ends on p.297 mid-sentence after `ஆனால், தினமும்`.
 
 ### Source-sensitive forms retained in Batch 4
 
@@ -118,6 +116,30 @@ Batch 4 begins with the exact Tanflora continuation `ஓசூரில் 220 �
 - the p.296→297 word split is preserved as `திருவண்ணா` / `மலையிலும்`;
 - p.297 preserves `பேசவில்லை யானாலும்`, the repeated `விற்காது, விற்காது`, and the categorical no-privatisation wording regarding Ariyalur cement plant / Tamil Nadu Cements divisions.
 
+## Gate C — Batch 5
+
+First-pass Tamil transcription completed for **scan/source pp.298–302 / printed pp.297–301**.
+
+- cumulative source-page markers present: **278–302**, once and in order;
+- cumulative completed pages: **25/26**;
+- next scan/source page: **303**;
+- unresolved first-pass readings: **0**;
+- Tamil status: **in-progress; not verified**.
+
+Batch 5 begins with the direct continuation `அறிக்கை வருகிறது; அம்மையாருடைய அறிக்கை.` and ends on p.302 mid-sentence after `வெட்டுத் தீர்மானங்களுடைய எண்ணிக்கை 111. நம்பர்`; final Batch 6 must continue directly from p.303.
+
+### Source-sensitive forms retained in Batch 5
+
+- p.298 preserves `ரைட்`, the public-ownership/privatisation argument, and the source's varying auxiliary spacing: `சுப்பராயன் ஏற்றுக்கொள்கிறாரோ`, `பழனிசாமி ஏற்றுக் கொள்கிறாரோ`, `டி. மணி ஏற்றுக் கொள்கிறாரோ`, `ஹேமச்சந்திரன் ஏற்றுக்கொள்கிறாரோ`;
+- p.299 preserves `'TANCEM'`, the printed date `12-12-1994`, the `Counter Affidavit` terminology and the printed English passage beginning `In the present situation, there is no shortage of cement in the market...`;
+- the source's Tamil explanation after that English quotation reads `மூன்றாவது பிரதிவாதியான டான்செம் நிறைவேற்றவில்லை.` Although this does not align literally with the English wording `does not exist`, it is retained exactly and is not externally reconciled;
+- p.300 preserves the printed English sentences `The Government of Tamil Nadu are not in a position to provide substantial funding due to the present financial situation and other priorities.` and `The Government have taken a decision that wherever possible the investment in the Public Sector Companies may be disinvested.`;
+- the p.300 So. Balakrishnan intervention prints `சிமெண்ட் தயார் செய்வதன் மூலமாக` and `குறைந்த விலையில் தயார் செய்து`; these source forms are retained;
+- p.301 preserves the Ariyalur cement-production sequence exactly: 1991-92 `3,33,000`, 1992-93 `4,13,000`, 1993-94 `4,34,000`, 1994-95 `3,77,000`, 1995-96 `4,29,000`, 1996-97 `4,63,000`, 1997-98 `5,38,000`, 1998-99 `4,87,000`, 1999-2000 `4,46,000` tons;
+- p.302 preserves `அம்புஜா`, the source's Rs.85 versus Rs.145 price comparison, `50 சதவிகிதத்திலே`, the Chief Secretary committee discussion, and the `111` cut-motion count.
+
+A focused post-write reread produced four definite first-pass corrections: p.298 `பழனிசாமி ஏற்றுக்கொள்கிறாரோ` → `பழனிசாமி ஏற்றுக் கொள்கிறாரோ`; `டி. மணி ஏற்றுக்கொள்கிறாரோ` → `டி. மணி ஏற்றுக் கொள்கிறாரோ`; p.300 `தயார்செய்வதன்` → `தயார் செய்வதன்`; and `தயார்செய்து` → `தயார் செய்து`. These are Gate-C corrections only, not Gate-E verification.
+
 ## Verification status
 
-Gate C is a first-pass transcription only. Gate D full-speech completeness/page-marker audit and Gate E strict visual source-fidelity verification have **not** begun. No English translation may begin until Tamil Gates C–E are complete.
+Gate C is a first-pass transcription only. One final mapped source page, p.303, remains. Gate D full-speech completeness/page-marker audit and Gate E strict visual source-fidelity verification have **not** begun. No English translation may begin until Tamil Gates C–E are complete.
