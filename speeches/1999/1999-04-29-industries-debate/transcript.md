@@ -2,7 +2,7 @@
 
 ## உரை : 8 — நாள் : 29.04.1999
 
-> **Archival transcription note:** This is a complete Tamil transcription from the controlling May 2007 scan. Gate C covers scan pp.241–277 / printed pp.240–276 (37/37 pages), and Gate D structural completeness has passed. Gate E strict visual source-fidelity verification is in progress; scan pp.241–270 / printed pp.240–269 have been visually verified. The scan image is authoritative; wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English are preserved as visible, with only physical line wrapping normalised. Tamil status: **reviewed, not yet fully verified**. English remains blocked until Gate E passes all 37 pages.
+> **Archival transcription note:** This is a complete Tamil transcription from the controlling May 2007 scan. Gate C covers scan pp.241–277 / printed pp.240–276 (37/37 pages), and Gate D structural completeness has passed. Gate E strict visual source-fidelity verification is in progress; scan pp.241–275 / printed pp.240–274 have been visually verified. The scan image is authoritative; wording, historical spelling, punctuation, numerals, headings, speaker labels, interventions and printed English are preserved as visible, with only physical line wrapping normalised. Tamil status: **reviewed, not yet fully verified**. English remains blocked until Gate E passes all 37 pages.
 
 ---
 
@@ -377,7 +377,7 @@ Andhra Pradesh recorded the second highest CDR of 74.2 per cent followed by Maha
 
 மேற்கூறிய விதி 39-ன்கீழ், 9 மாவட்டங்களில் 125 கிரானைட் குத்தகைகள் 196.80 ஹெக்டேர் பரப்பில் வழங்கப்பட்டன. விதி 39 என்றால், அரசினுடைய விருப்புரிமையின்படி Nomination முறை, அதுதான் 39; இணைக்கப்பட்ட விதி. பின்னர், அதன் காரணமாக அரசுக்கு ஏற்பட்ட இழப்பு 95 கோடி ரூபாய். அந்த வழக்கைத் தள்ளுபடி செய்ய வேண்டுமென்று அப்போது தொழில் அமைச்சராக இருந்த திரு. சின்னசாமி, சென்னை உயர் நீதிமன்றத்திற்குச் சென்றார். அவரது கோரிக்கையைத் தள்ளுபடி செய்த உயர் நீதிமன்றம், தன்னுடைய தீர்ப்பில் என்ன குறிப்பிட்டிருக்கிறது தெரியுமா?
 
-“ஏராளமான தொகைகளை லஞ்சம் செய்து கொண்டு குத்தகை உரிமங்கள் வழங்குவதற்காக, சுயலாபம் கருதி தமிழ்நாடு சிறு கனிம விதிகள் தவறாகப் பயன்படுத்தப்பட்டுள்ளன. எனவே, முதல் தகவல் அறிக்கையைத் தள்ளுபடி செய்வதற்கு எந்தவிதமான அடிப்படையுமில்லை.” மேலும் சொல்கிறார், நீதிபதி :
+“ஏராளமான தொகைகளை வசூல் செய்து கொண்டு குத்தகை உரிமங்கள் வழங்குவதற்காக, சுயலாபம் கருதி தமிழ்நாடு சிறு கனிம விதிகள் தவறாகப் பயன்படுத்தப்பட்டுள்ளன. எனவே, முதல் தகவல் அறிக்கையைத் தள்ளுபடி செய்வதற்கு எந்தவிதமான அடிப்படையுமில்லை.” மேலும் சொல்கிறார், நீதிபதி :
 
 "The accused has granted leases to the private individuals without fixing any lease amount for granite quarry in pursuance of the conspiracy hatched between them."
 
