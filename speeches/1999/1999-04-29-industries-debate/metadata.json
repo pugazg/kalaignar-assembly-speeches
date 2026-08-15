@@ -50,12 +50,16 @@
     "full_speech_completeness_audit": true,
     "full_speech_page_marker_audit": true,
     "gate_d_status": "passed",
-    "gate_e_status": "not-started",
+    "gate_e_status": "in-progress",
     "verified_against_scan": false,
-    "verified_scan_pages": null,
+    "verified_scan_pages": "241-245",
+    "verified_printed_pages": "240-244",
+    "verified_page_count": 5,
+    "next_verification_scan_page": 246,
+    "gate_e_corrections_applied": 5,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
-    "completion_note": "Gate D passed after a full structural audit of scan pp.241-277 / printed pp.240-276. All 37 source-page markers are present exactly once in strict sequence 241-277, the opening and p.277 closing boundaries are intact, printed speaker/intervention transitions are structurally represented, and no p.278/Speech-9 material or unresolved REVIEW marker is present. Tamil is reviewed but not verified; Gate E visual source-fidelity verification is next."
+    "completion_note": "Gate D passed. Gate E Batch 1 visually verified scan pp.241-245 / printed pp.240-244 directly against the controlling scan and applied five source-supported corrections to canonical transcript.md: p.241 நிதிமன்றத்திலே→நீதிமன்றத்திலே; p.243 two occurrences of பொது ஒப்பந்த முறையில்→பொது ஒப்பந்த முறைப்படி; p.243 நிதிமன்ற இடைக்காலத் தடையை→நீதிமன்ற இடைக்காலத் தடையை; p.244 நடைபெற்றிருக்கிறது→நடைபெற்றிருக்கின்றது. No unresolved readings remain in the verified batch. Tamil remains reviewed, not fully verified; Gate E continues at scan p.246."
   },
   "translation": {
     "language": "English",
