@@ -42,8 +42,10 @@ Gate C Batch 1 is complete:
 - Gate E: **not started**
 - English Gate F: **blocked**
 - next source page: **283**
+- current transcript checkpoint: `dbdcdab67fee3085607bd8929d5cf0b524a8ed85`
+- current verification-log checkpoint: `cb6711a21e876b9c5601d63e4e5c79cf11fd0690`
 
-Batch-1 transcript commit: `c24278da9c78a73217af9a6ddf2a49d1d5732901`.
+A post-write scan reread corrected one definite Gate-C transcription error on source p.282: `முக்கிய களமாக` → `முக்கிய தளமாக`. The correction commit changed only that word; it does not constitute Gate-E verification.
 
 Important source-sensitive forms already preserved:
 
