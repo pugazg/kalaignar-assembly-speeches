@@ -80,13 +80,53 @@ Gate-D result: **passed**.
 
 Tamil status after Gate D: **reviewed, not verified**. Character-level and source-fidelity verification still requires Gate E.
 
-## Gates not yet performed
+## Gate E — strict Tamil visual/source-fidelity verification
 
-- Gate E strict Tamil visual/source-fidelity verification: **not started**.
+**In progress.**
+
+### Batch 1 — scan pp.241–245 / printed pp.240–244
+
+Pages checked directly against rendered scan images: **5/5**.
+
+Checks included:
+
+- wording and individual characters;
+- names and speaker labels;
+- dates and numerals;
+- monetary values and units;
+- printed English/Latin-script text;
+- punctuation where legible;
+- p.241→242 and p.244→245 cross-page continuations.
+
+Definite corrections applied to canonical `transcript.md`:
+
+1. p.241 `நிதிமன்றத்திலே` → `நீதிமன்றத்திலே`;
+2. p.243 first `பொது ஒப்பந்த முறையில்` → `பொது ஒப்பந்த முறைப்படி`;
+3. p.243 second `பொது ஒப்பந்த முறையில்` → `பொது ஒப்பந்த முறைப்படி`;
+4. p.243 `நிதிமன்ற இடைக்காலத் தடையை` → `நீதிமன்ற இடைக்காலத் தடையை`;
+5. p.244 `நடைபெற்றிருக்கிறது` → `நடைபெற்றிருக்கின்றது`.
+
+Batch-1 canonical correction checkpoint: `201b5eff42382bcb6192475be75e01a6865ed921`.
+
+Batch-1 result:
+
+- verified scan range: **241–245**;
+- verified printed range: **240–244**;
+- verified pages: **5/37**;
+- corrections applied: **5**;
+- unresolved readings: **0**;
+- scan p.242 definite corrections: **0**;
+- scan p.245 definite corrections: **0**.
+
+Tamil status remains **reviewed, not fully verified**. Gate E must cover all 37 pages before Tamil can be marked verified.
+
+## Gates not yet complete
+
+- Gate E strict Tamil visual/source-fidelity verification: **in progress — 5/37 pages verified**.
 - Gate F English translation: **blocked**.
 - Gate G English fidelity verification: **not started**.
 - Gate H release/index: **not started**.
 
 ## Next activity
 
-Begin **Gate E — strict Tamil visual/source-fidelity verification** with **Batch 1: scan pp.241–245 / printed pp.240–244**. Compare each page directly against the rendered scan; check wording/characters, names, numerals, dates, figures, printed English, punctuation, speaker labels and cross-page continuations. Apply only source-supported corrections and log every correction. Do not begin English.
+Continue **Gate E Batch 2 — scan pp.246–250 / printed pp.245–249**. Compare the canonical Tamil directly against the rendered scan and apply/log only definite source-supported corrections. Do not begin English.
