@@ -179,8 +179,29 @@ The explicit speaker/intervention structure represented in the transcript includ
 
 Gate D is a structural completeness audit only. It does not establish character-level fidelity to the scan and did not trigger any source-text change.
 
+## Gate E — strict Tamil source-fidelity verification
+
+### Batch 1 — source pp.278–282 / printed pp.277–281
+
+**Complete.** All five pages were directly re-read against the controlling rendered scan.
+
+- cumulative verified range: **278–282 / 5 of 26 pages**;
+- definite corrections in this batch: **1**;
+- unresolved readings: **0**;
+- next source page: **283**.
+
+Definite source-supported correction:
+
+- p.279 `பிள்ளைகளை யெல்லாம்` → `பிள்ளைகளையெல்லாம்`.
+
+The rendered high-resolution scan clearly prints `பிள்ளைகளையெல்லாம்` as one continuous form. No other definite correction was required on pp.278–282.
+
+The Gate-E reread also re-confirmed, rather than normalised, the p.280 source date `22-4-200`, the later `22-4-2000`, the pp.280–281 investment figures (`1,14,893`, `1,41,893 + 15,000`, `1,56,893`), and the p.282 printed *Economic Times* quotation and source English grammar/capitalisation.
+
+Canonical Gate-E Batch-1 transcript commit: `f6fca8fcd40454d3676bcbabb3cdcb2fb1798fcd`, blob `67b446b1c217217f380bd727dedc93b5cc5b6e9a`.
+
 ## Verification status
 
-Gate C is **complete** and Gate D has **passed**. Tamil remains **transcribed; not verified** because Gate E strict visual source-fidelity verification has not begun. No English translation may begin until Gate E is complete and Tamil is verified.
+Gate C is complete and Gate D has passed. Gate E is **in progress**, with source pp.278–282 directly verified. Tamil remains **not verified** until all source pp.278–303 pass Gate E. English remains blocked.
 
-The exact next activity is **Gate E — strict Tamil source-fidelity verification** over scan/source pp.278–303 / printed pp.277–302. Do not begin English translation or Speech 10 until Gate E is complete.
+The exact next activity is **Gate E Batch 2 — source/scan pp.283–287 / printed pp.282–286**. Do not begin English translation or Speech 10.
