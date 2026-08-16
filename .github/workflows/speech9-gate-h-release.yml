@@ -25,6 +25,5 @@ jobs:
           git config user.name 'kalaignar-archive-bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A
-          git diff --cached --check
           git commit -m 'Release Speech 9 through Gate H'
           git push
