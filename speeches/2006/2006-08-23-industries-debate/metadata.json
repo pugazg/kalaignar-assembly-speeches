@@ -56,12 +56,18 @@
     "speaker_intervention_continuity_audited": true,
     "cross_page_continuity_audited": true,
     "gate_d_status": "passed",
-    "gate_e_status": "not-started",
+    "gate_e_status": "in-progress",
     "verified_against_scan": false,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C is complete for all 23 mapped Speech-10 pages, scan/source pp.304-326 / printed pp.303-325. Gate D passed the full structural completeness/page-marker/boundary audit: markers 304-326 are present exactly once and in strict order; the opening at p.304 and close at p.326 are structurally intact; no Speech-9 text and no pp.327-329 குறிப்புகள்/back matter are included; speaker/intervention and cross-page continuities are structurally represented. Gate D made no canonical Tamil source-text correction. Tamil remains not verified until Gate E directly compares the complete transcript against the controlling scan."
+    "completion_note": "Gate C is complete for all 23 mapped Speech-10 pages and Gate D passed the structural completeness/page-marker/boundary audit. Gate E Batch 1 directly re-read source pp.304-308 / printed pp.303-307 against the controlling rendered scan. Two definite corrections were applied: p.305 `கடமைப்பட்டிருக்கின்றேன்` → `கடமைப் பட்டிருக்கின்றேன்`; p.307 `Equity, சிறிய பகுதியாகும்.` → `Equity, சிறிய பகுதியேயாகும்.`. Gate E coverage is 5/23 pages; unresolved readings remain 0. Tamil is not verified until all 23 mapped pages pass Gate E.",
+    "gate_e_audited_scan_pages": "304-308",
+    "gate_e_audited_printed_pages": "303-307",
+    "gate_e_audited_page_count": 5,
+    "gate_e_total_page_count": 23,
+    "gate_e_correction_count": 2,
+    "gate_e_next_scan_page": 309
   },
   "translation": {
     "language": "English",

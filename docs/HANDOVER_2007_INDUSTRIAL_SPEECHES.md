@@ -44,13 +44,11 @@ Rendered p.304 was directly inspected at startup and reconfirmed the `உரை 
 
 Gate D is structural only. Do not treat it as a source-fidelity pass.
 
-## Exact next activity — Speech 10 Gate E
+## Exact next activity — Speech 10 Gate E Batch 2
 
-1. Read `docs/ARCHIVAL_WORKFLOW.md`, this handover, and current Speech-10 metadata/README/source-notes/transcript/verification-log.
-2. Begin **strict Tamil source-fidelity verification at rendered source p.304**.
-3. Compare the canonical Tamil page-by-page directly against the controlling scan.
-4. Apply and document only definite scan-supported corrections. Record genuine uncertainty rather than guessing.
-5. Preserve historical/source-supported spelling, spacing, punctuation, numerals, printed English, speaker labels, interventions, repetitions, humour, wordplay and unusual grammar.
-6. Keep `verified_against_scan=false` until all **23/23** pages pass Gate E.
-7. Do not begin English until Gate E is fully complete.
-8. Do not include pp.327–329; they are non-speech material.
+1. Directly compare rendered source/scan pp.309–313 / printed pp.308–312 against the canonical Tamil.
+2. Use the scan image as textual authority; do not normalise or externally correct source wording.
+3. Apply and document only definite source-supported corrections.
+4. Preserve humour, repetition, printed English, figures, speaker/intervention labels and unusual grammar.
+5. Keep `verified_against_scan=false` until all 23 pages pass Gate E.
+6. Do not begin English until Gate E is complete.

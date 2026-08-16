@@ -32,11 +32,30 @@ Gate D is a structural audit only. It does **not** constitute source-fidelity ve
 
 ## Later gates
 
-- Gate E: **not started**;
+- Gate E: **in progress**;
 - Gate F English: **blocked**;
 - Gate G English verification: **not started**;
 - Gate H release: **not started**.
 
 ## Exact next activity
 
-Run **Gate E — strict Tamil source-fidelity verification against the controlling rendered scan**, beginning at source p.304. Compare page-by-page, apply/document only definite scan-supported corrections, record genuine uncertainty instead of guessing, and preserve source-supported spelling, spacing, punctuation, figures, printed English, humour, repetition, interventions and unusual grammar. Do not begin English until Gate E passes all 23 pages.
+Continue **Gate E Batch 2 — source/scan pp.309–313 / printed pp.308–312** by direct page-by-page comparison against the controlling rendered scan. Apply/document only definite source-supported corrections. Do not begin English.
+
+
+## Gate E — strict Tamil source-fidelity verification
+
+### Batch 1 — source pp.304–308 / printed pp.303–307
+
+**Complete.** All five pages were directly re-read against the controlling rendered scan.
+
+- cumulative Gate-E coverage: **5/23 pages**;
+- definite corrections in Batch 1: **2**;
+- unresolved readings: **0**;
+- next source page: **309**.
+
+Corrections:
+
+1. p.305 `கடமைப்பட்டிருக்கின்றேன்` → `கடமைப் பட்டிருக்கின்றேன்`;
+2. p.307 `Equity, சிறிய பகுதியாகும்.` → `Equity, சிறிய பகுதியேயாகும்.`.
+
+Tamil remains **not verified** until all 23 mapped pages pass Gate E. English Gate F remains blocked.

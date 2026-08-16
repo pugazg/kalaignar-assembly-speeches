@@ -31,7 +31,7 @@
 - Gate E: **not started**.
 - English Gate F: **blocked until verified Tamil is complete**.
 
-The next activity is **Gate E — strict Tamil source-fidelity verification against the controlling scan**, beginning at source p.304. Gate D is structural only and does not make `verified_against_scan=true`.
+The next activity is **Gate E Batch 2 — direct source-fidelity verification of source pp.309–313 / printed pp.308–312**. Do not begin English yet.
 
 ## Files
 

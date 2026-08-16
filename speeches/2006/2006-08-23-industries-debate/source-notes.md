@@ -47,3 +47,12 @@ Gate D is not a source-fidelity reread. Tamil therefore remains **transcribed; n
 ## Exact next activity
 
 Begin **Gate E — strict Tamil source-fidelity verification**, starting at rendered source p.304 and proceeding page-by-page. Apply only definite scan-supported corrections; preserve source-supported oddities, printed English, punctuation, figures, repetitions, humour and parliamentary markers. Do not begin English until Gate E is complete.
+
+## Gate E Batch 1 — source pp.304–308
+
+Five pages were directly re-read against the controlling rendered scan. Two definite source-supported corrections were applied to the canonical Tamil:
+
+1. p.305 `கடமைப்பட்டிருக்கின்றேன்` → `கடமைப் பட்டிருக்கின்றேன்`;
+2. p.307 `Equity, சிறிய பகுதியாகும்.` → `Equity, சிறிய பகுதியேயாகும்.`.
+
+No other definite correction was required on pp.304–308. Source-sensitive wording, figures, printed English, humour and stage markers were retained without normalisation. Cumulative Gate-E coverage: **5/23 pages**; unresolved readings: **0**.
