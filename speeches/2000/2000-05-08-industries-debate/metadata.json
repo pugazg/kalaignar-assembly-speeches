@@ -51,17 +51,17 @@
     "full_speech_page_marker_audit": true,
     "gate_d_status": "passed",
     "gate_e_status": "in-progress",
-    "gate_e_audited_scan_pages": "278-282",
-    "gate_e_audited_printed_pages": "277-281",
-    "gate_e_audited_page_count": 5,
+    "gate_e_audited_scan_pages": "278-287",
+    "gate_e_audited_printed_pages": "277-286",
+    "gate_e_audited_page_count": 10,
     "gate_e_total_page_count": 26,
     "gate_e_correction_count": 1,
-    "gate_e_next_scan_page": 283,
+    "gate_e_next_scan_page": 288,
     "verified_against_scan": false,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C completed all 26 mapped pages and Gate D passed the full structural completeness/page-marker audit. Gate E Batch 1 directly re-read scan/source pp.278-282 / printed pp.277-281 against the controlling rendered scan. One definite source-supported correction was applied on p.279: பிள்ளைகளை யெல்லாம் → பிள்ளைகளையெல்லாம். No other definite corrections were required in pp.278-282; the source-sensitive p.280 date 22-4-200 and p.280-281 investment figures, and the p.282 printed Economic Times English remain preserved as printed. Gate E coverage is 5/26 pages; unresolved readings remain 0. Tamil is not yet verified until all 26 mapped pages pass Gate E."
+    "completion_note": "Gate C completed all 26 mapped pages and Gate D passed the structural completeness/page-marker audit. Gate E Batches 1-2 directly re-read scan/source pp.278-287 / printed pp.277-286 against the controlling rendered scan. Batch 1 applied one definite p.279 spacing correction: பிள்ளைகளை யெல்லாம் → பிள்ளைகளையெல்லாம். Batch 2 (pp.283-287) required no canonical Tamil correction. The Industrial Herald English/Tamil passage on p.283, the p.284 e-Mail/e-Commerce/e-Medicine/e-Value/e-biz and Internet/internet forms, the p.285 visa/NASSCOM/TIDEL details, the p.286 unusual இந்தக் கேமிரா கழுவும்போது plus V.S.N.L./DoT/Thermal Energy Storage System/Venture Capital Fund/4-ந் தேதியன்று, and the p.287 தமிழ்நெட் 1999/Tamil Virtual University/1,200-school/48,000-student High Court continuation were re-confirmed as printed. Gate E coverage is 10/26 pages; cumulative definite corrections remain 1; unresolved readings remain 0. Tamil is not verified until all 26 mapped pages pass Gate E."
   },
   "translation": {
     "language": "English",
