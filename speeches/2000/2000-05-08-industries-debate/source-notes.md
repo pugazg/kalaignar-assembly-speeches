@@ -33,7 +33,7 @@ Boundary confirmation was repeated directly from the controlling scan before Gat
 - scan p.303 is printed p.302 and closes Speech 9 with the final parliamentary exchange and closing ornament;
 - scan p.304 is printed p.303 and explicitly begins `உரை : 10`, `நாள் : 23.08.2006`.
 
-No Speech-8 or Speech-10 material belongs in the Speech-9 canonical entry.
+The p.303/p.304 boundary was re-inspected again while closing Gate C. No Speech-8 or Speech-10 material belongs in the Speech-9 canonical entry.
 
 ## Gate C — Batch 1
 
@@ -120,13 +120,11 @@ Batch 4 begins with the exact Tanflora continuation `ஓசூரில் 220 �
 
 First-pass Tamil transcription completed for **scan/source pp.298–302 / printed pp.297–301**.
 
-- cumulative source-page markers present: **278–302**, once and in order;
-- cumulative completed pages: **25/26**;
-- next scan/source page: **303**;
-- unresolved first-pass readings: **0**;
-- Tamil status: **in-progress; not verified**.
+- cumulative source-page markers present after Batch 5: **278–302**, once and in order;
+- cumulative completed pages after Batch 5: **25/26**;
+- unresolved first-pass readings: **0**.
 
-Batch 5 begins with the direct continuation `அறிக்கை வருகிறது; அம்மையாருடைய அறிக்கை.` and ends on p.302 mid-sentence after `வெட்டுத் தீர்மானங்களுடைய எண்ணிக்கை 111. நம்பர்`; final Batch 6 must continue directly from p.303.
+Batch 5 begins with the direct continuation `அறிக்கை வருகிறது; அம்மையாருடைய அறிக்கை.` and ends on p.302 mid-sentence after `வெட்டுத் தீர்மானங்களுடைய எண்ணிக்கை 111. நம்பர்`.
 
 ### Source-sensitive forms retained in Batch 5
 
@@ -140,6 +138,27 @@ Batch 5 begins with the direct continuation `அறிக்கை வருக�
 
 A focused post-write reread produced four definite first-pass corrections: p.298 `பழனிசாமி ஏற்றுக்கொள்கிறாரோ` → `பழனிசாமி ஏற்றுக் கொள்கிறாரோ`; `டி. மணி ஏற்றுக்கொள்கிறாரோ` → `டி. மணி ஏற்றுக் கொள்கிறாரோ`; p.300 `தயார்செய்வதன்` → `தயார் செய்வதன்`; and `தயார்செய்து` → `தயார் செய்து`. These are Gate-C corrections only, not Gate-E verification.
 
+## Gate C — Batch 6
+
+First-pass Tamil transcription completed for **scan/source p.303 / printed p.302**.
+
+- p.303 source-page marker added exactly once;
+- cumulative first-pass coverage: **26/26 pages, source pp.278–303 / printed pp.277–302**;
+- unresolved first-pass readings: **0**;
+- Tamil status after Gate C: **transcribed; not verified**.
+
+Batch 6 begins with the direct source continuation `நன்றாக இல்லை.` after p.302's `வெட்டுத் தீர்மானங்களுடைய எண்ணிக்கை 111. நம்பர்`. It includes the remaining Karunanidhi remarks, the Chair's call to `திரு. பி. ஆர். சுந்தரம்`, Sundaram's correction, and the Chair's final response. The printed closing ornament below that response confirms the end of Speech 9. Scan p.304 begins `உரை : 10`, `நாள் : 23.08.2006` and is excluded.
+
+### Source-sensitive forms retained in Batch 6
+
+- p.303 prints `கேட்டு அமைகிறேன்.`; it is retained as printed rather than normalised;
+- Sundaram says that he had given the value as `2,000 கோடி` and asks that it be changed in the record to `2,000 இலட்சம்`, explicitly `20 கோடி`;
+- the Chair's response independently prints the unusual sequence `200 கோடி, 20 இலட்சம், 2,000 கோடி`; those figures are retained exactly and are not reconciled to Sundaram's preceding correction;
+- Sundaram's interrupted continuation is printed as `ராசிபுரம்.....` and is retained;
+- the final Chair intervention is followed by the source's closing ornament; no text from scan p.304 has been included.
+
 ## Verification status
 
-Gate C is a first-pass transcription only. One final mapped source page, p.303, remains. Gate D full-speech completeness/page-marker audit and Gate E strict visual source-fidelity verification have **not** begun. No English translation may begin until Tamil Gates C–E are complete.
+Gate C is **complete**: the first-pass Tamil transcript now covers all mapped source/scan pp.278–303 / printed pp.277–302. This establishes transcription completeness only; it does **not** establish source fidelity. Gate D full-speech completeness/page-marker audit and Gate E strict visual source-fidelity verification have **not** begun. Tamil remains **transcribed; not verified**. No English translation may begin until Tamil Gates D and E are complete.
+
+The exact next activity is **Gate D — full Tamil completeness/page-marker audit**. Do not begin Gate E or English translation in that bounded activity unless explicitly requested.
