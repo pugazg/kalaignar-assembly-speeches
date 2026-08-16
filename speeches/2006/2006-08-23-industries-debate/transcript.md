@@ -220,3 +220,222 @@
 காஞ்சிபுரம் மாவட்டத்தில் திருப்பெரும்புதூர் மற்றும் ஓரகடம் பகுதிகள் முக்கியமான தொழில் மையமாக உருவாகி வருகிறது. அதனால், தொழிற்சாலைகளின் வசதிக்காக சாலைக் கட்டமைப்பினை மேம்படுத்துவது மிகவும் அவசியமாகிறது. எனவே, 24 கிலோ மீட்டர் நீள சிங்கப்பெருமாள் கோவில் - திருப்பெரும்புதூர் சாலை மற்றும் 20 கிலோ மீட்டர் நீள வண்டலூர் - வாலாஜாபாத் சாலை ஆகிய சாலைகளின் முக்கிய பகுதிகளை ஆறு வழித்தடச் சாலையாகவும் பிற பகுதிகளை நான்கு வழித்தடச் சாலையாகவும், சுமார் 300 கோடி ரூபாய் செலவில் மேம்படுத்தும் திட்டத்தையும் செயல்படுத்த முடிவு செய்யப்பட்டுள்ளது. (மேசையைத் தட்டும் ஒலி).
 
 இந்த இனிய அறிவிப்புக்களோடு, நீங்கள் அளித்த அருமையான கருத்துக்கள், அவை எதிர்க் கருத்துக்களானாலும், ஆதரவுக் கருத்துக்களானாலும், அனைத்தையும் ஒன்றாகக் கருதி, அவற்றின்படி தொழில் துறை மானியத்திலே நாங்கள் எடுக்க வேண்டிய நடவடிக்கைகளை எடுப்போம் என்று கூறி, இந்த அளவில் என் உரையை நிறைவு செய்கிறேன். (மேசையைத் தட்டும் ஒலி).
+
+---
+
+# English translation
+
+> **English verification note:** Gate F translated the complete verified Tamil, and Gate G re-read all 23 mapped pages against the final verified Tamil. Nine definite fidelity/structure corrections were applied cumulatively; unresolved translation questions: **0**. English status: **verified against Tamil**. Kalaignar’s parliamentary voice, repetitions, humour, wordplay, rhetoric, register shifts, stage markers, printed English, source claims and figures are retained rather than generically smoothed or silently corrected.
+
+### Source page 304
+
+**Speech: 10**  
+**Date: 23.08.2006**
+
+**Hon. Kalaignar M. Karunanidhi:** Hon. Speaker, from this morning until now, in this great House, members and leaders of various parties have set out their views concerning industry and the Information Technology Department. As the A.I.A.D.M.K. member who spoke before me said, somehow, I too have come forward, stumbling a little, to give my reply. A stage when one stumbles will come to everyone. (Sound of desk-thumping.) No one can avoid it. I am not one who regards him in all this as mocking, ridiculing or taunting me. I meet it by regarding it as music itself. (Sound of desk-thumping.)
+
+Because of my health, since I am unable to participate in this debate for a long time, a situation arose in which the demands for grants originally listed had to be altered a little; with the consent of the Deputy Leader and the Whip of the Opposition, the date was changed, and even today, with the same state of health, I have obtained here the opportunity to place a few views. This is a weakness that has temporarily come upon me. I know very well that no one will console themselves, or rejoice inwardly, thinking that it is a weakness that will remain permanently.
+
+Today, the one who opened my debate, our friend the Hon. Member Jayakumar—
+
+### Source page 305
+
+—while speaking, asked this: according to the particulars given by the Centre for Monitoring Indian Economy (CMIE) in February 2006, according to the particulars under Investment in Manufacturing Sector, he raised an issue. He said that, in the manufacturing sector, it was the Government of Amma Jayalalithaa that had stood in first place. What I have in my hands are books published by C.M.I.E. I have two books. It is on the basis of the evidence and statistics contained in those books that I am duty-bound to place this view before you.
+
+As I said at the outset, according to the particulars given by the Centre for Monitoring Indian Economy (CMIE) in February 2006, last year: investment in the manufacturing sector in Orissa was Rs. 1,76,770 crore; Jharkhand, Rs. 1,70,460 crore; Gujarat, Rs. 96,162 crore; Karnataka, Rs. 55,485 crore; Andhra, Rs. 55,359 crore; Tamil Nadu, Rs. 54,488 crore. According to these particulars, Tamil Nadu, the State ruled by Amma, stands in sixth place in that order. But friends here have argued that it had secured first place.
+
+I shall give another piece of evidence too. If we ask what the position was under the Dravida Munnetra Kazhagam Government, we must take 2001. At the end of 2001, in that period when the Dravida Munnetra Kazhagam Government had, at that point, temporarily come to an end: Orissa, Rs. 23,366 crore; Jharkhand, merely Rs. 731 crore; Gujarat, Rs. 36,058 crore; Karnataka, Rs. 27,345 crore; Andhra, Rs. 34,928 crore; Maharashtra, Rs. 26,218 crore; and Tamil Nadu alone, Rs. 36,778 crore. (Sound of desk-thumping.) Thus, it can clearly be understood that, at that point, among these, Tamil Nadu alone stood in first place. I do not wish to get myself caught in this ‘competition-with-each-other’, this ‘showdown’. Today, all of us sitting together in this great House, Tamil Nadu's overall—
+
+### Source page 306
+
+—industrial wealth must be developed; we must work for it; we must strive for it; we must have enthusiasm; we must show concern — it is only at that level that I believe today's debate should proceed, and that your speeches and my reply should likewise shine. In between, I have no need to enter those arguments over who is responsible for all this — you or I; there is no necessity for me to go looking for trouble; nor is there any need to let go of trouble that has come to me. (Sound of desk-thumping.) Because, if we let go of trouble that has come, we may end up failing to give the explanation that ought to be given. That is why I say this: since we are in a position where, when an explanation is required, it must certainly be given, it is only for that reason that I made that observation, and not for anything else.
+
+Thiru Jayakumar said one more thing. He pointed out that the financial allocation for the Industries Department grant had fallen compared with last year. That is a big headline for the newspapers. I know very well that he has long experience in the Legislative Assembly and, likewise, experience concerning the newspaper field. Therefore, in one stroke he charged that the Industries Department grant had fallen compared with last year. Though the revised estimate for 2005-2006 was Rs. 227 crore, when one looks at the Final Modified Appropriation — the final revised allocation — it was only Rs. 186 crore; that was the revised allocation. But what was stated was Rs. 227 crore; what was recorded as the revised allocation was Rs. 186 crore. That is to say, Rs. 40 crore was left unspent under the previous Government and was surrendered. I do not like this surrender. (Sound of desk-thumping.) That is why, on the basis of that calculation, the total allocation now made is Rs. 193 crore, which is more than last year's allocation. To Thiru Jayakumar's doubt, to his question—
+
+### Source page 307
+
+—I give this as an explanation. He too should not think that I am somehow giving him answer for answer; it is only an explanation.
+
+I have brought statistics that knock down the argument that Tamil Nadu stood as the first State in manufacturing-sector investment under the previous Government. According to the particulars published in the Annual Survey of Industries, 2003-2004: Fixed Capital in Maharashtra was Rs. 83,472 crore; in Gujarat, Rs. 85,788 crore; Tamil Nadu, Rs. 46,430 crore. According to the 2004 particulars, Invested Capital in Maharashtra was Rs. 1,24,019 crore; in Gujarat, Rs. 1,15,027 crore; Tamil Nadu, Rs. 68,330 crore. Therefore, for the question of how Tamil Nadu could have stood first in all these, we ourselves must seek the answer.
+
+They asked one more thing: it had been stated that the Ennore Special Economic Zone project would cost Rs. 900 crore, the Krishnagiri District Special Economic Zone project Rs. 500 crore, and the Nanguneri High Technology Park project Rs. 640 crore; why, then, had the Rs. 2,040 crore required for them not been allocated in the Budget? At first glance, looked at superficially, it would indeed seem to be a proper question. But, forgetting that it is a proper question, I do not wish merely to give an answer; I wish to give an explanation.
+
+The funds required for all these will be mobilised through share investments, through Share Capital, and through borrowings. The amount provided through share investment — Equity — will be only a small portion. TIDCO will undertake this in order to implement these projects. The major portion of the funds required will be obtained as loans from banks and financial institutions. Generally, for all projects of this kind, it is by this method that financial—
+
+### Source page 308
+
+—arrangements are made; I believe our Thiru D. Jayakumar, who has served as a Minister, knows that very well. This is the procedure that has been followed during every Government.
+
+Here, the Legislature Party Leader of our Congress party, Thiru D. Sudarsanam, raised an issue. He asked, in connection with the violations and irregularities that took place during the previous Government in the name of a company called Aswanth Sugars (Interruption) — Aswanth Sugars, isn't it? — who all are behind that company, and what action would be taken. I shall tell him about all that. Because I must give him some assurance; he became angry only yesterday, did he not? (Laughter.) So I must give an assurance on this too. I merely wish to inform Congress party leader Thiru D. Sudarsanam that, by conducting an inquiry in the proper manner, we will certainly bring the hidden truths into the light. (Sound of desk-thumping.)
+
+Here, under these two headings — the Industries Department and the Information Technology Department — altogether 285 cut motions have been submitted. I too have been in this House since 1957. The Professor too was with me in 1957. Afterwards he went to Parliament and came back here. Continuously from 1957 until now, I have been here. I have never seen so many cut motions. They themselves said it too: every day, before the grants are taken up here, our Speaker calls out each person's name as though attendance were being taken in a school, and they too say, ‘Present, sir’; (Laughter.) their names are called — thus, 285 cut motions.
+
+### Source page 309
+
+Under these two headings alone, under these grants alone, 285 cut motions. But among those 285, among all of them, there are many cut motions that remind the Government, or remind me who has taken charge of this Department, and draw our attention. I think it would be proper if I recalled just a few of them here in particular. Otherwise, all those ‘cut motions’ would become ‘idle motions’. (Laughter.) (Sound of desk-thumping.) Therefore, I wish to recall only a few. Without regard to party, in a general manner, I wish to mention the names of those who have given them, state those views, and give the explanations and particulars relating to them.
+
+Selvi K. Balabharathi's cut motion says: “To discuss the necessity of establishing a textile export complex and a textile park in Dindigul constituency.” This will appear in the newspapers; those who voted for her will read it and congratulate her. I give her the assurance that the Government will consider this and take action. (Sound of desk-thumping.)
+
+Thiru N. Nanmaran has given a cut motion “to discuss the necessity of creating new factories in Madurai district.” When district-wise studies are undertaken, I inform him that this too will be studied and made available. (Sound of desk-thumping.)
+
+Dr. M. K. Vishnuprasad, Congress, has asked “to discuss the necessity of ensuring that a SIPCOT industrial estate is started at Cheyyar within this very year.” I shall tell him: SIPCOT is there at Ranipet. There is not much distance between Ranipet and Cheyyar. The factories there—
+
+### Source page 310
+
+—can come as far as Cheyyar. For those who are capable of doing it, what is Ranipet? They will come from wherever it may be. It is only if it is Cheyyar that they will not come! Therefore, I give Vishnuprasad an assurance: if Ranipet becomes so overflowing that there is no space left to establish industries, a way will certainly be made for a SIPCOT industrial estate to come to Cheyyar. (Sound of desk-thumping.)
+
+Thiru T. Velmurugan: he asked for a factory at Panruti to manufacture jackfruit juice. He did not stop with that; he has also asked for a factory to manufacture cashew-fruit juice. Cashew juice, jackfruit juice; he did not ask for mango juice — the one who ought to have asked, according to the election symbol, did not ask. (Laughter.) I wish to inform him that the Government will pay attention to making arrangements for squeezing those two juices. (Sound of desk-thumping.)
+
+Thiru T. Moorthy has given a cut motion “to discuss the necessity of making permanent the employees working in most of the factories in the Maraimalai Nagar industrial estate falling within the Tiruporur Assembly constituency.” It is not enough merely to look after industry; this is a Government concerned that the workers who keep that industry alive must also be enabled to live, and I state here that it will certainly attend to that too. (Sound of desk-thumping.)
+
+Cumbum Ramakrishnan has asked “to discuss the necessity of creating an industrial estate connected with coconut and grapes in Cumbum constituency.” Whether coconut or grapes, I wish to inform him that the Government will undertake efforts to create the corresponding industrial estate at Cumbum. (Sound of desk-thumping.)
+
+### Source page 311
+
+Thiru Ilavazhagan, P.M.K., Arcot, has asked in his cut motion “to discuss the necessity, in order to reform industrial growth in Tamil Nadu, of removing the various restrictions on investors and taking steps to encourage investment; removing industrial controls; further reducing interest rates; reforming the labour sector; fixing suitable energy prices; reducing industrial procedural delays; and having the public sector and private sector work jointly in creating basic infrastructure facilities.” An industrial policy is going to be formulated shortly. I give him the firm assurance that this is one of the provisions that must be included in that industrial policy. (Sound of desk-thumping.)
+
+Dr. Jayakumar has said: “Namakkal is an important place for the vehicle industry. Therefore, to develop this industry and increase employment opportunities for the people of this area, to discuss the necessity of establishing a vehicle industrial estate in Namakkal.” The vehicle industry carried on in Namakkal is a very important industry in the country itself. I know that great struggles, righteous struggles, have been conducted through those vehicles, and that Governments have struggled, unable to cope with them. Therefore, the Government will come forward to provide many facilities suitable for the vehicle industry. (Sound of desk-thumping.)
+
+Thiru Vidiyal Sekar has said in his cut motion: “When foreign companies start new industries in Tamil Nadu, to discuss the importance of giving priority opportunity for 80 per cent of the employees to be from within Tamil Nadu, and particularly to unemployed youth in the place where the factory is established—”
+
+### Source page 312
+
+—he has asked. This is a very, very important matter. When the Hyundai factory itself was established, the first condition I placed before those officials from Korea who came to establish it was that employment must be given to local people of this area; it was only after imposing that condition that I gave permission for that factory at that time. Therefore, this is a good condition. This condition will be accepted. Efforts for it will be undertaken. It is in that manner that factories will be established.
+
+Thiru Kovai Thangam has asked that the cinchona wood industry should be expanded in that area. Thiruthuraipoondi Thiru Ulaganathan of the C.P.I. has given a cut motion “to discuss the necessity of establishing a wine factory using rice in Thiruthuraipoondi constituency, Tiruvarur district.” Wine from rice, it seems! They want that to be manufactured! (Laughter.) Only now are we struggling so hard to provide rice at the price of two rupees. (Sound of desk-thumping.) If wine too is manufactured out of that, what will happen — after thinking all that through thoroughly, considering it, a decision will be taken on it, I tell him.
+
+Thiru G. K. Mani, Mettur, has asked regarding “the necessity of immediately paying the arrears due to the farmers who supplied sugarcane to all the cooperative sugar mills in Tamil Nadu” — he expects it now — “make arrangements immediately to pay the amount due to the sugarcane farmers.” I wish to inform him that the Government will certainly take vigorous action for that. (Sound of desk-thumping.)
+
+### Source page 313
+
+Thiru C. Gnanasekaran: “To discuss the necessity of implementing a scheme to generate more electricity from the bagasse of the Vellore, Tirupattur, Ambur and Cheyyar cooperative sugar mills” — he will not leave even the bagasse alone! (Laughter.) You all know that he has been making use of that too in this House every day. Can we say no when he has asked? Therefore, attention will certainly be paid to it.
+
+Thiru Ravikumar, Viduthalai Chiruthaigal, has asked “to discuss the necessity of creating district-level industrial Skill development centres in association with the Confederation of Indian Industry — C.I.I.” I say again: an industrial policy is going to be formulated shortly. Therefore, I inform him that this will be taken into consideration. (Sound of desk-thumping.)
+
+Thiru D. Jayakumar, Royapuram: “The Ennore area in North Chennai has been declared an economic zone, but so far factories have not been established in this area.” — Not even during Amma's time? (Laughter.) (Interruption.) Do not worry; we can establish them. “To discuss the necessity of immediately establishing a Special Economic Zone in this area in a manner that increases employment opportunities and greatly benefits the people of North Chennai,” he has asked. Certainly that too will be attended to, to an extent that will make him happy. (Sound of desk-thumping.)
+
+Chengalpattu Thiru K. Arumugam has asked “to discuss the necessity of declaring Tirukazhukundram taluk an industrially backward area and, in order to encourage those who start industries, providing a 25% subsidy.” That too will be taken into consideration. (Sound of desk-thumping.)
+
+### Source page 314
+
+Thiru Senthil Balaji, A.I.A.D.M.K., Karur, has asked: “In the Tamil Nadu Newsprint and Papers Limited — T.N.P.L. — in Karur Assembly constituency, if a First Information Report — F.I.R. — is registered at the police station against contract workers employed there, the company prevents them from reporting for work. To discuss changing this practice so that they should be prevented from working only if the accusation is proved.” There is no change whatsoever in this policy. Merely because an accusation has been made against a person, he cannot become a criminal. Because he is a worker, I will not accept his being trampled upon. Therefore, only if it is proved should there be a bar on work; merely by levelling an accusation, declaring him unfit and driving him out — this Government will not permit any worker to be victimised in that manner, I wish to inform you. (Sound of desk-thumping.)
+
+Thiru C. Shanmugavelu, the one who frequently gets up, A.I.A.D.M.K., Udumalai, has proposed an important matter in his cut motion: “When bank interest has come down, to discuss the necessity of simplifying the conditions for lending in the Tamil Nadu Industrial Development Corporation too, and reducing the interest.” I inform him that this will be considered and a decision taken.
+
+Tmt. Selvi Ramajayam, Bhuvanagiri, has asked “to discuss the necessity of establishing a perfume-manufacturing factory in that area using the flowers cultivated in large quantities in the Parangipettai union areas falling within Bhuvanagiri constituency.”
+
+Thiru Pollachi V. Jayaraman has asked “to discuss the necessity of establishing a large factory—
+
+### Source page 315
+
+—in Pollachi in order to create employment in the Pollachi area.” I inform him that, certainly, so that his grievance may be redressed, Pollachi will soon get a factory. (Sound of desk-thumping.)
+
+I also inform the House that the requests made by Mayiladuthurai Thiru S. Rajakumar and Rajapalayam Tmt. M. Chandra will be attended to; and I request that no one should come to me feeling aggrieved that I did not give an explanation for all 285 cut motions, but should accept that I picked out and gave explanations only for some among the many cut motions.
+
+Then, speaking generally about this Industries grant: for the socio-economic growth and advancement of our country, industry has an importance equal to the importance agriculture has. The path on which agricultural production and industrial production go hand in hand is the refined path by which the sacred land of India can take its place in the front rank of the world.
+
+The Industrial Revolution that has been taking place from the eighteenth century onward opened the way for newer and newer technological discoveries. But great factories producing goods came into being. As a result, astonishing changes occurred in socio-economic conditions throughout the world. Through such golden-age changes, migration from rural areas to urban areas in search of better opportunities for livelihood became a cause for the increase of population in urban areas. Fuels such as coal, petrol and gas have continued to serve as driving forces in industrial growth. After the independence of the sacred land of India—
+
+### Source page 316
+
+—in 1956, the industrial policy formulated by the Central Government had fully absorbed the benefits of the Industrial Revolution. At the initial stage, the objective was to create growth in sectors such as iron, heavy industries and power generation.
+
+After that, information technology attained enormous growth. As computers entered every front of activity, the information-technology revolution created many kinds of changes in industry on a scale never seen before. The knowledge-based computer revolution opened a new, yet invigorating, chapter in human history. In all our social and economic activities, computers have penetrated everywhere, here and there and all around, creating an impact that no one can deny. Through this, the world itself has shrunk; and for today's generation to obtain, while sitting in a village at the farthest end, the knowledge that the world is thrillingly accumulating, and thereby gain the exalted opportunity to rise, is an advancement worthy of pride.
+
+Scientists have predicted that the next stage of this continuously unfolding revolution will be the Bio-Technology Revolution. When the biotechnology revolution reaches completion, major changes will occur in human ways of life. Experts expect that the biotechnology revolution will play a major role in the quality of life, in increasing life expectancy, in disease control and in food production.
+
+For factories to arise and industrial wealth to grow, what is required first is land and, along with it, basic infrastructure facilities. Keeping this in mind, under the D.M.K. Government, in 1971, in India—
+
+### Source page 317
+
+—we created in Tamil Nadu, on a scale that no other State then had, an institution called ‘SIPCOT’ — State Industries Promotion Corporation of Tamil Nadu. That ‘SIPCOT’ which is spoken of today, which has created the industrial wealth that has grown across Tamil Nadu today — when today we quarrel over every factory about who brought it first and who brought it later, I tell them this: even though before that there were small arrangements, parks and such, not on the large scale of SIPCOT, it was the Dravida Munnetra Kazhagam Government in 1971 that established this institution called ‘SIPCOT’ on a large scale at Ranipet and Hosur. (Sound of desk-thumping.) I wish to state this with great modesty.
+
+SIPCOT created industrial complexes capable of providing, in one place, all the basic facilities required for industrial growth. You know that one of the places so created was Ranipet. I wish to point out that Ranipet was the first industrial complex established in Tamil Nadu. Just as, before the Dravida Munnetra Kazhagam came to power, for the growth of small industries in Tamil Nadu, under the Governments of great leaders such as Kamarajar, under Governments of people such as Bhaktavatsalam, and under administrations conducted by people such as Subramaniam, the Guindy Industrial Estate and Ambattur Industrial Estate were created as foundation bases, likewise everyone will accept that the SIPCOT complexes created under the Kazhagam Government became the starting bases for the growth of large industry. SIPCOT industrial complexes were established at Ranipet and Hosur. At Ranipet, over an area of 729 acres, an industrial complex—
+
+### Source page 318
+
+—was established, and 107 new industries were started there with an investment of Rs. 168 crore. After that, at Hosur, over 1,236 acres, the second industrial complex in Tamil Nadu was established by the Kazhagam Government. There, 186 factories were started with an investment of Rs. 500 crore.
+
+As a third stage, in 1997, 496 acres of land were acquired for the Ranipet SIPCOT industrial complex and that complex was expanded so that still more factories could be established. Under the Kazhagam Government that came in 1997, a further 240 acres of land were acquired for the Hosur SIPCOT complex, and 64 new industries were started there. Nearly 6,000 young people obtained employment. Thus, for the industrial growth of Tamil Nadu, not only at Ranipet and Hosur, but under the Kazhagam Government, SIPCOT industrial complexes were established at various places: at Cuddalore, an industrial complex over 1,198 acres in 1997; at Irungattukottai, over 1,830 acres in 1996; at Thoothukudi, over 437 acres in 1996; at Poonamallee, over 2,469 acres in 1997; at Oragadam, over 2,043 acres in 1997; and at Siruseri, over 756 acres in 1998. It is not about what industry came, or through whom it came; I say this only so that we do not forget by whom, when, and under which Government the suitable places for all of them to come and land were created. (Sound of desk-thumping.)
+
+In this way, during the periods of Kazhagam Government, uninterrupted industrial growth was encouraged in Tamil Nadu and the foundation was laid for economic growth, while on a large scale—
+
+### Source page 319
+
+—employment opportunities too were created on a large scale. If I may give just one or two examples: at Irungattukottai, the JBM Sung Woo Ltd. factory; JKM Gem factory; Orchid Chemicals and Pharmaceuticals factory; Citizen Watch factory; the Tractor factory of Sam Greaves Limited; GMR Vasavi's private power-generation project; Matsushita Airconditioner factory; Reynolds Ball Pen factory; Sembawang Shriram goods-distribution factory; Markcube India paper-board machinery manufacturing factory; Optic Fibre Telecom Cable factory. In October 2000, in a report issued by the ‘Centre for Monitoring Indian Economy’ — that is, the ‘Indian Economy Monitoring Centre’ — regarding infrastructure facilities, Tamil Nadu stood in first place with an index number of 145.62; Karnataka, 106.12; Andhra, 104.01. Likewise, in the assessment among metropolitan cities regarding infrastructure facilities, in that year 2000, Chennai city stood in first place with an index number of 472.48; Hyderabad had an index number of 153; Bangalore, 100.28.
+
+During 1989-1991, because of the firm encouragement given by the Kazhagam Government to Tamil Nadu's industrial growth, Tamil Nadu had attained third place in India. During the Government of 1991-1996, Tamil Nadu fell behind in industrial growth and had come down to fifth place. I am not saying this to belittle anyone. I am mentioning it only to set out what the position of industrial growth was at that time. I am saying this so that all of us together may acquire that encouragement, enthusiasm, eagerness and concern to increase industrial prosperity in Tamil Nadu.
+
+### Source page 320
+
+I wish to inform you that Tamil Nadu's industrial growth, which had been at the level of 8.7 per cent in 1994-1995, rose to 15.02 per cent in 1999-2000 because of the measures undertaken by the Kazhagam Government. If one thing is to be mentioned as a sign of the concern shown and the high level of performance of the Kazhagam Government in Tamil Nadu's industrial growth, as Thiru Appavu mentioned here, and as Thiru Ranganathan, who spoke on behalf of our Kazhagam, mentioned, it was the Dravida Munnetra Kazhagam Government that first introduced in 1998 the Single Window System, containing a single application form. (Sound of desk-thumping.) Earlier, if an industry was to be started in Tamil Nadu, there was a situation in which permission had to be obtained from eight different departments: permission from the local body; environmental clearance from the Pollution Control Board; permission to obtain land allotment; permission to change land classification; permission for exemption from the urban land ceiling; permission for the water required; permission for electricity; and permission for registration under the Companies Act. It was the Dravida Munnetra Kazhagam Government that abolished all eight and brought in that Single Window System under which one permission was enough and everything was covered within it — and that became the cause of great progress in industry. (Sound of desk-thumping.) But now those conditions are no longer there. When we newly assumed responsibility for this Government, there was a situation in which none of the benefits of that Single Window System remained. What was it like? In the Paramapada Sopanam board, there is the picture of climbing the ladder and the picture of getting caught at the snake's head; Tamil Nadu had become like a Paramapada Sopanam board—
+
+### Source page 321
+
+—itself. We must throw the dice again and climb the ladder; we have confidence that we will climb. (Sound of desk-thumping.)
+
+Now, the announcements. I am not going to speak for long. Finally, I wish to conclude with a few announcements. Announcements: placing confidence in the D.M.K. Government, which has an industry-friendly approach and involvement in industrial advancement, and openly welcoming the investments that entrepreneurs, with great eagerness, intend to bring to Tamil Nadu; providing them the assistance and concessions they require, without delay and at the proper time; and thereby reopening the path for the State's industrial growth — I now wish to make a few important announcements relating to the Industries Department and the Information Technology Department.
+
+The SIPCOT industrial parks at Sriperumbudur and Oragadam have grown into industrial centres. Day after day, plans for new industrial investment are now continuing to come to Tamil Nadu. Since, along with the new investments, the demand for land needed to establish new factories is increasing, this Government has decided to expand the Sriperumbudur and Oragadam industrial parks. I wish to inform you that a further 2,000 acres of land will be acquired for this purpose. (Sound of desk-thumping.)
+
+Because major automobile manufacturers such as Hyundai, Ford, Mitsubishi, BMW and Ashok Leyland have established factories in Tamil Nadu — I am not saying who established which one, or under which Government; because these companies have established a large number of automobile-manufacturing units in Tamil Nadu—
+
+### Source page 322
+
+—Chennai is described as the “Detroit of Asia” (Detroit). (Sound of desk-thumping.) Thirty-five per cent of India's automobile-component production is produced in Chennai. Many of these component manufacturers are also major exporters. To meet the demand that may arise in this sector through new investments, an Automotive Special Economic Zone will be established in the Oragadam SIPCOT industrial park. (Sound of desk-thumping.)
+
+In Madurai, which is a major tourist destination as well as a temple city, many factories have been functioning for a long time. As though placing a crown upon all of them, and in a manner that will breathe new life into industrial growth in the southern districts, a large industrial park is to be established near Madurai through SIPCOT. (Sound of desk-thumping.)
+
+Leather processing and leather-goods manufacture have for a long time played an important role in Tamil Nadu's industrial sector. In order to remedy the environmental pollution caused by this sector, I have personally appealed to the Hon. Prime Minister seeking financial assistance to install Reverse Osmosis equipment, at a value of Rs. 115 crore, in 11 common effluent-treatment plants.
+
+In order to establish a leather-processing and leather-goods manufacturing complex, a new leather Special Economic Zone will be established through SIPCOT near Chennai over an area of 250 acres. (Sound of desk-thumping.)
+
+At the Tamil Nadu Newsprint and Papers Limited at Pugalur in Karur district, at present 2,30,000 metric—
+
+### Source page 323
+
+—tonnes of paper are being produced annually. In order to increase this production, a decision has been taken to implement, at a total cost of Rs. 650 crore, a scheme to modernise and expand the paper-manufacturing machine now in use. Under this scheme, a new paper machine with ultra-modern technology and an additional annual production capacity of 1,20,000 metric tonnes is to be installed. Further, on behalf of this company, it is planned to establish five new windmills with an investment of Rs. 30 crore and generate an additional 6.25 megawatts of electricity. (Sound of desk-thumping.)
+
+By undertaking Co-generation in sugar mills, their operating efficiency increases and it also helps them earn additional revenue. At the Kallakurichi Second Cooperative Sugar Mill, a co-generation power station with a capacity of 6 megawatts will be established at a cost of Rs. 13.50 crore. (Sound of desk-thumping.)
+
+At the Salem and Amaravathi cooperative sugar mills, it has been decided to establish, at a cost of Rs. 6 crore, plants to manufacture the fuel called ethanol. (Sound of desk-thumping.)
+
+Taking into account that Perambalur district is a district backward in industry, it has been decided, through the Tamil Nadu Industrial Development Corporation (TIDCO), to establish in this district a Special Economic Zone together with an integrated industrial park. Through this, arrangements will be made for investment of about Rs. 5,000 crore to come into this area gradually, (Sound of desk-thumping.) and for employment to be available to thousands of people.
+
+Most of the natural gas available in Tamil Nadu is found in the Cauvery basin region. Through new exploration technology, that reserve can be brought into—
+
+### Source page 324
+
+—use, it is expected, through new exploration technology. Natural-gas reserves have been discovered in the Krishna-Godavari basin in Andhra State. The Government has decided to make use of this natural gas in order to improve Tamil Nadu's energy security.
+
+In order to attain this objective, the Tamil Nadu Industrial Development Corporation will establish a new joint-sector company for the exploration, production and distribution of crude oil and natural gas. This new company will establish the necessary pipeline infrastructure throughout Tamil Nadu and create a Natural gas distribution network. It is certain that this new initiative of the Government, besides improving the energy security of this State, will also pave the way for Tamil Nadu's continuous economic growth and for an increase in the State Government's revenue. (Sound of desk-thumping.)
+
+At present, the sugarcane farmers themselves pay the lorry freight for taking sugarcane to cooperative and public-sector sugar mills situated within a distance of 10 kilometres. For areas beyond a distance of ten kilometres, these mills themselves bear the lorry freight. In fulfilment of another promise given in the election manifesto, from the coming crushing season onwards, the sugar mills themselves will bear the lorry freight for sugarcane brought from within a distance of ten kilometres to cooperative and public-sector sugar mills. (Loud sound of desk-thumping.) This will involve an additional expenditure of Rs. 40 crore a year.
+
+Bringing together all the benefits achieved so far in the field of information technology, a new information-technology policy will be formulated and announced so that the sector may grow still faster and in a useful manner.
+
+As announced on 4-7-2000 when the ‘TIDEL’ information-technology park was inaugurated, and subsequently—
+
+### Source page 325
+
+—as stated in the election manifesto and in the Budget, a second ‘TIDEL’ information-technology park will be established at Taramani, Chennai. (Sound of desk-thumping.)
+
+The Government of Tamil Nadu, the Software Technology Parks of India organisation of the Central Government, and the private sector will jointly establish a technology park at Coimbatore. (Sound of desk-thumping.)
+
+So that the information-technology revolution, which is largely concentrated only in Chennai, may spread to other cities of Tamil Nadu as well and yield benefits, information-technology parks will be created in Madurai, Tiruchi, Salem and Tirunelveli. (Sound of desk-thumping.)
+
+The Indian educational institution for world-class information technology, design and manufacturing announced by the Central Government will be established near Chennai.
+
+To devise and implement ways of attracting very large investments into the information-technology sector, an Information Technology Task Force — I.T. Task Force — which had earlier been constituted during the Dravida Munnetra Kazhagam Government and was left unimplemented in the intervening period, will once again be created. (Sound of desk-thumping.)
+
+Electronic governance — e-governance — will be designed and expanded so that it benefits poor people in the villages just as it benefits people in the cities; steps will be taken so that Tamil Nadu may shine as a pioneering e-governance State. (Sound of desk-thumping.)
+
+It has been decided to provide suitable land and one crore rupees for the Tamil Virtual University, which is at present functioning in a rented building in Chennai, so that it may have a building of its own. (Sound of desk-thumping.)
+
+### Source page 326
+
+As the first stage of the Information Technology Expressway — I.T. Expressway — project, which had earlier been begun during the Dravida Munnetra Kazhagam Government, laid out as a four-lane road, and then suffered an interruption in between, work is now under way to upgrade the stretch of the Old Mahabalipuram Road from Taramani to Siruseri into a world-class six-lane road (Sound of desk-thumping.) at an estimate of Rs. 205 crore. As the second stage in improving this road, work will also be undertaken to upgrade the approximately 25-kilometre stretch from Siruseri to Mahabalipuram into a six-lane road. (Sound of desk-thumping.)
+
+In Kancheepuram district, the Sriperumbudur and Oragadam areas are developing into important industrial centres. Therefore, it has become very necessary to improve the road infrastructure for the convenience of the factories. Accordingly, it has been decided to implement a project, at a cost of about Rs. 300 crore, to upgrade the important portions of the 24-kilometre Singaperumal Koil–Sriperumbudur Road and the 20-kilometre Vandalur–Walajabad Road into six-lane roads, and the other portions into four-lane roads. (Sound of desk-thumping.)
+
+With these pleasant announcements, taking together all the valuable views you have given — whether they are opposing views or supporting views — and saying that, in accordance with them, we shall take the measures that have to be taken under the Industries Department grant, I conclude my speech at this point. (Sound of desk-thumping.)

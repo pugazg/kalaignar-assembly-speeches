@@ -1,10 +1,88 @@
 {
-  "id":"2006-08-23-industries-debate","date":"2006-08-23","year":2006,
-  "speaker":{"name_ta":"மு. கருணாநிதி","name_en":"M. Karunanidhi","source_label_ta":"மாண்புமிகு கலைஞர் மு. கருணாநிதி","role_ta":null,"role_en":null,"role_note":"The source page supplies the speaker label; no historical office is inferred beyond the printed wording during transcription."},
-  "legislature":{"source_context_ta":"சட்டமன்ற உரை","source_context_en":"Legislative Assembly speech"},
-  "speech":{"source_label_ta":"உரை : 10","printed_date":"23.08.2006","archive_subject_slug":"industries-debate"},
-  "source":{"publication_title_ta":"தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்","scan_filename":"TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf","scan_total_pages":329,"file_size":217124211,"sha256":"c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370","speech_scan_pages":"304-326","speech_printed_pages":"303-325","relationship":"For this speech, scan page = printed page + 1.","source_authority":"scan image"},
-  "transcription":{"status":"verified","gate_c_status":"complete","gate_d_status":"passed","gate_e_status":"passed","verified_against_scan":true,"completed_scan_pages":"304-326","completed_printed_pages":"303-325","completed_page_count":23,"total_page_count":23,"gate_e_correction_count":6,"unresolved_readings":0},
-  "translation":{"language":"English","working_files":["translation.md","translation-gate-f-batch-2.md","translation-gate-f-batch-3.md","translation-gate-f-batch-4.md","translation-gate-f-batch-5.md"],"review_file":"translation-review.md","status":"verified","gate_f_status":"complete","gate_g_status":"passed","requires_verified_tamil":true,"tamil_gate_satisfied":true,"source":"final verified Tamil transcription","voice_policy":"Retain Kalaignar's parliamentary language and voice in English: argumentative sequence, repetition, direct address, humour, wordplay, irony, metaphors, register shifts and stage markers are preserved rather than polished into generic modern English; printed English and source claims/figures are not silently corrected.","completed_source_pages":"304-326","completed_printed_pages":"303-325","completed_page_count":23,"total_page_count":23,"source_page_correspondence":true,"unresolved_translation_questions":0,"verified_against_tamil":true,"gate_g_reviewed_source_pages":"304-326","gate_g_reviewed_printed_pages":"303-325","gate_g_reviewed_page_count":23,"gate_g_total_page_count":23,"gate_g_correction_count":9,"gate_g_unresolved_questions":0},
-  "release":{"gate_h_status":"in-progress","gate_h_preparation_complete":true,"canonical_tamil_english_merge_complete":false,"indexed":false,"release_ready":false,"release_note":"Gate H preparation completed after Gate G passed. The verified English remains in five working segments and must be merged without rewriting into canonical transcript.md after the verified Tamil; page correspondence and all nine Gate-G corrections must be rechecked before index/release updates."}
+  "id": "2006-08-23-industries-debate",
+  "date": "2006-08-23",
+  "year": 2006,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "source_label_ta": "மாண்புமிகு கலைஞர் மு. கருணாநிதி",
+    "role_ta": null,
+    "role_en": null,
+    "role_note": "The source page supplies the speaker label; no historical office is inferred beyond the printed wording during transcription."
+  },
+  "legislature": {
+    "source_context_ta": "சட்டமன்ற உரை",
+    "source_context_en": "Legislative Assembly speech"
+  },
+  "speech": {
+    "source_label_ta": "உரை : 10",
+    "printed_date": "23.08.2006",
+    "archive_subject_slug": "industries-debate"
+  },
+  "source": {
+    "publication_title_ta": "தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்",
+    "scan_filename": "TVA_BOK_0065516_தொழில்துறை_பற்றி_கலைஞரின்_சட்டமன்ற_உரைகள்.pdf",
+    "scan_total_pages": 329,
+    "file_size": 217124211,
+    "sha256": "c26003fe77b97adc6487ba0e4c00c9fa34a0a53839aa326d3ef5897f8616d370",
+    "speech_scan_pages": "304-326",
+    "speech_printed_pages": "303-325",
+    "relationship": "For this speech, scan page = printed page + 1.",
+    "source_authority": "scan image"
+  },
+  "transcription": {
+    "status": "verified",
+    "gate_c_status": "complete",
+    "gate_d_status": "passed",
+    "gate_e_status": "passed",
+    "verified_against_scan": true,
+    "completed_scan_pages": "304-326",
+    "completed_printed_pages": "303-325",
+    "completed_page_count": 23,
+    "total_page_count": 23,
+    "gate_e_correction_count": 6,
+    "unresolved_readings": 0
+  },
+  "translation": {
+    "language": "English",
+    "working_files": [
+      "translation.md",
+      "translation-gate-f-batch-2.md",
+      "translation-gate-f-batch-3.md",
+      "translation-gate-f-batch-4.md",
+      "translation-gate-f-batch-5.md"
+    ],
+    "review_file": "translation-review.md",
+    "status": "verified",
+    "gate_f_status": "complete",
+    "gate_g_status": "passed",
+    "requires_verified_tamil": true,
+    "tamil_gate_satisfied": true,
+    "source": "final verified Tamil transcription",
+    "voice_policy": "Retain Kalaignar's parliamentary language and voice in English: argumentative sequence, repetition, direct address, humour, wordplay, irony, metaphors, register shifts and stage markers are preserved rather than polished into generic modern English; printed English and source claims/figures are not silently corrected.",
+    "completed_source_pages": "304-326",
+    "completed_printed_pages": "303-325",
+    "completed_page_count": 23,
+    "total_page_count": 23,
+    "source_page_correspondence": true,
+    "unresolved_translation_questions": 0,
+    "verified_against_tamil": true,
+    "gate_g_reviewed_source_pages": "304-326",
+    "gate_g_reviewed_printed_pages": "303-325",
+    "gate_g_reviewed_page_count": 23,
+    "gate_g_total_page_count": 23,
+    "gate_g_correction_count": 9,
+    "gate_g_unresolved_questions": 0,
+    "gate_g_next_source_page": null,
+    "placement": "Canonical verified English follows the verified Tamil in transcript.md.",
+    "working_files_retired": true
+  },
+  "release": {
+    "gate_h_status": "passed",
+    "canonical_tamil_english_merge": true,
+    "indexed": true,
+    "release_ready": true,
+    "released": true,
+    "release_note": "Speech 10 is fully released through Gate H with verified Tamil and verified English; canonical transcript contains both layers."
+  }
 }

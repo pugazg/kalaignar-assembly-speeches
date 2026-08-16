@@ -70,3 +70,8 @@ Current release flags: canonical Tamil+English merge **false**; indexed **false*
 ## Exact next activity
 
 Perform the Gate-H canonical Tamil+English merge and release audit. Do not alter the verified Tamil while merging English.
+
+## Gate H — canonical merge and release
+
+**Passed.** The untouched Gate-E-verified Tamil remains first in `transcript.md`; the complete Gate-G-verified English for source pp.304–326 follows it. Canonical validation confirmed Tamil source markers 304–326 exactly once and in order and English source sections 304–326 exactly once and in order. All nine Gate-G corrections were preserved, including the corrected page boundaries, restored p.318 material and exact stage-marker positions. `data/speeches.json` and the root README were updated. Working split translation batches were retired after canonicalisation. Speech 10 is fully released through Gate H.
+

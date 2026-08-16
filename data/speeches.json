@@ -188,5 +188,24 @@
     "transcription_status": "verified",
     "verified_against_scan": true,
     "translation_status": "verified"
+  },
+  {
+    "id": "2006-08-23-industries-debate",
+    "date": "2006-08-23",
+    "year": 2006,
+    "speaker_ta": "மு. கருணாநிதி",
+    "speaker_en": "M. Karunanidhi",
+    "title_ta": "தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 10",
+    "title_en": "Kalaignar's Legislative Assembly Speeches on Industry — Speech 10",
+    "event_ta": "தொழில்துறை மற்றும் தகவல் தொழில்நுட்பத் துறை மானிய விவாத உரை",
+    "event_en": "Speech in the Industries and Information Technology grant debate",
+    "path": "speeches/2006/2006-08-23-industries-debate",
+    "languages": [
+      "ta",
+      "en"
+    ],
+    "transcription_status": "verified",
+    "verified_against_scan": true,
+    "translation_status": "verified"
   }
 ]

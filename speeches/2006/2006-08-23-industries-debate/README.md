@@ -21,30 +21,17 @@
 ## Current archival state
 
 - Gate C: **complete — 23/23 pages**.
-- Gate D: **passed — full completeness/page-marker/boundary audit**.
-- Gate E: **passed — 23/23 pages directly verified against scan; 6 definite Tamil corrections; 0 unresolved readings**.
-- Tamil: **verified against the controlling scan**.
-- Gate F English: **complete — 23/23 pages translated from final verified Tamil**.
-- Gate G English fidelity/voice review: **passed — 23/23 pages; 9 cumulative corrections; 0 unresolved translation questions**.
-- Kalaignar voice policy: **reviewed across the full English translation**; humour, repetition, argument sequence, wordplay, metaphors, register shifts, printed English, figures and parliamentary stage markers are retained rather than generically smoothed.
-- Gate H: **in progress — release preparation complete; canonical Tamil+English merge not yet complete**.
-- Indexed/released: **no**.
-
-Gate H preparation is documented in [`translation-review.md`](./translation-review.md). The verified English currently remains in five working segments. Before release, those segments must be merged without rewriting into `transcript.md` after the verified Tamil layer, and the complete source-page correspondence must be rechecked.
+- Gate D: **passed**.
+- Gate E: **passed — Tamil verified against scan; 6 corrections; 0 unresolved readings**.
+- Gate F: **complete — English translated from final verified Tamil**.
+- Gate G: **passed — 23/23 pages reviewed; 9 corrections; 0 unresolved questions**.
+- Gate H: **passed — canonical Tamil + verified English merged in `transcript.md`; machine-readable/root indexes updated**.
+- Release status: **fully released**.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — canonical verified Tamil; English canonical merge pending.
-- [`translation.md`](./translation.md) — verified English working segment, source pp.304–308.
-- [`translation-gate-f-batch-2.md`](./translation-gate-f-batch-2.md) — verified English source pp.309–313.
-- [`translation-gate-f-batch-3.md`](./translation-gate-f-batch-3.md) — verified English source pp.314–318.
-- [`translation-gate-f-batch-4.md`](./translation-gate-f-batch-4.md) — verified English source pp.319–323.
-- [`translation-gate-f-batch-5.md`](./translation-gate-f-batch-5.md) — verified English source pp.324–326.
-- [`translation-review.md`](./translation-review.md) — Gate G correction record and Gate H merge requirements.
-- [`metadata.json`](./metadata.json) — source mapping and gate status.
-- [`source-notes.md`](./source-notes.md) — source authority and boundary observations.
-- [`verification-log.md`](./verification-log.md) — Tamil audit trail; Gate F/G/H status update pending there.
-
-## Exact next activity
-
-Perform the **Gate H canonical merge**: append the complete Gate-G-verified English after the untouched verified Tamil in `transcript.md`, preserving all page boundaries and nine Gate-G corrections. Then run the release audit and update `data/speeches.json`, the root README, this README, verification log and anthology handover before marking Speech 10 released.
+- [`transcript.md`](./transcript.md) — canonical verified Tamil followed by verified English.
+- [`metadata.json`](./metadata.json) — source, audit and release state.
+- [`source-notes.md`](./source-notes.md) — source authority and boundaries.
+- [`verification-log.md`](./verification-log.md) — Gate C–H audit trail.
+- [`translation-review.md`](./translation-review.md) — Gate-G fidelity review record.
