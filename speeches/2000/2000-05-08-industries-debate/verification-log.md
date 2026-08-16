@@ -2,7 +2,7 @@
 
 ## Source preflight and locked boundaries
 
-Controlling PDF: 329 pages; Speech-9 scan range **278–303**, printed range **277–302**. Scan image is authoritative.
+Controlling PDF: **329 pages**; Speech-9 scan range **278–303**, printed range **277–302**. Scan image is authoritative. Scan p.277 closes Speech 8; p.278 begins Speech 9; p.303 closes Speech 9 with the printed ornament; p.304 begins Speech 10 (`உரை : 10`, `23.08.2006`).
 
 ## Gate C — Tamil first pass
 
@@ -10,61 +10,76 @@ Controlling PDF: 329 pages; Speech-9 scan range **278–303**, printed range **2
 
 ## Gate D — Tamil completeness/page-marker audit
 
-**Passed.** Source-page markers 278–303 are present exactly once and in strict order; no Speech-8 or Speech-10 spillover; unresolved reading markers: 0.
+**Passed.** Source-page markers 278–303 occur exactly once and in strict order; no Speech-8 or Speech-10 spillover; unresolved reading markers: 0.
 
 ## Gate E — strict Tamil source-fidelity verification
 
 ### Batch 1 — source pp.278–282 / printed pp.277–281
 
-**Complete.** Five pages directly re-read. One definite correction: p.279 `பிள்ளைகளை யெல்லாம்` → `பிள்ளைகளையெல்லாம்`. Unresolved: 0.
+**Complete.** Definite correction: p.279 `பிள்ளைகளை யெல்லாம்` → `பிள்ளைகளையெல்லாம்`.
 
 ### Batch 2 — source pp.283–287 / printed pp.282–286
 
-**Complete.** No canonical Tamil source-text correction required. Cumulative coverage: 10/26.
+**Complete.** No canonical Tamil correction required.
 
 ### Batch 3 — source pp.288–292 / printed pp.287–291
 
-**Complete.** No canonical Tamil source-text correction required. Cumulative coverage: 15/26.
+**Complete.** No canonical Tamil correction required.
 
 ### Batch 4 — source pp.293–297 / printed pp.292–296
 
-**Complete.** One definite correction applied: p.293 `இன்னொன்றியில்` → `இஃதன்னியில்`. Cumulative coverage: 20/26; cumulative Gate-E corrections: 2; unresolved: 0. Canonical transcript commit: `16f04ca171609602ea0cff3a73801df229020cb6`.
+**Complete.** Definite correction: p.293 `இன்னொன்றியில்` → `இஃதன்னியில்`. Canonical checkpoint: `16f04ca171609602ea0cff3a73801df229020cb6`.
 
 ### Batch 5 — source pp.298–302 / printed pp.297–301
 
-**Visual source-fidelity reread complete.** All five pages were rendered from the controlling 329-page scan and compared directly with the current canonical transcript.
+**Complete.** All five pages were visually re-read against the controlling scan. The source-sensitive p.298 forms were re-confirmed as:
 
-- pages visually checked in Batch 5: **5**;
-- cumulative visual Gate-E coverage: **25/26**;
-- audited source range: **278–302**;
-- audited printed range: **277–301**;
-- unresolved readings: **0**;
-- next source page: **303**.
-
-The rendered scan re-confirms the source-sensitive p.298 auxiliary spacing established earlier:
-
+- `சுப்பராயன் ஏற்றுக்கொள்கிறாரோ`
 - `பழனிசாமி ஏற்றுக் கொள்கிறாரோ`
 - `டி. மணி ஏற்றுக் கொள்கிறாரோ`
+- `ஹேமச்சந்திரன் ஏற்றுக்கொள்கிறாரோ`
 
-During this Batch-5 comparison, the current canonical transcript was found to contain a **regression**: both forms currently appear as `ஏற்றுக்கொள்கிறாரோ`, even though correction commit `8ed2c3685857e16b368139252386b623875284ab` had previously restored the scan-supported spacing. These are not new source readings; they are two pending canonical repairs caused by later transcript-state regression. Gate E must not be closed until they are restored.
+A subsequent pre-close canonical re-fetch established that `பழனிசாமி ஏற்றுக் கொள்கிறாரோ` and `டி. மணி ஏற்றுக் கொள்கிறாரோ` were already present in the canonical transcript. The earlier Batch-5 note describing those two forms as a current regression was therefore a **comparison-state error**, not an actual repository regression. No p.298 restoration was required.
 
-No other definite Batch-5 discrepancy was found. Direct visual reread re-confirmed without normalization or external reconciliation:
+The reread also re-confirmed p.299 `'TANCEM'`, `12-12-1994`, the Counter Affidavit English and Tamil explanation; p.300 both Government English sentences and `தயார் செய்வதன்` / `தயார் செய்து`; p.301 the full Ariyalur production sequence; and p.302 `அம்புஜா`, 85/145 rupees, `50 சதவிகிதத்திலே`, and the ending `111. நம்பர்`. Unresolved readings: **0**.
 
-- p.298 `ரைட்`, `சுப்பராயன் ஏற்றுக்கொள்கிறாரோ`, `ஹேமச்சந்திரன் ஏற்றுக்கொள்கிறாரோ`, and the source's varying auxiliary spacing;
-- p.299 `'TANCEM'`, `12-12-1994`, `Counter Affidavit`, the printed English beginning `In the present situation, there is no shortage of cement...`, and `மூன்றாவது பிரதிவாதியான டான்செம் நிறைவேற்றவில்லை.`;
-- p.300 the printed Government English sentences `The Government of Tamil Nadu are not in a position...` and `The Government have taken a decision...`, plus `சிமெண்ட் தயார் செய்வதன்` / `குறைந்த விலையில் தயார் செய்து`;
-- p.301 production figures `3,33,000`, `4,13,000`, `4,34,000`, `3,77,000`, `4,29,000`, `4,63,000`, `5,38,000`, `4,87,000`, `4,46,000` tons;
-- p.302 `அம்புஜா`, `85 ரூபாய்`, `145 ரூபாய்`, `50 சதவிகிதத்திலே`, and the ending `வெட்டுத் தீர்மானங்களுடைய எண்ணிக்கை 111. நம்பர்`.
+### Final Batch 6 — source p.303 / printed p.302
 
-### Current Gate-E truth
+**Complete. Gate E passed.** The final page was directly verified against the rendered controlling scan through the final Chair intervention and the printed closing ornament.
 
-Gate E remains **in progress**. Visual comparison is complete through source p.302, but the two p.298 canonical spacing regressions above must be repaired before final closure. Tamil remains **not verified**.
+One definite source-supported correction was required on p.303:
+
+- `வெட்டுத் தீர்மானங்களையும்` → `வெட்டுத்தீர்மானங்களையும்`
+
+The scan prints the compound continuously in the sentence beginning `இல்லாவிட்டாலும் கூட 111 ...`. The remainder of p.303 was confirmed as transcribed, including:
+
+- `கேட்டு அமைகிறேன்.`;
+- Chair call `திரு. பி. ஆர். சுந்தரம்.`;
+- Sundaram's `2,000 கோடி` → `2,000 இலட்சம்`, explicitly `20 கோடி`;
+- interrupted `ராசிபுரம்.....`;
+- Chair's separately printed `200 கோடி, 20 இலட்சம், 2,000 கோடி`;
+- final `அனுமதி கொடுத்துவிட்டேன், மாற்றிவிட்டார்கள். இனிமேல் உட்காருங்கள்.`;
+- closing ornament confirming the end of Speech 9.
+
+Scan p.304 was not included; it begins Speech 10.
+
+## Gate E final result
+
+- audited source range: **278–303**
+- audited printed range: **277–302**
+- verified pages: **26/26**
+- cumulative definite Gate-E corrections: **3**
+- unresolved readings: **0**
+- `verified_against_scan`: **true**
+- Tamil status: **verified**
+
+Canonical Gate-E-complete transcript commit: `8ab00921d9e8e3d7c0742ee9c4f3943ae1b7b109`, blob `ac00a79863c0b0bdbaac6d9fb7b03f7e4c1bb577`.
 
 ## English gates
 
-- Gate F: **blocked / not started**;
-- Gate G: **not started**.
+- Gate F: **not started; now unblocked**
+- Gate G: **not started**
 
 ## Exact next activity
 
-Before closing Gate E, restore the two scan-supported p.298 canonical forms `பழனிசாமி ஏற்றுக் கொள்கிறாரோ` and `டி. மணி ஏற்றுக் கொள்கிறாரோ`, documenting the repair as restoration of the already-established correction commit `8ed2c3685857e16b368139252386b623875284ab`. Then directly verify the final source/scan p.303 / printed p.302 against the controlling scan. Only after both repairs and p.303 verification may Gate E be marked complete and `verified_against_scan=true`. Do not begin English or Speech 10 in that bounded activity.
+Begin **Gate F — English translation from the final verified Tamil only**, following `docs/ARCHIVAL_WORKFLOW.md` and the established Speech-1–8 release pattern. Preserve source-page correspondence and do not use OCR or the scan as the translation source where it conflicts with the final verified Tamil. Do not begin Speech 10.
