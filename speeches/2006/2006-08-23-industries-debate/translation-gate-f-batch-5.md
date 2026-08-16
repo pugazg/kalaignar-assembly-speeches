@@ -2,11 +2,11 @@
 
 ## Source pages 324–326 / printed pages 323–325
 
-> Translated only from the final Gate-E-verified Tamil. Kalaignar's parliamentary language and voice are retained; source claims, figures, repetitions, technical English and stage markers are not silently normalised. Gate G verification has not yet begun.
+> Translated only from the final Gate-E-verified Tamil. Kalaignar's parliamentary language and voice are retained; source claims, figures, repetitions, technical English and stage markers are not silently normalised. Gate G review is complete for this batch.
 
 ### Source page 324
 
-—it is expected that, through new exploration technology, that reserve can be brought into use. Natural-gas reserves have been discovered in the Krishna-Godavari basin in Andhra State. The Government has decided to make use of this natural gas in order to improve Tamil Nadu's energy security.
+—use, it is expected, through new exploration technology. Natural-gas reserves have been discovered in the Krishna-Godavari basin in Andhra State. The Government has decided to make use of this natural gas in order to improve Tamil Nadu's energy security.
 
 In order to attain this objective, the Tamil Nadu Industrial Development Corporation will establish a new joint-sector company for the exploration, production and distribution of crude oil and natural gas. This new company will establish the necessary pipeline infrastructure throughout Tamil Nadu and create a Natural gas distribution network. It is certain that this new initiative of the Government, besides improving the energy security of this State, will also pave the way for Tamil Nadu's continuous economic growth and for an increase in the State Government's revenue. (Sound of desk-thumping.)
 
@@ -34,8 +34,10 @@ It has been decided to provide suitable land and one crore rupees for the Tamil 
 
 ### Source page 326
 
-As the first stage of the Information Technology Expressway — I.T. Expressway — project, which had earlier been begun during the Dravida Munnetra Kazhagam Government, laid out as a four-lane road, and then suffered an interruption in between, work is now under way, at an estimate of Rs. 205 crore, to upgrade the stretch of the Old Mahabalipuram Road from Taramani to Siruseri into a world-class six-lane road. (Sound of desk-thumping.) As the second stage in improving this road, work will also be undertaken to upgrade the approximately 25-kilometre stretch from Siruseri to Mahabalipuram into a six-lane road. (Sound of desk-thumping.)
+As the first stage of the Information Technology Expressway — I.T. Expressway — project, which had earlier been begun during the Dravida Munnetra Kazhagam Government, laid out as a four-lane road, and then suffered an interruption in between, work is now under way to upgrade the stretch of the Old Mahabalipuram Road from Taramani to Siruseri into a world-class six-lane road (Sound of desk-thumping.) at an estimate of Rs. 205 crore. As the second stage in improving this road, work will also be undertaken to upgrade the approximately 25-kilometre stretch from Siruseri to Mahabalipuram into a six-lane road. (Sound of desk-thumping.)
 
 In Kancheepuram district, the Sriperumbudur and Oragadam areas are developing into important industrial centres. Therefore, it has become very necessary to improve the road infrastructure for the convenience of the factories. Accordingly, it has been decided to implement a project, at a cost of about Rs. 300 crore, to upgrade the important portions of the 24-kilometre Singaperumal Koil–Sriperumbudur Road and the 20-kilometre Vandalur–Walajabad Road into six-lane roads, and the other portions into four-lane roads. (Sound of desk-thumping.)
 
 With these pleasant announcements, taking together all the valuable views you have given — whether they are opposing views or supporting views — and saying that, in accordance with them, we shall take the measures that have to be taken under the Industries Department grant, I conclude my speech at this point. (Sound of desk-thumping.)
+
+> **Gate G final note:** Source pp.324–326 were reviewed against the final verified Tamil. Two structural/source-position corrections were required across the final boundary/review: (1) the p.323→324 continuation now follows the exact Tamil page break, with p.323 ending `brought into—` and p.324 beginning `—use, it is expected...`; (2) on p.326 the desk-thumping marker is restored to its source position immediately after the six-lane-road work phrase and before `at an estimate of Rs. 205 crore`. No other definite wording correction was required. The natural-gas network, sugarcane-freight promise, loud desk-thumping, IT-policy/TIDEL/Coimbatore/other-city announcements, I.T. Task Force, e-governance, Tamil Virtual University, I.T. Expressway, road figures and Kalaignar's closing formulation were retained.
