@@ -26,22 +26,22 @@
 | PDF scan pages | 278–303 |
 | Printed pages | 277–302 |
 
-இந்த உரையில் scan page = printed page + 1. Scan p.277 closes Speech 8; scan p.278 begins Speech 9. Scan p.303 closes Speech 9; scan p.304 begins Speech 10 (`உரை : 10`, `23.08.2006`). Both boundaries were re-confirmed directly from the controlling scan before transcription began.
+இந்த உரையில் scan page = printed page + 1. Scan p.277 closes Speech 8; scan p.278 begins Speech 9. Scan p.303 closes Speech 9; scan p.304 begins Speech 10 (`உரை : 10`, `23.08.2006`). Both boundaries were re-confirmed directly from the controlling scan before transcription began, and the p.303/p.304 boundary was confirmed again while closing Gate C.
 
 ## Current status
 
-Speech 9 is in **Gate C — Tamil first-pass transcription**.
+Speech 9 has **completed Gate C — Tamil first-pass transcription**.
 
 - Gate C Batch 1: **complete — source/scan pp.278–282 / printed pp.277–281**.
 - Gate C Batch 2: **complete — source/scan pp.283–287 / printed pp.282–286**.
 - Gate C Batch 3: **complete — source/scan pp.288–292 / printed pp.287–291**.
 - Gate C Batch 4: **complete — source/scan pp.293–297 / printed pp.292–296**.
 - Gate C Batch 5: **complete — source/scan pp.298–302 / printed pp.297–301**.
-- Cumulative Gate-C coverage: **25/26 pages, source pp.278–302 / printed pp.277–301**.
-- Next and final Gate-C source page: **303**.
+- Gate C Batch 6: **complete — source/scan p.303 / printed p.302**.
+- Cumulative Gate-C coverage: **26/26 pages, source pp.278–303 / printed pp.277–302**.
 - Unresolved first-pass readings: **0**.
-- Tamil status: **in-progress; not verified**.
-- Gate D completeness/page-marker audit: **not started**.
+- Tamil status: **transcribed; not verified**.
+- Gate D completeness/page-marker audit: **not started; next activity**.
 - Gate E strict visual source-fidelity verification: **not started**.
 - English Gate F: **blocked until the complete Tamil passes Gates D and E**.
 
@@ -49,15 +49,15 @@ Batches 1–4 preserve the documented source-sensitive forms and internal incons
 
 Batch 5 continues the Ariyalur/TANCEM privatisation discussion and preserves the source's printed English Counter Affidavit passages, the Tamil paraphrase `மூன்றாவது பிரதிவாதியான டான்செம் நிறைவேற்றவில்லை` without reconciling it to the printed English, the exact 1991-92 through 1999-2000 Ariyalur cement-production figures, and the p.302 `அம்புஜா` / Rs.85 / Rs.145 / 50% tender discussion. A post-write high-resolution reread produced four definite Gate-C corrections: p.298 `பழனிசாமி ஏற்றுக்கொள்கிறாரோ` → `பழனிசாமி ஏற்றுக் கொள்கிறாரோ`; `டி. மணி ஏற்றுக்கொள்கிறாரோ` → `டி. மணி ஏற்றுக் கொள்கிறாரோ`; and p.300 `தயார்செய்வதன்` / `தயார்செய்து` → `தயார் செய்வதன்` / `தயார் செய்து`. These are first-pass corrections, not Gate-E verification.
 
-Source p.302 ends mid-sentence after exactly `வெட்டுத் தீர்மானங்களுடைய எண்ணிக்கை 111. நம்பர்`.
+Batch 6 continues directly after p.302's `வெட்டுத் தீர்மானங்களுடைய எண்ணிக்கை 111. நம்பர்`. Source p.303 preserves `நன்றாக இல்லை. (பலத்த சிரிப்பு).`, the request concerning all 111 cut motions, and the final parliamentary exchange with `திரு. பி. ஆர். சுந்தரம்`. Sundaram corrects his earlier figure from `2,000 கோடி` to `2,000 இலட்சம்`, explicitly `20 கோடி`; the Chair's response separately prints the unusual sequence `200 கோடி, 20 இலட்சம், 2,000 கோடி`, which is retained without reconciliation. The page closes Speech 9 with the printed closing ornament. Scan p.304 begins Speech 10 and has not been included.
 
 ## Exact next activity
 
-Proceed with **Gate C final Batch 6 — source/scan p.303 / printed p.302 only**. Continue directly from `111. நம்பர்`, transcribe the final Speech-9 page from the rendered scan, confirm the closing boundary/ornament, and do **not** include scan p.304, which begins Speech 10. If p.303 completes cleanly, Gate C becomes 26/26 pages and the Tamil status may advance to `transcribed` (not verified); Gate D is then the next stage. Do not begin English translation.
+Proceed with **Gate D — full Tamil completeness/page-marker audit** for Speech 9. Confirm all 26 mapped source pages are represented, markers 278–303 are present once and in order, no page is skipped or duplicated, start/end boundaries match the locked map, and all printed speaker changes/interventions are represented. Do **not** begin Gate E or English translation in that bounded activity unless explicitly requested.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — Gate-C Tamil first-pass transcript, currently pp.278–302.
+- [`transcript.md`](./transcript.md) — complete Gate-C Tamil first-pass transcript, source pp.278–303 / printed pp.277–302; not yet verified.
 - [`metadata.json`](./metadata.json) — source mapping and current processing status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and source-sensitive observations.
-- [`verification-log.md`](./verification-log.md) — batch-level audit trail; Tamil is not yet verified.
+- [`verification-log.md`](./verification-log.md) — batch-level audit trail; Tamil is transcribed but not yet verified.
