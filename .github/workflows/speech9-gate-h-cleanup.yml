@@ -1,0 +1,25 @@
+name: Speech 9 Gate H cleanup
+
+on:
+  push:
+    paths:
+      - '.github/workflows/speech9-gate-h-cleanup.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Remove working review note from canonical transcript
+        run: python3 -c "from pathlib import Path; p=Path('speeches/2000/2000-05-08-industries-debate/transcript.md'); s=p.read_text(encoding='utf-8'); marker='\\n> **Gate G final-page note:**'; assert marker in s; p.write_text(s.split(marker,1)[0].rstrip()+'\\n',encoding='utf-8')"
+      - name: Commit cleanup
+        run: |
+          rm -f .github/workflows/speech9-gate-h-cleanup.yml
+          git config user.name 'kalaignar-archive-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Clean Speech 9 canonical release notes'
+          git push
