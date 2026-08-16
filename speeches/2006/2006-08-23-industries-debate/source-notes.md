@@ -88,3 +88,11 @@ The reread explicitly reconfirmed source-sensitive material without normalisatio
 - p.323 TNPL `2,30,000` / `1,20,000` metric-ton figures, `650 கோடி`, `30 கோடி`, `6.25 மெகாவாட்`, `Co-generation`, `13.50 கோடி`, `6 மெகாவாட்`, ethanol, and the Perambalur `5,000 கோடி` integrated industrial park / SEZ announcement.
 
 Cumulative Gate-E coverage: **20/23 pages**; cumulative definite corrections: **6**; unresolved readings: **0**.
+
+## Gate E Batch 5 — source pp.324–326 / printed pp.323–325
+
+The final three pages were directly re-read against the controlling rendered scan. **No canonical Tamil source-text correction was required in this batch.**
+
+The reread re-confirmed without normalisation: p.324 `Natural gas distribution network`, the 10-kilometre sugarcane-lorry-rent promise, `40 கோடி`, the new IT-policy announcement and `4-7-2000` TIDEL continuation; p.325 the second TIDEL park, Coimbatore IT park, Madurai/Trichy/Salem/Tirunelveli IT parks, the Indian institute announcement, `I.T. Task Force`, `e-governance`, and the Tamil Internet University building/one-crore announcement; p.326 `I.T. Expressway`, `205 கோடி`, the 25-kilometre six-lane extension, the 24-kilometre Singaperumal Koil–Sriperumbudur and 20-kilometre Vandalur–Walajabad road passages, `300 கோடி`, the final inclusive response to supportive and opposing views, the desk-thumping marker, and the printed closing ornament.
+
+Gate E is **passed** for all **23/23 pages**. Cumulative definite corrections: **6**. Unresolved readings: **0**. Tamil is verified against the controlling scan.

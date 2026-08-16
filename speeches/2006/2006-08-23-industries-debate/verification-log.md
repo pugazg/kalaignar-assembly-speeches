@@ -32,14 +32,14 @@ Gate D is a structural audit only. It does **not** constitute source-fidelity ve
 
 ## Later gates
 
-- Gate E: **in progress**;
-- Gate F English: **blocked**;
+- Gate E: **passed — 23/23 pages verified**;
+- Gate F English: **unblocked / not started**;
 - Gate G English verification: **not started**;
 - Gate H release: **not started**.
 
 ## Exact next activity
 
-Continue **Gate E Batch 3 — source/scan pp.314–318 / printed pp.313–317** by direct page-by-page comparison against the controlling rendered scan. Apply/document only definite source-supported corrections. Do not begin English.
+Begin **Gate F — English translation from the final verified Tamil**, preserving Kalaignar’s parliamentary voice and source-page correspondence. Do not call English verified until Gate G passes.
 
 
 ## Gate E — strict Tamil source-fidelity verification
@@ -107,3 +107,16 @@ No other definite correction was required in pp.314–318. Tamil remains **not v
 No canonical Tamil source-text correction was required in pp.319–323. The reread explicitly re-confirmed the CMIE/index figures and industrial-ranking argument; the `Single Window System` passage and Paramapada Sopanam metaphor; the SIPCOT 2,000-acre expansion announcement; Detroit / `Automotive Special Economic Zone`, Madurai park, `Reverse Osmosis` and leather-SEZ announcements; and the TNPL / wind-power / `Co-generation` / ethanol / Perambalur figures and wording.
 
 Tamil remains **not verified** until final source pp.324–326 pass Gate E. English Gate F remains blocked.
+
+### Batch 5 — source pp.324–326 / printed pp.323–325
+
+**Complete.** All three final mapped pages were directly re-read against the controlling rendered scan.
+
+- cumulative Gate-E coverage: **23/23 pages**;
+- definite corrections in Batch 5: **0**;
+- cumulative definite Gate-E corrections: **6**;
+- unresolved readings: **0**;
+- closing boundary: **verified through p.326 final paragraph, desk-thumping marker and ornament**;
+- pp.327–329 non-speech material: **excluded**.
+
+No canonical Tamil source-text correction was required on pp.324–326. Gate E is **passed** and `verified_against_scan=true`. Tamil is **verified**. English Gate F is now unblocked but has not started.

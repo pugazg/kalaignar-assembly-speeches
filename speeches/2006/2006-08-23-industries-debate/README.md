@@ -27,11 +27,11 @@
 - Speaker/intervention continuity and cross-page sentence continuity: **structurally audited**.
 - Gate-D Tamil text corrections: **0**.
 - Unresolved first-pass readings: **0**.
-- Tamil: **transcribed; not verified**.
-- Gate E: **in progress — 20/23 pages verified (source pp.304–323 / printed pp.303–322), 6 definite corrections, 0 unresolved readings**.
-- English Gate F: **blocked until verified Tamil is complete**.
+- Tamil: **verified against the controlling scan**.
+- Gate E: **passed — 23/23 pages verified, 6 definite corrections, 0 unresolved readings**.
+- English Gate F: **unblocked; not started**.
 
-The next activity is **Gate E final Batch 5 — direct source-fidelity verification of source pp.324–326 / printed pp.323–325**, including the Speech-10 closing boundary. Do not begin English yet.
+The next activity is **Gate F — English translation from the final verified Tamil**, retaining Kalaignar’s parliamentary language, humour, repetition, rhetoric, political phrasing, register shifts and printed English without generic smoothing.
 
 ## Files
 

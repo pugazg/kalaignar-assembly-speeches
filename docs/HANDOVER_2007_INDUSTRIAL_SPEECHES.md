@@ -37,18 +37,18 @@ Rendered p.304 was directly inspected at startup and reconfirmed the `உரை 
 - speaker/intervention and cross-page continuity: **structurally audited**;
 - Gate-D Tamil text corrections: **0**;
 - unresolved first-pass readings: **0**;
-- Tamil status: **transcribed; not verified**;
-- `verified_against_scan`: **false**;
-- Gate E: **in progress — 20/23 pages verified; 6 definite corrections; 0 unresolved readings**;
-- English Gate F: **blocked**.
+- Tamil status: **verified**;
+- `verified_against_scan`: **true**;
+- Gate E: **passed — 23/23 pages verified; 6 definite corrections; 0 unresolved readings**;
+- English Gate F: **unblocked; not started**.
 
-Gate D is structural only. Do not treat it as a source-fidelity pass.
+Gate E has now completed the full direct source-fidelity reread. Tamil is verified against the controlling scan.
 
-## Exact next activity — Speech 10 Gate E Batch 3
+## Exact next activity — Speech 10 Gate F
 
-1. Directly compare rendered source/scan pp.314–318 / printed pp.313–317 against the canonical Tamil.
-2. Use the scan image as textual authority; do not normalise or externally correct source wording.
-3. Apply and document only definite source-supported corrections.
-4. Preserve humour, repetition, printed English, figures, speaker/intervention labels and unusual grammar.
-5. Keep `verified_against_scan=false` until all 23 pages pass Gate E.
-6. Do not begin English until Gate E is complete.
+1. Translate only from the final verified Tamil in `transcript.md`.
+2. Preserve source-page correspondence.
+3. Retain Kalaignar’s parliamentary language, long argumentative movement, repetitions, humour, rhetorical questions, political phrasing and register shifts rather than smoothing them into generic English.
+4. Preserve printed English as printed where it appears in the Tamil source.
+5. Do not silently correct source claims, figures or unusual wording.
+6. Keep English unverified until the separate Gate G fidelity review is complete.

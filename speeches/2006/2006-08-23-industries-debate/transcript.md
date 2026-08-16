@@ -2,7 +2,7 @@
 
 ## உரை : 10 — நாள் : 23.08.2006
 
-> **Tamil verification note:** Gate C is complete and Gate D passed. Gate E Batches 1–4 directly re-read source/scan pp.304–323 / printed pp.303–322 against the controlling rendered scan. Six definite source-supported corrections have been applied cumulatively; Batch 4 (pp.319–323) required **no canonical Tamil correction**. Gate-E coverage: **20/23 pages**. Tamil status: **verification in progress; not verified**. Unresolved readings: **0**.
+> **Tamil verification note:** Gate C is complete, Gate D passed, and Gate E has now directly re-read the full mapped speech — source/scan pp.304–326 / printed pp.303–325 — against the controlling rendered scan. Six definite source-supported corrections were applied cumulatively; final Batch 5 (pp.324–326) required **no canonical Tamil correction**. Tamil status: **verified against scan**. Unresolved readings: **0**.
 
 ---
 
