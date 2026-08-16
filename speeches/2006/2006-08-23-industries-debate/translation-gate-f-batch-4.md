@@ -1,6 +1,6 @@
 # English translation — Speech 10 Gate F Batch 4
 
-> Source: final Gate-E-verified Tamil only. Kalaignar's parliamentary voice, repetition, argument sequence, metaphors, humour, direct address, stage markers, figures and printed English are retained rather than generically smoothed. This is Gate F working English and is not yet Gate-G verified.
+> Source: final Gate-E-verified Tamil only. Gate G reviewed for source pp.319–323. Kalaignar's parliamentary voice, repetition, argument sequence, metaphors, humour, direct address, stage markers, figures and printed English are retained rather than generically smoothed.
 
 ### Source page 319
 
@@ -42,6 +42,8 @@ By undertaking Co-generation in sugar mills, their operating efficiency increase
 
 At the Salem and Amaravathi cooperative sugar mills, it has been decided to establish, at a cost of Rs. 6 crore, plants to manufacture the fuel called ethanol. (Sound of desk-thumping.)
 
-Taking into account that Perambalur district is a district backward in industry, it has been decided, through the Tamil Nadu Industrial Development Corporation (TIDCO), to establish in this district a Special Economic Zone together with an integrated industrial park. Through this, arrangements will be made for investment of about Rs. 5,000 crore to come into this area gradually and for employment to be available to thousands of people. (Sound of desk-thumping.)
+Taking into account that Perambalur district is a district backward in industry, it has been decided, through the Tamil Nadu Industrial Development Corporation (TIDCO), to establish in this district a Special Economic Zone together with an integrated industrial park. Through this, arrangements will be made for investment of about Rs. 5,000 crore to come into this area gradually, (Sound of desk-thumping.) and for employment to be available to thousands of people.
 
 Most of the natural gas available in Tamil Nadu is found in the Cauvery basin region. Through new exploration technology, that reserve can be brought into use—
+
+> **Gate G Batch 4 note:** Source pp.319–323 were reviewed page-by-page against the final verified Tamil. One definite fidelity correction was applied on p.323: the stage marker `(மேசையைத் தட்டும் ஒலி)` belongs immediately after the `Rs. 5,000 crore` investment phrase in the Perambalur announcement, before the employment phrase; Gate F had moved it to the end of the sentence. Its source position has now been restored. No wording correction was otherwise required in pp.319–323. The CMIE figures, `ஊக்கம், உற்சாகம், ஆர்வம், அக்கறை` cadence, Single Window System argument, Paramapada Sopanam metaphor, announcements transition, 2,000-acre SIPCOT expansion, `Detroit of Asia`, Automotive Special Economic Zone, Madurai crown metaphor, Reverse Osmosis/leather-SEZ material, TNPL/Co-generation/ethanol figures and Perambalur announcement were retained without smoothing Kalaignar's voice.
