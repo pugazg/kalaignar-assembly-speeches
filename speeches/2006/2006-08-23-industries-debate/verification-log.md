@@ -4,119 +4,69 @@
 
 Controlling anthology: `தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்`, 329-page scan. Locked Speech-10 range: **scan/source pp.304–326 / printed pp.303–325**.
 
-At Speech-10 startup, rendered scan p.304 was inspected directly. It visibly contains `உரை : 10` and `நாள் : 23.08.2006`, reconfirming the opening boundary. Rendered p.326 closes Speech 10; pp.327–328 are `குறிப்புகள்` pages and p.329 is portrait/back matter.
+Rendered scan p.304 directly shows `உரை : 10` and `நாள் : 23.08.2006`. Rendered p.326 closes Speech 10; pp.327–328 are `குறிப்புகள்` pages and p.329 is portrait/back matter.
 
 ## Gate C — Tamil first pass
 
-**Complete — 23/23 pages.** Source pp.304–326 / printed pp.303–325 are transcribed. Source-page markers 304–326 are present once and in order. Unresolved first-pass readings: **0**. Tamil status after Gate C: **transcribed; not verified**.
+**Complete — 23/23 pages.** Source pp.304–326 / printed pp.303–325 transcribed. Source-page markers 304–326 are present once and in order. Unresolved first-pass readings: **0**.
 
-## Gate D — full Tamil completeness/page-marker/boundary audit
+## Gate D — Tamil completeness/page-marker/boundary audit
 
-**Passed.** Gate D audited the complete canonical Tamil structurally across the locked Speech-10 range.
-
-- mapped page coverage: **23/23**;
-- source-page markers: **304–326**, exactly once and in strict order;
-- missing markers: **0**;
-- duplicate markers: **0**;
-- reordered markers: **0**;
-- opening boundary: **clean at p.304** (`உரை : 10` / `23.08.2006`);
-- closing boundary: **clean at p.326** through the final paragraph, desk-thumping marker and closing ornament;
-- Speech-9 / p.303 spillover: **none**;
-- pp.327–329 `குறிப்புகள்` / portrait-back-matter spillover: **none**;
-- p.308→309 cross-page continuation after `ஆக, 285 வெட்டுத் தீர்மானங்கள்;`: **structurally continuous**;
-- speaker/intervention and page-crossing continuity: **structurally represented**;
-- unresolved reading markers: **0**;
-- Gate-D canonical Tamil corrections: **0**.
-
-Gate D is a structural audit only. It does **not** constitute source-fidelity verification. `verified_against_scan` remains **false** and Tamil remains **transcribed; not verified**.
-
-## Later gates
-
-- Gate E: **passed — 23/23 pages verified**;
-- Gate F English: **unblocked / not started**;
-- Gate G English verification: **not started**;
-- Gate H release: **not started**.
-
-## Exact next activity
-
-Begin **Gate F — English translation from the final verified Tamil**, preserving Kalaignar’s parliamentary voice and source-page correspondence. Do not call English verified until Gate G passes.
-
+**Passed.** All 23 mapped pages are represented; markers 304–326 are exact, unique and monotonic; opening/closing boundaries are clean; no Speech-9 or pp.327–329 spillover; speaker/intervention and cross-page continuity were structurally audited. Gate-D Tamil corrections: **0**.
 
 ## Gate E — strict Tamil source-fidelity verification
 
-### Batch 1 — source pp.304–308 / printed pp.303–307
-
-**Complete.** All five pages were directly re-read against the controlling rendered scan.
-
-- cumulative Gate-E coverage: **5/23 pages**;
-- definite corrections in Batch 1: **2**;
-- unresolved readings: **0**;
-- next source page: **309**.
+**Passed — 23/23 pages.** Six definite source-supported corrections were applied cumulatively; unresolved readings: **0**; `verified_against_scan=true`.
 
 Corrections:
 
 1. p.305 `கடமைப்பட்டிருக்கின்றேன்` → `கடமைப் பட்டிருக்கின்றேன்`;
-2. p.307 `Equity, சிறிய பகுதியாகும்.` → `Equity, சிறிய பகுதியேயாகும்.`.
+2. p.307 `Equity, சிறிய பகுதியாகும்.` → `Equity, சிறிய பகுதியேயாகும்.`;
+3. p.312 `அனைத்துச் கூட்டுறவுச் சர்க்கரை ஆலைகளுக்கு` → `அனைத்துக் கூட்டுறவுச் சர்க்கரை ஆலைகளுக்கு`;
+4. p.314 `குற்றம் சுமத்திவிட்டாலேயே` → `குற்றம் சுமத்திவிட்டதாலேயே`;
+5. p.315 `சமூகாயப் பொருளாதார` → `சமுதாயப் பொருளாதார`;
+6. p.316 `உயர்கும் உன்னதமான` → `உயரும் உன்னதமான`.
 
-Tamil remains **not verified** until all 23 mapped pages pass Gate E. English Gate F remains blocked.
+## Gate F — English translation
 
-### Batch 2 — source pp.309–313 / printed pp.308–312
+**Complete — 23/23 mapped source pages, pp.304–326 / printed pp.303–325.** Translation was made only from the final Gate-E-verified Tamil. Kalaignar's argumentative sequence, repetitions, humour, wordplay, irony, metaphors, political phrasing, register shifts, figures, printed English and stage markers were intentionally retained rather than generically smoothed.
 
-**Complete.** All five pages were directly re-read against the controlling rendered scan.
+Working files:
 
-- cumulative Gate-E coverage: **10/23 pages**;
-- definite corrections in Batch 2: **1**;
-- cumulative definite corrections: **3**;
-- unresolved readings: **0**;
-- next source page: **314**.
+- `translation.md` — pp.304–308;
+- `translation-gate-f-batch-2.md` — pp.309–313;
+- `translation-gate-f-batch-3.md` — pp.314–318;
+- `translation-gate-f-batch-4.md` — pp.319–323;
+- `translation-gate-f-batch-5.md` — pp.324–326.
 
-Correction:
+Unresolved translation questions after Gate F: **0**.
 
-1. p.312 `அனைத்துச் கூட்டுறவுச் சர்க்கரை ஆலைகளுக்கு` → `அனைத்துக் கூட்டுறவுச் சர்க்கரை ஆலைகளுக்கு`.
+## Gate G — full English fidelity and Kalaignar-voice review
 
-No other definite source-text correction was required on pp.309–313. Tamil remains **not verified** until all 23 mapped pages pass Gate E. English Gate F remains blocked.
-
-### Batch 3 — source pp.314–318 / printed pp.313–317
-
-**Complete.** All five pages were directly re-read against the controlling rendered scan.
-
-- cumulative Gate-E coverage: **15/23 pages**;
-- definite corrections in Batch 3: **3**;
-- cumulative definite Gate-E corrections: **6**;
-- unresolved readings: **0**;
-- next source page: **319**.
+**Passed — 23/23 pages, 9 cumulative corrections, 0 unresolved questions.** `verified_against_tamil=true`.
 
 Corrections:
 
-1. p.314 `குற்றம் சுமத்திவிட்டாலேயே` → `குற்றம் சுமத்திவிட்டதாலேயே`;
-2. p.315 `சமூகாயப் பொருளாதார` → `சமுதாயப் பொருளாதார`;
-3. p.316 `உயர்கும் உன்னதமான` → `உயரும் உன்னதமான`.
+1. p.304 — restored the personal referent in the mockery/ridicule/abuse/music passage;
+2. p.307 — corrected `ஈவுத் தொகை, Equity` from “dividend component” to the amount provided through share investment — Equity;
+3. p.308→309 — restored the school-attendance / `உள்ளேன் ஐயா` paragraph to p.308;
+4. p.313→314 — restored the Chengalpattu K. Arumugam paragraph wholly to p.313;
+5. p.318 — restored the omitted latter SIPCOT-list passage and `what industry / through whom` framing;
+6. p.315 — corrected `பண்பட்ட பாதை` from “cultivated path” to “the refined path”;
+7. p.323 — restored the Perambalur desk-thumping marker immediately after the Rs. 5,000 crore investment phrase;
+8. p.323→324 — aligned the English continuation with the exact Tamil page boundary;
+9. p.326 — restored the desk-thumping marker after the six-lane-road work phrase and before the Rs. 205 crore estimate.
 
-No other definite correction was required in pp.314–318. Tamil remains **not verified** until all 23 mapped pages pass Gate E. English Gate F remains blocked.
+The full Gate-G review explicitly retained the cut-motion wordplay, school-attendance humour, mango/election-symbol joke, rice/`wine` humour, bagasse humour, TNPL labour-rights formulation, computer/Bio-Technology Revolution progression, SIPCOT historical argument, `Single Window System`, Paramapada Sopanam metaphor, “Detroit of Asia,” announcement figures, IT terminology and Kalaignar's final opposing/supporting-views closing formulation.
 
-### Batch 4 — source pp.319–323 / printed pp.318–322
+## Gate H — release
 
-**Complete.** All five pages were directly re-read against the controlling rendered scan.
+**In progress. Gate-H preparation complete; canonical merge pending.**
 
-- cumulative Gate-E coverage: **20/23 pages**;
-- definite corrections in Batch 4: **0**;
-- cumulative definite Gate-E corrections: **6**;
-- unresolved readings: **0**;
-- next source page: **324**.
+`translation-review.md` records the Gate-G review and the exact release invariant. Before release, the five verified English working segments must be merged without rewriting into `transcript.md` after the verified Tamil layer. Then page correspondence, source-sensitive stage-marker positions and all nine Gate-G corrections must be rechecked. Only after that should `data/speeches.json`, root README and anthology handover be updated and Speech 10 marked released.
 
-No canonical Tamil source-text correction was required in pp.319–323. The reread explicitly re-confirmed the CMIE/index figures and industrial-ranking argument; the `Single Window System` passage and Paramapada Sopanam metaphor; the SIPCOT 2,000-acre expansion announcement; Detroit / `Automotive Special Economic Zone`, Madurai park, `Reverse Osmosis` and leather-SEZ announcements; and the TNPL / wind-power / `Co-generation` / ethanol / Perambalur figures and wording.
+Current release flags: canonical Tamil+English merge **false**; indexed **false**; release-ready **false**.
 
-Tamil remains **not verified** until final source pp.324–326 pass Gate E. English Gate F remains blocked.
+## Exact next activity
 
-### Batch 5 — source pp.324–326 / printed pp.323–325
-
-**Complete.** All three final mapped pages were directly re-read against the controlling rendered scan.
-
-- cumulative Gate-E coverage: **23/23 pages**;
-- definite corrections in Batch 5: **0**;
-- cumulative definite Gate-E corrections: **6**;
-- unresolved readings: **0**;
-- closing boundary: **verified through p.326 final paragraph, desk-thumping marker and ornament**;
-- pp.327–329 non-speech material: **excluded**.
-
-No canonical Tamil source-text correction was required on pp.324–326. Gate E is **passed** and `verified_against_scan=true`. Tamil is **verified**. English Gate F is now unblocked but has not started.
+Perform the Gate-H canonical Tamil+English merge and release audit. Do not alter the verified Tamil while merging English.
