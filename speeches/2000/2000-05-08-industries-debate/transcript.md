@@ -2,7 +2,7 @@
 
 ## உரை : 9 — நாள் : 8.05.2000
 
-> **Gate E verification note:** Gate C is complete, Gate D passed, and Gate E has now directly re-read all scan/source pp.278–303 / printed pp.277–302 against the controlling rendered scan. Three definite Gate-E source-supported corrections were applied: p.279 `பிள்ளைகளை யெல்லாம்` → `பிள்ளைகளையெல்லாம்`; p.293 `இன்னொன்றியில்` → `இஃதன்னியில்`; p.303 `வெட்டுத் தீர்மானங்களையும்` → `வெட்டுத்தீர்மானங்களையும்`. Cumulative Gate-E verification: **26/26 pages**. Tamil status: **verified against scan**.
+> **Archival transcription and translation note:** This canonical release contains the complete Tamil transcription for scan/source pp.278–303 / printed pp.277–302, verified page-by-page against the controlling May 2007 scan, followed by the complete English translation verified page-by-page against that final Tamil. Tamil Gate E passed with 3 definite source-supported corrections and 0 unresolved readings. English Gate G passed with 2 definite fidelity corrections and 0 unresolved translation questions. Kalaignar’s parliamentary voice, argumentative sequence, repetition, humour, rhetoric, direct address, register shifts, source-sensitive oddities, figures and printed English are retained rather than silently modernised or fact-corrected. Tamil and English status: **verified**.
 
 ---
 
@@ -242,3 +242,272 @@ Tanflora Infrastructure Park; 24.85 கோடி ரூபாய் முதல
 **திரு. பி. ஆர். சுந்தரம் :** மாண்புமிகு பேரவைத் தலைவர் அவர்களே, நான் முன்பு பேசியபோது, இந்த அழகப்பா சிமெண்ட் நிறுவனத்திற்குச் சொந்தமான அரசினுடைய நிலத்தை, வேறொரு பினாமி கம்பெனிக்கு 100 ஏக்கர் நிலத்தை விற்று விட்டார்கள் என்று கூறினேன். அதனுடைய மதிப்பு 2,000 கோடி என்று கூறினேன். அதை மாற்றி 2,000 இலட்சம், அதாவது 20 கோடி என்று பதிவேட்டில் பதிந்துகொள்ள வேண்டுமென்று கேட்டுக்கொண்டு மாண்புமிகு முதல்வர் அவர்கள் பேசும்போது, ராசிபுரம்.....
 
 **மாண்புமிகு பேரவைத் தலைவர் :** அது ஒன்றுக்கு மட்டும்தான் என்னிடம் அனுமதி வாங்கினீர்கள். அதோடு உட்காருங்கள். நீங்கள் கேட்ட அனுமதியைக் கொடுத்தேன். அந்த மரியாதையைக் காப்பாற்றிக் கொள்ளுங்கள். (குறுக்கீடு). நீங்கள் பேச்சிலே ஏதோ தப்பாக 200 கோடி, 20 இலட்சம், 2,000 கோடி என்று சொல்லிவிட்டு, அதை மாற்ற வேண்டுமென்று சொன்னீர்கள். அனுமதி கொடுத்துவிட்டேன், மாற்றிவிட்டார்கள். இனிமேல் உட்காருங்கள்.
+
+---
+
+# English translation
+
+> **Gate G verification note:** This is the complete English rendering of the final verified Tamil transcription for scan/source pp.278–303 / printed pp.277–302. It preserves source-page correspondence, parliamentary context, names, figures, technical terminology, argumentative sequence, repetitions, humour, rhetorical movement, interventions, unusual source-supported wording and printed English without substituting external corrections. Gate F is complete and Gate G **passed** after a full page-by-page fidelity review of all 26 source-page sections. Gate-G correction count: **2**; unresolved translation questions: **0**. English status: **verified**.
+
+### Source page 278
+
+**Speech: 9**  
+**Date: 8.05.2000**
+
+**Hon. Kalaignar M. Karunanidhi:** Hon. Speaker, under the demand for grants titled ‘Major Industries’, the Hon. Members Thiru S. Alagiri, Thiru R. Sivaraman, Thiru K. Subbarayan, Thiru Thangam Thennarasu, Thiru P. R. Sundaram, Thiru G. K. Mani, Thiru Abdul Latheef and Thiru Mohan Kandasamy have set out many of their valuable views. Though what is being discussed today under this demand is the subject ‘Major Industries’, they have made use of this time to speak here even about the small industries that ought to be started in their respective constituencies — why, they have gone as far as fire stations. I wish to place my explanation briefly before this House.
+
+First, our Alagiri said, “Rs. 14,000 has been allotted; this money would not be enough even to buy this newspaper for one year.” Immediately I contacted the management of ‘this newspaper’ (Laughter) and asked, “What is the annual subscription of this newspaper?” They said Rs. 1,015. (Loud laughter.) (Sound of desk-thumping.) That is the answer to that. (Laughter.) In this demand for grants of Rs. 14,000—
+
+**Thiru S. Alagiri:** Perhaps they have paid a life subscription? (Laughter.)
+
+**Hon. Kalaignar M. Karunanidhi:** Alagiri says, “life subscription.” Whose life is that? The life of the person who pays it, or the life of the newspaper? That has to be examined. This Rs. 14,000 is capital expenditure relating to power—
+
+### Source page 279
+
+—projects — it is all capital expenditure — it is for capital expenditure that this Rs. 14,000 has been allotted. Capital expenditure relating to power projects — Rs. 1,000; capital expenditure relating to telecommunications and electronics, Rs. 1,000; capital expenditure relating to consumer-goods industry, Rs. 1,000; capital expenditure relating to the sugar industry, Rs. 1,000; capital expenditure relating to the salt industry, Rs. 1,000; capital expenditure relating to other industries, Rs. 5,000; financial assistance to the lace-industry corporation, Rs. 1,000; share capital to the Tamil Nadu Leather Development Corporation, Rs. 1,000; Rs. 1,000 for cogeneration equipment; Rs. 1,000 for the scheme receiving financial assistance from autonomous institutions. Therefore, only a token provision has been made for this capital expenditure. Seeing that as a small sum of Rs. 14,000, when all the Ministers are given larger grants, when larger amounts are allotted, Alagiri took pity and wondered, “Poor Chief Minister — only Rs. 14,000 for him?” I thank him for that. What can be done? It is only by the mother practising thrift that all the children have to be protected. (Sound of desk-thumping.) I wish to remind him of that too.
+
+There is another matter. While opening the debate on the Budget, our friend Alagiri raised a controversy about where Tamil Nadu stands today in industrial investment and cited a statistic: “The Chief Minister said it had come to first place. Now it has gone down to third or fourth place.” But I wish to inform the House that it has reached the position of second place and that a situation has arisen in which it can once again attain first place. If we look step by step at Tamil Nadu's position in these industrial investments, during the period 1989-91, because of the encouragement given by the then Kazhagam Government to Tamil Nadu's industrial development—
+
+### Source page 280
+
+—Tamil Nadu had reached third place in India. That was in 1989-91. The D.M.K. was then in Government. Afterwards, during 1991-96, under the A.I.A.D.M.K. Government, Tamil Nadu fell behind in industrial development and slipped to fifth place. After the Kazhagam Government once again assumed responsibility in 1996, because of the impetus and encouragement continuously being given to industrial development, Tamil Nadu has once again raised its head in industrial development and stands in the forefront.
+
+Recently, the Centre for Monitoring Indian Economy — C.M.I.E. — in a report dated 22-4-200, compiled all the investments made in the Indian States and issued a report, on 22-4-2000. I wish to give its details here. Tamil Nadu: Rs. 1,14,893 crore. This constitutes 10.89 per cent of India's total investment that has been approved and is under implementation. Maharashtra: Rs. 1,55,326 crore; Gujarat: Rs. 1,41,207 crore; Andhra Pradesh: Rs. 1,33,587 crore; Orissa: Rs. 1,14,070 crore; Karnataka: Rs. 93,754 crore. According to these statistics, Maharashtra is in first place and Tamil Nadu is in second place. That is to say, the difference is only 1.04 per cent.
+
+But the point that must be mentioned in this is this: when the Centre for Monitoring Indian Economy — C.M.I.E., that is, Centre for Monitoring Indian Economy — compiled the statistics relating to investments, it left out Rs. 15,000 crore that ought to have been included for Tamil Nadu. To give the details of that Rs. 15,000 crore: the investment of Rs. 5,500 crore for excavating the third mine at Neyveli, the investment of Rs. 7,500 crore for Neyveli's third thermal power station, and the differential investment of Rs. 2,000 crore in the Jayankondam lignite project — these were left out. Had this Rs. 15,000 crore also been included, this position itself would have become first place. Maharashtra would have gone to the next place. Asking that this Rs. 15,000 crore be included, the Neyveli Lignite—
+
+### Source page 281
+
+—Corporation and the Jayankondam Lignite Corporation have written to the Centre for Monitoring Indian Economy and made a request. In fairness, this Rs. 15,000 crore too must be added to the investment that has come to our State. In its letter dated 15-5-2000, C.M.I.E. has informed us that this investment of Rs. 15,000 crore will be included. When it is so included, the amount of investment that has come to Tamil Nadu will be Rs. 1,41,893 + 15,000, making a total of Rs. 1,56,893 crore. I convey here the happy news (Sound of desk-thumping) that Tamil Nadu will then surpass the State of Maharashtra and come to first place.
+
+In roughly four years, the increase in investment at the all-India level has been Rs. 2,29,721 crore. Of that, the increase in Tamil Nadu alone has been Rs. 51,243 crore — a matter of distinction for us. I wish to inform the House that, in the increase in industrial investment across all India over about four years, Tamil Nadu's share is 22.31 per cent.
+
+If we look at export growth, and ask what are the goods being exported from Tamil Nadu: handicrafts—handicrafts, coir—coir, Readymade garments—ready-made garments, Textiles—textiles, Computer Software—computer software, Chemicals—chemical products, Gems and Jewellery—pearls and gold ornaments, Drugs—medicines, leather and leather products—Leather and Leather Products, cashew and cashew products, perfumes, metallic minerals, agricultural and processed food products, coffee, tea, tobacco and tobacco products — all these are being exported.
+
+### Source page 282
+
+Our Sundaram said here — whether in sorrow, or in anger, or with an intention to mock — that somehow, after this Government came, we have gone backwards in industry, in the economy, in everything. I wish to remind him of one statistic. In 1992-93, under the A.I.A.D.M.K. Government, goods worth Rs. 6,808 crore were exported from Tamil Nadu. In 1996-97, under the Kazhagam Government, exports were to the extent of Rs. 17,802 crore. In 1997-98, that rose to Rs. 18,982 crore. Six thousand crore has risen to eighteen thousand crore.
+
+In the English daily *Economic Times* dated 7-2-2000, under the heading "Exports in Tamil Nadu", the paper states:
+
+"Tamil Nadu is one of the highly industrialised State of our Country and is a major contributor to the Country's exports.
+
+Of late there is a spurt in the growth of industries like software, artificial diamonds and imitation jewellery.
+
+Chennai has now become an important base for global software majors, as the city has the infrastructure with adequate manpower"
+
+—so states that paper, the *Economic Times*.
+
+That is to say: “Tamil Nadu stands as one of the highly industrialised States in India. Tamil Nadu's contribution to the country's exports is very large. In recent times, the growth of many industries such as software, artificial diamonds and imitation jewellery has increased very considerably. Since Chennai possesses the necessary infrastructure facilities together with the required human resources, it stands as an important base for the world's major software companies” — this is what the *Economic Times* of 7-2-2000 points out.
+
+If we look at the figures for the extent to which computer software was exported from Tamil Nadu: in 1995-96, computer software exports were only to the extent of Rs. 37 crore. In 1998-99, Rs. 1,246 crore and 16 lakh. (Sound of desk-thumping.) In this 1999-2000—
+
+### Source page 283
+
+—Rs. 1,890 crore. Of this, from Coimbatore alone — from Coimbatore alone — software exports in 1996-97 were Rs. 1 crore and 51 lakh. In 1999-2000, Rs. 21 crore and 17 lakh; from Coimbatore alone, this software export.
+
+If we take Tamil Nadu's economic growth, the English newspaper *Industrial Herald* (April 2000), speaking about Tamil Nadu's economic growth, states:
+
+"Now the third largest, the Tamil Nadu economy is all set to emerge as the second largest among the States. With a heavy concentration of vehicle and auto component production units, the capital city Chennai is rightly called the Detroit of India"
+
+“Now in third place among the States in economic growth, Tamil Nadu will attain second place. Since a great many vehicle-manufacturing companies and factories producing automobile components are located here, the city of Chennai is appropriately called the Detroit of India” — that is how beautifully the *Industrial Herald* points it out. Detroit is a city in the State of Michigan in America. It was there that Henry Ford created his Ford company in 1908. The world's great giant car companies — what may be called Auto Giants — General Motors, Ford Motors and Chrysler, all three are in the city of Detroit. I merely wish to remind the House that this paper says Chennai is advancing today by comparison with that city. (Sound of desk-thumping.)
+
+Today, throughout the world, it is the growth of the information-technology industry that stands foremost. To put it particularly, information technology, which in the seventies was merely in the form of a concept—
+
+### Source page 284
+
+—has today become something present everywhere. Every sphere of human society and every branch of industrial development is being interwoven and developed by information technology — particularly by the magic of that one letter, "e". For example:
+
+e-Mail. e-Commerce, e-Medicine, e-Value, e-biz. e-biz means e-business--, e-Stock, e-Education — thus, even though "e" may ordinarily seem a simple thing to say, it is this "e" that today, in the sense of electronic, has spread throughout the world, everywhere, like a sound that pervades all places.
+
+On the Internet, which shows the whole world to the ear and the eye, we now see with the eye; we hear with the ear; this is the benefit of the Internet today. They say that, in the future, internet is going to come to such an extent that even the mind can perceive it. When the world is advancing in scientific development to that extent, we must create a situation in which we can join it and compete with it. For that, everyone praises Tamil Nadu as having attained first place in India today (Sound of desk-thumping); all the newspapers write in praise of it.
+
+In India itself, it is in Tamil Nadu that the number of engineering graduates who come out every year after receiving education in information technology and related fields is the highest: of the 23 thousand engineering graduates who complete their studies and come out in Tamil Nadu every year, more than 13 thousand graduates come out after receiving education in information technology and related fields. In India itself, it is in Tamil Nadu that the largest number of software engineering professionals—
+
+### Source page 285
+
+—are working. As of today, more than 22 thousand software specialists — Software Professionals — are working in Tamil Nadu. From October 1998 to September 1999 — I wish to tell you just this one statistic. From October 1998 to September 1999, the American Consulate in Chennai issued visas to 21,371 persons; the Consulate in Chennai issued them to twenty-one-thousand-and-some persons. During the same period, only 9,734 visas were issued at the Mumbai Consulate. At the New Delhi Consulate, visas were issued to 5,460 persons, and at the Calcutta Consulate to 1,367 persons. The National Association of Software and Services Companies (NASSCOM) has declared that Chennai is the first city preferred and chosen by information-technology companies. (Sound of desk-thumping.)
+
+For information technology itself, a separate department under the leadership of an I.A.S. officer was created in the Secretariat, Chennai, on 5-10-1998 and has been functioning. Under the leadership of the Chief Minister, an Information Technology Task Force — I.T. Task Force — has been created. For the first time in India, the Government that has formulated and announced a separate policy — I.T. Policy — specifically for information technology is the Dravida Munnetra Kazhagam Government. (Sound of desk-thumping.)
+
+As announced in the Budget on 27-3-1998, the Tamil Nadu Government undertakings TIDCO and ELCOT together are developing the TIDEL software park at Taramani at a project estimate of Rs. 340 crore. TIDEL Park — that is what our Subbarayan referred to. He said Kalaignar's camera is going only to places where there is light. The wonder in this camera is that—
+
+### Source page 286
+
+—going only to places where there is light, he said. The wonder in this camera is this: there is a light in it too. When this camera is washed, it will illuminate even dark places. I wish to tell my friend Subbarayan that it is such a wondrous camera. (Sound of desk-thumping.)
+
+TIDCO and ELCOT together, at a project estimate of Rs. 340 crore, are putting up 14 floors over 8 acres, with a building area of 12 lakh 80 thousand square feet. I laid the foundation stone for this TIDEL Park on 21-8-1998. On the upper floor of this building, V.S.N.L. and DoT are creating special facilities so that communications may be exchanged through terrestrial links, satellite links and microwaves. Air-conditioning facilities of 6 thousand tonnes capacity are being created for this park. The Thermal Energy Storage System to be installed here will be the third largest system in the world. Already, one in France and one in Japan are in large-scale use. Apart from these, numerous modernised facilities of world standard have been established in this park. Compared with the software parks in Hyderabad and Bangalore — those two there are themselves large software parks — this is much larger than they are. So far, 60 per cent of the space in the park has been allotted to world-renowned software companies. I am also happy to inform you that on the coming 4th of July, this software park is to be inaugurated by the Prime Minister of India, Vajpayee.
+
+TIDCO has started the country's first Venture Capital Fund, namely the Tamil Nadu Software Fund, and has so far provided investment assistance of Rs. 8 crore to four software entrepreneurs.
+
+### Source page 287
+
+At Siruseri on the Old Mahabalipuram Road, SIPCOT is developing, over an area of 1,000 acres, an information-technology park of international standard for very large-scale hardware and software development.
+
+At Sholinganallur, Tata Consultancy Services has started Asia's largest software centre. Following it, other very large companies — Wipro, Infosys and Polaris — have also established their centres in these areas.
+
+The Government of Tamil Nadu conducted in Chennai the World Tamil Internet Conference called ‘TamilNet 1999’. In connection with it, the Tamil keyboard and Tamil encodings were standardised.
+
+Tamil Nadu has registered itself as an associate member of the Unicode Consortium in America. It is noteworthy that Tamil Nadu is the first State in India to become a member of it.
+
+For the benefit of Tamil people throughout the world, the World Tamil Internet University — Tamil Virtual University — has been established with Dr. Va. Se. Kulandaisamy as its Chairman.
+
+In all the 1,200 higher-secondary schools throughout the State — 600 schools last year, and another 600 schools this year through the efforts of the Education Department — the scheme of offering computers as an optional subject in Standards 11 and 12 has been started. The High Court dismissed, on 23-4-1999, the case filed against this scheme. At that time the High Court said — after dismissing it, in the judgment the High Court said — ‘This Court appreciates that, because of this golden objective of the Government, 48 thousand students will receive training next year. This Court has—
+
+### Source page 288
+
+—faith in the Government of Tamil Nadu. It has faith that this Government, which strives as the guardian of social justice, will pay attention to the welfare of those who have studied among the rural and middle-class people’ — so it has been stated in the judgment.
+
+To encourage research in Tamil in the field of information technology, a Tamil Internet Research Centre has been established under the chairmanship of Dr. Ananda Krishnan.
+
+Until before May 1996, there were only 34 software companies in Tamil Nadu. After the Kazhagam Government assumed responsibility, 562 software companies have so far been established in Tamil Nadu. In Coimbatore — if Coimbatore is to be mentioned specially — in 1995-96 there were only four, just four, software companies. Today, in Coimbatore alone, 58 software companies have been established. Not only that, I wish to draw the attention of this House also to this happy news: most of the software required for films produced in Hollywood is prepared and sent from software companies in Chennai.
+
+The ‘WorldTel’ company has begun work to establish 13,000 community Internet centres throughout this State. Through that, a situation has arisen in which employment on a broad scale may become available to about 1 lakh 50 thousand people.
+
+In the article titled Raising Global Competitiveness of Tamil Nadu's IT Industry, published in the *Economic and Political Weekly* dated February 5 and 11, in the article written by Nirupam Bajpai and Navi Radjiv:
+
+“Tamil Nadu possesses skilled human resources on a large scale. Therefore, in India, Tamil Nadu—
+
+### Source page 289
+
+—has earned the distinction ‘Intellectual Power House’. This kind of strength, a global outlook, and an administration favourable to investors have together enabled Tamil Nadu to grow into a leading State capable of attracting foreign investment in India. Tamil Nadu is creating rapid progress in information technology. The Government of Tamil Nadu has chosen information technology as a basic strategy for the State's economic growth. The Government of Tamil Nadu has multiplied its efforts to create the environment necessary for rapid information-technology growth. Information technology in Tamil Nadu has in recent times been functioning very efficiently. Information-technology growth in Tamil Nadu is advancing faster than in its neighbouring States. Chennai is also growing into a very important centre for multimedia software development. Tamil Nadu is growing” — it has stated.
+
+When all the newspapers are able to praise us to this extent, when we are able to attract the attention of various countries of the world to this extent, I wish to say here with pride that information-technology progress is today blossoming in India, particularly in Tamil Nadu.
+
+As one stage of this speech, I wish to give this House a few particulars about the industrial establishments that stand started.
+
+Near Chennai, at Navalur, the Polaris Software Technology Park has been created. More than a thousand software professionals will work in it. Polaris is one of the 15 leading software companies in India. I am to inaugurate this software park on 24-5-2000. I also wish to inform the House here that more than a thousand persons will work here.
+
+### Source page 290
+
+Thiru Arun Jain, Chairman and Managing Director of Polaris, in the letter he wrote to me on April 20, 2000, has stated as follows:
+
+"I spent for 30 years of my life in Delhi and decided to set up Polaris in Chennai with the Management team because I like the environment and ethical values prevailing in the State of Tamil Nadu. With the support of State Government and people of the State, we are able to grow at a pace of more then 100% per year. I admire your leadership, which is giving this conducive environment for companies to flourish in the State of Tamil Nadu.
+
+Likewise, at Maraimalai Nagar, TIDCO, an undertaking of the Tamil Nadu Government, TCIL, an undertaking of the Central Government, and Fujikura of Japan have jointly established, at a cost of Rs. 28 crore, a factory manufacturing the most modern Optic Fibre Telecom Cables. I wish to inform you that I am going to inaugurate this factory on 26-5-2000. (Sound of desk-thumping.)
+
+Next, over an area of 2,800 acres, at a cost of Rs. 110 crore, SIPCOT has established the Perundurai Growth Centre — Perundurai Growth Centre. The Erode Turmeric Complex too is situated in this centre. I wish particularly to inform our Periyasamy that I shall inaugurate this centre and the turmeric complex on the morning of July 1. I am informing both Periyasamys.
+
+As I said at the outset, the TIDEL software park being constructed in Chennai at an estimated cost of Rs. 340 crore is to be inaugurated on July 4, as I have already mentioned. The industries that are to be started—
+
+### Source page 291
+
+—on that 4th, 28 world-renowned companies are to begin their software production there. I wish to announce that plan here.
+
+TIDCO and Dr. A.V.K. Reddy, an Indian living in America, together are to start in July, in the SIPCOT complex at Sriperumbudur, an export-oriented Technical Products factory manufacturing Condoms, at a cost of Rs. 27 crore.
+
+At Gummidipoondi, an Export Promotion Industrial Park has been established at a cost of Rs. 19.90 crore — Export Promotion Industrial Park. The Ministry of Commerce of the Central Government has also participated in establishing this park. This too is one among the factories that are to be started in July.
+
+The SIPCOT industrial park to be established at Sriperumbudur over 500 acres at a cost of Rs. 202 crore is also to be started in July.
+
+The Nanguneri High Technology Park, which will stand as a central force for industrial development in the southern districts, is being established over a total area of 3 thousand acres. TIDCO and two American companies together are developing this park. This High Technology Park has been declared a Special Economic Zone under the Central Government's recent Export-Import Policy — Special Economic Zone. Some of our Hon. Members spoke about it here. They asked, what is the use of starting all these kinds of big factories? Even while our Mohan Kandasamy was speaking, he asked, “You are starting big industries. What happened to all the small industries?” The amusing thing in this is that the very demand for grants that we are discussing today—
+
+### Source page 292
+
+—is itself the demand for grants relating to major industries. In that, they asked, “What happened to small industries?” This Government is indeed concerned about small industries too. “Some industries have died; they have been closed,” they said. In that modern language peculiar to our Subbarayan — or in that rough-and-ready language — he said, “You speak of births; why do you not speak of deaths?” What can be done? If there is a house, there will be those who die there and there will also continue to be those who are born there; that is normal, that is nature. If there are two withered tubers, they will die. In the same way, if there are weakened industries, they will die. If new industries come, we must praise them and fondle them saying, “My dear, my precious one.” That is how I ask Subbarayan to fondle them. He spoke about Nanguneri. There, about 9,000 people will get direct employment and 55,000 people will get indirect employment. Foreign investment of about Rs. 8,000 crore will come to Nanguneri. Through the industrial establishments set up here, other companies in our country too can take up work on a contract basis. Technology will rise. As the use of Tuticorin Port increases, the way will be opened for its expansion. Procedural obstacles that greatly hinder the increase of foreign investment will be completely removed in this project. I also wish to inform you that in this Special Economic Zone, that entire situation will be completely removed. This Nanguneri Park is to be inaugurated in July.
+
+A biotechnology park for women is being established at Kelambakkam with an investment of Rs. 6.70 crore. The park, which can provide employment to approximately 1,000 women, will be started in the coming month of August.
+
+Tanflora Infrastructure Park; at an investment of Rs. 24.85 crore, a flower-processing industrial park—
+
+### Source page 293
+
+—is being established over 220 acres at Hosur. It will begin functioning in September 2000.
+
+Along with this, the Chennai Trade Centre; the Government of Tamil Nadu and (TIDCO), together with the India Trade Promotion Organisation (ITPO), are establishing at Nandambakkam a trade centre with exhibition and conference halls. The Government of Tamil Nadu and TIDCO have provided 20 acres of land with all facilities for this purpose. This complex is to come up over an area of 20.000 square metres with all infrastructure facilities and equipment. In the first stage, a building covering 5000 square metres will be constructed. The very large international exhibition conducted by the India Trade Promotion Organisation, and the annual India International Leather Fair, will also be held in this complex. The Union Minister for Commerce and Industry laid the foundation stone for this complex on 30-1-2000. I also wish to inform the House that the inauguration will take place in November 2000.
+
+Another very important matter: now, amidst this scientific innovation of information technology, the Government of Tamil Nadu is today concerned also with that industry called Bio-Technology — with biotechnology. Through TIDCO, we have planned to establish a biotechnology industrial zone. For this, we also propose to create a biotechnology venture-capital fund of Rs. 20 crore. From December of this year, financial assistance is also to be provided to those who come forward to start biotechnology industries.
+
+In the Irungattukottai SIPCOT complex, the Chennai Petroleum Refinery company is establishing, at an estimate of Rs. 4 crore, a sales centre for high-grade motor spirit and diesel suitable for high-speed use—
+
+### Source page 294
+
+. This centre will begin functioning from December.
+
+The Praxair India Private Limited factory is being established in the Sriperumbudur industrial complex with an investment of Rs. 50 crore. This factory will manufacture and supply gases for industries — industrial gases. This factory too will begin functioning from December itself.
+
+Saint-Gobain glass factory: in the Irungattukottai SIPCOT complex, the Saint-Gobain glass factory established in the first stage at a cost of Rs. 480 crore with French technology has already begun trial production. It will begin commercial production by June. Through this, 450 people have obtained employment. There, as a second stage, the factory being established at an estimate of Rs. 3 crore and 10 lakh for the production of dolomite products will also begin production within this year itself.
+
+At Thiruchopuram village in Cuddalore district, the petroleum refinery of Pennar Refineries Limited of Andhra Pradesh is being established at an estimate of Rs. 3,200 crore. I also wish to inform you that this factory, coming up over 500 acres of land, will begin functioning in March 2001.
+
+Further, in Dharmapuri district, TIDCO has entered into an agreement with the Vasavi industrial group to establish, at an estimate of Rs. 432 crore, an integrated textile mill whose output can be exported entirely, one hundred per cent. Further, in carrying out this project, large companies in countries such as Japan and Germany—
+
+### Source page 295
+
+—will participate. This company will begin commercial production next year. (Sound of desk-thumping.)
+
+In the Kanjamalai area of Salem district and in the Vediyappan Malai — our Abdul Latheef will say it — Kavithi Malai areas of Tiruvannamalai district, studies have confirmed that approximately 450 million tonnes of low-grade iron ore are available. Through the experienced M.L. Dastur and Company, TIDCO has prepared a feasibility report. At an investment of Rs. 500 crore, TIDCO is to implement plans to mine 2 million tonnes of iron ore a year in the Kanjamalai area and one million tonnes a year in the Tiruvannamalai area; to enrich the iron ore from 35 per cent to 67 per cent; and, using this iron ore, to produce and export one million tonnes of iron pieces a year at Salem. I am happy to inform you of this too. (Sound of desk-thumping.)
+
+Likewise, TIDCO has planned, together with Namtha Textiles, to establish a modern garment-production division with an investment of Rs. 80 crore. Through this project, the division will have the modern facilities to produce, in a single day, 8,000 kilograms of intricately worked knitwear and 70,000 metres of woven garments, and to dye 4,500 kilograms of yarn; along with this, a ready-made garment production division will also be established in this complex. For this, machinery worth Rs. 40 crore will be imported. During the first five years, this company will export garments worth Rs. 700 crore. Full production under this project will begin by March 2001.
+
+### Source page 296
+
+Tamil Nadu stands as the first State in the country to create and put into operation a biotechnology industrial zone — as I mentioned at the outset. (Sound of desk-thumping.) A company from America, which is a leader in this field in the world, will guide this zone. The Government is establishing this zone with the aim of making Tamil Nadu a leading State in biotechnology.
+
+Keeping in view the various benefits of the biotechnology field, I had stated in the Budget on 24-3-2001 that a pioneering biotechnology policy would be formulated. Accordingly, to formulate that policy, an expert committee has been constituted under the chairmanship of agricultural scientist Dr. M. S. Swaminathan, with former Central Government Biotechnology Department Secretary Dr. S. Ramachandran, pharmaceuticals adviser Dr. M. D. Nair, head of a private technology institution Dr. S. Chandrasekar, head of the Department of Genetic Engineering and Biotechnology at Madurai Kamaraj University Dr. K. Thamalingam, Director of the Biotechnology Centre at Anna University Dr. P. Kaliraj, Vice-President of the Biotechnology Division of SPIC Dr. Joseph Thomas, Professor in the Biotechnology Department of the SPIC laboratory Dr. Kuntala Jayaraman, the Government Industries Secretary, and the Chairman and Managing Director of TIDCO as members. This committee will submit its report to the Government within three months. On that basis, the Tamil Nadu Biotechnology Policy will be formulated and announced.
+
+Thus, not only in Chennai and its surrounding areas, but also in Sriperumbudur and Tiruvanna—
+
+### Source page 297
+
+—malai, Salem, Dharmapuri, Coimbatore, Erode and Nanguneri — throughout all parts of Tamil Nadu — we have decided to start industries with investments running into many thousands of crores of rupees and provide employment opportunities to the youth. We are carrying those works forward continuously, with interest and at great speed. I also wish to inform the House that very soon, on the dates mentioned here, all these will be started and will begin carrying out their work.
+
+Here, Hon. Member Sundaram is sitting with the grievance that nothing has been said about Rasipuram. In that grievance, in the anger that arose in him, he gave Ariyalur one blow; he gave me one blow. He said, “Everything has been looted.” All that had to be looted was looted during the time when looting was going on. (Sound of desk-thumping.) Now we are living in good times. Therefore, our friend Sundaram need not have that worry. Sundaram and the people of his party often speak about Ariyalur. Even the Tamil Maanila Congress members, though they did not speak of it today, have many times been saying, “They are going to sell the Ariyalur Cement Factory.” I tell them firmly in this House: this Government certainly will not sell the Ariyalur Cement Factory — will not sell it. I state that categorically. (Sound of desk-thumping.) I say it as an announcement. No action of any kind, no effort of any kind, no decision of any kind has at any stage been taken by this Government to privatise either the Ariyalur Cement Factory or any division of the Tamil Nadu Cements Corporation; nor will it be taken. I state that again and again. But every day—
+
+### Source page 298
+
+—a statement comes; Madam's statement. Every day a statement keeps coming: “He is going to sell the Ariyalur Cement Factory; he is going to give it to his own son-in-law.” All of you would have seen and read it. Today they say that selling itself is a great sin. Right — it is a sin; I am not going to sell it. If it were sold, whether Subbarayan accepts it, whether Palanisamy accepts it, whether our D. Mani accepts it, whether Hemachandran accepts it or not, whether the other Members accept it or not — I myself will not accept it. Because I have said that I am a socialist. (Sound of desk-thumping.) The very reason some socialists in Tamil Nadu do not like me is that this fellow has become a socialist in competition with them! That itself is why some do not like me. (Sound of desk-thumping.) If everyone places a hand on the heart and considers it, they will agree that to that extent I am a socialist. Therefore, in the one circumstance in which privatisation may have to be welcomed because there is no way to avoid it, whenever pressure comes to privatise what already exists — the existing public sector — Karunanidhi is one who will oppose it. I state that again and again in this House. (Sound of desk-thumping.)
+
+And what did they do? Today, under the D.M.K. Government, they keep predicting day after day and issuing statements saying, “They are going to sell the Ariyalur Cement Factory.” What did they themselves do? It was when Madam Jayalalithaa was Chief Minister that, not only the Ariyalur Cement Factory, but the Alangulam Cement Factory, the Mayanur—
+
+### Source page 299
+
+—cement pipe factory, the Alangulam asbestos-sheet factory and the Vriddhachalam asbestos-pipe factory — in short, the whole of 'TANCEM' itself — was advertised in the newspapers on 12-12-1994 for sale and privatisation. Was it, or was it not? On 12-12-1994 ...... (Interruption.)
+
+**Hon. Kalaignar M. Karunanidhi:** It was advertised in the newspaper. In order to stop that attempt, the Kazhagam made a major effort then; it was through our present Minister, who was then the Treasurer of the Kazhagam, Arcot Veerasamy, that a case was filed in the High Court and an interim injunction obtained. It was possible then, through the case filed by Veerasamy, to stop the attempt not merely to sell Ariyalur but to sell and privatise all the establishments I have just mentioned together. In that case, the A.I.A.D.M.K. Government filed a Counter Affidavit. I shall read it out. He joins with them and mocks us. (Laughter.) Everyone must think about it. I am not saying that joining them is wrong or anything of that sort. I am not saying it for that. I say it only so that you may think about it. Do you know what is in that Affidavit? In that Counter Affidavit:
+
+"In the present situation, there is no shortage of cement in the market and the social obligation of the third respondent (TANCEM) to supply an essential commodity does not exist. As already stated the interests of the workers will be adequately protected".
+
+That is to say: “In the present situation there is no shortage of cement in the markets; the third respondent, TANCEM, has not fulfilled the social obligation it has to supply essential commodities.” They have made it the third respondent itself. It is a Government undertaking. They made it the third respondent — it has no concern. As already stated, the interests of the workers—
+
+### Source page 300
+
+—have been adequately protected,” it is stated.
+
+Next:
+
+"The Government of Tamil Nadu are not in a position to provide substantial funding due to the present financial situation and other priorities."
+
+That is to say, “Because of the present financial position and other priorities, the Government of Tamil Nadu is not in a position to provide further funds. Not to that factory.” Then, finally, they say again — look:
+
+"The Government have taken a decision that wherever possible the investment in the Public Sector Companies may be disinvested."
+
+That is to say, “The Government has taken a decision that wherever possible, the investments made in Public Sector Companies may be withdrawn.” After stating this in the Affidavit filed by the A.I.A.D.M.K. Government, in this condition, to look at us and say, “You are going to sell the Ariyalur Cement Factory” — (Sound of desk-thumping) — this is like some tale of finding fault with the peacock. I say it in a civilised manner. To that extent, deliberately, whatever the department may be, by making that department the centre, the efforts made by our friends in the A.I.A.D.M.K. and by its leader through statements to make accusations against this Government and fling dust in abuse will not succeed; and for industrial development this Government..... (Interruption.)
+
+**Thiru So. Balakrishnan:** Hon. Speaker, just one matter. Today all the private cement factories use the most modern machinery and, by manufacturing cement efficiently, have the opportunity to manufacture at a low cost and sell at a high price. I wish to know what efforts you have taken to modernise these cement factories belonging to our Tamil Nadu Government.
+
+### Source page 301
+
+**Hon. Kalaignar M. Karunanidhi:** Hon. Speaker, I shall give that answer with an explanation. Even now they keep saying in statements, “The production of the Ariyalur Cement Factory has gone down”; they say, “All production has gone down under Karunanidhi's rule.” Nothing has gone down. Under the A.I.A.D.M.K. Government, Ariyalur cement production was 3,33,000 tonnes in 1991-92, 4,13,000 tonnes in 1992-93, 4,34,000 tonnes in 1993-94, 3,77,000 tonnes in 1994-95, and 4,29,000 tonnes in 1995-96. Under the Kazhagam Government, in 1996-97 it was 4,63,000 tonnes — it did not go down. In 1997-98, 5,38,000 tonnes. In 1998-99, 4,87,000 tonnes; in 1999-2000, 4,46,000 tonnes — it has not gone down at all. It has reached that level; it has even gone beyond that level. But production has not gone down at all.
+
+If you ask why a loss occurs, there is only one reason for it: in privately run establishments, workers' wages are not paid at the level at which they are paid in the public sector. We have to accept that the expenditure is greater here. I am not blaming the workers. Just as there is a difference between a private bus and a bus belonging to our transport corporations, it is the same here too: when the private sector runs it, there is profit; when the private sector runs it, there is good production. Even so, production here has not gone down. Even when production remains at the same level, the reason there is no profit is that we do not even pay workers low wages as the private sector does; in the name of fair wages, we have to pay them wages. That too is one reason.
+
+### Source page 302
+
+They asked that it should be modernised. Now, I have not said that ‘Government Cement’ should not be bought. Government Cement is being bought now. But cement coming from the outside market — it is not merely the ‘Ambuja’ mentioned here; all kinds of cement have come. Even for the Electricity Department now, it is that cement that has been bought — they buy it for Rs.85. At the same time Government Cement costs Rs.145. They are unable to buy cement at Rs.145. If they buy it, the project cost will increase. Therefore they cannot buy it; therefore they do not buy it. That too is one reason.
+
+After examining all these things — as Thiru Subbarayan said here just now, having to compete at 50 per cent, having to compete in the tender itself to sell the cement — they said this should be changed. To see whether it can be changed, whether by changing it we can bring it to a certain position, a committee under our Chief Secretary was constituted a week ago to reorganise and modernise it. That committee has been asked to examine it and give an opinion. After that opinion is given, as our Hon. Leader of the Opposition said, efforts are being made through that committee to modernise it further, reduce these expenditures, increase cement production and create good demand for the cement so increased. Informing you of that, at this point today (Interruption) I shall conclude this.
+
+A great many cut motions have been given. The number of cut motions is 111. The number—
+
+### Source page 303
+
+—is not good. (Loud laughter.) Even so, I request that everyone withdraw all 111 cut motions, support the grant, and give the Government the funds sought, and I take my seat. (Sound of desk-thumping.)
+
+**Hon. Speaker:** Thiru P. R. Sundaram.
+
+**Thiru P. R. Sundaram:** Hon. Speaker, when I spoke earlier, I said that 100 acres of Government land belonging to this Alagappa Cement company had been sold to another benami company. I said its value was 2,000 crore. I request that this be changed and entered in the record as 2,000 lakh, that is, 20 crore. When the Hon. Chief Minister was speaking, Rasipuram.....
+
+**Hon. Speaker:** You obtained permission from me only for that one matter. Sit down with that. I gave you the permission you asked for. Preserve that courtesy. (Interruption.) In your speech you said something wrongly as 200 crore, 20 lakh, 2,000 crore, and you asked that it be changed. I have given permission; they have changed it. Now sit down.
+
+> **Gate G final-page note:** Source p.303 / printed p.302 was checked directly against the final verified Tamil. The `111` number joke, `I take my seat`, Sundaram's `2,000 crore` → `2,000 lakh, that is, 20 crore` correction request, interrupted `Rasipuram.....`, and the Speaker's separate `200 crore, 20 lakh, 2,000 crore` wording are all faithfully represented. No English correction was required on p.303; unresolved translation questions remain 0.

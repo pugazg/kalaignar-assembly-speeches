@@ -87,3 +87,26 @@ No Speech-10 material is present.
 ## Exact next activity
 
 Proceed to **Gate H — release preparation and canonical merge**, following `docs/ARCHIVAL_WORKFLOW.md` and the established Speech-1–8 release pattern. Gate H must merge the final verified English after the verified Tamil in the canonical release form, run the required release checks, update README/metadata/audit artefacts as prescribed, and only then mark Speech 9 fully released. Do not begin Speech 10 in the same bounded activity unless explicitly requested.
+
+
+## English gates
+
+### Gate F — translation
+
+**Complete: 26/26 pages, source pp.278–303 / printed pp.277–302.** Translation was made only from the final Gate-E-verified Tamil, with source-page correspondence and Kalaignar’s parliamentary voice retained.
+
+### Gate G — fidelity and voice verification
+
+**Passed: 26/26 pages.** All English page sections were re-read against the final verified Tamil. Two definite corrections were required:
+
+1. p.284 — removed an unsupported generic “driving force of the world economy” transition and restored Kalaignar’s actual scientific-advance / join-and-compete / Tamil Nadu-first-place argumentative sequence.
+2. p.286 — `இந்தக் கேமிரா கழுவும்போது` is retained in the source-sensitive English as “When this camera is washed,” rather than the interpretive Gate-F rendering “When this camera develops.”
+
+Unresolved translation questions/fidelity issues: **0**. `verified_against_tamil=true`.
+
+### Gate H — canonical release
+
+**Passed.** The complete verified English was reconstructed from the Gate-G-reviewed working segments, validated to contain source pages **278–303 exactly once and in order**, and merged after the untouched verified Tamil in canonical `transcript.md`. Tamil source markers were revalidated as **278–303 exactly once and in order**. Split working translation files were retired to a single pointer file, `translation.md`; `translation-review.md` remains as the fidelity record. `data/speeches.json` and the root README speech index were updated.
+
+Speech 9 is fully released with verified Tamil and verified English. Speech 10 was not started during this release activity.
+
