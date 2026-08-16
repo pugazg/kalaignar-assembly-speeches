@@ -50,37 +50,50 @@ Gate C is complete for all **26/26** mapped pages, source pp.278–303 / printed
 
 ### Batch 1 — source pp.278–282 / printed pp.277–281
 
-**Complete.** These five pages were directly re-read against the controlling rendered scan.
+**Complete.** Five pages directly re-read against the controlling rendered scan.
 
-- cumulative Gate-E coverage: **5/26 pages**
-- definite Gate-E corrections: **1**
+- definite corrections: **1**
+- p.279 `பிள்ளைகளை யெல்லாம்` → `பிள்ளைகளையெல்லாம்`
 - unresolved readings: **0**
-- next source page: **283**
 
-Definite correction:
+Batch-1 transcript checkpoint: `f6fca8fcd40454d3676bcbabb3cdcb2fb1798fcd`.
 
-- p.279 `பிள்ளைகளை யெல்லாம்` → `பிள்ளைகளையெல்லாம்`.
+### Batch 2 — source pp.283–287 / printed pp.282–286
 
-The high-resolution scan clearly prints the form continuously. No other definite correction was required on pp.278–282. The unusual p.280 `22-4-200`, the pp.280–281 investment figures, and the p.282 printed *Economic Times* English were re-confirmed and retained without external reconciliation.
+**Complete.** All five pages were directly re-read against the controlling rendered scan.
 
-Gate-E Batch-1 checkpoints:
+- Batch-2 corrections: **0**
+- cumulative Gate-E coverage: **10/26 pages, source pp.278–287 / printed pp.277–286**
+- cumulative Gate-E corrections: **1**
+- unresolved readings: **0**
+- next source page: **288**
 
-- transcript: `f6fca8fcd40454d3676bcbabb3cdcb2fb1798fcd`
-- transcript blob: `67b446b1c217217f380bd727dedc93b5cc5b6e9a`
-- metadata: `a41e16e01f42da490807efd2552e59f8aeaa542d`
-- README: `e3712ef8022a34396db974e44fe747b55f52c084`
-- verification log: `011a009b55946413e90d0a38f82116a2360ab610`
+The Batch-2 reread re-confirmed without normalisation or external reconciliation:
+
+- p.283 *Industrial Herald* English/Tamil passage, `1908ஆம் ஆண்டு`, `Ford`, `Auto Giants`;
+- p.284 `e-Mail. e-Commerce, e-Medicine, e-Value, e-biz.`, `e-business--, e-Stock, e-Education`, and `Internet` / `internet`;
+- p.285 `21,371`, `9734`, `5460`, `1367`, `NASSCOM`, `5-10-1998`, `I.T. Task Force`, `I.T. Policy`, `27-3-1998`, `TIDCO`, `ELCOT`, `TIDEL Park`;
+- p.286 `இந்தக் கேமிரா கழுவும்போது`, `V.S.N.L.`, `DoT`, `Thermal Energy Storage System`, `60 சதவீத`, `4-ந் தேதியன்று`, `Venture Capital Fund`;
+- p.287 `தமிழ்நெட் 1999`, Unicode Consortium, `Tamil Virtual University`, `1,200`, `600 + 600`, `23-4-1999`, `48 ஆயிரம்`, and the High Court continuation ending after `தமிழக அரசின்மீது இந்த நீதிமன்றம்`.
+
+Gate-E Batch-2 checkpoints:
+
+- transcript/status commit: `09e6ca0bd6a0a108826a2db6777aa5fe549e5f57`
+- transcript blob: `7ff4d248d7920ede9133651a99cd307a0cd23cbc`
+- metadata: `9d6b13ff9b8980a20db818ca07c57310fad09a44`
+- README: `57e75a6844989bbc565f7657e9a2a7a2438d6937`
+- verification log: `60ffd551dde4c60d50852659f584500df7057106`
 
 Tamil remains **not verified** until all 26 pages pass Gate E. English Gate F remains blocked.
 
-## Exact next activity — Speech 9 Gate E Batch 2
+## Exact next activity — Speech 9 Gate E Batch 3
 
 1. Read `docs/ARCHIVAL_WORKFLOW.md`, this handover, `sources/2007-industrial-speeches/mapping.md`, and the current Speech-9 files before writing.
-2. Process **Gate E Batch 2 — source/scan pp.283–287 / printed pp.282–286** only.
+2. Process **Gate E Batch 3 — source/scan pp.288–292 / printed pp.287–291** only.
 3. Re-read each page directly against the controlling rendered scan; OCR/parsed text is only an aid.
 4. Check words/characters, names/initials, numerals, dates, percentages, monetary values, units, printed English, headings, speaker labels, punctuation where legible, omissions/repetitions and cross-page continuations.
 5. Preserve source-supported unusual or inconsistent forms. Do not silently modernize, reconcile or fact-correct.
 6. Apply only definite scan-supported corrections to the canonical Tamil transcript and document each one in `verification-log.md` and relevant source notes.
 7. Keep unresolved readings explicit rather than guessing.
-8. After Batch 2, cumulative Gate-E coverage should be **10/26** if all five pages complete cleanly; Tamil must still remain not verified.
+8. After Batch 3, cumulative Gate-E coverage should be **15/26** if all five pages complete cleanly; Tamil must still remain not verified.
 9. Do **not** begin English translation or Speech 10.
