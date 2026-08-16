@@ -75,3 +75,21 @@ Correction:
 1. p.312 `அனைத்துச் கூட்டுறவுச் சர்க்கரை ஆலைகளுக்கு` → `அனைத்துக் கூட்டுறவுச் சர்க்கரை ஆலைகளுக்கு`.
 
 No other definite source-text correction was required on pp.309–313. Tamil remains **not verified** until all 23 mapped pages pass Gate E. English Gate F remains blocked.
+
+### Batch 3 — source pp.314–318 / printed pp.313–317
+
+**Complete.** All five pages were directly re-read against the controlling rendered scan.
+
+- cumulative Gate-E coverage: **15/23 pages**;
+- definite corrections in Batch 3: **3**;
+- cumulative definite Gate-E corrections: **6**;
+- unresolved readings: **0**;
+- next source page: **319**.
+
+Corrections:
+
+1. p.314 `குற்றம் சுமத்திவிட்டாலேயே` → `குற்றம் சுமத்திவிட்டதாலேயே`;
+2. p.315 `சமூகாயப் பொருளாதார` → `சமுதாயப் பொருளாதார`;
+3. p.316 `உயர்கும் உன்னதமான` → `உயரும் உன்னதமான`.
+
+No other definite correction was required in pp.314–318. Tamil remains **not verified** until all 23 mapped pages pass Gate E. English Gate F remains blocked.

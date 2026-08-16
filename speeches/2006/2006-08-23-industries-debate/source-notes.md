@@ -64,3 +64,13 @@ Five pages were directly re-read against the controlling rendered scan. One defi
 1. p.312 `அனைத்துச் கூட்டுறவுச் சர்க்கரை ஆலைகளுக்கு` → `அனைத்துக் கூட்டுறவுச் சர்க்கரை ஆலைகளுக்கு`.
 
 No other definite correction was required on pp.309–313. The p.309 `வெட்டுத் தீர்மானங்கள்` / `வெட்டித் தீர்மானங்கள்` wordplay, p.310 juice/election-symbol humour, p.311 industrial-policy wording, p.312 printed `wine` passage, and p.313 `Skill development` / `Special Economic Zone` material were retained without normalisation. Cumulative Gate-E coverage: **10/23 pages**; cumulative definite corrections: **3**; unresolved readings: **0**.
+
+## Gate E Batch 3 — source pp.314–318
+
+Five pages were directly re-read against the controlling rendered scan. Three definite source-supported corrections were applied to the canonical Tamil:
+
+1. p.314 `குற்றம் சுமத்திவிட்டாலேயே` → `குற்றம் சுமத்திவிட்டதாலேயே`;
+2. p.315 `சமூகாயப் பொருளாதார` → `சமுதாயப் பொருளாதார`;
+3. p.316 `உயர்கும் உன்னதமான` → `உயரும் உன்னதமான`.
+
+No other definite correction was required on pp.314–318. The labour-rights passage, `T.N.P.L`, `F.I.R.`, industrial-revolution discussion, `Bio-Technology Revolution`, `State Industries Promotion Corporation of Tamil Nadu`, `park-கள் பூங்காக்கள்`, SIPCOT history, acreage/investment figures and stage markers were retained without normalisation. Cumulative Gate-E coverage: **15/23 pages**; cumulative corrections: **6**; unresolved readings: **0**.
