@@ -1,10 +1,8 @@
 # English translation — Speech 10 — Gate F Batch 2
 
-> Source: final Gate-E-verified Tamil only. Working translation; Gate G pending. Kalaignar's repetitions, humour, wordplay, direct address and parliamentary cadence are intentionally retained.
+> Source: final Gate-E-verified Tamil only. Gate G reviewed for source pp.309–313. Kalaignar's repetitions, humour, wordplay, direct address and parliamentary cadence are intentionally retained.
 
 ### Source page 309
-
-—indeed, I have never seen so many cut motions. They themselves said it too: every day, before the grants are taken up here, our Speaker calls out each person's name as though attendance were being taken in a school, and they too say, ‘Present, sir’; (Laughter.) their names are called — thus, 285 cut motions.
 
 Under these two headings alone, under these grants alone, 285 cut motions. But among those 285, among all of them, there are many cut motions that remind the Government, or remind me who has taken charge of this Department, and draw our attention. I think it would be proper if I recalled just a few of them here in particular. Otherwise, all those ‘cut motions’ would become ‘idle motions’. (Laughter.) (Sound of desk-thumping.) Therefore, I wish to recall only a few. Without regard to party, in a general manner, I wish to mention the names of those who have given them, state those views, and give the explanations and particulars relating to them.
 
@@ -49,3 +47,5 @@ Thiru Ravikumar, Viduthalai Chiruthaigal, has asked “to discuss the necessity 
 Thiru D. Jayakumar, Royapuram: “The Ennore area in North Chennai has been declared an economic zone, but so far factories have not been established in this area.” — Not even during Amma's time? (Laughter.) (Interruption.) Do not worry; we can establish them. “To discuss the necessity of immediately establishing a Special Economic Zone in this area in a manner that increases employment opportunities and greatly benefits the people of North Chennai,” he has asked. Certainly that too will be attended to, to an extent that will make him happy. (Sound of desk-thumping.)
 
 Chengalpattu Thiru K. Arumugam—
+
+> **Gate G Batch 2 note:** Source pp.309–313 reviewed against the final verified Tamil. One structural/page-correspondence correction was required: the first paragraph previously placed under source p.309 (`I have never seen so many cut motions... thus, 285 cut motions`) belongs to source p.308 in the verified Tamil and has been restored to the end of p.308 in `translation.md`. No wording correction was required within pp.309–313. The cut-motion/idle-motion wordplay, newspaper aside, Cheyyar irony, mango/election-symbol joke, worker-life formulation, Namakkal struggle passage, `very, very important` repetition, rice/wine humour, bagasse humour and `Not even during Amma's time?` intervention were retained.
