@@ -2,7 +2,7 @@
 
 ## உரை : 9 — நாள் : 8.05.2000
 
-> **Gate E verification note:** Gate C is complete and Gate D has passed. Gate E Batch 1 directly re-read scan/source pp.278–282 / printed pp.277–281 against the controlling rendered scan. One definite source-supported correction was applied on p.279. Cumulative Gate-E verification: **5/26 pages**. Tamil status: **verification in progress; not verified**.
+> **Gate E verification note:** Gate C is complete and Gate D has passed. Gate E Batches 1–2 directly re-read scan/source pp.278–287 / printed pp.277–286 against the controlling rendered scan. Batch 1 applied one definite source-supported correction on p.279; Batch 2 required no canonical Tamil text correction. Cumulative Gate-E verification: **10/26 pages**. Tamil status: **verification in progress; not verified**.
 
 ---
 
