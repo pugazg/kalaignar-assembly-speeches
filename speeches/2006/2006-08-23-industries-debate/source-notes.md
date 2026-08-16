@@ -74,3 +74,17 @@ Five pages were directly re-read against the controlling rendered scan. Three de
 3. p.316 `உயர்கும் உன்னதமான` → `உயரும் உன்னதமான`.
 
 No other definite correction was required on pp.314–318. The labour-rights passage, `T.N.P.L`, `F.I.R.`, industrial-revolution discussion, `Bio-Technology Revolution`, `State Industries Promotion Corporation of Tamil Nadu`, `park-கள் பூங்காக்கள்`, SIPCOT history, acreage/investment figures and stage markers were retained without normalisation. Cumulative Gate-E coverage: **15/23 pages**; cumulative corrections: **6**; unresolved readings: **0**.
+
+## Gate E Batch 4 — source pp.319–323 / printed pp.318–322
+
+Five pages were directly re-read against the controlling rendered scan. **No canonical Tamil source-text correction was required in this batch.**
+
+The reread explicitly reconfirmed source-sensitive material without normalisation, including:
+
+- p.319 the listed industrial/company names, `Centre for Monitoring Indian Economy`, infrastructure index figures `145.62 / 106.12 / 104.01`, city figures `472.48 / 153 / 100.28`, and the `1989-1991` / `1991-1996` industrial-ranking argument;
+- p.320 `1994-1995`, `8.7`, `1999-2000`, `15.02`, `Single Window System`, the eight-permission sequence and the Paramapada Sopanam setup;
+- p.321 the Paramapada Sopanam continuation, the announcements transition, SIPCOT Thiruperumbudur/Oragadam expansion and `2000`-acre land-acquisition statement;
+- p.322 `ஆசியாவின் டெட்ராய்ட்` / `(Detroit)`, `35 சதவிகிதம்`, `Automotive Special Economic Zone`, the Madurai industrial-park announcement, `ரூபாய் 115 கோடி`, `11` common effluent-treatment plants, `Reverse Osmosis`, and the `250 ஏக்கர்` leather SEZ;
+- p.323 TNPL `2,30,000` / `1,20,000` metric-ton figures, `650 கோடி`, `30 கோடி`, `6.25 மெகாவாட்`, `Co-generation`, `13.50 கோடி`, `6 மெகாவாட்`, ethanol, and the Perambalur `5,000 கோடி` integrated industrial park / SEZ announcement.
+
+Cumulative Gate-E coverage: **20/23 pages**; cumulative definite corrections: **6**; unresolved readings: **0**.

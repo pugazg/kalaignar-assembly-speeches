@@ -93,3 +93,17 @@ Corrections:
 3. p.316 `உயர்கும் உன்னதமான` → `உயரும் உன்னதமான`.
 
 No other definite correction was required in pp.314–318. Tamil remains **not verified** until all 23 mapped pages pass Gate E. English Gate F remains blocked.
+
+### Batch 4 — source pp.319–323 / printed pp.318–322
+
+**Complete.** All five pages were directly re-read against the controlling rendered scan.
+
+- cumulative Gate-E coverage: **20/23 pages**;
+- definite corrections in Batch 4: **0**;
+- cumulative definite Gate-E corrections: **6**;
+- unresolved readings: **0**;
+- next source page: **324**.
+
+No canonical Tamil source-text correction was required in pp.319–323. The reread explicitly re-confirmed the CMIE/index figures and industrial-ranking argument; the `Single Window System` passage and Paramapada Sopanam metaphor; the SIPCOT 2,000-acre expansion announcement; Detroit / `Automotive Special Economic Zone`, Madurai park, `Reverse Osmosis` and leather-SEZ announcements; and the TNPL / wind-power / `Co-generation` / ethanol / Perambalur figures and wording.
+
+Tamil remains **not verified** until final source pp.324–326 pass Gate E. English Gate F remains blocked.

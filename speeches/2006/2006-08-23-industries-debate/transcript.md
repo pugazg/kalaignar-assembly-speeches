@@ -2,7 +2,7 @@
 
 ## உரை : 10 — நாள் : 23.08.2006
 
-> **Tamil verification note:** Gate C is complete and Gate D passed. Gate E Batches 1–3 directly re-read source/scan pp.304–318 / printed pp.303–317 against the controlling rendered scan. Six definite source-supported corrections have been applied cumulatively; Batch 3 adds p.314 `சுமத்திவிட்டாலேயே` → `சுமத்திவிட்டதாலேயே`, p.315 `சமூகாயப் பொருளாதார` → `சமுதாயப் பொருளாதார`, and p.316 `உயர்கும் உன்னதமான` → `உயரும் உன்னதமான`. Gate-E coverage: **15/23 pages**. Tamil status: **verification in progress; not verified**. Unresolved readings: **0**.
+> **Tamil verification note:** Gate C is complete and Gate D passed. Gate E Batches 1–4 directly re-read source/scan pp.304–323 / printed pp.303–322 against the controlling rendered scan. Six definite source-supported corrections have been applied cumulatively; Batch 4 (pp.319–323) required **no canonical Tamil correction**. Gate-E coverage: **20/23 pages**. Tamil status: **verification in progress; not verified**. Unresolved readings: **0**.
 
 ---
 

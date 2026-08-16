@@ -39,7 +39,7 @@ Rendered p.304 was directly inspected at startup and reconfirmed the `உரை 
 - unresolved first-pass readings: **0**;
 - Tamil status: **transcribed; not verified**;
 - `verified_against_scan`: **false**;
-- Gate E: **in progress — 15/23 pages verified; 6 definite corrections; 0 unresolved readings**;
+- Gate E: **in progress — 20/23 pages verified; 6 definite corrections; 0 unresolved readings**;
 - English Gate F: **blocked**.
 
 Gate D is structural only. Do not treat it as a source-fidelity pass.
