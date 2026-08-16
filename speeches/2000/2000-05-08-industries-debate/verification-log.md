@@ -19,7 +19,7 @@ Boundary re-check before transcription:
 - p.303 closes Speech 9 with a closing ornament;
 - p.304 explicitly begins `உரை : 10`, `நாள் : 23.08.2006`.
 
-Boundary status: **confirmed; unchanged from the locked anthology map**.
+Boundary status: **confirmed; unchanged from the locked anthology map**. The p.303/p.304 boundary was re-inspected again while closing Gate C.
 
 ## Gate C — Tamil first pass
 
@@ -76,7 +76,6 @@ Canonical Batch-4 transcript commit: `dcc52ef8fcc7a48517dfa924f5dc297e7a96867d`.
 - cumulative source-page markers: **278–302**, each once and in strict order;
 - missing/duplicate/reordered markers in completed range: **0**;
 - unresolved first-pass readings: **0**;
-- next source page: **303**;
 - ending continuation: p.302 ends mid-sentence after `வெட்டுத் தீர்மானங்களுடைய எண்ணிக்கை 111. நம்பர்`.
 
 Initial Batch-5 transcript commit: `ed2ade25fb1f3808a8cb8f6bfd0918ca1be7f3a5`. Its inspected diff updated the Gate-C coverage note from 20/26 to 25/26 and appended source-page sections 298–302; completed pp.278–297 were not intentionally rewritten.
@@ -98,13 +97,32 @@ Batch-5 source-sensitive material retained without external reconciliation inclu
 - p.301 the complete 1991-92 through 1999-2000 Ariyalur production figures;
 - p.302 `அம்புஜா`, Rs.85 / Rs.145, `50 சதவிகிதத்திலே`, the Chief Secretary committee and `111` cut motions.
 
-Current corrected canonical transcript checkpoint after Batch 5: commit `8ed2c3685857e16b368139252386b623875284ab`, blob `67b1cc071ce4c8c04c1ea6748a65e0ffd1d91d3b`.
+Corrected canonical transcript checkpoint after Batch 5: commit `8ed2c3685857e16b368139252386b623875284ab`, blob `67b1cc071ce4c8c04c1ea6748a65e0ffd1d91d3b`.
 
-This remains **Gate C first-pass transcription only**. No claim of full character-level source verification is made yet.
+### Batch 6 — source p.303 / printed p.302
+
+**Complete for this bounded batch. Gate C is now complete.**
+
+- pages transcribed in Batch 6: **1**;
+- cumulative Speech-9 first-pass coverage: **26/26, source pp.278–303 / printed pp.277–302**;
+- p.303 source-page marker added exactly once;
+- first-pass marker sequence now spans **278–303**;
+- unresolved first-pass readings: **0**;
+- Tamil status: **transcribed; not verified**.
+
+The page was transcribed directly from the rendered controlling scan, beginning with `நன்றாக இல்லை.` immediately after p.302's `111. நம்பர்`. It preserves the remaining Karunanidhi remarks, the Chair's call to `திரு. பி. ஆர். சுந்தரம்`, Sundaram's correction from `2,000 கோடி` to `2,000 இலட்சம்`, explicitly `20 கோடி`, and the Chair's separately printed sequence `200 கோடி, 20 இலட்சம், 2,000 கோடி` without reconciliation. The source form `கேட்டு அமைகிறேன்.` and `ராசிபுரம்.....` are retained as printed.
+
+The printed closing ornament on p.303 confirms the Speech-9 close. Scan p.304 begins `உரை : 10`, `நாள் : 23.08.2006`; no Speech-10 material was included.
+
+Canonical Gate-C-complete transcript commit: `1014c9528404a6334a94ab811d1b0b1142637d72`, blob `9c0a07406b072216a62b07f5cb16d29a45c42d22`. The inspected commit diff changed the Gate-C coverage/status note and appended only the new p.303 section; completed source pp.278–302 were not rewritten.
+
+Gate-C metadata closure commit: `12e3fbefb66dce6325488884ed9aa1917ce18378`.
+
+**Gate C status: complete.** This is still first-pass transcription, not a claim of full character-level source verification.
 
 ## Gate D — Tamil completeness/page-marker audit
 
-**Not started.** Gate D must wait until final source p.303 has been transcribed and Gate C reaches all 26 mapped pages.
+**Not started.** This is the next activity. It must audit the full Speech-9 transcript for all 26 mapped pages, source-page markers 278–303, missing/duplicate/reordered markers, locked start/end boundaries, printed speaker changes/interventions and explicit uncertainty markers.
 
 ## Gate E — strict Tamil source-fidelity verification
 
@@ -115,8 +133,8 @@ This remains **Gate C first-pass transcription only**. No claim of full characte
 - Gate F: **blocked / not started**;
 - Gate G: **not started**.
 
-English may begin only after Tamil Gates C–E are complete.
+English may begin only after Tamil Gates D and E are complete.
 
 ## Exact next activity
 
-Continue **Gate C final Batch 6 — source/scan p.303 / printed p.302 only**, beginning with the continuation after `111. நம்பர்`. Confirm the Speech-9 closing ornament/boundary and do not include p.304, which begins Speech 10. If p.303 completes cleanly, Gate C reaches **26/26** and the Tamil transcription status may become `transcribed` but must remain **not verified**; Gate D then becomes the next activity.
+Proceed with **Gate D — full Tamil completeness/page-marker audit** for Speech 9. Do **not** begin Gate E, English translation, or Speech 10 in that bounded activity unless explicitly requested.
