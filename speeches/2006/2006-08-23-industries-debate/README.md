@@ -16,23 +16,26 @@
 - Rendered p.304 directly shows `உரை : 10` / `நாள் : 23.08.2006`.
 - Rendered p.326 closes Speech 10 with the final desk-thumping marker and closing ornament.
 - Rendered pp.327–328 are blank `குறிப்புகள்` pages; p.329 is portrait/back matter. They are not part of Speech 10.
-- The scan image is authoritative for Tamil transcription.
+- The scan image is authoritative for Tamil transcription and Gate-E verification.
 
 ## Current archival state
 
 - Gate C: **complete — 23/23 pages, source pp.304–326 / printed pp.303–325**.
-- Source-page markers: **304–326, exactly once and in order**.
+- Gate D: **passed — full completeness/page-marker/boundary audit**.
+- Source-page markers: **304–326, exactly once and in strict order**.
+- Speech boundaries: **clean — no Speech-9 spillover and no pp.327–329 note/back-matter spillover**.
+- Speaker/intervention continuity and cross-page sentence continuity: **structurally audited**.
+- Gate-D Tamil text corrections: **0**.
 - Unresolved first-pass readings: **0**.
 - Tamil: **transcribed; not verified**.
-- Gate D: **not started**.
 - Gate E: **not started**.
 - English Gate F: **blocked until verified Tamil is complete**.
 
-The next activity is **Gate D — full Tamil completeness/page-marker/boundary audit**. Do not begin English yet.
+The next activity is **Gate E — strict Tamil source-fidelity verification against the controlling scan**, beginning at source p.304. Gate D is structural only and does not make `verified_against_scan=true`.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — complete Gate-C Tamil first-pass transcription.
+- [`transcript.md`](./transcript.md) — complete Gate-C Tamil first-pass transcription; unchanged by Gate D.
 - [`metadata.json`](./metadata.json) — source mapping and gate status.
 - [`source-notes.md`](./source-notes.md) — source authority, boundaries and source-sensitive observations.
 - [`verification-log.md`](./verification-log.md) — gate audit trail.
