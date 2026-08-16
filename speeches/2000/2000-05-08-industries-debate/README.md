@@ -30,40 +30,29 @@
 
 ## Current status
 
-Speech 9 has **completed Gate C and passed Gate D**.
+Speech 9 has **completed Gate C, passed Gate D, and begun Gate E**.
 
-- Gate C Batch 1: **complete — source/scan pp.278–282 / printed pp.277–281**.
-- Gate C Batch 2: **complete — source/scan pp.283–287 / printed pp.282–286**.
-- Gate C Batch 3: **complete — source/scan pp.288–292 / printed pp.287–291**.
-- Gate C Batch 4: **complete — source/scan pp.293–297 / printed pp.292–296**.
-- Gate C Batch 5: **complete — source/scan pp.298–302 / printed pp.297–301**.
-- Gate C Batch 6: **complete — source/scan p.303 / printed p.302**.
-- Cumulative Gate-C coverage: **26/26 pages, source pp.278–303 / printed pp.277–302**.
-- Gate D completeness/page-marker audit: **passed**.
-- Gate-D marker result: **278–303, exactly once and in strict order; 0 missing / 0 duplicate / 0 reordered**.
-- Locked-boundary spillover: **0 pages from Speech 8 or Speech 10**.
-- Printed speaker changes/interventions: **represented in the complete first-pass transcript**.
-- Unresolved first-pass readings: **0**.
-- Gate-D canonical Tamil corrections: **0**.
-- Tamil status: **transcribed; not verified**.
-- Gate E strict visual source-fidelity verification: **not started; next activity**.
-- English Gate F: **blocked until Tamil passes Gate E**.
+- Gate C coverage: **26/26 pages, source pp.278–303 / printed pp.277–302**.
+- Gate D completeness/page-marker audit: **passed** — markers 278–303 exactly once and in strict order; 0 missing / 0 duplicate / 0 reordered; no Speech-8 or Speech-10 spillover.
+- Gate E Batch 1: **complete — source/scan pp.278–282 / printed pp.277–281**.
+- Gate E cumulative coverage: **5/26 pages**.
+- Gate E definite corrections so far: **1**.
+- Gate E next source page: **283**.
+- Unresolved readings: **0**.
+- Tamil status: **verification in progress; not verified**.
+- English Gate F: **blocked until Gate E is complete and Tamil is verified**.
 
-Batches 1–4 preserve the documented source-sensitive forms and internal inconsistencies without external reconciliation, including p.280 `22-4-200`, pp.280–281 investment figures, the printed *Economic Times*, *Industrial Herald* and *Economic and Political Weekly* passages, p.286 `இந்தக் கேமிரா கழுவும்போது`, the Polaris letter's `more then 100% per year`, Nanguneri/Tanflora material, the p.293 `இன்னொன்றியில் சென்னை வர்த்தக மையம்;` reading, and the p.296 printed date `24-3-2001`.
+Gate E Batch 1 directly re-read pp.278–282 against the controlling rendered scan. One definite correction was applied on p.279: `பிள்ளைகளை யெல்லாம்` → `பிள்ளைகளையெல்லாம்`. No other definite correction was required in this batch. The unusual source date `22-4-200`, the pp.280–281 investment figures, and the p.282 printed *Economic Times* English were re-confirmed and retained as printed.
 
-Batch 5 continues the Ariyalur/TANCEM privatisation discussion and preserves the source's printed English Counter Affidavit passages, the Tamil paraphrase `மூன்றாவது பிரதிவாதியான டான்செம் நிறைவேற்றவில்லை` without reconciling it to the printed English, the exact 1991-92 through 1999-2000 Ariyalur cement-production figures, and the p.302 `அம்புஜா` / Rs.85 / Rs.145 / 50% tender discussion. A post-write high-resolution reread produced four definite Gate-C corrections: p.298 `பழனிசாமி ஏற்றுக்கொள்கிறாரோ` → `பழனிசாமி ஏற்றுக் கொள்கிறாரோ`; `டி. மணி ஏற்றுக்கொள்கிறாரோ` → `டி. மணி ஏற்றுக் கொள்கிறாரோ`; and p.300 `தயார்செய்வதன்` / `தயார்செய்து` → `தயார் செய்வதன்` / `தயார் செய்து`. These are first-pass corrections, not Gate-E verification.
-
-Batch 6 continues directly after p.302's `வெட்டுத் தீர்மானங்களுடைய எண்ணிக்கை 111. நம்பர்`. Source p.303 preserves `நன்றாக இல்லை. (பலத்த சிரிப்பு).`, the request concerning all 111 cut motions, and the final parliamentary exchange with `திரு. பி. ஆர். சுந்தரம்`. Sundaram corrects his earlier figure from `2,000 கோடி` to `2,000 இலட்சம்`, explicitly `20 கோடி`; the Chair's response separately prints the unusual sequence `200 கோடி, 20 இலட்சம், 2,000 கோடி`, which is retained without reconciliation. The page closes Speech 9 with the printed closing ornament. Scan p.304 begins Speech 10 and has not been included.
-
-Gate D audited structural completeness only. It confirmed the complete mapped page sequence, source-page markers, locked start/end boundaries, speaker/intervention structure and absence of unresolved markers. It did **not** perform the character-by-character visual comparison required for Gate E, and it made no canonical Tamil text change.
+Previously documented source-sensitive forms and internal inconsistencies remain preserved without external reconciliation, including p.286 `இந்தக் கேமிரா கழுவும்போது`, the Polaris letter's `more then 100% per year`, p.293 `இன்னொன்றியில் சென்னை வர்த்தக மையம்;`, p.296 `24-3-2001`, the TANCEM Counter Affidavit passages, Ariyalur production figures, and the p.303 closing exchange.
 
 ## Exact next activity
 
-Proceed with **Gate E — strict Tamil source-fidelity verification** for Speech 9. Re-read scan/source pp.278–303 directly against the controlling rendered scan, page by page, checking wording, characters, names/initials, numerals, dates, percentages, monetary values, units, printed English, headings, speaker labels, punctuation where legible, and cross-page continuations. Apply and document only definite source-supported corrections. Do **not** begin English translation or Speech 10 until Gate E is complete and Tamil is marked verified.
+Continue **Gate E Batch 2 — source/scan pp.283–287 / printed pp.282–286**. Re-read those five pages directly against the controlling rendered scan, apply/document only definite source-supported corrections, keep uncertainties explicit rather than guessing, and do **not** begin English translation or Speech 10.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — complete Tamil first-pass transcript, source pp.278–303 / printed pp.277–302; Gate D passed; not yet source-verified.
+- [`transcript.md`](./transcript.md) — complete Tamil transcript; Gate E verified through source p.282 only; not yet fully verified.
 - [`metadata.json`](./metadata.json) — source mapping and current processing status.
 - [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and source-sensitive observations.
-- [`verification-log.md`](./verification-log.md) — Gate-C and Gate-D audit trail; Tamil is not yet verified.
+- [`verification-log.md`](./verification-log.md) — Gate-C through current Gate-E audit trail.
