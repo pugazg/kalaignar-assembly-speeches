@@ -38,7 +38,7 @@
     "source_authority": "scan image"
   },
   "transcription": {
-    "method": "manual first-pass transcription directly from rendered scan images, followed by full-speech completeness/page-marker audit",
+    "method": "manual first-pass transcription directly from rendered scan images, followed by full-speech completeness/page-marker audit and strict direct page-by-page visual source-fidelity verification",
     "status": "transcribed",
     "full_speech_scan_pages": "278-303",
     "completed_scan_pages": "278-303",
@@ -50,12 +50,18 @@
     "full_speech_completeness_audit": true,
     "full_speech_page_marker_audit": true,
     "gate_d_status": "passed",
-    "gate_e_status": "not-started",
+    "gate_e_status": "in-progress",
+    "gate_e_audited_scan_pages": "278-282",
+    "gate_e_audited_printed_pages": "277-281",
+    "gate_e_audited_page_count": 5,
+    "gate_e_total_page_count": 26,
+    "gate_e_correction_count": 1,
+    "gate_e_next_scan_page": 283,
     "verified_against_scan": false,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C Batches 1-6 cover all mapped source/scan pp.278-303 / printed pp.277-302. Gate D then audited the complete Speech-9 transcript structurally: all 26 expected source-page markers 278-303 are represented once and in strict order; no mapped page is missing, duplicated or reordered; the transcript begins at the locked p.278 Speech-9 heading and ends at the locked p.303 closing boundary with no Speech-8 or Speech-10 spillover; printed speaker changes/interventions are represented; unresolved reading markers remain 0. Gate D required no canonical Tamil text correction. Tamil remains transcribed but not verified. Gate E strict page-by-page source-fidelity verification has not begun."
+    "completion_note": "Gate C completed all 26 mapped pages and Gate D passed the full structural completeness/page-marker audit. Gate E Batch 1 directly re-read scan/source pp.278-282 / printed pp.277-281 against the controlling rendered scan. One definite source-supported correction was applied on p.279: பிள்ளைகளை யெல்லாம் → பிள்ளைகளையெல்லாம். No other definite corrections were required in pp.278-282; the source-sensitive p.280 date 22-4-200 and p.280-281 investment figures, and the p.282 printed Economic Times English remain preserved as printed. Gate E coverage is 5/26 pages; unresolved readings remain 0. Tamil is not yet verified until all 26 mapped pages pass Gate E."
   },
   "translation": {
     "language": "English",
