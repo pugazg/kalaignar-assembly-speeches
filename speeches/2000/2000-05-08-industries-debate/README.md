@@ -7,7 +7,7 @@
 **மூலத்தில் அச்சிடப்பட்ட தேதி:** 8.05.2000  
 **காப்பக ID:** `2000-05-08-industries-debate`
 
-`industries-debate` என்பது தொகுப்பின் தொழில்துறைச் சார்பை அடிப்படையாகக் கொண்ட நடுநிலையான காப்பக slug மட்டுமே. இதை மூலத்தில் அச்சிடப்பட்ட அதிகாரப்பூர்வ சட்டமன்ற நிகழ்வு/தீர்மானத் தலைப்பாகக் கருதவில்லை.
+`industries-debate` என்பது தொகுப்பின் தொழில்துறைச் சார்பை அடிப்படையாகக் கொண்ட நடுநிலையான காப்பக slug மட்டுமே.
 
 ## மூல வெளியீடு
 
@@ -26,38 +26,48 @@
 | PDF scan pages | 278–303 |
 | Printed pages | 277–302 |
 
-Scan p.277 closes Speech 8; scan p.278 begins Speech 9. Scan p.303 closes Speech 9 with the printed ornament; scan p.304 begins Speech 10 (`உரை : 10`, `23.08.2006`).
+Scan p.277 closes Speech 8; scan p.278 begins Speech 9. Scan p.303 closes Speech 9; scan p.304 begins Speech 10 (`உரை : 10`, `23.08.2006`).
 
 ## Current status
 
-Speech 9 has **completed Gate C, passed Gate D, and passed Gate E**.
+Speech 9 has completed Tamil Gates C–E and English Gates F–G.
 
-- Gate C: **26/26 pages transcribed**.
-- Gate D: **passed** — source markers 278–303 exactly once and in order; no boundary spillover.
-- Gate E: **26/26 pages directly verified against the controlling scan**.
-- Gate-E definite corrections: **3**.
-- Unresolved readings: **0**.
-- Tamil status: **verified against scan**.
-- English Gate F: **not started; now unblocked**.
+- Gate C: **complete — 26/26 pages transcribed**.
+- Gate D: **passed**.
+- Gate E: **passed — 26/26 pages verified against the controlling scan**.
+- Tamil Gate-E corrections: **3**.
+- Tamil unresolved readings: **0**.
+- Tamil status: **verified**.
+- Gate F: **complete — English first pass covers 26/26 pages**.
+- Gate G: **passed — English fidelity/voice review covers 26/26 pages**.
+- Gate-G definite English corrections: **2**.
+- Unresolved translation questions: **0**.
+- English status: **verified against final verified Tamil**.
 - Speech 10: **not started**.
 
-Gate-E corrections:
+### English voice policy
 
-1. p.279 `பிள்ளைகளை யெல்லாம்` → `பிள்ளைகளையெல்லாம்`.
-2. p.293 `இன்னொன்றியில்` → `இஃதன்னியில்`.
-3. p.303 `வெட்டுத் தீர்மானங்களையும்` → `வெட்டுத்தீர்மானங்களையும்`.
+The English deliberately retains Kalaignar's parliamentary language and voice rather than smoothing it into generic prose: long argumentative movement, repetition, direct address, rhetorical questions, humour, irony, wordplay, political phrasing, metaphors, register shifts and stage markers are preserved. Printed English and source-supported oddities are not silently corrected.
 
-The final p.303 reread also re-confirmed `கேட்டு அமைகிறேன்.`, Sundaram's `2,000 கோடி` → `2,000 இலட்சம்` / `20 கோடி`, `ராசிபுரம்.....`, the Chair's separately printed `200 கோடி, 20 இலட்சம், 2,000 கோடி`, and the final Chair intervention before the closing ornament.
+Gate G corrected two fidelity issues:
 
-A pre-close canonical re-fetch confirmed that the earlier Gate-C p.298 corrections `பழனிசாமி ஏற்றுக் கொள்கிறாரோ` and `டி. மணி ஏற்றுக் கொள்கிறாரோ` were already present. The interim Batch-5 note describing them as a regression was a comparison-state error; no p.298 repair was needed.
+1. p.284 — restored Kalaignar's actual scientific-advance → `we must create a situation in which we can join it and compete with it` → Tamil Nadu first-place/praise sequence, replacing an unsupported generic transition introduced in Gate F.
+2. p.286 — retained the source-sensitive `இந்தக் கேமிரா கழுவும்போது` as the deliberately odd `When this camera is washed`, rather than the interpretive `When this camera develops`.
+
+Final p.303 required no English correction; the `111` joke and closing Sundaram/Speaker exchange passed Gate G.
 
 ## Exact next activity
 
-Begin **Gate F — English translation from the final verified Tamil only**. Preserve source-page correspondence and follow `docs/ARCHIVAL_WORKFLOW.md` plus the established Speech-1–8 translation/release pattern. Do not begin Speech 10.
+Proceed to **Gate H — release preparation and canonical merge** following `docs/ARCHIVAL_WORKFLOW.md` and the established Speech-1–8 release pattern. Do not begin Speech 10 in the same bounded activity unless explicitly requested.
 
 ## Files
 
 - [`transcript.md`](./transcript.md) — complete Tamil transcript, verified against the controlling scan.
-- [`metadata.json`](./metadata.json) — source mapping and current processing status.
-- [`source-notes.md`](./source-notes.md) — source authority, locked boundaries and source-sensitive observations.
-- [`verification-log.md`](./verification-log.md) — Gate-C through Gate-E audit trail.
+- [`translation.md`](./translation.md) — Gate-F/G English working segment for source pp.278–285.
+- [`translation-gate-f-batch-2.md`](./translation-gate-f-batch-2.md) — source pp.286–290.
+- [`translation-gate-f-batch-3.md`](./translation-gate-f-batch-3.md) — source pp.291–295.
+- [`translation-gate-f-batch-4.md`](./translation-gate-f-batch-4.md) — source pp.296–300.
+- [`translation-gate-f-batch-5.md`](./translation-gate-f-batch-5.md) — source pp.301–303; final page Gate-G verified.
+- [`translation-consolidated.md`](./translation-consolidated.md) — consolidation manifest for release work.
+- [`metadata.json`](./metadata.json) — source mapping and processing status.
+- [`verification-log.md`](./verification-log.md) — Gate-C through Gate-G audit trail.
