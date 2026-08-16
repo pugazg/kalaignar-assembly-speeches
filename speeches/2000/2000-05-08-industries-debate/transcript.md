@@ -2,7 +2,7 @@
 
 ## உரை : 9 — நாள் : 8.05.2000
 
-> **Gate E verification note:** Gate C is complete and Gate D has passed. Gate E Batches 1–4 directly re-read scan/source pp.278–297 / printed pp.277–296 against the controlling rendered scan. Batch 1 applied one definite source-supported correction on p.279; Batches 2–3 required no canonical Tamil text correction; Batch 4 applied one definite source-supported correction on p.293. Cumulative Gate-E verification: **20/26 pages**. Tamil status: **verification in progress; not verified**.
+> **Gate E verification note:** Gate C is complete, Gate D passed, and Gate E has now directly re-read all scan/source pp.278–303 / printed pp.277–302 against the controlling rendered scan. Three definite Gate-E source-supported corrections were applied: p.279 `பிள்ளைகளை யெல்லாம்` → `பிள்ளைகளையெல்லாம்`; p.293 `இன்னொன்றியில்` → `இஃதன்னியில்`; p.303 `வெட்டுத் தீர்மானங்களையும்` → `வெட்டுத்தீர்மானங்களையும்`. Cumulative Gate-E verification: **26/26 pages**. Tamil status: **verified against scan**.
 
 ---
 
@@ -235,7 +235,7 @@ Tanflora Infrastructure Park; 24.85 கோடி ரூபாய் முதல
 
 <!-- source-page: 303 -->
 
-நன்றாக இல்லை. (பலத்த சிரிப்பு). இல்லாவிட்டாலும் கூட 111 வெட்டுத் தீர்மானங்களையும் எல்லோரும் திரும்பப் பெற்றுக் கொண்டு, மானியத்தை ஆதரித்து, கோரிய நிதியை அரசுக்குத் தர வேண்டுமென்று கேட்டு அமைகிறேன். (மேசையைத் தட்டும் ஒலி).
+நன்றாக இல்லை. (பலத்த சிரிப்பு). இல்லாவிட்டாலும் கூட 111 வெட்டுத்தீர்மானங்களையும் எல்லோரும் திரும்பப் பெற்றுக் கொண்டு, மானியத்தை ஆதரித்து, கோரிய நிதியை அரசுக்குத் தர வேண்டுமென்று கேட்டு அமைகிறேன். (மேசையைத் தட்டும் ஒலி).
 
 **மாண்புமிகு பேரவைத் தலைவர் :** திரு. பி. ஆர். சுந்தரம்.
 
