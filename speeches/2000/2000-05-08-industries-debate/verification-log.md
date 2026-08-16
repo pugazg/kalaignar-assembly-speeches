@@ -147,7 +147,29 @@ Gate D is a **structural completeness audit only**. It does not establish word/c
 
 ## Gate E — strict Tamil source-fidelity verification
 
-**Not started.** This is now the exact next activity. Gate E must directly re-read all scan/source pp.278–303 against the controlling rendered scan and check words/characters, names/initials, numerals, dates, percentages, monetary values, units, printed English, headings, speaker labels, punctuation where legible, and cross-page continuations. Only definite scan-supported corrections may be applied and documented before Tamil can be marked `verified`.
+### Batch 1 — source pp.278–282 / printed pp.277–281
+
+**Complete for this bounded verification batch.** All five pages were directly re-read against the controlling rendered scan.
+
+- pages verified in Batch 1: **5**;
+- cumulative Gate-E coverage: **5/26**;
+- audited source range: **278–282**;
+- audited printed range: **277–281**;
+- definite source-supported corrections: **1**;
+- unresolved readings after Batch 1: **0**;
+- next Gate-E source page: **283**.
+
+Definite correction applied:
+
+1. p.279 `பிள்ளைகளை யெல்லாம்` → `பிள்ளைகளையெல்லாம்`.
+
+The high-resolution scan clearly prints the word continuously as `பிள்ளைகளையெல்லாம்`; the first-pass spacing was therefore corrected. No other definite transcript correction was required on pp.278–282.
+
+Source-sensitive forms explicitly re-confirmed in this batch include p.280 `22-4-200` followed later by `22-4-2000`, the investment figures across pp.280–281 (`1,14,893`, `1,41,893 + 15,000`, `1,56,893`), and the printed *Economic Times* English on p.282. These remain source-preserved and are not externally reconciled.
+
+Canonical Gate-E Batch-1 transcript commit: `f6fca8fcd40454d3676bcbabb3cdcb2fb1798fcd`, blob `67b446b1c217217f380bd727dedc93b5cc5b6e9a`.
+
+Gate E remains **in progress**. Tamil is **not yet verified** until all 26 mapped pages are directly checked.
 
 ## English gates
 
@@ -158,4 +180,4 @@ English may begin only after Gate E is complete and Tamil is verified.
 
 ## Exact next activity
 
-Proceed with **Gate E — strict Tamil source-fidelity verification** for Speech 9, covering the locked scan/source range **278–303 / printed 277–302**. Do **not** begin English translation or Speech 10 until Gate E is complete.
+Continue **Gate E Batch 2 — source/scan pp.283–287 / printed pp.282–286**. Directly compare those five pages against the controlling rendered scan, apply/document only definite source-supported corrections, and do not begin English translation or Speech 10.
