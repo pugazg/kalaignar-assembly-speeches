@@ -1,0 +1,49 @@
+name: Fix Speech 10 Gate H boundary
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fix-speech10-gate-h-boundary.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fix canonical English boundary
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json
+          d=Path('speeches/2006/2006-08-23-industries-debate')
+          p=d/'transcript.md'
+          s=p.read_text(encoding='utf-8')
+          old='Most of the natural gas available in Tamil Nadu is found in the Cauvery basin region. Through new exploration technology, that reserve can be brought into—\n\n### Source page 324\n\n—use, it is expected, through new exploration technology.'
+          new='Most of the natural gas available in Tamil Nadu is found in the Cauvery basin region. Through new exploration technology, that reserve can be brought into—\n\n### Source page 324\n\n—use, it is expected.'
+          if old not in s:
+              raise SystemExit('expected p323-p324 boundary text not found')
+          s=s.replace(old,new,1)
+          p.write_text(s,encoding='utf-8')
+
+          vp=d/'verification-log.md'
+          v=vp.read_text(encoding='utf-8').rstrip()
+          v += '\n\n### Gate H post-merge boundary cleanup\n\nAfter the canonical merge, a mechanical duplication was detected at the English p.323→324 boundary: `through new exploration technology` appeared on both sides of the page break. The verified Tamil has that phrase only on p.323 (`புதிய ஆய்வு தொழில்நுட்பத்தின்மூலமாக ... பயன்பாட்டிற்குக்`) and p.324 begins `கொண்டுவர இயலும் என எதிர்பார்க்கப்படுகிறது.` The canonical English was corrected to end p.323 with `Through new exploration technology, that reserve can be brought into—` and begin p.324 with `—use, it is expected.` No Tamil text or substantive translation wording was changed.\n'
+          vp.write_text(v+'\n',encoding='utf-8')
+
+          mp=d/'metadata.json'
+          m=json.loads(mp.read_text(encoding='utf-8'))
+          m['release']['gate_h_canonicalization_correction_count']=1
+          m['release']['gate_h_canonicalization_note']='One post-merge mechanical English page-boundary duplication at p.323→324 was removed; verified Tamil and substantive translation remain unchanged.'
+          mp.write_text(json.dumps(m,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          PY
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Fix Speech 10 canonical p323-p324 boundary"
+          git push
