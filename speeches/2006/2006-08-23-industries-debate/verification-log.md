@@ -4,41 +4,34 @@
 
 Controlling anthology: `தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள்`, 329-page scan. Locked Speech-10 range: **scan/source pp.304–326 / printed pp.303–325**.
 
-At Speech-10 startup, rendered scan p.304 was inspected directly. It visibly contains `உரை : 10` and `நாள் : 23.08.2006`, reconfirming the opening boundary. The locked mapping records p.303 as the close of Speech 9 and p.326 as the close of Speech 10; pp.327–328 are note pages.
+At Speech-10 startup, rendered scan p.304 was inspected directly. It visibly contains `உரை : 10` and `நாள் : 23.08.2006`, reconfirming the opening boundary. Rendered p.326 closes Speech 10; pp.327–328 are `குறிப்புகள்` pages and p.329 is portrait/back matter.
 
 ## Gate C — Tamil first pass
 
-### Batch 1 — source pp.304–308 / printed pp.303–307
+**Complete — 23/23 pages.** Source pp.304–326 / printed pp.303–325 are transcribed. Source-page markers 304–326 are present once and in order. Unresolved first-pass readings: **0**. Tamil status after Gate C: **transcribed; not verified**.
 
-**Complete.** All five pages were transcribed from rendered scan images.
+## Gate D — full Tamil completeness/page-marker/boundary audit
 
-- cumulative Gate-C coverage: **5/23 pages**;
-- source-page markers: **304, 305, 306, 307, 308**, exactly once and in order;
-- unresolved first-pass readings: **0**;
-- Tamil status: **in progress; not verified**;
-- next source page: **309**.
+**Passed.** Gate D audited the complete canonical Tamil structurally across the locked Speech-10 range.
 
-The batch preserves printed English, figures, parliamentary markers, repetitions, humour and source-specific phrasing without external correction or stylistic normalisation.
+- mapped page coverage: **23/23**;
+- source-page markers: **304–326**, exactly once and in strict order;
+- missing markers: **0**;
+- duplicate markers: **0**;
+- reordered markers: **0**;
+- opening boundary: **clean at p.304** (`உரை : 10` / `23.08.2006`);
+- closing boundary: **clean at p.326** through the final paragraph, desk-thumping marker and closing ornament;
+- Speech-9 / p.303 spillover: **none**;
+- pp.327–329 `குறிப்புகள்` / portrait-back-matter spillover: **none**;
+- p.308→309 cross-page continuation after `ஆக, 285 வெட்டுத் தீர்மானங்கள்;`: **structurally continuous**;
+- speaker/intervention and page-crossing continuity: **structurally represented**;
+- unresolved reading markers: **0**;
+- Gate-D canonical Tamil corrections: **0**.
 
-The p.308 text ends mid-sentence after exactly `ஆக, 285 வெட்டுத் தீர்மானங்கள்;`. The continuation must be read directly from rendered p.309.
-
-### Gate C completion — source pp.309–326 / printed pp.308–325
-
-**Complete.** All remaining eighteen Speech-10 pages were transcribed from the controlling rendered scan.
-
-- cumulative Gate-C coverage: **23/23 pages**;
-- mapped source range: **304–326**;
-- mapped printed range: **303–325**;
-- source-page markers: **304–326**, exactly once and in order;
-- unresolved first-pass readings: **0**;
-- Tamil status: **transcribed; not verified**;
-- next Gate-C page: **none**.
-
-Rendered p.326 was inspected through the final desk-thumping marker and closing ornament. Rendered pp.327–328 are `குறிப்புகள்` pages and p.329 is portrait/back matter; they were explicitly excluded from the speech transcript.
+Gate D is a structural audit only. It does **not** constitute source-fidelity verification. `verified_against_scan` remains **false** and Tamil remains **transcribed; not verified**.
 
 ## Later gates
 
-- Gate D: **not started**;
 - Gate E: **not started**;
 - Gate F English: **blocked**;
 - Gate G English verification: **not started**;
@@ -46,5 +39,4 @@ Rendered p.326 was inspected through the final desk-thumping marker and closing 
 
 ## Exact next activity
 
-Run **Gate D — full Tamil completeness/page-marker/boundary audit** for source pp.304–326. Confirm all 23 markers and speech boundaries structurally without treating Gate D as source-fidelity verification. Do not begin English.
-
+Run **Gate E — strict Tamil source-fidelity verification against the controlling rendered scan**, beginning at source p.304. Compare page-by-page, apply/document only definite scan-supported corrections, record genuine uncertainty instead of guessing, and preserve source-supported spelling, spacing, punctuation, figures, printed English, humour, repetition, interventions and unusual grammar. Do not begin English until Gate E passes all 23 pages.
