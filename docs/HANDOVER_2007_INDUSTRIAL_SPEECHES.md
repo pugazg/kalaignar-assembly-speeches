@@ -12,11 +12,9 @@ Locked source: **329 PDF pages**, **217,124,211 bytes**, SHA-256 `c26003fe77b97a
 
 **Speeches 1–9 are fully released through Gate H with verified Tamil and verified English. Do not restart, retranscribe or modify those released source/translation layers unless a concrete correction is explicitly requested and source-supported.**
 
-Speech 9 (`2000-05-08-industries-debate`) is released across scan pp.278–303 / printed pp.277–302. Gate E passed with 3 Tamil corrections and 0 unresolved readings. Gate G passed with 2 English fidelity corrections and 0 unresolved questions. Gate H merged verified English after verified Tamil in canonical `transcript.md`, retired split working translations, and indexed the speech.
+## Active archival unit — Speech 10
 
-## Next archival unit — Speech 10
-
-Locked mapping from `sources/2007-industrial-speeches/mapping.md`:
+Locked mapping:
 
 - source label: `உரை : 10`
 - printed date: `23.08.2006`
@@ -29,15 +27,36 @@ Locked mapping from `sources/2007-industrial-speeches/mapping.md`:
 - scan p.326 closes Speech 10
 - scan pp.327–328 are `குறிப்புகள்`; p.329 is closing portrait/back matter
 
-The 303–304 and 326–327 boundaries were already re-checked during anthology mapping. **Speech 10 has not been started.**
+At Speech-10 startup, rendered scan p.304 was directly inspected and the printed `உரை : 10` / `நாள் : 23.08.2006` opening was re-confirmed.
 
-## Exact next activity
+## Current Speech-10 state
 
-Start Speech 10 according to the archival workflow without modifying released Speeches 1–9:
+Gate C Batch 1 is complete:
 
-1. Read `docs/ARCHIVAL_WORKFLOW.md`, this handover and `sources/2007-industrial-speeches/mapping.md` completely.
-2. Inspect scan p.304 directly and reconfirm the `உரை : 10` / `23.08.2006` opening before creating the canonical entry.
-3. Continue only within the locked Speech-10 range pp.304–326; do not include note pages 327–328.
-4. Create/continue `speeches/2006/2006-08-23-industries-debate/` and begin Gate C from the rendered scan in a bounded first batch.
-5. Preserve printed wording, punctuation, figures, English, speaker labels, interventions and source-supported oddities; record uncertainty rather than guessing.
-6. Do not begin English until Tamil Gates C–E are complete.
+- transcribed source/scan pages: **304–308**
+- corresponding printed pages: **303–307**
+- cumulative coverage: **5/23 pages**
+- page markers: **304–308**, once and in order
+- unresolved first-pass readings: **0**
+- Tamil status: **in progress; not verified**
+- Gate D: **not started**
+- Gate E: **not started**
+- English Gate F: **blocked**
+- next source/scan page: **309**
+
+Important source-sensitive forms already preserved include the p.304 `கேலியாகவோ / கிண்டலாகவோ / வசையாகவோ / இசையாகவே` wordplay; p.305 `Centre for Monitoring Indian Economy (CMIE)`, `Investment in Manufacturing Sector`, exact State investment figures and `'போட்டாபோட்டி'`, `'காட்டாங்குஸ்தி'-யில்`; p.306 `Final Modified Appropriation`, English `surrender` and `இந்த surrender எனக்குப் பிடிக்காது.`; p.307 `Annual Survey of Industries, 2003-2004`, `Fixed Capital`, `Invested Capital`, `Share Capital`, `Equity`, `TIDCO`; and p.308 `Aswanth Sugars`, `Parliament`, `attendance`, `'உள்ளேன் ஐயா'` and the 285 cut-motion passage.
+
+Source p.308 ends mid-sentence after exactly:
+
+`ஆக, 285 வெட்டுத் தீர்மானங்கள்;`
+
+## Exact next activity — Speech 10 Gate C Batch 2
+
+1. Process rendered **source/scan p.309 onward** in a bounded batch, beginning directly after `ஆக, 285 வெட்டுத் தீர்மானங்கள்;`.
+2. Use the scan image as textual authority. Do not reconstruct from memory or outside knowledge.
+3. Preserve wording, historical spelling, punctuation, numerals, printed English, speaker labels, interventions, repetition, humour and unusual grammar.
+4. Add one `<!-- source-page: N -->` marker for each transcribed page, in order.
+5. Record genuinely uncertain readings explicitly rather than guessing.
+6. Do not modify released Speeches 1–9.
+7. Do not begin English until Tamil Gates C–E are complete.
+8. Stay within locked Speech-10 pages 304–326; do not include note pages 327–328.
