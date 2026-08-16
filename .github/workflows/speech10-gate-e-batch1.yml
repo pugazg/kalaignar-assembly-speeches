@@ -1,0 +1,27 @@
+name: Speech 10 Gate E Batch 1
+
+on:
+  push:
+    paths:
+      - '.github/workflows/speech10-gate-e-batch1.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply Gate E Batch 1 verification
+        run: python3 scripts/speech10_gate_e_batch1.py
+      - name: Commit verification
+        run: |
+          rm -f .github/workflows/speech10-gate-e-batch1.yml scripts/speech10_gate_e_batch1.py
+          git config user.name 'kalaignar-archive-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Verify Speech 10 Gate E Batch 1'
+          git push
