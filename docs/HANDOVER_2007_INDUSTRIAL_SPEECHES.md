@@ -29,25 +29,28 @@ Rendered p.304 was directly inspected at startup and reconfirmed the `உரை 
 
 ## Current Speech-10 state
 
-Gate C is **complete**:
+- Gate C: **complete — 23/23 pages, source pp.304–326 / printed pp.303–325**.
+- Gate D: **passed — full Tamil completeness/page-marker/boundary audit**.
+- page markers: **304–326**, exactly once and in strict order;
+- missing / duplicate / reordered markers: **0 / 0 / 0**;
+- boundary spillover: **none** from Speech 9 / p.303 or `குறிப்புகள்`/back matter pp.327–329;
+- speaker/intervention and cross-page continuity: **structurally audited**;
+- Gate-D Tamil text corrections: **0**;
+- unresolved first-pass readings: **0**;
+- Tamil status: **transcribed; not verified**;
+- `verified_against_scan`: **false**;
+- Gate E: **not started**;
+- English Gate F: **blocked**.
 
-- transcribed source/scan pages: **304–326**
-- corresponding printed pages: **303–325**
-- cumulative coverage: **23/23 pages**
-- page markers: **304–326**, once and in order
-- unresolved first-pass readings: **0**
-- Tamil status: **transcribed; not verified**
-- Gate D: **not started**
-- Gate E: **not started**
-- English Gate F: **blocked**
+Gate D is structural only. Do not treat it as a source-fidelity pass.
 
-The completion activity continued directly from the p.308 ending `ஆக, 285 வெட்டுத் தீர்மானங்கள்;` through source p.326. Non-speech note/back-matter pages 327–329 were not included.
+## Exact next activity — Speech 10 Gate E
 
-## Exact next activity — Speech 10 Gate D
-
-1. Read `docs/ARCHIVAL_WORKFLOW.md`, this handover and the Speech-10 metadata/README/source notes/transcript/verification log.
-2. Perform a **full Tamil completeness/page-marker/boundary audit** across source pp.304–326.
-3. Confirm markers 304–326 occur exactly once and in order, with no Speech-9 spillover and no `குறிப்புகள்`/back-matter spillover.
-4. Audit speaker/intervention continuity and page-crossing sentence continuity structurally.
-5. Gate D is not Gate E: do not claim source-fidelity verification merely from this structural audit.
-6. Do not begin English until Gate E has fully verified the Tamil against the scan.
+1. Read `docs/ARCHIVAL_WORKFLOW.md`, this handover, and current Speech-10 metadata/README/source-notes/transcript/verification-log.
+2. Begin **strict Tamil source-fidelity verification at rendered source p.304**.
+3. Compare the canonical Tamil page-by-page directly against the controlling scan.
+4. Apply and document only definite scan-supported corrections. Record genuine uncertainty rather than guessing.
+5. Preserve historical/source-supported spelling, spacing, punctuation, numerals, printed English, speaker labels, interventions, repetitions, humour, wordplay and unusual grammar.
+6. Keep `verified_against_scan=false` until all **23/23** pages pass Gate E.
+7. Do not begin English until Gate E is fully complete.
+8. Do not include pp.327–329; they are non-speech material.
