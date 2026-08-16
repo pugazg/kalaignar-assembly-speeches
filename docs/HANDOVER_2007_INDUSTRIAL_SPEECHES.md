@@ -25,30 +25,40 @@ Locked source: **329 PDF pages**, **217,124,211 bytes**, SHA-256 `c26003fe77b97a
 - scan p.326 closes Speech 10
 - scan pp.327–328 are `குறிப்புகள்`; p.329 is portrait/back matter
 
-Rendered p.304 was directly inspected at startup and reconfirmed the `உரை : 10` / `23.08.2006` opening. Rendered p.326 was inspected through the closing ornament; rendered pp.327–329 were inspected and confirmed as non-speech material.
-
 ## Current Speech-10 state
 
-- Gate C: **complete — 23/23 pages, source pp.304–326 / printed pp.303–325**.
-- Gate D: **passed — full Tamil completeness/page-marker/boundary audit**.
-- page markers: **304–326**, exactly once and in strict order;
-- missing / duplicate / reordered markers: **0 / 0 / 0**;
-- boundary spillover: **none** from Speech 9 / p.303 or `குறிப்புகள்`/back matter pp.327–329;
-- speaker/intervention and cross-page continuity: **structurally audited**;
-- Gate-D Tamil text corrections: **0**;
-- unresolved first-pass readings: **0**;
-- Tamil status: **verified**;
-- `verified_against_scan`: **true**;
-- Gate E: **passed — 23/23 pages verified; 6 definite corrections; 0 unresolved readings**;
-- English Gate F: **unblocked; not started**.
+- Gate C: **complete — 23/23 pages**;
+- Gate D: **passed**;
+- Gate E: **passed — 23/23 pages, 6 definite Tamil corrections, 0 unresolved readings**;
+- Tamil: **verified against scan**;
+- Gate F: **complete — 23/23 English pages translated from final verified Tamil**;
+- Gate G: **passed — 23/23 pages reviewed, 9 cumulative English corrections, 0 unresolved questions**;
+- `verified_against_tamil`: **true**;
+- Kalaignar voice-retention policy: **full-speech reviewed**;
+- Gate H: **in progress**;
+- Gate-H preparation: **complete**;
+- canonical Tamil+English merge: **not yet complete**;
+- indexed: **false**;
+- release-ready: **false**.
 
-Gate E has now completed the full direct source-fidelity reread. Tamil is verified against the controlling scan.
+The verified English remains in five working segments:
 
-## Exact next activity — Speech 10 Gate F
+1. `translation.md` — source pp.304–308;
+2. `translation-gate-f-batch-2.md` — pp.309–313;
+3. `translation-gate-f-batch-3.md` — pp.314–318;
+4. `translation-gate-f-batch-4.md` — pp.319–323;
+5. `translation-gate-f-batch-5.md` — pp.324–326.
 
-1. Translate only from the final verified Tamil in `transcript.md`.
-2. Preserve source-page correspondence.
-3. Retain Kalaignar’s parliamentary language, long argumentative movement, repetitions, humour, rhetorical questions, political phrasing and register shifts rather than smoothing them into generic English.
-4. Preserve printed English as printed where it appears in the Tamil source.
-5. Do not silently correct source claims, figures or unusual wording.
-6. Keep English unverified until the separate Gate G fidelity review is complete.
+`translation-review.md` records all nine Gate-G corrections and the release invariant.
+
+## Exact next activity — Speech 10 Gate H canonical merge
+
+1. Leave the verified Tamil in `transcript.md` untouched.
+2. Append the complete Gate-G-verified English after the Tamil layer, using the five working segments as authoritative inputs.
+3. Do not rewrite or newly polish the English during consolidation.
+4. Preserve exact English page correspondence for source pp.304–326.
+5. Recheck especially the corrected p.308→309, p.313→314 and p.323→324 boundaries; the restored latter p.318 passage; p.323 Perambalur desk-thumping position; and p.326 six-lane-road desk-thumping position.
+6. Confirm all 23 English page sections are present with no gap or overlap and all Kalaignar voice-sensitive passages remain intact.
+7. Only after the canonical merge passes, update `data/speeches.json`, root README, Speech-10 README, verification log and this handover; retire working translation segments according to the established released-speech pattern; then mark Gate H passed and Speech 10 released.
+
+Do not call Speech 10 released before that merge and release audit are complete.
