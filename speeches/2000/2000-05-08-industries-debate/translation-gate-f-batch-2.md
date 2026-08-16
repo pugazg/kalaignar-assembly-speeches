@@ -1,10 +1,10 @@
 # Speech 9 — Gate F working translation — Batch 2
 
-> Continuation of `translation.md`. Source: final Gate-E-verified Tamil only. Kalaignar's parliamentary voice, repetition, humour, rhetorical movement, direct address and register shifts are deliberately retained. Printed English is retained as printed. Not yet Gate-G verified.
+> Continuation of `translation.md`. Source: final Gate-E-verified Tamil only. Kalaignar's parliamentary voice, repetition, humour, rhetorical movement, direct address and register shifts are deliberately retained. Printed English is retained as printed. Gate G has reviewed this segment.
 
 ### Source page 286
 
-—going only to places where there is light, he said. The wonder in this camera is this: there is a light in it too. When this camera develops, it will illuminate even dark places. I wish to tell my friend Subbarayan that it is such a wondrous camera. (Sound of desk-thumping.)
+—going only to places where there is light, he said. The wonder in this camera is this: there is a light in it too. When this camera is washed, it will illuminate even dark places. I wish to tell my friend Subbarayan that it is such a wondrous camera. (Sound of desk-thumping.)
 
 TIDCO and ELCOT together, at a project estimate of Rs. 340 crore, are putting up 14 floors over 8 acres, with a building area of 12 lakh 80 thousand square feet. I laid the foundation stone for this TIDEL Park on 21-8-1998. On the upper floor of this building, V.S.N.L. and DoT are creating special facilities so that communications may be exchanged through terrestrial links, satellite links and microwaves. Air-conditioning facilities of 6 thousand tonnes capacity are being created for this park. The Thermal Energy Storage System to be installed here will be the third largest system in the world. Already, one in France and one in Japan are in large-scale use. Apart from these, numerous modernised facilities of world standard have been established in this park. Compared with the software parks in Hyderabad and Bangalore — those two there are themselves large software parks — this is much larger than they are. So far, 60 per cent of the space in the park has been allotted to world-renowned software companies. I am also happy to inform you that on the coming 4th of July, this software park is to be inaugurated by the Prime Minister of India, Vajpayee.
 
@@ -59,3 +59,5 @@ Likewise, at Maraimalai Nagar, TIDCO, an undertaking of the Tamil Nadu Governmen
 Next, over an area of 2,800 acres, at a cost of Rs. 110 crore, SIPCOT has established the Perundurai Growth Centre — Perundurai Growth Centre. The Erode Turmeric Complex too is situated in this centre. I wish particularly to inform our Periyasamy that I shall inaugurate this centre and the turmeric complex on the morning of July 1. I am informing both Periyasamys.
 
 As I said at the outset, the TIDEL software park being constructed in Chennai at an estimated cost of Rs. 340 crore is to be inaugurated on July 4, as I have already mentioned. The industries that are to be started—
+
+> **Gate G review note (source pp.286–290):** One definite fidelity correction was applied on p.286. The verified Tamil/source-sensitive wording is `இந்தக் கேமிரா கழுவும்போது`; Gate F had interpretively rendered this as “When this camera develops”. Gate G restores the source's unusual wording as “When this camera is washed” rather than silently normalising it. The remainder of pp.286–290 was retained, including the camera/light humour, TIDEL figures, TamilNet/Unicode material, High Court repetition, `four, just four`, IT-industry praise, the source-awkward `stand started`, the two-Periyasamy joke, and the printed Polaris letter including `more then 100% per year` and its unclosed quotation.
