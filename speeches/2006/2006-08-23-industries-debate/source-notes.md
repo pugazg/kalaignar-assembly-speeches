@@ -56,3 +56,11 @@ Five pages were directly re-read against the controlling rendered scan. Two defi
 2. p.307 `Equity, சிறிய பகுதியாகும்.` → `Equity, சிறிய பகுதியேயாகும்.`.
 
 No other definite correction was required on pp.304–308. Source-sensitive wording, figures, printed English, humour and stage markers were retained without normalisation. Cumulative Gate-E coverage: **5/23 pages**; unresolved readings: **0**.
+
+## Gate E Batch 2 — source pp.309–313
+
+Five pages were directly re-read against the controlling rendered scan. One definite source-supported correction was applied to the canonical Tamil:
+
+1. p.312 `அனைத்துச் கூட்டுறவுச் சர்க்கரை ஆலைகளுக்கு` → `அனைத்துக் கூட்டுறவுச் சர்க்கரை ஆலைகளுக்கு`.
+
+No other definite correction was required on pp.309–313. The p.309 `வெட்டுத் தீர்மானங்கள்` / `வெட்டித் தீர்மானங்கள்` wordplay, p.310 juice/election-symbol humour, p.311 industrial-policy wording, p.312 printed `wine` passage, and p.313 `Skill development` / `Special Economic Zone` material were retained without normalisation. Cumulative Gate-E coverage: **10/23 pages**; cumulative definite corrections: **3**; unresolved readings: **0**.

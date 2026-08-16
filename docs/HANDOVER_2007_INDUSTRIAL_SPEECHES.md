@@ -39,14 +39,14 @@ Rendered p.304 was directly inspected at startup and reconfirmed the `உரை 
 - unresolved first-pass readings: **0**;
 - Tamil status: **transcribed; not verified**;
 - `verified_against_scan`: **false**;
-- Gate E: **not started**;
+- Gate E: **in progress — 10/23 pages verified; 3 cumulative definite corrections; 0 unresolved readings**;
 - English Gate F: **blocked**.
 
 Gate D is structural only. Do not treat it as a source-fidelity pass.
 
-## Exact next activity — Speech 10 Gate E Batch 2
+## Exact next activity — Speech 10 Gate E Batch 3
 
-1. Directly compare rendered source/scan pp.309–313 / printed pp.308–312 against the canonical Tamil.
+1. Directly compare rendered source/scan pp.314–318 / printed pp.313–317 against the canonical Tamil.
 2. Use the scan image as textual authority; do not normalise or externally correct source wording.
 3. Apply and document only definite source-supported corrections.
 4. Preserve humour, repetition, printed English, figures, speaker/intervention labels and unusual grammar.

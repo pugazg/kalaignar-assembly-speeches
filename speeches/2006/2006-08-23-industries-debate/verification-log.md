@@ -39,7 +39,7 @@ Gate D is a structural audit only. It does **not** constitute source-fidelity ve
 
 ## Exact next activity
 
-Continue **Gate E Batch 2 — source/scan pp.309–313 / printed pp.308–312** by direct page-by-page comparison against the controlling rendered scan. Apply/document only definite source-supported corrections. Do not begin English.
+Continue **Gate E Batch 3 — source/scan pp.314–318 / printed pp.313–317** by direct page-by-page comparison against the controlling rendered scan. Apply/document only definite source-supported corrections. Do not begin English.
 
 
 ## Gate E — strict Tamil source-fidelity verification
@@ -59,3 +59,19 @@ Corrections:
 2. p.307 `Equity, சிறிய பகுதியாகும்.` → `Equity, சிறிய பகுதியேயாகும்.`.
 
 Tamil remains **not verified** until all 23 mapped pages pass Gate E. English Gate F remains blocked.
+
+### Batch 2 — source pp.309–313 / printed pp.308–312
+
+**Complete.** All five pages were directly re-read against the controlling rendered scan.
+
+- cumulative Gate-E coverage: **10/23 pages**;
+- definite corrections in Batch 2: **1**;
+- cumulative definite corrections: **3**;
+- unresolved readings: **0**;
+- next source page: **314**.
+
+Correction:
+
+1. p.312 `அனைத்துச் கூட்டுறவுச் சர்க்கரை ஆலைகளுக்கு` → `அனைத்துக் கூட்டுறவுச் சர்க்கரை ஆலைகளுக்கு`.
+
+No other definite source-text correction was required on pp.309–313. Tamil remains **not verified** until all 23 mapped pages pass Gate E. English Gate F remains blocked.

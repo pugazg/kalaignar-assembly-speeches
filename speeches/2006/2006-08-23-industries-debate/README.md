@@ -28,10 +28,10 @@
 - Gate-D Tamil text corrections: **0**.
 - Unresolved first-pass readings: **0**.
 - Tamil: **transcribed; not verified**.
-- Gate E: **not started**.
+- Gate E: **in progress — 10/23 pages verified (source pp.304–313 / printed pp.303–312), 3 cumulative definite corrections, 0 unresolved readings**.
 - English Gate F: **blocked until verified Tamil is complete**.
 
-The next activity is **Gate E Batch 2 — direct source-fidelity verification of source pp.309–313 / printed pp.308–312**. Do not begin English yet.
+The next activity is **Gate E Batch 3 — direct source-fidelity verification of source pp.314–318 / printed pp.313–317**. Do not begin English yet.
 
 ## Files
 

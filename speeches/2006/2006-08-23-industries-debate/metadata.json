@@ -61,13 +61,13 @@
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C is complete for all 23 mapped Speech-10 pages and Gate D passed the structural completeness/page-marker/boundary audit. Gate E Batch 1 directly re-read source pp.304-308 / printed pp.303-307 against the controlling rendered scan. Two definite corrections were applied: p.305 `கடமைப்பட்டிருக்கின்றேன்` → `கடமைப் பட்டிருக்கின்றேன்`; p.307 `Equity, சிறிய பகுதியாகும்.` → `Equity, சிறிய பகுதியேயாகும்.`. Gate E coverage is 5/23 pages; unresolved readings remain 0. Tamil is not verified until all 23 mapped pages pass Gate E.",
-    "gate_e_audited_scan_pages": "304-308",
-    "gate_e_audited_printed_pages": "303-307",
-    "gate_e_audited_page_count": 5,
+    "completion_note": "Gate C is complete for all 23 mapped Speech-10 pages and Gate D passed the structural completeness/page-marker/boundary audit. Gate E Batches 1-2 directly re-read source pp.304-313 / printed pp.303-312 against the controlling rendered scan. Three definite corrections have been applied cumulatively: p.305 `கடமைப்பட்டிருக்கின்றேன்` → `கடமைப் பட்டிருக்கின்றேன்`; p.307 `Equity, சிறிய பகுதியாகும்.` → `Equity, சிறிய பகுதியேயாகும்.`; p.312 `அனைத்துச் கூட்டுறவுச் சர்க்கரை ஆலைகளுக்கு` → `அனைத்துக் கூட்டுறவுச் சர்க்கரை ஆலைகளுக்கு`. Gate E coverage is 10/23 pages; unresolved readings remain 0. Tamil is not verified until all 23 mapped pages pass Gate E.",
+    "gate_e_audited_scan_pages": "304-313",
+    "gate_e_audited_printed_pages": "303-312",
+    "gate_e_audited_page_count": 10,
     "gate_e_total_page_count": 23,
-    "gate_e_correction_count": 2,
-    "gate_e_next_scan_page": 309
+    "gate_e_correction_count": 3,
+    "gate_e_next_scan_page": 314
   },
   "translation": {
     "language": "English",
