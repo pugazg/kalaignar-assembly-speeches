@@ -1,6 +1,6 @@
 # Speech 9 — Gate F English translation — Batch 5
 
-> Source: final Gate-E-verified Tamil transcription only. This working translation preserves Kalaignar's parliamentary voice, repetitions, argumentative movement, direct address, humour, rhetorical turns and register rather than smoothing them into generic English. It is not Gate-G verified.
+> Source: final Gate-E-verified Tamil transcription only. This translation preserves Kalaignar's parliamentary voice, repetitions, argumentative movement, direct address, humour, rhetorical turns and register rather than smoothing them into generic English. **Gate G has now verified source pp.301–303 against the final verified Tamil.**
 
 ### Source page 301
 
@@ -25,3 +25,5 @@ A great many cut motions have been given. The number of cut motions is 111. The 
 **Thiru P. R. Sundaram:** Hon. Speaker, when I spoke earlier, I said that 100 acres of Government land belonging to this Alagappa Cement company had been sold to another benami company. I said its value was 2,000 crore. I request that this be changed and entered in the record as 2,000 lakh, that is, 20 crore. When the Hon. Chief Minister was speaking, Rasipuram.....
 
 **Hon. Speaker:** You obtained permission from me only for that one matter. Sit down with that. I gave you the permission you asked for. Preserve that courtesy. (Interruption.) In your speech you said something wrongly as 200 crore, 20 lakh, 2,000 crore, and you asked that it be changed. I have given permission; they have changed it. Now sit down.
+
+> **Gate G final-page note:** Source p.303 / printed p.302 was checked directly against the final verified Tamil. The `111` number joke, `I take my seat`, Sundaram's `2,000 crore` → `2,000 lakh, that is, 20 crore` correction request, interrupted `Rasipuram.....`, and the Speaker's separate `200 crore, 20 lakh, 2,000 crore` wording are all faithfully represented. No English correction was required on p.303; unresolved translation questions remain 0.
