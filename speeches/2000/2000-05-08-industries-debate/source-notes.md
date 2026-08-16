@@ -28,14 +28,14 @@ For this speech: `PDF scan page = printed page + 1`.
 
 - scan p.277 closes Speech 8;
 - scan p.278 explicitly begins `உரை : 9`, `நாள் : 8.05.2000`;
-- scan p.303 closes Speech 9;
+- scan p.303 closes Speech 9 with the printed ornament;
 - scan p.304 begins `உரை : 10`, `நாள் : 23.08.2006`.
 
 No Speech-8 or Speech-10 material belongs in the Speech-9 canonical entry.
 
 ## Gate C and Gate D
 
-Gate C completed the full first-pass transcription for **26/26 pages, source pp.278–303 / printed pp.277–302**. Gate D passed the full structural completeness/page-marker audit: markers 278–303 are present once and in strict order, with no missing, duplicate, reordered or boundary-spillover pages.
+Gate C completed the first-pass transcription for **26/26 pages, source pp.278–303 / printed pp.277–302**. Gate D passed the structural completeness/page-marker audit: markers 278–303 are present once and in strict order, with no missing, duplicate, reordered or boundary-spillover pages.
 
 Gate-C first-pass corrections included the previously documented p.282 `முக்கிய களமாக` → `முக்கிய தளமாக`, p.298 auxiliary-spacing corrections, and p.300 `தயார்செய்வதன்` / `தயார்செய்து` → `தயார் செய்வதன்` / `தயார் செய்து`. These remain distinct from Gate-E verification corrections.
 
@@ -49,57 +49,47 @@ The following forms and internal inconsistencies are preserved because they are 
 - p.284 `e-Mail. e-Commerce, e-Medicine, e-Value, e-biz.` and `e-business--, e-Stock, e-Education`, plus `Internet` / `internet`;
 - p.286 `இந்தக் கேமிரா கழுவும்போது இருட்டான இடங்களையும் வெளிச்சமாக்கும்.`;
 - p.290 Polaris letter `more then 100% per year` and the missing closing quotation mark as printed;
-- pp.291–292 `Condoms`, `Technical Products`, `Export Promotion Industrial Park`, `Special Economic Zone`, Nanguneri `9,000` / `55,000` / `8,000 கோடி` and Tanflora continuation;
+- pp.291–292 `Condoms`, `Technical Products`, `Export Promotion Industrial Park`, `Special Economic Zone`, Nanguneri `9,000` / `55,000` / `8,000 கோடி` and the Tanflora continuation;
 - p.293 `(TIDCO)`, `(ITPO)`, `20.000 சதுர மீட்டர்`, `5000 சதுர மீட்டர்`, `30-1-2000`, `Bio-Technology`, and `வழங்கப்பட விருக்கிறது`;
 - p.294 `ப்ராக்சேர் இந்தியா பிரைவேட் லிமிடெட்`, `industrial gases`, Saint-Gobain, Pennar and Vasavi figures;
 - p.295 Kanjamalai / Vediyappan Malai / `கவிதி மலைப் பகுதிகளிலும்`, `450 மில்லியன் டன்`, 35→67 விழுக்காடு, `இரும்புத் துண்டங்களை`, and the Namtha Textiles figures;
 - p.296 printed date `24-3-2001` despite the speech date `8.05.2000`, plus the expert-committee names and institutional forms;
 - p.296→297 word split `திருவண்ணா` / `மலையிலும்`;
 - p.297 `பேசவில்லை யானாலும்`, `விற்காது, விற்காது`, and the categorical no-privatisation statement;
-- p.298 `ரைட்` and source-varying auxiliary spacing;
+- p.298 `ரைட்` and source-varying auxiliary spacing, including `பழனிசாமி ஏற்றுக் கொள்கிறாரோ` and `டி. மணி ஏற்றுக் கொள்கிறாரோ`;
 - p.299 `'TANCEM'`, `12-12-1994`, printed Counter Affidavit English, and `மூன்றாவது பிரதிவாதியான டான்செம் நிறைவேற்றவில்லை.`;
 - p.300 printed Government English and `தயார் செய்வதன்` / `தயார் செய்து`;
 - p.301 production figures 3,33,000; 4,13,000; 4,34,000; 3,77,000; 4,29,000; 4,63,000; 5,38,000; 4,87,000; 4,46,000 tons;
 - p.302 `அம்புஜா`, Rs.85 / Rs.145, `50 சதவிகிதத்திலே`, 111 cut motions;
-- p.303 `கேட்டு அமைகிறேன்.`, `2,000 கோடி` → `2,000 இலட்சம்`, `20 கோடி`, the Chair's separately printed `200 கோடி, 20 இலட்சம், 2,000 கோடி`, and `ராசிபுரம்.....`.
+- p.303 `கேட்டு அமைகிறேன்.`, `2,000 கோடி` → `2,000 இலட்சம்`, `20 கோடி`, the Chair's separately printed `200 கோடி, 20 இலட்சம், 2,000 கோடி`, `ராசிபுரம்.....`, and the final Chair intervention.
 
 ## Gate E — strict Tamil source-fidelity verification
 
-### Batch 1 — source pp.278–282 / printed pp.277–281
+Gate E directly re-read **all source pp.278–303 / printed pp.277–302** against the controlling rendered scan.
 
-**Complete.** One definite correction:
+Definite Gate-E corrections:
 
-- p.279 `பிள்ளைகளை யெல்லாம்` → `பிள்ளைகளையெல்லாம்`.
+1. p.279 `பிள்ளைகளை யெல்லாம்` → `பிள்ளைகளையெல்லாம்`.
+2. p.293 `இன்னொன்றியில்` → `இஃதன்னியில்`.
+3. p.303 `வெட்டுத் தீர்மானங்களையும்` → `வெட்டுத்தீர்மானங்களையும்`.
 
-### Batch 2 — source pp.283–287 / printed pp.282–286
+The p.293 high-resolution reread clearly shows `இஃதன்னியில் சென்னை வர்த்தக மையம்;`. The p.303 scan clearly prints `வெட்டுத்தீர்மானங்களையும்` continuously in the sentence following `111`.
 
-**Complete.** No canonical Tamil correction required.
+The final p.303 verification confirmed the complete parliamentary exchange and closing ornament. Scan p.304 begins Speech 10 and remains excluded.
 
-### Batch 3 — source pp.288–292 / printed pp.287–291
+A final pre-close canonical re-fetch confirmed that the p.298 forms `பழனிசாமி ஏற்றுக் கொள்கிறாரோ` and `டி. மணி ஏற்றுக் கொள்கிறாரோ` were already present. An interim Batch-5 note that described them as a current regression was a comparison-state error; no p.298 restoration was needed.
 
-**Complete.** No canonical Tamil correction required.
+## Final Tamil verification status
 
-### Batch 4 — source pp.293–297 / printed pp.292–296
-
-**Complete.** One definite correction:
-
-- p.293 `இன்னொன்றியில்` → `இஃதன்னியில்`.
-
-The high-resolution rendered scan clearly shows the printed phrase `இஃதன்னியில் சென்னை வர்த்தக மையம்;`. The earlier Gate-C reading `இன்னொன்றியில்` was therefore superseded. This is a direct scan-supported correction, not an editorial modernization or reconstruction.
-
-No other canonical correction was required in pp.293–297. The Chennai Trade Centre figures, Bio-Technology passage, p.293→294 continuation, p.294 industrial projects, p.295 mineral/textile figures, p.296 `24-3-2001` date and committee names, p.296→297 split, and p.297 Ariyalur passage were all re-confirmed directly from the scan.
-
-## Current verification status
-
-- Gate-E audited source range: **278–297**
-- Gate-E audited printed range: **277–296**
-- Gate-E coverage: **20/26 pages**
-- cumulative Gate-E definite corrections: **2**
+- Gate-E audited source range: **278–303**
+- Gate-E audited printed range: **277–302**
+- Gate-E coverage: **26/26 pages**
+- cumulative Gate-E definite corrections: **3**
 - unresolved readings: **0**
-- Tamil status: **verification in progress; not verified**
-- next source page: **298**
-- English Gate F: **blocked**
+- Tamil status: **verified against scan**
+- `verified_against_scan`: **true**
+- English Gate F: **not started; unblocked**
 
 ## Exact next activity
 
-Continue **Gate E Batch 5 — source/scan pp.298–302 / printed pp.297–301**. Re-read those five pages directly against the controlling rendered scan. Apply and document only definite source-supported corrections. Do not begin English translation or Speech 10.
+Begin **Gate F — English translation from the final verified Tamil only**. Preserve source-page correspondence, follow `docs/ARCHIVAL_WORKFLOW.md` and the established Speech-1–8 translation pattern, and do not begin Speech 10.
