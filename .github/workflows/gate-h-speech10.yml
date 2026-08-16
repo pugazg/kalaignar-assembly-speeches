@@ -1,0 +1,192 @@
+name: Speech 10 Gate H release
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/gate-h-speech10.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Canonicalize Speech 10 and release
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json, re
+
+          root = Path('.')
+          d = root/'speeches/2006/2006-08-23-industries-debate'
+          transcript = d/'transcript.md'
+          metadata = d/'metadata.json'
+          batch_files = [
+              d/'translation.md',
+              d/'translation-gate-f-batch-2.md',
+              d/'translation-gate-f-batch-3.md',
+              d/'translation-gate-f-batch-4.md',
+              d/'translation-gate-f-batch-5.md',
+          ]
+
+          # Extract Gate-G-corrected English page sections from the five working files.
+          page_sections = {}
+          pat = re.compile(r'^### Source page (\d+)\s*\n(.*?)(?=^### Source page \d+\s*$|\Z)', re.M|re.S)
+          for f in batch_files:
+              text = f.read_text(encoding='utf-8')
+              for m in pat.finditer(text):
+                  p = int(m.group(1))
+                  body = m.group(2).strip()
+                  # Working Gate-G notes are audit prose, not translation text.
+                  body = re.split(r'\n> \*\*Gate G', body, maxsplit=1)[0].rstrip()
+                  if p in page_sections:
+                      raise SystemExit(f'duplicate English page section {p}')
+                  page_sections[p] = body
+
+          expected = list(range(304,327))
+          if sorted(page_sections) != expected:
+              raise SystemExit(f'English coverage mismatch: {sorted(page_sections)}')
+
+          # Gate-G release invariants that must survive consolidation.
+          checks = {
+              304: ['mockery, ridicule or abuse', 'music itself'],
+              307: ['Equity'],
+              308: ['I have never seen so many cut motions', 'Present, sir'],
+              309: ['idle motions'],
+              313: ['Chengalpattu Thiru K. Arumugam'],
+              315: ['the refined path'],
+              318: ['Cuddalore', 'Irungattukottai', 'Thoothukudi', 'Poonamallee', 'Oragadam', 'Siruseri'],
+              323: ['Rs. 5,000 crore', 'Sound of desk-thumping'],
+              324: ['—use, it is expected'],
+              326: ['Rs. 205 crore', 'I conclude my speech at this point'],
+          }
+          for p, needles in checks.items():
+              for needle in needles:
+                  if needle not in page_sections[p]:
+                      raise SystemExit(f'missing release invariant on p.{p}: {needle}')
+
+          english = [
+              '# English translation',
+              '',
+              '> **English verification note:** Gate F translated the complete verified Tamil, and Gate G re-read all 23 mapped pages against the final verified Tamil. Nine definite fidelity/structure corrections were applied cumulatively; unresolved translation questions: **0**. English status: **verified against Tamil**. Kalaignar’s parliamentary voice, repetitions, humour, wordplay, rhetoric, register shifts, stage markers, printed English, source claims and figures are retained rather than generically smoothed or silently corrected.',
+              ''
+          ]
+          for p in expected:
+              english += [f'### Source page {p}', '', page_sections[p], '']
+          english_text = '\n'.join(english).rstrip() + '\n'
+
+          tamil = transcript.read_text(encoding='utf-8').rstrip()
+          if '# English translation' in tamil:
+              tamil = tamil.split('\n# English translation',1)[0].rstrip()
+          canonical = tamil + '\n\n---\n\n' + english_text
+          transcript.write_text(canonical, encoding='utf-8')
+
+          # Validate canonical Tamil markers and English page sections.
+          canon = transcript.read_text(encoding='utf-8')
+          tamil_markers = [int(x) for x in re.findall(r'<!-- source-page: (\d+) -->', canon.split('# English translation',1)[0])]
+          if tamil_markers != expected:
+              raise SystemExit(f'Tamil marker mismatch: {tamil_markers}')
+          eng_pages = [int(x) for x in re.findall(r'^### Source page (\d+)\s*$', canon.split('# English translation',1)[1], re.M)]
+          if eng_pages != expected:
+              raise SystemExit(f'English section mismatch: {eng_pages}')
+
+          # Metadata release closure.
+          meta = json.loads(metadata.read_text(encoding='utf-8'))
+          tr = meta['translation']
+          tr['status'] = 'verified'
+          tr['gate_f_status'] = 'complete'
+          tr['gate_g_status'] = 'passed'
+          tr['verified_against_tamil'] = True
+          tr['gate_g_reviewed_source_pages'] = '304-326'
+          tr['gate_g_reviewed_printed_pages'] = '303-325'
+          tr['gate_g_reviewed_page_count'] = 23
+          tr['gate_g_next_source_page'] = None
+          tr['gate_g_correction_count'] = 9
+          tr['gate_g_unresolved_questions'] = 0
+          tr['placement'] = 'Canonical verified English follows the verified Tamil in transcript.md.'
+          tr['working_files_retired'] = True
+          meta['release'] = {
+              'gate_h_status':'passed',
+              'canonical_tamil_english_merge':True,
+              'indexed':True,
+              'release_ready':True,
+              'released':True,
+              'release_note':'Speech 10 is fully released through Gate H with verified Tamil and verified English; canonical transcript contains both layers.'
+          }
+          metadata.write_text(json.dumps(meta, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+
+          # Machine-readable index: append Speech 10 exactly once.
+          idxp = root/'data/speeches.json'
+          idx = json.loads(idxp.read_text(encoding='utf-8'))
+          idx = [x for x in idx if x.get('id') != '2006-08-23-industries-debate']
+          idx.append({
+              'id':'2006-08-23-industries-debate',
+              'date':'2006-08-23',
+              'year':2006,
+              'speaker_ta':'மு. கருணாநிதி',
+              'speaker_en':'M. Karunanidhi',
+              'title_ta':'தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 10',
+              'title_en':"Kalaignar's Legislative Assembly Speeches on Industry — Speech 10",
+              'event_ta':'தொழில்துறை மற்றும் தகவல் தொழில்நுட்பத் துறை மானிய விவாத உரை',
+              'event_en':'Speech in the Industries and Information Technology grant debate',
+              'path':'speeches/2006/2006-08-23-industries-debate',
+              'languages':['ta','en'],
+              'transcription_status':'verified',
+              'verified_against_scan':True,
+              'translation_status':'verified'
+          })
+          idx.sort(key=lambda x:x['date'])
+          idxp.write_text(json.dumps(idx, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+
+          # Speech README release state.
+          rp = d/'README.md'
+          r = rp.read_text(encoding='utf-8')
+          if '## Current archival state' in r:
+              r = r.split('## Current archival state',1)[0].rstrip() + '''\n\n## Current archival state\n\n- Gate C: **complete — 23/23 pages**.\n- Gate D: **passed**.\n- Gate E: **passed — Tamil verified against scan; 6 corrections; 0 unresolved readings**.\n- Gate F: **complete — English translated from final verified Tamil**.\n- Gate G: **passed — 23/23 pages reviewed; 9 corrections; 0 unresolved questions**.\n- Gate H: **passed — canonical Tamil + verified English merged in `transcript.md`; machine-readable/root indexes updated**.\n- Release status: **fully released**.\n\n## Files\n\n- [`transcript.md`](./transcript.md) — canonical verified Tamil followed by verified English.\n- [`metadata.json`](./metadata.json) — source, audit and release state.\n- [`source-notes.md`](./source-notes.md) — source authority and boundaries.\n- [`verification-log.md`](./verification-log.md) — Gate C–H audit trail.\n- [`translation-review.md`](./translation-review.md) — Gate-G fidelity review record.\n'''
+          rp.write_text(r, encoding='utf-8')
+
+          # Verification log Gate H closure.
+          vp = d/'verification-log.md'
+          v = vp.read_text(encoding='utf-8').rstrip()
+          if '## Gate H — canonical merge and release' not in v:
+              v += '''\n\n## Gate H — canonical merge and release\n\n**Passed.** The untouched Gate-E-verified Tamil remains first in `transcript.md`; the complete Gate-G-verified English for source pp.304–326 follows it. Canonical validation confirmed Tamil source markers 304–326 exactly once and in order and English source sections 304–326 exactly once and in order. All nine Gate-G corrections were preserved, including the corrected page boundaries, restored p.318 material and exact stage-marker positions. `data/speeches.json` and the root README were updated. Working split translation batches were retired after canonicalisation. Speech 10 is fully released through Gate H.\n'''
+          vp.write_text(v+'\n', encoding='utf-8')
+
+          # Root README: mark anthology complete and add Speech 10 row.
+          rr = root/'README.md'
+          r = rr.read_text(encoding='utf-8')
+          r = r.replace('**Speeches 1–9, through 8.05.2000, are fully released with verified Tamil and verified English. Speech 10 (23.08.2006) is the next archival unit.**', '**All 10 speeches in the 2007 industrial-speeches anthology are fully released with verified Tamil and verified English.**')
+          row = '| 23-08-2006 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 10](./speeches/2006/2006-08-23-industries-debate/) | தொழில்துறை மற்றும் தகவல் தொழில்நுட்பத் துறை மானிய விவாத உரை | Verified | Verified | Verified against scan pp. 304–326 |'
+          if row not in r:
+              anchor = '| 08-05-2000 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 9](./speeches/2000/2000-05-08-industries-debate/) | தொழில்துறை மானிய விவாத உரை | Verified | Verified | Verified against scan pp. 278–303 |'
+              r = r.replace(anchor, anchor+'\n'+row)
+          rr.write_text(r, encoding='utf-8')
+
+          # Handover: anthology completed; no Speech 11 exists in this source.
+          hp = root/'docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md'
+          h = hp.read_text(encoding='utf-8')
+          h = h.split('## Released speeches',1)[0].rstrip() + '''\n\n## Released speeches\n\n**Speeches 1–10 are fully released through Gate H with verified Tamil and verified English. Do not restart, retranscribe or modify those released source/translation layers unless a concrete correction is explicitly requested and source-supported.**\n\n## Anthology completion\n\nThe 2007 industrial-speeches anthology is complete. Speech 10 (`உரை : 10`, 23.08.2006) occupies scan/source pp.304–326 / printed pp.303–325 and is fully released. Scan pp.327–328 are `குறிப்புகள்` pages and p.329 is portrait/back matter; there is no Speech 11 in this source.\n\nSpeech 10 release state:\n\n- Gate C: complete;\n- Gate D: passed;\n- Gate E: passed — Tamil verified, 6 corrections, 0 unresolved readings;\n- Gate F: complete;\n- Gate G: passed — English verified, 9 corrections, 0 unresolved questions;\n- Gate H: passed — canonical Tamil + English merged, indexed and released.\n\nAny next archival activity must use a new controlling source or a specifically requested correction to a released entry.\n'''
+          hp.write_text(h, encoding='utf-8')
+
+          # Retire split working translation files after canonicalisation.
+          (d/'translation.md').write_text('# English translation — released\n\nThe complete Gate-G-verified English translation is canonical in [`transcript.md`](./transcript.md), following the verified Tamil. See [`translation-review.md`](./translation-review.md) for the fidelity-review audit.\n', encoding='utf-8')
+          for f in batch_files[1:]:
+              f.unlink()
+
+          print('Gate H canonical validation passed: Tamil 23/23, English 23/23.')
+          PY
+
+      - name: Commit release
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Release Speech 10 through Gate H"
+          git push
