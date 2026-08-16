@@ -38,7 +38,7 @@
     "source_authority": "scan image"
   },
   "transcription": {
-    "method": "manual first-pass transcription directly from rendered scan images",
+    "method": "manual first-pass transcription directly from rendered scan images, followed by full-speech completeness/page-marker audit",
     "status": "transcribed",
     "full_speech_scan_pages": "278-303",
     "completed_scan_pages": "278-303",
@@ -47,15 +47,15 @@
     "total_page_count": 26,
     "next_scan_page": null,
     "page_markers_audited_for_completed_batch": true,
-    "full_speech_completeness_audit": false,
-    "full_speech_page_marker_audit": false,
-    "gate_d_status": "not-started",
+    "full_speech_completeness_audit": true,
+    "full_speech_page_marker_audit": true,
+    "gate_d_status": "passed",
     "gate_e_status": "not-started",
     "verified_against_scan": false,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C Batches 1-6 now cover all mapped source/scan pp.278-303 / printed pp.277-302 directly from the rendered controlling scan. Final Batch 6 continued the p.302 ending after 111. நம்பர், transcribed the p.303 closing exchange, and confirmed the printed closing ornament. Scan p.304 explicitly begins Speech 10 and is excluded. All 26 expected source-page markers are now represented in the first-pass transcript; no unresolved first-pass reading marker is currently required. Tamil status is transcribed but not verified. Gate D completeness/page-marker audit and Gate E source-fidelity verification have not begun."
+    "completion_note": "Gate C Batches 1-6 cover all mapped source/scan pp.278-303 / printed pp.277-302. Gate D then audited the complete Speech-9 transcript structurally: all 26 expected source-page markers 278-303 are represented once and in strict order; no mapped page is missing, duplicated or reordered; the transcript begins at the locked p.278 Speech-9 heading and ends at the locked p.303 closing boundary with no Speech-8 or Speech-10 spillover; printed speaker changes/interventions are represented; unresolved reading markers remain 0. Gate D required no canonical Tamil text correction. Tamil remains transcribed but not verified. Gate E strict page-by-page source-fidelity verification has not begun."
   },
   "translation": {
     "language": "English",
