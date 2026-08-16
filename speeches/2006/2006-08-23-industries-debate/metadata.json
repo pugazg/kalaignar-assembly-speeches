@@ -50,14 +50,18 @@
     "total_page_count": 23,
     "next_scan_page": null,
     "page_markers_audited_for_completed_batch": true,
-    "gate_d_status": "not-started",
+    "full_speech_completeness_audit": true,
+    "full_speech_page_marker_audit": true,
+    "full_speech_boundary_audit": true,
+    "speaker_intervention_continuity_audited": true,
+    "cross_page_continuity_audited": true,
+    "gate_d_status": "passed",
     "gate_e_status": "not-started",
     "verified_against_scan": false,
     "explicit_unresolved_reading_markers": 0,
     "unresolved_readings": 0,
     "preserves_source_wording_spelling_punctuation_numerals_headings_speaker_labels_and_printed_english": true,
-    "completion_note": "Gate C is complete for all 23 mapped Speech-10 pages, scan/source pp.304-326 / printed pp.303-325. Source-page markers 304-326 are present exactly once and in order. The continuation from p.308 through p.326 was read directly from rendered scan pages. Rendered p.326 closes the speech with the final desk-thumping marker and closing ornament. Rendered pp.327-328 are blank note pages headed `குறிப்புகள்`; p.329 is portrait/back matter and none are included in the speech transcript. Tamil remains unverified until Gates D and E.",
-    "full_speech_page_markers_present": true
+    "completion_note": "Gate C is complete for all 23 mapped Speech-10 pages, scan/source pp.304-326 / printed pp.303-325. Gate D passed the full structural completeness/page-marker/boundary audit: markers 304-326 are present exactly once and in strict order; the opening at p.304 and close at p.326 are structurally intact; no Speech-9 text and no pp.327-329 குறிப்புகள்/back matter are included; speaker/intervention and cross-page continuities are structurally represented. Gate D made no canonical Tamil source-text correction. Tamil remains not verified until Gate E directly compares the complete transcript against the controlling scan."
   },
   "translation": {
     "language": "English",
