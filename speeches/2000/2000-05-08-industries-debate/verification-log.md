@@ -122,19 +122,40 @@ Gate-C metadata closure commit: `12e3fbefb66dce6325488884ed9aa1917ce18378`.
 
 ## Gate D — Tamil completeness/page-marker audit
 
-**Not started.** This is the next activity. It must audit the full Speech-9 transcript for all 26 mapped pages, source-page markers 278–303, missing/duplicate/reordered markers, locked start/end boundaries, printed speaker changes/interventions and explicit uncertainty markers.
+**Passed.** The complete Speech-9 transcript was audited against the locked structural map.
+
+Audit results:
+
+- expected source range: **278–303**;
+- expected printed range: **277–302**;
+- expected mapped pages: **26**;
+- represented mapped pages: **26/26**;
+- source-page markers: **278–303**, exactly once and in strict order;
+- missing markers/pages: **0**;
+- duplicate markers/pages: **0**;
+- reordered markers: **0**;
+- start boundary mismatch: **0** — canonical transcript begins at source p.278 with `உரை : 9`, `நாள் : 8.05.2000`;
+- end boundary mismatch: **0** — canonical transcript ends on source p.303 after the final Chair intervention and before the printed closing ornament;
+- Speech-8 / p.277 spillover: **0**;
+- Speech-10 / p.304 spillover: **0**;
+- unresolved reading markers: **0**;
+- Gate-D canonical Tamil text corrections: **0**.
+
+Speaker/intervention structure was also checked for completeness. The transcript represents the p.278 `திரு. ச. அழகிரி` intervention and return to Karunanidhi; the p.299 printed interruption and subsequent Karunanidhi speaker label; the p.300 `திரு. சோ. பாலகிருஷ்ணன்` intervention and p.301 return to Karunanidhi; and the p.303 Chair / `திரு. பி. ஆர். சுந்தரம்` / Chair sequence. Printed parenthetical interruptions such as `(குறுக்கீடு)` remain represented.
+
+Gate D is a **structural completeness audit only**. It does not establish word/character fidelity against the scan. No canonical Tamil source text was changed during Gate D.
 
 ## Gate E — strict Tamil source-fidelity verification
 
-**Not started.** The eventual Gate-E pass must directly re-read all scan pp.278–303 against the controlling rendered scan and apply/document any definite corrections before Tamil can be marked `verified`.
+**Not started.** This is now the exact next activity. Gate E must directly re-read all scan/source pp.278–303 against the controlling rendered scan and check words/characters, names/initials, numerals, dates, percentages, monetary values, units, printed English, headings, speaker labels, punctuation where legible, and cross-page continuations. Only definite scan-supported corrections may be applied and documented before Tamil can be marked `verified`.
 
 ## English gates
 
 - Gate F: **blocked / not started**;
 - Gate G: **not started**.
 
-English may begin only after Tamil Gates D and E are complete.
+English may begin only after Gate E is complete and Tamil is verified.
 
 ## Exact next activity
 
-Proceed with **Gate D — full Tamil completeness/page-marker audit** for Speech 9. Do **not** begin Gate E, English translation, or Speech 10 in that bounded activity unless explicitly requested.
+Proceed with **Gate E — strict Tamil source-fidelity verification** for Speech 9, covering the locked scan/source range **278–303 / printed 277–302**. Do **not** begin English translation or Speech 10 until Gate E is complete.
