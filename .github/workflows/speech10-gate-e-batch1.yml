@@ -25,3 +25,4 @@ jobs:
           git add -A
           git commit -m 'Verify Speech 10 Gate E Batch 1'
           git push
+# retry 2
