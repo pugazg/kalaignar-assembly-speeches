@@ -83,6 +83,8 @@
     "indexed": true,
     "release_ready": true,
     "released": true,
-    "release_note": "Speech 10 is fully released through Gate H with verified Tamil and verified English; canonical transcript contains both layers."
+    "release_note": "Speech 10 is fully released through Gate H with verified Tamil and verified English; canonical transcript contains both layers.",
+    "gate_h_canonicalization_correction_count": 1,
+    "gate_h_canonicalization_note": "One post-merge mechanical English page-boundary duplication at p.323→324 was removed; verified Tamil and substantive translation remain unchanged."
   }
 }

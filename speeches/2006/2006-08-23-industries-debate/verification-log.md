@@ -75,3 +75,7 @@ Perform the Gate-H canonical Tamil+English merge and release audit. Do not alter
 
 **Passed.** The untouched Gate-E-verified Tamil remains first in `transcript.md`; the complete Gate-G-verified English for source pp.304–326 follows it. Canonical validation confirmed Tamil source markers 304–326 exactly once and in order and English source sections 304–326 exactly once and in order. All nine Gate-G corrections were preserved, including the corrected page boundaries, restored p.318 material and exact stage-marker positions. `data/speeches.json` and the root README were updated. Working split translation batches were retired after canonicalisation. Speech 10 is fully released through Gate H.
 
+### Gate H post-merge boundary cleanup
+
+After the canonical merge, a mechanical duplication was detected at the English p.323→324 boundary: `through new exploration technology` appeared on both sides of the page break. The verified Tamil has that phrase only on p.323 (`புதிய ஆய்வு தொழில்நுட்பத்தின்மூலமாக ... பயன்பாட்டிற்குக்`) and p.324 begins `கொண்டுவர இயலும் என எதிர்பார்க்கப்படுகிறது.` The canonical English was corrected to end p.323 with `Through new exploration technology, that reserve can be brought into—` and begin p.324 with `—use, it is expected.` No Tamil text or substantive translation wording was changed.
+

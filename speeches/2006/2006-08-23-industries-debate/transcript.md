@@ -406,7 +406,7 @@ Most of the natural gas available in Tamil Nadu is found in the Cauvery basin re
 
 ### Source page 324
 
-—use, it is expected, through new exploration technology. Natural-gas reserves have been discovered in the Krishna-Godavari basin in Andhra State. The Government has decided to make use of this natural gas in order to improve Tamil Nadu's energy security.
+—use, it is expected. Natural-gas reserves have been discovered in the Krishna-Godavari basin in Andhra State. The Government has decided to make use of this natural gas in order to improve Tamil Nadu's energy security.
 
 In order to attain this objective, the Tamil Nadu Industrial Development Corporation will establish a new joint-sector company for the exploration, production and distribution of crude oil and natural gas. This new company will establish the necessary pipeline infrastructure throughout Tamil Nadu and create a Natural gas distribution network. It is certain that this new initiative of the Government, besides improving the energy security of this State, will also pave the way for Tamil Nadu's continuous economic growth and for an increase in the State Government's revenue. (Sound of desk-thumping.)
 
