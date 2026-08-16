@@ -13,6 +13,8 @@ The repository is intended to be a **source-faithful, auditable digital archive*
 5. **Parliamentary context is part of the document.** Preserve speaker labels, member interventions, interruptions, quotations, headings, tables/lists, figures and other printed contextual material that belongs to the speech sequence.
 6. **Tamil before English.** English translation is blocked until the complete Tamil transcription has passed the required Tamil audit gates.
 7. **Completeness and verification are different.** A transcript can be complete without yet being verified.
+8. **Released material is locked.** Once a speech has passed Gate H, do not restart, retranscribe, retranslate, normalise or otherwise alter its canonical Tamil/English while processing another source. Change a released layer only for a concrete, explicitly documented, source-supported correction.
+9. **Kalaignar's voice must survive translation.** English is not a prose clean-up. Preserve argumentative sequence, repetitions, direct address, humour, irony, wordplay, metaphors, rhetorical accumulation, register shifts, parliamentary exchanges and stage markers wherever the verified Tamil supports them.
 
 ## 2. Canonical speech organisation
 
@@ -42,7 +44,8 @@ speeches/YYYY/YYYY-MM-DD-event-slug/
 ├── metadata.json
 ├── source-notes.md
 ├── transcript.md
-└── verification-log.md
+├── verification-log.md
+└── translation-review.md   # when English fidelity review produces a separate audit record
 ```
 
 A `verification/` directory may be added for machine-readable or batch-level verification artifacts when useful.
@@ -59,7 +62,8 @@ At minimum record:
 - scan filename and source page ranges;
 - transcription status;
 - verification status;
-- translation status.
+- translation status;
+- Gate H/release state once released.
 
 Do not infer a historical office/role from memory merely because the speaker is known. Use the source label or a separately verified primary record.
 
@@ -84,7 +88,8 @@ The canonical transcript should contain:
 2. a short archival transcription note;
 3. complete Tamil transcription;
 4. explicit source-page markers;
-5. only after Tamil verification: the English translation.
+5. only after Tamil verification: the English translation;
+6. after Gate G, the final verified English rather than temporary batch drafts.
 
 Use the established page marker:
 
@@ -96,35 +101,40 @@ Physical line wrapping may be normalised into readable paragraphs. Do **not** us
 
 ## 4. Status model
 
-Use these meanings consistently.
-
 ### `in-progress`
-
 Only part of the mapped speech has been transcribed.
 
 ### `transcribed`
-
 A complete first-pass Tamil transcription exists for every source page in the mapped speech range. This does **not** mean source fidelity has been proven.
 
 ### `reviewed`
-
 A separate review pass has checked the full speech and resolved obvious transcription problems, but the strict final visual audit is not yet complete.
 
 ### `verified`
-
 The complete canonical Tamil transcript has passed a direct page-by-page visual comparison against the controlling scan, and the corrections discovered in that audit have been applied.
 
-Never use `verified` merely because:
-
-- OCR completed;
-- the text looks fluent;
-- a previous model said it was correct;
-- spot checks passed;
-- a first-pass transcription covered all pages.
+Never use `verified` merely because OCR completed, the text looks fluent, a previous model said it was correct, spot checks passed, or a first-pass transcription covered all pages.
 
 Translation has its own status and must not inherit Tamil verification automatically.
 
-## 5. Workflow for a new multi-speech source
+### `released`
+Use only after Gate H has passed: canonical Tamil and verified English are consolidated, indexes/statuses agree, boundaries and page coverage are audited, and temporary working material is retired or clearly non-canonical.
+
+## 5. Workflow for a new source/PDF
+
+### Mandatory new-PDF startup
+
+Every newly supplied PDF is a **new controlling source until proven otherwise**. Before creating or changing a speech entry:
+
+1. read this workflow completely;
+2. read the most recent project/source handover and the dedicated next-PDF prompt if present;
+3. inspect the repository for existing work matching the source, dates, labels or scan boundaries — continue existing work rather than creating duplicates;
+4. inspect the **actual attached/rendered scan**, including title/front matter and the physical end of the PDF; do not derive metadata from the filename alone;
+5. establish page count, filename, byte size and SHA-256 when the bytes are available;
+6. identify publication metadata from the scan itself;
+7. determine whether the source is a single speech or anthology;
+8. if an anthology, complete Gate B mapping before transcription;
+9. never alter already released speeches merely because a new anthology overlaps them — document the overlap and treat editions as separate source witnesses unless an explicit correction task is requested.
 
 ### Gate A — source preflight
 
@@ -134,7 +144,8 @@ Before transcription:
 - record filename, size and cryptographic hash when practical;
 - identify front/back matter;
 - identify whether the source is one speech or an anthology;
-- record scan quality and unusual page numbering.
+- record scan quality and unusual page numbering;
+- inspect the source itself for title, edition, publisher and printed-date evidence rather than trusting filename/catalogue shorthand.
 
 Do not trust a viewer's rendered-page limit as the source's true page count.
 
@@ -150,81 +161,53 @@ Track:
 - PDF scan start/end;
 - printed page start/end;
 - closing ornament/editorial evidence;
-- next speech heading.
+- next speech heading;
+- front/back matter and non-speech pages.
 
-Use bounded batches for long PDFs and record the exact continuation point after each batch.
-
-After the first full pass, do a focused second check of every start/end boundary before locking the inventory.
+Use bounded batches for long PDFs and record the exact continuation point after each batch. After the first full pass, do a focused second check of every start/end boundary before locking the inventory. Do not begin Gate C until the relevant boundary is locked.
 
 ### Gate C — Tamil first-pass transcription
 
-Work speech by speech, preferably in chronological order unless the project specifies otherwise.
+Work speech by speech, preferably in chronological/source order unless the project specifies otherwise.
 
-For long speeches, use bounded batches (for example 10–15 source pages at a time). At the end of every batch record:
+For long speeches, use bounded batches. At the end of every batch record source pages completed, first/last words or a safe continuation marker, whether the speech is partial or complete, unresolved readings and current Git commit if work was pushed.
 
-- source pages completed;
-- first/last words or a safe continuation marker;
-- whether the speech is partial or complete;
-- unresolved readings;
-- current Git commit if work was pushed.
-
-Do not start a second speech merely to fill a batch size. Preserve natural speech boundaries.
+Do not start a second speech merely to fill a batch size. Preserve natural speech boundaries. Do not reconstruct page continuations from memory or outside knowledge.
 
 ### Gate D — Tamil completeness audit
 
-Before calling a speech `transcribed`, confirm:
-
-- every mapped source page is represented;
-- all page markers are present and monotonic;
-- no page is duplicated or skipped;
-- the start and ending align with the locked structural map;
-- all printed speaker changes/interventions are represented;
-- unresolved readings are explicitly marked.
+Before calling a speech `transcribed`, confirm every mapped source page is represented; all page markers are present and monotonic; no page is duplicated or skipped; start/end align with the locked map; all printed speaker changes/interventions are represented; and unresolved readings are explicitly marked.
 
 ### Gate E — Tamil source-fidelity verification
 
-Perform a stricter visual audit against the scan, page by page.
+Perform a stricter visual audit against the scan, page by page. Check words/characters, names/initials, numerals/dates/percentages/money/units, embedded English, headings, speaker labels, punctuation where legible, and omissions/repetitions across page transitions.
 
-Check at minimum:
-
-- words and individual characters;
-- names and initials;
-- numerals, dates, percentages, monetary values and units;
-- English passages embedded in Tamil text;
-- headings;
-- speaker labels;
-- punctuation where the print is legible;
-- omissions/repetitions across page transitions.
-
-Apply corrections to the canonical transcript and document them in `verification-log.md`.
-
-Only after this gate may Tamil be marked `verified`.
+Apply corrections to the canonical transcript and document them in `verification-log.md`. Only after this gate may Tamil be marked `verified`.
 
 ### Gate F — English translation
 
 English translation begins **only after the Tamil audit gates are complete**.
 
-Translation rules:
+Translate the verified Tamil, not OCR or an earlier draft. Preserve Kalaignar's language and parliamentary voice: argumentative sequence, repetitions, direct address, humour, wordplay, irony, metaphors, rhetorical rhythm, register shifts and interventions. Do not polish these into generic English. Do not improve factual claims or silently correct historical statements. Keep names, figures, technical terms, printed English and stage markers consistent with the verified Tamil.
 
-- translate the verified Tamil, not OCR and not an earlier draft;
-- preserve argumentative sequence and parliamentary context;
-- do not improve factual claims made by the speaker;
-- do not silently correct historical statements;
-- distinguish source wording from translator clarification;
-- keep names, figures and technical terms consistent with the verified Tamil.
+### Gate G — English fidelity and voice check
 
-### Gate G — English fidelity check
+Re-read the **entire** English translation against the final verified Tamil page by page. Check meaning, omissions, repetitions, page boundaries, speaker/intervention placement, figures, printed English, stage-marker position and preservation of Kalaignar's voice. Record corrections and unresolved questions. Only then mark English `verified`.
 
-Re-read the full English translation against the final verified Tamil. Only then mark translation `verified`.
+### Gate H — canonical merge, index and release
 
-### Gate H — index/release
+After Tamil and English are verified:
 
-After the speech has a complete canonical entry:
+- keep the verified Tamil untouched at the start of canonical `transcript.md`;
+- consolidate the complete Gate-G-verified English after it;
+- verify Tamil markers and English source-page sections cover the complete locked range exactly once and in order;
+- explicitly recheck every correction/boundary discovered during Gate G after the merge;
+- inspect the merged page transitions for mechanical duplication or omission;
+- update `metadata.json`, `README.md`, `verification-log.md`, `translation-review.md` where used, `data/speeches.json`, root README/index and source handover;
+- retire temporary translation batches only after the canonical merge has been validated;
+- mark `released` only after all these checks pass.
 
-- update `data/speeches.json`;
-- update the root speech index as appropriate;
-- ensure statuses match the actual audit state;
-- ensure source paths/page ranges match `metadata.json` and `source-notes.md`.
+A source/PDF is **complete** only when every mapped speech in it has passed Gate H and all remaining physical pages have been classified as front matter, back matter or other non-speech content. Record explicitly whether another speech follows. Then lock the source and prepare the handover/prompt for the next PDF.
 
 ## 6. Source fidelity rules
 
@@ -237,7 +220,8 @@ After the speech has a complete canonical entry:
 - member interventions;
 - printed English words/passages;
 - printed numerals and symbols;
-- obvious editorial ornaments/boundaries as notes where relevant.
+- obvious editorial ornaments/boundaries as notes where relevant;
+- source-supported variation in spacing, compounds and auxiliary forms rather than silently regularising them.
 
 ### Normalise only where explicitly allowed
 
@@ -262,40 +246,24 @@ If an obvious printer's error appears, retain it in the source-faithful transcri
 
 Prefer a controlled uncertainty marker over a guess. The exact marker can be source-specific, but it must be searchable and documented.
 
-When resolving uncertainty:
-
-1. inspect the full page;
-2. inspect adjacent pages/context;
-3. inspect a higher-resolution crop if needed;
-4. compare repeated names/terms within the same source;
-5. use OCR only as a secondary clue, never as the deciding authority.
-
-If still uncertain, leave it unresolved for later review.
+When resolving uncertainty: inspect the full page; inspect adjacent pages/context; inspect a higher-resolution crop if needed; compare repeated names/terms within the same source; use OCR only as a secondary clue. If still uncertain, leave it unresolved for later review.
 
 ## 8. Git and iteration discipline
 
-- Work from the existing `main` state unless the user specifies a branch.
+- Work from existing `main` unless the user specifies otherwise.
 - Fetch the current file before replacing it so the correct blob SHA is used.
 - Prefer bounded, reviewable commits with descriptive messages.
-- Never overwrite already verified speeches while processing a different source unless the requested change explicitly concerns them.
-- Record a handover after long sessions or before switching chats.
-- A handover should state exact source, hash, locked boundaries, completed ranges, current statuses, open uncertainties and the exact next action.
+- Never overwrite already verified/released speeches while processing a different source unless the requested change explicitly concerns them.
+- Do not use temporary GitHub Actions workflows as a substitute for ordinary repository edits when direct file operations suffice. If a one-time workflow is genuinely necessary, remove it immediately after successful use and verify the resulting canonical files.
+- Record a handover after long sessions, source completion or before switching chats.
+- A handover must state exact source, hash/size where known, locked boundaries, completed ranges, gate statuses, correction counts, open uncertainties, release state and exact next action.
 
 ## 9. Research and enrichment
 
-Primary-source transcription and external historical research are separate layers.
-
-The transcript must not be altered to match outside sources. If later research establishes a more precise motion name, office-holder role or institutional context, add that as metadata or an editorial note with provenance.
+Primary-source transcription and external historical research are separate layers. The transcript must not be altered to match outside sources. If later research establishes a more precise motion name, office-holder role or institutional context, add that as metadata/editorial note with provenance.
 
 ## 10. Release invariant
 
-A future contributor should be able to answer all of these from the repository alone:
-
-- What source was used?
-- Which exact scan pages contain this speech?
-- What text is source transcription versus translation/editorial note?
-- What has actually been verified?
-- What remains uncertain?
-- Where should work resume?
+A future contributor should be able to answer from the repository alone: What source was used? Which exact scan pages contain this speech? What is source transcription versus translation/editorial note? What has actually been verified? What remains uncertain? Where should work resume? Is the source itself complete?
 
 If the repository cannot answer those questions, the archival task is not yet complete.
