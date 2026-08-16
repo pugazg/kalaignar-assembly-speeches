@@ -33,71 +33,65 @@ Both locked boundaries were re-confirmed directly from the controlling scan befo
 - Batch 3: pp.288–292 / printed 287–291; cumulative 15/26; transcript commit `8de59961b972844acffb7f831d1867d2193cbf9d`.
 - Batch 4: pp.293–297 / printed 292–296; cumulative 20/26; transcript commit `dcc52ef8fcc7a48517dfa924f5dc297e7a96867d`.
 - Batch 5: pp.298–302 / printed 297–301; cumulative 25/26; initial commit `ed2ade25fb1f3808a8cb8f6bfd0918ca1be7f3a5`; corrected canonical checkpoint `8ed2c3685857e16b368139252386b623875284ab`.
-- **Batch 6: p.303 / printed 302; cumulative 26/26; Gate C complete; transcript commit `1014c9528404a6334a94ab811d1b0b1142637d72`.**
+- Batch 6: p.303 / printed 302; cumulative 26/26; Gate C complete; transcript commit `1014c9528404a6334a94ab811d1b0b1142637d72`.
 
-Current Speech-9 state:
-
-- cumulative source coverage: **278–303 / 26 of 26 pages**
-- cumulative printed coverage: **277–302**
-- first-pass source-page marker sequence: **278–303**
-- unresolved first-pass readings: **0**
-- Tamil status: **transcribed; not verified**
-- Gate C: **complete**
-- Gate D: **not started — next activity**
-- Gate E: **not started**
-- English Gate F: **blocked**
-- Gate-C-complete transcript blob: `9c0a07406b072216a62b07f5cb16d29a45c42d22`
-- Gate-C metadata closure commit: `12e3fbefb66dce6325488884ed9aa1917ce18378`
-- Gate-C README closure commit: `d75e09733e8693780cf5bed052d503e428778beb`
-- Gate-C source-notes closure commit: `457ba9b9a3a7e6b4fe210b8b89c9018b5f27127c`
-- Gate-C verification-log closure commit: `c5028f16dbc3c5cb007523e40f7ff99f32566b6b`
-
-### Batch-5 post-write corrections
-
-A high-resolution reread found four definite Gate-C transcription corrections. Commit `8ed2c3685857e16b368139252386b623875284ab` was inspected and contains exactly these four textual changes:
-
-1. p.298 `பழனிசாமி ஏற்றுக்கொள்கிறாரோ` → `பழனிசாமி ஏற்றுக் கொள்கிறாரோ`;
-2. p.298 `டி. மணி ஏற்றுக்கொள்கிறாரோ` → `டி. மணி ஏற்றுக் கொள்கிறாரோ`;
-3. p.300 `சிமெண்ட் தயார்செய்வதன்` → `சிமெண்ட் தயார் செய்வதன்`;
-4. p.300 `குறைந்த விலையில் தயார்செய்து` → `குறைந்த விலையில் தயார் செய்து`.
-
-These are first-pass Gate-C corrections, **not** Gate-E verification corrections.
-
-### Batch-5 source-sensitive forms
+### Gate-C source-sensitive forms
 
 Preserve without external reconciliation:
 
-- p.298 `ரைட்` and the source-varying `ஏற்றுக்கொள்கிறாரோ` / `ஏற்றுக் கொள்கிறாரோ` forms;
-- p.299 `'TANCEM'`, `12-12-1994`, the printed English Counter Affidavit and the source Tamil paraphrase `மூன்றாவது பிரதிவாதியான டான்செம் நிறைவேற்றவில்லை.`;
-- p.300 the two printed Government English sentences and So. Balakrishnan's `தயார் செய்வதன்` / `தயார் செய்து` wording;
-- p.301 production figures: 3,33,000; 4,13,000; 4,34,000; 3,77,000; 4,29,000; 4,63,000; 5,38,000; 4,87,000; 4,46,000 tons for 1991-92 through 1999-2000;
-- p.302 `அம்புஜா`, Rs.85 / Rs.145, `50 சதவிகிதத்திலே`, Chief Secretary committee and 111 cut motions.
+- p.280 `22-4-200` and later `22-4-2000`;
+- pp.280–281 investment figures including `1,14,893`, `1,41,893 + 15,000`, `1,56,893`;
+- printed *Economic Times*, *Industrial Herald*, *Economic and Political Weekly* passages;
+- p.286 `இந்தக் கேமிரா கழுவும்போது`;
+- p.290 Polaris letter `more then 100% per year`;
+- p.293 `இன்னொன்றியில் சென்னை வர்த்தக மையம்;`;
+- p.296 printed date `24-3-2001`;
+- p.298 `ரைட்` and source-varying auxiliary spacing;
+- p.299 `'TANCEM'`, `12-12-1994`, printed Counter Affidavit English and `மூன்றாவது பிரதிவாதியான டான்செம் நிறைவேற்றவில்லை.`;
+- p.300 printed Government English and `தயார் செய்வதன்` / `தயார் செய்து`;
+- p.301 production figures: 3,33,000; 4,13,000; 4,34,000; 3,77,000; 4,29,000; 4,63,000; 5,38,000; 4,87,000; 4,46,000 tons;
+- p.302 `அம்புஜா`, Rs.85 / Rs.145, `50 சதவிகிதத்திலே`, 111 cut motions;
+- p.303 `கேட்டு அமைகிறேன்.`, Sundaram's `2,000 கோடி` → `2,000 இலட்சம்`, explicitly `20 கோடி`, the Chair's separately printed `200 கோடி, 20 இலட்சம், 2,000 கோடி`, and `ராசிபுரம்.....`.
 
-Source p.302 ends mid-sentence after exactly:
+## Speech 9 Gate D — passed
 
-`வெட்டுத் தீர்மானங்களுடைய எண்ணிக்கை 111. நம்பர்`
+The full Tamil completeness/page-marker audit has been completed.
 
-### Batch-6 source-sensitive forms and boundary
+- mapped source coverage: **278–303 / 26 of 26 pages**
+- mapped printed coverage: **277–302**
+- source-page markers: **278–303**, exactly once and in strict order
+- missing markers/pages: **0**
+- duplicate markers/pages: **0**
+- reordered markers: **0**
+- Speech-8 / p.277 spillover: **0**
+- Speech-10 / p.304 spillover: **0**
+- printed speaker changes/interventions: **represented**
+- unresolved reading markers: **0**
+- Gate-D canonical Tamil text corrections: **0**
+- Tamil status: **transcribed; not verified**
+- Gate E: **not started — next activity**
+- English Gate F: **blocked**
 
-Source p.303 continues directly with `நன்றாக இல்லை.` and closes Speech 9. Preserve:
+Gate D specifically confirmed the p.278 `திரு. ச. அழகிரி` exchange and return to Karunanidhi; the p.299 printed interruption and subsequent Karunanidhi label; the p.300 `திரு. சோ. பாலகிருஷ்ணன்` intervention and p.301 return to Karunanidhi; and the p.303 Chair / `திரு. பி. ஆர். சுந்தரம்` / Chair sequence. Parenthetical interruptions such as `(குறுக்கீடு)` are represented.
 
-- `கேட்டு அமைகிறேன்.` as printed;
-- the Chair's call to `திரு. பி. ஆர். சுந்தரம்`;
-- Sundaram's correction from `2,000 கோடி` to `2,000 இலட்சம்`, explicitly `20 கோடி`;
-- the Chair's separately printed sequence `200 கோடி, 20 இலட்சம், 2,000 கோடி` without reconciliation;
-- `ராசிபுரம்.....` as printed;
-- the closing ornament after the Chair's final intervention.
+Gate-D repository checkpoints:
 
-Scan p.304 explicitly begins Speech 10 and is excluded from Speech 9.
+- metadata: `d4f32e7021cddc316acf80c6483632935293e483`
+- README: `b4e697095cb2010f3020243f160a6e2c03dbee59`
+- source notes: `e3209de83d8b1ae0fb84202cb563a1a76afeb0e1`
+- verification log: `19b6cd8002b65e1bb761484e02dc7e1f2239c0fa`
 
-## Exact next activity — Speech 9 Gate D
+Gate D is structural only. It did **not** perform full word/character source-fidelity verification and did not change the canonical Tamil transcript.
+
+## Exact next activity — Speech 9 Gate E
 
 1. Read `docs/ARCHIVAL_WORKFLOW.md`, this handover, `sources/2007-industrial-speeches/mapping.md`, and the current Speech-9 files before writing.
-2. Perform **Gate D — full Tamil completeness/page-marker audit** only.
-3. Audit the complete transcript against the locked mapping **source pp.278–303 / printed pp.277–302**.
-4. Confirm all **26** mapped source pages are represented.
-5. Confirm source-page markers **278–303** are present exactly once and in strict order, with no missing, duplicate or reordered marker.
-6. Confirm the transcript begins at the locked Speech-9 start and ends at the locked p.303 closing boundary; no p.277/Speech-8 or p.304/Speech-10 material may be present.
-7. Confirm all printed speaker changes/interventions are represented and any unresolved readings are explicitly marked.
-8. Record Gate-D results truthfully in metadata, README, source notes and verification log. Gate D is a completeness audit, **not** source-fidelity verification.
-9. Do **not** begin Gate E or English translation in the same bounded activity unless explicitly requested.
+2. Perform **Gate E — strict Tamil source-fidelity verification** against the controlling rendered scan.
+3. Verify the locked scan/source range **278–303 / printed 277–302** page by page.
+4. Check at minimum: words and individual characters; names and initials; numerals, dates, percentages, monetary values and units; printed English passages; headings; speaker labels; punctuation where legible; omissions/repetitions and cross-page continuations.
+5. Preserve source-supported unusual or inconsistent forms. Do not silently modernize, reconcile or fact-correct.
+6. Apply only definite scan-supported corrections to the canonical Tamil transcript and document each correction in `verification-log.md` and relevant source notes.
+7. Keep unresolved readings explicit rather than guessing.
+8. Only after all 26 pages have been directly verified may Tamil be marked `verified` and `verified_against_scan=true`.
+9. English Gate F remains blocked until Gate E is complete.
+10. Do **not** begin Speech 10 while Speech 9 Gate E is active.
