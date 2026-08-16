@@ -14,8 +14,6 @@ Locked source: **329 PDF pages**, **217,124,211 bytes**, SHA-256 `c26003fe77b97a
 
 ## Active archival unit — Speech 10
 
-Locked mapping:
-
 - source label: `உரை : 10`
 - printed date: `23.08.2006`
 - ISO date: `2006-08-23`
@@ -25,38 +23,31 @@ Locked mapping:
 - scan p.303 closes Speech 9
 - scan p.304 begins Speech 10
 - scan p.326 closes Speech 10
-- scan pp.327–328 are `குறிப்புகள்`; p.329 is closing portrait/back matter
+- scan pp.327–328 are `குறிப்புகள்`; p.329 is portrait/back matter
 
-At Speech-10 startup, rendered scan p.304 was directly inspected and the printed `உரை : 10` / `நாள் : 23.08.2006` opening was re-confirmed.
+Rendered p.304 was directly inspected at startup and reconfirmed the `உரை : 10` / `23.08.2006` opening. Rendered p.326 was inspected through the closing ornament; rendered pp.327–329 were inspected and confirmed as non-speech material.
 
 ## Current Speech-10 state
 
-Gate C Batch 1 is complete:
+Gate C is **complete**:
 
-- transcribed source/scan pages: **304–308**
-- corresponding printed pages: **303–307**
-- cumulative coverage: **5/23 pages**
-- page markers: **304–308**, once and in order
+- transcribed source/scan pages: **304–326**
+- corresponding printed pages: **303–325**
+- cumulative coverage: **23/23 pages**
+- page markers: **304–326**, once and in order
 - unresolved first-pass readings: **0**
-- Tamil status: **in progress; not verified**
+- Tamil status: **transcribed; not verified**
 - Gate D: **not started**
 - Gate E: **not started**
 - English Gate F: **blocked**
-- next source/scan page: **309**
 
-Important source-sensitive forms already preserved include the p.304 `கேலியாகவோ / கிண்டலாகவோ / வசையாகவோ / இசையாகவே` wordplay; p.305 `Centre for Monitoring Indian Economy (CMIE)`, `Investment in Manufacturing Sector`, exact State investment figures and `'போட்டாபோட்டி'`, `'காட்டாங்குஸ்தி'-யில்`; p.306 `Final Modified Appropriation`, English `surrender` and `இந்த surrender எனக்குப் பிடிக்காது.`; p.307 `Annual Survey of Industries, 2003-2004`, `Fixed Capital`, `Invested Capital`, `Share Capital`, `Equity`, `TIDCO`; and p.308 `Aswanth Sugars`, `Parliament`, `attendance`, `'உள்ளேன் ஐயா'` and the 285 cut-motion passage.
+The completion activity continued directly from the p.308 ending `ஆக, 285 வெட்டுத் தீர்மானங்கள்;` through source p.326. Non-speech note/back-matter pages 327–329 were not included.
 
-Source p.308 ends mid-sentence after exactly:
+## Exact next activity — Speech 10 Gate D
 
-`ஆக, 285 வெட்டுத் தீர்மானங்கள்;`
-
-## Exact next activity — Speech 10 Gate C Batch 2
-
-1. Process rendered **source/scan p.309 onward** in a bounded batch, beginning directly after `ஆக, 285 வெட்டுத் தீர்மானங்கள்;`.
-2. Use the scan image as textual authority. Do not reconstruct from memory or outside knowledge.
-3. Preserve wording, historical spelling, punctuation, numerals, printed English, speaker labels, interventions, repetition, humour and unusual grammar.
-4. Add one `<!-- source-page: N -->` marker for each transcribed page, in order.
-5. Record genuinely uncertain readings explicitly rather than guessing.
-6. Do not modify released Speeches 1–9.
-7. Do not begin English until Tamil Gates C–E are complete.
-8. Stay within locked Speech-10 pages 304–326; do not include note pages 327–328.
+1. Read `docs/ARCHIVAL_WORKFLOW.md`, this handover and the Speech-10 metadata/README/source notes/transcript/verification log.
+2. Perform a **full Tamil completeness/page-marker/boundary audit** across source pp.304–326.
+3. Confirm markers 304–326 occur exactly once and in order, with no Speech-9 spillover and no `குறிப்புகள்`/back-matter spillover.
+4. Audit speaker/intervention continuity and page-crossing sentence continuity structurally.
+5. Gate D is not Gate E: do not claim source-fidelity verification merely from this structural audit.
+6. Do not begin English until Gate E has fully verified the Tamil against the scan.

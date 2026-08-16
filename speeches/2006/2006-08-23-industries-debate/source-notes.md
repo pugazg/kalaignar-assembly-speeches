@@ -38,3 +38,14 @@ Batch 1 ends mid-sentence after exactly:
 `ஆக, 285 வெட்டுத் தீர்மானங்கள்;`
 
 Do not reconstruct the continuation without reading rendered scan p.309.
+
+## Gate C completion — source pp.309–326
+
+The remaining eighteen mapped speech pages were read directly from the rendered scan and appended in one completion activity. Cumulative Gate-C coverage is now **23/23 pages, source pp.304–326 / printed pp.303–325**. No genuinely uncertain first-pass reading remains.
+
+Source-sensitive material deliberately retained includes the p.309 `வெட்டுத் தீர்மானங்கள்` / `வெட்டித் தீர்மானங்கள்` joke; the p.310 juice/party-symbol humour; p.312 printed `wine`; p.313 `Skill development` and `Special Economic Zone`; p.314 `T.N.P.L`, `F.I.R.` and labour-rights passage; p.316 `Bio-Technology Revolution`; p.317 `State Industries Promotion Corporation of Tamil Nadu` and `park-கள் பூங்காக்கள்`; pp.318–320 the exact SIPCOT acreage/investment/index figures and `Single Window System`; p.322 `Automotive Special Economic Zone` and `Reverse Osmosis`; p.323 `Co-generation`; p.324 `Natural gas distribution network`; p.325 `I.T. Task Force` and `e-governance`; and p.326 `I.T. Expressway`, road-length/cost figures and final closing words.
+
+Rendered p.326 visibly ends Speech 10 with the final paragraph, desk-thumping marker and closing ornament. Rendered pp.327–328 were also inspected and are blank note pages headed `குறிப்புகள்`; p.329 is portrait/back matter. None were transcribed into Speech 10.
+
+Gate C is a first-pass transcription only. The next activity is Gate D structural completeness/page-marker/boundary audit; Gate E source-fidelity verification has not started.
+

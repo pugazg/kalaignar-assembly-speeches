@@ -13,28 +13,26 @@
 - Locked scan/source pages: **304–326**.
 - Locked printed pages: **303–325**.
 - Scan p.303 closes released Speech 9.
-- Rendered scan p.304 was directly rechecked and shows `உரை : 10` / `நாள் : 23.08.2006`.
-- Scan p.326 closes Speech 10; scan pp.327–328 are `குறிப்புகள்`, and p.329 is closing portrait/back matter.
+- Rendered p.304 directly shows `உரை : 10` / `நாள் : 23.08.2006`.
+- Rendered p.326 closes Speech 10 with the final desk-thumping marker and closing ornament.
+- Rendered pp.327–328 are blank `குறிப்புகள்` pages; p.329 is portrait/back matter. They are not part of Speech 10.
 - The scan image is authoritative for Tamil transcription.
 
 ## Current archival state
 
-Speech 10 is active.
-
-- Gate C Batch 1: **complete — source pp.304–308 / printed pp.303–307**.
-- Gate-C cumulative coverage: **5/23 pages**.
-- Next source/scan page: **309**.
+- Gate C: **complete — 23/23 pages, source pp.304–326 / printed pp.303–325**.
+- Source-page markers: **304–326, exactly once and in order**.
 - Unresolved first-pass readings: **0**.
-- Tamil: **in progress; not verified**.
-- Gate D: not started.
-- Gate E: not started.
-- English Gate F: blocked until verified Tamil is complete.
+- Tamil: **transcribed; not verified**.
+- Gate D: **not started**.
+- Gate E: **not started**.
+- English Gate F: **blocked until verified Tamil is complete**.
 
-Batch 1 ends exactly at the p.308 cross-page continuation after `ஆக, 285 வெட்டுத் தீர்மானங்கள்;`.
+The next activity is **Gate D — full Tamil completeness/page-marker/boundary audit**. Do not begin English yet.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — canonical Tamil first-pass transcription in progress.
+- [`transcript.md`](./transcript.md) — complete Gate-C Tamil first-pass transcription.
 - [`metadata.json`](./metadata.json) — source mapping and gate status.
 - [`source-notes.md`](./source-notes.md) — source authority, boundaries and source-sensitive observations.
 - [`verification-log.md`](./verification-log.md) — gate audit trail.

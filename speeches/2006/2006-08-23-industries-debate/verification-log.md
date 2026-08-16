@@ -22,6 +22,20 @@ The batch preserves printed English, figures, parliamentary markers, repetitions
 
 The p.308 text ends mid-sentence after exactly `ஆக, 285 வெட்டுத் தீர்மானங்கள்;`. The continuation must be read directly from rendered p.309.
 
+### Gate C completion — source pp.309–326 / printed pp.308–325
+
+**Complete.** All remaining eighteen Speech-10 pages were transcribed from the controlling rendered scan.
+
+- cumulative Gate-C coverage: **23/23 pages**;
+- mapped source range: **304–326**;
+- mapped printed range: **303–325**;
+- source-page markers: **304–326**, exactly once and in order;
+- unresolved first-pass readings: **0**;
+- Tamil status: **transcribed; not verified**;
+- next Gate-C page: **none**.
+
+Rendered p.326 was inspected through the final desk-thumping marker and closing ornament. Rendered pp.327–328 are `குறிப்புகள்` pages and p.329 is portrait/back matter; they were explicitly excluded from the speech transcript.
+
 ## Later gates
 
 - Gate D: **not started**;
@@ -32,4 +46,5 @@ The p.308 text ends mid-sentence after exactly `ஆக, 285 வெட்டு�
 
 ## Exact next activity
 
-Continue Gate C with **source/scan p.309 onward** in a bounded batch. Begin directly after `ஆக, 285 வெட்டுத் தீர்மானங்கள்;`, using the rendered scan as authority. Do not begin English or include anything beyond the locked Speech-10 range.
+Run **Gate D — full Tamil completeness/page-marker/boundary audit** for source pp.304–326. Confirm all 23 markers and speech boundaries structurally without treating Gate D as source-fidelity verification. Do not begin English.
+
