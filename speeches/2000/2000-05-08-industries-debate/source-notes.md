@@ -157,8 +157,30 @@ Batch 6 begins with the direct source continuation `நன்றாக இல்
 - Sundaram's interrupted continuation is printed as `ராசிபுரம்.....` and is retained;
 - the final Chair intervention is followed by the source's closing ornament; no text from scan p.304 has been included.
 
+## Gate D — Tamil completeness/page-marker audit
+
+**Passed.** The complete Speech-9 first-pass transcript was audited structurally against the locked map.
+
+- expected mapped source pages: **278–303 / 26 pages**;
+- represented source pages: **278–303 / 26 pages**;
+- source-page markers: **278–303**, exactly once and in strict order;
+- missing markers: **0**;
+- duplicate markers: **0**;
+- reordered markers: **0**;
+- start boundary: transcript begins at source p.278 with `உரை : 9`, `நாள் : 8.05.2000`;
+- end boundary: transcript ends within source p.303 after the final Chair intervention; the printed closing ornament marks the Speech-9 close;
+- Speech-8 spillover from p.277: **0**;
+- Speech-10 spillover from p.304: **0**;
+- printed speaker changes/interventions: **represented**;
+- unresolved reading markers: **0**;
+- canonical Tamil text corrections required by Gate D: **0**.
+
+The explicit speaker/intervention structure represented in the transcript includes the p.278 `திரு. ச. அழகிரி` exchange and return to `மாண்புமிகு கலைஞர் மு. கருணாநிதி`, the p.299 printed interruption followed by the Karunanidhi speaker label, the p.300 `திரு. சோ. பாலகிருஷ்ணன்` intervention and p.301 return to Karunanidhi, and the p.303 Chair / `திரு. பி. ஆர். சுந்தரம்` / Chair sequence. Parenthetical printed interruptions such as `(குறுக்கீடு)` are retained where they occur.
+
+Gate D is a structural completeness audit only. It does not establish character-level fidelity to the scan and did not trigger any source-text change.
+
 ## Verification status
 
-Gate C is **complete**: the first-pass Tamil transcript now covers all mapped source/scan pp.278–303 / printed pp.277–302. This establishes transcription completeness only; it does **not** establish source fidelity. Gate D full-speech completeness/page-marker audit and Gate E strict visual source-fidelity verification have **not** begun. Tamil remains **transcribed; not verified**. No English translation may begin until Tamil Gates D and E are complete.
+Gate C is **complete** and Gate D has **passed**. Tamil remains **transcribed; not verified** because Gate E strict visual source-fidelity verification has not begun. No English translation may begin until Gate E is complete and Tamil is verified.
 
-The exact next activity is **Gate D — full Tamil completeness/page-marker audit**. Do not begin Gate E or English translation in that bounded activity unless explicitly requested.
+The exact next activity is **Gate E — strict Tamil source-fidelity verification** over scan/source pp.278–303 / printed pp.277–302. Do not begin English translation or Speech 10 until Gate E is complete.
