@@ -16,83 +16,69 @@ Status: **complete for the supplied scan**.
 
 - **Printed title:** `நமது நிலை`
 - **Cover attribution:** `தமிழக முதல்வர் கலைஞர் மு.கருணாநிதி`
-- **Imprint/date statement in front matter:** `சென்னை 22-5-1971.`
-- **Issuing body printed in front matter:** `செய்தி-விளம்பரத் துறை, தமிழ்நாடு அரசு.`
-- No separate edition-number statement or printer statement has been located in this 60-page scan.
+- **Imprint/date statement:** `சென்னை 22-5-1971.`
+- **Issuing body:** `செய்தி-விளம்பரத் துறை, தமிழ்நாடு அரசு.`
 
-The Connemara Public Library stamps and handwritten/library marks visible on some pages are later library matter and are **not** part of the speech text or publication imprint.
+Connemara Public Library stamps and later handwritten/library marks are not part of the publication text.
 
-### Physical structure and pagination
+### Physical structure
 
 | PDF scan pages | Printed pages | Classification |
 |---:|---:|---|
-| 1 | — | Cover/title page with later library stamp |
-| 2 | — | Publication/editorial introduction; imprint dated 22-5-1971 |
-| 3–37 | 1–35 | First editorial speech unit |
-| 38–60 | 36–58 | Second editorial speech unit |
+| 1 | — | Cover/title page |
+| 2 | — | Publication/editorial introduction and imprint |
+| 3–37 | 1–35 | Editorial Unit 1 — Governor-address replies |
+| 38–60 | 36–58 | Editorial Unit 2 — Interim-Budget replies |
 
-From scan p.3 onward the source follows a continuous printed-page sequence corresponding to `scan page = printed page + 2`. The second unit's opening page does not visibly carry a folio at the top, but it lies between printed p.35 (scan p.37) and printed p.37 (scan p.39) in the continuous source sequence and is therefore mapped as printed p.36.
+From scan p.3 onward the source follows the continuous relationship `scan page = printed page + 2`.
 
-No missing, duplicated or blank physical PDF pages were detected in the supplied 60-page file. Scan quality is generally readable but uneven: the source has old-print softness, speckling/bleed, illustrations, and later library stamps/handwriting on some pages. These must be distinguished from printed speech content during transcription.
+No missing, duplicated or blank physical PDF pages were detected in the controlling 60-page scan.
 
-The physical PDF ends on scan p.60 / printed p.58 with the end of the second unit, a closing ornament and a later library stamp. No additional speech or back-matter page follows in this PDF.
-
-### Repository duplicate check
-
-Before creating this source map, live `main` was inspected. No existing source folder, canonical speech entry or data-index entry matching:
-
-- `ACL-CPL_01726_நமது_நிலை.pdf`,
-- `நமது நிலை`,
-- the printed Governor-address date `24-3-1971`, or
-- the interim-budget-response wording
-
-was found. There is no existing `speeches/1971/` directory in live `main`. Existing released speeches from other sources are unchanged.
+---
 
 ## Gate B — structural mapping
 
-### Important source-specific complication
+### Source-specific complication
 
-This booklet is **not safely separable into ordinary dated single-speech entries from the scan alone**.
+The booklet is **not a simple set of verbatim single-House transcripts**.
 
-The front matter says the Governor-address thanks debate and the 1971–72 interim-budget debate occurred in both the Legislative Assembly and Legislative Council. The first unit says Kalaignar `இரு அவைகளிலும் விடையளித்தார்கள்`; the second unit explicitly describes itself as `உரைகளின் தொகுப்பு` from the Assembly and Council.
+Its own front matter says that the Governor-address and Interim-Budget debates occurred in both the Legislative Assembly and Legislative Council. Unit 1 says Karunanidhi replied in both Houses; Unit 2 explicitly calls itself a compilation of the replies delivered in the Assembly and Council.
 
-The edition does **not** print an individual reply date at either unit opening, and it does not print an explicit Assembly-to-Council transition that would allow the two-house speeches to be split into independently dated canonical speech records without external primary evidence. Therefore this map locks the **edition's two editorial units**, not hypothetical underlying House-speech boundaries.
+The source does not print the individual House reply dates or explicit House-transition markers. External Class-A Official Reports were therefore required to establish the underlying events.
 
-The printed `24-3-1971` on scan p.3 is explicitly the date of Governor Sardar Ujjal Singh's address, **not stated as the date of Kalaignar's reply**. It must not be silently reused as the speech date.
+The primary-record work has now recovered and text-locked **all four underlying reply events**, but both booklet units remain editorial compilations requiring span-level provenance alignment.
 
 ### Locked source-unit inventory
 
-| Unit | Printed source label / opening | Printed speech date | Primary-record status | PDF scan pages | Printed pages | Boundary evidence | Canonical repository ID |
-|---|---|---|---|---:|---:|---|---|
-| 1 | `நமது நிலை` — introduction to the reply on the motion of thanks for the Governor's address | **Not printed for Kalaignar's reply.** Source mentions `24-3-1971` only as the Governor-address date. | Assembly: **LOCKED to 2 April 1971**, reply pp. 314–336, motion completed p.337. Council: official programme strongly establishes **3 April 1971** as Chief Minister reply day, but direct 3 April text is still missing. Booklet is a mixed two-House editorial witness. | 3–37 | 1–35 | Opens on scan p.3 after front matter. Scan p.37 ends after a `முதல்வர்:` reply and is followed by a printed closing ornament. Scan p.38 starts a new bold section heading. | **pending span-level provenance alignment** — do not copy the whole editorial unit into a dated Assembly record |
-| 2 | `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` | **Not printed** | Underlying Assembly and Council replies both **LOCKED to 29 March 1971**; booklet itself is a mixed two-House editorial compilation requiring span-level alignment. | 38–60 | 36–58 | Scan p.38 opens with a new section heading and states that the following text is a compilation of the Chief Minister's speeches replying to the interim-budget debate in the Assembly and Council. Scan p.60 ends the text and carries the final closing ornament; no further page follows. | **pending span-level provenance alignment** — do not split at an assumed House boundary |
+| Unit | Printed source label | PDF scan pages | Printed pages | Underlying primary events | Canonical status |
+|---|---|---:|---:|---|---|
+| 1 | `நமது நிலை` — reply on the Motion of Thanks for the Governor's Address | 3–37 | 1–35 | Assembly **2 Apr 1971**, reply pp.314–336, motion p.337; Council **3 Apr 1971**, formal reply pp.434–454, immediate clarifications pp.455–456, motion p.456 | **pending span-level provenance alignment** |
+| 2 | `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` | 38–60 | 36–58 | Assembly **29 Mar 1971**, reply pp.298–313; Council **29 Mar 1971**, reply pp.200–207 | **pending span-level provenance alignment** |
 
-### Focused second boundary check
+### Source-unit boundaries
 
-A second direct visual check was completed at the critical transition and physical ending:
+A focused visual boundary check confirmed:
 
-- **scan p.37 / printed p.35:** first unit closes after the final `முதல்வர்:` intervention/reply and a distinct editorial ornament;
-- **scan p.38 / printed p.36:** new heading `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` begins the second unit;
-- **scan p.60 / printed p.58:** second unit reaches its physical/textual ending and closing ornament; there is no scan p.61.
+- scan p.37 / printed p.35 closes Unit 1 after the final `முதல்வர்:` exchange and an editorial ornament;
+- scan p.38 / printed p.36 starts `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்`;
+- scan p.60 / printed p.58 ends Unit 2 and the physical PDF.
 
-The source-unit boundaries are therefore **locked at scan pp.3–37 and 38–60**.
+The source-unit boundaries are locked at **scan pp.3–37** and **scan pp.38–60**.
 
-## Source-level transcription and visual-fidelity status
+---
 
-Because the user supplied a full word-to-word transcription with source intake, that text was retained as the **first-pass baseline** while the House/date split remained unresolved. It was not treated as authoritative.
+## Source-level transcription / visual-fidelity status
 
-The complete source was then checked word by word against the rendered scan:
+The user-supplied word-to-word transcription was retained only as a first-pass baseline. The rendered scan remained controlling.
+
+Completed source-level work:
 
 - scan pages visually traversed: **1–60 / 60**;
 - printed pages visually traversed: front matter + **1–58**;
 - confirmed first-pass discrepancy entries: **175**;
-- unresolved word/character readings after that first full pass: **0**.
+- unresolved word/character readings after the full pass: **0**.
 
-The 175 discrepancies are documented in the visual-fidelity audit series and consolidated in:
-
-- `correction-application-ledger.md`
-
-All scan-supported corrections have now been applied to a **source-level corrected transcription** under:
+The 175 discrepancies are consolidated in `correction-application-ledger.md` and have been applied to the six source-level corrected files:
 
 - `transcription/scan-001-010.md`
 - `transcription/scan-011-020.md`
@@ -101,144 +87,166 @@ All scan-supported corrections have now been applied to a **source-level correct
 - `transcription/scan-041-050.md`
 - `transcription/scan-051-060.md`
 
-Consolidation/transition QA is recorded in:
+Consolidation QA is recorded in `transcription-validation.md`.
 
-- `transcription-validation.md`
-
-During that QA, one error introduced by the consolidation itself on scan p.57 was caught by reopening the scan and corrected; it was not counted as a new first-pass discrepancy.
-
-## Focused source-internal House/date evidence pass
-
-Status: **complete**.
-
-The complete source-internal evidence inventory is recorded in:
-
-- `house-date-evidence.md`
-
-The focused reread confirmed:
-
-- `22-5-1971` is the publication/imprint date, not a printed reply date;
-- `24-3-1971` is explicitly the Governor's joint-address date, not a printed Kalaignar reply date;
-- Unit 1 explicitly says Kalaignar replied in both Houses;
-- Unit 2 explicitly describes the text as an `உரைகளின் தொகுப்பு` from the Assembly and Council;
-- Unit 1 contains an explicit `சட்டசபையில்` reference on scan p.32 / printed p.30 and Council-specific references around scan pp.34–35 / printed pp.32–33;
-- Unit 2 contains an explicit `மேலவையில்` reference on scan p.54 / printed p.52;
-- none of these references is accompanied by a new House heading, reply date, `உரை` label, separator, or restart formula that securely identifies a splice point.
-
-**Source-internal negative finding remains valid:** the edition itself does not securely expose the underlying Assembly/Council transcript boundaries or Kalaignar's exact reply dates. The later primary-record work does not change the booklet scan; it provides external provenance evidence.
-
-The direct 2 April Assembly record now adds an important caution: some `மேலவை` references in Unit 1 are themselves present inside the Assembly reply, so such references cannot be treated mechanically as House-transition markers.
+The legislative Official Reports do **not** supersede this booklet transcription. They are provenance evidence only.
 
 ---
 
-## Primary-record status update — 29 August 2026
+## Source-internal House/date evidence
+
+`house-date-evidence.md` records the source-internal evidence pass.
+
+Key findings remain:
+
+- `22-5-1971` is the booklet publication date, not a reply date;
+- `24-3-1971` is the Governor's joint-address date, not a Karunanidhi reply date;
+- Unit 1 explicitly says he replied in both Houses;
+- Unit 2 explicitly describes itself as an `உரைகளின் தொகுப்பு` from both Houses;
+- isolated `சட்டசபையில்` / `மேலவையில்` references do not establish splice points.
+
+The recovered 2 April Assembly report proves this last caution directly: a reference to the Council Opposition Leader occurs **inside the Assembly reply itself**.
+
+---
+
+# Primary-record mapping — current lock
 
 Detailed evidence is recorded in:
 
 - `primary-record-retrieval-pass-09.md`
 - `primary-record-retrieval-pass-10.md`
 - `primary-record-retrieval-pass-11.md`
+- `primary-record-retrieval-pass-12.md`
 - `primary-record-research.md`
 
-### Unit 1 — Assembly reply directly locked
+## Unit 1 — Legislative Assembly
 
-The supplied `927002(1).pdf` directly establishes:
+Direct `927002(1).pdf` evidence locks:
 
-- date: **2 April 1971**;
-- House: **Tamil Nadu Legislative Assembly**;
-- subject: Governor-address Motion of Thanks;
-- Karunanidhi reply starts on printed p. **314** after Thiru R. Ponnappa Nadar;
-- the opening directly matches the booklet's distinctive **67 members / 183–33 / 52–34** sequence;
-- the reply remains directly aligned through late State-autonomy, Mujibur Rahman, `50 சென்ட்`, bus-ceiling and retrospective-effect material;
-- the reply continues through printed p. **336**;
-- the Motion of Thanks is put and carried unanimously on p. **337**.
+- **House:** Tamil Nadu Legislative Assembly
+- **Date:** **2 April 1971**
+- **Subject:** Governor-address Motion of Thanks
+- **Karunanidhi reply:** printed **pp.314–336**
+- **Motion carried:** printed **p.337**
 
-Therefore the Unit 1 Assembly event is **LOCKED to 2 April 1971**.
+The booklet aligns directly with this Assembly reply from its opening through very late material, including:
 
-### Unit 1 — mixed-witness conclusion and Council target
+- Ponnappa Nadar / **67** participants;
+- D.M.K. **183 / 33** and Opposition **52 / 34** figures;
+- election-response passages;
+- Mujibur Rahman's six points;
+- State autonomy / non-secession;
+- the Council Opposition Leader reference occurring inside the Assembly speech;
+- land reform / `50 சென்ட்`;
+- bus ceiling and retrospective effect.
 
-The booklet then moves from directly Assembly-aligned bus-ceiling material into the `வேடுவர்கள் சூழ்ந்த மான்` prohibition sequence, whereas the recovered Assembly report follows a different closing route.
+## Unit 1 — Legislative Council
 
-Unit 1 is therefore also a **mixed two-House editorial witness**.
+Direct `922376.pdf` evidence now locks:
 
-The Council evidence now gives an exceptionally strong official chronology for the remaining component:
+- **House:** Tamil Nadu Legislative Council
+- **Date:** **3 April 1971**
+- **Session:** Thirty-Eighth Session
+- **Volume:** LXXXVIII
+- **Governor-address discussion:** printed **pp.411–456**
+- **Karunanidhi formal reply begins:** printed **p.434**
+- **Karunanidhi formal reply concludes:** printed **p.454**
+- **Immediate reply-related clarifications:** printed **pp.455–456**
+- **Motion of Thanks carried:** printed **p.456**
 
-- the 26 March Business Advisory programme explicitly schedules **3 April 1971** for `Reply to the debate on the Governor's Address by the Hon. Chief Minister`;
-- Volume LXXXVIII places the 3 April Governor-address continuation at pp. **411–456**;
-- `922362(1).pdf` shows **2 April** still in continuing member debate;
-- `922416(1).pdf` shows that by **5 April** the Governor had received the completed Resolution of Thanks.
+The report directly establishes the provenance of the booklet's final prohibition section:
 
-The actual 3 April Council daily report is still required before the booklet's final prohibition sequence can be text-locked to that House/date.
+- p.451 — prohibition raised as a major issue;
+- p.452 — Tamil Nadu/Gujarat and surrounding-State comparison, Pondicherry/Andhra/Bangalore, and the deer-surrounded-by-hunters image;
+- p.453 — failure-in-practice acknowledgment, horse racing, untouchability, D. K. Shanmugam's song, newspaper-headline warning and request to think;
+- p.455 — R. Krishnaswami Naidu's `4 கோடி / 2 கோடி பெண்கள்` appeal and Karunanidhi's final clarification.
 
-### Unit 2 — both underlying House replies directly locked
+### Unit-1 editorial structure
 
-#### Legislative Assembly
+The booklet is not a single Assembly block followed by a continuous Council block.
 
-Direct Assembly Official Report evidence establishes:
+Within the Council source itself, booklet-selected p.451–453 prohibition material is followed in the Official Report by p.454 Hemavathi/formal closing; the booklet omits that and later preserves the p.455 prohibition clarification. Therefore the edition performs **selection, omission and condensation/reordering**.
 
-- date: **29 March 1971**;
-- Fifth Assembly, Session I;
-- Volume I (Nos. 1–5);
-- Karunanidhi's Interim Budget general-discussion reply: **printed pp. 298–313**.
+Unit 1 is conclusively a **mixed two-House editorial witness**.
 
-The reply opening and multiple internal/closing anchors directly match Unit 2, including the late `மாநிலத்திற்கு மாநிலம் ரகுமான்களைத் தோற்றுவிக்க...` sentence.
+---
 
-#### Legislative Council
+## Unit 2 — Legislative Assembly
 
-Direct Council Official Report evidence establishes:
+Direct primary evidence locks:
 
-- date: **29 March 1971**;
-- Thirty-Eighth Session;
-- Volume **LXXXVIII**;
-- Karunanidhi's Budget general-discussion reply: **printed pp. 200–207**.
+- **House:** Tamil Nadu Legislative Assembly
+- **Date:** **29 March 1971**
+- **Session:** Fifth Assembly, Session I
+- **Volume:** I (Nos.1–5)
+- **Karunanidhi Interim-Budget reply:** printed **pp.298–313**
 
-The Council reply explicitly says that Karunanidhi had already given the corresponding reply in the **Legislative Assembly that morning**.
+The opening and many internal/closing anchors match the booklet, including the late `மாநிலத்திற்கு மாநிலம் ரகுமான்களைத் தோற்றுவிக்க...` Assembly ending.
 
-The Council sequence directly matches important booklet material including the `உரிமைக் குரல்` / opposition-cooperation discussion, parliamentary-method argument, the `காவடி` passage and the State Planning Commission / ten-year planning discussion.
+## Unit 2 — Legislative Council
 
-### Unit 2 structural conclusion
+Direct `922282.pdf` evidence locks:
 
-The two primary reports prove that Unit 2 is an editorial compilation drawing from **both 29 March 1971 House replies**.
+- **House:** Tamil Nadu Legislative Council
+- **Date:** **29 March 1971**
+- **Session:** Thirty-Eighth Session
+- **Volume:** LXXXVIII
+- **Karunanidhi Interim-Budget reply:** printed **pp.200–207**
 
-A simple one-time Assembly→Council splice is **not defensible**: late booklet material matches the Council, while the booklet's final `ரகுமான்களைத் தோற்றுவிக்க...` sentence matches the Assembly closing sequence.
+The Council reply explicitly says that he had already replied in the Assembly that morning.
 
-The correct next step is therefore a **three-way span-level alignment**, not a guessed page split.
+Direct booklet anchors include `உரிமைக் குரல்`, opposition cooperation, parliamentary method, the `காவடி` passage and State Planning Commission / ten-year planning material.
 
-## Gate status / canonical transcription block
+### Unit-2 editorial structure
+
+The booklet demonstrably alternates/combines material from the two same-day replies. A one-time Assembly→Council splice is not defensible because late Council-derived material is followed by an Assembly-derived closing sentence.
+
+Unit 2 is conclusively a **mixed two-House editorial witness**.
+
+---
+
+## Four-event primary lock matrix
+
+| Unit | House | Date | Reply span | Completion/status |
+|---|---|---|---|---|
+| Unit 1 | Legislative Assembly | **2 Apr 1971** | **pp.314–336** | Motion carried p.337 |
+| Unit 1 | Legislative Council | **3 Apr 1971** | **pp.434–454** | Clarifications pp.455–456; motion carried p.456 |
+| Unit 2 | Legislative Assembly | **29 Mar 1971** | **pp.298–313** | General discussion concludes p.313 |
+| Unit 2 | Legislative Council | **29 Mar 1971** | **pp.200–207** | Reply concludes p.207 |
+
+All four underlying House/date/reply events are now **direct Class-A locks**.
+
+---
+
+## Gate status / canonical block
 
 - **Gate A:** complete.
 - **Gate B:** source-unit boundaries complete and second-checked.
-- **Source-level first-pass visual audit:** complete.
-- **Source-level correction application:** complete.
-- **Focused source-internal House/date evidence pass:** complete; source alone remains insufficient for a House splice.
-- **Unit 1 underlying Assembly event:** **locked — 2 April 1971, reply pp. 314–336; motion completed p.337**.
-- **Unit 1 underlying Council event:** **date strongly established as 3 April by official chronology; direct text still missing**.
-- **Unit 1 booklet-to-House provenance mapping:** **blocked pending direct 3 April Council text and three-way alignment**.
-- **Unit 2 underlying Assembly event:** **locked — 29 March 1971, pp. 298–313**.
-- **Unit 2 underlying Council event:** **locked — 29 March 1971, pp. 200–207**.
-- **Unit 2 booklet-to-House provenance mapping:** **in progress / blocked pending three-way span alignment**.
-- **Canonical Gate C/D/E:** not yet claimable for booklet-derived dated entries because the mixed editorial witnesses still require defensible span provenance.
+- **Source-level visual audit:** complete.
+- **Source-level correction application:** complete — **175** corrections.
+- **Source-internal House/date evidence pass:** complete.
+- **Unit 1 Assembly underlying event:** **LOCKED — 2 Apr 1971, pp.314–336; motion p.337**.
+- **Unit 1 Council underlying event:** **LOCKED — 3 Apr 1971, formal reply pp.434–454; clarifications through p.456; motion p.456**.
+- **Unit 2 Assembly underlying event:** **LOCKED — 29 Mar 1971, pp.298–313**.
+- **Unit 2 Council underlying event:** **LOCKED — 29 Mar 1971, pp.200–207**.
+- **Unit 1 booklet-to-House provenance mapping:** **pending three-way span alignment**.
+- **Unit 2 booklet-to-House provenance mapping:** **pending three-way span alignment**.
+- **Canonical Gate C/D/E:** not yet claimable for booklet-derived dated records until span provenance is stable.
 - **English / Gates F–G:** blocked.
 - **Gate H / release:** not applicable yet for this source.
 
-Do not create a canonical `speeches/YYYY/YYYY-MM-DD-.../` record from either booklet unit merely by splitting it at an inferred transition, set `verified_against_scan=true`, or begin English until the House/date/text provenance is safely mapped.
+Do not copy either complete booklet unit into one House-specific dated speech, infer a single splice from internal House references, set `verified_against_scan=true` on a derived dated record, or begin English before the provenance ledgers are complete.
 
 ## Exact continuation point
 
-1. Recover the **3 April 1971 Legislative Council Official Report**, especially Governor-address pp. **411–456**.
-2. Phrase-align its Chief Minister reply against Unit 1's final prohibition sequence:
-   - `வேடுவர்கள் சூழ்ந்த மான்`;
-   - surrounding-State / Pondicherry prohibition comparison;
-   - D. K. Shanmugam's song;
-   - R. Krishnaswami Naidu's appeal;
-   - Karunanidhi's final clarification.
-3. Build a **three-way Unit-1 alignment ledger**:
-   - booklet Unit 1, scan pp. 3–37 / printed pp. 1–35;
-   - Assembly 2 April 1971 reply, Official Report pp. 314–336;
-   - Council 3 April 1971 reply, once recovered.
-4. Build/continue the **three-way Unit-2 alignment ledger**:
-   - booklet Unit 2, scan pp. 38–60 / printed pp. 36–58;
-   - Assembly 29 March 1971 reply, Official Report pp. 298–313;
-   - Council 29 March 1971 reply, Official Report pp. 200–207.
-5. Classify each booklet span as Assembly / Council / both / editorially combined or reordered / unmatched without altering source wording.
-6. Create dated canonical speech entries only after the relevant source spans can be defensibly assigned to the underlying House records.
+1. Build the **Unit-1 three-way alignment ledger**:
+   - booklet Unit 1, scan pp.3–37 / printed pp.1–35;
+   - Assembly 2 Apr 1971 reply, pp.314–336;
+   - Council 3 Apr 1971 formal reply, pp.434–454, plus immediate clarifications pp.455–456.
+2. Classify every booklet span as Assembly / Council / both / editorially combined or reordered / unmatched.
+3. Build/continue the **Unit-2 three-way alignment ledger**:
+   - booklet Unit 2, scan pp.38–60 / printed pp.36–58;
+   - Assembly 29 Mar 1971 reply, pp.298–313;
+   - Council 29 Mar 1971 reply, pp.200–207.
+4. Preserve booklet wording exactly while aligning.
+5. Use the completed ledgers to determine defensible canonical dated speech representations and only then proceed through the remaining gates.
