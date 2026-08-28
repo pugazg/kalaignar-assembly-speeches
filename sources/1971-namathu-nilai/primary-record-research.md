@@ -2,15 +2,16 @@
 
 ## Status
 
-**Primary-record research: direct Assembly and Legislative Council matches are now established for Unit 2; Unit 1 remains in progress.**
+**Primary-record research: direct Assembly matches are now established for Units 1 and 2; the Unit 2 Legislative Council reply is directly locked; the Unit 1 Council date is strongly established by official chronology but its 3 April text remains to be recovered.**
 
 This file is deliberately separate from the source transcription and source-internal `house-date-evidence.md` record.
 
 The controlling publication remains `ACL-CPL_01726_நமது_நிலை.pdf`. Nothing in this research layer is allowed to rewrite, normalize, splice or otherwise alter that source witness merely to agree with outside records.
 
 Research initiated: **28 August 2026**.  
-Direct Assembly update: **29 August 2026** — see `primary-record-retrieval-pass-09.md`.  
-Direct Council update: **29 August 2026** — see `primary-record-retrieval-pass-10.md`.
+Direct Assembly Unit-2 update: **29 August 2026** — see `primary-record-retrieval-pass-09.md`.  
+Direct Council Unit-2 update: **29 August 2026** — see `primary-record-retrieval-pass-10.md`.  
+Direct Assembly Unit-1 update: **29 August 2026** — see `primary-record-retrieval-pass-11.md`.
 
 ## Evidence classes used here
 
@@ -45,7 +46,7 @@ It describes the review series as an **authentic record** of work transacted in 
 
 ### Consequence
 
-This record securely establishes Assembly business chronology and provides an independent check on source-unit provenance. Direct daily Official Reports are still required for exact speech/date/text locking.
+This record securely establishes Assembly business chronology and provides an independent check on source-unit provenance. Direct daily Official Reports are required for exact speech/date/text locking and are now recovered for the key 29 March and 2 April Assembly replies.
 
 ---
 
@@ -63,13 +64,13 @@ This resolves the Volume-I boundary:
 - dates: **22, 24, 25, 26 and 29 March 1971**;
 - therefore **29 March belongs to Volume I** and is its last listed sitting date.
 
-The newly supplied Assembly files `857015.pdf` (22 March, Volume I No. 1) and `713335.pdf` (24 March) independently reinforce this early Session-I sequence.
+The supplied Assembly files `857015.pdf` (22 March, Volume I No. 1) and `713335.pdf` (24 March) independently reinforce this early Session-I sequence.
 
-The exact Volume-II title/index page and the direct 2 April daily report are still to be recovered.
+The later supplied Assembly files `699243(1).pdf`, `927002(1).pdf` and `699283(1).pdf` directly supply the **1 April, 2 April and 3 April 1971** sittings respectively. The exact Volume-II title/index issue-number statement can still be documented separately, but the 2 April daily report required for Unit 1 has now been recovered.
 
 ---
 
-## 3. Unit 1 — Governor-address motion of thanks: Assembly chronology
+## 3. Unit 1 — Governor-address motion of thanks: direct Assembly lock
 
 The official Fifth Assembly review's `ADDRESS BY THE GOVERNOR` table records for the first session after the 1971 election:
 
@@ -80,28 +81,55 @@ The official Fifth Assembly review's `ADDRESS BY THE GOVERNOR` table records for
 - discussion: **30 March, 31 March, 1 April and 2 April 1971** — four days;
 - number of members who took part: **67**.
 
-### Alignment with `நமது நிலை`
+### Direct 2 April Official Report
 
-The controlling source's Unit 1 opening independently contains two highly distinctive Assembly details:
+The supplied `927002(1).pdf` is the Tamil Nadu Legislative Assembly Official Report for **Friday, 2 April 1971**.
 
-- the motion is identified with `திரு. வேழவேந்தன்`;
-- it says that **67** members took part in the debate.
+On printed p. **314**, after Thiru R. Ponnappa Nadar concludes, Karunanidhi begins the reply to the Governor-address Motion of Thanks.
 
-The exact match of both the mover and the participant count materially strengthens the conclusion that the opening portion of Unit 1 draws from the **Tamil Nadu Legislative Assembly motion-of-thanks debate** summarized in the Fifth Assembly review.
+The opening directly matches `நமது நிலை` Editorial Unit 1 through a distinctive cluster of facts and wording:
 
-### Assembly date conclusion
+- the Motion of Thanks context;
+- Thiru **R. Ponnappa Nadar** as the final speaker before the reply;
+- **67** members having taken part;
+- D.M.K. strength **183**, with **33** speakers;
+- Opposition strength **52**, with **34** speakers.
 
-The official review establishes the Assembly discussion window as **30 March–2 April 1971**.
+The booklet opening additionally identifies the mover as `திரு. வேழவேந்தன்`, consistent with the official Fifth Assembly review.
 
-**Candidate Assembly reply date:** **2 April 1971**, because it is the last recorded day of discussion.
+This is a direct **sitting + House + speaker + subject + distinctive-text** primary match.
 
-**Status: NOT LOCKED.** A direct 2 April Assembly Official Report must still identify Karunanidhi's reply and match the Unit 1 text.
+### Late direct alignment
 
-Therefore:
+The 2 April Assembly reply remains directly aligned very late in the booklet:
 
-- `1971-04-02` remains a research candidate;
-- it must not yet become a canonical speech ID;
-- source pages must not be split solely on the basis of this candidate date.
+- Official Report p. **334** discusses Sheikh Mujibur Rahman's six-point programme, matching booklet source p. **33**;
+- the same Assembly reply explicitly refers to the Council Opposition Leader Thiru Rajaram Naidu's willingness to support action for State rights, matching booklet source p. **34**;
+- pp. **334–335** continue the non-secession / devolution-of-powers argument;
+- p. **335** contains land reform, `50 சென்ட்`, bus ceiling and retrospective-effect material matching booklet source p. **35**.
+
+The Assembly reply continues through printed p. **336**. Printed p. **337** records the Motion of Thanks being put to the House and carried unanimously.
+
+### Assembly date/House conclusion
+
+The Assembly component is now **LOCKED** as:
+
+- House: **Tamil Nadu Legislative Assembly**;
+- date: **2 April 1971**;
+- subject: Motion of Thanks on the Governor's Address;
+- Karunanidhi reply begins: **printed p. 314**;
+- directly recovered reply continues through: **printed p. 336**;
+- formal Motion-of-Thanks completion: **printed p. 337**.
+
+`1971-04-02` is therefore no longer a research candidate for this Assembly event.
+
+### Structural consequence for Unit 1
+
+The recovered Assembly report also proves that an internal `மேலவை` reference is not itself a House-splice marker: the 2 April Assembly reply itself refers back to what was said in the Council.
+
+After the directly aligned bus-ceiling material on booklet source p. **35**, however, the booklet moves into the `வேடுவர்கள் சூழ்ந்த மான்` prohibition section, D. K. Shanmugam's song, R. Krishnaswami Naidu's appeal concerning women, and Karunanidhi's final prohibition clarification. That is **not the recovered Assembly closing sequence**.
+
+Therefore Unit 1, like Unit 2, is a **mixed two-House editorial witness**. The final prohibition sequence is a strong Council-alignment candidate, but it must not be labelled Council text until the 3 April Council daily report is directly phrase-aligned.
 
 ---
 
@@ -163,7 +191,7 @@ This is a direct **sitting + speaker + subject + text + closing-boundary** prima
 
 ## 5. Legislative Council Volume LXXXVIII — direct recovery
 
-The newly supplied `922240.pdf` directly identifies the relevant Council volume:
+The supplied `922240.pdf` directly identifies the relevant Council volume:
 
 - `TAMIL NADU LEGISLATIVE COUNCIL DEBATES`;
 - `OFFICIAL REPORT`;
@@ -190,7 +218,7 @@ The bound contents give:
 - **2 April 1971** — continued: pp. **369–404**;
 - **3 April 1971** — continued: pp. **411–456**.
 
-Direct daily Council reports have also now been supplied for **25, 26, 29, 30 and 31 March 1971**.
+Direct daily Council reports have now been supplied for **25, 26, 29, 30, 31 March, 2 April and 5 April 1971**. The decisive missing daily issue for Unit 1 is **3 April 1971**.
 
 ---
 
@@ -265,11 +293,9 @@ Each booklet span should be classified as direct Assembly match, direct Council 
 
 ---
 
-## 8. Unit 1 — Council chronology now directly established, reply still unresolved
+## 8. Unit 1 — Council chronology and reply-date evidence
 
-The recovered Council volume also materially improves Unit 1 research.
-
-The Volume LXXXVIII contents establish the Council Governor-address discussion on:
+The recovered Council volume establishes the Governor-address discussion on:
 
 - **30 March 1971** — pp. 230–251;
 - **31 March 1971** — pp. 270–303;
@@ -285,16 +311,31 @@ The direct 30 March report `922296.pdf` records the start of the Council motion-
 
 The direct 31 March report `922328.pdf` continues the same Governor-address discussion.
 
-### Council reply date conclusion
+### Official programme for the Chief Minister's reply
 
-A previously discovered secondary source pointed to a Karunanidhi Council statement on **3 April 1971** concerning Centre–State relations and East Pakistan. The official Volume LXXXVIII contents now prove that the Governor-address discussion did continue on 3 April, making that date a much stronger retrieval target.
+The direct Council report for **26 March 1971** records the Business Advisory programme and explicitly assigns **Saturday, 3 April 1971** to:
 
-However, the current supplied bundle does **not** include the Council daily reports for 1, 2 or 3 April.
+1. `Reply to the debate on the Governor's Address by the Hon. Chief Minister`;
+2. consideration of official Bills.
 
-Therefore:
+This is Class-A official chronology, not a secondary inference.
 
-- **3 April 1971 remains a candidate/locator for the Council component of Unit 1, not a locked reply date**;
-- the 3 April daily Official Report must be recovered and directly phrase-aligned before any booklet span is assigned to it.
+The newly supplied `922362(1).pdf` directly shows that on **2 April 1971** the Council Governor-address debate was still proceeding through member speeches, consistent with the scheduled Chief Minister reply on the following day.
+
+The newly supplied `922416(1).pdf` is the **5 April 1971** Council sitting. Near the close, after the Bangla Desh resolution, the Deputy Chairman reads the Governor's message acknowledging with satisfaction the Council's Resolution of Thanks for the Address; the House then adjourns sine die.
+
+### Council reply-date conclusion
+
+The official evidence for **3 April 1971** as the Council reply date is now exceptionally strong:
+
+- it was expressly scheduled by the Business Advisory programme as the Chief Minister's reply day;
+- Volume LXXXVIII shows the Governor-address discussion continuing on 3 April, pp. 411–456;
+- the 2 April daily report still contains continuing member debate;
+- by 5 April the completed Resolution of Thanks had already reached the Governor.
+
+Under this project's strict locking rule, however, **the Unit 1 Council text is still not locked** because the actual 3 April daily report has not yet been recovered and directly phrase-aligned to the booklet.
+
+The booklet's final prohibition sequence is a strong candidate for that Council reply, but chronology alone is not sufficient to assign it canonically.
 
 ---
 
@@ -302,30 +343,39 @@ Therefore:
 
 ### Established from Class-A Assembly records
 
-1. The Assembly Governor-address motion-of-thanks debate represented in Unit 1 belongs to the discussion held **30 March–2 April 1971**.
+1. The Assembly Governor-address Motion of Thanks represented in Unit 1 was discussed **30 March–2 April 1971**.
 2. **Thiru K. Vezhavendan** moved the Assembly motion and **67 members** took part — both match Unit 1.
-3. Session-I **Volume I** covers **22, 24, 25, 26 and 29 March 1971**, **Nos. 1–5**.
-4. The Assembly Interim Budget general discussion was held **26 and 29 March 1971**.
-5. Karunanidhi's directly matched Assembly closing reply occurred on **29 March 1971**, in **Volume I**, printed **pp. 298–313**.
+3. Karunanidhi's directly matched Assembly reply is **2 April 1971**, beginning on printed p. **314**, continuing through p. **336**, with the motion carried on p. **337**.
+4. Late Unit 1 booklet material through the State-autonomy / `50 சென்ட்` / bus-ceiling sequence directly matches the 2 April Assembly reply.
+5. The Assembly reply itself contains a reference to the Council Opposition Leader, proving that an isolated `மேலவை` reference cannot be used as a splice marker.
+6. Session-I **Volume I** covers **22, 24, 25, 26 and 29 March 1971**, **Nos. 1–5**.
+7. The Assembly Interim Budget general discussion was held **26 and 29 March 1971**.
+8. Karunanidhi's directly matched Assembly Budget reply occurred on **29 March 1971**, in **Volume I**, printed **pp. 298–313**.
 
 ### Established from Class-A Council records
 
-6. The relevant Council March/early-April session is **Thirty-Eighth Session, Volume LXXXVIII (Nos. 1–10)**.
-7. Its sitting sequence includes **24–26 March, 29–31 March, 1–3 April and 5 April 1971**.
-8. The Council Interim Budget general discussion on **29 March 1971** occupies pp. **163–207**.
-9. Karunanidhi's direct Council Budget reply is **29 March 1971, pp. 200–207**.
-10. That Council reply explicitly confirms that Karunanidhi had replied to the Assembly Budget debate **that morning**.
-11. Distinctive late Unit 2 material, including the `காவடி` and State Planning Commission passages, directly appears in the Council reply.
-12. The booklet Unit 2 is therefore directly proven to be a mixed two-House editorial compilation rather than a one-to-one reprint of the Assembly reply.
-13. The Council Governor-address debate runs **30 March–3 April 1971**, with exact daily page ranges now known from the primary volume contents.
+9. The relevant Council March/early-April session is **Thirty-Eighth Session, Volume LXXXVIII (Nos. 1–10)**.
+10. Its sitting sequence includes **24–26 March, 29–31 March, 1–3 April and 5 April 1971**.
+11. The Council Interim Budget general discussion on **29 March 1971** occupies pp. **163–207**.
+12. Karunanidhi's direct Council Budget reply is **29 March 1971, pp. 200–207**.
+13. That Council reply explicitly confirms that Karunanidhi had replied to the Assembly Budget debate **that morning**.
+14. Distinctive late Unit 2 material, including the `காவடி` and State Planning Commission passages, directly appears in the Council reply.
+15. The Council Business Advisory programme directly schedules the Chief Minister's Governor-address reply for **3 April 1971**.
+16. The 2 April Council report still shows continuing member debate, and the 5 April report records the Governor's acknowledgment of the completed Resolution of Thanks.
+
+### Structural findings
+
+17. Booklet Unit 2 is directly proven to be a mixed two-House editorial compilation rather than a one-to-one reprint.
+18. Booklet Unit 1 is also now directly shown not to be simply a verbatim Assembly reprint: its late prohibition ending diverges from the recovered Assembly closing sequence.
 
 ### Still unresolved
 
-1. The exact Assembly reply date/text span for Unit 1 — **2 April 1971 remains a candidate until the daily Assembly report is checked**.
-2. The exact Assembly Volume-II title/index and issue-number/date list.
-3. The exact Council reply date/text span for Unit 1; **3 April is now a strong retrieval candidate, not a lock**.
-4. A complete paragraph-level provenance map for Unit 2 across the Assembly and Council replies.
+1. The actual **3 April 1971 Council daily Official Report**, especially Governor-address pp. **411–456**.
+2. Direct phrase-level Council provenance for the final Unit 1 prohibition sequence.
+3. A complete paragraph-level three-way provenance map for Unit 1.
+4. A complete paragraph-level three-way provenance map for Unit 2.
 5. Whether every booklet sentence can be assigned to one House or whether some passages represent editorial condensation/recomposition across both reports.
+6. The exact Assembly Volume-II title/index and issue-number/date statement, if required for bibliographic completeness.
 
 ---
 
@@ -336,17 +386,14 @@ Therefore:
 - No released 2007 speech is touched.
 - No `verified_against_scan=true` flag is set for a dated 1971 canonical speech.
 - English remains blocked.
-- The underlying **29 March 1971 Assembly Budget reply** and **29 March 1971 Council Budget reply** are both now locked as primary events/text sequences.
-- The booklet Unit 2 itself remains a mixed editorial witness and therefore is not yet safe to turn into two canonical speech files by a guessed split.
+- The underlying **2 April 1971 Assembly Governor-address reply**, **29 March 1971 Assembly Budget reply**, and **29 March 1971 Council Budget reply** are now locked as primary events/text sequences.
+- The Unit 1 and Unit 2 booklet texts remain mixed editorial witnesses and therefore are not safe to turn into canonical House-specific transcriptions by guessed splits.
 
 ## Exact next activity
 
-1. Build the **three-way Unit-2 alignment ledger** against:
-   - `நமது நிலை` Unit 2, scan pp. 38–60 / printed pp. 36–58;
-   - Assembly Official Report, 29 March 1971, pp. 298–313;
-   - Council Official Report, 29 March 1971, pp. 200–207.
-2. Mark every booklet paragraph/span as Assembly / Council / both / editorially combined or reordered / unmatched.
-3. Preserve source wording exactly; the alignment ledger is provenance metadata only.
-4. Retrieve the **2 April 1971 Assembly Official Report** and phrase-align Unit 1.
-5. Retrieve the **3 April 1971 Council Official Report** first among the missing Council issues and test Karunanidhi's closing reply against Unit 1.
+1. Recover the **3 April 1971 Legislative Council Official Report**, especially Governor-address discussion/reply pp. **411–456**.
+2. Phrase-align Karunanidhi's Council reply against the booklet's final Unit 1 prohibition sequence: `வேடுவர்கள் சூழ்ந்த மான்`, the surrounding-State/Pondicherry comparison, D. K. Shanmugam's song, R. Krishnaswami Naidu's appeal and the final clarification.
+3. Build the **three-way Unit-1 alignment ledger**: booklet vs Assembly 2 April vs Council 3 April.
+4. Build/continue the **three-way Unit-2 alignment ledger**: booklet vs Assembly 29 March vs Council 29 March.
+5. Preserve booklet wording exactly; alignment ledgers are provenance metadata only.
 6. Only after direct House/date/text boundaries are defensible should canonical dated speech records be created.
