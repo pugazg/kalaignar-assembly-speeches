@@ -107,13 +107,34 @@ Consolidation/transition QA is recorded in:
 
 During that QA, one error introduced by the consolidation itself on scan p.57 was caught by reopening the scan and corrected; it was not counted as a new first-pass discrepancy.
 
+## Focused House/date evidence pass
+
+Status: **complete**.
+
+The complete source-internal evidence inventory is recorded in:
+
+- `house-date-evidence.md`
+
+The focused reread confirmed:
+
+- `22-5-1971` is the publication/imprint date, not a printed reply date;
+- `24-3-1971` is explicitly the Governor's joint-address date, not a printed Kalaignar reply date;
+- Unit 1 explicitly says Kalaignar replied in both Houses;
+- Unit 2 explicitly describes the text as an `உரைகளின் தொகுப்பு` from the Assembly and Council;
+- Unit 1 contains an explicit `சட்டசபையில்` reference on scan p.32 / printed p.30 and Council-specific references around scan pp.34–35 / printed pp.32–33;
+- Unit 2 contains an explicit `மேலவையில்` reference on scan p.54 / printed p.52;
+- none of these references is accompanied by a new House heading, reply date, `உரை` label, separator, or restart formula that securely identifies a splice point.
+
+**Negative finding:** this edition does not securely expose the underlying Assembly/Council transcript boundaries or Kalaignar's exact reply dates. Candidate transition loci around the first Council-specific references must remain research leads only. Because Unit 2 calls itself a `தொகுப்பு`, it is unsafe to assume a simple contiguous Assembly-block / Council-block structure.
+
 ## Gate status / canonical transcription block
 
 - **Gate A:** complete.
 - **Gate B:** source-unit boundaries complete and second-checked.
 - **Source-level first-pass visual audit:** complete.
 - **Source-level correction application:** complete.
-- **Canonical dated speech inventory:** **blocked** because this edition does not supply the individual reply dates or explicit House transition points needed by the repository's dated-speech convention.
+- **Focused source-internal House/date evidence pass:** complete; result is negative for a secure House/date split.
+- **Canonical dated speech inventory:** **blocked** pending separately verified primary legislative records.
 - **Canonical Gate C/D/E:** **not yet claimable**. The corrected source-level files are a holding/source-witness layer and must not be mislabeled as a verified dated Assembly speech.
 - **English / Gates F–G:** blocked.
 - **Gate H / release:** not applicable yet for this source.
@@ -122,10 +143,11 @@ Do not create a canonical `speeches/YYYY/YYYY-MM-DD-.../` record, set `verified_
 
 ## Exact continuation point
 
-Next activity: perform a **focused House/date evidence pass across printed pp.1–58 (scan pp.3–60)** without changing the corrected source transcription.
+Next activity: move to a **separately sourced primary-record research layer** without altering the corrected source transcription.
 
-1. Catalogue every explicit internal clue that names a House, identifies an intervention context, or gives a date.
-2. Determine whether any Assembly/Council transition can be established from the edition itself.
-3. If not, document that negative finding explicitly.
-4. Only then use separately verified primary legislative records as an editorial metadata layer to resolve dates/House boundaries where possible.
-5. Do not alter this source witness merely to match outside records.
+1. Locate official Tamil Nadu Legislative Assembly proceedings for the 1971 Governor-address motion-of-thanks debate and interim-budget debate.
+2. Locate Legislative Council proceedings for the corresponding debates.
+3. Establish exact sitting/reply dates from primary records.
+4. Compare distinctive opening/closing phrases against this edition to test whether defensible House boundaries can be aligned.
+5. Record external provenance separately from source facts.
+6. Create dated canonical speech entries only if the primary records support a secure House/date/text alignment.
