@@ -21,7 +21,7 @@ The search materially improved the access map, however:
 3. the Tamil Nadu Legislature Library is independently documented as retaining Assembly and Council debates, providing a concrete archival fallback;
 4. the previously noted **3 April 1971 Legislative Council** lead gained independent official corroboration that the Council was transacting business on that date, but the specific Kalaignar speech remains unverified.
 
-No candidate date is promoted to canonical status.
+No candidate date is promoted to canonical status in this 28 August retrieval attempt.
 
 ---
 
@@ -53,12 +53,13 @@ Searches were made for:
 
 The accessible Google Books metadata/snippet layer did **not** expose the required date-specific pages or enough searchable text to phrase-align either reply during this activity.
 
-### Status
+### Status at the end of the 28 August attempt
 
 - existence of a 1971 official-report holding: **confirmed**;
-- exact sitting/pages for 29 March 1971: **not recovered**;
-- exact sitting/pages for 2 April 1971: **not recovered**;
-- candidate dates `1971-03-29` and `1971-04-02`: **still not locked**.
+- exact sitting/pages for 29 March 1971: **not recovered in this attempt**;
+- exact sitting/pages for 2 April 1971: **not recovered in this attempt**.
+
+Later direct recovery supersedes the 29 March access failure; see the 29 August update below and `primary-record-retrieval-pass-09.md` / `primary-record-retrieval-pass-10.md`.
 
 ---
 
@@ -86,9 +87,9 @@ Indexed web searches were made for:
 - `2nd April 1971` + Legislative Assembly;
 - 1971 Assembly-debate combinations.
 
-No indexed Tamil Digital Library result for either target daily report was recovered.
+No indexed Tamil Digital Library result for either target daily report was recovered in that attempt.
 
-This is an **access failure / discovery gap**, not evidence that the reports are absent from the archive.
+This was an **access failure / discovery gap**, not evidence that the reports were absent from the archive.
 
 ---
 
@@ -100,45 +101,43 @@ Public references identify the Legislative Assembly digital repository as:
 
 and expose DSpace-style `handle/123456789/...` records for Assembly material.
 
-In the current research environment, direct archive browsing/search was unreliable and the target 1971 daily reports were not surfaced by public search-engine indexing. No target handle could therefore be established for 29 March or 2 April 1971 in this activity.
+In the 28 August research environment, direct archive browsing/search was unreliable and the target 1971 daily reports were not surfaced by public search-engine indexing. No target handle could therefore be established for 29 March or 2 April 1971 in that activity.
 
 ### Consequence
 
-Do not infer that the target reports are unavailable. Continue handle discovery / direct catalogue retrieval before falling back to physical-library consultation.
+Do not infer that the target reports are unavailable. The later supplied primary scans demonstrate that the discovery problem was an access/indexing problem, not absence of the records.
 
 ---
 
 ## 4. Legislative Council — 3 April 1971 lead strengthened, but still not speech proof
 
-`primary-record-research.md` already records the secondary scholarly statement that Chief Minister M. Karunanidhi spoke in the **Tamil Nadu Legislative Council on 3 April 1971** about States being ignored in important Central decisions, including consultation over developments in East Pakistan.
+`primary-record-research.md` recorded a secondary scholarly statement that Chief Minister M. Karunanidhi spoke in the **Tamil Nadu Legislative Council on 3 April 1971** about States being ignored in important Central decisions, including consultation over developments in East Pakistan.
 
-This activity found an **independent official chronology fact** in the Fifth Assembly review:
+The 28 August activity found an independent official chronology fact in the Fifth Assembly review:
 
 - the Committee on Delegated Legislation for 1971–72 was nominated on **3 April 1971**;
 - **five members of the Tamil Nadu Legislative Council were nominated to that Committee by the Legislative Council on 3 April 1971**.
 
-### Meaning
+### Meaning at that stage
 
-This independently establishes that **3 April 1971 was a day on which the Legislative Council transacted institutional business**.
+This independently established that **3 April 1971 was a day on which the Legislative Council transacted institutional business**.
 
-It therefore makes 3 April a stronger date to target when locating the Council Official Report, but it still does **not** prove that:
+It made 3 April a stronger date to target when locating the Council Official Report, but did not by itself prove that either `நமது நிலை` editorial unit contains a speech delivered on that date or identify a House splice.
 
-- either `நமது நிலை` editorial unit contains a speech delivered on that date;
-- the East-Pakistan passage in this booklet came from that sitting;
-- the Council component begins at any particular source page.
-
-The secondary date lead remains **Class C** until the actual Council Official Report is recovered.
+The 29 August primary-volume recovery now goes further by proving that the Governor-address discussion itself continued on 3 April; see the update below.
 
 ---
 
-## 5. Council volume locator status
+## 5. Council volume locator status at the end of the 28 August attempt
 
-The earlier research leads remain:
+The earlier research leads were:
 
-- 1971 Council material is cited elsewhere as **Volume 88 / Volume 89**;
-- one tertiary citation gives `Tamil Nadu Legislative Council Debates, Official Report, Volume 89 (1971), p. 868`.
+- 1971 Council material cited elsewhere as **Volume 88 / Volume 89**;
+- one tertiary citation giving `Tamil Nadu Legislative Council Debates, Official Report, Volume 89 (1971), p. 868`.
 
-No direct Volume 88 or Volume 89 primary scan was recovered in this activity. These numbers remain **locator leads only** and must not be treated as source facts for `நமது நிலை`.
+No direct Volume 88 or Volume 89 primary scan had been recovered during the 28 August attempt. At that time those numbers therefore remained **locator leads only**.
+
+This status is superseded for the target March/early-April session by the direct Volume LXXXVIII recovery recorded below.
 
 ---
 
@@ -151,39 +150,100 @@ A Tamil Nadu Legislative Assembly institutional review of the Legislature Librar
 
 and records that bona fide research scholars may use the Library for research work.
 
-This provides a concrete fallback if the target volumes cannot be discovered through the public digital interfaces.
+This remains a useful fallback for missing daily issues, especially the still-needed **2 April Assembly** and **3 April Council** reports.
 
-Separately, Assembly review material explains that the day-to-day Official Report is published under Assembly Secretariat authority and copies are supplied to national libraries and exchanged with other State Legislatures. Therefore the retrieval target is known to have had multiple institutional distribution paths.
+Separately, Assembly review material explains that the day-to-day Official Report is published under Assembly Secretariat authority and copies are supplied to national libraries and exchanged with other State Legislatures. Therefore the retrieval target has multiple institutional distribution paths.
 
 ---
 
-## 7. Current date / House status after this activity
+# Subsequent direct-primary recovery — 29 August 2026
 
-| Component | Current candidate | Status after direct-retrieval attempt |
-|---|---|---|
-| Unit 1 — Assembly motion-of-thanks reply | **2 April 1971** | chronology-supported candidate; direct daily report still missing; **not locked** |
-| Unit 2 — Assembly interim-budget reply | **29 March 1971** | chronology-supported candidate; direct daily report still missing; **not locked** |
-| Council component | **3 April 1971** as one research lead | Council activity on that date independently corroborated; speech/date alignment still **not locked** |
-| Unit 1 Council reply | unresolved | primary Council report still required |
-| Unit 2 Council reply | unresolved | primary Council report still required |
-| Page-level House splice | unresolved | no change; do not infer from first `மேலவை` reference |
+The user subsequently supplied a bundle of official Assembly and Council PDFs. This materially supersedes several negative/access-only conclusions above while preserving the 28 August history of the retrieval attempt.
+
+## Supplied primary bundle
+
+- `857015.pdf` — Assembly, 22 March 1971, Volume I No. 1;
+- `713335.pdf` — Assembly, 24 March 1971;
+- `922240.pdf` — Council Volume LXXXVIII front matter / contents, first issue 24 March 1971;
+- `922316.pdf` — Council, 25 March 1971;
+- `922264.pdf` — Council, 26 March 1971;
+- `922282.pdf` — Council, 29 March 1971;
+- `922296.pdf` — Council, 30 March 1971;
+- `922328.pdf` — Council, 31 March 1971.
+
+Full identity hashes and the detailed findings are recorded in `primary-record-retrieval-pass-10.md`.
+
+## Council Volume LXXXVIII now directly established
+
+`922240.pdf` identifies the **Thirty-Eighth Session of the Tamil Nadu Legislative Council**, covering:
+
+- 24–26 March 1971;
+- 29–31 March 1971;
+- 1–3 April 1971;
+- 5 April 1971;
+- **Volume LXXXVIII (Nos. 1 to 10)**.
+
+Relevant contents ranges include:
+
+- 29 March Budget general discussion: **pp. 163–207**;
+- 30 March Governor-address discussion: **pp. 230–251**;
+- 31 March continuation: **pp. 270–303**;
+- 1 April continuation: **pp. 314–362**;
+- 2 April continuation: **pp. 369–404**;
+- 3 April continuation: **pp. 411–456**.
+
+Thus **Volume LXXXVIII is now a direct primary fact**, not a tertiary locator lead.
+
+## Unit 2 Council reply directly recovered
+
+`922282.pdf` directly records Karunanidhi's Legislative Council reply to the Budget general discussion on **29 March 1971**, Official Report pp. **200–207**.
+
+The reply opening explicitly says that Karunanidhi had already answered the corresponding Budget debate in the **Legislative Assembly that morning**. This independently confirms the same-day sequence already established from the Assembly report.
+
+The Council reply also contains direct matches to late `நமது நிலை` Unit 2 material, including:
+
+- `உரிமைக் குரல்` / opposition cooperation;
+- parliamentary-method arguments;
+- the `காவடி` passage;
+- the State Planning Commission / ten-year planning discussion.
+
+The Council p.207 ending does not carry the booklet's final `ரகுமான்களைத் தோற்றுவிக்க...` sentence, which was already directly matched to the Assembly p.313 sequence.
+
+Therefore Unit 2 is now **directly proven to be an editorial compilation of material corresponding to both 29 March House replies**, and not a simple one-splice Assembly-then-Council transcript.
+
+## Unit 1 Council retrieval status
+
+`922296.pdf` directly records the opening of the Council Governor-address motion-of-thanks debate on **30 March 1971**; `922328.pdf` directly continues it on **31 March**. The bound contents prove continuation through **3 April**.
+
+The current supplied set does not include the 1, 2 or 3 April Council daily reports. The **3 April Council report** is therefore the highest-priority missing Council issue for testing the Unit 1 reply.
+
+---
+
+## Current date / House status after the 29 August recovery
+
+| Component | Direct status |
+|---|---|
+| Unit 2 — Assembly interim-budget reply | **LOCKED: 29 March 1971, Assembly Volume I, pp. 298–313** |
+| Unit 2 — Council interim-budget reply | **LOCKED: 29 March 1971, Council Volume LXXXVIII, pp. 200–207** |
+| Unit 2 booklet provenance | **Directly proven mixed two-House editorial witness; no simple splice may be assumed** |
+| Unit 1 — Assembly motion-of-thanks reply | **2 April 1971 candidate; direct daily Assembly report still required** |
+| Unit 1 — Council motion-of-thanks reply | **Unresolved; debate chronology directly established 30 March–3 April; 3 April daily report is priority target** |
+| Page-level House splice | **Not represented as a single splice; three-way paragraph/span alignment required** |
 
 ## Repository consequence
 
 - no source transcription change;
 - no new visual-fidelity discrepancy;
-- no canonical `speeches/1971/...` folder created;
+- all 175 existing corrections remain untouched;
+- no canonical `speeches/1971/...` folder created yet;
 - no `verified_against_scan=true` set;
 - English remains blocked;
 - released 2007 Speech 1–10 material remains untouched.
 
 ## Exact next activity / continuation point
 
-Continue **primary-document retrieval**, not historical inference:
-
-1. discover the exact `tnlasdigital.tn.gov.in` / Tamil Digital Library item or handle for the **29 March 1971** Assembly Official Report;
-2. discover the item/handle for the **2 April 1971** Assembly Official Report;
-3. search the 1971 Legislative Council catalogue around the **3 April 1971** sitting and Volume **88/89** locator leads;
-4. if public digital discovery fails, use the Tamil Nadu Legislature Library / distributed-library holdings as the retrieval path;
-5. once a daily report is obtained, compare distinctive opening, intervention and closing phrases against the already verified source witness;
-6. lock a House/date mapping only on a direct phrase-and-sitting match.
+1. build the **three-way Unit-2 alignment ledger**: booklet vs Assembly 29 March pp. 298–313 vs Council 29 March pp. 200–207;
+2. classify each booklet span as Assembly / Council / both / editorially combined or reordered / unmatched;
+3. retrieve the **2 April 1971 Assembly Official Report** for Unit 1;
+4. retrieve the **3 April 1971 Council Official Report** first among the missing Council issues for Unit 1;
+5. lock Unit 1 House/date mappings only after direct sitting-and-text matches.
