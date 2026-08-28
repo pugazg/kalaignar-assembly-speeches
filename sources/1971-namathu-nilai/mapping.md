@@ -64,28 +64,68 @@ The printed `24-3-1971` on scan p.3 is explicitly the date of Governor Sardar Uj
 
 | Unit | Printed source label / opening | Printed speech date | ISO speech date | PDF scan pages | Printed pages | Boundary evidence | Canonical repository ID |
 |---|---|---|---|---:|---:|---|---|
-| 1 | `நமது நிலை` — introduction to the reply on the motion of thanks for the Governor's address | **Not printed for Kalaignar's reply.** Source mentions `24-3-1971` only as the Governor-address date. | **unresolved** | 3–37 | 1–35 | Opens on scan p.3 after front matter. Scan p.37 ends after a `முதல்வர் :` reply and is followed by a printed closing ornament. Scan p.38 starts a new bold section heading. | **pending** — do not invent a dated canonical ID |
+| 1 | `நமது நிலை` — introduction to the reply on the motion of thanks for the Governor's address | **Not printed for Kalaignar's reply.** Source mentions `24-3-1971` only as the Governor-address date. | **unresolved** | 3–37 | 1–35 | Opens on scan p.3 after front matter. Scan p.37 ends after a `முதல்வர்:` reply and is followed by a printed closing ornament. Scan p.38 starts a new bold section heading. | **pending** — do not invent a dated canonical ID |
 | 2 | `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` | **Not printed** | **unresolved** | 38–60 | 36–58 | Scan p.38 opens with a new section heading and states that the following text is a compilation of the Chief Minister's speeches replying to the interim-budget debate in the Assembly and Council. Scan p.60 ends the text and carries the final closing ornament; no further page follows. | **pending** — do not invent a dated canonical ID |
 
 ### Focused second boundary check
 
 A second direct visual check was completed at the critical transition and physical ending:
 
-- **scan p.37 / printed p.35:** first unit closes after the final `முதல்வர் :` intervention/reply and a distinct editorial ornament;
+- **scan p.37 / printed p.35:** first unit closes after the final `முதல்வர்:` intervention/reply and a distinct editorial ornament;
 - **scan p.38 / printed p.36:** new heading `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` begins the second unit;
 - **scan p.60 / printed p.58:** second unit reaches its physical/textual ending and closing ornament; there is no scan p.61.
 
 The source-unit boundaries are therefore **locked at scan pp.3–37 and 38–60**.
 
-## Gate status / transcription block
+## Source-level transcription and visual-fidelity status
+
+Because the user supplied a full word-to-word transcription with source intake, that text was retained as the **first-pass baseline** while the House/date split remained unresolved. It was not treated as authoritative.
+
+The complete source was then checked word by word against the rendered scan:
+
+- scan pages visually traversed: **1–60 / 60**;
+- printed pages visually traversed: front matter + **1–58**;
+- confirmed first-pass discrepancy entries: **175**;
+- unresolved word/character readings after that first full pass: **0**.
+
+The 175 discrepancies are documented in the visual-fidelity audit series and consolidated in:
+
+- `correction-application-ledger.md`
+
+All scan-supported corrections have now been applied to a **source-level corrected transcription** under:
+
+- `transcription/scan-001-010.md`
+- `transcription/scan-011-020.md`
+- `transcription/scan-021-030.md`
+- `transcription/scan-031-040.md`
+- `transcription/scan-041-050.md`
+- `transcription/scan-051-060.md`
+
+Consolidation/transition QA is recorded in:
+
+- `transcription-validation.md`
+
+During that QA, one error introduced by the consolidation itself on scan p.57 was caught by reopening the scan and corrected; it was not counted as a new first-pass discrepancy.
+
+## Gate status / canonical transcription block
 
 - **Gate A:** complete.
 - **Gate B:** source-unit boundaries complete and second-checked.
+- **Source-level first-pass visual audit:** complete.
+- **Source-level correction application:** complete.
 - **Canonical dated speech inventory:** **blocked** because this edition does not supply the individual reply dates or explicit House transition points needed by the repository's dated-speech convention.
-- **Gate C:** **not started**.
+- **Canonical Gate C/D/E:** **not yet claimable**. The corrected source-level files are a holding/source-witness layer and must not be mislabeled as a verified dated Assembly speech.
+- **English / Gates F–G:** blocked.
+- **Gate H / release:** not applicable yet for this source.
 
-Do not begin Tamil transcription into a canonical `speeches/YYYY/YYYY-MM-DD-.../` folder until the date/House-boundary problem is resolved with source-supported evidence. Do not use the Governor's `24-3-1971` address date as Kalaignar's reply date by assumption.
+Do not create a canonical `speeches/YYYY/YYYY-MM-DD-.../` record, set `verified_against_scan=true`, or begin English until the date/House-boundary problem is resolved with source-supported evidence. Do not use the Governor's `24-3-1971` address date as Kalaignar's reply date by assumption.
 
 ## Exact continuation point
 
-Next activity: perform a **source-internal House-transition/date audit across printed pp.1–58 (scan pp.3–60)**, looking only for explicit printed clues that distinguish the Assembly reply from the Council reply or state the reply dates. If the scan still does not provide those facts, document the absence and use separately verified primary legislative records only as an editorial/metadata layer; do not alter or reconstruct this edition's printed text from outside sources.
+Next activity: perform a **focused House/date evidence pass across printed pp.1–58 (scan pp.3–60)** without changing the corrected source transcription.
+
+1. Catalogue every explicit internal clue that names a House, identifies an intervention context, or gives a date.
+2. Determine whether any Assembly/Council transition can be established from the edition itself.
+3. If not, document that negative finding explicitly.
+4. Only then use separately verified primary legislative records as an editorial metadata layer to resolve dates/House boundaries where possible.
+5. Do not alter this source witness merely to match outside records.
