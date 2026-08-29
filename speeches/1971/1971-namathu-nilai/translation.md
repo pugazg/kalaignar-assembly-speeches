@@ -375,4 +375,136 @@ The price of firewood has risen from 14 to 18.
 
 To bring prices down, production must be increased. The Government is engaged in efforts toward that. At the same time, when the Central Government raises prices, it must do so in consultation with us. It was on this that Thiru K. M. Subramaniam asked, "Did you oppose the price rise?"
 
-<!-- translation-continues-at-source-page: 27 -->
+<!-- source-page: 27 -->
+
+Strengthen our hands so that we can oppose it. Let all of us oppose it together. We are not people who are afraid to oppose. In what manner should we oppose? The very words incorporated in the Governor's Address and the Budget Statement convey that opposition. I have stated that whether it is an announcement by the Central Government concerning a salary increase or an increase in prices, the States must be consulted. Those words arise from the spirit that expresses our opposition.
+
+## We asked for justice
+
+Dr. Hande asked whether we argued with them in order to obtain the funds needed for the schemes. How many times did we write letters? How many times did we meet and speak? Though I cannot give the full details of the letters, I shall mention some of them.
+
+The then Finance Minister, who is now the Speaker of the Assembly, placed a statement before this Assembly in August 1969. In it, objection was expressed to the reduction in the percentage of funds that ought to come to our State.
+
+In a letter I wrote to the Prime Minister of India in September 1969, I pointed out the injustice done by the Indian Finance Commission and the loss caused by the Planning Commission's eligibility criteria, and asked that justice be done.
+
+## Three conditions
+
+In November 1969 I again wrote a letter to the Prime Minister of India, and I also met the Prime Minister and the Deputy Chairman of the Planning Commission and discussed this matter with them at length.
+
+After this, the Finance Minister held discussions with the Planning Commission two or three times. Since no decision favourable to us could be reached, the size of the Five-Year Plan remained unsettled.
+
+In March 1970 it was strongly urged that the Central Government should provide assistance to meet the heavy expenditure that could arise from the recommendations of the Pay Commission.
+
+<!-- source-page: 28 -->
+
+When the National Development Council met on 21—3—70, it was asked whether a note of dissent had been written at that meeting. It was at that very meeting that I laid down three conditions. The first was the Salem steel plant; the second was that our State should receive a share from the Rs. 800 crore set aside as special funds; the third was that, out of the Rs. 100 crore set aside for backward areas in the States, funds should also be allotted to the backward areas in our State.
+
+Thus, we said that we would give our consent to the Plan only if these three conditions were accepted. Only after that did they give us, for the first time, Rs. 7 crore out of the Rs. 800 crore. This year they are refusing to give it. They have allotted about Rs. 2 crore to Ramanathapuram district and Dharmapuri district as backward areas in our State. They also gave approval to the Salem steel plant mentioned first.
+
+## Unceasing effort
+
+On 15 April 1970 we demanded that it was necessary to give us special assistance and that our financial resources should be reviewed for that purpose. On 25—4—70 this demand was again pressed; in August 1970 we explained our difficult financial position in detail. Since Dr. Gadgil's health was not good, we urged that the meeting which had been postponed should be held quickly.
+
+Our Industries Minister and all the officials joined me in meeting Dr. Gadgil on 12 October 1970. Gadgil, who accepted to some extent that there was justice in our argument, concluded the discussion on the basis that the statistical details concerning our finances should be reconsidered at the officials' level. After that meeting, discussions at the officials' level took place on 31 October and 1 November 1970.
+
+At the end of December 1970 I told the Prime Minister that these demands should again be considered.
+
+<!-- source-page: 29 -->
+
+On 19 January 1971 I again wrote to the Prime Minister, pressing this matter.
+
+## The struggle continues
+
+The Secretary of the Planning Commission sent the Government, on 12 January 1971, a long note setting out certain objections to our arguments. A reply to it was again sent on 3 February. In this way we have continued to struggle with the Central Government.
+
+Dr. H. V. Hande: The Chief Minister said that he had laid down certain conditions at the N.D.C. meeting held on 21—3—70. I wish to know whether, at that meeting, besides stating them orally, he also wrote a `dissenting note` so as to place them on record officially in a manner that would signify their acceptance in practice.
+
+Chief Minister: Only our speeches are recorded there. No such records are entered.
+
+I point all this out only to show the extent to which we have struggled, the extent to which we have struggled and succeeded, and how we have pressed for and obtained the rights that are due to us.
+
+## Why do we oppose the eligibility criteria?
+
+The amount that the Central Government had already agreed to give for the Plan was Rs. 250 crore; but the Central Government has reduced it to Rs. 202 crore. The Planning Commission there, on behalf of the Central Government, defined certain qualifications for the States. If we look at what those qualifications were: 60 per cent for population; 10 per cent for per-capita income; 10 per cent for special problems; 10 per cent for the effort made in levying taxes; and 10 per cent on the basis of whether continuing plan works were being carried out. It was on this basis that they constructed the qualifications of a State.
+
+Because of this basis, what ought to have come to the Tamil Nadu Government has not come. Therefore I oppose the methods by which these qualifications were defined. Under these methods, Andhra lost Rs. 40 crore; Madhya Pradesh lost Rs. 26 crore; Mysore lost Rs. 49 crore; West Bengal lost Rs. 24 crore; and Tamil Nadu lost Rs. 48 crore.
+
+<!-- source-page: 30 -->
+
+## The assistance that did not come
+
+There is that 10 per cent for average per-capita income. If we look at it on an all-India basis, the all-India average was Rs. 418. Tamil Nadu's average per-capita income was Rs. 434. Assistance was denied to those whose per-capita income was above Rs. 418. Because ours — Tamil Nadu's — was higher by Rs. 16, they said that we had no share in that 10 per cent. Had they acted on the basis that there was no great difference between 418 and 434, we would have received another Rs. 25 or 30 crore.
+
+At the same time, what did they do? They gave Rs. 800 crore as special funds to nine States. As I said earlier, among the States, including Tamil Nadu, that lost substantial Central assistance because of the way the qualifications were defined, Madhya Pradesh, Andhra, Mysore and West Bengal were given a share in this special fund. But Tamil Nadu had no share in that fund.
+
+When we argued strongly, imposed conditions and asked for it at the National Development Council meeting, Rs. 7 crore was given. But this year they are refusing to give it. That is what we have also highlighted in this Budget Statement.
+
+Treating it as a special problem, money has been given to Calcutta city in West Bengal. But no money has been given to Madras city as a special problem. I do not wish to deceive ourselves by looking at Mount Road and several other roads in Madras city and saying that Madras city has advanced in every respect.
+
+<!-- source-page: 31 -->
+
+In the slum settlements along the seashore, many people are in such a condition that they do not even have a mat on which to sleep in the street. The huts are all surrounded by darkness. Sanitary facilities have not become available. To remove shortcomings of this kind and bring improvement, we have established a Slum Clearance Board on the scale of Rs. 40 crore.
+
+If the Central Government had treated this as a special problem and allotted 10 per cent to it, we would have received about Rs. 10 crore. The way it acts on the basis of State eligibility, and the way assistance is denied to us, is not right.
+
+Of the five States that suffered a loss in Central plan assistance, four States other than Tamil Nadu receive special funds. Along with five other States, Rs. 800 crore is being given as special funds. To say that we have no share in it is not just; that is precisely what we have pointed out in the Governor's Address and in the Budget Statement.
+
+## What we obtained through struggle
+
+If it is asked whether we obtained nothing by struggling, I wish to say that we have obtained things through struggle. Though Dr. Hande did not explicitly say that we were incapable people or people who had not bothered to learn the statistics, he spoke around the subject in a way that conveyed that meaning.
+
+<!-- source-page: 32 -->
+
+Last year alone, by arguing, we obtained Rs. 14 crore for drought-relief work.
+
+Next, the Rayalaseema loan stood as a Reserve Bank overdraft of Rs. 23 crore during Rajaji's Government; our share in it is Rs. 13 crore.
+
+The person who is now the Speaker of the Assembly spoke about it when he was Finance Minister. As a result of the struggle, a favourable situation has arisen in which that debt — Rs. 13 crore — has been deferred in instalments over four years.
+
+In this way we received Rs. 31 crore last year. For cyclone-relief work, Rs. 14 crore, then Rs. 10 crore, then Rs. 7 crore — I wish to state that Rs. 31 crore was obtained last year by arguing and asking for it.
+
+## More powers for the States
+
+In the same way, we are struggling to obtain what is due this year too. We place statements like this in the Assembly and speak; all these are our protest — the protest we show the Central Government on behalf of the people of Tamil Nadu.
+
+Some among the people fear that this may somehow lead to secession. There is no need for such fear. We ask only that the States should have greater powers. We are concerned about the unity of India. We desire that India should remain united.
+
+A resolution has been passed in the Indian Parliament. That resolution has supported the East Bengal issue. When a country is breaking apart, support is being given in Parliament. I do not wish to enter into a controversy about that.
+
+<!-- source-page: 33 -->
+
+## What did Mujibur Rahman demand?
+
+What demands did Mujibur Rahman, the leader of East Pakistan, put forward at the beginning? Rahman's six-point plan is set out in a newspaper called `People's Will`, published from Ceylon.
+
+No one should think that the Dravida Munnetra Kazhagam has accepted all these points and is merely repeating them again and again.
+
+Rahman, who now asks for an independent country, first put forward only a six-point plan. His first proposal was that a federation should be established in a genuine form in the two States of East Pakistan and West Pakistan. This may appear to resemble our demand that a federation should exist in the true sense of the autonomy we seek.
+
+The second proposal was that only defence and foreign affairs should fall within the authority of the Central Government, and all remaining powers should come to the State. I have not said that. We have not said that in our State-autonomy demand. There is a difference between us and that.
+
+Third, there should be separate currency notes for the two regions. Next, he demanded that the power to levy taxes and the power to collect them should belong to the State itself. His plan was that a portion of this revenue should be paid toward the administration of the Central Government. Here it is upside down: the Central Government collects and gives us only a portion.
+
+Next, the foreign-exchange earnings of each State should be under the authority of that State Government. The State Government should contribute a share of the foreign exchange needed for the Central Government's expenditure. Next, the State should be given the right to enter into agreements with foreign countries for trade and industrial development.
+
+The sixth was: (A) a separate army should exist separately for the two States; and under it, (B) Bengali should also be one of the federal languages.
+
+These are the six points Mujibur Rahman put forward for his State-autonomy plan. We now see that his State-autonomy plan has become a plan seeking independence for the country, a plan to break away from Pakistan itself.
+
+<!-- source-page: 34 -->
+
+## Support from the Leader of the Opposition
+
+When Legislative Council Opposition Leader Thiru Rajaram Naidu spoke, he said that whatever action we took for our rights, they were ready to help us.
+
+I mentioned while speaking that he had not said this carelessly. If Thiru Rajaram said that they were ready to help whatever action we took, it was because he had confidence that every action we took would follow a righteous path and would be of a kind that strengthened India while enabling the States to prosper. I said that it was because of that confidence that he had declared himself ready to cooperate whatever action we took.
+
+## This is not a demand for secession
+
+I say the same thing again. The powers we ask for are not for separating the State into a country of its own. We ask that powers should be decentralised so that India may always remain united and strong. Frequent Central intervention in the powers of the States should be avoided.
+
+If the burden of authority on the Central Government is reduced, it too can perform its work properly and efficiently. We have explained that the States will prosper through the decentralisation of powers to them.
+
+This is the very idea that echoes in the Governor's Address and in my statement. This should take shape as the unanimous declaration of this House.
+
+<!-- translation-continues-at-source-page: 35 -->
