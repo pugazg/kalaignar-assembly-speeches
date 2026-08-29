@@ -4,27 +4,31 @@ This directory preserves the archival source package for the 1971 Government of 
 
 ## Controlling textual source
 
-`ACL-CPL_01726_நமது_நிலை.pdf` is the **only textual authority** for the Tamil transcription and the English translation derived from it.
+`ACL-CPL_01726_நமது_நிலை.pdf`
+
+This PDF is the **only textual authority** for the Tamil transcription and the English translation derived from it.
 
 Other Assembly and Legislative Council PDFs are **reference/provenance only**. Their wording must not be copied into, merged with, or used to repair the booklet transcription or translation.
 
 ## Reader-facing speech entry
 
-The complete booklet speech text and Gate-F English first pass are maintained under [`../../speeches/1971/1971-namathu-nilai/`](../../speeches/1971/1971-namathu-nilai/).
+The complete booklet speech text and its English translation are maintained under:
 
-Current status:
+[`../../speeches/1971/1971-namathu-nilai/`](../../speeches/1971/1971-namathu-nilai/)
+
+Current state:
 
 - Tamil: scan pp. **3–60 — complete**
-- English Gate-F: scan pp. **3–60 — complete**
+- English Gate-F first pass: scan pp. **3–60 — complete**
 - speech-page coverage: **58 / 58**
 - Editorial Unit 1 Gate-G review: **complete — 35/35 pages**
-- Editorial Unit 2 Gate-G review: **through scan p.58 — 21/23 pages**
-- Gate-G overall: **scan pp.3–58 reviewed — 56/58 pages**
-- blocking fidelity issues found: **0**
-- non-blocking English refinements queued: **30**
-- English verified: **no**
+- Editorial Unit 2 Gate-G review: **complete — 23/23 pages**
+- Gate-G page-by-page fidelity review overall: **complete — scan pp.3–60, 58/58 pages**
+- Gate-G blocking fidelity issues: **0**
+- non-blocking refinement candidates queued: **34**
+- English verified: **no — consolidated refinement and final closure pending**
 
-The p.57 `அறுத்துக்கொள்ள வேண்டும்` phrase remains a high-priority Tamil-only refinement candidate because its reflexive force is ambiguous; do not resolve it from external legislative wording.
+The entry preserves the booklet as an edited two-House compilation and does not reconstruct separate Assembly/Council transcripts. Scan pp.1–2 remain publication front matter/source metadata and are not inserted into the speech transcript as spoken text.
 
 ## Source identity
 
@@ -39,7 +43,7 @@ The p.57 `அறுத்துக்கொள்ள வேண்டும்` p
 | Scan pages | Printed pages | Content |
 |---:|---:|---|
 | 1–2 | — | cover / publication front matter |
-| 3–37 | 1–35 | Unit 1 — `நமது நிலை` |
+| 3–37 | 1–35 | Unit 1 — `நமது நிலை`, Governor-address reply compilation |
 | 38–60 | 36–58 | Unit 2 — `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` |
 
 ## Verified Tamil transcription
@@ -53,11 +57,27 @@ Status: **complete and visually verified against the controlling booklet scan**.
 - [`transcription/scan-041-050.md`](./transcription/scan-041-050.md)
 - [`transcription/scan-051-060.md`](./transcription/scan-051-060.md)
 
-Audit result: **60/60 scans traversed, 175 confirmed visual-fidelity corrections, 0 unresolved readings, no external legislative text imported**.
+Audit result:
+
+- scan traversal: **1–60 / 60**
+- confirmed visual-fidelity corrections: **175**
+- unresolved word/character readings: **0**
+- external legislative text imported: **none**
+
+Supporting records:
+
+- [`correction-application-ledger.md`](./correction-application-ledger.md)
+- [`transcription-validation.md`](./transcription-validation.md)
+- [`source-archival-release-status.md`](./source-archival-release-status.md)
 
 ## Provenance research
 
-House/date provenance records and the two three-way alignment ledgers remain metadata only. They must not alter the booklet witness.
+Completed maps:
+
+- [`unit-1-three-way-alignment-ledger.md`](./unit-1-three-way-alignment-ledger.md)
+- [`unit-2-three-way-alignment-ledger.md`](./unit-2-three-way-alignment-ledger.md)
+
+They explain House/date provenance without changing source text. Dated Assembly reference records remain metadata/provenance only and contain no substitute Official Report transcription.
 
 ## Translation workflow
 
@@ -68,13 +88,13 @@ Control files:
 - [`translations/en/GLOSSARY.md`](./translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](./translations/en/TRANSLATION_REVIEW.md)
 
-Actual reader-facing English is maintained only in the `speeches/` entry.
+Actual reader-facing English is maintained only in the `speeches/` entry to avoid duplicate independently editable copies.
 
-**Gate F is complete. Gate G has completed G1–G8, scan pp.3–58, with 0 blocking fidelity issues.** Thirty non-blocking refinement candidates are queued for the consolidated Tamil-controlled refinement pass after page-level review.
+**Gate F is complete for all 58 speech pages. The complete Gate-G page-by-page fidelity review is also finished for all 58 pages with 0 blocking issues.** Thirty-four non-blocking English refinement candidates are recorded for the consolidated source-controlled refinement pass.
 
-Exact next review batch: **G9 — scan pp.59–60**.
+Exact next activity: **consolidated English refinement pass over candidates 1–34**, followed by the final closure check.
 
-No Assembly/Council Official Report wording may be used during Gate G.
+No Assembly/Council Official Report wording may be used during refinement or closure.
 
 ## Handover
 
