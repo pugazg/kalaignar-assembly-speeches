@@ -83,27 +83,15 @@ This entry is a **booklet-level speech compilation**, not a claim that the whole
 
 Scan pp.1–2 are publication front matter/source metadata and are not inserted into the speech transcript as spoken text. Reader-facing speech text begins at scan p.3.
 
-### Current population status
+### Population / translation status
 
-Tamil copied from the verified booklet transcription:
-
-- scan pp. **3–60 complete**
-
-English first-pass translation:
-
-- scan pp. **3–60 complete**
-
-Editorial Unit 1 (scan pp.3–37): **fully populated in Tamil and Gate-F English**.
-
-Editorial Unit 2 (scan pp.38–60): **fully populated in Tamil and Gate-F English**.
-
-Current speech-page coverage: **58 / 58 pages**.
-
-Gate F: **complete**.
-
-Gate G English fidelity review: **not started**.
-
-English must remain marked **not verified** until Gate G is complete.
+- Tamil reader-facing population: **scan pp.3–60 complete — 58/58 speech pages**
+- English Gate-F first pass: **scan pp.3–60 complete — 58/58 speech pages**
+- Gate F: **complete**
+- Gate G English fidelity review: **in progress**
+- Gate-G reviewed range: **scan pp.3–10 — 8/58 pages**
+- Gate-G blocking fidelity issues found so far: **0**
+- English verified: **no**
 
 ## Translation control records
 
@@ -114,7 +102,7 @@ Source-side workflow records remain under:
 - `TRANSLATION_PLAN.md`
 - `PROGRESS.md`
 - `GLOSSARY.md`
-- `TRANSLATION_REVIEW.md` — create when Gate G begins
+- `TRANSLATION_REVIEW.md`
 
 Actual reader-facing English must be maintained only in:
 
@@ -122,37 +110,13 @@ Actual reader-facing English must be maintained only in:
 
 Do not create a second independently editable English translation under `sources/`.
 
-## Completed Gate-F ranges
+## Gate-F status
 
-- **F1a — scan pp.3–5:** complete
-- **F1b — scan pp.6–10:** complete
-- **F2 — scan pp.11–18:** complete
-- **F3 — scan pp.19–26:** complete
-- **F4 — scan pp.27–34:** complete
-- **F5 — scan pp.35–37:** complete; closes Unit 1
-- **F6 — scan pp.38–44:** complete
-- **F7 — scan pp.45–51:** complete
-- **F8 — scan pp.52–58:** complete
-- **F9 — scan pp.59–60:** complete; closes Unit 2 and Gate F
-
-### F9 — scan pp.59–60
-
-The final Gate-F batch includes:
-
-- `வணங்காதீர்கள், வளையாதீர்கள்`, the `மறவர் குல மங்கை` reference and `புறநானூற்றுத் தாய்` framing;
-- `மாநிலத் திட்டக் குழு, போட்டிக் குழு அல்ல !` and the ten-year State Planning Commission discussion;
-- population, education, medical, agricultural and water-planning questions and the proposed report to the House;
-- `உரிமைக் குரல்`, the final State-autonomy / decentralisation passage;
-- the booklet's printed Pakistan / East Pakistan / `ரகுமான்களை` rhetoric;
-- the closing statement that the Budget Statement echoes the rights-voice of the people of Tamil Nadu through parliamentary methods.
-
-The library stamp/reference note after the speech in the source transcription is not spoken text and is not included in the reader-facing speech.
-
-No Assembly/Council Official Report wording was used in the Tamil or English.
+All Gate-F batches F1a/F1b/F2/F3/F4/F5/F6/F7/F8/F9 are complete. Both editorial units are fully populated in Tamil and have full English first passes.
 
 ## Gate-G review policy
 
-Gate G must compare the existing English only against the verified booklet Tamil. It must check:
+Gate G compares the existing English only against the verified booklet Tamil. It must check:
 
 - 58/58 speech-page coverage;
 - omissions and duplications;
@@ -161,25 +125,53 @@ Gate G must compare the existing English only against the verified booklet Tamil
 - headings, interventions and speaker labels;
 - names, initials, dates, figures, money, percentages and units;
 - rhetorical force, humour, idioms and metaphors;
-- provisional glossary decisions such as scan p.57 `அறுத்துக்கொள்ள வேண்டும்`;
+- provisional glossary decisions;
 - absence of imported Official Report wording.
 
-Record review findings in:
+Detailed findings are recorded in:
 
 `sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md`
 
-Only after all Gate-G ranges are complete may metadata mark English as verified.
+Only after all Gate-G ranges and the final refinement/closure pass are complete may metadata mark English as verified.
+
+## Completed Gate-G ranges
+
+### G1 — scan pp.3–10
+
+**Complete — semantic/source-fidelity PASS.**
+
+G1 checked every source page from 3 through 10 against the verified booklet Tamil.
+
+Results:
+
+- all eight source-page boundaries present and correctly ordered;
+- no omitted or duplicated source content found;
+- headings, quotations, names, dates and figures retained;
+- no blocking mistranslation or unsupported factual addition found;
+- no Official Report wording used;
+- no Tamil changes required.
+
+Four non-blocking English wording refinements were queued for the consolidated post-review refinement pass:
+
+1. scan p.4 — `fraud in the ballot paper`;
+2. scan p.5 — `The report that I am going to litigate is mischievous`;
+3. scan p.6 — heading `A flaw is one thing; an offence is another.` versus the recurring `shortcoming / offence` distinction;
+4. scan p.8 — `go into the merits of those actions` versus the more neutral sense of `உட்பொருள்`.
+
+These are wording-quality candidates, not blocking fidelity defects. Resolve them only from the verified Tamil; do not use Official Reports.
 
 ## Exact next activity
 
-Begin **Gate G1 — scan pp.3–10**:
+Continue **Gate G2 — scan pp.11–18**:
 
-1. compare `speeches/1971/1971-namathu-nilai/transcript.md` and `translation.md` page by page, using the verified booklet Tamil as authority;
-2. check every heading, paragraph, quotation, name, figure and continuation for semantic fidelity;
-3. correct English only where the verified Tamil supports the correction;
-4. create `sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md` and record G1 findings;
-5. update `PROGRESS.md` and `GLOSSARY.md` as needed;
-6. do **not** use Assembly/Council Official Report wording.
+1. read the verified Tamil for scan pp.11–18 only from the source transcription controlled by `ACL-CPL_01726_நமது_நிலை.pdf`;
+2. compare the corresponding English in `speeches/1971/1971-namathu-nilai/translation.md` page by page;
+3. check headings, paragraphs, quotations, names, figures, page continuations, rhetorical force and unsupported additions;
+4. record the full G2 ledger in `sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md`;
+5. update `PROGRESS.md`, metadata and relevant READMEs;
+6. if a blocking English fidelity error is found, correct it using only the verified Tamil;
+7. record non-blocking wording refinements separately for the consolidated refinement pass;
+8. do **not** use Assembly/Council Official Report wording.
 
 At every step:
 
