@@ -16,7 +16,7 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 - Do not import Official Report wording.
 - Record definite idiomatic/non-literal choices when needed.
 
-## Locked terms encountered through scan p.26
+## Locked terms encountered through scan p.34
 
 | Tamil source form | English rendering | Note |
 |---|---|---|
@@ -50,7 +50,7 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 | `தனியார் துறை` | `private sector` | Industrial-policy term. |
 | `ஹெவி வாட்டர்` | `heavy water` | Source transliteration rendered in standard English. |
 | `அணுசக்தி ஆணைக்குழு` | `Atomic Energy Commission` | Institutional rendering. |
-| `தேசிய வளர்ச்சிக் குழு` | `National Development Council` | Institutional rendering. |
+| `தேசிய வளர்ச்சிக் குழு` / `தேசிய அபிவிருத்திக்குழு` | `National Development Council` | Two Tamil forms in the booklet; one consistent English institutional rendering. |
 | `என்.டி.சி.` | `N.D.C.` | Source abbreviation retained. |
 | `நான்காவது ஐந்தாண்டுத் திட்டம்` | `Fourth Five-Year Plan` | Period planning terminology. |
 | `எழுச்சி நாள்` | `Uprising Day` | First-pass rendering; review nuance at Gate G. |
@@ -64,8 +64,20 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 | `பில் கலெக்டர்` | `bill collector` | Source occupational term. |
 | `விலைவாசி` | `prices` | Price-level discussion. |
 | `பருப்பு வகைகள்` | `pulses` | Agricultural/price-policy context. |
+| `இந்திய நிதிஆணைக்குழு` | `Indian Finance Commission` | Institution named in the booklet's funding argument. |
+| `திட்டக் குழு` | `Planning Commission` | Central planning institution in the booklet. |
+| `தகுதிவரைமுறை` / `தகுதி வரைமுறை` | `eligibility criteria` | First-pass rendering for the funding-allocation criteria. |
+| `ஊதியக் குழு` | `Pay Commission` | Period public-pay context. |
+| `எதிர்ப்புக் குறிப்பு` | `note of dissent` | Generic Tamil wording in scan p.28. |
+| `டிஸ்சென்டிங் நோட்` | `dissenting note` | Source's English transliteration retained semantically in the Hande intervention. |
+| `குடிசை மாற்று வாரியம்` | `Slum Clearance Board` | Institution in the Chennai-slum passage. |
+| `மாநில சுயாட்சி` | `State autonomy` | Preserve the booklet's political terminology without importing later formulations. |
+| `பிரிவினை` | `secession` | Used in the source's explicit denial of a separatist demand. |
+| `கூட்டாட்சி` | `federation` / `federal` | Context-dependent rendering in the Mujibur Rahman passage. |
+| `அந்நியச் செலாவணி` | `foreign exchange` | Economic/constitutional context. |
+| `அறவழி` | `righteous path` | First-pass close rendering; review constitutional/non-violent nuance at Gate G without importing outside wording. |
 
-## Names encountered through scan p.26
+## Names encountered through scan p.34
 
 - `வேழவேந்தன்` → `Vezhavendan`
 - `பொன்னப்ப நாடார்` → `Ponnappa Nadar`
@@ -84,14 +96,17 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 - `காமராஜர்` → `Kamarajar`
 - `வெங்கட்ராமன்` → `Venkataraman`
 - `சுப்பிரமணியம்` → `Subramaniam`
-- `டாக்டர் ஹாண்டே` → `Dr. Hande`
+- `டாக்டர் ஹாண்டே` / `டாக்டர். எச். வி. ஹாண்டே` → `Dr. Hande` / `Dr. H. V. Hande`
 - `அனந்த நாயகி` → `Ananthanayaki`
 - `ஜோதி வெங்கடாசலம்` → `Jothi Venkatachalam`
 - `கே. எம். சுப்பிரமணியம்` → `K. M. Subramaniam`
+- `டாக்டர் காட்கில்` → `Dr. Gadgil`
+- `முஜிபுர் ரகுமான்` → `Mujibur Rahman`
+- `ராஜாராம் நாயுடு` / `திரு.ராஜாராம்` → `Rajaram Naidu` / `Thiru Rajaram`
 
 These English forms are consistency renderings of names printed in Tamil; they do not authorize source-text changes.
 
-## Publication / work titles encountered through scan p.10
+## Publication / work titles encountered
 
 - `மித்திரன்` → `Mithiran`
 - `மாலை மணி` → `Maalai Mani`
@@ -104,10 +119,11 @@ These English forms are consistency renderings of names printed in Tamil; they d
 - `பெரியார் பொன் மொழி` → `Periyar Pon Mozhi`
 - `இலட்சிய வரலாறு` → `Ilatchiya Varalaru`
 - `இராவண காவியம்` → `Ravana Kaviyam`
+- `'பீப்ள்ஸ் வில்` → `People's Will` | Preserve the booklet's printed title witness; do not use outside bibliographic data to repair it.
 
-The first-pass English preserves these as transliterated source titles rather than replacing them with translated titles.
+The first-pass English preserves source titles as transliterated or directly rendered source forms rather than silently replacing them with outside-standardised titles.
 
-## Rhetoric / idiom decisions through scan p.26
+## Rhetoric / idiom decisions through scan p.34
 
 | Tamil | English | Note |
 |---|---|---|
@@ -127,6 +143,14 @@ The first-pass English preserves these as transliterated source titles rather th
 | `பதில் சொல்லத் தான் போகிறோம்!` | `We are going to answer it!` | Direct rhetorical heading. |
 | `சொன்னதைச் செய்தோம்` | `We did what we said` | Compact promise/achievement formulation. |
 | `ஒன்றுபட்டு வாதாடுவோம்` | `Let us argue together` | First-pass close rendering; review parliamentary nuance at Gate G. |
+| `நியாயத்தைக் கேட்டோம்` | `We asked for justice` | Keeps the direct claim of the printed heading. |
+| `இடைவிடாத முயற்சி` | `Unceasing effort` | Preserves compact perseverance rhetoric. |
+| `தொடரும் போராட்டம்` | `The struggle continues` | Retains the political-struggle register. |
+| `போராடிப் பெற்றவை` | `What we obtained through struggle` | Keeps the repeated `போராடு` rhetoric rather than softening it. |
+| `மாநிலங்களுக்கு அதிக அதிகாரம்` | `More powers for the States` | Direct constitutional-policy heading. |
+| `முஜிபுர் ரகுமான் கோரியது என்ன?` | `What did Mujibur Rahman demand?` | Direct question retained. |
+| `இது பிரிவினைக் கோரிக்கை அல்ல` | `This is not a demand for secession` | Explicit source distinction preserved. |
+| `ஏகோபித்த வாசகம்` | `unanimous declaration` | First-pass rendering; review `வாசகம்` nuance at Gate G. |
 
 ## Pending recurring terms
 
@@ -137,4 +161,4 @@ Lock these only when encountered in the working translation.
 
 ## Current state
 
-Gate F has completed its first pass through scan p. **26**. Reader-facing speech/translation coverage is **scan pp.3–26**. Next continuation: **scan p.27**.
+Gate F has completed its first pass through scan p. **34**. Reader-facing speech/translation coverage is **scan pp.3–34**. Next continuation: **scan p.35**.
