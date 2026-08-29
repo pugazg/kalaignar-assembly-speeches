@@ -18,8 +18,16 @@ Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.
 
 ## Active source handovers
 
+- [`நமது நிலை` — 1971 source package](./sources/1971-namathu-nilai/README.md) — 60-page Government of Tamil Nadu booklet. **Tamil transcription is complete and visually verified against `ACL-CPL_01726_நமது_நிலை.pdf`; 175 scan-supported corrections applied; unresolved readings 0.** Other Assembly/Council PDFs are reference/provenance only and are not transcription sources.
+  - Assembly event reference: [`29 March 1971 — Interim-Budget reply`](./sources/1971-namathu-nilai/events/1971-03-29-assembly-interim-budget-reply.md)
+  - Assembly event reference: [`2 April 1971 — Governor-address reply`](./sources/1971-namathu-nilai/events/1971-04-02-assembly-governors-address-reply.md)
+  - Handover: [`docs/HANDOVER_1971_NAMATHU_NILAI.md`](./docs/HANDOVER_1971_NAMATHU_NILAI.md)
 - [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source mapped into 10 dated speeches. **All 10 speeches in the 2007 industrial-speeches anthology are fully released with verified Tamil and verified English.**
 - Copy/paste continuation prompt: [`docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md`](./docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md)
+
+### `நமது நிலை` indexing note
+
+The two 1971 dated files linked above are **metadata/provenance event references**, not reconstructed verbatim Assembly transcripts. The source booklet is an edited two-House witness. For this archival package, Tamil wording comes only from `ACL-CPL_01726_நமது_நிலை.pdf`; external legislative records are used only to establish House/date/event/provenance context. Accordingly, these reference records are intentionally **not** added to the canonical speech table below or to `data/speeches.json`.
 
 ## Speech index
 
@@ -48,9 +56,15 @@ kalaignar-assembly-speeches/
 │   └── speeches.json
 ├── docs/
 │   ├── ARCHIVAL_WORKFLOW.md
+│   ├── HANDOVER_1971_NAMATHU_NILAI.md
 │   ├── HANDOVER_2007_INDUSTRIAL_SPEECHES.md
 │   └── NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md
 ├── sources/
+│   ├── 1971-namathu-nilai/
+│   │   ├── README.md
+│   │   ├── events/
+│   │   ├── transcription/
+│   │   └── provenance / audit records
 │   └── 2007-industrial-speeches/
 │       └── mapping.md
 └── speeches/
