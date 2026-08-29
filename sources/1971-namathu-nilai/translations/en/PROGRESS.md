@@ -6,9 +6,9 @@
 - Reader-facing location: `speeches/1971/1971-namathu-nilai/`
 - Gate F first-pass translation: **complete**
 - Gate G fidelity review: **in progress**
-- Gate-G pages reviewed: **24 / 58** (`scan pp.3–26`)
+- Gate-G pages reviewed: **32 / 58** (`scan pp.3–34`)
 - Gate-G blocking fidelity issues found: **0**
-- Gate-G non-blocking refinement candidates queued: **10**
+- Gate-G non-blocking refinement candidates queued: **14**
 - English verification state: **not verified**
 
 ## Textual authority
@@ -52,7 +52,7 @@ Detailed findings are recorded in [`TRANSLATION_REVIEW.md`](./TRANSLATION_REVIEW
 | G1 | 3–10 | **complete** | 0 |
 | G2 | 11–18 | **complete** | 0 |
 | G3 | 19–26 | **complete** | 0 |
-| G4 | 27–34 | pending | — |
+| G4 | 27–34 | **complete** | 0 |
 | G5 | 35–37 | pending | — |
 | G6 | 38–44 | pending | — |
 | G7 | 45–51 | pending | — |
@@ -91,9 +91,21 @@ Page-by-page semantic/source-fidelity review complete against the verified bookl
 - all checked numerical claims preserved, including industrial indices/licence figures, 6,500 teachers, 2,400 engineers, 1,795 placements, 360/100/1,500 Electricity Board recruitment, Tiruchi price figures and the six-lakh-acre pulses plan;
 - no blocking mistranslation, omission, duplication or unsupported addition found;
 - no Official Report wording used;
-- **3 additional non-blocking wording refinements** queued, bringing the total to **10**.
+- **3 additional non-blocking wording refinements** queued.
 
-G3 refinement candidates concern scan p.19's compressed `நம்முடைய நாட்டுக்கு / நம்முடைய மாநிலம்` restatement, scan p.23 `விடிவெள்ளி` → `dawn-star`, and scan p.26 `ஒன்றுபட்டு வாதாடுவோம்` → `Let us argue together`. These are not blocking fidelity defects.
+### G4 result — scan pp.27–34
+
+Page-by-page semantic/source-fidelity review complete against the verified booklet Tamil only.
+
+- all 8 source-page boundaries correct;
+- p.26→27 continuation and p.34→35 boundary intact;
+- Central-funding correspondence, National Development Council conditions, Planning Commission criteria, State-loss figures, slum-clearance argument, relief/loan figures, State-powers argument, Mujibur Rahman six-point passage and anti-secession close fully represented;
+- all checked dates, percentages, monetary values and speaker labels preserved;
+- no blocking mistranslation, omission, duplication or unsupported addition found;
+- no Official Report wording used;
+- **4 additional non-blocking wording refinements** queued, bringing the total to **14**.
+
+G4 refinement candidates concern the p.29 Hande `dissenting note` sentence, p.31 `Rs. 40 crore` Slum Clearance Board scale wording, p.34 `அறவழி` → `righteous path`, and p.34 `ஏகோபித்த வாசகம்` → `unanimous declaration`. These are not blocking fidelity defects.
 
 ## Gate-F completion summary
 
@@ -119,6 +131,6 @@ G3 refinement candidates concern scan p.19's compressed `நம்முடை�
 
 ## Exact continuation point
 
-Proceed with **G4 — scan pp.27–34**.
+Proceed with **G5 — scan pp.35–37**.
 
 Compare the existing English only against the verified booklet Tamil, record the page-by-page findings in `TRANSLATION_REVIEW.md`, and preserve the no-Official-Report rule. English must remain marked **not verified** until all Gate-G batches and the final refinement/closure check are complete.
