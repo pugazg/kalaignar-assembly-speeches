@@ -41,14 +41,14 @@ The Gate-G review is primarily a **fidelity review**, not a free copy-edit. Non-
 | G3 | 19–26 | 8 | **complete** | 0 |
 | G4 | 27–34 | 8 | **complete** | 0 |
 | G5 | 35–37 | 3 | **complete** | 0 |
-| G6 | 38–44 | 7 | pending | — |
+| G6 | 38–44 | 7 | **complete** | 0 |
 | G7 | 45–51 | 7 | pending | — |
 | G8 | 52–58 | 7 | pending | — |
 | G9 | 59–60 | 2 | pending | — |
 
-Reviewed so far: **35 / 58 speech pages** (`scan pp.3–37`).
+Reviewed so far: **42 / 58 speech pages** (`scan pp.3–44`).
 
-**Editorial Unit 1 is now fully reviewed through Gate G.**
+**Editorial Unit 1 is fully reviewed through Gate G. Editorial Unit 2 has now been reviewed through scan p.44.**
 
 English remains **not verified** until every Gate-G batch and the final refinement/closure check are complete.
 
@@ -372,6 +372,75 @@ These are source-fidelity or natural-English refinements for the consolidated pa
 
 These candidates must be resolved only from the verified booklet Tamil and its immediate context.
 
+---
+
+## G6 — scan pp.38–44
+
+### Overall result
+
+**PASS for semantic/source fidelity.**
+
+The existing English covers every verified Tamil paragraph from scan p.38 through scan p.44 in the correct booklet order. The printed Editorial Unit 2 heading and introductory editorial sentence are represented, all seven source-page markers are present at the required boundaries, and scan p.44 stops correctly after the statement that the Government obtained the Rs.3 crore L.I.C. loan on behalf of the Corporation, before the interest explanation begins on p.45.
+
+No Tamil change was required. No blocking English omission, duplication, unsupported factual addition, numerical error, quotation loss, heading loss, speaker-label loss, or source-order error was found.
+
+No Assembly/Council Official Report wording was used in this review.
+
+### Page-by-page ledger
+
+| Scan page | Review result | Checked features |
+|---:|---|---|
+| 38 | **PASS** | printed Unit 2 title and two-House compilation introduction; Interim Budget reply opening; East Bengal killings; humanitarian sympathy for those fighting for rights; foreign-affairs qualification; four-crore-Tamil-people framing; pride in presenting the Budget as Finance Minister; `ஆற்றல் படைத்தவர்கள்` opening and Anna/four-year-government framing. |
+| 39 | **PASS** | professional/member counts: D.M.K. 30 lawyers, Nijalingappa Congress 5, C.P.I. 2, Forward Bloc 1, Muslim League 1 = 39; doctors 4+2=6; teachers 5+1=6; one engineer; graduates 20+3=23; `எதிர்க்கட்சிகள் வரிசை`; Ponnappa Nadar praise/half-fulfilled Leader-of-Opposition wish; K. T. K. Thangamani's Parliament record and progressive views. |
+| 40 | **PASS** | `தோழமை உணர்ச்சி`; Tiruppur Moideen's student-era platform influence and Muslim League leadership; Perumal / Forward Bloc `வீர உரை` and `விவேகம்`; printed `குட்டியைக் கவ்வும் பூனை` heading at the end of the page before its body on p.41. |
+| 41 | **PASS** | Dr. Hande's Legislative Council / four-year Assembly background; Anna's kitten-versus-mouse criticism metaphor; Congress/Hande comparison and constructive-criticism expectation; Marimuthu / P.S.P. passage; `காரம்` versus `சாரம்` wordplay. |
+| 42 | **PASS** | Thiyagarajan / Tamil Arasu Kazhagam and Silambu Selvar reference; Latheef's electric-fan metaphor; lakhs-upon-lakhs of poor, workers and middle-class voters; justice/honesty/promises framing; `ஜூன் மாதத்தில் விரிந்த நிலையில் கொள்கை விளக்கம்`; distinction between Interim and full June Budget policy explanation. |
+| 43 | **PASS** | Ananthanayaki's `வரிகள் குறையவில்லை, வசதிகள் பெருகவில்லை`; wet/dry land-tax exemption; Anbuchezhiyan; `தாங்கக்கூடியவர்களுக்கு வரி`; progressive-tax principle; K. M. Subramaniam; registration-revenue figures Rs.316 lakh / Rs.32 lakh in 1938-39 / Rs.124 lakh in 1962; land-valuation/registration-fee explanation. |
+| 44 | **PASS** | `வருமானம் உயர்ந்ததின் காரணம்`; motor-vehicle revenue Rs.81 lakh in 1938 → Rs.23 crore; K. M. Subramaniam's loan-use question; Corporation-versus-State accounting distinction; expenditure-before-loan/grant reimbursement explanation; `எல்.ஐ.சி.-யிடமிருந்து மாநகராட்சி பெற்ற கடன்`; Rs.5 crore allegation, Reserve Bank overdraft allegation, correction to Rs.3 crore, and exact p.45 continuation boundary. |
+
+### Numerical and named-entity check
+
+The reviewed English preserves the source-specific figures and names in this range, including:
+
+- East Bengal sympathy on behalf of `four crore` Tamil people;
+- lawyers: `30 + 5 + 2 + 1 + 1 = 39`;
+- doctors: `4 + 2 = 6`;
+- teacher representatives: `5 + 1 = 6`;
+- engineers: `1`;
+- graduates: `20 + 3 = 23`;
+- Hande's prior service in this House: `four years`;
+- registration revenue: `Rs. 316 lakh`, versus `Rs. 32 lakh` in `1938-39` and `Rs. 124 lakh` in `1962`;
+- motor-vehicle revenue: `Rs. 81 lakh` in `1938` and `Rs. 23 crore` in the source's present comparison;
+- L.I.C. loan: allegation of `Rs. 5 crore`, corrected by the source to `Rs. 3 crore`.
+
+Names and labels checked include Ponnappa Nadar, K. T. K. Thangamani, Tiruppur Moideen, Perumal, Dr. Hande, Marimuthu, Thiyagarajan, Silambu Selvar, Latheef, Ananthanayaki, Anbuchezhiyan, K. M. Subramaniam, D.M.K., Nijalingappa Congress, Communist Party of India, Forward Bloc, Muslim League, Swatantra Party, P.S.P., Tamil Arasu Kazhagam, L.I.C., Reserve Bank, Legislative Assembly and Legislative Council.
+
+### Rhetoric / metaphor check
+
+The English retains the principal rhetoric and humour of the Unit 2 opening:
+
+- humanitarian framing of the East Bengal passage;
+- the professional-strength inventory of the new House;
+- Ponnappa Nadar's `half fulfilled` Leader-of-Opposition joke;
+- Tiruppur Moideen's inspirational platform-speaking memory;
+- Perumal's `valour / wisdom` contrast;
+- Anna's kitten-versus-mouse criticism metaphor;
+- Marimuthu's `காரம் / சாரம்` wordplay as `spice / substance`;
+- Latheef's electric-fan image contrasting members' comfort with the ceaseless struggle of voters;
+- the progressive-tax principle of taxing those able to bear it and expanding facilities for those unable to bear the burden;
+- the `somewhat alarming` Reserve Bank-overdraft allegation before the Rs.3 crore correction.
+
+### Non-blocking wording-refinement queue from G6
+
+These are wording-quality/source-closeness candidates only; none currently changes the verified Tamil meaning:
+
+19. scan p.38 — `with humanitarian concern beyond the laws of world politics` is stiff English for `உலக அரசியல் சட்டங்களுக்கு அப்பாற்பட்டு மனிதாபிமானத்தோடு`; refine the phrase without importing an outside legal/political interpretation.
+20. scan p.38 — `standing in his path and governing for four years` for `நான்காண்டுக்காலம் அவர் வழி நின்று ஆட்சி நடாத்தி` is overly literal; refine toward natural English such as following Anna's path while preserving the printed relationship.
+21. scan p.43 — `interim revenue from registration` for `ரிஜிஸ்டிரேஷனுக்கு ... இடைக்கால வருமானம்` is awkward and should be reviewed for a source-controlled formulation that does not silently discard the printed `இடைக்கால` wording.
+22. scan p.44 — `a somewhat alarming claim` for `கொஞ்சம் பயங்கரமான ஒரு விஷயம்` is serviceable but may flatten the speaker's rhetorical tone; review naturalness and force without exaggerating beyond the Tamil.
+
+These candidates must be resolved only from the verified booklet Tamil and immediate booklet context.
+
 ## Consolidated non-blocking queue status
 
 - G1 candidates: **4**
@@ -379,22 +448,23 @@ These candidates must be resolved only from the verified booklet Tamil and its i
 - G3 candidates: **3**
 - G4 candidates: **4**
 - G5 candidates: **4**
-- total queued after G5: **18**
+- G6 candidates: **4**
+- total queued after G6: **22**
 
 ## Unit 1 Gate-G milestone
 
-Editorial Unit 1 (`scan pp.3–37`) has now completed page-by-page Gate-G semantic/source-fidelity review:
+Editorial Unit 1 (`scan pp.3–37`) has completed page-by-page Gate-G semantic/source-fidelity review:
 
 - reviewed speech pages: **35 / 35**;
 - blocking fidelity issues found: **0**;
-- non-blocking refinement candidates queued: **18** across G1–G5;
+- non-blocking refinement candidates queued from Unit 1: **18** across G1–G5;
 - verified Tamil changed: **no**;
 - Official Report wording used: **none**.
 
-This milestone does **not** mark the full English translation verified. Unit 2 and the final consolidated refinement/closure pass remain outstanding.
+This milestone does **not** mark the full English translation verified. Unit 2 review is now complete through scan p.44; the remaining Unit 2 batches and final consolidated refinement/closure pass remain outstanding.
 
 ## Exact continuation point
 
-Proceed with **G6 — scan pp.38–44**, beginning Editorial Unit 2.
+Proceed with **G7 — scan pp.45–51**.
 
 Review the existing English against the verified booklet Tamil page by page; record any blocking fidelity corrections and any non-blocking refinement candidates here. Do not change the verified Tamil unless a direct booklet-scan recheck independently proves a transcription error.
