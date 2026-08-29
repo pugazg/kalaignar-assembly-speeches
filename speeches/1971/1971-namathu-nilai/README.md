@@ -30,8 +30,8 @@ Other Assembly/Council PDFs are reference/provenance sources only. Their wording
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — Tamil source text, being populated in booklet order.
-- [`translation.md`](./translation.md) — English working translation of the populated Tamil text.
+- [`transcript.md`](./transcript.md) — complete Tamil source text in booklet order.
+- [`translation.md`](./translation.md) — complete Gate-F English first-pass translation of the Tamil text.
 - [`metadata.json`](./metadata.json) — source and workflow metadata.
 - [`source-notes.md`](./source-notes.md) — source boundaries, authority rule and provenance cautions.
 
@@ -40,19 +40,19 @@ Other Assembly/Council PDFs are reference/provenance sources only. Their wording
 - Tamil source package itself: **complete and visually verified, 60/60 scan pages**.
 - Confirmed source corrections: **175**.
 - Unresolved Tamil readings: **0**.
-- Speech-folder Tamil populated so far: **scan pp.3–58**.
-- English populated so far: **scan pp.3–58**.
-- Speech-page coverage: **56 / 58 pages**.
-- Editorial Unit 1: **fully populated in both Tamil and Gate-F English**.
-- Editorial Unit 2: **populated and translated through scan p.58**.
-- English fidelity review: **not yet complete**.
+- Speech-folder Tamil population: **scan pp.3–60 complete**.
+- English Gate-F first pass: **scan pp.3–60 complete**.
+- Speech-page coverage: **58 / 58 pages**.
+- Editorial Unit 1: **fully populated in Tamil and Gate-F English**.
+- Editorial Unit 2: **fully populated in Tamil and Gate-F English**.
+- English fidelity review (Gate G): **not started**.
 
-The next population batch begins at **source scan p.59** and covers scan pp.59–60, completing the first-pass population of Editorial Unit 2 and the full booklet speech text.
+The next activity is a separate **Gate-G page-by-page English fidelity review** against the verified booklet Tamil only. English must not be marked verified until that review is complete.
 
 ## Source structure
 
 - scan pp.1–2 — cover / publication introduction and imprint; retained as source metadata rather than speech text in this folder;
 - scan pp.3–37 — Unit 1, `நமது நிலை`, Governor-address reply compilation — **reader-facing population complete**;
-- scan pp.38–60 — Unit 2, `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` — **populated through scan p.58**.
+- scan pp.38–60 — Unit 2, `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` — **reader-facing population complete**.
 
 The reader-facing text in this folder preserves the two speech editorial units and their printed order. Front matter remains documented in the source package but is not inserted into the speech transcript as spoken text.
