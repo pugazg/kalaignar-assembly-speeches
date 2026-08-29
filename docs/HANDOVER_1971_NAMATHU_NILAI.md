@@ -89,9 +89,9 @@ Scan pp.1–2 are publication front matter/source metadata and are not inserted 
 - English Gate-F first pass: **scan pp.3–60 complete — 58/58 speech pages**
 - Gate F: **complete**
 - Gate G English fidelity review: **in progress**
-- Gate-G reviewed range: **scan pp.3–18 — 16/58 pages**
+- Gate-G reviewed range: **scan pp.3–26 — 24/58 pages**
 - Gate-G blocking fidelity issues found so far: **0**
-- Gate-G non-blocking wording refinements queued: **7**
+- Gate-G non-blocking wording refinements queued: **10**
 - English verified: **no**
 
 ## Translation control records
@@ -141,47 +141,54 @@ Only after all Gate-G ranges and the final refinement/closure pass are complete 
 
 **Complete — semantic/source-fidelity PASS.**
 
-- all eight source-page boundaries present and correctly ordered;
-- no omitted or duplicated source content found;
-- headings, quotations, names, dates and figures retained;
-- no blocking mistranslation or unsupported factual addition found;
+- 8/8 page boundaries correct;
+- no omitted/duplicated content or blocking mistranslation;
 - no Official Report wording used;
-- no Tamil changes required;
-- **4 non-blocking wording refinements** queued.
+- 4 non-blocking wording refinements queued.
 
 ### G2 — scan pp.11–18
 
 **Complete — semantic/source-fidelity PASS.**
 
-G2 reviewed the political-killing/all-party appeal, progressive-policy and State Planning Commission passages, administrative reform, the 11-letter/patta sequence, service extensions, Tuticorin fertiliser and heavy-water projects, Salem steel-plant struggle, the National Development Council passage, the marriage/suitor analogy, revised-report discussion and the drought/food-production close.
+- 8/8 page boundaries correct;
+- p.10→11 and p.18→19 continuations intact;
+- no omitted/duplicated content or blocking mistranslation;
+- no Official Report wording used;
+- 3 additional non-blocking wording refinements queued.
+
+### G3 — scan pp.19–26
+
+**Complete — semantic/source-fidelity PASS.**
+
+G3 reviewed the industrial-growth and industrial-licence statistics, small-industry registrations, joint-sector/public-sector argument, Madras Aluminium example, educated-unemployment discussion, 6,500 teachers / 2,400 engineers / 1,795 placements, rural-employment scheme, Progressive Alliance/election-promise passages, Electricity Board recruitment, Tiruchi market price figures, pulses plan and `ஒன்றுபட்டு வாதாடுவோம்` close.
 
 Results:
 
-- all eight source-page boundaries present and correctly ordered;
-- continuation from scan p.10 into p.11 and p.18 into p.19 intact;
+- all 8 source-page boundaries present and correctly ordered;
+- p.18→19 continuation and p.26→27 boundary intact;
 - no omitted or duplicated source content found;
-- headings, quotations, names, institutions and numerical claims retained;
+- all checked names, headings and numerical claims retained;
 - no blocking mistranslation or unsupported factual addition found;
 - no Official Report wording used;
 - no Tamil changes required;
-- **3 additional non-blocking wording refinements** queued, bringing the total queue to **7**.
+- **3 additional non-blocking wording refinements** queued, bringing the total queue to **10**.
 
-G2 wording-refinement candidates:
+G3 wording-refinement candidates:
 
-1. scan p.11 — `leaders in every district below us` for `நமக்கு அடுத்து இருக்கிற ஒவ்வொரு மாவட்டத்திலுள்ள தலைவர்களும்`;
-2. scan p.13 — `That too is something that ought to be pointed out` for `அதுகூட அறிவிக்க வேண்டிய ஒன்றுதான்`;
-3. scan p.15 — review the precise English force of `ஆசியாவிலேயே மிகப் பெரிய திட்டம்` without importing an external factual ranking.
+1. scan p.19 — current English compresses `நம்முடைய நாட்டுக்குக் கிடைத்திருக்கின்றன. நம்முடைய மாநிலம் பெற்றிருக்கின்றது.` into a single `our State` formulation; review whether to preserve the source's restatement more visibly;
+2. scan p.23 — `விடிவெள்ளி` → `dawn-star`; retain the metaphor but review naturalness;
+3. scan p.26 — `ஒன்றுபட்டு வாதாடுவோம்` → `Let us argue together`; review the best source-controlled rendering of the collective policy/parliamentary force.
 
 These are wording-quality candidates, not blocking fidelity defects. Resolve them only from the verified Tamil.
 
 ## Exact next activity
 
-Continue **Gate G3 — scan pp.19–26**:
+Continue **Gate G4 — scan pp.27–34**:
 
-1. read the verified Tamil for scan pp.19–26 only from the source transcription controlled by `ACL-CPL_01726_நமது_நிலை.pdf`;
+1. read the verified Tamil for scan pp.27–34 only from the source transcription controlled by `ACL-CPL_01726_நமது_நிலை.pdf`;
 2. compare the corresponding English in `speeches/1971/1971-namathu-nilai/translation.md` page by page;
 3. check headings, paragraphs, quotations, names, figures, page continuations, rhetorical force and unsupported additions;
-4. record the full G3 ledger in `sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md`;
+4. record the full G4 ledger in `sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md`;
 5. update `PROGRESS.md`, metadata and relevant READMEs;
 6. if a blocking English fidelity error is found, correct it using only the verified Tamil;
 7. record non-blocking wording refinements separately for the consolidated refinement pass;
