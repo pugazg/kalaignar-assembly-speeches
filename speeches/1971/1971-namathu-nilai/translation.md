@@ -1,6 +1,6 @@
 # English translation — நமது நிலை
 
-> **Translation authority note:** This English is translated only from the verified Tamil in [`transcript.md`](./transcript.md), whose textual authority is `ACL-CPL_01726_நமது_நிலை.pdf`. No wording from Assembly/Council Official Reports is used. The page-by-page Gate-G fidelity review and consolidated source-controlled refinement pass are complete; the final closure check is still pending.
+> **Translation authority note:** This English is translated only from the verified Tamil in [`transcript.md`](./transcript.md), whose textual authority is `ACL-CPL_01726_நமது_நிலை.pdf`. No wording from Assembly/Council Official Reports is used. Gate F, the complete 58-page Gate-G fidelity review, the 34-item source-controlled refinement pass and the final closure check are complete. This English is verified against the verified booklet Tamil.
 
 ---
 
