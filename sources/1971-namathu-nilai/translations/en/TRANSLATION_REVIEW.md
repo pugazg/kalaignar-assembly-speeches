@@ -40,13 +40,15 @@ The Gate-G review is primarily a **fidelity review**, not a free copy-edit. Non-
 | G2 | 11–18 | 8 | **complete** | 0 |
 | G3 | 19–26 | 8 | **complete** | 0 |
 | G4 | 27–34 | 8 | **complete** | 0 |
-| G5 | 35–37 | 3 | pending | — |
+| G5 | 35–37 | 3 | **complete** | 0 |
 | G6 | 38–44 | 7 | pending | — |
 | G7 | 45–51 | 7 | pending | — |
 | G8 | 52–58 | 7 | pending | — |
 | G9 | 59–60 | 2 | pending | — |
 
-Reviewed so far: **32 / 58 speech pages** (`scan pp.3–34`).
+Reviewed so far: **35 / 58 speech pages** (`scan pp.3–37`).
+
+**Editorial Unit 1 is now fully reviewed through Gate G.**
 
 English remains **not verified** until every Gate-G batch and the final refinement/closure check are complete.
 
@@ -314,7 +316,61 @@ These are wording-quality candidates only; none currently changes the verified T
 13. scan p.34 — `righteous path` for `அறவழி முறையில்` preserves the moral/non-violent idea but is stiff English; review a natural source-controlled rendering without borrowing wording from Official Reports.
 14. scan p.34 — `unanimous declaration` for `ஏகோபித்த வாசகம்` is semantically serviceable but may over-specify `வாசகம்`; review whether `unanimous formulation / common voice / message` better preserves the printed phrase.
 
-These candidates must be resolved only from the verified booklet Tamil and immediate booklet context.
+---
+
+## G5 — scan pp.35–37
+
+### Overall result
+
+**PASS for semantic/source fidelity.**
+
+The existing English covers every verified Tamil paragraph from scan p.35 through scan p.37 in the correct booklet order. All three source-page markers are present at the required boundaries. The p.34 anti-secession close flows correctly into the land-reform discussion on p.35, and p.37 closes Editorial Unit 1 cleanly before the printed Unit 2 heading begins on p.38.
+
+No Tamil change was required. No blocking English omission, duplication, unsupported factual addition, numerical error, quotation loss, heading loss, speaker-label loss, or source-order error was found.
+
+No Assembly/Council Official Report wording was used in this review.
+
+### Page-by-page ledger
+
+| Scan page | Review result | Checked features |
+|---:|---|---|
+| 35 | **PASS** | revolutionary/socialist-policy criticism; Manali Kandasami and K. T. K. Thangamani land-reform references; `நிலமில்லாதோர் இல்லை என்ற நிலை`; 50-cent land / 15-`குழி` house-site passage; bus-ceiling statement and `ரெட்ராஸ்பெக்டிவ் எஃபக்ட்`; `வேடுவர்கள் சூழ்ந்த மான்` opening; Legislative Council prohibition appeal; Anna's prohibition commitment; Tamil Nadu/Gujarat and all-India prohibition argument. |
+| 36 | **PASS** | 50-mile Pondicherry / Andhra / Bangalore framing and Kerala; deer-surrounded-by-hunters metaphor; lost-revenue point; explicit admission that prohibition had failed; sarcastic `ஆகா! மகாப் பெரிய வெற்றி!`; sacred-policy argument; `குதிரைப் பந்தயம் ஏன்?`; neighbouring-State revenue point; `தீண்டாமை ஒழிப்பு`; Adi Dravida / Andhra illustration; Gandhi/Congress prohibition comparison. |
+| 37 | **PASS** | T. K. Shanmugam's prohibition song and `தொகையறா` joke; warning to newspapermen not to infer repeal; appeal to all parties to reconsider implementation under the stated circumstances; Krishnaswami Naidu (Nijalingappa Congress) intervention on behalf of two crore women; Chief Minister's clarification; exact Unit 1→Unit 2 boundary before scan p.38. |
+
+### Numerical and named-entity check
+
+The reviewed English preserves the source-specific values and names in this range, including:
+
+- land: `50 cents` and `15-kuzhi` house site;
+- prohibition geography: `50 miles` to Pondicherry, Andhra-border and Bangalore references, with Kerala as the fourth side;
+- source claim that prohibition was then implemented in Tamil Nadu and Gujarat;
+- Krishnaswami Naidu's appeal on behalf of `two crore` women;
+- names and labels including Manali Kandasami, K. T. K. Thangamani, Ananthanayaki, Perarignar Anna, T. K. Shanmugam, Krishnaswami Naidu, Legislative Assembly, Legislative Council and Nijalingappa Congress.
+
+### Rhetoric / metaphor check
+
+The English retains the major source rhetoric and humour of the Unit 1 close:
+
+- `நிலமில்லாதோர் இல்லை என்ற நிலை`;
+- `வேடுவர்கள் சூழ்ந்த மான்` and the four-sided geographical image;
+- the deliberately sarcastic `ஆகா! மகாப் பெரிய வெற்றி!`;
+- the contrast between a `புனிதமான` prohibition policy and its admitted failure in practice;
+- the horse-racing / neighbouring-State revenue argument;
+- the all-India untouchability comparison;
+- T. K. Shanmugam's song / `தொகையறா` joke;
+- the Chief Minister's final clarification that he had asked members to think, not announced repeal.
+
+### Non-blocking wording-refinement queue from G5
+
+These are source-fidelity or natural-English refinements for the consolidated pass; none changes the core meaning enough to block the page-level Gate-G pass:
+
+15. scan p.35 — `a ceiling on buses` is a deliberately literal first-pass rendering of `பஸ் உச்சவரம்பு`, but it is awkward English. Refine only from the printed Tamil and immediate context; do not infer an unprinted ownership formula from outside records.
+16. scan p.36 — `corrupts the integrity of many people` for `பலரது நாணயத்தையும் கெடுக்கிறது` is semantically close but stiff; review a natural English expression that retains the source's moral/honesty sense.
+17. scan p.36 — `if what used to happen here happened there` introduces a past-tense clarification not explicitly printed in `இங்கு நடப்பது போல அங்கு நடந்தால்`; revise during the consolidated pass toward a temporally neutral/source-closer formulation rather than silently resolving the booklet's rhetoric.
+18. scan p.37 — `he would perhaps sing a thogaiyara in anger` slightly softens the force of `ஆங்காரமாக தொகையறாவே பாடிவிடுவார்கள்`; retain `thogaiyara` but review the strength and naturalness of the English verb phrase.
+
+These candidates must be resolved only from the verified booklet Tamil and its immediate context.
 
 ## Consolidated non-blocking queue status
 
@@ -322,10 +378,23 @@ These candidates must be resolved only from the verified booklet Tamil and immed
 - G2 candidates: **3**
 - G3 candidates: **3**
 - G4 candidates: **4**
-- total queued after G4: **14**
+- G5 candidates: **4**
+- total queued after G5: **18**
+
+## Unit 1 Gate-G milestone
+
+Editorial Unit 1 (`scan pp.3–37`) has now completed page-by-page Gate-G semantic/source-fidelity review:
+
+- reviewed speech pages: **35 / 35**;
+- blocking fidelity issues found: **0**;
+- non-blocking refinement candidates queued: **18** across G1–G5;
+- verified Tamil changed: **no**;
+- Official Report wording used: **none**.
+
+This milestone does **not** mark the full English translation verified. Unit 2 and the final consolidated refinement/closure pass remain outstanding.
 
 ## Exact continuation point
 
-Proceed with **G5 — scan pp.35–37**.
+Proceed with **G6 — scan pp.38–44**, beginning Editorial Unit 2.
 
 Review the existing English against the verified booklet Tamil page by page; record any blocking fidelity corrections and any non-blocking refinement candidates here. Do not change the verified Tamil unless a direct booklet-scan recheck independently proves a transcription error.
