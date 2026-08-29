@@ -16,7 +16,7 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 - Do not import Official Report wording.
 - Record definite idiomatic/non-literal choices when needed.
 
-## Locked terms encountered through scan p.37
+## Locked terms encountered through scan p.44
 
 | Tamil source form | English rendering | Note |
 |---|---|---|
@@ -29,8 +29,8 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 | `மாமன்றம்` | `House` | Parliamentary context. |
 | `திராவிட முன்னேற்றக் கழகம்` | `Dravida Munnetra Kazhagam` | Full party name retained. |
 | `நிஜலிங்கப்பா காங்கிரஸ்` | `Nijalingappa Congress` | Source-period party label. |
-| `சுதந்திராக் கட்சி` | `Swatantra Party` | Source-period party name. |
-| `முஸ்லீம் லீக்` | `Muslim League` | Consistent party rendering. |
+| `சுதந்திராக் கட்சி` / `சுதந்திரா கட்சி` / `சுதந்திரக் கட்சி` | `Swatantra Party` | Source-period party name; Tamil variants remain untouched. |
+| `முஸ்லீம் லீக்` / `முஸ்லிம் லீக்` | `Muslim League` | Consistent party rendering. |
 | `இந்திரா காங்கிரஸ்` | `Indira Congress` | Source-period label. |
 | `மாநிலங்களவை` | `Rajya Sabha` | Institutional rendering. |
 | `குறை` / `குற்றம்` | `shortcoming` / `offence` | Preserve the explicit rhetorical distinction. |
@@ -38,7 +38,8 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 | `ஜாமீன் தொகை` | `security deposit` | Press-law context. |
 | `எழுத்து உரிமை` | `right to write` | Source formulation retained closely. |
 | `நீதி மன்றம்` | `court` | Standard rendering. |
-| `இடைக்கால நிதி நிலை அறிக்கை` | `Interim Budget Statement` | Period fiscal-document rendering. |
+| `இடைக்கால நிதி நிலை அறிக்கை` / `இடைக்கால நிதிநிலை அறிக்கை` | `Interim Budget Statement` | Period fiscal-document rendering; source spacing variants remain in Tamil. |
+| `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` | `Chief Minister's reply to the Budget Statement debate` | Unit 2 printed heading. |
 | `மாநிலத் திட்டக் குழு` | `State Planning Commission` | Institution announced in the Governor's Address. |
 | `நிர்வாகச் சீர்திருத்த ஆணைக் குழு` / `நிர்வாகச் சீர்திருத்தக் குழு` | `Administrative Reforms Commission` | One consistent English institutional rendering. |
 | `பட்டா` | `patta` | Land-administration term retained. |
@@ -86,8 +87,18 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 | `தீண்டாமை ஒழிப்பு` | `abolition of untouchability` | Direct social-policy rendering. |
 | `ஆதி திராவிட` | `Adi Dravida` | Source social-category wording retained rather than replaced. |
 | `தொகையறா` | `thogaiyara` | Source musical term transliterated at Gate F; no outside gloss is imported. |
+| `பார்வேர்ட் ப்ளாக்` / `பார்வார்ட் பிளாக்` | `Forward Bloc` | Two source spellings; one English party rendering. |
+| `பி.எஸ்.பி.` | `P.S.P.` | Source party abbreviation retained as an abbreviation; no outside expansion imported. |
+| `தமிழரசுக் கழகம்` | `Tamil Arasu Kazhagam` | Source party/organisation name transliterated. |
+| `சிலம்புச் செல்வர்` | `Silambu Selvar` | Source honorific retained without importing an outside gloss. |
+| `நஞ்சை` / `புஞ்சை` | `wet land` / `dry land` | Land-tax context; no conversion or outside definition added. |
+| `ரிஜிஸ்டிரேஷன்` | `registration` | Revenue/fee context. |
+| `மான்யம்` | `grant` | Government-finance context. |
+| `எல்.ஐ.சி.` | `L.I.C.` | Source abbreviation retained in English. |
+| `ஓவர் டிராப்ட்` | `overdraft` | Source English-derived finance term restored to standard English. |
+| `கார்ப்பரேஷன்` / `மாநகராட்சி மன்றம்` | `Corporation` / `Corporation Council` | Preserve the source's institutional contrast with the State Government. |
 
-## Names encountered through scan p.37
+## Names encountered through scan p.44
 
 - `வேழவேந்தன்` → `Vezhavendan`
 - `பொன்னப்ப நாடார்` → `Ponnappa Nadar`
@@ -114,6 +125,11 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 - `முஜிபுர் ரகுமான்` → `Mujibur Rahman`
 - `ராஜாராம் நாயுடு` / `திரு.ராஜாராம்` → `Rajaram Naidu` / `Thiru Rajaram`
 - `டி. கே. சண்முகம்` → `T. K. Shanmugam`
+- `பெருமாள்` → `Perumal`
+- `மாரிமுத்து` → `Marimuthu`
+- `தியாகராஜன்` → `Thiyagarajan`
+- `லத்தீப்` → `Latheef`
+- `அன்புச்செழியன்` → `Anbuchezhiyan`
 
 These English forms are consistency renderings of names printed in Tamil; they do not authorize source-text changes.
 
@@ -134,7 +150,7 @@ These English forms are consistency renderings of names printed in Tamil; they d
 
 The first-pass English preserves source titles as transliterated or directly rendered source forms rather than silently replacing them with outside-standardised titles.
 
-## Rhetoric / idiom decisions through scan p.37
+## Rhetoric / idiom decisions through scan p.44
 
 | Tamil | English | Note |
 |---|---|---|
@@ -167,6 +183,16 @@ The first-pass English preserves source titles as transliterated or directly ren
 | `ஆகா! மகாப் பெரிய வெற்றி!` | `Ah! A tremendously great success!` | Keeps the sarcastic exclamation in the prohibition passage. |
 | `குதிரைப் பந்தயம் ஏன்?` | `Why horse racing?` | Direct printed heading. |
 | `தீண்டாமை ஒழிப்பு` | `Abolition of untouchability` | Direct printed heading. |
+| `ஆற்றல் படைத்தவர்கள்` | `Members of ability` | Keeps the Unit 2 heading compact. |
+| `எதிர்க்கட்சிகள் வரிசை` | `The Opposition ranks` | Parliamentary seating/political grouping context. |
+| `தோழமை உணர்ச்சி` | `A spirit of comradeship` | Preserves the source's collegial political register. |
+| `குட்டியைக் கவ்வும் பூனை` | `The cat carrying its kitten` | Printed heading retained; the kitten/mouse contrast in Anna's analogy is preserved rather than explained through outside context. |
+| `காரம் இருக்காது. என்றாலும் சாரம் அதிகமாக இருக்கும்.` | `There will be no spice in his speech. Even so, there will be much substance.` | Preserve the sound/rhetorical contrast in the Marimuthu passage. |
+| `மின்விசிறியைப் போல் சுழன்று கொண்டு` | `spinning like that electric fan` | Latheef passage; retain the printed metaphor. |
+| `ஜூன் மாதத்தில் விரிந்த நிலையில் கொள்கை விளக்கம்` | `A fuller policy explanation in June` | First-pass heading rendering. |
+| `தாங்கக்கூடியவர்களுக்கு வரி` | `Tax those who can bear it` | Progressive-taxation heading rendered directly. |
+| `வருமானம் உயர்ந்ததின் காரணம்` | `The reason revenue increased` | Direct heading rendering. |
+| `எல்.ஐ.சி.-யிடமிருந்து மாநகராட்சி பெற்ற கடன்` | `Loan obtained by the Corporation from L.I.C.` | Direct financial heading. |
 
 ## Pending recurring terms
 
@@ -176,4 +202,4 @@ Lock this only when encountered in the working translation.
 
 ## Current state
 
-Gate F has completed its first pass through scan p. **37**. Reader-facing speech/translation coverage is **scan pp.3–37**. Editorial Unit 1 is complete. Next continuation: **scan p.38**, opening Unit 2.
+Gate F has completed its first pass through scan p. **44**. Reader-facing speech/translation coverage is **scan pp.3–44**. Editorial Unit 1 is complete; Editorial Unit 2 is populated through scan p.44. Next continuation: **scan p.45**.
