@@ -40,16 +40,16 @@ Other Assembly/Council PDFs are reference/provenance sources only. Their wording
 - Tamil source package itself: **complete and visually verified, 60/60 scan pages**.
 - Confirmed source corrections: **175**.
 - Unresolved Tamil readings: **0**.
-- Speech-folder Tamil populated so far: **scan pp.3–5**.
-- English populated so far: **scan pp.3–5**.
+- Speech-folder Tamil populated so far: **scan pp.3–10**.
+- English populated so far: **scan pp.3–10**.
 - English fidelity review: **not yet complete**.
 
-The next population batch begins at **source scan p.6**.
+The next population batch begins at **source scan p.11**.
 
 ## Source structure
 
-- scan pp.1–2 — cover / publication introduction and imprint;
+- scan pp.1–2 — cover / publication introduction and imprint; retained as source metadata rather than speech text in this folder;
 - scan pp.3–37 — Unit 1, `நமது நிலை`, Governor-address reply compilation;
 - scan pp.38–60 — Unit 2, `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்`.
 
-The reader-facing text in this folder will preserve those two editorial units and their printed order.
+The reader-facing text in this folder preserves the two speech editorial units and their printed order. Front matter remains documented in the source package but is not inserted into the speech transcript as spoken text.
