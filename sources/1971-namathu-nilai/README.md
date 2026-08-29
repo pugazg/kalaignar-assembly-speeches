@@ -18,10 +18,11 @@ The speech and its working English translation are being populated under:
 
 Current coverage there:
 
-- Tamil: scan pp. **3–34**
-- English: scan pp. **3–34**
-- speech-page coverage: **32 / 58**
-- next page: **scan p.35**
+- Tamil: scan pp. **3–37**
+- English: scan pp. **3–37**
+- speech-page coverage: **35 / 58**
+- Editorial Unit 1: **complete**
+- next page: **scan p.38**, opening Editorial Unit 2
 
 The entry preserves the booklet as an edited two-House compilation and does not reconstruct separate Assembly/Council transcripts. Scan pp.1–2 remain publication front matter/source metadata and are not inserted into the speech transcript as spoken text.
 
@@ -91,7 +92,7 @@ Control files remain here:
 
 Actual reader-facing English is maintained only in the `speeches/` entry to avoid duplicate independently editable copies.
 
-Gate-F first-pass coverage is now **scan pp.3–34**. Next batch: **scan pp.35–37**, completing Unit 1.
+Gate-F first-pass coverage is now **scan pp.3–37**. Editorial Unit 1 is complete. Next batch: **F6 — scan pp.38–44**, opening `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்`.
 
 ## Handover
 
