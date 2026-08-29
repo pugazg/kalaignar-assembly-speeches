@@ -2,17 +2,20 @@
 
 ## Status
 
-**PAGE-BY-PAGE GATE-G REVIEW COMPLETE — consolidated refinement and closure pending.**
+**PAGE-BY-PAGE GATE-G REVIEW COMPLETE — CONSOLIDATED REFINEMENT COMPLETE — FINAL CLOSURE PENDING.**
 
-Gate F first-pass English is complete for all 58 speech pages (`scan pp.3–60`). Gate G has now reviewed all 58 speech pages against the verified booklet Tamil.
+Gate F first-pass English is complete for all 58 speech pages (`scan pp.3–60`). Gate G reviewed all 58 pages against the verified booklet Tamil, and the subsequent consolidated source-controlled refinement pass has now resolved all 34 queued wording candidates.
 
 - reviewed: **58 / 58 speech pages** (`scan pp.3–60`)
-- Editorial Unit 1: **35/35 pages reviewed — complete**
-- Editorial Unit 2: **23/23 pages reviewed — complete**
+- Editorial Unit 1: **35/35 reviewed — complete**
+- Editorial Unit 2: **23/23 reviewed — complete**
 - blocking fidelity issues found: **0**
-- non-blocking refinement candidates queued: **34**
-- verified Tamil changes during Gate G: **none**
-- English verified: **no — consolidated refinement and final closure remain**
+- queued refinement candidates: **34 / 34 decided**
+- reader-facing English revisions applied from queue: **33**
+- deliberate source-literal retention: **1** (`சொத்து உரிமை` → `property rights`)
+- verified Tamil changes during Gate G/refinement: **none**
+- Official Report wording used: **none**
+- English verified: **no — final closure check remains**
 
 ## Non-negotiable authority rule
 
@@ -20,167 +23,98 @@ The only review and refinement authority is the verified Tamil derived from:
 
 `ACL-CPL_01726_நமது_நிலை.pdf`
 
-The verified Tamil transcription under `sources/1971-namathu-nilai/transcription/` controls every decision.
+The verified Tamil transcription under `sources/1971-namathu-nilai/transcription/` controls every decision. Tamil Nadu Legislative Assembly and Legislative Council Official Reports are reference/provenance only and must not supply English wording, corrections, missing passages, terminology or reconstructed House text.
 
-Tamil Nadu Legislative Assembly and Legislative Council Official Reports are reference/provenance only. They must not supply English wording, corrections, missing passages, terminology or reconstructed House text.
+## Gate-G page-review tracker
 
-## Review method
-
-For each source page Gate G checked source-page continuity; headings and speaker labels; paragraph coverage; names, dates and institutions; figures and units; quotations; semantic and rhetorical fidelity; unsupported additions; and absence of Official Report wording.
-
-Gate G was a fidelity review, not a free copy-edit. Non-blocking wording refinements were deliberately queued for one consolidated source-controlled pass after page-level review.
-
-## Gate-G tracker
-
-| Batch | Scan pages | Speech pages | Status | Blocking fidelity issues |
+| Batch | Scan pages | Speech pages | Result | Blocking issues |
 |---|---:|---:|---|---:|
-| G1 | 3–10 | 8 | **complete** | 0 |
-| G2 | 11–18 | 8 | **complete** | 0 |
-| G3 | 19–26 | 8 | **complete** | 0 |
-| G4 | 27–34 | 8 | **complete** | 0 |
-| G5 | 35–37 | 3 | **complete** | 0 |
-| G6 | 38–44 | 7 | **complete** | 0 |
-| G7 | 45–51 | 7 | **complete** | 0 |
-| G8 | 52–58 | 7 | **complete** | 0 |
-| G9 | 59–60 | 2 | **complete** | 0 |
+| G1 | 3–10 | 8 | **PASS** | 0 |
+| G2 | 11–18 | 8 | **PASS** | 0 |
+| G3 | 19–26 | 8 | **PASS** | 0 |
+| G4 | 27–34 | 8 | **PASS** | 0 |
+| G5 | 35–37 | 3 | **PASS** | 0 |
+| G6 | 38–44 | 7 | **PASS** | 0 |
+| G7 | 45–51 | 7 | **PASS** | 0 |
+| G8 | 52–58 | 7 | **PASS** | 0 |
+| G9 | 59–60 | 2 | **PASS** | 0 |
 
-## Completed batch summary
+The page-level review confirmed source-page continuity, headings, interventions/speaker labels, paragraph coverage, names, dates, institutions, figures, units, quotations, rhetoric and absence of unsupported additions. No Assembly/Council Official Report wording was used in any batch.
 
-- **G1, pp.3–10:** election verdict, quotations, Salem incident, press/play/book restrictions and election-period murders — PASS.
-- **G2, pp.11–18:** political-killing appeal, progressive policy, administrative reform, Tuticorin projects, Salem steel plant and drought/food-production — PASS.
-- **G3, pp.19–26:** industrial growth, employment, Electricity Board, price statistics and pulses plan — PASS.
-- **G4, pp.27–34:** Central funding, Planning Commission criteria, slums/relief, State powers, Mujibur Rahman and anti-secession framing — PASS.
-- **G5, pp.35–37:** land reform, bus ceiling, prohibition, horse racing, untouchability and Unit 1 close — PASS.
-- **G6, pp.38–44:** Unit 2 opening, East Bengal, House composition, Opposition leaders, metaphors, taxation and L.I.C. loan opening — PASS.
-- **G7, pp.45–51:** L.I.C./Corporation figures, SIDCO/small industries, tractors, slum housing, agriculture, education and electrification — PASS.
-- **G8, pp.52–58:** backward-welfare measures, Harijan-colony access/electrification, rights voice, parliamentary struggle, violence warning, `எழுச்சி நாள்`, `காவடி`, State autonomy, Delhi-echo argument, Indira support and anti-Hindi close — PASS.
-- **G9, pp.59–60:** Purananuru-mother framing, State Planning Commission / ten-year plan and final `உரிமைக் குரல்` / State-autonomy close — PASS.
+## Consolidated refinement decisions — 34 / 34
 
-No Assembly/Council Official Report wording was used in any Gate-G batch.
+The decisions below were made only from the verified booklet Tamil and immediate booklet context. They do not modernise the source or reconcile it with external legislative records.
 
----
+| # | Scan page | Source-controlled decision | Final English treatment |
+|---:|---:|---|---|
+| 1 | 4 | Naturalise `fraud in the ballot paper`. | Revised to `fraud involving the ballot papers`. |
+| 2 | 5 | Naturalise `வழக்காடப்போவதாக ... குறும்புத்தனமானது`. | Revised to `The report that I intend to take legal action is mischievous.` |
+| 3 | 6 | Harmonise explicit `குறை / குற்றம்` distinction. | Heading revised to `A shortcoming is one thing; an offence is another.` |
+| 4 | 8 | `உட்பொருள்` does not require `merits`. | Revised to `the substance of those actions`. |
+| 5 | 11 | Remove awkward `district below us` while retaining organisational sequence. | Revised to `the leaders in each district at the next level and the branch organisations`. |
+| 6 | 13 | `அறிவிக்க வேண்டிய` is closer to making something known than `pointed out`. | Revised to `That too is something that should be made known.` |
+| 7 | 15 | Preserve printed emphatic `ஆசியாவிலேயே மிகப் பெரிய திட்டம்`; no external fact-checking. | Revised body claim to `It is the largest project in Asia.` |
+| 8 | 19 | Preserve paired `நம்முடைய நாட்டுக்கு / நம்முடைய மாநிலம்` restatement. | Revised to `several other large factories have come to our country; our State has received them.` |
+| 9 | 23 | Retain `விடிவெள்ளி` metaphor in more natural English. | Revised `dawn-star` to `morning star`. |
+| 10 | 26 | Preserve collective argumentative/policy force of `ஒன்றுபட்டு வாதாடுவோம்`. | Heading revised to `Let us argue our case together`. |
+| 11 | 29 | Reduce cumbersome interpretation in Hande's `dissenting note` sentence. | Revised to `so that they would be officially recorded and accepted in practice`. |
+| 12 | 31 | Naturalise fiscal-scale syntax without inventing a budget category. | Revised to `a Slum Clearance Board on a scale of Rs. 40 crore`. |
+| 13 | 34 | Naturalise `அறவழி` without importing Official Report wording. | Revised `righteous path` to `principled path`. |
+| 14 | 34 | `வாசகம்` need not be over-specified as a declaration. | Revised `unanimous declaration` to `unanimous message`. |
+| 15 | 35 | Improve literal `பஸ் உச்சவரம்பு` without inferring an ownership formula. | Revised to `an upper limit on buses`. |
+| 16 | 36 | Preserve `நாணயம்` moral/honesty sense naturally. | Revised to `undermines the honesty of many people`. |
+| 17 | 36 | Remove unsupported past-tense clarification. | Revised to `if what happens here were to happen there`. |
+| 18 | 37 | Restore force of `ஆங்காரமாக` while retaining source musical term. | Revised to `he would sing a thogaiyara in a fury`. |
+| 19 | 38 | Naturalise `உலக அரசியல் சட்டங்களுக்கு அப்பாற்பட்டு மனிதாபிமானத்தோடு`. | Recast as looking `beyond the rules of world politics` and acting `from a humanitarian standpoint/on humanitarian grounds`. |
+| 20 | 38 | Naturalise `அவர் வழி நின்று ஆட்சி நடாத்தி`. | Revised to `governing for four years by following his path`. |
+| 21 | 43 | Retain printed `இடைக்கால` while improving registration-revenue syntax. | Revised to `the interim figure for registration revenue`. |
+| 22 | 44 | Restore source rhetorical force without exaggeration. | Revised `somewhat alarming claim` to `a rather startling allegation`. |
+| 23 | 46 | Preserve SIDCO's printed English expansion plus Tamil explanatory element without exact duplication. | Revised to `Small Industries Development Corporation, the small-industries development body`. |
+| 24 | 47 | `சொத்து உரிமை` is itself unclear as a fiscal head; outside classification is prohibited. | **Retained** source-literal `property rights`; ambiguity intentionally preserved. |
+| 25 | 48 | Retain deliberate `பழைய அரசு—மிகப் பழைய அரசு` joke/repetition more naturally. | Revised to `the old Government — and by "old Government" I mean the really old Government`. |
+| 26 | 50 | Improve syntax of `முதல் (ஃபர்ஸ்ட் பார்ட்) திட்டமாக` without inferring a planning category. | Revised to `even under the first (first part) plan`. |
+| 27 | 52 | Naturalise heading without modernising social terminology. | Revised to `Assistance to improve the condition of backward people`. |
+| 28 | 54 | Preserve emphatic `பாராட்டப் பெரிதும் கடமைப்பட்டிருக்கிறேன்`. | Revised to `I am deeply obliged to commend the concern...`. |
+| 29 | 55 | Preserve heart/purity image naturally. | Heading/body revised to `Praise offered with a pure heart` / `the praise they offered with a pure heart`. |
+| 30 | 57 | `அறுத்துக்கொள்ள வேண்டும்` is reflexive and contextually ambiguous; do not resolve from outside records. | Revised both instances from `wrest it free` to the closer but still open `cut ourselves free`. |
+| 31 | 59 | Avoid ethnographic over-specification of `மறவர் குல மங்கை`. | Revised to `a Maravar woman`. |
+| 32 | 59 | Preserve `நம் நாட்டிற்கு` without forcing India/Tamil Nadu state semantics. | Revised `our State` to `our land`. |
+| 33 | 60 | Preserve source's shift from Commission label to generic `குழு`. | Revised `the committee's report` to `that body's report`. |
+| 34 | 60 | Naturalise rhetoric while preserving printed Rahman reference and avoiding outside interpretation. | Revised to `bring forth Rahmans in State after State`. |
 
-## G9 — scan pp.59–60
+## Source-sensitive decisions deliberately preserved
 
-### Overall result
+The refinement pass did **not** reconcile source anomalies or ambiguities. In particular:
 
-**PASS for semantic/source fidelity.**
+- scan p.46 retains the printed `Rs.50 lakh → Rs.20 lakh` allegation and later `Rs.50 lakh → Rs.24 lakh` clarification;
+- scan p.47 retains `property rights` for `சொத்து உரிமை` rather than substituting an external fiscal classification;
+- scan p.50 retains the printed `first (first part)` wording rather than inferring an unprinted planning category;
+- scan p.57 retains the ambiguity of `அறுத்துக்கொள்ள வேண்டும்` through the closer `cut ourselves free` rather than reconstructing an intended political meaning;
+- scan p.60 retains the printed Rahman rhetorical reference without importing external historical explanation.
 
-The existing English covers every verified Tamil paragraph from scan p.59 through scan p.60 in booklet order. Both source-page markers are present at the required boundaries. The p.58 anti-Hindi close flows correctly into the Congress-member / Purananuru-mother passage on p.59, and p.60 ends at the booklet's final `உரிமைக் குரல்` sentence with no added legislative wording.
+## Refinement milestone
 
-No Tamil change was required. No blocking English omission, duplication, unsupported factual addition, numerical error, heading loss, quotation loss or source-order error was found.
+The reader-facing English in:
 
-### Page-by-page ledger
+`speeches/1971/1971-namathu-nilai/translation.md`
 
-| Scan page | Review result | Checked features |
-|---:|---|---|
-| 59 | **PASS** | `வணங்காதீர்கள், வளையாதீர்கள்`; Congress member; `மறவர் குல மங்கை`; `புறநானூற்றுத் தாய்`; direct/indirect cooperation framing; `மாநிலத் திட்டக் குழு, போட்டிக் குழு அல்ல !`; State Planning Commission; ten-year planning horizon; population, opportunities/facilities, education, medicine, agriculture and water-scarcity questions; report and plan-framing sequence; exact continuation into p.60. |
-| 60 | **PASS** | Planning Commission report usefulness; 1972-73 Budget timing; draft-plan discussion; `உரிமைக் குரல்`; decentralisation and greater political/social/economic powers for States; Central-power concentration / tied-hands image; Pakistan / East Pakistan / Rahman rhetorical sequence; final statement that the Budget echoes Tamil Nadu people's rights voice through parliamentary methods. |
+has now completed:
 
-### Numerical and named-entity check
+- Gate-F first pass: **58/58 pages**;
+- Gate-G page-level fidelity review: **58/58 pages, 0 blocking issues**;
+- consolidated source-controlled refinement: **34/34 candidate decisions complete**.
 
-The reviewed English preserves the source-specific values and labels in this range, including:
-
-- planning horizon: **10 years**;
-- next Budget reference: **1972-73**;
-- Congress Party, State Planning Commission, Central Planning Commission context, Pakistan and East Pakistan;
-- the source's `ரகுமான்களை` / Rahman reference without external historical reconstruction.
-
-### Rhetoric / source-framing check
-
-The English retains the principal source rhetoric:
-
-- `வணங்காதீர்கள், வளையாதீர்கள்` as the paired bow/bend injunction;
-- the `புறநானூற்றுத் தாய்` image;
-- the explicit statement that the State Planning Commission is not a rival to the Central body;
-- the ten-year forward-planning sequence;
-- the tied-hands image for States under concentrated Central power;
-- the Pakistan / East Pakistan / `ரகுமான்களை` rhetorical warning;
-- the closing `உரிமைக் குரல்` and parliamentary-method framing.
-
-### G9 non-blocking refinement candidates
-
-31. scan p.59 — `woman of the Maravar clan` for `மறவர் குல மங்கை` is understandable but `clan` may over-specify the social term; review a natural source-controlled rendering without adding ethnographic explanation.
-32. scan p.59 — `Many more plans must still be framed for our State` renders `இன்னும் நம் நாட்டிற்குப் பல்வேறு திட்டங்களை அமைக்க வேண்டும்`; review whether `our State` is the best contextual English or whether the printed `நம் நாட்டிற்கு` should remain more visibly represented as `our land`/similar.
-33. scan p.60 — `the committee's report` for `அந்தக் குழுவின் அறிக்கை` follows the source's shortened `குழு`, but the preceding institutional label is State Planning Commission; review consistency without erasing the source's own shift in wording.
-34. scan p.60 — `create Rahmans from State to State` for `மாநிலத்திற்கு மாநிலம் ரகுமான்களைத் தோற்றுவிக்க` is deliberately literal but awkward English; refine the rhetoric naturally while preserving the printed Rahman reference and without importing outside interpretation.
-
----
-
-## Consolidated non-blocking refinement queue
-
-### G1
-1. p.4 — `fraud in the ballot paper` — grammatical naturalness.
-2. p.5 — `The report that I am going to litigate is mischievous` — natural English for `வழக்காடப்போவதாக ... குறும்புத்தனமானது`.
-3. p.6 — `A flaw is one thing; an offence is another.` — harmonise `குறை / குற்றம்`.
-4. p.8 — `merits of those actions` — review against `உட்பொருள்`.
-
-### G2
-5. p.11 — `leaders in every district below us` — organisational phrasing.
-6. p.13 — `ought to be pointed out` — review against `அறிவிக்க வேண்டிய`.
-7. p.15 — `one of the largest projects in Asia` — restore the printed emphatic force of `ஆசியாவிலேயே மிகப் பெரிய திட்டம்` without external fact-checking.
-
-### G3
-8. p.19 — preserve the source's paired `நம்முடைய நாட்டுக்கு / நம்முடைய மாநிலம்` restatement more visibly.
-9. p.23 — `விடிவெள்ளி` → `dawn-star` — retain metaphor but improve naturalness.
-10. p.26 — `ஒன்றுபட்டு வாதாடுவோம்` → `Let us argue together` — refine collective policy/parliamentary force.
-
-### G4
-11. p.29 — Hande `dissenting note` sentence — reduce cumbersome interpretation.
-12. p.31 — `Slum Clearance Board on the scale of Rs.40 crore` — natural fiscal-scale wording.
-13. p.34 — `righteous path` for `அறவழி` — natural source-controlled English.
-14. p.34 — `unanimous declaration` for `ஏகோபித்த வாசகம்` — review exact force of `வாசகம்`.
-
-### G5
-15. p.35 — `a ceiling on buses` for `பஸ் உச்சவரம்பு` — improve English without importing an unprinted ownership formula.
-16. p.36 — `corrupts the integrity of many people` for `நாணயத்தையும் கெடுக்கிறது` — improve naturalness.
-17. p.36 — `if what used to happen here happened there` — remove unsupported past-tense clarification.
-18. p.37 — `would perhaps sing a thogaiyara in anger` — restore force of `ஆங்காரமாக` while retaining `thogaiyara`.
-
-### G6
-19. p.38 — `with humanitarian concern beyond the laws of world politics` — improve naturalness without outside interpretation.
-20. p.38 — `standing in his path and governing for four years` — naturalise Anna-path framing.
-21. p.43 — `interim revenue from registration` — improve syntax while retaining printed `இடைக்கால`.
-22. p.44 — `somewhat alarming claim` — review rhetorical force of `கொஞ்சம் பயங்கரமான ஒரு விஷயம்`.
-
-### G7
-23. p.46 — duplicated `Small Industries Development Corporation` — preserve both source English expansion and Tamil explanatory element without awkward repetition.
-24. p.47 — `property rights` for `சொத்து உரிமை` — unclear revenue-head wording; do not substitute an outside fiscal classification.
-25. p.48 — `old Government — very old Government` — retain deliberate joke/repetition more naturally.
-26. p.50 — `first (first part) plan` — improve syntax without inferring an unprinted planning category.
-
-### G8
-27. p.52 — `Assistance to raise the condition of backward people` — naturalise heading `பின்தங்கியவர்கள் நிலை உயர உதவிகள்` without modernising terminology.
-28. p.54 — `I am greatly obliged to appreciate the concern...` — improve English while retaining emphatic obligation/appreciation.
-29. p.55 — `Praise with purity of heart` — preserve heart/purity image in more natural English.
-30. p.57 — `அறுத்துக்கொள்ள வேண்டும்` currently `wrest it free` — **high-priority source-closeness review**; preserve ambiguity where necessary and do not resolve from outside records.
-
-### G9
-31. p.59 — `Maravar clan` — review social-term naturalness without outside gloss.
-32. p.59 — `our State` for `நம் நாட்டிற்கு` — review source closeness/context.
-33. p.60 — `committee's report` after State Planning Commission — review consistency without silently normalising source variation.
-34. p.60 — `create Rahmans from State to State` — naturalise while preserving printed rhetoric and name.
-
-Total queued: **34**.
-
-## Gate-G page-review milestones
-
-- Editorial Unit 1 (`scan pp.3–37`): **35/35 reviewed, 0 blocking issues**.
-- Editorial Unit 2 (`scan pp.38–60`): **23/23 reviewed, 0 blocking issues**.
-- Full booklet speech range (`scan pp.3–60`): **58/58 reviewed, 0 blocking issues**.
-- verified Tamil changed during Gate G: **no**.
-- Official Report wording used: **none**.
+The verified Tamil remains unchanged.
 
 ## Exact continuation point
 
-Proceed with the **consolidated English refinement pass over candidates 1–34**.
+Proceed with the **final closure check**.
 
-For each candidate:
+The closure check must verify, without using any external legislative wording:
 
-1. compare the current English only with the verified booklet Tamil and immediate booklet context;
-2. revise reader-facing `translation.md` only where the source-controlled wording can be improved;
-3. preserve ambiguity rather than resolving it from Assembly/Council Official Reports or outside history;
-4. record the final decision for every candidate in this ledger;
-5. after all 34 decisions, perform a final closure check of page markers, headings, figures and file metadata.
-
-Do **not** mark English verified until both the consolidated refinement pass and final closure check are complete.
+1. all `<!-- source-page: N -->` markers from 3 through 60 occur once and in order in both Tamil and English;
+2. both editorial-unit boundaries and headings are intact;
+3. all figures, dates, names, intervention labels and quoted expressions remain consistent with the verified Tamil after refinement;
+4. all 34 recorded refinement decisions are actually present in reader-facing `translation.md`;
+5. workflow metadata, README/progress/plan/glossary records are internally consistent;
+6. only after this closure passes may English be marked `verified_against_tamil: true` and the translation status be closed.
