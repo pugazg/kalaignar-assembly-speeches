@@ -1,0 +1,57 @@
+{
+  "id": "1971-namathu-nilai",
+  "date": null,
+  "year": 1971,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role_ta": "தமிழக முதலமைச்சர்",
+    "role_en": "Chief Minister of Tamil Nadu"
+  },
+  "legislature": {
+    "name_ta": "தமிழ்நாடு சட்டமன்றப் பேரவை / மேலவை",
+    "name_en": "Tamil Nadu Legislative Assembly / Legislative Council",
+    "scope_note": "The source booklet is an edited two-House compilation; this entry preserves the booklet witness rather than reconstructing separate House transcripts."
+  },
+  "speech": {
+    "title_ta": "நமது நிலை",
+    "title_en": "Our Position",
+    "event_ta": "ஆளுநர் உரைக்கு நன்றி தெரிவிக்கும் தீர்மானம் மற்றும் 1971-72 இடைக்கால நிதிநிலை அறிக்கை விவாதங்களுக்கான பதிலுரைகளின் தொகுப்பு",
+    "event_en": "Edited compilation of replies to the Governor-address Motion of Thanks debate and the 1971-72 Interim Budget debate",
+    "type": "booklet-edited-two-house-compilation"
+  },
+  "source": {
+    "publication_title_ta": "நமது நிலை",
+    "cover_attribution_ta": "தமிழக முதல்வர் கலைஞர் மு.கருணாநிதி",
+    "publication_date": "1971-05-22",
+    "publisher_ta": "செய்தி-விளம்பரத் துறை, தமிழ்நாடு அரசு",
+    "publisher_location_ta": "சென்னை",
+    "scan_filename": "ACL-CPL_01726_நமது_நிலை.pdf",
+    "scan_total_pages": 60,
+    "front_matter_scan_pages": "1-2",
+    "speech_scan_pages": "3-60",
+    "sha256": "5cfbf0e5d01a9cedb252a12168e9e6a14a9a2061c7d78848dde692d5fa241acb",
+    "only_textual_authority": true
+  },
+  "transcription": {
+    "method": "copied only from the source-level transcription already visually verified against ACL-CPL_01726_நமது_நிலை.pdf",
+    "preserve_source_spelling": true,
+    "preserve_source_punctuation": true,
+    "preserve_headings": true,
+    "page_boundaries_marked": true,
+    "status": "in-progress",
+    "source_package_verified": true,
+    "source_package_verified_scan_pages": "1-60",
+    "verified_against_scan": true,
+    "populated_scan_pages": "3-5",
+    "external_legislative_text_imported": false
+  },
+  "translation": {
+    "language": "English",
+    "status": "in-progress",
+    "type": "faithful reading translation from verified booklet Tamil only",
+    "translated_scan_pages": "3-5",
+    "verified_against_tamil": false,
+    "external_legislative_wording_imported": false
+  }
+}
