@@ -507,4 +507,44 @@ If the burden of authority on the Central Government is reduced, it too can perf
 
 This is the very idea that echoes in the Governor's Address and in my statement. This should take shape as the unanimous declaration of this House.
 
-<!-- translation-continues-at-source-page: 35 -->
+<!-- source-page: 35 -->
+
+It was said in the debate that the Governor's Address contained nothing revolutionary and no socialism; Thiru Manali Kandasami and Thiru K. T. K. Thangamani also spoke about land reform. Many friends said that revolutionary change should be brought about.
+
+## A situation in which no one is landless
+
+There should be no one without land; everyone should have at least 50 cents of land. In the new situation in which there should at least be a 15-kuzhi house site, the committee constituted under my chairmanship will soon begin examining the work necessary for the Dravida Munnetra Kazhagam Government to make suitable arrangements.
+
+They also spoke about a ceiling on buses. The Dravida Munnetra Kazhagam Government has accepted that basic idea. Even yesterday, while Tmt. Ananthanayaki was speaking, I intervened and said so. I wish to state even now that a ceiling on buses will come soon. It will come with `retrospective effect`.
+
+## A deer surrounded by hunters
+
+In the Legislative Council, the Leader of the Opposition said, "Please do not remove prohibition." As far as the policy of prohibition is concerned, none of you will think that the D.M.K. has no faith in it. Perarignar Anna, who brought us to office, announced while speaking in both the Legislative Assembly and the Legislative Council that this Government would be firm in its policy of prohibition.
+
+At present prohibition is being implemented only in Tamil Nadu and Gujarat. Our question is: why should it not be implemented throughout India? I too mentioned this when I met reporters. We, who ask for greater powers for the States, are prepared to give this one power to the Central Government. I said that, using it, the Central Government should come forward to implement prohibition throughout India.
+
+<!-- source-page: 36 -->
+
+Prohibition is in force in Tamil Nadu. But if one goes 50 miles from here, there is Pondicherry — there is no prohibition there. If one goes 50 miles this way, the Andhra border comes; if one goes 50 miles the other way, Bangalore comes. On another side there is Kerala. Thus our State remains alert like a deer surrounded by hunters on all four sides. It also stands losing the revenue that would come to our State.
+
+The Leader of the Opposition said that prohibition has failed in our State. I accept that. I do not wish to deceive myself, like the previous rulers, by saying, "Ah! A tremendously great success!" I firmly accept it. This policy, having failed, corrupts the integrity of many people. It corrupts the official class as well. One may ask why this should not be attended to. Is there only one or two things to attend to? As a policy, this is a sacred scheme. I accept that. Should not this sacred policy exist throughout India?
+
+## Why horse racing?
+
+The abolition of horse racing too is a good scheme. Neighbouring States show greater concern than those here in asking when we are going to abolish it. If we remove it, they stand ready immediately to begin horse racing on their side adjoining our State border and earn revenue!
+
+## Abolition of untouchability
+
+The abolition of untouchability is indeed a good scheme. What would be the situation if it existed only in Tamil Nadu? If untouchability is abolished in Tamil Nadu and an Adi Dravida friend from here goes to the neighbouring State of Andhra, where untouchability has not been abolished, what situation would arise — if what used to happen here happened there, would he not be subjected to blows and kicks? Now that the abolition of untouchability has been spread on an all-India basis, there is a situation in which it can succeed throughout India.
+
+Just as with the abolition of untouchability, Congress Governments nurtured by Gandhi have abandoned prohibition, a Gandhian policy. They expressed appreciation that our Government has not abandoned it.
+
+<!-- source-page: 37 -->
+
+Thiru T. K. Shanmugam even sang a song about prohibition. If prohibition were repealed, he would perhaps sing a `thogaiyara` in anger. A desire even arises to wonder: what if it were repealed at least so that we might hear that wonderful song? Because I am saying all this, I ask the newspapermen not to put up a headline saying that prohibition is going to be repealed. I ask members of all parties to think about whether prohibition should be implemented under circumstances such as these.
+
+Thiru Krishnaswami Naidu (Nijalingappa Congress): The Chief Minister spoke in a manner suggesting that prohibition might be removed. On behalf of the two crore women here, I ask that you please do not repeal prohibition.
+
+Chief Minister: I did not say that it was going to be repealed. I only asked the members to think about it. There are women in the States where prohibition has been repealed too.
+
+<!-- translation-continues-at-source-page: 38 -->
