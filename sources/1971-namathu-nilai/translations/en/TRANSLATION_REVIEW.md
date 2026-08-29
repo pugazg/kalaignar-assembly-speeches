@@ -39,14 +39,14 @@ The Gate-G review is primarily a **fidelity review**, not a free copy-edit. Non-
 | G1 | 3–10 | 8 | **complete** | 0 |
 | G2 | 11–18 | 8 | **complete** | 0 |
 | G3 | 19–26 | 8 | **complete** | 0 |
-| G4 | 27–34 | 8 | pending | — |
+| G4 | 27–34 | 8 | **complete** | 0 |
 | G5 | 35–37 | 3 | pending | — |
 | G6 | 38–44 | 7 | pending | — |
 | G7 | 45–51 | 7 | pending | — |
 | G8 | 52–58 | 7 | pending | — |
 | G9 | 59–60 | 2 | pending | — |
 
-Reviewed so far: **24 / 58 speech pages** (`scan pp.3–26`).
+Reviewed so far: **32 / 58 speech pages** (`scan pp.3–34`).
 
 English remains **not verified** until every Gate-G batch and the final refinement/closure check are complete.
 
@@ -245,17 +245,87 @@ These are wording-quality candidates only; none currently changes the verified T
 9. scan p.23 — `விடிவெள்ளி` is currently `dawn-star`; preserve the metaphor but review natural English phrasing without flattening it into a generic sign or importing outside explanation.
 10. scan p.26 — heading `ஒன்றுபட்டு வாதாடுவோம்` is currently `Let us argue together`; review whether a formulation such as pressing/arguing the case together better preserves the policy/parliamentary force while remaining controlled by the Tamil alone.
 
-These candidates must be resolved only from the verified booklet Tamil. They do not authorize consultation of Official Reports or outside factual correction.
+---
+
+## G4 — scan pp.27–34
+
+### Overall result
+
+**PASS for semantic/source fidelity.**
+
+The existing English covers every verified Tamil paragraph from scan p.27 through scan p.34 in the correct booklet order. All eight source-page markers are present at the required boundaries. The continuation of `ஒன்றுபட்டு வாதாடுவோம்` from p.26 into p.27 is intact, and the p.34 anti-secession/decentralisation close stops at the correct boundary before the land-reform discussion begins on p.35.
+
+No Tamil change was required. No blocking English omission, duplication, unsupported factual addition, numerical error, quotation loss, heading loss, speaker-label loss, or source-order error was found.
+
+No Assembly/Council Official Report wording was used in this review.
+
+### Page-by-page ledger
+
+| Scan page | Review result | Checked features |
+|---:|---|---|
+| 27 | **PASS** | continuation of collective opposition to price rises; State-consultation claim; `நியாயத்தைக் கேட்டோம்`; Dr. Hande; August/September/November 1969 funding correspondence; Finance Commission / Planning Commission criteria; March 1970 Pay Commission assistance demand. |
+| 28 | **PASS** | National Development Council on 21—3—70; three conditions; Rs.800 crore special fund, Rs.100 crore backward-area fund, Rs.7 crore and about Rs.2 crore allocations; Salem steel plant; `இடைவிடாத முயற்சி`; 15 April / 25 April / August / 12 October / 31 October / 1 November / December 1970 chronology and Dr. Gadgil. |
+| 29 | **PASS** | 19 January 1971 letter; Planning Commission Secretary note dated 12 January and 3 February reply; `தொடரும் போராட்டம்`; Dr. H. V. Hande `டிஸ்சென்டிங் நோட்` intervention and Chief Minister reply; `தகுதி வரைமுறையை எதிர்ப்பது ஏன்?`; Rs.250→202 crore and 60/10/10/10/10 criteria; State-loss figures. |
+| 30 | **PASS** | `வராது போன உதவி`; all-India Rs.418 versus Tamil Nadu Rs.434 per-capita income, Rs.16 difference and possible Rs.25/30 crore; nine-State Rs.800 crore special fund; Rs.7 crore; Calcutta/Madras special-problem comparison. |
+| 31 | **PASS** | coastal slum conditions, mat/darkness/sanitation imagery; Slum Clearance Board at Rs.40 crore scale; 10 per cent / about Rs.10 crore argument; five affected States / four receiving special funds; `போராடிப் பெற்றவை` and Dr. Hande implication. |
+| 32 | **PASS** | Rs.14 crore drought relief; Rayalaseema loan / Reserve Bank overdraft Rs.23 crore and Tamil Nadu share Rs.13 crore; four-year deferment; Rs.31 crore cyclone-relief sequence of 14+10+7; `மாநிலங்களுக்கு அதிக அதிகாரம்`; unity / anti-secession framing; East Bengal resolution passage. |
+| 33 | **PASS** | `முஜிபுர் ரகுமான் கோரியது என்ன?`; `People's Will`; source's six-point-plan structure; federation, defence/foreign affairs, separate currency, taxation, foreign exchange, foreign agreements, separate army and Bengali-language points; distinction from the D.M.K.'s State-autonomy position. |
+| 34 | **PASS** | Legislative Council Opposition Leader Rajaram Naidu's support; `அறவழி` framing; `இது பிரிவினைக் கோரிக்கை அல்ல`; decentralisation of powers, reduced Central intervention/burden, stronger India and prosperous States; `ஏகோபித்த வாசகம்`; correct p.35 boundary. |
+
+### Numerical and named-entity check
+
+The reviewed English preserves the source-specific values in this range, including:
+
+- correspondence chronology: August, September and November 1969; March 1970;
+- N.D.C. date `21—3—70`;
+- special/backward-area funds: `Rs. 800 crore`, `Rs. 100 crore`, `Rs. 7 crore`, about `Rs. 2 crore`;
+- special-assistance chronology: `15 April 1970`, `25—4—70`, August 1970, `12 October 1970`, `31 October`, `1 November`, end-December 1970;
+- January/February 1971 chronology: `19 January`, `12 January`, `3 February`;
+- Plan assistance: `Rs. 250 crore → Rs. 202 crore`;
+- eligibility weights: `60%` population plus four `10%` categories;
+- source-stated State losses: Andhra `Rs. 40 crore`, Madhya Pradesh `Rs. 26 crore`, Mysore `Rs. 49 crore`, West Bengal `Rs. 24 crore`, Tamil Nadu `Rs. 48 crore`;
+- per-capita averages: all-India `Rs. 418`, Tamil Nadu `Rs. 434`, difference `Rs. 16`, possible additional `Rs. 25 or 30 crore`;
+- special fund to `9` States: `Rs. 800 crore`;
+- Slum Clearance Board scale: `Rs. 40 crore`; source's 10-per-cent argument: about `Rs. 10 crore`;
+- drought relief: `Rs. 14 crore`;
+- Rayalaseema/overdraft figures: `Rs. 23 crore`, Tamil Nadu share `Rs. 13 crore`, deferment over `4 years`;
+- cyclone-relief sequence: `Rs. 14 + 10 + 7 crore = Rs. 31 crore`.
+
+Names and institutional labels checked include Dr. Hande / Dr. H. V. Hande, Dr. Gadgil, Rajaram Naidu, Indian Finance Commission, Planning Commission, Pay Commission, National Development Council, Reserve Bank, Slum Clearance Board, Legislative Council and the Indian Parliament.
+
+### Rhetoric / political-framing check
+
+The English preserves the principal rhetorical structures and source distinctions of this range:
+
+- repeated `போராடு` / struggle language;
+- `நியாயத்தைக் கேட்டோம்`, `இடைவிடாத முயற்சி`, `தொடரும் போராட்டம்`, `போராடிப் பெற்றவை`;
+- the distinction between greater State powers and secession;
+- the source's contrast between Mujibur Rahman's six-point programme and the D.M.K. State-autonomy demand;
+- the Central-collection / State-share reversal in the taxation discussion;
+- Rajaram Naidu's support framed through `அறவழி`;
+- the p.34 call for decentralisation while keeping India united and strong.
+
+### Non-blocking wording-refinement queue from G4
+
+These are wording-quality candidates only; none currently changes the verified Tamil meaning:
+
+11. scan p.29 — the Hande intervention's `so as to place them on record officially in a manner that would signify their acceptance in practice` is cumbersome for `செயலில் ஒத்துக்கொள்ளும் வகையில் அதிகார பூர்வமாகத் தெரிவிக்கும் வகையில்`; review a closer, less interpretive English formulation.
+12. scan p.31 — `we have established a Slum Clearance Board on the scale of Rs. 40 crore` is awkward for `40 கோடி ரூபாய் அளவிலே`; refine the fiscal-scale wording without importing an unprinted budget classification.
+13. scan p.34 — `righteous path` for `அறவழி முறையில்` preserves the moral/non-violent idea but is stiff English; review a natural source-controlled rendering without borrowing wording from Official Reports.
+14. scan p.34 — `unanimous declaration` for `ஏகோபித்த வாசகம்` is semantically serviceable but may over-specify `வாசகம்`; review whether `unanimous formulation / common voice / message` better preserves the printed phrase.
+
+These candidates must be resolved only from the verified booklet Tamil and immediate booklet context.
 
 ## Consolidated non-blocking queue status
 
 - G1 candidates: **4**
 - G2 candidates: **3**
 - G3 candidates: **3**
-- total queued after G3: **10**
+- G4 candidates: **4**
+- total queued after G4: **14**
 
 ## Exact continuation point
 
-Proceed with **G4 — scan pp.27–34**.
+Proceed with **G5 — scan pp.35–37**.
 
 Review the existing English against the verified booklet Tamil page by page; record any blocking fidelity corrections and any non-blocking refinement candidates here. Do not change the verified Tamil unless a direct booklet-scan recheck independently proves a transcription error.
