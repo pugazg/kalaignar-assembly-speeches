@@ -16,7 +16,7 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 - Do not import Official Report wording.
 - Record definite idiomatic/non-literal choices when needed.
 
-## Locked terms encountered through scan p.34
+## Locked terms encountered through scan p.37
 
 | Tamil source form | English rendering | Note |
 |---|---|---|
@@ -76,8 +76,18 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 | `கூட்டாட்சி` | `federation` / `federal` | Context-dependent rendering in the Mujibur Rahman passage. |
 | `அந்நியச் செலாவணி` | `foreign exchange` | Economic/constitutional context. |
 | `அறவழி` | `righteous path` | First-pass close rendering; review constitutional/non-violent nuance at Gate G without importing outside wording. |
+| `நிலச் சீர்திருத்தம்` | `land reform` | Direct policy rendering in scan p.35. |
+| `சென்ட்` | `cent` | Land measure kept in the source's printed unit. |
+| `குழி` | `kuzhi` | Source land-measure term retained without converting it through outside reference material. |
+| `பஸ் உச்சவரம்பு` | `ceiling on buses` | First-pass literal policy rendering; do not infer an unprinted ownership formula. |
+| `ரெட்ராஸ்பெக்டிவ் எஃபக்ட்` | `retrospective effect` | Source English transliteration restored to English without changing the Tamil witness. |
+| `மது விலக்கு` / `மதுவிலக்கு` | `prohibition` | Alcohol-prohibition context. |
+| `குதிரைப் பந்தயம்` | `horse racing` | Direct rendering. |
+| `தீண்டாமை ஒழிப்பு` | `abolition of untouchability` | Direct social-policy rendering. |
+| `ஆதி திராவிட` | `Adi Dravida` | Source social-category wording retained rather than replaced. |
+| `தொகையறா` | `thogaiyara` | Source musical term transliterated at Gate F; no outside gloss is imported. |
 
-## Names encountered through scan p.34
+## Names encountered through scan p.37
 
 - `வேழவேந்தன்` → `Vezhavendan`
 - `பொன்னப்ப நாடார்` → `Ponnappa Nadar`
@@ -103,6 +113,7 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 - `டாக்டர் காட்கில்` → `Dr. Gadgil`
 - `முஜிபுர் ரகுமான்` → `Mujibur Rahman`
 - `ராஜாராம் நாயுடு` / `திரு.ராஜாராம்` → `Rajaram Naidu` / `Thiru Rajaram`
+- `டி. கே. சண்முகம்` → `T. K. Shanmugam`
 
 These English forms are consistency renderings of names printed in Tamil; they do not authorize source-text changes.
 
@@ -123,7 +134,7 @@ These English forms are consistency renderings of names printed in Tamil; they d
 
 The first-pass English preserves source titles as transliterated or directly rendered source forms rather than silently replacing them with outside-standardised titles.
 
-## Rhetoric / idiom decisions through scan p.34
+## Rhetoric / idiom decisions through scan p.37
 
 | Tamil | English | Note |
 |---|---|---|
@@ -151,14 +162,18 @@ The first-pass English preserves source titles as transliterated or directly ren
 | `முஜிபுர் ரகுமான் கோரியது என்ன?` | `What did Mujibur Rahman demand?` | Direct question retained. |
 | `இது பிரிவினைக் கோரிக்கை அல்ல` | `This is not a demand for secession` | Explicit source distinction preserved. |
 | `ஏகோபித்த வாசகம்` | `unanimous declaration` | First-pass rendering; review `வாசகம்` nuance at Gate G. |
+| `நிலமில்லாதோர் இல்லை என்ற நிலை` | `A situation in which no one is landless` | Keeps the source's alliterative policy-heading idea without adding policy detail. |
+| `வேடுவர்கள் சூழ்ந்த மான்` | `A deer surrounded by hunters` | Printed metaphor retained. |
+| `ஆகா! மகாப் பெரிய வெற்றி!` | `Ah! A tremendously great success!` | Keeps the sarcastic exclamation in the prohibition passage. |
+| `குதிரைப் பந்தயம் ஏன்?` | `Why horse racing?` | Direct printed heading. |
+| `தீண்டாமை ஒழிப்பு` | `Abolition of untouchability` | Direct printed heading. |
 
 ## Pending recurring terms
 
-- `மது விலக்கு`
 - `உரிமைக் குரல்`
 
-Lock these only when encountered in the working translation.
+Lock this only when encountered in the working translation.
 
 ## Current state
 
-Gate F has completed its first pass through scan p. **34**. Reader-facing speech/translation coverage is **scan pp.3–34**. Next continuation: **scan p.35**.
+Gate F has completed its first pass through scan p. **37**. Reader-facing speech/translation coverage is **scan pp.3–37**. Editorial Unit 1 is complete. Next continuation: **scan p.38**, opening Unit 2.
