@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Controlled consistency layer for the booklet-only English translation now maintained under:
+Controlled consistency layer for the booklet-only English translation maintained under:
 
 `speeches/1971/1971-namathu-nilai/translation.md`
 
@@ -16,44 +16,56 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 - Do not import Official Report wording.
 - Record definite idiomatic/non-literal choices when needed.
 
-## Locked terms encountered through scan p.18
+## Locked terms encountered through scan p.26
 
 | Tamil source form | English rendering | Note |
 |---|---|---|
-| `நமது நிலை` | `Our Position` | Working title rendering for the reader-facing entry; source Tamil title remains primary. |
+| `நமது நிலை` | `Our Position` | Working title rendering; source Tamil title remains primary. |
 | `தமிழக முதல்வர்` | `Chief Minister of Tamil Nadu` | Consistent role rendering. |
 | `சட்ட மன்றப் பேரவை` / `சட்டமன்றப் பேரவை` | `Legislative Assembly` | Preserve distinction from `மேலவை`. |
 | `மேலவை` | `Legislative Council` | Period House distinction. |
-| `ஆளுநர்` / `கவர்னர்` | `Governor` | English harmonisation of the two Tamil lexical forms; Tamil itself is not changed. |
-| `நன்றி தெரிவிக்கும் தீர்மானம்` / `நன்றி அறிவிப்புத் தீர்மானம்` | `Motion of Thanks` | Parliamentary rendering used without altering the source's two Tamil forms. |
-| `மாமன்றம்` | `House` | Used in parliamentary context. |
-| `திராவிட முன்னேற்றக் கழகம்` | `Dravida Munnetra Kazhagam` | Full party name retained rather than replacing with abbreviation at first use. |
-| `நிஜலிங்கப்பா காங்கிரஸ்` | `Nijalingappa Congress` | Source-period party label preserved. |
+| `ஆளுநர்` / `கவர்னர்` | `Governor` | English harmonisation only; Tamil is unchanged. |
+| `நன்றி தெரிவிக்கும் தீர்மானம்` / `நன்றி அறிவிப்புத் தீர்மானம்` | `Motion of Thanks` | Parliamentary rendering. |
+| `மாமன்றம்` | `House` | Parliamentary context. |
+| `திராவிட முன்னேற்றக் கழகம்` | `Dravida Munnetra Kazhagam` | Full party name retained. |
+| `நிஜலிங்கப்பா காங்கிரஸ்` | `Nijalingappa Congress` | Source-period party label. |
 | `சுதந்திராக் கட்சி` | `Swatantra Party` | Source-period party name. |
 | `முஸ்லீம் லீக்` | `Muslim League` | Consistent party rendering. |
-| `இந்திரா காங்கிரஸ்` | `Indira Congress` | Source-period label preserved. |
-| `மாநிலங்களவை` | `Rajya Sabha` | Standard English institutional rendering. |
-| `குறை` / `குற்றம்` | `shortcoming` / `offence` | Preserve the source's explicit rhetorical distinction; heading currently rendered `A flaw is one thing; an offence is another.` and will be rechecked at Gate G. |
-| `வகுப்புணர்ச்சி` / `வகுப்புவாத சக்திகள்` | `communal feelings` / `communal forces` | Contextual rendering in the election passage; do not use this to alter the Tamil wording. |
-| `ஜாமீன் தொகை` | `security deposit` | Press-law context rather than criminal bail. |
-| `எழுத்து உரிமை` | `right to write` | Preserves the source's formulation in the play-ban passage. |
-| `நீதி மன்றம்` | `court` | Standard rendering in the litigation passages. |
-| `இடைக்கால நிதி நிலை அறிக்கை` | `Interim Budget Statement` | First encountered in the policy discussion on scan p.11. |
-| `மாநிலத் திட்டக் குழு` | `State Planning Commission` | Used for the institution announced in the Governor's Address. |
-| `நிர்வாகச் சீர்திருத்த ஆணைக் குழு` / `நிர்வாகச் சீர்திருத்தக் குழு` | `Administrative Reforms Commission` | One consistent English institutional rendering; Tamil variants remain unchanged. |
-| `பட்டா` | `patta` | Land-administration term retained rather than silently replacing the source concept with a broader modern label. |
+| `இந்திரா காங்கிரஸ்` | `Indira Congress` | Source-period label. |
+| `மாநிலங்களவை` | `Rajya Sabha` | Institutional rendering. |
+| `குறை` / `குற்றம்` | `shortcoming` / `offence` | Preserve the explicit rhetorical distinction. |
+| `வகுப்புணர்ச்சி` / `வகுப்புவாத சக்திகள்` | `communal feelings` / `communal forces` | Election-passage rendering. |
+| `ஜாமீன் தொகை` | `security deposit` | Press-law context. |
+| `எழுத்து உரிமை` | `right to write` | Source formulation retained closely. |
+| `நீதி மன்றம்` | `court` | Standard rendering. |
+| `இடைக்கால நிதி நிலை அறிக்கை` | `Interim Budget Statement` | Period fiscal-document rendering. |
+| `மாநிலத் திட்டக் குழு` | `State Planning Commission` | Institution announced in the Governor's Address. |
+| `நிர்வாகச் சீர்திருத்த ஆணைக் குழு` / `நிர்வாகச் சீர்திருத்தக் குழு` | `Administrative Reforms Commission` | One consistent English institutional rendering. |
+| `பட்டா` | `patta` | Land-administration term retained. |
 | `ஆர்ஜிதம்` | `acquisition` / `acquired` | Contextual land-acquisition rendering. |
 | `பதவி நீடிப்பு` | `extension of service` | Administrative-service context. |
-| `ஆரவாரம்` | `Cheers` | Parliamentary audience/reaction marker in first-pass English. |
+| `ஆரவாரம்` | `Cheers` | Parliamentary reaction marker in first-pass English. |
 | `கூட்டுத்துறை` | `joint sector` | Industrial-policy term. |
-| `ஹெவி வாட்டர்` | `heavy water` | Source transliteration rendered in standard English form. |
+| `பொதுத்துறை` | `public sector` | Industrial-policy term. |
+| `தனியார் துறை` | `private sector` | Industrial-policy term. |
+| `ஹெவி வாட்டர்` | `heavy water` | Source transliteration rendered in standard English. |
 | `அணுசக்தி ஆணைக்குழு` | `Atomic Energy Commission` | Institutional rendering. |
 | `தேசிய வளர்ச்சிக் குழு` | `National Development Council` | Institutional rendering. |
-| `என்.டி.சி.` | `N.D.C.` | Source abbreviation retained in the quoted passage. |
+| `என்.டி.சி.` | `N.D.C.` | Source abbreviation retained. |
 | `நான்காவது ஐந்தாண்டுத் திட்டம்` | `Fourth Five-Year Plan` | Period planning terminology. |
-| `எழுச்சி நாள்` | `Uprising Day` | First-pass rendering; recheck rhetorical nuance at Gate G. |
+| `எழுச்சி நாள்` | `Uprising Day` | First-pass rendering; review nuance at Gate G. |
+| `தொழில் உற்பத்திக் குறிப்பீட்டெண்` | `industrial production index` | Statistical/industrial-policy term. |
+| `தொழில் உரிமம்` / `லைசென்ஸ்` | `industrial licence` / `licence` | Keep source's licensing distinction in context. |
+| `தொழில் வர்த்தக இயக்குநர்` | `Director of Industries and Commerce` | Institutional rendering. |
+| `வேலை வாய்ப்பு` | `employment opportunity` | Recurring employment-policy term. |
+| `வேலையில்லாத் திண்டாட்டம்` | `unemployment` | Preserve severity through surrounding rhetoric rather than over-literal wording. |
+| `ப்ளாக்` | `block` | Rural administrative unit. |
+| `மின்சார வாரியம்` | `Electricity Board` | Institutional rendering. |
+| `பில் கலெக்டர்` | `bill collector` | Source occupational term. |
+| `விலைவாசி` | `prices` | Price-level discussion. |
+| `பருப்பு வகைகள்` | `pulses` | Agricultural/price-policy context. |
 
-## Names encountered through scan p.18
+## Names encountered through scan p.26
 
 - `வேழவேந்தன்` → `Vezhavendan`
 - `பொன்னப்ப நாடார்` → `Ponnappa Nadar`
@@ -75,6 +87,7 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 - `டாக்டர் ஹாண்டே` → `Dr. Hande`
 - `அனந்த நாயகி` → `Ananthanayaki`
 - `ஜோதி வெங்கடாசலம்` → `Jothi Venkatachalam`
+- `கே. எம். சுப்பிரமணியம்` → `K. M. Subramaniam`
 
 These English forms are consistency renderings of names printed in Tamil; they do not authorize source-text changes.
 
@@ -94,22 +107,26 @@ These English forms are consistency renderings of names printed in Tamil; they d
 
 The first-pass English preserves these as transliterated source titles rather than replacing them with translated titles.
 
-## Rhetoric / idiom decisions through scan p.18
+## Rhetoric / idiom decisions through scan p.26
 
 | Tamil | English | Note |
 |---|---|---|
-| `தீமையை எதிர்ப்பதில் ஒற்றுமை` | `Unity in opposing evil` | Keeps the rhetorical force of the printed heading. |
-| `வன்முறை வெறியாட்டங்கள்` | `violent rampages` | Avoids flattening the source's strong rhetoric. |
-| `இந்திரஜாலங்கள்` | `acts of magic` | Preserves the mock/conjuring sense in the election-ink passage. |
-| `நெருங்கிய தொடர்பில்லாதவை ; கற்பனையானவை` | `far-fetched; imaginary` | Faithful reading choice in the Naval Tata quotation. |
-| `நீரிலிருந்து வெளியே தூக்கிப்போட்ட மீன் போலாகி விட்டேன்` | `I have become like a fish taken out of water` | Metaphor retained rather than paraphrased. |
-| `மக்கள் தீர்ப்பே மகேசன் தீர்ப்பு` | `The people's verdict is Mahesan's verdict` | Keeps the source's wordplay/divine reference instead of replacing it with a generic paraphrase. |
-| `மகேசனும் சேர்ந்து அளித்த தீர்ப்பு` | `a verdict in which Mahesan too joined` | Preserves the follow-on rhetorical play. |
-| `அவன் ஒரு இடத்தில் தான் என்னை அடித்தான், நீ ஊரெல்லாம் என்னை அடிக்கச் செய்திருக்கிறாயே` | `He struck me only in one place; you have made me be struck all over the town` | Keeps the poster analogy rather than explaining it outside the source text. |
-| `காரியம் ஒன்று, கடிதங்கள் பதினொன்று` | `One matter, eleven letters` | Keeps the compact administrative-ridicule heading. |
-| `பெண் கேட்டவர்கள் கதை` | `The story of those who asked for the girl's hand` | Retains the marriage/suitor analogy rather than generalising it. |
-| `கட்டினவனுக்குத்தான் பெண்ணே தவிர, கேட்டவனுக்கெல்லாம் அல்ல` | `the girl belongs to the man who married her, not to everyone who asked for her hand` | First-pass close rendering of the analogy; review tone at Gate G. |
-| `எங்கள் காலத்து வயல்கள்` | `fields from our time` | Retains the sarcastic extension of the opposition's claim. |
+| `தீமையை எதிர்ப்பதில் ஒற்றுமை` | `Unity in opposing evil` | Retains rhetorical force. |
+| `வன்முறை வெறியாட்டங்கள்` | `violent rampages` | Keeps strong source rhetoric. |
+| `இந்திரஜாலங்கள்` | `acts of magic` | Mock/conjuring sense. |
+| `நெருங்கிய தொடர்பில்லாதவை ; கற்பனையானவை` | `far-fetched; imaginary` | Naval Tata quotation. |
+| `நீரிலிருந்து வெளியே தூக்கிப்போட்ட மீன் போலாகி விட்டேன்` | `I have become like a fish taken out of water` | Metaphor retained. |
+| `மக்கள் தீர்ப்பே மகேசன் தீர்ப்பு` | `The people's verdict is Mahesan's verdict` | Wordplay/divine reference retained. |
+| `காரியம் ஒன்று, கடிதங்கள் பதினொன்று` | `One matter, eleven letters` | Compact administrative-ridicule heading. |
+| `பெண் கேட்டவர்கள் கதை` | `The story of those who asked for the girl's hand` | Marriage/suitor analogy retained. |
+| `எங்கள் காலத்து வயல்கள்` | `fields from our time` | Sarcasm retained. |
+| `நமது முடிவான லட்சியம்` | `Our ultimate objective` | Keeps policy-heading force. |
+| `ஆர்வத்தைக் காட்டும் அறிகுறி` | `A sign of our concern` | First-pass contextual rendering. |
+| `விடிவெள்ளி` | `dawn-star` | Metaphor retained rather than flattened; review naturalness at Gate G. |
+| `குமுறிக் கொந்தளிக்கும் கேள்வி` | `The question that seethes and surges` | Strong rhetorical motion preserved. |
+| `பதில் சொல்லத் தான் போகிறோம்!` | `We are going to answer it!` | Direct rhetorical heading. |
+| `சொன்னதைச் செய்தோம்` | `We did what we said` | Compact promise/achievement formulation. |
+| `ஒன்றுபட்டு வாதாடுவோம்` | `Let us argue together` | First-pass close rendering; review parliamentary nuance at Gate G. |
 
 ## Pending recurring terms
 
@@ -120,4 +137,4 @@ Lock these only when encountered in the working translation.
 
 ## Current state
 
-Gate F has completed its first pass through scan p. **18**. Reader-facing speech/translation coverage is **scan pp.3–18**. Next continuation: **scan p.19**.
+Gate F has completed its first pass through scan p. **26**. Reader-facing speech/translation coverage is **scan pp.3–26**. Next continuation: **scan p.27**.
