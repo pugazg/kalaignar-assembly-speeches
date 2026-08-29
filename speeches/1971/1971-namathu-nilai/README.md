@@ -31,9 +31,10 @@ Other Assembly/Council PDFs are reference/provenance sources only. Their wording
 ## Files
 
 - [`transcript.md`](./transcript.md) — complete Tamil source text in booklet order.
-- [`translation.md`](./translation.md) — complete Gate-F English first-pass translation of the Tamil text.
+- [`translation.md`](./translation.md) — complete Gate-F English first-pass translation, now under Gate-G fidelity review.
 - [`metadata.json`](./metadata.json) — source and workflow metadata.
 - [`source-notes.md`](./source-notes.md) — source boundaries, authority rule and provenance cautions.
+- [`../../../sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md`](../../../sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md) — Gate-G page-by-page fidelity ledger.
 
 ## Current progress
 
@@ -45,9 +46,12 @@ Other Assembly/Council PDFs are reference/provenance sources only. Their wording
 - Speech-page coverage: **58 / 58 pages**.
 - Editorial Unit 1: **fully populated in Tamil and Gate-F English**.
 - Editorial Unit 2: **fully populated in Tamil and Gate-F English**.
-- English fidelity review (Gate G): **not started**.
+- English fidelity review (Gate G): **in progress — scan pp.3–10 reviewed, 8/58 pages**.
+- G1 blocking fidelity issues: **0**.
+- G1 non-blocking wording refinements queued: **4**.
+- English verified: **no — not until Gate G and final refinement/closure are complete**.
 
-The next activity is a separate **Gate-G page-by-page English fidelity review** against the verified booklet Tamil only. English must not be marked verified until that review is complete.
+The exact next activity is **Gate G2 — scan pp.11–18**.
 
 ## Source structure
 
