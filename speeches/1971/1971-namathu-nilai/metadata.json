@@ -43,20 +43,20 @@
     "source_package_verified": true,
     "source_package_verified_scan_pages": "1-60",
     "verified_against_scan": true,
-    "populated_scan_pages": "3-51",
+    "populated_scan_pages": "3-58",
     "unit_1_population_complete": true,
     "unit_2_population_started": true,
-    "unit_2_populated_through_scan_page": 51,
+    "unit_2_populated_through_scan_page": 58,
     "external_legislative_text_imported": false
   },
   "translation": {
     "language": "English",
     "status": "in-progress",
     "type": "faithful reading translation from verified booklet Tamil only",
-    "translated_scan_pages": "3-51",
+    "translated_scan_pages": "3-58",
     "unit_1_first_pass_complete": true,
     "unit_2_first_pass_started": true,
-    "unit_2_translated_through_scan_page": 51,
+    "unit_2_translated_through_scan_page": 58,
     "verified_against_tamil": false,
     "external_legislative_wording_imported": false
   }
