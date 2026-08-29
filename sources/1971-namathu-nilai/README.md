@@ -23,8 +23,9 @@ Current coverage there:
 - speech-page coverage: **58 / 58**
 - Editorial Unit 1: **complete**
 - Editorial Unit 2: **complete**
-- Gate-G English fidelity review: **in progress — scan pp.3–10 reviewed, 8/58 pages**
-- G1 blocking fidelity issues: **0**
+- Gate-G English fidelity review: **in progress — scan pp.3–18 reviewed, 16/58 pages**
+- Gate-G blocking fidelity issues found so far: **0**
+- Gate-G non-blocking wording refinements queued: **7**
 - English verified: **no**
 
 The entry preserves the booklet as an edited two-House compilation and does not reconstruct separate Assembly/Council transcripts. Scan pp.1–2 remain publication front matter/source metadata and are not inserted into the speech transcript as spoken text.
@@ -96,9 +97,9 @@ Control files remain here:
 
 Actual reader-facing English is maintained only in the `speeches/` entry to avoid duplicate independently editable copies.
 
-**Gate F is complete for all 58 speech pages, scan pp.3–60. Gate G has completed G1, scan pp.3–10, with 0 blocking fidelity issues.** Four non-blocking English wording refinements are queued in the review ledger for a consolidated refinement pass after page-level review.
+**Gate F is complete for all 58 speech pages, scan pp.3–60. Gate G has completed G1 and G2, scan pp.3–18, with 0 blocking fidelity issues.** Seven non-blocking English wording refinements are queued in the review ledger for a consolidated refinement pass after page-level review.
 
-Exact next review batch: **G2 — scan pp.11–18**.
+Exact next review batch: **G3 — scan pp.19–26**.
 
 No Assembly/Council Official Report wording may be used during Gate G.
 
