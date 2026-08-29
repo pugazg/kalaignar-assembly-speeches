@@ -57,12 +57,14 @@
     "unit_1_first_pass_complete": true,
     "unit_2_first_pass_complete": true,
     "unit_2_translated_through_scan_page": 60,
-    "gate_g_reviewed_scan_pages": "3-37",
-    "gate_g_reviewed_speech_pages": 35,
+    "gate_g_reviewed_scan_pages": "3-44",
+    "gate_g_reviewed_speech_pages": 42,
     "gate_g_total_speech_pages": 58,
     "gate_g_unit_1_review_complete": true,
+    "gate_g_unit_2_reviewed_scan_pages": "38-44",
+    "gate_g_unit_2_reviewed_speech_pages": 7,
     "gate_g_blocking_fidelity_issues": 0,
-    "gate_g_nonblocking_refinement_candidates": 18,
+    "gate_g_nonblocking_refinement_candidates": 22,
     "verified_against_tamil": false,
     "external_legislative_wording_imported": false
   }
