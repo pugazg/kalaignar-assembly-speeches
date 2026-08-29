@@ -633,4 +633,76 @@ The Corporation first obtains a loan from the Government and then incurs expendi
 
 Another point was also made. It was said that the Madras Corporation Council had obtained a loan of Rs. 5 crore from L.I.C. and that the Government was holding that Rs. 5 crore. They did not stop there; they also put forward a somewhat alarming claim — that this Government had used the loan obtained by the Madras Corporation through L.I.C. to cover a Reserve Bank `overdraft`. In fact, the loan obtained from L.I.C. was not Rs. 5 crore; the loan obtained from L.I.C. was only Rs. 3 crore. The Government obtained that Rs. 3 crore from L.I.C. on behalf of the Corporation Council.
 
-<!-- translation-continues-at-source-page: 45 -->
+<!-- source-page: 45 -->
+
+Had the Corporation Council obtained the Rs. 3 crore loan without the Government's intermediation, it would have had to place the amount in a bank, from which the Corporation Council would have received 4 per cent interest, while it would have had to pay 7 per cent interest to L.I.C. To free the Corporation Council from that predicament, the Government itself assumed responsibility to L.I.C., promised to pay the 7 per cent interest, and obtained the Rs. 3 crore loan. As Thiru K. M. Subramaniam pointed out, the amount obtained was not Rs. 5 crore; it was only Rs. 3 crore.
+
+Of that Rs. 3 crore, Rs. 1 crore has been given to the Corporation Council. The remaining Rs. 2 crore is safely with the Government. Not only that, this Government has given the Corporation Council nearly Rs. 2½ crore as a `ways and means advance`. That is not connected with this loan, but I mention it to show in what manner this Government has assisted the Corporation Council.
+
+Of the Rs. 1 crore 10 lakh raised by the Corporation as a public loan, it retained Rs. 5 lakh and handed the remaining Rs. 1 crore 5 lakh to the Government itself. The true position is that this Government is paying 6 per cent interest on that amount.
+
+<!-- source-page: 46 -->
+
+## Funds for small industries have not been reduced
+
+It was alleged that the allocation for small industries and village industries had been reduced. They said that it had fallen from Rs. 50 lakh to Rs. 20 lakh. They made that allegation because they had read only the note contained in the book they have called the `White Paper on Budget`. I do not deny the note contained there. But no one should mistakenly understand that the amount has been reduced from Rs. 50 lakh to Rs. 24 lakh.
+
+Apart from this Rs. 24 lakh, the Government has established SIDCO — that is, the Small Industries Development Corporation, the Small Industries Development Corporation — and Rs. 100 lakh has been allocated in its name. Thus the Rs. 100 lakh allocation is in the 1971-72 Interim Budget itself. The details regarding this are stated in the large book called the White Paper.
+
+## Our concern has not diminished
+
+If one looks at page 25 of the same book, one can see there too the extent to which this Government has made efforts for village small industries and increased the allocation of funds.
+
+Further, for large and medium industries and mineral development, the Budget Estimate for 1970-71 was Rs. 3·92 crore; in the 1971-72 Budget Estimate, Rs. 5·35 crore has now been allocated. I remind you that this too is only the Interim Budget. Likewise, Rs. 360 lakh had already been allocated for village small industries in 1970-71. Now, in 1971-72, Rs. 421 lakh has been allocated. This too is only an interim plan. I also state that more will be allocated. Therefore no one need think that the Government's concern for the development of small industries has gradually diminished, melted away and worn thin.
+
+<!-- source-page: 47 -->
+
+As for the categories from which revenue comes to the State Government from the Central Government, our State Government receives a share through such heads as `income tax`, `Central excise duty`, and `property rights`, among other categories. Likewise, the State Government receives money through special grants given in accordance with the recommendations of the Finance Commission. Third, money is received through Plan financial assistance. Fourth, financial assistance is received for certain non-Plan works, works not included in the Plan. Apart from the third and fourth items I mentioned — Plan financial assistance and sums allotted for various works not included in the Plan — the other receipts I have already referred to, such as income tax, Central excise duty and money received through the recommendations of the Finance Commission, are generally merged into our Government's funds and spent. For that reason, it is not possible to calculate and state the particular work on which each is spent.
+
+Overall, I only wish to state that expenditure is being made from this money for the needs of our State, and that it is being done properly.
+
+## Allocation for purchasing tractors
+
+It was said that the financial allocation for buying tractors had been reduced. I think it is proper to place one statistic before this House. The allegation — or the doubt that arose in their minds — is that `the Government has reduced the financial allocation for purchasing tractors`.
+
+<!-- source-page: 48 -->
+
+From 1946 to 1966-67, over a period of twenty years, the old Government — and when I say old Government, I mean the very old Government — spent Rs. 76 lakh on purchasing tractors: Rs. 76 lakh over twenty years. But we spent Rs. 6 lakh in 1967-68, Rs. 22.68 lakh in 1968-69, Rs. 69.95 lakh in 1969-70 and Rs. 29.55 lakh in 1970-71. In addition, Rs. 30 lakh has been sanctioned for purchasing another 16 tractors. That amount is not included here. If it were included, the figure for 1970-71 would come to about Rs. 59 lakh.
+
+Thus, in four years this Government has allocated Rs. 129 lakh for purchasing tractors. In their twenty years, however, their allocation was only Rs. 76 lakh. I mention this not as an accusation, but for the attention of the members.
+
+The Honourable lady and K.M.S. both spoke about slum clearance. Since both are residents of Madras, and since there will henceforth be greater need for them to speak about slums, they spoke on the subject. Their speeches carried the implication: during our Government Rs. 3 crore was allocated; what new thing have you done?
+
+<!-- source-page: 49 -->
+
+Under the Third Five-Year Plan, 2,688 tenements — multi-storeyed houses — were built for slum dwellers. During their period of government, 1,476 tenements were built in 1966-67. Thus, during their twenty years in office, 4,164 tenements were built. In four years of Kazhagam rule, by 31 December 1970, 7,037 tenements had been built. In only four years, among them 2,247 fire-resistant houses were also built. The Honourable lady said that these were not fire-resistant houses but `matchbox houses`. A matchbox contains matchsticks. Therefore a matchbox is not something that can be dismissed. Matchboxes are needed to keep matchsticks. Through their leader, I wish to tell them that the poor and ordinary people living in the slums are like those matchsticks.
+
+## Houses rising high
+
+It is the Government's duty to see that these matchsticks do not catch fire. That is why we have drawn up a seven-year plan of about Rs. 40 crore to replace the slums and build fine, attractive, well-ventilated and strong houses, and have created an organisation called the `Slum Clearance Board`. Since Thiru Rama. Arangannal, a member of this House, has had long-standing relations and comradeship with the people of the slum areas, we have appointed him chairman of that Board. The Slum Clearance Board is functioning efficiently. Those who ask to what extent facilities are being provided for slum dwellers may go around certain parts of Madras city; I wish only to state here that the houses rising high there will answer them.
+
+<!-- source-page: 50 -->
+
+## Facilities provided for agriculture
+
+The allegation that facilities have not increased is repeatedly made. In the agricultural sector alone, the amount given as short-term loans in 1966-67 was Rs. 31 crore. By 1970-71 that short-term loan amount had been raised to Rs. 55 crore. The amount given as long-term loans in agriculture in 1966-67 was Rs. 3 crore; but by 1970-71 the long-term loan amount had been raised to Rs. 19 crore. One must consider whether this was not done to increase facilities.
+
+Even if we look at total expenditure on agriculture, it was Rs. 11.80 crore in 1966-67, Rs. 14.74 crore in 1970-71, and Rs. 18.39 crore in 1971-72; even as the first (`first part`) plan, total expenditure on agriculture has today been increased to the level of Rs. 18 crore.
+
+## Allocation for education
+
+If we take the education sector, against an allocation of Rs. 43 crore in 1966-67, it is now planned to spend Rs. 79 crore. In the medical sector, against Rs. 11 crore allocated in 1966-67, Rs. 20 crore has now been allocated. When our Swamidas spoke, he said that if this percentage is considered and the amount spent on education in 1971-72 is compared with that of 1966-67, it appears lower. That is not a correct argument. Nor is it a correct figure.
+
+In the 1966-67 revenue account, out of a total of Rs. 201 crore, the allocation for education was Rs. 43.86 crore.
+
+<!-- source-page: 51 -->
+
+That was 22 per cent of the total amount. In 1971-72, out of a total amount of Rs. 349 crore, Rs. 79.11 crore was allocated for education. That is 22.6 per cent of the total. Therefore it is not correct for him to say that it has declined. To the extent that revenue has increased and total expenditure has increased, additional expenditure is being made on education as well. Whether one looks at the percentage calculation or the statistics, I wish to remind him that it has not declined; it has increased.
+
+## No village without electric light
+
+The Honourable lady repeatedly alleged that facilities had not increased. It is precisely to increase facilities that this Government has allocated Rs. 15 crore for the water scheme. Rs. 39 crore has been allocated to provide electricity facilities. Taking a vow that there should not be a single village in the country without electric lights, this Government has made an allocation for it and is pursuing the task vigorously. Rs. 3 crore has been allocated for the welfare of backward sections.
+
+When we sat in the Opposition ranks and the Honourable lady sat on the ruling-party side, whenever we argued that there should be a separate department for the welfare of backward people, did anyone pay heed? Did anyone lend an ear? Were we not simply made to sit down with an authoritative "Sit down"? Today, when we assumed responsibility, after Anna's death, when I took responsibility, I said: `I was born in a very backward class — put "very", "very", "very" as many times as you like. Therefore, for the downtrodden people of this country, for the backward people, I shall stake my life and labour so that they may live.`
+
+<!-- translation-continues-at-source-page: 52 -->
