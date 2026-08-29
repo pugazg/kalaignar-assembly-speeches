@@ -1,71 +1,82 @@
 # நமது நிலை — English translation progress
 
-## Current status
+## Final status
 
-- Reader-facing location: `speeches/1971/1971-namathu-nilai/`
-- Gate F first-pass translation: **complete — 58/58 speech pages**
-- Gate G page-by-page fidelity review: **complete — 58/58 speech pages (`scan pp.3–60`)**
-- Editorial Unit 1 Gate-G review: **complete — 35/35 pages**
-- Editorial Unit 2 Gate-G review: **complete — 23/23 pages**
+**COMPLETE AND VERIFIED.**
+
+Reader-facing location:
+
+`speeches/1971/1971-namathu-nilai/`
+
+- Gate F first-pass translation: **complete — 58/58 speech pages (`scan pp.3–60`)**
+- Gate G page-by-page fidelity review: **complete — 58/58 speech pages**
+- Editorial Unit 1 Gate G: **complete — 35/35 pages**
+- Editorial Unit 2 Gate G: **complete — 23/23 pages**
 - Gate-G blocking fidelity issues: **0**
-- Consolidated refinement: **complete — 34/34 candidates decided**
-- Reader-facing English revisions applied from queue: **33**
-- Deliberate source-literal retention: **1** (`சொத்து உரிமை` → `property rights`)
-- Verified Tamil changes during review/refinement: **none**
-- English verification state: **not verified — final closure check pending**
+- consolidated refinement: **34/34 decisions complete**
+- reader-facing revisions from the refinement queue: **33**
+- deliberate source-literal retention: **1** (`சொத்து உரிமை` → `property rights`)
+- final closure check: **PASS**
+- verified Tamil changes during English review/refinement: **none**
+- English verification state: **verified against the verified booklet Tamil**
 
 ## Textual authority
 
-The English translation, review, refinement and closure may use only the verified Tamil derived from:
+The English translation, review, refinement and closure used only the verified Tamil derived from:
 
 `ACL-CPL_01726_நமது_நிலை.pdf`
 
-Assembly/Council Official Reports remain reference/provenance only and must not supply translation, correction, refinement or closure wording.
+Assembly/Council Official Reports remain reference/provenance only and supplied **no** English wording, correction or reconstruction.
+
+## Closure checks completed
+
+The final closure pass confirmed:
+
+1. reader-facing Tamil and English preserve the complete speech range `scan pp.3–60` in booklet order;
+2. the source-page sequence is continuous from **3 through 60**, with both editorial-unit boundaries intact;
+3. the Unit 1 → Unit 2 boundary remains at scan p.38 and the printed Unit 2 heading is preserved;
+4. the page-level Gate-G review had already checked headings, interventions, quotations, names, dates, figures, money, percentages and units across all 58 speech pages, and the consolidated refinement introduced no numerical or source-order changes;
+5. all **34/34** recorded refinement decisions are represented in the reader-facing English;
+6. the deliberate p.47 `property rights` retention and the source-sensitive p.57 / p.60 choices remain explicitly documented rather than externally resolved;
+7. no Assembly/Council Official Report wording entered the translation.
 
 ## Gate-F tracker
 
-All F batches are complete: **58/58 speech pages, scan pp.3–60**.
+| Batch | Scan pages | Status |
+|---|---:|---|
+| F1a | 3–5 | complete |
+| F1b | 6–10 | complete |
+| F2 | 11–18 | complete |
+| F3 | 19–26 | complete |
+| F4 | 27–34 | complete |
+| F5 | 35–37 | complete |
+| F6 | 38–44 | complete |
+| F7 | 45–51 | complete |
+| F8 | 52–58 | complete |
+| F9 | 59–60 | complete |
 
 ## Gate-G tracker
 
-| Batch | Scan pages | Status | Blocking issues |
+| Batch | Scan pages | Status | Blocking fidelity issues |
 |---|---:|---|---:|
-| G1 | 3–10 | **complete** | 0 |
-| G2 | 11–18 | **complete** | 0 |
-| G3 | 19–26 | **complete** | 0 |
-| G4 | 27–34 | **complete** | 0 |
-| G5 | 35–37 | **complete** | 0 |
-| G6 | 38–44 | **complete** | 0 |
-| G7 | 45–51 | **complete** | 0 |
-| G8 | 52–58 | **complete** | 0 |
-| G9 | 59–60 | **complete** | 0 |
-
-Detailed page findings and all final refinement decisions are in [`TRANSLATION_REVIEW.md`](./TRANSLATION_REVIEW.md).
-
-## Consolidated refinement result
-
-All **34** queued candidates were reconsidered only against the verified booklet Tamil and immediate booklet context.
-
-- **33** reader-facing wording refinements were applied.
-- **1** candidate was deliberately retained unchanged: scan p.47 `சொத்து உரிமை` remains `property rights` because the source label itself is ambiguous and outside fiscal classification is prohibited.
-- scan p.57 `அறுத்துக்கொள்ள வேண்டும்` was revised from `wrest it free` to the closer, deliberately non-finalising `cut ourselves free`; no Official Report or outside political reconstruction was used.
-- no Tamil source file was altered.
+| G1 | 3–10 | complete | 0 |
+| G2 | 11–18 | complete | 0 |
+| G3 | 19–26 | complete | 0 |
+| G4 | 27–34 | complete | 0 |
+| G5 | 35–37 | complete | 0 |
+| G6 | 38–44 | complete | 0 |
+| G7 | 45–51 | complete | 0 |
+| G8 | 52–58 | complete | 0 |
+| G9 | 59–60 | complete | 0 |
 
 ## Locked prerequisites
 
 - Tamil visual verification: **complete**
 - accepted scan-supported corrections: **175**
-- unresolved Tamil readings: **0**
-- external legislative wording in Tamil: **none**
+- unresolved Tamil word/character readings: **0**
 - reader-facing Tamil: **58/58 speech pages complete**
-- Gate-F English: **58/58 speech pages complete**
-- Gate-G page review: **58/58 speech pages complete**
-- consolidated refinement: **34/34 decisions complete**
+- external legislative wording imported into Tamil or English: **none**
 
-## Exact continuation point
+## Workflow state
 
-Proceed with the **final closure check**.
-
-Verify all source-page markers, both editorial-unit boundaries, headings, interventions, names, dates, figures, money, percentages and units; confirm all 34 refinement decisions are present in `translation.md`; reconcile workflow metadata/glossary/status files internally; and confirm no Official Report wording entered the English.
-
-Only after that closure passes may English be marked verified.
+The `நமது நிலை` booklet-derived Tamil/English archival workflow is **closed**. Future changes require specific evidence from the controlling booklet scan or a source-controlled correction to the English derived from that verified Tamil; external legislative wording remains prohibited.
