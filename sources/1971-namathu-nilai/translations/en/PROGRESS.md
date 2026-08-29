@@ -2,11 +2,11 @@
 
 ## Current status
 
-- Translation plan: **complete**
-- Gate F first-pass translation: **not started**
+- Translation plan: **complete and active**
+- Reader-facing location: `speeches/1971/1971-namathu-nilai/`
+- Gate F first-pass translation: **in progress**
 - Gate G fidelity review: **not started**
-- Consolidated `translation.md`: **not created**
-- English verification state: **not started**
+- English verification state: **not verified**
 
 ## Textual authority
 
@@ -14,23 +14,19 @@ The English translation may use only the verified Tamil derived from:
 
 `ACL-CPL_01726_நமது_நிலை.pdf`
 
-Working Tamil source files:
+Assembly/Council Official Reports remain reference/provenance only and must not supply translation wording.
 
-- `../../transcription/scan-001-010.md`
-- `../../transcription/scan-011-020.md`
-- `../../transcription/scan-021-030.md`
-- `../../transcription/scan-031-040.md`
-- `../../transcription/scan-041-050.md`
-- `../../transcription/scan-051-060.md`
+## Reader-facing files
 
-Assembly/Council Official Reports are reference/provenance only and must not supply translation wording.
+- `../../../../speeches/1971/1971-namathu-nilai/transcript.md`
+- `../../../../speeches/1971/1971-namathu-nilai/translation.md`
 
-## Gate-F batch tracker
+## Gate-F tracker
 
 | Batch | Scan pages | Scope | Status |
 |---|---:|---|---|
-| F0 | 1–2 | cover/title + publication introduction/imprint | pending |
-| F1 | 3–10 | Unit 1 | pending |
+| F1a | 3–5 | Unit 1 opening | **complete** |
+| F1b | 6–10 | Unit 1 | pending |
 | F2 | 11–18 | Unit 1 | pending |
 | F3 | 19–26 | Unit 1 | pending |
 | F4 | 27–34 | Unit 1 | pending |
@@ -38,23 +34,35 @@ Assembly/Council Official Reports are reference/provenance only and must not sup
 | F6 | 38–44 | Unit 2 | pending |
 | F7 | 45–51 | Unit 2 | pending |
 | F8 | 52–58 | Unit 2 | pending |
-| F9 | 59–60 | Unit 2 close / physical source end | pending |
+| F9 | 59–60 | Unit 2 close | pending |
 
-Coverage completed: **0 / 60 scan pages**.
+Speech-page coverage completed: **3 / 58 scan pages** (`3–5` of `3–60`).
 
-## Locked source prerequisites
+## F1a completion record — scan pp.3–5
+
+Tamil copied into the speech folder from the already verified source transcription only.
+
+English working translation created for the same three pages.
+
+Source anchors:
+
+- first: Unit 1 introduction and `# நமது நிலை` on scan p.3;
+- last: R. D. Parthasarathi / `தெளிவான தீர்ப்பு` paragraph on scan p.5.
+
+No Assembly/Council Official Report wording was imported.
+
+English remains Gate-F working text and requires later Gate-G review.
+
+## Locked prerequisites
 
 - Tamil visual verification: **complete**
 - accepted scan-supported corrections: **175**
 - unresolved Tamil word/character readings: **0**
-- external legislative wording present in Tamil transcription: **none**
-- Unit 1 / Unit 2 source boundaries: **locked**
-- provenance ledgers: **complete, metadata only**
+- external legislative wording in Tamil: **none**
+- provenance ledgers: **metadata only**
 
 ## Exact continuation point
 
-Begin **F0 — scan pp.1–2** from the verified Tamil source only.
+Continue with **F1b — scan pp.6–10**.
 
-Before committing F0, resolve only the English consistency decisions actually required by those pages and record them in `GLOSSARY.md`.
-
-Do not begin F1 until F0 is saved with its exact completion state.
+Append the verified Tamil to the speech-folder `transcript.md`, translate exactly those pages into `translation.md`, then update this tracker.
