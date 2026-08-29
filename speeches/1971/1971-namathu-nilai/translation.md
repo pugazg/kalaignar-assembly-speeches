@@ -1,6 +1,6 @@
 # English translation — நமது நிலை
 
-> **Working translation note:** This English is translated only from the verified Tamil in [`transcript.md`](./transcript.md), whose textual authority is `ACL-CPL_01726_நமது_நிலை.pdf`. No wording from Assembly/Council Official Reports is used. This is a Gate-F working translation and has not yet completed a separate fidelity review.
+> **Translation authority note:** This English is translated only from the verified Tamil in [`transcript.md`](./transcript.md), whose textual authority is `ACL-CPL_01726_நமது_நிலை.pdf`. No wording from Assembly/Council Official Reports is used. The page-by-page Gate-G fidelity review and consolidated source-controlled refinement pass are complete; the final closure check is still pending.
 
 ---
 
@@ -46,13 +46,13 @@ I understand what he means when he refers to acts of magic. Even today it is bei
 
 ## Tata's denial
 
-When a question was raised as to whether there had been fraud in the ballot paper, Tata, who had contested as an Independent with the support of some parties in the Democratic Alliance, issued a statement denying that allegation.
+When a question was raised as to whether there had been fraud involving the ballot papers, Tata, who had contested as an Independent with the support of some parties in the Democratic Alliance, issued a statement denying that allegation.
 
 <!-- source-page: 5 -->
 
 Naval Tata issued a statement denying the report that he intended to file a case challenging his defeat. The views he expressed in that statement were as follows:
 
-"I do not wish to file any petition challenging the election result. I never even thought of doing so. The report that I am going to litigate is mischievous. The allegations that chemical ink was used on the ballot papers are far-fetched; imaginary. If the allegations that mysterious chemical ink was used and that there were special ballot papers were true, I would have polled only about 20,000 votes. I have become like a fish taken out of water. I want to go back into the water."
+"I do not wish to file any petition challenging the election result. I never even thought of doing so. The report that I intend to take legal action is mischievous. The allegations that chemical ink was used on the ballot papers are far-fetched; imaginary. If the allegations that mysterious chemical ink was used and that there were special ballot papers were true, I would have polled only about 20,000 votes. I have become like a fish taken out of water. I want to go back into the water."
 
 I am citing all this only to show how magnanimously they accepted the verdict of the people.
 
@@ -64,7 +64,7 @@ Similarly, Rajya Sabha member Thiru R. D. Parthasarathi has said: "Because the p
 
 Thus, they accepted the election result with great magnanimity.
 
-## A flaw is one thing; an offence is another.
+## A shortcoming is one thing; an offence is another.
 
 Many people here have said that still more modern methods should be used in elections. I have no differing view on that. More modern methods are indeed needed.
 
@@ -106,7 +106,7 @@ Our Perarignar Anna used to say often, "The people's verdict is Mahesan's verdic
 
 Thiru Ponnappa Nadar remarked that under this Government all freedom of the press had been taken away.
 
-Some action was taken because certain hateful, undesirable pictures — pictures unfit for publication — were published in a newspaper. I do not wish to go into the merits of those actions.
+Some action was taken because certain hateful, undesirable pictures — pictures unfit for publication — were published in a newspaper. I do not wish to go into the substance of those actions.
 
 During the four years of this Government, against how many newspapers did it take action? From how many newspapers did it demand a security deposit? How many plays did it ban? How many books did it ban?
 
@@ -146,7 +146,7 @@ Since all those cases are before the courts, I have not gone into them in greate
 
 Therefore, whatever the political reason for murders, and whichever political party's members commit them, they must be stopped; whoever does this, whatever party they belong to, it is highly condemnable.
 
-Many here expressed the view that the leaders of all parties should issue a joint statement. I did not object to that. At the same time as we issue such a statement, the leaders in every district below us and the branch organisations must follow the same practice. I appeal that the culture and civility that have hitherto been observed in Tamil Nadu should be protected.
+Many here expressed the view that the leaders of all parties should issue a joint statement. I did not object to that. At the same time as we issue such a statement, the leaders in each district at the next level and the branch organisations must follow the same practice. I appeal that the culture and civility that have hitherto been observed in Tamil Nadu should be protected.
 
 ## Our policy
 
@@ -176,7 +176,7 @@ Our officials are conscious of their duties. There are many duty-conscious offic
 
 ## One matter, eleven letters
 
-Thiru Krishnaswami Naidu described the difficulties in the administrative system, using the issue of granting pattas to illustrate how the Government should examine matters and act. He pointed out that, for a single matter, 11 letters were written, placed in 11 envelopes, 11 stamps were affixed and they were sent out. That too is something that ought to be pointed out.
+Thiru Krishnaswami Naidu described the difficulties in the administrative system, using the issue of granting pattas to illustrate how the Government should examine matters and act. He pointed out that, for a single matter, 11 letters were written, placed in 11 envelopes, 11 stamps were affixed and they were sent out. That too is something that should be made known.
 
 The fact that a particular piece of land is being given patta or is being acquired is not something that can be communicated only to one person concerned. When the Tamil Nadu Government grants pattas, the respective M.L.A.s, M.L.C.s and M.P.s must be informed about to whom and in which areas they have been granted. Those details could have been sent together. Action will be taken to remove such disorder from administration.
 
@@ -200,7 +200,7 @@ At this very time, while we are debating the Governor's Address, I have the duty
 
 <!-- source-page: 15 -->
 
-The Tuticorin fertiliser-factory project is a Rs. 65 crore project. It is one of the largest projects in Asia. The State Government is contributing Rs. 3 crore to it and private representatives another Rs. 3 crore. Through the efforts of the private representatives, the remaining amount is being raised through Government and non-Government institutions, and this fertiliser factory is being established. We have set it up in the joint sector. As a sign that the Government must exercise oversight over the factory because it has been established in the joint sector, there are four directors in it on behalf of the Government.
+The Tuticorin fertiliser-factory project is a Rs. 65 crore project. It is the largest project in Asia. The State Government is contributing Rs. 3 crore to it and private representatives another Rs. 3 crore. Through the efforts of the private representatives, the remaining amount is being raised through Government and non-Government institutions, and this fertiliser factory is being established. We have set it up in the joint sector. As a sign that the Government must exercise oversight over the factory because it has been established in the joint sector, there are four directors in it on behalf of the Government.
 
 ## Heavy-water production for the nuclear power station
 
@@ -258,7 +258,7 @@ I say this: there have been times when rainfall was deficient. There was even dr
 
 ## Our industrial growth
 
-Following the Salem steel plant, several other large factories have come to our State. Although they do not involve investments on the same scale, a tyre factory is coming. A sodium hydrosulphate factory is being established. A soda-ash factory is also being established in the joint sector. There are signs that a nylon factory will come soon. A polyester-fibre factory is also to be set up.
+Following the Salem steel plant, several other large factories have come to our country; our State has received them. Although they do not involve investments on the same scale, a tyre factory is coming. A sodium hydrosulphate factory is being established. A soda-ash factory is also being established in the joint sector. There are signs that a nylon factory will come soon. A polyester-fibre factory is also to be set up.
 
 I think it would be appropriate to place before the House some figures showing the extent to which industries have grown in our State.
 
@@ -319,7 +319,7 @@ Likewise, in coming forward to assist 2,400 engineers, 1,795 persons had been pl
 
 <!-- source-page: 23 -->
 
-In this way we provided employment opportunities to 6,500 teachers and 2,400 engineers. This does not mean that unemployment in Tamil Nadu will thereby be completely abolished. It was done to show that this Government has the concern to remove unemployment. This concern will grow more and more. This measure was undertaken as a dawn-star showing that schemes will be devised on an ever-increasing scale. It is not right to take this alone and ask whether the employment provided is enough.
+In this way we provided employment opportunities to 6,500 teachers and 2,400 engineers. This does not mean that unemployment in Tamil Nadu will thereby be completely abolished. It was done to show that this Government has the concern to remove unemployment. This concern will grow more and more. This measure was undertaken as a morning star, signalling that schemes will be devised on an ever-increasing scale. It is not right to take this alone and ask whether the employment provided is enough.
 
 ## The question that seethes and surges
 
@@ -371,7 +371,7 @@ Chillies, per 100 kilograms, were Rs. 410 in 1970. In 1971 they had fallen to Rs
 
 The price of firewood has risen from 14 to 18.
 
-## Let us argue together
+## Let us argue our case together
 
 To bring prices down, production must be increased. The Government is engaged in efforts toward that. At the same time, when the Central Government raises prices, it must do so in consultation with us. It was on this that Thiru K. M. Subramaniam asked, "Did you oppose the price rise?"
 
@@ -417,7 +417,7 @@ On 19 January 1971 I again wrote to the Prime Minister, pressing this matter.
 
 The Secretary of the Planning Commission sent the Government, on 12 January 1971, a long note setting out certain objections to our arguments. A reply to it was again sent on 3 February. In this way we have continued to struggle with the Central Government.
 
-Dr. H. V. Hande: The Chief Minister said that he had laid down certain conditions at the N.D.C. meeting held on 21—3—70. I wish to know whether, at that meeting, besides stating them orally, he also wrote a `dissenting note` so as to place them on record officially in a manner that would signify their acceptance in practice.
+Dr. H. V. Hande: The Chief Minister said that he had laid down certain conditions at the N.D.C. meeting held on 21—3—70. I wish to know whether, at that meeting, besides stating them orally, he also wrote a `dissenting note` so that they would be officially recorded and accepted in practice.
 
 Chief Minister: Only our speeches are recorded there. No such records are entered.
 
@@ -443,7 +443,7 @@ Treating it as a special problem, money has been given to Calcutta city in West 
 
 <!-- source-page: 31 -->
 
-In the slum settlements along the seashore, many people are in such a condition that they do not even have a mat on which to sleep in the street. The huts are all surrounded by darkness. Sanitary facilities have not become available. To remove shortcomings of this kind and bring improvement, we have established a Slum Clearance Board on the scale of Rs. 40 crore.
+In the slum settlements along the seashore, many people are in such a condition that they do not even have a mat on which to sleep in the street. The huts are all surrounded by darkness. Sanitary facilities have not become available. To remove shortcomings of this kind and bring improvement, we have established a Slum Clearance Board on a scale of Rs. 40 crore.
 
 If the Central Government had treated this as a special problem and allotted 10 per cent to it, we would have received about Rs. 10 crore. The way it acts on the basis of State eligibility, and the way assistance is denied to us, is not right.
 
@@ -497,7 +497,7 @@ These are the six points Mujibur Rahman put forward for his State-autonomy plan.
 
 When Legislative Council Opposition Leader Thiru Rajaram Naidu spoke, he said that whatever action we took for our rights, they were ready to help us.
 
-I mentioned while speaking that he had not said this carelessly. If Thiru Rajaram said that they were ready to help whatever action we took, it was because he had confidence that every action we took would follow a righteous path and would be of a kind that strengthened India while enabling the States to prosper. I said that it was because of that confidence that he had declared himself ready to cooperate whatever action we took.
+I mentioned while speaking that he had not said this carelessly. If Thiru Rajaram said that they were ready to help whatever action we took, it was because he had confidence that every action we took would follow a principled path and would be of a kind that strengthened India while enabling the States to prosper. I said that it was because of that confidence that he had declared himself ready to cooperate whatever action we took.
 
 ## This is not a demand for secession
 
@@ -505,7 +505,7 @@ I say the same thing again. The powers we ask for are not for separating the Sta
 
 If the burden of authority on the Central Government is reduced, it too can perform its work properly and efficiently. We have explained that the States will prosper through the decentralisation of powers to them.
 
-This is the very idea that echoes in the Governor's Address and in my statement. This should take shape as the unanimous declaration of this House.
+This is the very idea that echoes in the Governor's Address and in my statement. This should take shape as the unanimous message of this House.
 
 <!-- source-page: 35 -->
 
@@ -515,7 +515,7 @@ It was said in the debate that the Governor's Address contained nothing revoluti
 
 There should be no one without land; everyone should have at least 50 cents of land. In the new situation in which there should at least be a 15-kuzhi house site, the committee constituted under my chairmanship will soon begin examining the work necessary for the Dravida Munnetra Kazhagam Government to make suitable arrangements.
 
-They also spoke about a ceiling on buses. The Dravida Munnetra Kazhagam Government has accepted that basic idea. Even yesterday, while Tmt. Ananthanayaki was speaking, I intervened and said so. I wish to state even now that a ceiling on buses will come soon. It will come with `retrospective effect`.
+They also spoke about an upper limit on buses. The Dravida Munnetra Kazhagam Government has accepted that basic idea. Even yesterday, while Tmt. Ananthanayaki was speaking, I intervened and said so. I wish to state even now that an upper limit on buses will come soon. It will come with `retrospective effect`.
 
 ## A deer surrounded by hunters
 
@@ -527,7 +527,7 @@ At present prohibition is being implemented only in Tamil Nadu and Gujarat. Our 
 
 Prohibition is in force in Tamil Nadu. But if one goes 50 miles from here, there is Pondicherry — there is no prohibition there. If one goes 50 miles this way, the Andhra border comes; if one goes 50 miles the other way, Bangalore comes. On another side there is Kerala. Thus our State remains alert like a deer surrounded by hunters on all four sides. It also stands losing the revenue that would come to our State.
 
-The Leader of the Opposition said that prohibition has failed in our State. I accept that. I do not wish to deceive myself, like the previous rulers, by saying, "Ah! A tremendously great success!" I firmly accept it. This policy, having failed, corrupts the integrity of many people. It corrupts the official class as well. One may ask why this should not be attended to. Is there only one or two things to attend to? As a policy, this is a sacred scheme. I accept that. Should not this sacred policy exist throughout India?
+The Leader of the Opposition said that prohibition has failed in our State. I accept that. I do not wish to deceive myself, like the previous rulers, by saying, "Ah! A tremendously great success!" I firmly accept it. This policy, having failed, undermines the honesty of many people. It corrupts the official class as well. One may ask why this should not be attended to. Is there only one or two things to attend to? As a policy, this is a sacred scheme. I accept that. Should not this sacred policy exist throughout India?
 
 ## Why horse racing?
 
@@ -535,13 +535,13 @@ The abolition of horse racing too is a good scheme. Neighbouring States show gre
 
 ## Abolition of untouchability
 
-The abolition of untouchability is indeed a good scheme. What would be the situation if it existed only in Tamil Nadu? If untouchability is abolished in Tamil Nadu and an Adi Dravida friend from here goes to the neighbouring State of Andhra, where untouchability has not been abolished, what situation would arise — if what used to happen here happened there, would he not be subjected to blows and kicks? Now that the abolition of untouchability has been spread on an all-India basis, there is a situation in which it can succeed throughout India.
+The abolition of untouchability is indeed a good scheme. What would be the situation if it existed only in Tamil Nadu? If untouchability is abolished in Tamil Nadu and an Adi Dravida friend from here goes to the neighbouring State of Andhra, where untouchability has not been abolished, what situation would arise — if what happens here were to happen there, would he not be subjected to blows and kicks? Now that the abolition of untouchability has been spread on an all-India basis, there is a situation in which it can succeed throughout India.
 
 Just as with the abolition of untouchability, Congress Governments nurtured by Gandhi have abandoned prohibition, a Gandhian policy. They expressed appreciation that our Government has not abandoned it.
 
 <!-- source-page: 37 -->
 
-Thiru T. K. Shanmugam even sang a song about prohibition. If prohibition were repealed, he would perhaps sing a `thogaiyara` in anger. A desire even arises to wonder: what if it were repealed at least so that we might hear that wonderful song? Because I am saying all this, I ask the newspapermen not to put up a headline saying that prohibition is going to be repealed. I ask members of all parties to think about whether prohibition should be implemented under circumstances such as these.
+Thiru T. K. Shanmugam even sang a song about prohibition. If prohibition were repealed, he would sing a `thogaiyara` in a fury. A desire even arises to wonder: what if it were repealed at least so that we might hear that wonderful song? Because I am saying all this, I ask the newspapermen not to put up a headline saying that prohibition is going to be repealed. I ask members of all parties to think about whether prohibition should be implemented under circumstances such as these.
 
 Thiru Krishnaswami Naidu (Nijalingappa Congress): The Chief Minister spoke in a manner suggesting that prohibition might be removed. On behalf of the two crore women here, I ask that you please do not repeal prohibition.
 
@@ -557,13 +557,13 @@ Chief Minister: I did not say that it was going to be repealed. I only asked the
 
 A compilation of the speeches delivered by Chief Minister of Tamil Nadu Kalaignar M. Karunanidhi in reply to the debate on the Interim Budget Statement in the Tamil Nadu Legislative Assembly and Legislative Council is given below. The Chief Minister's speech follows:-
 
-At this time, when I am replying to the debate that has taken place on the Interim Budget Statement, we are duty-bound to look closely, with humanitarian concern beyond the laws of world politics, at the horrific killings taking place in East Bengal, a part of Pakistan — a country that was once part of India and later became a foreign country — and to convey our deep sympathy to the valiant fighters who are struggling for the rights of those people. Even though this is a foreign-affairs matter and we should not intervene in it, as I said at the outset, in a situation beyond the framework of the laws of world politics, we are duty-bound, on humanitarian grounds and on behalf of four crore Tamil people, to convey our deep sympathy.
+At this time, when I am replying to the debate that has taken place on the Interim Budget Statement, we are duty-bound to look beyond the rules of world politics and, from a humanitarian standpoint, consider closely the horrific killings taking place in East Bengal, a part of Pakistan — a country that was once part of India and later became a foreign country — and to convey our deep sympathy to the valiant fighters who are struggling for the rights of those people. Even though this is a foreign-affairs matter and we should not intervene in it, as I said at the outset, looking beyond the rules of world politics, we are duty-bound, on humanitarian grounds and on behalf of four crore Tamil people, to convey our deep sympathy.
 
 Members belonging to various parties have explained many good views in considerable detail on the Interim Budget Statement. At a time when a new Government has once again been formed in this House on behalf of the Dravida Munnetra Kazhagam, I take pride in having had the privilege, as Finance Minister, of placing the Budget Statement before you, hearing all your considered views and replying to them. I am also greatly delighted.
 
 ## Members of ability
 
-This Government, created by Perarignar Anna, has been formed after standing in his path and governing for four years, and after receiving the overwhelming support of the great people of Tamil Nadu. I know well how capable the members who have come here are.
+This Government, created by Perarignar Anna, has been formed after governing for four years by following his path and receiving the overwhelming support of the great people of Tamil Nadu. I know well how capable the members who have come here are.
 
 <!-- source-page: 39 -->
 
@@ -615,7 +615,7 @@ As the Honourable Member Anbuchezhiyan pointed out, no one has accepted a princi
 
 We too have never said that we will impose no tax. Taxing those who can bear it and increasing facilities for people who cannot bear the burden can be the sound policy of a progressive Government. It is in that manner that taxes have been fixed in this country during the past four years. In this connection, our Honourable Member Thiru K. M. Subramaniam and Tmt. Ananthanayaki pointed to one or two items from the notes supplied to them.
 
-They referred to the extent to which interim revenue from registration had increased. That increased revenue from registration today stands at Rs. 316 lakh. But in 1938-39 it was Rs. 32 lakh. By 1962 itself it had begun to rise to Rs. 124 lakh. Rather than merely taking it that we are somehow seeing additional revenue from registration, we must not forget that the reason registration revenue is higher is that land valuations have been rising with the times, and correspondingly the Government receives greater revenue through registration fees.
+They referred to how much the interim figure for registration revenue had increased. That increased revenue from registration today stands at Rs. 316 lakh. But in 1938-39 it was Rs. 32 lakh. By 1962 itself it had begun to rise to Rs. 124 lakh. Rather than merely taking it that we are somehow seeing additional revenue from registration, we must not forget that the reason registration revenue is higher is that land valuations have been rising with the times, and correspondingly the Government receives greater revenue through registration fees.
 
 <!-- source-page: 44 -->
 
@@ -631,7 +631,7 @@ The Corporation first obtains a loan from the Government and then incurs expendi
 
 ## Loan obtained by the Corporation from L.I.C.
 
-Another point was also made. It was said that the Madras Corporation Council had obtained a loan of Rs. 5 crore from L.I.C. and that the Government was holding that Rs. 5 crore. They did not stop there; they also put forward a somewhat alarming claim — that this Government had used the loan obtained by the Madras Corporation through L.I.C. to cover a Reserve Bank `overdraft`. In fact, the loan obtained from L.I.C. was not Rs. 5 crore; the loan obtained from L.I.C. was only Rs. 3 crore. The Government obtained that Rs. 3 crore from L.I.C. on behalf of the Corporation Council.
+Another point was also made. It was said that the Madras Corporation Council had obtained a loan of Rs. 5 crore from L.I.C. and that the Government was holding that Rs. 5 crore. They did not stop there; they also made a rather startling allegation — that this Government had used the loan obtained by the Madras Corporation through L.I.C. to cover a Reserve Bank `overdraft`. In fact, the loan obtained from L.I.C. was not Rs. 5 crore; the loan obtained from L.I.C. was only Rs. 3 crore. The Government obtained that Rs. 3 crore from L.I.C. on behalf of the Corporation Council.
 
 <!-- source-page: 45 -->
 
@@ -647,7 +647,7 @@ Of the Rs. 1 crore 10 lakh raised by the Corporation as a public loan, it retain
 
 It was alleged that the allocation for small industries and village industries had been reduced. They said that it had fallen from Rs. 50 lakh to Rs. 20 lakh. They made that allegation because they had read only the note contained in the book they have called the `White Paper on Budget`. I do not deny the note contained there. But no one should mistakenly understand that the amount has been reduced from Rs. 50 lakh to Rs. 24 lakh.
 
-Apart from this Rs. 24 lakh, the Government has established SIDCO — that is, the Small Industries Development Corporation, the Small Industries Development Corporation — and Rs. 100 lakh has been allocated in its name. Thus the Rs. 100 lakh allocation is in the 1971-72 Interim Budget itself. The details regarding this are stated in the large book called the White Paper.
+Apart from this Rs. 24 lakh, the Government has established SIDCO — that is, the Small Industries Development Corporation, the small-industries development body — and Rs. 100 lakh has been allocated in its name. Thus the Rs. 100 lakh allocation is in the 1971-72 Interim Budget itself. The details regarding this are stated in the large book called the White Paper.
 
 ## Our concern has not diminished
 
@@ -667,7 +667,7 @@ It was said that the financial allocation for buying tractors had been reduced. 
 
 <!-- source-page: 48 -->
 
-From 1946 to 1966-67, over a period of twenty years, the old Government — and when I say old Government, I mean the very old Government — spent Rs. 76 lakh on purchasing tractors: Rs. 76 lakh over twenty years. But we spent Rs. 6 lakh in 1967-68, Rs. 22.68 lakh in 1968-69, Rs. 69.95 lakh in 1969-70 and Rs. 29.55 lakh in 1970-71. In addition, Rs. 30 lakh has been sanctioned for purchasing another 16 tractors. That amount is not included here. If it were included, the figure for 1970-71 would come to about Rs. 59 lakh.
+From 1946 to 1966-67, over a period of twenty years, the old Government — and by "old Government" I mean the really old Government — spent Rs. 76 lakh on purchasing tractors: Rs. 76 lakh over twenty years. But we spent Rs. 6 lakh in 1967-68, Rs. 22.68 lakh in 1968-69, Rs. 69.95 lakh in 1969-70 and Rs. 29.55 lakh in 1970-71. In addition, Rs. 30 lakh has been sanctioned for purchasing another 16 tractors. That amount is not included here. If it were included, the figure for 1970-71 would come to about Rs. 59 lakh.
 
 Thus, in four years this Government has allocated Rs. 129 lakh for purchasing tractors. In their twenty years, however, their allocation was only Rs. 76 lakh. I mention this not as an accusation, but for the attention of the members.
 
@@ -687,7 +687,7 @@ It is the Government's duty to see that these matchsticks do not catch fire. Tha
 
 The allegation that facilities have not increased is repeatedly made. In the agricultural sector alone, the amount given as short-term loans in 1966-67 was Rs. 31 crore. By 1970-71 that short-term loan amount had been raised to Rs. 55 crore. The amount given as long-term loans in agriculture in 1966-67 was Rs. 3 crore; but by 1970-71 the long-term loan amount had been raised to Rs. 19 crore. One must consider whether this was not done to increase facilities.
 
-Even if we look at total expenditure on agriculture, it was Rs. 11.80 crore in 1966-67, Rs. 14.74 crore in 1970-71, and Rs. 18.39 crore in 1971-72; even as the first (`first part`) plan, total expenditure on agriculture has today been increased to the level of Rs. 18 crore.
+Even if we look at total expenditure on agriculture, it was Rs. 11.80 crore in 1966-67, Rs. 14.74 crore in 1970-71, and Rs. 18.39 crore in 1971-72; even under the first (`first part`) plan, total expenditure on agriculture has today been increased to the level of Rs. 18 crore.
 
 ## Allocation for education
 
@@ -707,7 +707,7 @@ When we sat in the Opposition ranks and the Honourable lady sat on the ruling-pa
 
 <!-- source-page: 52 -->
 
-## Assistance to raise the condition of backward people
+## Assistance to improve the condition of backward people
 
 To prove that this was not merely a matter of words, a separate department for the welfare of backward people was immediately established. Besides a separate department and a separate Minister, a committee was also constituted. That committee has submitted its recommendations, and we are now in a position where the Government is examining those recommendations. Not only that, in the backward-people welfare department, we changed the position under which scholarships were given to students only if they obtained 50 per cent marks, and made it possible for those obtaining 40 per cent marks also to receive scholarships. Assistance that had earlier stood at Rs. 90 lakh was revised so as to provide Rs. 300 lakh in assistance.
 
@@ -733,7 +733,7 @@ The Leader of the Opposition in the Legislative Council and the other members wh
 
 If there were people in the Cabinet inclined toward acts of violence, he would not have used those words.
 
-The reason they spoke in this way, without deceit or guile and with an open heart, was that they believed the actions taken would be measured, honest and in accordance with parliamentary methods, and that those actions would follow Anna's path. It was because they believed this that they spoke with such firmness and emphasis. Hearing this speech of his, I too wondered with some anxiety what members of his party might say. I am greatly obliged to appreciate the concern they have shown for Tamil Nadu's advancement.
+The reason they spoke in this way, without deceit or guile and with an open heart, was that they believed the actions taken would be measured, honest and in accordance with parliamentary methods, and that those actions would follow Anna's path. It was because they believed this that they spoke with such firmness and emphasis. Hearing this speech of his, I too wondered with some anxiety what members of his party might say. I am deeply obliged to commend the concern they have shown for Tamil Nadu's advancement.
 
 Member Thiru Swaminathan examined all the reasons why the financial shares that ought to reach us have not reached us. I even wondered whether his speech might go so far as to make one think that an emissary of the Central Government was speaking. But only after he finished did I gain confidence that there was no such problem, and that Thiru Swaminathan too would certainly stand with us in the righteous struggle — the struggle for rights — the struggle suited to parliamentary methods — that the Tamil Nadu Government is conducting against the Central Government.
 
@@ -747,9 +747,9 @@ When the elder Thiru Krishnaswami Naidu, who had worked for a long time in the T
 
 There were many in Tamil Nadu who looked with irritation and asked whether these ordinary people, these common people, should sit on the seat of power. All the good we had done for the country in four years was concealed; all the achievements that were pointed out were mocked and ridiculed; and there were also those who worked in the election with the aim that we should be removed.
 
-## Praise with purity of heart
+## Praise offered with a pure heart
 
-But the elders who offered their good wishes here did not work in this election with that intention. I am prepared to accept with great kindness and humility the praise they gave with purity of heart. That praise will serve as good support for my work and for the work of my fellow Ministers.
+But the elders who offered their good wishes here did not work in this election with that intention. I am prepared to accept with great kindness and humility the praise they offered with a pure heart. That praise will serve as good support for my work and for the work of my fellow Ministers.
 
 The election is over. Whether the incidents that have taken place after the election or those that took place earlier were incidents that occurred politically, we must truly feel sorrow and pain over them. I ask everyone involved in political parties not to fall prey to murderous frenzy. However many personal or political resentments there may be, it is only by settling them through speech and through writing that we can preserve the culture of Tamil Nadu and political civility.
 
@@ -777,7 +777,7 @@ It was asked whether there should be a situation in which a kavadi has to be tak
 
 Even though the speeches made here may be made inside a small hall with only forty or fifty people seated and speaking, these speeches do not thereby lose their proper value. These speeches are certainly capable of echoing in Delhi. News will spread in Delhi that Tamil Nadu Chief Minister Karunanidhi has expressed such a view and that all parties have supported it. I say this not to frighten anyone, but so that everyone should know that the representatives of all the people in this State do not want Tamil Nadu to be cheated and are asking that the funds Tamil Nadu needs be provided.
 
-Their desire is that we should somehow wrest it free. Members of the ruling party and leaders of the Opposition parties all referred to this. Thiru Ponnappa Nadar too said that he welcomed our asking the Central Government. Now he will certainly and firmly welcome it. Our Hande asked, "You keep asking the Central Government; what are you going to do if they do not give it?" Their desire is that we should do something and wrest it free. So they asked, "What are you going to do? What are you going to do?" I asked him himself to tell me what should be done.
+Their desire is that we should somehow cut ourselves free. Members of the ruling party and leaders of the Opposition parties all referred to this. Thiru Ponnappa Nadar too said that he welcomed our asking the Central Government. Now he will certainly and firmly welcome it. Our Hande asked, "You keep asking the Central Government; what are you going to do if they do not give it?" Their desire is that we should do something and cut ourselves free. So they asked, "What are you going to do? What are you going to do?" I asked him himself to tell me what should be done.
 
 <!-- source-page: 58 -->
 
@@ -791,11 +791,11 @@ Today we are giving support to the abolition of privy purses and to the programm
 
 <!-- source-page: 59 -->
 
-When the Honourable lady belonging to the Congress Party said, "Do not bow to the Central Government; do not bend," I take it that, as a woman of the Maravar clan, she was teaching courage. I took her as a mother — indeed, as a Purananuru mother — and I do not think she said, "Do not bow, do not bend," in order to belittle us. I consider that what she meant was that, even if they could not directly join us and fight for us, they were prepared to cooperate indirectly.
+When the Honourable lady belonging to the Congress Party said, "Do not bow to the Central Government; do not bend," I take it that, as a Maravar woman, she was teaching courage. I took her as a mother — indeed, as a Purananuru mother — and I do not think she said, "Do not bow, do not bend," in order to belittle us. I consider that what she meant was that, even if they could not directly join us and fight for us, they were prepared to cooperate indirectly.
 
 ## The State Planning Commission is not a rival commission!
 
-Many more plans must still be framed for our State. It is with this in view that the Governor's Address and my statement have said that a State Planning Commission should be established and plans should be drawn up for a ten-year period.
+Many more plans must still be framed for our land. It is with this in view that the Governor's Address and my statement have said that a State Planning Commission should be established and plans should be drawn up for a ten-year period.
 
 This Planning Commission is not being created in competition with the Planning Commission at the Centre. It will examine such matters as: to what extent will Tamil Nadu's population grow over ten years? What opportunities and facilities should the Government provide for them? What opportunities will be needed to provide them education? What kind of medical facilities will be required? What should the progress of agriculture be at that time? If water scarcity arises, how should provision be made for all of it? The State Planning Commission will examine various matters of this kind and submit them in its report.
 
@@ -805,12 +805,12 @@ We can define how plans should be implemented over a ten-year period and, with t
 
 this Planning Commission's report will be useful for that.
 
-I am duty-bound to give you with confidence the happy news that, by the time the Budget Statement for 1972-73 is placed next year, the committee's report will have been placed before the House and all of us can discuss that draft plan.
+I am duty-bound to give you with confidence the happy news that, by the time the Budget Statement for 1972-73 is placed next year, that body's report will have been placed before the House and all of us can discuss that draft plan.
 
 ## Voice for our rights
 
 When we speak of State autonomy, we say that powers must be decentralised; powers must not be concentrated in one place; and that the States should have greater powers in the political, social and economic spheres. What we say is that there should not be a situation in which the Central Government keeps all powers locked up while the States remain with their hands tied.
 
-Why did Pakistan come into being? Pakistan came into being because State autonomy was not accepted. What is the situation in East Pakistan today? I too firmly believe that, through a tendency to obstruct the rights of the States, no one in India will come forward to create Rahmans from State to State.
+Why did Pakistan come into being? Pakistan came into being because State autonomy was not accepted. What is the situation in East Pakistan today? I too firmly believe that no one in India will, by obstructing the rights of the States, come forward to bring forth Rahmans in State after State.
 
 This Budget Statement is a statement that echoes the voice for the rights of the people of Tamil Nadu. We, who have accepted parliamentary methods, have on that basis raised our voice for our rights through it.
