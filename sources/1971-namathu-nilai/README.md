@@ -12,17 +12,17 @@ Other Assembly and Legislative Council PDFs are **reference/provenance only**. T
 
 ## Reader-facing speech entry
 
-The speech and its working English translation are now being populated under:
+The speech and its working English translation are being populated under:
 
 [`../../speeches/1971/1971-namathu-nilai/`](../../speeches/1971/1971-namathu-nilai/)
 
 Current coverage there:
 
-- Tamil: scan pp. **3–5**
-- English: scan pp. **3–5**
-- next page: **scan p.6**
+- Tamil: scan pp. **3–10**
+- English: scan pp. **3–10**
+- next page: **scan p.11**
 
-The entry preserves the booklet as an edited two-House compilation and does not reconstruct separate Assembly/Council transcripts.
+The entry preserves the booklet as an edited two-House compilation and does not reconstruct separate Assembly/Council transcripts. Scan pp.1–2 remain publication front matter/source metadata and are not inserted into the speech transcript as spoken text.
 
 ## Source identity
 
@@ -89,6 +89,8 @@ Control files remain here:
 - [`translations/en/GLOSSARY.md`](./translations/en/GLOSSARY.md)
 
 Actual reader-facing English is maintained only in the `speeches/` entry to avoid duplicate independently editable copies.
+
+Gate-F first-pass coverage is now **scan pp.3–10**. Next batch: **scan pp.11–18**.
 
 ## Handover
 
