@@ -20,7 +20,7 @@ Do not transcribe from, complete from, repair from, normalize toward, or merge w
 
 Those additional legislative PDFs are **reference/provenance sources only**. They may establish House, date, event context, sitting chronology and provenance alignment, but their words must not enter the Tamil archival transcription.
 
-The same rule applies to future English work: translate the verified booklet Tamil, not Official Report wording.
+The same rule controls English: **translate the verified booklet Tamil only**. Do not use Official Report wording as an English source, completion aid or substitute.
 
 ---
 
@@ -102,7 +102,7 @@ The booklet principally follows the 2 April Assembly reply and then changes to s
 
 The booklet interleaves material associated with the 29 March Assembly and Council replies multiple times. There is no single defensible Assembly→Council splice.
 
-These conclusions must remain metadata. Do not insert House labels or Official Report text into the verified booklet transcription.
+These conclusions remain metadata only. Do not insert House labels or Official Report text into the verified booklet transcription or translation.
 
 ---
 
@@ -110,54 +110,84 @@ These conclusions must remain metadata. Do not insert House labels or Official R
 
 Because the booklet is a mixed two-House editorial witness and external text cannot be imported, **do not create reconstructed `speeches/1971/...` transcripts** for this source.
 
-Design decision:
+Locked design:
 
 - preserve the booklet transcription as the canonical textual layer;
 - represent dated Assembly context with metadata/provenance records only;
 - do not add the dated events to `data/speeches.json` as if complete verbatim Assembly transcripts were archived;
-- do not list them in the root speech table as completed canonical speeches.
+- do not list them in the root canonical speech table as completed speeches.
 
-Relevant policy files:
+Relevant files:
 
 - `booklet-derived-representation-design.md`
 - `canonical-extraction-policy.md`
-
-Source-local Assembly event reference records already created:
-
 - `events/1971-03-29-assembly-interim-budget-reply.md`
 - `events/1971-04-02-assembly-governors-address-reply.md`
 
-Both records point back to the booklet transcription and contain no replacement Tamil text from Official Reports.
-
 ---
 
-## Reader/source index
+## Reader/source indexing status
 
-Repository discoverability is now **complete** for this stage.
+Repository discoverability is complete for the source package.
 
-The source package has a reader-facing index:
+Reader-facing source index:
 
 `sources/1971-namathu-nilai/README.md`
 
-It links the verified transcription, correction/audit records, event references, provenance ledgers, representation policy and this handover.
-
-The repository root `README.md` now exposes `நமது நிலை` under the active source handovers section, links both dated Assembly reference records and explicitly states that they are metadata/provenance records rather than complete canonical Assembly transcripts.
-
-The two event references remain intentionally absent from the canonical speech table and `data/speeches.json`.
+The repository root README exposes the source package and the two dated Assembly reference records while explicitly keeping them outside the canonical speech table and `data/speeches.json`.
 
 ---
 
-## English status
+## English translation status
 
-**Not started.**
+**Translation planning is complete. Substantive English translation has not started.**
 
-Tamil source verification is complete, so English is now technically eligible under the normal workflow, but the following source-specific rule controls:
+English workspace:
 
-- translate only the verified booklet Tamil;
-- preserve the booklet's printed editorial order and headings;
-- do not split or reconstruct English into separate Assembly/Council speeches;
-- do not import wording from any Official Report;
-- keep provenance notes separate from translated source text.
+`sources/1971-namathu-nilai/translations/en/`
+
+Created planning/control files:
+
+- `TRANSLATION_PLAN.md`
+- `PROGRESS.md`
+- `GLOSSARY.md`
+
+### Translation authority
+
+English must translate only the verified Tamil in the six `transcription/scan-*.md` files, which in turn are controlled only by `ACL-CPL_01726_நமது_நிலை.pdf`.
+
+If a Tamil reading becomes doubtful while translating, re-check the controlling booklet scan. **Never resolve it from an Assembly/Council PDF.**
+
+### Planned Gate-F coverage
+
+| Batch | Scan pages | Scope |
+|---|---:|---|
+| F0 | 1–2 | cover/title + publication introduction/imprint |
+| F1 | 3–10 | Unit 1 |
+| F2 | 11–18 | Unit 1 |
+| F3 | 19–26 | Unit 1 |
+| F4 | 27–34 | Unit 1 |
+| F5 | 35–37 | Unit 1 close |
+| F6 | 38–44 | Unit 2 |
+| F7 | 45–51 | Unit 2 |
+| F8 | 52–58 | Unit 2 |
+| F9 | 59–60 | Unit 2 close / source end |
+
+Current Gate-F coverage: **0 / 60 scan pages**.
+
+Gate G will later re-read the complete English page-by-page against the verified Tamil and will specifically check that no Official Report wording has entered the translation.
+
+### English output design
+
+Gate-F working drafts:
+
+`translations/en/batches/`
+
+After Gate G, consolidate the reviewed English into:
+
+`translations/en/translation.md`
+
+Do not mark English `verified` until the full Gate-G fidelity pass is complete.
 
 ---
 
@@ -172,20 +202,23 @@ Unless a direct booklet-scan error is proved:
 - the locked Unit 1 and Unit 2 boundaries;
 - both three-way provenance ledgers.
 
-The released 2007 industrial anthology is unrelated and must remain untouched as well.
+The released 2007 industrial anthology is unrelated and must remain untouched.
 
 ---
 
 ## Exact continuation point
 
-The indexing/handover activity is complete.
+The booklet-only English translation plan and control scaffolding are complete.
 
-Next substantive source activity:
+Next substantive activity:
 
-1. Prepare a **booklet-only English translation plan** for `நமது நிலை` before translating any text.
-2. The translation plan must use only the verified Tamil in the six `transcription/scan-*.md` files as source text.
-3. Preserve the booklet's two editorial units and printed order; do not reconstruct separate Assembly/Council speeches.
-4. External Assembly/Council PDFs may remain available only for provenance notes and must not supply English wording.
-5. Do not change the verified Tamil while planning or translating unless a direct error is independently proved against `ACL-CPL_01726_நமது_நிலை.pdf`.
+1. Begin **Gate F — F0, scan pp.1–2** only.
+2. Translate from the verified Tamil in `transcription/scan-001-010.md`.
+3. Lock only the glossary choices required by F0.
+4. Save the F0 working translation as `translations/en/batches/f00-scan-001-002.md`.
+5. Update `PROGRESS.md` with exact source coverage and commit SHA.
+6. Do not start F1 until F0 is durably recorded.
 
-At every future step, remember: **Tamil transcription authority = `ACL-CPL_01726_நமது_நிலை.pdf` only.**
+At every future step:
+
+> **Text/translation authority = `ACL-CPL_01726_நமது_நிலை.pdf` via the verified Tamil transcription only. External Assembly/Council PDFs = reference/provenance only.**
