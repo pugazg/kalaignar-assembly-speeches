@@ -16,7 +16,7 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 - Do not import Official Report wording.
 - Record definite idiomatic/non-literal choices when needed.
 
-## Locked terms encountered through scan p.10
+## Locked terms encountered through scan p.18
 
 | Tamil source form | English rendering | Note |
 |---|---|---|
@@ -38,8 +38,22 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 | `ஜாமீன் தொகை` | `security deposit` | Press-law context rather than criminal bail. |
 | `எழுத்து உரிமை` | `right to write` | Preserves the source's formulation in the play-ban passage. |
 | `நீதி மன்றம்` | `court` | Standard rendering in the litigation passages. |
+| `இடைக்கால நிதி நிலை அறிக்கை` | `Interim Budget Statement` | First encountered in the policy discussion on scan p.11. |
+| `மாநிலத் திட்டக் குழு` | `State Planning Commission` | Used for the institution announced in the Governor's Address. |
+| `நிர்வாகச் சீர்திருத்த ஆணைக் குழு` / `நிர்வாகச் சீர்திருத்தக் குழு` | `Administrative Reforms Commission` | One consistent English institutional rendering; Tamil variants remain unchanged. |
+| `பட்டா` | `patta` | Land-administration term retained rather than silently replacing the source concept with a broader modern label. |
+| `ஆர்ஜிதம்` | `acquisition` / `acquired` | Contextual land-acquisition rendering. |
+| `பதவி நீடிப்பு` | `extension of service` | Administrative-service context. |
+| `ஆரவாரம்` | `Cheers` | Parliamentary audience/reaction marker in first-pass English. |
+| `கூட்டுத்துறை` | `joint sector` | Industrial-policy term. |
+| `ஹெவி வாட்டர்` | `heavy water` | Source transliteration rendered in standard English form. |
+| `அணுசக்தி ஆணைக்குழு` | `Atomic Energy Commission` | Institutional rendering. |
+| `தேசிய வளர்ச்சிக் குழு` | `National Development Council` | Institutional rendering. |
+| `என்.டி.சி.` | `N.D.C.` | Source abbreviation retained in the quoted passage. |
+| `நான்காவது ஐந்தாண்டுத் திட்டம்` | `Fourth Five-Year Plan` | Period planning terminology. |
+| `எழுச்சி நாள்` | `Uprising Day` | First-pass rendering; recheck rhetorical nuance at Gate G. |
 
-## Names encountered through scan p.10
+## Names encountered through scan p.18
 
 - `வேழவேந்தன்` → `Vezhavendan`
 - `பொன்னப்ப நாடார்` → `Ponnappa Nadar`
@@ -53,6 +67,14 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 - `பேரறிஞர் அண்ணா` → `Perarignar Anna`
 - `எம்.ஜி.ஆர்.` → `M.G.R.`
 - `முருகேசன்` → `Murugesan`
+- `கிருஷ்ணசாமி நாயுடு` → `Krishnaswami Naidu`
+- `கே. டி. கே. தங்கமணி` → `K. T. K. Thangamani`
+- `காமராஜர்` → `Kamarajar`
+- `வெங்கட்ராமன்` → `Venkataraman`
+- `சுப்பிரமணியம்` → `Subramaniam`
+- `டாக்டர் ஹாண்டே` → `Dr. Hande`
+- `அனந்த நாயகி` → `Ananthanayaki`
+- `ஜோதி வெங்கடாசலம்` → `Jothi Venkatachalam`
 
 These English forms are consistency renderings of names printed in Tamil; they do not authorize source-text changes.
 
@@ -72,7 +94,7 @@ These English forms are consistency renderings of names printed in Tamil; they d
 
 The first-pass English preserves these as transliterated source titles rather than replacing them with translated titles.
 
-## Rhetoric / idiom decisions through scan p.10
+## Rhetoric / idiom decisions through scan p.18
 
 | Tamil | English | Note |
 |---|---|---|
@@ -84,16 +106,18 @@ The first-pass English preserves these as transliterated source titles rather th
 | `மக்கள் தீர்ப்பே மகேசன் தீர்ப்பு` | `The people's verdict is Mahesan's verdict` | Keeps the source's wordplay/divine reference instead of replacing it with a generic paraphrase. |
 | `மகேசனும் சேர்ந்து அளித்த தீர்ப்பு` | `a verdict in which Mahesan too joined` | Preserves the follow-on rhetorical play. |
 | `அவன் ஒரு இடத்தில் தான் என்னை அடித்தான், நீ ஊரெல்லாம் என்னை அடிக்கச் செய்திருக்கிறாயே` | `He struck me only in one place; you have made me be struck all over the town` | Keeps the poster analogy rather than explaining it outside the source text. |
+| `காரியம் ஒன்று, கடிதங்கள் பதினொன்று` | `One matter, eleven letters` | Keeps the compact administrative-ridicule heading. |
+| `பெண் கேட்டவர்கள் கதை` | `The story of those who asked for the girl's hand` | Retains the marriage/suitor analogy rather than generalising it. |
+| `கட்டினவனுக்குத்தான் பெண்ணே தவிர, கேட்டவனுக்கெல்லாம் அல்ல` | `the girl belongs to the man who married her, not to everyone who asked for her hand` | First-pass close rendering of the analogy; review tone at Gate G. |
+| `எங்கள் காலத்து வயல்கள்` | `fields from our time` | Retains the sarcastic extension of the opposition's claim. |
 
 ## Pending recurring terms
 
-- `இடைக்கால நிதிநிலை அறிக்கை`
 - `மது விலக்கு`
-- `மாநிலத் திட்டக் குழு`
 - `உரிமைக் குரல்`
 
 Lock these only when encountered in the working translation.
 
 ## Current state
 
-Gate F has completed its first pass through scan p. **10**. Reader-facing speech/translation coverage is **scan pp.3–10**. Next continuation: **scan p.11**.
+Gate F has completed its first pass through scan p. **18**. Reader-facing speech/translation coverage is **scan pp.3–18**. Next continuation: **scan p.19**.
