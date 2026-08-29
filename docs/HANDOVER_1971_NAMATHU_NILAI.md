@@ -67,7 +67,7 @@ Important structural conclusion:
 
 ## Reader-facing `speeches/` representation
 
-The speech and translation are populated under the repository's normal `speeches/` area:
+The speech and translation are populated under:
 
 `speeches/1971/1971-namathu-nilai/`
 
@@ -87,19 +87,19 @@ Scan pp.1–2 are publication front matter/source metadata and are not inserted 
 
 Tamil copied from the verified booklet transcription:
 
-- scan pp. **3–10** complete
+- scan pp. **3–18** complete
 
 English first-pass translation:
 
-- scan pp. **3–10** complete
+- scan pp. **3–18** complete
 
 English remains **Gate-F working text**, not yet fidelity-verified.
 
-Current speech-page coverage: **8 / 58 pages**.
+Current speech-page coverage: **16 / 58 pages**.
 
 Next continuation point:
 
-- **scan p.11**
+- **scan p.19**
 
 ## Translation control records
 
@@ -117,7 +117,7 @@ Actual reader-facing English must be maintained only in:
 
 Do not create a second independently editable English translation under `sources/`.
 
-## Completed Gate-F range so far
+## Completed Gate-F ranges
 
 ### F1a — scan pp.3–5
 
@@ -125,27 +125,34 @@ Completed Tamil population and English first pass.
 
 ### F1b — scan pp.6–10
 
+Completed Tamil population and English first pass.
+
+### F2 — scan pp.11–18
+
 Completed Tamil population and English first pass. This range includes:
 
-- `குறை வேறு ; குற்றம் வேறு.`;
-- Salem-incident explanation;
-- poster/father analogy;
-- `மக்கள் தீர்ப்பே மகேசன் தீர்ப்பு`;
-- press-freedom comparison;
-- play-ban discussion;
-- election-period murders through the Murugesan paragraph.
+- all-party appeal against political killings;
+- `நமது கொள்கை` and progressive-policy discussion;
+- State Planning Commission and administrative reforms;
+- `காரியம் ஒன்று, கடிதங்கள் பதினொன்று`;
+- service-extension policy and `(ஆரவாரம்)`;
+- Tuticorin fertiliser and heavy-water projects;
+- Salem steel-plant history and National Development Council passage;
+- `பெண் கேட்டவர்கள் கதை`;
+- six-month revised-report discussion;
+- `நல்லதைச் செய்தோமா, இல்லையா?` through the food-production/drought close on scan p.18.
 
 No Assembly/Council Official Report wording was used.
 
 ## Exact next activity
 
-Continue **F2 — scan pp.11–18**:
+Continue **F3 — scan pp.19–26**:
 
-1. read the verified Tamil only from the source transcription;
-2. append scan pp.11–18 exactly to `speeches/1971/1971-namathu-nilai/transcript.md`;
-3. append the faithful English translation of those same pages to `translation.md`;
+1. read the verified Tamil only from `sources/1971-namathu-nilai/transcription/`;
+2. extend `speeches/1971/1971-namathu-nilai/transcript.md` through scan p.26;
+3. extend the faithful English first-pass `translation.md` through the same pages;
 4. preserve every source-page marker, heading, intervention, figure and source ordering;
-5. update `metadata.json`, speech README, `PROGRESS.md`, and `GLOSSARY.md` as needed;
+5. update `metadata.json`, speech README, `PROGRESS.md`, and `GLOSSARY.md`;
 6. do not use Assembly/Council Official Report wording.
 
 At every step:
