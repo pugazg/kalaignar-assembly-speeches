@@ -2,11 +2,11 @@
 
 ## Status
 
-This directory contains the **audit-consolidated source-level Tamil transcription** of `ACL-CPL_01726_நமது_நிலை.pdf`.
+This directory contains the **audit-consolidated and visually verified source-level Tamil transcription** of `ACL-CPL_01726_நமது_நிலை.pdf`.
 
-The user-supplied word-to-word text was used as the first-pass baseline. The rendered 60-page scan is the controlling textual authority. The first full visual-fidelity pass produced **175 confirmed discrepancy entries**, all mapped in `../correction-application-ledger.md` and applied to this transcription set.
+The user-supplied word-to-word text was used as the first-pass baseline. The rendered 60-page scan is the controlling textual authority. The full visual-fidelity pass produced **175 confirmed discrepancy entries**, all mapped in `../correction-application-ledger.md` and applied to this transcription set.
 
-This is **not yet a canonical dated/House-specific speech transcript** and must not be marked `verified_against_scan=true` at the speech level. The source says the published material combines responses delivered in both the Legislative Assembly and Legislative Council, but the edition does not provide a secure House/date split for the underlying speeches.
+This source-level witness is **complete and verified**. It is not a dated/House-specific Official Report transcript: the booklet combines material associated with both the Legislative Assembly and Legislative Council.
 
 ## Files and physical coverage
 
@@ -25,81 +25,69 @@ This is **not yet a canonical dated/House-specific speech transcript** and must 
 
 - scan pages: **3–37**
 - printed pages: **1–35**
-- editorial description: response to the debate on the motion of thanks for the Governor's address
-- scan 37 provides the physical closing boundary
+- editorial description: response to the debate on the Motion of Thanks for the Governor's Address
 
 ### Unit 2
 
 - scan pages: **38–60**
 - printed pages: **36–58**
 - printed heading: `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்`
-- scan 60 is the physical ending of the publication
 
-Scan pages 1–2 are cover/front matter and are retained as source matter rather than silently discarded.
+Scan pages 1–2 are cover/front matter and remain source matter rather than spoken text.
 
 ## Page-marker invariant
 
-The transcription set uses:
+The six bounded source files use one physical marker per scan page in monotonic order from **1 through 60**:
 
 ```html
 <!-- source-page: N -->
 ```
 
-for the physical scan pages represented in this source-level layer.
+The reader-facing booklet entry copies the speech-text range **3–60** and retains those speech-page boundaries.
 
-The six bounded files partition scan pages **1–60** into non-overlapping ten-page ranges. The intended invariant is therefore one marker for each physical scan page, in monotonic order from 1 through 60. Canonical speech extraction later must retain the relevant speech-text page markers without confusing cover/front matter with speech pages.
+## Source fidelity rules
 
-## Material deliberately excluded from speech/publication text
-
-The following are not silently promoted into the source transcription:
-
-- Connemara Public Library stamps and accession markings;
-- handwriting/later annotations;
-- scan artefacts and bleed-through;
-- illustration-only wording that the first pass accidentally merged into the speech, including the identified illustration captions/signboards;
-- OCR contamination absent from the rendered publication page.
-
-Illustrations remain part of the physical source, but illustration text is not treated as spoken parliamentary text unless the printed layout supports that classification.
-
-## Source fidelity rules applied
-
-The consolidation preserves scan-supported:
+The transcription preserves scan-supported:
 
 - historical spelling and source anomalies;
-- word/compound spacing where the visual audit established it;
-- punctuation where legible and specifically audited;
+- word/compound spacing where established by visual audit;
+- punctuation where legible and audited;
 - names and initials;
 - figures, percentages, money values and year/date forms;
 - speaker labels and interventions;
 - printed English/transliterated terminology;
 - repetitions even when grammatically unusual.
 
-Physical line wrapping may be represented as ordinary Markdown paragraphs, but the text is not modernised or grammatically improved.
+It excludes library stamps, later handwriting, scan artefacts, OCR contamination and identified illustration-only wording from the spoken/publication-text layer.
 
 ## Audit provenance
 
-Detailed before/after evidence is retained in:
+- `../visual-fidelity-audit.md`
+- `../visual-fidelity-audit-batch-03.md`
+- `../visual-fidelity-audit-batch-04.md`
+- `../visual-fidelity-audit-batch-05.md`
+- `../visual-fidelity-audit-batch-06.md`
+- `../correction-application-ledger.md`
+- `../transcription-validation.md`
 
-- `../visual-fidelity-audit.md` — scan 1–20 / entries 1–30;
-- `../visual-fidelity-audit-batch-03.md` — scan 21–30 / entries 31–63;
-- `../visual-fidelity-audit-batch-04.md` — scan 31–40 / entries 64–90;
-- `../visual-fidelity-audit-batch-05.md` — scan 41–50 / entries 91–141;
-- `../visual-fidelity-audit-batch-06.md` — scan 51–60 / entries 142–175;
-- `../correction-application-ledger.md` — page-by-page application index for entries 1–175.
+## Final source status
 
-## Important status distinction
+- source-level visual pass: **complete through scan 60**
+- correction application: **complete**
+- accepted scan-supported corrections: **175**
+- unresolved Tamil readings: **0**
+- provenance mapping: **complete, metadata only**
+- reconstructed House-specific transcript: **intentionally not created**
+- reader-facing booklet-level Tamil entry: **complete, scan pp.3–60**
+- English translation: **complete and verified against this verified Tamil witness**
+- Official Report wording imported into Tamil/English: **none**
 
-The original first-pass text is no longer the best source-level working text. These corrected files incorporate the findings of the first full visual audit.
+## Reader-facing entry
 
-However:
+`../../../speeches/1971/1971-namathu-nilai/`
 
-- **source-level first visual pass:** complete;
-- **correction application:** complete;
-- **canonical dated speech split:** unresolved;
-- **canonical Gate D/E:** not yet claimable;
-- **English translation:** blocked;
-- **Gate H/release:** not applicable yet for this source.
+That entry preserves the booklet as an edited two-House compilation. Its `date` remains null because the booklet publication date is not a single speech date.
 
-## Next work
+## Lock rule
 
-Perform the consolidation/transition QA recorded in `../transcription-validation.md`, then address the unresolved House/date split as a separate structural/metadata problem without changing the source-faithful text merely to match outside records.
+These six transcription files are frozen. They may change only if a direct visual re-check of `ACL-CPL_01726_நமது_நிலை.pdf` proves a specific transcription error.
