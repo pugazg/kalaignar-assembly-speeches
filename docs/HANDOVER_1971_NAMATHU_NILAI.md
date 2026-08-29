@@ -133,13 +133,17 @@ Both records point back to the booklet transcription and contain no replacement 
 
 ## Reader/source index
 
-The source package now has a reader-facing index:
+Repository discoverability is now **complete** for this stage.
+
+The source package has a reader-facing index:
 
 `sources/1971-namathu-nilai/README.md`
 
 It links the verified transcription, correction/audit records, event references, provenance ledgers, representation policy and this handover.
 
-The repository root README should expose this source package under its active/source archival section without pretending the event reference records are complete `speeches/` entries.
+The repository root `README.md` now exposes `நமது நிலை` under the active source handovers section, links both dated Assembly reference records and explicitly states that they are metadata/provenance records rather than complete canonical Assembly transcripts.
+
+The two event references remain intentionally absent from the canonical speech table and `data/speeches.json`.
 
 ---
 
@@ -174,11 +178,14 @@ The released 2007 industrial anthology is unrelated and must remain untouched as
 
 ## Exact continuation point
 
-1. Update the **root `README.md`** so `நமது நிலை` is discoverable as a verified source package and link:
-   - `sources/1971-namathu-nilai/README.md`;
-   - the two source-local dated Assembly event reference records;
-   - this handover.
-2. Do **not** add the two 1971 event references to the canonical speech table or `data/speeches.json`.
-3. After repository discoverability is complete, the next substantive source activity is to prepare a **booklet-only English translation plan** before translation begins.
+The indexing/handover activity is complete.
+
+Next substantive source activity:
+
+1. Prepare a **booklet-only English translation plan** for `நமது நிலை` before translating any text.
+2. The translation plan must use only the verified Tamil in the six `transcription/scan-*.md` files as source text.
+3. Preserve the booklet's two editorial units and printed order; do not reconstruct separate Assembly/Council speeches.
+4. External Assembly/Council PDFs may remain available only for provenance notes and must not supply English wording.
+5. Do not change the verified Tamil while planning or translating unless a direct error is independently proved against `ACL-CPL_01726_நமது_நிலை.pdf`.
 
 At every future step, remember: **Tamil transcription authority = `ACL-CPL_01726_நமது_நிலை.pdf` only.**
