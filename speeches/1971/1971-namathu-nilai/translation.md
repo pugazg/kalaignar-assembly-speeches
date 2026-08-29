@@ -142,4 +142,116 @@ Of the 17 murders, nine or ten were politically connected. Our information is th
 
 Since all those cases are before the courts, I have not gone into them in greater detail. Even so, murders must not take place. Violent incidents must not occur. Yet while we are speaking about this every day in this House, even two days ago, in the Parangimalai constituency — the constituency from which M.G.R. was elected — Murugesan, who belonged to the Dravida Munnetra Kazhagam, was stabbed to death.
 
-<!-- translation-continues-at-source-page: 11 -->
+<!-- source-page: 11 -->
+
+Therefore, whatever the political reason for murders, and whichever political party's members commit them, they must be stopped; whoever does this, whatever party they belong to, it is highly condemnable.
+
+Many here expressed the view that the leaders of all parties should issue a joint statement. I did not object to that. At the same time as we issue such a statement, the leaders in every district below us and the branch organisations must follow the same practice. I appeal that the culture and civility that have hitherto been observed in Tamil Nadu should be protected.
+
+## Our policy
+
+It was complained that the Governor's Address contained no schemes and no policy. But both in this debate on the Governor's Address and when the Interim Budget Statement was debated, we have made it very clear on behalf of the ruling party that we stand ready to carry out a variety of progressive policies.
+
+<!-- source-page: 12 -->
+
+When demands are made that this Government should carry out all progressive schemes — especially when such a demand comes from the Nijalingappa Congress — we are prepared to accept it with very great pleasure.
+
+Whoever proposes a progressive scheme, we are prepared to carry it out. It can only benefit us; it can do us no harm.
+
+One should not think that this Government has no concern for handloom weavers, for the Sethusamudram Project, or for certain other matters merely because they were not mentioned.
+
+Most particularly and notably, the Governor's Address has announced the establishment of a State Planning Commission.
+
+## Administrative reform
+
+If the schemes that must be implemented are to be carried out properly, efficiently, quickly and vigorously, the administrative machinery must be in order. It is precisely so that the administrative machinery may function properly and be driven forward more effectively, and so that the duties of officials may be utilised well, that the Governor has announced, on behalf of this Government, an Administrative Reforms Commission in his Address.
+
+I welcome the views expressed by members of this House emphasising that delays in administration must be avoided. I am obliged to them for doing so.
+
+Only if these delays are avoided can the schemes implemented by the Government, and all the money the Government pours into those schemes, reach the very doorsteps of the poor and ordinary people and enable them to live peaceful lives.
+
+<!-- source-page: 13 -->
+
+Our officials are conscious of their duties. There are many duty-conscious officials. At the same time, some officials have a different attitude. I ask those officials to reform themselves. But it is not enough for officials alone to reform themselves. We have constituted this Administrative Reforms Commission so that the reformed officials can be brought together, the administrative machinery can be made to move very rapidly, and constructive ideas can be put forward.
+
+## One matter, eleven letters
+
+Thiru Krishnaswami Naidu described the difficulties in the administrative system, using the issue of granting pattas to illustrate how the Government should examine matters and act. He pointed out that, for a single matter, 11 letters were written, placed in 11 envelopes, 11 stamps were affixed and they were sent out. That too is something that ought to be pointed out.
+
+The fact that a particular piece of land is being given patta or is being acquired is not something that can be communicated only to one person concerned. When the Tamil Nadu Government grants pattas, the respective M.L.A.s, M.L.C.s and M.P.s must be informed about to whom and in which areas they have been granted. Those details could have been sent together. Action will be taken to remove such disorder from administration.
+
+<!-- source-page: 14 -->
+
+## The question of service extensions
+
+Thiru K. T. K. Thangamani said that it was right to constitute the Administrative Reforms Commission, and that no one should be shown favouritism in the matter of extending officials' service. We have already taken this decision in a Cabinet meeting.
+
+As far as extensions of service are concerned, the Cabinet has decided that there will be no extensions in other departments, except for a few essential departments such as medicine where the position may be that "some are experts; if they leave, there are no other qualified persons for those posts; they possess such expertise."
+
+This may not now be being implemented properly in a few places. There have been some difficulties in that regard. Following Thiru K. T. K. Thangamani's speech, I emphasise once again that, unless there are reasons that are absolutely unavoidable, this Government will certainly not grant extensions of service hereafter. I am happy to state this in this House. (Cheers)
+
+## One of Asia's largest industrial projects
+
+Some have praised and commended the state of industrial development in our State. Some members have also said that industrial development is not in a good state.
+
+The Governor's Address referred to the Tuticorin fertiliser factory. It said that approval for it would be obtained soon.
+
+At this very time, while we are debating the Governor's Address, I have the duty of conveying here the happy news that permission has been obtained for us to use naphtha as the raw material for this fertiliser factory.
+
+<!-- source-page: 15 -->
+
+The Tuticorin fertiliser-factory project is a Rs. 65 crore project. It is one of the largest projects in Asia. The State Government is contributing Rs. 3 crore to it and private representatives another Rs. 3 crore. Through the efforts of the private representatives, the remaining amount is being raised through Government and non-Government institutions, and this fertiliser factory is being established. We have set it up in the joint sector. As a sign that the Government must exercise oversight over the factory because it has been established in the joint sector, there are four directors in it on behalf of the Government.
+
+## Heavy-water production for the nuclear power station
+
+Likewise, a heavy-water production project costing about Rs. 20 crore is expected to come soon. All the preliminary discussions have been completed. Our officials have held discussions with the Atomic Energy Commission in this connection.
+
+If this heavy-water production project comes through, it will be a major Rs. 20 crore project that can serve our Kalpakkam nuclear power station.
+
+## How the Salem steel plant came
+
+Many here spoke about the Salem steel-plant project. We obtained this project at a cost of Rs. 110 crore. Members on the Opposition side who spoke about obtaining the project — particularly those in the Nijalingappa Congress — said, "This was spoken of in our time. This was requested in our time." I do not deny that either.
+
+<!-- source-page: 16 -->
+
+Indeed, at the time of the foundation-stone ceremony for the Salem steel plant, I specifically said that I thanked Thiru Kamarajar, Thiru Venkataraman and Thiru Subramaniam, who had worked for this project in its early stages. None of us are people who forget gratitude. Nor are we people who lose political culture.
+
+Even so, this project was shelved in the intervening period. No one should forget that the situation had gone so far that it appeared the project would never come. We had to conduct a major struggle for it. All parties in Tamil Nadu joined together in observing an "Uprising Day." People belonging to all parties spoke in different parts of the State; resolutions were passed and sent to the Central Government.
+
+After that, at the National Development Council meeting, at the conference attended by Chief Ministers, I said categorically: "If you do not give us the Salem steel-plant project, if you do not establish it in the Fourth Five-Year Plan, I say this on behalf of four crore Tamil people: I cannot give my consent to this Fourth Five-Year Plan."
+
+Dr. Hande and Tmt. Ananthanayaki had said while speaking, "You do not speak in opposition there. Once you go there, you bend. You speak bravely only here; you do not go there and demand things boldly!" That is why I told you what happened there.
+
+When I came out of the National Development Council meeting, some Tamil Nadu leaders in Delhi met me and even asked, "Can one speak so forcefully at an N.D.C. meeting? Can one speak in such conditional terms? If, by chance, the Salem steel plant is not obtained, are we to give up the Fourth Five-Year Plan?" We cannot forget that within ten days the Salem steel plant was obtained.
+
+<!-- source-page: 17 -->
+
+## The story of those who asked for the girl's hand
+
+They say, "We were the ones who asked for it; we were the ones who asked for it. Therefore you have no claim to the victory."
+
+There is a beautiful girl in a house. Many people go and ask for her hand. They are turned away saying that they do not like the boy, that he has no good income, that he is not good-looking. In the end the girl is married, and when the wedding procession comes along, is it right to stand by the roadside and mock, "That is the girl I asked for"? One must think about the fact that the girl belongs to the man who married her, not to everyone who asked for her hand. That is how the victory came to the D.M.K. Government. We celebrate the victory. We all celebrate it together. But when victory has been won, is it right to say, "We were the ones who asked for it; we were the ones who asked for it"?
+
+They asked, "Is another report on the Salem steel plant necessary? Were the studies not completed before the report was submitted? Why another report?"
+
+The new report will not be a large report; it will only be a revised report. Why is it needed? Many years have passed since this report was issued, and it was left lying on the shelf. A situation had arisen in which the report was not even taken up for examination because it appeared that the factory would not come. With doubts arising over whether the steel plant would come, and because of the passage of time and the delay, some revisions to that report became necessary.
+
+We insist that the revised report should also be submitted within six months and that work should then begin. Because there is now a favourable situation, I understand that changes of Government and changes in the Cabinet after the election have created conditions suitable for establishing the Salem steel plant and acting on it quickly.
+
+<!-- source-page: 18 -->
+
+We are pressing for urgency in this. At the same time, we are insisting to the Central Government that the report must come within six months. The argument is not about whether a report is necessary or unnecessary. We do not reject its necessity at all. They say that, because of the delay, some revisions are required. It is only six months. We have agreed to the revised report on the condition that it be submitted within that period.
+
+## Did we do good or not?
+
+Tmt. Jothi Venkatachalam says that if these people have developed agriculture and increased food production, it is only a scheme that was drawn up during our time.
+
+If this continues, they may even say that these are fields from our time.
+
+Therefore, instead of claiming that everything that was said and done was ours, we should leave that aside and consider whether we have made further efforts in that connection and actually accomplished good things. If that is ignored and one simply says, "We did it, we did it," how can that be proper?
+
+If food production increased, how can it be an argument to say that it increased only because it rained? If we take that as an argument, can we not also say that it rains because there are good people?
+
+I say this: there have been times when rainfall was deficient. There was even drought during the past four years. No one should forget that we dealt with the drought and still increased food production substantially, and that we succeeded in doing so.
+
+<!-- translation-continues-at-source-page: 19 -->
