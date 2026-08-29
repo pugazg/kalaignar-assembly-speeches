@@ -6,9 +6,10 @@
 - Reader-facing location: `speeches/1971/1971-namathu-nilai/`
 - Gate F first-pass translation: **complete**
 - Gate G fidelity review: **in progress**
-- Gate-G pages reviewed: **32 / 58** (`scan pp.3–34`)
+- Gate-G pages reviewed: **35 / 58** (`scan pp.3–37`)
+- Editorial Unit 1 Gate-G review: **complete — 35/35 pages**
 - Gate-G blocking fidelity issues found: **0**
-- Gate-G non-blocking refinement candidates queued: **14**
+- Gate-G non-blocking refinement candidates queued: **18**
 - English verification state: **not verified**
 
 ## Textual authority
@@ -53,7 +54,7 @@ Detailed findings are recorded in [`TRANSLATION_REVIEW.md`](./TRANSLATION_REVIEW
 | G2 | 11–18 | **complete** | 0 |
 | G3 | 19–26 | **complete** | 0 |
 | G4 | 27–34 | **complete** | 0 |
-| G5 | 35–37 | pending | — |
+| G5 | 35–37 | **complete** | 0 |
 | G6 | 38–44 | pending | — |
 | G7 | 45–51 | pending | — |
 | G8 | 52–58 | pending | — |
@@ -103,9 +104,22 @@ Page-by-page semantic/source-fidelity review complete against the verified bookl
 - all checked dates, percentages, monetary values and speaker labels preserved;
 - no blocking mistranslation, omission, duplication or unsupported addition found;
 - no Official Report wording used;
-- **4 additional non-blocking wording refinements** queued, bringing the total to **14**.
+- **4 additional non-blocking wording refinements** queued.
 
-G4 refinement candidates concern the p.29 Hande `dissenting note` sentence, p.31 `Rs. 40 crore` Slum Clearance Board scale wording, p.34 `அறவழி` → `righteous path`, and p.34 `ஏகோபித்த வாசகம்` → `unanimous declaration`. These are not blocking fidelity defects.
+### G5 result — scan pp.35–37
+
+Page-by-page semantic/source-fidelity review complete against the verified booklet Tamil only.
+
+- all 3 source-page boundaries correct;
+- p.34→35 continuation and the p.37→38 Editorial Unit 1/Unit 2 boundary are intact;
+- land-reform, 50-cent / 15-`kuzhi`, bus-ceiling / retrospective-effect, prohibition, deer-surrounded-by-hunters, horse-racing, untouchability, T. K. Shanmugam and Krishnaswami Naidu passages fully represented;
+- `50 miles`, Tamil Nadu/Gujarat prohibition framing and `two crore` women retained;
+- no blocking mistranslation, omission, duplication or unsupported addition found;
+- no Official Report wording used;
+- **4 additional non-blocking wording refinements** queued, bringing the total to **18**;
+- **Editorial Unit 1 Gate-G review is complete: 35/35 pages**.
+
+G5 refinement candidates concern p.35 `a ceiling on buses`, p.36 `corrupts the integrity of many people`, p.36 the added past-tense force in `what used to happen here`, and p.37 `would perhaps sing a thogaiyara in anger`. These are not blocking fidelity defects and must be resolved only from the verified booklet Tamil during the consolidated refinement pass.
 
 ## Gate-F completion summary
 
@@ -131,6 +145,6 @@ G4 refinement candidates concern the p.29 Hande `dissenting note` sentence, p.31
 
 ## Exact continuation point
 
-Proceed with **G5 — scan pp.35–37**.
+Proceed with **G6 — scan pp.38–44**, beginning Editorial Unit 2.
 
 Compare the existing English only against the verified booklet Tamil, record the page-by-page findings in `TRANSLATION_REVIEW.md`, and preserve the no-Official-Report rule. English must remain marked **not verified** until all Gate-G batches and the final refinement/closure check are complete.
