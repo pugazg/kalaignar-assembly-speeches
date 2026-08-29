@@ -2,199 +2,135 @@
 
 ## Decision status
 
-**LOCKED for this source.**
+**LOCKED and implemented for this source.**
 
-The controlling textual source for every transcriptional layer derived from this archival project is only:
-
-- `ACL-CPL_01726_நமது_நிலை.pdf`
-- 60 physical scan pages
-- SHA-256: `5cfbf0e5d01a9cedb252a12168e9e6a14a9a2061c7d78848dde692d5fa241acb`
-
-The six corrected source-transcription files under `sources/1971-namathu-nilai/transcription/` remain the canonical textual witness for this source.
-
-The additional Assembly and Legislative Council PDFs recovered during research are **reference/provenance evidence only**. They are not transcription sources for this archival work.
-
-This policy supersedes the earlier proposal in this file to transcribe the Assembly Official Reports as new canonical speech text.
-
----
-
-## 1. Controlling transcription authority
-
-For `நமது நிலை`, transcription must come only from the rendered pages of `ACL-CPL_01726_நமது_நிலை.pdf`.
-
-That means:
-
-- wording comes only from the booklet;
-- spelling comes only from the booklet;
-- punctuation comes only from the booklet;
-- headings come only from the booklet;
-- numerals and figures come only from the booklet;
-- printed English comes only from the booklet;
-- speaker labels/interventions come only from the booklet;
-- source-page boundaries come only from the booklet;
-- omissions, repetitions and editorial ordering are preserved as the booklet prints them.
-
-The already completed visual-fidelity pass remains authoritative:
-
-- scan pages reviewed: **1–60 / 60**;
-- accepted scan-supported corrections: **175**;
-- unresolved source readings: **0**.
-
-Those 175 corrections remain locked unless a future direct recheck of the same booklet scan proves a specific correction wrong.
-
----
-
-## 2. What the additional legislative PDFs may be used for
-
-The recovered Assembly and Council records may be used only to establish or clarify archival metadata and provenance, including:
-
-- exact sitting date;
-- House identity;
-- legislative event / debate context;
-- official reply boundaries in the House record;
-- whether a booklet passage derives from an Assembly or Council speech;
-- where the booklet switches between House sources;
-- where the booklet omits, rearranges or combines material;
-- bibliographic/session/volume information;
-- preventing a Council-derived booklet passage from being incorrectly described as Assembly-derived.
-
-The two completed provenance ledgers remain valid for that purpose:
-
-- `unit-1-three-way-alignment-ledger.md`
-- `unit-2-three-way-alignment-ledger.md`
-
-They are **reference maps**, not transcription authorities.
-
----
-
-## 3. What the additional legislative PDFs must never do
-
-No wording from `713373.pdf`, `927002(1).pdf`, `922282.pdf`, `922376.pdf`, or any other Assembly/Council PDF may be inserted into the `நமது நிலை` archival transcription.
-
-In particular, do **not** use those PDFs to:
-
-1. fill material omitted by the booklet;
-2. replace a booklet word with an Official Report word;
-3. repair spelling, punctuation or grammar in the booklet;
-4. add Official Report speaker labels or interventions absent from the booklet;
-5. add an Official Report paragraph because it makes the speech more complete;
-6. rebuild a continuous Assembly or Council speech by splicing external-report text around the booklet;
-7. silently harmonise differences between witnesses;
-8. create a transcript whose wording is partly booklet and partly Official Report.
-
-If an external record disagrees with the booklet, that is a **witness difference**. Record it only as provenance/editorial evidence when useful. The booklet transcription stays unchanged.
-
----
-
-## 4. Meaning of the House/date research
-
-The research has directly identified four underlying reply events:
-
-| Editorial unit | House | Date | Official-report reference |
-|---|---|---|---|
-| Unit 1 — Governor's Address | Legislative Assembly | **2 Apr 1971** | reply pp.314–336 |
-| Unit 1 — Governor's Address | Legislative Council | **3 Apr 1971** | formal reply pp.434–454; clarifications through p.456 |
-| Unit 2 — Interim Budget | Legislative Assembly | **29 Mar 1971** | reply pp.298–313 |
-| Unit 2 — Interim Budget | Legislative Council | **29 Mar 1971** | reply pp.200–207 |
-
-These records establish **context and provenance only** for the transcription layer.
-
-They do not replace `ACL-CPL_01726_நமது_நிலை.pdf` as textual authority.
-
----
-
-## 5. Publication structure remains canonical
-
-The booklet itself is an edited two-House witness:
-
-- Unit 1: scan pp. **3–37** / printed pp. **1–35**;
-- Unit 2: scan pp. **38–60** / printed pp. **36–58**.
-
-The provenance ledgers prove that both units contain editorial selection from more than one House record.
-
-That fact must be represented as metadata. It must **not** cause us to rewrite the booklet into reconstructed House transcripts.
-
-The safest archival representation is therefore:
-
-1. preserve the complete booklet transcription exactly as verified from the controlling scan;
-2. preserve the two editorial-unit boundaries exactly as printed;
-3. attach House/date/provenance metadata separately;
-4. never claim that one complete booklet unit is a verbatim transcript of one House sitting;
-5. never import missing Official Report material into the booklet transcript.
-
----
-
-## 6. Treatment of future `speeches/1971/...` entries
-
-Do **not** create an Official-Report-derived Tamil transcript for this source.
-
-If a dated 1971 Assembly-facing entry is later created under `speeches/1971/`, its Tamil text must still be derived **only from the verified `நமது நிலை` booklet transcription**.
-
-Because the booklet is editorially mixed, such an entry must not falsely describe itself as the complete verbatim Official Report speech. It must clearly state that it is a **booklet-derived archival witness/extract or editorial compilation**, with House/date identification supplied by separate primary-record research.
-
-Before any such dated entry is created, the representation must satisfy both conditions:
-
-- no Council-derived booklet span is silently relabelled as an Assembly passage;
-- no external Official Report wording is inserted to make the Assembly event complete.
-
-Until that representation is explicitly prepared, the verified source-level booklet transcription remains the canonical text for this 1971 source.
-
----
-
-## 7. Verification semantics
-
-For this source, `verified_against_scan` refers only to verification against:
+The controlling textual source for every Tamil textual layer is only:
 
 `ACL-CPL_01726_நமது_நிலை.pdf`
 
-It must **not** be interpreted as verification against an Assembly or Council Official Report.
+- physical scan pages: **60**
+- SHA-256: `5cfbf0e5d01a9cedb252a12168e9e6a14a9a2061c7d78848dde692d5fa241acb`
 
-External legislative PDFs can strengthen date/House/provenance certainty without changing textual-verification status.
+The six corrected source-transcription files under `sources/1971-namathu-nilai/transcription/` remain the canonical Tamil textual witness.
 
----
+Additional Assembly and Legislative Council PDFs are **reference/provenance evidence only**. They are not transcription or translation authorities for this archival work.
 
-## 8. English translation rule
+## 1. Controlling textual authority
 
-If English translation is undertaken for `நமது நிலை`, it must translate the final verified booklet Tamil only.
+For `நமது நிலை`, Tamil wording, spelling, punctuation, headings, figures, printed English, speaker labels, interventions, page boundaries, repetitions, omissions and editorial ordering come only from the booklet scan.
 
-Do not translate wording from the external Assembly/Council reports and merge it into the booklet translation.
+Completed Tamil audit:
 
-House/date/provenance annotations may be supplied separately as editorial notes.
+- scan pages reviewed: **1–60 / 60**
+- accepted scan-supported corrections: **175**
+- unresolved source readings: **0**
 
----
+Those corrections remain locked unless a future direct recheck of the same booklet scan proves a specific error.
 
-## 9. Locked assets
+## 2. Permitted use of external legislative records
 
-The following remain the authoritative source-transcription assets and must not be rewritten from external reports:
+Assembly/Council records may establish only metadata/provenance such as:
 
-- `transcription/scan-001-010.md`
-- `transcription/scan-011-020.md`
-- `transcription/scan-021-030.md`
-- `transcription/scan-031-040.md`
-- `transcription/scan-041-050.md`
-- `transcription/scan-051-060.md`
-- `correction-application-ledger.md`
-- `transcription-validation.md`
-- the **175** accepted visual-fidelity corrections
-- Unit 1 and Unit 2 source boundaries
+- sitting date and House;
+- event/debate context;
+- likely source relationship of a booklet span;
+- booklet source switches, omissions, rearrangements or selections;
+- bibliographic/session information.
+
+Completed provenance ledgers:
+
 - `unit-1-three-way-alignment-ledger.md`
 - `unit-2-three-way-alignment-ledger.md`
 
-The ledgers may evolve if better provenance evidence appears; the booklet text changes only on direct booklet-scan evidence.
+These are reference maps, not textual authorities.
 
----
+## 3. Prohibited use of external legislative wording
 
-## 10. Exact next activity
+Do not use Assembly/Council PDFs to:
 
-The next activity is **not** transcription from the 29 March Assembly Official Report.
+- fill material omitted by the booklet;
+- replace a booklet word, spelling, punctuation or label;
+- insert absent interventions or paragraphs;
+- rebuild a continuous House speech;
+- harmonise witness differences;
+- supply English translation wording or resolve a difficult Tamil phrase.
 
-Instead:
+A disagreement between records is a **witness difference**, not permission to change the booklet witness.
 
-1. treat the six corrected booklet transcription files as the sole Tamil textual base;
-2. prepare a source-level archival release/status record for `நமது நிலை` that identifies the transcription as complete and visually verified against the booklet;
-3. record the four House/date findings only as reference metadata;
-4. record both completed three-way provenance ledgers as explanatory research;
-5. decide the safest booklet-derived representation for any future `speeches/1971/...` index entries without importing a single word from the other PDFs;
-6. keep English blocked until that representation decision is documented.
+## 4. Historical provenance established
 
-No external legislative PDF text is to enter the archival transcription.
+The research identified four underlying reply events:
+
+| Editorial unit | House | Date | Reference finding |
+|---|---|---|---|
+| Unit 1 | Legislative Assembly | 2 Apr 1971 | Governor-address Motion of Thanks reply |
+| Unit 1 | Legislative Council | 3 Apr 1971 | Governor-address reply |
+| Unit 2 | Legislative Assembly | 29 Mar 1971 | Interim-Budget reply |
+| Unit 2 | Legislative Council | 29 Mar 1971 | Interim-Budget reply |
+
+These establish context/provenance only.
+
+## 5. Publication structure remains canonical
+
+The booklet is an edited two-House witness:
+
+- Unit 1: scan pp. **3–37** / printed pp. **1–35**
+- Unit 2: scan pp. **38–60** / printed pp. **36–58**
+
+The archival representation preserves these units in their printed order and does not reconstruct separate House transcripts.
+
+## 6. Implemented `speeches/1971/` representation
+
+A booklet-level reader-facing entry has been explicitly implemented at:
+
+`speeches/1971/1971-namathu-nilai/`
+
+This entry is **not** a dated Official Report transcript. It is classified as a `booklet-edited-two-house-compilation` and preserves only booklet-derived Tamil wording.
+
+Because the booklet has no single speech date:
+
+- `date` remains `null`;
+- the publication date is recorded separately as source metadata;
+- the entry is not added to the canonical dated speech table or `data/speeches.json` as one Assembly event.
+
+Dated source-local event records remain provenance references only.
+
+## 7. Verification semantics
+
+For Tamil, `verified_against_scan` means verified against `ACL-CPL_01726_நமது_நிலை.pdf`.
+
+For English, `verified_against_tamil` means verified against the final verified booklet Tamil only.
+
+Neither status means harmonisation with Assembly/Council Official Reports.
+
+## 8. English translation rule and final state
+
+English must translate only the verified booklet Tamil and preserve the booklet order. It may not import Official Report wording.
+
+Final status:
+
+- Gate F first pass: **58/58 speech pages complete**
+- Gate G page review: **58/58 complete, 0 blocking issues**
+- consolidated refinement: **34/34 decisions complete**
+- final closure: **PASS**
+- English: **verified against the verified booklet Tamil**
+- external legislative wording imported: **none**
+
+## 9. Locked assets
+
+The following remain authoritative/locked:
+
+- the six source transcription files;
+- `correction-application-ledger.md`;
+- the **175** accepted visual-fidelity corrections;
+- Unit 1 and Unit 2 source boundaries;
+- the two completed provenance ledgers;
+- the booklet-only authority rule.
+
+The provenance ledgers may evolve if better metadata evidence appears; the booklet text changes only on direct booklet-scan evidence.
+
+## 10. Workflow state
+
+The booklet-derived Tamil/English workflow is **closed**.
+
+Any future Tamil correction requires direct scan evidence. Any future English correction must be derived only from the verified booklet Tamil and immediate booklet context. External legislative PDFs remain provenance/reference only.
