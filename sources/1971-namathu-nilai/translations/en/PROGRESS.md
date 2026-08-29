@@ -33,14 +33,14 @@ The source front matter on scan pp.1–2 remains source metadata; the reader-fac
 | F3 | 19–26 | Unit 1 | **complete** |
 | F4 | 27–34 | Unit 1 | **complete** |
 | F5 | 35–37 | Unit 1 close | **complete** |
-| F6 | 38–44 | Unit 2 | pending |
+| F6 | 38–44 | Unit 2 opening | **complete** |
 | F7 | 45–51 | Unit 2 | pending |
 | F8 | 52–58 | Unit 2 | pending |
 | F9 | 59–60 | Unit 2 close | pending |
 
-Speech-page coverage completed: **35 / 58 scan pages** (`3–37` of `3–60`).
+Speech-page coverage completed: **42 / 58 scan pages** (`3–44` of `3–60`).
 
-**Editorial Unit 1 is fully populated in Tamil and has a complete Gate-F English first pass.**
+**Editorial Unit 1 is fully populated in Tamil and has a complete Gate-F English first pass. Editorial Unit 2 is populated and translated through scan p.44.**
 
 ## F1 completion record — scan pp.3–10
 
@@ -74,20 +74,28 @@ Coverage includes the funding/Planning Commission argument, National Development
 
 Tamil for scan pp.35–37 has been copied only from the verified booklet transcription and the English first pass has been translated only from that Tamil.
 
+Coverage includes the land-reform discussion, 50-cent / 15-`குழி` statement, bus ceiling and `ரெட்ராஸ்பெக்டிவ் எஃபக்டோடு`, the prohibition sequence, horse racing, abolition of untouchability, T. K. Shanmugam's song / `தொகையறா` passage, and Krishnaswami Naidu's intervention. This completes Editorial Unit 1.
+
+## F6 completion record — scan pp.38–44
+
+Tamil for scan pp.38–44 has been copied only from the verified booklet transcription, preserving the printed Unit 2 opening, and the English first pass has been translated only from that Tamil.
+
 Coverage includes:
 
-- the land-reform discussion and `நிலமில்லாதோர் இல்லை என்ற நிலை`;
-- the printed 50-cent / 15-`குழி` house-site statement;
-- the bus-ceiling statement and printed `ரெட்ராஸ்பெக்டிவ் எஃபக்டோடு` wording;
-- `வேடுவர்கள் சூழ்ந்த மான்` and the all-India prohibition argument;
-- the Pondicherry / Andhra / Bangalore / Kerala border comparison;
-- the explicit acknowledgement that prohibition had failed in the State;
-- `குதிரைப் பந்தயம் ஏன்?`;
-- `தீண்டாமை ஒழிப்பு`;
-- T. K. Shanmugam's song / `தொகையறா` passage;
-- Krishnaswami Naidu's two-crore-women intervention and the Chief Minister's clarification.
-
-This completes Editorial Unit 1 at scan p.37.
+- the Unit 2 editorial heading `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` and its printed introductory paragraph;
+- the East Bengal humanitarian-sympathy opening;
+- `ஆற்றல் படைத்தவர்கள்` and the printed lawyer/doctor/teacher/engineer/graduate counts;
+- `எதிர்க்கட்சிகள் வரிசை`, including the passages on Ponnappa Nadar and K. T. K. Thangamani;
+- `தோழமை உணர்ச்சி`, including Tiruppur Moideen and Perumal;
+- `குட்டியைக் கவ்வும் பூனை`, preserving the Hande kitten/mouse analogy and the Marimuthu passage;
+- Thiyagarajan, Tamil Arasu Kazhagam and Silambu Selvar references;
+- Latheef's electric-fan metaphor on the responsibility of members;
+- `ஜூன் மாதத்தில் விரிந்த நிலையில் கொள்கை விளக்கம்`;
+- Ananthanayaki's `வரிகள் குறையவில்லை, வசதிகள் பெருகவில்லை` statement and the wet/dry-land tax-exemption response;
+- `தாங்கக்கூடியவர்களுக்கு வரி` and the printed registration-revenue figures;
+- `வருமானம் உயர்ந்ததின் காரணம்`, including the motor-vehicle revenue figures;
+- the State-Government-versus-Corporation loan-accounting explanation;
+- the opening of `எல்.ஐ.சி.-யிடமிருந்து மாநகராட்சி பெற்ற கடன்`, including the printed Rs.5 crore allegation and Rs.3 crore correction, ending at scan p.44.
 
 No Assembly/Council Official Report wording was imported into either Tamil or English.
 
@@ -103,6 +111,6 @@ English remains Gate-F working text and requires later Gate-G review.
 
 ## Exact continuation point
 
-Continue with **F6 — scan pp.38–44**, opening Editorial Unit 2, `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்`.
+Continue with **F7 — scan pp.45–51**, continuing Editorial Unit 2.
 
-Read Tamil only from the verified source transcription, preserve the Unit 2 editorial heading/introduction and all source-page markers/headings/source ordering, extend the reader-facing `transcript.md` and `translation.md` through scan p.44, then update metadata, glossary and this tracker.
+Read Tamil only from the verified source transcription, extend the reader-facing `transcript.md` and `translation.md` through scan p.51, preserve every source-page marker, heading, intervention, figure and source ordering, then update metadata, glossary and this tracker.
