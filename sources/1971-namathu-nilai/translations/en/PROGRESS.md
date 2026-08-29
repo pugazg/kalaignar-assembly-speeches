@@ -32,13 +32,15 @@ The source front matter on scan pp.1–2 remains source metadata; the reader-fac
 | F2 | 11–18 | Unit 1 | **complete** |
 | F3 | 19–26 | Unit 1 | **complete** |
 | F4 | 27–34 | Unit 1 | **complete** |
-| F5 | 35–37 | Unit 1 close | pending |
+| F5 | 35–37 | Unit 1 close | **complete** |
 | F6 | 38–44 | Unit 2 | pending |
 | F7 | 45–51 | Unit 2 | pending |
 | F8 | 52–58 | Unit 2 | pending |
 | F9 | 59–60 | Unit 2 close | pending |
 
-Speech-page coverage completed: **32 / 58 scan pages** (`3–34` of `3–60`).
+Speech-page coverage completed: **35 / 58 scan pages** (`3–37` of `3–60`).
+
+**Editorial Unit 1 is fully populated in Tamil and has a complete Gate-F English first pass.**
 
 ## F1 completion record — scan pp.3–10
 
@@ -66,21 +68,26 @@ Coverage includes industrial growth and licensing, small-industry figures, joint
 
 Tamil for scan pp.27–34 has been copied only from the verified booklet transcription and the English first pass has been translated only from that Tamil.
 
+Coverage includes the funding/Planning Commission argument, National Development Council conditions and correspondence, Dr. H. V. Hande's `டிஸ்சென்டிங் நோட்` intervention, State eligibility criteria, Chennai slum conditions, the Rs.31 crore sequence, State powers, the Mujibur Rahman six-point discussion, Rajaram Naidu's support, and `இது பிரிவினைக் கோரிக்கை அல்ல`.
+
+## F5 completion record — scan pp.35–37
+
+Tamil for scan pp.35–37 has been copied only from the verified booklet transcription and the English first pass has been translated only from that Tamil.
+
 Coverage includes:
 
-- the completion of `ஒன்றுபட்டு வாதாடுவோம்`;
-- `நியாயத்தைக் கேட்டோம்`, Finance Commission / Planning Commission funding arguments and correspondence;
-- `மூன்று நிபந்தனைகள்` at the National Development Council;
-- `இடைவிடாத முயற்சி` and the Gadgil discussions;
-- Dr. H. V. Hande's `டிஸ்சென்டிங் நோட்` intervention and the Chief Minister's reply;
-- `தகுதி வரைமுறையை எதிர்ப்பது ஏன்?` and State-loss figures;
-- `வராது போன உதவி`, per-capita-income criteria and special-fund exclusion;
-- Chennai slum conditions and the Slum Clearance Board;
-- `போராடிப் பெற்றவை` and the Rs.31 crore sequence;
-- `மாநிலங்களுக்கு அதிக அதிகாரம்`;
-- `முஜிபுர் ரகுமான் கோரியது என்ன?` and the printed six-point discussion;
-- Council Opposition Leader Rajaram Naidu's support;
-- `இது பிரிவினைக் கோரிக்கை அல்ல`, ending at scan p.34.
+- the land-reform discussion and `நிலமில்லாதோர் இல்லை என்ற நிலை`;
+- the printed 50-cent / 15-`குழி` house-site statement;
+- the bus-ceiling statement and printed `ரெட்ராஸ்பெக்டிவ் எஃபக்டோடு` wording;
+- `வேடுவர்கள் சூழ்ந்த மான்` and the all-India prohibition argument;
+- the Pondicherry / Andhra / Bangalore / Kerala border comparison;
+- the explicit acknowledgement that prohibition had failed in the State;
+- `குதிரைப் பந்தயம் ஏன்?`;
+- `தீண்டாமை ஒழிப்பு`;
+- T. K. Shanmugam's song / `தொகையறா` passage;
+- Krishnaswami Naidu's two-crore-women intervention and the Chief Minister's clarification.
+
+This completes Editorial Unit 1 at scan p.37.
 
 No Assembly/Council Official Report wording was imported into either Tamil or English.
 
@@ -96,6 +103,6 @@ English remains Gate-F working text and requires later Gate-G review.
 
 ## Exact continuation point
 
-Continue with **F5 — scan pp.35–37**, the close of Unit 1.
+Continue with **F6 — scan pp.38–44**, opening Editorial Unit 2, `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்`.
 
-Read Tamil only from the verified source transcription, extend the reader-facing `transcript.md` and `translation.md` through scan p.37, preserve all source-page markers/headings/source ordering, then update metadata, glossary and this tracker.
+Read Tamil only from the verified source transcription, preserve the Unit 2 editorial heading/introduction and all source-page markers/headings/source ordering, extend the reader-facing `transcript.md` and `translation.md` through scan p.44, then update metadata, glossary and this tracker.
