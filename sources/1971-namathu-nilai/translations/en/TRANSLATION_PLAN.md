@@ -2,13 +2,13 @@
 
 ## Status
 
-**ACTIVE — speech-folder population has started.**
+**GATE F COMPLETE — GATE G READY.**
 
-Reader-facing Tamil and English are now maintained under:
+Reader-facing Tamil and English are maintained under:
 
 `speeches/1971/1971-namathu-nilai/`
 
-This source-side directory retains translation planning, progress and glossary records only. Do not maintain a second independent copy of the English here.
+This source-side directory retains translation planning, progress, glossary and review records only. Do not maintain a second independent copy of the English here.
 
 ## Non-negotiable source rule
 
@@ -44,7 +44,7 @@ The booklet is an edited two-House witness. Do not reconstruct separate Assembly
 
 ## Translation objective
 
-Produce a faithful reading translation, preserving as far as English permits:
+Produce and verify a faithful reading translation, preserving as far as English permits:
 
 - argumentative sequence and repetition;
 - direct parliamentary address;
@@ -75,41 +75,52 @@ Actual working text lives in:
 
 Supporting metadata lives beside them in that speech folder.
 
-The source-side `PROGRESS.md` and `GLOSSARY.md` remain the workflow-control records.
+The source-side `PROGRESS.md` and `GLOSSARY.md` remain workflow-control records. Gate-G findings must be recorded in `TRANSLATION_REVIEW.md`.
 
-## Gate-F population batches
-
-Proceed in bounded source order:
+## Gate-F population batches — complete
 
 - **F1a:** scan pp.3–5 — complete
-- **F1b:** scan pp.6–10
-- **F2:** scan pp.11–18
-- **F3:** scan pp.19–26
-- **F4:** scan pp.27–34
+- **F1b:** scan pp.6–10 — complete
+- **F2:** scan pp.11–18 — complete
+- **F3:** scan pp.19–26 — complete
+- **F4:** scan pp.27–34 — complete
 - **F5:** scan pp.35–37 — complete Unit 1
-- **F6:** scan pp.38–44
-- **F7:** scan pp.45–51
-- **F8:** scan pp.52–58
+- **F6:** scan pp.38–44 — complete
+- **F7:** scan pp.45–51 — complete
+- **F8:** scan pp.52–58 — complete
 - **F9:** scan pp.59–60 — complete Unit 2
 
-Total reader-facing speech coverage: **58 scan pages, pp.3–60**.
-
-Each batch must update both `transcript.md` and `translation.md` in the speech folder and then update `PROGRESS.md`.
+Total reader-facing speech coverage: **58 / 58 scan pages, pp.3–60**.
 
 ## Gate-G English fidelity review
 
-After Gate F covers scan pp.3–60, perform a separate page-by-page review against the verified booklet Tamil. Check:
+Perform a separate page-by-page review against the verified booklet Tamil. Check:
 
 - 58/58 speech-page coverage;
 - no omitted or duplicated Tamil content;
 - no unsupported English additions;
-- page/batch continuations;
+- page and batch continuations;
 - headings, interventions and speaker labels;
 - names, initials, dates, figures and units;
 - rhetorical force and idioms;
+- all provisional glossary decisions that are flagged for nuance review;
 - no imported Official Report wording.
 
 Record that review in `TRANSLATION_REVIEW.md` before marking English verified.
+
+For manageable source-critical review, proceed in bounded Gate-G ranges matching the completed population boundaries:
+
+- **G1:** scan pp.3–10
+- **G2:** scan pp.11–18
+- **G3:** scan pp.19–26
+- **G4:** scan pp.27–34
+- **G5:** scan pp.35–37
+- **G6:** scan pp.38–44
+- **G7:** scan pp.45–51
+- **G8:** scan pp.52–58
+- **G9:** scan pp.59–60
+
+A Gate-G batch may revise English where the verified Tamil proves the first-pass rendering incomplete, excessive or semantically weak. It must never revise the Tamil merely because translation is difficult.
 
 ## Tamil lock
 
@@ -117,10 +128,11 @@ The six verified source transcription files remain frozen. Translation difficult
 
 ## Exact continuation point
 
-Continue the speech-folder entry from **scan p.6**:
+Begin **G1 — scan pp.3–10**:
 
-1. append verified Tamil scan pp.6–10 to `speeches/1971/1971-namathu-nilai/transcript.md`;
-2. translate those same pages into `translation.md` using only that Tamil;
-3. record any recurring English decisions in `GLOSSARY.md`;
-4. update `PROGRESS.md`;
-5. do not use external legislative wording.
+1. compare the verified Tamil and reader-facing English page by page;
+2. check every heading, paragraph, quotation, name, figure and continuation for semantic fidelity;
+3. correct English only where the Tamil itself supports the correction;
+4. create/update `TRANSLATION_REVIEW.md` with findings and corrections;
+5. update `PROGRESS.md` and `GLOSSARY.md` as needed;
+6. do not use external legislative wording.
