@@ -90,11 +90,19 @@ The repository-facing design is documented in:
 
 The canonical textual record for this source remains the booklet transcription exactly as verified from `ACL-CPL_01726_நமது_நிலை.pdf`.
 
-## English status
+## English translation
 
-**Not started.**
+**Planning complete; substantive translation has not started.**
 
-Any future English translation must translate the verified booklet Tamil in the booklet's printed editorial order. External Assembly/Council wording must not be imported.
+The English workflow is source-local under [`translations/en/`](./translations/en/):
+
+- [`TRANSLATION_PLAN.md`](./translations/en/TRANSLATION_PLAN.md) — booklet-only Gate-F/G workflow and 60-page batch map
+- [`PROGRESS.md`](./translations/en/PROGRESS.md) — live batch/coverage state
+- [`GLOSSARY.md`](./translations/en/GLOSSARY.md) — controlled consistency and difficult-term decisions
+
+The translation will cover the booklet in physical source order, beginning with scan pp.1–2 and then the two editorial units. It must translate only the verified booklet Tamil. External Assembly/Council wording must not be imported, used to fill omissions, or used to reconstruct separate House speeches.
+
+Current Gate-F coverage: **0 / 60 scan pages**. Exact next batch: **F0 — scan pp.1–2**.
 
 ## Handover
 
