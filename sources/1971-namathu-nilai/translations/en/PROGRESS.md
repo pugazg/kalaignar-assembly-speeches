@@ -35,12 +35,12 @@ The source front matter on scan pp.1–2 remains source metadata; the reader-fac
 | F5 | 35–37 | Unit 1 close | **complete** |
 | F6 | 38–44 | Unit 2 opening | **complete** |
 | F7 | 45–51 | Unit 2 | **complete** |
-| F8 | 52–58 | Unit 2 | pending |
+| F8 | 52–58 | Unit 2 | **complete** |
 | F9 | 59–60 | Unit 2 close | pending |
 
-Speech-page coverage completed: **49 / 58 scan pages** (`3–51` of `3–60`).
+Speech-page coverage completed: **56 / 58 scan pages** (`3–58` of `3–60`).
 
-**Editorial Unit 1 is fully populated in Tamil and has a complete Gate-F English first pass. Editorial Unit 2 is populated and translated through scan p.51.**
+**Editorial Unit 1 is fully populated in Tamil and has a complete Gate-F English first pass. Editorial Unit 2 is populated and translated through scan p.58.**
 
 ## F1 completion record — scan pp.3–10
 
@@ -86,18 +86,25 @@ Coverage includes the Unit 2 editorial heading and introduction, East Bengal hum
 
 Tamil for scan pp.45–51 has been copied only from the verified booklet transcription and the English first pass has been translated only from that Tamil.
 
+Coverage includes completion of the L.I.C./Corporation loan discussion, small/village-industry allocations, Central-to-State revenue categories, tractor expenditure, slum-clearance and tenement figures, agricultural loans and expenditure, education and medical allocations, and the `மின்ஒளி இல்லாத ஊர் இல்லை` passage through the Chief Minister's printed `மிக`, `மிக`, `மிக` backward-class statement.
+
+## F8 completion record — scan pp.52–58
+
+Tamil for scan pp.52–58 has been copied only from the verified booklet transcription and the English first pass has been translated only from that Tamil.
+
 Coverage includes:
 
-- completion of the L.I.C./Corporation loan discussion, including interest, the `வழிவகை முன்பணம்` / ways-and-means advance, and the public-loan amount;
-- `சிறு தொழில் துறைக்கு நிதி குறையவில்லை`, the White Paper discussion, SIDCO and small/village-industry allocations;
-- Central-to-State revenue categories, Finance Commission grants, and Plan / non-Plan financial assistance;
-- `டிராக்டர்கள் வாங்க நிதி ஒதுக்கீடு` and the printed 1946–1970/71 expenditure comparison;
-- slum-clearance and tenement figures, including the `தீப்பெட்டி வீடுகள்` / matchbox-and-matchstick metaphor;
-- `உயர்ந்து எழும்பும் வீடுகள்`, the Slum Clearance Board and Rama. Arangannal;
-- `வேளாண்மைக்கு அளித்த வசதி`, including short-term and long-term agricultural loans and total agricultural expenditure;
-- `கல்விக்கான நிதி ஒதுக்கம்`, medical expenditure and the printed 22% / 22.6% education comparison;
-- `மின்ஒளி இல்லாத ஊர் இல்லை`, with water, electricity and backward-welfare allocations;
-- the Chief Minister's printed `மிக`, `மிக`, `மிக` backward-class statement, ending at scan p.51.
+- `பின்தங்கியவர்கள் நிலை உயர உதவிகள்`, including the separate welfare department, scholarship threshold change, Rs.90 lakh → Rs.300 lakh assistance, and the Rs.9 crore backward/downtrodden allocation;
+- approach roads and electrification for the printed `அரிசனக் காலனிகள்`, followed by `இருள் அகலுகிறது`;
+- the workers/toilers/socially oppressed passage and the statement that the Interim Budget's `உரிமைக்குரல்` is not an interim voice for rights;
+- `ஒருமித்த உரிமைக்குரல்`, the Legislative Council Opposition Leader's support, and the parliamentary/non-violent character of the proposed action;
+- Swaminathan and the `அறப் போராட்டம்—உரிமைப் போராட்டம்—பாராளுமன்ற முறைக்கேற்ற போராட்டம்` sequence;
+- `தமிழ்நாட்டின் பண்பாடு`, Krishnaswami Naidu and the elder/blessing comparison;
+- `உள்ளத் தூய்மையோடு பாராட்டு` and `வன்முறையைச் சகியோம்`, including the appeal against political killings and warning against violence;
+- `அன்று கொண்டாடிய எழுச்சி நாள்`, Tuticorin harbour, Salem iron plant and continued parliamentary struggle;
+- `எடுத்த காவடியை இறக்குவது எப்போது?`, State autonomy, all-party unity and the Delhi-echo passage;
+- the source-specific `அறுத்துக்கொள்ள வேண்டும்` sequence, carried conservatively in Gate-F English and flagged for Gate-G nuance review;
+- policy-based support for Indira, the printed 23-vote reference, and `இந்தி திணிக்கப்பட்டால் ......`, ending with `மத்திய அரசுடன் உறவுக்குக் கை கொடுப்போம், அதே நேரத்தில் எங்களுடைய உரிமைகளுக்குக் குரல் கொடுப்போம்` on scan p.58.
 
 No Assembly/Council Official Report wording was imported into either Tamil or English.
 
@@ -113,6 +120,6 @@ English remains Gate-F working text and requires later Gate-G review.
 
 ## Exact continuation point
 
-Continue with **F8 — scan pp.52–58**, continuing Editorial Unit 2.
+Continue with **F9 — scan pp.59–60**, closing Editorial Unit 2 and completing the full booklet speech population and Gate-F English first pass.
 
-Read Tamil only from the verified source transcription, extend the reader-facing `transcript.md` and `translation.md` through scan p.58, preserve every source-page marker, heading, intervention, figure and source ordering, then update metadata, glossary and this tracker.
+Read Tamil only from the verified source transcription, extend the reader-facing `transcript.md` and `translation.md` through scan p.60, preserve every source-page marker, heading, intervention, figure and source ordering, then update metadata, glossary, source README and handover.
