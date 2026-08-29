@@ -87,21 +87,23 @@ Scan pp.1–2 are publication front matter/source metadata and are not inserted 
 
 Tamil copied from the verified booklet transcription:
 
-- scan pp. **3–37** complete
+- scan pp. **3–44** complete
 
 English first-pass translation:
 
-- scan pp. **3–37** complete
+- scan pp. **3–44** complete
 
 Editorial Unit 1 (scan pp.3–37): **fully populated in Tamil and Gate-F English**.
 
+Editorial Unit 2: **scan pp.38–44 populated and translated**.
+
 English remains **Gate-F working text**, not yet fidelity-verified.
 
-Current speech-page coverage: **35 / 58 pages**.
+Current speech-page coverage: **42 / 58 pages**.
 
 Next continuation point:
 
-- **scan p.38**, the opening of Editorial Unit 2
+- **scan p.45**
 
 ## Translation control records
 
@@ -143,32 +145,38 @@ Completed Tamil population and English first pass, covering the Central-funding 
 
 ### F5 — scan pp.35–37
 
-Completed Tamil population and English first pass. This closes Editorial Unit 1 and includes:
+Completed Tamil population and English first pass, closing Editorial Unit 1 with the land-reform, bus-ceiling, prohibition, horse-racing, untouchability and closing intervention sequence.
 
-- land reform and `நிலமில்லாதோர் இல்லை என்ற நிலை`;
-- the 50-cent / 15-`குழி` house-site statement;
-- bus ceiling and the printed `ரெட்ராஸ்பெக்டிவ் எஃபக்டோடு` wording;
-- `வேடுவர்கள் சூழ்ந்த மான்`;
-- the all-India prohibition argument and border comparison;
-- acknowledgement of prohibition's failure in the State;
-- horse-racing abolition;
-- abolition of untouchability;
-- T. K. Shanmugam's song / `தொகையறா` passage;
-- Krishnaswami Naidu's two-crore-women intervention and the Chief Minister's clarification.
+### F6 — scan pp.38–44
+
+Completed Tamil population and English first pass for the opening of Editorial Unit 2. This range includes:
+
+- the printed Unit 2 heading `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` and editorial introduction;
+- the East Bengal humanitarian-sympathy opening;
+- `ஆற்றல் படைத்தவர்கள்` and the printed professional/member counts;
+- `எதிர்க்கட்சிகள் வரிசை`, including Ponnappa Nadar and K. T. K. Thangamani;
+- `தோழமை உணர்ச்சி`, Tiruppur Moideen and Perumal;
+- `குட்டியைக் கவ்வும் பூனை`, including the Hande kitten/mouse analogy and Marimuthu passage;
+- Thiyagarajan / Tamil Arasu Kazhagam / Silambu Selvar references;
+- Latheef's electric-fan metaphor and appeal on members' responsibility;
+- the June full-Budget policy-explanation passage;
+- Ananthanayaki's taxes/facilities statement and the wet/dry-land tax-exemption response;
+- `தாங்கக்கூடியவர்களுக்கு வரி` and registration-revenue figures;
+- motor-vehicle revenue and State-versus-Corporation accounting;
+- the opening of the L.I.C. loan section, ending at the printed Rs.3 crore clarification on scan p.44.
 
 No Assembly/Council Official Report wording was used.
 
 ## Exact next activity
 
-Continue **F6 — scan pp.38–44**, opening Editorial Unit 2:
+Continue **F7 — scan pp.45–51**, Editorial Unit 2:
 
 1. read the verified Tamil only from `sources/1971-namathu-nilai/transcription/`;
-2. preserve the printed Unit 2 heading `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` and its editorial introductory paragraph;
-3. extend `speeches/1971/1971-namathu-nilai/transcript.md` through scan p.44;
-4. extend the faithful English first-pass `translation.md` through the same pages;
-5. preserve every source-page marker, heading, intervention, figure and source ordering;
-6. update `metadata.json`, speech README, `PROGRESS.md`, `GLOSSARY.md`, source README and this handover;
-7. do not use Assembly/Council Official Report wording.
+2. extend `speeches/1971/1971-namathu-nilai/transcript.md` through scan p.51;
+3. extend the faithful English first-pass `translation.md` through the same pages;
+4. preserve every source-page marker, heading, intervention, figure and source ordering;
+5. update `metadata.json`, speech README, `PROGRESS.md`, `GLOSSARY.md`, source README and this handover;
+6. do not use Assembly/Council Official Report wording.
 
 At every step:
 
