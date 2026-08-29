@@ -789,4 +789,28 @@ Whether we give support or do not give support, Tmt. Indira's Government has bee
 
 Today we are giving support to the abolition of privy purses and to the programme of bank nationalisation. But if even tomorrow a situation arises in which Hindi is imposed on Tamil Nadu, or is imposed indirectly, even if it appears only through hints and gestures, do not forget that our comrades there will stand like soldiers in the ranks and raise a battle cry against it. We shall extend a hand for relations with the Central Government; at the same time, we shall raise our voice for our rights.
 
-<!-- translation-continues-at-source-page: 59 -->
+<!-- source-page: 59 -->
+
+When the Honourable lady belonging to the Congress Party said, "Do not bow to the Central Government; do not bend," I take it that, as a woman of the Maravar clan, she was teaching courage. I took her as a mother — indeed, as a Purananuru mother — and I do not think she said, "Do not bow, do not bend," in order to belittle us. I consider that what she meant was that, even if they could not directly join us and fight for us, they were prepared to cooperate indirectly.
+
+## The State Planning Commission is not a rival commission!
+
+Many more plans must still be framed for our State. It is with this in view that the Governor's Address and my statement have said that a State Planning Commission should be established and plans should be drawn up for a ten-year period.
+
+This Planning Commission is not being created in competition with the Planning Commission at the Centre. It will examine such matters as: to what extent will Tamil Nadu's population grow over ten years? What opportunities and facilities should the Government provide for them? What opportunities will be needed to provide them education? What kind of medical facilities will be required? What should the progress of agriculture be at that time? If water scarcity arises, how should provision be made for all of it? The State Planning Commission will examine various matters of this kind and submit them in its report.
+
+We can define how plans should be implemented over a ten-year period and, with that in hand, press our struggle. If the question arises as to what matters we asked for,
+
+<!-- source-page: 60 -->
+
+this Planning Commission's report will be useful for that.
+
+I am duty-bound to give you with confidence the happy news that, by the time the Budget Statement for 1972-73 is placed next year, the committee's report will have been placed before the House and all of us can discuss that draft plan.
+
+## Voice for our rights
+
+When we speak of State autonomy, we say that powers must be decentralised; powers must not be concentrated in one place; and that the States should have greater powers in the political, social and economic spheres. What we say is that there should not be a situation in which the Central Government keeps all powers locked up while the States remain with their hands tied.
+
+Why did Pakistan come into being? Pakistan came into being because State autonomy was not accepted. What is the situation in East Pakistan today? I too firmly believe that, through a tendency to obstruct the rights of the States, no one in India will come forward to create Rahmans from State to State.
+
+This Budget Statement is a statement that echoes the voice for the rights of the people of Tamil Nadu. We, who have accepted parliamentary methods, have on that basis raised our voice for our rights through it.
