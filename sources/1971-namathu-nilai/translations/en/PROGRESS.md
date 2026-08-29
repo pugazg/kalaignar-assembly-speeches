@@ -6,7 +6,9 @@
 - Reader-facing location: `speeches/1971/1971-namathu-nilai/`
 - Gate F first-pass translation: **complete**
 - Gate G fidelity review: **in progress**
-- Gate-G pages reviewed: **8 / 58** (`scan pp.3–10`)
+- Gate-G pages reviewed: **16 / 58** (`scan pp.3–18`)
+- Gate-G blocking fidelity issues found: **0**
+- Gate-G non-blocking refinement candidates queued: **7**
 - English verification state: **not verified**
 
 ## Textual authority
@@ -48,7 +50,7 @@ Detailed findings are recorded in [`TRANSLATION_REVIEW.md`](./TRANSLATION_REVIEW
 | Batch | Scan pages | Status | Blocking fidelity issues |
 |---|---:|---|---:|
 | G1 | 3–10 | **complete** | 0 |
-| G2 | 11–18 | pending | — |
+| G2 | 11–18 | **complete** | 0 |
 | G3 | 19–26 | pending | — |
 | G4 | 27–34 | pending | — |
 | G5 | 35–37 | pending | — |
@@ -70,7 +72,21 @@ Result:
 - no Assembly/Council Official Report wording used;
 - **4 non-blocking English wording refinements** recorded for the consolidated post-review refinement pass.
 
-The four refinement candidates concern scan p.4 `fraud in the ballot paper`, scan p.5 `I am going to litigate`, scan p.6 the `flaw / offence` heading, and scan p.8 `merits of those actions`. They do not currently change the source meaning and therefore are not blocking fidelity defects.
+### G2 result — scan pp.11–18
+
+G2 completed a page-by-page semantic/source-fidelity review against the verified booklet Tamil only.
+
+Result:
+
+- all 8 required source-page boundaries present and correctly ordered;
+- continuation from p.10 into p.11 and from p.18 into p.19 is intact;
+- no omitted or duplicated Tamil content found in the English;
+- headings, quotations, names, institutions and figures preserved;
+- no blocking mistranslation or unsupported factual addition found;
+- no Assembly/Council Official Report wording used;
+- **3 additional non-blocking wording refinements** recorded, bringing the consolidated queue to **7**.
+
+The G2 refinement candidates concern scan p.11 `leaders in every district below us`, scan p.13 `That too is something that ought to be pointed out`, and scan p.15 the precise English force of `ஆசியாவிலேயே மிகப் பெரிய திட்டம்`. These are not blocking fidelity defects.
 
 ## Gate-F completion summary
 
@@ -96,6 +112,6 @@ The four refinement candidates concern scan p.4 `fraud in the ballot paper`, sca
 
 ## Exact continuation point
 
-Proceed with **G2 — scan pp.11–18**.
+Proceed with **G3 — scan pp.19–26**.
 
 Compare the existing English only against the verified booklet Tamil, record the page-by-page findings in `TRANSLATION_REVIEW.md`, and preserve the no-Official-Report rule. English must remain marked **not verified** until all Gate-G batches and the final refinement/closure check are complete.
