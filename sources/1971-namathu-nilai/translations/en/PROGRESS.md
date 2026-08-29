@@ -31,14 +31,14 @@ The source front matter on scan pp.1–2 remains source metadata; the reader-fac
 | F1b | 6–10 | Unit 1 | **complete** |
 | F2 | 11–18 | Unit 1 | **complete** |
 | F3 | 19–26 | Unit 1 | **complete** |
-| F4 | 27–34 | Unit 1 | pending |
+| F4 | 27–34 | Unit 1 | **complete** |
 | F5 | 35–37 | Unit 1 close | pending |
 | F6 | 38–44 | Unit 2 | pending |
 | F7 | 45–51 | Unit 2 | pending |
 | F8 | 52–58 | Unit 2 | pending |
 | F9 | 59–60 | Unit 2 close | pending |
 
-Speech-page coverage completed: **24 / 58 scan pages** (`3–26` of `3–60`).
+Speech-page coverage completed: **32 / 58 scan pages** (`3–34` of `3–60`).
 
 ## F1 completion record — scan pp.3–10
 
@@ -60,18 +60,27 @@ Coverage includes the all-party appeal against political killings, progressive-p
 
 Tamil for scan pp.19–26 has been copied only from the verified booklet transcription and English has been translated only from that Tamil.
 
+Coverage includes industrial growth and licensing, small-industry figures, joint-sector policy, employment measures, the rural block employment scheme, Electricity Board recruitment, Tiruchi market price figures, the pulse-production plan and the opening of `ஒன்றுபட்டு வாதாடுவோம்`.
+
+## F4 completion record — scan pp.27–34
+
+Tamil for scan pp.27–34 has been copied only from the verified booklet transcription and the English first pass has been translated only from that Tamil.
+
 Coverage includes:
 
-- `தொழிலில் நமது வளர்ச்சி` and industrial-production/factory/licence figures;
-- small-industry registration figures;
-- `கூட்டுத்துறையின் சிறப்பு`, the Madras Aluminium example and the public-sector final objective;
-- educated unemployment and the 6,500 teachers / 2,400 engineers employment measures;
-- the rural block employment scheme and the question of jobs for educated youth;
-- `சொன்னதைச் செய்தோம்` and election promises;
-- Electricity Board recruitment figures;
-- price-reduction figures for the Tiruchi market;
-- the pulse-production plan, chilli/turmeric/firewood prices;
-- `ஒன்றுபட்டு வாதாடுவோம்`, ending with K. M. Subramaniam's price-rise question on scan p.26.
+- the completion of `ஒன்றுபட்டு வாதாடுவோம்`;
+- `நியாயத்தைக் கேட்டோம்`, Finance Commission / Planning Commission funding arguments and correspondence;
+- `மூன்று நிபந்தனைகள்` at the National Development Council;
+- `இடைவிடாத முயற்சி` and the Gadgil discussions;
+- Dr. H. V. Hande's `டிஸ்சென்டிங் நோட்` intervention and the Chief Minister's reply;
+- `தகுதி வரைமுறையை எதிர்ப்பது ஏன்?` and State-loss figures;
+- `வராது போன உதவி`, per-capita-income criteria and special-fund exclusion;
+- Chennai slum conditions and the Slum Clearance Board;
+- `போராடிப் பெற்றவை` and the Rs.31 crore sequence;
+- `மாநிலங்களுக்கு அதிக அதிகாரம்`;
+- `முஜிபுர் ரகுமான் கோரியது என்ன?` and the printed six-point discussion;
+- Council Opposition Leader Rajaram Naidu's support;
+- `இது பிரிவினைக் கோரிக்கை அல்ல`, ending at scan p.34.
 
 No Assembly/Council Official Report wording was imported into either Tamil or English.
 
@@ -87,6 +96,6 @@ English remains Gate-F working text and requires later Gate-G review.
 
 ## Exact continuation point
 
-Continue with **F4 — scan pp.27–34**.
+Continue with **F5 — scan pp.35–37**, the close of Unit 1.
 
-Read Tamil only from the verified source transcription, extend the reader-facing `transcript.md` and `translation.md` through scan p.34, preserve source-page markers/headings/interventions/figures, then update metadata, glossary and this tracker.
+Read Tamil only from the verified source transcription, extend the reader-facing `transcript.md` and `translation.md` through scan p.37, preserve all source-page markers/headings/source ordering, then update metadata, glossary and this tracker.
