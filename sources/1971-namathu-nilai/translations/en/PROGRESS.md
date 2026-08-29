@@ -6,9 +6,9 @@
 - Reader-facing location: `speeches/1971/1971-namathu-nilai/`
 - Gate F first-pass translation: **complete**
 - Gate G fidelity review: **in progress**
-- Gate-G pages reviewed: **16 / 58** (`scan pp.3–18`)
+- Gate-G pages reviewed: **24 / 58** (`scan pp.3–26`)
 - Gate-G blocking fidelity issues found: **0**
-- Gate-G non-blocking refinement candidates queued: **7**
+- Gate-G non-blocking refinement candidates queued: **10**
 - English verification state: **not verified**
 
 ## Textual authority
@@ -51,7 +51,7 @@ Detailed findings are recorded in [`TRANSLATION_REVIEW.md`](./TRANSLATION_REVIEW
 |---|---:|---|---:|
 | G1 | 3–10 | **complete** | 0 |
 | G2 | 11–18 | **complete** | 0 |
-| G3 | 19–26 | pending | — |
+| G3 | 19–26 | **complete** | 0 |
 | G4 | 27–34 | pending | — |
 | G5 | 35–37 | pending | — |
 | G6 | 38–44 | pending | — |
@@ -61,32 +61,39 @@ Detailed findings are recorded in [`TRANSLATION_REVIEW.md`](./TRANSLATION_REVIEW
 
 ### G1 result — scan pp.3–10
 
-G1 completed a page-by-page semantic/source-fidelity review against the verified booklet Tamil only.
+Page-by-page semantic/source-fidelity review complete against the verified booklet Tamil only.
 
-Result:
-
-- all 8 required source-page boundaries present and correctly ordered;
+- all 8 source-page boundaries correct;
 - no omitted or duplicated Tamil content found in the English;
 - headings, quotations, names and figures preserved;
 - no blocking mistranslation or unsupported factual addition found;
-- no Assembly/Council Official Report wording used;
-- **4 non-blocking English wording refinements** recorded for the consolidated post-review refinement pass.
+- no Official Report wording used;
+- **4 non-blocking wording refinements** queued.
 
 ### G2 result — scan pp.11–18
 
-G2 completed a page-by-page semantic/source-fidelity review against the verified booklet Tamil only.
+Page-by-page semantic/source-fidelity review complete against the verified booklet Tamil only.
 
-Result:
+- all 8 source-page boundaries correct;
+- p.10→11 and p.18→19 continuations intact;
+- no omission, duplication, blocking mistranslation or unsupported addition found;
+- headings, quotations, institutions and figures preserved;
+- no Official Report wording used;
+- **3 additional non-blocking wording refinements** queued.
 
-- all 8 required source-page boundaries present and correctly ordered;
-- continuation from p.10 into p.11 and from p.18 into p.19 is intact;
-- no omitted or duplicated Tamil content found in the English;
-- headings, quotations, names, institutions and figures preserved;
-- no blocking mistranslation or unsupported factual addition found;
-- no Assembly/Council Official Report wording used;
-- **3 additional non-blocking wording refinements** recorded, bringing the consolidated queue to **7**.
+### G3 result — scan pp.19–26
 
-The G2 refinement candidates concern scan p.11 `leaders in every district below us`, scan p.13 `That too is something that ought to be pointed out`, and scan p.15 the precise English force of `ஆசியாவிலேயே மிகப் பெரிய திட்டம்`. These are not blocking fidelity defects.
+Page-by-page semantic/source-fidelity review complete against the verified booklet Tamil only.
+
+- all 8 source-page boundaries correct;
+- p.18→19 continuation and p.26→27 boundary intact;
+- industrial-growth, joint-sector, employment, Electricity Board and price-statistic passages fully represented;
+- all checked numerical claims preserved, including industrial indices/licence figures, 6,500 teachers, 2,400 engineers, 1,795 placements, 360/100/1,500 Electricity Board recruitment, Tiruchi price figures and the six-lakh-acre pulses plan;
+- no blocking mistranslation, omission, duplication or unsupported addition found;
+- no Official Report wording used;
+- **3 additional non-blocking wording refinements** queued, bringing the total to **10**.
+
+G3 refinement candidates concern scan p.19's compressed `நம்முடைய நாட்டுக்கு / நம்முடைய மாநிலம்` restatement, scan p.23 `விடிவெள்ளி` → `dawn-star`, and scan p.26 `ஒன்றுபட்டு வாதாடுவோம்` → `Let us argue together`. These are not blocking fidelity defects.
 
 ## Gate-F completion summary
 
@@ -112,6 +119,6 @@ The G2 refinement candidates concern scan p.11 `leaders in every district below 
 
 ## Exact continuation point
 
-Proceed with **G3 — scan pp.19–26**.
+Proceed with **G4 — scan pp.27–34**.
 
 Compare the existing English only against the verified booklet Tamil, record the page-by-page findings in `TRANSLATION_REVIEW.md`, and preserve the no-Official-Report rule. English must remain marked **not verified** until all Gate-G batches and the final refinement/closure check are complete.
