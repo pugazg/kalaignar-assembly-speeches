@@ -51,7 +51,7 @@
   },
   "translation": {
     "language": "English",
-    "status": "consolidated-refinement-complete-final-closure-pending",
+    "status": "verified-complete",
     "type": "faithful reading translation from verified booklet Tamil only",
     "translated_scan_pages": "3-60",
     "unit_1_first_pass_complete": true,
@@ -66,12 +66,13 @@
     "gate_g_unit_2_reviewed_speech_pages": 23,
     "gate_g_blocking_fidelity_issues": 0,
     "gate_g_nonblocking_refinement_candidates": 34,
-    "consolidated_refinement_decisions_complete": 34,
-    "consolidated_refinement_reader_revisions": 33,
-    "consolidated_refinement_deliberate_retentions": 1,
     "consolidated_refinement_complete": true,
-    "final_closure_check_complete": false,
-    "verified_against_tamil": false,
+    "consolidated_refinement_decisions": 34,
+    "reader_facing_refinements_applied": 33,
+    "deliberate_source_literal_retentions": 1,
+    "final_closure_check_complete": true,
+    "final_closure_result": "pass",
+    "verified_against_tamil": true,
     "external_legislative_wording_imported": false
   }
 }
