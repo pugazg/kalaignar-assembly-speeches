@@ -2,7 +2,7 @@
 
 தமிழகச் சட்டமன்றத்தில் கலைஞர் மு. கருணாநிதி ஆற்றிய உரைகளை, கிடைக்கக்கூடிய அச்சு/scan மூலங்களின் அடிப்படையில், தேதிவாரியாகவும் நிகழ்வுவாரியாகவும் பாதுகாக்கும் digital archive.
 
-This repository is a source-faithful digital archive of M. Karunanidhi's speeches in the Tamil Nadu Legislative Assembly. Each speech is organised primarily by **date and legislative event**, while historical publication titles are preserved as source metadata.
+This repository is a source-faithful digital archive of M. Karunanidhi's speeches in the Tamil Nadu Legislative Assembly. Each ordinary canonical speech is organised primarily by **date and legislative event**, while historical publication titles and special mixed-source publications are preserved with explicit source metadata.
 
 ## Archival principles
 
@@ -11,23 +11,26 @@ This repository is a source-faithful digital archive of M. Karunanidhi's speeche
 - **Parliamentary context:** printed headings, speaker labels, interjections, figures and exchanges are retained where present in the source.
 - **Uncertainty is explicit:** unclear readings should be marked for review rather than guessed.
 - **Verification states:** `transcribed` → `reviewed` → `verified`.
-- **Translation:** the complete Tamil source transcription comes first; an English translation is included **after** it.
-- **Canonical organisation:** folder names use `YYYY-MM-DD-event` so the collection can scale independently of later booklet/publication titles.
+- **Translation:** the complete verified Tamil source controls the English translation.
+- **Canonical organisation:** dated canonical speech folders normally use `YYYY-MM-DD-event`; exceptional edited compilations are identified explicitly rather than assigned a false single speech date.
 
 Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.md)
 
-## Active source handovers
+## Source handovers / special packages
 
-- [`நமது நிலை` — 1971 source package](./sources/1971-namathu-nilai/README.md) — 60-page Government of Tamil Nadu booklet. **Tamil transcription is complete and visually verified against `ACL-CPL_01726_நமது_நிலை.pdf`; 175 scan-supported corrections applied; unresolved readings 0.** Other Assembly/Council PDFs are reference/provenance only and are not transcription sources.
+- [`நமது நிலை` — 1971 source package](./sources/1971-namathu-nilai/README.md) — 60-page Government of Tamil Nadu booklet. **Tamil transcription is complete and visually verified against `ACL-CPL_01726_நமது_நிலை.pdf`; 175 scan-supported corrections; unresolved readings 0. The booklet-level reader entry now has complete Tamil and English, with English verified after 58/58-page Gate-G review, 34/34 refinement decisions and final closure PASS.** Other Assembly/Council PDFs remain reference/provenance only.
+  - Reader-facing booklet entry: [`speeches/1971/1971-namathu-nilai/`](./speeches/1971/1971-namathu-nilai/)
   - Assembly event reference: [`29 March 1971 — Interim-Budget reply`](./sources/1971-namathu-nilai/events/1971-03-29-assembly-interim-budget-reply.md)
   - Assembly event reference: [`2 April 1971 — Governor-address reply`](./sources/1971-namathu-nilai/events/1971-04-02-assembly-governors-address-reply.md)
   - Handover: [`docs/HANDOVER_1971_NAMATHU_NILAI.md`](./docs/HANDOVER_1971_NAMATHU_NILAI.md)
-- [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source mapped into 10 dated speeches. **All 10 speeches in the 2007 industrial-speeches anthology are fully released with verified Tamil and verified English.**
+- [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source mapped into 10 dated speeches. **All 10 speeches are fully released with verified Tamil and verified English.**
 - Copy/paste continuation prompt: [`docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md`](./docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md)
 
 ### `நமது நிலை` indexing note
 
-The two 1971 dated files linked above are **metadata/provenance event references**, not reconstructed verbatim Assembly transcripts. The source booklet is an edited two-House witness. For this archival package, Tamil wording comes only from `ACL-CPL_01726_நமது_நிலை.pdf`; external legislative records are used only to establish House/date/event/provenance context. Accordingly, these reference records are intentionally **not** added to the canonical speech table below or to `data/speeches.json`.
+The 1971 booklet is an **edited two-House witness** and has no single speech date. Its reader-facing folder preserves the booklet itself, with `date: null`, while the dated event files above remain metadata/provenance references.
+
+Accordingly, `நமது நிலை` is intentionally **not** added to the canonical dated speech table below or to `data/speeches.json` as though it were one complete Assembly transcript. Tamil wording comes only from `ACL-CPL_01726_நமது_நிலை.pdf`; external legislative records establish House/date/event provenance only and supplied no Tamil or English text.
 
 ## Speech index
 
@@ -64,37 +67,26 @@ kalaignar-assembly-speeches/
 │   │   ├── README.md
 │   │   ├── events/
 │   │   ├── transcription/
+│   │   ├── translations/en/
 │   │   └── provenance / audit records
 │   └── 2007-industrial-speeches/
 │       └── mapping.md
 └── speeches/
     ├── 1963/
-    │   └── 1963-03-21-industries-debate/
     ├── 1970/
-    │   └── 1970-09-09-no-confidence-motion/
+    ├── 1971/
+    │   └── 1971-namathu-nilai/
     ├── 1981/
-    │   └── 1981-04-16-industries-debate/
     ├── 1989/
-    │   └── 1989-05-03-industries-debate/
     ├── 1990/
-    │   └── 1990-04-18-industries-debate/
     ├── 1996/
-    │   └── 1996-08-14-industries-debate/
     ├── 1997/
-    │   └── 1997-04-23-industries-debate/
     ├── 1998/
-    │   └── 1998-05-14-industries-debate/
-    └── 1999/
-        └── 1999-04-29-industries-debate/
-            ├── README.md
-            ├── metadata.json
-            ├── source-notes.md
-            ├── transcript.md
-            ├── translation.md
-            ├── translation-review.md
-            └── verification-log.md
+    ├── 1999/
+    ├── 2000/
+    └── 2006/
 ```
 
 ## Current verification convention
 
-A file marked **transcribed** has a complete first-pass transcription from the scan. It is not labelled **verified** until a separate, stricter page-by-page/character-level comparison has been completed. This distinction is intentional: archival completeness and archival certainty are tracked separately.
+A file marked **transcribed** has a complete first-pass transcription from the scan. It is not labelled **verified** until a separate stricter comparison has been completed. For source-derived English, `verified` means reviewed against the verified Tamil controlled by the same source, unless a source-specific note states otherwise.
