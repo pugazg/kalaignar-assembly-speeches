@@ -51,12 +51,17 @@
   },
   "translation": {
     "language": "English",
-    "status": "first-pass-complete",
+    "status": "gate-g-review-in-progress",
     "type": "faithful reading translation from verified booklet Tamil only",
     "translated_scan_pages": "3-60",
     "unit_1_first_pass_complete": true,
     "unit_2_first_pass_complete": true,
     "unit_2_translated_through_scan_page": 60,
+    "gate_g_reviewed_scan_pages": "3-10",
+    "gate_g_reviewed_speech_pages": 8,
+    "gate_g_total_speech_pages": 58,
+    "gate_g_blocking_fidelity_issues": 0,
+    "gate_g_nonblocking_refinement_candidates": 4,
     "verified_against_tamil": false,
     "external_legislative_wording_imported": false
   }
