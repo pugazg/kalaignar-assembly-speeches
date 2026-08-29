@@ -67,9 +67,7 @@ Important structural conclusion:
 
 ## Reader-facing `speeches/` representation
 
-The user has directed that the speech and translation be populated under the repository's normal `speeches/` area.
-
-Created:
+The speech and translation are populated under the repository's normal `speeches/` area:
 
 `speeches/1971/1971-namathu-nilai/`
 
@@ -83,21 +81,25 @@ Files:
 
 This entry is a **booklet-level speech compilation**, not a claim that the whole text is one dated Assembly speech.
 
+Scan pp.1–2 are publication front matter/source metadata and are not inserted into the speech transcript as spoken text. Reader-facing speech text begins at scan p.3.
+
 ### Current population status
 
 Tamil copied from the verified booklet transcription:
 
-- scan pp. **3–5** complete
+- scan pp. **3–10** complete
 
 English first-pass translation:
 
-- scan pp. **3–5** complete
+- scan pp. **3–10** complete
 
 English remains **Gate-F working text**, not yet fidelity-verified.
 
+Current speech-page coverage: **8 / 58 pages**.
+
 Next continuation point:
 
-- **scan p.6**
+- **scan p.11**
 
 ## Translation control records
 
@@ -115,15 +117,35 @@ Actual reader-facing English must be maintained only in:
 
 Do not create a second independently editable English translation under `sources/`.
 
+## Completed Gate-F range so far
+
+### F1a — scan pp.3–5
+
+Completed Tamil population and English first pass.
+
+### F1b — scan pp.6–10
+
+Completed Tamil population and English first pass. This range includes:
+
+- `குறை வேறு ; குற்றம் வேறு.`;
+- Salem-incident explanation;
+- poster/father analogy;
+- `மக்கள் தீர்ப்பே மகேசன் தீர்ப்பு`;
+- press-freedom comparison;
+- play-ban discussion;
+- election-period murders through the Murugesan paragraph.
+
+No Assembly/Council Official Report wording was used.
+
 ## Exact next activity
 
-Continue **F1b — scan pp.6–10**:
+Continue **F2 — scan pp.11–18**:
 
-1. read the verified Tamil only from `sources/1971-namathu-nilai/transcription/scan-001-010.md`;
-2. append scan pp.6–10 exactly to `speeches/1971/1971-namathu-nilai/transcript.md`;
+1. read the verified Tamil only from the source transcription;
+2. append scan pp.11–18 exactly to `speeches/1971/1971-namathu-nilai/transcript.md`;
 3. append the faithful English translation of those same pages to `translation.md`;
-4. update metadata/progress coverage;
-5. record only necessary glossary decisions;
+4. preserve every source-page marker, heading, intervention, figure and source ordering;
+5. update `metadata.json`, speech README, `PROGRESS.md`, and `GLOSSARY.md` as needed;
 6. do not use Assembly/Council Official Report wording.
 
 At every step:
