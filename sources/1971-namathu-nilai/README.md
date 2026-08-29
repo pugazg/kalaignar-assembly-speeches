@@ -6,28 +6,27 @@ This directory preserves the archival source package for the 1971 Government of 
 
 `ACL-CPL_01726_நமது_நிலை.pdf`
 
-This PDF is the **only textual authority** for the Tamil transcription and the English translation derived from it. Other Assembly and Legislative Council PDFs are **reference/provenance only** and may not supply, repair or replace booklet wording.
+This PDF is the **only textual authority** for the Tamil transcription and the English translation derived from it.
+
+Other Assembly and Legislative Council PDFs are **reference/provenance only**. Their wording was not copied into, merged with, or used to repair the booklet transcription or translation.
 
 ## Reader-facing speech entry
 
-The complete booklet speech text and English translation are maintained under:
+The complete booklet speech text and verified English translation are maintained under:
 
 [`../../speeches/1971/1971-namathu-nilai/`](../../speeches/1971/1971-namathu-nilai/)
 
-Current state:
+Final state:
 
-- Tamil speech range: **scan pp.3–60 complete, 58/58 pages**
-- English Gate-F first pass: **58/58 complete**
-- Gate-G page-by-page fidelity review: **58/58 complete**
-- Editorial Unit 1 Gate-G review: **35/35 complete**
-- Editorial Unit 2 Gate-G review: **23/23 complete**
-- blocking fidelity issues: **0**
+- Tamil reader-facing range: **scan pp.3–60 — complete, 58/58 speech pages**
+- English Gate F: **58/58 complete**
+- English Gate G: **58/58 reviewed, 0 blocking issues**
 - consolidated refinement: **34/34 decisions complete**
-- reader-facing revisions from the refinement queue: **33**
-- deliberate source-literal retention: **1**
-- English verified: **no — final closure check pending**
+- final closure: **PASS**
+- English: **VERIFIED against the verified booklet Tamil**
+- external legislative wording imported: **none**
 
-The entry preserves the booklet as an edited two-House compilation and does not reconstruct separate Assembly/Council transcripts. Scan pp.1–2 remain publication front matter/source metadata.
+The entry preserves the booklet as an edited two-House compilation and does not reconstruct separate Assembly/Council transcripts. Scan pp.1–2 remain publication front matter/source metadata and are not inserted into the speech transcript as spoken text.
 
 ## Source identity
 
@@ -49,20 +48,36 @@ The entry preserves the booklet as an edited two-House compilation and does not 
 
 Status: **complete and visually verified against the controlling booklet scan**.
 
+- [`transcription/scan-001-010.md`](./transcription/scan-001-010.md)
+- [`transcription/scan-011-020.md`](./transcription/scan-011-020.md)
+- [`transcription/scan-021-030.md`](./transcription/scan-021-030.md)
+- [`transcription/scan-031-040.md`](./transcription/scan-031-040.md)
+- [`transcription/scan-041-050.md`](./transcription/scan-041-050.md)
+- [`transcription/scan-051-060.md`](./transcription/scan-051-060.md)
+
+Audit result:
+
 - scan traversal: **1–60 / 60**
 - confirmed visual-fidelity corrections: **175**
 - unresolved word/character readings: **0**
 - external legislative text imported: **none**
 
-The six files under [`transcription/`](./transcription/) remain frozen unless a direct re-check of the controlling scan proves an error.
+Supporting records:
+
+- [`correction-application-ledger.md`](./correction-application-ledger.md)
+- [`transcription-validation.md`](./transcription-validation.md)
+- [`source-archival-release-status.md`](./source-archival-release-status.md)
 
 ## Provenance research
 
-The completed Unit 1 and Unit 2 alignment ledgers explain House/date provenance without changing source text. Dated Assembly/Council reference records remain metadata/provenance only.
+Completed maps:
 
-## Translation workflow
+- [`unit-1-three-way-alignment-ledger.md`](./unit-1-three-way-alignment-ledger.md)
+- [`unit-2-three-way-alignment-ledger.md`](./unit-2-three-way-alignment-ledger.md)
 
-Control files:
+They explain House/date provenance without changing source text. Dated Assembly reference records remain metadata/provenance only and are intentionally not promoted into complete canonical dated transcripts.
+
+## Translation records
 
 - [`translations/en/TRANSLATION_PLAN.md`](./translations/en/TRANSLATION_PLAN.md)
 - [`translations/en/PROGRESS.md`](./translations/en/PROGRESS.md)
@@ -71,12 +86,16 @@ Control files:
 
 Actual reader-facing English is maintained only in the `speeches/` entry.
 
-Gate F, the full 58-page Gate-G fidelity review, and the consolidated 34-candidate refinement pass are complete. `TRANSLATION_REVIEW.md` records every final refinement decision, including the deliberate retention of source-literal `property rights` and the Tamil-only handling of scan p.57 `அறுத்துக்கொள்ள வேண்டும்`.
+The final translation review records **58/58 pages reviewed, 0 blocking fidelity issues, 34/34 refinement decisions completed, final closure PASS, and English verified against the verified booklet Tamil**.
 
-Exact next activity: **final closure check**. Only after it passes may English be marked verified.
+## Indexing rule
 
-No Assembly/Council Official Report wording may be used during closure.
+The booklet's publication date is not treated as a single speech date. The booklet-level entry therefore remains outside the canonical dated speech table and `data/speeches.json`; the dated event records remain provenance references.
 
 ## Handover
 
 [`../../docs/HANDOVER_1971_NAMATHU_NILAI.md`](../../docs/HANDOVER_1971_NAMATHU_NILAI.md)
+
+## Workflow state
+
+**Closed.** Future textual changes must remain controlled by the booklet scan / verified booklet Tamil, never by external Official Report wording.
