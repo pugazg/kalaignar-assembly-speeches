@@ -38,7 +38,7 @@ The Gate-G review is primarily a **fidelity review**, not a free copy-edit. Non-
 |---|---:|---:|---|---:|
 | G1 | 3–10 | 8 | **complete** | 0 |
 | G2 | 11–18 | 8 | **complete** | 0 |
-| G3 | 19–26 | 8 | pending | — |
+| G3 | 19–26 | 8 | **complete** | 0 |
 | G4 | 27–34 | 8 | pending | — |
 | G5 | 35–37 | 3 | pending | — |
 | G6 | 38–44 | 7 | pending | — |
@@ -46,7 +46,7 @@ The Gate-G review is primarily a **fidelity review**, not a free copy-edit. Non-
 | G8 | 52–58 | 7 | pending | — |
 | G9 | 59–60 | 2 | pending | — |
 
-Reviewed so far: **16 / 58 speech pages** (`scan pp.3–18`).
+Reviewed so far: **24 / 58 speech pages** (`scan pp.3–26`).
 
 English remains **not verified** until every Gate-G batch and the final refinement/closure check are complete.
 
@@ -178,16 +178,84 @@ These are wording-quality candidates only; none currently changes the verified T
 6. scan p.13 — `That too is something that ought to be pointed out` may be refined against `அதுகூட அறிவிக்க வேண்டிய ஒன்றுதான்` toward a more direct `made known / noted` rendering.
 7. scan p.15 — review `one of the largest projects in Asia` against the source phrase `ஆசியாவிலேயே மிகப் பெரிய திட்டம்`; keep the source's emphatic scale claim without introducing an external factual ranking.
 
+---
+
+## G3 — scan pp.19–26
+
+### Overall result
+
+**PASS for semantic/source fidelity.**
+
+The existing English covers every verified Tamil paragraph from scan p.19 through scan p.26 in the correct booklet order. All eight source-page markers are present at the required boundaries. The continuation from the drought/food-production close on p.18 into the industrial-growth heading on p.19 is intact, and the p.26 `ஒன்றுபட்டு வாதாடுவோம்` passage stops at the correct page boundary before its continuation on p.27.
+
+No Tamil change was required. No blocking English omission, duplication, unsupported factual addition, numerical error, quotation loss, heading loss, or source-order error was found.
+
+No Assembly/Council Official Report wording was used in this review.
+
+### Page-by-page ledger
+
+| Scan page | Review result | Checked features |
+|---:|---|---|
+| 19 | **PASS** | `தொழிலில் நமது வளர்ச்சி`; tyre / sodium hydrosulphate / soda-ash / nylon / polyester-fibre projects; industrial production index 1967–1970; registered-factory and company figures; industrial-licence applications and approvals. |
+| 20 | **PASS** | `சிறு தொழில் நிறுவனங்கள்`; 11,929 / 13,571 / 18,063 / 21,857 registered small-industry enterprises; `100 கேட்டால் 30`; continued pressure on the Central Government; `கூட்டுத்துறையின் சிறப்பு` opening. |
+| 21 | **PASS** | private/public/joint-sector distinction; Madras Aluminium Factory example; Rs.3 crore share capital split Rs.1½ crore / Rs.1½ crore; one Government director; Government supervision; `நமது முடிவான லட்சியம்` and public-sector objective. |
+| 22 | **PASS** | `படித்தோரிடையே வேலை இல்லா அவதி`; Fourth Five-Year Plan delay; graduates/engineers; `ஆர்வத்தைக் காட்டும் அறிகுறி`; 6,500 teachers; 2,400 engineers; 1,795 employed by end-February 1971. |
+| 23 | **PASS** | employment-policy qualification; `விடிவெள்ளி` metaphor; `குமுறிக் கொந்தளிக்கும் கேள்வி`; Central rural-employment plan of 1,000 per district, 100 per block, 10 blocks; six-month agricultural unemployment; youth question. |
+| 24 | **PASS** | ruling/Opposition shared employment concern; `பதில் சொல்லத் தான் போகிறோம்!`; repeated `வேலை எங்கே`; Progressive Alliance / Government formation passage; `சொன்னதைச் செய்தோம்`; 1967 election promises and poor/toiler/worker/lamp imagery. |
+| 25 | **PASS** | completion of election-promise sentence; `மின்சார வாரியத்தில் வேலைகள்`; Dr. Hande; tens of thousands of applications; 360 bill collectors, 100 typists, 1,500 clerks; incorrect-information clarification; `விலைவாசி குறைவின் அளவு`. |
+| 26 | **PASS** | Tiruchi market figures for rice, cholam, kambu, ragi and groundnut oil; `பருப்புக்கு ஒரு திட்டம்`; six lakh acres; chilli and turmeric figures; Erode reference; firewood 14→18; `ஒன்றுபட்டு வாதாடுவோம்`; K. M. Subramaniam question and correct p.27 continuation boundary. |
+
+### Numerical and named-entity check
+
+The reviewed English preserves the source-specific values in this range, including:
+
+- industrial production index: `158·3` (1967), `166·3` (1968), `172·8` (1969), `182·3` (1970);
+- registered factories: `7,065` (1967), `7,922` (1970);
+- registered enterprises/companies: `91` (1967), `116` (1969), `76` in the first six months of 1970;
+- industrial-licence applications/approvals: `38/16`, `51/9`, `97/12`, `142/36`;
+- small-industry registrations: `11,929`, `13,571`, `18,063`, `21,857`;
+- approval rhetoric: `100` asked / `30` approved;
+- Madras Aluminium Factory: `Rs. 3 crore`, split `Rs. 1½ crore` private and `Rs. 1½ crore` Government, with `one` Government director;
+- teachers: `6,500`; engineers: `2,400`; employed engineers by end-February 1971: `1,795`;
+- rural employment: `1,000` per district, `100` per block, `10` blocks; agricultural workers without work for `six months`;
+- Electricity Board recruitment: `360` bill collectors, `100` typists, `1,500` clerks;
+- Tiruchi market / agricultural-price figures: rice `100 → 86·60`, cholam `85·3 → 73·35`, kambu `90 → 52`, ragi `70 → 62`, groundnut oil `470 → 445`, chillies `410 → 350`, turmeric `380 → 180`, firewood `14 → 18`;
+- pulses plan: `six lakh acres`.
+
+Names and institutional labels checked include Dr. Hande, K. M. Subramaniam, Director of Industries and Commerce, Electricity Board, Central Government and the Fourth Five-Year Plan.
+
+### Rhetoric / metaphor check
+
+The English preserves the principal rhetorical structures of this range:
+
+- `நமது முடிவான லட்சியம்` and the public-sector / joint-sector distinction;
+- `புன்னகை அளிக்கக் கூடியதாக இல்லை` as the smile image;
+- `விடிவெள்ளி` as a retained dawn metaphor;
+- `குமுறிக் கொந்தளிக்கும் கேள்வி`;
+- repeated `வேலை எங்கே, வேலை எங்கே`;
+- `சொன்னதைச் செய்தோம்`;
+- the poor-home / enduring-lamp image;
+- `ஒன்றுபட்டு வாதாடுவோம்` at the p.26 close.
+
+### Non-blocking wording-refinement queue from G3
+
+These are wording-quality candidates only; none currently changes the verified Tamil meaning:
+
+8. scan p.19 — the first industrial-growth sentence compresses the source's paired wording `நம்முடைய நாட்டுக்குக் கிடைத்திருக்கின்றன. நம்முடைய மாநிலம் பெற்றிருக்கின்றது.` into `have come to our State`; consider whether the source's deliberate restatement should be preserved more visibly in English.
+9. scan p.23 — `விடிவெள்ளி` is currently `dawn-star`; preserve the metaphor but review natural English phrasing without flattening it into a generic sign or importing outside explanation.
+10. scan p.26 — heading `ஒன்றுபட்டு வாதாடுவோம்` is currently `Let us argue together`; review whether a formulation such as pressing/arguing the case together better preserves the policy/parliamentary force while remaining controlled by the Tamil alone.
+
 These candidates must be resolved only from the verified booklet Tamil. They do not authorize consultation of Official Reports or outside factual correction.
 
 ## Consolidated non-blocking queue status
 
 - G1 candidates: **4**
 - G2 candidates: **3**
-- total queued after G2: **7**
+- G3 candidates: **3**
+- total queued after G3: **10**
 
 ## Exact continuation point
 
-Proceed with **G3 — scan pp.19–26**.
+Proceed with **G4 — scan pp.27–34**.
 
 Review the existing English against the verified booklet Tamil page by page; record any blocking fidelity corrections and any non-blocking refinement candidates here. Do not change the verified Tamil unless a direct booklet-scan recheck independently proves a transcription error.
