@@ -40,12 +40,12 @@ Other Assembly/Council PDFs are reference/provenance sources only. Their wording
 - Tamil source package itself: **complete and visually verified, 60/60 scan pages**.
 - Confirmed source corrections: **175**.
 - Unresolved Tamil readings: **0**.
-- Speech-folder Tamil populated so far: **scan pp.3–26**.
-- English populated so far: **scan pp.3–26**.
-- Speech-page coverage: **24 / 58 pages**.
+- Speech-folder Tamil populated so far: **scan pp.3–34**.
+- English populated so far: **scan pp.3–34**.
+- Speech-page coverage: **32 / 58 pages**.
 - English fidelity review: **not yet complete**.
 
-The next population batch begins at **source scan p.27**.
+The next population batch begins at **source scan p.35**.
 
 ## Source structure
 
