@@ -705,4 +705,88 @@ The Honourable lady repeatedly alleged that facilities had not increased. It is 
 
 When we sat in the Opposition ranks and the Honourable lady sat on the ruling-party side, whenever we argued that there should be a separate department for the welfare of backward people, did anyone pay heed? Did anyone lend an ear? Were we not simply made to sit down with an authoritative "Sit down"? Today, when we assumed responsibility, after Anna's death, when I took responsibility, I said: `I was born in a very backward class — put "very", "very", "very" as many times as you like. Therefore, for the downtrodden people of this country, for the backward people, I shall stake my life and labour so that they may live.`
 
-<!-- translation-continues-at-source-page: 52 -->
+<!-- source-page: 52 -->
+
+## Assistance to raise the condition of backward people
+
+To prove that this was not merely a matter of words, a separate department for the welfare of backward people was immediately established. Besides a separate department and a separate Minister, a committee was also constituted. That committee has submitted its recommendations, and we are now in a position where the Government is examining those recommendations. Not only that, in the backward-people welfare department, we changed the position under which scholarships were given to students only if they obtained 50 per cent marks, and made it possible for those obtaining 40 per cent marks also to receive scholarships. Assistance that had earlier stood at Rs. 90 lakh was revised so as to provide Rs. 300 lakh in assistance.
+
+Likewise, it is not merely that the figures show an allocation of Rs. 9 crore in the Interim Budget — Rs. 3 crore for backward people and Rs. 6 crore for the downtrodden people; many works have also been carried out for the advancement of the downtrodden people. Without forgetting the hardships we pointed out while in the Opposition, when in villages there were difficulties so severe that people could not even reach the burial ground, today we are carrying out those tasks slowly, but firmly. In many villages we are creating approach roads to Harijan colonies.
+
+During the previous twenty-three years, more than 5,000 Harijan colonies had remained without electricity facilities.
+
+<!-- source-page: 53 -->
+
+## The darkness is receding
+
+After this new Government came to office, electric lights have been provided to 4,000 of those 5,000 colonies. It is therefore clear that this Government is working for the advancement of the poor, ordinary and middle-class people.
+
+Thiru K. T. K. Thangamani remarked that workers had not been mentioned. Whether stated here or left unstated, this Government is resolved to labour for the advancement of workers, the toiling people, poor and ordinary people, middle-class people, backward people, downtrodden people, and those who lie pressed down at the very base of society. For that, the help of those who possess a spirit of comradeship is needed. I ask for that help with great affection. Examining the financial position in the Interim Budget, the statement has pointed out that the Central Government should not act with a stepmotherly attitude, but should provide the funds needed to meet our requirements.
+
+Because this is an Interim Budget Statement, no one need think that the voice for our rights raised in it is only an interim voice for our rights.
+
+## A united voice for our rights
+
+The Leader of the Opposition in the Legislative Council and the other members who spoke stated that they were prepared to support whatever action you may take to obtain greater funds from the Central Government. I consider that the Leader of the Opposition in the Legislative Council gave such an assurance because of his confidence in this Government.
+
+<!-- source-page: 54 -->
+
+If there were people in the Cabinet inclined toward acts of violence, he would not have used those words.
+
+The reason they spoke in this way, without deceit or guile and with an open heart, was that they believed the actions taken would be measured, honest and in accordance with parliamentary methods, and that those actions would follow Anna's path. It was because they believed this that they spoke with such firmness and emphasis. Hearing this speech of his, I too wondered with some anxiety what members of his party might say. I am greatly obliged to appreciate the concern they have shown for Tamil Nadu's advancement.
+
+Member Thiru Swaminathan examined all the reasons why the financial shares that ought to reach us have not reached us. I even wondered whether his speech might go so far as to make one think that an emissary of the Central Government was speaking. But only after he finished did I gain confidence that there was no such problem, and that Thiru Swaminathan too would certainly stand with us in the righteous struggle — the struggle for rights — the struggle suited to parliamentary methods — that the Tamil Nadu Government is conducting against the Central Government.
+
+Everyone knows that this Government alone is a Government capable of boldly raising a voice of opposition to the Central Government.
+
+## The culture of Tamil Nadu
+
+When the elder Thiru Krishnaswami Naidu, who had worked for a long time in the Tamil Nadu Congress Committee, and the Leader of the Opposition in the Legislative Council spoke, I felt the emotion and inward feeling of an elder in a family offering his blessings. Before the election, when they worked for their own party, all that they wished was that their party's Government should come to office; they did not work with the evil intention that we should not come to office.
+
+<!-- source-page: 55 -->
+
+There were many in Tamil Nadu who looked with irritation and asked whether these ordinary people, these common people, should sit on the seat of power. All the good we had done for the country in four years was concealed; all the achievements that were pointed out were mocked and ridiculed; and there were also those who worked in the election with the aim that we should be removed.
+
+## Praise with purity of heart
+
+But the elders who offered their good wishes here did not work in this election with that intention. I am prepared to accept with great kindness and humility the praise they gave with purity of heart. That praise will serve as good support for my work and for the work of my fellow Ministers.
+
+The election is over. Whether the incidents that have taken place after the election or those that took place earlier were incidents that occurred politically, we must truly feel sorrow and pain over them. I ask everyone involved in political parties not to fall prey to murderous frenzy. However many personal or political resentments there may be, it is only by settling them through speech and through writing that we can preserve the culture of Tamil Nadu and political civility.
+
+## We will not tolerate violence
+
+At the same time as I make this appeal, I once again give the warning that those who engage in violence of this kind, whichever political party they belong to, will certainly be subjected to action. For the welfare of this country, for the future of Tamil Nadu, and with the great aim of protecting political culture, I am duty-bound to issue this firm warning to those who harbour thoughts of violence.
+
+<!-- source-page: 56 -->
+
+I said that on every page of this Budget Statement our voice for our rights is echoing. Member Thiru Swaminathan asked what action you are going to take to obtain these rights. Whatever the action may be, as far as the Tamil Nadu Government is concerned it will take action only in accordance with parliamentary methods; our actions will not follow a course of violence.
+
+## The Uprising Day we observed then
+
+When we came to office as the ruling party, Perarignar Anna brought together all parties other than the Congress and observed an Uprising Day for the Tuticorin harbour and the Salem iron plant. At the time, people mocked us by asking whether a ruling party could observe an Uprising Day. That Uprising Day voice had real value. No one can have forgotten that the Tuticorin harbour was declared a deep-sea harbour.
+
+After we stated through parliamentary methods that we wanted the Salem iron plant and that, if it was not given, we would not agree to the Fourth Five-Year Plan, approval was granted for the Salem iron factory.
+
+If all of us raise our voice together — not for the benefit of one party, but for the benefit of the people of Tamil Nadu — the justice that is due will certainly be obtained. Until then, we shall continue to conduct our righteous struggles through parliamentary methods.
+
+<!-- source-page: 57 -->
+
+## When will we set down the kavadi we have taken up?
+
+It was asked whether there should be a situation in which a kavadi has to be taken up. It was not only our member who asked this; even Thiru Kamarajar asked it. Whoever takes it up, it is still a kavadi. All I say is: when are we to put down the kavadi that has been taken up? Should not everyone come together for that? We say that it is only by that path that State autonomy can be obtained. On the basis of such an idea, whether it is a decision taken by the Government or a decision taken by everyone in this House, I wish, on behalf of this House, to appeal to the Central Government to respect that decision and act accordingly.
+
+Even though the speeches made here may be made inside a small hall with only forty or fifty people seated and speaking, these speeches do not thereby lose their proper value. These speeches are certainly capable of echoing in Delhi. News will spread in Delhi that Tamil Nadu Chief Minister Karunanidhi has expressed such a view and that all parties have supported it. I say this not to frighten anyone, but so that everyone should know that the representatives of all the people in this State do not want Tamil Nadu to be cheated and are asking that the funds Tamil Nadu needs be provided.
+
+Their desire is that we should somehow wrest it free. Members of the ruling party and leaders of the Opposition parties all referred to this. Thiru Ponnappa Nadar too said that he welcomed our asking the Central Government. Now he will certainly and firmly welcome it. Our Hande asked, "You keep asking the Central Government; what are you going to do if they do not give it?" Their desire is that we should do something and wrest it free. So they asked, "What are you going to do? What are you going to do?" I asked him himself to tell me what should be done.
+
+<!-- source-page: 58 -->
+
+The support we give to Tmt. Indira is not a matter tied to obtaining money for the State. The support we gave — the support given by us, the leaders of the Progressive Alliance parties and our friends — is support based on policy; it is not support given after striking some bargain.
+
+Whether we give support or do not give support, Tmt. Indira's Government has been formed as a strong Government at the Centre. Even in a situation where we do not support it today, when the Central Government frames progressive policies it is in a position to win whether our 23 votes are cast or not. I wish to make clear to the Opposition members and to Thiru Hande, the Swatantra Party's Legislative Assembly leader, that our hands will rise in support of progressive ideas; our hands will not fall, and that this is support based on policy.
+
+## If Hindi is imposed ......
+
+Today we are giving support to the abolition of privy purses and to the programme of bank nationalisation. But if even tomorrow a situation arises in which Hindi is imposed on Tamil Nadu, or is imposed indirectly, even if it appears only through hints and gestures, do not forget that our comrades there will stand like soldiers in the ranks and raise a battle cry against it. We shall extend a hand for relations with the Central Government; at the same time, we shall raise our voice for our rights.
+
+<!-- translation-continues-at-source-page: 59 -->
