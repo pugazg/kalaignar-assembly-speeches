@@ -2,13 +2,13 @@
 
 ## Status
 
-**GATE F COMPLETE — GATE-G PAGE REVIEW COMPLETE — CONSOLIDATED REFINEMENT PENDING.**
+**GATE F COMPLETE — GATE-G PAGE REVIEW COMPLETE — CONSOLIDATED REFINEMENT COMPLETE — FINAL CLOSURE PENDING.**
 
 Reader-facing Tamil and English are maintained under:
 
 `speeches/1971/1971-namathu-nilai/`
 
-This source-side directory retains translation planning, progress, glossary and review records only. Do not maintain a second independent copy of the English here.
+This source-side directory retains translation planning, progress, glossary and review records only. Do not maintain a second independent English copy here.
 
 ## Non-negotiable source rule
 
@@ -16,11 +16,7 @@ The only textual authority is the verified Tamil derived from:
 
 `ACL-CPL_01726_நமது_நிலை.pdf`
 
-Working Tamil source files remain under `../../transcription/`.
-
 Tamil Nadu Legislative Assembly and Legislative Council Official Reports are **reference/provenance only**. They may not supply Tamil wording, English wording, missing passages, corrections, terminology or reconstructed House text.
-
-If any Tamil reading appears doubtful, re-check only `ACL-CPL_01726_நமது_நிலை.pdf`.
 
 ## Translation object
 
@@ -33,79 +29,42 @@ The reader-facing entry preserves the booklet's two printed speech units in publ
 
 Scan pp.1–2 are source front matter. The booklet is an edited two-House witness; do not reconstruct separate Assembly/Council speeches.
 
-## Translation objective
-
-Produce and verify a faithful reading translation that preserves, as far as English permits:
-
-- argumentative sequence and repetition;
-- direct parliamentary address;
-- headings and speaker changes;
-- humour, irony, idiom and metaphor;
-- names, dates, figures, money, percentages and units;
-- printed English expressions and source-specific claims;
-- booklet page order and source-page boundaries.
-
-Do not modernise, fact-correct, harmonise with Official Reports or fill omissions from another source.
-
 ## Completed stages
 
 ### Gate F — first-pass population
 
-All F batches are complete. Reader-facing English covers **58/58 speech pages, scan pp.3–60**.
+Complete: **58/58 speech pages, scan pp.3–60**.
 
 ### Gate G — page-by-page fidelity review
 
-All nine Gate-G batches are complete:
+Complete: **58/58 speech pages**, all G1–G9 batches passed with **0 blocking fidelity issues**. No Tamil change and no Official Report wording were used.
 
-- G1 pp.3–10 — complete
-- G2 pp.11–18 — complete
-- G3 pp.19–26 — complete
-- G4 pp.27–34 — complete
-- G5 pp.35–37 — complete
-- G6 pp.38–44 — complete
-- G7 pp.45–51 — complete
-- G8 pp.52–58 — complete
-- G9 pp.59–60 — complete
+### Consolidated source-controlled refinement
 
-Gate-G result:
+Complete: **34/34 queued candidates decided**.
 
-- speech pages reviewed: **58/58**
-- blocking fidelity issues: **0**
-- verified Tamil changes: **none**
-- Official Report wording used: **none**
-- non-blocking refinement candidates: **34**
-
-Detailed findings and all 34 candidates are recorded in `TRANSLATION_REVIEW.md`.
-
-## Consolidated refinement stage
-
-The next stage is a single source-controlled pass over candidates 1–34 in `TRANSLATION_REVIEW.md`.
-
-For every candidate:
-
-1. compare the existing English only with the verified booklet Tamil and immediate booklet context;
-2. revise `speeches/1971/1971-namathu-nilai/translation.md` only when the source supports a clearer or closer English rendering;
-3. preserve ambiguity rather than resolving it from Assembly/Council Official Reports, outside editions or historical reconstruction;
-4. record the final disposition for each candidate in `TRANSLATION_REVIEW.md`;
-5. keep source-page markers, headings, figures and source order unchanged unless the verified Tamil itself proves an English fidelity error.
-
-The high-priority candidate is scan p.57 `அறுத்துக்கொள்ள வேண்டும்`, currently rendered `wrest it free`; it must be reconsidered from booklet Tamil/context alone and may remain deliberately ambiguous if no stronger source-controlled resolution exists.
+- **33** reader-facing English revisions applied;
+- **1** deliberate source-literal retention: scan p.47 `சொத்து உரிமை` remains `property rights` because the booklet phrase itself is ambiguous and external fiscal classification is prohibited;
+- scan p.57 `அறுத்துக்கொள்ள வேண்டும்` revised from `wrest it free` to the closer `cut ourselves free`, preserving the reflexive ambiguity rather than resolving it from outside sources;
+- full dispositions are recorded in `TRANSLATION_REVIEW.md`.
 
 ## Final closure check
 
-After all 34 refinement decisions are completed:
+The remaining stage must verify:
 
-- re-check 58/58 source-page markers and continuity;
-- re-check headings and intervention labels;
-- re-check names, dates, figures, money, percentages and units;
-- confirm no content was added from Official Reports;
-- update `PROGRESS.md`, `TRANSLATION_REVIEW.md`, reader metadata/README, source README and handover;
-- only then may `verified_against_tamil` be set to `true` and English marked verified.
+1. `<!-- source-page: 3 -->` through `<!-- source-page: 60 -->` occur exactly once and in order in both Tamil and English;
+2. both editorial-unit boundaries/headings are intact;
+3. headings, interventions, quotations, names, dates, figures, money, percentages and units remain consistent with the verified Tamil after refinement;
+4. all 34 refinement decisions are present in reader-facing `translation.md`;
+5. metadata, README, progress, plan and glossary records are internally consistent;
+6. no wording entered from Assembly/Council Official Reports.
+
+Only after closure passes may `verified_against_tamil` be set to `true` and English status be marked complete/verified.
 
 ## Tamil lock
 
-The six verified source transcription files remain frozen. Translation difficulty is not evidence for changing Tamil. A Tamil change is allowed only after a direct visual re-check of the controlling booklet scan proves the existing transcription wrong.
+The six verified source transcription files remain frozen. Translation difficulty is not evidence for changing Tamil. A Tamil change is allowed only after a direct visual re-check of `ACL-CPL_01726_நமது_நிலை.pdf` proves an error.
 
 ## Exact continuation point
 
-Proceed with the **consolidated English refinement pass over candidates 1–34** recorded in `TRANSLATION_REVIEW.md`.
+Proceed with the **final closure check**.
