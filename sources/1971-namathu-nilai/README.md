@@ -18,9 +18,10 @@ The speech and its working English translation are being populated under:
 
 Current coverage there:
 
-- Tamil: scan pp. **3–10**
-- English: scan pp. **3–10**
-- next page: **scan p.11**
+- Tamil: scan pp. **3–18**
+- English: scan pp. **3–18**
+- speech-page coverage: **16 / 58**
+- next page: **scan p.19**
 
 The entry preserves the booklet as an edited two-House compilation and does not reconstruct separate Assembly/Council transcripts. Scan pp.1–2 remain publication front matter/source metadata and are not inserted into the speech transcript as spoken text.
 
@@ -90,7 +91,7 @@ Control files remain here:
 
 Actual reader-facing English is maintained only in the `speeches/` entry to avoid duplicate independently editable copies.
 
-Gate-F first-pass coverage is now **scan pp.3–10**. Next batch: **scan pp.11–18**.
+Gate-F first-pass coverage is now **scan pp.3–18**. Next batch: **scan pp.19–26**.
 
 ## Handover
 
