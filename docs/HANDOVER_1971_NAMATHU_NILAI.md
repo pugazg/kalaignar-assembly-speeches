@@ -87,23 +87,23 @@ Scan pp.1–2 are publication front matter/source metadata and are not inserted 
 
 Tamil copied from the verified booklet transcription:
 
-- scan pp. **3–51** complete
+- scan pp. **3–58** complete
 
 English first-pass translation:
 
-- scan pp. **3–51** complete
+- scan pp. **3–58** complete
 
 Editorial Unit 1 (scan pp.3–37): **fully populated in Tamil and Gate-F English**.
 
-Editorial Unit 2: **scan pp.38–51 populated and translated**.
+Editorial Unit 2: **scan pp.38–58 populated and translated**.
 
 English remains **Gate-F working text**, not yet fidelity-verified.
 
-Current speech-page coverage: **49 / 58 pages**.
+Current speech-page coverage: **56 / 58 pages**.
 
 Next continuation point:
 
-- **scan p.52**
+- **scan pp.59–60**
 
 ## Translation control records
 
@@ -153,30 +153,37 @@ Completed Tamil population and English first pass for the opening of Editorial U
 
 ### F7 — scan pp.45–51
 
+Completed Tamil population and English first pass. This range includes completion of the L.I.C./Corporation loan discussion, small/village-industry allocations, Central-to-State revenue categories, tractor expenditure, slum-clearance and tenement figures, agricultural loans, education/medical allocations and the `மின்ஒளி இல்லாத ஊர் இல்லை` passage through the printed `மிக`, `மிக`, `மிக` backward-class statement.
+
+### F8 — scan pp.52–58
+
 Completed Tamil population and English first pass. This range includes:
 
-- completion of the L.I.C./Corporation loan and interest discussion, including the printed `வழிவகை முன்பணம்` / ways-and-means advance;
-- `சிறு தொழில் துறைக்கு நிதி குறையவில்லை`, SIDCO and village/small-industry allocations;
-- Central-to-State revenue categories, Finance Commission grants, Plan and non-Plan assistance;
-- tractor allocations and the printed twenty-year/four-year comparison;
-- slum-clearance/tenement counts, the `தீப்பெட்டி வீடுகள்` / matchbox-and-matchstick metaphor, and the Slum Clearance Board / Rama. Arangannal passage;
-- agricultural short-term/long-term loans and total expenditure;
-- education and medical allocations, including the printed 22% / 22.6% comparison;
-- `மின்ஒளி இல்லாத ஊர் இல்லை`, water/electricity/backward-welfare allocations;
-- the printed `மிக`, `மிக`, `மிக` backward-class self-description at the end of scan p.51.
+- `பின்தங்கியவர்கள் நிலை உயர உதவிகள்`, the separate welfare department, scholarship threshold change, Rs.90 lakh → Rs.300 lakh assistance, and Rs.9 crore allocation;
+- approach roads and electrification for `அரிசனக் காலனிகள்`, followed by `இருள் அகலுகிறது`;
+- workers, toilers and socially oppressed people, and the declaration that the Interim Budget's `உரிமைக்குரல்` is not an interim voice for rights;
+- `ஒருமித்த உரிமைக்குரல்`, the Legislative Council Opposition Leader's support, and the parliamentary/non-violent framing of action;
+- Swaminathan and the printed `அறப் போராட்டம்—உரிமைப் போராட்டம்—பாராளுமன்ற முறைக்கேற்ற போராட்டம்` sequence;
+- `தமிழ்நாட்டின் பண்பாடு`, Krishnaswami Naidu and the elder/blessing comparison;
+- `உள்ளத் தூய்மையோடு பாராட்டு` and `வன்முறையைச் சகியோம்`;
+- `அன்று கொண்டாடிய எழுச்சி நாள்`, Tuticorin harbour, Salem iron plant and continued parliamentary struggle;
+- `எடுத்த காவடியை இறக்குவது எப்போது?`, State autonomy, House unity and the Delhi-echo passage;
+- the source-specific `அறுத்துக்கொள்ள வேண்டும்` exchange, retained conservatively in the Gate-F English and explicitly flagged for later Tamil-only nuance review;
+- policy-based support for Indira, the printed 23-vote reference and `இந்தி திணிக்கப்பட்டால் ......`, ending with the hand-for-relations / voice-for-rights formulation at scan p.58.
 
 No Assembly/Council Official Report wording was used.
 
 ## Exact next activity
 
-Continue **F8 — scan pp.52–58**, Editorial Unit 2:
+Continue **F9 — scan pp.59–60**, closing Editorial Unit 2 and completing the full booklet speech population and Gate-F English first pass:
 
-1. read the verified Tamil only from `sources/1971-namathu-nilai/transcription/`;
-2. extend `speeches/1971/1971-namathu-nilai/transcript.md` through scan p.58;
+1. read the verified Tamil only from `sources/1971-namathu-nilai/transcription/scan-051-060.md`;
+2. extend `speeches/1971/1971-namathu-nilai/transcript.md` through scan p.60;
 3. extend the faithful English first-pass `translation.md` through the same pages;
 4. preserve every source-page marker, heading, intervention, figure and source ordering;
 5. update `metadata.json`, speech README, `PROGRESS.md`, `GLOSSARY.md`, source README and this handover;
-6. do not use Assembly/Council Official Report wording.
+6. after F9, mark the reader-facing Tamil population and Gate-F English first pass complete, but do **not** mark English fidelity-verified until Gate G is performed;
+7. do not use Assembly/Council Official Report wording.
 
 At every step:
 
