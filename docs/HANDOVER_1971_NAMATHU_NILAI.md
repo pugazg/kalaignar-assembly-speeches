@@ -89,9 +89,10 @@ Scan pp.1–2 are publication front matter/source metadata and are not inserted 
 - English Gate-F first pass: **scan pp.3–60 complete — 58/58 speech pages**
 - Gate F: **complete**
 - Gate G English fidelity review: **in progress**
-- Gate-G reviewed range: **scan pp.3–34 — 32/58 pages**
+- Gate-G reviewed range: **scan pp.3–37 — 35/58 pages**
+- Editorial Unit 1 Gate-G review: **complete — 35/35 pages**
 - Gate-G blocking fidelity issues found so far: **0**
-- Gate-G non-blocking wording refinements queued: **14**
+- Gate-G non-blocking wording refinements queued: **18**
 - English verified: **no**
 
 ## Translation control records
@@ -183,31 +184,58 @@ Results:
 - no blocking mistranslation or unsupported factual addition found;
 - no Official Report wording used;
 - no Tamil changes required;
-- **4 additional non-blocking wording refinements** queued, bringing the total queue to **14**.
+- 4 additional non-blocking wording refinements queued.
 
-G4 wording-refinement candidates:
+### G5 — scan pp.35–37
 
-1. scan p.29 — streamline the Hande `dissenting note` sentence while staying closer to `செயலில் ஒத்துக்கொள்ளும் வகையில் அதிகார பூர்வமாகத் தெரிவிக்கும் வகையில்`;
-2. scan p.31 — refine `on the scale of Rs. 40 crore` for the Slum Clearance Board without importing an unprinted fiscal category;
-3. scan p.34 — review `அறவழி முறையில்` → `righteous path` for more natural but source-controlled English;
-4. scan p.34 — review `ஏகோபித்த வாசகம்` → `unanimous declaration` for the exact force of `வாசகம்`.
+**Complete — semantic/source-fidelity PASS. Editorial Unit 1 review is now complete.**
 
-These are wording-quality candidates, not blocking fidelity defects. Resolve them only from the verified Tamil.
+G5 reviewed the land-reform passage, 50-cent / 15-`குழி` figures, bus-ceiling and `ரெட்ராஸ்பெக்டிவ் எஃபக்ட்`, prohibition argument, `வேடுவர்கள் சூழ்ந்த மான்`, the explicit admission of prohibition's failure, horse-racing discussion, untouchability comparison, T. K. Shanmugam's song/`தொகையறா` joke, Krishnaswami Naidu's two-crore-women intervention and the Chief Minister's clarification.
+
+Results:
+
+- all 3 source-page boundaries present and correctly ordered;
+- p.34→35 continuation and p.37→38 Unit 1/Unit 2 boundary intact;
+- no omitted or duplicated source content found;
+- all checked names, figures, headings and speaker labels retained;
+- no blocking mistranslation or unsupported factual addition found;
+- no Official Report wording used;
+- no Tamil changes required;
+- **4 additional non-blocking wording refinements** queued, bringing the total queue to **18**.
+
+G5 wording-refinement candidates:
+
+1. scan p.35 — `a ceiling on buses` for `பஸ் உச்சவரம்பு`; keep source-controlled and do not infer an unprinted ownership formula;
+2. scan p.36 — `corrupts the integrity of many people` for `பலரது நாணயத்தையும் கெடுக்கிறது`; review naturalness while retaining the moral/honesty sense;
+3. scan p.36 — `if what used to happen here happened there` adds a past-tense clarification not explicitly printed in `இங்கு நடப்பது போல அங்கு நடந்தால்`; revise toward a temporally neutral/source-closer formulation during the consolidated pass;
+4. scan p.37 — `would perhaps sing a thogaiyara in anger` slightly softens `ஆங்காரமாக தொகையறாவே பாடிவிடுவார்கள்`; retain `thogaiyara` but review rhetorical force.
+
+These are wording-quality/fidelity-refinement candidates, not blocking defects. Resolve them only from the verified booklet Tamil.
+
+## Unit 1 milestone
+
+Editorial Unit 1 (`scan pp.3–37`) has completed page-by-page Gate-G review:
+
+- **35/35 speech pages reviewed**;
+- **0 blocking fidelity issues**;
+- **18 non-blocking refinement candidates** across G1–G5;
+- verified Tamil changes: **none**;
+- Official Report wording used: **none**.
+
+This does not mark the full English verified. Unit 2 and the final consolidated refinement/closure pass remain outstanding.
 
 ## Exact next activity
 
-Continue **Gate G5 — scan pp.35–37**:
+Continue **Gate G6 — scan pp.38–44**, beginning Editorial Unit 2:
 
-1. read the verified Tamil for scan pp.35–37 only from the source transcription controlled by `ACL-CPL_01726_நமது_நிலை.pdf`;
+1. read the verified Tamil for scan pp.38–44 only from the source transcription controlled by `ACL-CPL_01726_நமது_நிலை.pdf`;
 2. compare the corresponding English in `speeches/1971/1971-namathu-nilai/translation.md` page by page;
-3. check headings, paragraphs, quotations, names, figures, page continuations, rhetorical force and unsupported additions;
-4. record the full G5 ledger in `sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md`;
+3. check the printed Unit 2 heading/introduction, paragraphs, quotations, names, figures, page continuations, rhetoric and unsupported additions;
+4. record the full G6 ledger in `sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md`;
 5. update `PROGRESS.md`, metadata and relevant READMEs;
 6. if a blocking English fidelity error is found, correct it using only the verified Tamil;
 7. record non-blocking wording refinements separately for the consolidated refinement pass;
 8. do **not** use Assembly/Council Official Report wording.
-
-G5 completes the remaining Unit 1 fidelity review. After that, Gate G proceeds to Unit 2 beginning at scan p.38.
 
 At every step:
 
