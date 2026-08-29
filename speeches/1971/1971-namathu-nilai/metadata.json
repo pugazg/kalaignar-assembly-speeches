@@ -43,14 +43,14 @@
     "source_package_verified": true,
     "source_package_verified_scan_pages": "1-60",
     "verified_against_scan": true,
-    "populated_scan_pages": "3-10",
+    "populated_scan_pages": "3-18",
     "external_legislative_text_imported": false
   },
   "translation": {
     "language": "English",
     "status": "in-progress",
     "type": "faithful reading translation from verified booklet Tamil only",
-    "translated_scan_pages": "3-10",
+    "translated_scan_pages": "3-18",
     "verified_against_tamil": false,
     "external_legislative_wording_imported": false
   }
