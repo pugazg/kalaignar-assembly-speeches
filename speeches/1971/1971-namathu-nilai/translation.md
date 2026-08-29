@@ -547,4 +547,90 @@ Thiru Krishnaswami Naidu (Nijalingappa Congress): The Chief Minister spoke in a 
 
 Chief Minister: I did not say that it was going to be repealed. I only asked the members to think about it. There are women in the States where prohibition has been repealed too.
 
-<!-- translation-continues-at-source-page: 38 -->
+---
+
+## Editorial Unit 2 — Chief Minister's reply to the Budget Statement debate
+
+<!-- source-page: 38 -->
+
+# Chief Minister's reply to the Budget Statement debate
+
+A compilation of the speeches delivered by Chief Minister of Tamil Nadu Kalaignar M. Karunanidhi in reply to the debate on the Interim Budget Statement in the Tamil Nadu Legislative Assembly and Legislative Council is given below. The Chief Minister's speech follows:-
+
+At this time, when I am replying to the debate that has taken place on the Interim Budget Statement, we are duty-bound to look closely, with humanitarian concern beyond the laws of world politics, at the horrific killings taking place in East Bengal, a part of Pakistan — a country that was once part of India and later became a foreign country — and to convey our deep sympathy to the valiant fighters who are struggling for the rights of those people. Even though this is a foreign-affairs matter and we should not intervene in it, as I said at the outset, in a situation beyond the framework of the laws of world politics, we are duty-bound, on humanitarian grounds and on behalf of four crore Tamil people, to convey our deep sympathy.
+
+Members belonging to various parties have explained many good views in considerable detail on the Interim Budget Statement. At a time when a new Government has once again been formed in this House on behalf of the Dravida Munnetra Kazhagam, I take pride in having had the privilege, as Finance Minister, of placing the Budget Statement before you, hearing all your considered views and replying to them. I am also greatly delighted.
+
+## Members of ability
+
+This Government, created by Perarignar Anna, has been formed after standing in his path and governing for four years, and after receiving the overwhelming support of the great people of Tamil Nadu. I know well how capable the members who have come here are.
+
+<!-- source-page: 39 -->
+
+Among the members who have come to this House, there are, from the Dravida Munnetra Kazhagam alone, 30 lawyers; from the Nijalingappa Congress Party, 5 lawyers; from the Communist Party of India, 2 lawyers; from the Forward Bloc Party, one lawyer; and from the Muslim League, one lawyer — making 39 lawyers who have come as members of this House. Four doctors have come on behalf of the Dravida Munnetra Kazhagam and two on behalf of the Swatantra Party, making six. Thus there are six doctors here not only to offer able views but also to help when the occasion requires it.
+
+As representatives of teachers, 5 from the Dravida Munnetra Kazhagam and one Independent, making 6, have found a place here. Among engineers, one member from the Dravida Munnetra Kazhagam has found a place. Among graduates, 20 from the Dravida Munnetra Kazhagam and 3 from the Congress Party, making 23, have found a place here.
+
+## The Opposition ranks
+
+In this House, filled to this extent with capable people — lawyers, friends from the medical field, engineers and such persons — I take pride in being truly fortunate to serve as Chief Minister and to reply to the debates. Among those seated in the Opposition ranks, a notable person is Thiru Ponnappa Nadar, who sits as leader of the Congress Party. I have often wished that he should have been Leader of the Opposition. I am genuinely happy that today that wish has been half fulfilled. The reason is that he is capable of speaking with good debating ability, depth of thought, statistics, a great sense of respect, political culture, and in a manner suited to the civility of Tamils. For that reason I have often wondered whether he should not have been Leader of the Opposition in this House. At times I have even lamented this to my ministerial colleagues. Though today he could not become Leader of the Opposition, he sits as leader of the Congress Party, which is now the principal party in the Opposition group. Even if he does not thank the Dravida Munnetra Kazhagam for paving the way for that, I wish to express my happiness that he has found a place here in this capacity.
+
+The respected Thiru K. T. K. Thangamani, who sits as leader on behalf of the Communist Party of India, was a member of Parliament for more than five years and earned a name as one who could speak at length in Parliament and a reputation for putting forward many good ideas. Let him set out his progressive thoughts in this House without hindrance. I believe they will all serve as good advice to us.
+
+<!-- source-page: 40 -->
+
+## A spirit of comradeship
+
+The highly respected Tiruppur Moideen, who sits as leader of the Muslim League Party, was famous in Tamil Nadu when we were all students, to such an extent that through his platform speeches all of us could gain feeling and inspiration. Today, having taken responsibility as leader of the Muslim League Party in the Legislature, I believe that the gracious ideas he can offer, and the goodwill that can be exchanged in a spirit of comradeship, will all receive due value in this House.
+
+Our friend Thiru Perumal, who sits as leader of the Forward Bloc Party, will deliver a valiant speech; at the same time he will speak in a way in which wisdom shines. I also wish to state that this House has a duty to pause, carefully consider the views he puts forward on behalf of his party, and do what is good.
+
+## The cat carrying its kitten
+
+<!-- source-page: 41 -->
+
+The respected Dr. Hande, who sits as leader of the Swatantra Party, has also been a member of the Legislative Council. He served as a member of this House for four years and has now again had the opportunity to sit as a member and as leader of the Swatantra Party. I remember very well that once, when he spoke criticising the policies of the Government, Perarignar Anna, who was then Chief Minister, remarked that Hande's criticism of us was like a cat carrying its kitten in its mouth. By contrast, he said, the criticism of the Congressmen was like a cat carrying away a mouse. I do not know what technique he will use hereafter. Because he has now joined those who are in the position of carrying the mouse, I do not know whether he will offer criticism as though carrying a kitten or as though catching a mouse. Even so, because I have confidence that today the Congress Party leader too will certainly offer criticism only as a cat carries its kitten, I believe that the two of them, being on one side, will present here in a good manner the constructive views that are needed.
+
+Our respected Thiru Marimuthu, known for great modesty and simplicity, sits as leader of the P.S.P. Party. There will be no spice in his speech. Even so, there will be much substance. We on the ruling-party side are ready to accept his good advice.
+
+<!-- source-page: 42 -->
+
+Our friend Thiru Thiyagarajan, who sits as leader of the Tamil Arasu Kazhagam, is interested in public work and has served in many public institutions. Though his leader has been unable to come here, he will echo all of his leader's thoughts here; to that extent, I have the duty to state that we shall value his speech as though it were a speech by his leader, Silambu Selvar himself.
+
+The Honourable Member Latheef, who spoke on behalf of the Muslim League Party, illustrated here how proper and how responsible the work of members seated in this House must be. We who sit beneath an electric fan must keep in mind that the lakhs upon lakhs of people in this country who voted for us — the poor and ordinary people, common people, workers and middle-class people — are all spinning like that electric fan and suffering in the struggle for their lives. Instead of thinking, "We are sitting on a fine cushion, a fan is running above us, what a great status we have obtained," every member must work with a sense of justice that the lakhs upon lakhs of poor and ordinary people who gave us this place must rise, with honesty of purpose, and with the promises we made to them in mind. I consider it my duty to ask this of all party groups seated in this House.
+
+## A fuller policy explanation in June
+
+Honourable members know well that it is not possible to set out policy explanations at great length in the Interim Budget Statement placed here. As our Honourable Ponnappa Nadar pointed out, I wish to state that it is in the full Budget Statement that is to come out in June that the policy explanations of the Cabinet can be set out more fully.
+
+<!-- source-page: 43 -->
+
+Our Congress Party member, the Honourable Tmt. Ananthanayaki, concluded her speech by saying, "Taxes have not come down; facilities have not increased."
+
+At the very time she says that taxes have not come down, no one among the people of Tamil Nadu can have forgotten that land-tax exemption has been granted for both wet and dry lands. Many more tax concessions have also been granted.
+
+As the Honourable Member Anbuchezhiyan pointed out, no one has accepted a principle that a Government should function without imposing any tax at all.
+
+## Tax those who can bear it
+
+We too have never said that we will impose no tax. Taxing those who can bear it and increasing facilities for people who cannot bear the burden can be the sound policy of a progressive Government. It is in that manner that taxes have been fixed in this country during the past four years. In this connection, our Honourable Member Thiru K. M. Subramaniam and Tmt. Ananthanayaki pointed to one or two items from the notes supplied to them.
+
+They referred to the extent to which interim revenue from registration had increased. That increased revenue from registration today stands at Rs. 316 lakh. But in 1938-39 it was Rs. 32 lakh. By 1962 itself it had begun to rise to Rs. 124 lakh. Rather than merely taking it that we are somehow seeing additional revenue from registration, we must not forget that the reason registration revenue is higher is that land valuations have been rising with the times, and correspondingly the Government receives greater revenue through registration fees.
+
+<!-- source-page: 44 -->
+
+## The reason revenue increased
+
+Next comes the tax on motor vehicles. If the revenue from this, which was Rs. 81 lakh in 1938, now comes to Rs. 23 crore, the reason is that the number of vehicles has increased to that extent; it is not merely because taxes have increased.
+
+While speaking, Thiru K. M. Subramaniam made one point. He said that details should be given as to whether the loan amounts received from the Central Government were used for the purposes for which they had been sanctioned. Even in this Budget Statement, he is taking the position of the Municipal Corporation Council.
+
+We must first understand the differences between the accounts of the Corporation Council and those of the State Government.
+
+The Corporation first obtains a loan from the Government and then incurs expenditure. But the State Government does not work that way. For the most part, it first incurs expenditure and then obtains loans or grants from the Central Government to reimburse it. Thus, for the most part the State Government receives loans or grants from the Central Government only against expenditure already incurred; there is no occasion for an allegation that it receives loans to make specified expenditures and then keeps the money without carrying out those expenditures. I am duty-bound to point this out.
+
+## Loan obtained by the Corporation from L.I.C.
+
+Another point was also made. It was said that the Madras Corporation Council had obtained a loan of Rs. 5 crore from L.I.C. and that the Government was holding that Rs. 5 crore. They did not stop there; they also put forward a somewhat alarming claim — that this Government had used the loan obtained by the Madras Corporation through L.I.C. to cover a Reserve Bank `overdraft`. In fact, the loan obtained from L.I.C. was not Rs. 5 crore; the loan obtained from L.I.C. was only Rs. 3 crore. The Government obtained that Rs. 3 crore from L.I.C. on behalf of the Corporation Council.
+
+<!-- translation-continues-at-source-page: 45 -->
