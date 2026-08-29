@@ -6,7 +6,7 @@
 
 This PDF is the **only textual authority** for both the Tamil transcription and the English translation in this speech folder.
 
-The Tamil text here is copied from the already verified source transcription in:
+The Tamil text here is copied from the verified source transcription in:
 
 `../../../sources/1971-namathu-nilai/transcription/`
 
@@ -31,24 +31,40 @@ No Tamil Nadu Legislative Assembly or Legislative Council Official Report wordin
 
 ## Why this entry has no single speech date
 
-Separate legislative reference research establishes underlying Assembly and Council reply events, but the booklet itself combines material from more than one House and does not reproduce either House speech continuously.
+Separate legislative reference research establishes underlying Assembly and Council reply events, but the booklet combines material from more than one House and does not reproduce either House speech continuously.
 
-Therefore this speech-folder entry is keyed to the **1971 booklet witness**, not falsely labelled as one complete dated Assembly transcript.
+Therefore this entry is keyed to the **1971 booklet witness**, not falsely labelled as one complete dated Assembly transcript. The external legislative records may be used only for House/date/event provenance. Their text remains excluded.
 
-The external legislative records may be cited only for House/date/event provenance. Their text remains excluded.
+The booklet publication date `22-05-1971` is source metadata and is not used as the speech date; `metadata.json` therefore retains `date: null`.
 
-## Verification state
+## Final verification state
 
-The source package has already completed visual verification against all **60/60** scan pages, with **175** accepted scan-supported corrections and **0** unresolved source readings.
+The source package completed visual verification against all **60/60** scan pages with **175** accepted scan-supported corrections and **0** unresolved source readings.
 
-This folder is now being populated from that verified source layer. Current copied range: **scan pp.3–5**.
+Reader-facing Tamil now covers **scan pp.3–60, 58/58 speech pages** in booklet order.
 
-English is a new working layer and remains unverified until a separate fidelity review is completed against the verified Tamil.
+Reader-facing English has completed:
 
-## Related source records
+- Gate F first pass: **58/58 pages**;
+- Gate G page-by-page fidelity review: **58/58 pages, 0 blocking issues**;
+- consolidated refinement: **34/34 decisions**;
+- final closure: **PASS**.
+
+English is therefore **verified against the verified booklet Tamil**. No Assembly/Council Official Report wording was used in the translation, refinement or closure process.
+
+## Source-page and unit integrity
+
+The reader-facing Tamil and English preserve the complete speech range from source page 3 through source page 60. The printed Unit 1 / Unit 2 boundary remains at scan p.38. No provenance splice labels or reconstructed House text have been inserted into the source-text layer.
+
+## Related records
 
 - `../../../sources/1971-namathu-nilai/README.md`
 - `../../../sources/1971-namathu-nilai/source-archival-release-status.md`
 - `../../../sources/1971-namathu-nilai/unit-1-three-way-alignment-ledger.md`
 - `../../../sources/1971-namathu-nilai/unit-2-three-way-alignment-ledger.md`
+- `../../../sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md`
 - `../../../docs/HANDOVER_1971_NAMATHU_NILAI.md`
+
+## Workflow state
+
+**Closed.** Future changes must remain booklet-controlled.
