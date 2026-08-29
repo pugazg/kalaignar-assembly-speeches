@@ -4,7 +4,7 @@
 
 - Translation plan: **complete and active**
 - Reader-facing location: `speeches/1971/1971-namathu-nilai/`
-- Gate F first-pass translation: **in progress**
+- Gate F first-pass translation: **complete**
 - Gate G fidelity review: **not started**
 - English verification state: **not verified**
 
@@ -36,61 +36,43 @@ The source front matter on scan pp.1–2 remains source metadata; the reader-fac
 | F6 | 38–44 | Unit 2 opening | **complete** |
 | F7 | 45–51 | Unit 2 | **complete** |
 | F8 | 52–58 | Unit 2 | **complete** |
-| F9 | 59–60 | Unit 2 close | pending |
+| F9 | 59–60 | Unit 2 close | **complete** |
 
-Speech-page coverage completed: **56 / 58 scan pages** (`3–58` of `3–60`).
+Speech-page coverage completed: **58 / 58 scan pages** (`3–60` of `3–60`).
 
-**Editorial Unit 1 is fully populated in Tamil and has a complete Gate-F English first pass. Editorial Unit 2 is populated and translated through scan p.58.**
+**Both editorial units are fully populated in Tamil and have complete Gate-F English first passes.**
 
 ## F1 completion record — scan pp.3–10
 
-Tamil has been copied into the speech folder only from the already verified source transcription.
-
-English first-pass translation exists for the same eight pages.
+Tamil was copied into the speech folder only from the already verified source transcription. English first-pass translation exists for the same eight pages.
 
 Coverage includes the election-verdict discussion, Naval Tata and R. D. Parthasarathi quotations, the Salem-incident section, press-freedom comparison, play-ban discussion, and the election-period murders through the Murugesan paragraph on scan p.10.
 
 ## F2 completion record — scan pp.11–18
 
-Tamil for scan pp.11–18 has been copied into the reader-facing speech transcript only from the already verified booklet transcription.
-
-English first-pass translation has been added for the same eight pages.
-
 Coverage includes the all-party appeal against political killings, progressive-policy discussion, State Planning Commission and administrative reforms, service extensions, Tuticorin fertiliser/heavy-water projects, Salem steel-plant history, the National Development Council passage, the marriage/suitor analogy, and the food-production/drought close on scan p.18.
 
 ## F3 completion record — scan pp.19–26
-
-Tamil for scan pp.19–26 has been copied only from the verified booklet transcription and English has been translated only from that Tamil.
 
 Coverage includes industrial growth and licensing, small-industry figures, joint-sector policy, employment measures, the rural block employment scheme, Electricity Board recruitment, Tiruchi market price figures, the pulse-production plan and the opening of `ஒன்றுபட்டு வாதாடுவோம்`.
 
 ## F4 completion record — scan pp.27–34
 
-Tamil for scan pp.27–34 has been copied only from the verified booklet transcription and the English first pass has been translated only from that Tamil.
-
 Coverage includes the funding/Planning Commission argument, National Development Council conditions and correspondence, Dr. H. V. Hande's `டிஸ்சென்டிங் நோட்` intervention, State eligibility criteria, Chennai slum conditions, the Rs.31 crore sequence, State powers, the Mujibur Rahman six-point discussion, Rajaram Naidu's support, and `இது பிரிவினைக் கோரிக்கை அல்ல`.
 
 ## F5 completion record — scan pp.35–37
-
-Tamil for scan pp.35–37 has been copied only from the verified booklet transcription and the English first pass has been translated only from that Tamil.
 
 Coverage includes the land-reform discussion, 50-cent / 15-`குழி` statement, bus ceiling and `ரெட்ராஸ்பெக்டிவ் எஃபக்டோடு`, the prohibition sequence, horse racing, abolition of untouchability, T. K. Shanmugam's song / `தொகையறா` passage, and Krishnaswami Naidu's intervention. This completes Editorial Unit 1.
 
 ## F6 completion record — scan pp.38–44
 
-Tamil for scan pp.38–44 has been copied only from the verified booklet transcription, preserving the printed Unit 2 opening, and the English first pass has been translated only from that Tamil.
-
 Coverage includes the Unit 2 editorial heading and introduction, East Bengal humanitarian-sympathy opening, member/professional composition, opposition-party leaders, Hande's kitten/mouse analogy, Latheef's electric-fan metaphor, June Budget-policy discussion, taxation and registration figures, motor-vehicle revenue, and the Corporation/L.I.C. loan discussion through the printed Rs.5 crore allegation and Rs.3 crore correction.
 
 ## F7 completion record — scan pp.45–51
 
-Tamil for scan pp.45–51 has been copied only from the verified booklet transcription and the English first pass has been translated only from that Tamil.
-
 Coverage includes completion of the L.I.C./Corporation loan discussion, small/village-industry allocations, Central-to-State revenue categories, tractor expenditure, slum-clearance and tenement figures, agricultural loans and expenditure, education and medical allocations, and the `மின்ஒளி இல்லாத ஊர் இல்லை` passage through the Chief Minister's printed `மிக`, `மிக`, `மிக` backward-class statement.
 
 ## F8 completion record — scan pp.52–58
-
-Tamil for scan pp.52–58 has been copied only from the verified booklet transcription and the English first pass has been translated only from that Tamil.
 
 Coverage includes:
 
@@ -99,16 +81,26 @@ Coverage includes:
 - the workers/toilers/socially oppressed passage and the statement that the Interim Budget's `உரிமைக்குரல்` is not an interim voice for rights;
 - `ஒருமித்த உரிமைக்குரல்`, the Legislative Council Opposition Leader's support, and the parliamentary/non-violent character of the proposed action;
 - Swaminathan and the `அறப் போராட்டம்—உரிமைப் போராட்டம்—பாராளுமன்ற முறைக்கேற்ற போராட்டம்` sequence;
-- `தமிழ்நாட்டின் பண்பாடு`, Krishnaswami Naidu and the elder/blessing comparison;
-- `உள்ளத் தூய்மையோடு பாராட்டு` and `வன்முறையைச் சகியோம்`, including the appeal against political killings and warning against violence;
-- `அன்று கொண்டாடிய எழுச்சி நாள்`, Tuticorin harbour, Salem iron plant and continued parliamentary struggle;
-- `எடுத்த காவடியை இறக்குவது எப்போது?`, State autonomy, all-party unity and the Delhi-echo passage;
+- `தமிழ்நாட்டின் பண்பாடு`, `உள்ளத் தூய்மையோடு பாராட்டு`, and `வன்முறையைச் சகியோம்`;
+- `அன்று கொண்டாடிய எழுச்சி நாள்`, `எடுத்த காவடியை இறக்குவது எப்போது?`, State autonomy, all-party unity and the Delhi-echo passage;
 - the source-specific `அறுத்துக்கொள்ள வேண்டும்` sequence, carried conservatively in Gate-F English and flagged for Gate-G nuance review;
-- policy-based support for Indira, the printed 23-vote reference, and `இந்தி திணிக்கப்பட்டால் ......`, ending with `மத்திய அரசுடன் உறவுக்குக் கை கொடுப்போம், அதே நேரத்தில் எங்களுடைய உரிமைகளுக்குக் குரல் கொடுப்போம்` on scan p.58.
+- policy-based support for Indira, the printed 23-vote reference, and `இந்தி திணிக்கப்பட்டால் ......`, ending with the hand-for-relations / voice-for-rights formulation on scan p.58.
+
+## F9 completion record — scan pp.59–60
+
+Tamil for scan pp.59–60 was copied only from the verified booklet transcription and English was translated only from that Tamil.
+
+Coverage includes:
+
+- `வணங்காதீர்கள், வளையாதீர்கள்`, the Maravar-clan reference and the `புறநானூற்றுத் தாய்` framing;
+- `மாநிலத் திட்டக் குழு, போட்டிக் குழு அல்ல !`, the ten-year State Planning Commission proposal, population, education, medical, agricultural and water-planning questions, and the proposed report to the House;
+- `உரிமைக் குரல்`, the final State-autonomy/decentralisation formulation across political, social and economic spheres;
+- the booklet's printed Pakistan / East Pakistan / `ரகுமான்களை` framing;
+- the final declaration that the Budget Statement echoes the rights-voice of the people of Tamil Nadu and that this voice is raised through parliamentary methods.
 
 No Assembly/Council Official Report wording was imported into either Tamil or English.
 
-English remains Gate-F working text and requires later Gate-G review.
+English remains a Gate-F working translation until a separate Gate-G fidelity review is completed.
 
 ## Locked prerequisites
 
@@ -116,10 +108,12 @@ English remains Gate-F working text and requires later Gate-G review.
 - accepted scan-supported corrections: **175**
 - unresolved Tamil word/character readings: **0**
 - external legislative wording in Tamil: **none**
+- full reader-facing Tamil population: **58 / 58 speech pages**
+- Gate-F English first pass: **58 / 58 speech pages**
 - provenance ledgers: **metadata only**
 
 ## Exact continuation point
 
-Continue with **F9 — scan pp.59–60**, closing Editorial Unit 2 and completing the full booklet speech population and Gate-F English first pass.
+Begin **Gate G — English fidelity review** against the verified booklet Tamil only.
 
-Read Tamil only from the verified source transcription, extend the reader-facing `transcript.md` and `translation.md` through scan p.60, preserve every source-page marker, heading, intervention, figure and source ordering, then update metadata, glossary, source README and handover.
+The review must check all 58 speech pages for omissions, additions, page continuations, headings, interventions, names, dates, figures, units, rhetorical force and idioms, and must verify that no Official Report wording has entered the English. Record the review in `TRANSLATION_REVIEW.md` before marking English verified.
