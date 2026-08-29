@@ -29,7 +29,7 @@ The source front matter on scan pp.1–2 remains source metadata; the reader-fac
 |---|---:|---|---|
 | F1a | 3–5 | Unit 1 opening | **complete** |
 | F1b | 6–10 | Unit 1 | **complete** |
-| F2 | 11–18 | Unit 1 | pending |
+| F2 | 11–18 | Unit 1 | **complete** |
 | F3 | 19–26 | Unit 1 | pending |
 | F4 | 27–34 | Unit 1 | pending |
 | F5 | 35–37 | Unit 1 close | pending |
@@ -38,7 +38,7 @@ The source front matter on scan pp.1–2 remains source metadata; the reader-fac
 | F8 | 52–58 | Unit 2 | pending |
 | F9 | 59–60 | Unit 2 close | pending |
 
-Speech-page coverage completed: **8 / 58 scan pages** (`3–10` of `3–60`).
+Speech-page coverage completed: **16 / 58 scan pages** (`3–18` of `3–60`).
 
 ## F1 completion record — scan pp.3–10
 
@@ -46,18 +46,28 @@ Tamil has been copied into the speech folder only from the already verified sour
 
 English first-pass translation exists for the same eight pages.
 
-Coverage now includes:
+Coverage includes the election-verdict discussion, Naval Tata and R. D. Parthasarathi quotations, the Salem-incident section, press-freedom comparison, play-ban discussion, and the election-period murders through the Murugesan paragraph on scan p.10.
 
-- election-verdict and electoral-ink discussion;
-- Naval Tata and R. D. Parthasarathi quotations;
-- `குறை வேறு ; குற்றம் வேறு.`;
-- Salem-incident explanation and poster analogy;
-- `மக்கள் தீர்ப்பே மகேசன் தீர்ப்பு` wordplay;
-- press-freedom comparison;
-- play-ban discussion;
-- election-period murders through the Murugesan paragraph on scan p.10.
+## F2 completion record — scan pp.11–18
 
-No Assembly/Council Official Report wording was imported.
+Tamil for scan pp.11–18 has been copied into the reader-facing speech transcript only from the already verified booklet transcription.
+
+English first-pass translation has been added for the same eight pages.
+
+Coverage includes:
+
+- the all-party appeal against political killings;
+- `நமது கொள்கை` and progressive-policy discussion;
+- State Planning Commission and administrative-reform passages;
+- `காரியம் ஒன்று, கடிதங்கள் பதினொன்று`;
+- the service-extension policy and `(ஆரவாரம்)` marker;
+- Tuticorin fertiliser factory and heavy-water project;
+- the Salem steel-plant history and National Development Council passage;
+- `பெண் கேட்டவர்கள் கதை` analogy;
+- the revised-report / six-month discussion;
+- `நல்லதைச் செய்தோமா, இல்லையா?` and food-production/drought conclusion on scan p.18.
+
+No Assembly/Council Official Report wording was imported into either Tamil or English.
 
 English remains Gate-F working text and requires later Gate-G review.
 
@@ -71,6 +81,6 @@ English remains Gate-F working text and requires later Gate-G review.
 
 ## Exact continuation point
 
-Continue with **F2 — scan pp.11–18**.
+Continue with **F3 — scan pp.19–26**.
 
-Append the verified Tamil to the speech-folder `transcript.md`, translate exactly those pages into `translation.md`, preserve the source-page markers and headings, and then update this tracker and speech metadata.
+Read Tamil only from the verified source transcription, extend the reader-facing `transcript.md` and `translation.md` through scan p.26, preserve source-page markers/headings, then update metadata, glossary and this tracker.
