@@ -89,11 +89,11 @@ Scan pp.1–2 are publication front matter/source metadata and are not inserted 
 - English Gate-F first pass: **scan pp.3–60 complete — 58/58 speech pages**
 - Gate F: **complete**
 - Gate G English fidelity review: **in progress**
-- Gate-G reviewed range: **scan pp.3–44 — 42/58 pages**
+- Gate-G reviewed range: **scan pp.3–51 — 49/58 pages**
 - Editorial Unit 1 Gate-G review: **complete — 35/35 pages**
-- Editorial Unit 2 Gate-G review: **in progress — scan pp.38–44 reviewed, 7/23 pages**
+- Editorial Unit 2 Gate-G review: **in progress — scan pp.38–51 reviewed, 14/23 pages**
 - Gate-G blocking fidelity issues found so far: **0**
-- Gate-G non-blocking wording refinements queued: **22**
+- Gate-G non-blocking wording refinements queued: **26**
 - English verified: **no**
 
 ## Translation control records
@@ -185,12 +185,9 @@ Only after all Gate-G ranges and the final refinement/closure pass are complete 
 
 **Complete — semantic/source-fidelity PASS. Editorial Unit 1 review complete.**
 
-G5 reviewed land reform, 50-cent / 15-`குழி`, bus ceiling / retrospective effect, prohibition, the deer-surrounded-by-hunters image, horse racing, untouchability, T. K. Shanmugam's `தொகையறா` joke, Krishnaswami Naidu's two-crore-women intervention and the Chief Minister's clarification.
-
-Results:
-
 - all 3 source-page boundaries correct;
 - p.37→38 Unit 1/Unit 2 boundary intact;
+- land reform, bus ceiling, prohibition, horse racing, untouchability and closing interventions fully represented;
 - no omitted/duplicated source content or blocking mistranslation;
 - no Official Report wording used;
 - 4 additional non-blocking refinements queued.
@@ -199,28 +196,42 @@ Results:
 
 **Complete — semantic/source-fidelity PASS. Editorial Unit 2 review begun.**
 
-G6 reviewed the printed Unit 2 title and two-House editorial introduction, East Bengal/humanitarian opening, four-crore-Tamil-people framing, new-House professional/member counts, Ponnappa Nadar and other Opposition leaders, the kitten/mouse and electric-fan metaphors, the June full-Budget policy explanation, taxation/registration figures, motor-vehicle revenue, and the Corporation/L.I.C. loan opening.
+- all 7 source-page boundaries present and correctly ordered;
+- p.37→38 Unit boundary and p.44→45 L.I.C.-loan continuation intact;
+- East Bengal/humanitarian opening, professional/member counts, Opposition-leader passages, metaphors, taxation/registration figures, motor-vehicle revenue and L.I.C.-loan opening fully represented;
+- no blocking mistranslation or unsupported factual addition found;
+- no Official Report wording used;
+- 4 additional non-blocking wording refinements queued.
+
+### G7 — scan pp.45–51
+
+**Complete — semantic/source-fidelity PASS.**
+
+G7 reviewed the continuation of the Corporation/L.I.C. loan, interest and ways-and-means figures, public-loan figures, small/village-industry and SIDCO allocations, Central-to-State revenue categories, tractor allocations, slum-clearance and tenement figures, the `தீப்பெட்டி வீடுகள்` metaphor, agriculture, education, medical allocations, electrification and the `மிக`, `மிக`, `மிக` backward-class passage.
 
 Results:
 
 - all 7 source-page boundaries present and correctly ordered;
-- p.37→38 Unit boundary and p.44→45 L.I.C.-loan continuation intact;
+- p.44→45 L.I.C.-loan continuation and p.51→52 welfare continuation intact;
 - no omitted or duplicated source content found;
-- professional/member counts retained: 39 lawyers, 6 doctors, 6 teacher representatives, 1 engineer and 23 graduates;
-- registration figures retained: Rs.316 lakh, Rs.32 lakh (1938-39), Rs.124 lakh (1962);
-- motor-vehicle figures retained: Rs.81 lakh (1938) → Rs.23 crore;
-- L.I.C. allegation/correction retained: Rs.5 crore → Rs.3 crore;
+- L.I.C./Corporation figures retained: 4% / 7%, Rs.3 crore, Rs.1 crore, Rs.2 crore, about Rs.2½ crore ways-and-means advance, Rs.1 crore 10 lakh public loan, Rs.5 lakh retained, Rs.1 crore 5 lakh handed to Government and 6% interest;
+- small-industry source wording preserved, including the Rs.50→20 allegation and the later Rs.50→24 clarification, SIDCO Rs.100 lakh, Rs.3·92→5·35 crore and Rs.360→421 lakh;
+- tractor figures retained: Rs.76 lakh over twenty years; Rs.6 / 22.68 / 69.95 / 29.55 lakh; Rs.30 lakh for 16 more tractors; about Rs.59 lakh; four-year Rs.129 lakh;
+- slum figures retained: 2,688 + 1,476 = 4,164; 7,037 by 31 December 1970; 2,247 fire-resistant houses; seven-year plan around Rs.40 crore;
+- agriculture/education/medical figures retained through p.51, including Rs.31→55 crore short-term loans, Rs.3→19 crore long-term loans, Rs.11.80 / 14.74 / 18.39 crore agricultural expenditure, Rs.43→79 crore education, Rs.11→20 crore medical, Rs.201 crore / Rs.43.86 crore / 22%, and Rs.349 crore / Rs.79.11 crore / 22.6%;
+- p.51 water/electricity/backward-welfare allocations retained: Rs.15 crore / Rs.39 crore / Rs.3 crore;
+- the `மிக`, `மிக`, `மிக` rhetorical repetition is preserved;
 - no blocking mistranslation or unsupported factual addition found;
 - no Official Report wording used;
 - no Tamil changes required;
-- **4 additional non-blocking wording refinements** queued, bringing the total queue to **22**.
+- **4 additional non-blocking wording refinements** queued, bringing the total queue to **26**.
 
-G6 wording-refinement candidates:
+G7 wording-refinement candidates:
 
-1. scan p.38 — `with humanitarian concern beyond the laws of world politics` for `உலக அரசியல் சட்டங்களுக்கு அப்பாற்பட்டு மனிதாபிமானத்தோடு`; refine naturalness without outside interpretation;
-2. scan p.38 — `standing in his path and governing for four years` for `அவர் வழி நின்று ஆட்சி நடாத்தி`; refine toward natural English while preserving Anna-path framing;
-3. scan p.43 — `interim revenue from registration` for the printed `இடைக்கால வருமானம்`; review source-controlled naturalness without silently deleting the printed qualifier;
-4. scan p.44 — `somewhat alarming claim` for `கொஞ்சம் பயங்கரமான ஒரு விஷயம்`; review rhetorical force without exaggeration.
+1. scan p.46 — the English repeats `Small Industries Development Corporation` twice for the source's English expansion followed by Tamil `சிறு தொழில் வளர்ச்சிக் கழகம்`; refine the bilingual explanatory structure without dropping source content;
+2. scan p.47 — `property rights` for `சொத்து உரிமை` is source-literal but unclear as an English revenue-head label; refine only from the Tamil/immediate booklet context and do not substitute an outside fiscal classification;
+3. scan p.48 — `the old Government — and when I say old Government, I mean the very old Government` preserves the source joke but can be reviewed for natural English while retaining the deliberate repetition;
+4. scan p.50 — `even as the first (first part) plan` for `முதல் (ஃபர்ஸ்ட் பார்ட்) திட்டமாக` is awkward; refine source-controlled syntax without inferring an unprinted planning category.
 
 These are wording-quality/source-closeness candidates, not blocking defects. Resolve them only from the verified booklet Tamil.
 
@@ -236,12 +247,12 @@ Editorial Unit 1 (`scan pp.3–37`) has completed page-by-page Gate-G review:
 
 ## Exact next activity
 
-Continue **Gate G7 — scan pp.45–51**:
+Continue **Gate G8 — scan pp.52–58**:
 
-1. read the verified Tamil for scan pp.45–51 only from the source transcription controlled by `ACL-CPL_01726_நமது_நிலை.pdf`;
+1. read the verified Tamil for scan pp.52–58 only from the source transcription controlled by `ACL-CPL_01726_நமது_நிலை.pdf`;
 2. compare the corresponding English in `speeches/1971/1971-namathu-nilai/translation.md` page by page;
-3. check the continuation of the L.I.C./Corporation loan, small-industry/SIDCO allocations, Central-to-State revenue categories, tractor allocations, slum-clearance/tenement figures, agriculture, education and electrification passages;
-4. record the full G7 ledger in `sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md`;
+3. check backward-welfare measures, scholarship/financial figures, Harijan-colony access/electrification, the rights-voice passages, parliamentary/non-violent struggle, political-violence warning, `எழுச்சி நாள்`, `காவடி`, State-autonomy/Delhi-echo discussion, Indira-support framing and anti-Hindi passage;
+4. record the full G8 ledger in `sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md`;
 5. update `PROGRESS.md`, metadata and relevant READMEs;
 6. if a blocking English fidelity error is found, correct it using only the verified Tamil;
 7. record non-blocking wording refinements separately for the consolidated refinement pass;
