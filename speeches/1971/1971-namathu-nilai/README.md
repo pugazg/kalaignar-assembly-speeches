@@ -44,19 +44,19 @@ Other Assembly/Council PDFs are reference/provenance sources only. Their wording
 - Speech-folder Tamil population: **scan pp.3–60 complete**.
 - English Gate-F first pass: **scan pp.3–60 complete**.
 - Speech-page coverage: **58 / 58 pages**.
-- Editorial Unit 1: **fully populated in Tamil and Gate-F English**.
-- Editorial Unit 2: **fully populated in Tamil and Gate-F English**.
-- English fidelity review (Gate G): **in progress — scan pp.3–34 reviewed, 32/58 pages**.
+- Editorial Unit 1: **fully populated in Tamil and Gate-F English; Gate-G review complete, scan pp.3–37 (35/35 pages)**.
+- Editorial Unit 2: **fully populated in Tamil and Gate-F English; Gate-G review pending from scan p.38**.
+- English fidelity review (Gate G): **in progress — scan pp.3–37 reviewed, 35/58 pages**.
 - Gate-G blocking fidelity issues found so far: **0**.
-- Non-blocking wording refinements queued: **14**.
+- Non-blocking wording refinements queued: **18**.
 - English verified: **no — not until Gate G and final refinement/closure are complete**.
 
-The exact next activity is **Gate G5 — scan pp.35–37**, which closes the remaining Unit 1 fidelity review before Gate G moves into Unit 2.
+The exact next activity is **Gate G6 — scan pp.38–44**, beginning Editorial Unit 2.
 
 ## Source structure
 
 - scan pp.1–2 — cover / publication introduction and imprint; retained as source metadata rather than speech text in this folder;
-- scan pp.3–37 — Unit 1, `நமது நிலை`, Governor-address reply compilation — **reader-facing population complete**;
-- scan pp.38–60 — Unit 2, `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` — **reader-facing population complete**.
+- scan pp.3–37 — Unit 1, `நமது நிலை`, Governor-address reply compilation — **reader-facing population and Gate-G page review complete**;
+- scan pp.38–60 — Unit 2, `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` — **reader-facing population complete; Gate-G review pending**.
 
 The reader-facing text in this folder preserves the two speech editorial units and their printed order. Front matter remains documented in the source package but is not inserted into the speech transcript as spoken text.
