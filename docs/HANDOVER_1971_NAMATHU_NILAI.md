@@ -7,13 +7,21 @@
 Source package: `sources/1971-namathu-nilai/`  
 Reader-facing entry: `speeches/1971/1971-namathu-nilai/`
 
+## Project state
+
+**COMPLETE / VERIFIED / CLOSED.**
+
+The Tamil booklet transcription, booklet-level reader-facing Tamil, English translation, page-by-page English fidelity review, consolidated refinement and final closure are all complete.
+
 ## Non-negotiable textual-authority rule
 
-The **only transcription and translation authority** is:
+The **only transcription authority** is:
 
 `ACL-CPL_01726_நமது_நிலை.pdf`
 
-Do not transcribe from, complete from, repair from, normalize toward, or merge wording from any Tamil Nadu Legislative Assembly or Legislative Council PDF. Those PDFs are **reference/provenance only**. English review/refinement/closure must use only the verified booklet Tamil and immediate booklet context.
+The **only English translation/review authority** is the verified Tamil derived from that same booklet.
+
+Tamil Nadu Legislative Assembly and Legislative Council PDFs are **reference/provenance only**. Do not transcribe from, complete from, repair from, normalize toward, translate from, or merge wording from those records.
 
 ## Source identity
 
@@ -32,7 +40,7 @@ Do not transcribe from, complete from, repair from, normalize toward, or merge w
 | 3–37 | 1–35 | Unit 1 — `நமது நிலை`, Governor-address reply compilation |
 | 38–60 | 36–58 | Unit 2 — `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` |
 
-## Tamil source status
+## Tamil status
 
 **Complete and visually verified against all 60/60 booklet scan pages.**
 
@@ -56,36 +64,37 @@ Files under `speeches/1971/1971-namathu-nilai/`:
 - `transcript.md`
 - `translation.md`
 
-Scan pp.1–2 are publication front matter/source metadata and are not inserted as spoken text.
+Reader-facing Tamil covers **scan pp.3–60, 58/58 speech pages**. The publication date is source metadata only; `date: null` remains correct because the booklet has no single speech date.
 
-## Current translation status
+The booklet-level entry is intentionally not added to the canonical dated speech table or `data/speeches.json` as one Assembly event.
 
-- Tamil reader-facing population: **58/58 speech pages complete**
-- Gate-F English first pass: **58/58 complete**
-- Gate-G page-by-page fidelity review: **58/58 complete**
+## English final status
+
+- Gate F first pass: **58/58 pages complete**
+- Gate G page-by-page review: **58/58 complete**
 - Editorial Unit 1 Gate G: **35/35 complete**
 - Editorial Unit 2 Gate G: **23/23 complete**
 - blocking fidelity issues: **0**
-- consolidated refinement: **34/34 candidates decided**
-- reader-facing revisions from the queue: **33**
+- consolidated refinement: **34/34 decisions complete**
+- reader-facing refinement changes: **33**
 - deliberate source-literal retention: **1** (`சொத்து உரிமை` → `property rights`)
-- verified Tamil changes during review/refinement: **none**
-- English verified: **no — final closure check pending**
+- final closure check: **PASS**
+- verified Tamil changes during English work: **none**
+- English: **VERIFIED against the verified booklet Tamil**
+- Official Report wording used: **none**
 
-## Consolidated refinement milestone
+Important source-sensitive final choices remain documented in `TRANSLATION_REVIEW.md`, including p.47 `property rights`, p.57 `cut ourselves free`, p.59 `our land`, and p.60 `bring forth Rahmans in State after State`.
 
-`TRANSLATION_REVIEW.md` records the final disposition of every candidate 1–34. The reader-facing `translation.md` has been updated accordingly.
+## Final closure checks
 
-Important source-sensitive decisions include:
+The completed closure confirmed:
 
-- p.15 restores the booklet's emphatic `ஆசியாவிலேயே மிகப் பெரிய திட்டம்` as `the largest project in Asia` without external fact-checking;
-- p.19 preserves the paired `நம்முடைய நாட்டுக்கு / நம்முடைய மாநிலம்` restatement;
-- p.34 `அறவழி` is rendered `principled path` and `ஏகோபித்த வாசகம்` as `unanimous message`;
-- p.35 `பஸ் உச்சவரம்பு` is kept non-reconstructively as `an upper limit on buses`;
-- p.47 `சொத்து உரிமை` deliberately remains `property rights` because the booklet phrase is ambiguous and no external fiscal category may be imported;
-- p.57 `அறுத்துக்கொள்ள வேண்டும்` is revised from `wrest it free` to `cut ourselves free`, preserving ambiguity rather than resolving it from Official Reports or outside history;
-- p.59 `நம் நாட்டிற்கு` is rendered `our land` to avoid forcing an India/Tamil Nadu semantic choice not made by the printed phrase;
-- p.60 retains the Rahman rhetorical reference as `bring forth Rahmans in State after State` without external explanation.
+1. complete speech-page continuity through scan pp.3–60 in Tamil and English;
+2. Unit 1 → Unit 2 boundary at scan p.38 intact;
+3. headings, interventions, quotations, names, dates, figures, money, percentages and units remained intact after refinement;
+4. all 34 refinement decisions are implemented in reader-facing English;
+5. workflow metadata/status documents are reconciled;
+6. no Assembly/Council Official Report wording entered the text.
 
 ## Translation control records
 
@@ -96,20 +105,12 @@ Under `sources/1971-namathu-nilai/translations/en/`:
 - `GLOSSARY.md`
 - `TRANSLATION_REVIEW.md`
 
-Actual reader-facing English remains only in `speeches/1971/1971-namathu-nilai/translation.md`.
+Actual reader-facing English remains only in:
 
-## Exact next activity
+`speeches/1971/1971-namathu-nilai/translation.md`
 
-Proceed with the **final closure check**:
+## Future-change rule
 
-1. verify source-page markers `3–60` occur exactly once and in order in Tamil and English;
-2. verify both editorial-unit boundaries and headings;
-3. re-check interventions, quotations, names, dates, figures, money, percentages and units after refinement;
-4. confirm all 34 recorded refinement decisions are actually present in `translation.md`;
-5. reconcile metadata/README/progress/plan/glossary status;
-6. confirm no Assembly/Council Official Report wording entered the English;
-7. only after all checks pass, mark `verified_against_tamil: true` and close the translation workflow.
+There is no routine next activity for this source. It is closed.
 
-At every step:
-
-> **Text and translation authority = `ACL-CPL_01726_நமது_நிலை.pdf` via the verified Tamil transcription only.**
+A future Tamil correction requires direct visual evidence from `ACL-CPL_01726_நமது_நிலை.pdf`. A future English correction must be derived only from the verified booklet Tamil and immediate booklet context. External legislative wording remains prohibited.
