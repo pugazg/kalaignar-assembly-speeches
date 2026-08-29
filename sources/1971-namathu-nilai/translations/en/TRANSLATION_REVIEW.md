@@ -37,7 +37,7 @@ The Gate-G review is primarily a **fidelity review**, not a free copy-edit. Non-
 | Batch | Scan pages | Speech pages | Status | Blocking fidelity issues |
 |---|---:|---:|---|---:|
 | G1 | 3–10 | 8 | **complete** | 0 |
-| G2 | 11–18 | 8 | pending | — |
+| G2 | 11–18 | 8 | **complete** | 0 |
 | G3 | 19–26 | 8 | pending | — |
 | G4 | 27–34 | 8 | pending | — |
 | G5 | 35–37 | 3 | pending | — |
@@ -46,7 +46,7 @@ The Gate-G review is primarily a **fidelity review**, not a free copy-edit. Non-
 | G8 | 52–58 | 7 | pending | — |
 | G9 | 59–60 | 2 | pending | — |
 
-Reviewed so far: **8 / 58 speech pages**.
+Reviewed so far: **16 / 58 speech pages** (`scan pp.3–18`).
 
 English remains **not verified** until every Gate-G batch and the final refinement/closure check are complete.
 
@@ -104,7 +104,7 @@ The reviewed English preserves the core rhetorical devices and quotations, inclu
 - `இல்லை, இல்லை` / `ஆமாம், ஆமாம்`;
 - the final Murugesan example on scan p.10.
 
-### Non-blocking wording-refinement queue
+### Non-blocking wording-refinement queue from G1
 
 These are **not fidelity failures**; the current English conveys the verified Tamil meaning. They are recorded for a consolidated English refinement pass after all page-level Gate-G review is complete:
 
@@ -113,10 +113,81 @@ These are **not fidelity failures**; the current English conveys the verified Ta
 3. scan p.6 — heading `A flaw is one thing; an offence is another.` may be harmonised with the established `shortcoming / offence` distinction.
 4. scan p.8 — `go into the merits of those actions` may be reviewed against `அந்த நடவடிக்கைகளின் உட்பொருள்` for a more neutral `substance`-type rendering.
 
-These items must be resolved from the verified Tamil alone. They do not authorize consultation of Official Reports.
+---
+
+## G2 — scan pp.11–18
+
+### Overall result
+
+**PASS for semantic/source fidelity.**
+
+The existing English covers every verified Tamil paragraph from scan p.11 through scan p.18 in the correct booklet order. All eight source-page markers are present at the required boundaries, the continuation from the Murugesan paragraph on p.10 into p.11 is intact, and the p.18 drought/food-production close leads correctly into p.19.
+
+No Tamil change was required. No blocking English omission, duplication, unsupported factual addition, numerical error, quotation loss, heading loss, or source-order error was found.
+
+No Assembly/Council Official Report wording was used in this review.
+
+### Page-by-page ledger
+
+| Scan page | Review result | Checked features |
+|---:|---|---|
+| 11 | **PASS** | condemnation of political killings irrespective of party; all-party statement proposal; district/branch follow-through; Tamil Nadu `பண்பாடும், நாகரீகமும்`; `நமது கொள்கை` opening. |
+| 12 | **PASS** | progressive-policy argument; Nijalingappa Congress; handloom weavers; Sethusamudram; State Planning Commission; `நிர்வாகச் சீர்திருத்தம்`; administrative-delay and doorstep-of-the-poor imagery. |
+| 13 | **PASS** | duty-conscious officials; Administrative Reforms Commission; `காரியம் ஒன்று, கடிதங்கள் பதினொன்று`; 11 letters / envelopes / stamps; patta and acquisition notification to M.L.A.s, M.L.C.s and M.P.s. |
+| 14 | **PASS** | `பதவி நீடிப்புப் பிரச்சினை`; K. T. K. Thangamani; Cabinet decision on service extensions; essential/medical-department exception; `(ஆரவாரம்)`; Tuticorin fertiliser-factory opening and naphtha permission. |
+| 15 | **PASS** | Tuticorin Rs.65 crore project; State Rs.3 crore + private Rs.3 crore; joint sector and four Government directors; Rs.20 crore heavy-water project; Atomic Energy Commission; Kalpakkam; Salem steel-plant Rs.110 crore opening. |
+| 16 | **PASS** | Kamarajar / Venkataraman / Subramaniam acknowledgement; shelved-project argument; all-party `எழுச்சி நாள்`; National Development Council ultimatum; Fourth Five-Year Plan; four-crore Tamil-people formulation; Hande / Ananthanayaki exchange; ten-day outcome. |
+| 17 | **PASS** | `பெண் கேட்டவர்கள் கதை`; marriage/suitor analogy and D.M.K. victory; revised-report question; delay/revision rationale; six-month revised-report demand; post-election Government/Cabinet-change context. |
+| 18 | **PASS** | six-month report insistence; `நல்லதைச் செய்தோமா, இல்லையா?`; Jothi Venkatachalam; `எங்கள் காலத்து வயல்கள்` sarcasm; rain/food-production argument; four-year drought and increased food production. |
+
+### Numerical and named-entity check
+
+The following source-specific values are preserved in the reviewed English:
+
+- `11` letters, `11` envelopes and `11` stamps;
+- Tuticorin fertiliser project: `Rs. 65 crore`;
+- State contribution: `Rs. 3 crore`;
+- private contribution: `Rs. 3 crore`;
+- Government directors: `4`;
+- heavy-water project: about `Rs. 20 crore`;
+- Salem steel-plant project: `Rs. 110 crore`;
+- Fourth Five-Year Plan and `four crore` Tamil people;
+- Salem steel plant obtained within `10` days in the source's account;
+- revised-report deadline: `six months`;
+- the final drought argument refers to the past `four years`.
+
+Names and institutional labels checked include K. T. K. Thangamani, Krishnaswami Naidu, Kamarajar, Venkataraman, Subramaniam, Dr. Hande, Ananthanayaki, Jothi Venkatachalam, State Planning Commission, Administrative Reforms Commission, Atomic Energy Commission and National Development Council.
+
+### Quotations / rhetoric check
+
+The English retains the principal rhetorical structures of this range:
+
+- `காரியம் ஒன்று, கடிதங்கள் பதினொன்று`;
+- the contrast between service-extension policy and exceptional expertise;
+- the Salem steel-plant gratitude / struggle argument;
+- the National Development Council conditional challenge;
+- the `பெண் கேட்டவர்கள் கதை` marriage/suitor analogy without importing an outside gloss;
+- `எங்கள் காலத்து வயல்கள்` sarcasm;
+- the rain / good-people counter-argument and drought close.
+
+### Non-blocking wording-refinement queue from G2
+
+These are wording-quality candidates only; none currently changes the verified Tamil meaning:
+
+5. scan p.11 — `the leaders in every district below us` is awkward for `நமக்கு அடுத்து இருக்கிற ஒவ்வொரு மாவட்டத்திலுள்ள தலைவர்களும்`; refine toward the intended next organisational level without adding hierarchy not present in the source.
+6. scan p.13 — `That too is something that ought to be pointed out` may be refined against `அதுகூட அறிவிக்க வேண்டிய ஒன்றுதான்` toward a more direct `made known / noted` rendering.
+7. scan p.15 — review `one of the largest projects in Asia` against the source phrase `ஆசியாவிலேயே மிகப் பெரிய திட்டம்`; keep the source's emphatic scale claim without introducing an external factual ranking.
+
+These candidates must be resolved only from the verified booklet Tamil. They do not authorize consultation of Official Reports or outside factual correction.
+
+## Consolidated non-blocking queue status
+
+- G1 candidates: **4**
+- G2 candidates: **3**
+- total queued after G2: **7**
 
 ## Exact continuation point
 
-Proceed with **G2 — scan pp.11–18**.
+Proceed with **G3 — scan pp.19–26**.
 
 Review the existing English against the verified booklet Tamil page by page; record any blocking fidelity corrections and any non-blocking refinement candidates here. Do not change the verified Tamil unless a direct booklet-scan recheck independently proves a transcription error.
