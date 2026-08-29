@@ -87,23 +87,23 @@ Scan pp.1–2 are publication front matter/source metadata and are not inserted 
 
 Tamil copied from the verified booklet transcription:
 
-- scan pp. **3–44** complete
+- scan pp. **3–51** complete
 
 English first-pass translation:
 
-- scan pp. **3–44** complete
+- scan pp. **3–51** complete
 
 Editorial Unit 1 (scan pp.3–37): **fully populated in Tamil and Gate-F English**.
 
-Editorial Unit 2: **scan pp.38–44 populated and translated**.
+Editorial Unit 2: **scan pp.38–51 populated and translated**.
 
 English remains **Gate-F working text**, not yet fidelity-verified.
 
-Current speech-page coverage: **42 / 58 pages**.
+Current speech-page coverage: **49 / 58 pages**.
 
 Next continuation point:
 
-- **scan p.45**
+- **scan p.52**
 
 ## Translation control records
 
@@ -149,30 +149,30 @@ Completed Tamil population and English first pass, closing Editorial Unit 1 with
 
 ### F6 — scan pp.38–44
 
-Completed Tamil population and English first pass for the opening of Editorial Unit 2. This range includes:
+Completed Tamil population and English first pass for the opening of Editorial Unit 2, including the printed Unit 2 introduction, East Bengal opening, member/professional composition, opposition-party leaders, Hande's kitten/mouse analogy, Latheef's electric-fan metaphor, taxation/registration discussion, and the L.I.C. loan section through the Rs.3 crore clarification.
 
-- the printed Unit 2 heading `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` and editorial introduction;
-- the East Bengal humanitarian-sympathy opening;
-- `ஆற்றல் படைத்தவர்கள்` and the printed professional/member counts;
-- `எதிர்க்கட்சிகள் வரிசை`, including Ponnappa Nadar and K. T. K. Thangamani;
-- `தோழமை உணர்ச்சி`, Tiruppur Moideen and Perumal;
-- `குட்டியைக் கவ்வும் பூனை`, including the Hande kitten/mouse analogy and Marimuthu passage;
-- Thiyagarajan / Tamil Arasu Kazhagam / Silambu Selvar references;
-- Latheef's electric-fan metaphor and appeal on members' responsibility;
-- the June full-Budget policy-explanation passage;
-- Ananthanayaki's taxes/facilities statement and the wet/dry-land tax-exemption response;
-- `தாங்கக்கூடியவர்களுக்கு வரி` and registration-revenue figures;
-- motor-vehicle revenue and State-versus-Corporation accounting;
-- the opening of the L.I.C. loan section, ending at the printed Rs.3 crore clarification on scan p.44.
+### F7 — scan pp.45–51
+
+Completed Tamil population and English first pass. This range includes:
+
+- completion of the L.I.C./Corporation loan and interest discussion, including the printed `வழிவகை முன்பணம்` / ways-and-means advance;
+- `சிறு தொழில் துறைக்கு நிதி குறையவில்லை`, SIDCO and village/small-industry allocations;
+- Central-to-State revenue categories, Finance Commission grants, Plan and non-Plan assistance;
+- tractor allocations and the printed twenty-year/four-year comparison;
+- slum-clearance/tenement counts, the `தீப்பெட்டி வீடுகள்` / matchbox-and-matchstick metaphor, and the Slum Clearance Board / Rama. Arangannal passage;
+- agricultural short-term/long-term loans and total expenditure;
+- education and medical allocations, including the printed 22% / 22.6% comparison;
+- `மின்ஒளி இல்லாத ஊர் இல்லை`, water/electricity/backward-welfare allocations;
+- the printed `மிக`, `மிக`, `மிக` backward-class self-description at the end of scan p.51.
 
 No Assembly/Council Official Report wording was used.
 
 ## Exact next activity
 
-Continue **F7 — scan pp.45–51**, Editorial Unit 2:
+Continue **F8 — scan pp.52–58**, Editorial Unit 2:
 
 1. read the verified Tamil only from `sources/1971-namathu-nilai/transcription/`;
-2. extend `speeches/1971/1971-namathu-nilai/transcript.md` through scan p.51;
+2. extend `speeches/1971/1971-namathu-nilai/transcript.md` through scan p.58;
 3. extend the faithful English first-pass `translation.md` through the same pages;
 4. preserve every source-page marker, heading, intervention, figure and source ordering;
 5. update `metadata.json`, speech README, `PROGRESS.md`, `GLOSSARY.md`, source README and this handover;
