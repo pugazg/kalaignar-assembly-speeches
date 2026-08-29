@@ -34,13 +34,13 @@ The source front matter on scan pp.1–2 remains source metadata; the reader-fac
 | F4 | 27–34 | Unit 1 | **complete** |
 | F5 | 35–37 | Unit 1 close | **complete** |
 | F6 | 38–44 | Unit 2 opening | **complete** |
-| F7 | 45–51 | Unit 2 | pending |
+| F7 | 45–51 | Unit 2 | **complete** |
 | F8 | 52–58 | Unit 2 | pending |
 | F9 | 59–60 | Unit 2 close | pending |
 
-Speech-page coverage completed: **42 / 58 scan pages** (`3–44` of `3–60`).
+Speech-page coverage completed: **49 / 58 scan pages** (`3–51` of `3–60`).
 
-**Editorial Unit 1 is fully populated in Tamil and has a complete Gate-F English first pass. Editorial Unit 2 is populated and translated through scan p.44.**
+**Editorial Unit 1 is fully populated in Tamil and has a complete Gate-F English first pass. Editorial Unit 2 is populated and translated through scan p.51.**
 
 ## F1 completion record — scan pp.3–10
 
@@ -80,22 +80,24 @@ Coverage includes the land-reform discussion, 50-cent / 15-`குழி` statem
 
 Tamil for scan pp.38–44 has been copied only from the verified booklet transcription, preserving the printed Unit 2 opening, and the English first pass has been translated only from that Tamil.
 
+Coverage includes the Unit 2 editorial heading and introduction, East Bengal humanitarian-sympathy opening, member/professional composition, opposition-party leaders, Hande's kitten/mouse analogy, Latheef's electric-fan metaphor, June Budget-policy discussion, taxation and registration figures, motor-vehicle revenue, and the Corporation/L.I.C. loan discussion through the printed Rs.5 crore allegation and Rs.3 crore correction.
+
+## F7 completion record — scan pp.45–51
+
+Tamil for scan pp.45–51 has been copied only from the verified booklet transcription and the English first pass has been translated only from that Tamil.
+
 Coverage includes:
 
-- the Unit 2 editorial heading `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` and its printed introductory paragraph;
-- the East Bengal humanitarian-sympathy opening;
-- `ஆற்றல் படைத்தவர்கள்` and the printed lawyer/doctor/teacher/engineer/graduate counts;
-- `எதிர்க்கட்சிகள் வரிசை`, including the passages on Ponnappa Nadar and K. T. K. Thangamani;
-- `தோழமை உணர்ச்சி`, including Tiruppur Moideen and Perumal;
-- `குட்டியைக் கவ்வும் பூனை`, preserving the Hande kitten/mouse analogy and the Marimuthu passage;
-- Thiyagarajan, Tamil Arasu Kazhagam and Silambu Selvar references;
-- Latheef's electric-fan metaphor on the responsibility of members;
-- `ஜூன் மாதத்தில் விரிந்த நிலையில் கொள்கை விளக்கம்`;
-- Ananthanayaki's `வரிகள் குறையவில்லை, வசதிகள் பெருகவில்லை` statement and the wet/dry-land tax-exemption response;
-- `தாங்கக்கூடியவர்களுக்கு வரி` and the printed registration-revenue figures;
-- `வருமானம் உயர்ந்ததின் காரணம்`, including the motor-vehicle revenue figures;
-- the State-Government-versus-Corporation loan-accounting explanation;
-- the opening of `எல்.ஐ.சி.-யிடமிருந்து மாநகராட்சி பெற்ற கடன்`, including the printed Rs.5 crore allegation and Rs.3 crore correction, ending at scan p.44.
+- completion of the L.I.C./Corporation loan discussion, including interest, the `வழிவகை முன்பணம்` / ways-and-means advance, and the public-loan amount;
+- `சிறு தொழில் துறைக்கு நிதி குறையவில்லை`, the White Paper discussion, SIDCO and small/village-industry allocations;
+- Central-to-State revenue categories, Finance Commission grants, and Plan / non-Plan financial assistance;
+- `டிராக்டர்கள் வாங்க நிதி ஒதுக்கீடு` and the printed 1946–1970/71 expenditure comparison;
+- slum-clearance and tenement figures, including the `தீப்பெட்டி வீடுகள்` / matchbox-and-matchstick metaphor;
+- `உயர்ந்து எழும்பும் வீடுகள்`, the Slum Clearance Board and Rama. Arangannal;
+- `வேளாண்மைக்கு அளித்த வசதி`, including short-term and long-term agricultural loans and total agricultural expenditure;
+- `கல்விக்கான நிதி ஒதுக்கம்`, medical expenditure and the printed 22% / 22.6% education comparison;
+- `மின்ஒளி இல்லாத ஊர் இல்லை`, with water, electricity and backward-welfare allocations;
+- the Chief Minister's printed `மிக`, `மிக`, `மிக` backward-class statement, ending at scan p.51.
 
 No Assembly/Council Official Report wording was imported into either Tamil or English.
 
@@ -111,6 +113,6 @@ English remains Gate-F working text and requires later Gate-G review.
 
 ## Exact continuation point
 
-Continue with **F7 — scan pp.45–51**, continuing Editorial Unit 2.
+Continue with **F8 — scan pp.52–58**, continuing Editorial Unit 2.
 
-Read Tamil only from the verified source transcription, extend the reader-facing `transcript.md` and `translation.md` through scan p.51, preserve every source-page marker, heading, intervention, figure and source ordering, then update metadata, glossary and this tracker.
+Read Tamil only from the verified source transcription, extend the reader-facing `transcript.md` and `translation.md` through scan p.58, preserve every source-page marker, heading, intervention, figure and source ordering, then update metadata, glossary and this tracker.
