@@ -46,12 +46,12 @@ Other Assembly/Council PDFs are reference/provenance sources only. Their wording
 - Speech-page coverage: **58 / 58 pages**.
 - Editorial Unit 1: **fully populated in Tamil and Gate-F English**.
 - Editorial Unit 2: **fully populated in Tamil and Gate-F English**.
-- English fidelity review (Gate G): **in progress — scan pp.3–26 reviewed, 24/58 pages**.
+- English fidelity review (Gate G): **in progress — scan pp.3–34 reviewed, 32/58 pages**.
 - Gate-G blocking fidelity issues found so far: **0**.
-- Non-blocking wording refinements queued: **10**.
+- Non-blocking wording refinements queued: **14**.
 - English verified: **no — not until Gate G and final refinement/closure are complete**.
 
-The exact next activity is **Gate G4 — scan pp.27–34**.
+The exact next activity is **Gate G5 — scan pp.35–37**, which closes the remaining Unit 1 fidelity review before Gate G moves into Unit 2.
 
 ## Source structure
 
