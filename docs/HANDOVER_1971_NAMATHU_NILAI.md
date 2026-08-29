@@ -87,19 +87,19 @@ Scan pp.1–2 are publication front matter/source metadata and are not inserted 
 
 Tamil copied from the verified booklet transcription:
 
-- scan pp. **3–26** complete
+- scan pp. **3–34** complete
 
 English first-pass translation:
 
-- scan pp. **3–26** complete
+- scan pp. **3–34** complete
 
 English remains **Gate-F working text**, not yet fidelity-verified.
 
-Current speech-page coverage: **24 / 58 pages**.
+Current speech-page coverage: **32 / 58 pages**.
 
 Next continuation point:
 
-- **scan p.27**
+- **scan p.35**
 
 ## Translation control records
 
@@ -133,28 +133,35 @@ Completed Tamil population and English first pass.
 
 ### F3 — scan pp.19–26
 
+Completed Tamil population and English first pass.
+
+### F4 — scan pp.27–34
+
 Completed Tamil population and English first pass. This range includes:
 
-- industrial growth, production-index, factory and industrial-licence figures;
-- small-industry registration figures;
-- joint-sector policy, the Madras Aluminium example and public-sector final objective;
-- educated unemployment, 6,500 teachers and 2,400 engineers;
-- rural block employment and educated-youth employment questions;
-- election promises and Electricity Board recruitment;
-- Tiruchi market price figures;
-- pulse-production plan, chilli/turmeric/firewood figures;
-- `ஒன்றுபட்டு வாதாடுவோம்`, ending at K. M. Subramaniam's price-rise question on scan p.26.
+- completion of `ஒன்றுபட்டு வாதாடுவோம்`;
+- Finance Commission / Planning Commission funding correspondence and `மூன்று நிபந்தனைகள்`;
+- National Development Council and Gadgil discussions;
+- Dr. H. V. Hande's `டிஸ்சென்டிங் நோட்` intervention and the Chief Minister's reply;
+- State eligibility criteria and State-loss figures;
+- special-fund / per-capita-income discussion;
+- Chennai slum conditions and the Slum Clearance Board;
+- `போராடிப் பெற்றவை` and the printed Rs.31 crore sequence;
+- `மாநிலங்களுக்கு அதிக அதிகாரம்`;
+- the booklet's Mujibur Rahman six-point discussion;
+- Rajaram Naidu's support;
+- `இது பிரிவினைக் கோரிக்கை அல்ல`, ending at scan p.34.
 
 No Assembly/Council Official Report wording was used.
 
 ## Exact next activity
 
-Continue **F4 — scan pp.27–34**:
+Continue **F5 — scan pp.35–37**, completing Unit 1:
 
 1. read the verified Tamil only from `sources/1971-namathu-nilai/transcription/`;
-2. extend `speeches/1971/1971-namathu-nilai/transcript.md` through scan p.34;
+2. extend `speeches/1971/1971-namathu-nilai/transcript.md` through scan p.37;
 3. extend the faithful English first-pass `translation.md` through the same pages;
-4. preserve every source-page marker, heading, intervention, figure and source ordering;
+4. preserve every source-page marker, heading, figure and source ordering;
 5. update `metadata.json`, speech README, `PROGRESS.md`, `GLOSSARY.md`, source README and this handover;
 6. do not use Assembly/Council Official Report wording.
 
