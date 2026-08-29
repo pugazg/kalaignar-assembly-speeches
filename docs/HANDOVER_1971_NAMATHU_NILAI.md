@@ -2,7 +2,9 @@
 
 ## Repository
 
-`pugazg/kalaignar-assembly-speeches` — branch `main`
+`pugazg/kalaignar-assembly-speeches`
+
+Branch: `main`
 
 Source package: `sources/1971-namathu-nilai/`  
 Reader-facing entry: `speeches/1971/1971-namathu-nilai/`
@@ -13,11 +15,14 @@ The **only transcription and translation authority** is:
 
 `ACL-CPL_01726_நமது_நிலை.pdf`
 
-Do not transcribe from, complete from, repair from, normalize toward, or merge wording from any Tamil Nadu Legislative Assembly or Legislative Council PDF. Those PDFs are **reference/provenance only**. English must be translated and reviewed only against the verified booklet Tamil.
+Do not transcribe from, complete from, repair from, normalize toward, or merge wording from any Tamil Nadu Legislative Assembly or Legislative Council PDF.
+
+Those legislative PDFs are **reference/provenance only**. The same restriction applies to English refinement and closure: use only the verified booklet Tamil and immediate booklet context.
 
 ## Source identity
 
 - title: `நமது நிலை`
+- cover attribution: `தமிழக முதல்வர் கலைஞர் மு.கருணாநிதி`
 - imprint: `சென்னை 22-5-1971.`
 - issuing body: `செய்தி-விளம்பரத் துறை, தமிழ்நாடு அரசு.`
 - physical pages: **60**
@@ -28,7 +33,7 @@ Do not transcribe from, complete from, repair from, normalize toward, or merge w
 | Scan pages | Printed pages | Classification |
 |---:|---:|---|
 | 1–2 | — | cover / publication front matter |
-| 3–37 | 1–35 | Unit 1 — `நமது நிலை` |
+| 3–37 | 1–35 | Unit 1 — `நமது நிலை`, Governor-address reply compilation |
 | 38–60 | 36–58 | Unit 2 — `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` |
 
 ## Tamil source status
@@ -39,51 +44,68 @@ Do not transcribe from, complete from, repair from, normalize toward, or merge w
 - unresolved source readings: **0**
 - external legislative wording imported: **none**
 
-Do not alter source transcription files unless a direct re-check of the controlling booklet scan proves an error.
+The six source transcription files under `sources/1971-namathu-nilai/transcription/` are frozen. Do not alter them unless a direct re-check of the controlling booklet scan proves an error.
 
-## Reader-facing status
+## Provenance status
 
-- Tamil population: **scan pp.3–60 complete — 58/58 speech pages**
+The four underlying reply events and both three-way provenance ledgers have been identified/completed. They remain metadata only.
+
+Structural conclusion:
+
+- Unit 1 combines Assembly- and Council-associated material;
+- Unit 2 interleaves Assembly- and Council-associated material multiple times;
+- therefore the booklet must be preserved as printed rather than reconstructed into House transcripts.
+
+## Reader-facing representation
+
+Files under `speeches/1971/1971-namathu-nilai/`:
+
+- `README.md`
+- `metadata.json`
+- `source-notes.md`
+- `transcript.md`
+- `translation.md`
+
+This is a **booklet-level speech compilation**, not a claim that the whole text is one dated Assembly speech. Scan pp.1–2 are publication front matter/source metadata and are not inserted as spoken text.
+
+## Current translation status
+
+- Tamil reader-facing population: **scan pp.3–60 complete — 58/58 speech pages**
 - English Gate-F first pass: **scan pp.3–60 complete — 58/58 speech pages**
 - Gate F: **complete**
-- Gate G reviewed range: **scan pp.3–58 — 56/58 pages**
-- Editorial Unit 1 Gate G: **complete — 35/35 pages**
-- Editorial Unit 2 Gate G: **21/23 pages reviewed — through scan p.58**
-- blocking fidelity issues found: **0**
-- non-blocking refinement candidates queued: **30**
-- English verified: **no**
+- Gate-G page-by-page fidelity review: **complete — scan pp.3–60, 58/58 speech pages**
+- Editorial Unit 1 Gate-G review: **complete — 35/35 pages**
+- Editorial Unit 2 Gate-G review: **complete — 23/23 pages**
+- Gate-G blocking fidelity issues: **0**
+- verified Tamil changes during Gate G: **none**
+- non-blocking English refinement candidates queued: **34**
+- English verified: **no — consolidated refinement and final closure remain**
 
-## Gate-G status
+## Gate-G completion
 
-Completed:
+All batches are complete:
 
-- G1 pp.3–10 — PASS
-- G2 pp.11–18 — PASS
-- G3 pp.19–26 — PASS
-- G4 pp.27–34 — PASS
-- G5 pp.35–37 — PASS; Unit 1 complete
-- G6 pp.38–44 — PASS
-- G7 pp.45–51 — PASS
-- G8 pp.52–58 — PASS
+- G1 pp.3–10
+- G2 pp.11–18
+- G3 pp.19–26
+- G4 pp.27–34
+- G5 pp.35–37
+- G6 pp.38–44
+- G7 pp.45–51
+- G8 pp.52–58
+- G9 pp.59–60
 
-No Official Report wording was used in any Gate-G batch.
+G9 specifically verified the Congress-member `வணங்காதீர்கள், வளையாதீர்கள்` / `புறநானூற்றுத் தாய்` passage, State Planning Commission and ten-year-plan discussion, 1972-73 reference, `உரிமைக் குரல்`, decentralisation/State-autonomy framing, Pakistan/East Pakistan sequence and final parliamentary-method close. No blocking issue was found.
 
-### G8 checkpoint
+## Refinement queue
 
-G8 verified:
+`TRANSLATION_REVIEW.md` contains **34 numbered non-blocking candidates** from G1–G9.
 
-- backward-welfare department/Minister/committee;
-- scholarship threshold `50%→40%`;
-- assistance `Rs.90 lakh→Rs.300 lakh`;
-- Interim Budget welfare `Rs.9 crore = Rs.3 crore + Rs.6 crore`;
-- burial-ground access and Harijan-colony approach roads;
-- more than `5,000` colonies without electricity in the previous 23 years and `4,000` electrified after the new Government came to office;
-- `இருள் அகலுகிறது`, `ஒருமித்த உரிமைக்குரல்`, parliamentary/non-violent struggle and political-violence warning;
-- Tuticorin/Salem `எழுச்சி நாள்` passage;
-- p.57 `காவடி`, State autonomy, Delhi echo, 40/50-person hall, Ponnappa Nadar and Hande;
-- p.58 Indira support as policy-based, `23` votes, anti-Hindi passage and final hand/voice formulation.
+High-priority item:
 
-The p.57 repeated phrase `அறுத்துக்கொள்ள வேண்டும்` remains a **high-priority non-blocking Tamil-only refinement candidate**. The current Gate-F `wrest it free` may over-resolve the reflexive Tamil. Preserve the ambiguity until the consolidated refinement pass; do not use Official Reports or outside historical reconstruction to settle it.
+- scan p.57 `அறுத்துக்கொள்ள வேண்டும்`, currently rendered `wrest it free`. The Tamil reflexive expression is semantically difficult in this passage. Reconsider it only from the verified booklet Tamil and immediate context. Preserve ambiguity if necessary; do not resolve it from Official Reports or outside historical reconstruction.
+
+Other candidates concern naturalness/source closeness in headings, idioms, rhetorical phrases, source English/Tamil explanatory repetition and a few institution/term choices. None was a blocking fidelity defect in page-level Gate G.
 
 ## Translation control records
 
@@ -94,19 +116,26 @@ Under `sources/1971-namathu-nilai/translations/en/`:
 - `GLOSSARY.md`
 - `TRANSLATION_REVIEW.md`
 
-Reader-facing English remains only at `speeches/1971/1971-namathu-nilai/translation.md`.
+Actual reader-facing English remains only in:
+
+`speeches/1971/1971-namathu-nilai/translation.md`
+
+Do not create a second independently editable English translation under `sources/`.
 
 ## Exact next activity
 
-Continue **Gate G9 — scan pp.59–60**:
+Proceed with the **consolidated English refinement pass over candidates 1–34** in `TRANSLATION_REVIEW.md`.
 
-1. read verified Tamil for pp.59–60 only from `sources/1971-namathu-nilai/transcription/scan-051-060.md`;
-2. compare the corresponding reader-facing English page by page;
-3. verify the Purananuru-mother passage, State Planning Commission / ten-year plan, 1972-73 report promise and final `உரிமைக் குரல்` / State-autonomy close;
-4. record the G9 ledger and any non-blocking refinements in `TRANSLATION_REVIEW.md`;
-5. update `PROGRESS.md`, metadata and relevant READMEs;
-6. do not use Official Report wording;
-7. after G9, **do not mark English verified yet** — proceed to the consolidated refinement pass over all queued candidates, followed by final closure verification.
+For each candidate:
+
+1. compare current English only with the verified booklet Tamil and immediate booklet context;
+2. decide whether to revise or retain the wording;
+3. if revising, update only reader-facing `translation.md` and preserve source-page boundaries/order;
+4. record the final decision for that candidate in `TRANSLATION_REVIEW.md`;
+5. preserve ambiguity where the booklet itself is ambiguous;
+6. do **not** use Assembly/Council Official Report wording.
+
+After all 34 decisions, perform the final closure check of page markers, headings, names, figures, money, percentages and units. Only after that may English be marked verified.
 
 At every step:
 
