@@ -89,8 +89,9 @@ Scan pp.1–2 are publication front matter/source metadata and are not inserted 
 - English Gate-F first pass: **scan pp.3–60 complete — 58/58 speech pages**
 - Gate F: **complete**
 - Gate G English fidelity review: **in progress**
-- Gate-G reviewed range: **scan pp.3–10 — 8/58 pages**
+- Gate-G reviewed range: **scan pp.3–18 — 16/58 pages**
 - Gate-G blocking fidelity issues found so far: **0**
+- Gate-G non-blocking wording refinements queued: **7**
 - English verified: **no**
 
 ## Translation control records
@@ -140,34 +141,47 @@ Only after all Gate-G ranges and the final refinement/closure pass are complete 
 
 **Complete — semantic/source-fidelity PASS.**
 
-G1 checked every source page from 3 through 10 against the verified booklet Tamil.
-
-Results:
-
 - all eight source-page boundaries present and correctly ordered;
 - no omitted or duplicated source content found;
 - headings, quotations, names, dates and figures retained;
 - no blocking mistranslation or unsupported factual addition found;
 - no Official Report wording used;
-- no Tamil changes required.
+- no Tamil changes required;
+- **4 non-blocking wording refinements** queued.
 
-Four non-blocking English wording refinements were queued for the consolidated post-review refinement pass:
+### G2 — scan pp.11–18
 
-1. scan p.4 — `fraud in the ballot paper`;
-2. scan p.5 — `The report that I am going to litigate is mischievous`;
-3. scan p.6 — heading `A flaw is one thing; an offence is another.` versus the recurring `shortcoming / offence` distinction;
-4. scan p.8 — `go into the merits of those actions` versus the more neutral sense of `உட்பொருள்`.
+**Complete — semantic/source-fidelity PASS.**
 
-These are wording-quality candidates, not blocking fidelity defects. Resolve them only from the verified Tamil; do not use Official Reports.
+G2 reviewed the political-killing/all-party appeal, progressive-policy and State Planning Commission passages, administrative reform, the 11-letter/patta sequence, service extensions, Tuticorin fertiliser and heavy-water projects, Salem steel-plant struggle, the National Development Council passage, the marriage/suitor analogy, revised-report discussion and the drought/food-production close.
+
+Results:
+
+- all eight source-page boundaries present and correctly ordered;
+- continuation from scan p.10 into p.11 and p.18 into p.19 intact;
+- no omitted or duplicated source content found;
+- headings, quotations, names, institutions and numerical claims retained;
+- no blocking mistranslation or unsupported factual addition found;
+- no Official Report wording used;
+- no Tamil changes required;
+- **3 additional non-blocking wording refinements** queued, bringing the total queue to **7**.
+
+G2 wording-refinement candidates:
+
+1. scan p.11 — `leaders in every district below us` for `நமக்கு அடுத்து இருக்கிற ஒவ்வொரு மாவட்டத்திலுள்ள தலைவர்களும்`;
+2. scan p.13 — `That too is something that ought to be pointed out` for `அதுகூட அறிவிக்க வேண்டிய ஒன்றுதான்`;
+3. scan p.15 — review the precise English force of `ஆசியாவிலேயே மிகப் பெரிய திட்டம்` without importing an external factual ranking.
+
+These are wording-quality candidates, not blocking fidelity defects. Resolve them only from the verified Tamil.
 
 ## Exact next activity
 
-Continue **Gate G2 — scan pp.11–18**:
+Continue **Gate G3 — scan pp.19–26**:
 
-1. read the verified Tamil for scan pp.11–18 only from the source transcription controlled by `ACL-CPL_01726_நமது_நிலை.pdf`;
+1. read the verified Tamil for scan pp.19–26 only from the source transcription controlled by `ACL-CPL_01726_நமது_நிலை.pdf`;
 2. compare the corresponding English in `speeches/1971/1971-namathu-nilai/translation.md` page by page;
 3. check headings, paragraphs, quotations, names, figures, page continuations, rhetorical force and unsupported additions;
-4. record the full G2 ledger in `sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md`;
+4. record the full G3 ledger in `sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md`;
 5. update `PROGRESS.md`, metadata and relevant READMEs;
 6. if a blocking English fidelity error is found, correct it using only the verified Tamil;
 7. record non-blocking wording refinements separately for the consolidated refinement pass;
