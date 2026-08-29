@@ -16,7 +16,7 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 - Do not import Official Report wording.
 - Record definite idiomatic/non-literal choices when needed.
 
-## Locked terms encountered through scan p.44
+## Locked terms encountered through scan p.51
 
 | Tamil source form | English rendering | Note |
 |---|---|---|
@@ -97,8 +97,18 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 | `எல்.ஐ.சி.` | `L.I.C.` | Source abbreviation retained in English. |
 | `ஓவர் டிராப்ட்` | `overdraft` | Source English-derived finance term restored to standard English. |
 | `கார்ப்பரேஷன்` / `மாநகராட்சி மன்றம்` | `Corporation` / `Corporation Council` | Preserve the source's institutional contrast with the State Government. |
+| `வழிவகை முன்பணம்` / `வேய்ஸ் அண்டு மீன்ஸ் அட்வான்ஸ்` | `ways and means advance` | Source Tamil and transliterated English forms refer to the same printed finance term. |
+| `ஒயிட் பேப்பர் ஆன் பட்ஜெட்` | `White Paper on Budget` | Restore the source's English-derived title without importing outside bibliographic wording. |
+| `சிட்கோ` | `SIDCO` | Source abbreviation restored to English letters. |
+| `ஸ்மால் இண்டஸ்ட்ரீஸ் டெவலப்மென்ட் கார்ப்பரேஷன்` | `Small Industries Development Corporation` | Source's printed English-derived expansion. |
+| `மத்திய ஆயத்தீர்வை` / `எக்சைஸ் டியூடி` | `Central excise duty` | Government-revenue context; both printed forms retained in Tamil. |
+| `டெனமெண்ட்ஸ்` | `tenements` | Housing/slum-clearance context. |
+| `தீப்பெட்டி வீடுகள்` | `matchbox houses` | Printed rhetorical label retained literally. |
+| `பின்தங்கியவர்கள்` / `பின்தங்கிய மக்கள்` | `backward sections` / `backward people` | First-pass source-register rendering; review terminology at Gate G without importing outside wording. |
+| `மிகப் பின்தங்கிய வகுப்பு` | `very backward class` | First-pass rendering of the Chief Minister's printed self-description; review capitalization only at Gate G. |
+| `தாழ்த்தப்பட்ட மக்கள்` | `downtrodden people` | First-pass source-register rendering; review nuance at Gate G. |
 
-## Names encountered through scan p.44
+## Names encountered through scan p.51
 
 - `வேழவேந்தன்` → `Vezhavendan`
 - `பொன்னப்ப நாடார்` → `Ponnappa Nadar`
@@ -130,6 +140,8 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 - `தியாகராஜன்` → `Thiyagarajan`
 - `லத்தீப்` → `Latheef`
 - `அன்புச்செழியன்` → `Anbuchezhiyan`
+- `இராம. அரங்கண்ணல்` → `Rama. Arangannal`
+- `சுவாமிதாஸ்` → `Swamidas`
 
 These English forms are consistency renderings of names printed in Tamil; they do not authorize source-text changes.
 
@@ -150,7 +162,7 @@ These English forms are consistency renderings of names printed in Tamil; they d
 
 The first-pass English preserves source titles as transliterated or directly rendered source forms rather than silently replacing them with outside-standardised titles.
 
-## Rhetoric / idiom decisions through scan p.44
+## Rhetoric / idiom decisions through scan p.51
 
 | Tamil | English | Note |
 |---|---|---|
@@ -193,6 +205,14 @@ The first-pass English preserves source titles as transliterated or directly ren
 | `தாங்கக்கூடியவர்களுக்கு வரி` | `Tax those who can bear it` | Progressive-taxation heading rendered directly. |
 | `வருமானம் உயர்ந்ததின் காரணம்` | `The reason revenue increased` | Direct heading rendering. |
 | `எல்.ஐ.சி.-யிடமிருந்து மாநகராட்சி பெற்ற கடன்` | `Loan obtained by the Corporation from L.I.C.` | Direct financial heading. |
+| `சிறு தொழில் துறைக்கு நிதி குறையவில்லை` | `Funds for small industries have not been reduced` | Direct heading rendering. |
+| `அக்கறை குறைந்து விடவில்லை` | `Our concern has not diminished` | Keeps the printed assurance. |
+| `தீப்பெட்டி வீடுகள்` / `தீக்குச்சிகள்` | `matchbox houses` / `matchsticks` | Preserve the printed metaphor and its extension to slum residents. |
+| `உயர்ந்து எழும்பும் வீடுகள்` | `Houses rising high` | Printed housing heading. |
+| `வேளாண்மைக்கு அளித்த வசதி` | `Facilities provided for agriculture` | Direct heading rendering. |
+| `கல்விக்கான நிதி ஒதுக்கம்` | `Allocation for education` | Direct heading rendering. |
+| `மின்ஒளி இல்லாத ஊர் இல்லை` | `No village without electric light` | Preserve the vow-like heading. |
+| `'மிக', 'மிக' 'மிக'` | `"very", "very", "very"` | Preserve the printed repetition in the backward-class self-description. |
 
 ## Pending recurring terms
 
@@ -202,4 +222,4 @@ Lock this only when encountered in the working translation.
 
 ## Current state
 
-Gate F has completed its first pass through scan p. **44**. Reader-facing speech/translation coverage is **scan pp.3–44**. Editorial Unit 1 is complete; Editorial Unit 2 is populated through scan p.44. Next continuation: **scan p.45**.
+Gate F has completed its first pass through scan p. **51**. Reader-facing speech/translation coverage is **scan pp.3–51**. Editorial Unit 1 is complete; Editorial Unit 2 is populated through scan p.51. Next continuation: **scan p.52**.
