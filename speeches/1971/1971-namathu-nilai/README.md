@@ -45,18 +45,18 @@ Other Assembly/Council PDFs are reference/provenance sources only. Their wording
 - English Gate-F first pass: **scan pp.3–60 complete**.
 - Speech-page coverage: **58 / 58 pages**.
 - Editorial Unit 1: **fully populated in Tamil and Gate-F English; Gate-G review complete, scan pp.3–37 (35/35 pages)**.
-- Editorial Unit 2: **fully populated in Tamil and Gate-F English; Gate-G review complete through scan p.44 (7/23 pages)**.
-- English fidelity review (Gate G): **in progress — scan pp.3–44 reviewed, 42/58 pages**.
+- Editorial Unit 2: **fully populated in Tamil and Gate-F English; Gate-G review complete through scan p.51 (14/23 pages)**.
+- English fidelity review (Gate G): **in progress — scan pp.3–51 reviewed, 49/58 pages**.
 - Gate-G blocking fidelity issues found so far: **0**.
-- Non-blocking wording refinements queued: **22**.
+- Non-blocking wording refinements queued: **26**.
 - English verified: **no — not until Gate G and final refinement/closure are complete**.
 
-The exact next activity is **Gate G7 — scan pp.45–51**.
+The exact next activity is **Gate G8 — scan pp.52–58**.
 
 ## Source structure
 
 - scan pp.1–2 — cover / publication introduction and imprint; retained as source metadata rather than speech text in this folder;
 - scan pp.3–37 — Unit 1, `நமது நிலை`, Governor-address reply compilation — **reader-facing population and Gate-G page review complete**;
-- scan pp.38–60 — Unit 2, `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` — **reader-facing population complete; Gate-G review complete through scan p.44**.
+- scan pp.38–60 — Unit 2, `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` — **reader-facing population complete; Gate-G review complete through scan p.51**.
 
 The reader-facing text in this folder preserves the two speech editorial units and their printed order. Front matter remains documented in the source package but is not inserted into the speech transcript as spoken text.
