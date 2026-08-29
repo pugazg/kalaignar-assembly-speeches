@@ -89,10 +89,11 @@ Scan pp.1–2 are publication front matter/source metadata and are not inserted 
 - English Gate-F first pass: **scan pp.3–60 complete — 58/58 speech pages**
 - Gate F: **complete**
 - Gate G English fidelity review: **in progress**
-- Gate-G reviewed range: **scan pp.3–37 — 35/58 pages**
+- Gate-G reviewed range: **scan pp.3–44 — 42/58 pages**
 - Editorial Unit 1 Gate-G review: **complete — 35/35 pages**
+- Editorial Unit 2 Gate-G review: **in progress — scan pp.38–44 reviewed, 7/23 pages**
 - Gate-G blocking fidelity issues found so far: **0**
-- Gate-G non-blocking wording refinements queued: **18**
+- Gate-G non-blocking wording refinements queued: **22**
 - English verified: **no**
 
 ## Translation control records
@@ -173,44 +174,55 @@ Only after all Gate-G ranges and the final refinement/closure pass are complete 
 
 **Complete — semantic/source-fidelity PASS.**
 
-G4 reviewed the Central-funding correspondence, National Development Council three-condition sequence, Planning Commission/eligibility argument, special-fund and State-loss figures, Chennai-slum/Slum Clearance Board discussion, drought/cyclone/Rayalaseema figures, greater-State-powers framing, Mujibur Rahman six-point comparison, Rajaram Naidu intervention and anti-secession/decentralisation close.
-
-Results:
-
 - all 8 source-page boundaries present and correctly ordered;
 - p.26→27 continuation and p.34→35 boundary intact;
-- no omitted or duplicated source content found;
-- all checked dates, monetary values, percentages, names and speaker labels retained;
-- no blocking mistranslation or unsupported factual addition found;
+- Central-funding, N.D.C., Planning Commission, State-loss, slum/relief/loan, greater-State-powers and Mujibur Rahman passages fully represented;
+- no blocking mistranslation or unsupported addition found;
 - no Official Report wording used;
-- no Tamil changes required;
 - 4 additional non-blocking wording refinements queued.
 
 ### G5 — scan pp.35–37
 
-**Complete — semantic/source-fidelity PASS. Editorial Unit 1 review is now complete.**
+**Complete — semantic/source-fidelity PASS. Editorial Unit 1 review complete.**
 
-G5 reviewed the land-reform passage, 50-cent / 15-`குழி` figures, bus-ceiling and `ரெட்ராஸ்பெக்டிவ் எஃபக்ட்`, prohibition argument, `வேடுவர்கள் சூழ்ந்த மான்`, the explicit admission of prohibition's failure, horse-racing discussion, untouchability comparison, T. K. Shanmugam's song/`தொகையறா` joke, Krishnaswami Naidu's two-crore-women intervention and the Chief Minister's clarification.
+G5 reviewed land reform, 50-cent / 15-`குழி`, bus ceiling / retrospective effect, prohibition, the deer-surrounded-by-hunters image, horse racing, untouchability, T. K. Shanmugam's `தொகையறா` joke, Krishnaswami Naidu's two-crore-women intervention and the Chief Minister's clarification.
 
 Results:
 
-- all 3 source-page boundaries present and correctly ordered;
-- p.34→35 continuation and p.37→38 Unit 1/Unit 2 boundary intact;
+- all 3 source-page boundaries correct;
+- p.37→38 Unit 1/Unit 2 boundary intact;
+- no omitted/duplicated source content or blocking mistranslation;
+- no Official Report wording used;
+- 4 additional non-blocking refinements queued.
+
+### G6 — scan pp.38–44
+
+**Complete — semantic/source-fidelity PASS. Editorial Unit 2 review begun.**
+
+G6 reviewed the printed Unit 2 title and two-House editorial introduction, East Bengal/humanitarian opening, four-crore-Tamil-people framing, new-House professional/member counts, Ponnappa Nadar and other Opposition leaders, the kitten/mouse and electric-fan metaphors, the June full-Budget policy explanation, taxation/registration figures, motor-vehicle revenue, and the Corporation/L.I.C. loan opening.
+
+Results:
+
+- all 7 source-page boundaries present and correctly ordered;
+- p.37→38 Unit boundary and p.44→45 L.I.C.-loan continuation intact;
 - no omitted or duplicated source content found;
-- all checked names, figures, headings and speaker labels retained;
+- professional/member counts retained: 39 lawyers, 6 doctors, 6 teacher representatives, 1 engineer and 23 graduates;
+- registration figures retained: Rs.316 lakh, Rs.32 lakh (1938-39), Rs.124 lakh (1962);
+- motor-vehicle figures retained: Rs.81 lakh (1938) → Rs.23 crore;
+- L.I.C. allegation/correction retained: Rs.5 crore → Rs.3 crore;
 - no blocking mistranslation or unsupported factual addition found;
 - no Official Report wording used;
 - no Tamil changes required;
-- **4 additional non-blocking wording refinements** queued, bringing the total queue to **18**.
+- **4 additional non-blocking wording refinements** queued, bringing the total queue to **22**.
 
-G5 wording-refinement candidates:
+G6 wording-refinement candidates:
 
-1. scan p.35 — `a ceiling on buses` for `பஸ் உச்சவரம்பு`; keep source-controlled and do not infer an unprinted ownership formula;
-2. scan p.36 — `corrupts the integrity of many people` for `பலரது நாணயத்தையும் கெடுக்கிறது`; review naturalness while retaining the moral/honesty sense;
-3. scan p.36 — `if what used to happen here happened there` adds a past-tense clarification not explicitly printed in `இங்கு நடப்பது போல அங்கு நடந்தால்`; revise toward a temporally neutral/source-closer formulation during the consolidated pass;
-4. scan p.37 — `would perhaps sing a thogaiyara in anger` slightly softens `ஆங்காரமாக தொகையறாவே பாடிவிடுவார்கள்`; retain `thogaiyara` but review rhetorical force.
+1. scan p.38 — `with humanitarian concern beyond the laws of world politics` for `உலக அரசியல் சட்டங்களுக்கு அப்பாற்பட்டு மனிதாபிமானத்தோடு`; refine naturalness without outside interpretation;
+2. scan p.38 — `standing in his path and governing for four years` for `அவர் வழி நின்று ஆட்சி நடாத்தி`; refine toward natural English while preserving Anna-path framing;
+3. scan p.43 — `interim revenue from registration` for the printed `இடைக்கால வருமானம்`; review source-controlled naturalness without silently deleting the printed qualifier;
+4. scan p.44 — `somewhat alarming claim` for `கொஞ்சம் பயங்கரமான ஒரு விஷயம்`; review rhetorical force without exaggeration.
 
-These are wording-quality/fidelity-refinement candidates, not blocking defects. Resolve them only from the verified booklet Tamil.
+These are wording-quality/source-closeness candidates, not blocking defects. Resolve them only from the verified booklet Tamil.
 
 ## Unit 1 milestone
 
@@ -222,16 +234,14 @@ Editorial Unit 1 (`scan pp.3–37`) has completed page-by-page Gate-G review:
 - verified Tamil changes: **none**;
 - Official Report wording used: **none**.
 
-This does not mark the full English verified. Unit 2 and the final consolidated refinement/closure pass remain outstanding.
-
 ## Exact next activity
 
-Continue **Gate G6 — scan pp.38–44**, beginning Editorial Unit 2:
+Continue **Gate G7 — scan pp.45–51**:
 
-1. read the verified Tamil for scan pp.38–44 only from the source transcription controlled by `ACL-CPL_01726_நமது_நிலை.pdf`;
+1. read the verified Tamil for scan pp.45–51 only from the source transcription controlled by `ACL-CPL_01726_நமது_நிலை.pdf`;
 2. compare the corresponding English in `speeches/1971/1971-namathu-nilai/translation.md` page by page;
-3. check the printed Unit 2 heading/introduction, paragraphs, quotations, names, figures, page continuations, rhetoric and unsupported additions;
-4. record the full G6 ledger in `sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md`;
+3. check the continuation of the L.I.C./Corporation loan, small-industry/SIDCO allocations, Central-to-State revenue categories, tractor allocations, slum-clearance/tenement figures, agriculture, education and electrification passages;
+4. record the full G7 ledger in `sources/1971-namathu-nilai/translations/en/TRANSLATION_REVIEW.md`;
 5. update `PROGRESS.md`, metadata and relevant READMEs;
 6. if a blocking English fidelity error is found, correct it using only the verified Tamil;
 7. record non-blocking wording refinements separately for the consolidated refinement pass;
