@@ -6,10 +6,11 @@
 - Reader-facing location: `speeches/1971/1971-namathu-nilai/`
 - Gate F first-pass translation: **complete**
 - Gate G fidelity review: **in progress**
-- Gate-G pages reviewed: **35 / 58** (`scan pp.3–37`)
+- Gate-G pages reviewed: **42 / 58** (`scan pp.3–44`)
 - Editorial Unit 1 Gate-G review: **complete — 35/35 pages**
+- Editorial Unit 2 Gate-G review: **in progress — scan pp.38–44 reviewed, 7/23 pages**
 - Gate-G blocking fidelity issues found: **0**
-- Gate-G non-blocking refinement candidates queued: **18**
+- Gate-G non-blocking refinement candidates queued: **22**
 - English verification state: **not verified**
 
 ## Textual authority
@@ -55,7 +56,7 @@ Detailed findings are recorded in [`TRANSLATION_REVIEW.md`](./TRANSLATION_REVIEW
 | G3 | 19–26 | **complete** | 0 |
 | G4 | 27–34 | **complete** | 0 |
 | G5 | 35–37 | **complete** | 0 |
-| G6 | 38–44 | pending | — |
+| G6 | 38–44 | **complete** | 0 |
 | G7 | 45–51 | pending | — |
 | G8 | 52–58 | pending | — |
 | G9 | 59–60 | pending | — |
@@ -116,10 +117,22 @@ Page-by-page semantic/source-fidelity review complete against the verified bookl
 - `50 miles`, Tamil Nadu/Gujarat prohibition framing and `two crore` women retained;
 - no blocking mistranslation, omission, duplication or unsupported addition found;
 - no Official Report wording used;
-- **4 additional non-blocking wording refinements** queued, bringing the total to **18**;
+- **4 additional non-blocking wording refinements** queued;
 - **Editorial Unit 1 Gate-G review is complete: 35/35 pages**.
 
-G5 refinement candidates concern p.35 `a ceiling on buses`, p.36 `corrupts the integrity of many people`, p.36 the added past-tense force in `what used to happen here`, and p.37 `would perhaps sing a thogaiyara in anger`. These are not blocking fidelity defects and must be resolved only from the verified booklet Tamil during the consolidated refinement pass.
+### G6 result — scan pp.38–44
+
+Page-by-page semantic/source-fidelity review complete against the verified booklet Tamil only.
+
+- printed Unit 2 heading and editorial introduction correctly represented;
+- all 7 source-page boundaries correct, including the p.44→45 L.I.C.-loan continuation;
+- East Bengal/humanitarian opening, House professional counts, Opposition-leader passages, kitten/mouse and electric-fan metaphors, June policy explanation, taxation/registration figures, motor-vehicle revenue and Corporation/L.I.C. loan opening fully represented;
+- checked figures retained, including 39 lawyers, 6 doctors, 6 teacher representatives, 1 engineer, 23 graduates, registration Rs.316/32/124 lakh, motor-vehicle Rs.81 lakh→Rs.23 crore, and L.I.C. Rs.5 crore allegation→Rs.3 crore correction;
+- no blocking mistranslation, omission, duplication or unsupported addition found;
+- no Official Report wording used;
+- **4 additional non-blocking wording refinements** queued, bringing the total to **22**.
+
+G6 refinement candidates concern the p.38 `beyond the laws of world politics` phrase, p.38 `standing in his path`, p.43 `interim revenue from registration`, and p.44 `somewhat alarming claim`. These are not blocking fidelity defects and must be resolved only from the verified booklet Tamil during the consolidated refinement pass.
 
 ## Gate-F completion summary
 
@@ -145,6 +158,6 @@ G5 refinement candidates concern p.35 `a ceiling on buses`, p.36 `corrupts the i
 
 ## Exact continuation point
 
-Proceed with **G6 — scan pp.38–44**, beginning Editorial Unit 2.
+Proceed with **G7 — scan pp.45–51**.
 
 Compare the existing English only against the verified booklet Tamil, record the page-by-page findings in `TRANSLATION_REVIEW.md`, and preserve the no-Official-Report rule. English must remain marked **not verified** until all Gate-G batches and the final refinement/closure check are complete.
