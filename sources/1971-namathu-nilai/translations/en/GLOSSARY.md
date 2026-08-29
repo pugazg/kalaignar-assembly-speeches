@@ -16,7 +16,7 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 - Do not import Official Report wording.
 - Record definite idiomatic/non-literal choices when needed.
 
-## Locked terms encountered through scan p.58
+## Locked terms encountered through scan p.60
 
 | Tamil source form | English rendering | Note |
 |---|---|---|
@@ -40,7 +40,7 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 | `நீதி மன்றம்` | `court` | Standard rendering. |
 | `இடைக்கால நிதி நிலை அறிக்கை` / `இடைக்கால நிதிநிலை அறிக்கை` | `Interim Budget Statement` | Period fiscal-document rendering; source spacing variants remain in Tamil. |
 | `நிதிநிலை அறிக்கை விவாதத்துக்கு முதல்வர் பதில்` | `Chief Minister's reply to the Budget Statement debate` | Unit 2 printed heading. |
-| `மாநிலத் திட்டக் குழு` | `State Planning Commission` | Institution announced in the Governor's Address. |
+| `மாநிலத் திட்டக் குழு` / `மாநிலத் திட்ட ஆணைக்குழு` | `State Planning Commission` | One English rendering for the booklet's two printed Tamil forms. |
 | `நிர்வாகச் சீர்திருத்த ஆணைக் குழு` / `நிர்வாகச் சீர்திருத்தக் குழு` | `Administrative Reforms Commission` | One consistent English institutional rendering. |
 | `பட்டா` | `patta` | Land-administration term retained. |
 | `ஆர்ஜிதம்` | `acquisition` / `acquired` | Contextual land-acquisition rendering. |
@@ -108,7 +108,7 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 | `மிகப் பின்தங்கிய வகுப்பு` | `very backward class` | First-pass rendering of the Chief Minister's printed self-description; review capitalization only at Gate G. |
 | `தாழ்த்தப்பட்ட மக்கள்` | `downtrodden people` | First-pass source-register rendering; review nuance at Gate G. |
 | `அரிசனக் காலனிகள்` | `Harijan colonies` | Period source wording retained in English rather than silently modernised. |
-| `உரிமைக்குரல்` | `voice for our rights` | Recurring rights-claim formulation from Unit 2. |
+| `உரிமைக்குரல்` / `உரிமைக் குரல்` | `voice for our rights` | Recurring rights-claim formulation; preserve the source's spacing variants only in Tamil. |
 | `ஒருமித்த உரிமைக்குரல்` | `A united voice for our rights` | Printed heading at scan p.53. |
 | `அறப் போராட்டம்` | `righteous struggle` | Close Gate-F rendering; review nuance at Gate G without importing external legislative wording. |
 | `பாராளுமன்ற முறை` / `பாராளுமன்ற முறைப்படி` | `parliamentary method` / `through parliamentary methods` | Preserve the source's explicit non-violent/parliamentary framing. |
@@ -117,8 +117,11 @@ The verified Tamil booklet text controls. External Assembly/Council Official Rep
 | `ராஜமானிய ஒழிப்பு` | `abolition of privy purses` | First-pass political-policy rendering. |
 | `வங்கிகள் தேசியமயமாக்கும் திட்டம்` | `programme of bank nationalisation` | Direct policy rendering. |
 | `பட்டாளத்துச் சிப்பாய்களாய்` | `like soldiers in the ranks` | Preserve the military metaphor in the anti-Hindi passage. |
+| `மறவர் குல மங்கை` | `woman of the Maravar clan` | Source social/cultural wording kept close; no outside ethnographic gloss is imported. |
+| `புறநானூற்றுத் தாய்` | `Purananuru mother` | Source literary reference retained without external explanation. |
+| `மாநிலத்திற்கு மாநிலம் ரகுமான்களைத் தோற்றுவிக்க` | `create Rahmans from State to State` | Deliberately close Gate-F rendering of the booklet's printed rhetoric; review naturalness at Gate G only against the verified Tamil. |
 
-## Names encountered through scan p.58
+## Names encountered through scan p.60
 
 - `வேழவேந்தன்` → `Vezhavendan`
 - `பொன்னப்ப நாடார்` → `Ponnappa Nadar`
@@ -173,7 +176,7 @@ These English forms are consistency renderings of names printed in Tamil; they d
 
 The first-pass English preserves source titles as transliterated or directly rendered source forms rather than silently replacing them with outside-standardised titles.
 
-## Rhetoric / idiom decisions through scan p.58
+## Rhetoric / idiom decisions through scan p.60
 
 | Tamil | English | Note |
 |---|---|---|
@@ -233,11 +236,15 @@ The first-pass English preserves source titles as transliterated or directly ren
 | `எடுத்த காவடியை இறக்குவது எப்போது?` | `When will we set down the kavadi we have taken up?` | Retain `kavadi` without an outside gloss. |
 | `மத்திய அரசுடன் உறவுக்குக் கை கொடுப்போம், அதே நேரத்தில் எங்களுடைய உரிமைகளுக்குக் குரல் கொடுப்போம்` | `We shall extend a hand for relations with the Central Government; at the same time, we shall raise our voice for our rights.` | Preserve the hand/voice parallelism. |
 | `இந்தி திணிக்கப்பட்டால் ......` | `If Hindi is imposed ......` | Direct printed heading and ellipsis retained. |
+| `வணங்காதீர்கள், வளையாதீர்கள்` | `Do not bow; do not bend` | Preserve the paired imperative and rhetorical parallelism. |
+| `மாநிலத் திட்டக் குழு, போட்டிக் குழு அல்ல !` | `The State Planning Commission is not a rival commission!` | Preserve the printed contrast rather than importing external institutional wording. |
+| `உரிமைக் குரல்` | `Voice for our rights` | Final printed heading on scan p.60. |
 
 ## Pending Gate-G nuance checks
 
 - `அறுத்துக்கொள்ள வேண்டும்` → provisional `wrest it free` in scan p.57; re-evaluate only against the verified booklet Tamil and its immediate context, never against Official Report wording.
+- `மாநிலத்திற்கு மாநிலம் ரகுமான்களைத் தோற்றுவிக்க` → provisional close rendering `create Rahmans from State to State`; review English naturalness without changing the source claim or importing outside wording.
 
 ## Current state
 
-Gate F has completed its first pass through scan p. **58**. Reader-facing speech/translation coverage is **scan pp.3–58**. Editorial Unit 1 is complete; Editorial Unit 2 is populated and translated through scan p.58. Next continuation: **scan pp.59–60 (F9)**.
+Gate F is **complete through scan p.60**. Reader-facing Tamil and Gate-F English cover **scan pp.3–60 (58/58 speech pages)**. Both editorial units are fully populated. The next phase is **Gate G — page-by-page English fidelity review against the verified booklet Tamil only**.
