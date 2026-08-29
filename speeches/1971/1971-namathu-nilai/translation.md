@@ -254,4 +254,125 @@ If food production increased, how can it be an argument to say that it increased
 
 I say this: there have been times when rainfall was deficient. There was even drought during the past four years. No one should forget that we dealt with the drought and still increased food production substantially, and that we succeeded in doing so.
 
-<!-- translation-continues-at-source-page: 19 -->
+<!-- source-page: 19 -->
+
+## Our industrial growth
+
+Following the Salem steel plant, several other large factories have come to our State. Although they do not involve investments on the same scale, a tyre factory is coming. A sodium hydrosulphate factory is being established. A soda-ash factory is also being established in the joint sector. There are signs that a nylon factory will come soon. A polyester-fibre factory is also to be set up.
+
+I think it would be appropriate to place before the House some figures showing the extent to which industries have grown in our State.
+
+Under the industrial production index, the figure rose from 158·3 in 1967 to 166·3 in 1968, 172·8 in 1969 and 182·3 in 1970.
+
+Likewise, registered factories numbered 7,065 in 1967 and 7,922 in 1970; nothing has declined.
+
+Registered enterprises and companies in the public and private sectors numbered 91 in 1967, 116 in 1969, and 76 companies were registered in the first six months of 1970.
+
+As for applications sent to the Central Government for industrial licences, we sent 38 applications in 1967; licences to start factories were obtained for 16 of them. In 1968 we sent 51 applications; licences were obtained for 9. In 1969 we sent 97; licences were obtained for 12. In 1970 we sent 142 applications; so far, licences have been obtained for 36. Therefore it cannot be complained that we made no effort at all to start factories.
+
+<!-- source-page: 20 -->
+
+## Small industrial enterprises
+
+Among small industries, the industrial enterprises registered by the Director of Industries and Commerce were:
+
+- 1967 — 11,929
+- 1968 — 13,571
+- 1969 — 18,063
+- 1970 — 21,857
+
+Thus, although we have advanced to this extent in the industrial field, this is certainly not sufficient progress. More approvals must be granted. If we ask for 100, approval comes for 30. So it is not as though there is no shortcoming here. On the basis of the policy that industrial development must advance still further, we continue to place this before the Central Government.
+
+## The special character of the joint sector
+
+I also wish to state that we shall continue to press the Central Government to bring more and more factories into being quickly.
+
+<!-- source-page: 21 -->
+
+The private sector, public sector and joint sector were referred to in the debate. What is the joint sector? Some members expressed the view that the joint sector is, for the most part, really the private sector.
+
+In the joint sector there will be private initiative and Government supervision. In earlier times, when it was the private sector, there was no Government supervision.
+
+To give an example, in the Madras Aluminium Factory the share-capital investment was Rs. 3 crore. Of this, the private side invested Rs. 1½ crore and the Government Rs. 1½ crore. The Government did not retain the responsibility of supervision. There is only one director in it on behalf of the Government. The private side does not conduct its affairs in the factory in consultation with the Government.
+
+The situation in the joint sector that has now emerged is completely different. Private initiative is utilised, while at the same time there is Government supervision. By bringing the two together so that joint-sector policy is implemented, this Government has created a new policy.
+
+## Our ultimate objective
+
+With the aim that Tamil Nadu should develop industrially, the public sector is our ultimate objective. But on the basis that we should not merely keep saying so and then lose momentum, we have accepted the joint sector today. The final objective is the public sector.
+
+As stated in the Governor's Address, members spoke at length about employment opportunities. They said that many schemes must be devised, both by the Tamil Nadu Government and at the level of the Central Government, to provide employment opportunities.
+
+<!-- source-page: 22 -->
+
+## The distress of unemployment among the educated
+
+To be specific, because the Fourth Five-Year Plan was delayed and because there were no schemes, unemployment has arisen. Since there are no schemes capable of providing jobs to graduates and engineers, it cannot be denied that lack of employment opportunities has grown in the country.
+
+Although certain things have been done at the State level, they are not capable of giving complete satisfaction. They are not enough to bring a smile.
+
+## A sign of our concern
+
+Even so, arrangements have been made to provide employment to 6,500 teachers. Assistance has been arranged for trainee teachers so that those who are receiving no salary and are suffering because they cannot run their families may at least receive some remuneration. Employment has been provided to 6,500 teachers, and all of them have joined work.
+
+Likewise, in coming forward to assist 2,400 engineers, 1,795 persons had been placed in employment by the end of February 1971.
+
+<!-- source-page: 23 -->
+
+In this way we provided employment opportunities to 6,500 teachers and 2,400 engineers. This does not mean that unemployment in Tamil Nadu will thereby be completely abolished. It was done to show that this Government has the concern to remove unemployment. This concern will grow more and more. This measure was undertaken as a dawn-star showing that schemes will be devised on an ever-increasing scale. It is not right to take this alone and ask whether the employment provided is enough.
+
+## The question that seethes and surges
+
+The Central Government too has devised a scheme to increase employment opportunities further. The scheme is to give employment to 1,000 people in every district of every State in rural areas. The rural area is taken by blocks. One hundred people are to be given work in each block. Taking 10 blocks in a district and providing work to 1,000 people is the Central Government's scheme. This rural scheme will be discussed at the conference of Chief Secretaries in Delhi.
+
+Is giving this much employment to rural people alone sufficient? People engaged in agriculture remain without work for six months of the year. This will give them work. But the question was asked: what employment opportunities are there for those who have studied and remain jobless — for our young men, for our youth?
+
+<!-- source-page: 24 -->
+
+This question does not exist only in the hearts of those in the Opposition. It is a question that seethes and surges in the hearts of every member of the ruling party as well.
+
+## We are going to answer it!
+
+We open new colleges, provide concessions in colleges and enable people to study. We send them to medical colleges and other colleges. They become graduates. Once they have studied and come out of those colleges, they ask, "Where is the job? Where is the job?" We must give them an answer. We are going to answer them; we are going to answer them properly. That is why, in this election, we see the Progressive Alliance go before the voters, obtain their support, and Governments being formed both in this House and at the Centre.
+
+## We did what we said
+
+The Dravida Munnetra Kazhagam Government has been in the forefront in fulfilling the election promises that were made. Of the promises made earlier in 1967, the Dravida Munnetra Kazhagam Government has fulfilled the majority.
+
+This new Government, the Dravida Munnetra Kazhagam Government, standing in the path of Arignar Anna, set out during the election what the people of the country need: how employment opportunities should be provided; what kind of freedom the poor should have in a free country; in what way a dawn should come for the toiler and the worker; and what promises we made so that a good lamp may burn forever in the poor person's home—
+
+<!-- source-page: 25 -->
+
+I state most categorically in this House that this Government will not hesitate in the least to fulfil all those promises.
+
+## Jobs in the Electricity Board
+
+The highly respected Dr. Hande asked: "You received tens of thousands of applications in the electricity department, yet you did not take even one person into employment."
+
+My concern is that people such as Dr. Hande speak like this without knowing the information. It is true that tens of thousands of applications were received. People have been appointed to all the posts for which those applications were invited. Those taken into employment were 360 bill collectors, 100 typists and 1,500 clerks.
+
+The information given to Dr. Hande — I am not saying the information he himself gave — was incorrect information. The allegation that applications were received in the Electricity Board and no one was taken into employment is wrong.
+
+## The extent of the fall in prices
+
+Prices were discussed. No one claims that prices have fallen completely in every respect. As far as foodgrains are concerned, prices have fallen. They have fallen in some other matters too.
+
+If the prices of all commodities are to fall, it can be done only with the cooperation of the Central Government. This is what has been pointed out both in the Governor's Address and in the Budget Statement. No one can deny it.
+
+<!-- source-page: 26 -->
+
+As far as prices are concerned, if we take the Tiruchi market, second-grade rice was Rs. 100 for a 100-kilogram bag in March 1970. In March 1971 it had fallen to Rs. 86·60. Cholam was 85·3 in March 1970; in March 1971 it had fallen to Rs. 73·35. Kambu was Rs. 90; it had fallen to Rs. 52. Ragi was Rs. 70; it had fallen to Rs. 62. Groundnut oil was Rs. 470; it had fallen to Rs. 445.
+
+## A plan for pulses
+
+I do not deny that the prices of pulses and some kinds of oil have risen somewhat. To reduce their prices, production must be increased. That is why we have allocated a separate amount to increase the production of pulses and devised a plan to cultivate pulses on six lakh acres in Tamil Nadu.
+
+Chillies, per 100 kilograms, were Rs. 410 in 1970. In 1971 they had fallen to Rs. 350. Turmeric — Erode is famous for turmeric — was Rs. 380 according to the Erode market and had fallen to Rs. 180. I think women will particularly welcome the fall in the price of turmeric.
+
+The price of firewood has risen from 14 to 18.
+
+## Let us argue together
+
+To bring prices down, production must be increased. The Government is engaged in efforts toward that. At the same time, when the Central Government raises prices, it must do so in consultation with us. It was on this that Thiru K. M. Subramaniam asked, "Did you oppose the price rise?"
+
+<!-- translation-continues-at-source-page: 27 -->
