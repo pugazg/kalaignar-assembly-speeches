@@ -23,7 +23,9 @@ Current coverage there:
 - speech-page coverage: **58 / 58**
 - Editorial Unit 1: **complete**
 - Editorial Unit 2: **complete**
-- Gate-G English fidelity review: **not started**
+- Gate-G English fidelity review: **in progress — scan pp.3–10 reviewed, 8/58 pages**
+- G1 blocking fidelity issues: **0**
+- English verified: **no**
 
 The entry preserves the booklet as an edited two-House compilation and does not reconstruct separate Assembly/Council transcripts. Scan pp.1–2 remain publication front matter/source metadata and are not inserted into the speech transcript as spoken text.
 
@@ -90,10 +92,15 @@ Control files remain here:
 - [`translations/en/TRANSLATION_PLAN.md`](./translations/en/TRANSLATION_PLAN.md)
 - [`translations/en/PROGRESS.md`](./translations/en/PROGRESS.md)
 - [`translations/en/GLOSSARY.md`](./translations/en/GLOSSARY.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](./translations/en/TRANSLATION_REVIEW.md)
 
 Actual reader-facing English is maintained only in the `speeches/` entry to avoid duplicate independently editable copies.
 
-**Gate F is complete for all 58 speech pages, scan pp.3–60.** The next phase is Gate G: a page-by-page fidelity review of the English against the verified booklet Tamil only. No Assembly/Council Official Report wording may be used during that review.
+**Gate F is complete for all 58 speech pages, scan pp.3–60. Gate G has completed G1, scan pp.3–10, with 0 blocking fidelity issues.** Four non-blocking English wording refinements are queued in the review ledger for a consolidated refinement pass after page-level review.
+
+Exact next review batch: **G2 — scan pp.11–18**.
+
+No Assembly/Council Official Report wording may be used during Gate G.
 
 ## Handover
 
