@@ -46,3 +46,18 @@ Exact continuation after C2: **scan p.14 / printed p.13**.
 - English translation remains blocked.
 
 Exact continuation: **scan p.19 / printed p.18**.
+
+### Batch C4 — scan pp.19–23 / printed pp.18–22
+
+- first-pass transcription completed for scans 19–23 directly from the rendered source;
+- source-page markers 19, 20, 21, 22 and 23 are present exactly once and in order;
+- scan p.20 contains right-gutter crop loss: **41** explicit `⟦scan-crop⟧` holds;
+- scan p.21 contains left-gutter crop loss: **29** explicit `⟦scan-crop⟧` holds;
+- scans 19, 22 and 23 required no comparable crop holds;
+- printed illustration/cartoon labels securely readable from the scan were preserved: p.19 `மாநில அரசு`, `விலைவாசி உயர்வு`, `நாணயப் புழக்கம்`; p.21 `வரிசலுகை`; p.22 `கறுப்புப் பணம்`; p.23 `விலைவாசி உயர்வு`, `தேசிய உற்பத்திக் குறைவு`, `பண வீக்கம்`;
+- Gate-C visual self-check removed a spurious punctuation speck after p.20 `அன்றைக்கு`, retained the scan-supported p.20 speaker wording `தலைவரவர்களே`, corrected the p.21 working draft from `ஏற்பட்டுப்பட்டுவிட்டன` to `ஏற்படுத்தப்பட்டுவிட்டன`, retained the unusual source-supported p.22 form `கருத்தத் தேவையில்லை`, and resolved the p.23 slanted cartoon label as `விலைவாசி உயர்வு`;
+- corrections from formal Gate E: **0** — Gate E has not started;
+- `verified_against_scan` remains **false**;
+- English translation remains blocked.
+
+Exact continuation: **scan p.24 / printed p.23**.
