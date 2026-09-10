@@ -15,4 +15,21 @@ Status: **IN PROGRESS**
 - `verified_against_scan` remains **false**;
 - English remains blocked.
 
-Exact continuation: **scan p.9 / printed p.8**.
+Exact continuation after C1: **scan p.9 / printed p.8**.
+
+### Batch C2 — scan pp.9–13 / printed pp.8–12
+
+- first-pass transcription completed for the visible source text on scans 9–13;
+- source-page markers 9, 10, 11, 12 and 13 are present exactly once and in order;
+- scan p.10 contains right-gutter crop loss: **29** explicit `⟦scan-crop⟧` holds;
+- scan p.11 contains left-gutter crop loss: **16** explicit `⟦scan-crop⟧` holds;
+- scans 9, 12 and 13 required no comparable crop holds;
+- scan p.13 cartoon preserves the confidently legible labels `வரி`, `மத்திய அரசு` and `ரூ. 225 கோடி`; smaller black-arrow labels remain explicitly unresolved;
+- Gate-C visual self-check corrected the working draft before commit, including the scan-supported p.12 wording `இப்படிக் கொடுத்தும் கூடக் கருணாநிதி மாற்றுந்தாய் மனப்பான்மை ... மேடைக்கு ஒரு சரியான பாயிண்ட் கிடைத்தது என்று கருதுகிறேன்.`;
+- the p.12 source-supported reading `அதுவும் தவறு.` is retained, and no unsupported extra `வரி` is inserted after the `ரூ. 271 கோடி` calculation;
+- corrections from formal Gate E: **0** — Gate E has not started;
+- `verified_against_scan` remains **false**;
+- English remains blocked.
+
+Exact continuation: **scan p.14 / printed p.13**.
+
