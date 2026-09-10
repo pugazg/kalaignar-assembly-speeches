@@ -90,11 +90,17 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 - Gate A — **COMPLETE / PASS**
 - Gate B — **COMPLETE / PASS / LOCKED**
-- Gate C — **NOT STARTED**
+- Gate C — **IN PROGRESS — Unit 1 scans 4–13 / printed pp.3–12**
 - Gate D — not started
 - Gate E — not started
 - Gates F–H — blocked
 
+### Gate-C source-condition notes
+
+- scan pp.4–5 and 10–11 contain physical gutter-edge text loss; unrecoverable spans are marked `⟦scan-crop⟧` in the canonical transcript and are not reconstructed;
+- scan p.13 contains a printed cartoon; confidently legible labels are represented, while smaller labels that are not securely readable remain explicitly unresolved;
+- `verified_against_scan` remains false until Gate E is completed for the entire Assembly speech.
+
 ## Exact next activity
 
-Begin **Gate C** on Unit 1, `சட்டப் பேரவையில்` / `7-3-1973`, from **PDF scan p.4 / printed p.3**. Create the canonical speech folder only after re-confirming the proposed ID against live `main`, then transcribe a bounded first batch directly from the rendered scan. Use `<!-- source-page: N -->` exactly once for each represented source page. Do not begin Unit 2 merely to fill a batch and do not begin English before Gate E passes for the complete Tamil speech.
+Continue **Gate C** on Unit 1, `சட்டப் பேரவையில்` / `7-3-1973`, from **PDF scan p.14 / printed p.13** in the next bounded batch. Preserve each `<!-- source-page: N -->` marker exactly once, mark any genuinely unreadable source text explicitly rather than reconstructing it, and do not begin Unit 2 or English before the Assembly speech reaches the required later gates.
