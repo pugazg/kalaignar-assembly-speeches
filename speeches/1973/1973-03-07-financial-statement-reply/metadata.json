@@ -1,0 +1,59 @@
+{
+  "id": "1973-03-07-financial-statement-reply",
+  "date": "1973-03-07",
+  "year": 1973,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role_ta": "தமிழக முதல்வர்",
+    "role_en": "Chief Minister of Tamil Nadu"
+  },
+  "legislature": {
+    "name_ta": "தமிழகச் சட்டப் பேரவை",
+    "name_en": "Tamil Nadu Legislative Assembly"
+  },
+  "speech": {
+    "source_heading_ta": "சட்டப் பேரவையில்",
+    "event_ta": "நிதிநிலை அறிக்கை விவாதத்திற்கான பதிலுரை",
+    "event_en": "Reply to the debate on the financial statement",
+    "type": "financial-statement-reply",
+    "event_label_status": "neutral archival label derived from source preface"
+  },
+  "source": {
+    "publication_title_ta": "இருளும் ஒளியும்",
+    "cover_attribution_ta": "தமிழக முதல்வர் டாக்டர் மு. கருணாநிதி",
+    "issuing_body_ta": "செய்தி, மக்கள் தொடர்புத்துறை, தமிழ்நாடு அரசு",
+    "publication_place_ta": "சென்னை",
+    "publication_date_printed": "16-3-1973",
+    "publication_date": "1973-03-16",
+    "printer_ta": "தமிழரசு அச்சகம்",
+    "scan_filename": "TVA_BOK_0064058_இருளும்_ஒளியும்.pdf",
+    "scan_total_pages": 64,
+    "file_size_bytes": 101602456,
+    "sha256": "0330e70d6d7a62e2c84d712966a8436b91956d722134bc71ca0b2329283f8694",
+    "speech_scan_pages": "4-40",
+    "speech_printed_pages": "3-39",
+    "printed_date_evidence": "7-3-1973 in source பதிப்புரை on scan p.3"
+  },
+  "transcription": {
+    "method": "manual transcription from rendered scan",
+    "preserve_source_spelling": true,
+    "preserve_source_punctuation": true,
+    "preserve_headings": true,
+    "page_boundaries_marked": true,
+    "status": "in-progress",
+    "verified_against_scan": false,
+    "completed_scan_pages": "4-8",
+    "completed_printed_pages": "3-7",
+    "source_crop_holds": "scan pp.4-5 gutter-edge losses marked with ⟦scan-crop⟧"
+  },
+  "translation": {
+    "language": "English",
+    "status": "not-started",
+    "blocked_until_tamil_verified": true
+  },
+  "release": {
+    "status": "not-released",
+    "gate_h_passed": false
+  }
+}
