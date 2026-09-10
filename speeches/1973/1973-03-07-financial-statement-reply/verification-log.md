@@ -31,5 +31,18 @@ Exact continuation after C1: **scan p.9 / printed p.8**.
 - `verified_against_scan` remains **false**;
 - English remains blocked.
 
-Exact continuation: **scan p.14 / printed p.13**.
+Exact continuation after C2: **scan p.14 / printed p.13**.
 
+### Batch C3 — scan pp.14–18 / printed pp.13–17
+
+- first-pass transcription completed for scans 14–18 directly from the rendered source;
+- source-page markers 14, 15, 16, 17 and 18 are present exactly once and in order;
+- no new physical gutter-edge crop loss was found on scans 14–18, so no new `⟦scan-crop⟧` holds were introduced;
+- printed English parliamentary exchanges spanning scans 15–17 are retained verbatim in the source layer, including the H. V. Hande interventions;
+- source-supported period spelling, spacing and punctuation were retained where legible, including `உயர்த்தி யிருக்கிறார்கள்`, `ஒய்வாகப்`, and the scan-p.17 speaker-label semicolon;
+- Gate-C visual self-check corrected one working-draft reading on scan p.18 from `குறிப்பிடிருக்கின்றார்கள்` to the scan-supported `குறிப்பிட்டிருக்கின்றார்கள்` before commit;
+- corrections from formal Gate E: **0** — Gate E has not started;
+- `verified_against_scan` remains **false**;
+- English translation remains blocked.
+
+Exact continuation: **scan p.19 / printed p.18**.

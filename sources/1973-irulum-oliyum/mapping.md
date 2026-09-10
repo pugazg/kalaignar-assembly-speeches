@@ -90,7 +90,7 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 - Gate A — **COMPLETE / PASS**
 - Gate B — **COMPLETE / PASS / LOCKED**
-- Gate C — **IN PROGRESS — Unit 1 scans 4–13 / printed pp.3–12**
+- Gate C — **IN PROGRESS — Unit 1 scans 4–18 / printed pp.3–17**
 - Gate D — not started
 - Gate E — not started
 - Gates F–H — blocked
@@ -99,8 +99,9 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 - scan pp.4–5 and 10–11 contain physical gutter-edge text loss; unrecoverable spans are marked `⟦scan-crop⟧` in the canonical transcript and are not reconstructed;
 - scan p.13 contains a printed cartoon; confidently legible labels are represented, while smaller labels that are not securely readable remain explicitly unresolved;
+- scans 14–18 introduce no new crop holds; printed English parliamentary exchanges on scans 15–17 are retained verbatim in the canonical Tamil source layer;
 - `verified_against_scan` remains false until Gate E is completed for the entire Assembly speech.
 
 ## Exact next activity
 
-Continue **Gate C** on Unit 1, `சட்டப் பேரவையில்` / `7-3-1973`, from **PDF scan p.14 / printed p.13** in the next bounded batch. Preserve each `<!-- source-page: N -->` marker exactly once, mark any genuinely unreadable source text explicitly rather than reconstructing it, and do not begin Unit 2 or English before the Assembly speech reaches the required later gates.
+Continue **Gate C** on Unit 1, `சட்டப் பேரவையில்` / `7-3-1973`, from **PDF scan p.19 / printed p.18** in the next bounded batch. Preserve each `<!-- source-page: N -->` marker exactly once, mark any genuinely unreadable source text explicitly rather than reconstructing it, and do not begin Unit 2 or English before the Assembly speech reaches the required later gates.

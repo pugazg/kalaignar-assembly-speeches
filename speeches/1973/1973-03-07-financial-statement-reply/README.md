@@ -15,12 +15,12 @@ This entry preserves the Legislative Assembly reply dated `7-3-1973` in the sour
 
 - Gate A: **PASS** at source-package level
 - Gate B: **PASS / LOCKED**
-- Gate C: **IN PROGRESS — scans 4–13 / printed pp.3–12**
+- Gate C: **IN PROGRESS — scans 4–18 / printed pp.3–17**
 - Gate D: not started
 - Gate E: not started
 - English Gates F–G: blocked
 - Gate H: not reached
 
-The controlling scan has gutter-edge loss on scans 4–5 and 10–11. Missing text is marked `⟦scan-crop⟧` and is not reconstructed. Scan p.13 also contains small cartoon labels that remain explicitly unresolved where the scan does not support a confident reading.
+The controlling scan has gutter-edge loss on scans 4–5 and 10–11. Missing text is marked `⟦scan-crop⟧` and is not reconstructed. Scan p.13 also contains small cartoon labels that remain explicitly unresolved where the scan does not support a confident reading. Scans 14–18 introduce no comparable crop loss; printed English passages on scans 15–17 are preserved in the Tamil source layer as printed.
 
-Exact continuation: **scan p.14 / printed p.13**.
+Exact continuation: **scan p.19 / printed p.18**.

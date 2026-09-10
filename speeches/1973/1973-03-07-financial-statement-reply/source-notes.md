@@ -34,7 +34,7 @@ These missing pixels are not reconstructed. The canonical marker is:
 
 On these two pages the physical line breaks are retained so every crop loss is localised. This is a source-condition hold, not a linguistic guess. A future direct-source improvement may resolve the holds; until then Gate E cannot pass with zero unresolved source losses.
 
-Scan pp.6–9 and 12–13 do not show the same gutter-edge loss and were transcribed as continuous readable paragraphs in Gate C.
+Scan pp.6–9 and 12–18 do not show the same gutter-edge loss and were transcribed as continuous readable paragraphs in Gate C.
 
 A second gutter-crop pair occurs later in the same Assembly unit:
 
@@ -42,6 +42,8 @@ A second gutter-crop pair occurs later in the same Assembly unit:
 - scan p.11 / printed p.10 loses text at the **left** edge of multiple lines.
 
 Those losses are also marked `⟦scan-crop⟧` and are not reconstructed. Scan p.13 / printed p.12 contains a cartoon. The legible printed labels `வரி`, `மத்திய அரசு` and `ரூ. 225 கோடி` are represented; smaller black-arrow labels remain explicitly unresolved rather than guessed.
+
+Scans 14–18 / printed pp.13–17 introduced no new crop holds. Scans 15–17 include substantial printed English parliamentary exchanges; these are retained verbatim in the source transcription rather than translated, normalised or omitted.
 
 ## Printed non-prose context
 
