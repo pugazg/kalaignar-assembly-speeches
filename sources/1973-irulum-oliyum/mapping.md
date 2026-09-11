@@ -93,7 +93,7 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate C — **COMPLETE — Unit 1 scans 4–40 / printed pp.3–39**
 - Gate C.5 — **PASS / COMPLETE — HG1–HG7 scans 4–40 / printed pp.3–39; 3 cumulative corrections; 0 unresolved historical-glyph clusters**
 - Gate D — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
-- Gate E — **IN PROGRESS — E1 scans 4–13 / printed pp.3–12 PASS; 0 source-fidelity corrections**
+- Gate E — **IN PROGRESS — E1–E2 scans 4–23 / printed pp.3–22 PASS; 2 cumulative source-fidelity corrections**
 - Gates F–H — blocked
 
 ### Gate-C source-condition notes
@@ -120,4 +120,4 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 ## Exact next activity
 
-Continue **Gate E — Tamil source-fidelity verification** on Unit 1 with **PDF scans 14–23 / printed pp.13–22** as the next **10-scan-page iteration**. E1 scans 4–13 passed after strict pixel comparison of words/characters, names/initials, figures, embedded English, headings, speaker labels, punctuation where legible, and transitions, with 0 new corrections and no new unresolved fidelity questions. Unit 2 and English remain blocked until Gate E passes.
+Continue **Gate E — Tamil source-fidelity verification** on Unit 1 with **PDF scans 24–33 / printed pp.23–32** as the next **10-scan-page iteration**. E1–E2 scans 4–23 passed. E2 made 2 source-supported corrections: scan 14 `முதலமைச்சர் அவர்கள்` → `முதலமைச்சரவர்கள்`, and scan 21 illustration `வரிசலுகை` → `வரி ஏய்ப்பு`. No new unresolved fidelity questions remain. Unit 2 and English remain blocked until Gate E passes.
