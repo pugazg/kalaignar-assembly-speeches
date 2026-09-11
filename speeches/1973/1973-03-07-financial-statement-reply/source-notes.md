@@ -111,3 +111,11 @@ All five pages were re-read from enlarged/native source pixels with all 13 minim
 Representative identities confirmed from the source include scan p.19 `விலைவாசி` / `நிலைக்குப்` (`லை`), `விளைவாக` (`ளை`), `மாறாக` (`றா`), `சொல்கின்றோம்` (`றோ`), `வேண்டுமானால்` (`னா`); scan p.20 `கருணாநிதி` (`ணா`), `போடுகிறார்கள்` (`றா`), `சொன்னோம்` (`னோ`), `என்னைத்` (`னை`); scan p.21 `விலைவாசி` (`லை`), `விளையாடுகிறது` (`ளை`), `பாதிக்கப்படுகிறார்கள்` (`றா`); scan p.22 `வழிகளையும்` (`ளை`), `பேசியிருக்கிறார்கள்` (`றா`), `அத்தனை` / `பிரச்சினையை` (`னை`); scan p.23 `சூழ்நிலையைப்` (`லை`), `விரும்புகிறார்களோ` (`றா`), `அணுகியிருக்கிறோம்` (`றோ`), `அனைவரையும்` (`னை`).
 
 No positive occurrence requiring correction was found for `ணை / ணொ / ணோ / றொ / னொ` in HG4; those families were still explicitly checked. Existing scan pp.20–21 gutter losses remain physical source-loss holds and are not historical-glyph ambiguity.
+
+### Gate C.5 batch HG5 — scans 24–28 / printed pp.23–27
+
+All five pages were re-read from enlarged/native source pixels with all 13 minimum historical-glyph families checked on each page. **No additional historical-glyph correction was required.**
+
+Representative source-supported identities confirmed include scan p.24 `மூன்றாவது` / `என்றால்` (`றா`), `பதினைந்து` (`னை`); scan p.25 `இணைப்புக்` (`ணை`), `நிலையங்களுக்கு` / `கிடைக்கவில்லை` (`லை`), `திட்டங்களைக்` (`ளை`), `கேட்டிருக்கிறோம்` / `அனுப்பியிருக்கிறோம்` (`றோ`), `இன்னொன்றையும்` (`னொ`); scan p.26 `கருணாநிதி` (`ணா`), `பெறாமல்` / `கொண்டிருக்கிறார்கள்` (`றா`), `அதனை` (`னை`); scan p.27 `விசாரணைக்` (`ணை`), `பெறாமல்` / `பெற்றாக` (`றா`), `செலவழிக்கிறோமா` (`றோ`), `ஆலோசனைக்` (`னை`); scan p.28 `கருணாநிதி` (`ணா`), `விசாரணை` (`ணை`), `நல்லவேளையாக` (`ளை`), `பேசியிருக்கிறார்கள்` / `குறிப்பிட்டிருக்கிறார்` (`றா`), `நினைவு` (`னை`).
+
+No positive occurrence requiring correction was found for `ணொ / ணோ / றொ / னோ` in HG5; those families were still explicitly checked. Scan pp.25–27 gutter losses remain physical source-loss holds, not historical-glyph ambiguity. Printed English on scans 25, 27 and 28 was left unchanged.

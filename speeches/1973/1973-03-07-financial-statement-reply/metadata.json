@@ -85,9 +85,9 @@
     "unresolved_clusters": 0,
     "downstream_gate": "D",
     "downstream_blocked": true,
-    "completed_scan_pages": "4-23",
-    "completed_printed_pages": "3-22",
-    "last_batch": "HG4",
-    "next_scan_page": 24
+    "completed_scan_pages": "4-28",
+    "completed_printed_pages": "3-27",
+    "last_batch": "HG5",
+    "next_scan_page": 29
   }
 }

@@ -231,3 +231,21 @@ Status: **PASS for this batch / Gate C.5 remains IN PROGRESS**
 - Gate D remains blocked.
 
 Exact continuation: **Gate C.5 scans 24–28 / printed pp.23–27**.
+
+### Batch HG5 — scan pp.24–28 / printed pp.23–27
+
+Status: **PASS for this batch / Gate C.5 remains IN PROGRESS**
+
+- complete pages 24–28 were inspected from enlarged/native source pixels;
+- all 13 minimum families were explicitly checked on every page: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- no source-supported historical-glyph correction was required in this batch;
+- representative confirmed identities include p.24 `மூன்றாவது` / `என்றால்` (`றா`), `பதினைந்து` (`னை`); p.25 `இணைப்புக்` (`ணை`), `கிடைக்கவில்லை` (`லை`), `திட்டங்களைக்` (`ளை`), `கேட்டிருக்கிறோம்` / `அனுப்பியிருக்கிறோம்` (`றோ`), `இன்னொன்றையும்` (`னொ`); p.26 `கருணாநிதி` (`ணா`), `பெறாமல்` / `கொண்டிருக்கிறார்கள்` (`றா`), `அதனை` (`னை`); p.27 `விசாரணைக்` (`ணை`), `பெறாமல்` / `பெற்றாக` (`றா`), `செலவழிக்கிறோமா` (`றோ`), `ஆலோசனைக்` (`னை`); p.28 `கருணாநிதி` (`ணா`), `விசாரணை` (`ணை`), `நல்லவேளையாக` (`ளை`), `பேசியிருக்கிறார்கள்` / `குறிப்பிட்டிருக்கிறார்` (`றா`), `நினைவு` (`னை`);
+- no positive occurrence requiring correction was found for `ணொ / ணோ / றொ / னோ`; those families were still checked;
+- physical gutter losses on scan pp.25–27 remain `⟦scan-crop⟧` source-loss holds and were not guessed from lexical context;
+- printed English on scans 25, 27 and 28 was preserved unchanged;
+- historical-glyph corrections in HG5: **0**; cumulative Gate C.5 corrections: **3**;
+- unresolved historical-glyph clusters in audited visible text: **0**;
+- no global replacement was used;
+- Gate D remains blocked.
+
+Exact continuation: **Gate C.5 scans 29–33 / printed pp.28–32**.
