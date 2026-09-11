@@ -198,7 +198,7 @@ That is a different matter which I do not want to go into now. Also what is the 
 
 Next, all the members in this House referred to the very important question of rising prices. Thiru Ponnappa Nadar, Thiru Hande and some other members pointed out that this Government had shown no concern about it and had not thought about it even a little. Our Communist Party leader, the elder Manali, said yesterday as well: "None of you has shown concern about any of this."
 
-I think Thiru Hande will not have forgotten what he himself said about not showing concern. He said that only the Central and State Governments should concern themselves with this problem and that it was not something ordinary people should have to worry about. But the sentence should not be stopped there. Ordinary people may not worry about it; but we in this House must debate it—
+I think Thiru Hande will not have forgotten what he himself said about not showing concern. He said that only the Central and State Governments should concern themselves with this problem and that it was not something ordinary people should have to worry about. But the sentence should not be stopped there. Ordinary people will not worry about it; but we in this House must debate it—
 
 ### Source page 18
 
@@ -220,7 +220,7 @@ In every country, two things must be compared: (1) growth in national income and
 
 —while money supply rises by 8.1 per cent. In 1969-70, compared with 1968-69, national-income growth rises by 7.3 per cent, while money supply rises by 10.8 per cent. In 1970-71, national-income growth is 4.6 per cent higher than in the previous year, while money supply is 11.1 per cent higher than in the previous year.
 
-But suddenly, and alarmingly, in 1971-72 national-income growth goes from the rate of 1.5 into what the source describes as a dragging, two-point situation. By contrast, money supply rises by 12.9 per cent. Approximately the same situation continues in 1972-73.
+But suddenly, and alarmingly, in 1971-72 national-income growth goes from a rate of 1.5 into a dragging ‘two-point’ position. By contrast, money supply rises by 12.9 per cent. Approximately the same situation continues in 1972-73.
 
 > **Printed illustration text:** `State Government`; `Price rise`; `Money supply`.
 

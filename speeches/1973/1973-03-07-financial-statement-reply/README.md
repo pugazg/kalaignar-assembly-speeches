@@ -20,7 +20,7 @@ This entry preserves the Legislative Assembly reply dated `7-3-1973` in the sour
 - Gate D: **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
 - Gate E: **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 9 cumulative source-fidelity corrections; 0 unresolved Gate-E fidelity questions**
 - Gate F English translation: **COMPLETE — F1–F4 scans 4–40 / printed pp.3–39; 37/37 pages**
-- Gate G English fidelity/voice review: **IN PROGRESS — G1 scans 4–13 / printed pp.3–12 PASS; 10/37 pages reviewed; 4 corrections; 0 unresolved**
+- Gate G English fidelity/voice review: **IN PROGRESS — G1–G2 scans 4–23 / printed pp.3–22 PASS; 20/37 pages reviewed; 6 corrections; 0 unresolved**
 - Gate H: not reached
 
 The controlling scan has gutter-edge loss on scans 4–5, 10–11, 20–21, 25–27 and 34–35. Missing text is marked `⟦scan-crop⟧` and is not reconstructed. Scan p.13 also contains small cartoon labels that remain explicitly unresolved where the scan does not support a confident reading. Scans 14–19, 22–24, 28–33 and 36–40 introduce no comparable crop loss; printed English passages are preserved in the Tamil source layer as printed. Printed illustration/cartoon labels are represented only where the scan supports a confident reading.
@@ -35,6 +35,6 @@ Gate E is now **PASS / COMPLETE for the full Assembly range, scans 4–40 / prin
 
 Gate F batches F1–F4 are now complete in `translation.md` for **scans 4–40 / printed pp.3–39 (37/37 pages)**. F4 preserves the inherited `⟦scan-crop⟧` source-loss markers on scans 34–35, stops exactly at the locked Unit-1 end on scan p.40, and does not enter Unit 2.
 
-Gate G has now completed **G1 scans 4–13 / printed pp.3–12**. Four source-proven English fidelity corrections were applied: the p.5→6 Ponnappa-Nadar agency wording, the p.7 Finance-Commission polarity, the p.8 Planning-Commission negation, and p.9 `மக்கள் நல் வாழ்வு` as `public health`. Source-printed `(Centrally sponsored schemes)` and `‘Myth’` remain unchanged, and all inherited crop holds remain explicit.
+Gate G has now completed **G1–G2 scans 4–23 / printed pp.3–22**. G2 applied two definite fidelity corrections: scan 17 restores the categorical `கவலைப்படமாட்டார்கள்` as `will not worry`, and scan 19 removes an editorial aside introduced during Gate F so the source's unusual `இரண்டு புள்ளி ... இழுபறி நிலை` is voiced directly rather than explained from outside the speech. The source-printed Hande English on scans 15–17 remains verbatim. Crop holds on scans 20–21 remain explicit and unreconstructed.
 
-Exact next activity: **Gate G batch G2 — scans 14–23 / printed pp.13–22**. Continue the page-by-page English-vs-verified-Tamil review, correct only definite fidelity mismatches, and do not begin Unit 2 or Gate H.
+Exact next activity: **Gate G batch G3 — scans 24–33 / printed pp.23–32**. Continue the page-by-page English-vs-verified-Tamil review, correct only definite fidelity mismatches, and do not begin Unit 2 or Gate H.

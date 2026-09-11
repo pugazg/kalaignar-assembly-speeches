@@ -85,3 +85,63 @@ Gate G changed it to `public health`, which is the source-supported term in this
 - Gate G: **IN PROGRESS**
 
 Exact next activity: **G2 — scans 14–23 / printed pp.13–22**.
+
+## G2 — scans 14–23 / printed pp.13–22
+
+Status: **PASS**
+
+Reviewed pages in batch: **10**  
+Cumulative reviewed pages: **20 / 37**  
+Definite corrections in this batch: **2**  
+Cumulative definite corrections: **6**  
+Unresolved fidelity issues: **0**
+
+### Correction 5 — scan p.17: preserve categorical rhetorical force
+
+Gate F:
+`Ordinary people may not worry about it`
+
+Verified Tamil:
+`பாமர மக்கள் கவலைப்படமாட்டார்கள்`
+
+Gate G:
+`Ordinary people will not worry about it`
+
+The change removes an unsupported possibility/modal reading and keeps the source's categorical contrast before Kalaignar turns back to the House's duty to debate responsibility.
+
+### Correction 6 — scan p.19: remove editorial distancing from an anomalous source claim
+
+Gate F:
+`national-income growth goes from the rate of 1.5 into what the source describes as a dragging, two-point situation`
+
+The verified Tamil itself contains the unusual wording `1·5 என்ற வீதத்திலிருந்து இரண்டு புள்ளி என்று இழுபறி நிலைக்குப் போய் நிற்கிறது`. Gate G must preserve that source oddity, not step outside the speech to explain it.
+
+Gate G:
+`national-income growth goes from a rate of 1.5 into a dragging ‘two-point’ position`
+
+No attempt was made to reconcile the figure with external economic data.
+
+## G2 source-sensitive items reconfirmed
+
+- the p.13→14 tax-ratio continuation remains intact;
+- all advertisement figures on scans 14–16 were rechecked;
+- the source-printed Hande English on scans 15–17 remains verbatim;
+- `Tone and content` remains represented in its source position;
+- the price-rise / national-income / money-supply argumentative sequence is preserved;
+- all percentages on scans 18–19 were rechecked;
+- the crop holds on scans 20–21 remain explicit and unreconstructed;
+- the p.21 `Tax evasion` and p.22 `Black money` illustration labels remain conservative;
+- the p.22→23 medium-of-instruction / common-problem continuation remains intact;
+- no Unit-2 text is present.
+
+## Current Gate G result after G2
+
+- reviewed source range: **4–23**
+- reviewed printed range: **3–22**
+- reviewed pages: **20/37**
+- cumulative definite English fidelity corrections: **6**
+- unresolved translation/fidelity questions: **0**
+- `verified_against_tamil`: **false**
+- Gate G: **IN PROGRESS**
+
+Exact next activity: **G3 — scans 24–33 / printed pp.23–32**.

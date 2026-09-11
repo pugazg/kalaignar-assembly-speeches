@@ -601,3 +601,33 @@ Cumulative Gate-G corrections: **4**.
 English `verified_against_tamil`: **false**.
 
 Exact continuation: **Gate G batch G2 — scans 14–23 / printed pp.13–22**. Do not begin Unit 2 or Gate H.
+
+### Batch G2 — scan pp.14–23 / printed pp.13–22
+
+Status: **PASS for this batch / Gate G remains IN PROGRESS**
+
+Review basis: the existing Gate-F English for scans 14–23 was compared page by page only against the final Gate-E-verified Tamil. No OCR, external history, modern economic correction, or outside language source was used to override the verified Tamil.
+
+Coverage and checks:
+
+- reviewed source pages **14→23**, exactly ten pages;
+- checked the p.13→14 continuation, advertisement figures and exchanges, price-rise argument, national-income / money-supply figures, cropped interventions on scans 20–21, illustration labels, and the transition into the power-cut argument;
+- the printed Hande English on scans **15–17** remains verbatim, including its original punctuation and awkward phrasing;
+- inherited `⟦scan-crop⟧` holds on scans **20–21** remain explicit and unreconstructed;
+- the anomalous 1971–72 national-income wording on scan 19 was preserved rather than repaired from external economic knowledge.
+
+Definite Gate-G corrections in G2: **2**
+
+1. **scan p.17** — Gate F weakened `பாமர மக்கள் கவலைப்படமாட்டார்கள்` to `Ordinary people may not worry about it`. Gate G restored the categorical rhetorical force: **`Ordinary people will not worry about it`**.
+
+2. **scan p.19** — Gate F inserted editorial distancing: `what the source describes as a dragging, two-point situation`. That phrasing stepped outside Kalaignar's speech. Gate G removed the editorial aside and rendered the unusual verified Tamil directly as **`a dragging ‘two-point’ position`**, without attempting to correct or reconcile the source claim.
+
+No other definite fidelity mismatch was found in scans 14–23.
+
+G2 unresolved Gate-G fidelity issues: **0**.
+
+Cumulative Gate-G coverage: **20 / 37 pages**.  
+Cumulative Gate-G corrections: **6**.  
+English `verified_against_tamil`: **false**.
+
+Exact continuation: **Gate G batch G3 — scans 24–33 / printed pp.23–32**. Do not begin Unit 2 or Gate H.

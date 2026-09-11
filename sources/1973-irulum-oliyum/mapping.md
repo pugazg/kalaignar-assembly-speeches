@@ -134,14 +134,17 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate F is complete at the locked Unit-1 boundary; Unit 2 has not been entered.
 - Gate G is **IN PROGRESS**.
 - G1 — **PASS** — scans **4–13** / printed pp. **3–12** — 10 pages
-- cumulative Gate-G coverage: **10 / 37 pages**
-- cumulative Gate-G corrections: **4**
+- G2 — **PASS** — scans **14–23** / printed pp. **13–22** — 10 pages
+- cumulative Gate-G coverage: **20 / 37 pages**
+- cumulative Gate-G corrections: **6**
 - unresolved English fidelity issues: **0**
 
 ## Gate G progress
 
-G1 re-read the English for scans **4–13** against the final verified Tamil, page by page. The pass corrected four definite fidelity issues: one agency overstatement across the p.5→6 boundary, the reversed Finance-Commission proposition on p.7, an unsupported Planning-Commission negation on p.8, and the p.9 `மக்கள் நல் வாழ்வு` terminology. Source-printed English remained verbatim and the crop-loss markers on scans 4–5, 10–11 remained unreconstructed.
+G1–G2 have re-read the English for scans **4–23** against the final verified Tamil, page by page.
+
+G2 added two definite corrections: scan 17 changed the weakened `may not worry` to the source-certain `will not worry`; scan 19 removed the Gate-F editorial phrase `what the source describes as` and retained the source's anomalous two-point / dragging-position wording directly. The Hande English printed in the source on scans 15–17 remains verbatim. Crop-loss markers on scans 20–21 remain explicit and unreconstructed. No other definite mismatch was found in G2.
 
 ## Exact next activity
 
-Continue **Gate G batch G2 — scans 14–23 / printed pp.13–22**. Check meaning, omissions, repetitions, page boundaries, speaker/intervention placement, figures, printed English, source markers and preservation of Kalaignar's voice. Record only source-supported corrections. Do not begin Unit 2 or Gate H; English remains unverified until G1–G4 all pass.
+Continue **Gate G batch G3 — scans 24–33 / printed pp.23–32**. Check meaning, omissions, repetitions, page boundaries, speaker/intervention placement, figures, printed English, source markers and preservation of Kalaignar's voice. Record only source-supported corrections. Do not begin Unit 2 or Gate H; English remains unverified until G1–G4 all pass.
