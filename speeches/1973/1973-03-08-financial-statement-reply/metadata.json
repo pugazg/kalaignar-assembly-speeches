@@ -105,12 +105,12 @@
     "unresolved_clusters": 0,
     "downstream_gate": "D",
     "downstream_blocked": true,
-    "reviewed_scan_pages": "41-50",
-    "reviewed_printed_pages": "40-49",
-    "reviewed_page_count": 10,
+    "reviewed_scan_pages": "41-60",
+    "reviewed_printed_pages": "40-59",
+    "reviewed_page_count": 20,
     "total_page_count": 22,
-    "last_batch": "HG1",
-    "next_scan_page": 51,
-    "note": "HG1 audited scans 41-50 against source pixels for all mandatory historical-glyph families. One றா identity correction was applied on scan 44: `மாறுக` → `மாறாக`. No unresolved glyph clusters remain in HG1."
+    "last_batch": "HG2",
+    "next_scan_page": 61,
+    "note": "HG1-HG2 audited scans 41-60 against source pixels for all mandatory historical-glyph families. HG1 applied one றா correction on scan 44 (`மாறுக` → `மாறாக`); HG2 applied 0 corrections. No unresolved glyph clusters remain through scan 60."
   }
 }
