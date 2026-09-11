@@ -420,3 +420,23 @@ Strict visual checks performed directly against the rendered source:
 - `verified_against_scan` remains **false** until Gate E passes across scans 4–40.
 
 Exact continuation: **Gate E scans 14–23 / printed pp.13–22**.
+
+### Batch E2 — scan pp.14–23 / printed pp.13–22
+
+Status: **PASS for this batch / Gate E remains IN PROGRESS**
+
+Batch size: **10 scan pages**.
+
+- all visible source text on scans 14–23 was re-read directly against rendered source pixels;
+- names/initials, figures, embedded English, headings, speaker labels, punctuation where legible, and transitions were checked;
+- scan p.14 / printed p.13: `மதிப்புக்குரிய முதலமைச்சர் அவர்கள் திரு கோபால்` → `மதிப்புக்குரிய முதலமைச்சரவர்கள் திரு கோபால்`; source pixels show the printed compound `முதலமைச்சரவர்கள்`;
+- scan p.21 / printed p.20: illustration label `வரிசலுகை` → `வரி ஏய்ப்பு`; enlarged illustration pixels clearly support `வரி ஏய்ப்பு`;
+- printed English on scans 15–17 was checked line by line and retained, including both Hande passages and `(Tone and content)`;
+- scan p.19 labels `மாநில அரசு`, `விலைவாசி உயர்வு`, `நாணயப் புழக்கம்`; scan p.22 `கறுப்புப் பணம்`; scan p.23 `விலைவாசி உயர்வு`, `தேசிய உற்பத்திக் குறைவு`, `பண வீக்கம்` remain source-supported;
+- scan pp.20–21 gutter losses remain explicit and unreconstructed;
+- page transitions 14→15→…→23→24 were checked for omission/repetition;
+- source-fidelity corrections in E2: **2**; cumulative Gate E corrections: **2**;
+- new unresolved source-fidelity questions in E2: **0**;
+- `verified_against_scan` remains **false** until Gate E passes scans 4–40.
+
+Exact continuation: **Gate E scans 24–33 / printed pp.23–32**.
