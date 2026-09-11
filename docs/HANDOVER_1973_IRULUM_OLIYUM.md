@@ -249,11 +249,12 @@ Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-r
   - scan 62 closes with `வணக்கம்` and the printed closing ornament
   - scan 63 printer/imprint; scan 64 back cover; no third speech follows
 - Gate C.5 historical-glyph audit — **IN PROGRESS**
-  - HG1 scans **41–50** / printed pp. **40–49** — **PASS**
-  - reviewed: **10 / 22 pages**
-  - corrections: **1**
+  - HG1 scans **41–50** / printed pp. **40–49** — **PASS** — 1 correction
+  - HG2 scans **51–60** / printed pp. **50–59** — **PASS** — 1 correction
+  - reviewed: **20 / 22 pages**
+  - cumulative corrections: **2**
   - unresolved glyph clusters: **0**
-  - next: **HG2 scans 51–60 / printed pp.50–59**
+  - next: **HG3 / FINAL scans 61–62 / printed pp.60–61**
 - Gates D–H — **NOT STARTED / downstream**
 - Tamil status — **Gate-C complete / not verified**
 - English — **blocked**
@@ -268,38 +269,39 @@ Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-r
 - scan 61 continues the Dindigul-election discussion and contains the heading `மாற்றம்!`;
 - scan 62 closes the Council reply with the State-autonomy argument, final acknowledgements, `வணக்கம்`, and the printed closing ornament;
 - scan 63 was confirmed as printer/imprint matter and scan 64 as the back cover;
-- historical Tamil typeforms remain intentionally **unaudited** until Gate C.5;
+- historical Tamil typeforms have been audited through scan **60** under Gate C.5; scans **61–62** remain for the final HG3 pass;
 - released Unit 1 was not reopened.
 
 ## Exact next activity
 
-Continue **Unit 2 Gate C.5 historical Tamil glyph audit — HG2 scans 51–60 / printed pp.50–59**.
+Complete **Unit 2 Gate C.5 historical Tamil glyph audit — HG3 / FINAL scans 61–62 / printed pp.60–61**.
 
-HG1 result:
+Current Gate C.5 result through HG2:
 
-- scans **41–50** audited against controlling source pixels;
-- all 13 mandatory historical-glyph families checked on every page;
-- **1** source-supported correction: scan 44 `மாறுக` → `மாறாக` (`றா`);
+- HG1 scans **41–50** — PASS — scan 44 `மாறுக` → `மாறாக` (`றா`);
+- HG2 scans **51–60** — PASS — scan 58 `வேலதான்` → `வேலைதான்` (`லை`);
+- audited: **20 / 22 pages**;
+- cumulative corrections: **2**;
 - unresolved glyph clusters: **0**;
 - Gate C remains complete;
 - `transcription.verified_against_scan=false`;
 - Gate D remains blocked.
 
-HG2 requirements:
+HG3 requirements:
 
-- inspect every page at enlarged/native resolution;
-- check all mandatory glyph families;
-- use same-edition comparison for uncertain identity;
+- inspect both remaining pages at enlarged/native resolution;
+- check all 13 mandatory historical-glyph families on each page;
+- use same-edition comparison where identity is uncertain;
 - make only source-supported glyph corrections;
-- never global-replace;
-- record each correction and unresolved cluster in `historical-glyph-audit.md` and `verification-log.md`;
-- update metadata, README, mapping and handover;
-- do **not** begin Gate D in the same iteration.
+- never global-replace or modernize source wording;
+- update `historical-glyph-audit.md`, metadata, README, verification log, mapping and handover;
+- if HG3 has zero unresolved clusters, close Gate C.5 as **PASS / COMPLETE — 22/22 pages**;
+- **do not begin Gate D in the same iteration**.
 
 ## Last archival-content checkpoint before this handover update
 
-`636baa0e76c8771f55d7f35f73b037c63aece21c`
+`f4b8921ff99d5451768f76220fbbaaf2409a158c`
 
-Message: `Record 1973 Council glyph audit HG1`
+Message: `Advance 1973 Council glyph audit to HG3`
 
 The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.
