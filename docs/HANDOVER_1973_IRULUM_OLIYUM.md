@@ -233,39 +233,55 @@ Final result:
 
 Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-review.md`.
 
-## Unit 2 durable starting state
+## Unit 2 durable gate state
 
 `சட்டமன்ற மேலவையில்` / 8-3-1973 / scans **41–62** / printed pp. **40–61**
 
 - Gate A — **PASS at source-package level**
 - Gate B — **PASS / LOCKED**
-- Gate C — **NOT STARTED**
-- Gate C.5 historical-glyph audit — **NOT STARTED / downstream**
+- Gate C — **IN PROGRESS**
+  - C1 scans **41–50** / printed pp. **40–49** — **COMPLETE**
+  - cumulative coverage: **10 / 22 pages**
+  - source-page markers: **41→50 exactly once and in order**
+  - C1 crop holds: **0**
+  - source-printed English on scan 50 retained verbatim
+  - next: **C2 scans 51–60 / printed pp.50–59**
+- Gate C.5 historical-glyph audit — **NOT STARTED / mandatory after Gate C**
 - Gates D–H — **NOT STARTED / downstream**
-- canonical ID mapped: `1973-03-08-financial-statement-reply`
-- no Unit-2 canonical speech folder or transcript has been started yet
+- Tamil status — **partial / not verified**
+- English — **blocked**
+- canonical folder: `speeches/1973/1973-03-08-financial-statement-reply/`
 - source closes on scan 62; scan 63 is printer/imprint and scan 64 back cover
+
+## Gate C1 source notes
+
+- scans 41–50 were visually transcribed from the controlling source;
+- no comparable gutter-edge physical crop loss was identified in the bounded C1 range;
+- illustrations on scans 43–44 did not justify inventing additional labels;
+- scan 50 includes two Punjab Electricity Board English quotations, preserved verbatim as printed;
+- historical Tamil typeforms remain intentionally **unaudited** until Gate C.5;
+- no Unit-1 file was reopened or altered.
 
 ## Exact next activity
 
-Begin **Unit 2 Gate C batch C1 — scans 41–50 / printed pp.40–49**.
+Continue **Unit 2 Gate C batch C2 — scans 51–60 / printed pp.50–59**.
 
 Requirements:
 
-- create/use canonical folder `speeches/1973/1973-03-08-financial-statement-reply/`;
-- transcribe directly from the controlling scan pixels;
-- preserve source spelling, punctuation, headings, speaker labels, numerals, embedded English and parliamentary interventions;
-- retain source-page markers and exact page order;
-- never reconstruct physically lost text from context;
-- keep uncertain historical typeforms explicit for the mandatory Gate C.5 audit;
-- use the normal **10-scan-page** iteration boundary;
-- synchronize metadata, mapping and verification log after the bounded C1 pass;
+- append complete first-pass Tamil for scans 51–60 to the existing Unit-2 `transcript.md`;
+- preserve source spelling, punctuation, headings, speaker labels, interventions, numerals, embedded English and source-page boundaries;
+- add markers **51→60** exactly once and in order;
+- never reconstruct genuinely lost text from context;
+- record any physical crop/damage or unresolved reading explicitly;
+- do not begin Gate C.5, Gate D or English in the same iteration;
 - do not modify released Unit 1.
+
+After C2, only scans **61–62 / printed pp.60–61** remain for the final short Gate-C batch C3.
 
 ## Last archival-content checkpoint before this handover update
 
-`e2ce8e49e2dc8f5c988274113df4f7cd85496a6e`
+`8838dcb27539cf1d544532df77775ea14b492e99`
 
-Message: `Release 1973 Assembly speech through Gate H`
+Message: `Transcribe 1973 Council Gate C batch C1`
 
 The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.

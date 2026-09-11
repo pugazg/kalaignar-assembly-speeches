@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate C batch C1
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate C batch C2
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,22 +8,26 @@ Fetch live `main` first and preserve newer durable work. Do not reset to a stale
 
 Last archival-content checkpoint before this handover documentation:
 
-`e2ce8e49e2dc8f5c988274113df4f7cd85496a6e`
+`8838dcb27539cf1d544532df77775ea14b492e99`
 
-Message: `Release 1973 Assembly speech through Gate H`
+Message: `Transcribe 1973 Council Gate C batch C1`
 
-Unit 1 is **fully released**. Do not reopen it absent genuinely new contrary source evidence.
+The documentation commit is newer than this content SHA; always fetch live `main` first.
+
+Unit 1 is **fully released through Gate H**. Do not reopen it absent genuinely new contrary source evidence.
 
 ## Mandatory startup reading
-
-Read completely before source-dependent work:
 
 1. `docs/ARCHIVAL_WORKFLOW.md`
 2. `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 3. `docs/HANDOVER_1973_IRULUM_OLIYUM.md`
 4. this prompt
 5. `sources/1973-irulum-oliyum/mapping.md`
-6. released Unit-1 files only as workflow precedent if needed
+6. `speeches/1973/1973-03-08-financial-statement-reply/README.md`
+7. `speeches/1973/1973-03-08-financial-statement-reply/metadata.json`
+8. `speeches/1973/1973-03-08-financial-statement-reply/source-notes.md`
+9. `speeches/1973/1973-03-08-financial-statement-reply/verification-log.md`
+10. `speeches/1973/1973-03-08-financial-statement-reply/transcript.md`
 
 ## Controlling source
 
@@ -38,53 +42,49 @@ Locked identity:
 - source pixels outrank OCR/context
 - do not commit the PDF
 
-## Locked source structure
-
-Unit 1 — **RELEASED**:
-
-- heading: `சட்டப் பேரவையில்`
-- date: **7-3-1973**
-- canonical ID: `1973-03-07-financial-statement-reply`
-- scans **4–40** / printed pp. **3–39**
-- Gates A–H **PASS / COMPLETE**
-- Tamil verified; English verified; canonical bilingual transcript released
-
-Unit 2 — **ACTIVE NEXT**:
+## Unit 2 locked range
 
 - heading: `சட்டமன்ற மேலவையில்`
 - date: **8-3-1973**
 - canonical ID: `1973-03-08-financial-statement-reply`
-- scans **41–62**
-- printed pp. **40–61**
-- scan 63 printer/imprint
-- scan 64 back cover
+- scans: **41–62**
+- printed pp.: **40–61**
+- scan 63: printer/imprint
+- scan 64: back cover
 - no third speech follows
 
-## Unit 2 durable gate state
+## Durable Unit 2 state
 
-- Gate A — **PASS at source-package level**
+- Gate A — **PASS**
 - Gate B — **PASS / LOCKED**
-- Gate C — **NOT STARTED**
-- Gate C.5 — **NOT STARTED / downstream**
-- Gates D–H — **NOT STARTED / downstream**
+- Gate C — **IN PROGRESS**
+  - C1 scans **41–50** / printed pp. **40–49** — **COMPLETE**
+  - coverage: **10/22**
+  - source-page markers **41→50** exactly once/in order
+  - C1 physical crop holds: **0**
+  - scan 50 source-printed English retained verbatim
+- Gate C.5 — **NOT STARTED / mandatory after Gate C**
+- Gates D–H — **NOT STARTED**
+- `transcription.status=partial`
+- `transcription.verified_against_scan=false`
+- English — **BLOCKED**
 
-## Exact next activity — Gate C batch C1
+## Exact next activity — Gate C batch C2
 
-Process **scans 41–50 / printed pp.40–49** as one bounded 10-scan batch.
+Process **scans 51–60 / printed pp.50–59** as one bounded 10-scan batch.
 
 Requirements:
 
-- create/use `speeches/1973/1973-03-08-financial-statement-reply/`;
-- visually transcribe each complete page once from the controlling scan;
-- preserve wording, source spelling, punctuation, headings, speaker labels, interventions, numerals and source-printed English;
-- add canonical source-page markers for **41→50** exactly once and in order;
+- visually transcribe each complete page from the controlling scan;
+- append to the existing canonical Unit-2 `transcript.md`;
+- preserve source wording, spelling, punctuation, headings, speaker labels, parliamentary interventions, numerals and source-printed English;
+- add source-page markers **51→60** exactly once and in order;
 - do not modernise Tamil;
 - do not infer missing text from context;
-- use `⟦scan-crop⟧` or an equally explicit documented hold only for genuine physical source loss;
-- because this is 1973 print, note historical-glyph uncertainties for the mandatory later Gate C.5 audit rather than globally normalising them;
-- create/update metadata, README and verification log for Unit 2;
-- update source mapping and project handover after the bounded C1 result;
-- commit immediately after the 10-page batch;
-- do **not** start Gate C.5, Gate D, English, or reopen Unit 1 in the same iteration.
+- mark genuine physical source loss explicitly;
+- note difficult historical typeforms for later Gate C.5 rather than globally replacing them;
+- update metadata, README, source-notes, verification log, source mapping and handover;
+- commit the bounded C2 result;
+- do **not** start Gate C.5, Gate D, English, or reopen Unit 1.
 
-After C1, the expected continuation is **Gate C batch C2 — scans 51–60 / printed pp.50–59**, unless the controlling scan reveals a genuine boundary/source issue.
+After C2, the expected continuation is the final short Gate-C batch **C3 — scans 61–62 / printed pp.60–61**.
