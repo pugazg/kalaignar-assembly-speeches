@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 Gate F batch F4
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 Gate G batch G1
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,9 +8,9 @@ Fetch live `main` first and preserve newer durable work. Do not reset to a stale
 
 Last archival-content checkpoint before this handover documentation:
 
-`e00b1e8229387e8b08e2da0dd1d68a0b6a0d4e29`
+`18b652727adad5879b1fad56cb9750676c42ca3d`
 
-Message: `Complete 1973 Assembly Gate F batch F3`
+Message: `Complete 1973 Assembly Gate F batch F4`
 
 The documentation commits are newer than this SHA; fetch live `main` first.
 
@@ -80,13 +80,16 @@ Unit 2:
   - cumulative Gate-E corrections: **9**
   - new unresolved Gate-E fidelity questions: **0**
 - `transcription.verified_against_scan=true`
-- Gate F English translation — **IN PROGRESS**
+- Gate F English translation — **COMPLETE**
   - F1 scans 4–13 / printed pp.3–12 — **COMPLETE**
   - F2 scans 14–23 / printed pp.13–22 — **COMPLETE**
   - F3 scans 24–33 / printed pp.23–32 — **COMPLETE**
-  - coverage: **30 / 37 pages**
-  - next: F4 scans 34–40 / printed pp.33–39 — final 7-page remainder
-- Gate G — **blocked until Gate F is complete**
+  - F4 scans 34–40 / printed pp.33–39 — **COMPLETE**
+  - coverage: **37 / 37 pages**
+  - source-page sequence: **4→40 exactly once and in order**
+- Gate G — **READY / NOT STARTED**
+  - full scope: scans 4–40 / printed pp.3–39
+  - next: G1 scans 4–13 / printed pp.3–12
 - Gate H — **not reached**
 
 ## Accepted source-layer corrections
@@ -130,34 +133,46 @@ Do not cross a gate or speech boundary merely to fill a batch.
 
 ## Durable Gate-F progress
 
-F1, F2 and F3 are complete in `translation.md` for **scans 4–33 / printed pp.3–32**.
+Gate F is **COMPLETE** in `translation.md` for the full locked Unit-1 range **scans 4–40 / printed pp.3–39**.
 
-- source-page sections **4–33** are present exactly once and in order;
-- cumulative coverage: **30 / 37 pages**;
-- inherited crop-loss markers remain explicit, including scans 25–27;
-- source-printed English on scans 25, 28 and 29 is preserved verbatim;
-- F3 ends exactly at scan p.33 and does not enter scan p.34;
-- Gate G has not started.
+- F1: scans **4–13** / printed pp. **3–12** — COMPLETE
+- F2: scans **14–23** / printed pp. **13–22** — COMPLETE
+- F3: scans **24–33** / printed pp. **23–32** — COMPLETE
+- F4: scans **34–40** / printed pp. **33–39** — COMPLETE
+- source-page sections **4–40** are present exactly once and in order;
+- cumulative coverage: **37 / 37 pages**;
+- inherited crop-loss markers remain explicit, including scans 34–35;
+- source-printed English remains verbatim;
+- F4 ends exactly at scan p.40; Unit 2 has not been entered;
+- English is **not yet verified** because Gate G has not run.
 
-## Exact next activity — Gate F batch F4
+## Gate G batch plan
 
-Translate the **verified Tamil for scans 34–40 / printed pp.33–39** into English and append those final seven source-page sections to the existing `translation.md`.
+Use the active 10-scan-page iteration policy:
 
-This is the shorter final remainder at the locked Unit-1 boundary.
+- G1 — scans **4–13** / printed pp. **3–12**
+- G2 — scans **14–23** / printed pp. **13–22**
+- G3 — scans **24–33** / printed pp. **23–32**
+- G4 — scans **34–40** / printed pp. **33–39** — final 7-page remainder
+
+Gate G must ultimately cover the entire English translation.
+
+## Exact next activity — Gate G batch G1
+
+Review **scans 4–13 / printed pp.3–12** page by page by comparing the existing English in `translation.md` against the final verified Tamil in `transcript.md`.
 
 Requirements:
 
-- translate from the verified canonical Tamil only;
-- preserve source-page alignment/provenance;
-- preserve speaker labels and intervention placement;
-- preserve repetitions, argumentative sequence, direct address, humour, irony, metaphors and rhetorical accumulation;
-- preserve names, initials, figures, dates, percentages, money/units and technical terms;
-- **preserve source-printed English verbatim** where it appears instead of retranslating or polishing it;
-- keep inherited `⟦scan-crop⟧` source-loss markers explicit and never reconstruct missing Tamil;
-- do not silently correct historical/factual claims;
-- do not normalize source quirks away;
-- stop at scan p.40 / printed p.39, the locked Unit-1 close;
-- do not begin Unit 2 or Gate G in the same iteration;
-- synchronize translation progress and commit the bounded F4 result.
+- check meaning and completeness without rewriting for generic fluency;
+- check omissions and accidental additions;
+- preserve deliberate repetition, argumentative order, humour, irony, direct address, metaphors, register shifts and parliamentary voice;
+- verify source-page boundaries and cross-page sentence continuation;
+- verify speaker/intervention placement;
+- verify names, initials, figures, dates, percentages, money, units and technical terms;
+- preserve **source-printed English verbatim**;
+- preserve inherited `⟦scan-crop⟧` source-loss markers and never reconstruct missing Tamil;
+- record every correction and any unresolved question in the Gate-G review record / verification log;
+- do not mark English verified after G1 alone;
+- do not begin Unit 2 or Gate H.
 
-After F4, Gate F should be complete for **37 / 37 Unit-1 pages**. Run Gate G only in the following iteration. Gate H follows only after English verification.
+Synchronize progress and commit the bounded G1 result. Gate H follows only after G1–G4 have completed and English is verified.
