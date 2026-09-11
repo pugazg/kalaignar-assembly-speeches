@@ -93,7 +93,7 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate C — **COMPLETE — Unit 1 scans 4–40 / printed pp.3–39**
 - Gate C.5 — **PASS / COMPLETE — HG1–HG7 scans 4–40 / printed pp.3–39; 3 cumulative corrections; 0 unresolved historical-glyph clusters**
 - Gate D — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
-- Gate E — **NEXT — Tamil source-fidelity verification**
+- Gate E — **IN PROGRESS — E1 scans 4–13 / printed pp.3–12 PASS; 0 source-fidelity corrections**
 - Gates F–H — blocked
 
 ### Gate-C source-condition notes
@@ -120,4 +120,4 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 ## Exact next activity
 
-Begin **Gate E — Tamil source-fidelity verification** on Unit 1 with **PDF scans 4–13 / printed pp.3–12** as the first **10-scan-page iteration**. Gate D is PASS / COMPLETE across scans 4–40 with 0 completeness corrections and all 37 page markers unique/monotonic. In Gate E, compare every visible word/character, names/initials, numerals/dates/percentages/money/units, embedded English, headings, speaker labels and punctuation against the scan, and check omissions/repetitions across transitions. Apply only source-supported corrections and log them. Unit 2 and English remain blocked until Gate E passes.
+Continue **Gate E — Tamil source-fidelity verification** on Unit 1 with **PDF scans 14–23 / printed pp.13–22** as the next **10-scan-page iteration**. E1 scans 4–13 passed after strict pixel comparison of words/characters, names/initials, figures, embedded English, headings, speaker labels, punctuation where legible, and transitions, with 0 new corrections and no new unresolved fidelity questions. Unit 2 and English remain blocked until Gate E passes.

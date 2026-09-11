@@ -113,5 +113,27 @@
     "downstream_gate": "E",
     "downstream_blocked": false,
     "next_gate": "E"
+  },
+  "source_fidelity_verification": {
+    "gate": "E",
+    "status": "in-progress",
+    "scope_scan_pages": "4-40",
+    "scope_printed_pages": "3-39",
+    "batch_size_pages": 10,
+    "final_batch_may_be_shorter_at_gate_boundary": true,
+    "completed_scan_pages": "4-13",
+    "completed_printed_pages": "3-12",
+    "last_batch": "E1",
+    "corrections": 0,
+    "unresolved_source_fidelity_questions": 0,
+    "names_initials_checked": true,
+    "numerals_dates_percentages_money_units_checked": true,
+    "embedded_english_checked": true,
+    "headings_speaker_labels_checked": true,
+    "punctuation_checked_where_legible": true,
+    "page_transition_omissions_repetitions_checked": true,
+    "next_scan_page": 14,
+    "downstream_gate": "F",
+    "downstream_blocked": true
   }
 }

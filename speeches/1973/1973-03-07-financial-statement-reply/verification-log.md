@@ -393,3 +393,30 @@ Completeness checks:
 - Gate E is now unblocked; `verified_against_scan` remains **false** until Gate E passes.
 
 Exact next activity: **Gate E — Tamil source-fidelity verification, scans 4–13 / printed pp.3–12**, using the 10-scan-page iteration policy.
+
+## Gate E — Tamil source-fidelity verification
+
+### Batch E1 — scan pp.4–13 / printed pp.3–12
+
+Status: **PASS for this batch / Gate E remains IN PROGRESS**
+
+Batch size: **10 scan pages**.
+
+Strict visual checks performed directly against the rendered source:
+
+- every visible Tamil word/character on scans 4–13 was re-read against the scan;
+- names and initials checked, including `மு. கருணாநிதி`, `கே. டி. கே. தங்கமணி`, `திரு ஹண்டே`, `திருமதி த. ந. அனந்தநாயகி`, `திரு செளடி சுந்தரபாரதி`, `திரு காசிராமன்`, `திரு கோபால்`, and `திரு ஜேம்ஸ்`;
+- numerals/dates/percentages/money/units checked in the visible source, including `81`, `175`, `38`, `58`, `43`, `62`, `70 சத வீதம்`, `30 சத வீதம்`, `12·45`, `10·04`, `3·86`, `8·59`, `34·69`, `38·9`, `619`, `564`, `20·16`, `24·18`, `840 இலட்சம்`, `6·56`, `4·48`, `7·50`, `3·35`, `7·5`, `194`, `465`, `271`, `29`, `96`, `54`, `46`, `89`, `95`, `225`, and `39`;
+- embedded English/source-language forms checked, including `(Centrally sponsored schemes)`, `‘Myth’`, `பட்ஜெட் டெய்ல்ஸ்`, and `நான்-டாக்ஸ் ரெவின்யூ`;
+- headings checked against the source: `சட்டப் பேரவையில்`, `திரு தங்கமணி வழக்கு`, `தீர்ப்பு என்ன?`, `நிதி ஆணைக் குழு`, `பொதுச் சுகாதாரம்`, `வேளாண்மைச் செலவு`, `விவசாய வருமான வரி`, `தொழில் அபிவிருத்தி`, `வரியில் பங்குத் தொகை`, and `சரியான கணக்கா ?`;
+- speaker labels and intervention boundaries were checked page by page;
+- p.4–5 and p.10–11 physical crop losses remain explicitly marked and were not filled from context;
+- p.5 illustration text `சட்டசபைத் தொடரின் போது (1965)` / `62` / `நாட்கள் பாளையச் சிறையில்` remains source-supported;
+- p.13 confidently readable cartoon labels `வரி`, `மத்திய அரசு`, and `ரூ. 225 கோடி` remain represented; the smaller labels are still not confidently resolvable and remain unreconstructed;
+- the historical-glyph corrections already made before Gate E were reconfirmed against the source: scan p.4 `பெறாமல்` (two occurrences) and scan p.12 `மாற்றாந்தாய்`;
+- page transitions 4→5→…→13→14 were checked for omission or repetition;
+- source-fidelity corrections in E1: **0**;
+- unresolved new source-fidelity questions in E1: **0**;
+- `verified_against_scan` remains **false** until Gate E passes across scans 4–40.
+
+Exact continuation: **Gate E scans 14–23 / printed pp.13–22**.

@@ -18,7 +18,7 @@ This entry preserves the Legislative Assembly reply dated `7-3-1973` in the sour
 - Gate C: **COMPLETE — scans 4–40 / printed pp.3–39**
 - Gate C.5: **PASS / COMPLETE — scans 4–40 / printed pp.3–39 audited; 3 cumulative glyph corrections; 0 unresolved historical-glyph clusters**
 - Gate D: **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
-- Gate E: **NEXT — Tamil source-fidelity verification**
+- Gate E: **IN PROGRESS — E1 scans 4–13 / printed pp.3–12 PASS; 0 source-fidelity corrections**
 - English Gates F–G: blocked
 - Gate H: not reached
 
@@ -30,4 +30,6 @@ Gate C.5 is now **PASS / COMPLETE for the entire Assembly range, scans 4–40 / 
 
 Gate D is now **PASS / COMPLETE for the full Assembly range, scans 4–40 / printed pp.3–39**. Final batch D4 covered the remaining **7 scans (34–40)** at the locked Assembly boundary. All 37 source-page markers from 4 through 40 are present exactly once and strictly monotonic; the final speaker/intervention sequence, headings, quoted verse, source-loss holds on scans 34–35, and the `முடிப்புரை` close on scan 40 are represented. No canonical Tamil correction was required anywhere in Gate D.
 
-Exact next activity: begin **Gate E — Tamil source-fidelity verification** with **scans 4–13 / printed pp.3–12** as the first 10-scan-page iteration. Gate E must check words/characters, names/initials, numerals/dates/percentages/money/units, embedded English, headings, speaker labels, punctuation where legible, and omissions/repetitions across page transitions.
+Gate E batch E1 is complete for **scans 4–13 / printed pp.3–12**. Every visible line in this range was re-read against the rendered source pixels, including names/initials, figures, dates, percentages, money/units, headings, speaker labels, punctuation where legible, embedded English, and page transitions. The earlier Gate-C.5 corrections `பெறாமல்` (twice on scan 4) and `மாற்றாந்தாய்` (scan 12) remain source-supported. Crop-loss markers on scans 4–5 and 10–11 remain appropriately conservative, and the smaller scan-13 cartoon labels remain unresolved rather than guessed. No new canonical correction was required in E1.
+
+Exact next activity: continue **Gate E with scans 14–23 / printed pp.13–22** as the next 10-scan-page iteration.
