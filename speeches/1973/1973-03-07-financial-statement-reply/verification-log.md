@@ -494,3 +494,23 @@ Final remainder: **7 scan pages** at the locked Assembly boundary.
 - Gate F is now unblocked; Unit 2 was not started.
 
 Exact next activity: **Gate F — English translation, scans 4–13 / printed pp.3–12**, using the verified Tamil and the 10-scan-page iteration policy.
+
+## Gate F — English translation
+
+### Batch F1 — scan pp.4–13 / printed pp.3–12
+
+Status: **COMPLETE for this batch / Gate F remains IN PROGRESS**
+
+- translated only from the final Gate-E-verified Tamil source layer;
+- English working file: `translation.md`;
+- source-page sections present exactly once and in order: **4 → 5 → 6 → 7 → 8 → 9 → 10 → 11 → 12 → 13**;
+- completed coverage: **10 / 37 Unit-1 pages**;
+- preserved speaker/intervention structure, headings, argumentative order, repetitions, figures, dates, percentages, money/units and technical terminology;
+- source-printed English in this range is carried through verbatim where present, including `(Centrally sponsored schemes)` and `‘Myth’`;
+- inherited `⟦scan-crop⟧` source-loss markers on scans 4–5 and 10–11 remain explicit; no lost Tamil wording was reconstructed for English;
+- scan p.13 illustration is represented as `Tax`, `Central Government`, `Rs. 225 crore`; the smaller source labels remain unresolved and are not reconstructed;
+- F1 ends deliberately at scan p.13, with the final sentence continuing onto scan p.14;
+- Gate-G verification has **not** started;
+- Unit 2 has **not** been entered.
+
+Exact continuation: **Gate F batch F2 — scans 14–23 / printed pp.13–22**.

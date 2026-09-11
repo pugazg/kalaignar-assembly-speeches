@@ -2,7 +2,7 @@
 
 **7-3-1973 — நிதிநிலை அறிக்கை விவாதத்திற்கான பதிலுரை**
 
-> **Archival transcription note:** This Tamil transcription follows the rendered scan of `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`. Printed wording, spelling, headings, speaker labels, numerals and printed English are retained as visible. `⟦scan-crop⟧` marks text physically lost at a cropped scan edge; it is not reconstructed. On affected pages physical line breaks are retained to localise the loss. This is a Gate-C first pass and is not yet verified.
+> **Archival transcription note:** This Tamil transcription follows the rendered scan of `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`. Printed wording, spelling, headings, speaker labels, numerals and printed English are retained as visible. `⟦scan-crop⟧` marks text physically lost at a cropped scan edge; it is not reconstructed. On affected pages physical line breaks are retained to localise the loss. Gate E has passed for scans 4–40 / printed pp.3–39, and this Tamil source layer is verified against the controlling scan.
 
 ---
 

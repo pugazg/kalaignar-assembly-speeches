@@ -94,7 +94,7 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate C.5 — **PASS / COMPLETE — HG1–HG7 scans 4–40 / printed pp.3–39; 5 cumulative corrections after retrospective Gate-E reconciliation; 0 unresolved historical-glyph clusters**
 - Gate D — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 9 cumulative source-fidelity corrections; 0 unresolved Gate-E fidelity questions**
-- Gate F — **NEXT / NOT STARTED**
+- Gate F — **IN PROGRESS — F1 scans 4–13 / printed pp.3–12 complete; 10/37 pages**
 - Gates G–H — blocked
 
 ### Gate-C source-condition notes
@@ -120,6 +120,14 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate E E4 scans 34–40 passed with 4 corrections: scan 36 `பத்துப் பாயிண்டுகளே வைத்துக்கொண்டு` → `பத்துப் பாயிண்டுகளை வைத்துக்கொண்டு`; scan 39 `பொது வாழ்வில் எப்படி இருக்கவேண்டும்` → `பொது வாழ்வில் எப்படி யிருக்கவேண்டும்`; scan 40 `வன்கண் நாதா` → `வன்கண நாதா`; scan 40 `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்`; cumulative Gate-E corrections: 9;
 - `verified_against_scan` is now true for the complete Assembly speech, scans 4–40 / printed pp.3–39.
 
+## Gate F progress
+
+- F1 — **COMPLETE** — scans **4–13** / printed pp. **3–12** — 10 pages
+- English working file: `speeches/1973/1973-03-07-financial-statement-reply/translation.md`
+- source-loss markers inherited from verified Tamil are retained and not reconstructed;
+- source-page sequence in F1: **4→13**, exactly once each;
+- Gate G remains blocked until all 37 Unit-1 pages have a complete Gate-F translation.
+
 ## Exact next activity
 
-Begin **Gate F — English translation** on Unit 1 with **PDF scans 4–13 / printed pp.3–12** as the first **10-scan-page iteration**. Gate E is PASS / COMPLETE across scans 4–40 with 9 cumulative source-fidelity corrections and `transcription.verified_against_scan=true`. Translate only from the verified Tamil, preserve source-printed English verbatim, retain speaker/intervention structure and rhetorical repetition, and do not begin Unit 2 in the same iteration.
+Continue **Gate F batch F2** on Unit 1 with **PDF scans 14–23 / printed pp.13–22** as the next **10-scan-page iteration**. Translate only from the verified Tamil, preserve source-printed English verbatim, retain speaker/intervention structure and rhetorical repetition, and do not begin Unit 2.

@@ -16,10 +16,11 @@ This entry preserves the Legislative Assembly reply dated `7-3-1973` in the sour
 - Gate A: **PASS** at source-package level
 - Gate B: **PASS / LOCKED**
 - Gate C: **COMPLETE — scans 4–40 / printed pp.3–39**
-- Gate C.5: **PASS / COMPLETE — scans 4–40 / printed pp.3–39 audited; 3 cumulative glyph corrections; 0 unresolved historical-glyph clusters**
+- Gate C.5: **PASS / COMPLETE — scans 4–40 / printed pp.3–39 audited; 5 cumulative glyph corrections; 0 unresolved historical-glyph clusters**
 - Gate D: **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
-- Gate E: **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 7 cumulative source-fidelity corrections; 0 unresolved Gate-E fidelity questions**
-- English Gates F–G: blocked
+- Gate E: **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 9 cumulative source-fidelity corrections; 0 unresolved Gate-E fidelity questions**
+- Gate F English translation: **IN PROGRESS — F1 scans 4–13 / printed pp.3–12 complete; 10/37 pages**
+- Gate G English fidelity/voice review: **blocked until Gate F is complete**
 - Gate H: not reached
 
 The controlling scan has gutter-edge loss on scans 4–5, 10–11, 20–21, 25–27 and 34–35. Missing text is marked `⟦scan-crop⟧` and is not reconstructed. Scan p.13 also contains small cartoon labels that remain explicitly unresolved where the scan does not support a confident reading. Scans 14–19, 22–24, 28–33 and 36–40 introduce no comparable crop loss; printed English passages are preserved in the Tamil source layer as printed. Printed illustration/cartoon labels are represented only where the scan supports a confident reading.
@@ -32,4 +33,6 @@ Gate D is now **PASS / COMPLETE for the full Assembly range, scans 4–40 / prin
 
 Gate E is now **PASS / COMPLETE for the full Assembly range, scans 4–40 / printed pp.3–39**. Final batch E4 covered the remaining **7 scans (34–40)** at the locked Assembly boundary. E4 made four source-supported corrections: scan 36 `பத்துப் பாயிண்டுகளே வைத்துக்கொண்டு` → `பத்துப் பாயிண்டுகளை வைத்துக்கொண்டு`; scan 39 `பொது வாழ்வில் எப்படி இருக்கவேண்டும்` → `பொது வாழ்வில் எப்படி யிருக்கவேண்டும்`; and on scan 40 verse `வன்கண் நாதா` → `வன்கண நாதா`, plus closing paragraph `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்`. Cumulative Gate-E corrections: **9**; new unresolved Gate-E fidelity questions: **0**. `transcription.verified_against_scan=true` remains set. Known physical crop losses remain explicitly marked and unreconstructed, and the smaller scan-13 cartoon labels remain intentionally unresolved because the source pixels are insufficient.
 
-Exact next activity: begin **Gate F — English translation** from the verified Tamil with **scans 4–13 / printed pp.3–12** as the first 10-scan-page iteration. Do not begin Unit 2 in the same iteration.
+Gate F batch F1 is now complete in `translation.md` for **scans 4–13 / printed pp.3–12 (10/37 pages)**. Source-page alignment is preserved, inherited `⟦scan-crop⟧` source-loss markers remain unreconstructed, and source-printed English is preserved verbatim where encountered.
+
+Exact next activity: continue **Gate F batch F2 with scans 14–23 / printed pp.13–22**. Do not begin Gate G or Unit 2.
