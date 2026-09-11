@@ -21,7 +21,7 @@ This entry preserves the Legislative Assembly reply dated `7-3-1973` in the sour
 - Gate E: **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 9 cumulative source-fidelity corrections; 0 unresolved Gate-E fidelity questions**
 - Gate F English translation: **COMPLETE — F1–F4 scans 4–40 / printed pp.3–39; 37/37 pages**
 - Gate G English fidelity/voice review: **PASS / COMPLETE — G1–G4 scans 4–40 / printed pp.3–39; 37/37 pages reviewed; 15 corrections; 0 unresolved; English verified**
-- Gate H: **READY / NOT STARTED**
+- Gate H: **PASS / COMPLETE — canonical bilingual merge, indexing and release complete**
 
 The controlling scan has gutter-edge loss on scans 4–5, 10–11, 20–21, 25–27 and 34–35. Missing text is marked `⟦scan-crop⟧` and is not reconstructed. Scan p.13 also contains small cartoon labels that remain explicitly unresolved where the scan does not support a confident reading. Scans 14–19, 22–24, 28–33 and 36–40 introduce no comparable crop loss; printed English passages are preserved in the Tamil source layer as printed. Printed illustration/cartoon labels are represented only where the scan supports a confident reading.
 
@@ -33,8 +33,19 @@ Gate D is now **PASS / COMPLETE for the full Assembly range, scans 4–40 / prin
 
 Gate E is now **PASS / COMPLETE for the full Assembly range, scans 4–40 / printed pp.3–39**. Final batch E4 covered the remaining **7 scans (34–40)** at the locked Assembly boundary. E4 made four source-supported corrections: scan 36 `பத்துப் பாயிண்டுகளே வைத்துக்கொண்டு` → `பத்துப் பாயிண்டுகளை வைத்துக்கொண்டு`; scan 39 `பொது வாழ்வில் எப்படி இருக்கவேண்டும்` → `பொது வாழ்வில் எப்படி யிருக்கவேண்டும்`; and on scan 40 verse `வன்கண் நாதா` → `வன்கண நாதா`, plus closing paragraph `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்`. Cumulative Gate-E corrections: **9**; new unresolved Gate-E fidelity questions: **0**. `transcription.verified_against_scan=true` remains set. Known physical crop losses remain explicitly marked and unreconstructed, and the smaller scan-13 cartoon labels remain intentionally unresolved because the source pixels are insufficient.
 
-Gate F batches F1–F4 are now complete in `translation.md` for **scans 4–40 / printed pp.3–39 (37/37 pages)**. F4 preserves the inherited `⟦scan-crop⟧` source-loss markers on scans 34–35, stops exactly at the locked Unit-1 end on scan p.40, and does not enter Unit 2.
+Gate F completed the English working translation for **scans 4–40 / printed pp.3–39 (37/37 pages)**. After Gate G verification and Gate H release, the authoritative English now follows the verified Tamil in canonical `transcript.md`; `translation.md` is a retired pointer only.
 
 Gate G is now **PASS / COMPLETE for all 37 Unit-1 pages**. G4 reviewed scans **34–40 / printed pp.33–39** and applied four definite corrections: scan 36 removes administrative normalization of `தாழ்த்தப்பட்ட மக்கள்`; the scan 37→38 Subbu intervention is restored to the correct source-page boundary; scan 38 removes an unsupported extra category from the book/party sentence; and the `ஆரிய மாயை` verse is restored to the correct scan 39→40 boundary. Cumulative Gate-G corrections: **15**; unresolved fidelity issues: **0**; `verified_against_tamil=true`.
 
-Exact next activity: **Gate H — canonical merge, index and release for Unit 1**. Merge the complete Gate-G-verified English after the untouched verified Tamil in canonical `transcript.md`, validate both language layers cover scans 4–40 exactly once/in order, reconcile metadata/index/release files, and retire the working translation copy according to repository convention. Do not begin Unit 2 in the same iteration.
+Gate H is **PASS / COMPLETE**. The verified Tamil remained unchanged at the start of canonical `transcript.md`; the complete verified English was appended after it. Tamil markers and English source-page sections each cover **4→40 exactly once and in order**. The working `translation.md` has been retired to a pointer, and the speech is indexed and **released**.
+
+## Files
+
+- [`transcript.md`](./transcript.md) — canonical verified Tamil followed by canonical verified English.
+- [`metadata.json`](./metadata.json) — source, gate, translation and release state.
+- [`source-notes.md`](./source-notes.md) — source authority and source-condition notes.
+- [`verification-log.md`](./verification-log.md) — Tamil and English gate audit trail.
+- [`translation-review.md`](./translation-review.md) — Gate-G fidelity/voice review.
+- [`translation.md`](./translation.md) — retired pointer to canonical English in `transcript.md`.
+
+Exact next source activity: begin **Unit 2 — `சட்டமன்ற மேலவையில்` / 8-3-1973**, with Gate C batch C1 on **scans 41–50 / printed pp.40–49**. Gate A/B source mapping is already locked. Do not reopen released Unit 1 without genuinely new contrary source evidence.

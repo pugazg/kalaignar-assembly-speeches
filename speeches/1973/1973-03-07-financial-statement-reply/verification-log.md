@@ -707,3 +707,23 @@ G4 unresolved Gate-G fidelity issues: **0**.
 - Gate H: **ready / not started**
 
 Exact continuation: **Gate H — canonical merge, index and release for Unit 1**. Do not begin Unit 2 in the same iteration.
+
+## Gate H — canonical merge, index and release
+
+Status: **PASS / RELEASED**
+
+- preserved the verified Tamil source layer in `transcript.md` unchanged;
+- appended the complete Gate-G-verified English after the Tamil;
+- Tamil source markers: **4→40 exactly once and in order — PASS**;
+- English source-page sections: **4→40 exactly once and in order — PASS**;
+- verified both language layers contain **37/37** mapped Unit-1 pages;
+- rechecked Gate-G page-boundary corrections at **5→6**, **37→38** and **39→40** after merge — PASS;
+- inspected the Tamil→English merge transition and page transitions for mechanical duplication/omission — PASS;
+- `metadata.json`, work README, `data/speeches.json` and root README/index were synchronized;
+- `translation.md` was retired to a pointer only after the canonical bilingual transcript passed integrity checks;
+- Unit 1 release status: **RELEASED**;
+- Unit 2 was **not** started during Gate H.
+
+Gate H correction count: **0 new language corrections**.
+
+Exact continuation: **Unit 2 / `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate C batch C1, scans 41–50 / printed pp.40–49**.

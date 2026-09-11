@@ -102,12 +102,23 @@
     "verified_source_pages": "4-40",
     "verified_printed_pages": "3-39",
     "verified_page_count": 37,
-    "gate_h_status": "ready-not-started",
-    "completion_note": "Gate F translated all 37 verified Tamil source-page sections. Gate G re-read scans 4-40 / printed pp.3-39 against the final verified Tamil in four bounded batches, applied 15 definite fidelity corrections, resolved 0 outstanding questions, and verified the English. Gate H canonical merge/index/release has not yet started."
+    "gate_h_status": "passed",
+    "completion_note": "Gate F translated all 37 verified Tamil source-page sections. Gate G re-read scans 4-40 / printed pp.3-39 against the final verified Tamil in four bounded batches, applied 15 definite fidelity corrections and resolved 0 outstanding questions. Gate H merged the complete verified English after the unchanged verified Tamil in canonical transcript.md, validated exact page correspondence, updated indexes, and retired the working translation copy.",
+    "placement": "verified English follows the verified Tamil in canonical transcript.md",
+    "working_file_status": "retired pointer to canonical transcript after Gate H",
+    "gate_h_preparation_complete": true,
+    "gate_h_canonical_merge_complete": true,
+    "gate_h_indexed": true,
+    "gate_h_release_ready": true,
+    "gate_h_integrity_note": "Gate H preserved the verified Tamil source layer unchanged, appended the complete Gate-G-verified English after it, validated Tamil markers and English source-page sections 4-40 exactly once and in order, rechecked critical Gate-G page boundaries including 5→6, 37→38 and 39→40, updated repository indexes, and retired translation.md to a pointer."
   },
   "release": {
-    "status": "not-released",
-    "gate_h_passed": false
+    "status": "released",
+    "gate_h_status": "passed",
+    "gate_h_passed": true,
+    "canonical_transcript_contains_verified_tamil_and_english": true,
+    "indexed": true,
+    "release_ready": true
   },
   "historical_glyph_audit": {
     "gate": "C.5",

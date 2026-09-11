@@ -38,6 +38,25 @@
     "translation_status": "verified"
   },
   {
+    "id": "1973-03-07-financial-statement-reply",
+    "date": "1973-03-07",
+    "year": 1973,
+    "speaker_ta": "மு. கருணாநிதி",
+    "speaker_en": "M. Karunanidhi",
+    "title_ta": "இருளும் ஒளியும் — சட்டப் பேரவையில்",
+    "title_en": "Irulum Oliyum — In the Legislative Assembly",
+    "event_ta": "நிதிநிலை அறிக்கை விவாதத்திற்கான பதிலுரை",
+    "event_en": "Reply to the debate on the financial statement",
+    "path": "speeches/1973/1973-03-07-financial-statement-reply",
+    "languages": [
+      "ta",
+      "en"
+    ],
+    "transcription_status": "verified",
+    "verified_against_scan": true,
+    "translation_status": "verified"
+  },
+  {
     "id": "1981-04-16-industries-debate",
     "date": "1981-04-16",
     "year": 1981,

@@ -316,3 +316,22 @@ Gate F had placed those four scan-40 lines under English source page 39. Gate G 
 - English status: **verified**
 
 The next repository activity is **Gate H — canonical merge, index and release for Unit 1**. The verified Tamil must remain untouched at the start of canonical `transcript.md`; the complete verified English must then be consolidated after it and the merged markers/index/release state validated before release.
+
+## Gate H canonicalisation
+
+Status: **PASS / RELEASED**
+
+The complete Gate-G-verified English for source pages **4–40** has been consolidated after the unchanged verified Tamil in canonical `transcript.md`.
+
+Integrity checks:
+
+- Tamil page markers **4→40** exactly once/in order — PASS;
+- English source-page sections **4→40** exactly once/in order — PASS;
+- Gate-G correction boundaries **5→6**, **37→38**, **39→40** — PASS after merge;
+- unresolved English fidelity issues — **0**;
+- canonical English remains the verified Gate-G payload;
+- `translation.md` is now a retired pointer to avoid duplicate editable release copies.
+
+Gate H made **0 new English language corrections**.
+
+Unit 1 is **released**. The next source activity is Unit 2 Gate C.
