@@ -18,7 +18,7 @@ This entry preserves the Legislative Assembly reply dated `7-3-1973` in the sour
 - Gate C: **COMPLETE — scans 4–40 / printed pp.3–39**
 - Gate C.5: **PASS / COMPLETE — scans 4–40 / printed pp.3–39 audited; 3 cumulative glyph corrections; 0 unresolved historical-glyph clusters**
 - Gate D: **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
-- Gate E: **IN PROGRESS — E1 scans 4–13 / printed pp.3–12 PASS; 0 source-fidelity corrections**
+- Gate E: **IN PROGRESS — E1–E2 scans 4–23 / printed pp.3–22 PASS; 2 cumulative source-fidelity corrections**
 - English Gates F–G: blocked
 - Gate H: not reached
 
@@ -30,6 +30,6 @@ Gate C.5 is now **PASS / COMPLETE for the entire Assembly range, scans 4–40 / 
 
 Gate D is now **PASS / COMPLETE for the full Assembly range, scans 4–40 / printed pp.3–39**. Final batch D4 covered the remaining **7 scans (34–40)** at the locked Assembly boundary. All 37 source-page markers from 4 through 40 are present exactly once and strictly monotonic; the final speaker/intervention sequence, headings, quoted verse, source-loss holds on scans 34–35, and the `முடிப்புரை` close on scan 40 are represented. No canonical Tamil correction was required anywhere in Gate D.
 
-Gate E batch E1 is complete for **scans 4–13 / printed pp.3–12**. Every visible line in this range was re-read against the rendered source pixels, including names/initials, figures, dates, percentages, money/units, headings, speaker labels, punctuation where legible, embedded English, and page transitions. The earlier Gate-C.5 corrections `பெறாமல்` (twice on scan 4) and `மாற்றாந்தாய்` (scan 12) remain source-supported. Crop-loss markers on scans 4–5 and 10–11 remain appropriately conservative, and the smaller scan-13 cartoon labels remain unresolved rather than guessed. No new canonical correction was required in E1.
+Gate E batches E1–E2 are complete through **scans 4–23 / printed pp.3–22**. E2 made two source-supported corrections after strict pixel comparison: scan 14 / printed p.13 `மதிப்புக்குரிய முதலமைச்சர் அவர்கள்` → `மதிப்புக்குரிய முதலமைச்சரவர்கள்`, preserving the printed compound form; and scan 21 / printed p.20 illustration label `வரிசலுகை` → `வரி ஏய்ப்பு`. Printed English on scans 15–17, crop holds on scans 20–21, headings, speaker labels, figures and page transitions were rechecked. No new unresolved source-fidelity question remains in E2.
 
-Exact next activity: continue **Gate E with scans 14–23 / printed pp.13–22** as the next 10-scan-page iteration.
+Exact next activity: continue **Gate E with scans 24–33 / printed pp.23–32** as the next 10-scan-page iteration.
