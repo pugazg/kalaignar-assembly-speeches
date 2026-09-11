@@ -27,7 +27,7 @@ Source pixels are controlling; same-edition comparison is used when uncertain; g
 | Scan range | Printed pages | Status | Glyph corrections | Unresolved clusters |
 |---|---|---|---:|---:|
 | 41–50 | 40–49 | **PASS — HG1** | **1** | **0** |
-| 51–60 | 50–59 | **PASS — HG2** | **0** | **0** |
+| 51–60 | 50–59 | **PASS — HG2** | **1** | **0** |
 | 61–62 | 60–61 | NEXT — HG3 / FINAL | — | — |
 
 ## Correction ledger
@@ -35,6 +35,7 @@ Source pixels are controlling; same-edition comparison is used when uncertain; g
 | Scan | Printed page | Earlier/apparent reading | Source-supported reading | Historical family | Evidence | Status |
 |---:|:---:|---|---|---|---|---|
 | 44 | 43 | `வழக்கத்திற்கு மாறுக நடனம்` | `வழக்கத்திற்கு மாறாக நடனம்` | `றா` | enlarged source pixels; same-edition comparison with clear `றா` forms including Unit-1 `மாறாக` precedent | corrected |
+| 58 | 57 | `அப்போது நடந்த வேலதான் மிகுந்த சங்கடமானது` | `அப்போது நடந்த வேலைதான் மிகுந்த சங்கடமானது` | `லை` | enlarged source pixels; complete historical `லை` form is visibly printed in `வேலைதான்` | corrected |
 
 ## HG1 page-level coverage
 
@@ -75,7 +76,7 @@ Families without a positive occurrence requiring action were still explicitly ch
 | 55 | 54 | YES | `அண்ணா` (`ணா`), `மாநில` (`னா`), neighboring `லை` forms checked | 0 | 0 |
 | 56 | 55 | YES | `நாலு` (`னா`), `அண்ணா` (`ணா`), neighboring old-type clusters checked | 0 | 0 |
 | 57 | 56 | YES | `நாராயணசாமி` (`னா`), `அவைகளைக்` (`ளை`) | 0 | 0 |
-| 58 | 57 | YES | `மனை` / `சென்னை` (`னை`), `நிலத்தை` (`லை`), `நிச்சயமாக` (`னா`) | 0 | 0 |
+| 58 | 57 | YES | `வேலைதான்` / `நிலத்தை` (`லை`), `மனை` / `சென்னை` (`னை`), `நிச்சயமாக` (`னா`) | **1** | 0 |
 | 59 | 58 | YES | `தன்னைச்` (`னை`), `நிலம்` (`லை`), `தவறான` (`றா`) | 0 | 0 |
 | 60 | 59 | YES | `நாணயம்` (`ணா`), `சூழ்நிலையை` (`ளை`), `நாங்களும்` (`னா`) | 0 | 0 |
 
@@ -86,8 +87,8 @@ Families without a positive occurrence requiring action were still explicitly ch
 - audited scans: **51–60**
 - audited printed pages: **50–59**
 - pages audited in HG2: **10**
-- HG2 historical-glyph corrections: **0**
-- cumulative Gate-C.5 corrections: **1**
+- HG2 historical-glyph corrections: **1**
+- cumulative Gate-C.5 corrections: **2**
 - unresolved glyph clusters: **0**
 - global replacements: **0**
 - Gate C remains complete
