@@ -81,13 +81,13 @@
     "source_pixels_authoritative": true,
     "same_edition_comparison_required_when_uncertain": true,
     "global_replace_forbidden": true,
-    "corrections": 2,
+    "corrections": 3,
     "unresolved_clusters": 0,
     "downstream_gate": "D",
     "downstream_blocked": true,
-    "completed_scan_pages": "4-8",
-    "completed_printed_pages": "3-7",
-    "last_batch": "HG1",
-    "next_scan_page": 9
+    "completed_scan_pages": "4-13",
+    "completed_printed_pages": "3-12",
+    "last_batch": "HG2",
+    "next_scan_page": 14
   }
 }
