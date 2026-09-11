@@ -465,3 +465,30 @@ Batch size: **10 scan pages**.
 - `verified_against_scan` remains **false** until Gate E passes scans 4–40.
 
 Exact continuation: **Gate E scans 34–40 / printed pp.33–39** — final 7-scan remainder at the locked Assembly boundary.
+
+### Batch E4 — scan pp.34–40 / printed pp.33–39
+
+Status: **PASS / Gate E COMPLETE**
+
+Final remainder: **7 scan pages** at the locked Assembly boundary.
+
+- all visible source text on scans 34–40 was re-read directly against rendered source pixels;
+- names/initials, figures, headings, speaker labels, punctuation where legible, quoted material and page transitions were checked;
+- scan p.34 street-light / cinema / coal-supply discussion and all visible interventions were checked; the 5 right-gutter crop holds remain explicit and unreconstructed;
+- scan p.35 `குடியிருப்பு மனைப்பட்டா`, dates `27-2-1972`, `15-6-1972`, `14-9-1972`, `28-2-1973`, figures `6,764`, `26,150`, `1,15,227`, `1,48,000`, `8,700`, and the 36 left-gutter crop holds were checked;
+- scan p.36 headings `ஒன்பது அறிவிப்புகள்` / `கேரளத்தைப் பார்ப்போம்` and the Tamil Nadu / Kerala exemption comparison were checked;
+- scan p.37 figures/dates `1—3—72`, `1—7—59`, `40`, `20`, `10`, `25`, `5`, the Subbu intervention, and `லேண்ட் ரிஃபார்ம் ஆக்ட்ஸ் 1969` / `1970-ஆம் ஆண்டு ஜனவரி 1-ஆம் தேதி` were checked;
+- scan p.38 the `குன்றின் மேலிட்ட விளக்கு` discussion and Anna quotation were checked line by line;
+- scan p.39 the Manali Kandasami / Karunanidhi exchange and first four `ஆரிய மாயை` verse lines were checked;
+- scan p.40 the remaining verse, `ஆரிய மாயை` attribution, `முடிப்புரை`, and closing paragraph were checked line by line;
+- scan p.40 correction: `வன்கண் நாதா போற்றி !` → `வன்கண நாதா போற்றி !`;
+- scan p.40 correction: `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்`;
+- no other source-fidelity correction was required in E4;
+- source-fidelity corrections in E4: **2**; cumulative Gate E corrections: **7**;
+- new unresolved source-fidelity questions in E4: **0**;
+- known physical crop loss remains explicitly marked; smaller scan-p.13 cartoon labels remain intentionally unresolved due source-pixel insufficiency;
+- **Gate E result: PASS / COMPLETE — scans 4–40 / printed pp.3–39**;
+- `transcription.verified_against_scan=true`;
+- Gate F is now unblocked; Unit 2 was not started.
+
+Exact next activity: **Gate F — English translation, scans 4–13 / printed pp.3–12**, using the verified Tamil and the 10-scan-page iteration policy.
