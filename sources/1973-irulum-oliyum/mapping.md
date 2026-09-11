@@ -132,20 +132,20 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - source-printed English on earlier Gate-F pages is carried through verbatim;
 - source-page sequence in Gate F is **4→40**, exactly once each;
 - Gate F is complete at the locked Unit-1 boundary; Unit 2 has not been entered.
-- Gate G is **IN PROGRESS**.
+- Gate G is **PASS / COMPLETE**.
 - G1 — **PASS** — scans **4–13** / printed pp. **3–12** — 10 pages
 - G2 — **PASS** — scans **14–23** / printed pp. **13–22** — 10 pages
 - G3 — **PASS** — scans **24–33** / printed pp. **23–32** — 10 pages
-- cumulative Gate-G coverage: **30 / 37 pages**
-- cumulative Gate-G corrections: **11**
+- G4 — **PASS** — scans **34–40** / printed pp. **33–39** — 7 pages
+- cumulative Gate-G coverage: **37 / 37 pages**
+- cumulative Gate-G corrections: **15**
 - unresolved English fidelity issues: **0**
+- English `verified_against_tamil=true`
 
-## Gate G progress
+## Gate G result
 
-G1–G3 have re-read the English for scans **4–33** against the final verified Tamil, page by page.
-
-G3 added five definite corrections: p.24 corrected the accusation from `failed to increase generation` to `not producing electricity`; p.27 removed the unsupported reconstruction `Cuddalore` from crop-damaged text; p.28 removed an editorial hedge from the `போனால் போகட்டும்` aside; p.29 restored singular `the strike` in the illustration caption; and p.31 corrected the duration of the farmers' discussion. Source-printed English on scans 25, 28 and 29 remains verbatim. Crop-loss markers on scans 25–27 remain explicit and unreconstructed.
+The complete English translation for scans **4–40 / printed pp.3–39** has been re-read against the final verified Tamil. G4 corrected four final fidelity issues: the scan-36 social-category normalization, the scan 37→38 Subbu page-boundary displacement, an unsupported extra category in the scan-38 book/party sentence, and the scan 39→40 verse-boundary displacement. Known crop holds remain explicit and no lost text was reconstructed.
 
 ## Exact next activity
 
-Complete **Gate G batch G4 — scans 34–40 / printed pp.33–39**, the final 7-page remainder. Check meaning, omissions, repetitions, page boundaries, speaker/intervention placement, figures, source markers, quotations, verse and preservation of Kalaignar's voice. Record only source-supported corrections. If G4 passes with no unresolved issue, mark English verified for all 37 Unit-1 pages. Do not begin Unit 2 or Gate H in the same iteration.
+Run **Gate H — canonical merge, index and release for Unit 1**. Keep the verified Tamil untouched at the start of canonical `transcript.md`; append/consolidate the complete Gate-G-verified English after it; verify Tamil markers and English source-page sections cover **4→40 exactly once and in order**; recheck all Gate-G correction boundaries after merge; update metadata, README, verification/review records, `data/speeches.json`, root index/README and source handover; then retire the working translation copy according to repository convention. Do not begin Unit 2 in the same iteration.

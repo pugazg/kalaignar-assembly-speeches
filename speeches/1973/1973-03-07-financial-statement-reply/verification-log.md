@@ -667,3 +667,43 @@ Cumulative Gate-G corrections: **11**.
 English `verified_against_tamil`: **false**.
 
 Exact continuation: **Gate G batch G4 — scans 34–40 / printed pp.33–39**, the final 7-page remainder. Do not begin Unit 2 or Gate H in the same iteration.
+
+### Batch G4 — scan pp.34–40 / printed pp.33–39
+
+Status: **PASS / Gate G COMPLETE**
+
+Review basis: the final seven English source-page sections were compared page by page only against the final Gate-E-verified Tamil. Known crop loss on scans 34–35 remained explicit and unreconstructed.
+
+Coverage and checks:
+
+- reviewed source pages **34→40**, exactly seven pages;
+- checked the one-show restriction, coal-shipping passage, exhibition/licence exchange, house-site-patta figures, nine-announcement / ten-point exchange, Kerala land-reform comparison, Thiru Subbu intervention, `குன்றின் மேலிட்ட விளக்கு` quotation, party exchanges, `ஆரிய மாயை` verse and the `முடிப்புரை` close;
+- verified the locked Unit-1 close at scan p.40 / printed p.39;
+- no Unit-2 text was entered.
+
+Definite Gate-G corrections in G4: **4**
+
+1. **scan p.36** — Gate F normalized `தாழ்த்தப்பட்ட மக்கள்` to `Scheduled communities`. Gate G restores source-close social language: **`oppressed people`**, paired with `backward people` for `பிற்படுத்தப்பட்ட மக்கள்`.
+
+2. **scan p.37 → p.38** — Gate F had placed the opening continuation of Thiru Subbu's intervention (`இருந்தாலும் அவனுக்குச் சொந்தம் உண்டு ... நீங்கள் அதைச் சொல்லவில்லை`) under source page 37. Gate G restores the physical page boundary: page 37 now ends at `கோயில் நிலமாக—`, and page 38 begins with the continuation.
+
+3. **scan p.38** — Gate F added `author` to the opening category list `எந்தப் புத்தகமானாலும், ஒரு கட்சியை யானாலும்`. Gate G removes that unsupported addition. The later source list `ஆசிரியர் ... தலைவர் ... எழுத்தாளர் ... கட்சியை யாளர்` remains represented.
+
+4. **scan p.39 → p.40** — Gate F had moved the first four verse lines printed at the top of scan 40 (`வஞ்சக வேந்தே` through `கோழையே`) into source page 39. Gate G restores the physical verse boundary exactly.
+
+G4 unresolved Gate-G fidelity issues: **0**.
+
+## Gate G final result
+
+- reviewed source range: **4–40**
+- reviewed printed range: **3–39**
+- reviewed pages: **37/37**
+- cumulative definite English fidelity corrections: **15**
+- unresolved translation/fidelity questions: **0**
+- `verified_against_tamil`: **true**
+- English status: **verified**
+- Gate G: **PASSED**
+- Unit 2: **not started**
+- Gate H: **ready / not started**
+
+Exact continuation: **Gate H — canonical merge, index and release for Unit 1**. Do not begin Unit 2 in the same iteration.

@@ -235,3 +235,84 @@ The source gives a duration, not an end clock time.
 - Gate G: **IN PROGRESS**
 
 Exact next activity: **G4 — scans 34–40 / printed pp.33–39**, the final 7-page remainder.
+
+## G4 — scans 34–40 / printed pp.33–39
+
+Status: **PASS**
+
+Reviewed pages in batch: **7**  
+Cumulative reviewed pages: **37 / 37**  
+Definite corrections in this batch: **4**  
+Cumulative definite corrections: **15**  
+Unresolved fidelity issues: **0**
+
+### Correction 12 — scan p.36: avoid administrative normalization
+
+Gate F rendered `தாழ்த்தப்பட்ட மக்கள்` as `Scheduled communities`. That substitutes a modern/administrative category label for the source's own language.
+
+Gate G uses:
+`oppressed people`
+
+The adjacent `பிற்படுத்தப்பட்ட மக்கள்` is retained as `backward people`.
+
+### Correction 13 — scans p.37→38: restore Thiru Subbu's physical page boundary
+
+Gate F placed the continuation beginning with the page-38 Tamil `இருந்தாலும் அவனுக்குச் சொந்தம் உண்டு` under English source page 37.
+
+Gate G now ends source page 37 at:
+`Even if it is temple land—`
+
+and starts source page 38:
+`—even then, he has ownership of it. But under those exemptions ...`
+
+This restores exact source-page correspondence without changing the intervention's meaning.
+
+### Correction 14 — scan p.38: remove an unsupported opening category
+
+Gate F:
+`Whatever the book, party, or author`
+
+Verified Tamil:
+`எந்தப் புத்தகமானாலும், ஒரு கட்சியை யானாலும்`
+
+Gate G:
+`Whatever the book or the party`
+
+The later source list of author / leader / writer / party person remains intact where it actually occurs.
+
+### Correction 15 — scans p.39→40: restore the `ஆரிய மாயை` verse boundary
+
+The verified Tamil prints only the first four verse lines on scan 39. Scan 40 begins with:
+
+- `வஞ்சக வேந்தே போற்றி !`
+- `வன்கண நாதா போற்றி !`
+- `கொடுமைக் குணாளா போற்றி !`
+- `கோழையே போற்றி, போற்றி !`
+
+Gate F had placed those four scan-40 lines under English source page 39. Gate G moves them to source page 40, preserving the exact physical boundary.
+
+## G4 source-sensitive items reconfirmed
+
+- crop holds on scans 34–35 remain explicit and unreconstructed;
+- street-light / cinema-show restrictions and the 21,000-ton monthly coal figure were rechecked;
+- the house-site-patta dates and figures were rechecked without filling crop-lost digits from context;
+- the nine-announcement / ten-point exchange remains source-faithful;
+- Kerala/Tamil Nadu ceiling-law exemptions and standard-acre figures were rechecked;
+- Thiru Subbu's intervention now follows the correct scan 37→38 boundary;
+- the `குன்றின் மேலிட்ட விளக்கு` quotation and Manali/Karunanidhi exchange remain intact;
+- the complete `ஆரிய மாயை` verse now follows the correct scan 39→40 boundary;
+- the `முடிப்புரை` closes exactly at scan 40 / printed p.39;
+- no Unit-2 text is present.
+
+## Gate G final result
+
+- reviewed source range: **4–40**
+- reviewed printed range: **3–39**
+- reviewed pages: **37/37**
+- cumulative definite English fidelity corrections: **15**
+- unresolved translation/fidelity questions: **0**
+- `verified_against_tamil`: **true**
+- Gate G: **PASSED**
+- English status: **verified**
+
+The next repository activity is **Gate H — canonical merge, index and release for Unit 1**. The verified Tamil must remain untouched at the start of canonical `transcript.md`; the complete verified English must then be consolidated after it and the merged markers/index/release state validated before release.

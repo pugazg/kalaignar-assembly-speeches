@@ -523,7 +523,7 @@ Of these,
 
 ## Nine announcements
 
-Nine announcements, including one concerning the Tenants Act, have been made in this House on behalf of the Government. They have been made as a sign of the ways in which this Government is carrying out its work for the Scheduled communities, the backward communities, and the poor and humble; and as a sign of the Government's firm faith in the principles of common ownership and socialism.
+Nine announcements, including one concerning the Tenants Act, have been made in this House on behalf of the Government. They have been made as a sign of the ways in which this Government is carrying out its work for the oppressed people, the backward people, and the poor and humble; and as a sign of the Government's firm faith in the principles of common ownership and socialism.
 
 When my friend Hande spoke this morning, he said, “You gave nine announcements; I will give ten announcements,” and, placing ten points before us, asked what the answer was to all of them. I believe I have replied to those ten points as far as I am able. I am not unaware that these nine announcements alone are not enough to take Tamil Nadu forward.
 
@@ -555,15 +555,17 @@ In Tamil Nadu, a college may retain 40 standard acres. A high school may retain 
 
 Therefore, as far as the ceiling is concerned, I wish to tell our Manali and the others that we have not fallen very far behind Kerala and that, in some matters, we are a little more progressive.
 
-**Thiru Subbu:** Mr Deputy Chairman, what we speak about is not merely the ceiling law. The Land Reform Acts brought in after that law were passed in 1969 and came into force on 1 January 1970. Under that law, the person who tills the land becomes the owner of that land. The intermediary class itself has been removed. Even if it is temple land, it becomes his. But under those exemptions, all of that gets left out. That is the law we are talking about. You have not spoken about that.
+**Thiru Subbu:** Mr Deputy Chairman, what we speak about is not merely the ceiling law. The Land Reform Acts brought in after that law were passed in 1969 and came into force on 1 January 1970. Under that law, the person who tills the land becomes the owner of that land. The intermediary class itself has been removed. Even if it is temple land—
 
 ### Source page 38
+
+—even then, he has ownership of it. But under those exemptions, all of that gets left out. That is the law we are talking about. You have not spoken about that.
 
 **Hon. Dr. M. Karunanidhi:** I am referring to the law taken as a whole. I am speaking about the connected legislation. We are going to discuss the Tenants Act in detail.
 
 Thiru Subbu also said that under the Tenants Act there, compensation was not paid to the owners. Compensation has been paid there. The methods and categories are different. We are going to discuss the Tenants Act at greater length. Since we can speak then, I wish to leave the matter here.
 
-In his speech, our Manali gave a great deal of advice mainly to the members of the Dravida Munnetra Kazhagam. Thiru Manali recommended that all of you should read the book *Kundrin Melitta Vilakku* written by Arignar Anna. I do not understand when Thiru Manali changed in this way. Whatever the book, party, or author, it is the final idea with which it concludes that represents the intention of the author of the book, or the leader, or the writer, or the party person.
+In his speech, our Manali gave a great deal of advice mainly to the members of the Dravida Munnetra Kazhagam. Thiru Manali recommended that all of you should read the book *Kundrin Melitta Vilakku* written by Arignar Anna. I do not understand when Thiru Manali changed in this way. Whatever the book or the party, it is the final idea with which it concludes that represents the intention of the author of the book, or the leader, or the writer, or the party person.
 
 ## Kundrin Melitta Vilakku
 
@@ -588,14 +590,14 @@ I assume he has read all the books. In one book written by Arignar Anna—I do n
 > Praise to you, great man of greed!  
 > Praise to you, who have two tongues to speak!  
 > Praise to you, embodiment of trickery!  
-> Praise to you, leader of servants!  
-> Praise to you, king of deceit!  
-> Praise to you, merciless lord!  
-> Praise to you, one of cruel nature!  
-> Praise, praise to you, coward!
+> Praise to you, leader of servants!
 
 ### Source page 40
 
+> Praise to you, king of deceit!  
+> Praise to you, merciless lord!  
+> Praise to you, one of cruel nature!  
+> Praise, praise to you, coward!  
 > Praise to you, supreme coward!  
 > Praise to you, perpetrator of great fraud!  
 > Praise to you, who stir up quarrels!  
@@ -617,7 +619,7 @@ In this reply I have, to the extent necessary, pointed out that the Dravida Munn
 
 In that spirit, I convey my thanks and respects to the leaders of all parties and the Hon. members who, by expressing their views, have brought this financial-statement discussion to its conclusion, and I conclude here.
 
-> **F4 boundary:** Gate F batch F4 stops at scan p.40 / printed p.39, the locked Unit-1 end. Gate F is complete for all 37 Unit-1 source pages. Gate G has not started.
+> **Unit-1 translation boundary:** scan p.40 / printed p.39 is the locked Unit-1 end. Gate F is complete for all 37 source pages, and Gate G has passed the full English fidelity/voice review.
 
 
 

@@ -20,8 +20,8 @@ This entry preserves the Legislative Assembly reply dated `7-3-1973` in the sour
 - Gate D: **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
 - Gate E: **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 9 cumulative source-fidelity corrections; 0 unresolved Gate-E fidelity questions**
 - Gate F English translation: **COMPLETE — F1–F4 scans 4–40 / printed pp.3–39; 37/37 pages**
-- Gate G English fidelity/voice review: **IN PROGRESS — G1–G3 scans 4–33 / printed pp.3–32 PASS; 30/37 pages reviewed; 11 corrections; 0 unresolved**
-- Gate H: not reached
+- Gate G English fidelity/voice review: **PASS / COMPLETE — G1–G4 scans 4–40 / printed pp.3–39; 37/37 pages reviewed; 15 corrections; 0 unresolved; English verified**
+- Gate H: **READY / NOT STARTED**
 
 The controlling scan has gutter-edge loss on scans 4–5, 10–11, 20–21, 25–27 and 34–35. Missing text is marked `⟦scan-crop⟧` and is not reconstructed. Scan p.13 also contains small cartoon labels that remain explicitly unresolved where the scan does not support a confident reading. Scans 14–19, 22–24, 28–33 and 36–40 introduce no comparable crop loss; printed English passages are preserved in the Tamil source layer as printed. Printed illustration/cartoon labels are represented only where the scan supports a confident reading.
 
@@ -35,6 +35,6 @@ Gate E is now **PASS / COMPLETE for the full Assembly range, scans 4–40 / prin
 
 Gate F batches F1–F4 are now complete in `translation.md` for **scans 4–40 / printed pp.3–39 (37/37 pages)**. F4 preserves the inherited `⟦scan-crop⟧` source-loss markers on scans 34–35, stops exactly at the locked Unit-1 end on scan p.40, and does not enter Unit 2.
 
-Gate G has now completed **G1–G3 scans 4–33 / printed pp.3–32**. G3 applied five definite fidelity corrections: scan 24 restores the source accusation `நாம் உற்பத்தி செய்யவில்லை` as `not producing electricity`; scan 27 removes a reconstructed place name from a crop-damaged phrase; scan 28 removes an editorial hedge from Kalaignar's `போனால் போகட்டும்` aside; scan 29 restores the singular strike in the illustration caption; and scan 31 corrects the farmer-meeting duration to nearly two or two-and-a-half hours from 10 o'clock. Source-printed English on scans 25, 28 and 29 remains verbatim. Crop holds on scans 25–27 remain explicit and unreconstructed.
+Gate G is now **PASS / COMPLETE for all 37 Unit-1 pages**. G4 reviewed scans **34–40 / printed pp.33–39** and applied four definite corrections: scan 36 removes administrative normalization of `தாழ்த்தப்பட்ட மக்கள்`; the scan 37→38 Subbu intervention is restored to the correct source-page boundary; scan 38 removes an unsupported extra category from the book/party sentence; and the `ஆரிய மாயை` verse is restored to the correct scan 39→40 boundary. Cumulative Gate-G corrections: **15**; unresolved fidelity issues: **0**; `verified_against_tamil=true`.
 
-Exact next activity: **Gate G batch G4 — scans 34–40 / printed pp.33–39**, the final 7-page remainder. Complete the full English fidelity/voice pass, then mark English verified only if G4 leaves no unresolved issue. Do not begin Unit 2 or Gate H in the same iteration.
+Exact next activity: **Gate H — canonical merge, index and release for Unit 1**. Merge the complete Gate-G-verified English after the untouched verified Tamil in canonical `transcript.md`, validate both language layers cover scans 4–40 exactly once/in order, reconcile metadata/index/release files, and retire the working translation copy according to repository convention. Do not begin Unit 2 in the same iteration.
