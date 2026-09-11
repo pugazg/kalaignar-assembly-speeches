@@ -132,8 +132,16 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - source-printed English on earlier Gate-F pages is carried through verbatim;
 - source-page sequence in Gate F is **4→40**, exactly once each;
 - Gate F is complete at the locked Unit-1 boundary; Unit 2 has not been entered.
-- Gate G is now unblocked but has not started.
+- Gate G is **IN PROGRESS**.
+- G1 — **PASS** — scans **4–13** / printed pp. **3–12** — 10 pages
+- cumulative Gate-G coverage: **10 / 37 pages**
+- cumulative Gate-G corrections: **4**
+- unresolved English fidelity issues: **0**
+
+## Gate G progress
+
+G1 re-read the English for scans **4–13** against the final verified Tamil, page by page. The pass corrected four definite fidelity issues: one agency overstatement across the p.5→6 boundary, the reversed Finance-Commission proposition on p.7, an unsupported Planning-Commission negation on p.8, and the p.9 `மக்கள் நல் வாழ்வு` terminology. Source-printed English remained verbatim and the crop-loss markers on scans 4–5, 10–11 remained unreconstructed.
 
 ## Exact next activity
 
-Run **Gate G — English fidelity and voice check** across the **entire Unit 1, PDF scans 4–40 / printed pp.3–39**. Re-read every English source-page section against the final verified Tamil page by page; check meaning, omissions, repetitions, page boundaries, speaker/intervention placement, figures, printed English, stage/source markers and preservation of Kalaignar's voice. Record corrections and unresolved questions. Do not begin Unit 2. Mark English verified only after the full Gate-G pass is complete.
+Continue **Gate G batch G2 — scans 14–23 / printed pp.13–22**. Check meaning, omissions, repetitions, page boundaries, speaker/intervention placement, figures, printed English, source markers and preservation of Kalaignar's voice. Record only source-supported corrections. Do not begin Unit 2 or Gate H; English remains unverified until G1–G4 all pass.

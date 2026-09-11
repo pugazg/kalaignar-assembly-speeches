@@ -567,3 +567,37 @@ Status: **COMPLETE for this batch / Gate F COMPLETE**
 - Unit 2 has **not** been entered.
 
 Exact continuation: **Gate G — full English fidelity and voice check for scans 4–40 / printed pp.3–39**, against the final verified Tamil. Mark English verified only after that complete review.
+
+## Gate G — English fidelity and voice review
+
+### Batch G1 — scan pp.4–13 / printed pp.3–12
+
+Status: **PASS for this batch / Gate G remains IN PROGRESS**
+
+Review basis: the existing Gate-F English in `translation.md` was compared page by page only against the final Gate-E-verified Tamil in `transcript.md`. No OCR, outside historical source, or external factual correction was used.
+
+Coverage and checks:
+
+- reviewed source pages **4→13**, exactly ten pages;
+- checked meaning, omissions/additions, repetition, cross-page continuations, speaker placement, figures, dates, money, units, source-printed English, illustration notes, crop markers and parliamentary voice;
+- source-printed `(Centrally sponsored schemes)` on scan p.8 and `‘Myth’` on scan p.10 remain verbatim;
+- inherited `⟦scan-crop⟧` holds on scans 4–5 and 10–11 remain explicit; no missing source wording was reconstructed;
+- scan-p.13 illustration labels remain conservative and the unresolved smaller labels were not invented.
+
+Definite Gate-G corrections: **4**
+
+1. **scan p.5 → p.6** — the Gate-F English said Ponnappa Nadar was among those who “had me locked up”, which strengthened the verified Tamil `துணையாக இருந்தவர்கள்`. The English now says he was among those who **supported keeping** Karunanidhi locked up, with the Assembly continuation preserved across the page boundary.
+
+2. **scan p.7** — Gate F had reversed the proposition `திட்டத்திற்கு ஆகும் செலவுகளே நிதி ஆணைக்குழுவே கணக்கிலே எடுத்துப் பரிந்துரைக்க வேண்டும்` by saying “I have not said” that the Finance Commission should calculate/recommend Plan expenditure. Gate G restored the source position: the Finance Commission itself should take Plan expenditure into account and make recommendations, while the Planning Commission may provide year-to-year Plan assistance under Finance Commission principles.
+
+3. **scan p.8** — Gate F added an unsupported negative by saying the Planning Commission should perform “no such function”. The source instead has the compressed wording `திட்டக்குழு அந்தப் பணியைச் செய்ய வேண்டுமென்று நான் குறிப்பிடவில்லை`. Gate G removed the invented “no such function” formulation and rendered the sentence conservatively.
+
+4. **scan p.9** — `மக்கள் நல் வாழ்வு` in the three-department budget comparison is now rendered **public health** rather than **public welfare**, matching the source's health-budget context and terminology.
+
+Unresolved Gate-G fidelity issues in G1: **0**.
+
+Cumulative Gate-G coverage: **10 / 37 pages**.  
+Cumulative Gate-G corrections: **4**.  
+English `verified_against_tamil`: **false**.
+
+Exact continuation: **Gate G batch G2 — scans 14–23 / printed pp.13–22**. Do not begin Unit 2 or Gate H.

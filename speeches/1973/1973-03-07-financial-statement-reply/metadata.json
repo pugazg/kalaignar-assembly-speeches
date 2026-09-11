@@ -69,7 +69,24 @@
     "source_crop_markers_preserved": true,
     "source_printed_english_preserved_verbatim": true,
     "verified_against_tamil": false,
-    "gate_g_status": "ready-for-gate-g"
+    "gate_g_status": "in-progress",
+    "review_file": "translation-review.md",
+    "gate_f_status": "complete",
+    "gate_g_reviewed_source_pages": "4-13",
+    "gate_g_reviewed_printed_pages": "3-12",
+    "gate_g_reviewed_page_count": 10,
+    "gate_g_total_page_count": 37,
+    "gate_g_last_batch": "G1",
+    "gate_g_next_source_page": 14,
+    "gate_g_correction_count": 4,
+    "gate_g_corrections": [
+      "scan p.5→6: reduced unsupported agency inflation from 'had me locked up' to source-close wording that Ponnappa Nadar was among those who supported keeping Karunanidhi locked up while the Assembly was conducted.",
+      "scan p.7: removed a reversed negation and restored the source position that the Finance Commission itself should take Plan expenditure into account and make recommendations, while the Planning Commission may provide year-to-year assistance under Finance Commission principles.",
+      "scan p.8: removed the unsupported wording that the Planning Commission should perform 'no such function' and restored a source-close rendering of the compressed final sentence.",
+      "scan p.9: changed 'public welfare' to 'public health' for `மக்கள் நல் வாழ்வு` in the three-department budget comparison."
+    ],
+    "gate_g_unresolved_fidelity_issues": 0,
+    "verification_gate": "Gate G in progress"
   },
   "release": {
     "status": "not-released",
