@@ -6,9 +6,11 @@ Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
 Fetch live `main` first and preserve newer durable work. Do not reset to a stale checkpoint.
 
-At prompt creation, live `main` was:
+Last archival-content checkpoint before the handover documents:
 
 `7152bfbcd8f2eecc732d9cee77b734594226bc4f`
+
+The documentation commits themselves are newer than this SHA; fetch live `main` first.
 
 ## Mandatory startup reading
 
