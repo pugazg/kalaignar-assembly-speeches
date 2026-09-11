@@ -118,3 +118,33 @@ Unresolved historical-glyph clusters: **0**.
 
 Exact continuation: **HG3 / FINAL scans 61–62 / printed pp.60–61**. Do not begin Gate D in the same iteration.
 
+### HG3 / FINAL — scans 61–62 / printed pp.60–61
+
+Status: **PASS / Gate C.5 COMPLETE**
+
+- both final pages were re-read against enlarged controlling-source pixels;
+- all 13 mandatory historical-glyph families were checked on each page;
+- representative checked forms include scan 61 `சொன்னதில்லை`, `மாற்றப்பட்டிருக்கிறார்`, `நானாக`, `சென்னையிலே`, `இன்னொரு`; and scan 62 `நிலைமைகளை`, `உரிமைகளை`, `சான்றோர்கள்`, `அனைவரும்`;
+- historical-glyph corrections in HG3: **0**;
+- unresolved historical-glyph clusters: **0**;
+- global replacements: **0**;
+- source wording, spelling, compounds and punctuation were not modernized;
+- Gate D was not started in this iteration.
+
+## Gate C.5 final result
+
+- audited source range: **41–62**
+- audited printed range: **40–61**
+- pages audited: **22/22**
+- HG1 corrections: **1**
+- HG2 corrections: **1**
+- HG3 corrections: **0**
+- cumulative historical-glyph corrections: **2**
+- unresolved historical-glyph clusters: **0**
+- Gate C.5: **PASS / COMPLETE**
+- `transcription.verified_against_scan=false` remains unchanged
+- Gate D: **unblocked / next**
+- English remains blocked
+
+Exact continuation: **Gate D Tamil completeness audit — D1 scans 41–50 / printed pp.40–49**. Do not begin Gate E in the same iteration.
+
