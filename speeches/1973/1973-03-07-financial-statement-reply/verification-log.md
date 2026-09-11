@@ -315,3 +315,29 @@ Completeness checks:
 - Gate-E verification remains blocked until Gate D passes across scans 4–40.
 
 Exact continuation: **Gate D scans 14–23 / printed pp.13–22**.
+
+### Batch D2 — scan pp.14–23 / printed pp.13–22
+
+Status: **PASS for this batch / Gate D remains IN PROGRESS**
+
+Batch size: **10 scan pages**.
+
+Completeness checks:
+
+- source-page markers **14 through 23** are each present exactly once and are strictly monotonic;
+- scan p.14 correctly continues the unfinished p.13 tax-comparison sentence and includes the Ananthanayaki / Karunanidhi exchange, heading `பத்திரிகை விளம்பரம்`, Hande intervention, and Karunanidhi response;
+- scan p.15 preserves the printed `DR. H. V. HANDE` intervention and the full printed English paragraph beginning `What is the basis on which the advertisement is given...`;
+- scan p.16 preserves the continuation of the advertisement discussion, the Ananthanayaki intervention, Karunanidhi reply, and the printed English `Dr. H. V. HANDE` paragraph beginning `What is the circulation of ‘Murasoli’...`;
+- scan p.17 preserves the continuation of that English intervention, Karunanidhi's reply including printed `(Tone and content)`, and heading `விலைவாசி உயர்வு`;
+- scan p.18 includes heading `உண்மை என்ன ?` and preserves the economic-growth discussion without a missing page break;
+- scan p.19 represents the cartoon labels `மாநில அரசு`, `விலைவாசி உயர்வு`, and `நாணயப் புழக்கம்`, and its paragraph continues normally into the crop-affected scan p.20;
+- scan p.20 preserves all four visible interventions/speaker changes (Ananthanayaki, Karunanidhi, Hande, Karunanidhi); **41** right-gutter `⟦scan-crop⟧` holds remain explicit;
+- scan p.21 preserves the illustration label `வரிசலுகை`, the Ponnappa Nadar intervention and Karunanidhi response; **29** left-gutter `⟦scan-crop⟧` holds remain explicit;
+- scan p.22 correctly continues p.21, represents the illustration label `கறுப்புப் பணம்`, and includes heading `மின்வெட்டு`;
+- scan p.23 preserves the illustration labels `விலைவாசி உயர்வு`, `தேசிய உற்பத்திக் குறைவு`, and `பண வீக்கம்`, and ends at a normal discourse continuation into scan p.24;
+- no mapped source page in scans 14–23 is missing or duplicated;
+- no speaker change, printed English passage, heading, or securely readable illustration label visible in this range was omitted from the canonical source layer;
+- completeness corrections in D2: **0**; cumulative Gate D completeness corrections: **0**;
+- Gate E remains blocked until Gate D passes across scans 4–40.
+
+Exact continuation: **Gate D scans 24–33 / printed pp.23–32**.

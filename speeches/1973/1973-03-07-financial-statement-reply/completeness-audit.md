@@ -31,7 +31,8 @@ For every mapped source page:
 | Batch | Scan pages | Printed pages | Status | Completeness corrections |
 |---|---|---|---|---:|
 | D1 | 4–13 | 3–12 | PASS | 0 |
-| — | 14–40 | 13–39 | NOT YET AUDITED | 0 |
+| D2 | 14–23 | 13–22 | PASS | 0 |
+| — | 24–40 | 23–39 | NOT YET AUDITED | 0 |
 
 ## D1 page-level coverage
 
@@ -52,6 +53,25 @@ Marker sequence for D1: **4 → 5 → 6 → 7 → 8 → 9 → 10 → 11 → 12 �
 
 Canonical Tamil changes made during D1: **0**.
 
+## D2 page-level coverage
+
+| Scan | Printed | Marker exactly once | Key completeness evidence | Source-loss / unresolved state | Result |
+|---:|:---:|:---:|---|---|:---:|
+| 14 | 13 | YES | p.13 continuation; Ananthanayaki / Karunanidhi exchange; `பத்திரிகை விளம்பரம்`; Hande intervention | none new | PASS |
+| 15 | 14 | YES | `DR. H. V. HANDE`; full printed English advertisement/circulation question; Karunanidhi reply | none new | PASS |
+| 16 | 15 | YES | advertisement-policy continuation; Ananthanayaki / Karunanidhi; printed English `Dr. H. V. HANDE` | none new | PASS |
+| 17 | 16 | YES | continuation of printed English; Karunanidhi reply with `(Tone and content)`; `விலைவாசி உயர்வு` | none new | PASS |
+| 18 | 17 | YES | `உண்மை என்ன ?`; economic-growth discussion | none new | PASS |
+| 19 | 18 | YES | cartoon labels `மாநில அரசு`, `விலைவாசி உயர்வு`, `நாணயப் புழக்கம்`; continuation to p.20 | none new | PASS |
+| 20 | 19 | YES | Ananthanayaki, Karunanidhi, Hande, Karunanidhi interventions all represented | 41 right-gutter `⟦scan-crop⟧` holds explicit | PASS |
+| 21 | 20 | YES | `வரிசலுகை` illustration; Ponnappa Nadar intervention; Karunanidhi response | 29 left-gutter `⟦scan-crop⟧` holds explicit | PASS |
+| 22 | 21 | YES | p.21 continuation; `கறுப்புப் பணம்` illustration; `மின்வெட்டு` | none new | PASS |
+| 23 | 22 | YES | illustration labels `விலைவாசி உயர்வு`, `தேசிய உற்பத்திக் குறைவு`, `பண வீக்கம்`; continuation to p.24 | none new | PASS |
+
+Marker sequence for D2: **14 → 15 → 16 → 17 → 18 → 19 → 20 → 21 → 22 → 23**.
+
+Canonical Tamil changes made during D2: **0**. Cumulative Gate D completeness corrections: **0**.
+
 ## Exact next activity
 
-Continue Gate D with **scan pp.14–23 / printed pp.13–22** as the next 10-scan-page iteration. Do not start Gate E, Unit 2 or English until the full Gate D range has passed.
+Continue Gate D with **scan pp.24–33 / printed pp.23–32** as the next 10-scan-page iteration. Do not start Gate E, Unit 2 or English until the full Gate D range has passed.
