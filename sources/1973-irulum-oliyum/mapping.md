@@ -106,7 +106,7 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate A — **PASS at source-package level**
 - Gate B — **PASS / LOCKED — scans 41–62 / printed pp.40–61**
 - Gate C — **COMPLETE — C1–C3 scans 41–62 / printed pp.40–61; 22/22 pages**
-- Gate C.5 — **NEXT / NOT STARTED — mandatory historical-glyph audit**
+- Gate C.5 — **IN PROGRESS — HG1 scans 41–50 / printed pp.40–49 PASS; 10/22 pages; 1 correction; 0 unresolved**
 - Gates D–H — **NOT STARTED / downstream**
 
 ### Gate-C source-condition notes
@@ -175,6 +175,15 @@ Unit 1 is **RELEASED**. Canonical `transcript.md` contains the unchanged verifie
 - Tamil verification remains pending Gate C.5, D and E
 - English remains blocked
 
+## Gate C.5 progress — Unit 2
+
+- HG1 — **PASS** — scans **41–50** / printed pp. **40–49**
+- pages audited: **10 / 22**
+- historical-glyph corrections: **1**
+- unresolved glyph clusters: **0**
+- correction: scan 44 `மாறுக` → `மாறாக` (`றா`)
+- Gate D remains blocked
+
 ## Exact next activity
 
-Begin the mandatory **Unit 2 Gate C.5 historical Tamil glyph audit — HG1 scans 41–50 / printed pp.40–49**. Re-read the canonical Gate-C transcript against source pixels for the historical glyph families defined in `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Apply only source-supported corrections, record unresolved clusters explicitly, and do not begin Gate D in the same iteration.
+Continue **Unit 2 Gate C.5 HG2 — scans 51–60 / printed pp.50–59**. Audit all mandatory historical-glyph families against source pixels page by page, use same-edition comparison where needed, apply only source-supported corrections, never global-replace, and do not begin Gate D in the same iteration.

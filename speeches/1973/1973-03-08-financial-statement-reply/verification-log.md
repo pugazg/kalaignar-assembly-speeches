@@ -70,3 +70,29 @@ Status: **COMPLETE / GATE C COMPLETE**
 
 Exact continuation: **Gate C.5 historical Tamil glyph audit, HG1 scans 41–50 / printed pp.40–49**. Do not begin Gate D in the same iteration.
 
+## Gate C.5 — historical Tamil glyph audit
+
+### HG1 — scans 41–50 / printed pp.40–49
+
+Status: **PASS**
+
+- all ten pages were re-read at enlarged source resolution;
+- all 13 mandatory historical-glyph families were checked on every page;
+- same-edition comparison was used for the corrected `றா` identity;
+- **1** historical-glyph correction was applied;
+- unresolved glyph clusters: **0**;
+- global replacements: **0**;
+- ordinary spelling/grammar modernization was not performed.
+
+Correction:
+
+- scan **44** / printed p.**43**: `வழக்கத்திற்கு மாறுக நடனம்` → `வழக்கத்திற்கு மாறாக நடனம்` — historical `றா` identity.
+
+Gate C remains complete. `transcription.verified_against_scan=false` remains unchanged because Gate C.5, D and E are not yet complete.
+
+Cumulative Gate-C.5 coverage: **10 / 22 pages**.  
+Cumulative historical-glyph corrections: **1**.  
+Unresolved historical-glyph clusters: **0**.
+
+Exact continuation: **HG2 scans 51–60 / printed pp.50–59**.
+
