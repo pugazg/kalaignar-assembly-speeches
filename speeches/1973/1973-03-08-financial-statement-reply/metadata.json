@@ -55,7 +55,7 @@
     "source_crop_holds": "none identified in Gate C scans 41-62",
     "embedded_english_preserved": true,
     "historical_glyph_gate_required": true,
-    "historical_glyph_gate_status": "not-started",
+    "historical_glyph_gate_status": "in-progress",
     "completeness_audit_passed": false,
     "verification_note": "Gate C first-pass transcription is complete for the full locked Unit-2 range, scans 41-62 / printed pp.40-61. This is not yet verified Tamil: mandatory Gate C.5 historical-glyph audit, Gate D completeness audit and Gate E source-fidelity verification remain downstream."
   },
@@ -80,7 +80,7 @@
     "gate": "C.5",
     "required": true,
     "guide": "docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md",
-    "status": "not-started",
+    "status": "in-progress",
     "scope_scan_pages": "41-62",
     "scope_printed_pages": "40-61",
     "minimum_families": [
@@ -101,9 +101,16 @@
     "source_pixels_authoritative": true,
     "same_edition_comparison_required_when_uncertain": true,
     "global_replace_forbidden": true,
-    "corrections": 0,
+    "corrections": 1,
     "unresolved_clusters": 0,
     "downstream_gate": "D",
-    "downstream_blocked": true
+    "downstream_blocked": true,
+    "reviewed_scan_pages": "41-50",
+    "reviewed_printed_pages": "40-49",
+    "reviewed_page_count": 10,
+    "total_page_count": 22,
+    "last_batch": "HG1",
+    "next_scan_page": 51,
+    "note": "HG1 audited scans 41-50 against source pixels for all mandatory historical-glyph families. One றா identity correction was applied on scan 44: `மாறுக` → `மாறாக`. No unresolved glyph clusters remain in HG1."
   }
 }
