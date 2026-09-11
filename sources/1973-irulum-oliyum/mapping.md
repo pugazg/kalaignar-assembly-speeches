@@ -93,7 +93,7 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate C — **COMPLETE — Unit 1 scans 4–40 / printed pp.3–39**
 - Gate C.5 — **PASS / COMPLETE — HG1–HG7 scans 4–40 / printed pp.3–39; 3 cumulative corrections; 0 unresolved historical-glyph clusters**
 - Gate D — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
-- Gate E — **IN PROGRESS — E1–E3 scans 4–33 / printed pp.3–32 PASS; 5 cumulative source-fidelity corrections**
+- Gate E — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 7 cumulative source-fidelity corrections; 0 unresolved Gate-E fidelity questions**
 - Gates F–H — blocked
 
 ### Gate-C source-condition notes
@@ -116,8 +116,9 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate C.5 HG6 scans 29–33 passed with 0 additional corrections and 0 unresolved historical-glyph clusters in the visible audited text; no new crop holds were introduced;
 - Gate C.5 HG7 scans 34–40 passed with 0 additional corrections and 0 unresolved historical-glyph clusters; this final 7-scan remainder closed Gate C.5 without crossing the Unit 1 boundary;
 - Gate C.5 batch policy is now 10 scan pages per iteration, with a shorter final remainder at a gate or speech boundary;
-- `verified_against_scan` remains false until Gate E is completed for the entire Assembly speech.
+- Gate E E4 scans 34–40 passed with 2 additional corrections on scan 40 (`வன்கண் நாதா` → `வன்கண நாதா`; `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்`); cumulative Gate-E corrections: 7;
+- `verified_against_scan` is now true for the complete Assembly speech, scans 4–40 / printed pp.3–39.
 
 ## Exact next activity
 
-Finish **Gate E — Tamil source-fidelity verification** on Unit 1 with **PDF scans 34–40 / printed pp.33–39**. This is the final **7-scan remainder** at the locked Assembly boundary. E1–E3 scans 4–33 have passed with 5 cumulative source-fidelity corrections and 0 new unresolved fidelity questions. E3 corrections: scan 31 illustration `கைத்தறியாளர்களுக்குத் நூல்கள்` → `கைத்தறியாளர்களுக்கு நூல்கள்`; scan 32 illustration `விவசாயத்திற்கும் மின்சாரம்` → `விவசாயத்திற்கு மின்சாரம்`; scan 33 body `மின் வெட்டு நிலமை` → `மின் வெட்டு நிலைமை`. Unit 2 and English remain blocked until Gate E passes.
+Begin **Gate F — English translation** on Unit 1 with **PDF scans 4–13 / printed pp.3–12** as the first **10-scan-page iteration**. Gate E is PASS / COMPLETE across scans 4–40 with 7 cumulative source-fidelity corrections and `transcription.verified_against_scan=true`. Translate only from the verified Tamil, preserve source-printed English verbatim, retain speaker/intervention structure and rhetorical repetition, and do not begin Unit 2 in the same iteration.
