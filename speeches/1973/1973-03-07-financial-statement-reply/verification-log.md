@@ -79,3 +79,18 @@ Exact continuation: **scan p.24 / printed p.23**.
 - English translation remains blocked.
 
 Exact continuation: **scan p.29 / printed p.28**.
+
+### Batch C6 — scan pp.29–33 / printed pp.28–32
+
+- first-pass transcription completed for scans 29–33 directly from the rendered source;
+- source-page markers 29, 30, 31, 32 and 33 are present exactly once and in order;
+- no new physical gutter-edge crop loss was found on scans 29–33, so no new `⟦scan-crop⟧` holds were introduced;
+- the scan-p.29 K. L. Rao English quotation is retained verbatim in the Tamil source layer;
+- printed illustration text was preserved where securely readable: p.29 `வேலை நிறுத்தம்` / `வேலைநிறுத்தத்தின் விளைவாலும் விலைவாசி ஏற்றம்`; p.31 `கைத்தறியாளர்களுக்குத் நூல்கள் அரசு நேரிடை விநியோகம்`; p.32 `விவசாயத்திற்கும் மின்சாரம்` and clock numerals 12–5; p.33 `குறைந்த பட்சக் கட்டணம் விவசாயிகளுக்கும், தொழிற்சாலைகளுக்கும் தற்காலிக ரத்து`;
+- period/source forms and embedded English such as `Zonal Council`, `இன்ஸ்டால்ட் கப்பாசிட்டி`, `ஃபுல்லஸ்டு கப்பாசிடிக்கு யூடிலைஸ்`, `பரீட்சார்த்தமாக`, and `‘லோட்’` were retained rather than modernised;
+- the p.29 prose/illustration interruption was represented without inventing text, joining the visibly split `நடத்தி...யவர்கள்` only as the source-supported word `நடத்தியவர்கள்`;
+- corrections from formal Gate E: **0** — Gate E has not started;
+- `verified_against_scan` remains **false**;
+- English translation remains blocked.
+
+Exact continuation: **scan p.34 / printed p.33**.
