@@ -106,7 +106,7 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate A — **PASS at source-package level**
 - Gate B — **PASS / LOCKED — scans 41–62 / printed pp.40–61**
 - Gate C — **COMPLETE — C1–C3 scans 41–62 / printed pp.40–61; 22/22 pages**
-- Gate C.5 — **IN PROGRESS — HG1–HG2 scans 41–60 / printed pp.40–59 PASS; 20/22 pages; 2 cumulative corrections; 0 unresolved**
+- Gate C.5 — **PASS / COMPLETE — HG1–HG3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative corrections; 0 unresolved**
 - Gates D–H — **NOT STARTED / downstream**
 
 ### Gate-C source-condition notes
@@ -175,17 +175,20 @@ Unit 1 is **RELEASED**. Canonical `transcript.md` contains the unchanged verifie
 - Tamil verification remains pending Gate C.5, D and E
 - English remains blocked
 
-## Gate C.5 progress — Unit 2
+## Gate C.5 result — Unit 2
 
 - HG1 — **PASS** — scans **41–50** / printed pp. **40–49** — 1 correction
 - HG2 — **PASS** — scans **51–60** / printed pp. **50–59** — 1 correction
-- pages audited: **20 / 22**
+- HG3 / FINAL — **PASS** — scans **61–62** / printed pp. **60–61** — 0 corrections
+- pages audited: **22 / 22**
 - cumulative historical-glyph corrections: **2**
 - unresolved glyph clusters: **0**
 - HG1 correction: scan 44 `மாறுக` → `மாறாக` (`றா`)
 - HG2 correction: scan 58 `வேலதான்` → `வேலைதான்` (`லை`)
-- Gate D remains blocked
+- Gate C.5: **PASS / COMPLETE**
+- Gate D: **unblocked / next**
+- Tamil remains not verified until Gate E passes
 
 ## Exact next activity
 
-Complete **Unit 2 Gate C.5 HG3 / FINAL — scans 61–62 / printed pp.60–61**. Audit all mandatory historical-glyph families against source pixels page by page, apply only source-supported corrections, record any unresolved cluster explicitly, and do not begin Gate D in the same iteration.
+Begin **Unit 2 Gate D Tamil completeness audit — D1 scans 41–50 / printed pp.40–49**. Confirm page markers, page continuity, headings, speaker/intervention sequence, printed source context and unresolved/source-loss state for the first 10 pages. Do not begin Gate E in the same iteration.
