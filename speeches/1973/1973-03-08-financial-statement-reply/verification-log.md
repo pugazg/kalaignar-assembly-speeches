@@ -104,7 +104,8 @@ Status: **PASS**
 - all 13 mandatory historical-glyph families were checked on every page;
 - source spelling, grammar, compounds and punctuation were not modernized;
 - global replacements: **0**;
-- historical-glyph corrections in HG2: **0**;
+- historical-glyph corrections in HG2: **1**;
+- correction: scan **58** / printed p.**57** — `அப்போது நடந்த வேலதான் மிகுந்த சங்கடமானது` → `அப்போது நடந்த வேலைதான் மிகுந்த சங்கடமானது` (`லை`);
 - unresolved historical-glyph clusters: **0**;
 - source-printed English on scans 52–55 was left untouched;
 - ordinary transcription/source-fidelity issues, if any, remain for their later gate rather than being silently repaired under C.5.
@@ -112,7 +113,7 @@ Status: **PASS**
 Gate C remains complete. `transcription.verified_against_scan=false` remains unchanged.
 
 Cumulative Gate-C.5 coverage: **20 / 22 pages**.  
-Cumulative historical-glyph corrections: **1**.  
+Cumulative historical-glyph corrections: **2**.  
 Unresolved historical-glyph clusters: **0**.
 
 Exact continuation: **HG3 / FINAL scans 61–62 / printed pp.60–61**. Do not begin Gate D in the same iteration.
