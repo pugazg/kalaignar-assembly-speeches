@@ -41,14 +41,14 @@
     "preserve_source_punctuation": true,
     "preserve_headings": true,
     "page_boundaries_marked": true,
-    "status": "verified",
-    "verified_against_scan": true,
+    "status": "crop-recovery-in-progress",
+    "verified_against_scan": false,
     "completed_scan_pages": "4-40",
     "completed_printed_pages": "3-39",
-    "source_crop_holds": "scan pp.4-5, 10-11, 20-21, 25-27 and 34-35 gutter-edge losses marked with ⟦scan-crop⟧; unresolved small cartoon labels on scan p.13 noted explicitly; scans 39-40 add no new crop holds",
+    "source_crop_holds": "recovered from official TNLA Assembly Debates on scans 4-5 and 10-11; remaining physical gutter-loss holds: scans 20-21, 25-27 and 34-35; scan 13 smaller cartoon labels remain separately unresolved",
     "verified_scan_pages": "4-40",
     "completeness_audit_passed": true,
-    "verification_note": "All visible Tamil/source-layer text on scan pp.4-40 was checked directly against the controlling scan. Known physical crop loss remains explicitly marked with ⟦scan-crop⟧ and was not reconstructed; smaller scan-p.13 cartoon labels remain intentionally unresolved where the source pixels are insufficient."
+    "verification_note": "New official TNLA Assembly Debates evidence dated 7 March 1973 permits evidence-based recovery of text physically missing from the booklet scan. CR1 restored scans 4-5 and 10-11 without contextual guessing. Because canonical Tamil has changed after the prior Gate-E/G/H release, Tamil and English fidelity plus release integrity require revalidation after crop recovery is complete."
   },
   "translation": {
     "language": "English",
@@ -68,8 +68,8 @@
     "source_page_correspondence": true,
     "source_crop_markers_preserved": true,
     "source_printed_english_preserved_verbatim": true,
-    "verified_against_tamil": true,
-    "gate_g_status": "passed",
+    "verified_against_tamil": false,
+    "gate_g_status": "recheck-required-after-crop-recovery",
     "review_file": "translation-review.md",
     "gate_f_status": "complete",
     "gate_g_reviewed_source_pages": "4-40",
@@ -102,8 +102,8 @@
     "verified_source_pages": "4-40",
     "verified_printed_pages": "3-39",
     "verified_page_count": 37,
-    "gate_h_status": "passed",
-    "completion_note": "Gate F translated all 37 verified Tamil source-page sections. Gate G re-read scans 4-40 / printed pp.3-39 against the final verified Tamil in four bounded batches, applied 15 definite fidelity corrections and resolved 0 outstanding questions. Gate H merged the complete verified English after the unchanged verified Tamil in canonical transcript.md, validated exact page correspondence, updated indexes, and retired the working translation copy.",
+    "gate_h_status": "reopened-for-crop-recovery",
+    "completion_note": "Prior Gate F/G/H work remains historically documented, but the newly recovered Tamil crop text requires corresponding English repair and a fresh fidelity/integrity recheck before release status can be restored.",
     "placement": "verified English follows the verified Tamil in canonical transcript.md",
     "working_file_status": "retired pointer to canonical transcript after Gate H",
     "gate_h_preparation_complete": true,
@@ -113,12 +113,12 @@
     "gate_h_integrity_note": "Gate H preserved the verified Tamil source layer unchanged, appended the complete Gate-G-verified English after it, validated Tamil markers and English source-page sections 4-40 exactly once and in order, rechecked critical Gate-G page boundaries including 5→6, 37→38 and 39→40, updated repository indexes, and retired translation.md to a pointer."
   },
   "release": {
-    "status": "released",
-    "gate_h_status": "passed",
-    "gate_h_passed": true,
+    "status": "recovery-in-progress",
+    "gate_h_status": "reopened-for-crop-recovery",
+    "gate_h_passed": false,
     "canonical_transcript_contains_verified_tamil_and_english": true,
     "indexed": true,
-    "release_ready": true
+    "release_ready": false
   },
   "historical_glyph_audit": {
     "gate": "C.5",
@@ -180,7 +180,7 @@
   },
   "source_fidelity_verification": {
     "gate": "E",
-    "status": "passed",
+    "status": "recheck-required-after-crop-recovery",
     "scope_scan_pages": "4-40",
     "scope_printed_pages": "3-39",
     "batch_size_pages": 10,
@@ -200,5 +200,24 @@
     "downstream_gate": "F",
     "downstream_blocked": false,
     "next_gate": "F"
+  },
+  "crop_recovery": {
+    "status": "in-progress",
+    "secondary_source_filename": "927193.pdf",
+    "secondary_source_title": "Tamil Nadu Legislative Assembly Debates",
+    "secondary_source_date": "1973-03-07",
+    "secondary_source_pages_total": 119,
+    "secondary_source_file_size_bytes": 184860788,
+    "secondary_source_sha256": "b56b0e2d70fb64ec026312ca62d925cb2ef7df32feb8a9578848df97461c54b4",
+    "authority": "official TNLA proceedings used only to recover material physically absent from the controlling booklet scan; visible booklet wording remains controlling wherever legible",
+    "recovered_scan_pages": "4-5, 10-11",
+    "recovered_page_count": 4,
+    "crop_placeholders_removed_cr1": 99,
+    "remaining_actual_tamil_crop_placeholders": 226,
+    "remaining_crop_scan_pages": "20-21, 25-27, 34-35",
+    "next_batch": "CR2 — scans 20-21 and 25-27",
+    "tamil_revalidation_required": true,
+    "english_repair_required": true,
+    "release_revalidation_required": true
   }
 }
