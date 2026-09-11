@@ -85,3 +85,13 @@ The first historical-glyph batch was re-read from the source pixels at enlarged/
 - second `தொடங்கப் பெறுமல்` → `தொடங்கப் பெறாமல்` — historical family `றா`.
 
 The printed old-form `றா` can visually resemble a modern `று`-like cluster at ordinary zoom. The correction is supported by enlarged source pixels and by comparison with same-edition `றா` behaviour in clearly readable words such as `...கிறார்கள்`. No spelling or syntactic modernization was applied. Scans 5–8 required no historical-glyph correction. Existing `⟦scan-crop⟧` holds on scans 4–5 remain physical source losses and are separate from glyph-identity uncertainty.
+
+### Gate C.5 batch HG2 — scans 9–13 / printed pp.8–12
+
+All five pages were re-read from enlarged/native source pixels with the 13 minimum historical-glyph families checked explicitly. One source-supported glyph correction was required on scan p.12 / printed p.11:
+
+- `மாற்றுந்தாய்` → `மாற்றாந்தாய்` — historical family `றா`.
+
+The old `றா` typeform in this edition visually resembles a modern `று`-like form at ordinary zoom. Same-page comparison with clearly readable `றா` in `தவறாகும்` and `சொல்கிறாரே` supports the corrected Unicode identity. No lexical modernization was performed.
+
+Scans 9, 10, 11 and 13 required no historical-glyph correction. Existing scan pp.10–11 gutter crop holds and the smaller unresolved scan-p.13 cartoon labels remain source-condition uncertainties, not unresolved historical-glyph identities.
