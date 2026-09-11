@@ -248,7 +248,12 @@ Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-r
   - Unit-2 Gate-C crop holds: **0**
   - scan 62 closes with `வணக்கம்` and the printed closing ornament
   - scan 63 printer/imprint; scan 64 back cover; no third speech follows
-- Gate C.5 historical-glyph audit — **NEXT / NOT STARTED**
+- Gate C.5 historical-glyph audit — **IN PROGRESS**
+  - HG1 scans **41–50** / printed pp. **40–49** — **PASS**
+  - reviewed: **10 / 22 pages**
+  - corrections: **1**
+  - unresolved glyph clusters: **0**
+  - next: **HG2 scans 51–60 / printed pp.50–59**
 - Gates D–H — **NOT STARTED / downstream**
 - Tamil status — **Gate-C complete / not verified**
 - English — **blocked**
@@ -268,25 +273,33 @@ Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-r
 
 ## Exact next activity
 
-Begin **Unit 2 Gate C.5 historical Tamil glyph audit — HG1 scans 41–50 / printed pp.40–49**.
+Continue **Unit 2 Gate C.5 historical Tamil glyph audit — HG2 scans 51–60 / printed pp.50–59**.
 
-Requirements:
+HG1 result:
 
-- re-read the canonical Gate-C transcript against controlling source pixels;
-- audit the mandatory historical glyph families from `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-- use same-edition comparison where a glyph remains uncertain;
-- make only source-supported character/word corrections;
-- never perform global replacement;
-- record every correction and any unresolved glyph cluster in a Unit-2 historical-glyph audit record and verification log;
-- keep `transcription.verified_against_scan=false`;
+- scans **41–50** audited against controlling source pixels;
+- all 13 mandatory historical-glyph families checked on every page;
+- **1** source-supported correction: scan 44 `மாறுக` → `மாறாக` (`றா`);
+- unresolved glyph clusters: **0**;
+- Gate C remains complete;
+- `transcription.verified_against_scan=false`;
+- Gate D remains blocked.
+
+HG2 requirements:
+
+- inspect every page at enlarged/native resolution;
+- check all mandatory glyph families;
+- use same-edition comparison for uncertain identity;
+- make only source-supported glyph corrections;
+- never global-replace;
+- record each correction and unresolved cluster in `historical-glyph-audit.md` and `verification-log.md`;
+- update metadata, README, mapping and handover;
 - do **not** begin Gate D in the same iteration.
-
-Normal historical-glyph batch size is **10 scan pages**, so HG1 covers scans **41–50**.
 
 ## Last archival-content checkpoint before this handover update
 
-`8817cddf2578a611f27e745f2cae6164bdc39d12`
+`636baa0e76c8771f55d7f35f73b037c63aece21c`
 
-Message: `Close 1973 Council Gate C records`
+Message: `Record 1973 Council glyph audit HG1`
 
 The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.
