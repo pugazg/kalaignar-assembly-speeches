@@ -727,3 +727,39 @@ Status: **PASS / RELEASED**
 Gate H correction count: **0 new language corrections**.
 
 Exact continuation: **Unit 2 / `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate C batch C1, scans 41–50 / printed pp.40–49**.
+
+## Post-release crop recovery — new official evidence
+
+A new official primary-source witness became available after Unit 1 had already passed Gate H:
+
+- source: **Tamil Nadu Legislative Assembly Debates**
+- sitting date: **7 March 1973**
+- file: `927193.pdf`
+- SHA-256: `b56b0e2d70fb64ec026312ca62d925cb2ef7df32feb8a9578848df97461c54b4`
+- use: recover only text physically absent at the gutter of `இருளும் ஒளியும்`; visible booklet text remains controlling
+
+Because this is genuinely new source evidence, reopening released Unit 1 is authorized under the archival policy.
+
+### Crop recovery CR1 — scans 4–5 and 10–11
+
+Status: **PASS / COMPLETE**
+
+- recovered crop-damaged Tamil on scans **4, 5, 10, 11**;
+- removed **99 actual `⟦scan-crop⟧` placeholders** from the Tamil layer;
+- unresolved crop placeholders on these four scans: **0**;
+- no global replacement and no grammar-only reconstruction;
+- source-page boundaries were preserved;
+- scan 5 still ends at `பாளையங்`, with scan 6 beginning `கோட்டைச் சிறைச்சாலையில்...`;
+- source-visible numeric and orthographic forms were preserved rather than normalized;
+- remaining actual Tamil crop placeholders: **226**, confined to scans **20–21, 25–27 and 34–35**.
+
+The prior Gate-E/G/H results remain historical audit records, but the canonical Tamil has now changed. Therefore:
+
+- Tamil source-fidelity recheck: **required after crop recovery completes**;
+- English recovered-span repair: **required**;
+- Gate-G English fidelity recheck: **required**;
+- Gate-H canonical integrity/release revalidation: **required**;
+- release status: **recovery in progress**.
+
+Exact continuation: **CR2 — scans 20–21 and 25–27**.
+
