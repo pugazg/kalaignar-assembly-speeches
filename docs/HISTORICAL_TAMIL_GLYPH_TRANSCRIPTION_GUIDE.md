@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This is a reusable source-first guide for transcriping older Tamil print into modern Unicode without silently changing the source text.
+This is a reusable source-first guide for transcribing older Tamil print into modern Unicode without silently changing the source text.
 
 It was created from two kinds of evidence:
 
