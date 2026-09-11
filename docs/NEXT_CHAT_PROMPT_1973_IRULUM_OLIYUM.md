@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate C batch C2
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate C batch C3
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -6,34 +6,17 @@ Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
 Fetch live `main` first and preserve newer durable work. Do not reset to a stale checkpoint.
 
-Last archival-content checkpoint before this handover documentation:
+Last archival-content checkpoint before this documentation update:
 
-`8838dcb27539cf1d544532df77775ea14b492e99`
+`2a570d2dfe3a723024c857a730ad1eeacb81f0eb`
 
-Message: `Transcribe 1973 Council Gate C batch C1`
-
-The documentation commit is newer than this content SHA; always fetch live `main` first.
+Message: `Transcribe 1973 Council Gate C batch C2`
 
 Unit 1 is **fully released through Gate H**. Do not reopen it absent genuinely new contrary source evidence.
-
-## Mandatory startup reading
-
-1. `docs/ARCHIVAL_WORKFLOW.md`
-2. `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-3. `docs/HANDOVER_1973_IRULUM_OLIYUM.md`
-4. this prompt
-5. `sources/1973-irulum-oliyum/mapping.md`
-6. `speeches/1973/1973-03-08-financial-statement-reply/README.md`
-7. `speeches/1973/1973-03-08-financial-statement-reply/metadata.json`
-8. `speeches/1973/1973-03-08-financial-statement-reply/source-notes.md`
-9. `speeches/1973/1973-03-08-financial-statement-reply/verification-log.md`
-10. `speeches/1973/1973-03-08-financial-statement-reply/transcript.md`
 
 ## Controlling source
 
 `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`
-
-Locked identity:
 
 - physical scans: **64**
 - bytes: **101,602,456**
@@ -42,7 +25,7 @@ Locked identity:
 - source pixels outrank OCR/context
 - do not commit the PDF
 
-## Unit 2 locked range
+## Unit 2 locked mapping
 
 - heading: `சட்டமன்ற மேலவையில்`
 - date: **8-3-1973**
@@ -53,38 +36,37 @@ Locked identity:
 - scan 64: back cover
 - no third speech follows
 
-## Durable Unit 2 state
+## Durable state
 
 - Gate A — **PASS**
 - Gate B — **PASS / LOCKED**
 - Gate C — **IN PROGRESS**
-  - C1 scans **41–50** / printed pp. **40–49** — **COMPLETE**
-  - coverage: **10/22**
-  - source-page markers **41→50** exactly once/in order
-  - C1 physical crop holds: **0**
-  - scan 50 source-printed English retained verbatim
-- Gate C.5 — **NOT STARTED / mandatory after Gate C**
-- Gates D–H — **NOT STARTED**
-- `transcription.status=partial`
-- `transcription.verified_against_scan=false`
-- English — **BLOCKED**
+  - C1 scans 41–50 / printed pp.40–49 — **COMPLETE**
+  - C2 scans 51–60 / printed pp.50–59 — **COMPLETE**
+  - coverage: **20/22 pages**
+  - source-page sequence: **41→60**
+  - physical crop holds through scan 60: **0**
+  - next scan: **61**
+- Gate C.5 — **NOT STARTED / downstream**
+- Gates D–H — **NOT STARTED / downstream**
+- English — **NOT STARTED / blocked**
 
-## Exact next activity — Gate C batch C2
+C2 preserved the printed-English legal and constitutional passages on scans 52–55, retained the K. Rajaram intervention on scan 59, and stopped at the physical scan-60 boundary in the middle of the continuing election-vote sentence. Do not reconstruct scan-61 wording from context.
 
-Process **scans 51–60 / printed pp.50–59** as one bounded 10-scan batch.
+## Exact next activity — Gate C batch C3
+
+Process **scans 61–62 / printed pp.60–61** as the final two-page Gate-C remainder.
 
 Requirements:
 
-- visually transcribe each complete page from the controlling scan;
-- append to the existing canonical Unit-2 `transcript.md`;
-- preserve source wording, spelling, punctuation, headings, speaker labels, parliamentary interventions, numerals and source-printed English;
-- add source-page markers **51→60** exactly once and in order;
-- do not modernise Tamil;
+- visually transcribe both complete pages from the controlling scan;
+- append source-page markers **61** and **62** exactly once and in order;
+- preserve source spelling, punctuation, headings, speaker labels, numerals and source-printed English;
 - do not infer missing text from context;
-- mark genuine physical source loss explicitly;
-- note difficult historical typeforms for later Gate C.5 rather than globally replacing them;
-- update metadata, README, source-notes, verification log, source mapping and handover;
-- commit the bounded C2 result;
-- do **not** start Gate C.5, Gate D, English, or reopen Unit 1.
+- stop exactly at scan 62, the locked Council close;
+- confirm scan 63 is non-speech printer/imprint matter and scan 64 back cover;
+- update metadata, README, verification log, mapping and handover;
+- mark Gate C **COMPLETE — 22/22 pages** only after both pages are represented;
+- **do not begin Gate C.5 in the same iteration**.
 
-After C2, the expected continuation is the final short Gate-C batch **C3 — scans 61–62 / printed pp.60–61**.
+After C3, the next activity is the mandatory **Gate C.5 historical Tamil glyph audit** for Unit 2.

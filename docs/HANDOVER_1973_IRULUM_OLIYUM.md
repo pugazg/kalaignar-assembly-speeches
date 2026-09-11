@@ -264,24 +264,23 @@ Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-r
 
 ## Exact next activity
 
-Continue **Unit 2 Gate C batch C2 — scans 51–60 / printed pp.50–59**.
+Complete **Unit 2 Gate C batch C3 — scans 61–62 / printed pp.60–61**, the final 2-page Gate-C remainder.
 
 Requirements:
 
-- append complete first-pass Tamil for scans 51–60 to the existing Unit-2 `transcript.md`;
-- preserve source spelling, punctuation, headings, speaker labels, interventions, numerals, embedded English and source-page boundaries;
-- add markers **51→60** exactly once and in order;
-- never reconstruct genuinely lost text from context;
-- record any physical crop/damage or unresolved reading explicitly;
-- do not begin Gate C.5, Gate D or English in the same iteration;
-- do not modify released Unit 1.
-
-After C2, only scans **61–62 / printed pp.60–61** remain for the final short Gate-C batch C3.
+- continue the existing canonical `transcript.md`;
+- transcribe directly from controlling scan pixels;
+- preserve source wording, spelling, punctuation, headings, speaker labels, figures and printed English;
+- keep source-page markers **61→62** exactly once and in order;
+- stop at scan 62; scan 63 is printer/imprint and scan 64 back cover;
+- do not reconstruct any cropped or unclear text from context;
+- synchronize metadata, README, mapping and verification log;
+- after C3, mark Gate C complete for **22/22 pages**, but **do not start Gate C.5 in the same iteration**.
 
 ## Last archival-content checkpoint before this handover update
 
-`8838dcb27539cf1d544532df77775ea14b492e99`
+`2a570d2dfe3a723024c857a730ad1eeacb81f0eb`
 
-Message: `Transcribe 1973 Council Gate C batch C1`
+Message: `Transcribe 1973 Council Gate C batch C2`
 
 The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.
