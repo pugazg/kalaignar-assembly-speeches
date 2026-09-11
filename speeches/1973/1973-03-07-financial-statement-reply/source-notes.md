@@ -147,3 +147,12 @@ Strict pixel-level source-fidelity review produced three canonical corrections:
 3. scan p.33 / printed p.32 body: `மின் வெட்டு நிலமை` → `மின் வெட்டு நிலைமை`. Enlarged source pixels clearly show `நிலைமை`.
 
 No other source-fidelity correction was required in scans 24–33. Printed English passages and quoted material were retained verbatim. Scan pp.25–27 crop losses remain explicit and unreconstructed.
+
+### Gate E batch E4 — scans 34–40 / printed pp.33–39
+
+The final Assembly source-fidelity batch was checked directly against the rendered source pixels. Two source-supported corrections were required on scan p.40 / printed p.39:
+
+1. verse `வன்கண் நாதா போற்றி !` → `வன்கண நாதா போற்றி !`; the scan prints `வன்கண` without the added final pulli.
+2. closing paragraph `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்`; enlarged source pixels clearly read the accusative `நெருக்கடிகளை`.
+
+No other correction was required in scans 34–40. Scan pp.34–35 crop losses remain explicit and unreconstructed. The `குன்றின் மேலிட்ட விளக்கு` quotation, Manali Kandasami exchange, full `ஆரிய மாயை` verse, `முடிப்புரை`, and final Assembly close were rechecked. Gate E is PASS / COMPLETE for scans 4–40.
