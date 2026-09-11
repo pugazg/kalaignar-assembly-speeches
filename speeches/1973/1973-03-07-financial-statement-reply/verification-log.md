@@ -440,3 +440,28 @@ Batch size: **10 scan pages**.
 - `verified_against_scan` remains **false** until Gate E passes scans 4–40.
 
 Exact continuation: **Gate E scans 24–33 / printed pp.23–32**.
+
+### Batch E3 — scan pp.24–33 / printed pp.23–32
+
+Status: **PASS for this batch / Gate E remains IN PROGRESS**
+
+Batch size: **10 scan pages**.
+
+- all visible source text on scans 24–33 was re-read directly against rendered source pixels;
+- names/initials, figures, embedded English, headings, speaker labels, punctuation where legible, illustration text and transitions were checked;
+- scan p.24 map labels `மைசூர் — 130 லட்சம் யூனிட்`, `ஆந்திரம் — 90 லட்சம் யூனிட்`, `தமிழ்நாடு — 225 லட்சம் யூனிட்`, `கேரளா — 60 லட்சம் யூனிட்` remain source-supported;
+- scan p.25 printed English `THIRUMATHI T. N. ANANDANAYAKI` intervention and the ten-project list were checked; left-gutter crop loss remains explicit;
+- scan p.27 printed `Ratification`, heading `மத்தியில் இருந்து.........`, and left-gutter crop loss remain source-supported;
+- scan p.28 printed K. L. Rao quotations were checked line by line and retained verbatim;
+- scan p.29 dates `23-2-1972` / `26-7-1972`, `Zonal Council`, the Southern Zone English quotation, and protest illustration text were checked;
+- scan p.30 speaker sequence and figures `70`, `60`, `97.5`, `35`, `24`, `30`, `40`, `73` were checked;
+- scan p.31 / printed p.30 correction: illustration `கைத்தறியாளர்களுக்குத் நூல்கள் அரசு நேரிடை விநியோகம்` → `கைத்தறியாளர்களுக்கு நூல்கள் அரசு நேரிடை விநியோகம்`;
+- scan p.32 / printed p.31 correction: illustration `விவசாயத்திற்கும் மின்சாரம்` → `விவசாயத்திற்கு மின்சாரம்`; clock numerals `12, 1, 2, 3, 4, 5` and trial time windows remain source-supported;
+- scan p.33 / printed p.32 correction: `மின் வெட்டு நிலமை` → `மின் வெட்டு நிலைமை`; minimum-charge cancellation illustration remains represented;
+- scan pp.25–27 gutter losses remain explicit and unreconstructed;
+- page transitions 24→25→…→33→34 were checked for omission/repetition;
+- source-fidelity corrections in E3: **3**; cumulative Gate E corrections: **5**;
+- new unresolved source-fidelity questions in E3: **0**;
+- `verified_against_scan` remains **false** until Gate E passes scans 4–40.
+
+Exact continuation: **Gate E scans 34–40 / printed pp.33–39** — final 7-scan remainder at the locked Assembly boundary.
