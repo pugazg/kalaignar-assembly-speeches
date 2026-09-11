@@ -99,15 +99,16 @@ Read before continuation:
   - coverage: **37 / 37 pages**
   - working file: `speeches/1973/1973-03-07-financial-statement-reply/translation.md`
   - source-page sequence: **4→40 exactly once and in order**
-- Gate G English fidelity/voice review — **IN PROGRESS**
+- Gate G English fidelity/voice review — **PASS / COMPLETE**
   - G1 scans **4–13** / printed pp. **3–12** — **PASS**
   - G2 scans **14–23** / printed pp. **13–22** — **PASS**
   - G3 scans **24–33** / printed pp. **23–32** — **PASS**
-  - reviewed: **30 / 37 pages**
-  - cumulative Gate-G corrections: **11**
+  - G4 scans **34–40** / printed pp. **33–39** — **PASS**
+  - reviewed: **37 / 37 pages**
+  - cumulative Gate-G corrections: **15**
   - unresolved English fidelity issues: **0**
-  - next bounded iteration: **G4 scans 34–40 / printed pp.33–39 — final 7-page remainder**
-- Gate H canonical merge/index/release — **not reached**
+  - English `verified_against_tamil=true`
+- Gate H canonical merge/index/release — **READY / NOT STARTED**
 
 ## Historical-glyph corrections
 
@@ -202,41 +203,51 @@ F1, F2, F3 and F4 are **COMPLETE** through the locked Unit-1 end at **scan p.40 
 - F4 stops exactly at scan p.40; Unit 2 was not entered;
 - `translation.status=complete`;
 - `translation.verified_against_tamil=false`;
-- Gate G is **IN PROGRESS — G1–G3 PASS / 30 of 37 pages reviewed / 11 corrections / 0 unresolved**.
+- Gate G is **PASS / COMPLETE — 37 of 37 pages reviewed / 15 corrections / 0 unresolved / English verified**.
 
-## Gate G progress
+## Gate G result
 
-Gate G re-reads the **entire English translation against the final verified Tamil page by page** under the active 10-scan-page iteration policy:
+Gate G re-read the **entire English translation against the final verified Tamil page by page** under the active bounded iteration policy:
 
 - G1 — scans **4–13** / printed pp. **3–12** — **PASS**
 - G2 — scans **14–23** / printed pp. **13–22** — **PASS**
 - G3 — scans **24–33** / printed pp. **23–32** — **PASS**
-- G4 — scans **34–40** / printed pp. **33–39** — **NEXT / final 7-page remainder**
+- G4 — scans **34–40** / printed pp. **33–39** — **PASS**
 
-Cumulative result through G3:
+Final result:
 
-- reviewed pages: **30 / 37**
-- definite Gate-G corrections: **11**
+- reviewed pages: **37 / 37**
+- definite Gate-G corrections: **15**
 - unresolved fidelity issues: **0**
-- G3 p.24 restores the source accusation `நாம் உற்பத்தி செய்யவில்லை` as `not producing electricity`;
-- G3 p.27 removes the unsupported reconstructed place name from crop-damaged text;
-- G3 p.28 removes an editorial hedge from the `போனால் போகட்டும்` aside;
-- G3 p.29 restores singular `the strike` in the illustration caption;
-- G3 p.31 corrects the farmers' meeting duration to nearly two or two-and-a-half hours from 10 o'clock;
-- source-printed English on scans 25, 28 and 29 remains verbatim;
-- crop holds on scans 25–27 remain explicit and unreconstructed;
-- English remains **not verified** until G4 passes.
+- English `verified_against_tamil=true`
+- Gate G: **PASSED**
+- G4 corrections: scan 36 removes administrative normalization of `தாழ்த்தப்பட்ட மக்கள்`; scan 37→38 restores Thiru Subbu's physical page boundary; scan 38 removes an unsupported extra category from the book/party sentence; scan 39→40 restores the physical boundary inside the `ஆரிய மாயை` verse;
+- crop holds on scans 34–35 remain explicit and unreconstructed;
+- the `முடிப்புரை` closes exactly at scan p.40 / printed p.39;
+- Unit 2 remains untouched.
 
 Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-review.md`.
 
 ## Exact next activity
 
-Complete **Gate G batch G4 — scans 34–40 / printed pp.33–39**, the final 7-page remainder. Compare the existing English in `translation.md` only against the final verified Tamil in `transcript.md`. Check meaning, omissions/additions, repetitions, page-boundary continuations, speaker/intervention placement, names/initials, figures/dates/money/units, source markers, quotations, verse and Kalaignar's parliamentary voice. Correct only definite source-supported fidelity mismatches. Preserve crop holds on scans 34–35. If the full 37-page Gate-G review closes with zero unresolved issues, mark English verified. Do not begin Unit 2 or Gate H in the same iteration.
+Run **Gate H — canonical merge, index and release for Unit 1**.
+
+Required Gate-H actions:
+
+1. keep the verified Tamil **untouched** at the start of canonical `transcript.md`;
+2. append/consolidate the complete Gate-G-verified English from `translation.md` after the Tamil;
+3. verify Tamil source markers and English source-page sections each cover **4→40 exactly once and in order**;
+4. recheck all Gate-G correction boundaries after merge, especially 5→6, 37→38 and 39→40;
+5. update `metadata.json`, work README, `verification-log.md`, `translation-review.md`, `data/speeches.json`, root README/index and source handover;
+6. retire the working `translation.md` copy according to established repository convention only after the canonical merge is validated;
+7. mark released only after the merged canonical presentation and indexes pass all checks.
+
+Do not begin Unit 2 in the same iteration.
 
 ## Last archival-content checkpoint before this handover update
 
-`83ba7e208820c412f37d6d9a393e89ef5b8b43bd`
+`aca69c64411bc2a6f3f924ffc02f2fd3e43b8778`
 
-Message: `Review 1973 Assembly Gate G batch G3`
+Message: `Complete 1973 Assembly Gate G review`
 
 The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.
