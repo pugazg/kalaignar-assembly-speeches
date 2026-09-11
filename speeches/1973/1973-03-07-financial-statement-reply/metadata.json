@@ -55,5 +55,35 @@
   "release": {
     "status": "not-released",
     "gate_h_passed": false
+  },
+  "historical_glyph_audit": {
+    "gate": "C.5",
+    "required": true,
+    "guide": "docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md",
+    "status": "not-started",
+    "scope_scan_pages": "4-40",
+    "scope_printed_pages": "3-39",
+    "minimum_families": [
+      "ணா",
+      "ணை",
+      "ணொ",
+      "ணோ",
+      "லை",
+      "ளை",
+      "றா",
+      "றொ",
+      "றோ",
+      "னா",
+      "னை",
+      "னொ",
+      "னோ"
+    ],
+    "source_pixels_authoritative": true,
+    "same_edition_comparison_required_when_uncertain": true,
+    "global_replace_forbidden": true,
+    "corrections": 0,
+    "unresolved_clusters": 0,
+    "downstream_gate": "D",
+    "downstream_blocked": true
   }
 }

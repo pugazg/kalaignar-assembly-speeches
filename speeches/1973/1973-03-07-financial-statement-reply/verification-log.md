@@ -128,3 +128,33 @@ Exact continuation: **scan p.39 / printed p.38**.
 **Gate C result for Unit 1: COMPLETE — scans 4–40 / printed pp.3–39.** The metadata transcription status is now `transcribed`, which records first-pass completeness only and does not imply verification.
 
 Exact next activity: **Gate D Tamil completeness audit for the locked Assembly range scans 4–40 / printed pp.3–39**.
+
+## Gate C.5 — historical Tamil glyph audit
+
+Status: **NEXT / NOT STARTED**
+
+This gate was introduced after completion of the Assembly Gate-C first pass and before Gate D. It is mandatory for this 1973 source.
+
+Scope: **scan pp.4–40 / printed pp.3–39**.
+
+Controlling guide: `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+
+Minimum families to check on every page:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+
+Rules for this gate:
+
+- inspect every page at enlarged/native resolution;
+- read historical character identity rather than modern visual resemblance;
+- compare same-edition/same-font occurrences when uncertain;
+- encode the proven identity in modern Unicode while preserving the source wording unchanged;
+- do not use OCR as authority and do not perform global replacements;
+- record historical-glyph corrections separately from ordinary transcription corrections;
+- leave any unresolved cluster explicit rather than guessing.
+
+No Gate-C text was altered merely by introducing this gate. Historical-glyph corrections: **0 so far because the audit has not started**. Unresolved historical-glyph clusters: **not yet assessed**.
+
+**Gate D is now blocked until Gate C.5 passes.**
+
+Exact next activity: begin Gate C.5 at **scan p.4 / printed p.3** and audit the full Assembly range in bounded page batches.

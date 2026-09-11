@@ -15,6 +15,7 @@ The repository is intended to be a **source-faithful, auditable digital archive*
 7. **Completeness and verification are different.** A transcript can be complete without yet being verified.
 8. **Released material is locked.** Once a speech has passed Gate H, do not restart, retranscribe, retranslate, normalise or otherwise alter its canonical Tamil/English while processing another source. Change a released layer only for a concrete, explicitly documented, source-supported correction.
 9. **Kalaignar's voice must survive translation.** English is not a prose clean-up. Preserve argumentative sequence, repetitions, direct address, humour, irony, wordplay, metaphors, rhetorical accumulation, register shifts, parliamentary exchanges and stage markers wherever the verified Tamil supports them.
+10. **Historical glyph identity must be decoded before lexical expectation.** In older Tamil print, an old typeform may visually resemble a different modern character. Determine the historical character identity from enlarged source pixels and same-edition evidence, then encode that identity in modern Unicode without modernising the source wording. Follow `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
 ## 2. Canonical speech organisation
 
@@ -45,6 +46,7 @@ speeches/YYYY/YYYY-MM-DD-event-slug/
 ├── source-notes.md
 ├── transcript.md
 ├── verification-log.md
+├── historical-glyph-audit.md  # when Gate C.5 applies
 └── translation-review.md   # when English fidelity review produces a separate audit record
 ```
 
@@ -132,9 +134,10 @@ Every newly supplied PDF is a **new controlling source until proven otherwise**.
 4. inspect the **actual attached/rendered scan**, including title/front matter and the physical end of the PDF; do not derive metadata from the filename alone;
 5. establish page count, filename, byte size and SHA-256 when the bytes are available;
 6. identify publication metadata from the scan itself;
-7. determine whether the source is a single speech or anthology;
-8. if an anthology, complete Gate B mapping before transcription;
-9. never alter already released speeches merely because a new anthology overlaps them — document the overlap and treat editions as separate source witnesses unless an explicit correction task is requested.
+7. determine whether historical Tamil typeforms may occur; for older print, make Gate C.5 applicable unless the source is positively established as not requiring it;
+8. determine whether the source is a single speech or anthology;
+9. if an anthology, complete Gate B mapping before transcription;
+10. never alter already released speeches merely because a new anthology overlaps them — document the overlap and treat editions as separate source witnesses unless an explicit correction task is requested.
 
 ### Gate A — source preflight
 
@@ -174,9 +177,36 @@ For long speeches, use bounded batches. At the end of every batch record source 
 
 Do not start a second speech merely to fill a batch size. Preserve natural speech boundaries. Do not reconstruct page continuations from memory or outside knowledge.
 
+### Gate C.5 — historical Tamil glyph audit
+
+For older Tamil print, this is a **mandatory source-pixel gate between Gate C and Gate D** unless the source is explicitly documented as not requiring historical-glyph review.
+
+Read and follow `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. The controlling rule is: **read character identity, not modern visual resemblance**.
+
+Audit every mapped Tamil source page at enlarged/native resolution and explicitly check the minimum known reform-sensitive families:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+
+Requirements:
+
+- inspect the whole page before difficult clusters;
+- use source pixels, not OCR, as authority;
+- compare clearer same-edition/same-font occurrences when a form is uncertain;
+- separate glyph identity from lexical expectation;
+- encode only the proven historical character identity in modern Unicode;
+- preserve source spelling, grammar, vocabulary, punctuation, compounds and spacing otherwise;
+- **never global-replace** a suspected historical form;
+- record every historical-glyph correction with scan/printed-page provenance, earlier/apparent reading, source-supported reading, glyph family and evidence;
+- keep ordinary transcription corrections separate from historical-glyph corrections;
+- if a glyph remains ambiguous, do not guess: record it as unresolved and keep downstream verification blocked.
+
+When this gate applies, maintain `historical-glyph-audit.md` (or an equivalent work-level audit ledger). Gate C.5 may pass without marking the speech `verified`; final Tamil verification still belongs to Gate E.
+
+**Gate D must not begin until Gate C.5 is PASS or explicitly N/A.**
+
 ### Gate D — Tamil completeness audit
 
-Before calling a speech `transcribed`, confirm every mapped source page is represented; all page markers are present and monotonic; no page is duplicated or skipped; start/end align with the locked map; all printed speaker changes/interventions are represented; and unresolved readings are explicitly marked.
+After Gate C.5 has passed (or been explicitly recorded N/A), confirm every mapped source page is represented; all page markers are present and monotonic; no page is duplicated or skipped; start/end align with the locked map; all printed speaker changes/interventions are represented; and unresolved readings are explicitly marked.
 
 ### Gate E — Tamil source-fidelity verification
 
@@ -186,7 +216,7 @@ Apply corrections to the canonical transcript and document them in `verification
 
 ### Gate F — English translation
 
-English translation begins **only after the Tamil audit gates are complete**.
+English translation begins **only after the Tamil audit gates are complete**, including Gate C.5 when applicable.
 
 Translate the verified Tamil, not OCR or an earlier draft. Preserve Kalaignar's language and parliamentary voice: argumentative sequence, repetitions, direct address, humour, wordplay, irony, metaphors, rhetorical rhythm, register shifts and interventions. Do not polish these into generic English. Do not improve factual claims or silently correct historical statements. Keep names, figures, technical terms, printed English and stage markers consistent with the verified Tamil.
 

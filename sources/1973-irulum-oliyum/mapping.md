@@ -91,7 +91,8 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate A — **COMPLETE / PASS**
 - Gate B — **COMPLETE / PASS / LOCKED**
 - Gate C — **COMPLETE — Unit 1 scans 4–40 / printed pp.3–39**
-- Gate D — **NEXT — Unit 1 Tamil completeness audit**
+- Gate C.5 — **NEXT — historical Tamil glyph audit, Unit 1 scans 4–40 / printed pp.3–39**
+- Gate D — **BLOCKED until Gate C.5 passes**
 - Gate E — not started
 - Gates F–H — blocked
 
@@ -111,4 +112,4 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 ## Exact next activity
 
-Run **Gate D — Tamil completeness audit** on Unit 1, `சட்டப் பேரவையில்` / `7-3-1973`, across the full locked range **PDF scans 4–40 / printed pp.3–39**. Check marker coverage/monotonicity, start/end against the locked map, all speaker changes/interventions and printed contextual material, and that every unresolved source reading remains explicitly marked. Do not begin Gate E, Unit 2 or English until Gate D passes.
+Run **Gate C.5 — historical Tamil glyph audit** on Unit 1, `சட்டப் பேரவையில்` / `7-3-1973`, across the full locked range **PDF scans 4–40 / printed pp.3–39**, using `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Re-read every page from enlarged/native source pixels; check all 13 minimum reform-sensitive families; compare same-edition examples when uncertain; record each glyph correction with provenance; never global-replace or modernise source wording. Begin at **scan p.4 / printed p.3**. Gate D, Gate E, Unit 2 and English remain blocked until this gate passes.
