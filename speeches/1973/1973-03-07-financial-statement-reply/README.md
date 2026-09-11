@@ -16,7 +16,7 @@ This entry preserves the Legislative Assembly reply dated `7-3-1973` in the sour
 - Gate A: **PASS** at source-package level
 - Gate B: **PASS / LOCKED**
 - Gate C: **COMPLETE — scans 4–40 / printed pp.3–39**
-- Gate C.5: **IN PROGRESS — scans 4–18 / printed pp.3–17 audited; 3 cumulative glyph corrections; 0 unresolved glyph clusters in audited visible text**
+- Gate C.5: **IN PROGRESS — scans 4–23 / printed pp.3–22 audited; 3 cumulative glyph corrections; 0 unresolved glyph clusters in audited visible text**
 - Gate D: **BLOCKED until Gate C.5 passes**
 - Gate E: not started
 - English Gates F–G: blocked
@@ -26,6 +26,6 @@ The controlling scan has gutter-edge loss on scans 4–5, 10–11, 20–21, 25�
 
 Gate-C first pass now reaches the locked Assembly close on **scan p.40 / printed p.39**. Because this 1973 source uses older Tamil print, a dedicated historical-glyph pass is now mandatory under `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
-Gate C.5 batches HG1–HG3 are complete through **scans 4–18 / printed pp.3–17**. HG3 found **no additional historical-glyph correction** after direct enlarged-pixel review; cumulative corrections remain **3**, with **0 unresolved historical-glyph clusters** in the audited visible text. Printed English on scans 15–17 and source spelling/spacing remain untouched because Gate C.5 changes character identity only.
+Gate C.5 batches HG1–HG4 are complete through **scans 4–23 / printed pp.3–22**. HG4 found **no additional historical-glyph correction** after enlarged source-pixel review; cumulative corrections remain **3**, with **0 unresolved historical-glyph clusters** in the audited visible text. The physical crop losses on scans 20–21 remain source-loss holds and were not converted into guessed glyph readings.
 
-Exact next activity: continue **Gate C.5 with scans 19–23 / printed pp.18–22**. Gate D must wait until the full historical-glyph audit passes.
+Exact next activity: continue **Gate C.5 with scans 24–28 / printed pp.23–27**. Gate D must wait until the full historical-glyph audit passes.

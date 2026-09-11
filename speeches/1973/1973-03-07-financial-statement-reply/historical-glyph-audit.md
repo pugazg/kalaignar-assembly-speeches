@@ -42,7 +42,8 @@ Requirements:
 | 4–8 | 3–7 | PASS — HG1 | 2 | 0 |
 | 9–13 | 8–12 | PASS — HG2 | 1 | 0 |
 | 14–18 | 13–17 | PASS — HG3 | 0 | 0 |
-| 19–40 | 18–39 | NOT YET AUDITED | 0 | not yet assessed |
+| 19–23 | 18–22 | PASS — HG4 | 0 | 0 |
+| 24–40 | 23–39 | NOT YET AUDITED | 0 | not yet assessed |
 
 ## Correction ledger
 
@@ -88,6 +89,18 @@ Families with no positive occurrence requiring action in HG2 — including `ண�
 
 No positive occurrence requiring correction was found for `ணொ / ணோ / றொ / னொ / னோ` in HG3; all were still checked.
 
+## HG4 page-level coverage
+
+| Scan | Printed | All 13 families checked | Representative source-supported identities | Corrections | Unresolved glyph clusters |
+|---:|:---:|---|---|---:|---:|
+| 19 | 18 | YES | `விலைவாசி` / `நிலைக்குப்` (`லை`), `விளைவாக` (`ளை`), `மாறாக` (`றா`), `சொல்கின்றோம்` (`றோ`), `வேண்டுமானால்` (`னா`) | 0 | 0 |
+| 20 | 19 | YES | `கருணாநிதி` (`ணா`), `போடுகிறார்கள்` (`றா`), `சொன்னோம்` (`னோ`), `என்னைத்` (`னை`) | 0 | 0 |
+| 21 | 20 | YES | `விலைவாசி` (`லை`), `விளையாடுகிறது` (`ளை`), `பாதிக்கப்படுகிறார்கள்` (`றா`) | 0 | 0 |
+| 22 | 21 | YES | `வழிகளையும்` (`ளை`), `பேசியிருக்கிறார்கள்` (`றா`), `இருக்கிறோம்` (`றோ`), `அத்தனை` / `பிரச்சினையை` (`னை`) | 0 | 0 |
+| 23 | 22 | YES | `சூழ்நிலையைப்` (`லை`), `விரும்புகிறார்களோ` (`றா`), `அணுகியிருக்கிறோம்` (`றோ`), `அனைவரையும்` (`னை`) | 0 | 0 |
+
+No positive occurrence requiring correction was found for `ணை / ணொ / ணோ / றொ / னொ` in HG4; all were still explicitly checked.
+
 ## Exact next activity
 
-Continue the Gate C.5 source-pixel audit with **scan pp.19–23 / printed pp.18–22**. Check all 13 families on every page, apply only individually proven glyph-identity corrections, synchronize this ledger and `verification-log.md`, and do not start Gate D until scans 4–40 have passed.
+Continue the Gate C.5 source-pixel audit with **scan pp.24–28 / printed pp.23–27**. Check all 13 families on every page, apply only individually proven glyph-identity corrections, synchronize this ledger and `verification-log.md`, and do not start Gate D until scans 4–40 have passed.

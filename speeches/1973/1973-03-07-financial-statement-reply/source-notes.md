@@ -103,3 +103,11 @@ All five pages were re-read from enlarged/native source pixels and all 13 minimu
 Representative old-form identities were confirmed rather than modernised: scan p.14 `அண்ணா` (`ணா`), `நன்றாகப்` / `உயர்த்தியிருக்கிறார்கள்` (`றா`); scan p.15 `அண்ணா` (`ணா`), `நன்றாகத்` / `தவறான` (`றா`); scan p.16 `எத்தனையோ` (`னை`) and `அப்படியென்றால்` (`றா`); scan p.17 `விலைவாசி` (`லை`) and `ஆகியவைகளைப்` (`ளை`); scan p.18 `மலையாளத்திலும்` / `நிலைகளை` (`லை`) and `குறிப்பிட்டிருக்கின்றார்கள்` (`றா`).
 
 No positive occurrence requiring correction was found for `ணொ / ணோ / றொ / னொ / னோ` in HG3, but those families were still explicitly checked. Printed English on scans 15–17 is outside historical Tamil glyph decoding and was left unchanged.
+
+### Gate C.5 batch HG4 — scans 19–23 / printed pp.18–22
+
+All five pages were re-read from enlarged/native source pixels with all 13 minimum historical-glyph families checked on each page. **No additional historical-glyph correction was required.**
+
+Representative identities confirmed from the source include scan p.19 `விலைவாசி` / `நிலைக்குப்` (`லை`), `விளைவாக` (`ளை`), `மாறாக` (`றா`), `சொல்கின்றோம்` (`றோ`), `வேண்டுமானால்` (`னா`); scan p.20 `கருணாநிதி` (`ணா`), `போடுகிறார்கள்` (`றா`), `சொன்னோம்` (`னோ`), `என்னைத்` (`னை`); scan p.21 `விலைவாசி` (`லை`), `விளையாடுகிறது` (`ளை`), `பாதிக்கப்படுகிறார்கள்` (`றா`); scan p.22 `வழிகளையும்` (`ளை`), `பேசியிருக்கிறார்கள்` (`றா`), `அத்தனை` / `பிரச்சினையை` (`னை`); scan p.23 `சூழ்நிலையைப்` (`லை`), `விரும்புகிறார்களோ` (`றா`), `அணுகியிருக்கிறோம்` (`றோ`), `அனைவரையும்` (`னை`).
+
+No positive occurrence requiring correction was found for `ணை / ணொ / ணோ / றொ / னொ` in HG4; those families were still explicitly checked. Existing scan pp.20–21 gutter losses remain physical source-loss holds and are not historical-glyph ambiguity.
