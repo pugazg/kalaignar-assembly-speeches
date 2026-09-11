@@ -96,3 +96,24 @@ Unresolved historical-glyph clusters: **0**.
 
 Exact continuation: **HG2 scans 51–60 / printed pp.50–59**.
 
+### HG2 — scans 51–60 / printed pp.50–59
+
+Status: **PASS**
+
+- all ten pages were re-read against enlarged controlling-source pixels;
+- all 13 mandatory historical-glyph families were checked on every page;
+- source spelling, grammar, compounds and punctuation were not modernized;
+- global replacements: **0**;
+- historical-glyph corrections in HG2: **0**;
+- unresolved historical-glyph clusters: **0**;
+- source-printed English on scans 52–55 was left untouched;
+- ordinary transcription/source-fidelity issues, if any, remain for their later gate rather than being silently repaired under C.5.
+
+Gate C remains complete. `transcription.verified_against_scan=false` remains unchanged.
+
+Cumulative Gate-C.5 coverage: **20 / 22 pages**.  
+Cumulative historical-glyph corrections: **1**.  
+Unresolved historical-glyph clusters: **0**.
+
+Exact continuation: **HG3 / FINAL scans 61–62 / printed pp.60–61**. Do not begin Gate D in the same iteration.
+
