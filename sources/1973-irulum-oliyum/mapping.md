@@ -92,7 +92,7 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate B — **COMPLETE / PASS / LOCKED**
 - Gate C — **COMPLETE — Unit 1 scans 4–40 / printed pp.3–39**
 - Gate C.5 — **PASS / COMPLETE — HG1–HG7 scans 4–40 / printed pp.3–39; 3 cumulative corrections; 0 unresolved historical-glyph clusters**
-- Gate D — **IN PROGRESS — D1–D2 scans 4–23 / printed pp.3–22 PASS; 0 completeness corrections**
+- Gate D — **IN PROGRESS — D1–D3 scans 4–33 / printed pp.3–32 PASS; 0 completeness corrections**
 - Gate E — not started
 - Gates F–H — blocked
 
@@ -120,4 +120,4 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 ## Exact next activity
 
-Continue **Gate D — Tamil completeness audit** on Unit 1 with **PDF scans 24–33 / printed pp.23–32** as the next **10-scan-page iteration**. D1–D2 scans 4–23 have passed with markers unique/monotonic, continuations preserved, visible speaker/intervention and printed contextual material represented, crop holds explicit, and 0 completeness corrections. Do not begin Gate E, Unit 2 or English until Gate D passes.
+Finish **Gate D — Tamil completeness audit** on Unit 1 with **PDF scans 34–40 / printed pp.33–39**. This is the final **7-scan remainder** at the locked Assembly boundary. D1–D3 scans 4–33 have passed with markers unique/monotonic, continuations preserved, visible speaker/intervention and printed contextual material represented, source-loss holds explicit, and 0 completeness corrections. Do not begin Gate E, Unit 2 or English until this final Gate D remainder passes.

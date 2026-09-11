@@ -32,7 +32,8 @@ For every mapped source page:
 |---|---|---|---|---:|
 | D1 | 4–13 | 3–12 | PASS | 0 |
 | D2 | 14–23 | 13–22 | PASS | 0 |
-| — | 24–40 | 23–39 | NOT YET AUDITED | 0 |
+| D3 | 24–33 | 23–32 | PASS | 0 |
+| — | 34–40 | 33–39 | NOT YET AUDITED | 0 |
 
 ## D1 page-level coverage
 
@@ -72,6 +73,25 @@ Marker sequence for D2: **14 → 15 → 16 → 17 → 18 → 19 → 20 → 21 �
 
 Canonical Tamil changes made during D2: **0**. Cumulative Gate D completeness corrections: **0**.
 
+## D3 page-level coverage
+
+| Scan | Printed | Marker exactly once | Key completeness evidence | Source-loss / unresolved state | Result |
+|---:|:---:|:---:|---|---|:---:|
+| 24 | 23 | YES | p.23 continuation; four-state power-map labels represented | none new | PASS |
+| 25 | 24 | YES | `திட்டங்களே கேட்கவில்லையா ?`; ten-project list; printed English Ananthanayaki intervention; Ponnappa Nadar | 38 left-gutter `⟦scan-crop⟧` holds explicit | PASS |
+| 26 | 25 | YES | Karunanidhi response; project-approval process | 37 right-gutter `⟦scan-crop⟧` holds explicit | PASS |
+| 27 | 26 | YES | printed `Ratification`; `மத்தியில் இருந்து.........` | 38 left-gutter `⟦scan-crop⟧` holds explicit | PASS |
+| 28 | 27 | YES | four-speaker sequence; two printed English K. L. Rao quotations | none new | PASS |
+| 29 | 28 | YES | `Zonal Council`; Southern Zone English quotation; `வேலை நிறுத்தம்` placards/caption | none new | PASS |
+| 30 | 29 | YES | Hande / O. P. Raman / Ananthanayaki / O. P. Raman interventions | none new | PASS |
+| 31 | 30 | YES | Karunanidhi continuation; handloom-yarn illustration; `விவசாயிகளுக்குச் சலுகைகள்` | none new | PASS |
+| 32 | 31 | YES | three five-hour trial windows; farmer-electricity illustration and clock numerals | none new | PASS |
+| 33 | 32 | YES | transformer section; minimum-charge cancellation illustration; continuation to p.34 | none new | PASS |
+
+Marker sequence for D3: **24 → 25 → 26 → 27 → 28 → 29 → 30 → 31 → 32 → 33**.
+
+Canonical Tamil changes made during D3: **0**. Cumulative Gate D completeness corrections: **0**.
+
 ## Exact next activity
 
-Continue Gate D with **scan pp.24–33 / printed pp.23–32** as the next 10-scan-page iteration. Do not start Gate E, Unit 2 or English until the full Gate D range has passed.
+Finish Gate D with **scan pp.34–40 / printed pp.33–39**. This is the final **7-scan remainder** at the locked Assembly boundary; do not cross into Unit 2 merely to fill ten pages. Do not start Gate E until this final Gate D remainder passes.

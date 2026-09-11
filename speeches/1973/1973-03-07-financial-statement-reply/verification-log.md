@@ -341,3 +341,29 @@ Completeness checks:
 - Gate E remains blocked until Gate D passes across scans 4–40.
 
 Exact continuation: **Gate D scans 24–33 / printed pp.23–32**.
+
+### Batch D3 — scan pp.24–33 / printed pp.23–32
+
+Status: **PASS for this batch / Gate D remains IN PROGRESS**
+
+Batch size: **10 scan pages**.
+
+Completeness checks:
+
+- source-page markers **24 through 33** are each present exactly once and are strictly monotonic;
+- scan p.24 correctly continues the p.23 power-generation discussion and represents the map labels `மைசூர் — 130 லட்சம் யூனிட்`, `ஆந்திரம் — 90 லட்சம் யூனிட்`, `தமிழ்நாடு — 225 லட்சம் யூனிட்`, and `கேரளா — 60 லட்சம் யூனிட்`;
+- scan p.25 includes heading `திட்டங்களே கேட்கவில்லையா ?`, the ten-project list, the printed English `THIRUMATHI T. N. ANANDANAYAKI` intervention, and Ponnappa Nadar intervention; **38** left-gutter `⟦scan-crop⟧` holds remain explicit;
+- scan p.26 preserves the Karunanidhi response and the project-approval explanation; **37** right-gutter `⟦scan-crop⟧` holds remain explicit;
+- scan p.27 preserves the approval/import discussion, printed `Ratification`, heading `மத்தியில் இருந்து.........`, and **38** left-gutter `⟦scan-crop⟧` holds;
+- scan p.28 preserves the Ananthanayaki / Karunanidhi / Ponnappa Nadar / Karunanidhi sequence and both printed English K. L. Rao quotations: `He complimented Tamil Nadu for making the best use of power without wastage.` and `The power planning so far had been totally wrong...`;
+- scan p.29 preserves the printed `Zonal Council` context, the full Southern Zone English quotation, protest placards `வேலை நிறுத்தம்`, and caption `வேலைநிறுத்தத்தின் விளைவாலும் விலைவாசி ஏற்றம்`;
+- scan p.30 preserves all four visible speaker changes: Hande, O. P. Raman, Ananthanayaki, O. P. Raman;
+- scan p.31 preserves the Karunanidhi continuation, illustration text `கைத்தறியாளர்களுக்குத் நூல்கள் அரசு நேரிடை விநியோகம்`, and heading `விவசாயிகளுக்குச் சலுகைகள்`;
+- scan p.32 preserves the three trial power-supply time windows and illustration text `விவசாயத்திற்கும் மின்சாரம்` with clock numerals `12, 1, 2, 3, 4, 5`;
+- scan p.33 preserves the transformer discussion, illustration text `குறைந்த பட்சக் கட்டணம் விவசாயிகளுக்கும், தொழிற்சாலைகளுக்கும் தற்காலிக ரத்து`, and the final tax-relief paragraph before the normal continuation into scan p.34;
+- no mapped source page in scans 24–33 is missing or duplicated;
+- no visible speaker change, printed English passage, heading, securely readable illustration label, or explicit source-loss hold in this range was omitted from the canonical source layer;
+- completeness corrections in D3: **0**; cumulative Gate D completeness corrections: **0**;
+- Gate E remains blocked until Gate D passes across scans 4–40.
+
+Exact continuation: **Gate D scans 34–40 / printed pp.33–39** — final 7-scan remainder at the locked Assembly boundary.
