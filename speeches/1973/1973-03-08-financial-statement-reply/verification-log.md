@@ -40,3 +40,33 @@ Status: **COMPLETE for this batch / Gate C remains IN PROGRESS**
 Cumulative Gate-C coverage: **20 / 22 pages**.
 
 Exact continuation: **Gate C batch C3 — scan pp.61–62 / printed pp.60–61**, the final 2-page remainder.
+
+### Batch C3 — scan pp.61–62 / printed pp.60–61
+
+Status: **COMPLETE / GATE C COMPLETE**
+
+- visually transcribed the final two source scans directly from the controlling PDF pixels;
+- cumulative source-page markers **41→62** are present exactly once and in order;
+- preserved the continuing Dindigul-election passage and the `மாற்றம்!` heading on scan 61;
+- preserved the State-autonomy closing argument and final acknowledgements on scan 62;
+- scan 62 closes with `வணக்கம்` and the printed closing ornament;
+- no physical crop-loss hold was required in scans 61–62;
+- scan 63 was confirmed as printer/imprint matter and scan 64 as back cover; **no third speech follows**;
+- no OCR-generated wording was substituted for source pixels;
+- no Gate-C language modernization or historical-glyph normalization was performed;
+- `transcription.verified_against_scan=false` remains correct because Gate C.5, Gate D and Gate E are still pending.
+
+## Gate C final result
+
+- source range: **41–62**
+- printed range: **40–61**
+- pages transcribed: **22/22**
+- source-page sequence: **41→62 exactly once and in order**
+- physical crop holds: **0**
+- Gate C: **COMPLETE**
+- Gate C.5: **NEXT / NOT STARTED**
+- Gate D/E: **NOT STARTED**
+- English: **BLOCKED**
+
+Exact continuation: **Gate C.5 historical Tamil glyph audit, HG1 scans 41–50 / printed pp.40–49**. Do not begin Gate D in the same iteration.
+

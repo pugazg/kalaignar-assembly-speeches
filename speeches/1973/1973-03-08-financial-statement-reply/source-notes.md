@@ -38,3 +38,15 @@ This is a 1973 printed source. After Gate C reaches scan 62, Gate C.5 must audit
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
 No global replacement is permitted. Character identity must be demonstrated from enlarged/native source pixels, using same-edition comparisons when needed. Glyph decoding does not authorize spelling or grammar modernization.
+
+## C3 source-condition notes — scans 61–62
+
+- scan 61 / printed p.60 continues the Dindigul-election discussion and contains the heading `மாற்றம்!`;
+- scan 62 / printed p.61 closes the Council reply with the State-autonomy argument, final acknowledgements, `வணக்கம்`, and the printed closing ornament;
+- no physical crop-loss hold was required in scans 61–62;
+- scan 63 is non-speech printer/imprint matter;
+- scan 64 is the back cover with a later donor/gift sticker and is non-speech;
+- no third speech follows.
+
+Gate C is now complete for **41–62 / 22 of 22 pages**. Gate C.5 remains mandatory before Tamil completeness or source-fidelity verification.
+

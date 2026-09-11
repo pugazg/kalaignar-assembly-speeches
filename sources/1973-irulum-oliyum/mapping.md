@@ -105,8 +105,8 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 - Gate A — **PASS at source-package level**
 - Gate B — **PASS / LOCKED — scans 41–62 / printed pp.40–61**
-- Gate C — **IN PROGRESS — C1 scans 41–50 / printed pp.40–49 complete; 10/22 pages**
-- Gate C.5 — **NOT STARTED / mandatory after Gate C**
+- Gate C — **COMPLETE — C1–C3 scans 41–62 / printed pp.40–61; 22/22 pages**
+- Gate C.5 — **NEXT / NOT STARTED — mandatory historical-glyph audit**
 - Gates D–H — **NOT STARTED / downstream**
 
 ### Gate-C source-condition notes
@@ -162,19 +162,19 @@ The complete English translation for scans **4–40 / printed pp.3–39** has be
 
 Unit 1 is **RELEASED**. Canonical `transcript.md` contains the unchanged verified Tamil followed by the complete Gate-G-verified English. Tamil markers and English source-page sections each cover **4→40 exactly once and in order**. Repository indexes are synchronized and `translation.md` is retired to a pointer.
 
-## Unit 2 Gate C progress
+## Unit 2 Gate C result
 
 - C1 — **COMPLETE** — scans **41–50** / printed pp. **40–49** — 10 pages
-- cumulative Gate-C coverage: **10 / 22 pages**
-- source-page sequence: **41→50 exactly once and in order**
-- C1 physical crop holds: **0**
-- source-printed English on scan 50 retained verbatim
-- historical-glyph audit: **not started / mandatory after Gate C**
-- Tamil verification: **not started**
-- English: **blocked**
+- C2 — **COMPLETE** — scans **51–60** / printed pp. **50–59** — 10 pages
+- C3 — **COMPLETE** — scans **61–62** / printed pp. **60–61** — 2 pages
+- cumulative Gate-C coverage: **22 / 22 pages**
+- source-page sequence: **41→62 exactly once and in order**
+- Unit-2 physical crop holds introduced during Gate C: **0**
+- scan 62 closes with `வணக்கம்` and the printed ornament
+- scan 63 is printer/imprint; scan 64 back cover; no third speech follows
+- Tamil verification remains pending Gate C.5, D and E
+- English remains blocked
 
 ## Exact next activity
 
-Complete **Unit 2 Gate C batch C3 — scans 61–62 / printed pp.60–61**, the final two-page remainder at the locked Council boundary. Transcribe directly from controlling source pixels and stop at scan 62; scan 63 is printer/imprint and scan 64 back cover. Do not begin Gate C.5 in the same iteration.
-
-Cumulative Gate-C result through C2: scans **41–60 / printed pp.40–59**, **20/22 pages**, first-pass complete, **0 physical crop holds**.
+Begin the mandatory **Unit 2 Gate C.5 historical Tamil glyph audit — HG1 scans 41–50 / printed pp.40–49**. Re-read the canonical Gate-C transcript against source pixels for the historical glyph families defined in `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Apply only source-supported corrections, record unresolved clusters explicitly, and do not begin Gate D in the same iteration.
