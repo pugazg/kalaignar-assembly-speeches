@@ -177,3 +177,22 @@ Status: **PASS for this batch / Gate C.5 remains IN PROGRESS**
 - Gate D remains blocked.
 
 Exact continuation: **Gate C.5 scans 9–13 / printed pp.8–12**.
+
+### Batch HG2 — scan pp.9–13 / printed pp.8–12
+
+Status: **PASS for this batch / Gate C.5 remains IN PROGRESS**
+
+- complete pages 9–13 were inspected from enlarged/native source pixels;
+- all 13 minimum families were explicitly checked on every page: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- scan p.12 / printed p.11: apparent `மாற்றுந்தாய்` was decoded as source-supported `மாற்றாந்தாய்`; historical identity `றா`; the canonical transcript was corrected at that single occurrence;
+- same-edition evidence: the old `றா` form was compared with clear scan-p.12 `றா` identities including `தவறாகும்` and `சொல்கிறாரே`;
+- representative checked forms include p.9 `கருணாநிதி` (`ணா`), `இணைத்துப்` (`ணை`), `வருகிறோம்` (`றோ`), `இன்னொரு` (`னொ`); p.10 `தவணை` (`ணை`), `ஏனென்றால்` (`றா`), `பெறுகிறோம்` (`றோ`); p.11 `வேளையாக` (`ளை`), `மாறாக` (`றா`); p.12 `தவறாகும்` / `மாற்றாந்தாய்` / `சொல்கிறாரே` (`றா`), `மறுக்கிறோம்` (`றோ`); p.13 `வரிகளைச்` (`ளை`), `விளக்கியிருக்கிறோம்` (`றோ`), `முன்னேற்றங்களினாலும்` (`னா`);
+- no positive occurrences requiring correction were found for `ணொ / ணோ / றொ / னோ` in HG2; those families were still explicitly checked on all five pages;
+- scans 9, 10, 11 and 13 required **0** historical-glyph corrections;
+- historical-glyph corrections in HG2: **1**; cumulative Gate C.5 corrections: **3**;
+- unresolved historical-glyph clusters in the audited visible text: **0**;
+- scan pp.10–11 `⟦scan-crop⟧` holds and the unresolved small scan-p.13 cartoon labels remain source-condition holds, not glyph-audit failures;
+- no global replacement was used;
+- Gate D remains blocked.
+
+Exact continuation: **Gate C.5 scans 14–18 / printed pp.13–17**.
