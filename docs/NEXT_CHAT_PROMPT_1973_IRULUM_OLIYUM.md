@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 Gate G batch G1
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 Gate G batch G2
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,9 +8,9 @@ Fetch live `main` first and preserve newer durable work. Do not reset to a stale
 
 Last archival-content checkpoint before this handover documentation:
 
-`18b652727adad5879b1fad56cb9750676c42ca3d`
+`5ff214500c981cc09a1b225fdd98fd62be173107`
 
-Message: `Complete 1973 Assembly Gate F batch F4`
+Message: `Review 1973 Assembly Gate G batch G1`
 
 The documentation commits are newer than this SHA; fetch live `main` first.
 
@@ -87,9 +87,12 @@ Unit 2:
   - F4 scans 34–40 / printed pp.33–39 — **COMPLETE**
   - coverage: **37 / 37 pages**
   - source-page sequence: **4→40 exactly once and in order**
-- Gate G — **READY / NOT STARTED**
-  - full scope: scans 4–40 / printed pp.3–39
-  - next: G1 scans 4–13 / printed pp.3–12
+- Gate G — **IN PROGRESS**
+  - G1 scans 4–13 / printed pp.3–12 — **PASS**
+  - reviewed: **10 / 37 pages**
+  - corrections: **4**
+  - unresolved fidelity issues: **0**
+  - next: G2 scans 14–23 / printed pp.13–22
 - Gate H — **not reached**
 
 ## Accepted source-layer corrections
@@ -150,16 +153,16 @@ Gate F is **COMPLETE** in `translation.md` for the full locked Unit-1 range **sc
 
 Use the active 10-scan-page iteration policy:
 
-- G1 — scans **4–13** / printed pp. **3–12**
-- G2 — scans **14–23** / printed pp. **13–22**
+- G1 — scans **4–13** / printed pp. **3–12** — **PASS**
+- G2 — scans **14–23** / printed pp. **13–22** — **NEXT**
 - G3 — scans **24–33** / printed pp. **23–32**
 - G4 — scans **34–40** / printed pp. **33–39** — final 7-page remainder
 
-Gate G must ultimately cover the entire English translation.
+G1 applied **4** definite English fidelity corrections with **0 unresolved issues**. See `translation-review.md` for the durable ledger. English remains unverified until all four Gate-G batches pass.
 
-## Exact next activity — Gate G batch G1
+## Exact next activity — Gate G batch G2
 
-Review **scans 4–13 / printed pp.3–12** page by page by comparing the existing English in `translation.md` against the final verified Tamil in `transcript.md`.
+Review **scans 14–23 / printed pp.13–22** page by page by comparing the existing English in `translation.md` against the final verified Tamil in `transcript.md`.
 
 Requirements:
 
@@ -169,10 +172,11 @@ Requirements:
 - verify source-page boundaries and cross-page sentence continuation;
 - verify speaker/intervention placement;
 - verify names, initials, figures, dates, percentages, money, units and technical terms;
-- preserve **source-printed English verbatim**;
-- preserve inherited `⟦scan-crop⟧` source-loss markers and never reconstruct missing Tamil;
-- record every correction and any unresolved question in the Gate-G review record / verification log;
-- do not mark English verified after G1 alone;
+- preserve **source-printed English verbatim**, especially the Hande material across scans 15–17;
+- preserve inherited `⟦scan-crop⟧` source-loss markers on scans 20–21 and never reconstruct missing Tamil;
+- preserve unusual source-supported claims rather than correcting them from outside knowledge;
+- record every correction and any unresolved question in `translation-review.md` and `verification-log.md`;
+- do not mark English verified after G2 alone;
 - do not begin Unit 2 or Gate H.
 
-Synchronize progress and commit the bounded G1 result. Gate H follows only after G1–G4 have completed and English is verified.
+Synchronize progress and commit the bounded G2 result. Gate H follows only after G1–G4 have completed and English is verified.

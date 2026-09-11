@@ -99,9 +99,12 @@ Read before continuation:
   - coverage: **37 / 37 pages**
   - working file: `speeches/1973/1973-03-07-financial-statement-reply/translation.md`
   - source-page sequence: **4→40 exactly once and in order**
-- Gate G English fidelity/voice review — **READY / NOT STARTED**
-  - full required scope: scans **4–40** / printed pp. **3–39**
-  - next bounded iteration: **G1 scans 4–13 / printed pp.3–12**
+- Gate G English fidelity/voice review — **IN PROGRESS**
+  - G1 scans **4–13** / printed pp. **3–12** — **PASS**
+  - reviewed: **10 / 37 pages**
+  - cumulative Gate-G corrections: **4**
+  - unresolved English fidelity issues: **0**
+  - next bounded iteration: **G2 scans 14–23 / printed pp.13–22**
 - Gate H canonical merge/index/release — **not reached**
 
 ## Historical-glyph corrections
@@ -199,25 +202,38 @@ F1, F2, F3 and F4 are **COMPLETE** through the locked Unit-1 end at **scan p.40 
 - `translation.verified_against_tamil=false`;
 - Gate G is now unblocked but has not started.
 
-## Gate G plan
+## Gate G progress
 
-Gate G must re-read the **entire English translation against the final verified Tamil page by page**. Follow the active 10-scan-page iteration policy without crossing the Unit-1 boundary:
+Gate G re-reads the **entire English translation against the final verified Tamil page by page** under the active 10-scan-page iteration policy:
 
-- G1 — scans **4–13** / printed pp. **3–12**
-- G2 — scans **14–23** / printed pp. **13–22**
+- G1 — scans **4–13** / printed pp. **3–12** — **PASS**
+- G2 — scans **14–23** / printed pp. **13–22** — **NEXT**
 - G3 — scans **24–33** / printed pp. **23–32**
 - G4 — scans **34–40** / printed pp. **33–39** — final 7-page remainder
 
-For every batch check meaning, omissions, repetitions, page boundaries, speaker/intervention placement, names/initials, figures/dates/units, source-printed English, stage/source markers and preservation of Kalaignar's parliamentary voice. Record every correction and unresolved question. Do not mark English verified until all four Gate-G batches have passed.
+G1 findings:
+
+- reviewed pages: **10 / 37**
+- definite Gate-G corrections: **4**
+- unresolved fidelity issues: **0**
+- p.5→6: reduced unsupported agency inflation in the Ponnappa-Nadar imprisonment passage;
+- p.7: restored the Finance-Commission proposition that Gate F had reversed with an unsupported negation;
+- p.8: removed the unsupported `no such function` wording about the Planning Commission;
+- p.9: rendered `மக்கள் நல் வாழ்வு` as `public health` in the immediate health-budget context;
+- source-printed `(Centrally sponsored schemes)` and `‘Myth’` remain verbatim;
+- crop holds on scans 4–5 and 10–11 remain explicit and unreconstructed;
+- English remains **not verified** until all four Gate-G batches pass.
+
+Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-review.md`.
 
 ## Exact next activity
 
-Begin **Gate G batch G1 — scans 4–13 / printed pp.3–12**. Compare the existing English in `translation.md` only against the final verified Tamil in `transcript.md`. Correct source-proven translation mismatches only; preserve source-printed English verbatim and retain all inherited `⟦scan-crop⟧` holds. Synchronize the Gate-G review record and progress after the bounded G1 pass. Do not begin Unit 2 or Gate H.
+Continue **Gate G batch G2 — scans 14–23 / printed pp.13–22**. Compare the existing English in `translation.md` only against the final verified Tamil in `transcript.md`. Check meaning, omissions/additions, repetitions, page-boundary continuations, speaker/intervention placement, names/initials, figures/dates/money/units, source-printed English, source markers and Kalaignar's parliamentary voice. Correct only definite source-supported fidelity mismatches. Do not begin Unit 2 or Gate H.
 
 ## Last archival-content checkpoint before this handover update
 
-`18b652727adad5879b1fad56cb9750676c42ca3d`
+`5ff214500c981cc09a1b225fdd98fd62be173107`
 
-Message: `Complete 1973 Assembly Gate F batch F4`
+Message: `Review 1973 Assembly Gate G batch G1`
 
 The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.
