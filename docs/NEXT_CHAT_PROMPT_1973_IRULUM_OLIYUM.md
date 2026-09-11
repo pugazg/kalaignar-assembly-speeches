@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 Gate G batch G2
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 Gate G batch G3
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,9 +8,9 @@ Fetch live `main` first and preserve newer durable work. Do not reset to a stale
 
 Last archival-content checkpoint before this handover documentation:
 
-`5ff214500c981cc09a1b225fdd98fd62be173107`
+`fd4027eb88275dce662063fd6a5e4a8139f49a70`
 
-Message: `Review 1973 Assembly Gate G batch G1`
+Message: `Review 1973 Assembly Gate G batch G2`
 
 The documentation commits are newer than this SHA; fetch live `main` first.
 
@@ -89,10 +89,11 @@ Unit 2:
   - source-page sequence: **4→40 exactly once and in order**
 - Gate G — **IN PROGRESS**
   - G1 scans 4–13 / printed pp.3–12 — **PASS**
-  - reviewed: **10 / 37 pages**
-  - corrections: **4**
+  - G2 scans 14–23 / printed pp.13–22 — **PASS**
+  - reviewed: **20 / 37 pages**
+  - corrections: **6**
   - unresolved fidelity issues: **0**
-  - next: G2 scans 14–23 / printed pp.13–22
+  - next: G3 scans 24–33 / printed pp.23–32
 - Gate H — **not reached**
 
 ## Accepted source-layer corrections
@@ -147,22 +148,22 @@ Gate F is **COMPLETE** in `translation.md` for the full locked Unit-1 range **sc
 - inherited crop-loss markers remain explicit, including scans 34–35;
 - source-printed English remains verbatim;
 - F4 ends exactly at scan p.40; Unit 2 has not been entered;
-- English is **not yet verified** because Gate G has not run.
+- English is **not yet verified** because Gate G is still in progress; G1–G2 have passed but G3–G4 remain.
 
 ## Gate G batch plan
 
 Use the active 10-scan-page iteration policy:
 
 - G1 — scans **4–13** / printed pp. **3–12** — **PASS**
-- G2 — scans **14–23** / printed pp. **13–22** — **NEXT**
-- G3 — scans **24–33** / printed pp. **23–32**
+- G2 — scans **14–23** / printed pp. **13–22** — **PASS**
+- G3 — scans **24–33** / printed pp. **23–32** — **NEXT**
 - G4 — scans **34–40** / printed pp. **33–39** — final 7-page remainder
 
-G1 applied **4** definite English fidelity corrections with **0 unresolved issues**. See `translation-review.md` for the durable ledger. English remains unverified until all four Gate-G batches pass.
+Through G2, Gate G has reviewed **20/37 pages**, applied **6** definite corrections, and has **0 unresolved fidelity issues**. G2 specifically restored the categorical p.17 wording and removed an editorial aside from the anomalous p.19 national-income sentence. See `translation-review.md` for the durable ledger.
 
-## Exact next activity — Gate G batch G2
+## Exact next activity — Gate G batch G3
 
-Review **scans 14–23 / printed pp.13–22** page by page by comparing the existing English in `translation.md` against the final verified Tamil in `transcript.md`.
+Review **scans 24–33 / printed pp.23–32** page by page by comparing the existing English in `translation.md` against the final verified Tamil in `transcript.md`.
 
 Requirements:
 
@@ -172,11 +173,11 @@ Requirements:
 - verify source-page boundaries and cross-page sentence continuation;
 - verify speaker/intervention placement;
 - verify names, initials, figures, dates, percentages, money, units and technical terms;
-- preserve **source-printed English verbatim**, especially the Hande material across scans 15–17;
-- preserve inherited `⟦scan-crop⟧` source-loss markers on scans 20–21 and never reconstruct missing Tamil;
-- preserve unusual source-supported claims rather than correcting them from outside knowledge;
+- preserve **source-printed English verbatim**, especially the Anandanayaki intervention on scan 25, `Ratification` on scan 27, and K. L. Rao material on scans 28–29;
+- preserve inherited `⟦scan-crop⟧` source-loss markers on scans 25–27 and never reconstruct missing Tamil;
+- preserve source-supported oddities rather than correcting them from outside knowledge;
 - record every correction and any unresolved question in `translation-review.md` and `verification-log.md`;
-- do not mark English verified after G2 alone;
+- do not mark English verified after G3 alone;
 - do not begin Unit 2 or Gate H.
 
-Synchronize progress and commit the bounded G2 result. Gate H follows only after G1–G4 have completed and English is verified.
+Synchronize progress and commit the bounded G3 result. Gate H follows only after G1–G4 have completed and English is verified.

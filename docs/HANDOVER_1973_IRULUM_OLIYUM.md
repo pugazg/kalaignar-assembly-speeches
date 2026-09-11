@@ -101,10 +101,11 @@ Read before continuation:
   - source-page sequence: **4→40 exactly once and in order**
 - Gate G English fidelity/voice review — **IN PROGRESS**
   - G1 scans **4–13** / printed pp. **3–12** — **PASS**
-  - reviewed: **10 / 37 pages**
-  - cumulative Gate-G corrections: **4**
+  - G2 scans **14–23** / printed pp. **13–22** — **PASS**
+  - reviewed: **20 / 37 pages**
+  - cumulative Gate-G corrections: **6**
   - unresolved English fidelity issues: **0**
-  - next bounded iteration: **G2 scans 14–23 / printed pp.13–22**
+  - next bounded iteration: **G3 scans 24–33 / printed pp.23–32**
 - Gate H canonical merge/index/release — **not reached**
 
 ## Historical-glyph corrections
@@ -200,40 +201,39 @@ F1, F2, F3 and F4 are **COMPLETE** through the locked Unit-1 end at **scan p.40 
 - F4 stops exactly at scan p.40; Unit 2 was not entered;
 - `translation.status=complete`;
 - `translation.verified_against_tamil=false`;
-- Gate G is now unblocked but has not started.
+- Gate G is **IN PROGRESS — G1–G2 PASS / 20 of 37 pages reviewed / 6 corrections / 0 unresolved**.
 
 ## Gate G progress
 
 Gate G re-reads the **entire English translation against the final verified Tamil page by page** under the active 10-scan-page iteration policy:
 
 - G1 — scans **4–13** / printed pp. **3–12** — **PASS**
-- G2 — scans **14–23** / printed pp. **13–22** — **NEXT**
-- G3 — scans **24–33** / printed pp. **23–32**
+- G2 — scans **14–23** / printed pp. **13–22** — **PASS**
+- G3 — scans **24–33** / printed pp. **23–32** — **NEXT**
 - G4 — scans **34–40** / printed pp. **33–39** — final 7-page remainder
 
-G1 findings:
+Cumulative result through G2:
 
-- reviewed pages: **10 / 37**
-- definite Gate-G corrections: **4**
+- reviewed pages: **20 / 37**
+- definite Gate-G corrections: **6**
 - unresolved fidelity issues: **0**
-- p.5→6: reduced unsupported agency inflation in the Ponnappa-Nadar imprisonment passage;
-- p.7: restored the Finance-Commission proposition that Gate F had reversed with an unsupported negation;
-- p.8: removed the unsupported `no such function` wording about the Planning Commission;
-- p.9: rendered `மக்கள் நல் வாழ்வு` as `public health` in the immediate health-budget context;
-- source-printed `(Centrally sponsored schemes)` and `‘Myth’` remain verbatim;
-- crop holds on scans 4–5 and 10–11 remain explicit and unreconstructed;
-- English remains **not verified** until all four Gate-G batches pass.
+- G1 corrections remain the p.5→6 Ponnappa-Nadar agency wording, p.7 Finance-Commission polarity, p.8 Planning-Commission negation, and p.9 `மக்கள் நல் வாழ்வு` terminology;
+- G2 scan 17 restores categorical `கவலைப்படமாட்டார்கள்` as `will not worry`;
+- G2 scan 19 removes the Gate-F editorial aside and voices the source's unusual `இரண்டு புள்ளி ... இழுபறி நிலை` directly;
+- source-printed Hande English on scans 15–17 remains verbatim;
+- crop holds on scans 20–21 remain explicit and unreconstructed;
+- English remains **not verified** until G3 and G4 pass.
 
 Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-review.md`.
 
 ## Exact next activity
 
-Continue **Gate G batch G2 — scans 14–23 / printed pp.13–22**. Compare the existing English in `translation.md` only against the final verified Tamil in `transcript.md`. Check meaning, omissions/additions, repetitions, page-boundary continuations, speaker/intervention placement, names/initials, figures/dates/money/units, source-printed English, source markers and Kalaignar's parliamentary voice. Correct only definite source-supported fidelity mismatches. Do not begin Unit 2 or Gate H.
+Continue **Gate G batch G3 — scans 24–33 / printed pp.23–32**. Compare the existing English in `translation.md` only against the final verified Tamil in `transcript.md`. Check meaning, omissions/additions, repetitions, page-boundary continuations, speaker/intervention placement, names/initials, figures/dates/money/units, source-printed English, source markers and Kalaignar's parliamentary voice. Correct only definite source-supported fidelity mismatches. Preserve crop holds on scans 25–27 and the source-printed English on scans 25, 28 and 29 verbatim. Do not begin Unit 2 or Gate H.
 
 ## Last archival-content checkpoint before this handover update
 
-`5ff214500c981cc09a1b225fdd98fd62be173107`
+`fd4027eb88275dce662063fd6a5e4a8139f49a70`
 
-Message: `Review 1973 Assembly Gate G batch G1`
+Message: `Review 1973 Assembly Gate G batch G2`
 
 The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.
