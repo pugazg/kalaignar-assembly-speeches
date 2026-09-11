@@ -41,16 +41,21 @@
     "preserve_source_punctuation": true,
     "preserve_headings": true,
     "page_boundaries_marked": true,
-    "status": "transcribed",
-    "verified_against_scan": false,
+    "status": "verified",
+    "verified_against_scan": true,
     "completed_scan_pages": "4-40",
     "completed_printed_pages": "3-39",
-    "source_crop_holds": "scan pp.4-5, 10-11, 20-21, 25-27 and 34-35 gutter-edge losses marked with ⟦scan-crop⟧; unresolved small cartoon labels on scan p.13 noted explicitly; scans 39-40 add no new crop holds"
+    "source_crop_holds": "scan pp.4-5, 10-11, 20-21, 25-27 and 34-35 gutter-edge losses marked with ⟦scan-crop⟧; unresolved small cartoon labels on scan p.13 noted explicitly; scans 39-40 add no new crop holds",
+    "verified_scan_pages": "4-40",
+    "completeness_audit_passed": true,
+    "verification_note": "All visible Tamil/source-layer text on scan pp.4-40 was checked directly against the controlling scan. Known physical crop loss remains explicitly marked with ⟦scan-crop⟧ and was not reconstructed; smaller scan-p.13 cartoon labels remain intentionally unresolved where the source pixels are insufficient."
   },
   "translation": {
     "language": "English",
     "status": "not-started",
-    "blocked_until_tamil_verified": true
+    "blocked_until_tamil_verified": false,
+    "requires_verified_tamil": true,
+    "tamil_gate_satisfied": true
   },
   "release": {
     "status": "not-released",
@@ -116,15 +121,15 @@
   },
   "source_fidelity_verification": {
     "gate": "E",
-    "status": "in-progress",
+    "status": "passed",
     "scope_scan_pages": "4-40",
     "scope_printed_pages": "3-39",
     "batch_size_pages": 10,
     "final_batch_may_be_shorter_at_gate_boundary": true,
-    "completed_scan_pages": "4-33",
-    "completed_printed_pages": "3-32",
-    "last_batch": "E3",
-    "corrections": 5,
+    "completed_scan_pages": "4-40",
+    "completed_printed_pages": "3-39",
+    "last_batch": "E4",
+    "corrections": 7,
     "unresolved_source_fidelity_questions": 0,
     "names_initials_checked": true,
     "numerals_dates_percentages_money_units_checked": true,
@@ -132,8 +137,9 @@
     "headings_speaker_labels_checked": true,
     "punctuation_checked_where_legible": true,
     "page_transition_omissions_repetitions_checked": true,
-    "next_scan_page": 34,
+    "next_scan_page": null,
     "downstream_gate": "F",
-    "downstream_blocked": true
+    "downstream_blocked": false,
+    "next_gate": "F"
   }
 }
