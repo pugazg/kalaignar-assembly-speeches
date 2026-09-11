@@ -189,14 +189,10 @@ If scans 34–40 pass with no unresolved Gate-E fidelity issue:
 - commit the bounded result;
 - report the exact next gate, but do not begin Unit 2 or English translation in the same iteration unless separately authorized.
 
-## Last known live checkpoint
-
-At handover creation, live `main` is:
+## Last archival-content checkpoint before handover docs
 
 `7152bfbcd8f2eecc732d9cee77b734594226bc4f`
 
-Message:
+Message: `Advance source mapping through Gate E batch E3`
 
-`Advance source mapping through Gate E batch E3`
-
-If live `main` has advanced, preserve the newer state instead of resetting to this SHA.
+The handover/next-chat documents themselves were committed after this content checkpoint, so live `main` will be newer. Always fetch live `main` first and preserve the newer state.
