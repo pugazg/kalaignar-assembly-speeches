@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 Gate G batch G3
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 Gate G batch G4
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,9 +8,9 @@ Fetch live `main` first and preserve newer durable work. Do not reset to a stale
 
 Last archival-content checkpoint before this handover documentation:
 
-`fd4027eb88275dce662063fd6a5e4a8139f49a70`
+`83ba7e208820c412f37d6d9a393e89ef5b8b43bd`
 
-Message: `Review 1973 Assembly Gate G batch G2`
+Message: `Review 1973 Assembly Gate G batch G3`
 
 The documentation commits are newer than this SHA; fetch live `main` first.
 
@@ -90,10 +90,11 @@ Unit 2:
 - Gate G — **IN PROGRESS**
   - G1 scans 4–13 / printed pp.3–12 — **PASS**
   - G2 scans 14–23 / printed pp.13–22 — **PASS**
-  - reviewed: **20 / 37 pages**
-  - corrections: **6**
+  - G3 scans 24–33 / printed pp.23–32 — **PASS**
+  - reviewed: **30 / 37 pages**
+  - corrections: **11**
   - unresolved fidelity issues: **0**
-  - next: G3 scans 24–33 / printed pp.23–32
+  - next: G4 scans 34–40 / printed pp.33–39 — final 7-page remainder
 - Gate H — **not reached**
 
 ## Accepted source-layer corrections
@@ -148,7 +149,7 @@ Gate F is **COMPLETE** in `translation.md` for the full locked Unit-1 range **sc
 - inherited crop-loss markers remain explicit, including scans 34–35;
 - source-printed English remains verbatim;
 - F4 ends exactly at scan p.40; Unit 2 has not been entered;
-- English is **not yet verified** because Gate G is still in progress; G1–G2 have passed but G3–G4 remain.
+- English is **not yet verified** because Gate G is still in progress; G1–G3 have passed but final G4 remains.
 
 ## Gate G batch plan
 
@@ -156,14 +157,14 @@ Use the active 10-scan-page iteration policy:
 
 - G1 — scans **4–13** / printed pp. **3–12** — **PASS**
 - G2 — scans **14–23** / printed pp. **13–22** — **PASS**
-- G3 — scans **24–33** / printed pp. **23–32** — **NEXT**
-- G4 — scans **34–40** / printed pp. **33–39** — final 7-page remainder
+- G3 — scans **24–33** / printed pp. **23–32** — **PASS**
+- G4 — scans **34–40** / printed pp. **33–39** — **NEXT / final 7-page remainder**
 
-Through G2, Gate G has reviewed **20/37 pages**, applied **6** definite corrections, and has **0 unresolved fidelity issues**. G2 specifically restored the categorical p.17 wording and removed an editorial aside from the anomalous p.19 national-income sentence. See `translation-review.md` for the durable ledger.
+Through G3, Gate G has reviewed **30/37 pages**, applied **11** definite corrections, and has **0 unresolved fidelity issues**. G3 corrected the p.24 accusation, removed a crop-lost place-name reconstruction on p.27, tightened the p.28 sarcastic aside, restored singular `the strike` on p.29, and corrected the p.31 meeting duration. See `translation-review.md` for the durable ledger.
 
-## Exact next activity — Gate G batch G3
+## Exact next activity — Gate G batch G4
 
-Review **scans 24–33 / printed pp.23–32** page by page by comparing the existing English in `translation.md` against the final verified Tamil in `transcript.md`.
+Review **scans 34–40 / printed pp.33–39** page by page by comparing the existing English in `translation.md` against the final verified Tamil in `transcript.md`.
 
 Requirements:
 
@@ -173,11 +174,11 @@ Requirements:
 - verify source-page boundaries and cross-page sentence continuation;
 - verify speaker/intervention placement;
 - verify names, initials, figures, dates, percentages, money, units and technical terms;
-- preserve **source-printed English verbatim**, especially the Anandanayaki intervention on scan 25, `Ratification` on scan 27, and K. L. Rao material on scans 28–29;
-- preserve inherited `⟦scan-crop⟧` source-loss markers on scans 25–27 and never reconstruct missing Tamil;
-- preserve source-supported oddities rather than correcting them from outside knowledge;
+- preserve inherited `⟦scan-crop⟧` source-loss markers on scans 34–35 and never reconstruct missing Tamil;
+- review the land-patta figures, nine-announcement / ten-point exchange, Kerala land-reform comparison, `குன்றின் மேலிட்ட விளக்கு` quotation, `ஆரிய மாயை` verse and `முடிப்புரை` close carefully;
+- preserve source-supported oddities and literary rhetoric rather than normalising them;
 - record every correction and any unresolved question in `translation-review.md` and `verification-log.md`;
-- do not mark English verified after G3 alone;
-- do not begin Unit 2 or Gate H.
+- if G4 closes with zero unresolved fidelity issues, mark English `verified_against_tamil=true` and Gate G passed;
+- do not begin Unit 2 or Gate H in the same iteration.
 
-Synchronize progress and commit the bounded G3 result. Gate H follows only after G1–G4 have completed and English is verified.
+Synchronize progress and commit the bounded G4 result. Gate H follows only in the next iteration after English is verified.

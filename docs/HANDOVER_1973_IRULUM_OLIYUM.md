@@ -102,10 +102,11 @@ Read before continuation:
 - Gate G English fidelity/voice review — **IN PROGRESS**
   - G1 scans **4–13** / printed pp. **3–12** — **PASS**
   - G2 scans **14–23** / printed pp. **13–22** — **PASS**
-  - reviewed: **20 / 37 pages**
-  - cumulative Gate-G corrections: **6**
+  - G3 scans **24–33** / printed pp. **23–32** — **PASS**
+  - reviewed: **30 / 37 pages**
+  - cumulative Gate-G corrections: **11**
   - unresolved English fidelity issues: **0**
-  - next bounded iteration: **G3 scans 24–33 / printed pp.23–32**
+  - next bounded iteration: **G4 scans 34–40 / printed pp.33–39 — final 7-page remainder**
 - Gate H canonical merge/index/release — **not reached**
 
 ## Historical-glyph corrections
@@ -201,7 +202,7 @@ F1, F2, F3 and F4 are **COMPLETE** through the locked Unit-1 end at **scan p.40 
 - F4 stops exactly at scan p.40; Unit 2 was not entered;
 - `translation.status=complete`;
 - `translation.verified_against_tamil=false`;
-- Gate G is **IN PROGRESS — G1–G2 PASS / 20 of 37 pages reviewed / 6 corrections / 0 unresolved**.
+- Gate G is **IN PROGRESS — G1–G3 PASS / 30 of 37 pages reviewed / 11 corrections / 0 unresolved**.
 
 ## Gate G progress
 
@@ -209,31 +210,33 @@ Gate G re-reads the **entire English translation against the final verified Tami
 
 - G1 — scans **4–13** / printed pp. **3–12** — **PASS**
 - G2 — scans **14–23** / printed pp. **13–22** — **PASS**
-- G3 — scans **24–33** / printed pp. **23–32** — **NEXT**
-- G4 — scans **34–40** / printed pp. **33–39** — final 7-page remainder
+- G3 — scans **24–33** / printed pp. **23–32** — **PASS**
+- G4 — scans **34–40** / printed pp. **33–39** — **NEXT / final 7-page remainder**
 
-Cumulative result through G2:
+Cumulative result through G3:
 
-- reviewed pages: **20 / 37**
-- definite Gate-G corrections: **6**
+- reviewed pages: **30 / 37**
+- definite Gate-G corrections: **11**
 - unresolved fidelity issues: **0**
-- G1 corrections remain the p.5→6 Ponnappa-Nadar agency wording, p.7 Finance-Commission polarity, p.8 Planning-Commission negation, and p.9 `மக்கள் நல் வாழ்வு` terminology;
-- G2 scan 17 restores categorical `கவலைப்படமாட்டார்கள்` as `will not worry`;
-- G2 scan 19 removes the Gate-F editorial aside and voices the source's unusual `இரண்டு புள்ளி ... இழுபறி நிலை` directly;
-- source-printed Hande English on scans 15–17 remains verbatim;
-- crop holds on scans 20–21 remain explicit and unreconstructed;
-- English remains **not verified** until G3 and G4 pass.
+- G3 p.24 restores the source accusation `நாம் உற்பத்தி செய்யவில்லை` as `not producing electricity`;
+- G3 p.27 removes the unsupported reconstructed place name from crop-damaged text;
+- G3 p.28 removes an editorial hedge from the `போனால் போகட்டும்` aside;
+- G3 p.29 restores singular `the strike` in the illustration caption;
+- G3 p.31 corrects the farmers' meeting duration to nearly two or two-and-a-half hours from 10 o'clock;
+- source-printed English on scans 25, 28 and 29 remains verbatim;
+- crop holds on scans 25–27 remain explicit and unreconstructed;
+- English remains **not verified** until G4 passes.
 
 Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-review.md`.
 
 ## Exact next activity
 
-Continue **Gate G batch G3 — scans 24–33 / printed pp.23–32**. Compare the existing English in `translation.md` only against the final verified Tamil in `transcript.md`. Check meaning, omissions/additions, repetitions, page-boundary continuations, speaker/intervention placement, names/initials, figures/dates/money/units, source-printed English, source markers and Kalaignar's parliamentary voice. Correct only definite source-supported fidelity mismatches. Preserve crop holds on scans 25–27 and the source-printed English on scans 25, 28 and 29 verbatim. Do not begin Unit 2 or Gate H.
+Complete **Gate G batch G4 — scans 34–40 / printed pp.33–39**, the final 7-page remainder. Compare the existing English in `translation.md` only against the final verified Tamil in `transcript.md`. Check meaning, omissions/additions, repetitions, page-boundary continuations, speaker/intervention placement, names/initials, figures/dates/money/units, source markers, quotations, verse and Kalaignar's parliamentary voice. Correct only definite source-supported fidelity mismatches. Preserve crop holds on scans 34–35. If the full 37-page Gate-G review closes with zero unresolved issues, mark English verified. Do not begin Unit 2 or Gate H in the same iteration.
 
 ## Last archival-content checkpoint before this handover update
 
-`fd4027eb88275dce662063fd6a5e4a8139f49a70`
+`83ba7e208820c412f37d6d9a393e89ef5b8b43bd`
 
-Message: `Review 1973 Assembly Gate G batch G2`
+Message: `Review 1973 Assembly Gate G batch G3`
 
 The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.
