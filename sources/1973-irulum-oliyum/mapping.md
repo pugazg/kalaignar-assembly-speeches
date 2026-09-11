@@ -91,8 +91,8 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate A — **COMPLETE / PASS**
 - Gate B — **COMPLETE / PASS / LOCKED**
 - Gate C — **COMPLETE — Unit 1 scans 4–40 / printed pp.3–39**
-- Gate C.5 — **IN PROGRESS — HG1–HG6 scans 4–33 / printed pp.3–32 PASS; 3 cumulative corrections; 0 unresolved glyph clusters in audited visible text**
-- Gate D — **BLOCKED until Gate C.5 passes**
+- Gate C.5 — **PASS / COMPLETE — HG1–HG7 scans 4–40 / printed pp.3–39; 3 cumulative corrections; 0 unresolved historical-glyph clusters**
+- Gate D — **NEXT — Tamil completeness audit**
 - Gate E — not started
 - Gates F–H — blocked
 
@@ -114,8 +114,10 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate C.5 HG4 scans 19–23 passed with 0 additional corrections and 0 unresolved historical-glyph clusters in the visible audited text; scan pp.20–21 crop losses remain separate source-loss holds;
 - Gate C.5 HG5 scans 24–28 passed with 0 additional corrections and 0 unresolved historical-glyph clusters in the visible audited text; scan pp.25–27 crop losses remain separate source-loss holds;
 - Gate C.5 HG6 scans 29–33 passed with 0 additional corrections and 0 unresolved historical-glyph clusters in the visible audited text; no new crop holds were introduced;
+- Gate C.5 HG7 scans 34–40 passed with 0 additional corrections and 0 unresolved historical-glyph clusters; this final 7-scan remainder closed Gate C.5 without crossing the Unit 1 boundary;
+- Gate C.5 batch policy is now 10 scan pages per iteration, with a shorter final remainder at a gate or speech boundary;
 - `verified_against_scan` remains false until Gate E is completed for the entire Assembly speech.
 
 ## Exact next activity
 
-Continue **Gate C.5** on Unit 1 with **PDF scans 34–38 / printed pp.33–37**. HG1–HG6 scans 4–33 are complete with 3 cumulative historical-glyph corrections and 0 unresolved glyph clusters in the visible audited text. Re-read each new page from enlarged/native source pixels, check all 13 families, compare same-edition forms when uncertain, and record every correction individually. Gate D, Gate E, Unit 2 and English remain blocked until the full scans 4–40 glyph audit passes.
+Begin **Gate D — Tamil completeness audit** on Unit 1 with **PDF scans 4–13 / printed pp.3–12** as the first **10-scan-page iteration**. Check source-page marker coverage/monotonicity, page-start/page-end continuity, speaker changes/interventions, printed English and illustration/context material, and explicit preservation of every source-loss hold. Do not begin Gate E, Unit 2 or English until Gate D passes.

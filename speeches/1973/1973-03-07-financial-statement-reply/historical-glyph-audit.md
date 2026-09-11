@@ -45,7 +45,7 @@ Requirements:
 | 19–23 | 18–22 | PASS — HG4 | 0 | 0 |
 | 24–28 | 23–27 | PASS — HG5 | 0 | 0 |
 | 29–33 | 28–32 | PASS — HG6 | 0 | 0 |
-| 34–40 | 33–39 | NOT YET AUDITED | 0 | not yet assessed |
+| 34–40 | 33–39 | PASS — HG7 / FINAL | 0 | 0 |
 
 ## Correction ledger
 
@@ -127,6 +127,31 @@ No positive occurrence requiring correction was found for `ணொ / ணோ / ற
 
 No positive occurrence requiring correction was found for `ணை / ணொ / ணோ / றொ / னோ` in HG6; all were still explicitly checked.
 
+## HG7 page-level coverage
+
+Batch policy is now **10 scan pages per iteration**; this final gate batch contains the remaining 7 scans because the locked Assembly boundary is scan 40.
+
+| Scan | Printed | All 13 families checked | Representative source-supported identities | Corrections | Unresolved glyph clusters |
+|---:|:---:|---|---|---:|---:|
+| 34 | 33 | YES | `கருணாநிதி` (`ணா`), `நிலையங்களின்` (`லை`), `ஏற்பாடுகளை` (`ளை`), `பார்க்கிறோமே` (`றோ`), `சென்னையிலுள்ள` (`னை`) | 0 | 0 |
+| 35 | 34 | YES | `ஆட்சேபணை` / `விசாரணையில்` (`ணை`), `புகார்களைச்` (`ளை`), `உரையாற்றியிருக்கிறார்` (`றா`), `மனைப்பட்டா` (`னை`) | 0 | 0 |
+| 36 | 35 | YES | `தொழிற் சாலை` / `தொழிற்சாலைகளும்` (`லை`), `பணிகளை` (`ளை`), `இருக்கிறார்கள்` (`றா`), `அளித்திருக்கின்றோம்` (`றோ`) | 0 | 0 |
+| 37 | 36 | YES | `துணைத்` (`ணை`), `மலைத் தோட்டம்` / `பல்கலைக் கழக` (`லை`), `உரிமையாளனாகிவிடுகிறான்` (`றா` / `னா`) | 0 | 0 |
+| 38 | 37 | YES | `அண்ணா` / `அண்ணாதுரை` (`ணா`), `இணைப்புச்` (`ணை`), `அறிவுரைகளையெல்லாம்` / `விளைவு` (`ளை`), `முடிக்கிறார்களோ` (`றா`) | 0 | 0 |
+| 39 | 38 | YES | `அண்ணா` (`ணா`), `கலைஞர்` (`லை`), `நீதிகளையெல்லாம்` / `கட்டுரைகளைப்` (`ளை`), `கொண்டிருக்கிறார்கள்` (`றா`), `முனையக்கூடாது` (`னை`) | 0 | 0 |
+| 40 | 39 | YES | `குணாளா` (`ணா`), `நிதிநிலை` (`லை`), `கருத்துக்களைப்` (`ளை`), `எழுதியிருக்கிறார்கள்` (`றா`), `கற்றோய்` (`றோ`), `அனைத்துக்` (`னை`) | 0 | 0 |
+
+No positive occurrence requiring correction was found for `ணொ / ணோ / றொ / னொ / னோ` in HG7; all were still explicitly checked.
+
+## Gate C.5 result
+
+**PASS / COMPLETE — scans 4–40 / printed pp.3–39.**
+
+- cumulative historical-glyph corrections: **3**;
+- unresolved historical-glyph clusters: **0**;
+- global replacements used: **0**;
+- downstream Gate D: **unblocked**.
+
 ## Exact next activity
 
-Continue the Gate C.5 source-pixel audit with **scan pp.34–38 / printed pp.33–37**. Check all 13 families on every page, apply only individually proven glyph-identity corrections, synchronize this ledger and `verification-log.md`, and do not start Gate D until scans 4–40 have passed.
+Begin **Gate D — Tamil completeness audit** with **scan pp.4–13 / printed pp.3–12** as the first 10-scan-page iteration. Preserve the 10-page iteration policy, but use a shorter final batch rather than crossing a gate or speech boundary.

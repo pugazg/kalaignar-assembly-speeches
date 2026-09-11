@@ -267,3 +267,23 @@ Status: **PASS for this batch / Gate C.5 remains IN PROGRESS**
 - Gate D remains blocked.
 
 Exact continuation: **Gate C.5 scans 34–38 / printed pp.33–37**.
+
+### Batch HG7 — scan pp.34–40 / printed pp.33–39
+
+Status: **PASS / Gate C.5 COMPLETE**
+
+- user-set batch policy: **10 scan pages per iteration**; only 7 scans remained before the locked Assembly boundary, so the final Gate C.5 iteration processed scans 34–40 and did not cross into Unit 2;
+- complete pages 34–40 were inspected from enlarged/native source pixels;
+- all 13 minimum families were explicitly checked on every page: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- no source-supported historical-glyph correction was required in this final batch;
+- representative confirmed identities include p.34 `கருணாநிதி` (`ணா`), `சென்னையிலுள்ள` (`னை`), `பார்க்கிறோமே` (`றோ`); p.35 `ஆட்சேபணை` / `விசாரணையில்` (`ணை`), `புகார்களைச்` (`ளை`), `உரையாற்றியிருக்கிறார்` (`றா`), `மனைப்பட்டா` (`னை`); p.36 `தொழிற் சாலை` / `தொழிற்சாலைகளும்` (`லை`), `பணிகளை` (`ளை`), `அளித்திருக்கின்றோம்` (`றோ`); p.37 `துணைத்` (`ணை`), `மலைத் தோட்டம்` / `பல்கலைக் கழக` (`லை`), `உரிமையாளனாகிவிடுகிறான்` (`றா` / `னா`); p.38 `அண்ணா` / `அண்ணாதுரை` (`ணா`), `இணைப்புச்` (`ணை`), `அறிவுரைகளையெல்லாம்` / `விளைவு` (`ளை`), `முடிக்கிறார்களோ` (`றா`); p.39 `அண்ணா` (`ணா`), `நீதிகளையெல்லாம்` / `கட்டுரைகளைப்` (`ளை`), `கொண்டிருக்கிறார்கள்` (`றா`), `முனையக்கூடாது` (`னை`); p.40 `குணாளா` (`ணா`), `நிதிநிலை` (`லை`), `கருத்துக்களைப்` (`ளை`), `எழுதியிருக்கிறார்கள்` (`றா`), `கற்றோய்` (`றோ`), `அனைத்துக்` (`னை`);
+- no positive occurrence requiring correction was found for `ணொ / ணோ / றொ / னொ / னோ`; those families were still checked on every page;
+- genuine `று` forms including `உறுப்பினர்`, `பொறுத்தவரையில்`, `குன்றின்`, `திருப்படையொன்று`, and `பெறுகின்ற` were source-checked and correctly left unchanged;
+- physical crop losses on scans 34–35 remain `⟦scan-crop⟧` source-loss holds and were not guessed from context;
+- historical-glyph corrections in HG7: **0**; cumulative Gate C.5 corrections: **3**;
+- unresolved historical-glyph clusters for the full Gate C.5 scope: **0**;
+- no global replacement was used;
+- **Gate C.5 result: PASS / COMPLETE — scans 4–40 / printed pp.3–39**;
+- Gate D is now unblocked; Gate E, Unit 2 and English remain blocked.
+
+Exact next activity: **Gate D — Tamil completeness audit, scans 4–13 / printed pp.3–12**, using the new **10-scan-page iteration** policy.

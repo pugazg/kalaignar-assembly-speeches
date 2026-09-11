@@ -16,8 +16,8 @@ This entry preserves the Legislative Assembly reply dated `7-3-1973` in the sour
 - Gate A: **PASS** at source-package level
 - Gate B: **PASS / LOCKED**
 - Gate C: **COMPLETE — scans 4–40 / printed pp.3–39**
-- Gate C.5: **IN PROGRESS — scans 4–33 / printed pp.3–32 audited; 3 cumulative glyph corrections; 0 unresolved glyph clusters in audited visible text**
-- Gate D: **BLOCKED until Gate C.5 passes**
+- Gate C.5: **PASS / COMPLETE — scans 4–40 / printed pp.3–39 audited; 3 cumulative glyph corrections; 0 unresolved historical-glyph clusters**
+- Gate D: **NEXT — Tamil completeness audit**
 - Gate E: not started
 - English Gates F–G: blocked
 - Gate H: not reached
@@ -26,6 +26,6 @@ The controlling scan has gutter-edge loss on scans 4–5, 10–11, 20–21, 25�
 
 Gate-C first pass now reaches the locked Assembly close on **scan p.40 / printed p.39**. Because this 1973 source uses older Tamil print, a dedicated historical-glyph pass is now mandatory under `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
-Gate C.5 batches HG1–HG6 are complete through **scans 4–33 / printed pp.3–32**. HG6 found **no additional historical-glyph correction** after enlarged source-pixel review; cumulative corrections remain **3**, with **0 unresolved historical-glyph clusters** in the audited visible text. Scans 29–33 contain no new crop holds; printed English and illustration text remain unchanged by this glyph-only gate.
+Gate C.5 is now **PASS / COMPLETE for the entire Assembly range, scans 4–40 / printed pp.3–39**. The final HG7 iteration covered the remaining **7 scans (34–40)** because the gate ends at scan 40; the active batch policy is now **10 scan pages per iteration, with a shorter final remainder at a gate or speech boundary**. HG7 found **no additional historical-glyph correction**. Cumulative Gate C.5 corrections remain **3**, with **0 unresolved historical-glyph clusters**. Physical crop losses on scans 34–35 remain separate source-loss holds and were not guessed.
 
-Exact next activity: continue **Gate C.5 with scans 34–38 / printed pp.33–37**. Gate D must wait until the full historical-glyph audit passes.
+Exact next activity: begin **Gate D — Tamil completeness audit** with **scans 4–13 / printed pp.3–12** as a 10-page iteration. Do not cross a gate or speech boundary merely to fill a batch.
