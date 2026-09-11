@@ -34,7 +34,7 @@ These missing pixels are not reconstructed. The canonical marker is:
 
 On these two pages the physical line breaks are retained so every crop loss is localised. This is a source-condition hold, not a linguistic guess. A future direct-source improvement may resolve the holds; until then Gate E cannot pass with zero unresolved source losses.
 
-Scan pp.6–9, 12–19 and 22–23 do not show the same gutter-edge loss and were transcribed as continuous readable paragraphs in Gate C.
+Scan pp.6–9, 12–19, 22–24 and 28 do not show the same gutter-edge loss and were transcribed as continuous readable paragraphs in Gate C.
 
 A second gutter-crop pair occurs later in the same Assembly unit:
 
@@ -55,3 +55,12 @@ No missing text is reconstructed across this pair. Scans p.19, p.22 and p.23 hav
 ## Printed non-prose context
 
 Scan p.5 contains an illustration whose visible printed text is represented in `transcript.md` rather than discarded. Printed English encountered in later pages must likewise be retained verbatim when transcribed.
+
+
+A fourth source-crop run occurs on scans 25–27 / printed pp.24–26:
+
+- scan p.25 / printed p.24 loses line beginnings along the **left** gutter; Gate C localises **38** unrecoverable spans with `⟦scan-crop⟧`;
+- scan p.26 / printed p.25 loses line endings along the **right** gutter; Gate C localises **37** unrecoverable spans;
+- scan p.27 / printed p.26 again loses line beginnings along the **left** gutter; Gate C localises **38** unrecoverable spans.
+
+The lost characters are not reconstructed even where context would make a completion tempting. Scan p.24 / printed p.23 and scan p.28 / printed p.27 introduce no comparable crop hold. The map on scan p.24 is represented with the securely legible labels `மைசூர் — 130 லட்சம் யூனிட்`, `ஆந்திரம் — 90 லட்சம் யூனிட்`, `தமிழ்நாடு — 225 லட்சம் யூனிட்`, and `கேரளா — 60 லட்சம் யூனிட்`. Printed English on scans 25, 27 and 28 is retained as source text rather than translated or normalised.

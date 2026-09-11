@@ -61,3 +61,21 @@ Exact continuation: **scan p.19 / printed p.18**.
 - English translation remains blocked.
 
 Exact continuation: **scan p.24 / printed p.23**.
+
+### Batch C5 — scan pp.24–28 / printed pp.23–27
+
+- first-pass transcription completed for scans 24–28 directly from the rendered source;
+- source-page markers 24, 25, 26, 27 and 28 are present exactly once and in order;
+- scan p.25 contains left-gutter crop loss: **38** explicit `⟦scan-crop⟧` holds;
+- scan p.26 contains right-gutter crop loss: **37** explicit `⟦scan-crop⟧` holds;
+- scan p.27 contains left-gutter crop loss: **38** explicit `⟦scan-crop⟧` holds;
+- scans 24 and 28 required no comparable crop holds;
+- scan p.24 map labels are preserved where securely readable: `மைசூர் — 130 லட்சம் யூனிட்`, `ஆந்திரம் — 90 லட்சம் யூனிட்`, `தமிழ்நாடு — 225 லட்சம் யூனிட்`, `கேரளா — 60 லட்சம் யூனிட்`;
+- printed English is preserved verbatim in the source layer, including the T. N. Anandanayaki intervention on scan p.25, `Ratification` on scan p.27, and the two K. L. Rao quotations on scan p.28;
+- source-supported forms such as `இவைகள் அன்னியில்`, `ஆயாராம், கயாராம்களுக்கு`, and the heading `மத்தியில் இருந்து.........` are retained without linguistic normalisation;
+- crop-edge continuations that could be guessed from context are deliberately left unresolved rather than reconstructed;
+- corrections from formal Gate E: **0** — Gate E has not started;
+- `verified_against_scan` remains **false**;
+- English translation remains blocked.
+
+Exact continuation: **scan p.29 / printed p.28**.

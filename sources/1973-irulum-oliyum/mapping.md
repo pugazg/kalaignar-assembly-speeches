@@ -90,7 +90,7 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 - Gate A — **COMPLETE / PASS**
 - Gate B — **COMPLETE / PASS / LOCKED**
-- Gate C — **IN PROGRESS — Unit 1 scans 4–23 / printed pp.3–22**
+- Gate C — **IN PROGRESS — Unit 1 scans 4–28 / printed pp.3–27**
 - Gate D — not started
 - Gate E — not started
 - Gates F–H — blocked
@@ -101,9 +101,11 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - scan p.13 contains a printed cartoon; confidently legible labels are represented, while smaller labels that are not securely readable remain explicitly unresolved;
 - scans 14–19 and 22–23 introduce no new crop holds; printed English parliamentary exchanges on scans 15–17 are retained verbatim in the canonical Tamil source layer;
 - scan pp.20–21 form a third gutter-crop pair (right edge on p.20, left edge on p.21); unrecoverable text is marked `⟦scan-crop⟧` and not reconstructed;
-- printed illustration/cartoon text on scans 19, 21, 22 and 23 is represented where securely readable from the source;
+- printed illustration/cartoon text on scans 19, 21, 22, 23 and 24 is represented where securely readable from the source;
+- scan pp.25–27 form a further gutter-crop run (left edge on p.25, right edge on p.26, left edge on p.27); unrecoverable text is marked `⟦scan-crop⟧` and not reconstructed;
+- scan p.28 introduces no comparable crop hold and its printed English quotations are retained verbatim in the source layer;
 - `verified_against_scan` remains false until Gate E is completed for the entire Assembly speech.
 
 ## Exact next activity
 
-Continue **Gate C** on Unit 1, `சட்டப் பேரவையில்` / `7-3-1973`, from **PDF scan p.24 / printed p.23** in the next bounded batch. Preserve each `<!-- source-page: N -->` marker exactly once, mark any genuinely unreadable source text explicitly rather than reconstructing it, and do not begin Unit 2 or English before the Assembly speech reaches the required later gates.
+Continue **Gate C** on Unit 1, `சட்டப் பேரவையில்` / `7-3-1973`, from **PDF scan p.29 / printed p.28** in the next bounded batch. Preserve each `<!-- source-page: N -->` marker exactly once, mark any genuinely unreadable source text explicitly rather than reconstructing it, and do not begin Unit 2 or English before the Assembly speech reaches the required later gates.
