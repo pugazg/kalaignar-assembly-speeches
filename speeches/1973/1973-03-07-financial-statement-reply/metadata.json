@@ -92,5 +92,25 @@
     "batch_size_pages": 10,
     "final_batch_may_be_shorter_at_gate_boundary": true,
     "next_gate": "D"
+  },
+  "completeness_audit": {
+    "gate": "D",
+    "status": "in-progress",
+    "scope_scan_pages": "4-40",
+    "scope_printed_pages": "3-39",
+    "batch_size_pages": 10,
+    "final_batch_may_be_shorter_at_gate_boundary": true,
+    "completed_scan_pages": "4-13",
+    "completed_printed_pages": "3-12",
+    "last_batch": "D1",
+    "corrections": 0,
+    "source_page_markers_checked": true,
+    "marker_sequence_checked": "4-13",
+    "speaker_and_intervention_coverage_checked": true,
+    "source_loss_holds_checked": true,
+    "printed_context_checked": true,
+    "next_scan_page": 14,
+    "downstream_gate": "E",
+    "downstream_blocked": true
   }
 }

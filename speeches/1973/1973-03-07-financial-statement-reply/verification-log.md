@@ -287,3 +287,31 @@ Status: **PASS / Gate C.5 COMPLETE**
 - Gate D is now unblocked; Gate E, Unit 2 and English remain blocked.
 
 Exact next activity: **Gate D — Tamil completeness audit, scans 4–13 / printed pp.3–12**, using the new **10-scan-page iteration** policy.
+
+## Gate D — Tamil completeness audit
+
+### Batch D1 — scan pp.4–13 / printed pp.3–12
+
+Status: **PASS for this batch / Gate D remains IN PROGRESS**
+
+Batch size: **10 scan pages**.
+
+Completeness checks:
+
+- source-page markers **4, 5, 6, 7, 8, 9, 10, 11, 12, 13** are each present exactly once and are strictly monotonic;
+- scan p.4 matches the locked Assembly opening: heading `சட்டப் பேரவையில்` and speaker `மாண்புமிகு டாக்டர் மு. கருணாநிதி`;
+- p.4 → p.5 and p.5 → p.6 continuations remain explicit; crop loss is not silently reconstructed;
+- p.5 illustration context `சட்டசபைத் தொடரின் போது (1965)` / `62` / `நாட்கள் பாளையச் சிறையில்` is represented;
+- p.6 heading `தீர்ப்பு என்ன?` and p.7 heading `நிதி ஆணைக் குழு` are represented;
+- p.8 printed English `(Centrally sponsored schemes)`, heading `பொதுச் சுகாதாரம்`, and the `திருமதி த. ந. அனந்தநாயகி` intervention are represented;
+- p.9 opens with the `மாண்புமிகு டாக்டர் மு. கருணாநிதி` response and includes heading `வேளாண்மைச் செலவு`; the p.8 → p.9 intervention/response continuity is preserved;
+- p.10 heading `விவசாய வருமான வரி` and printed `‘Myth’` are represented; right-gutter source loss remains explicit;
+- p.11 headings `தொழில் அபிவிருத்தி` and `வரியில் பங்குத் தொகை` are represented; left-gutter source loss remains explicit;
+- p.12 heading `சரியான கணக்கா ?` is represented, and the Gate-C.5-corrected source-supported form `மாற்றாந்தாய்` remains present;
+- p.13 illustration context records the confidently readable labels `வரி`, `மத்திய அரசு`, and `ரூ. 225 கோடி`; the smaller labels remain explicitly unresolved rather than reconstructed;
+- p.13 ends with a normal sentence continuation into scan p.14, and the canonical p.14 begins that continuation without a duplicated or skipped page;
+- no mapped source page in scans 4–13 is missing or duplicated;
+- completeness corrections in D1: **0**;
+- Gate-E verification remains blocked until Gate D passes across scans 4–40.
+
+Exact continuation: **Gate D scans 14–23 / printed pp.13–22**.
