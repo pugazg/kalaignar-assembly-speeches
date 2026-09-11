@@ -27,8 +27,8 @@ Source pixels are controlling; same-edition comparison is used when uncertain; g
 | Scan range | Printed pages | Status | Glyph corrections | Unresolved clusters |
 |---|---|---|---:|---:|
 | 41–50 | 40–49 | **PASS — HG1** | **1** | **0** |
-| 51–60 | 50–59 | NEXT — HG2 | — | — |
-| 61–62 | 60–61 | NOT STARTED — HG3 / FINAL | — | — |
+| 51–60 | 50–59 | **PASS — HG2** | **0** | **0** |
+| 61–62 | 60–61 | NEXT — HG3 / FINAL | — | — |
 
 ## Correction ledger
 
@@ -64,4 +64,34 @@ Families without a positive occurrence requiring action were still explicitly ch
 - `transcription.verified_against_scan=false` remains unchanged
 - Gate D remains blocked
 
-Exact continuation: **HG2 scans 51–60 / printed pp.50–59**.
+## HG2 page-level coverage
+
+| Scan | Printed | All 13 families checked | Representative identities | Corrections | Unresolved |
+|---:|:---:|---|---|---:|---:|
+| 51 | 50 | YES | `நிலையம்` / `தலைமையில்` (`லை`), `அவைகளை` (`ளை`), `தனியார்` (`னா`) | 0 | 0 |
+| 52 | 51 | YES | `விலக்கிவிடலாமென்று` (`லை`), `தவறாகப்` (`றா`), `அனைவருக்கும்` (`னை`) | 0 | 0 |
+| 53 | 52 | YES | `இணைந்திருக்கின்ற` (`ணை`), `புரியவில்லை` (`லை`), `ஆனால்` (`னா`) | 0 | 0 |
+| 54 | 53 | YES | `அண்ணா` (`ணா`), `மாநிலங்களும்` (`னா`), neighboring clusters checked | 0 | 0 |
+| 55 | 54 | YES | `அண்ணா` (`ணா`), `மாநில` (`னா`), neighboring `லை` forms checked | 0 | 0 |
+| 56 | 55 | YES | `நாலு` (`னா`), `அண்ணா` (`ணா`), neighboring old-type clusters checked | 0 | 0 |
+| 57 | 56 | YES | `நாராயணசாமி` (`னா`), `அவைகளைக்` (`ளை`) | 0 | 0 |
+| 58 | 57 | YES | `மனை` / `சென்னை` (`னை`), `நிலத்தை` (`லை`), `நிச்சயமாக` (`னா`) | 0 | 0 |
+| 59 | 58 | YES | `தன்னைச்` (`னை`), `நிலம்` (`லை`), `தவறான` (`றா`) | 0 | 0 |
+| 60 | 59 | YES | `நாணயம்` (`ணா`), `சூழ்நிலையை` (`ளை`), `நாங்களும்` (`னா`) | 0 | 0 |
+
+Families without a positive occurrence requiring action were still explicitly checked on every HG2 page. No historical character identity required correction in scans 51–60.
+
+## HG2 result
+
+- audited scans: **51–60**
+- audited printed pages: **50–59**
+- pages audited in HG2: **10**
+- HG2 historical-glyph corrections: **0**
+- cumulative Gate-C.5 corrections: **1**
+- unresolved glyph clusters: **0**
+- global replacements: **0**
+- Gate C remains complete
+- `transcription.verified_against_scan=false` remains unchanged
+- Gate D remains blocked
+
+Exact continuation: **HG3 / FINAL scans 61–62 / printed pp.60–61**.
