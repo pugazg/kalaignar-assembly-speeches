@@ -121,10 +121,10 @@
     "scope_printed_pages": "3-39",
     "batch_size_pages": 10,
     "final_batch_may_be_shorter_at_gate_boundary": true,
-    "completed_scan_pages": "4-23",
-    "completed_printed_pages": "3-22",
-    "last_batch": "E2",
-    "corrections": 2,
+    "completed_scan_pages": "4-33",
+    "completed_printed_pages": "3-32",
+    "last_batch": "E3",
+    "corrections": 5,
     "unresolved_source_fidelity_questions": 0,
     "names_initials_checked": true,
     "numerals_dates_percentages_money_units_checked": true,
@@ -132,7 +132,7 @@
     "headings_speaker_labels_checked": true,
     "punctuation_checked_where_legible": true,
     "page_transition_omissions_repetitions_checked": true,
-    "next_scan_page": 24,
+    "next_scan_page": 34,
     "downstream_gate": "F",
     "downstream_blocked": true
   }
