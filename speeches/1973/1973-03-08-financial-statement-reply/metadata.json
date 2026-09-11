@@ -101,7 +101,7 @@
     "source_pixels_authoritative": true,
     "same_edition_comparison_required_when_uncertain": true,
     "global_replace_forbidden": true,
-    "corrections": 1,
+    "corrections": 2,
     "unresolved_clusters": 0,
     "downstream_gate": "D",
     "downstream_blocked": true,
@@ -111,6 +111,6 @@
     "total_page_count": 22,
     "last_batch": "HG2",
     "next_scan_page": 61,
-    "note": "HG1-HG2 audited scans 41-60 against source pixels for all mandatory historical-glyph families. HG1 applied one றா correction on scan 44 (`மாறுக` → `மாறாக`); HG2 applied 0 corrections. No unresolved glyph clusters remain through scan 60."
+    "note": "HG1-HG2 audited scans 41-60 against source pixels for all mandatory historical-glyph families. HG1 applied one `றா` correction on scan 44 (`மாறுக` → `மாறாக`); HG2 applied one `லை` correction on scan 58 (`வேலதான்` → `வேலைதான்`). No unresolved glyph clusters remain through scan 60."
   }
 }
