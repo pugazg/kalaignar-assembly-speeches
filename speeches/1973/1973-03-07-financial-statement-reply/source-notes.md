@@ -156,3 +156,19 @@ The final Assembly source-fidelity batch was checked directly against the render
 2. closing paragraph `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்`; enlarged source pixels clearly read the accusative `நெருக்கடிகளை`.
 
 No other correction was required in scans 34–40. Scan pp.34–35 crop losses remain explicit and unreconstructed. The `குன்றின் மேலிட்ட விளக்கு` quotation, Manali Kandasami exchange, full `ஆரிய மாயை` verse, `முடிப்புரை`, and final Assembly close were rechecked. Gate E is PASS / COMPLETE for scans 4–40.
+
+## Official TNLA crop-recovery witness
+
+A second official primary-source witness is now available for the 7-3-1973 Assembly speech:
+
+- `927193.pdf`
+- Tamil Nadu Legislative Assembly Debates
+- sitting date: **7 March 1973**
+- 119 PDF pages
+- 184,860,788 bytes
+- SHA-256: `b56b0e2d70fb64ec026312ca62d925cb2ef7df32feb8a9578848df97461c54b4`
+
+This source does **not** replace `இருளும் ஒளியும்` as the controlling publication. It is used narrowly to recover wording physically missing at cropped gutter edges. Wherever the booklet scan remains legible, its visible spelling, punctuation, numerals and wording remain controlling.
+
+CR1 recovered scans **4–5 and 10–11**. Remaining crop-recovery targets are **20–21, 25–27 and 34–35**.
+
