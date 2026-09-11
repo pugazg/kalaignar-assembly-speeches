@@ -90,7 +90,7 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 - Gate A — **COMPLETE / PASS**
 - Gate B — **COMPLETE / PASS / LOCKED**
-- Gate C — **IN PROGRESS — Unit 1 scans 4–33 / printed pp.3–32**
+- Gate C — **IN PROGRESS — Unit 1 scans 4–38 / printed pp.3–37**
 - Gate D — not started
 - Gate E — not started
 - Gates F–H — blocked
@@ -105,8 +105,10 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - scan pp.25–27 form a further gutter-crop run (left edge on p.25, right edge on p.26, left edge on p.27); unrecoverable text is marked `⟦scan-crop⟧` and not reconstructed;
 - scan p.28 introduces no comparable crop hold and its printed English quotations are retained verbatim in the source layer;
 - scans 29–33 introduce no new crop holds; printed English and securely readable illustration text are retained as source context;
+- scans 34–35 are crop-affected at the gutter (lower right on p.34; left edge on p.35); unrecoverable text is marked `⟦scan-crop⟧` and not reconstructed;
+- scans 36–38 introduce no comparable crop holds; p.38 ends during the `குன்றின் மேலிட்ட விளக்கு` discussion;
 - `verified_against_scan` remains false until Gate E is completed for the entire Assembly speech.
 
 ## Exact next activity
 
-Continue **Gate C** on Unit 1, `சட்டப் பேரவையில்` / `7-3-1973`, from **PDF scan p.34 / printed p.33** in the next bounded batch. Preserve each `<!-- source-page: N -->` marker exactly once, mark any genuinely unreadable source text explicitly rather than reconstructing it, and do not begin Unit 2 or English before the Assembly speech reaches the required later gates.
+Continue **Gate C** on Unit 1, `சட்டப் பேரவையில்` / `7-3-1973`, from **PDF scan p.39 / printed p.38** in the next bounded batch. Preserve each `<!-- source-page: N -->` marker exactly once, mark any genuinely unreadable source text explicitly rather than reconstructing it, and do not begin Unit 2 or English before the Assembly speech reaches the required later gates.

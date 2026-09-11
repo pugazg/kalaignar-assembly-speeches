@@ -94,3 +94,20 @@ Exact continuation: **scan p.29 / printed p.28**.
 - English translation remains blocked.
 
 Exact continuation: **scan p.34 / printed p.33**.
+
+### Batch C7 — scan pp.34–38 / printed pp.33–37
+
+- first-pass transcription completed for scans 34–38 directly from the rendered source;
+- source-page markers 34, 35, 36, 37 and 38 are present exactly once and in order;
+- the lower final intervention on scan p.34 contains **5** explicit right-gutter `⟦scan-crop⟧` holds;
+- scan p.35 contains **36** explicit left-gutter `⟦scan-crop⟧` holds;
+- scans 36, 37 and 38 required no comparable crop holds;
+- no missing gutter text was reconstructed even where the continuation is contextually tempting;
+- source-supported names/phrases were checked visually, including `திருப்பூர் மொய்தின்`, `திரு தஸ்தார்`, and the p.35 heading `குடியிருப்பு மனைப்பட்டா`;
+- source spelling/spacing was retained where legible, including `வழங்கப் பட்ட மாட்டாது`, `தொழிற் சாலை`, `மலைத் தோட்டம்` versus `மலைத்தோட்டம்`, `ஒரு கட்சியை யானாலும்`, and `கட்சியை யாளரின்`;
+- the p.38 `குன்றின் மேலிட்ட விளக்கு` quotation is preserved as printed through the page end and remains a normal page continuation, not a completed subsection;
+- corrections from formal Gate E: **0** — Gate E has not started;
+- `verified_against_scan` remains **false**;
+- English translation remains blocked.
+
+Exact continuation: **scan p.39 / printed p.38**.

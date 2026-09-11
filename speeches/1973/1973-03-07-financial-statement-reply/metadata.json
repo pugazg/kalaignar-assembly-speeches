@@ -43,9 +43,9 @@
     "page_boundaries_marked": true,
     "status": "in-progress",
     "verified_against_scan": false,
-    "completed_scan_pages": "4-33",
-    "completed_printed_pages": "3-32",
-    "source_crop_holds": "scan pp.4-5, 10-11, 20-21 and 25-27 gutter-edge losses marked with ⟦scan-crop⟧; unresolved small cartoon labels on scan p.13 noted explicitly; scans 29-33 add no new crop holds"
+    "completed_scan_pages": "4-38",
+    "completed_printed_pages": "3-37",
+    "source_crop_holds": "scan pp.4-5, 10-11, 20-21, 25-27 and 34-35 gutter-edge losses marked with ⟦scan-crop⟧; unresolved small cartoon labels on scan p.13 noted explicitly; scans 36-38 add no new crop holds"
   },
   "translation": {
     "language": "English",
