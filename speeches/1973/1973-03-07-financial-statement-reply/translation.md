@@ -292,7 +292,7 @@ Thiru Manali himself said that after this Government came to office there had be
 
 Under the First Five-Year Plan our State obtained 110 megawatts of electricity. Under the Second Five-Year Plan it obtained 315 megawatts. Under the Third Five-Year Plan it obtained 510 megawatts. Thus, from 1951 to 1967, over roughly fifteen years, 935 megawatts of electricity was generated in our State.
 
-The Fourth Five-Year Plan ran from 1967 to 1972. In those five years alone, 625 megawatts of electricity was generated. If 935 megawatts was generated over fifteen years, 625 megawatts was generated in these five years alone. I wish to give this explanation to show why it is not proper for this Government to be accused of having failed to increase generation.
+The Fourth Five-Year Plan ran from 1967 to 1972. In those five years alone, 625 megawatts of electricity was generated. If 935 megawatts was generated over fifteen years, 625 megawatts was generated in these five years alone. I wish to give this explanation to show why it is not proper for this Government to be accused of not producing electricity.
 
 > **Printed illustration text:** `Mysore` — `130 lakh units`; `Andhra` — `90 lakh units`; `Tamil Nadu` — `225 lakh units`; `Kerala` — `60 lakh units`.
 
@@ -349,7 +349,7 @@ In the Planning Commission, the Technical Advisory Committee again ⟦scan-crop�
 
 For example, the Nellithurai, ⟦scan-crop⟧ Servalar and Paraliyar schemes were sent in 1970-71 ⟦scan-crop⟧. We must not forget that those schemes have still not received approval ⟦scan-crop⟧.
 
-Thiru Kumarasamy asked why we should not establish them without the Planning Commission's approval ⟦scan-crop⟧—I heard that the lady member too spoke about it at Cuddalore ⟦scan-crop⟧. If we try to proceed without obtaining the Central Government's approval ⟦scan-crop⟧, no factory will come forward to manufacture and supply the equipment required for that station ⟦scan-crop⟧—boilers, generators and other machinery ⟦scan-crop⟧—without the Central Government's approval ⟦scan-crop⟧.
+Thiru Kumarasamy asked why we should not establish them without the Planning Commission's approval ⟦scan-crop⟧—I heard that the lady member too spoke about it ⟦scan-crop⟧. If we try to proceed without obtaining the Central Government's approval ⟦scan-crop⟧, no factory will come forward to manufacture and supply the equipment required for that station ⟦scan-crop⟧—boilers, generators and other machinery ⟦scan-crop⟧—without the Central Government's approval ⟦scan-crop⟧.
 
 Not only that. If those items of equipment cannot be obtained from these factories ⟦scan-crop⟧ and have to be imported from abroad ⟦scan-crop⟧, we must obtain the Central Government's approval ⟦scan-crop⟧. Thus there is no way for a State Government to execute schemes without asking them and then say that Ratification ⟦scan-crop⟧ can be obtained later ⟦scan-crop⟧. I wish to make that clear ⟦scan-crop⟧.
 
@@ -375,7 +375,7 @@ If Ministers themselves are summoned from the Centre in this fashion ⟦scan-cro
 
 **Hon. Dr. M. Karunanidhi:** Thiru Ponnappa Nadar too knows that a full stop has already been put to Aayarams and Gayarams.
 
-They say there is corruption in the Electricity Board and that there must be an inquiry into corruption. The respected Thiru K. L. Rao, who bears this responsibility as a Central Minister, has spoken in Parliament. It appeared in the *Hindustan Times*. Fortunately they published it—perhaps thinking, let it go! This is a part of Thiru K. L. Rao's speech:—
+They say there is corruption in the Electricity Board and that there must be an inquiry into corruption. The respected Thiru K. L. Rao, who bears this responsibility as a Central Minister, has spoken in Parliament. It appeared in the *Hindustan Times*. Fortunately they published it—saying, "Let it go!" This is a part of Thiru K. L. Rao's speech:—
 
 He complimented Tamil Nadu for making the best use of power without wastage.
 
@@ -393,7 +393,7 @@ The power supply position in the States of Southern Zone was going to be extreme
 
 That is what he said. At that time there was a major strike at Idukki. Those who conducted the strike were other Communists.
 
-> **Printed illustration text:** protest placards repeat `Strike`; the main caption reads `Price rise also as a result of strikes`.
+> **Printed illustration text:** protest placards repeat `Strike`; the main caption reads `Price rise also as a result of the strike`.
 
 But if the strike had ended quickly, and if the 390-megawatt generation had become available there, we in Tamil Nadu—within the ‘Southern Zone’—could have obtained a little more electricity from Kerala. It is because various such circumstances have occurred in many places that we have been affected by this—
 
@@ -423,7 +423,7 @@ To avoid, as far as possible, the difficulties faced by workers employed in the 
 
 ## Concessions for farmers
 
-As far as farmers are concerned, representatives of farmers from various districts met me and some other Ministers two days ago. They discussed matters with us for a long time, from 10 o'clock until nearly 2 or 2½. It was a useful discussion. They explained many—
+As far as farmers are concerned, representatives of farmers from various districts met me and some other Ministers two days ago. They discussed matters with us for a long time—for nearly two or two-and-a-half hours from 10 o'clock. It was a useful discussion. They explained many—
 
 ### Source page 32
 

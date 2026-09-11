@@ -631,3 +631,39 @@ Cumulative Gate-G corrections: **6**.
 English `verified_against_tamil`: **false**.
 
 Exact continuation: **Gate G batch G3 — scans 24–33 / printed pp.23–32**. Do not begin Unit 2 or Gate H.
+
+### Batch G3 — scan pp.24–33 / printed pp.23–32
+
+Status: **PASS for this batch / Gate G remains IN PROGRESS**
+
+Review basis: the existing Gate-F English for scans 24–33 was compared page by page only against the final Gate-E-verified Tamil. Known source crop loss remained authoritative; no missing wording was supplied from context, OCR or outside material.
+
+Coverage and checks:
+
+- reviewed source pages **24→33**, exactly ten pages;
+- checked generation figures, Five-Year-Plan chronology, scheme names, approval procedure, parliamentary exchanges, K. L. Rao quotations, power-station figures, handloom/farmer relief measures, illustration labels, page transitions and rhetorical tone;
+- source-printed English on scans **25, 28 and 29** remains verbatim;
+- inherited `⟦scan-crop⟧` holds on scans **25–27** remain explicit;
+- no Unit-2 text was entered.
+
+Definite Gate-G corrections in G3: **5**
+
+1. **scan p.24** — `நாம் உற்பத்தி செய்யவில்லை` had been rendered as `failed to increase generation`. Gate G restored the direct accusation: **`not producing electricity`**.
+
+2. **scan p.27** — Gate F supplied the place name **`Cuddalore`** inside a crop-damaged phrase. Because the verified Tamil intentionally retains physical loss there, Gate G removed the reconstructed place name and left the supported clause with `⟦scan-crop⟧`.
+
+3. **scan p.28** — Gate F inserted the hedge `perhaps thinking` into Kalaignar's sarcastic `போனால் போகட்டும் என்று`. Gate G removed that editorial distancing and rendered the aside directly as **`saying, "Let it go!"`**.
+
+4. **scan p.29 illustration** — the main caption `வேலைநிறுத்தத்தின் விளைவாலும் விலைவாசி ஏற்றம்` is singular. Gate G corrected **`as a result of strikes`** to **`as a result of the strike`**.
+
+5. **scan p.31** — `10 மணியிலிருந்து கிட்டத்தட்ட 2 அல்லது 2½ மணி நேரம்` describes a discussion lasting nearly **two or two-and-a-half hours from 10 o'clock**. Gate F had misread `2 அல்லது 2½` as a clock time (`until nearly 2 or 2½`). Gate G corrected the duration.
+
+No other definite fidelity mismatch was found in scans 24–33.
+
+G3 unresolved Gate-G fidelity issues: **0**.
+
+Cumulative Gate-G coverage: **30 / 37 pages**.  
+Cumulative Gate-G corrections: **11**.  
+English `verified_against_tamil`: **false**.
+
+Exact continuation: **Gate G batch G4 — scans 34–40 / printed pp.33–39**, the final 7-page remainder. Do not begin Unit 2 or Gate H in the same iteration.

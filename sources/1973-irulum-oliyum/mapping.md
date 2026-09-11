@@ -135,16 +135,17 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate G is **IN PROGRESS**.
 - G1 — **PASS** — scans **4–13** / printed pp. **3–12** — 10 pages
 - G2 — **PASS** — scans **14–23** / printed pp. **13–22** — 10 pages
-- cumulative Gate-G coverage: **20 / 37 pages**
-- cumulative Gate-G corrections: **6**
+- G3 — **PASS** — scans **24–33** / printed pp. **23–32** — 10 pages
+- cumulative Gate-G coverage: **30 / 37 pages**
+- cumulative Gate-G corrections: **11**
 - unresolved English fidelity issues: **0**
 
 ## Gate G progress
 
-G1–G2 have re-read the English for scans **4–23** against the final verified Tamil, page by page.
+G1–G3 have re-read the English for scans **4–33** against the final verified Tamil, page by page.
 
-G2 added two definite corrections: scan 17 changed the weakened `may not worry` to the source-certain `will not worry`; scan 19 removed the Gate-F editorial phrase `what the source describes as` and retained the source's anomalous two-point / dragging-position wording directly. The Hande English printed in the source on scans 15–17 remains verbatim. Crop-loss markers on scans 20–21 remain explicit and unreconstructed. No other definite mismatch was found in G2.
+G3 added five definite corrections: p.24 corrected the accusation from `failed to increase generation` to `not producing electricity`; p.27 removed the unsupported reconstruction `Cuddalore` from crop-damaged text; p.28 removed an editorial hedge from the `போனால் போகட்டும்` aside; p.29 restored singular `the strike` in the illustration caption; and p.31 corrected the duration of the farmers' discussion. Source-printed English on scans 25, 28 and 29 remains verbatim. Crop-loss markers on scans 25–27 remain explicit and unreconstructed.
 
 ## Exact next activity
 
-Continue **Gate G batch G3 — scans 24–33 / printed pp.23–32**. Check meaning, omissions, repetitions, page boundaries, speaker/intervention placement, figures, printed English, source markers and preservation of Kalaignar's voice. Record only source-supported corrections. Do not begin Unit 2 or Gate H; English remains unverified until G1–G4 all pass.
+Complete **Gate G batch G4 — scans 34–40 / printed pp.33–39**, the final 7-page remainder. Check meaning, omissions, repetitions, page boundaries, speaker/intervention placement, figures, source markers, quotations, verse and preservation of Kalaignar's voice. Record only source-supported corrections. If G4 passes with no unresolved issue, mark English verified for all 37 Unit-1 pages. Do not begin Unit 2 or Gate H in the same iteration.
