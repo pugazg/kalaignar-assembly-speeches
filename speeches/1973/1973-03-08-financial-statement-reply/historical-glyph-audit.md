@@ -4,7 +4,7 @@
 
 **Gate C.5 — HISTORICAL TAMIL GLYPH AUDIT**
 
-Status: **IN PROGRESS**
+Status: **PASS / COMPLETE**
 
 Controlling source: `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`
 
@@ -28,7 +28,7 @@ Source pixels are controlling; same-edition comparison is used when uncertain; g
 |---|---|---|---:|---:|
 | 41–50 | 40–49 | **PASS — HG1** | **1** | **0** |
 | 51–60 | 50–59 | **PASS — HG2** | **1** | **0** |
-| 61–62 | 60–61 | NEXT — HG3 / FINAL | — | — |
+| 61–62 | 60–61 | **PASS — HG3 / FINAL** | **0** | **0** |
 
 ## Correction ledger
 
@@ -95,4 +95,41 @@ Families without a positive occurrence requiring action were still explicitly ch
 - `transcription.verified_against_scan=false` remains unchanged
 - Gate D remains blocked
 
-Exact continuation: **HG3 / FINAL scans 61–62 / printed pp.60–61**.
+## HG3 page-level coverage
+
+| Scan | Printed | All 13 families checked | Representative identities | Corrections | Unresolved |
+|---:|:---:|---|---|---:|---:|
+| 61 | 60 | YES | `சொன்னதில்லை` / `தெரியவில்லை` (`லை`), `மாற்றப்பட்டிருக்கிறார்` (`றா`), `நானாக` (`னா`), `சென்னையிலே` (`னை`), `இன்னொரு` (`னொ`) | 0 | 0 |
+| 62 | 61 | YES | `நிலைமைகளை` (`லை` / `ளை`), `உரிமைகளை` (`ளை`), `சான்றோர்கள்` (`றோ`), `அனைவரும்` (`னை`) | 0 | 0 |
+
+Families without a positive occurrence requiring action were still explicitly checked on both final pages.
+
+## HG3 result
+
+- audited scans: **61–62**
+- audited printed pages: **60–61**
+- pages audited in HG3: **2**
+- HG3 historical-glyph corrections: **0**
+- unresolved glyph clusters: **0**
+- global replacements: **0**
+- Gate C remains complete
+- `transcription.verified_against_scan=false` remains unchanged
+- Gate D was **not** started in this iteration
+
+## Gate C.5 final result
+
+**PASS / COMPLETE — scans 41–62 / printed pp.40–61.**
+
+- pages audited: **22 / 22**
+- HG1 corrections: **1**
+- HG2 corrections: **1**
+- HG3 corrections: **0**
+- cumulative historical-glyph corrections: **2**
+- unresolved historical-glyph clusters: **0**
+- all 13 mandatory families checked on every mapped Unit-2 page
+- source pixels remained controlling
+- global replacements: **0**
+- ordinary spelling/grammar modernization: **0**
+- Gate D: **unblocked / next**
+
+Exact next activity: **Gate D Tamil completeness audit — D1 scans 41–50 / printed pp.40–49**. Do not begin Gate E in the same iteration.
