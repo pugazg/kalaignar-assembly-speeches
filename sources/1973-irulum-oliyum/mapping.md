@@ -175,4 +175,6 @@ Unit 1 is **RELEASED**. Canonical `transcript.md` contains the unchanged verifie
 
 ## Exact next activity
 
-Continue **Unit 2 Gate C batch C2 — scans 51–60 / printed pp.50–59**. Transcribe the complete ten-page batch directly from source pixels, preserve wording/spelling/punctuation/speaker labels/numerals/embedded English/page boundaries, and record genuine source loss or uncertainty rather than reconstructing it. Do not begin Gate C.5, Gate D or English, and do not reopen released Unit 1.
+Complete **Unit 2 Gate C batch C3 — scans 61–62 / printed pp.60–61**, the final two-page remainder at the locked Council boundary. Transcribe directly from controlling source pixels and stop at scan 62; scan 63 is printer/imprint and scan 64 back cover. Do not begin Gate C.5 in the same iteration.
+
+Cumulative Gate-C result through C2: scans **41–60 / printed pp.40–59**, **20/22 pages**, first-pass complete, **0 physical crop holds**.

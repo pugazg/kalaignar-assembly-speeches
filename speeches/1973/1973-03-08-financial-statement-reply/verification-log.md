@@ -23,3 +23,20 @@ Status: **IN PROGRESS**
 Gate C cumulative coverage: **10 / 22 pages**.
 
 Exact continuation: **Gate C batch C2 — scans 51–60 / printed pp.50–59**.
+
+### Batch C2 — scan pp.51–60 / printed pp.50–59
+
+Status: **COMPLETE for this batch / Gate C remains IN PROGRESS**
+
+- visually transcribed ten complete source scans directly from the controlling PDF pixels;
+- cumulative source-page markers **41→60** are present exactly once and in order;
+- preserved the major headings, parliamentary intervention and printed-English legal/constitutional passages in this range;
+- preserved figures, dates, tax examples, land/ground figures and election-vote figures as printed;
+- no physical crop-loss hold was required in scans 51–60;
+- scan 60 ends mid-sentence after the visible `30`; no wording from scan 61 was reconstructed;
+- Tamil remains first-pass only: `transcription.verified_against_scan=false`;
+- Gate C.5 and all downstream gates remain not started.
+
+Cumulative Gate-C coverage: **20 / 22 pages**.
+
+Exact continuation: **Gate C batch C3 — scan pp.61–62 / printed pp.60–61**, the final 2-page remainder.
