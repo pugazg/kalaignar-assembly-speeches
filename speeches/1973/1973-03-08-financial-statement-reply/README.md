@@ -17,25 +17,24 @@ This entry preserves the Legislative Council reply dated `8-3-1973` in the sourc
 
 - Gate A: **PASS** at source-package level
 - Gate B: **PASS / LOCKED**
-- Gate C: **IN PROGRESS — C1 scans 41–50 / printed pp.40–49 complete; 10/22 pages**
-- Gate C.5 historical Tamil glyph audit: **NOT STARTED / mandatory after Gate C**
+- Gate C: **COMPLETE — C1–C3 scans 41–62 / printed pp.40–61; 22/22 pages**
+- Gate C.5 historical Tamil glyph audit: **NEXT / NOT STARTED**
 - Gates D–H: **NOT STARTED / downstream**
-- Tamil status: **partial / not verified**
+- Tamil status: **Gate-C complete / not verified**
 - English: **blocked until Tamil verification**
 
-## Gate C batch C1
+## Gate C result
 
-C1 was transcribed directly from the controlling source scans, **41–50 / printed pp.40–49**. Source-page markers 41→50 are present exactly once and in order.
+Gate C first-pass transcription is **COMPLETE for all 22 Unit-2 source pages**, scans **41–62 / printed pp.40–61**.
 
-No comparable physical gutter-edge crop loss was identified in these ten scans. The source's headings, parliamentary speaker labels, numerals and embedded English are retained. Scan p.50 includes two Punjab Electricity Board English quotations; they are preserved verbatim as printed, including awkward wording.
+- C1: scans 41–50 / printed pp.40–49 — COMPLETE
+- C2: scans 51–60 / printed pp.50–59 — COMPLETE
+- C3: scans 61–62 / printed pp.60–61 — COMPLETE
+- source-page markers: **41→62 exactly once and in order**
+- physical crop holds introduced in Unit 2 Gate C: **0**
+- source-printed English has been retained in the Tamil source layer
+- scan 62 closes the speech with `வணக்கம்` and the printed closing ornament
+- scan 63 is printer/imprint matter; scan 64 is the back cover; **no third speech follows**
+- Tamil is still **not verified**; historical-glyph, completeness and fidelity audits remain mandatory
 
-Historical Tamil typeforms have **not yet** been formally audited. Gate C first pass does not authorize modernization, and the mandatory Gate C.5 pass will re-read the complete Unit-2 range for the known historical glyph families.
-
-## Files
-
-- [`transcript.md`](./transcript.md) — Gate-C Tamil working transcript
-- [`metadata.json`](./metadata.json) — source and gate state
-- [`source-notes.md`](./source-notes.md) — source authority and C1 source-condition notes
-- [`verification-log.md`](./verification-log.md) — bounded gate progress
-
-Exact next activity: **Gate C batch C2 — scans 51–60 / printed pp.50–59**. Do not begin Gate C.5, Gate D, English translation, or modify released Unit 1 in the same iteration.
+Exact next activity: **Gate C.5 historical Tamil glyph audit — HG1 scans 41–50 / printed pp.40–49**. Do not begin Gate D in the same iteration.
