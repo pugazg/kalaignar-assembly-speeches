@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 Gate F batch F3
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 Gate F batch F4
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,9 +8,9 @@ Fetch live `main` first and preserve newer durable work. Do not reset to a stale
 
 Last archival-content checkpoint before this handover documentation:
 
-`56162aeba685b0412284c6c2e8a5097216aaeec7`
+`e00b1e8229387e8b08e2da0dd1d68a0b6a0d4e29`
 
-Message: `Complete 1973 Assembly Gate F batch F2`
+Message: `Complete 1973 Assembly Gate F batch F3`
 
 The documentation commits are newer than this SHA; fetch live `main` first.
 
@@ -83,8 +83,9 @@ Unit 2:
 - Gate F English translation — **IN PROGRESS**
   - F1 scans 4–13 / printed pp.3–12 — **COMPLETE**
   - F2 scans 14–23 / printed pp.13–22 — **COMPLETE**
-  - coverage: **20 / 37 pages**
-  - next: F3 scans 24–33 / printed pp.23–32
+  - F3 scans 24–33 / printed pp.23–32 — **COMPLETE**
+  - coverage: **30 / 37 pages**
+  - next: F4 scans 34–40 / printed pp.33–39 — final 7-page remainder
 - Gate G — **blocked until Gate F is complete**
 - Gate H — **not reached**
 
@@ -129,20 +130,20 @@ Do not cross a gate or speech boundary merely to fill a batch.
 
 ## Durable Gate-F progress
 
-F1 and F2 are complete in `translation.md` for **scans 4–23 / printed pp.3–22**.
+F1, F2 and F3 are complete in `translation.md` for **scans 4–33 / printed pp.3–32**.
 
-- source-page sections **4–23** are present exactly once and in order;
-- cumulative coverage: **20 / 37 pages**;
-- inherited crop-loss markers remain explicit, including scans 20–21;
-- source-printed Hande English across scans 15–17 is preserved verbatim;
-- F2 ends exactly at scan p.23 and does not enter scan p.24;
+- source-page sections **4–33** are present exactly once and in order;
+- cumulative coverage: **30 / 37 pages**;
+- inherited crop-loss markers remain explicit, including scans 25–27;
+- source-printed English on scans 25, 28 and 29 is preserved verbatim;
+- F3 ends exactly at scan p.33 and does not enter scan p.34;
 - Gate G has not started.
 
-## Exact next activity — Gate F batch F3
+## Exact next activity — Gate F batch F4
 
-Translate the **verified Tamil for scans 24–33 / printed pp.23–32** into English and append those ten source-page sections to the existing `translation.md`.
+Translate the **verified Tamil for scans 34–40 / printed pp.33–39** into English and append those final seven source-page sections to the existing `translation.md`.
 
-This is a faithful reading translation, not a summary and not prose modernization.
+This is the shorter final remainder at the locked Unit-1 boundary.
 
 Requirements:
 
@@ -155,7 +156,8 @@ Requirements:
 - keep inherited `⟦scan-crop⟧` source-loss markers explicit and never reconstruct missing Tamil;
 - do not silently correct historical/factual claims;
 - do not normalize source quirks away;
-- do not begin Unit 2;
-- synchronize translation progress and commit a bounded F3 result.
+- stop at scan p.40 / printed p.39, the locked Unit-1 close;
+- do not begin Unit 2 or Gate G in the same iteration;
+- synchronize translation progress and commit the bounded F4 result.
 
-After complete Unit 1 translation, run Gate G as a separate full English fidelity/voice pass. Gate H follows only after both Tamil and English are verified.
+After F4, Gate F should be complete for **37 / 37 Unit-1 pages**. Run Gate G only in the following iteration. Gate H follows only after English verification.

@@ -94,9 +94,10 @@ Read before continuation:
 - Gate F English translation — **IN PROGRESS**
   - F1 scans 4–13 / printed pp.3–12 — **COMPLETE**
   - F2 scans 14–23 / printed pp.13–22 — **COMPLETE**
-  - coverage: **20 / 37 pages**
+  - F3 scans 24–33 / printed pp.23–32 — **COMPLETE**
+  - coverage: **30 / 37 pages**
   - working file: `speeches/1973/1973-03-07-financial-statement-reply/translation.md`
-  - next: F3 scans 24–33 / printed pp.23–32
+  - next: F4 scans 34–40 / printed pp.33–39 — final 7-page remainder
 - Gate G English fidelity/voice review — **blocked until Gate F is complete**
 - Gate H canonical merge/index/release — **not reached**
 
@@ -180,31 +181,32 @@ If fewer pages remain before a locked gate or speech boundary, process only the 
 
 ## Gate F progress
 
-F1 and F2 are **COMPLETE** through **scan p.23 / printed p.22**.
+F1, F2 and F3 are **COMPLETE** through **scan p.33 / printed p.32**.
 
 - F1: scans **4–13** / printed pp. **3–12** — 10 pages;
 - F2: scans **14–23** / printed pp. **13–22** — 10 pages;
-- cumulative coverage: **20 / 37 Unit-1 pages**;
-- English source-page sequence: **4→23, exactly once and in order**;
+- F3: scans **24–33** / printed pp. **23–32** — 10 pages;
+- cumulative coverage: **30 / 37 Unit-1 pages**;
+- English source-page sequence: **4→33, exactly once and in order**;
 - inherited `⟦scan-crop⟧` source-loss markers remain explicit and unreconstructed;
-- source-printed Hande English on scans 15–17 is preserved verbatim;
-- F2 ends exactly at scan p.23 and does not enter scan p.24;
+- source-printed English is preserved verbatim, including the scan-25 intervention and the K. L. Rao quotations on scans 28–29;
+- F3 ends exactly at scan p.33 and does not enter scan p.34;
 - Gate G has not started.
 
 ## Exact next activity
 
-Continue **Gate F batch F3** for Unit 1 with:
+Complete **Gate F batch F4** for Unit 1 with:
 
-- **scan pp.24–33**
-- **printed pp.23–32**
-- next **10-scan-page iteration**
+- **scan pp.34–40**
+- **printed pp.33–39**
+- final **7-scan-page boundary remainder**
 
-Use the same rules: translate only from the verified Tamil, preserve source-page provenance, interventions, figures, rhetoric and source-printed English verbatim, retain `⟦scan-crop⟧` for inherited source loss, and do not enter Unit 2. Gate G begins only after all 37 Unit-1 pages are translated.
+Use the same rules: translate only from the verified Tamil, preserve source-page provenance, interventions, figures, rhetoric and source-printed English verbatim, retain `⟦scan-crop⟧` for inherited source loss, and do not enter Unit 2 or Gate G in the same iteration. After F4, Gate F can be marked complete for all 37 Unit-1 pages; Gate G begins only in the following iteration.
 
 ## Last archival-content checkpoint before this handover update
 
-`56162aeba685b0412284c6c2e8a5097216aaeec7`
+`e00b1e8229387e8b08e2da0dd1d68a0b6a0d4e29`
 
-Message: `Complete 1973 Assembly Gate F batch F2`
+Message: `Complete 1973 Assembly Gate F batch F3`
 
 The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.
