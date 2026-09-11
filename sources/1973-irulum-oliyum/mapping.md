@@ -90,8 +90,8 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 - Gate A — **COMPLETE / PASS**
 - Gate B — **COMPLETE / PASS / LOCKED**
-- Gate C — **IN PROGRESS — Unit 1 scans 4–38 / printed pp.3–37**
-- Gate D — not started
+- Gate C — **COMPLETE — Unit 1 scans 4–40 / printed pp.3–39**
+- Gate D — **NEXT — Unit 1 Tamil completeness audit**
 - Gate E — not started
 - Gates F–H — blocked
 
@@ -106,9 +106,9 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - scan p.28 introduces no comparable crop hold and its printed English quotations are retained verbatim in the source layer;
 - scans 29–33 introduce no new crop holds; printed English and securely readable illustration text are retained as source context;
 - scans 34–35 are crop-affected at the gutter (lower right on p.34; left edge on p.35); unrecoverable text is marked `⟦scan-crop⟧` and not reconstructed;
-- scans 36–38 introduce no comparable crop holds; p.38 ends during the `குன்றின் மேலிட்ட விளக்கு` discussion;
+- scans 36–40 introduce no comparable crop holds; p.38 ends during the `குன்றின் மேலிட்ட விளக்கு` discussion, and scans 39–40 complete that discussion and reach the source `முடிப்புரை` close on the locked Assembly boundary;
 - `verified_against_scan` remains false until Gate E is completed for the entire Assembly speech.
 
 ## Exact next activity
 
-Continue **Gate C** on Unit 1, `சட்டப் பேரவையில்` / `7-3-1973`, from **PDF scan p.39 / printed p.38** in the next bounded batch. Preserve each `<!-- source-page: N -->` marker exactly once, mark any genuinely unreadable source text explicitly rather than reconstructing it, and do not begin Unit 2 or English before the Assembly speech reaches the required later gates.
+Run **Gate D — Tamil completeness audit** on Unit 1, `சட்டப் பேரவையில்` / `7-3-1973`, across the full locked range **PDF scans 4–40 / printed pp.3–39**. Check marker coverage/monotonicity, start/end against the locked map, all speaker changes/interventions and printed contextual material, and that every unresolved source reading remains explicitly marked. Do not begin Gate E, Unit 2 or English until Gate D passes.

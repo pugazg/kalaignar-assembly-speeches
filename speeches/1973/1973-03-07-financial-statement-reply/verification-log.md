@@ -111,3 +111,20 @@ Exact continuation: **scan p.34 / printed p.33**.
 - English translation remains blocked.
 
 Exact continuation: **scan p.39 / printed p.38**.
+
+### Batch C8 — scan pp.39–40 / printed pp.38–39
+
+- first-pass transcription completed for the final Assembly scans 39–40 directly from the rendered source;
+- source-page markers 39 and 40 are present exactly once and in order;
+- scans 39–40 introduce **no new physical gutter-edge crop holds**;
+- scan p.39 continues the `குன்றின் மேலிட்ட விளக்கு` discussion and preserves the printed four-line opening of the quoted verse;
+- scan p.40 preserves the continuation of that verse, the source heading `முடிப்புரை`, and the complete closing paragraph of the Assembly reply;
+- the close on scan p.40 / printed p.39 matches the locked Gate-B boundary; **no Legislative Council text was started**;
+- source-supported forms and spacing were retained, including p.39 `அதனுள் கவரப்பட்டு` and p.40 `சுட்டிக்காட்டி யிருக்கிறேன்`;
+- corrections from formal Gate E: **0** — Gate E has not started;
+- `verified_against_scan` remains **false**;
+- English translation remains blocked.
+
+**Gate C result for Unit 1: COMPLETE — scans 4–40 / printed pp.3–39.** The metadata transcription status is now `transcribed`, which records first-pass completeness only and does not imply verification.
+
+Exact next activity: **Gate D Tamil completeness audit for the locked Assembly range scans 4–40 / printed pp.3–39**.
