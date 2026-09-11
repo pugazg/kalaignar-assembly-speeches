@@ -239,48 +239,54 @@ Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-r
 
 - Gate A — **PASS at source-package level**
 - Gate B — **PASS / LOCKED**
-- Gate C — **IN PROGRESS**
+- Gate C — **COMPLETE**
   - C1 scans **41–50** / printed pp. **40–49** — **COMPLETE**
-  - cumulative coverage: **10 / 22 pages**
-  - source-page markers: **41→50 exactly once and in order**
-  - C1 crop holds: **0**
-  - source-printed English on scan 50 retained verbatim
-  - next: **C2 scans 51–60 / printed pp.50–59**
-- Gate C.5 historical-glyph audit — **NOT STARTED / mandatory after Gate C**
+  - C2 scans **51–60** / printed pp. **50–59** — **COMPLETE**
+  - C3 scans **61–62** / printed pp. **60–61** — **COMPLETE**
+  - cumulative coverage: **22 / 22 pages**
+  - source-page markers: **41→62 exactly once and in order**
+  - Unit-2 Gate-C crop holds: **0**
+  - scan 62 closes with `வணக்கம்` and the printed closing ornament
+  - scan 63 printer/imprint; scan 64 back cover; no third speech follows
+- Gate C.5 historical-glyph audit — **NEXT / NOT STARTED**
 - Gates D–H — **NOT STARTED / downstream**
-- Tamil status — **partial / not verified**
+- Tamil status — **Gate-C complete / not verified**
 - English — **blocked**
 - canonical folder: `speeches/1973/1973-03-08-financial-statement-reply/`
-- source closes on scan 62; scan 63 is printer/imprint and scan 64 back cover
 
-## Gate C1 source notes
+## Gate C source notes
 
-- scans 41–50 were visually transcribed from the controlling source;
-- no comparable gutter-edge physical crop loss was identified in the bounded C1 range;
+- scans 41–62 were visually transcribed from the controlling source in three bounded batches;
+- no physical crop-loss hold was required anywhere in Unit 2 Gate C;
 - illustrations on scans 43–44 did not justify inventing additional labels;
-- scan 50 includes two Punjab Electricity Board English quotations, preserved verbatim as printed;
+- source-printed English on scan 50 and the legal/constitutional passages on scans 52–55 are retained verbatim;
+- scan 61 continues the Dindigul-election discussion and contains the heading `மாற்றம்!`;
+- scan 62 closes the Council reply with the State-autonomy argument, final acknowledgements, `வணக்கம்`, and the printed closing ornament;
+- scan 63 was confirmed as printer/imprint matter and scan 64 as the back cover;
 - historical Tamil typeforms remain intentionally **unaudited** until Gate C.5;
-- no Unit-1 file was reopened or altered.
+- released Unit 1 was not reopened.
 
 ## Exact next activity
 
-Complete **Unit 2 Gate C batch C3 — scans 61–62 / printed pp.60–61**, the final 2-page Gate-C remainder.
+Begin **Unit 2 Gate C.5 historical Tamil glyph audit — HG1 scans 41–50 / printed pp.40–49**.
 
 Requirements:
 
-- continue the existing canonical `transcript.md`;
-- transcribe directly from controlling scan pixels;
-- preserve source wording, spelling, punctuation, headings, speaker labels, figures and printed English;
-- keep source-page markers **61→62** exactly once and in order;
-- stop at scan 62; scan 63 is printer/imprint and scan 64 back cover;
-- do not reconstruct any cropped or unclear text from context;
-- synchronize metadata, README, mapping and verification log;
-- after C3, mark Gate C complete for **22/22 pages**, but **do not start Gate C.5 in the same iteration**.
+- re-read the canonical Gate-C transcript against controlling source pixels;
+- audit the mandatory historical glyph families from `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
+- use same-edition comparison where a glyph remains uncertain;
+- make only source-supported character/word corrections;
+- never perform global replacement;
+- record every correction and any unresolved glyph cluster in a Unit-2 historical-glyph audit record and verification log;
+- keep `transcription.verified_against_scan=false`;
+- do **not** begin Gate D in the same iteration.
+
+Normal historical-glyph batch size is **10 scan pages**, so HG1 covers scans **41–50**.
 
 ## Last archival-content checkpoint before this handover update
 
-`2a570d2dfe3a723024c857a730ad1eeacb81f0eb`
+`8817cddf2578a611f27e745f2cae6164bdc39d12`
 
-Message: `Transcribe 1973 Council Gate C batch C2`
+Message: `Close 1973 Council Gate C records`
 
 The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.

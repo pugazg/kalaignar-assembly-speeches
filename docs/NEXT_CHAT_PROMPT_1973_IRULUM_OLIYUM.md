@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate C batch C3
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate C.5 HG1
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,11 +8,25 @@ Fetch live `main` first and preserve newer durable work. Do not reset to a stale
 
 Last archival-content checkpoint before this documentation update:
 
-`2a570d2dfe3a723024c857a730ad1eeacb81f0eb`
+`8817cddf2578a611f27e745f2cae6164bdc39d12`
 
-Message: `Transcribe 1973 Council Gate C batch C2`
+Message: `Close 1973 Council Gate C records`
 
 Unit 1 is **fully released through Gate H**. Do not reopen it absent genuinely new contrary source evidence.
+
+## Mandatory startup reading
+
+Read completely before source-dependent work:
+
+1. `docs/ARCHIVAL_WORKFLOW.md`
+2. `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+3. `docs/HANDOVER_1973_IRULUM_OLIYUM.md`
+4. this prompt
+5. `sources/1973-irulum-oliyum/mapping.md`
+6. `speeches/1973/1973-03-08-financial-statement-reply/transcript.md`
+7. `speeches/1973/1973-03-08-financial-statement-reply/metadata.json`
+8. `speeches/1973/1973-03-08-financial-statement-reply/verification-log.md`
+9. `speeches/1973/1973-03-08-financial-statement-reply/source-notes.md`
 
 ## Controlling source
 
@@ -40,33 +54,35 @@ Unit 1 is **fully released through Gate H**. Do not reopen it absent genuinely n
 
 - Gate A — **PASS**
 - Gate B — **PASS / LOCKED**
-- Gate C — **IN PROGRESS**
-  - C1 scans 41–50 / printed pp.40–49 — **COMPLETE**
-  - C2 scans 51–60 / printed pp.50–59 — **COMPLETE**
-  - coverage: **20/22 pages**
-  - source-page sequence: **41→60**
-  - physical crop holds through scan 60: **0**
-  - next scan: **61**
-- Gate C.5 — **NOT STARTED / downstream**
+- Gate C — **COMPLETE**
+  - C1 scans 41–50 — COMPLETE
+  - C2 scans 51–60 — COMPLETE
+  - C3 scans 61–62 — COMPLETE
+  - coverage: **22/22 pages**
+  - source-page sequence: **41→62 exactly once and in order**
+  - physical crop holds: **0**
+  - scan 62 closes the speech
+- Gate C.5 — **NEXT / NOT STARTED**
 - Gates D–H — **NOT STARTED / downstream**
-- English — **NOT STARTED / blocked**
+- Tamil — **Gate-C complete / not verified**
+- English — **BLOCKED**
 
-C2 preserved the printed-English legal and constitutional passages on scans 52–55, retained the K. Rajaram intervention on scan 59, and stopped at the physical scan-60 boundary in the middle of the continuing election-vote sentence. Do not reconstruct scan-61 wording from context.
+## Exact next activity — Gate C.5 HG1
 
-## Exact next activity — Gate C batch C3
-
-Process **scans 61–62 / printed pp.60–61** as the final two-page Gate-C remainder.
+Audit **scans 41–50 / printed pp.40–49** specifically for historical Tamil glyph identity.
 
 Requirements:
 
-- visually transcribe both complete pages from the controlling scan;
-- append source-page markers **61** and **62** exactly once and in order;
-- preserve source spelling, punctuation, headings, speaker labels, numerals and source-printed English;
-- do not infer missing text from context;
-- stop exactly at scan 62, the locked Council close;
-- confirm scan 63 is non-speech printer/imprint matter and scan 64 back cover;
-- update metadata, README, verification log, mapping and handover;
-- mark Gate C **COMPLETE — 22/22 pages** only after both pages are represented;
-- **do not begin Gate C.5 in the same iteration**.
+- compare the existing canonical Tamil against the controlling source pixels page by page;
+- audit at minimum the repository's required historical glyph families: `ணா`, `ணை`, `ணொ`, `ணோ`, `லை`, `ளை`, `றா`, `றொ`, `றோ`, `னா`, `னை`, `னொ`, `னோ`;
+- inspect whole words and neighboring glyph context, not isolated shapes only;
+- use same-edition comparison where useful;
+- apply only source-supported corrections;
+- **never** perform global replacement;
+- distinguish genuine source wording from transcription error;
+- record every correction and unresolved cluster in the Unit-2 historical-glyph audit record and `verification-log.md`;
+- update metadata, README, mapping and handover;
+- keep Gate C complete and `transcription.verified_against_scan=false`;
+- **do not begin Gate D** in the same iteration.
 
-After C3, the next activity is the mandatory **Gate C.5 historical Tamil glyph audit** for Unit 2.
+After HG1, the expected continuation is **HG2 scans 51–60 / printed pp.50–59**, followed by the final short HG3 scans 61–62.
