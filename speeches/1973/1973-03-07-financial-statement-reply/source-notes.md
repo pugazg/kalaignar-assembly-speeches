@@ -137,3 +137,13 @@ All seven pages were re-read from enlarged/native source pixels with all 13 mini
 Representative source-supported identities confirmed include scan p.34 `கருணாநிதி` (`ணா`), `சென்னையிலுள்ள` (`னை`), `பார்க்கிறோமே` (`றோ`); scan p.35 `ஆட்சேபணை` / `விசாரணையில்` (`ணை`), `புகார்களைச்` (`ளை`), `உரையாற்றியிருக்கிறார்` (`றா`), `மனைப்பட்டா` (`னை`); scan p.36 `தொழிற் சாலை` / `தொழிற்சாலைகளும்` (`லை`), `பணிகளை` (`ளை`), `அளித்திருக்கின்றோம்` (`றோ`); scan p.37 `துணைத்` (`ணை`), `மலைத் தோட்டம்` / `பல்கலைக் கழக` (`லை`), `உரிமையாளனாகிவிடுகிறான்` (`றா` / `னா`); scan p.38 `அண்ணா` / `அண்ணாதுரை` (`ணா`), `இணைப்புச்` (`ணை`), `அறிவுரைகளையெல்லாம்` / `விளைவு` (`ளை`), `முடிக்கிறார்களோ` (`றா`); scan p.39 `அண்ணா` (`ணா`), `நீதிகளையெல்லாம்` / `கட்டுரைகளைப்` (`ளை`), `கொண்டிருக்கிறார்கள்` (`றா`), `முனையக்கூடாது` (`னை`); scan p.40 `குணாளா` (`ணா`), `நிதிநிலை` (`லை`), `கருத்துக்களைப்` (`ளை`), `எழுதியிருக்கிறார்கள்` (`றா`), `கற்றோய்` (`றோ`), `அனைத்துக்` (`னை`).
 
 No positive occurrence requiring correction was found for `ணொ / ணோ / றொ / னொ / னோ` in HG7; those families were still explicitly checked. Genuine `று` forms such as `உறுப்பினர்`, `பொறுத்தவரையில்`, `குன்றின்`, `திருப்படையொன்று`, and `பெறுகின்ற` were source-checked and correctly left unchanged. Scan pp.34–35 crop losses remain physical source-loss holds, not historical-glyph ambiguity.
+
+### Gate E batch E3 — scans 24–33 / printed pp.23–32
+
+Strict pixel-level source-fidelity review produced three canonical corrections:
+
+1. scan p.31 / printed p.30 illustration: `கைத்தறியாளர்களுக்குத் நூல்கள் அரசு நேரிடை விநியோகம்` → `கைத்தறியாளர்களுக்கு நூல்கள் அரசு நேரிடை விநியோகம்`. Enlarged illustration pixels clearly show `கைத்தறியாளர்களுக்கு`, without the added `த்`.
+2. scan p.32 / printed p.31 illustration: `விவசாயத்திற்கும் மின்சாரம்` → `விவசாயத்திற்கு மின்சாரம்`. The rotated clock caption clearly reads `விவசாயத்திற்கு மின்சாரம்`.
+3. scan p.33 / printed p.32 body: `மின் வெட்டு நிலமை` → `மின் வெட்டு நிலைமை`. Enlarged source pixels clearly show `நிலைமை`.
+
+No other source-fidelity correction was required in scans 24–33. Printed English passages and quoted material were retained verbatim. Scan pp.25–27 crop losses remain explicit and unreconstructed.
