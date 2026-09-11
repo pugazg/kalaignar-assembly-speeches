@@ -36,7 +36,8 @@ Known physical crop loss remains explicit and must not be reconstructed.
 |---|---|---|---|---:|---:|
 | E1 | 4–13 | 3–12 | PASS | 0 | 0 |
 | E2 | 14–23 | 13–22 | PASS | 2 | 0 |
-| — | 24–40 | 23–39 | NOT YET VERIFIED | 0 | — |
+| E3 | 24–33 | 23–32 | PASS | 3 | 0 |
+| — | 34–40 | 33–39 | NOT YET VERIFIED | 0 | — |
 
 ## E1 source-fidelity record
 
@@ -84,6 +85,32 @@ The smaller scan-p.13 cartoon labels are a pre-existing source-context uncertain
 E2 corrections: **2**. Cumulative Gate E corrections: **2**.
 E2 new unresolved fidelity questions: **0**.
 
+## E3 source-fidelity record
+
+| Scan | Printed | Key checks | Result |
+|---:|:---:|---|:---:|
+| 24 | 23 | 110/315/510/935/625; four-state power-map labels | PASS |
+| 25 | 24 | 60/130/90/280/225; six-lakh pump-set statement; ten-project list; 1,035 MW; printed English Ananthanayaki | PASS |
+| 26 | 25 | Karunanidhi response; project-approval procedure; right-gutter crop | PASS |
+| 27 | 26 | 1970-71 examples; boiler/generator/import discussion; `Ratification`; `மத்தியில் இருந்து.........`; left-gutter crop | PASS |
+| 28 | 27 | Ananthanayaki / Karunanidhi / Ponnappa Nadar; two K. L. Rao English quotations | PASS |
+| 29 | 28 | 23-2-1972 / 26-7-1972; `Zonal Council`; 390 MW / 89 MW Southern Zone quotation; strike illustration | PASS |
+| 30 | 29 | Hande / O. P. Raman / Ananthanayaki / O. P. Raman; 70/60/97.5/35/24/30/40/73 | PASS |
+| 31 | 30 | handloom-yarn paragraph; illustration `கைத்தறியாளர்களுக்கு நூல்கள் அரசு நேரிடை விநியோகம்`; `விவசாயிகளுக்குச் சலுகைகள்` | PASS — 1 correction |
+| 32 | 31 | 4→5-hour concession; 4–9 / 8-30–1-30 / 1–6 trial windows; illustration `விவசாயத்திற்கு மின்சாரம்` | PASS — 1 correction |
+| 33 | 32 | transformer section; `மின் வெட்டு நிலைமை`; minimum-charge cancellation illustration; tax-relief paragraph | PASS — 1 correction |
+
+### E3 correction ledger
+
+| Scan | Printed | Earlier canonical reading | Source-supported reading | Evidence |
+|---:|:---:|---|---|---|
+| 31 | 30 | `கைத்தறியாளர்களுக்குத் நூல்கள் அரசு நேரிடை விநியோகம்` | `கைத்தறியாளர்களுக்கு நூல்கள் அரசு நேரிடை விநியோகம்` | enlarged illustration pixels; no printed `த்` |
+| 32 | 31 | `விவசாயத்திற்கும் மின்சாரம்` | `விவசாயத்திற்கு மின்சாரம்` | enlarged/rotated clock-caption pixels |
+| 33 | 32 | `மின் வெட்டு நிலமை` | `மின் வெட்டு நிலைமை` | enlarged source-body pixels |
+
+E3 corrections: **3**. Cumulative Gate E corrections: **5**.
+E3 new unresolved fidelity questions: **0**.
+
 ## Exact next activity
 
-Continue Gate E with **scan pp.24–33 / printed pp.23–32** as the next 10-scan-page iteration. Do not mark Tamil verified and do not begin Unit 2 or English translation until Gate E passes across scans 4–40.
+Finish Gate E with **scan pp.34–40 / printed pp.33–39**. This is the final **7-scan remainder** at the locked Assembly boundary; do not cross into Unit 2. Do not set `verified_against_scan=true` until this final remainder passes.
