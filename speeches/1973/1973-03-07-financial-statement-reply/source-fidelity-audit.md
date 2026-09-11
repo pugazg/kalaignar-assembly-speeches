@@ -35,7 +35,8 @@ Known physical crop loss remains explicit and must not be reconstructed.
 | Batch | Scan pages | Printed pages | Status | Corrections | New unresolved fidelity questions |
 |---|---|---|---|---:|---:|
 | E1 | 4–13 | 3–12 | PASS | 0 | 0 |
-| — | 14–40 | 13–39 | NOT YET VERIFIED | 0 | — |
+| E2 | 14–23 | 13–22 | PASS | 2 | 0 |
+| — | 24–40 | 23–39 | NOT YET VERIFIED | 0 | — |
 
 ## E1 source-fidelity record
 
@@ -58,6 +59,31 @@ E1 new unresolved fidelity questions: **0**.
 
 The smaller scan-p.13 cartoon labels are a pre-existing source-context uncertainty, not a new Gate-E regression; they remain intentionally unreconstructed.
 
+## E2 source-fidelity record
+
+| Scan | Printed | Key checks | Result |
+|---:|:---:|---|:---:|
+| 14 | 13 | figures; Ananthanayaki; Hande; source compound `முதலமைச்சரவர்கள்` | PASS — 1 correction |
+| 15 | 14 | advertisement figures; full Hande English paragraph | PASS |
+| 16 | 15 | PM quotation; Ananthanayaki; Hande English | PASS |
+| 17 | 16 | Hande English continuation; 15,000 / 2 paise; `(Tone and content)`; `விலைவாசி உயர்வு` | PASS |
+| 18 | 17 | `உண்மை என்ன ?`; Economic Survey 1972-73 | PASS |
+| 19 | 18 | 8·1 / 7·3 / 10·8 / 4·6 / 11·1 / 1·5 / 12·9; three cartoon labels | PASS |
+| 20 | 19 | four interventions; Economic Survey of India / `இன்கிரீஸ் புரொடக்ஷன்`; right-gutter crop | PASS |
+| 21 | 20 | `அன் அக்கெளண்டட் மணி`; Ponnappa Nadar; illustration `வரி ஏய்ப்பு`; left-gutter crop | PASS — 1 correction |
+| 22 | 21 | p.21 continuation; `கறுப்புப் பணம்`; `மின்வெட்டு` | PASS |
+| 23 | 22 | training-language discussion; three scale-cartoon labels; continuation to p.24 | PASS |
+
+### E2 correction ledger
+
+| Scan | Printed | Earlier canonical reading | Source-supported reading | Evidence |
+|---:|:---:|---|---|---|
+| 14 | 13 | `மதிப்புக்குரிய முதலமைச்சர் அவர்கள் திரு கோபால்` | `மதிப்புக்குரிய முதலமைச்சரவர்கள் திரு கோபால்` | enlarged source pixels; printed compound is continuous |
+| 21 | 20 | `வரிசலுகை` | `வரி ஏய்ப்பு` | enlarged illustration pixels clearly show `வரி ஏய்ப்பு` |
+
+E2 corrections: **2**. Cumulative Gate E corrections: **2**.
+E2 new unresolved fidelity questions: **0**.
+
 ## Exact next activity
 
-Continue Gate E with **scan pp.14–23 / printed pp.13–22** as the next 10-scan-page iteration. Do not mark Tamil verified and do not begin Unit 2 or English translation until Gate E passes across scans 4–40.
+Continue Gate E with **scan pp.24–33 / printed pp.23–32** as the next 10-scan-page iteration. Do not mark Tamil verified and do not begin Unit 2 or English translation until Gate E passes across scans 4–40.
