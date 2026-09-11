@@ -16,7 +16,7 @@ This entry preserves the Legislative Assembly reply dated `7-3-1973` in the sour
 - Gate A: **PASS** at source-package level
 - Gate B: **PASS / LOCKED**
 - Gate C: **COMPLETE — scans 4–40 / printed pp.3–39**
-- Gate C.5: **IN PROGRESS — scans 4–8 / printed pp.3–7 audited; 2 glyph corrections; 0 unresolved glyph clusters in audited visible text**
+- Gate C.5: **IN PROGRESS — scans 4–13 / printed pp.3–12 audited; 3 cumulative glyph corrections; 0 unresolved glyph clusters in audited visible text**
 - Gate D: **BLOCKED until Gate C.5 passes**
 - Gate E: not started
 - English Gates F–G: blocked
@@ -26,6 +26,6 @@ The controlling scan has gutter-edge loss on scans 4–5, 10–11, 20–21, 25�
 
 Gate-C first pass now reaches the locked Assembly close on **scan p.40 / printed p.39**. Because this 1973 source uses older Tamil print, a dedicated historical-glyph pass is now mandatory under `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
-Gate C.5 batch HG1 is complete for **scans 4–8 / printed pp.3–7**. Two scan-p.4 historical `றா` identities were corrected from apparent `பெறுமல்` to source-supported `பெறாமல்`; no other historical-glyph correction was required in scans 4–8. Existing physical crop holds remain source-loss issues and are not counted as unresolved glyph identities.
+Gate C.5 batches HG1–HG2 are complete through **scans 4–13 / printed pp.3–12**. HG2 found one additional historical `றா` correction on scan p.12 / printed p.11: apparent `மாற்றுந்தாய்` → source-supported `மாற்றாந்தாய்`. Cumulative historical-glyph corrections: **3**; unresolved glyph clusters in audited visible text: **0**. Existing physical crop holds and the unresolved small cartoon labels on scan p.13 remain source-condition issues, not glyph-identity findings.
 
-Exact next activity: continue **Gate C.5 with scans 9–13 / printed pp.8–12**. Gate D must wait until the full historical-glyph audit passes.
+Exact next activity: continue **Gate C.5 with scans 14–18 / printed pp.13–17**. Gate D must wait until the full historical-glyph audit passes.
