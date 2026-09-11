@@ -10,7 +10,7 @@ Active source package:
 
 `sources/1973-irulum-oliyum/`
 
-Active Unit 1 reader-facing entry:
+Released Unit 1 reader-facing entry:
 
 `speeches/1973/1973-03-07-financial-statement-reply/`
 
@@ -53,7 +53,7 @@ Canonical Unit 2 ID is mapped as:
 
 `1973-03-08-financial-statement-reply`
 
-**Do not enter Unit 2 while completing Unit 1 Gates F–H.**
+**Unit 1 is now released through Gate H. Unit 2 is the next active archival unit; do not reopen Unit 1 without genuinely new contrary source evidence.**
 
 ## Mandatory workflow documents
 
@@ -108,7 +108,12 @@ Read before continuation:
   - cumulative Gate-G corrections: **15**
   - unresolved English fidelity issues: **0**
   - English `verified_against_tamil=true`
-- Gate H canonical merge/index/release — **READY / NOT STARTED**
+- Gate H canonical merge/index/release — **PASS / COMPLETE**
+  - canonical `transcript.md` contains verified Tamil followed by verified English
+  - Tamil markers 4→40 exactly once/in order
+  - English source-page sections 4→40 exactly once/in order
+  - `translation.md` retired to pointer
+  - Unit 1 release — **RELEASED**
 
 ## Historical-glyph corrections
 
@@ -201,8 +206,8 @@ F1, F2, F3 and F4 are **COMPLETE** through the locked Unit-1 end at **scan p.40 
 - inherited `⟦scan-crop⟧` source-loss markers remain explicit and unreconstructed, including scans 34–35;
 - source-printed English in the earlier pages remains verbatim;
 - F4 stops exactly at scan p.40; Unit 2 was not entered;
-- `translation.status=complete`;
-- `translation.verified_against_tamil=false`;
+- `translation.status=verified`;
+- `translation.verified_against_tamil=true`;
 - Gate G is **PASS / COMPLETE — 37 of 37 pages reviewed / 15 corrections / 0 unresolved / English verified**.
 
 ## Gate G result
@@ -228,26 +233,39 @@ Final result:
 
 Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-review.md`.
 
+## Unit 2 durable starting state
+
+`சட்டமன்ற மேலவையில்` / 8-3-1973 / scans **41–62** / printed pp. **40–61**
+
+- Gate A — **PASS at source-package level**
+- Gate B — **PASS / LOCKED**
+- Gate C — **NOT STARTED**
+- Gate C.5 historical-glyph audit — **NOT STARTED / downstream**
+- Gates D–H — **NOT STARTED / downstream**
+- canonical ID mapped: `1973-03-08-financial-statement-reply`
+- no Unit-2 canonical speech folder or transcript has been started yet
+- source closes on scan 62; scan 63 is printer/imprint and scan 64 back cover
+
 ## Exact next activity
 
-Run **Gate H — canonical merge, index and release for Unit 1**.
+Begin **Unit 2 Gate C batch C1 — scans 41–50 / printed pp.40–49**.
 
-Required Gate-H actions:
+Requirements:
 
-1. keep the verified Tamil **untouched** at the start of canonical `transcript.md`;
-2. append/consolidate the complete Gate-G-verified English from `translation.md` after the Tamil;
-3. verify Tamil source markers and English source-page sections each cover **4→40 exactly once and in order**;
-4. recheck all Gate-G correction boundaries after merge, especially 5→6, 37→38 and 39→40;
-5. update `metadata.json`, work README, `verification-log.md`, `translation-review.md`, `data/speeches.json`, root README/index and source handover;
-6. retire the working `translation.md` copy according to established repository convention only after the canonical merge is validated;
-7. mark released only after the merged canonical presentation and indexes pass all checks.
-
-Do not begin Unit 2 in the same iteration.
+- create/use canonical folder `speeches/1973/1973-03-08-financial-statement-reply/`;
+- transcribe directly from the controlling scan pixels;
+- preserve source spelling, punctuation, headings, speaker labels, numerals, embedded English and parliamentary interventions;
+- retain source-page markers and exact page order;
+- never reconstruct physically lost text from context;
+- keep uncertain historical typeforms explicit for the mandatory Gate C.5 audit;
+- use the normal **10-scan-page** iteration boundary;
+- synchronize metadata, mapping and verification log after the bounded C1 pass;
+- do not modify released Unit 1.
 
 ## Last archival-content checkpoint before this handover update
 
-`aca69c64411bc2a6f3f924ffc02f2fd3e43b8778`
+`e2ce8e49e2dc8f5c988274113df4f7cd85496a6e`
 
-Message: `Complete 1973 Assembly Gate G review`
+Message: `Release 1973 Assembly speech through Gate H`
 
 The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.

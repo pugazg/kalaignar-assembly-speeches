@@ -88,14 +88,25 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 ## Gate status
 
+### Unit 1 — Assembly / 7-3-1973
+
 - Gate A — **COMPLETE / PASS**
 - Gate B — **COMPLETE / PASS / LOCKED**
-- Gate C — **COMPLETE — Unit 1 scans 4–40 / printed pp.3–39**
-- Gate C.5 — **PASS / COMPLETE — HG1–HG7 scans 4–40 / printed pp.3–39; 5 cumulative corrections after retrospective Gate-E reconciliation; 0 unresolved historical-glyph clusters**
-- Gate D — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
-- Gate E — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 9 cumulative source-fidelity corrections; 0 unresolved Gate-E fidelity questions**
-- Gate F — **COMPLETE — F1–F4 scans 4–40 / printed pp.3–39; 37/37 pages**
-- Gates G–H — blocked
+- Gate C — **COMPLETE — scans 4–40 / printed pp.3–39**
+- Gate C.5 — **PASS / COMPLETE — HG1–HG7; 5 cumulative corrections; 0 unresolved historical-glyph clusters**
+- Gate D — **PASS / COMPLETE — 37/37 pages; 0 completeness corrections**
+- Gate E — **PASS / COMPLETE — 9 cumulative source-fidelity corrections; 0 unresolved fidelity questions**
+- Gate F — **COMPLETE — 37/37 pages**
+- Gate G — **PASS / COMPLETE — 37/37 pages; 15 corrections; 0 unresolved; English verified**
+- Gate H — **PASS / COMPLETE — canonical bilingual merge, indexing and release complete**
+- Release — **RELEASED**
+
+### Unit 2 — Legislative Council / 8-3-1973
+
+- Gate A — **PASS at source-package level**
+- Gate B — **PASS / LOCKED — scans 41–62 / printed pp.40–61**
+- Gate C — **NOT STARTED**
+- Gates C.5–H — **NOT STARTED / downstream**
 
 ### Gate-C source-condition notes
 
@@ -146,6 +157,14 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 The complete English translation for scans **4–40 / printed pp.3–39** has been re-read against the final verified Tamil. G4 corrected four final fidelity issues: the scan-36 social-category normalization, the scan 37→38 Subbu page-boundary displacement, an unsupported extra category in the scan-38 book/party sentence, and the scan 39→40 verse-boundary displacement. Known crop holds remain explicit and no lost text was reconstructed.
 
+## Gate H result — Unit 1
+
+Unit 1 is **RELEASED**. Canonical `transcript.md` contains the unchanged verified Tamil followed by the complete Gate-G-verified English. Tamil markers and English source-page sections each cover **4→40 exactly once and in order**. Repository indexes are synchronized and `translation.md` is retired to a pointer.
+
 ## Exact next activity
 
-Run **Gate H — canonical merge, index and release for Unit 1**. Keep the verified Tamil untouched at the start of canonical `transcript.md`; append/consolidate the complete Gate-G-verified English after it; verify Tamil markers and English source-page sections cover **4→40 exactly once and in order**; recheck all Gate-G correction boundaries after merge; update metadata, README, verification/review records, `data/speeches.json`, root index/README and source handover; then retire the working translation copy according to repository convention. Do not begin Unit 2 in the same iteration.
+Begin **Unit 2 — `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate C batch C1** with **scans 41–50 / printed pp.40–49**.
+
+Use the controlling source pixels directly. Preserve source spelling, punctuation, speaker labels, numerals, embedded English, headings and page boundaries. Mark genuinely lost/uncertain text explicitly rather than reconstructing it. This 1973 source uses historical Tamil typeforms, so Gate C is followed by the mandatory Gate C.5 historical-glyph audit before downstream completeness/fidelity verification.
+
+Do not reopen released Unit 1 absent genuinely new contrary source evidence.
