@@ -55,7 +55,7 @@
     "source_crop_holds": "none identified in Gate C scans 41-62",
     "embedded_english_preserved": true,
     "historical_glyph_gate_required": true,
-    "historical_glyph_gate_status": "in-progress",
+    "historical_glyph_gate_status": "passed",
     "completeness_audit_passed": false,
     "verification_note": "Gate C first-pass transcription is complete for the full locked Unit-2 range, scans 41-62 / printed pp.40-61. This is not yet verified Tamil: mandatory Gate C.5 historical-glyph audit, Gate D completeness audit and Gate E source-fidelity verification remain downstream."
   },
@@ -80,7 +80,7 @@
     "gate": "C.5",
     "required": true,
     "guide": "docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md",
-    "status": "in-progress",
+    "status": "passed",
     "scope_scan_pages": "41-62",
     "scope_printed_pages": "40-61",
     "minimum_families": [
@@ -104,13 +104,18 @@
     "corrections": 2,
     "unresolved_clusters": 0,
     "downstream_gate": "D",
-    "downstream_blocked": true,
-    "reviewed_scan_pages": "41-60",
-    "reviewed_printed_pages": "40-59",
-    "reviewed_page_count": 20,
+    "downstream_blocked": false,
+    "reviewed_scan_pages": "41-62",
+    "reviewed_printed_pages": "40-61",
+    "reviewed_page_count": 22,
     "total_page_count": 22,
-    "last_batch": "HG2",
-    "next_scan_page": 61,
-    "note": "HG1-HG2 audited scans 41-60 against source pixels for all mandatory historical-glyph families. HG1 applied one `றா` correction on scan 44 (`மாறுக` → `மாறாக`); HG2 applied one `லை` correction on scan 58 (`வேலதான்` → `வேலைதான்`). No unresolved glyph clusters remain through scan 60."
+    "last_batch": "HG3",
+    "next_scan_page": null,
+    "note": "Gate C.5 PASS / COMPLETE for scans 41-62. HG1 corrected scan 44 `மாறுக` → `மாறாக` (`றா`); HG2 corrected scan 58 `வேலதான்` → `வேலைதான்` (`லை`); HG3 scans 61-62 required no correction. All 13 mandatory historical-glyph families were checked on every page; unresolved clusters: 0.",
+    "completed_scan_pages": "41-62",
+    "completed_printed_pages": "40-61",
+    "batch_size_pages": 10,
+    "final_batch_may_be_shorter_at_gate_boundary": true,
+    "next_gate": "D"
   }
 }
