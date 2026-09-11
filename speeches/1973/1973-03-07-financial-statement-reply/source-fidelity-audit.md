@@ -4,7 +4,7 @@
 
 **Gate E — Tamil source-fidelity verification**
 
-Status: **IN PROGRESS**
+Status: **PASS / COMPLETE**
 
 Locked scope:
 
@@ -37,7 +37,7 @@ Known physical crop loss remains explicit and must not be reconstructed.
 | E1 | 4–13 | 3–12 | PASS | 0 | 0 |
 | E2 | 14–23 | 13–22 | PASS | 2 | 0 |
 | E3 | 24–33 | 23–32 | PASS | 3 | 0 |
-| E4 | 34–40 | 33–39 | PASS / FINAL | 2 | 0 |
+| E4 | 34–40 | 33–39 | PASS / FINAL | 4 | 0 |
 
 ## E1 source-fidelity record
 
@@ -117,20 +117,22 @@ E3 new unresolved fidelity questions: **0**.
 |---:|:---:|---|:---:|
 | 34 | 33 | street lights 7–10; cinema restriction; 21,000-ton coal plan; five speaker/intervention turns; right-gutter crop | PASS |
 | 35 | 34 | Hande / Karunanidhi; `குடியிருப்பு மனைப்பட்டா`; patta dates/counts; left-gutter crop | PASS |
-| 36 | 35 | `ஒன்பது அறிவிப்புகள்`; `கேரளத்தைப் பார்ப்போம்`; exemption comparison | PASS |
+| 36 | 35 | `ஒன்பது அறிவிப்புகள்`; `கேரளத்தைப் பார்ப்போம்`; exemption comparison | PASS — 1 correction |
 | 37 | 36 | exemption comparison figures/dates; Subbu; 1969 / 1970-01-01 land-reform reference | PASS |
 | 38 | 37 | Karunanidhi response; `குன்றின் மேலிட்ட விளக்கு`; Anna quotation | PASS |
-| 39 | 38 | Manali Kandasami / Karunanidhi; first four `ஆரிய மாயை` verse lines | PASS |
+| 39 | 38 | Manali Kandasami / Karunanidhi; first four `ஆரிய மாயை` verse lines | PASS — 1 correction |
 | 40 | 39 | remaining verse; attribution; `முடிப்புரை`; final close | PASS — 2 corrections |
 
 ### E4 correction ledger
 
 | Scan | Printed | Earlier canonical reading | Source-supported reading | Evidence |
 |---:|:---:|---|---|---|
+| 36 | 35 | `பத்துப் பாயிண்டுகளே வைத்துக்கொண்டு` | `பத்துப் பாயிண்டுகளை வைத்துக்கொண்டு` | enlarged source pixels clearly show the accusative `பாயிண்டுகளை`; retrospective `ளை` identity reconciliation |
+| 39 | 38 | `பொது வாழ்வில் எப்படி இருக்கவேண்டும்` | `பொது வாழ்வில் எப்படி யிருக்கவேண்டும்` | enlarged source pixels clearly show printed `யிருக்கவேண்டும்` |
 | 40 | 39 | `வன்கண் நாதா போற்றி !` | `வன்கண நாதா போற்றி !` | enlarged verse pixels; no final pulli printed on `ண` |
 | 40 | 39 | `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` | `நெருக்கடிகளை அலட்சியப்படுத்தாமல்` | enlarged closing-paragraph pixels clearly read `நெருக்கடிகளை` |
 
-E4 corrections: **2**. Cumulative Gate E corrections: **7**.
+E4 corrections: **4**. Cumulative Gate E corrections: **9**.
 E4 new unresolved fidelity questions: **0**.
 
 ## Gate E result
@@ -138,7 +140,7 @@ E4 new unresolved fidelity questions: **0**.
 **PASS / COMPLETE — scans 4–40 / printed pp.3–39.**
 
 - verified scan pages: **37 / 37**;
-- cumulative source-fidelity corrections: **7**;
+- cumulative source-fidelity corrections: **9**;
 - new unresolved Gate-E fidelity questions: **0**;
 - known physical crop/source-loss holds remain explicit and unreconstructed;
 - smaller scan-p.13 cartoon labels remain intentionally unresolved because the source pixels do not support a secure reading;

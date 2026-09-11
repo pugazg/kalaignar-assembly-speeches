@@ -4,7 +4,7 @@
 
 **Gate C.5 — HISTORICAL TAMIL GLYPH AUDIT**
 
-Status: **IN PROGRESS**
+Status: **PASS / COMPLETE**
 
 Controlling source: `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`
 
@@ -45,7 +45,7 @@ Requirements:
 | 19–23 | 18–22 | PASS — HG4 | 0 | 0 |
 | 24–28 | 23–27 | PASS — HG5 | 0 | 0 |
 | 29–33 | 28–32 | PASS — HG6 | 0 | 0 |
-| 34–40 | 33–39 | PASS — HG7 / FINAL | 0 | 0 |
+| 34–40 | 33–39 | PASS — HG7 / FINAL | 2 | 0 |
 
 ## Correction ledger
 
@@ -54,6 +54,8 @@ Requirements:
 | 4 | 3 | `தொடங்கப் பெறுமல்` (first occurrence) | `தொடங்கப் பெறாமல்` | `றா` | enlarged source pixels; same-edition `றா` comparison with clear `...கிறார்கள்` forms | corrected |
 | 4 | 3 | `தொடங்கப் பெறுமல்` (second occurrence) | `தொடங்கப் பெறாமல்` | `றா` | enlarged source pixels; same-edition `றா` comparison with clear `...கிறார்கள்` forms | corrected |
 | 12 | 11 | `மாற்றுந்தாய்` | `மாற்றாந்தாய்` | `றா` | enlarged source pixels; same-page comparison with `தவறாகும்` and `சொல்கிறாரே` | corrected |
+| 36 | 35 | `பத்துப் பாயிண்டுகளே வைத்துக்கொண்டு` | `பத்துப் பாயிண்டுகளை வைத்துக்கொண்டு` | `ளை` | enlarged source pixels; detected during Gate E E4 retrospective reconciliation | corrected |
+| 40 | 39 | `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` | `நெருக்கடிகளை அலட்சியப்படுத்தாமல்` | `ளை` | enlarged closing-paragraph pixels; detected during Gate E E4 retrospective reconciliation | corrected |
 
 ## HG1 page-level coverage
 
@@ -135,23 +137,23 @@ Batch policy is now **10 scan pages per iteration**; this final gate batch conta
 |---:|:---:|---|---|---:|---:|
 | 34 | 33 | YES | `கருணாநிதி` (`ணா`), `நிலையங்களின்` (`லை`), `ஏற்பாடுகளை` (`ளை`), `பார்க்கிறோமே` (`றோ`), `சென்னையிலுள்ள` (`னை`) | 0 | 0 |
 | 35 | 34 | YES | `ஆட்சேபணை` / `விசாரணையில்` (`ணை`), `புகார்களைச்` (`ளை`), `உரையாற்றியிருக்கிறார்` (`றா`), `மனைப்பட்டா` (`னை`) | 0 | 0 |
-| 36 | 35 | YES | `தொழிற் சாலை` / `தொழிற்சாலைகளும்` (`லை`), `பணிகளை` (`ளை`), `இருக்கிறார்கள்` (`றா`), `அளித்திருக்கின்றோம்` (`றோ`) | 0 | 0 |
+| 36 | 35 | YES | `தொழிற் சாலை` / `தொழிற்சாலைகளும்` (`லை`), `பணிகளை` / `பாயிண்டுகளை` (`ளை`), `இருக்கிறார்கள்` (`றா`), `அளித்திருக்கின்றோம்` (`றோ`) | 1 | 0 |
 | 37 | 36 | YES | `துணைத்` (`ணை`), `மலைத் தோட்டம்` / `பல்கலைக் கழக` (`லை`), `உரிமையாளனாகிவிடுகிறான்` (`றா` / `னா`) | 0 | 0 |
 | 38 | 37 | YES | `அண்ணா` / `அண்ணாதுரை` (`ணா`), `இணைப்புச்` (`ணை`), `அறிவுரைகளையெல்லாம்` / `விளைவு` (`ளை`), `முடிக்கிறார்களோ` (`றா`) | 0 | 0 |
 | 39 | 38 | YES | `அண்ணா` (`ணா`), `கலைஞர்` (`லை`), `நீதிகளையெல்லாம்` / `கட்டுரைகளைப்` (`ளை`), `கொண்டிருக்கிறார்கள்` (`றா`), `முனையக்கூடாது` (`னை`) | 0 | 0 |
-| 40 | 39 | YES | `குணாளா` (`ணா`), `நிதிநிலை` (`லை`), `கருத்துக்களைப்` (`ளை`), `எழுதியிருக்கிறார்கள்` (`றா`), `கற்றோய்` (`றோ`), `அனைத்துக்` (`னை`) | 0 | 0 |
+| 40 | 39 | YES | `குணாளா` (`ணா`), `நிதிநிலை` (`லை`), `கருத்துக்களைப்` / `நெருக்கடிகளை` (`ளை`), `எழுதியிருக்கிறார்கள்` (`றா`), `கற்றோய்` (`றோ`), `அனைத்துக்` (`னை`) | 1 | 0 |
 
-No positive occurrence requiring correction was found for `ணொ / ணோ / றொ / னொ / னோ` in HG7; all were still explicitly checked.
+No positive occurrence requiring correction was found for `ணொ / ணோ / றொ / னொ / னோ` in HG7; all were still explicitly checked. Two `ளை` identities missed in the dedicated HG7 pass were later exposed by Gate E E4 and retrospectively reconciled on scans 36 and 40.
 
 ## Gate C.5 result
 
 **PASS / COMPLETE — scans 4–40 / printed pp.3–39.**
 
-- cumulative historical-glyph corrections: **3**;
+- cumulative historical-glyph corrections: **5**;
 - unresolved historical-glyph clusters: **0**;
 - global replacements used: **0**;
 - downstream Gate D: **unblocked**.
 
-## Exact next activity
+## Current downstream state
 
-Begin **Gate D — Tamil completeness audit** with **scan pp.4–13 / printed pp.3–12** as the first 10-scan-page iteration. Preserve the 10-page iteration policy, but use a shorter final batch rather than crossing a gate or speech boundary.
+Gate D and Gate E are complete. The retrospective Gate-E reconciliation above does not reopen Gate C.5: it remains **PASS / COMPLETE**, with 5 cumulative historical-glyph corrections and 0 unresolved clusters. The next activity is **Gate F — English translation, scans 4–13 / printed pp.3–12**.

@@ -91,10 +91,11 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate A — **COMPLETE / PASS**
 - Gate B — **COMPLETE / PASS / LOCKED**
 - Gate C — **COMPLETE — Unit 1 scans 4–40 / printed pp.3–39**
-- Gate C.5 — **PASS / COMPLETE — HG1–HG7 scans 4–40 / printed pp.3–39; 3 cumulative corrections; 0 unresolved historical-glyph clusters**
+- Gate C.5 — **PASS / COMPLETE — HG1–HG7 scans 4–40 / printed pp.3–39; 5 cumulative corrections after retrospective Gate-E reconciliation; 0 unresolved historical-glyph clusters**
 - Gate D — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
-- Gate E — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 7 cumulative source-fidelity corrections; 0 unresolved Gate-E fidelity questions**
-- Gates F–H — blocked
+- Gate E — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 9 cumulative source-fidelity corrections; 0 unresolved Gate-E fidelity questions**
+- Gate F — **NEXT / NOT STARTED**
+- Gates G–H — blocked
 
 ### Gate-C source-condition notes
 
@@ -114,11 +115,11 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate C.5 HG4 scans 19–23 passed with 0 additional corrections and 0 unresolved historical-glyph clusters in the visible audited text; scan pp.20–21 crop losses remain separate source-loss holds;
 - Gate C.5 HG5 scans 24–28 passed with 0 additional corrections and 0 unresolved historical-glyph clusters in the visible audited text; scan pp.25–27 crop losses remain separate source-loss holds;
 - Gate C.5 HG6 scans 29–33 passed with 0 additional corrections and 0 unresolved historical-glyph clusters in the visible audited text; no new crop holds were introduced;
-- Gate C.5 HG7 scans 34–40 passed with 0 additional corrections and 0 unresolved historical-glyph clusters; this final 7-scan remainder closed Gate C.5 without crossing the Unit 1 boundary;
+- Gate C.5 HG7 originally passed with 0 additional corrections; final Gate-E E4 later exposed two missed `ளை` identities on scans 36 and 40, both now retrospectively reconciled. Gate C.5 remains PASS / COMPLETE with 5 cumulative corrections and 0 unresolved historical-glyph clusters;
 - Gate C.5 batch policy is now 10 scan pages per iteration, with a shorter final remainder at a gate or speech boundary;
-- Gate E E4 scans 34–40 passed with 2 additional corrections on scan 40 (`வன்கண் நாதா` → `வன்கண நாதா`; `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்`); cumulative Gate-E corrections: 7;
+- Gate E E4 scans 34–40 passed with 4 corrections: scan 36 `பத்துப் பாயிண்டுகளே வைத்துக்கொண்டு` → `பத்துப் பாயிண்டுகளை வைத்துக்கொண்டு`; scan 39 `பொது வாழ்வில் எப்படி இருக்கவேண்டும்` → `பொது வாழ்வில் எப்படி யிருக்கவேண்டும்`; scan 40 `வன்கண் நாதா` → `வன்கண நாதா`; scan 40 `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்`; cumulative Gate-E corrections: 9;
 - `verified_against_scan` is now true for the complete Assembly speech, scans 4–40 / printed pp.3–39.
 
 ## Exact next activity
 
-Begin **Gate F — English translation** on Unit 1 with **PDF scans 4–13 / printed pp.3–12** as the first **10-scan-page iteration**. Gate E is PASS / COMPLETE across scans 4–40 with 7 cumulative source-fidelity corrections and `transcription.verified_against_scan=true`. Translate only from the verified Tamil, preserve source-printed English verbatim, retain speaker/intervention structure and rhetorical repetition, and do not begin Unit 2 in the same iteration.
+Begin **Gate F — English translation** on Unit 1 with **PDF scans 4–13 / printed pp.3–12** as the first **10-scan-page iteration**. Gate E is PASS / COMPLETE across scans 4–40 with 9 cumulative source-fidelity corrections and `transcription.verified_against_scan=true`. Translate only from the verified Tamil, preserve source-printed English verbatim, retain speaker/intervention structure and rhetorical repetition, and do not begin Unit 2 in the same iteration.
