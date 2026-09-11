@@ -76,3 +76,12 @@ Scans 39–40 / printed pp.38–39 complete the Assembly Gate-C first pass and i
 Because this is a 1973 printed Tamil source, a dedicated **Gate C.5 historical Tamil glyph audit** is required before Gate D. The audit is governed by `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
 The complete locked Assembly range, scans **4–40 / printed pp.3–39**, must be re-read page by page at enlarged/native resolution for the minimum known reform-sensitive families `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`. Character identity must be proven from the scan (with same-edition comparison where needed) before changing canonical Unicode. This gate is glyph decoding only: it does not authorize spelling, grammar, vocabulary, punctuation or spacing modernization. OCR is discovery-only and global replacement is forbidden.
+
+### Gate C.5 batch HG1 — scans 4–8 / printed pp.3–7
+
+The first historical-glyph batch was re-read from the source pixels at enlarged/native resolution, with all 13 minimum reform-sensitive families checked on each page. Two source-supported glyph-identity corrections were required on scan p.4 / printed p.3:
+
+- first `தொடங்கப் பெறுமல்` → `தொடங்கப் பெறாமல்` — historical family `றா`;
+- second `தொடங்கப் பெறுமல்` → `தொடங்கப் பெறாமல்` — historical family `றா`.
+
+The printed old-form `றா` can visually resemble a modern `று`-like cluster at ordinary zoom. The correction is supported by enlarged source pixels and by comparison with same-edition `றா` behaviour in clearly readable words such as `...கிறார்கள்`. No spelling or syntactic modernization was applied. Scans 5–8 required no historical-glyph correction. Existing `⟦scan-crop⟧` holds on scans 4–5 remain physical source losses and are separate from glyph-identity uncertainty.

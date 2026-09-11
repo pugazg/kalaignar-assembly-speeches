@@ -91,7 +91,7 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate A — **COMPLETE / PASS**
 - Gate B — **COMPLETE / PASS / LOCKED**
 - Gate C — **COMPLETE — Unit 1 scans 4–40 / printed pp.3–39**
-- Gate C.5 — **NEXT — historical Tamil glyph audit, Unit 1 scans 4–40 / printed pp.3–39**
+- Gate C.5 — **IN PROGRESS — HG1 scans 4–8 / printed pp.3–7 PASS; 2 corrections; 0 unresolved glyph clusters in audited visible text**
 - Gate D — **BLOCKED until Gate C.5 passes**
 - Gate E — not started
 - Gates F–H — blocked
@@ -108,8 +108,9 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - scans 29–33 introduce no new crop holds; printed English and securely readable illustration text are retained as source context;
 - scans 34–35 are crop-affected at the gutter (lower right on p.34; left edge on p.35); unrecoverable text is marked `⟦scan-crop⟧` and not reconstructed;
 - scans 36–40 introduce no comparable crop holds; p.38 ends during the `குன்றின் மேலிட்ட விளக்கு` discussion, and scans 39–40 complete that discussion and reach the source `முடிப்புரை` close on the locked Assembly boundary;
+- Gate C.5 HG1 scans 4–8 passed with 2 historical `றா` corrections on scan p.4 (`பெறுமல்` → `பெறாமல்` twice) and 0 unresolved glyph clusters in the visible audited text;
 - `verified_against_scan` remains false until Gate E is completed for the entire Assembly speech.
 
 ## Exact next activity
 
-Run **Gate C.5 — historical Tamil glyph audit** on Unit 1, `சட்டப் பேரவையில்` / `7-3-1973`, across the full locked range **PDF scans 4–40 / printed pp.3–39**, using `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`. Re-read every page from enlarged/native source pixels; check all 13 minimum reform-sensitive families; compare same-edition examples when uncertain; record each glyph correction with provenance; never global-replace or modernise source wording. Begin at **scan p.4 / printed p.3**. Gate D, Gate E, Unit 2 and English remain blocked until this gate passes.
+Continue **Gate C.5** on Unit 1 with **PDF scans 9–13 / printed pp.8–12**. HG1 scans 4–8 passed after two scan-p.4 `றா` corrections (`பெறுமல்` → `பெறாமல்`) and no unresolved historical-glyph clusters in the visible audited text. Re-read each new page from enlarged/native source pixels, check all 13 families, compare same-edition forms when uncertain, and record every correction individually. Gate D, Gate E, Unit 2 and English remain blocked until the full scans 4–40 glyph audit passes.

@@ -60,7 +60,7 @@
     "gate": "C.5",
     "required": true,
     "guide": "docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md",
-    "status": "not-started",
+    "status": "in-progress",
     "scope_scan_pages": "4-40",
     "scope_printed_pages": "3-39",
     "minimum_families": [
@@ -81,9 +81,13 @@
     "source_pixels_authoritative": true,
     "same_edition_comparison_required_when_uncertain": true,
     "global_replace_forbidden": true,
-    "corrections": 0,
+    "corrections": 2,
     "unresolved_clusters": 0,
     "downstream_gate": "D",
-    "downstream_blocked": true
+    "downstream_blocked": true,
+    "completed_scan_pages": "4-8",
+    "completed_printed_pages": "3-7",
+    "last_batch": "HG1",
+    "next_scan_page": 9
   }
 }

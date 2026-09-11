@@ -158,3 +158,22 @@ No Gate-C text was altered merely by introducing this gate. Historical-glyph cor
 **Gate D is now blocked until Gate C.5 passes.**
 
 Exact next activity: begin Gate C.5 at **scan p.4 / printed p.3** and audit the full Assembly range in bounded page batches.
+
+### Batch HG1 — scan pp.4–8 / printed pp.3–7
+
+Status: **PASS for this batch / Gate C.5 remains IN PROGRESS**
+
+- complete pages 4–8 were inspected from enlarged/native source pixels;
+- all 13 minimum families were explicitly checked on every page: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- scan p.4 / printed p.3: two occurrences of apparent `தொடங்கப் பெறுமல்` were decoded as source-supported `தொடங்கப் பெறாமல்`; historical identity `றா`; both canonical occurrences corrected individually;
+- same-edition evidence: the old `றா` typeform was compared with clearly readable `றா` occurrences in words such as `தெரிவித்திருக்கிறார்கள்` / `விளக்கியிருக்கிறார்கள்`;
+- representative checked forms include p.4 `கருணாநிதி` (`ணா`), `துணைத்` (`ணை`), `நிதிநிலை` (`லை`), `கருத்துக்களைத்` (`ளை`), `ஆனால்` (`னா`), `அனைத்தும்` (`னை`); p.6 `துணையாக`, `சென்னை`, `விரும்புகிறாரே`; p.7 `ஆணைக்குழு`, `கூறுகிறோம்`; p.8 `இருக்கிறோமேயல்லாமல்`;
+- no positive occurrences requiring correction were found for `ணொ / ணோ / றொ / னொ / னோ` in this five-page batch;
+- scans 5–8 required **0** historical-glyph corrections;
+- historical-glyph corrections in HG1: **2**;
+- unresolved historical-glyph clusters in the audited visible text: **0**;
+- pre-existing physical crop holds on scans 4–5 remain unresolved source-loss holds and are not reclassified as glyph uncertainty;
+- no global replacement was used; the two corrections were applied only to the two visually confirmed scan-p.4 occurrences;
+- Gate D remains blocked.
+
+Exact continuation: **Gate C.5 scans 9–13 / printed pp.8–12**.

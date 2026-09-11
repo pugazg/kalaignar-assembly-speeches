@@ -4,7 +4,7 @@
 
 **Gate C.5 — HISTORICAL TAMIL GLYPH AUDIT**
 
-Status: **NOT STARTED / NEXT**
+Status: **IN PROGRESS**
 
 Controlling source: `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`
 
@@ -39,13 +39,28 @@ Requirements:
 
 | Scan range | Printed pages | Status | Glyph corrections | Unresolved clusters |
 |---|---|---|---:|---:|
-| 4–40 | 3–39 | NOT STARTED | 0 | not yet assessed |
+| 4–8 | 3–7 | PASS — HG1 | 2 | 0 |
+| 9–40 | 8–39 | NOT YET AUDITED | 0 | not yet assessed |
 
 ## Correction ledger
 
 | Scan | Printed page | Earlier/apparent reading | Source-supported reading | Historical family | Evidence | Status |
 |---:|:---:|---|---|---|---|---|
+| 4 | 3 | `தொடங்கப் பெறுமல்` (first occurrence) | `தொடங்கப் பெறாமல்` | `றா` | enlarged source pixels; same-edition `றா` comparison with clear `...கிறார்கள்` forms | corrected |
+| 4 | 3 | `தொடங்கப் பெறுமல்` (second occurrence) | `தொடங்கப் பெறாமல்` | `றா` | enlarged source pixels; same-edition `றா` comparison with clear `...கிறார்கள்` forms | corrected |
+
+## HG1 page-level coverage
+
+| Scan | Printed | All 13 families checked | Representative source-supported identities | Corrections | Unresolved glyph clusters |
+|---:|:---:|---|---|---:|---:|
+| 4 | 3 | YES | `கருணாநிதி` (`ணா`), `துணைத்` (`ணை`), `நிதிநிலை` (`லை`), `கருத்துக்களைத்` (`ளை`), `...கிறார்கள்` / `பெறாமல்` (`றா`), `ஆனால்` (`னா`), `அனைத்தும்` (`னை`) | 2 | 0 |
+| 5 | 4 | YES | `புரியவில்லை` (`லை`), `பாளையச்` (`ளை`), `ஆனால்` (`னா`), `என்னை` (`னை`) | 0 | 0 |
+| 6 | 5 | YES | `துணையாக` (`ணை`), `சிறைச்சாலையில்` (`லை`), `விரும்புகிறாரே` (`றா`), `கோரினால்` (`னா`), `சென்னை` (`னை`) | 0 | 0 |
+| 7 | 6 | YES | `ஆணைக்குழு` (`ணை`), `நிதிநிலை` (`லை`), `கூறுகிறோம்` (`றோ`), `ஆனால்` (`னா`), `வாய்ப்பினை` (`னை`) | 0 | 0 |
+| 8 | 7 | YES | `ஆணைக்குழுவின்` (`ணை`), `நிலை` (`லை`), `திட்டங்களை` (`ளை`), `இருக்கிறோமேயல்லாமல்` (`றோ`), `ஆனால்` (`னா`), `அனைத்து` (`னை`) | 0 | 0 |
+
+Families with no positive occurrence requiring action in HG1 were still explicitly checked; absence is not treated as evidence of skipping the family.
 
 ## Exact next activity
 
-Begin the Gate C.5 source-pixel audit at **scan p.4 / printed p.3**. Process in bounded page batches, check all 13 families on every page, synchronize this ledger and `verification-log.md` after each batch, and do not start Gate D until the full scans 4–40 audit passes.
+Continue the Gate C.5 source-pixel audit with **scan pp.9–13 / printed pp.8–12**. Check all 13 families on every page, apply only individually proven glyph-identity corrections, synchronize this ledger and `verification-log.md`, and do not start Gate D until scans 4–40 have passed.
