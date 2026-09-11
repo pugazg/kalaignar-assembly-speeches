@@ -18,7 +18,7 @@ This entry preserves the Legislative Assembly reply dated `7-3-1973` in the sour
 - Gate C: **COMPLETE — scans 4–40 / printed pp.3–39**
 - Gate C.5: **PASS / COMPLETE — scans 4–40 / printed pp.3–39 audited; 3 cumulative glyph corrections; 0 unresolved historical-glyph clusters**
 - Gate D: **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
-- Gate E: **IN PROGRESS — E1–E3 scans 4–33 / printed pp.3–32 PASS; 5 cumulative source-fidelity corrections**
+- Gate E: **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 7 cumulative source-fidelity corrections; 0 unresolved Gate-E fidelity questions**
 - English Gates F–G: blocked
 - Gate H: not reached
 
@@ -30,6 +30,6 @@ Gate C.5 is now **PASS / COMPLETE for the entire Assembly range, scans 4–40 / 
 
 Gate D is now **PASS / COMPLETE for the full Assembly range, scans 4–40 / printed pp.3–39**. Final batch D4 covered the remaining **7 scans (34–40)** at the locked Assembly boundary. All 37 source-page markers from 4 through 40 are present exactly once and strictly monotonic; the final speaker/intervention sequence, headings, quoted verse, source-loss holds on scans 34–35, and the `முடிப்புரை` close on scan 40 are represented. No canonical Tamil correction was required anywhere in Gate D.
 
-Gate E batches E1–E3 are complete through **scans 4–33 / printed pp.3–32**. E3 made three source-supported corrections: scan 31 / printed p.30 illustration `கைத்தறியாளர்களுக்குத் நூல்கள்` → `கைத்தறியாளர்களுக்கு நூல்கள்`; scan 32 / printed p.31 illustration `விவசாயத்திற்கும் மின்சாரம்` → `விவசாயத்திற்கு மின்சாரம்`; and scan 33 / printed p.32 body `மின் வெட்டு நிலமை` → `மின் வெட்டு நிலைமை`. Printed English on scans 25 and 28–29, crop holds on scans 25–27, figures, headings, speaker labels, illustrations and page transitions were rechecked. No new unresolved source-fidelity question remains in E3.
+Gate E is now **PASS / COMPLETE for the full Assembly range, scans 4–40 / printed pp.3–39**. Final batch E4 covered the remaining **7 scans (34–40)** at the locked Assembly boundary. E4 made two source-supported corrections on scan 40: verse `வன்கண் நாதா` → `வன்கண நாதா`, and closing paragraph `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்`. Cumulative Gate-E corrections: **7**; new unresolved Gate-E fidelity questions: **0**. `transcription.verified_against_scan=true` is now set. Known physical crop losses remain explicitly marked and unreconstructed, and the smaller scan-13 cartoon labels remain intentionally unresolved because the source pixels are insufficient.
 
-Exact next activity: finish **Gate E with scans 34–40 / printed pp.33–39**. This is the final **7-scan remainder** at the locked Assembly boundary; do not cross into Unit 2.
+Exact next activity: begin **Gate F — English translation** from the verified Tamil with **scans 4–13 / printed pp.3–12** as the first 10-scan-page iteration. Do not begin Unit 2 in the same iteration.
