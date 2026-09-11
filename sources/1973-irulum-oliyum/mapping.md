@@ -105,8 +105,9 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 - Gate A — **PASS at source-package level**
 - Gate B — **PASS / LOCKED — scans 41–62 / printed pp.40–61**
-- Gate C — **NOT STARTED**
-- Gates C.5–H — **NOT STARTED / downstream**
+- Gate C — **IN PROGRESS — C1 scans 41–50 / printed pp.40–49 complete; 10/22 pages**
+- Gate C.5 — **NOT STARTED / mandatory after Gate C**
+- Gates D–H — **NOT STARTED / downstream**
 
 ### Gate-C source-condition notes
 
@@ -161,10 +162,17 @@ The complete English translation for scans **4–40 / printed pp.3–39** has be
 
 Unit 1 is **RELEASED**. Canonical `transcript.md` contains the unchanged verified Tamil followed by the complete Gate-G-verified English. Tamil markers and English source-page sections each cover **4→40 exactly once and in order**. Repository indexes are synchronized and `translation.md` is retired to a pointer.
 
+## Unit 2 Gate C progress
+
+- C1 — **COMPLETE** — scans **41–50** / printed pp. **40–49** — 10 pages
+- cumulative Gate-C coverage: **10 / 22 pages**
+- source-page sequence: **41→50 exactly once and in order**
+- C1 physical crop holds: **0**
+- source-printed English on scan 50 retained verbatim
+- historical-glyph audit: **not started / mandatory after Gate C**
+- Tamil verification: **not started**
+- English: **blocked**
+
 ## Exact next activity
 
-Begin **Unit 2 — `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate C batch C1** with **scans 41–50 / printed pp.40–49**.
-
-Use the controlling source pixels directly. Preserve source spelling, punctuation, speaker labels, numerals, embedded English, headings and page boundaries. Mark genuinely lost/uncertain text explicitly rather than reconstructing it. This 1973 source uses historical Tamil typeforms, so Gate C is followed by the mandatory Gate C.5 historical-glyph audit before downstream completeness/fidelity verification.
-
-Do not reopen released Unit 1 absent genuinely new contrary source evidence.
+Continue **Unit 2 Gate C batch C2 — scans 51–60 / printed pp.50–59**. Transcribe the complete ten-page batch directly from source pixels, preserve wording/spelling/punctuation/speaker labels/numerals/embedded English/page boundaries, and record genuine source loss or uncertainty rather than reconstructing it. Do not begin Gate C.5, Gate D or English, and do not reopen released Unit 1.

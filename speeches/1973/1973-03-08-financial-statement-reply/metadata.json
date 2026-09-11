@@ -1,0 +1,109 @@
+{
+  "id": "1973-03-08-financial-statement-reply",
+  "date": "1973-03-08",
+  "year": 1973,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "role_ta": "தமிழக முதல்வர்",
+    "role_en": "Chief Minister of Tamil Nadu"
+  },
+  "legislature": {
+    "name_ta": "தமிழகச் சட்டமன்ற மேலவை",
+    "name_en": "Tamil Nadu Legislative Council"
+  },
+  "speech": {
+    "source_heading_ta": "சட்டமன்ற மேலவையில்",
+    "event_ta": "நிதிநிலை அறிக்கை விவாதத்திற்கான பதிலுரை",
+    "event_en": "Reply to the debate on the financial statement",
+    "type": "financial-statement-reply",
+    "event_label_status": "neutral archival label derived from source preface"
+  },
+  "source": {
+    "publication_title_ta": "இருளும் ஒளியும்",
+    "cover_attribution_ta": "தமிழக முதல்வர் டாக்டர் மு. கருணாநிதி",
+    "issuing_body_ta": "செய்தி, மக்கள் தொடர்புத்துறை, தமிழ்நாடு அரசு",
+    "publication_place_ta": "சென்னை",
+    "publication_date_printed": "16-3-1973",
+    "publication_date": "1973-03-16",
+    "printer_ta": "தமிழரசு அச்சகம்",
+    "scan_filename": "TVA_BOK_0064058_இருளும்_ஒளியும்.pdf",
+    "scan_total_pages": 64,
+    "file_size_bytes": 101602456,
+    "sha256": "0330e70d6d7a62e2c84d712966a8436b91956d722134bc71ca0b2329283f8694",
+    "speech_scan_pages": "41-62",
+    "speech_printed_pages": "40-61",
+    "printed_date_evidence": "8-3-1973 in source பதிப்புரை on scan p.3"
+  },
+  "transcription": {
+    "method": "manual transcription from rendered scan",
+    "preserve_source_spelling": true,
+    "preserve_source_punctuation": true,
+    "preserve_headings": true,
+    "page_boundaries_marked": true,
+    "status": "partial",
+    "verified_against_scan": false,
+    "gate_c_status": "in-progress",
+    "completed_scan_pages": "41-50",
+    "completed_printed_pages": "40-49",
+    "completed_page_count": 10,
+    "total_page_count": 22,
+    "last_batch": "C1",
+    "next_scan_page": 51,
+    "source_page_markers_checked": true,
+    "marker_sequence_checked": "41-50",
+    "source_crop_holds": "none identified in Gate C1 scans 41-50; later pages not yet assessed",
+    "embedded_english_preserved": true,
+    "historical_glyph_gate_required": true,
+    "historical_glyph_gate_status": "not-started",
+    "completeness_audit_passed": false,
+    "verification_note": "Gate C first pass is in progress. C1 covers scans 41-50 only; no downstream verification state is implied."
+  },
+  "translation": {
+    "language": "English",
+    "type": "faithful reading translation",
+    "status": "blocked",
+    "blocked_until_tamil_verified": true,
+    "requires_verified_tamil": true,
+    "tamil_gate_satisfied": false,
+    "source": "final verified Tamil transcription",
+    "completed_source_pages": null,
+    "verified_against_tamil": false,
+    "gate_f_status": "not-started",
+    "gate_g_status": "not-started"
+  },
+  "release": {
+    "status": "not-released",
+    "gate_h_passed": false
+  },
+  "historical_glyph_audit": {
+    "gate": "C.5",
+    "required": true,
+    "guide": "docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md",
+    "status": "not-started",
+    "scope_scan_pages": "41-62",
+    "scope_printed_pages": "40-61",
+    "minimum_families": [
+      "ணா",
+      "ணை",
+      "ணொ",
+      "ணோ",
+      "லை",
+      "ளை",
+      "றா",
+      "றொ",
+      "றோ",
+      "னா",
+      "னை",
+      "னொ",
+      "னோ"
+    ],
+    "source_pixels_authoritative": true,
+    "same_edition_comparison_required_when_uncertain": true,
+    "global_replace_forbidden": true,
+    "corrections": 0,
+    "unresolved_clusters": 0,
+    "downstream_gate": "D",
+    "downstream_blocked": true
+  }
+}
