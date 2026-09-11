@@ -532,3 +532,20 @@ Status: **COMPLETE for this batch / Gate F remains IN PROGRESS**
 - Unit 2 has **not** been entered.
 
 Exact continuation: **Gate F batch F3 — scans 24–33 / printed pp.23–32**.
+
+### Batch F3 — scan pp.24–33 / printed pp.23–32
+
+Status: **COMPLETE for this batch / Gate F remains IN PROGRESS**
+
+- translated only from the final Gate-E-verified Tamil source layer;
+- appended source-page sections **24 → 25 → 26 → 27 → 28 → 29 → 30 → 31 → 32 → 33**, exactly once and in order;
+- cumulative Gate-F coverage: **30 / 37 Unit-1 pages**, scans **4–33**;
+- preserved speaker/intervention structure, power-generation figures, Plan chronology, scheme names, units, dates and rhetorical exchanges;
+- inherited `⟦scan-crop⟧` source-loss markers on scans 25–27 remain explicit; no missing Tamil wording was reconstructed in English;
+- source-printed English was carried through verbatim, including the cropped `THIRUMATHI T. N. ANANDANAYAKI` intervention on scan 25, `Ratification` on scan 27, both K. L. Rao English passages on scan 28, and the Southern Zone / Idikki / Sharavathi quotation on scan 29;
+- illustration text was represented conservatively for scans 24, 29, 31, 32 and 33;
+- F3 ends exactly at scan p.33 / printed p.32 and does not enter scan p.34;
+- Gate-G verification has **not** started;
+- Unit 2 has **not** been entered.
+
+Exact continuation: **Gate F batch F4 — scans 34–40 / printed pp.33–39**, the final 7-page remainder at the Unit-1 boundary.

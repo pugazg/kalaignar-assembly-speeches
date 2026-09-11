@@ -286,5 +286,169 @@ At the same time, a Government has to answer the blame placed upon it and the ac
 
 Thiru Manali himself said that after this Government came to office there had been no generation of electricity and that this was why the difficulties had arisen. He also said that we had not been alert.
 
-> **F2 boundary:** Gate F batch F2 stops at scan p.23 / printed p.22. The next source section begins at scan p.24.
+> **F2 boundary:** batch F2 ended at scan p.23 / printed p.22. Gate F continues below with scan p.24.
+
+### Source page 24
+
+Under the First Five-Year Plan our State obtained 110 megawatts of electricity. Under the Second Five-Year Plan it obtained 315 megawatts. Under the Third Five-Year Plan it obtained 510 megawatts. Thus, from 1951 to 1967, over roughly fifteen years, 935 megawatts of electricity was generated in our State.
+
+The Fourth Five-Year Plan ran from 1967 to 1972. In those five years alone, 625 megawatts of electricity was generated. If 935 megawatts was generated over fifteen years, 625 megawatts was generated in these five years alone. I wish to give this explanation to show why it is not proper for this Government to be accused of having failed to increase generation.
+
+> **Printed illustration text:** `Mysore` — `130 lakh units`; `Andhra` — `90 lakh units`; `Tamil Nadu` — `225 lakh units`; `Kerala` — `60 lakh units`.
+
+### Source page 25
+
+> **Source-loss note:** scan p.25 is cropped along the left gutter. `⟦scan-crop⟧` marks source text physically lost at the edge and is not reconstructed.
+
+We must not forget one more thing. If we take Kerala ⟦scan-crop⟧, the electricity required there in one day is only 60 lakh units ⟦scan-crop⟧. Mysore requires 130 lakh units a day ⟦scan-crop⟧. Andhra requires 90 lakh units a day ⟦scan-crop⟧. Thus, even if all three States are combined ⟦scan-crop⟧—Kerala, Mysore and Andhra ⟦scan-crop⟧—the electricity required in one day is only 280 lakh units ⟦scan-crop⟧. Tamil Nadu alone requires 225 lakh units a day ⟦scan-crop⟧.
+
+Because industry has developed here ⟦scan-crop⟧, and because Tamil Nadu is the only State in India to have provided electricity connections to as many as six lakh pump sets ⟦scan-crop⟧, this State needs 225 lakh units ⟦scan-crop⟧—an amount that comes close to the total daily electricity requirement of Kerala, Mysore and Andhra combined ⟦scan-crop⟧.
+
+The present difficulties arise from nothing other than the natural calamity that has affected hydro-electric stations ⟦scan-crop⟧. Because nature suddenly and unexpectedly failed us ⟦scan-crop⟧, we did not receive the electricity that should have come from the hydro-electric stations ⟦scan-crop⟧.
+
+## Did we not even ask for schemes?
+
+If we ask whether we failed even to request schemes from the Central Government ⟦scan-crop⟧, during the three years 1971, 1972 and 1973 we asked for ten schemes ⟦scan-crop⟧:
+
+⟦scan-crop⟧1) Servalar scheme, (2) Nellithurai scheme, ⟦scan-crop⟧3) Solattipuzha scheme, (4) Upper Amaravathi ⟦scan-crop⟧ scheme, (5) Paraliyar scheme, (6) Shanmuga River ⟦scan-crop⟧ scheme, (7) Coonoor Kallar scheme, (8) Lower Moyar ⟦scan-crop⟧ scheme, (9) Tuticorin Thermal Power Station, and (10) Mettur ⟦scan-crop⟧ Thermal Power Station.
+
+Thus schemes capable of yielding 1,035 megawatts ⟦scan-crop⟧ have been sent for the approval of the Central Commission ⟦scan-crop⟧.
+
+THIRUMATHI T. N. ANANDANAYAKI: All these 10 schemes
+⟦scan-crop⟧ave been sent to the Centre to be included in Fifth Plan which
+⟦scan-crop⟧starts from 1974 and ends in 1979. Why did you not send the
+⟦scan-crop⟧same for inclusion in Fourth Plan. That is the point.
+
+**Thiru R. Ponnappa Nadar:** The Shanmuga River scheme ⟦scan-crop⟧—
+
+### Source page 26
+
+> **Source-loss note:** scan p.26 is cropped along the right gutter. `⟦scan-crop⟧` marks source text physically lost at the edge and is not reconstructed.
+
+—is it included in the Fourth Plan, or has it been included in the Fifth Plan ⟦scan-crop⟧?
+
+**Hon. Dr. M. Karunanidhi:** Only after all these schemes ⟦scan-crop⟧ are approved will it be known under which Plan ⟦scan-crop⟧ they fall.
+
+Apart from these, we are continuing to press for the Central Government's schemes ⟦scan-crop⟧ such as the Kalpakkam expansion scheme, the second Neyveli Thermal Power Station ⟦scan-crop⟧, and the second Tuticorin Thermal Power Station ⟦scan-crop⟧. I have already explained on an earlier occasion the resolutions passed in this House ⟦scan-crop⟧.
+
+Thiru Kumarasamy of the ruling Congress Party ⟦scan-crop⟧ made a point while speaking. In the Fourth Five-Year Plan ⟦scan-crop⟧—the lady member too made the same point, and this follows from it ⟦scan-crop⟧—if the Central Government has agreed to establish a power station under the Fourth Five-Year Plan ⟦scan-crop⟧, Kumarasamy asked why they should then interfere in it ⟦scan-crop⟧. His question was: why not formulate the scheme we need, inform the Central Minister ⟦scan-crop⟧, and implement it ourselves ⟦scan-crop⟧? He said the present situation had arisen because we failed to do that ⟦scan-crop⟧.
+
+My concern is not merely that I must answer something that has been said ⟦scan-crop⟧. When this same view is expressed to the public ⟦scan-crop⟧, what will the people who are suffering think ⟦scan-crop⟧? Thiru Kumarasamy has said that the Central Government agreed to establish a power station in the Fourth Plan ⟦scan-crop⟧ and that we can implement it even without obtaining the Central Government's permission ⟦scan-crop⟧. The public will naturally think: why did the Ministers fail to do this and waste time ⟦scan-crop⟧?
+
+But even if a power station is accepted in the Fourth Five-Year Plan ⟦scan-crop⟧, setting it up immediately is not such an easy matter ⟦scan-crop⟧. I trust that those who have previously held responsibility in Government ⟦scan-crop⟧ understand this well.
+
+First we prepare and send a detailed report for the scheme ⟦scan-crop⟧.
+
+The Central Water and Power Commission examines that report ⟦scan-crop⟧, obtains the approval of the Central Minister for Power ⟦scan-crop⟧, and then sends it to the Planning Commission.
+
+### Source page 27
+
+> **Source-loss note:** scan p.27 is cropped along the left gutter. `⟦scan-crop⟧` marks source text physically lost at the edge and is not reconstructed.
+
+In the Planning Commission, the Technical Advisory Committee again ⟦scan-crop⟧ examines it and then grants approval ⟦scan-crop⟧. Under these procedures and through these channels ⟦scan-crop⟧, it takes at least two years for a scheme to be accepted ⟦scan-crop⟧.
+
+For example, the Nellithurai, ⟦scan-crop⟧ Servalar and Paraliyar schemes were sent in 1970-71 ⟦scan-crop⟧. We must not forget that those schemes have still not received approval ⟦scan-crop⟧.
+
+Thiru Kumarasamy asked why we should not establish them without the Planning Commission's approval ⟦scan-crop⟧—I heard that the lady member too spoke about it at Cuddalore ⟦scan-crop⟧. If we try to proceed without obtaining the Central Government's approval ⟦scan-crop⟧, no factory will come forward to manufacture and supply the equipment required for that station ⟦scan-crop⟧—boilers, generators and other machinery ⟦scan-crop⟧—without the Central Government's approval ⟦scan-crop⟧.
+
+Not only that. If those items of equipment cannot be obtained from these factories ⟦scan-crop⟧ and have to be imported from abroad ⟦scan-crop⟧, we must obtain the Central Government's approval ⟦scan-crop⟧. Thus there is no way for a State Government to execute schemes without asking them and then say that Ratification ⟦scan-crop⟧ can be obtained later ⟦scan-crop⟧. I wish to make that clear ⟦scan-crop⟧.
+
+Are we using electricity properly and economically ⟦scan-crop⟧? They say that some corruption has taken place, or is taking place ⟦scan-crop⟧. Immediately they say that a corruption inquiry commission must be appointed, a judicial inquiry commission must be appointed ⟦scan-crop⟧.
+
+## From the Centre.........
+
+Even if we take it that way, everything must come from the Central Government ⟦scan-crop⟧. Is an election being held? The election officer must come from the Central Government ⟦scan-crop⟧. Are agents being appointed? They must come from the Centre ⟦scan-crop⟧. Are people sitting in the polling booth? They must come from the Centre ⟦scan-crop⟧.
+
+In a few days, when the Legislative Assembly meets here ⟦scan-crop⟧, they may even say that Mrs Indira Gandhi should stop conducting Parliament there ⟦scan-crop⟧, come here, look after the Chief Minister's responsibility for ten days ⟦scan-crop⟧, and then go back to Delhi ⟦scan-crop⟧. I think they may say even that.
+
+If Ministers themselves are summoned from the Centre in this fashion ⟦scan-crop⟧, Indian history tells us that they will not remain in office ⟦scan-crop⟧. Ministers who are elect—
+
+### Source page 28
+
+—ed must come. Indian history does not say that an administration lasts when appointed Ministers come.
+
+**Mrs T. N. Ananthanayaki:** It should be remembered that persons appointed in that way must be elected by the people within the next six months.
+
+**Hon. Dr. M. Karunanidhi:** I am not talking about the six-month story. I am talking about the story that happened after that.
+
+**Thiru R. Ponnappa Nadar:** I too agree that we should not have Aayaram-Gayaram among us, so that what happened when the Ministry fell in Orissa does not happen here.
+
+**Hon. Dr. M. Karunanidhi:** Thiru Ponnappa Nadar too knows that a full stop has already been put to Aayarams and Gayarams.
+
+They say there is corruption in the Electricity Board and that there must be an inquiry into corruption. The respected Thiru K. L. Rao, who bears this responsibility as a Central Minister, has spoken in Parliament. It appeared in the *Hindustan Times*. Fortunately they published it—perhaps thinking, let it go! This is a part of Thiru K. L. Rao's speech:—
+
+He complimented Tamil Nadu for making the best use of power without wastage.
+
+Thiru K. L. Rao thus praised Tamil Nadu in Parliament. Not only that: he himself has pointed out that, generally, power schemes have not been functioning properly at the Central level. At a seminar he expressed his view on how schemes, and specifically power schemes, should be implemented:—
+
+The power planning so far had been totally wrong. It should never have been linked to the general Five Year Plan. Power planning should be a continuous process.
+
+### Source page 29
+
+Thiru K. L. Rao said this at a seminar held in Delhi on 23-2-1972. I will tell you one more thing for your information.
+
+On 26-7-1972, when I, the Education Minister and the Industries Minister attended the Zonal Council meeting held in Hyderabad, Thiru K. L. Rao said something there. Some say that all these difficulties arose because the Government in a particular State was negligent. I mention this so that the members of the Communist Party of India will listen carefully:—
+
+The power supply position in the States of Southern Zone was going to be extremely bad because of delay in the construction of a 390 MW Idikki project due to labour trouble and delay in the commissioning of the 89 MW Unit at Sharavathi on account of delay in supply of equipment, etc., for the project.
+
+That is what he said. At that time there was a major strike at Idukki. Those who conducted the strike were other Communists.
+
+> **Printed illustration text:** protest placards repeat `Strike`; the main caption reads `Price rise also as a result of strikes`.
+
+But if the strike had ended quickly, and if the 390-megawatt generation had become available there, we in Tamil Nadu—within the ‘Southern Zone’—could have obtained a little more electricity from Kerala. It is because various such circumstances have occurred in many places that we have been affected by this—
+
+### Source page 30
+
+—power cut. Instead of merely repeating this, we must also look at the things that have to be done.
+
+**Dr. H. V. Hande:** What K. L. Rao said is exactly what I said this morning. When the installed capacity at Basin Bridge Power House was 70 megawatts, 60 megawatts was being generated. Now, when it is 97.5, only 35 megawatts is being generated. So what I said this morning is that there is some problem in our own generation too.
+
+**Hon. Thiru O. P. Raman:** Mr Chairman, at Basin Bridge Power House, when there was no cut, 24 lakh units were generated last year. This year 30 lakh units are being generated. There is no basis whatever for saying that it has decreased. Not only that, they said the same about Ennore. They say it was running at full capacity when there was no power cut. Now they say we did not increase generation and that it is due to our lack of attention. That is why I say this: at Ennore too, last year, when there was no power cut, only 40 lakh units were generated; but this year 73 lakh units are being generated.
+
+**Mrs T. N. Ananthanayaki:** Just one information! The question is not how much we generated when there was no power cut and how much we are generating today. When there was no power cut, the electricity you required was coming from the hydro stations, so there was a little lack of concern there. Now there is a power cut. My question is whether you are now utilising thermal generation at the fullest capacity.
+
+**Hon. Thiru O. P. Raman:** It is running fully. Even when Central Government Minister Dr K. L. Rao spoke, he did not say that it was not running. He said only that arrangements had been made without obstruction for water supply; he did not say there was a deficiency—
+
+### Source page 31
+
+—in Tamil Nadu. He said that the generators in Tamil Nadu had been run very satisfactorily, without deficiency.
+
+**Hon. Dr. M. Karunanidhi:** It was alleged that this Government is indifferent to those affected by the power cut and shows no concern for them. For the past several days, without attending even to any other work, I, the members of the Cabinet, and the officials have been concentrating on this work.
+
+In particular, for the sake of handloom weavers, negotiations were held yesterday with mill owners, and Hon. members may have seen in today's newspapers that efforts to obtain a substantial quantity of yarn have been completed.
+
+> **Printed illustration text:** `Government direct distribution of yarn to handloom weavers`.
+
+To avoid, as far as possible, the difficulties faced by workers employed in the mills, a tripartite committee consisting of the Government, representatives of workers, and industrial employers has been formed. Its work too is proceeding rapidly.
+
+## Concessions for farmers
+
+As far as farmers are concerned, representatives of farmers from various districts met me and some other Ministers two days ago. They discussed matters with us for a long time, from 10 o'clock until nearly 2 or 2½. It was a useful discussion. They explained many—
+
+### Source page 32
+
+—difficulties. Their view was that the four hours of supply now being given should be given properly, that there were problems in some places, and that the four hours should be increased to six hours.
+
+After examining the matter, we have now decided to increase the present four hours of electricity supply to five hours.
+
+On an experimental basis, as a first stage, in the Vellore electricity scheme yesterday, the first section was supplied from 4 a.m. to 9 a.m.; the second section from 8.30 a.m. to 1.30 p.m.; and the third section from 1 p.m. to 6 p.m.
+
+> **Printed illustration text:** `Electricity for agriculture`; clock numerals `12, 1, 2, 3, 4, 5`.
+
+The supply is thus divided and provided. This will be observed and implemented very soon in other places as well.
+
+### Source page 33
+
+They said that steps should be taken to prevent transformers from developing faults because the electrical ‘load’ becomes too high. Immediate arrangements have been made for many new transformers. I wish to say that it has first been decided to install one thousand transformers in various places and that the work has already begun.
+
+I am also happy to inform the House that, until the power-cut situation improves, the minimum electricity charge is being temporarily cancelled for farmers and factories.
+
+> **Printed illustration text:** `Minimum charge temporarily cancelled for farmers and factories`.
+
+I also state that farmers affected by the power cut are being quickly given, through the District Collectors, the same concessions that are given to farmers when monsoon rains fail.
+
+I further state that the tax levied on electricity generated through private generators as an alternative to electricity supplied by the Board has been cancelled until this emergency is over.
+
+> **F3 boundary:** Gate F batch F3 stops at scan p.33 / printed p.32. The next source section begins at scan p.34.
+
 
