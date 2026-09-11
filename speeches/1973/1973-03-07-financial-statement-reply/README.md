@@ -21,9 +21,9 @@ This entry preserves the Legislative Assembly reply dated `7-3-1973` in the sour
 - Gate E: **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 9 cumulative source-fidelity corrections; 0 unresolved Gate-E fidelity questions**
 - Gate F English translation: **COMPLETE — F1–F4 scans 4–40 / printed pp.3–39; 37/37 pages**
 - Gate G English fidelity/voice review: **PASS / COMPLETE — G1–G4 scans 4–40 / printed pp.3–39; 37/37 pages reviewed; 15 corrections; 0 unresolved; English verified**
-- Gate H: **PASS / COMPLETE — canonical bilingual merge, indexing and release complete**
+- Gate H: **REOPENED FOR CROP RECOVERY — prior release preserved in history; canonical revalidation required after recovery**
 
-The controlling scan has gutter-edge loss on scans 4–5, 10–11, 20–21, 25–27 and 34–35. Missing text is marked `⟦scan-crop⟧` and is not reconstructed. Scan p.13 also contains small cartoon labels that remain explicitly unresolved where the scan does not support a confident reading. Scans 14–19, 22–24, 28–33 and 36–40 introduce no comparable crop loss; printed English passages are preserved in the Tamil source layer as printed. Printed illustration/cartoon labels are represented only where the scan supports a confident reading.
+The controlling scan has gutter-edge loss on scans 4–5, 10–11, 20–21, 25–27 and 34–35. A newly supplied official **Tamil Nadu Legislative Assembly Debates, 7 March 1973** volume now provides an independent primary-source witness for the same speech. **CR1 has recovered scans 4–5 and 10–11, removing 99 actual Tamil crop placeholders without guessing.** Remaining crop holds are scans **20–21, 25–27 and 34–35**. Scan p.13 also contains small cartoon labels that remain explicitly unresolved where the scan does not support a confident reading. Scans 14–19, 22–24, 28–33 and 36–40 introduce no comparable crop loss; printed English passages are preserved in the Tamil source layer as printed. Printed illustration/cartoon labels are represented only where the scan supports a confident reading.
 
 Gate-C first pass now reaches the locked Assembly close on **scan p.40 / printed p.39**. Because this 1973 source uses older Tamil print, a dedicated historical-glyph pass is now mandatory under `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
@@ -37,7 +37,7 @@ Gate F completed the English working translation for **scans 4–40 / printed pp
 
 Gate G is now **PASS / COMPLETE for all 37 Unit-1 pages**. G4 reviewed scans **34–40 / printed pp.33–39** and applied four definite corrections: scan 36 removes administrative normalization of `தாழ்த்தப்பட்ட மக்கள்`; the scan 37→38 Subbu intervention is restored to the correct source-page boundary; scan 38 removes an unsupported extra category from the book/party sentence; and the `ஆரிய மாயை` verse is restored to the correct scan 39→40 boundary. Cumulative Gate-G corrections: **15**; unresolved fidelity issues: **0**; `verified_against_tamil=true`.
 
-Gate H is **PASS / COMPLETE**. The verified Tamil remained unchanged at the start of canonical `transcript.md`; the complete verified English was appended after it. Tamil markers and English source-page sections each cover **4→40 exactly once and in order**. The working `translation.md` has been retired to a pointer, and the speech is indexed and **released**.
+Gate H previously passed and the speech was released. That historical release remains documented, but it is now **temporarily reopened for crop recovery** because new official TNLA evidence supplies text that was physically absent from the booklet scan. Tamil crop recovery is being completed first; then the recovered spans must be reflected in English, rechecked for fidelity, and the canonical bilingual release revalidated.
 
 ## Files
 
@@ -48,4 +48,4 @@ Gate H is **PASS / COMPLETE**. The verified Tamil remained unchanged at the star
 - [`translation-review.md`](./translation-review.md) — Gate-G fidelity/voice review.
 - [`translation.md`](./translation.md) — retired pointer to canonical English in `transcript.md`.
 
-Exact next source activity: begin **Unit 2 — `சட்டமன்ற மேலவையில்` / 8-3-1973**, with Gate C batch C1 on **scans 41–50 / printed pp.40–49**. Gate A/B source mapping is already locked. Do not reopen released Unit 1 without genuinely new contrary source evidence.
+Exact next activity: **Unit 1 crop recovery CR2 — scans 20–21 and 25–27** using the official TNLA 7-3-1973 proceedings only for physically missing gutter text. Unit 2 Gate D D1 is paused until this evidence-driven Unit-1 recovery and revalidation sequence is completed.
