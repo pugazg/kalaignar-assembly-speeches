@@ -94,7 +94,7 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate C.5 — **PASS / COMPLETE — HG1–HG7 scans 4–40 / printed pp.3–39; 5 cumulative corrections after retrospective Gate-E reconciliation; 0 unresolved historical-glyph clusters**
 - Gate D — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 9 cumulative source-fidelity corrections; 0 unresolved Gate-E fidelity questions**
-- Gate F — **IN PROGRESS — F1 scans 4–13 / printed pp.3–12 complete; 10/37 pages**
+- Gate F — **IN PROGRESS — F1–F2 scans 4–23 / printed pp.3–22 complete; 20/37 pages**
 - Gates G–H — blocked
 
 ### Gate-C source-condition notes
@@ -123,11 +123,14 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 ## Gate F progress
 
 - F1 — **COMPLETE** — scans **4–13** / printed pp. **3–12** — 10 pages
+- F2 — **COMPLETE** — scans **14–23** / printed pp. **13–22** — 10 pages
+- cumulative Gate-F coverage: **20 / 37 pages**, scans **4–23**
 - English working file: `speeches/1973/1973-03-07-financial-statement-reply/translation.md`
 - source-loss markers inherited from verified Tamil are retained and not reconstructed;
-- source-page sequence in F1: **4→13**, exactly once each;
+- source-printed English on scans 15–17 is carried through verbatim;
+- source-page sequence in Gate F is **4→23**, exactly once each;
 - Gate G remains blocked until all 37 Unit-1 pages have a complete Gate-F translation.
 
 ## Exact next activity
 
-Continue **Gate F batch F2** on Unit 1 with **PDF scans 14–23 / printed pp.13–22** as the next **10-scan-page iteration**. Translate only from the verified Tamil, preserve source-printed English verbatim, retain speaker/intervention structure and rhetorical repetition, and do not begin Unit 2.
+Continue **Gate F batch F3** on Unit 1 with **PDF scans 24–33 / printed pp.23–32** as the next **10-scan-page iteration**. Translate only from the verified Tamil, preserve source-printed English verbatim, retain speaker/intervention structure and rhetorical repetition, and do not begin Unit 2.

@@ -144,4 +144,147 @@ By slightly increasing old taxes, by carrying out a number of reforms, and throu
 
 At the same time, we must look back at the seven-year period before 1967. Seven years before 1967, in 1959-60, tax stood at Rs. 39 crore; by 1966-67 it had risen to Rs. 95 crore. This is 2.45 times as much—
 
-> **F1 boundary:** the sentence continues on source scan p.14 / printed p.13. Gate F batch F1 stops here and does not translate beyond scan p.13.
+> **F1 boundary:** batch F1 ended at scan p.13 / printed p.12. The sentence continues below in F2.
+
+### Source page 14
+
+—the tax in 1966-67 was 2.45 times as high as in 1959-60. If we compare that, it becomes clear that the rise from Rs. 95 crore to Rs. 225 crore in these seven years is only 2.36 times. Thus, in the previous seven-year period it rose by 2.45 times; in the present seven-year period it has risen only by 2.36 times. That is what I wish to point out.
+
+**Mrs T. N. Ananthanayaki:** In speaking of these six or seven years, only the six-year period should be taken. My question is whether you accept that between 1967 and 1973 the increase in tax is about Rs. 130 crore.
+
+**Hon. Dr. M. Karunanidhi:** If I do not accept it, will the tax stop coming!
+
+## Newspaper advertisements
+
+**Dr. H. V. Hande:** The Hon. Chief Minister replied to what Thiru Gopal had said. Gopal made one more point. He said that a great deal of money is being spent on advertisements and asked what it is for. What is the answer to that?
+
+**Hon. Dr. M. Karunanidhi:** Thiru Hande should not be in such a hurry. That is the very next point. Thiru Gopal said it; I have noted it down. He said that when Anna was Chief Minister, during the two-year period, Rs. 2.18 lakh was spent on newspaper advertisements and that it has now increased. First I want to give one explanation.
+
+When Anna was Chief Minister, SIDCO, SIPCOT, the Tourism Board, the Slum Clearance Board and the Water Supply and Drainage Board did not exist. Advertisements are now issued on behalf of these institutions as well. Not only that: after 1969, newspaper advertisement rates themselves were increased. Even the newspapers that put Thiru Gopal's speech in a box—
+
+### Source page 15
+
+—know this very well: newspaper advertisement rates themselves have been increased. Even so, the calculation given by Thiru Gopal is wrong. It is wrong—completely wrong—to say that only Rs. 2.18 lakh was spent on advertisements during the two years in which Anna was Chief Minister.
+
+In 1967-68 alone—when Anna was in office—Rs. 5,20,945 was spent; in 1968-69, Rs. 8,09,151. Thus more than Rs. 13 lakh was spent on advertisements during those two years when Anna was Chief Minister. In 1969-70, it was Rs. 12 lakh; in 1970-71, Rs. 20,43,000; and in 1971-72, Rs. 24,83,000. The total spent on advertisements during these three or four years was Rs. 57 lakh.
+
+They pointed out that advertisements worth Rs. 1½ lakh or Rs. 2 lakh had been given to *Murasoli*. True. Out of Rs. 57 lakh, after Rs. 1½ lakh or Rs. 2 lakh was given to *Murasoli*, the remaining Rs. 55 lakh was given to other newspapers for advertisements. Therefore no one can say that some great wrong has been committed.
+
+**DR. H. V. HANDE :** We have said nothing merely because advertisements were given to *Murasoli*. But Gopal said here that they should be given in proportion to the circulation. I say the same.
+
+What is the basis on which the advertisement is given. What is the circulation of ‘Murasoli’ and whether the advertisement is proportionate to its circulation. That is the only question I want to ask and if the Hon. Chief Minister gives the figures, it would be more useful to the House and also we would be having no objective assessment of the problem.
+
+**Hon. Dr. M. Karunanidhi:** I will say something about that. Advertisement expenditure has not risen only here. Even in the Central Government, it rose from Rs. 55 lakh in 1963-64 to Rs. 115 lakh in 1971-72. They asked on what basis advertisements should be given. At the conference of Information Ministers that day, Prime Minister Indira Gandhi expressed a view on the basis on which they should be given. I shall read it—please listen.
+
+### Source page 16
+
+When inaugurating the Conference of Information and Publicity Ministers in New Delhi on 8 December, the Prime Minister of India stated that "Government publicity media can be used only to propagate the policies of the Government, not for those who severely criticise the Government's policies." She further said: "When the people have elected a Government to implement its policies, publicity expenditure made from those people's tax money should be in a manner that accepts those policies."
+
+Even so, I have not laid down here that advertisements should be given only according to the very same principle stated by the Prime Minister of India. Even where there is a difference of policy, we exclude only newspapers that deliberately publish defamatory and false reports to insult and malign this Government, and give advertisements to the other newspapers. This Government continues to give advertisements to all newspapers without even applying that policy-difference criterion stated by Indira Gandhi.
+
+**Mrs T. N. Ananthanayaki:** If so, there are so many neutral papers. Advertisements could have been given to them. Apart from individual newspapers, there are newspapers that have ‘news value’ among the people. They could be given advertisements. If you give them only to your party newspapers, is that fair?
+
+**Hon. Dr. M. Karunanidhi:** I have already said it. Out of Rs. 57 lakh, Rs. 55 lakh is being given to other newspapers. Thiru Gopal said that Rs. 1½ lakh or Rs. 2 lakh is being given to *Murasoli*. It has been given to *Murasoli*. There is nothing wrong in that. I state here that it will continue.
+
+**Dr. H. V. HANDE:** What is the circulation of ‘Murasoli’ and what is the amount given towards advertisement charges and whether it is proportionate to its circulation. Of course, the Hon. Chief Minister says that he is not going to give advertisement to newspapers which criticise him harshly.
+
+### Source page 17
+
+That is a different matter which I do not want to go into now. Also what is the circulation of newspapers like ‘Dinamani’, ‘The Hindu’ and ‘The Indian Express’ which the Government consider as neutral papers and what is the amount given to them towards advertisement charges. I am asking a specific question and I want a specific answer. In this connection, I want to point out that so far as the circulation of ‘Murasoli’ is concerned, it is about 15,000. If it is more than 15,000 it has to pay 2 paise extra as tax to the Central Government and that is a different matter. So, I request the Hon. Chief Minister to clarify whether the amount of advertisement charges is commensurate with its circulation.
+
+**Hon. Dr. M. Karunanidhi:** Thiru C. Subramaniam, who was a Minister in this House, has already answered this question. Information Minister Subramaniam said that advertisements are not given according to the number of copies of a newspaper, but according to the newspaper's -tone and content- (Tone and content). The reply already given to Delhi concerning the circulation at that time is in the booklet answering the list of complaints that you took and submitted in Delhi. Thiru Hande may read it at his leisure and find out.
+
+## Price rise
+
+Next, all the members in this House referred to the very important question of rising prices. Thiru Ponnappa Nadar, Thiru Hande and some other members pointed out that this Government had shown no concern about it and had not thought about it even a little. Our Communist Party leader, the elder Manali, said yesterday as well: "None of you has shown concern about any of this."
+
+I think Thiru Hande will not have forgotten what he himself said about not showing concern. He said that only the Central and State Governments should concern themselves with this problem and that it was not something ordinary people should have to worry about. But the sentence should not be stopped there. Ordinary people may not worry about it; but we in this House must debate it—
+
+### Source page 18
+
+—and concern ourselves with who bears responsibility for it. We must take that explanation to the people.
+
+Thiru Manali too quoted a song from the old *Mithiran* newspaper and even said that all members of the ruling party should sing it. It can be sung in Tamil. It can be translated into Malayalam and sung in Kerala. It is a song that ought to be sung in every State throughout India. I am not saying this in jest. I wish to reply with the same literary grace with which he made his point.
+
+This is not a problem of one State; it is a problem of all the States in India. We must approach this grave problem in that manner. When we say that the Central Government is responsible, we do not say it merely to escape somehow from the people. We are stating a fact.
+
+## What is the truth?
+
+We shall explain it. This explanation was not given by the previous Governments. How was it explained then? If prices rose, the answer given was simply that prices would rise like that. If we launched an agitation saying that prices had risen, it was mocked. If we said that people were standing in queues for rice, the answer came by way of the question: "Do they not stand in queues for the cinema?"
+
+Today this Government is obliged to echo the very same views that the Hon. Opposition leaders and Hon. members have voiced here. We have never intended to shrug off responsibility while holding office. Nor have we wished to do so. But all of us have a duty to make the people understand the true position.
+
+In every country, two things must be compared: (1) growth in national income and (2) money supply—‘money—supply’. If we do that, the book "Economic Survey 1972-73" published here by the Government of India states it very clearly. Compared with 1968, in 1968-69 national-income growth rises by only 7 per cent—
+
+### Source page 19
+
+—while money supply rises by 8.1 per cent. In 1969-70, compared with 1968-69, national-income growth rises by 7.3 per cent, while money supply rises by 10.8 per cent. In 1970-71, national-income growth is 4.6 per cent higher than in the previous year, while money supply is 11.1 per cent higher than in the previous year.
+
+But suddenly, and alarmingly, in 1971-72 national-income growth goes from the rate of 1.5 into what the source describes as a dragging, two-point situation. By contrast, money supply rises by 12.9 per cent. Approximately the same situation continues in 1972-73.
+
+> **Printed illustration text:** `State Government`; `Price rise`; `Money supply`.
+
+Therefore, if money supply is allowed to expand beyond the growth of national income, prices are affected as a consequence. So, does the State Government possess the right and authority to control money supply, or does the Reserve Bank possess the authority to control the other banks? It is when we answer that question that we say the authority to control money supply is not the responsibility of the State Government but that of the Central Government.
+
+When we say this as a matter of responsibility, we are not pointing a finger and calling anyone a culprit. We are saying that, because that responsibility exists, action must be taken. But when action is taken, there are obstacles. If Plans are to be undertaken, money circulation is needed for them. Thus the matter keeps turning in a large circle. They too face that difficulty. Therefore—
+
+### Source page 20
+
+> **Source-loss note:** scan p.20 is cropped along the right gutter. `⟦scan-crop⟧` marks source text physically lost at the edge and is not reconstructed.
+
+—the responsibility is not with the State Government; it is with the Central Government ⟦scan-crop⟧. I wish only to point that out ⟦scan-crop⟧.
+
+**Mrs T. N. Ananthanayaki:** Mr Chairman ⟦scan-crop⟧, the Hon. Chief Minister has been speaking in such detail about whether responsibility rests with the State Government or the Central ⟦scan-crop⟧ Government. When they stood in the election that day ⟦scan-crop⟧, instead of saying with feeling that the responsibility lay with the Central Government ⟦scan-crop⟧, they said, "If we come to power, we will reduce prices ⟦scan-crop⟧; if we come to power, we will reduce poverty ⟦scan-crop⟧." It would be good to know what their share is today ⟦scan-crop⟧. Today, in order to escape ⟦scan-crop⟧, they are placing the blame on the Central Government ⟦scan-crop⟧. How can that be right?
+
+**Hon. Dr. M. Karunanidhi:** What can we do ⟦scan-crop⟧? We said it trusting you. We said it trusting that the Central Government would act responsibly ⟦scan-crop⟧. They betrayed that trust. Did they do it only to us ⟦scan-crop⟧? They did it to them as well ⟦scan-crop⟧.
+
+**Dr. H. V. Hande:** Mr Chairman, while the Hon. Chief Minister was speaking ⟦scan-crop⟧, he spoke about this inflation ⟦scan-crop⟧. I too began to speak about the Economic Survey of India during my speech ⟦scan-crop⟧. Immediately Hon. P. U. Shanmugam said, "This is a speech that should be made in Parliament" ⟦scan-crop⟧, and stopped me. But I am not saying that to you ⟦scan-crop⟧. This is indeed a speech you should make here ⟦scan-crop⟧. The remedy for this is "increase ⟦scan-crop⟧ production." I was trying to say that producing goods is the remedy ⟦scan-crop⟧. I asked what action you had taken for that ⟦scan-crop⟧.
+
+**Hon. Dr. M. Karunanidhi:** Mr Chairman ⟦scan-crop⟧, Thiru Hande says that this is exactly what he had intended to say ⟦scan-crop⟧. What difference does it make whether he says it or I say it ⟦scan-crop⟧? He mentioned one point that he had intended to make at the end ⟦scan-crop⟧; that is true. It is when production increases that this kind of money circulation arises ⟦scan-crop⟧. When that happens, economic growth too must increase ⟦scan-crop⟧. It is that large gap that I pointed out here ⟦scan-crop⟧.
+
+### Source page 21
+
+> **Source-loss note:** scan p.21 is cropped along the left gutter. `⟦scan-crop⟧` marks source text physically lost at the edge and is not reconstructed.
+
+That is not all; there are some other reasons too ⟦scan-crop⟧. Another major cause of the rise in prices is tax evaders ⟦scan-crop⟧. The black money held by these tax evaders in the country—⟦scan-crop⟧ ‘unaccounted money’—does not come into circulation and becomes blocked ⟦scan-crop⟧; because of that, prices rise ⟦scan-crop⟧ and the people of the country are affected. The responsibility for bringing out those black-money holders—those who possess unaccounted money ⟦scan-crop⟧—also does not rest with us; it rests with the Central Government ⟦scan-crop⟧.
+
+> **Printed illustration text:** `Tax evasion`.
+
+That responsibility lies there ⟦scan-crop⟧, and no one is unaware of the changes that have been made in the country because of it ⟦scan-crop⟧.
+
+**Thiru R. Ponnappa Nadar:** Mr Chairman, ⟦scan-crop⟧ will the Chief Minister explain how black money operates ⟦scan-crop⟧?
+
+**Hon. Dr. M. Karunanidhi:** They also spoke about production ⟦scan-crop⟧. As far as Tamil Nadu is concerned today, we produce rice ⟦scan-crop⟧. At the same time, we have the conditions needed to control the price of rice ⟦scan-crop⟧. We control it without having to go to other States ⟦scan-crop⟧. Most other food commodities are not like that ⟦scan-crop⟧. Because rice, the most important of the food commodities, is within the control of our State, we are able to keep its price under control ⟦scan-crop⟧.
+
+But because that is not so for commodities such as pulses and oil, and because we have to depend on other States for them ⟦scan-crop⟧, and because this situation extends across the whole of India ⟦scan-crop⟧, we do not have the conditions needed to control the prices of these goods—
+
+### Source page 22
+
+—and because those conditions do not exist, we are placed in a difficulty that cannot be resolved.
+
+It is for these reasons that, on behalf of this Government, we have stated both in the Financial Statement and in the Governor's Address that we are determined and making efforts to increase the production in Tamil Nadu of grain varieties such as pulses. No one need think that, after saying the Central Government is responsible, the State Government will remain without taking any responsibility. To the extent possible, this Government will assume every responsibility and employ every method available to control prices.
+
+> **Printed illustration text:** `Black money`.
+
+On this very, very important issue, I give that assurance to this House with the greatest humility and affection.
+
+## Power cut
+
+Next, the matter creating great agitation in Tamil Nadu today is the power cut. Everyone here has spoken about that too. It has been exaggerated to the point of saying that all Tamil Nadu lies submerged in darkness.
+
+In such a situation political parties approach this problem according to the character of their respective parties. I very humbly request all political parties to recognise that this is a common problem; it is not an individual problem, nor is it a policy problem. In particular, when the question arises whether the medium of instruction for students should be—
+
+### Source page 23
+
+—English or Tamil—when students say that their medium of instruction must be English and that Tamil is not needed—when we look at it in terms of Tamil people and Tamil Nadu, it becomes a common problem. Yet even there, when a political issue arose and some people used it for politics, we approached it accordingly.
+
+This, however, is something that affects everyone, as Thiru Hande pointed out and as Thiru Manali showed. It is a major task in which we must involve ourselves as though it were a wartime situation.
+
+> **Printed illustration text:** `Price rise`; `Decline in national production`; `Inflation`.
+
+At the same time, a Government has to answer the blame placed upon it and the accusations made against it. Just as others wish to say that this is a common problem, push the Government into a corner and then make accusations, the Government too has the right to explain that it is not in a position to be subjected to that accusation and that it is not responsible for it.
+
+Thiru Manali himself said that after this Government came to office there had been no generation of electricity and that this was why the difficulties had arisen. He also said that we had not been alert.
+
+> **F2 boundary:** Gate F batch F2 stops at scan p.23 / printed p.22. The next source section begins at scan p.24.
+

@@ -514,3 +514,21 @@ Status: **COMPLETE for this batch / Gate F remains IN PROGRESS**
 - Unit 2 has **not** been entered.
 
 Exact continuation: **Gate F batch F2 — scans 14–23 / printed pp.13–22**.
+
+### Batch F2 — scan pp.14–23 / printed pp.13–22
+
+Status: **COMPLETE for this batch / Gate F remains IN PROGRESS**
+
+- translated only from the final Gate-E-verified Tamil source layer;
+- appended source-page sections **14 → 15 → 16 → 17 → 18 → 19 → 20 → 21 → 22 → 23**, exactly once and in order;
+- cumulative Gate-F coverage: **20 / 37 Unit-1 pages**, scans **4–23**;
+- preserved parliamentary speaker changes, interventions, headings, argumentative sequence, rhetorical exchanges, figures, dates, percentages, money and technical terminology;
+- the source-printed Hande English passages spanning scans 15–17 were carried through **verbatim**, without polishing or retranslating them;
+- inherited `⟦scan-crop⟧` source-loss markers on scans 20–21 remain explicit; no lost Tamil wording was reconstructed for English;
+- source illustrations are represented conservatively: scan 19 `State Government` / `Price rise` / `Money supply`; scan 21 `Tax evasion`; scan 22 `Black money`; scan 23 `Price rise` / `Decline in national production` / `Inflation`;
+- the source's unusual 1971-72 national-income wording on scan 19 is preserved as source-sensitive wording rather than externally corrected;
+- F2 ends exactly at scan p.23 / printed p.22 and does not enter scan p.24;
+- Gate-G verification has **not** started;
+- Unit 2 has **not** been entered.
+
+Exact continuation: **Gate F batch F3 — scans 24–33 / printed pp.23–32**.
