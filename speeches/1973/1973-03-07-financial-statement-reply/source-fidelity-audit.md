@@ -37,7 +37,7 @@ Known physical crop loss remains explicit and must not be reconstructed.
 | E1 | 4–13 | 3–12 | PASS | 0 | 0 |
 | E2 | 14–23 | 13–22 | PASS | 2 | 0 |
 | E3 | 24–33 | 23–32 | PASS | 3 | 0 |
-| — | 34–40 | 33–39 | NOT YET VERIFIED | 0 | — |
+| E4 | 34–40 | 33–39 | PASS / FINAL | 2 | 0 |
 
 ## E1 source-fidelity record
 
@@ -111,6 +111,40 @@ E2 new unresolved fidelity questions: **0**.
 E3 corrections: **3**. Cumulative Gate E corrections: **5**.
 E3 new unresolved fidelity questions: **0**.
 
+## E4 source-fidelity record
+
+| Scan | Printed | Key checks | Result |
+|---:|:---:|---|:---:|
+| 34 | 33 | street lights 7–10; cinema restriction; 21,000-ton coal plan; five speaker/intervention turns; right-gutter crop | PASS |
+| 35 | 34 | Hande / Karunanidhi; `குடியிருப்பு மனைப்பட்டா`; patta dates/counts; left-gutter crop | PASS |
+| 36 | 35 | `ஒன்பது அறிவிப்புகள்`; `கேரளத்தைப் பார்ப்போம்`; exemption comparison | PASS |
+| 37 | 36 | exemption comparison figures/dates; Subbu; 1969 / 1970-01-01 land-reform reference | PASS |
+| 38 | 37 | Karunanidhi response; `குன்றின் மேலிட்ட விளக்கு`; Anna quotation | PASS |
+| 39 | 38 | Manali Kandasami / Karunanidhi; first four `ஆரிய மாயை` verse lines | PASS |
+| 40 | 39 | remaining verse; attribution; `முடிப்புரை`; final close | PASS — 2 corrections |
+
+### E4 correction ledger
+
+| Scan | Printed | Earlier canonical reading | Source-supported reading | Evidence |
+|---:|:---:|---|---|---|
+| 40 | 39 | `வன்கண் நாதா போற்றி !` | `வன்கண நாதா போற்றி !` | enlarged verse pixels; no final pulli printed on `ண` |
+| 40 | 39 | `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` | `நெருக்கடிகளை அலட்சியப்படுத்தாமல்` | enlarged closing-paragraph pixels clearly read `நெருக்கடிகளை` |
+
+E4 corrections: **2**. Cumulative Gate E corrections: **7**.
+E4 new unresolved fidelity questions: **0**.
+
+## Gate E result
+
+**PASS / COMPLETE — scans 4–40 / printed pp.3–39.**
+
+- verified scan pages: **37 / 37**;
+- cumulative source-fidelity corrections: **7**;
+- new unresolved Gate-E fidelity questions: **0**;
+- known physical crop/source-loss holds remain explicit and unreconstructed;
+- smaller scan-p.13 cartoon labels remain intentionally unresolved because the source pixels do not support a secure reading;
+- `transcription.verified_against_scan=true`;
+- Gate F: **unblocked / next**.
+
 ## Exact next activity
 
-Finish Gate E with **scan pp.34–40 / printed pp.33–39**. This is the final **7-scan remainder** at the locked Assembly boundary; do not cross into Unit 2. Do not set `verified_against_scan=true` until this final remainder passes.
+Begin **Gate F — English translation** with **scan pp.4–13 / printed pp.3–12** as the first 10-scan-page iteration. Translate only from the verified Tamil, preserve printed English verbatim where it already appears in the source layer, and do not begin Unit 2 in the same iteration.
