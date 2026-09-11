@@ -91,8 +91,12 @@ Read before continuation:
   - cumulative Gate-E corrections: **9**
   - unresolved new Gate-E fidelity questions: **0**
   - `transcription.verified_against_scan=true`
-- Gate F English translation — **NEXT / NOT STARTED**
-- Gate G English fidelity/voice review — **not started**
+- Gate F English translation — **IN PROGRESS**
+  - F1 scans 4–13 / printed pp.3–12 — **COMPLETE**
+  - coverage: **10 / 37 pages**
+  - working file: `speeches/1973/1973-03-07-financial-statement-reply/translation.md`
+  - next: F2 scans 14–23 / printed pp.13–22
+- Gate G English fidelity/voice review — **blocked until Gate F is complete**
 - Gate H canonical merge/index/release — **not reached**
 
 ## Historical-glyph corrections
@@ -173,31 +177,32 @@ Process **10 scan pages per iteration**.
 
 If fewer pages remain before a locked gate or speech boundary, process only the remainder. Never cross a gate or speech boundary merely to fill the batch.
 
+## Gate F progress
+
+F1 is **COMPLETE** for **scan pp.4–13 / printed pp.3–12**.
+
+- English source-page sections: **4→13, exactly once and in order**;
+- coverage: **10 / 37 Unit-1 pages**;
+- inherited `⟦scan-crop⟧` source-loss markers on scans 4–5 and 10–11 remain explicit and unreconstructed;
+- source-printed English is preserved verbatim where it appears;
+- scan-p.13 smaller cartoon labels remain unresolved and were not invented in English;
+- F1 deliberately stops at scan p.13 even though its final sentence continues onto scan p.14;
+- Gate G has not started.
+
 ## Exact next activity
 
-Begin **Gate F — English translation** for Unit 1 with:
+Continue **Gate F batch F2** for Unit 1 with:
 
-- **scan pp.4–13**
-- **printed pp.3–12**
-- first **10-scan-page iteration**
+- **scan pp.14–23**
+- **printed pp.13–22**
+- next **10-scan-page iteration**
 
-Rules:
-
-1. translate only from the **verified canonical Tamil**, never OCR or an earlier draft;
-2. preserve argumentative order, repetition, direct address, humour, irony, parliamentary interventions, register and rhetorical rhythm;
-3. preserve names, figures, dates, units and technical terms exactly;
-4. preserve source-printed English verbatim rather than retranslate it;
-5. keep source-page provenance reversible and page-aligned;
-6. do not “improve” historical claims or normalize Tamil-derived wording into generic prose;
-7. do not enter Unit 2 in this iteration;
-8. synchronize translation progress and commit a bounded result.
-
-Gate G begins only after the complete Unit 1 English translation exists.
+Use the same rules: translate only from the verified Tamil, preserve source-page provenance, interventions, figures, rhetoric and printed English, retain `⟦scan-crop⟧` for inherited source loss, and do not enter Unit 2. Gate G begins only after all 37 Unit-1 pages are translated.
 
 ## Last archival-content checkpoint before this handover update
 
-`b46d49423784326cd60c84e86166893c18f5e2fd`
+`9087245f6835549db3518933435ce71597a641c9`
 
-Message: `Reconcile final Assembly Gate E source fidelity`
+Message: `Complete 1973 Assembly Gate F batch F1`
 
 The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.

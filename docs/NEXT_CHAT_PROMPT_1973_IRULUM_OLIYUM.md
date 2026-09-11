@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 Gate F translation start
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 Gate F batch F2
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,9 +8,9 @@ Fetch live `main` first and preserve newer durable work. Do not reset to a stale
 
 Last archival-content checkpoint before this handover documentation:
 
-`b46d49423784326cd60c84e86166893c18f5e2fd`
+`9087245f6835549db3518933435ce71597a641c9`
 
-Message: `Reconcile final Assembly Gate E source fidelity`
+Message: `Complete 1973 Assembly Gate F batch F1`
 
 The documentation commits are newer than this SHA; fetch live `main` first.
 
@@ -27,6 +27,7 @@ Read completely before continuing:
 7. `speeches/1973/1973-03-07-financial-statement-reply/metadata.json`
 8. `speeches/1973/1973-03-07-financial-statement-reply/verification-log.md`
 9. `speeches/1973/1973-03-07-financial-statement-reply/source-fidelity-audit.md`
+10. `speeches/1973/1973-03-07-financial-statement-reply/translation.md`
 
 ## Controlling source
 
@@ -79,8 +80,11 @@ Unit 2:
   - cumulative Gate-E corrections: **9**
   - new unresolved Gate-E fidelity questions: **0**
 - `transcription.verified_against_scan=true`
-- Gate F English translation — **NEXT / NOT STARTED**
-- Gate G — **not started**
+- Gate F English translation — **IN PROGRESS**
+  - F1 scans 4–13 / printed pp.3–12 — **COMPLETE**
+  - coverage: **10 / 37 pages**
+  - next: F2 scans 14–23 / printed pp.13–22
+- Gate G — **blocked until Gate F is complete**
 - Gate H — **not reached**
 
 ## Accepted source-layer corrections
@@ -122,9 +126,19 @@ Normal iteration size: **10 scan pages**.
 
 Do not cross a gate or speech boundary merely to fill a batch.
 
-## Exact next activity — Gate F batch F1
+## Durable Gate-F progress
 
-Translate the **verified Tamil for scans 4–13 / printed pp.3–12** into English.
+F1 is complete in `translation.md` for **scans 4–13 / printed pp.3–12**.
+
+- source-page sections **4–13** are present exactly once and in order;
+- inherited crop-loss markers remain explicit on scans 4–5 and 10–11;
+- the scan-p.13 small unreadable cartoon labels were not reconstructed;
+- the F1 ending is intentionally partial because the sentence continues onto scan p.14;
+- Gate G has not started.
+
+## Exact next activity — Gate F batch F2
+
+Translate the **verified Tamil for scans 14–23 / printed pp.13–22** into English and append those ten source-page sections to the existing `translation.md`.
 
 This is a faithful reading translation, not a summary and not prose modernization.
 
@@ -136,9 +150,10 @@ Requirements:
 - preserve repetitions, argumentative sequence, direct address, humour, irony, metaphors and rhetorical accumulation;
 - preserve names, initials, figures, dates, percentages, money/units and technical terms;
 - **preserve source-printed English verbatim** where it appears instead of retranslating or polishing it;
+- keep inherited `⟦scan-crop⟧` source-loss markers explicit and never reconstruct missing Tamil;
 - do not silently correct historical/factual claims;
 - do not normalize source quirks away;
 - do not begin Unit 2;
-- synchronize translation progress and commit a bounded F1 result.
+- synchronize translation progress and commit a bounded F2 result.
 
 After complete Unit 1 translation, run Gate G as a separate full English fidelity/voice pass. Gate H follows only after both Tamil and English are verified.
