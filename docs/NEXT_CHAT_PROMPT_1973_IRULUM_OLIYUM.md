@@ -8,9 +8,9 @@ Fetch live `main` first and preserve newer durable work. Do not reset to a stale
 
 Last archival-content checkpoint before this handover documentation:
 
-`117369a01d5ea5f956d59d5e33fb8e0c4e65403b`
+`b46d49423784326cd60c84e86166893c18f5e2fd`
 
-Message: `Close Gate E in source mapping`
+Message: `Reconcile final Assembly Gate E source fidelity`
 
 The documentation commits are newer than this SHA; fetch live `main` first.
 
@@ -66,7 +66,7 @@ Unit 2:
 - Gate B — **PASS / LOCKED**
 - Gate C — **COMPLETE**
 - Gate C.5 historical Tamil glyph audit — **PASS / COMPLETE**
-  - 3 corrections
+  - 5 corrections after retrospective Gate-E reconciliation
   - 0 unresolved glyph clusters
 - Gate D Tamil completeness audit — **PASS / COMPLETE**
   - 37/37 source-page markers
@@ -75,8 +75,8 @@ Unit 2:
   - E1 scans 4–13 — PASS, 0 corrections
   - E2 scans 14–23 — PASS, 2 corrections
   - E3 scans 24–33 — PASS, 3 corrections
-  - E4 scans 34–40 — PASS, 2 corrections
-  - cumulative Gate-E corrections: **7**
+  - E4 scans 34–40 — PASS, 4 corrections
+  - cumulative Gate-E corrections: **9**
   - new unresolved Gate-E fidelity questions: **0**
 - `transcription.verified_against_scan=true`
 - Gate F English translation — **NEXT / NOT STARTED**
@@ -89,6 +89,8 @@ Historical-glyph corrections:
 
 - scan 4: `பெறுமல்` → `பெறாமல்` twice
 - scan 12: `மாற்றுந்தாய்` → `மாற்றாந்தாய்`
+- scan 36: `பத்துப் பாயிண்டுகளே வைத்துக்கொண்டு` → `பத்துப் பாயிண்டுகளை வைத்துக்கொண்டு` (`ளை`, retrospective Gate-E E4 reconciliation)
+- scan 40: `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்` (`ளை`, retrospective Gate-E E4 reconciliation)
 
 Gate-E corrections:
 
@@ -97,8 +99,10 @@ Gate-E corrections:
 3. scan 31 illustration: `கைத்தறியாளர்களுக்குத் நூல்கள்` → `கைத்தறியாளர்களுக்கு நூல்கள்`
 4. scan 32 illustration: `விவசாயத்திற்கும் மின்சாரம்` → `விவசாயத்திற்கு மின்சாரம்`
 5. scan 33: `மின் வெட்டு நிலமை` → `மின் வெட்டு நிலைமை`
-6. scan 40 verse: `வன்கண் நாதா` → `வன்கண நாதா`
-7. scan 40 closing paragraph: `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்`
+6. scan 36: `பத்துப் பாயிண்டுகளே வைத்துக்கொண்டு` → `பத்துப் பாயிண்டுகளை வைத்துக்கொண்டு`
+7. scan 39: `பொது வாழ்வில் எப்படி இருக்கவேண்டும்` → `பொது வாழ்வில் எப்படி யிருக்கவேண்டும்`
+8. scan 40 verse: `வன்கண் நாதா` → `வன்கண நாதா`
+9. scan 40 closing paragraph: `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்`
 
 Do not reopen these without direct contrary source evidence.
 
