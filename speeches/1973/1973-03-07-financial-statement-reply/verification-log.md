@@ -196,3 +196,21 @@ Status: **PASS for this batch / Gate C.5 remains IN PROGRESS**
 - Gate D remains blocked.
 
 Exact continuation: **Gate C.5 scans 14–18 / printed pp.13–17**.
+
+### Batch HG3 — scan pp.14–18 / printed pp.13–17
+
+Status: **PASS for this batch / Gate C.5 remains IN PROGRESS**
+
+- complete pages 14–18 were inspected from enlarged/native source pixels;
+- all 13 minimum families were explicitly checked on every page: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- no source-supported historical-glyph correction was required in this batch;
+- representative confirmed identities include p.14 `அண்ணா` (`ணா`), `நன்றாகப்` / `உயர்த்தியிருக்கிறார்கள்` (`றா`); p.15 `அண்ணா` (`ணா`), `நன்றாகத்` / `தவறான` (`றா`); p.16 `அப்படியென்றால்` (`றா`), `எத்தனையோ` (`னை`); p.17 `விலைவாசி` (`லை`), `ஆகியவைகளைப்` (`ளை`); p.18 `மலையாளத்திலும்` / `நிலைகளை` (`லை`), `குறிப்பிட்டிருக்கின்றார்கள்` (`றா`);
+- potentially deceptive actual `று` forms such as `மாற்று`, `சுற்றுலா`, `தவறு`, `அவதூறு`, and `பொறுப்பு` were checked and correctly remain `று`; they were not converted merely because this edition also uses old `றா` forms;
+- no positive occurrence requiring correction was found for `ணொ / ணோ / றொ / னொ / னோ`; absence did not waive the family check;
+- printed English on scans 15–17 was preserved unchanged;
+- historical-glyph corrections in HG3: **0**; cumulative Gate C.5 corrections: **3**;
+- unresolved historical-glyph clusters in audited visible text: **0**;
+- no global replacement was used;
+- Gate D remains blocked.
+
+Exact continuation: **Gate C.5 scans 19–23 / printed pp.18–22**.

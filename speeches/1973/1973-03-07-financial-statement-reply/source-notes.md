@@ -95,3 +95,11 @@ All five pages were re-read from enlarged/native source pixels with the 13 minim
 The old `றா` typeform in this edition visually resembles a modern `று`-like form at ordinary zoom. Same-page comparison with clearly readable `றா` in `தவறாகும்` and `சொல்கிறாரே` supports the corrected Unicode identity. No lexical modernization was performed.
 
 Scans 9, 10, 11 and 13 required no historical-glyph correction. Existing scan pp.10–11 gutter crop holds and the smaller unresolved scan-p.13 cartoon labels remain source-condition uncertainties, not unresolved historical-glyph identities.
+
+### Gate C.5 batch HG3 — scans 14–18 / printed pp.13–17
+
+All five pages were re-read from enlarged/native source pixels and all 13 minimum reform-sensitive families were checked on each page. **No additional historical-glyph correction was required.**
+
+Representative old-form identities were confirmed rather than modernised: scan p.14 `அண்ணா` (`ணா`), `நன்றாகப்` / `உயர்த்தியிருக்கிறார்கள்` (`றா`); scan p.15 `அண்ணா` (`ணா`), `நன்றாகத்` / `தவறான` (`றா`); scan p.16 `எத்தனையோ` (`னை`) and `அப்படியென்றால்` (`றா`); scan p.17 `விலைவாசி` (`லை`) and `ஆகியவைகளைப்` (`ளை`); scan p.18 `மலையாளத்திலும்` / `நிலைகளை` (`லை`) and `குறிப்பிட்டிருக்கின்றார்கள்` (`றா`).
+
+No positive occurrence requiring correction was found for `ணொ / ணோ / றொ / னொ / னோ` in HG3, but those families were still explicitly checked. Printed English on scans 15–17 is outside historical Tamil glyph decoding and was left unchanged.

@@ -41,7 +41,8 @@ Requirements:
 |---|---|---|---:|---:|
 | 4–8 | 3–7 | PASS — HG1 | 2 | 0 |
 | 9–13 | 8–12 | PASS — HG2 | 1 | 0 |
-| 14–40 | 13–39 | NOT YET AUDITED | 0 | not yet assessed |
+| 14–18 | 13–17 | PASS — HG3 | 0 | 0 |
+| 19–40 | 18–39 | NOT YET AUDITED | 0 | not yet assessed |
 
 ## Correction ledger
 
@@ -75,6 +76,18 @@ Families with no positive occurrence requiring action in HG1 were still explicit
 
 Families with no positive occurrence requiring action in HG2 — including `ணொ / ணோ / றொ / னோ` — were still explicitly checked on every page.
 
+## HG3 page-level coverage
+
+| Scan | Printed | All 13 families checked | Representative source-supported identities | Corrections | Unresolved glyph clusters |
+|---:|:---:|---|---|---:|---:|
+| 14 | 13 | YES | `அண்ணா` (`ணா`), `இல்லை` (`லை`), `நன்றாகப்` / `உயர்த்தியிருக்கிறார்கள்` (`றா`) | 0 | 0 |
+| 15 | 14 | YES | `அண்ணா` (`ணா`), `சொல்லவில்லை` (`லை`), `நன்றாகத்` / `தவறான` (`றா`), `ஆனால்` (`னா`) | 0 | 0 |
+| 16 | 15 | YES | `கொள்கைகளைப்` (`ளை`), `அப்படியென்றால்` (`றா`), `தருகிறோம்` (`றோ`), `எத்தனையோ` (`னை`) | 0 | 0 |
+| 17 | 16 | YES | `விலைவாசி` (`லை`), `ஆகியவைகளைப்` (`ளை`), `தெரிவித்திருக்கிறார்கள்` (`றா`), `பிரச்சினையில்` (`னை`) | 0 | 0 |
+| 18 | 17 | YES | `மலையாளத்திலும்` / `நிலைகளை` (`லை`), `கருத்துக்களை` (`ளை`), `குறிப்பிட்டிருக்கின்றார்கள்` (`றா`), `சொல்கிறோம்` (`றோ`), `பிரச்சினையை` (`னை`) | 0 | 0 |
+
+No positive occurrence requiring correction was found for `ணொ / ணோ / றொ / னொ / னோ` in HG3; all were still checked.
+
 ## Exact next activity
 
-Continue the Gate C.5 source-pixel audit with **scan pp.14–18 / printed pp.13–17**. Check all 13 families on every page, apply only individually proven glyph-identity corrections, synchronize this ledger and `verification-log.md`, and do not start Gate D until scans 4–40 have passed.
+Continue the Gate C.5 source-pixel audit with **scan pp.19–23 / printed pp.18–22**. Check all 13 families on every page, apply only individually proven glyph-identity corrections, synchronize this ledger and `verification-log.md`, and do not start Gate D until scans 4–40 have passed.
