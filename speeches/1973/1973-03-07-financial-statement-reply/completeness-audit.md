@@ -33,7 +33,7 @@ For every mapped source page:
 | D1 | 4–13 | 3–12 | PASS | 0 |
 | D2 | 14–23 | 13–22 | PASS | 0 |
 | D3 | 24–33 | 23–32 | PASS | 0 |
-| — | 34–40 | 33–39 | NOT YET AUDITED | 0 |
+| D4 | 34–40 | 33–39 | PASS / FINAL | 0 |
 
 ## D1 page-level coverage
 
@@ -92,6 +92,35 @@ Marker sequence for D3: **24 → 25 → 26 → 27 → 28 → 29 → 30 → 31 �
 
 Canonical Tamil changes made during D3: **0**. Cumulative Gate D completeness corrections: **0**.
 
+## D4 page-level coverage
+
+| Scan | Printed | Marker exactly once | Key completeness evidence | Source-loss / unresolved state | Result |
+|---:|:---:|:---:|---|---|:---:|
+| 34 | 33 | YES | street-light / cinema / coal-supply discussion; Ananthanayaki / Karunanidhi / Ananthanayaki / Hande / Karunanidhi sequence | 5 unrecoverable right-gutter line endings explicit | PASS |
+| 35 | 34 | YES | p.34 continuation; Hande / Karunanidhi; `குடியிருப்பு மனைப்பட்டா`; patta counts | 36 unrecoverable left-gutter beginnings explicit | PASS |
+| 36 | 35 | YES | `ஒன்பது அறிவிப்புகள்`; `கேரளத்தைப் பார்ப்போம்`; exemption comparison begins | none new | PASS |
+| 37 | 36 | YES | exemption comparison continuation; `திரு சுப்பு` intervention; continuation to p.38 | none new | PASS |
+| 38 | 37 | YES | Karunanidhi response; Manali discussion; `குன்றின் மேலிட்ட விளக்கு`; Anna quotation | none new | PASS |
+| 39 | 38 | YES | Manali Kandasami / Karunanidhi exchange; first 4 lines of `ஆரிய மாயை` verse | none new | PASS |
+| 40 | 39 | YES | remaining 14 verse lines; `ஆரிய மாயை` attribution; `முடிப்புரை`; locked Assembly close | none new | PASS |
+
+Marker sequence for D4: **34 → 35 → 36 → 37 → 38 → 39 → 40**.
+
+Full Assembly marker sequence check: **4 → 5 → … → 40; 37 markers; each exactly once; no skip or duplicate**.
+
+Canonical Tamil changes made during D4: **0**. Cumulative Gate D completeness corrections: **0**.
+
+## Gate D result
+
+**PASS / COMPLETE — scans 4–40 / printed pp.3–39.**
+
+- mapped pages represented: **37 / 37**;
+- missing pages: **0**;
+- duplicate page markers: **0**;
+- completeness corrections: **0**;
+- known source-loss holds remain explicit and unreconstructed;
+- Gate E: **unblocked / next**.
+
 ## Exact next activity
 
-Finish Gate D with **scan pp.34–40 / printed pp.33–39**. This is the final **7-scan remainder** at the locked Assembly boundary; do not cross into Unit 2 merely to fill ten pages. Do not start Gate E until this final Gate D remainder passes.
+Begin **Gate E — Tamil source-fidelity verification** with **scan pp.4–13 / printed pp.3–12** as the first 10-scan-page iteration. Check words/characters, names/initials, numerals/dates/percentages/money/units, embedded English, headings, speaker labels, punctuation where legible, and omissions/repetitions across page transitions. Do not begin Unit 2 or English translation until Gate E passes.

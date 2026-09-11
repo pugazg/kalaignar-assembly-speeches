@@ -95,22 +95,23 @@
   },
   "completeness_audit": {
     "gate": "D",
-    "status": "in-progress",
+    "status": "passed",
     "scope_scan_pages": "4-40",
     "scope_printed_pages": "3-39",
     "batch_size_pages": 10,
     "final_batch_may_be_shorter_at_gate_boundary": true,
-    "completed_scan_pages": "4-33",
-    "completed_printed_pages": "3-32",
-    "last_batch": "D3",
+    "completed_scan_pages": "4-40",
+    "completed_printed_pages": "3-39",
+    "last_batch": "D4",
     "corrections": 0,
     "source_page_markers_checked": true,
-    "marker_sequence_checked": "4-33",
+    "marker_sequence_checked": "4-40",
     "speaker_and_intervention_coverage_checked": true,
     "source_loss_holds_checked": true,
     "printed_context_checked": true,
-    "next_scan_page": 34,
+    "next_scan_page": null,
     "downstream_gate": "E",
-    "downstream_blocked": true
+    "downstream_blocked": false,
+    "next_gate": "E"
   }
 }

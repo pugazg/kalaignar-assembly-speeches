@@ -367,3 +367,29 @@ Completeness checks:
 - Gate E remains blocked until Gate D passes across scans 4–40.
 
 Exact continuation: **Gate D scans 34–40 / printed pp.33–39** — final 7-scan remainder at the locked Assembly boundary.
+
+### Batch D4 — scan pp.34–40 / printed pp.33–39
+
+Status: **PASS / Gate D COMPLETE**
+
+Final remainder: **7 scan pages** at the locked Assembly boundary.
+
+Completeness checks:
+
+- source-page markers **34 through 40** are each present exactly once and are strictly monotonic;
+- scan p.34 preserves the street-light / cinema / coal-supply discussion and all visible speaker changes: Ananthanayaki, Karunanidhi, Ananthanayaki, Hande, Karunanidhi; the final Karunanidhi intervention runs into the physical right gutter and the **5 unrecoverable line endings** remain explicitly marked;
+- scan p.35 correctly continues the p.34 intervention, preserves the Hande and Karunanidhi exchanges, heading `குடியிருப்பு மனைப்பட்டா`, and the full visible patta-count discussion; the **36 unrecoverable left-gutter beginnings** remain explicitly marked;
+- scan p.36 preserves headings `ஒன்பது அறிவிப்புகள்` and `கேரளத்தைப் பார்ப்போம்` and the start of the Tamil Nadu / Kerala exemption comparison;
+- scan p.37 preserves the continuation of that comparison and the `திரு சுப்பு` intervention; its final phrase continues normally into p.38;
+- scan p.38 preserves the Karunanidhi response, Manali discussion, heading `குன்றின் மேலிட்ட விளக்கு`, and the Anna quotation through the normal page-end continuation;
+- scan p.39 preserves the Manali Kandasami intervention, Karunanidhi response, and the first **4 lines** of the quoted `ஆரிய மாயை` verse;
+- scan p.40 preserves the remaining **14 verse lines**, the `ஆரிய மாயை` attribution paragraph, heading `முடிப்புரை`, and the complete final paragraph of the Assembly reply;
+- the locked Gate-B close is satisfied exactly at scan p.40 / printed p.39; no Unit 2 text is included;
+- no mapped source page in scans 34–40 is missing or duplicated;
+- no visible speaker change, heading, quoted source material, or explicit source-loss hold in this range was omitted from the canonical source layer;
+- full Gate-D marker check across the Assembly: **37 markers, scans 4→40, each exactly once, strictly monotonic**;
+- completeness corrections in D4: **0**; cumulative Gate D completeness corrections: **0**;
+- **Gate D result: PASS / COMPLETE — scans 4–40 / printed pp.3–39**;
+- Gate E is now unblocked; `verified_against_scan` remains **false** until Gate E passes.
+
+Exact next activity: **Gate E — Tamil source-fidelity verification, scans 4–13 / printed pp.3–12**, using the 10-scan-page iteration policy.

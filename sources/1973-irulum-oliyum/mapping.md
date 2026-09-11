@@ -92,8 +92,8 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate B — **COMPLETE / PASS / LOCKED**
 - Gate C — **COMPLETE — Unit 1 scans 4–40 / printed pp.3–39**
 - Gate C.5 — **PASS / COMPLETE — HG1–HG7 scans 4–40 / printed pp.3–39; 3 cumulative corrections; 0 unresolved historical-glyph clusters**
-- Gate D — **IN PROGRESS — D1–D3 scans 4–33 / printed pp.3–32 PASS; 0 completeness corrections**
-- Gate E — not started
+- Gate D — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
+- Gate E — **NEXT — Tamil source-fidelity verification**
 - Gates F–H — blocked
 
 ### Gate-C source-condition notes
@@ -120,4 +120,4 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 
 ## Exact next activity
 
-Finish **Gate D — Tamil completeness audit** on Unit 1 with **PDF scans 34–40 / printed pp.33–39**. This is the final **7-scan remainder** at the locked Assembly boundary. D1–D3 scans 4–33 have passed with markers unique/monotonic, continuations preserved, visible speaker/intervention and printed contextual material represented, source-loss holds explicit, and 0 completeness corrections. Do not begin Gate E, Unit 2 or English until this final Gate D remainder passes.
+Begin **Gate E — Tamil source-fidelity verification** on Unit 1 with **PDF scans 4–13 / printed pp.3–12** as the first **10-scan-page iteration**. Gate D is PASS / COMPLETE across scans 4–40 with 0 completeness corrections and all 37 page markers unique/monotonic. In Gate E, compare every visible word/character, names/initials, numerals/dates/percentages/money/units, embedded English, headings, speaker labels and punctuation against the scan, and check omissions/repetitions across transitions. Apply only source-supported corrections and log them. Unit 2 and English remain blocked until Gate E passes.
