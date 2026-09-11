@@ -94,7 +94,7 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - Gate C.5 — **PASS / COMPLETE — HG1–HG7 scans 4–40 / printed pp.3–39; 5 cumulative corrections after retrospective Gate-E reconciliation; 0 unresolved historical-glyph clusters**
 - Gate D — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — scans 4–40 / printed pp.3–39; 9 cumulative source-fidelity corrections; 0 unresolved Gate-E fidelity questions**
-- Gate F — **IN PROGRESS — F1–F3 scans 4–33 / printed pp.3–32 complete; 30/37 pages**
+- Gate F — **COMPLETE — F1–F4 scans 4–40 / printed pp.3–39; 37/37 pages**
 - Gates G–H — blocked
 
 ### Gate-C source-condition notes
@@ -125,13 +125,15 @@ Result: **PASS — no boundary changed. Gate B is locked for both units.**
 - F1 — **COMPLETE** — scans **4–13** / printed pp. **3–12** — 10 pages
 - F2 — **COMPLETE** — scans **14–23** / printed pp. **13–22** — 10 pages
 - F3 — **COMPLETE** — scans **24–33** / printed pp. **23–32** — 10 pages
-- cumulative Gate-F coverage: **30 / 37 pages**, scans **4–33**
+- F4 — **COMPLETE** — scans **34–40** / printed pp. **33–39** — 7 pages
+- cumulative Gate-F coverage: **37 / 37 pages**, scans **4–40**
 - English working file: `speeches/1973/1973-03-07-financial-statement-reply/translation.md`
-- source-loss markers inherited from verified Tamil are retained and not reconstructed;
-- source-printed English on scans 15–17, 25, 28 and 29 is carried through verbatim;
-- source-page sequence in Gate F is **4→33**, exactly once each;
-- Gate G remains blocked until all 37 Unit-1 pages have a complete Gate-F translation.
+- source-loss markers inherited from verified Tamil are retained and not reconstructed, including the final crop holds on scans 34–35;
+- source-printed English on earlier Gate-F pages is carried through verbatim;
+- source-page sequence in Gate F is **4→40**, exactly once each;
+- Gate F is complete at the locked Unit-1 boundary; Unit 2 has not been entered.
+- Gate G is now unblocked but has not started.
 
 ## Exact next activity
 
-Complete **Gate F batch F4** on Unit 1 with the final remainder **PDF scans 34–40 / printed pp.33–39**. This is a **7-scan-page boundary batch**. Translate only from the verified Tamil, preserve source-printed English verbatim, retain speaker/intervention structure and rhetorical repetition, and do not begin Unit 2 or Gate G in the same iteration.
+Run **Gate G — English fidelity and voice check** across the **entire Unit 1, PDF scans 4–40 / printed pp.3–39**. Re-read every English source-page section against the final verified Tamil page by page; check meaning, omissions, repetitions, page boundaries, speaker/intervention placement, figures, printed English, stage/source markers and preservation of Kalaignar's voice. Record corrections and unresolved questions. Do not begin Unit 2. Mark English verified only after the full Gate-G pass is complete.

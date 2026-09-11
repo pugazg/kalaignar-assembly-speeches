@@ -449,6 +449,175 @@ I also state that farmers affected by the power cut are being quickly given, thr
 
 I further state that the tax levied on electricity generated through private generators as an alternative to electricity supplied by the Board has been cancelled until this emergency is over.
 
-> **F3 boundary:** Gate F batch F3 stops at scan p.33 / printed p.32. The next source section begins at scan p.34.
+### Source page 34
+
+In the cities, street lights may be kept burning only from 7 p.m. to 10 p.m. Generators alone must be used for decorative lighting.
+
+In cinema theatres, only one show may be conducted using electricity. I think this will give our Tiruppur Moideen some measure of happiness. In cinema theatres, only one show may be conducted using electricity. I also state that there is no restriction on conducting the other shows using generators.
+
+To meet the coal requirements of the thermal stations in Madras, permission has been obtained from the Director General of Shipping to use a foreign vessel for six months. The Chairman of the Electricity Board has been asked to contact Thiru Dastar, Managing Director of South India Shipping, and finalise the arrangements. I also wish to state here that this scheme to bring in 21,000 tons of coal a month will satisfactorily meet our requirements.
+
+**Mrs T. N. Ananthanayaki:** Art exhibitions are being held wherever we look. Will the Government announce whether electricity will be supplied to them or stopped?
+
+**Hon. Dr. M. Karunanidhi:** Please tell me where it is being held. Where is it being held?
+
+**Mrs T. N. Ananthanayaki:** We see that board in many places! It is being held in the 36th Division!
+
+**Dr. H. V. Hande:** They said the 36th Division. The Chief Minister must explain that.
+
+> **Source-loss note:** the final intervention on scan p.34 runs into physical right-gutter crop loss. `⟦scan-crop⟧` marks unrecoverable line endings and is not reconstructed.
+
+**Hon. Dr. M. Karunanidhi:** For them⟦scan-crop⟧  
+not even a generator, no licence has been issued⟦scan-crop⟧  
+They put up all the sheds and then came⟦scan-crop⟧  
+‘We have put them up; even so, Chief Minister⟦scan-crop⟧  
+you announced this. Somehow, because we⟦scan-crop⟧
+
+### Source page 35
+
+> **Source-loss note:** scan p.35 is cropped along the left gutter. `⟦scan-crop⟧` marks unrecoverable line beginnings and is not reconstructed.
+
+⟦scan-crop⟧have incurred the expense, it must be given,’  
+⟦scan-crop⟧they asked. I said it was absolutely impossible,  
+⟦scan-crop⟧and that settled it. It was not given.
+
+⟦scan-crop⟧**Dr. H. V. Hande:** A Minister went and inaugurated it.
+
+⟦scan-crop⟧**Hon. Dr. M. Karunanidhi:** Even if Ministers themselves go and  
+⟦scan-crop⟧open them, licences will not be issued to them—  
+⟦scan-crop⟧that is the strict order.
+
+## Residential house-site pattas
+
+Then our Communist Party member Thiru  
+⟦scan-crop⟧Subbaiah made some complaints about the  
+⟦scan-crop⟧residential house-site pattas issued in Thanjavur district.  
+⟦scan-crop⟧He said, in effect, that the Chief Minister came and issued them  
+⟦scan-crop⟧to 157,000 people, but that many people did not get them  
+⟦scan-crop⟧and only some people did. I do not know on what basis  
+⟦scan-crop⟧he said that. I immediately collected all the explanations  
+⟦scan-crop⟧about it.
+
+On 27-2-1972, 6,764 residential  
+⟦scan-crop⟧house-site pattas were issued at Thiruvaiyaru. On 15-6-1972,  
+⟦scan-crop⟧26,150 were issued at Thiruthuraipoondi. Thiru Manali and Thiru Sub-  
+⟦scan-crop⟧baiah both took part and spoke there. On  
+⟦scan-crop⟧14-9-1972 and 28-2-1973, at Kumbakonam,  
+⟦scan-crop⟧1,15,227 were issued. Thus, up to the end of February 1973,  
+⟦scan-crop⟧the number of pattas issued was 1,48,000.
+
+Of these,  
+⟦scan-crop⟧among the 1,48,000 people who received residential house-site pattas,  
+⟦scan-crop⟧,41,000 people have sent acknowledgements that they received them.  
+⟦scan-crop⟧Those acknowledgements are with the officials. Acknowledgements are still  
+⟦scan-crop⟧to come from another seven thousand people. After pattas were issued,  
+⟦scan-crop⟧8,700 cases are under inquiry because objections  
+⟦scan-crop⟧or denial of title were raised. Thus, taking this also into account,  
+⟦scan-crop⟧out of a total of 157,000, receipts have been obtained  
+⟦scan-crop⟧for 141,000 pattas. There are cases concerning  
+⟦scan-crop⟧eight thousand pattas. Receipts have not come for seven thousand pattas.  
+⟦scan-crop⟧I place before the House these particulars relating to  
+⟦scan-crop⟧157,000 pattas.
+
+### Source page 36
+
+## Nine announcements
+
+Nine announcements, including one concerning the Tenants Act, have been made in this House on behalf of the Government. They have been made as a sign of the ways in which this Government is carrying out its work for the Scheduled communities, the backward communities, and the poor and humble; and as a sign of the Government's firm faith in the principles of common ownership and socialism.
+
+When my friend Hande spoke this morning, he said, “You gave nine announcements; I will give ten announcements,” and, placing ten points before us, asked what the answer was to all of them. I believe I have replied to those ten points as far as I am able. I am not unaware that these nine announcements alone are not enough to take Tamil Nadu forward.
+
+The Tenants Act and related matters were raised here. In that connection, Hon. Manali, members of the Communist Party, and other members repeatedly keep saying, “Look at the Kerala Land Reforms Act, look at it.”
+
+## Let us look at Kerala
+
+As regards the Kerala land-ceiling law, I examined what categories we have exempted in Tamil Nadu and what categories have been exempted in Kerala.
+
+In Tamil Nadu, lands of the State and Central Governments and lands of local bodies are exempt. In Kerala, lands of the State and Central Governments are exempt.
+
+In Tamil Nadu, Government-approved industrial and commercial land establishments are exempt. In Kerala, industries and commercial establishments are exempt.
+
+### Source page 37
+
+In Tamil Nadu, hill plantations are exempt. In Kerala, hill plantations are exempt.
+
+In Tamil Nadu, lands belonging to temples, mosques, churches and charitable institutions are exempt. In Kerala, lands belonging to temples, mosques and churches are exempt.
+
+In Tamil Nadu, temples and places of worship that hold land cannot purchase any more land after 1-3-72. I do not find such a provision in Kerala.
+
+In Tamil Nadu, only the lands held as orchards and groves as on 1-7-59 are exempt. In Kerala, private forests are exempt.
+
+Bhoodan lands are exempt in Tamil Nadu; they are exempt in Kerala too.
+
+University lands are exempt in Tamil Nadu. University lands are exempt in Kerala.
+
+In Tamil Nadu, a college may retain 40 standard acres. A high school may retain 20 standard acres. A primary or higher elementary school may retain 10 standard acres. A student hostel may retain 25 standard acres, an industrial school 25 standard acres, an agricultural school 25 standard acres, an orphanage 25 standard acres, and other trusts 5 standard acres. That is the position today. In Kerala, educational institutions and trusts are exempt.
+
+Therefore, as far as the ceiling is concerned, I wish to tell our Manali and the others that we have not fallen very far behind Kerala and that, in some matters, we are a little more progressive.
+
+**Thiru Subbu:** Mr Deputy Chairman, what we speak about is not merely the ceiling law. The Land Reform Acts brought in after that law were passed in 1969 and came into force on 1 January 1970. Under that law, the person who tills the land becomes the owner of that land. The intermediary class itself has been removed. Even if it is temple land, it becomes his. But under those exemptions, all of that gets left out. That is the law we are talking about. You have not spoken about that.
+
+### Source page 38
+
+**Hon. Dr. M. Karunanidhi:** I am referring to the law taken as a whole. I am speaking about the connected legislation. We are going to discuss the Tenants Act in detail.
+
+Thiru Subbu also said that under the Tenants Act there, compensation was not paid to the owners. Compensation has been paid there. The methods and categories are different. We are going to discuss the Tenants Act at greater length. Since we can speak then, I wish to leave the matter here.
+
+In his speech, our Manali gave a great deal of advice mainly to the members of the Dravida Munnetra Kazhagam. Thiru Manali recommended that all of you should read the book *Kundrin Melitta Vilakku* written by Arignar Anna. I do not understand when Thiru Manali changed in this way. Whatever the book, party, or author, it is the final idea with which it concludes that represents the intention of the author of the book, or the leader, or the writer, or the party person.
+
+## Kundrin Melitta Vilakku
+
+On the last page of *Kundrin Melitta Vilakku*, Arignar Anna concludes by writing:
+
+> “Those who witnessed the Tirupparankundram Conference would not dare say so. The Tirupparankundram Conference showed that there is an army to give Dravida Nadu to the Dravidians! From where did this state of awakening arise? ‘Thambi’, all this is the fruit of your valour. The result of the awakening. The rise born of your labour. I offer you my greetings. May your ardour grow! May Dravidam triumph! Elder brother Annadurai.”
+
+I find it puzzling that Thiru Manali now says that all members of the Dravida Munnetra Kazhagam should accept this. I do not understand why he said—
+
+### Source page 39
+
+—to read it again and act according to it.
+
+**Thiru Manali Kandasamy:** Hon. Kalaignar has very deftly put a question to me. What I referred to was only that D.M.K. members should read and consider the principles stated in that book about how one should conduct oneself in public life. I did not say that I accepted the whole book. Your position too has changed today. There has been a change from the position in which you said “Dravida Nadu for the Dravidians.” I said only that you should once again read the principles and discipline concerning public life that are stated in it.
+
+**Hon. Dr. M. Karunanidhi:** In *Kundrin Melitta Vilakku*, Arignar Anna also says that those in public life should not leave that party and then set out to destroy that very party. I wish to point out that such people are in association with you today.
+
+A.D.M.K. member Thiru K. M. Subramaniam said, “I began reading Anna's articles only after I joined A.D.M.K.” I truly feel very sorry. The proper course is to read, become attracted by what one has read, and then go to a party; it is amusing to join a party first and only afterwards say that the policy of that party is sacred.
+
+I assume he has read all the books. In one book written by Arignar Anna—I do not know whether he has read it or not—he writes:
+
+> Praise to you, great man of greed!  
+> Praise to you, who have two tongues to speak!  
+> Praise to you, embodiment of trickery!  
+> Praise to you, leader of servants!  
+> Praise to you, king of deceit!  
+> Praise to you, merciless lord!  
+> Praise to you, one of cruel nature!  
+> Praise, praise to you, coward!
+
+### Source page 40
+
+> Praise to you, supreme coward!  
+> Praise to you, perpetrator of great fraud!  
+> Praise to you, who stir up quarrels!  
+> Praise to you, smiling fox!  
+> Praise to you, who have mastered the art of clinging!  
+> Praise to you, who know exalted injustice!  
+> Praise to you, who ruined our people!  
+> Praise to you, matchless evil!  
+> Praise, praise to you, lord!  
+> I have extolled you—praise! praise!
+
+That is what he wrote in the book *Arya Mayai*. I assume he has not read it. This book has been given a very fitting cover.
+
+## Concluding remarks
+
+In this financial statement debate, I have spent a long time here giving my explanations on the many valuable points raised by the Hon. Leader of the Opposition and members of all parties.
+
+In this reply I have, to the extent necessary, pointed out that the Dravida Munnetra Kazhagam Government has made every kind of effort so that, however great the crises that arise in Tamil Nadu, it can meet those crises; so that it can obtain the cooperation of the people of Tamil Nadu; and so that, without treating the crises with indifference, it acts with the understanding that they must be watched closely.
+
+In that spirit, I convey my thanks and respects to the leaders of all parties and the Hon. members who, by expressing their views, have brought this financial-statement discussion to its conclusion, and I conclude here.
+
+> **F4 boundary:** Gate F batch F4 stops at scan p.40 / printed p.39, the locked Unit-1 end. Gate F is complete for all 37 Unit-1 source pages. Gate G has not started.
+
 
 

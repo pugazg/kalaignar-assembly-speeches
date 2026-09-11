@@ -549,3 +549,21 @@ Status: **COMPLETE for this batch / Gate F remains IN PROGRESS**
 - Unit 2 has **not** been entered.
 
 Exact continuation: **Gate F batch F4 — scans 34–40 / printed pp.33–39**, the final 7-page remainder at the Unit-1 boundary.
+
+### Batch F4 — scan pp.34–40 / printed pp.33–39
+
+Status: **COMPLETE for this batch / Gate F COMPLETE**
+
+- translated only from the final Gate-E-verified Tamil source layer;
+- appended source-page sections **34 → 35 → 36 → 37 → 38 → 39 → 40**, exactly once and in order;
+- cumulative Gate-F coverage: **37 / 37 Unit-1 pages**, scans **4–40**;
+- preserved the power-cut restrictions, coal-shipping figures, house-site-patta figures, the nine-announcement / ten-point exchange, Kerala land-reform comparison, party interventions, literary quotations, poetic rhetoric and concluding remarks;
+- inherited `⟦scan-crop⟧` source-loss markers on scans 34–35 remain explicit; no physically lost Tamil wording was reconstructed in English;
+- no new source-printed English passage occurs in F4; earlier verbatim source-printed English remains untouched;
+- F4 ends exactly at **scan p.40 / printed p.39**, the locked Unit-1 end;
+- source-page sequence for the complete Gate-F translation is **4→40**, exactly once each;
+- Gate F is now **COMPLETE**;
+- Gate G has **not** started;
+- Unit 2 has **not** been entered.
+
+Exact continuation: **Gate G — full English fidelity and voice check for scans 4–40 / printed pp.3–39**, against the final verified Tamil. Mark English verified only after that complete review.
