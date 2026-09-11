@@ -18,7 +18,7 @@ This entry preserves the Legislative Council reply dated `8-3-1973` in the sourc
 - Gate A: **PASS** at source-package level
 - Gate B: **PASS / LOCKED**
 - Gate C: **COMPLETE — C1–C3 scans 41–62 / printed pp.40–61; 22/22 pages**
-- Gate C.5 historical Tamil glyph audit: **IN PROGRESS — HG1–HG2 scans 41–60 / printed pp.40–59 PASS; 20/22 pages; 2 cumulative corrections; 0 unresolved**
+- Gate C.5 historical Tamil glyph audit: **PASS / COMPLETE — HG1–HG3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative corrections; 0 unresolved**
 - Gates D–H: **NOT STARTED / downstream**
 - Tamil status: **Gate-C complete / not verified**
 - English: **blocked until Tamil verification**
@@ -39,4 +39,6 @@ Gate C first-pass transcription is **COMPLETE for all 22 Unit-2 source pages**, 
 
 Gate C.5 HG1 corrected one historical `றா` misread on scan 44: `வழக்கத்திற்கு மாறுக நடனம்` → `வழக்கத்திற்கு மாறாக நடனம்`. HG2 corrected one historical `லை` misread on scan 58: `அப்போது நடந்த வேலதான் மிகுந்த சங்கடமானது` → `அப்போது நடந்த வேலைதான் மிகுந்த சங்கடமானது`. All 13 mandatory families have now been checked through scan 60; cumulative corrections: **2**; unresolved glyph clusters: **0**.
 
-Exact next activity: **Gate C.5 HG3 / FINAL — scans 61–62 / printed pp.60–61**. Do not begin Gate D in the same iteration.
+HG3 / FINAL re-read scans 61–62 and found **0 additional historical-glyph corrections** and **0 unresolved clusters**. Gate C.5 is now **PASS / COMPLETE — 22/22 pages**, with **2 cumulative corrections** across Unit 2.
+
+Exact next activity: **Gate D Tamil completeness audit — D1 scans 41–50 / printed pp.40–49**. Do not begin Gate E in the same iteration.
