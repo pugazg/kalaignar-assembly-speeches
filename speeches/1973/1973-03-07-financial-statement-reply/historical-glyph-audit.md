@@ -44,7 +44,8 @@ Requirements:
 | 14–18 | 13–17 | PASS — HG3 | 0 | 0 |
 | 19–23 | 18–22 | PASS — HG4 | 0 | 0 |
 | 24–28 | 23–27 | PASS — HG5 | 0 | 0 |
-| 29–40 | 28–39 | NOT YET AUDITED | 0 | not yet assessed |
+| 29–33 | 28–32 | PASS — HG6 | 0 | 0 |
+| 34–40 | 33–39 | NOT YET AUDITED | 0 | not yet assessed |
 
 ## Correction ledger
 
@@ -114,6 +115,18 @@ No positive occurrence requiring correction was found for `ணை / ணொ / ண
 
 No positive occurrence requiring correction was found for `ணொ / ணோ / றொ / னோ` in HG5; all were still explicitly checked.
 
+## HG6 page-level coverage
+
+| Scan | Printed | All 13 families checked | Representative source-supported identities | Corrections | Unresolved glyph clusters |
+|---:|:---:|---|---|---:|---:|
+| 29 | 28 | YES | `வேலை` / `விலைவாசி` (`லை`), `விளைவாலும்` (`ளை`), `குறிப்பிட்டிருக்கிறார்கள்` / `சொல்கிறார்களே` (`றா`), `இன்னொன்றையும்` (`னொ`) | 0 | 0 |
+| 30 | 29 | YES | `தலைவர்` (`லை`), `காரியங்களையும்` (`ளை`), `செய்துகொண்டிருக்கிறார்கள்` (`றா`), `பாதிக்கப்பட்டிருக்கிறோம்` (`றோ`), `வெட்டினால்` (`னா`) | 0 | 0 |
+| 31 | 30 | YES | `கருணாநிதி` (`ணா`), `ஆலை` / `வேலை` (`லை`), `அவர்களைப்` / `சங்கடங்களைத்` (`ளை`), `ஓட்டியிருக்கிறார்கள்` (`றா`), `வருகிறோம்` (`றோ`), `என்னையும்` (`னை`) | 0 | 0 |
+| 32 | 31 | YES | `காலை` / `மாலை` (`லை`), `சங்கடங்களையெல்லாம்` (`ளை`), `மூன்றாவது` (`றா`), `செய்திருக்கிறோம்` (`றோ`), `நேரத்தினை` (`னை`) | 0 | 0 |
+| 33 | 32 | YES | `தொழிற்சாலைகளுக்கும்` / `தலைவர்கள்` (`லை`), `டிரான்ஸ்பார்மர்களை` (`ளை`), `கூறினார்கள்` (`னா`) | 0 | 0 |
+
+No positive occurrence requiring correction was found for `ணை / ணொ / ணோ / றொ / னோ` in HG6; all were still explicitly checked.
+
 ## Exact next activity
 
-Continue the Gate C.5 source-pixel audit with **scan pp.29–33 / printed pp.28–32**. Check all 13 families on every page, apply only individually proven glyph-identity corrections, synchronize this ledger and `verification-log.md`, and do not start Gate D until scans 4–40 have passed.
+Continue the Gate C.5 source-pixel audit with **scan pp.34–38 / printed pp.33–37**. Check all 13 families on every page, apply only individually proven glyph-identity corrections, synchronize this ledger and `verification-log.md`, and do not start Gate D until scans 4–40 have passed.

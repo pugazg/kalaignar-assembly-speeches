@@ -249,3 +249,21 @@ Status: **PASS for this batch / Gate C.5 remains IN PROGRESS**
 - Gate D remains blocked.
 
 Exact continuation: **Gate C.5 scans 29–33 / printed pp.28–32**.
+
+### Batch HG6 — scan pp.29–33 / printed pp.28–32
+
+Status: **PASS for this batch / Gate C.5 remains IN PROGRESS**
+
+- complete pages 29–33 were inspected from enlarged source pixels;
+- all 13 minimum families were explicitly checked on every page: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- no source-supported historical-glyph correction was required in this batch;
+- representative confirmed identities include p.29 `வேலை` / `விலைவாசி` (`லை`), `விளைவாலும்` (`ளை`), `குறிப்பிட்டிருக்கிறார்கள்` / `சொல்கிறார்களே` (`றா`), `இன்னொன்றையும்` (`னொ`); p.30 `தலைவர்` (`லை`), `காரியங்களையும்` (`ளை`), `செய்துகொண்டிருக்கிறார்கள்` (`றா`), `பாதிக்கப்பட்டிருக்கிறோம்` (`றோ`), `வெட்டினால்` (`னா`); p.31 `கருணாநிதி` (`ணா`), `ஆலை` / `வேலை` (`லை`), `அவர்களைப்` / `சங்கடங்களைத்` (`ளை`), `ஓட்டியிருக்கிறார்கள்` (`றா`), `வருகிறோம்` (`றோ`), `என்னையும்` (`னை`); p.32 `காலை` / `மாலை` (`லை`), `சங்கடங்களையெல்லாம்` (`ளை`), `மூன்றாவது` (`றா`), `செய்திருக்கிறோம்` (`றோ`), `நேரத்தினை` (`னை`); p.33 `தொழிற்சாலைகளுக்கும்` / `தலைவர்கள்` (`லை`), `டிரான்ஸ்பார்மர்களை` (`ளை`), `கூறினார்கள்` (`னா`);
+- genuine `று` forms including `வேலைநிறுத்தம்`, `கோளாறு`, `முடிவுற்று`, `தவறும்`, and `மாற்றுத்` were source-checked and correctly left unchanged;
+- no positive occurrence requiring correction was found for `ணை / ணொ / ணோ / றொ / னோ`; those families were still checked;
+- scans 29–33 introduce no new crop holds; printed English and illustration text were preserved unchanged;
+- historical-glyph corrections in HG6: **0**; cumulative Gate C.5 corrections: **3**;
+- unresolved historical-glyph clusters in audited visible text: **0**;
+- no global replacement was used;
+- Gate D remains blocked.
+
+Exact continuation: **Gate C.5 scans 34–38 / printed pp.33–37**.
