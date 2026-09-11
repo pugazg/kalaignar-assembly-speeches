@@ -248,13 +248,14 @@ Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-r
   - Unit-2 Gate-C crop holds: **0**
   - scan 62 closes with `வணக்கம்` and the printed closing ornament
   - scan 63 printer/imprint; scan 64 back cover; no third speech follows
-- Gate C.5 historical-glyph audit — **IN PROGRESS**
+- Gate C.5 historical-glyph audit — **PASS / COMPLETE**
   - HG1 scans **41–50** / printed pp. **40–49** — **PASS** — 1 correction
   - HG2 scans **51–60** / printed pp. **50–59** — **PASS** — 1 correction
-  - reviewed: **20 / 22 pages**
+  - HG3 scans **61–62** / printed pp. **60–61** — **PASS** — 0 corrections
+  - reviewed: **22 / 22 pages**
   - cumulative corrections: **2**
   - unresolved glyph clusters: **0**
-  - next: **HG3 / FINAL scans 61–62 / printed pp.60–61**
+- Gate D — **NEXT / NOT STARTED**
 - Gates D–H — **NOT STARTED / downstream**
 - Tamil status — **Gate-C complete / not verified**
 - English — **blocked**
@@ -269,39 +270,41 @@ Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-r
 - scan 61 continues the Dindigul-election discussion and contains the heading `மாற்றம்!`;
 - scan 62 closes the Council reply with the State-autonomy argument, final acknowledgements, `வணக்கம்`, and the printed closing ornament;
 - scan 63 was confirmed as printer/imprint matter and scan 64 as the back cover;
-- historical Tamil typeforms have been audited through scan **60** under Gate C.5; scans **61–62** remain for the final HG3 pass;
+- historical Tamil typeforms have been audited through the full Unit-2 range **41–62**; Gate C.5 is PASS / COMPLETE with **2 corrections** and **0 unresolved glyph clusters**;
 - released Unit 1 was not reopened.
 
 ## Exact next activity
 
-Complete **Unit 2 Gate C.5 historical Tamil glyph audit — HG3 / FINAL scans 61–62 / printed pp.60–61**.
+Begin **Unit 2 Gate D Tamil completeness audit — D1 scans 41–50 / printed pp.40–49**.
 
-Current Gate C.5 result through HG2:
+Gate C.5 final result:
 
 - HG1 scans **41–50** — PASS — scan 44 `மாறுக` → `மாறாக` (`றா`);
 - HG2 scans **51–60** — PASS — scan 58 `வேலதான்` → `வேலைதான்` (`லை`);
-- audited: **20 / 22 pages**;
+- HG3 scans **61–62** — PASS — **0 corrections**;
+- audited: **22 / 22 pages**;
 - cumulative corrections: **2**;
-- unresolved glyph clusters: **0**;
-- Gate C remains complete;
+- unresolved historical-glyph clusters: **0**;
 - `transcription.verified_against_scan=false`;
-- Gate D remains blocked.
+- Gate D is now unblocked.
 
-HG3 requirements:
+D1 requirements:
 
-- inspect both remaining pages at enlarged/native resolution;
-- check all 13 mandatory historical-glyph families on each page;
-- use same-edition comparison where identity is uncertain;
-- make only source-supported glyph corrections;
-- never global-replace or modernize source wording;
-- update `historical-glyph-audit.md`, metadata, README, verification log, mapping and handover;
-- if HG3 has zero unresolved clusters, close Gate C.5 as **PASS / COMPLETE — 22/22 pages**;
-- **do not begin Gate D in the same iteration**.
+- create/use `speeches/1973/1973-03-08-financial-statement-reply/completeness-audit.md`;
+- audit scans **41–50** / printed pp. **40–49**;
+- confirm each source-page marker exists exactly once and in monotonic sequence;
+- verify page-start/page-end continuity;
+- verify headings, speaker labels, interventions and printed source-context material are represented;
+- verify source-loss/unresolved state remains explicit and no text is reconstructed;
+- record any completeness corrections separately from glyph corrections;
+- update metadata, README, verification log, mapping and handover;
+- keep `transcription.verified_against_scan=false`;
+- **do not begin Gate E** in the same iteration.
 
 ## Last archival-content checkpoint before this handover update
 
-`f4b8921ff99d5451768f76220fbbaaf2409a158c`
+`45eaffb05ec12d462136764ff58c261eb3d269e1`
 
-Message: `Advance 1973 Council glyph audit to HG3`
+Message: `Close 1973 Council glyph audit mapping`
 
 The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.
