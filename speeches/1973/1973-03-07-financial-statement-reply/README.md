@@ -48,4 +48,4 @@ Gate H previously passed and the speech was released. That historical release re
 - [`translation-review.md`](./translation-review.md) — Gate-G fidelity/voice review.
 - [`translation.md`](./translation.md) — retired pointer to canonical English in `transcript.md`.
 
-Exact next activity: **Unit 1 crop recovery CR2 — scans 20–21 and 25–27** using the official TNLA 7-3-1973 proceedings only for physically missing gutter text. Unit 2 Gate D D1 is paused until this evidence-driven Unit-1 recovery and revalidation sequence is completed.
+Crop recovery is now being revalidated **page by page**. Booklet scan **4 / printed p.3 is PASS / VERIFIED**: all 38 former page-4 crop markers were reviewed, 10 source-supported missing fragments were restored, 0 markers remain, and the original booklet line breaks are preserved. **Exact next activity: scan 5 / printed p.4.** Unit 2 Gate D D1 remains paused until this recovery/revalidation sequence is complete.
