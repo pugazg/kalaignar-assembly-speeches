@@ -49,7 +49,7 @@
     "completed_page_count": 22,
     "total_page_count": 22,
     "last_batch": "C3",
-    "next_scan_page": 41,
+    "next_scan_page": 51,
     "source_page_markers_checked": true,
     "marker_sequence_checked": "41-62",
     "source_crop_holds": "none identified in Gate C scans 41-62",
@@ -57,7 +57,7 @@
     "historical_glyph_gate_required": true,
     "historical_glyph_gate_status": "passed",
     "completeness_audit_passed": true,
-    "verification_note": "Gate C and mandatory Gate C.5 are complete. Gate D completeness audit is PASS / COMPLETE for scans 41-62 / printed pp.40-61: 22/22 mapped pages represented, source-page markers 41-62 exactly once/in order, 2 cumulative source-context completeness additions (printed illustration notes on scans 43 and 44), 0 unresolved completeness questions, and 0 physical crop holds. Scan 62 closes with `வணக்கம்`; scan 63 is printer/imprint matter and scan 64 back cover, so the Unit-2 speech boundary is locked. Gate E source-fidelity verification is next; Tamil is not yet verified.",
+    "verification_note": "Gate C, mandatory Gate C.5 and Gate D are complete. Gate E source-fidelity verification is now in progress: E1 scans 41-50 / printed pp.40-49 PASS with 1 definite source-fidelity correction on scan 44 (`என்ற நிலைமை` -> source `என்று நிலைமையை`), 0 unresolved questions, embedded English verified verbatim, and page-boundary continuity PASS. E2 scans 51-60 is next. Tamil remains not globally verified until Gate E completes all 22 pages.",
     "gate_d_status": "pass-complete",
     "gate_d_reviewed_scan_pages": "41-62",
     "gate_d_reviewed_printed_pages": "40-61",
@@ -75,7 +75,19 @@
     "gate_d_page_boundaries_checked": "41→42 through 61→62; all internal joins PASS",
     "gate_d_speech_end_locked": true,
     "gate_d_non_speech_tail": "scan 63 printer/imprint matter; scan 64 back cover; no third speech follows",
-    "next_gate": "E1"
+    "next_gate": "E2",
+    "gate_e_status": "in-progress",
+    "gate_e_reviewed_scan_pages": "41-50",
+    "gate_e_reviewed_printed_pages": "40-49",
+    "gate_e_reviewed_page_count": 10,
+    "gate_e_total_page_count": 22,
+    "gate_e_last_batch": "E1",
+    "gate_e_next_scan_page": 51,
+    "gate_e_correction_count": 1,
+    "gate_e_unresolved_questions": 0,
+    "gate_e_corrections": [
+      "scan 44 / printed p.43: `சில பேர் ரசிப்பார்கள் என்ற நிலைமை எண்ணி,` -> source `சில பேர் ரசிப்பார்கள் என்று நிலைமையை எண்ணி,`"
+    ]
   },
   "translation": {
     "language": "English",
