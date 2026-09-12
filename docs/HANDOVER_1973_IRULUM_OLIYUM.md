@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`949cabb13d4244f379c3b9d0096012148f389ae5` — `Complete Unit 2 Gate F batch F1`
+`f5565bac5a686b056840ef46e65fa0c66580cebb` — `Complete Unit 2 Gate F batch F2`
 
 ## Active work
 
@@ -21,7 +21,7 @@ Checkpoint before this handover rewrite:
 - focused post-recovery Gate G — PASS;
 - Gate H canonical bilingual release revalidation — **PASS / REVALIDATED AFTER CROP RECOVERY**.
 
-**Current priority: Unit 2 / `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate F English translation F3 / FINAL, scans 61–62 / printed pp.60–61. F1–F2 scans 41–60 are complete; Tamil Gate E has been revalidated after 3 source-pixel repairs discovered during F2 preparation.**
+**Current priority: Unit 2 / `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate G English fidelity and voice check G1, scans 41–50 / printed pp.40–49. Gate F is COMPLETE — 22/22; English is translated but not yet verified.**
 
 Do not reopen Unit 1 unless genuinely new controlling-source evidence appears.
 
@@ -837,13 +837,13 @@ Next:
 - historical-glyph corrections — 2
 - unresolved glyph clusters — 0
 - Gate D — **PASS / COMPLETE — 22 of 22 / 2 cumulative corrections / 0 unresolved**
-- English — **IN PROGRESS / NOT VERIFIED — Gate F F1–F2 complete, 20 of 22 pages, 0 unresolved translation questions**
+- English — **TRANSLATED / NOT VERIFIED — Gate F COMPLETE, 22 of 22 pages, 0 unresolved translation questions**
 - Gate E — **PASS / COMPLETE / REVALIDATED — 22 of 22 / 18 cumulative corrections / 0 unresolved**
 - Tamil `verified_against_scan` — **true**
-- Gate F — **IN PROGRESS — F1–F2 COMPLETE / 20 of 22**
-- exact next activity — **Gate F F3 / FINAL scans 61–62 / printed pp.60–61**
+- Gate F — **COMPLETE — F1–F3 / 22 of 22**
+- exact next activity — **Gate G G1 scans 41–50 / printed pp.40–49**
 
-Unit 1 remains locked/released. Unit 2 Tamil is verified and revalidated. Continue only Unit-2 Gate-F F3 / FINAL in the next iteration; do not begin Gate G.
+Unit 1 remains locked/released. Unit 2 Tamil is verified and revalidated; Gate F is complete. Continue only Unit-2 Gate-G G1 in the next iteration.
 
 ## Unit 2 Gate E E3 / FINAL — PASS / COMPLETE
 
@@ -956,4 +956,36 @@ For F3 / FINAL:
 5. represent the closing ornament conservatively;
 6. mark Gate F **COMPLETE — 22/22** only after both pages are translated;
 7. do **not** begin Gate G in the same iteration.
+
+## Unit 2 Gate F F3 / FINAL — COMPLETE
+
+Translated **scans 61–62 / printed pp.60–61** from the final Gate-E-verified Tamil.
+
+- F3 source pages — **61→62 exactly once and in order**
+- pages translated — **2 / 2**
+- cumulative Gate-F coverage — **22 / 22**
+- complete Gate-F page sequence — **41→62 exactly once and in order**
+- scan 60 terminal `30` continuation into scan 61 — preserved
+- speaker labels / `மாற்றம்!` heading — preserved
+- Dindigul-election rhetoric / State-autonomy argument — preserved
+- acknowledgements / final `வணக்கம்` / closing ornament — preserved
+- unresolved translation questions — **0**
+- scan 63 — printer/imprint matter
+- scan 64 — back cover
+- no third speech follows
+- Gate F — **COMPLETE**
+- English — **NOT VERIFIED**
+- Gate G — **UNBLOCKED / NEXT**
+
+## Exact next activity — Unit 2 Gate G G1
+
+Perform the English fidelity and voice check for **scans 41–50 / printed pp.40–49**.
+
+Review the Gate-F English against the final Gate-E-verified Tamil page by page. Check meaning, omissions, repetitions, page boundaries, speaker/intervention placement, figures, headings, illustration-context notes, source-printed English and preservation of Kalaignar's voice.
+
+- review exactly scans **41–50** in G1;
+- apply definite English corrections to `translation.md`;
+- record each correction and any unresolved question in a new `translation-review.md`;
+- update metadata / README / verification log / handover / next prompt;
+- keep English `verified_against_tamil=false` until Gate G is complete for all 22 pages.
 

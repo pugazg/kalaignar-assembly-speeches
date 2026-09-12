@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate F F3 / FINAL
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate G G1
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,7 +8,7 @@ Fetch live `main` first and preserve newer durable work.
 
 Live checkpoint immediately before this prompt refresh:
 
-`949cabb13d4244f379c3b9d0096012148f389ae5` — `Complete Unit 2 Gate F batch F1`
+`f5565bac5a686b056840ef46e65fa0c66580cebb` — `Complete Unit 2 Gate F batch F2`
 
 If live `main` is newer, preserve the newer state.
 
@@ -28,8 +28,8 @@ Speech: `சட்டமன்ற மேலவையில்` / **8-3-1973**
 
 Controlling source: `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`
 
-- Unit 2 scans: **41–62**
-- printed pages: **40–61**
+- Unit 2 scans — **41–62**
+- printed pages — **40–61**
 - Gate A — **PASS**
 - Gate B — **PASS / LOCKED**
 - Gate C — **COMPLETE — 22/22**
@@ -40,53 +40,46 @@ Controlling source: `TVA_BOK_0064058_இருளும்_ஒளியும்
 - unresolved Gate-E questions — **0**
 - Tamil `verified_against_scan=true`
 
-### Post-Gate-E source-pixel repairs discovered during F2 preparation
-
-1. scan **58** / printed p.**57** — `விட்டு வசதி வாரியம்` → `வீட்டு வசதி வாரியம்`
-2. scan **60** / printed p.**59** — `நாணயம்` → `நாளை`
-3. scan **60** / printed p.**59** — `நாங்களும்` → `நாளும்`
-
-These are definite controlling-source repairs, not translation normalisation.
-
 ## Durable Gate-F state
 
 - English working file — `translation.md`
-- Gate F — **IN PROGRESS**
-- F1 scans **41–50 / printed pp.40–49** — **COMPLETE**
-- F2 scans **51–60 / printed pp.50–59** — **COMPLETE**
-- cumulative Gate-F coverage — **20/22**
+- F1 scans **41–50** — COMPLETE
+- F2 scans **51–60** — COMPLETE
+- F3 scans **61–62** — COMPLETE
+- Gate F — **COMPLETE — 22/22**
+- English source-page sequence — **41→62 exactly once and in order**
 - unresolved translation questions — **0**
-- English source-page sequence — **41→60 exactly once and in order**
-- source-printed English on scans **52–55** — **preserved verbatim**
-- Gate G — **NOT STARTED**
+- source-printed English — preserved verbatim
+- English `verified_against_tamil=false`
+- Gate G — **UNBLOCKED / NEXT**
 
-F2 ends exactly at scan 60's visible terminal `30`; the sentence continues on scan 61.
+F3 preserved the scan-60 terminal `30` continuation, both speaker labels, `மாற்றம்!`, the final State-autonomy argument, acknowledgements, `வணக்கம்` and closing ornament. Scan 63 is printer/imprint matter; scan 64 is back cover; no third speech follows.
 
 ## Exact next activity
 
-Perform **Gate F English translation — F3 / FINAL scans 61–62 / printed pp.60–61**.
+Perform **Gate G English fidelity and voice check — G1 scans 41–50 / printed pp.40–49**.
 
-Translation authority is the final Gate-E-verified Tamil in canonical `transcript.md`.
+Review the Gate-F English against the final Gate-E-verified Tamil, page by page.
 
-For F3 / FINAL:
+For G1:
 
-1. translate all verified Tamil mapped to scans 61–62;
-2. preserve source-page correspondence **61→62**;
-3. begin by completing the scan-60 terminal `30` continuation;
-4. preserve speaker labels / interventions and the `மாற்றம்!` heading;
-5. preserve all figures and Dindigul-election wording;
-6. preserve the final State-autonomy argument, repetitions, acknowledgements and `வணக்கம்`;
-7. represent the source closing ornament conservatively;
-8. append F3 to `translation.md` without altering F1–F2;
-9. if both pages are complete, mark Gate F **COMPLETE — 22/22** and set Gate G **UNBLOCKED / NEXT**;
+1. review every translated proposition against Tamil scans 41–50;
+2. check omissions, additions, reversed meaning and weakened/strengthened claims;
+3. preserve repetitions, humour, irony, direct address and rhetorical rhythm;
+4. verify speaker/intervention placement and headings;
+5. verify all figures, dates, money, units and technical terms;
+6. verify scan 43 / 44 illustration-context notes;
+7. ensure both source-printed Punjab Electricity Board English quotations on scan 50 remain verbatim;
+8. apply every definite English correction directly to `translation.md`;
+9. create/update `translation-review.md` with correction provenance and unresolved questions;
 10. update metadata / README / verification log / handover / next prompt.
 
-Expected result:
+Expected G1 result:
 
-- F3 translated pages — **2/2**
-- cumulative Gate-F coverage — **22/22**
-- Gate F — **COMPLETE**
-- unresolved translation questions — explicit count
-- Gate G — **UNBLOCKED / NEXT**
+- scans reviewed — **41–50 / 10 pages**
+- Gate-G corrections — explicit count
+- unresolved English fidelity questions — explicit count
+- cumulative Gate-G coverage — **10/22**
+- next batch — **G2 scans 51–60 / printed pp.50–59**
 
-Do **not** begin Gate G in the same iteration.
+Do not mark English verified until Gate G completes **22/22**.

@@ -21,10 +21,10 @@ This entry preserves the Legislative Council reply dated `8-3-1973` in the sourc
 - Gate C.5 historical Tamil glyph audit: **PASS / COMPLETE — HG1–HG3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative corrections; 0 unresolved**
 - Gate D: **PASS / COMPLETE — D1–D3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative completeness corrections; 0 unresolved**
 - Gate E: **PASS / COMPLETE / REVALIDATED — 22/22 pages; 18 cumulative corrections; 0 unresolved (3 post-completion source-pixel repairs on scans 58 and 60 during F2 preparation)**
-- Gate F: **IN PROGRESS — F1–F2 scans 41–60 / printed pp.40–59 COMPLETE; 20/22 pages; 0 unresolved translation questions**
+- Gate F: **PASS / COMPLETE — F1–F3 scans 41–62 / printed pp.40–61; 22/22 pages; 0 unresolved translation questions**
 - Gates G–H: **NOT STARTED / downstream**
 - Tamil status: **VERIFIED AGAINST SCAN — Gate C + C.5 + D + E complete**
-- English: **IN PROGRESS / NOT VERIFIED — Gate F F1–F2 complete; F3 / FINAL next**
+- English: **TRANSLATED / NOT VERIFIED — Gate F complete; Gate G G1 next**
 
 ## Gate C result
 
@@ -174,4 +174,17 @@ Gate F F2 is now **COMPLETE** for scans **51–60 / printed pp.50–59**.
 - F2 terminal `30` — preserved as a deliberate cross-page boundary
 - Gate G — **NOT STARTED**
 
-Exact next activity: **Gate F F3 / FINAL — scans 61–62 / printed pp.60–61**. Do not begin Gate G.
+Gate F F3 / FINAL is now **COMPLETE** for scans **61–62 / printed pp.60–61**.
+
+- F3 pages translated — **2/2**
+- cumulative Gate-F coverage — **22/22 pages**
+- complete English source-page sequence — **41→62 exactly once and in order**
+- scan 60→61 terminal `30` continuation — **preserved**
+- speaker labels / `மாற்றம்!` / final State-autonomy argument — **preserved**
+- acknowledgements / final `வணக்கம்` / closing ornament — **preserved**
+- unresolved translation questions — **0**
+- Gate F — **COMPLETE**
+- English — **NOT VERIFIED**
+- Gate G — **UNBLOCKED / NEXT**
+
+Exact next activity: **Gate G G1 — English fidelity and voice check, scans 41–50 / printed pp.40–49**, against the final Gate-E-verified Tamil.

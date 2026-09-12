@@ -529,3 +529,22 @@ Status: **COMPLETE for this batch / Gate F remains IN PROGRESS**
 - Gate-G verification has **not** started.
 
 Exact continuation: **Gate F batch F3 / FINAL — scans 61–62 / printed pp.60–61**. Do not begin Gate G in the same iteration.
+
+### Batch F3 / FINAL — scan pp.61–62 / printed pp.60–61
+
+Status: **COMPLETE / GATE F COMPLETE**
+
+- translated only from the final Gate-E-verified Tamil;
+- appended source-page sections **61 → 62**, exactly once and in order;
+- completed the scan-60 terminal `30` continuation at the start of scan 61;
+- preserved both parliamentary speaker labels, the `மாற்றம்!` heading, Dindigul-election rhetoric, the State-autonomy argument, acknowledgements and final `வணக்கம்`;
+- source closing ornament represented conservatively as `○`;
+- source-page sequence for the complete Gate-F translation is **41→62**, exactly once each and in order;
+- cumulative Gate-F coverage: **22 / 22 Unit-2 pages**;
+- unresolved translation questions: **0**;
+- scan 63 remains printer/imprint matter; scan 64 remains back cover; no third speech follows;
+- Gate F is now **COMPLETE**;
+- English remains **NOT VERIFIED** until Gate G;
+- Gate G is **UNBLOCKED / NEXT** and has **not** started in this iteration.
+
+Exact continuation: **Gate G English fidelity and voice check — G1 scans 41–50 / printed pp.40–49**, against the final Gate-E-verified Tamil.

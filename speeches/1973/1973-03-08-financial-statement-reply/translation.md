@@ -1,6 +1,6 @@
 # English translation — 8-3-1973 Legislative Council reply
 
-> **Gate F working note:** This is a faithful reading translation made only from the final Gate-E-verified Tamil in [`transcript.md`](./transcript.md). Batch F1 covers **scan pp.41–50 / printed pp.40–49**. Source-page alignment, parliamentary speaker changes, figures, argument order, headings and source terminology are preserved. The printed illustration-context notes on scans 43–44 are retained. Source-printed English is carried through verbatim. This English is **not yet Gate-G verified**.
+> **Gate F working note:** This faithful reading translation was made only from the final Gate-E-verified Tamil in [`transcript.md`](./transcript.md). Gate F now covers the complete locked Unit-2 range, **scan pp.41–62 / printed pp.40–61**. Source-page alignment, parliamentary speaker changes, figures, argument order, headings, illustration-context notes and source terminology are preserved; source-printed English is carried through verbatim. Gate F is **COMPLETE**, but this English is **not yet Gate-G verified**.
 
 ---
 
@@ -229,4 +229,28 @@ Beyond that, if he said more it would become political. So the officer said only
 We say this at every election. The Law Minister says that the objection petitions received were only 300. Thus, out of these 11,000, 30—
 
 > **F2 boundary:** the sentence continues on source scan p.61 / printed p.60. Gate F batch F2 stops here and does not translate beyond scan p.60.
+
+### Source page 61
+
+—petitions alone have been received. The date was extended so that objection petitions, if any, could be submitted.
+
+**Thiru K. Rajaram:—** I am only saying what those who submitted objection petitions came and told me in person; I have not invented it myself. I have only taken up what they came and responsibly told me; there is no point in our saying something they did not say. The Law Minister says that 300 objection petitions have been received. Four or five people came to me in person and said that these particular shortcomings had occurred. That is all I brought up; there is nothing else.
+
+### Transfers!
+
+**Hon. Dr. M. Karunanidhi:—** Then they said that all the officials had been transferred and so on. Even in Tiruchi an official was transferred a week ago. In Chennai, police officials have been transferred within the past week. Thus, transferring officials is nothing other than something that naturally takes place all the time! A date has not even been fixed for the election yet. Nothing of any kind has happened. Even before that, by speaking of Dindigul, bogus votes, one lakh votes, wrongful votes and so on, one cannot run responsible political parties.
+
+There is another amusing thing in this. Our Thiru Ponnappa Nadar said it in the Assembly. All the leaders of the Congress Party are saying it. All their journals are writing it. Police must come from the Central Government to conduct the election; Central Government officials must come and conduct the election. I do not know how this sudden faith in the Central Government has come upon them. It was that same Central Government that conducted the election of 1971. All the present Organisation Congress people joined together and said that a chemical ink had been used in it; that ink had come from Russia; and that was why they had won. Why are they calling them now? If they come, will they not come with that ink? What is the reason? I do not understand.
+
+### Source page 62
+
+In this way, whenever anything arises, it is not proper for us, of our own accord, to carry the rights of the State and place them in the hands of the Central Government. The Central Government has certain responsibilities. We have assumed certain responsibilities. In the State autonomy that we seek, we say that responsibilities, powers and rights should be apportioned in a manner that does not harm India's unity, India's security or India's strength. At the same time, we are prepared to understand the conditions that exist today and to act in accordance with those conditions. If, deliberately and for everything, we keep saying that the Central Government must come, that a Central Government official must come, it would amount to our digging a pit and burying the rights of the State ourselves.
+
+I would request the Honourable Leader of the Opposition not to surrender the rights of the State under the mistaken notion that the Dravida Munnetra Kazhagam is going to rule for as long as this world exists and that no other party can ever come to power here. I would make the same request to the leaders of the Congress Party. It is precisely because the rights of the State must remain important that, in this Financial Statement, I have explained in detail the extent to which our rights are being affected.
+
+On this statement, the learned elders, scholars and Tamil dignitaries of this House have all expressed good views and helped in a manner that gives encouragement to the work of this Government; I convey my heartfelt thanks to them. Before concluding, our Adigalar referred to the temple employees. Our Parangusam said that the Kangi Mazdoor problem must be resolved. I tell both of them that the two Ministers concerned will shortly confer, take a decision, and announce good decisions in both the Assembly and the Council. With that, I conclude. *Vanakkam.*
+
+> **Source closing ornament:** ○
+
+> **F3 / Gate-F boundary:** source scan p.62 / printed p.61 is the locked end of Unit 2. Gate F is complete at **22/22 pages**. Scan p.63 is printer/imprint matter and scan p.64 is the back cover; no third speech follows.
 
