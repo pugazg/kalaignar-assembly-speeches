@@ -21,7 +21,7 @@ This entry preserves the Legislative Assembly reply dated `7-3-1973` in the sour
 - Gate E: **PASS / REVALIDATED AFTER CROP RECOVERY — original full-range pass retained; focused recheck on recovered scans 4–5, 10–11, 20–21, 25–27, 34–35; 0 new focused-recheck corrections; 0 unresolved Tamil fidelity questions**
 - Gate F English translation: **COMPLETE — F1–F4 scans 4–40 / printed pp.3–39; 37/37 pages**
 - Gate G English fidelity/voice review: **PASS / REVALIDATED AFTER CROP RECOVERY — historical pre-recovery pass 15 corrections; focused post-recovery recheck on repaired scans 4–5, 10–11, 20–21, 25–27, 34–35 added 2 corrections; 0 unresolved; English verified**
-- Gate H: **REOPENED FOR CROP RECOVERY — prior release preserved in history; canonical revalidation required after recovery**
+- Gate H: **PASS / REVALIDATED AFTER CROP RECOVERY — canonical bilingual integrity rechecked; Unit 1 RELEASED again**
 
 The controlling scan has gutter-edge loss on scans 4–5, 10–11, 20–21, 25–27 and 34–35. A newly supplied official **Tamil Nadu Legislative Assembly Debates, 7 March 1973** volume now provides an independent primary-source witness for the same speech. **CR1 bulk-populated scans 4–5 and 10–11, removing 99 legacy literal crop-marker occurrences without contextual guessing; all four bulk-CR1 pages are now individually page-level revalidated.** Scans **20–21, 25–27 and 34–35** are now additionally recovered and individually revalidated. **All legacy gutter-crop pages are now page-level closed.** Scan p.13 also contains small cartoon labels that remain explicitly unresolved where the scan does not support a confident reading. Scans 14–19, 22–24, 28–33 and 36–40 introduce no comparable crop loss; printed English passages are preserved in the Tamil source layer as printed. Printed illustration/cartoon labels are represented only where the scan supports a confident reading.
 
@@ -37,7 +37,7 @@ Gate F completed the English working translation for **scans 4–40 / printed pp
 
 Gate G previously **PASSed / COMPLETED for all 37 Unit-1 pages** before the new crop-recovery evidence changed the Tamil. That historical review remains valid audit history: G1–G4 reviewed 37/37 pages, made **15** corrections and left **0** unresolved issues. After recovered-span English repair, a focused post-recovery Gate-G recheck reviewed source pages **4–5, 10–11, 20–21, 25–27 and 34–35**, made **2** further definite corrections on scan 35, and left **0** unresolved English fidelity questions. English is again verified against the final Tamil.
 
-Gate H previously passed and the speech was released. That historical release remains documented, but it is now **temporarily reopened for crop recovery** because new official TNLA evidence supplies text that was physically absent from the booklet scan. Tamil crop recovery is being completed first; then the recovered spans must be reflected in English, rechecked for fidelity, and the canonical bilingual release revalidated.
+Gate H previously passed before the new TNLA crop-recovery evidence arrived. After Tamil recovery, focused Gate-E recheck, English recovered-span repair and focused post-recovery Gate-G review, Gate H was run again. The canonical Tamil and English page sequences 4–40 each pass exactly once/in order, both layers have 0 legacy crop markers, recovery-touched and historical Gate-G boundaries pass, `translation.md` remains a retired pointer, and Unit 1 is **RELEASED / REVALIDATED AFTER CROP RECOVERY**.
 
 ## Files
 
@@ -54,6 +54,8 @@ The canonical Tamil layer is source-verified again, and the corresponding Englis
 
 Notable repairs include the scan-4 inclusive 81-member count, scan-10 full tax-head list, scan-11 Kambam / 1973-74 / 1965-66 / four-demands text, scan-20 **“reduce all taxes”** for recovered `வரியையெல்லாம்`, scan-25 list punctuation and **have been sent**, scan-27 **at the seashore** plus retained `Ratification`, the scan-34→35 generator/licence continuation, and scan-35 **1,41,000** plus the concluding `ஆக,` transition.
 
-Focused post-recovery Gate G is now **PASS / COMPLETE**. It corrected two scan-35 issues: person-directed `to them` was restored to source-faithful **for it** in the licence sentence, and the repair artifact **`Thus, Thus,`** was reduced to one **`Thus,`** for Tamil `ஆக,`. The repaired 11-page scope now has **0 unresolved English fidelity questions**, **0 legacy English crop markers**, and `verified_against_tamil=true`.
+Focused post-recovery Gate G is **PASS / COMPLETE**. It corrected two scan-35 issues: person-directed `to them` was restored to source-faithful **for it** in the licence sentence, and the repair artifact **`Thus, Thus,`** was reduced to one **`Thus,`** for Tamil `ஆக,`. The repaired 11-page scope has **0 unresolved English fidelity questions**, **0 legacy English crop markers**, and `verified_against_tamil=true`.
 
-**Exact next activity: Gate-H canonical bilingual integrity / release revalidation for Unit 1.** Do not resume Unit 2 in the same iteration.
+Post-recovery Gate H is also **PASS / COMPLETE**. Tamil and English each retain **37/37** source-page sections in order, all **9** recovery-touched joins pass, historical **37→38** and **39→40** boundary fixes remain intact, scan-13's small cartoon-label hold remains explicit, and `translation.md` remains a retired pointer. Unit 1 release status is restored to **RELEASED**.
+
+**Exact next activity: Unit 2 / 8-3-1973 / `சட்டமன்ற மேலவையில்` — Gate D Tamil completeness audit D1, scans 41–50 / printed pp.40–49.** Do not begin Gate E in the same iteration.
