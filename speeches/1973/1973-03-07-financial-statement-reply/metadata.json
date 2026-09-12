@@ -215,9 +215,23 @@
     "crop_placeholders_removed_cr1": 99,
     "remaining_actual_tamil_crop_placeholders": 226,
     "remaining_crop_scan_pages": "20-21, 25-27, 34-35",
-    "next_batch": "CR2 — scans 20-21 and 25-27",
+    "next_batch": "Page-by-page recovery — scan 5 / printed p.4",
     "tamil_revalidation_required": true,
     "english_repair_required": true,
-    "release_revalidation_required": true
+    "release_revalidation_required": true,
+    "workflow_mode": "page-by-page",
+    "page_by_page_verified_scan_pages": "4",
+    "page_by_page_verified_count": 1,
+    "next_page_by_page_scan": 5,
+    "page4": {
+      "status": "verified-recovery",
+      "old_crop_markers": 38,
+      "remaining_crop_markers": 0,
+      "direct_missing_fragment_recoveries": 10,
+      "source_line_breaks_preserved": true,
+      "tnla_pdf_pages": "86-87",
+      "tnla_proceedings_pages": "484-485",
+      "next_scan_page": 5
+    }
   }
 }
