@@ -19,9 +19,10 @@ This entry preserves the Legislative Council reply dated `8-3-1973` in the sourc
 - Gate B: **PASS / LOCKED**
 - Gate C: **COMPLETE — C1–C3 scans 41–62 / printed pp.40–61; 22/22 pages**
 - Gate C.5 historical Tamil glyph audit: **PASS / COMPLETE — HG1–HG3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative corrections; 0 unresolved**
-- Gate D: **IN PROGRESS — D1+D2 scans 41–60 / printed pp.40–59 PASS; 20/22 pages; 2 cumulative completeness corrections; 0 unresolved**
-- Gates E–H: **NOT STARTED / downstream**
-- Tamil status: **Gate C + C.5 complete; Gate D in progress / not verified**
+- Gate D: **PASS / COMPLETE — D1–D3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative completeness corrections; 0 unresolved**
+- Gate E: **NEXT / NOT STARTED**
+- Gates F–H: **NOT STARTED / downstream**
+- Tamil status: **Gate C + C.5 + D complete; Gate E next / not verified**
 - English: **blocked until Tamil verification**
 
 ## Gate C result
@@ -60,8 +61,28 @@ D2:
 - D2 unresolved completeness questions — **0**;
 - scan 60 correctly remains mid-sentence at visible `30`.
 
-Gate-D cumulative coverage: **20/22 pages**.  
-Cumulative completeness corrections: **2**.  
-Unresolved completeness questions: **0**.
+Gate D D3 / FINAL is **PASS** for scans **61–62 / printed pp.60–61**.
 
-Exact next activity: **Gate D D3 / FINAL — scans 61–62 / printed pp.60–61**. Do not begin Gate E in the same iteration.
+- incoming scan-60→61 continuation **30 / மனுக்கள் தான்...** — PASS;
+- scan-61→62 continuity — PASS;
+- heading `மாற்றம்!` — PASS;
+- final State-autonomy argument — PASS;
+- final acknowledgements and `வணக்கம்` — PASS;
+- closing ornament — represented;
+- scan 63 — printer/imprint matter;
+- scan 64 — back cover;
+- no third speech follows;
+- D3 completeness corrections — **0**;
+- D3 unresolved completeness questions — **0**.
+
+Gate D final result:
+
+- coverage — **22/22 pages**
+- source-page sequence **41→62** — exactly once and in order
+- cumulative completeness corrections — **2**
+- unresolved completeness questions — **0**
+- physical crop holds — **0**
+- speech-end classification — **LOCKED / PASS**
+- Gate D — **PASS / COMPLETE**
+
+Exact next activity: **Gate E Tamil source-fidelity verification E1 — scans 41–50 / printed pp.40–49**. English remains blocked until Gate E completes.
