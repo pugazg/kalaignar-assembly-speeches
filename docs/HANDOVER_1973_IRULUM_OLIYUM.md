@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`f6f46ea055f5a83b96982a0717be86338e274239` — `Recover Unit 1 crop text page 27`
+`4402842f428f4a03d75b2a0e5ab065a35416bcd3` — `Complete crop recovery README state`
 
 ## Active work
 
@@ -368,31 +368,69 @@ Result:
 - booklet-visible `லைசென்ஸ்` retained rather than TNLA `லைசென்சே`
 - booklet-visible `வந்து` retained where TNLA differs.
 
-## Exact next activity — scan 35 only
+## Page 35 — PASS / CLOSED — FINAL LEGACY CROP PAGE
 
-Process **booklet scan 35 / printed p.34** and stop.
+Booklet scan **35** / printed p.**34** is now individually recovered and revalidated.
 
-Current scan-35 state:
+Evidence:
 
-- legacy left-gutter crop markers remain throughout the page;
-- this is the **last remaining crop-recovery page** in Unit 1;
-- matching official witness begins at TNLA PDF p. **112** / proceedings p. **510** for the generator/licence continuation and continues through PDF p. **113** / proceedings p. **511** for the housing-patta passage.
+- TNLA PDF p. **112** / proceedings p. **510** confirms the opening generator/licence continuation;
+- TNLA PDF p. **113** / proceedings p. **511** confirms the `குடியிருப்பு மனைப்பட்டா` passage;
+- scan 36 / printed p.35 was visually checked for the outgoing boundary;
+- incoming boundary: scan 34 `... எப்படியாவது, நாங்கள்` → scan 35 `செலவு செய்துவிட்ட காரணத்தினாலே...`;
+- outgoing boundary: scan 35 ends `விவரத்தை நான் இங்கே தெரிவித்துக்கொள்கிறேன்.`; scan 36 begins heading `ஒன்பது அறிவிப்புகள்`.
 
-Verify:
+Result:
 
-- every line-level left-gutter crop position independently;
-- continuation and close of the generator/licence exchange;
-- Hande intervention and Karunanidhi response;
-- `குடியிருப்பு மனைப்பட்டா` section;
-- all dates and figures, especially **27-2-1972**, **6,764**, **15-6-1972**, **26,150**, **14-9-1972**, **28-2-1973**, **1,15,227**, **1,48,000**, **1,41,000**, **8,700**, and the remaining acknowledgements;
-- all booklet-visible wording, punctuation and physical line breaks;
-- incoming and outgoing page boundaries.
+- legacy literal crop-marker occurrences: **37**
+- actual line-level source-loss positions: **36**
+- direct official-witness recoveries: **2**
+- positions requiring no inserted fragment: **34**
+- source-loss markers remaining: **0**
+- booklet physical line breaks preserved
+- contextual guesses: **0**
+- global replacements: **0**
+- recovered:
+  - `,41,000 பேர்` → `1,41,000 பேர்`
+  - `ஒரு இலட்சத்து 57 ஆயிரம் பட்டாக்களுக்கான அந்த` → `ஆக, ஒரு இலட்சத்து 57 ஆயிரம் பட்டாக்களுக்கான அந்த`
+- dates/figures rechecked: **27-2-1972, 6,764, 15-6-1972, 26,150, 14-9-1972, 28-2-1973, 1,15,227, பிப்ரவரி 1973, 1,48,000, 1,41,000, 8,700**, plus the word-form totals and remaining acknowledgements;
+- booklet-visible forms such as `மென்று கேட்டார்கள்`, `பட்ட மாட்டாது`, `ஆட்சேபணை`, and `அக்குலெட்ஜ்மெண்ட்` were retained rather than normalized to TNLA.
 
-Do **not** begin the whole-Tamil crop-recovery integrity audit in the same iteration.
+All legacy gutter-crop pages in Unit 1 are now individually **PASS / CLOSED**:
+
+**4–5, 10–11, 20–21, 25–27, 34–35**
+
+## Exact next activity — whole-Tamil crop-recovery integrity audit
+
+Do **not** start Gate E yet.
+
+Audit the canonical Tamil layer across **scans 4–40 / printed pp.3–39**, with special attention to every recovered page and every boundary touched by recovery.
+
+Verify at minimum:
+
+1. recovered pages **4–5, 10–11, 20–21, 25–27, 34–35** contain no legacy gutter-crop placeholder;
+2. no recovery text has crossed a booklet page boundary incorrectly;
+3. all documented boundary joins remain exact:
+   - 4→5 `சுதந்திரக் / கட்சியின்`
+   - 5→6 `பாளையங் / கோட்டைச்`
+   - 20→21 `இங்கே சுட்டிக் காட்டினேன். / அது மாத்திரமல்ல...`
+   - 21→22 `கட்டுப்படுத்து / கின்ற`
+   - 25→26 `உட்படுத்தப்பட்டிருக் / கிறதா?`
+   - 26→27 sentence boundary into `திட்டக் குழுவில்...`
+   - 27→28 `தேர்ந் / தெடுக்கப்படுகிற`
+   - 34→35 `நாங்கள் / செலவு செய்துவிட்ட...`
+   - 35→36 sentence close → `ஒன்பது அறிவிப்புகள்`;
+4. recovered dates, numerals, embedded English and punctuation match the page-level audit records;
+5. booklet-specific wording retained against TNLA differences has not been silently normalized;
+6. scan 13 smaller cartoon-label holds remain separate and unchanged;
+7. Tamil source-page markers 4–40 remain exactly once and strictly monotonic;
+8. update the crop-recovery audit, metadata, README, handover and next prompt with the integrity-audit result.
+
+If the integrity audit passes, the next activity becomes **Gate-E Tamil fidelity recheck for affected recovery spans/pages**.
 
 ## Required files
 
-Read before scan-35 work:
+Read before whole-Tamil crop-recovery integrity audit:
 
 1. this handover
 2. `docs/NEXT_CHAT_PROMPT_1973_IRULUM_OLIYUM.md`
@@ -405,15 +443,13 @@ Read before scan-35 work:
 
 If either PDF is missing in a new chat, retrieve it from conversation/Library before asking the user to upload again.
 
-## Remaining page sequence
+## Recovery sequence
 
-Continue exactly one page per iteration:
+All affected pages are individually revalidated. Page-level crop recovery is **COMPLETE**.
 
-**35**
+Next:
 
-After all affected pages are individually revalidated:
-
-1. whole-Tamil crop-recovery integrity audit;
+1. **whole-Tamil crop-recovery integrity audit**;
 2. Gate-E Tamil fidelity recheck for affected pages/spans;
 3. English repair/retranslation for recovered spans;
 4. Gate-G English fidelity recheck;
@@ -425,8 +461,8 @@ After all affected pages are individually revalidated:
 
 - `transcription.status = crop-recovery-in-progress`
 - `transcription.verified_against_scan = false`
-- page-by-page verified scans: **4–5, 10–11, 20–21, 25–27, 34**
-- next page: **35**
+- page-by-page verified scans: **4–5, 10–11, 20–21, 25–27, 34–35 — COMPLETE**
+- next activity: **whole-Tamil crop-recovery integrity audit**
 - Gate E — recheck required
 - English `verified_against_tamil = false`
 - Gate G — recheck required
