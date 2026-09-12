@@ -22,9 +22,10 @@ This entry preserves the Legislative Council reply dated `8-3-1973` in the sourc
 - Gate D: **PASS / COMPLETE — D1–D3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative completeness corrections; 0 unresolved**
 - Gate E: **PASS / COMPLETE / REVALIDATED — 22/22 pages; 18 cumulative corrections; 0 unresolved (3 post-completion source-pixel repairs on scans 58 and 60 during F2 preparation)**
 - Gate F: **PASS / COMPLETE — F1–F3 scans 41–62 / printed pp.40–61; 22/22 pages; 0 unresolved translation questions**
-- Gates G–H: **NOT STARTED / downstream**
+- Gate G: **PASS / COMPLETE — scans 41–62 / printed pp.40–61; 22/22 pages; 3 corrections; 0 unresolved**
+- Gate H: **UNBLOCKED / NEXT — canonical merge, index and release**
 - Tamil status: **VERIFIED AGAINST SCAN — Gate C + C.5 + D + E complete**
-- English: **TRANSLATED / NOT VERIFIED — Gate F complete; Gate G G1 next**
+- English: **VERIFIED AGAINST FINAL TAMIL — Gate F + Gate G complete**
 
 ## Gate C result
 
@@ -188,3 +189,27 @@ Gate F F3 / FINAL is now **COMPLETE** for scans **61–62 / printed pp.60–61**
 - Gate G — **UNBLOCKED / NEXT**
 
 Exact next activity: **Gate G G1 — English fidelity and voice check, scans 41–50 / printed pp.40–49**, against the final Gate-E-verified Tamil.
+
+## Gate G full-unit English fidelity review
+
+At the user's direction, all **22 pages** were reviewed in one iteration.
+
+- G1 scans 41–50 — **PASS / 1 correction**
+- G2 scans 51–60 — **PASS / 2 corrections**
+- G3 / FINAL scans 61–62 — **PASS / 0 corrections**
+- cumulative Gate-G coverage — **22/22**
+- cumulative Gate-G corrections — **3**
+- unresolved English fidelity questions — **0**
+- source-printed English — **PASS / verbatim**
+- English `verified_against_tamil=true`
+
+Corrections:
+
+1. scans 45→46 — restored the Bangladesh-tax sentence to the correct physical source-page boundary;
+2. scan 51 — removed unsupported `merely` and preserved the source's own repeated proposition;
+3. scan 57 — removed unsupported `and urge it` after the source ellipsis.
+
+Gate G is **PASS / COMPLETE**. English is **VERIFIED**.
+
+Exact next activity: **Gate H — canonical merge, index and release for Unit 2**.
+

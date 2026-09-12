@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`f5565bac5a686b056840ef46e65fa0c66580cebb` — `Complete Unit 2 Gate F batch F2`
+`2f541d1c952464a57c2bae20714338d1a2933ddc` — `Complete Unit 2 Gate F translation`
 
 ## Active work
 
@@ -21,7 +21,7 @@ Checkpoint before this handover rewrite:
 - focused post-recovery Gate G — PASS;
 - Gate H canonical bilingual release revalidation — **PASS / REVALIDATED AFTER CROP RECOVERY**.
 
-**Current priority: Unit 2 / `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate G English fidelity and voice check G1, scans 41–50 / printed pp.40–49. Gate F is COMPLETE — 22/22; English is translated but not yet verified.**
+**Current priority: Unit 2 / `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate H canonical merge, index and release. Gate G is PASS / COMPLETE — 22/22; English is verified against the final Tamil.**
 
 Do not reopen Unit 1 unless genuinely new controlling-source evidence appears.
 
@@ -837,11 +837,11 @@ Next:
 - historical-glyph corrections — 2
 - unresolved glyph clusters — 0
 - Gate D — **PASS / COMPLETE — 22 of 22 / 2 cumulative corrections / 0 unresolved**
-- English — **TRANSLATED / NOT VERIFIED — Gate F COMPLETE, 22 of 22 pages, 0 unresolved translation questions**
+- English — **VERIFIED AGAINST FINAL TAMIL — Gate F + Gate G COMPLETE, 22 of 22 pages**
 - Gate E — **PASS / COMPLETE / REVALIDATED — 22 of 22 / 18 cumulative corrections / 0 unresolved**
 - Tamil `verified_against_scan` — **true**
 - Gate F — **COMPLETE — F1–F3 / 22 of 22**
-- exact next activity — **Gate G G1 scans 41–50 / printed pp.40–49**
+- exact next activity — **Gate H canonical merge, index and release for Unit 2**
 
 Unit 1 remains locked/released. Unit 2 Tamil is verified and revalidated; Gate F is complete. Continue only Unit-2 Gate-G G1 in the next iteration.
 
@@ -988,4 +988,40 @@ Review the Gate-F English against the final Gate-E-verified Tamil page by page. 
 - record each correction and any unresolved question in a new `translation-review.md`;
 - update metadata / README / verification log / handover / next prompt;
 - keep English `verified_against_tamil=false` until Gate G is complete for all 22 pages.
+
+## Unit 2 Gate G — PASS / COMPLETE
+
+At the user's direction, the full **22-page** English fidelity and voice review was completed in one iteration.
+
+Logical batch results:
+
+- G1 scans **41–50** — PASS / **1 correction**
+- G2 scans **51–60** — PASS / **2 corrections**
+- G3 / FINAL scans **61–62** — PASS / **0 corrections**
+- cumulative reviewed pages — **22 / 22**
+- cumulative Gate-G corrections — **3**
+- unresolved fidelity questions — **0**
+- English `verified_against_tamil=true`
+
+Definite corrections:
+
+1. scans 45→46 — restored the exact Bangladesh-tax physical page boundary;
+2. scan 51 — removed unsupported `merely` and preserved the source's own repeated proposition;
+3. scan 57 — removed unsupported `and urge it` after the source ellipsis.
+
+All source-printed English remains verbatim. Speaker/intervention placement, figures, dates, money, units, headings, illustration-context notes, page transitions, humour, irony, direct address and argumentative sequence pass.
+
+## Exact next activity — Unit 2 Gate H
+
+Perform the canonical merge, index and release:
+
+1. keep the verified Tamil **untouched** at the start of `transcript.md`;
+2. append/consolidate the complete Gate-G-verified English after it;
+3. verify Tamil source markers **41→62** exactly once and in order;
+4. verify English source-page sections **41→62** exactly once and in order;
+5. recheck the three Gate-G correction sites after merge;
+6. inspect merged boundaries for mechanical duplication/omission;
+7. update `metadata.json`, README, verification log, `translation-review.md`, `data/speeches.json`, root README/index and this handover;
+8. retire `translation.md` to a pointer only after canonical merge validation;
+9. mark Unit 2 RELEASED only after every Gate-H integrity check passes.
 

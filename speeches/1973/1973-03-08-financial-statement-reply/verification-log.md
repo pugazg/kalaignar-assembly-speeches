@@ -548,3 +548,38 @@ Status: **COMPLETE / GATE F COMPLETE**
 - Gate G is **UNBLOCKED / NEXT** and has **not** started in this iteration.
 
 Exact continuation: **Gate G English fidelity and voice check — G1 scans 41–50 / printed pp.40–49**, against the final Gate-E-verified Tamil.
+
+## Gate G — full English fidelity and voice check
+
+At the user's direction, all **22 Unit-2 pages** were reviewed in one iteration, while preserving the logical G1 / G2 / G3 boundaries.
+
+Status: **PASS / COMPLETE**
+
+- reviewed scans: **41–62 / 22 pages**
+- reviewed printed pages: **40–61**
+- logical G1 scans 41–50 — **PASS / 1 correction**
+- logical G2 scans 51–60 — **PASS / 2 corrections**
+- logical G3 / FINAL scans 61–62 — **PASS / 0 corrections**
+- cumulative Gate-G corrections: **3**
+- unresolved English fidelity questions: **0**
+- source-printed English: **PASS / verbatim**
+- source-page sequence: **41→62 exactly once and in order**
+- speaker/intervention placement: **PASS**
+- figures / dates / money / units / legal references: **PASS**
+- headings / illustration-context notes: **PASS**
+- page-boundary integrity: **PASS after one 45→46 correction**
+- Kalaignar's argumentative sequence, repetitions, humour, irony, direct address and parliamentary voice: **PASS**
+- English `verified_against_tamil=true`
+- English status: **VERIFIED**
+- Gate G: **PASSED**
+- Gate H: **UNBLOCKED / NEXT**
+
+Definite corrections:
+
+1. **scans 45→46** — restored the exact source-page boundary for the Bangladesh-tax sentence; page 45 now ends at `a time like this might arise—`, and page 46 begins `—we imposed this tax generally for defence and development works.`
+2. **scan 51** — removed unsupported `merely` and preserved the verified Tamil's own repeated/awkward proposition about why the Bill was said to be unwanted.
+3. **scan 57** — removed unsupported `and urge it` after the source ellipsis; now `I wish to point this out here...`.
+
+The complete correction rationale and per-batch reconfirmations are recorded in `translation-review.md`.
+
+Exact continuation: **Gate H — canonical merge, index and release for Unit 2**. Do not alter the verified Tamil while merging the verified English.

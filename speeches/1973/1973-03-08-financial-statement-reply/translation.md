@@ -1,6 +1,6 @@
 # English translation — 8-3-1973 Legislative Council reply
 
-> **Gate F working note:** This faithful reading translation was made only from the final Gate-E-verified Tamil in [`transcript.md`](./transcript.md). Gate F now covers the complete locked Unit-2 range, **scan pp.41–62 / printed pp.40–61**. Source-page alignment, parliamentary speaker changes, figures, argument order, headings, illustration-context notes and source terminology are preserved; source-printed English is carried through verbatim. Gate F is **COMPLETE**, but this English is **not yet Gate-G verified**.
+> **Gate G verification note:** This faithful reading translation was made only from the final Gate-E-verified Tamil in [`transcript.md`](./transcript.md). Gate F covers the complete locked Unit-2 range, **scan pp.41–62 / printed pp.40–61**. Gate G then re-read all **22/22** pages against that verified Tamil, applied **3** definite English-fidelity corrections, resolved **0** outstanding questions, and verified the English. Source-page alignment, parliamentary speaker changes, figures, argument order, headings, illustration-context notes and source terminology are preserved; all source-printed English remains verbatim. Gate H canonical merge/index/release has **not** started.
 
 ---
 
@@ -54,11 +54,13 @@ When our friend Sainathan spoke on this Financial Statement, he said that one co
 
 He gave a calculation. Per capita income is Rs. 397. Earlier it was Rs. 370. At that time, the tax per head was Rs. 39. Now, he said, it has become Rs. 70 or 75. This is only a multiplication-and-division calculation. When per capita income is said to be Rs. 397, we cannot take it to mean that every one of the four crore people in Tamil Nadu earns Rs. 397. Take me, Thiru Swaminathan, and another ordinary person. If my income is Rs. 20, Swaminathan's income is Rs. 10, and the other person's income is Rs. 3, then 20 + 10 + 3 = 33 and the figure for the three of us is Rs. 11. That figure may be Rs. 9 lower in my case and Rs. 1 lower in Swaminathan's; but it does not mean that the person earning Rs. 3 has become Rs. 8 richer. In the same way, even if it is said that the tax per head has now risen to Rs. 75, just as the figure of Rs. 397 in per capita income does not belong to each one of the four crore people, we must understand that this tax too does not fall on each one of the four crore people. I wish to point that out at this time.
 
-Our friend Damodaran, the elder Krishnaswami Naidu, and our Leader of the Opposition asked: if you have prepared a tax-free Budget, why could you not have removed the Bangladesh tax? Even when we imposed the Bangladesh tax, we did not specifically describe it as a Bangladesh tax. Anticipating beforehand that a time like this might arise, we imposed it generally for defence and development works—
+Our friend Damodaran, the elder Krishnaswami Naidu, and our Leader of the Opposition asked: if you have prepared a tax-free Budget, why could you not have removed the Bangladesh tax? Even when we imposed the Bangladesh tax, we did not specifically describe it as a Bangladesh tax. Anticipating beforehand that a time like this might arise—
 
 ### Source page 46
 
-—so defence is still needed now, and development works are still needed. In this State, in Mysore State and in Punjab State, this tax continues. In Punjab they have altered it into an Educational Cess, an education cess. In Rajasthan they have altered it into a drought tax. Some people asked: the Central Government has removed the Bangladesh tax; why has it not been removed here? If it is to be removed in the same manner in which the Central Government removed it, I am prepared to remove it here too. There they imposed more than Rs. 290 crore in taxes and then removed the Bangladesh tax. If this House permits it here too, we can introduce another tax of that kind and then remove the Bangladesh tax.
+—we imposed this tax generally for defence and development works.
+
+Therefore, defence is still needed now, and development works are still needed. In this State, in Mysore State and in Punjab State, this tax continues. In Punjab they have altered it into an Educational Cess, an education cess. In Rajasthan they have altered it into a drought tax. Some people asked: the Central Government has removed the Bangladesh tax; why has it not been removed here? If it is to be removed in the same manner in which the Central Government removed it, I am prepared to remove it here too. There they imposed more than Rs. 290 crore in taxes and then removed the Bangladesh tax. If this House permits it here too, we can introduce another tax of that kind and then remove the Bangladesh tax.
 
 For the present, the Honourable Leader of the Opposition said that a share of it has to be given to the Central Government, and asked why it should not therefore be removed. In response to their request, this Government has decided that, instead of giving that share to the Central Government, we ourselves will add that amount and remove it from next year. That alone I am obliged to state.
 
@@ -126,7 +128,7 @@ now I say that such things deserve strong condemnation.
 
 Our Leader of the Opposition, who spoke last in this House, and some of the honourable members who spoke yesterday—the leader of the Tamil Arasu Kazhagam and Deputy Chairman of this Council, Thiru M. P. Sivagnanam, our friend Thiru Eeswaramoorthy, and Thiru Swaminathan—spoke here about the Commission of Inquiry. The Leader of the Opposition expressed many views about it; Thiru Swaminathan did so too. The first thing I wish to ask them is this: should not all these views be taken and stated in that committee constituted under the chairmanship of Thiru Madhavan? That is my first question. Do not answer now. I say it only so that you may think about it yourselves.
 
-They say they did not merely say that the Bill was unwanted; they say they opposed it because, if a charge is not proved, there is a provision for three years' punishment. Sitting in the Select Committee, everyone has the right to say what should be retained and what—
+They say they did not say that the Bill was unwanted. They say that it was because there is a provision for three years' punishment if a charge is not proved that they said the Bill was unwanted. Sitting in the Select Committee, everyone has the right to say what should be retained and what—
 
 ### Source page 52
 
@@ -192,7 +194,7 @@ Our honourable member M. P. Sivagnanam once pointed this out while speaking here
 
 —with honesty and composure, to establish such a Commission of Inquiry.
 
-It is in this manner that today we have brought this draft law for establishing that Commission of Inquiry. I would say still further: as the Leader of the Opposition said, the amendments that are needed should be pointed out, and a good opportunity should be given to discuss them together. Helping the proper shaping of the law is the responsibility of the Organisation Congress here, the Swatantra Party, our ruling Congress, the Communist Party, and the other parties as well; I wish to point this out... and urge it.
+It is in this manner that today we have brought this draft law for establishing that Commission of Inquiry. I would say still further: as the Leader of the Opposition said, the amendments that are needed should be pointed out, and a good opportunity should be given to discuss them together. Helping the proper shaping of the law is the responsibility of the Organisation Congress here, the Swatantra Party, our ruling Congress, the Communist Party, and the other parties as well; I wish to point this out here...
 
 ### Our opposition
 

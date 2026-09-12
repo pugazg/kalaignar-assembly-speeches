@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate G G1
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate H
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,7 +8,7 @@ Fetch live `main` first and preserve newer durable work.
 
 Live checkpoint immediately before this prompt refresh:
 
-`f5565bac5a686b056840ef46e65fa0c66580cebb` — `Complete Unit 2 Gate F batch F2`
+`2f541d1c952464a57c2bae20714338d1a2933ddc` — `Complete Unit 2 Gate F translation`
 
 If live `main` is newer, preserve the newer state.
 
@@ -18,7 +18,7 @@ Unit 1 / 7-3-1973 / `சட்டப் பேரவையில்` is **RELEAS
 
 Do not reopen Unit 1 unless genuinely new controlling-source evidence appears.
 
-## Unit 2 durable Tamil state
+## Unit 2 durable state
 
 Folder:
 
@@ -28,58 +28,59 @@ Speech: `சட்டமன்ற மேலவையில்` / **8-3-1973**
 
 Controlling source: `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`
 
-- Unit 2 scans — **41–62**
+Source range:
+
+- scans — **41–62**
 - printed pages — **40–61**
-- Gate A — **PASS**
-- Gate B — **PASS / LOCKED**
-- Gate C — **COMPLETE — 22/22**
-- Gate C.5 — **PASS / COMPLETE — 22/22**
-- Gate D — **PASS / COMPLETE — 22/22**
-- Gate E — **PASS / COMPLETE / REVALIDATED — 22/22**
+- scan 63 — printer/imprint matter
+- scan 64 — back cover
+- no third speech follows.
+
+### Tamil
+
+- Gate A — PASS
+- Gate B — PASS / LOCKED
+- Gate C — COMPLETE
+- Gate C.5 — PASS / COMPLETE
+- Gate D — PASS / COMPLETE
+- Gate E — PASS / COMPLETE / REVALIDATED
 - cumulative Gate-E corrections — **18**
 - unresolved Gate-E questions — **0**
 - Tamil `verified_against_scan=true`
 
-## Durable Gate-F state
+### English
 
-- English working file — `translation.md`
-- F1 scans **41–50** — COMPLETE
-- F2 scans **51–60** — COMPLETE
-- F3 scans **61–62** — COMPLETE
 - Gate F — **COMPLETE — 22/22**
-- English source-page sequence — **41→62 exactly once and in order**
-- unresolved translation questions — **0**
+- Gate G — **PASS / COMPLETE — 22/22**
+- Gate-G corrections — **3**
+- unresolved English fidelity questions — **0**
+- English `verified_against_tamil=true`
+- review file — `translation-review.md`
 - source-printed English — preserved verbatim
-- English `verified_against_tamil=false`
-- Gate G — **UNBLOCKED / NEXT**
 
-F3 preserved the scan-60 terminal `30` continuation, both speaker labels, `மாற்றம்!`, the final State-autonomy argument, acknowledgements, `வணக்கம்` and closing ornament. Scan 63 is printer/imprint matter; scan 64 is back cover; no third speech follows.
+Gate-G corrections to recheck after canonical merge:
 
-## Exact next activity
+1. scans **45→46** — Bangladesh-tax sentence physical page boundary restored;
+2. scan **51** — unsupported `merely` removed from the Bill argument;
+3. scan **57** — unsupported `and urge it` removed after the source ellipsis.
 
-Perform **Gate G English fidelity and voice check — G1 scans 41–50 / printed pp.40–49**.
+## Exact next activity — Gate H
 
-Review the Gate-F English against the final Gate-E-verified Tamil, page by page.
+Perform **Gate H canonical merge, index and release for Unit 2**.
 
-For G1:
+Required sequence:
 
-1. review every translated proposition against Tamil scans 41–50;
-2. check omissions, additions, reversed meaning and weakened/strengthened claims;
-3. preserve repetitions, humour, irony, direct address and rhetorical rhythm;
-4. verify speaker/intervention placement and headings;
-5. verify all figures, dates, money, units and technical terms;
-6. verify scan 43 / 44 illustration-context notes;
-7. ensure both source-printed Punjab Electricity Board English quotations on scan 50 remain verbatim;
-8. apply every definite English correction directly to `translation.md`;
-9. create/update `translation-review.md` with correction provenance and unresolved questions;
-10. update metadata / README / verification log / handover / next prompt.
+1. keep the final verified Tamil **untouched** at the start of canonical `transcript.md`;
+2. consolidate the complete Gate-G-verified English from `translation.md` after the Tamil;
+3. verify Tamil source-page markers **41→62** occur exactly once and strictly in order;
+4. verify English source-page sections **41→62** occur exactly once and strictly in order;
+5. explicitly recheck all three Gate-G correction sites in the merged canonical transcript;
+6. inspect every merged page transition for mechanical duplication or omission;
+7. confirm source-printed English remains verbatim;
+8. confirm scan 62 is the speech end, scan 63 is imprint matter, scan 64 is back cover, and no third speech follows;
+9. update `metadata.json`, Unit README, `verification-log.md`, `translation-review.md`, `data/speeches.json`, root README/index and handover;
+10. retire `translation.md` to a pointer only after the canonical bilingual merge has passed all checks;
+11. set release / Gate-H fields to PASS and mark Unit 2 **RELEASED** only after all integrity checks pass;
+12. refresh this next-chat prompt to the next repository activity after the entire `இருளும் ஒளியும்` source package closes.
 
-Expected G1 result:
-
-- scans reviewed — **41–50 / 10 pages**
-- Gate-G corrections — explicit count
-- unresolved English fidelity questions — explicit count
-- cumulative Gate-G coverage — **10/22**
-- next batch — **G2 scans 51–60 / printed pp.50–59**
-
-Do not mark English verified until Gate G completes **22/22**.
+Do not alter the verified Tamil wording during Gate H.
