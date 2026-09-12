@@ -20,10 +20,11 @@ This entry preserves the Legislative Council reply dated `8-3-1973` in the sourc
 - Gate C: **COMPLETE — C1–C3 scans 41–62 / printed pp.40–61; 22/22 pages**
 - Gate C.5 historical Tamil glyph audit: **PASS / COMPLETE — HG1–HG3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative corrections; 0 unresolved**
 - Gate D: **PASS / COMPLETE — D1–D3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative completeness corrections; 0 unresolved**
-- Gate E: **IN PROGRESS — E1 + E2 scans 41–60 / printed pp.40–59 PASS; 20/22 pages; 12 cumulative corrections; 0 unresolved**
-- Gates F–H: **NOT STARTED / downstream**
-- Tamil status: **Gate C + C.5 + D complete; Gate E in progress / not verified**
-- English: **blocked until Tamil verification**
+- Gate E: **PASS / COMPLETE — E1–E3 scans 41–62 / printed pp.40–61; 22/22 pages; 15 cumulative corrections; 0 unresolved**
+- Gate F: **UNBLOCKED / NEXT — F1 scans 41–50 / printed pp.40–49**
+- Gates G–H: **NOT STARTED / downstream**
+- Tamil status: **VERIFIED AGAINST SCAN — Gate C + C.5 + D + E complete**
+- English: **UNBLOCKED / NOT STARTED — Gate F F1 next**
 
 ## Gate C result
 
@@ -122,4 +123,26 @@ Gate-E cumulative coverage: **20/22 pages**.
 Cumulative Gate-E corrections: **12**.  
 Unresolved Gate-E questions: **0**.
 
-Exact next activity: **Gate E E3 / FINAL — scans 61–62 / printed pp.60–61**. English remains blocked until Gate E is complete.
+Gate E E3 / FINAL is now **PASS** for scans **61–62 / printed pp.60–61**.
+
+- scans reviewed — **2/2**
+- E3 source-fidelity corrections — **3**
+- cumulative Gate-E corrections — **15**
+- unresolved source-fidelity questions — **0**
+- incoming scan 60→61 continuation — **PASS**
+- scan 61→62 continuity — **PASS**
+- heading `மாற்றம்!` — **PASS**
+- final State-autonomy argument, acknowledgements, `வணக்கம்` and closing ornament — **PASS**
+
+E3 corrections:
+
+- scan 61 / printed p.60: `தேதியே வைக்கவில்லை.` → `தேதியே வைக்க வில்லை.`
+- scan 62 / printed p.61: `பொறுப்புகளை` → `பொறுப்புக்களை`
+- scan 62 / printed p.61: `பொறுப்புகள்` → `பொறுப்புக்கள்` in the `ஊறுதேடாத வகையில்...` passage.
+
+Gate-E cumulative coverage: **22/22 pages**.  
+Cumulative Gate-E corrections: **15**.  
+Unresolved Gate-E questions: **0**.  
+Tamil `verified_against_scan=true`.
+
+Exact next activity: **Gate F English translation — F1 scans 41–50 / printed pp.40–49**, using only the final Gate-E-verified Tamil.

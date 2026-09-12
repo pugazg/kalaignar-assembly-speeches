@@ -407,3 +407,58 @@ Unresolved Gate-E questions: **0**.
 
 Exact continuation: **Gate E E3 / FINAL — scans 61–62 / printed pp.60–61**. English remains blocked until Gate E is complete.
 
+### E3 / FINAL — scans 61–62 / printed pp.60–61
+
+Status: **PASS / Gate E COMPLETE**
+
+Review method:
+
+- both final source scans were re-read visually against the canonical Tamil at enlarged source resolution;
+- source pixels controlled every fidelity decision;
+- incoming continuity from scan 60 terminal `30` into scan 61 was checked;
+- scan 61→62 continuity was checked;
+- names / initials / speaker labels, numerals, headings, compounds, punctuation and final speech closure were checked;
+- source spelling and historical forms were preserved; no modernization was performed.
+
+Results:
+
+- scans reviewed: **61–62 / 2 pages**;
+- Gate-E corrections in E3: **3**;
+- cumulative Gate-E corrections: **15**;
+- unresolved source-fidelity questions: **0**;
+- incoming scan 60→61 continuation: **PASS**;
+- scan 61→62 continuation: **PASS**;
+- heading `மாற்றம்!`: **PASS**;
+- names / initials / speaker labels: **PASS**;
+- figures / numerals: **PASS**;
+- final State-autonomy argument: **PASS**;
+- final acknowledgements, `வணக்கம்` and closing ornament: **PASS**.
+
+Definite corrections:
+
+1. **scan 61 / printed p.60**
+   - before: `தேதியே வைக்கவில்லை.`
+   - source / after: `தேதியே வைக்க வில்லை.`
+   - type: source compound/spacing fidelity.
+
+2. **scan 62 / printed p.61**
+   - before: `சில பொறுப்புகளை நாம் ஏற்றுக் கொண்டிருக்கிறோம்.`
+   - source / after: `சில பொறுப்புக்களை நாம் ஏற்றுக் கொண்டிருக்கிறோம்.`
+   - type: word-form source fidelity.
+
+3. **scan 62 / printed p.61**
+   - before: `ஊறுதேடாத வகையில் பொறுப்புகள், அதிகாரங்கள்,`
+   - source / after: `ஊறுதேடாத வகையில் பொறுப்புக்கள், அதிகாரங்கள்,`
+   - type: word-form source fidelity.
+
+Gate E final result:
+
+- coverage: **22 / 22 pages**;
+- cumulative Gate-E corrections: **15**;
+- unresolved Gate-E questions: **0**;
+- source-page sequence and page transitions: **PASS**;
+- Tamil `verified_against_scan=true`;
+- Gate E: **PASS / COMPLETE**;
+- English: **UNBLOCKED / NEXT**.
+
+Exact continuation: **Gate F English translation — F1 scans 41–50 / printed pp.40–49**, using only the final Gate-E-verified Tamil. Do not translate from OCR or an earlier draft.

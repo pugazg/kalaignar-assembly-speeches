@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`ef75274d807bad28e2e3957c0a3cee6a4627a615` — `Advance Unit 2 README to Gate E E3`
+`33f90a04aec35334b938205f92b1f3fbd5db84a5` — `Advance root status to Unit 2 Gate E E3`
 
 ## Active work
 
@@ -21,7 +21,7 @@ Checkpoint before this handover rewrite:
 - focused post-recovery Gate G — PASS;
 - Gate H canonical bilingual release revalidation — **PASS / REVALIDATED AFTER CROP RECOVERY**.
 
-**Current priority: Unit 2 / `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate E Tamil source-fidelity verification E3 / FINAL, scans 61–62 / printed pp.60–61.**
+**Current priority: Unit 2 / `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate F English translation F1, scans 41–50 / printed pp.40–49. Tamil Gate E is PASS / COMPLETE and verified against scan.**
 
 Do not reopen Unit 1 unless genuinely new controlling-source evidence appears.
 
@@ -808,7 +808,7 @@ All affected pages are individually revalidated. Page-level crop recovery is **C
 
 Next:
 
-1. **Unit 2 Gate E Tamil source-fidelity verification E3 / FINAL — scans 61–62 / printed pp.60–61**.
+1. **Unit 2 Gate F English translation F1 — scans 41–50 / printed pp.40–49**, using only the final Gate-E-verified Tamil.
 
 ## Current Unit 1 release state
 
@@ -824,7 +824,7 @@ Next:
 - Gate G — **PASS / REVALIDATED AFTER CROP RECOVERY**
 - Gate H — **PASS / REVALIDATED AFTER CROP RECOVERY**
 - release — **RELEASED**
-- next activity — **Unit 2 Gate E E3 / FINAL — scans 61–62 / printed pp.60–61**
+- next activity — **Unit 2 Gate F F1 — scans 41–50 / printed pp.40–49**
 
 ## Unit 2 active-next state
 
@@ -837,8 +837,47 @@ Next:
 - historical-glyph corrections — 2
 - unresolved glyph clusters — 0
 - Gate D — **PASS / COMPLETE — 22 of 22 / 2 cumulative corrections / 0 unresolved**
-- English — BLOCKED
-- Gate E — **IN PROGRESS — E1 + E2 PASS / 20 of 22 / 12 cumulative corrections / 0 unresolved**
-- exact next activity — **Gate E E3 / FINAL scans 61–62 / printed pp.60–61**
+- English — **UNBLOCKED / NOT STARTED**
+- Gate E — **PASS / COMPLETE — 22 of 22 / 15 cumulative corrections / 0 unresolved**
+- Tamil `verified_against_scan` — **true**
+- exact next activity — **Gate F F1 scans 41–50 / printed pp.40–49**
 
-Unit 1 remains locked/released. Continue only Unit-2 Gate-E E3 / FINAL in the next iteration.
+Unit 1 remains locked/released. Unit 2 Tamil is verified. Continue only Unit-2 Gate-F F1 in the next iteration; do not begin Gate G.
+
+## Unit 2 Gate E E3 / FINAL — PASS / COMPLETE
+
+Scans **61–62 / printed pp.60–61** were re-read against the controlling booklet pixels.
+
+- E3 pages reviewed — **2 / 2**
+- E3 corrections — **3**
+- cumulative Gate-E corrections — **15**
+- unresolved source-fidelity questions — **0**
+- Gate-E cumulative coverage — **22 / 22**
+- incoming scan 60→61 continuation — **PASS**
+- scan 61→62 continuity — **PASS**
+- `மாற்றம்!` — **PASS**
+- final State-autonomy argument — **PASS**
+- final acknowledgements / `வணக்கம்` / closing ornament — **PASS**
+
+Corrections:
+
+1. scan **61** / printed p.**60** — `தேதியே வைக்கவில்லை.` → `தேதியே வைக்க வில்லை.`
+2. scan **62** / printed p.**61** — `பொறுப்புகளை` → `பொறுப்புக்களை` in `சில பொறுப்புக்களை நாம் ஏற்றுக் கொண்டிருக்கிறோம்.`
+3. scan **62** / printed p.**61** — `பொறுப்புகள்` → `பொறுப்புக்கள்` in the `ஊறுதேடாத வகையில்...` passage.
+
+Gate E is now **PASS / COMPLETE** and Unit-2 Tamil is **VERIFIED AGAINST SCAN**.
+
+English is now **UNBLOCKED**, but was not started in this iteration.
+
+## Exact next activity — Unit 2 Gate F F1
+
+Translate **scans 41–50 / printed pp.40–49** from the **final Gate-E-verified Tamil**.
+
+- preserve argument order, repetitions, direct address, humour, irony and parliamentary interventions;
+- preserve names, figures, technical terms and source-printed English;
+- do not correct historical claims or polish Kalaignar's voice into generic English;
+- preserve source-page correspondence;
+- process the 10-scan-page F1 batch only;
+- update metadata / README / verification log / handover / next prompt;
+- do **not** begin Gate G in the same iteration.
+

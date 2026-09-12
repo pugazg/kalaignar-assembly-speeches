@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate E E3 / FINAL
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate F F1
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,7 +8,7 @@ Fetch live `main` first and preserve newer durable work.
 
 Live checkpoint immediately before this prompt refresh:
 
-`7d922609abd91bb082c82cfbfb274bdc4ddbb010` — `Refresh 1973 handover for Gate E E3`
+`33f90a04aec35334b938205f92b1f3fbd5db84a5` — `Advance root status to Unit 2 Gate E E3`
 
 If live `main` is newer, preserve the newer state.
 
@@ -44,7 +44,7 @@ Source identity:
 - scan 64 is back cover
 - no third speech follows.
 
-## Durable Unit-2 state
+## Durable Unit-2 Tamil state
 
 - Gate A — **PASS**
 - Gate B — **PASS / LOCKED**
@@ -54,75 +54,48 @@ Source identity:
 - Gate D — **PASS / COMPLETE — 22/22**
 - Gate-D completeness corrections — **2**
 - Gate-D unresolved completeness questions — **0**
-- physical crop holds — **0**
-- Gate E — **IN PROGRESS**
-- E1 scans **41–50 / printed pp.40–49** — **PASS**
+- Gate E — **PASS / COMPLETE — 22/22**
 - E1 corrections — **1**
-- E2 scans **51–60 / printed pp.50–59** — **PASS**
 - E2 corrections — **11**
-- cumulative Gate-E corrections — **12**
-- unresolved source-fidelity questions — **0**
-- cumulative Gate-E coverage — **20/22**
-- English — **BLOCKED**
+- E3 corrections — **3**
+- cumulative Gate-E corrections — **15**
+- unresolved Gate-E questions — **0**
+- Tamil `verified_against_scan=true`
+- English — **UNBLOCKED / NOT STARTED**
 
-### E1 correction
+### E3 / FINAL corrections
 
-Scan **44** / printed p.**43**:
+1. scan **61** / printed p.**60** — `தேதியே வைக்கவில்லை.` → `தேதியே வைக்க வில்லை.`
+2. scan **62** / printed p.**61** — `சில பொறுப்புகளை நாம் ஏற்றுக் கொண்டிருக்கிறோம்.` → `சில பொறுப்புக்களை நாம் ஏற்றுக் கொண்டிருக்கிறோம்.`
+3. scan **62** / printed p.**61** — `ஊறுதேடாத வகையில் பொறுப்புகள், அதிகாரங்கள்,` → `ஊறுதேடாத வகையில் பொறுப்புக்கள், அதிகாரங்கள்,`
 
-`சில பேர் ரசிப்பார்கள் என்ற நிலைமை எண்ணி,`
-
-→ source-faithful:
-
-`சில பேர் ரசிப்பார்கள் என்று நிலைமையை எண்ணி,`
-
-Gate-C.5 `மாறாக` remains source-supported.
-
-### E2 corrections
-
-1. scan **51** / printed p.**50** — `வருந்தத்தக்கதென்று` → `வருந்தத் தக்கதென்று`
-2. scan **52** / printed p.**51** — `சொல்லப்படுகிறது—எக்ஸ்ட்ரா` → `சொல்லப் படுகிறது—எக்ஸ்ட்ரா`
-3. scan **54** / printed p.**53** — `எழுதியிருக்கிறார்` → `எழுதியார்கள்`
-4. scan **54** / printed p.**53** — `அது மாத்திரமுமல்லது` → `அது மாத்திரமும் அல்லது`
-5. scan **56** / printed p.**55** — `எடுத்துக் காட்டினர்` → `எடுத்துக் காட்டினார்கள்`
-6. scan **57** / printed p.**56** — restored printed ellipsis: `இங்கே எடுத்துக் காட்டி... விரும்புகிறேன்.`
-7. scan **59** / printed p.**58** — `அதை விட்டு விட்டு கையகப்படுத்திக் கொள்ளுங்கள்` → `அதை விட்டு விட்டுக் கையகப்படுத்திக் கொள்ளுங்கள்`
-8. scan **59** / printed p.**58** — restored `:—` in the `திரு கே. ராஜாராம்` speaker label
-9. scan **59** / printed p.**58** — restored `:—` in the `மாண்புமிகு டாக்டர் மு. கருணாநிதி` speaker label
-10. scan **60** / printed p.**59** — `பரிசீலிக்கப்பட்டிருக்கின்றன` → `பரிசீலிக்கப்படுகின்றன`
-11. scan **60** / printed p.**59** — `நீட்டிக்கப்பட்ட பட்டு` → `நீட்டிக்கப் பட்டு`
-
-Source-printed English on scans **52–55** is **PASS / verbatim**.  
-Gate-C.5 scan-58 `வேலைதான்` was revalidated and remains source-supported.
+Scan 60→61 and 61→62 continuity, `மாற்றம்!`, final State-autonomy argument, acknowledgements, `வணக்கம்` and closing ornament all **PASS**.
 
 ## Exact next activity
 
-Perform **Gate E Tamil source-fidelity verification — E3 / FINAL scans 61–62 / printed pp.60–61**.
+Perform **Gate F English translation — F1 scans 41–50 / printed pp.40–49**.
 
-This is the final strict visual fidelity batch.
+Translation authority is the **final Gate-E-verified Tamil in canonical `transcript.md`**. Do not translate from OCR, from the PDF directly, or from an earlier Tamil draft.
 
-For scans 61–62:
+For F1:
 
-1. compare every Tamil word / character to the controlling booklet pixels;
-2. verify names, initials and speaker labels;
-3. verify dates, numerals, money, units and any figures;
-4. verify headings / subheadings, especially `மாற்றம்!`;
-5. verify punctuation where legible;
-6. verify incoming continuity from scan 60's terminal `30` into scan 61;
-7. verify scan 61→62 continuity;
-8. verify the final State-autonomy argument, acknowledgements, `வணக்கம்` and closing ornament;
-9. preserve source spelling, compounds and historical forms — do not modernize;
-10. record every definite Gate-E correction in canonical transcript and `verification-log.md` with scan / printed-page provenance;
-11. update metadata / README / handover / next prompt.
+1. translate all verified Tamil content mapped to scans 41–50 / printed pp.40–49;
+2. preserve source-page correspondence;
+3. preserve Kalaignar's argumentative sequence, repetitions, direct address, humour, irony, wordplay and rhetorical rhythm;
+4. preserve parliamentary speaker changes / interventions and printed illustration-context notes;
+5. preserve names, initials, dates, numerals, money, units and technical terms accurately;
+6. keep source-printed English verbatim rather than retranslate it;
+7. do not silently correct historical or factual claims;
+8. do not modernize or flatten source-specific phrasing into generic English;
+9. record batch status and any translation questions in the durable audit files;
+10. update metadata / README / verification log / handover / next prompt.
 
-Expected E3 result fields:
+Expected F1 result fields:
 
-- scans reviewed: **61–62 / 2 pages**
-- E3 Gate-E corrections: explicit count
-- cumulative Gate-E corrections: explicit count
-- unresolved source-fidelity questions: explicit count
-- cumulative Gate-E coverage: **22/22**
-- Gate E: **PASS / COMPLETE** if E3 passes
-- Tamil `verified_against_scan=true` only after E3 passes
-- English: **UNBLOCKED / NEXT**, but do **not** begin English translation in the same iteration.
+- source scans translated: **41–50 / 10 pages**
+- printed pages: **40–49**
+- Gate F status: **IN PROGRESS**
+- translation questions: explicit count
+- next batch: **F2 scans 51–60 / printed pp.50–59**
 
-Do **not** begin English translation in the same iteration.
+Do **not** begin Gate G in the same iteration.
