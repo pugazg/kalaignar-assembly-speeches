@@ -816,3 +816,55 @@ Post-recovery Gate-E result:
 
 Exact continuation: **English repair / retranslation for recovered spans on scans 4–5, 10–11, 20–21, 25–27, 34–35**. Do not run Gate G or Gate H in the same iteration.
 
+## Post-recovery English repair — recovered spans
+
+Status: **COMPLETE / AWAITING FOCUSED GATE-G RECHECK**
+
+Scope:
+
+- repaired English source pages: **4–5, 10–11, 20–21, 25–27, 34–35**;
+- repaired page count: **11**;
+- translation source: final post-recovery **Gate-E-verified Tamil** in canonical `transcript.md`;
+- TNLA was **not** translated independently; it remained recovery provenance for the Tamil only;
+- source-printed English was preserved verbatim.
+
+Legacy English crop-marker inventory before repair:
+
+- p4 — **24**
+- p5 — **12**
+- p10 — **21**
+- p11 — **11**
+- p20 — **32**
+- p21 — **20**
+- p25 — **30**
+- p26 — **28**
+- p27 — **33**
+- p34 — **6**
+- p35 — **32**
+- total — **249**
+
+Repair result:
+
+- legacy English `⟦scan-crop⟧` markers remaining on repaired pages: **0**;
+- legacy English `⟦scan-crop⟧` markers remaining anywhere in the canonical English layer: **0**;
+- English source-page sections **4–40** remain exactly once and strictly monotonic;
+- source-page boundaries were preserved, including the recovery-touched transitions;
+- unaffected previously Gate-G-verified English was not deliberately rewritten.
+
+Notable recovered-span repairs include:
+
+1. scan 4 — restored the inclusive count: **81 members, including Congress Party leader Ponnappa Nadar**;
+2. scan 4→5 — restored the Swatantra Party continuation across the source-page boundary;
+3. scan 10 — restored the complete tax-head list: **land revenue, irrigation tax, cess tax and agricultural income tax**;
+4. scan 11 — restored **Kambam**, leading **1** in **1973-74**, leading **1** in **1965-66**, and **four demands**;
+5. scan 20 — corrected the recovered Tamil `வரியையெல்லாம்` to **“reduce all taxes”**, replacing the stale pre-recovery **“reduce poverty”**;
+6. scan 21 — retained the booklet double-quotation force around **“unaccounted money”**;
+7. scan 25 — restored list parentheses **(1)** and **(3)** and the missing `h` in the source-printed English **have been sent**; the printed English intervention remains verbatim;
+8. scan 27 — restored the recovered `கடற்கரையில்` as **“at the seashore”** while preserving embedded **Ratification**;
+9. scan 34→35 — repaired the generator/licence exchange and preserved its cross-page sentence continuation;
+10. scan 35 — restored **1,41,000** and the concluding discourse marker **Thus** corresponding to recovered `ஆக,`.
+
+The canonical English status notes were refreshed to remove stale statements that crop markers remain unresolved. The prior Gate-G PASS remains historical only because the Tamil changed after that review.
+
+Exact continuation: **focused post-recovery Gate-G English fidelity recheck for repaired source pages 4–5, 10–11, 20–21, 25–27, 34–35**. Do not re-close Gate H or resume Unit 2 in the same iteration.
+
