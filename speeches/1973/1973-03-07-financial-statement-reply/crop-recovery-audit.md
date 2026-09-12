@@ -56,7 +56,7 @@ Status: **PASS / COMPLETE**
 ## Remaining crop-recovery work
 
 - **CR2:** **COMPLETE** — scans 20–21 and 25–27 are page-level closed
-- **CR3:** scans **34–35**
+- **CR3:** scan **35** only (scan 34 is now page-level closed)
 - then: whole-Tamil recovery audit
 - then: English repair/retranslation for recovered spans
 - then: English fidelity recheck and Gate-H canonical revalidation/re-release.
@@ -605,4 +605,55 @@ Page-boundary evidence:
 - the cross-page word is therefore `தேர்ந்தெடுக்கப்படுகிற`, with no text moved across the booklet boundary.
 
 Exact next page-by-page activity: **booklet scan 34 / printed p.33**. Do not process scan 35 in the same iteration.
+
+### Booklet scan 34 / printed p.33
+
+Status: **PASS / PAGE-LEVEL RECOVERY VERIFIED**
+
+Evidence:
+
+- controlling booklet: `இருளும் ஒளியும்`, scan **34** / printed p. **33**;
+- independent official witness: *Tamil Nadu Legislative Assembly Debates*, **7 March 1973**, TNLA PDF p. **112** / proceedings p. **510**; p.113 / proceedings p.511 was also checked for continuation context;
+- the witness confirms the Ananthanayaki / Hande exchange and the cropped Karunanidhi response concerning generator/licence permission and already-erected sheds;
+- visible booklet wording remains controlling wherever legible.
+
+Marker accounting:
+
+- pre-recovery scan-34 block literal `⟦scan-crop⟧` occurrences: **6**;
+- actual line-level right-gutter source-loss positions: **5**;
+- explanatory-note literal-token occurrences: **1**;
+- page-level source-loss positions revalidated: **5 / 5**;
+- direct missing-fragment/punctuation recoveries from the official witness: **2**;
+- positions requiring no witness-supplied insertion: **3**;
+- source-loss markers remaining on scan 34: **0**;
+- booklet physical line breaks: **preserved**;
+- contextual/grammar-only guesses: **0**;
+- global replacements: **0**.
+
+Direct recoveries:
+
+1. `லைசென்ஸ் வழங்கப்படவில்லை` → `லைசென்ஸ் வழங்கப்படவில்லை.`, restoring the physically lost sentence-final period.
+2. `முதல் அமைச்ச` → `முதல் அமைச்சர்`, restoring the cropped final `ர்` before the next physical line begins `நீங்கள் இப்படி அறிவித்தீர்கள்...`.
+
+The other **3** marked line endings require no inserted text:
+
+- `அவர்களுக்கு` is complete and continues with booklet next-line `ஜெனரேட்டர்...`;
+- `அவர்கள் கொட்டகைகள் எல்லாம் போட்டுவிட்டு வந்து` is a complete booklet-visible line; the official witness differs in wording here, so no punctuation or wording was imported from it;
+- page-final `எப்படியாவது, நாங்கள்` continues directly into scan 35 `செலவு செய்துவிட்ட காரணத்தினாலே...`.
+
+Booklet-visible forms deliberately retained rather than normalized to the TNLA printing include:
+
+- booklet `லைசென்ஸ்` rather than TNLA `லைசென்சே`;
+- booklet-visible `வந்து` after `கொட்டகைகள் எல்லாம் போட்டுவிட்டு`;
+- the booklet's opening quotation before `நாங்கள் போட்டுவிட்டோம்`;
+- exact booklet physical lineation across `முதல் அமைச்சர் / நீங்கள்...`.
+
+Page-boundary evidence:
+
+- incoming page context: scan 33 closes the electricity-relief / private-generator-tax paragraph; scan 34 begins the street-light restriction paragraph;
+- scan 34 ends `நீங்கள் இப்படி அறிவித்தீர்கள். எப்படியாவது, நாங்கள்`;
+- scan 35 begins `செலவு செய்துவிட்ட காரணத்தினாலே கொடுக்க வேண்டும்’`;
+- the quotation and sentence therefore continue across the booklet page boundary without moving any scan-35 text backward into scan 34.
+
+Exact next page-by-page activity: **booklet scan 35 / printed p.34**. Do not begin the whole-Tamil crop-integrity audit in the same iteration.
 
