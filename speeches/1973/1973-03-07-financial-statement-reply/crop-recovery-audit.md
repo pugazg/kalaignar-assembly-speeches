@@ -365,3 +365,60 @@ Page-boundary evidence:
 
 Exact next page-by-page activity: **booklet scan 21 / printed p.20**. Do not process scan 25 in the same iteration.
 
+### Booklet scan 21 / printed p.20
+
+Status: **PASS / PAGE-LEVEL RECOVERY VERIFIED**
+
+Evidence:
+
+- controlling booklet: `இருளும் ஒளியும்`, scan **21** / printed p. **20**;
+- independent official witness: *Tamil Nadu Legislative Assembly Debates*, **7 March 1973**, TNLA PDF pp. **102–103** / proceedings pp. **500–501**;
+- the witness confirms the tax-evasion / black-money continuation, Ponnappa Nadar intervention, and rice / food-price-control response;
+- visible booklet wording remains controlling wherever legible.
+
+Marker accounting:
+
+- pre-recovery scan-21 block literal `⟦scan-crop⟧` occurrences: **29**;
+- actual line-level left-gutter source-loss positions: **28**;
+- explanatory-note literal-token occurrences: **1**;
+- page-level source-loss positions revalidated: **28 / 28**;
+- direct missing-fragment recoveries from the official witness: **1**;
+- positions requiring no witness-supplied insertion: **27**;
+- source-loss markers remaining on scan 21: **0**;
+- booklet physical line breaks: **preserved**;
+- contextual/grammar-only guesses: **0**;
+- global replacements: **0**.
+
+Direct missing-fragment recovery:
+
+1. previous line ends `இருக்`; cropped next line `ன்றன. ...` → `கின்றன. ...`, giving the cross-line booklet word `இருக்கின்றன`; TNLA p.500 independently confirms the same word.
+
+Two additional **booklet-visible fidelity corrections** were found while the cropped edge was re-read at high resolution:
+
+1. pre-recovery `டிப்பட்டு விடுகிற காரணத்தால்` → `அடிபட்டு விடுகிற காரணத்தால்`; the booklet itself visibly preserves `அடிபட்டு`, and TNLA p.500 independently agrees.
+2. pre-recovery single-quote rendering `‘அன் அக்கெளண்டட் மணி’` → booklet-visible double quotation `“அன் அக்கெளண்டட் மணி”`.
+
+All other **27** marked left-edge positions either begin with complete booklet-visible text or are explicit physical-line continuations already preserved in the adjacent line sequence, including `வைத்திருப்பவர் / களே`, `என் / னென்ன`, `முத / லமைச்சரவர்கள்`, `கட்டுப் / படுத்தக்கூடிய`, `படுத்து / கிறோம்`, and `முக் / கியமான`.
+
+Booklet-specific forms retained rather than normalized to the TNLA printing include:
+
+- `கட்டுப் படுத்து / கிறோம்`;
+- `கட்டுப் பாட்டிற்குள்`;
+- `மிக முக் / கியமான அரிசி விலையை`;
+- `பொருட்களுக்கெல்லாம்`;
+- `மாநிலங்களே நம்பியிருக்க`;
+- `பரவிக்கிடக்கின்ற`.
+
+Illustration text retained from the booklet:
+
+- `வரி ஏய்ப்பு`
+
+Page-boundary evidence:
+
+- incoming boundary: scan 20 ends `இங்கே சுட்டிக் காட்டினேன்.`; scan 21 begins `அது மாத்திரமல்ல, இன்னும் சில காரணங்கள் இருக்`;
+- scan 21 ends `காரணத்தால்—இப்பொருள்களின் விலையைக் கட்டுப்படுத்து`;
+- scan 22 begins `கின்ற சூழ்நிலை இல்லாத காரணத்தால்—தீர்க்க முடியாத சங்கடத்திற்கு நாம் ஆளாகி இருக்கிறோம்.`;
+- the cross-page word is therefore `கட்டுப்படுத்துகின்ற`, with no text moved across the booklet boundary.
+
+Exact next page-by-page activity: **booklet scan 25 / printed p.24**. Do not process scan 26 in the same iteration.
+

@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`86b416aad48e080df75f7d3e440f34a55f760d19` — `Revalidate Unit 1 crop recovery page 11`
+`6668c8383970f46d81ace73622e38bd3a368facd` — `Recover Unit 1 crop text page 20`
 
 ## Active work
 
@@ -213,30 +213,59 @@ Result:
 - global replacements: **0**
 - visible-booklet fidelity correction: `வறுமையெல்லாம்` → `வரியையெல்லாம்`, independently confirmed by TNLA.
 
-## Exact next activity — scan 21 only
+## Page 21 — PASS / CLOSED
 
-Process **booklet scan 21 / printed p.20** and stop.
+Booklet scan **21** / printed p.**20** is now individually recovered and revalidated.
 
-Current scan-21 state:
+Evidence:
+
+- TNLA witness: PDF pp. **102–103** / proceedings pp. **500–501**
+- tax-evasion / black-money continuation confirmed
+- Ponnappa Nadar intervention confirmed
+- rice / food-price-control response confirmed
+- `வரி ஏய்ப்பு` illustration label retained
+- incoming boundary: scan 20 ends `இங்கே சுட்டிக் காட்டினேன்.`; scan 21 begins `அது மாத்திரமல்ல, இன்னும் சில காரணங்கள் இருக்`
+- outgoing boundary: scan 21 `... விலையைக் கட்டுப்படுத்து` → scan 22 `கின்ற சூழ்நிலை...`, preserving cross-page `கட்டுப்படுத்துகின்ற`
+
+Result:
+
+- legacy literal crop-marker occurrences: **29**
+- actual line-level source-loss positions: **28**
+- direct official-witness missing-fragment recoveries: **1**
+- positions requiring no inserted fragment: **27**
+- source-loss markers remaining: **0**
+- booklet physical line breaks preserved
+- contextual guesses: **0**
+- global replacements: **0**
+- visible-booklet corrections:
+  - `டிப்பட்டு` → `அடிபட்டு`;
+  - `‘அன் அக்கெளண்டட் மணி’` → `“அன் அக்கெளண்டட் மணி”`.
+
+## Exact next activity — scan 25 only
+
+Process **booklet scan 25 / printed p.24** and stop.
+
+Current scan-25 state:
 
 - legacy crop markers remain in the canonical Tamil;
 - this page has **not** yet been recovered under the strict page-by-page protocol;
-- matching TNLA witness is mainly PDF pp. **102–103** / proceedings pp. **500–501**.
+- matching official witness is mainly TNLA PDF pp. **104–105** / proceedings pp. **502–503**.
 
 Verify:
 
-- every line-level crop position independently;
-- continuation of the price-rise argument through tax evasion / black money;
-- Ponnappa Nadar intervention and the rice / food-price-control response;
-- all booklet-visible spelling, punctuation, numerals and spacing;
+- every line-level left-gutter crop position independently;
+- Kerala / Mysore / Andhra / Tamil Nadu daily electricity-demand figures;
+- the hydroelectric-shortfall explanation;
+- the ten-project list and the Ananthanayaki English intervention;
+- all booklet-visible numerals, spelling, punctuation and spacing;
 - physical line breaks;
 - incoming and outgoing page boundaries.
 
-Do **not** process scan 25 in the same iteration.
+Do **not** process scan 26 in the same iteration.
 
 ## Required files
 
-Read before scan-20 work:
+Read before scan-25 work:
 
 1. this handover
 2. `docs/NEXT_CHAT_PROMPT_1973_IRULUM_OLIYUM.md`
@@ -253,7 +282,7 @@ If either PDF is missing in a new chat, retrieve it from conversation/Library be
 
 Continue exactly one page per iteration:
 
-**21 → 25 → 26 → 27 → 34 → 35**
+**25 → 26 → 27 → 34 → 35**
 
 After all affected pages are individually revalidated:
 
@@ -269,8 +298,8 @@ After all affected pages are individually revalidated:
 
 - `transcription.status = crop-recovery-in-progress`
 - `transcription.verified_against_scan = false`
-- page-by-page verified scans: **4–5, 10–11, 20**
-- next page: **21**
+- page-by-page verified scans: **4–5, 10–11, 20–21**
+- next page: **25**
 - Gate E — recheck required
 - English `verified_against_tamil = false`
 - Gate G — recheck required
