@@ -310,3 +310,100 @@ Unresolved Gate-E questions: **0**.
 
 Exact continuation: **Gate E E2 — scans 51–60 / printed pp.50–59**. English remains blocked until Gate E is complete.
 
+### E2 — scans 51–60 / printed pp.50–59
+
+Status: **PASS**
+
+Review method:
+
+- all ten source scans were re-read visually against the canonical Tamil at enlarged source resolution;
+- source pixels controlled every fidelity decision;
+- names / initials / speaker labels, dates, numerals, money, units, headings, punctuation and page transitions were checked;
+- source-printed English on scans **52–55** was checked directly against the booklet and retained verbatim, including source grammar / wording;
+- Gate-C.5 scan-58 correction `வேலதான்` → `வேலைதான்` was revalidated and preserved;
+- no silent modernization or contextual rewriting was performed.
+
+Results:
+
+- scans reviewed: **51–60 / 10 pages**;
+- Gate-E corrections in E2: **11**;
+- cumulative Gate-E corrections: **12**;
+- unresolved source-fidelity questions: **0**;
+- embedded source English scans 52–55: **PASS / verbatim**;
+- names / initials / speaker labels: **PASS after 2 punctuation repairs on scan 59**;
+- figures / dates / money / units: **PASS**;
+- headings / interventions: **PASS**;
+- page-boundary continuity 51→52 through 59→60: **9 / 9 PASS**.
+
+Definite corrections:
+
+1. **scan 51 / printed p.50**
+   - before: `வருந்தத்தக்கதென்று`
+   - source / after: `வருந்தத் தக்கதென்று`
+   - type: source compound/spacing fidelity.
+
+2. **scan 52 / printed p.51**
+   - before: `சொல்லப்படுகிறது—எக்ஸ்ட்ரா`
+   - source / after: `சொல்லப் படுகிறது—எக்ஸ்ட்ரா`
+   - type: source compound/spacing fidelity.
+
+3. **scan 54 / printed p.53**
+   - before: `அவர்கள் அண்ணா அவர்களுக்கு ஒரு கடிதம் எழுதியிருக்கிறார்.`
+   - source / after: `அவர்கள் அண்ணா அவர்களுக்கு ஒரு கடிதம் எழுதியார்கள்.`
+   - type: word-level source-fidelity correction.
+
+4. **scan 54 / printed p.53**
+   - before: `அது மாத்திரமுமல்லது`
+   - source / after: `அது மாத்திரமும் அல்லது`
+   - type: word/spacing source-fidelity correction.
+
+5. **scan 56 / printed p.55**
+   - before: `எடுத்துக் காட்டினர்.`
+   - source / after: `எடுத்துக் காட்டினார்கள்.`
+   - type: word-level source-fidelity correction.
+
+6. **scan 57 / printed p.56**
+   - before: `இங்கே எடுத்துக் காட்டி விரும்புகிறேன்.`
+   - source / after: `இங்கே எடுத்துக் காட்டி... விரும்புகிறேன்.`
+   - type: legible printed punctuation restored.
+
+7. **scan 59 / printed p.58**
+   - before: `அதை விட்டு விட்டு கையகப்படுத்திக் கொள்ளுங்கள்`
+   - source / after: `அதை விட்டு விட்டுக் கையகப்படுத்திக் கொள்ளுங்கள்`
+   - type: word-level source-fidelity correction.
+
+8. **scan 59 / printed p.58**
+   - before speaker label: `திரு கே. ராஜாராம் :`
+   - source / after: `திரு கே. ராஜாராம் :—`
+   - type: speaker-label punctuation fidelity.
+
+9. **scan 59 / printed p.58**
+   - before speaker label: `மாண்புமிகு டாக்டர் மு. கருணாநிதி :`
+   - source / after: `மாண்புமிகு டாக்டர் மு. கருணாநிதி :—`
+   - type: speaker-label punctuation fidelity.
+
+10. **scan 60 / printed p.59**
+    - before: `அந்த வாக்குகள் பரிசீலிக்கப்பட்டிருக்கின்றன.`
+    - source / after: `அந்த வாக்குகள் பரிசீலிக்கப்படுகின்றன.`
+    - type: word-level source-fidelity correction.
+
+11. **scan 60 / printed p.59**
+    - before: `நாங்களும் நீட்டிக்கப்பட்ட பட்டு அதுவும் அறிவிக்கப்பட்டது.`
+    - source / after: `நாங்களும் நீட்டிக்கப் பட்டு அதுவும் அறிவிக்கப்பட்டது.`
+    - type: word/spacing source-fidelity correction.
+
+E2 source-context checks:
+
+- scan 52 first embedded English passage beginning `notwithstanding anything contained in this Act...`: **PASS**;
+- scan 53 `Prosecution for false complaint` and `Minister means...` passages: **PASS**;
+- scan 54 both constitutional quotations: **PASS**;
+- scan 55 both Lok Pal / State-autonomy quotations: **PASS**;
+- scan 58 agricultural-income-tax figures and Theosophical Society figures: **PASS**;
+- scan 60 voter-list figures and visible terminal `30`: **PASS**.
+
+Cumulative Gate-E coverage: **20 / 22 pages**.  
+Cumulative Gate-E corrections: **12**.  
+Unresolved Gate-E questions: **0**.
+
+Exact continuation: **Gate E E3 / FINAL — scans 61–62 / printed pp.60–61**. English remains blocked until Gate E is complete.
+
