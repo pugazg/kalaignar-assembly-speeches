@@ -55,7 +55,7 @@ Status: **PASS / COMPLETE**
 
 ## Remaining crop-recovery work
 
-- **CR2:** scan **27** only (scans 20–21 and 25–26 are now page-level closed)
+- **CR2:** **COMPLETE** — scans 20–21 and 25–27 are page-level closed
 - **CR3:** scans **34–35**
 - then: whole-Tamil recovery audit
 - then: English repair/retranslation for recovered spans
@@ -542,4 +542,67 @@ Page-boundary evidence:
 - no text was moved across either booklet boundary.
 
 Exact next page-by-page activity: **booklet scan 27 / printed p.26**. Do not process scan 34 in the same iteration.
+
+### Booklet scan 27 / printed p.26
+
+Status: **PASS / PAGE-LEVEL RECOVERY VERIFIED**
+
+Evidence:
+
+- controlling booklet: `இருளும் ஒளியும்`, scan **27** / printed p. **26**;
+- independent official witness: *Tamil Nadu Legislative Assembly Debates*, **7 March 1973**, TNLA PDF pp. **106–107** / proceedings pp. **504–505**;
+- the witness confirms the technical-advisory / Planning Commission approval procedure, Nellikuthurai / Servalaru / Paraliyar examples, no-approval / machinery-import argument, corruption/inquiry passage, and the opening `மத்தியில் இருந்து.........` section;
+- visible booklet wording remains controlling wherever legible.
+
+Marker accounting:
+
+- pre-recovery scan-27 block literal `⟦scan-crop⟧` occurrences: **38**;
+- actual line-level left-gutter source-loss positions: **37**;
+- explanatory-note literal-token occurrences: **1**;
+- page-level source-loss positions revalidated: **37 / 37**;
+- direct missing-character recoveries from the official witness: **10**;
+- positions requiring no witness-supplied insertion: **27**;
+- source-loss markers remaining on scan 27: **0**;
+- booklet physical line breaks: **preserved**;
+- contextual/grammar-only guesses: **0**;
+- global replacements: **0**.
+
+Direct recoveries, in physical line order:
+
+1. `டியும்` → `படியும்`, completing cross-line `மறுபடியும்`.
+2. `றது` → `கிறது`, completing cross-line `அளிக்கிறது`.
+3. `ரு திட்டத்தை` → `ஒரு திட்டத்தை`.
+4. `ண்டுகள்` → `ஆண்டுகள்`.
+5. `சர்வலாறு` → `சேர்வலாறு`, restoring the cropped pre-base `ே` vowel sign; the official witness and the same booklet's earlier project list both confirm `சேர்வலாறு`.
+6. `னுப்பப்பட்டன` → `அனுப்பப்பட்டன`.
+7. `ரையில்` → `கரையில்`, following booklet-visible preceding-line `கடற்` to form `கடற்கரையில்`.
+8. `ப்படி` → `அப்படி`.
+9. `ட முற்பட்டால்` → `பட முற்பட்டால்`, preserving booklet wording `செயல் / பட முற்பட்டால்`.
+10. after booklet-visible preceding-line `நடந்தி`, `கிறது என்று` → `ருக்கிறது என்று`, forming cross-line `நடந்திருக்கிறது`.
+
+The remaining **27** marked positions were independently checked against the booklet and official witness and require **no inserted text**. They either begin with a complete booklet-visible word or preserve an intentional physical-line continuation, including `ஏற்படுத்த / க்கூடாது`, `முடியா / மல்`, `வேண்டு / மென்றால்`, `போடு / கிறார்களா`, `நடத்தா / மல்`, and `வர / வழைத்தால்`.
+
+Three additional **booklet-visible fidelity corrections** were made during the high-resolution re-read:
+
+1. paragraph 2 line end `கட்` → booklet-visible `கடற்`, followed on the next physical line by recovered `கரையில்`, yielding `கடற்கரையில்`.
+2. `திட்டங்களே நிறைவேற்ற` → booklet-visible `திட்டங்களை நிறைவேற்ற`; TNLA independently agrees with `திட்டங்களை`.
+3. `... நடந்திருக்கிறது, நடந்து / கிறது ...` → booklet-visible `... நடந்திருக்கிறது, நடந்தி / ருக்கிறது ...`, yielding the repeated `நடந்திருக்கிறது` confirmed by TNLA.
+
+Booklet-specific wording retained rather than normalized to the TNLA printing includes:
+
+- `இந்தச் சம்பிரதாயங்களின்படி`;
+- `செயல் / பட முற்பட்டால்`;
+- `வெளி நாட்டில்`;
+- capitalized embedded English `Ratification`;
+- booklet sequence `வாங்கிக் கொள்ளலாமென்று திட்டங்களை நிறைவேற்ற / மாநில அரசுக்கு எந்த வழியும் இல்லை`;
+- `ஏஜெண்டு போடு / கிறார்களா` and `போலிங் பூத்தில்`.
+
+Page-boundary evidence:
+
+- incoming boundary: scan 26 ends `பின், திட்டக் குழுவிற்கு அதை அனுப்பும்.`; scan 27 begins `திட்டக் குழுவில் தொழில் நுட்ப ஆலோசனைக் குழு மறு`;
+- scan 27 ends `இந்திய வரலாறு சொல்லிக்கொண்டிருக்கிறது. தேர்ந்`;
+- scan 28 begins `தெடுக்கப்படுகிற அமைச்சர்கள்தான் வரவேண்டும்.`;
+- the cross-page word is therefore `தேர்ந்தெடுக்கப்படுகிற`, with no text moved across the booklet boundary.
+
+Exact next page-by-page activity: **booklet scan 34 / printed p.33**. Do not process scan 35 in the same iteration.
 

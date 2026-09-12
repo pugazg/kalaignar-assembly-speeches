@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`11b362c666015251c3d0804d0e5f717f0797d750` — `Recover Unit 1 crop text page 25`
+`8ac65cd7467a534c19e2636c16caa04e99a2b973` — `Recover Unit 1 crop text page 26`
 
 ## Active work
 
@@ -308,32 +308,60 @@ Result:
 - one source-visible line-split correction:
   - `உட்படுத்தப்பட்ட` → `உட்படுத்தப்பட்` / next-line `டிருக்கிறதா ?`.
 
-## Exact next activity — scan 27 only
+## Page 27 — PASS / CLOSED
 
-Process **booklet scan 27 / printed p.26** and stop.
+Booklet scan **27** / printed p.**26** is now individually recovered and revalidated.
 
-Current scan-27 state:
+Evidence:
 
-- legacy crop markers remain in the canonical Tamil;
+- TNLA witness: PDF pp. **106–107** / proceedings pp. **504–505**
+- technical-advisory / Planning Commission approval sequence confirmed
+- Nellikuthurai / Servalaru / Paraliyar examples confirmed
+- no-approval / machinery-import argument confirmed
+- corruption / inquiry passage confirmed
+- opening `மத்தியில் இருந்து.........` section confirmed
+- incoming boundary: scan 26 ends `பின், திட்டக் குழுவிற்கு அதை அனுப்பும்.`; scan 27 begins `திட்டக் குழுவில் தொழில் நுட்ப ஆலோசனைக் குழு மறு`
+- outgoing boundary: scan 27 `... தேர்ந்` → scan 28 `தெடுக்கப்படுகிற ...`, preserving cross-page `தேர்ந்தெடுக்கப்படுகிற`
+
+Result:
+
+- legacy literal crop-marker occurrences: **38**
+- actual line-level source-loss positions: **37**
+- direct official-witness missing-character recoveries: **10**
+- positions requiring no inserted fragment: **27**
+- source-loss markers remaining: **0**
+- booklet physical line breaks preserved
+- contextual guesses: **0**
+- global replacements: **0**
+- direct recoveries include `மறு / படியும்`, `அளிக் / கிறது`, `ஒரு`, `ஆண்டுகள்`, `சேர்வலாறு`, `அனுப்பப்பட்டன`, `கடற் / கரையில்`, `அப்படி`, `செயல் / பட`, and `நடந்தி / ருக்கிறது`
+- booklet-visible fidelity corrections:
+  - `கட்` → `கடற்`
+  - `திட்டங்களே` → `திட்டங்களை`
+  - `நடந்து / கிறது` → `நடந்தி / ருக்கிறது`.
+
+## Exact next activity — scan 34 only
+
+Process **booklet scan 34 / printed p.33** and stop.
+
+Current scan-34 state:
+
+- the final Karunanidhi intervention on the page still contains legacy right-gutter crop markers;
 - this page has **not** yet been recovered under the strict page-by-page protocol;
-- matching official witness continues from TNLA PDF pp. **106–107** / proceedings pp. **504–505**.
+- matching official witness is mainly TNLA PDF pp. **112–113** / proceedings pp. **510–511**.
 
 Verify:
 
-- every line-level left-gutter crop position independently;
-- technical-advisory / Planning Commission approval procedure;
-- the Nellikuthurai / Servalaru / Paraliyar examples;
-- the no-approval / machinery-import argument;
-- the corruption / inquiry passage and the opening `மத்தியில் இருந்து.........` section;
-- all booklet-visible wording, punctuation, English `Ratification`, and spacing;
-- physical line breaks;
-- incoming and outgoing page boundaries.
+- every line-level right-gutter crop position independently;
+- the Ananthanayaki / Hande exchanges immediately before the cropped Karunanidhi response;
+- the full cropped response about generator/licence permission and already-erected sheds;
+- all booklet-visible wording, punctuation and physical line breaks;
+- incoming and outgoing page boundaries, especially the continuation into scan 35.
 
-Do **not** process scan 34 in the same iteration.
+Do **not** process scan 35 in the same iteration.
 
 ## Required files
 
-Read before scan-27 work:
+Read before scan-34 work:
 
 1. this handover
 2. `docs/NEXT_CHAT_PROMPT_1973_IRULUM_OLIYUM.md`
@@ -350,7 +378,7 @@ If either PDF is missing in a new chat, retrieve it from conversation/Library be
 
 Continue exactly one page per iteration:
 
-**27 → 34 → 35**
+**34 → 35**
 
 After all affected pages are individually revalidated:
 
@@ -366,8 +394,8 @@ After all affected pages are individually revalidated:
 
 - `transcription.status = crop-recovery-in-progress`
 - `transcription.verified_against_scan = false`
-- page-by-page verified scans: **4–5, 10–11, 20–21, 25–26**
-- next page: **27**
+- page-by-page verified scans: **4–5, 10–11, 20–21, 25–27**
+- next page: **34**
 - Gate E — recheck required
 - English `verified_against_tamil = false`
 - Gate G — recheck required

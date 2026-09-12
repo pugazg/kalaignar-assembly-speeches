@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 crop recovery page 27
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 crop recovery page 34
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -6,11 +6,11 @@ Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
 Fetch live `main` first and preserve newer durable work.
 
-Live checkpoint immediately before the scan-26 page-level pass:
+Live checkpoint immediately before the scan-27 page-level pass:
 
-`11b362c666015251c3d0804d0e5f717f0797d750` — `Recover Unit 1 crop text page 25`
+`8ac65cd7467a534c19e2636c16caa04e99a2b973` — `Recover Unit 1 crop text page 26`
 
-The scan-26 pass is committed together with this refreshed prompt; if live `main` is newer, preserve the newer state.
+The scan-27 pass is committed together with this refreshed prompt; if live `main` is newer, preserve the newer state.
 
 ## Source hierarchy
 
@@ -36,44 +36,39 @@ Individually PASS / PAGE-LEVEL RECOVERY VERIFIED:
 - scan **11** / printed p.10
 - scan **20** / printed p.19
 - scan **21** / printed p.20
-- scan **25** / printed p.24
-- scan **26** / printed p.25
+- scans **25–27** / printed pp.24–26
 
-### Scan 26 result
+### Scan 27 result
 
-- pre-recovery literal `⟦scan-crop⟧` occurrences: **37**
-- actual line-level source-loss positions: **36**
-- direct official-witness missing-character/punctuation recoveries: **6**
-- positions requiring no inserted fragment: **30**
+- pre-recovery literal `⟦scan-crop⟧` occurrences: **38**
+- actual line-level source-loss positions: **37**
+- direct official-witness missing-character recoveries: **10**
+- positions requiring no inserted fragment: **27**
 - source-loss markers remaining: **0**
 - booklet physical line breaks preserved
 - contextual guesses: **0**
-- TNLA evidence: PDF pp. **105–106** / proceedings pp. **503–504**
-- recovered:
-  - `திட்டங்கள` → `திட்டங்கள்`
-  - `வருகிறோம்` → `வருகிறோம்.`
-  - `பொதுமக்களிட` → `பொதுமக்களிடத்தில்`
-  - `உடனடியா` → `உடனடியாக`
-  - `ஆராய்ந்து` → `ஆராய்ந்து,`
-  - `பெற்` → `பெற்ற`
-- source-visible line-split correction: `உட்படுத்தப்பட்ட` → `உட்படுத்தப்பட் / டிருக்கிறதா ?`
-- outgoing boundary: scan 26 ends `பின், திட்டக் குழுவிற்கு அதை அனுப்பும்.`; scan 27 begins `திட்டக் குழுவில் தொழில் நுட்ப ஆலோசனைக் குழு மறு...`.
+- TNLA evidence: PDF pp. **106–107** / proceedings pp. **504–505**
+- source-visible corrections:
+  - `கட்` → `கடற்`
+  - `திட்டங்களே` → `திட்டங்களை`
+  - `நடந்து / கிறது` → `நடந்தி / ருக்கிறது`
+- outgoing boundary: scan 27 ends `... தேர்ந்`; scan 28 begins `தெடுக்கப்படுகிற ...`.
 
-Remaining crop pages: **27, 34–35**.
+Remaining crop pages: **34–35**.
 
 Unit 2 Gate D D1 remains **paused**.
 
 ## Exact next activity
 
-Work **only on booklet scan 27 / printed p.26**.
+Work **only on booklet scan 34 / printed p.33**.
 
-1. Read the pre-recovery scan-27 text and every line-level `⟦scan-crop⟧` position.
+1. Read the pre-recovery scan-34 text and every line-level `⟦scan-crop⟧` position.
 2. Visually inspect the controlling booklet scan at high resolution.
-3. Compare only the matching official TNLA passage — mainly PDF pp. **106–107** / proceedings pp. **504–505**.
-4. Recover only characters/words physically lost at the gutter.
-5. Preserve every booklet-visible spelling, punctuation, embedded English, spacing choice and physical line break.
+3. Compare only the matching official TNLA passage — mainly PDF pp. **112–113** / proceedings pp. **510–511**.
+4. Recover only characters/words physically lost at the right gutter.
+5. Preserve every booklet-visible spelling, punctuation, spacing choice and physical line break.
 6. Remove a crop marker only when the official witness confirms the exact continuation.
-7. Recheck the technical-advisory / Planning Commission approval procedure, Nellikuthurai / Servalaru / Paraliyar examples, no-approval / machinery-import argument, corruption/inquiry passage, and opening `மத்தியில் இருந்து.........` section without normalizing booklet wording to TNLA.
+7. Recheck the Ananthanayaki / Hande exchanges and the cropped Karunanidhi generator/licence response without normalizing booklet wording to TNLA.
 8. Record every recovered fragment plus incoming/outgoing page-boundary evidence in `crop-recovery-audit.md`.
 9. Update metadata/README/handover and advance this prompt.
-10. **Do not process scan 34 or any other page in the same iteration.**
+10. **Do not process scan 35 or any other page in the same iteration.**
