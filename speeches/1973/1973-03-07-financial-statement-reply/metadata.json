@@ -48,7 +48,7 @@
     "source_crop_holds": "all legacy gutter-loss pages recovered and individually page-level revalidated on scans 4-5, 10-11, 20-21, 25-27 and 34-35; scan 13 smaller cartoon labels remain separately unresolved",
     "verified_scan_pages": "4-40",
     "completeness_audit_passed": true,
-    "verification_note": "Official TNLA Assembly Debates evidence dated 7 March 1973 has now been used to recover all legacy gutter-crop text physically missing from the booklet scan. Strict page-by-page revalidation is complete for scans 4-5, 10-11, 20-21, 25-27 and 34-35, with booklet line breaks preserved and no contextual guessing. Scan 35 restored cropped `1,41,000` and the concluding `ஆக,` before `ஒரு இலட்சத்து 57 ஆயிரம்...`. Canonical Tamil has changed after the prior Gate-E/G/H release, so the exact next step is a whole-Tamil crop-recovery integrity audit before Gate-E, English repair, Gate-G and Gate-H revalidation."
+    "verification_note": "Official TNLA Assembly Debates evidence dated 7 March 1973 was used only for booklet gutter-loss recovery. Page-level recovery is complete on scans 4-5, 10-11, 20-21, 25-27 and 34-35. The whole-Tamil crop-recovery integrity audit across scans 4-40 passed: source-page markers 4-40 are unique/monotonic, all recovered pages contain 0 legacy gutter placeholders, all 9 documented recovery boundaries passed, booklet-specific wording remains unnormalized, and scan-13 small cartoon-label holds remain separate. One integrity-audit correction was made on scan 35: booklet-visible `ஆட்சேபணை தெரிவிக்கப்பட் / டும்` replaced the residual canonical split `தெரிவிக்கப்பட்ட / டும்`. Gate-E Tamil fidelity recheck for recovered spans/pages is next."
   },
   "translation": {
     "language": "English",
@@ -180,7 +180,7 @@
   },
   "source_fidelity_verification": {
     "gate": "E",
-    "status": "recheck-required-after-crop-recovery",
+    "status": "recheck-required-after-crop-recovery-integrity-pass",
     "scope_scan_pages": "4-40",
     "scope_printed_pages": "3-39",
     "batch_size_pages": 10,
@@ -199,10 +199,10 @@
     "next_scan_page": null,
     "downstream_gate": "F",
     "downstream_blocked": false,
-    "next_gate": "F"
+    "next_gate": "E recheck — recovered pages/spans"
   },
   "crop_recovery": {
-    "status": "page-level-recovery-complete-integrity-audit-next",
+    "status": "integrity-audit-passed-gate-e-next",
     "secondary_source_filename": "927193.pdf",
     "secondary_source_title": "Tamil Nadu Legislative Assembly Debates",
     "secondary_source_date": "1973-03-07",
@@ -215,7 +215,7 @@
     "crop_placeholders_removed_cr1": 99,
     "remaining_actual_tamil_crop_placeholders": 0,
     "remaining_crop_scan_pages": "",
-    "next_batch": "Whole-Tamil crop-recovery integrity audit — scans 4-40",
+    "next_batch": "Gate-E Tamil fidelity recheck — affected recovered pages/spans",
     "tamil_revalidation_required": true,
     "english_repair_required": true,
     "release_revalidation_required": true,
@@ -431,7 +431,26 @@
       "tnla_evidence": "PDF p.112 / proceedings p.510 for the opening continuation; PDF p.113 / proceedings p.511 for the housing-patta passage",
       "incoming_page_boundary": "scan 34 ends `... எப்படியாவது, நாங்கள்`; scan 35 begins `செலவு செய்துவிட்ட காரணத்தினாலே...`",
       "outgoing_page_boundary": "scan 35 ends `விவரத்தை நான் இங்கே தெரிவித்துக்கொள்கிறேன்.`; scan 36 begins heading `ஒன்பது அறிவிப்புகள்`",
-      "next_activity": "whole-Tamil crop-recovery integrity audit"
+      "next_activity": "whole-Tamil crop-recovery integrity audit",
+      "integrity_audit_corrections": 1,
+      "integrity_audit_correction": "`ஆட்சேபணை தெரிவிக்கப்பட்ட / டும்` -> booklet-visible `ஆட்சேபணை தெரிவிக்கப்பட் / டும்`; continuous word remains `தெரிவிக்கப்பட்டும்`"
+    },
+    "whole_tamil_integrity_audit": {
+      "status": "pass-complete",
+      "scope_scan_pages": "4-40",
+      "source_page_markers_expected": 37,
+      "source_page_markers_verified": 37,
+      "source_page_markers_unique_and_monotonic": true,
+      "recovered_pages_checked": "4-5, 10-11, 20-21, 25-27, 34-35",
+      "recovered_page_count": 11,
+      "legacy_gutter_placeholders_remaining": 0,
+      "boundary_checks_passed": 9,
+      "boundary_checks_total": 9,
+      "scan13_cartoon_label_hold_unchanged": true,
+      "booklet_specific_forms_retained": true,
+      "integrity_corrections": 1,
+      "integrity_correction": "scan 35 `ஆட்சேபணை தெரிவிக்கப்பட்ட / டும்` -> booklet-visible `ஆட்சேபணை தெரிவிக்கப்பட் / டும்`",
+      "next_activity": "Gate-E Tamil fidelity recheck for affected recovered pages/spans"
     }
   }
 }
