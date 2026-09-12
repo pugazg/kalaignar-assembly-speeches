@@ -402,3 +402,19 @@ Historical pre-recovery Gate G remains documented with **15** corrections. With 
 
 Exact next activity: **Gate-H canonical bilingual integrity / release revalidation**. Do not resume Unit 2 in the same iteration.
 
+## Post-recovery Gate H — release revalidation
+
+Status: **PASS**
+
+The focused post-recovery Gate-G English remained unchanged during Gate H. Canonical bilingual checks confirmed:
+
+- English source-page sections **4–40** exactly once and in order;
+- **0** English crop markers;
+- focused Gate-G corrections on scan 35 remain present;
+- recovery-touched source-page joins and historical 37→38 / 39→40 boundary repairs remain intact;
+- no second editable English copy was created; `translation.md` remains a retired pointer.
+
+Gate H language corrections: **0**.
+
+English release status: **verified / released**.
+
