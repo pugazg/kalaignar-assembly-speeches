@@ -49,7 +49,7 @@
     "completed_page_count": 22,
     "total_page_count": 22,
     "last_batch": "C3",
-    "next_scan_page": null,
+    "next_scan_page": 51,
     "source_page_markers_checked": true,
     "marker_sequence_checked": "41-62",
     "source_crop_holds": "none identified in Gate C scans 41-62",
@@ -57,7 +57,22 @@
     "historical_glyph_gate_required": true,
     "historical_glyph_gate_status": "passed",
     "completeness_audit_passed": false,
-    "verification_note": "Gate C first-pass transcription is complete for the full locked Unit-2 range, scans 41-62 / printed pp.40-61. This is not yet verified Tamil: mandatory Gate C.5 historical-glyph audit, Gate D completeness audit and Gate E source-fidelity verification remain downstream."
+    "verification_note": "Gate C and mandatory Gate C.5 are complete. Gate D completeness audit is now in progress: D1 reviewed scans 41-50 / printed pp.40-49 and passed with 2 source-context completeness additions (printed illustration notes on scans 43 and 44), 0 unresolved completeness questions, and source-page sequence 41-50 exactly once/in order. D2 scans 51-60 is next. Tamil remains not verified until Gate D and Gate E both complete.",
+    "gate_d_status": "in-progress",
+    "gate_d_reviewed_scan_pages": "41-50",
+    "gate_d_reviewed_printed_pages": "40-49",
+    "gate_d_reviewed_page_count": 10,
+    "gate_d_total_page_count": 22,
+    "gate_d_last_batch": "D1",
+    "gate_d_next_scan_page": 51,
+    "gate_d_correction_count": 2,
+    "gate_d_unresolved_completeness_questions": 0,
+    "gate_d_corrections": [
+      "scan 43 / printed p.42: added printed illustration note for audience / crowd scene at source position",
+      "scan 44 / printed p.43: added printed illustration note for staged Yamadharman scene with a buffalo at source position"
+    ],
+    "gate_d_marker_sequence_checked": "41-50 exactly once and monotonic",
+    "gate_d_page_boundaries_checked": "41→42 through 49→50; 9/9 PASS"
   },
   "translation": {
     "language": "English",
@@ -116,6 +131,6 @@
     "completed_printed_pages": "40-61",
     "batch_size_pages": 10,
     "final_batch_may_be_shorter_at_gate_boundary": true,
-    "next_gate": "D"
+    "next_gate": "D2"
   }
 }
