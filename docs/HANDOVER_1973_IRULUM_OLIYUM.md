@@ -233,6 +233,28 @@ Final result:
 
 Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-review.md`.
 
+## Unit 1 post-release crop recovery
+
+New official evidence is available from **Tamil Nadu Legislative Assembly Debates, 7 March 1973** (`927193.pdf`, SHA-256 `b56b0e2d70fb64ec026312ca62d925cb2ef7df32feb8a9578848df97461c54b4`).
+
+This evidence authorizes reopening released Unit 1 **only for physical gutter-loss recovery and downstream bilingual revalidation**.
+
+Workflow is now **page by page**.
+
+### Page 4 / printed p.3 — PASS / VERIFIED
+
+- former page-4 crop markers reviewed: **38**
+- direct missing-fragment recoveries: **10**
+- crop markers remaining on page 4: **0**
+- source line breaks preserved
+- no contextual/grammar-only reconstruction
+- TNLA evidence: PDF pp. **86–87** / proceedings pp. **484–485**
+- cross-page boundary confirmed: scan 4 ends `சுதந்திரக்`; scan 5 begins `கட்சியின் சார்பில் ...`
+
+Exact next page: **scan 5 / printed p.4**.
+
+Unit 2 Gate D D1 is paused until Unit-1 crop recovery, Tamil revalidation, English repair/fidelity review and Gate-H revalidation are complete.
+
 ## Unit 2 durable gate state
 
 `சட்டமன்ற மேலவையில்` / 8-3-1973 / scans **41–62** / printed pp. **40–61**
@@ -275,36 +297,22 @@ Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-r
 
 ## Exact next activity
 
-Begin **Unit 2 Gate D Tamil completeness audit — D1 scans 41–50 / printed pp.40–49**.
+Continue **Unit 1 post-release crop recovery, page-by-page — scan 5 / printed p.4**.
 
-Gate C.5 final result:
+Rules:
 
-- HG1 scans **41–50** — PASS — scan 44 `மாறுக` → `மாறாக` (`றா`);
-- HG2 scans **51–60** — PASS — scan 58 `வேலதான்` → `வேலைதான்` (`லை`);
-- HG3 scans **61–62** — PASS — **0 corrections**;
-- audited: **22 / 22 pages**;
-- cumulative corrections: **2**;
-- unresolved historical-glyph clusters: **0**;
-- `transcription.verified_against_scan=false`;
-- Gate D is now unblocked.
-
-D1 requirements:
-
-- create/use `speeches/1973/1973-03-08-financial-statement-reply/completeness-audit.md`;
-- audit scans **41–50** / printed pp. **40–49**;
-- confirm each source-page marker exists exactly once and in monotonic sequence;
-- verify page-start/page-end continuity;
-- verify headings, speaker labels, interventions and printed source-context material are represented;
-- verify source-loss/unresolved state remains explicit and no text is reconstructed;
-- record any completeness corrections separately from glyph corrections;
-- update metadata, README, verification log, mapping and handover;
-- keep `transcription.verified_against_scan=false`;
-- **do not begin Gate E** in the same iteration.
+- controlling source remains `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`;
+- official TNLA 7-3-1973 proceedings are used only for text physically absent at the gutter;
+- preserve visible booklet wording, punctuation, numerals and physical line breaks;
+- do not normalize to TNLA wording where the booklet is legible;
+- record every recovered fragment in `crop-recovery-audit.md`;
+- do not proceed beyond scan 5 in the same iteration;
+- Unit 2 Gate D remains paused.
 
 ## Last archival-content checkpoint before this handover update
 
-`45eaffb05ec12d462136764ff58c261eb3d269e1`
+`bb415982708f2eb123629c7fb18cfd593490fe4b`
 
-Message: `Close 1973 Council glyph audit mapping`
+Message: `Advance Unit 1 crop recovery to page 5`
 
 The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.
