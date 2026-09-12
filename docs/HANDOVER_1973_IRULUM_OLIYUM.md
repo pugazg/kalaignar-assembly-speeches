@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`33f90a04aec35334b938205f92b1f3fbd5db84a5` — `Advance root status to Unit 2 Gate E E3`
+`4dfd715b8507e2a72ce692cb6476a15080c327a0` — `Complete Unit 2 Gate E and hand off Gate F`
 
 ## Active work
 
@@ -21,7 +21,7 @@ Checkpoint before this handover rewrite:
 - focused post-recovery Gate G — PASS;
 - Gate H canonical bilingual release revalidation — **PASS / REVALIDATED AFTER CROP RECOVERY**.
 
-**Current priority: Unit 2 / `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate F English translation F1, scans 41–50 / printed pp.40–49. Tamil Gate E is PASS / COMPLETE and verified against scan.**
+**Current priority: Unit 2 / `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate F English translation F2, scans 51–60 / printed pp.50–59. F1 scans 41–50 is complete; Tamil remains Gate-E verified.**
 
 Do not reopen Unit 1 unless genuinely new controlling-source evidence appears.
 
@@ -824,7 +824,7 @@ Next:
 - Gate G — **PASS / REVALIDATED AFTER CROP RECOVERY**
 - Gate H — **PASS / REVALIDATED AFTER CROP RECOVERY**
 - release — **RELEASED**
-- next activity — **Unit 2 Gate F F1 — scans 41–50 / printed pp.40–49**
+- next activity — **Unit 2 Gate F F2 — scans 51–60 / printed pp.50–59**
 
 ## Unit 2 active-next state
 
@@ -837,12 +837,13 @@ Next:
 - historical-glyph corrections — 2
 - unresolved glyph clusters — 0
 - Gate D — **PASS / COMPLETE — 22 of 22 / 2 cumulative corrections / 0 unresolved**
-- English — **UNBLOCKED / NOT STARTED**
+- English — **IN PROGRESS / NOT VERIFIED — Gate F F1 complete, 10 of 22 pages, 0 unresolved translation questions**
 - Gate E — **PASS / COMPLETE — 22 of 22 / 15 cumulative corrections / 0 unresolved**
 - Tamil `verified_against_scan` — **true**
-- exact next activity — **Gate F F1 scans 41–50 / printed pp.40–49**
+- Gate F — **IN PROGRESS — F1 COMPLETE / 10 of 22**
+- exact next activity — **Gate F F2 scans 51–60 / printed pp.50–59**
 
-Unit 1 remains locked/released. Unit 2 Tamil is verified. Continue only Unit-2 Gate-F F1 in the next iteration; do not begin Gate G.
+Unit 1 remains locked/released. Unit 2 Tamil is verified. Continue only Unit-2 Gate-F F2 in the next iteration; do not begin Gate G.
 
 ## Unit 2 Gate E E3 / FINAL — PASS / COMPLETE
 
@@ -880,4 +881,36 @@ Translate **scans 41–50 / printed pp.40–49** from the **final Gate-E-verifie
 - process the 10-scan-page F1 batch only;
 - update metadata / README / verification log / handover / next prompt;
 - do **not** begin Gate G in the same iteration.
+
+## Unit 2 Gate F F1 — COMPLETE
+
+Translated **scans 41–50 / printed pp.40–49** only from the final Gate-E-verified Tamil.
+
+- F1 source pages — **41→50 exactly once and in order**
+- pages translated — **10 / 10**
+- cumulative Gate-F coverage — **10 / 22**
+- English working file — `translation.md`
+- unresolved translation questions — **0**
+- parliamentary interventions / headings / figures / dates / money / units — preserved
+- scan 43 audience/crowd illustration context — preserved
+- scan 44 staged Yamadharman/buffalo illustration context — preserved
+- scan 50 Punjab Electricity Board printed English quotations — **verbatim**
+- source arithmetic and factual tensions — preserved without external correction
+- Gate G — **NOT STARTED**
+
+F1 ends at the end of scan 50 after the second Punjab Electricity Board quotation. The surrounding Tamil sentence continues at scan 51.
+
+## Exact next activity — Unit 2 Gate F F2
+
+Translate **scans 51–60 / printed pp.50–59** from the final Gate-E-verified Tamil.
+
+For F2:
+
+1. preserve source-page correspondence **51→60**;
+2. preserve speaker changes, headings, legal terminology, figures, dates, money and units;
+3. carry all source-printed English on scans **52–55** through **verbatim**, including source grammar and wording;
+4. preserve Kalaignar's argumentative sequence, repetition, irony and direct address;
+5. do not resolve or correct source historical/factual claims;
+6. update `translation.md`, metadata, README, verification log, handover and next prompt;
+7. do **not** begin Gate G in the same iteration.
 

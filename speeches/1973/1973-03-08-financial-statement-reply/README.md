@@ -21,10 +21,10 @@ This entry preserves the Legislative Council reply dated `8-3-1973` in the sourc
 - Gate C.5 historical Tamil glyph audit: **PASS / COMPLETE — HG1–HG3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative corrections; 0 unresolved**
 - Gate D: **PASS / COMPLETE — D1–D3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative completeness corrections; 0 unresolved**
 - Gate E: **PASS / COMPLETE — E1–E3 scans 41–62 / printed pp.40–61; 22/22 pages; 15 cumulative corrections; 0 unresolved**
-- Gate F: **UNBLOCKED / NEXT — F1 scans 41–50 / printed pp.40–49**
+- Gate F: **IN PROGRESS — F1 scans 41–50 / printed pp.40–49 COMPLETE; 10/22 pages; 0 unresolved translation questions**
 - Gates G–H: **NOT STARTED / downstream**
 - Tamil status: **VERIFIED AGAINST SCAN — Gate C + C.5 + D + E complete**
-- English: **UNBLOCKED / NOT STARTED — Gate F F1 next**
+- English: **IN PROGRESS / NOT VERIFIED — Gate F F1 complete; F2 next**
 
 ## Gate C result
 
@@ -145,4 +145,15 @@ Cumulative Gate-E corrections: **15**.
 Unresolved Gate-E questions: **0**.  
 Tamil `verified_against_scan=true`.
 
-Exact next activity: **Gate F English translation — F1 scans 41–50 / printed pp.40–49**, using only the final Gate-E-verified Tamil.
+Gate F F1 is now **COMPLETE** for scans **41–50 / printed pp.40–49**.
+
+- source pages translated — **10/10**
+- cumulative Gate-F coverage — **10/22 pages**
+- source-page sequence — **41→50 exactly once and in order**
+- unresolved translation questions — **0**
+- scan 43 / 44 printed illustration-context notes — **preserved**
+- scan 50 source-printed Punjab Electricity Board English — **preserved verbatim**
+- Gate G — **NOT STARTED**
+- English — **IN PROGRESS / NOT VERIFIED**
+
+Exact next activity: **Gate F F2 — scans 51–60 / printed pp.50–59**. Carry all source-printed English on scans 52–55 verbatim and do not begin Gate G.

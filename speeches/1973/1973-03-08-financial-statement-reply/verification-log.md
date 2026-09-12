@@ -462,3 +462,23 @@ Gate E final result:
 - English: **UNBLOCKED / NEXT**.
 
 Exact continuation: **Gate F English translation — F1 scans 41–50 / printed pp.40–49**, using only the final Gate-E-verified Tamil. Do not translate from OCR or an earlier draft.
+
+## Gate F — English translation
+
+### Batch F1 — scan pp.41–50 / printed pp.40–49
+
+Status: **COMPLETE for this batch / Gate F remains IN PROGRESS**
+
+- translated only from the final Gate-E-verified Tamil source layer;
+- English working file: `translation.md`;
+- source-page sections present exactly once and in order: **41 → 42 → 43 → 44 → 45 → 46 → 47 → 48 → 49 → 50**;
+- completed coverage: **10 / 22 Unit-2 pages**;
+- preserved parliamentary speaker changes / interventions, headings, argumentative sequence, repetitions, direct address, figures, dates, money, units and technical terminology;
+- scan 43 audience/crowd illustration context and scan 44 staged Yamadharman/buffalo illustration context are represented conservatively;
+- both source-printed Punjab Electricity Board English passages on scan 50 are carried through **verbatim**, including the source wording `The offer of Rs. 45 lakhs was had on behalf of the Board...`;
+- source arithmetic / factual tensions were not silently reconciled or corrected;
+- unresolved translation questions: **0**;
+- F1 ends exactly at scan p.50 / printed p.49, after the second Punjab Electricity Board quotation; the Tamil sentence continues on scan p.51;
+- Gate-G verification has **not** started.
+
+Exact continuation: **Gate F batch F2 — scans 51–60 / printed pp.50–59**. Source-printed English on scans 52–55 must be carried through verbatim. Do not begin Gate G in the same iteration.
