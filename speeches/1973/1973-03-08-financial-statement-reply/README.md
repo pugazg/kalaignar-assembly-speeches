@@ -19,7 +19,7 @@ This entry preserves the Legislative Council reply dated `8-3-1973` in the sourc
 - Gate B: **PASS / LOCKED**
 - Gate C: **COMPLETE — C1–C3 scans 41–62 / printed pp.40–61; 22/22 pages**
 - Gate C.5 historical Tamil glyph audit: **PASS / COMPLETE — HG1–HG3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative corrections; 0 unresolved**
-- Gate D: **IN PROGRESS — D1 scans 41–50 / printed pp.40–49 PASS; 10/22 pages; 2 completeness corrections; 0 unresolved**
+- Gate D: **IN PROGRESS — D1+D2 scans 41–60 / printed pp.40–59 PASS; 20/22 pages; 2 cumulative completeness corrections; 0 unresolved**
 - Gates E–H: **NOT STARTED / downstream**
 - Tamil status: **Gate C + C.5 complete; Gate D in progress / not verified**
 - English: **blocked until Tamil verification**
@@ -42,15 +42,26 @@ Gate C.5 HG1 corrected one historical `றா` misread on scan 44: `வழக்
 
 HG3 / FINAL re-read scans 61–62 and found **0 additional historical-glyph corrections** and **0 unresolved clusters**. Gate C.5 is now **PASS / COMPLETE — 22/22 pages**, with **2 cumulative corrections** across Unit 2.
 
-Gate D D1 is now **PASS** for scans **41–50 / printed pp.40–49**.
+Gate D D1 and D2 are now **PASS** through scans **41–60 / printed pp.40–59**.
 
-- source-page markers **41→50** — exactly once and in order;
-- page-boundary continuations — **9/9 PASS**;
-- speaker/intervention order and headings — **PASS**;
-- figures / dates / source-printed English structural placement — **PASS**;
+D1:
+- scans **41–50 / 10 pages**
 - completeness corrections — **2**:
   - scan 43: restored conservative printed audience/crowd illustration context;
-  - scan 44: restored conservative staged Yamadharman/buffalo illustration context;
-- unresolved completeness questions — **0**.
+  - scan 44: restored conservative staged Yamadharman/buffalo illustration context.
 
-Exact next activity: **Gate D D2 — scans 51–60 / printed pp.50–59**. Do not begin Gate E in the same iteration.
+D2:
+- scans **51–60 / 10 pages**
+- source-page markers **51→60** — exactly once and in order;
+- page-boundary continuations — **9/9 PASS**;
+- headings / interventions / paragraph order — **PASS**;
+- source-printed English on scans **52–55** — structurally present in place;
+- D2 completeness corrections — **0**;
+- D2 unresolved completeness questions — **0**;
+- scan 60 correctly remains mid-sentence at visible `30`.
+
+Gate-D cumulative coverage: **20/22 pages**.  
+Cumulative completeness corrections: **2**.  
+Unresolved completeness questions: **0**.
+
+Exact next activity: **Gate D D3 / FINAL — scans 61–62 / printed pp.60–61**. Do not begin Gate E in the same iteration.
