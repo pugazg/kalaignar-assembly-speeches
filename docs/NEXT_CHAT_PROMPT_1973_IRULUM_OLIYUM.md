@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 focused post-recovery Gate-G recheck
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 Gate-H release revalidation
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,7 +8,7 @@ Fetch live `main` first and preserve newer durable work.
 
 Live checkpoint immediately before this prompt refresh:
 
-`ff39ab7a2cff1590107ead2e8f3970c6b5428c42` — `Hand off repaired English spans to focused Gate G`
+`67ae10f343bcbd2d272f4c41e4c7d5501efe8be2` — `Hand off Unit 1 to Gate H release revalidation`
 
 If live `main` is newer, preserve the newer state.
 
@@ -17,87 +17,75 @@ If live `main` is newer, preserve the newer state.
 - page-level crop recovery — **COMPLETE**
 - whole-Tamil crop-recovery integrity audit — **PASS / COMPLETE**
 - focused post-recovery Gate-E Tamil fidelity recheck — **PASS / COMPLETE**
-- `transcription.verified_against_scan=true`
+- recovered scans — **4–5, 10–11, 20–21, 25–27, 34–35**
+- Tamil legacy gutter placeholders — **0**
 - unresolved Tamil fidelity questions — **0**
+- `transcription.verified_against_scan=true`
 
-Recovered / reverified Tamil scans:
+## Durable English state
 
-**4–5, 10–11, 20–21, 25–27, 34–35**
+- recovered-span repair — **COMPLETE**
+- inherited English crop markers — **249 → 0**
+- focused post-recovery Gate-G recheck — **PASS / COMPLETE**
+- repaired pages reviewed — **11 / 11**
+- focused Gate-G corrections — **2**
+- unresolved English fidelity questions — **0**
+- `verified_against_tamil=true`
 
-The controlling translation source is the final post-recovery Gate-E-verified Tamil in canonical `transcript.md`.
+Focused Gate-G corrections:
 
-## Durable English repair state
+1. scan 35:
+   `open them ... licences ... to them`
+   → `inaugurate it ... licences ... for it`
+   for Tamil `திறந்து வைத்தாலும் அதற்கு லைசென்சுகள்...`.
 
-English repair / retranslation for recovered spans is **COMPLETE** on:
+2. scan 35:
+   `Thus, Thus,`
+   → `Thus,`
+   for single Tamil `ஆக,`.
 
-**source pages 4–5, 10–11, 20–21, 25–27, 34–35**
-
-Legacy English crop markers:
-
-- p4 — 24
-- p5 — 12
-- p10 — 21
-- p11 — 11
-- p20 — 32
-- p21 — 20
-- p25 — 30
-- p26 — 28
-- p27 — 33
-- p34 — 6
-- p35 — 32
-- **total before repair — 249**
-- **remaining after repair — 0**
-
-English source-page sequence **4–40** remains exactly once and strictly monotonic.
-
-Source-printed English remains verbatim.
-
-Notable repaired spans:
-
-- p4 — inclusive **81 members, including Congress Party leader Ponnappa Nadar**
-- p4→5 — Swatantra Party continuation
-- p10 — **land revenue, irrigation tax, cess tax and agricultural income tax**
-- p11 — **Kambam**, **1973-74**, **1965-66**, **four demands**
-- p20 — **reduce all taxes** for recovered Tamil `வரியையெல்லாம்`
-- p21 — quotation force around **“unaccounted money”**
-- p25 — **(1)** / **(3)** list punctuation and verbatim **have been sent**
-- p27 — **at the seashore** for recovered `கடற்கரையில்`; `Ratification` retained
-- p34→35 — generator/licence continuation
-- p35 — **1,41,000** and concluding `ஆக,` sense
-
-The previous full Gate-G PASS is historical audit evidence only; it predates crop recovery.
+Historical pre-recovery Gate G remains documented with **15** corrections; focused post-recovery Gate G adds **2**.
 
 Unit 2 Gate D D1 remains **paused**.
 
 ## Exact next activity
 
-Perform a **focused post-recovery Gate-G English fidelity recheck only for the repaired recovered-span pages**:
+Perform **Gate-H canonical bilingual integrity / release revalidation** for Unit 1.
 
-**4–5, 10–11, 20–21, 25–27, 34–35**
+Verify:
 
-Compare the repaired canonical English directly against the final post-recovery Gate-E-verified Tamil.
+1. Tamil source-page markers **4–40** occur exactly once and strictly in order;
+2. English source-page sections **4–40** occur exactly once and strictly in order;
+3. Tamil legacy gutter placeholders — **0**;
+4. English legacy gutter placeholders — **0**;
+5. canonical Tamil equals the final post-recovery Gate-E-verified payload;
+6. canonical English equals the focused post-recovery Gate-G-verified payload;
+7. Tamil→English merge transition has no duplication or omission;
+8. recovery-touched bilingual boundaries remain aligned:
+   - 4→5
+   - 5→6
+   - 20→21
+   - 21→22
+   - 25→26
+   - 26→27
+   - 27→28
+   - 34→35
+   - 35→36;
+9. historical Gate-G boundary fixes **37→38** and **39→40** remain intact;
+10. scan-13 small cartoon-label hold remains separate and unchanged;
+11. `translation.md` remains a retired pointer, not a second editable canonical translation;
+12. synchronize:
+   - `metadata.json`
+   - work README
+   - `data/speeches.json`
+   - root README/index
+   - verification / handover docs
+   - release state.
 
-Check:
+If all checks pass:
 
-1. omissions and additions in every repaired span;
-2. faithfulness of every recovered Tamil fragment in English;
-3. names / initials / speaker labels;
-4. intervention order and parliamentary voice;
-5. dates, numerals, money, units, project names and Plan chronology;
-6. embedded source English remains verbatim:
-   - scan 25 `THIRUMATHI T. N. ANANDANAYAKI...`
-   - scan 27 `Ratification`;
-7. source-page boundaries and recovery-touched continuations;
-8. scan 4 inclusive 81-member count;
-9. scan 10 full tax-head list;
-10. scan 11 Kambam / 1973-74 / 1965-66 / four demands;
-11. scan 20 **reduce all taxes**;
-12. scan 27 **at the seashore**;
-13. scan 34→35 generator/licence exchange;
-14. scan 35 **1,41,000** and concluding `ஆக,` sense.
+- mark Gate H **PASS / REVALIDATED AFTER CROP RECOVERY**;
+- restore Unit 1 to **RELEASED**;
+- exact next activity becomes **Unit 2 Gate D D1**.
 
-Record definite Gate-G corrections, if any, in canonical English and `translation-review.md` / `verification-log.md`, then update metadata, README, handover and this prompt.
-
-If the focused Gate-G recheck passes, the exact next activity is **Gate-H canonical bilingual integrity / release revalidation**.
-
-Do **not** re-close Gate H, restore RELEASED, or resume Unit 2 in the same iteration.
+Do **not** start Unit 2 in the same iteration.
