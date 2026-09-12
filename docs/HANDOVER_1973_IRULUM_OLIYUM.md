@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`c7d39c5a6d8354aeaa73ff3c4f8e17f12c65aa2d` — `Set next crop recovery page to scan 10`
+`19f36549022045cd9dde718cb08f21effa759634` — `Close page 5 crop recovery and hand off scan 10`
 
 ## Active work
 
@@ -139,27 +139,56 @@ Result:
     - `திரு. பொன்னப்ப நாடார் அவர்கள் என்னை 62 நாட்கள் பாளையங்`
   - the booklet visibly supports the first line ending `தலைவர்`; TNLA independently confirms `தலைவர் திரு. பொன்னப்ப நாடார்`.
 
-## Exact next activity — scan 10 only
+## Page 10 — PASS / CLOSED
 
-Process **booklet scan 10 / printed p.9** and stop.
+Booklet scan **10** / printed p.**9** is now individually revalidated.
 
-Current scan-10 state:
+Evidence:
 
-- legacy pre-recovery literal crop-marker count: **29**
+- TNLA PDF pp. **91–92** / proceedings pp. **489–490**
+- Kasiraman land-tax comparison confirmed
+- transition into `விவசாய வருமான வரி` confirmed
+- all booklet-visible numerals, spelling, punctuation and spacing preserved
+- incoming boundary: scan 9 closes `... நான் எடுத்துக் காட்ட விரும்புகிறேன்.`; scan 10 begins `ஆளும் காங்கிரஸ் கட்சியைச் சேர்ந்த திரு காசிராமன்...`
+- outgoing boundary: scan 10 ends `வித்துக் கொள்கிறேன்.`; scan 11 begins `தொழில் அபிவிருத்தி`
+
+Result:
+
+- legacy literal crop-marker occurrences: **29**
+- actual line-level source-loss positions: **28**
+- direct missing-fragment recoveries: **12**
+- complete-at-edge / visible-next-line positions requiring no inserted fragment: **16**
+- source-loss markers remaining: **0**
+- booklet physical line breaks preserved
+- contextual guesses: **0**
+- global replacements: **0**
+- one earlier bulk-CR1 omission corrected:
+  - `ஆகவே நில வரியை குறைத்தோம்`
+  - → physical line end `ஆகவே நில வரியைக்`
+  - next line `குறைத்தோம் என்று சொல்லுவது ஒரு மாயை; ‘Myth’ என்று`
+  - TNLA independently confirms the missing `க்`.
+
+## Exact next activity — scan 11 only
+
+Process **booklet scan 11 / printed p.10** and stop.
+
+Current scan-11 state:
+
+- legacy pre-recovery literal crop-marker count: **16**
 - current source-loss markers: **0**, because bulk CR1 already populated the gutter text
 - **NOT YET individually revalidated**
-- TNLA witness: mainly PDF pp. **91–92** / proceedings pp. **489–490**
+- TNLA witness: mainly PDF pp. **92–93** / proceedings pp. **490–491**
 
 Verify:
 
 - every pre-recovery line-level crop position independently;
-- Kasiraman land-tax comparison;
-- transition into the agricultural-income-tax explanation;
+- `தொழில் அபிவிருத்தி` / Gopal industrial-development figures;
+- transition into the James passage;
 - all booklet-visible numerals, spelling, punctuation and spacing;
 - physical line breaks;
 - incoming and outgoing page boundaries.
 
-Do **not** process scan 11 in the same iteration.
+Do **not** process scan 20 in the same iteration.
 
 ## Required files
 
@@ -180,7 +209,7 @@ If either PDF is missing in a new chat, retrieve it from conversation/Library be
 
 Continue exactly one page per iteration:
 
-**10 → 11 → 20 → 21 → 25 → 26 → 27 → 34 → 35**
+**11 → 20 → 21 → 25 → 26 → 27 → 34 → 35**
 
 After all affected pages are individually revalidated:
 
@@ -196,8 +225,8 @@ After all affected pages are individually revalidated:
 
 - `transcription.status = crop-recovery-in-progress`
 - `transcription.verified_against_scan = false`
-- page-by-page verified scans: **4–5**
-- next page: **10**
+- page-by-page verified scans: **4–5, 10**
+- next page: **11**
 - Gate E — recheck required
 - English `verified_against_tamil = false`
 - Gate G — recheck required

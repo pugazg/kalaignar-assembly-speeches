@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 crop recovery page 10
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 crop recovery page 11
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -6,16 +6,15 @@ Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
 Fetch live `main` first and preserve newer durable work.
 
-Latest page-5 durable checkpoints when this prompt was refreshed:
+Live checkpoint immediately before the scan-10 page-level pass:
 
-- `a3df57ef76ddf8169629ed9309f1af4b427152ed` — revalidate scan-5 transcript
-- `96da715ea00d07cd7adaf16d9b7266c206830ae4` — record scan-5 recovery audit
-- `47bb9852a18c3f5bd155f8005ec46fdb3048084f` — advance crop-recovery metadata
-- `31d17e4b003c7e3c768b8d24998724019c11ff82` — advance README to scan 10
+`19f36549022045cd9dde718cb08f21effa759634` — `Close page 5 crop recovery and hand off scan 10`
+
+The scan-10 pass is committed together with this refreshed prompt; if live `main` is newer, preserve the newer state.
 
 ## Why Unit 1 is reopened
 
-Unit 1 had already passed Gate H, but genuinely new official evidence is now available:
+Unit 1 had already passed Gate H, but genuinely new official evidence is available:
 
 `927193.pdf` — **Tamil Nadu Legislative Assembly Debates, 7 March 1973**
 
@@ -40,46 +39,45 @@ Workflow: **one booklet page per iteration**.
 
 **PASS / PAGE-LEVEL RECOVERY VERIFIED**
 
-- old literal crop-marker occurrences reviewed: **38**
-- direct source-supported missing-fragment recoveries: **10**
-- source-loss markers remaining: **0**
-- booklet physical line breaks preserved
-- no contextual guessing
-- TNLA evidence: PDF pp.86–87 / proceedings pp.484–485
-
 ### Scan 5 / printed p.4
 
 **PASS / PAGE-LEVEL RECOVERY VERIFIED**
 
-- pre-recovery block literal `⟦scan-crop⟧` occurrences: **16**
-- line-level source-loss positions: **15**
-- direct source-supported left-gutter recoveries: **15**
+### Scan 10 / printed p.9
+
+**PASS / PAGE-LEVEL RECOVERY VERIFIED**
+
+- pre-recovery block literal `⟦scan-crop⟧` occurrences: **29**
+- actual line-level source-loss positions: **28**
+- direct source-supported right-gutter recoveries: **12**
+- positions requiring no inserted fragment after witness check: **16**
 - source-loss markers remaining: **0**
 - booklet physical line breaks preserved
 - no contextual guessing
-- TNLA evidence: PDF p.87 / proceedings p.485
-- earlier bulk-CR1 `தலைவரான பொன்னப்ப நாடார்` join corrected to the physical two-line sequence:
-  - `நம்முடைய நிறுவன காங்கிரஸ் கட்சியின் தலைவர்`
-  - `திரு. பொன்னப்ப நாடார் அவர்கள் என்னை 62 நாட்கள் பாளையங்`
-- outgoing boundary confirmed: scan 5 ends `பாளையங்`; scan 6 begins `கோட்டைச் சிறைச்சாலையில்...`
+- TNLA evidence: PDF pp. **91–92** / proceedings pp. **489–490**
+- bulk-CR1 omission corrected:
+  - `ஆகவே நில வரியை குறைத்தோம்`
+  - → booklet line `ஆகவே நில வரியைக்`
+  - next line `குறைத்தோம் என்று சொல்லுவது ஒரு மாயை; ‘Myth’ என்று`
+- outgoing boundary confirmed: scan 10 ends `வித்துக் கொள்கிறேன்.`; scan 11 begins `தொழில் அபிவிருத்தி`
 
 ### Other pages
 
-Earlier bulk recovery touched scans **10–11**, but under the strict page-by-page protocol they are **not yet individually revalidated**.
+Earlier bulk recovery touched scan **11**, but under the strict page-by-page protocol it is **not yet individually revalidated**.
 
 Unit 2 Gate D D1 remains **paused**.
 
 ## Exact next activity
 
-Work **only on booklet scan 10 / printed p.9**.
+Work **only on booklet scan 11 / printed p.10**.
 
-1. Read the pre-recovery scan-10 text and every line-level `⟦scan-crop⟧` position.
+1. Read the pre-recovery scan-11 text and every line-level `⟦scan-crop⟧` position.
 2. Visually inspect the controlling booklet scan at high resolution.
-3. Compare only the matching official TNLA passage — mainly PDF pp. **91–92** / proceedings pp. **489–490**.
+3. Compare only the matching official TNLA passage — mainly PDF pp. **92–93** / proceedings pp. **490–491**.
 4. Recover only characters/words physically lost at the gutter.
 5. Preserve every booklet-visible spelling, punctuation, numeral, spacing choice and physical line break.
 6. Remove a crop marker only when the official witness confirms the exact continuation.
-7. Recheck the Kasiraman land-tax comparison and the transition into the agricultural-income-tax explanation without normalizing booklet wording to TNLA.
+7. Recheck the `தொழில் அபிவிருத்தி` / Gopal figures and transition into the James passage without normalizing booklet wording to TNLA.
 8. Record every recovered fragment plus incoming/outgoing page-boundary evidence in `crop-recovery-audit.md`.
 9. Update metadata/README/handover and advance the next prompt.
-10. **Do not process scan 11 or any other page in the same iteration.**
+10. **Do not process scan 20 or any other page in the same iteration.**
