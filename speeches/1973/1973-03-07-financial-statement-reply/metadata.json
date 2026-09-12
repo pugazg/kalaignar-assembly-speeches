@@ -48,13 +48,13 @@
     "source_crop_holds": "all legacy gutter-loss pages recovered and individually page-level revalidated on scans 4-5, 10-11, 20-21, 25-27 and 34-35; scan 13 smaller cartoon labels remain separately unresolved",
     "verified_scan_pages": "4-40",
     "completeness_audit_passed": true,
-    "verification_note": "Post-release gutter recovery, the whole-Tamil integrity audit, and the focused post-recovery Gate-E recheck are complete. All 11 affected Tamil scans are verified against the booklet, with TNLA used only for physically missing gutter text; 0 Tamil gutter placeholders and 0 unresolved Tamil fidelity questions remain. The corresponding English recovered spans have now been repaired from the final Gate-E-verified Tamil and all 249 inherited English crop markers have been resolved. Focused post-recovery Gate-G recheck of those repaired English spans is next."
+    "verification_note": "Unit 1 completed post-release crop recovery, whole-Tamil integrity audit, focused Gate-E recheck, English recovered-span repair, focused post-recovery Gate-G recheck, and Gate-H canonical bilingual release revalidation. Tamil source-page markers 4-40 and English source-page sections 4-40 are each complete, unique and monotonic; both layers contain 0 legacy gutter placeholders. The 9 recovery-touched boundaries plus historical Gate-G boundaries 37→38 and 39→40 remain aligned. Tamil is verified against the booklet; English is verified against the final Tamil. Unit 1 is RELEASED again."
   },
   "translation": {
     "language": "English",
     "type": "faithful reading translation",
     "working_file": "translation.md",
-    "status": "verified-after-post-recovery-gate-g",
+    "status": "verified",
     "blocked_until_tamil_verified": false,
     "requires_verified_tamil": true,
     "tamil_gate_satisfied": true,
@@ -102,15 +102,15 @@
     "verified_source_pages": "4-40",
     "verified_printed_pages": "3-39",
     "verified_page_count": 37,
-    "gate_h_status": "reopened-for-crop-recovery",
-    "completion_note": "English recovered spans on source pages 4-5, 10-11, 20-21, 25-27 and 34-35 were repaired from the final post-recovery Gate-E-verified Tamil, removing all 249 inherited English crop markers. A focused post-recovery Gate-G recheck then reviewed all 11 repaired pages, made 2 definite corrections, and left 0 unresolved English fidelity questions. English is again verified against Tamil. Gate-H canonical bilingual integrity/release revalidation is next.",
+    "gate_h_status": "pass-revalidated-after-crop-recovery",
+    "completion_note": "Unit 1 English is verified after post-recovery repair and focused Gate-G recheck. Gate H then revalidated the canonical bilingual release and restored RELEASED status. Historical pre-recovery Gate G recorded 15 corrections; focused post-recovery Gate G added 2, with 0 unresolved English fidelity questions.",
     "placement": "verified English follows the verified Tamil in canonical transcript.md",
     "working_file_status": "retired pointer to canonical transcript after Gate H",
     "gate_h_preparation_complete": true,
     "gate_h_canonical_merge_complete": true,
     "gate_h_indexed": true,
     "gate_h_release_ready": true,
-    "gate_h_integrity_note": "Gate H preserved the verified Tamil source layer unchanged, appended the complete Gate-G-verified English after it, validated Tamil markers and English source-page sections 4-40 exactly once and in order, rechecked critical Gate-G page boundaries including 5→6, 37→38 and 39→40, updated repository indexes, and retired translation.md to a pointer.",
+    "gate_h_integrity_note": "Post-recovery Gate H revalidated the canonical bilingual transcript without creating a second editable English copy: Tamil markers 4-40 and English source-page sections 4-40 each occur exactly once and in order; both layers have 0 legacy crop markers; all 9 recovery-touched boundaries plus historical Gate-G boundaries 37→38 and 39→40 pass; scan-13 cartoon-label hold remains explicit; translation.md remains a retired pointer; repository indexes were synchronized.",
     "source_crop_markers_resolved_after_recovery": true,
     "post_recovery_english_repair_status": "complete",
     "post_recovery_english_repair_source_pages": "4-5, 10-11, 20-21, 25-27, 34-35",
@@ -128,12 +128,13 @@
     ]
   },
   "release": {
-    "status": "recovery-in-progress",
-    "gate_h_status": "reopened-for-crop-recovery",
-    "gate_h_passed": false,
+    "status": "released",
+    "gate_h_status": "pass-revalidated-after-crop-recovery",
+    "gate_h_passed": true,
     "canonical_transcript_contains_verified_tamil_and_english": true,
     "indexed": true,
-    "release_ready": false
+    "release_ready": true,
+    "revalidation_note": "Gate H revalidated the canonical bilingual Unit-1 transcript after crop recovery and focused Gate-G completion. All canonical marker/boundary/index checks passed; release status restored to RELEASED."
   },
   "historical_glyph_audit": {
     "gate": "C.5",
@@ -214,7 +215,7 @@
     "next_scan_page": null,
     "downstream_gate": "F",
     "downstream_blocked": false,
-    "next_gate": "Gate-H canonical bilingual integrity / release revalidation",
+    "next_gate": "Unit 2 Gate D completeness audit — D1 scans 41-50 / printed pp.40-49",
     "verified_against_scan": true,
     "post_recovery_recheck_required": false,
     "post_recovery_recheck_status": "pass-complete",
@@ -234,7 +235,7 @@
     "post_recovery_scan13_cartoon_hold_unchanged": true
   },
   "crop_recovery": {
-    "status": "gate-g-reverified-gate-h-revalidation-next",
+    "status": "closed-released",
     "secondary_source_filename": "927193.pdf",
     "secondary_source_title": "Tamil Nadu Legislative Assembly Debates",
     "secondary_source_date": "1973-03-07",
@@ -247,10 +248,10 @@
     "crop_placeholders_removed_cr1": 99,
     "remaining_actual_tamil_crop_placeholders": 0,
     "remaining_crop_scan_pages": "",
-    "next_batch": "Gate-H canonical bilingual integrity / release revalidation",
+    "next_batch": "Unit 2 Gate D completeness audit — D1 scans 41-50 / printed pp.40-49",
     "tamil_revalidation_required": false,
     "english_repair_required": false,
-    "release_revalidation_required": true,
+    "release_revalidation_required": false,
     "workflow_mode": "page-by-page",
     "page_by_page_verified_scan_pages": "4-5, 10-11, 20-21, 25-27, 34-35",
     "page_by_page_verified_count": 11,
@@ -546,7 +547,21 @@
       "legacy_english_crop_markers_remaining": 0,
       "source_printed_english_preserved_verbatim": true,
       "english_source_pages_unique_and_monotonic": true,
-      "next_activity": "Gate-H canonical bilingual integrity / release revalidation"
+      "next_activity": "Gate-H canonical bilingual integrity / release revalidation — COMPLETE"
+    },
+    "gate_h_revalidation": {
+      "status": "pass-complete",
+      "tamil_source_page_markers": "4-40 exactly once and strictly monotonic",
+      "english_source_page_sections": "4-40 exactly once and strictly monotonic",
+      "tamil_legacy_crop_markers": 0,
+      "english_legacy_crop_markers": 0,
+      "recovery_boundaries_passed": "9/9",
+      "historical_gate_g_boundaries_passed": "37→38 and 39→40",
+      "scan13_cartoon_hold_unchanged": true,
+      "translation_md_retired_pointer": true,
+      "canonical_bilingual_integrity": true,
+      "release_restored": true,
+      "next_activity": "Unit 2 Gate D completeness audit — D1 scans 41-50 / printed pp.40-49"
     }
   }
 }
