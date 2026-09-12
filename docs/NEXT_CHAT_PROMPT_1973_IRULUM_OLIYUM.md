@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate E E2
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate E E3 / FINAL
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,7 +8,7 @@ Fetch live `main` first and preserve newer durable work.
 
 Live checkpoint immediately before this prompt refresh:
 
-`fe299c91fab9655b5c00c02f683a70a43a1c4544` — `Record Unit 2 Gate E E1 and hand off E2`
+`7d922609abd91bb082c82cfbfb274bdc4ddbb010` — `Refresh 1973 handover for Gate E E3`
 
 If live `main` is newer, preserve the newer state.
 
@@ -58,8 +58,11 @@ Source identity:
 - Gate E — **IN PROGRESS**
 - E1 scans **41–50 / printed pp.40–49** — **PASS**
 - E1 corrections — **1**
-- E1 unresolved source-fidelity questions — **0**
-- cumulative Gate-E coverage — **10/22**
+- E2 scans **51–60 / printed pp.50–59** — **PASS**
+- E2 corrections — **11**
+- cumulative Gate-E corrections — **12**
+- unresolved source-fidelity questions — **0**
+- cumulative Gate-E coverage — **20/22**
 - English — **BLOCKED**
 
 ### E1 correction
@@ -72,35 +75,54 @@ Scan **44** / printed p.**43**:
 
 `சில பேர் ரசிப்பார்கள் என்று நிலைமையை எண்ணி,`
 
-This is an ordinary source-fidelity correction; Gate-C.5 `மாறாக` remains source-supported.
+Gate-C.5 `மாறாக` remains source-supported.
+
+### E2 corrections
+
+1. scan **51** / printed p.**50** — `வருந்தத்தக்கதென்று` → `வருந்தத் தக்கதென்று`
+2. scan **52** / printed p.**51** — `சொல்லப்படுகிறது—எக்ஸ்ட்ரா` → `சொல்லப் படுகிறது—எக்ஸ்ட்ரா`
+3. scan **54** / printed p.**53** — `எழுதியிருக்கிறார்` → `எழுதியார்கள்`
+4. scan **54** / printed p.**53** — `அது மாத்திரமுமல்லது` → `அது மாத்திரமும் அல்லது`
+5. scan **56** / printed p.**55** — `எடுத்துக் காட்டினர்` → `எடுத்துக் காட்டினார்கள்`
+6. scan **57** / printed p.**56** — restored printed ellipsis: `இங்கே எடுத்துக் காட்டி... விரும்புகிறேன்.`
+7. scan **59** / printed p.**58** — `அதை விட்டு விட்டு கையகப்படுத்திக் கொள்ளுங்கள்` → `அதை விட்டு விட்டுக் கையகப்படுத்திக் கொள்ளுங்கள்`
+8. scan **59** / printed p.**58** — restored `:—` in the `திரு கே. ராஜாராம்` speaker label
+9. scan **59** / printed p.**58** — restored `:—` in the `மாண்புமிகு டாக்டர் மு. கருணாநிதி` speaker label
+10. scan **60** / printed p.**59** — `பரிசீலிக்கப்பட்டிருக்கின்றன` → `பரிசீலிக்கப்படுகின்றன`
+11. scan **60** / printed p.**59** — `நீட்டிக்கப்பட்ட பட்டு` → `நீட்டிக்கப் பட்டு`
+
+Source-printed English on scans **52–55** is **PASS / verbatim**.  
+Gate-C.5 scan-58 `வேலைதான்` was revalidated and remains source-supported.
 
 ## Exact next activity
 
-Perform **Gate E Tamil source-fidelity verification — E2 scans 51–60 / printed pp.50–59**.
+Perform **Gate E Tamil source-fidelity verification — E3 / FINAL scans 61–62 / printed pp.60–61**.
 
-This is a strict visual fidelity audit.
+This is the final strict visual fidelity batch.
 
-For every scan 51–60:
+For scans 61–62:
 
 1. compare every Tamil word / character to the controlling booklet pixels;
 2. verify names, initials and speaker labels;
-3. verify dates, numerals, money, units and legal section references;
-4. verify embedded source English exactly as printed, especially scans **52–55**;
-5. verify headings / subheadings;
-6. verify punctuation where legible;
-7. check omissions / repetitions across transitions **51→52 through 59→60**;
-8. preserve source spelling, compounds and historical forms — do not modernize;
-9. preserve Gate-C.5 scan-58 correction `வேலதான்` → `வேலைதான்` unless new source pixels disprove it;
+3. verify dates, numerals, money, units and any figures;
+4. verify headings / subheadings, especially `மாற்றம்!`;
+5. verify punctuation where legible;
+6. verify incoming continuity from scan 60's terminal `30` into scan 61;
+7. verify scan 61→62 continuity;
+8. verify the final State-autonomy argument, acknowledgements, `வணக்கம்` and closing ornament;
+9. preserve source spelling, compounds and historical forms — do not modernize;
 10. record every definite Gate-E correction in canonical transcript and `verification-log.md` with scan / printed-page provenance;
 11. update metadata / README / handover / next prompt.
 
-Expected E2 result fields:
+Expected E3 result fields:
 
-- scans reviewed: **51–60 / 10 pages**
-- E2 Gate-E corrections: explicit count
+- scans reviewed: **61–62 / 2 pages**
+- E3 Gate-E corrections: explicit count
 - cumulative Gate-E corrections: explicit count
 - unresolved source-fidelity questions: explicit count
-- cumulative Gate-E coverage: **20/22**
-- next batch: **E3 / FINAL scans 61–62 / printed pp.60–61** if E2 passes.
+- cumulative Gate-E coverage: **22/22**
+- Gate E: **PASS / COMPLETE** if E3 passes
+- Tamil `verified_against_scan=true` only after E3 passes
+- English: **UNBLOCKED / NEXT**, but do **not** begin English translation in the same iteration.
 
 Do **not** begin English translation in the same iteration.
