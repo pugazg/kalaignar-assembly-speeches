@@ -2,7 +2,7 @@
 
 **7-3-1973 — நிதிநிலை அறிக்கை விவாதத்திற்கான பதிலுரை**
 
-> **Archival transcription and translation note:** The Tamil source layer for scan pp.4–40 / printed pp.3–39 has completed post-release gutter recovery, the whole-Tamil integrity audit, and the focused post-recovery Gate-E fidelity recheck. The corresponding English recovered spans on source pages **4–5, 10–11, 20–21, 25–27, 34–35** were repaired from that final Tamil, resolving all **249** inherited English crop markers. A focused post-recovery Gate-G recheck then reviewed all 11 repaired pages, made **2** definite English fidelity corrections, and left **0** unresolved English fidelity questions. Tamil `verified_against_scan=true`; English `verified_against_tamil=true`. Gate H / RELEASED status remains reopened pending canonical bilingual integrity and release revalidation.
+> **Archival transcription and translation note:** Unit 1 has completed post-release gutter recovery, the whole-Tamil integrity audit, focused Gate-E Tamil recheck, English recovered-span repair, focused post-recovery Gate-G recheck, and Gate-H canonical bilingual release revalidation. Tamil and English source-page sequences **4–40** each remain complete, unique and monotonic; both layers contain **0** legacy crop markers; all recovery-touched and historical Gate-G page boundaries pass; Tamil is verified against the controlling booklet and English against the final Tamil. Unit 1 release status is **RELEASED / REVALIDATED AFTER CROP RECOVERY**.
 
 ---
 
@@ -828,7 +828,7 @@ The power supply position in the States of Southern Zone was going to be extreme
 
 # English translation
 
-> **Gate-G status after crop recovery:** the historical pre-recovery Gate G reviewed 37/37 pages with **15** corrections. After recovered-span repair, a focused post-recovery Gate-G recheck reviewed source pages **4–5, 10–11, 20–21, 25–27, 34–35**, made **2** further corrections on scan 35, left **0** unresolved fidelity questions, and confirmed **0** legacy English crop markers. English is again verified against the final Tamil. Gate H revalidation is still pending.
+> **Post-recovery release status:** historical Gate G recorded **15** corrections; the focused post-recovery Gate-G recheck added **2** corrections on scan 35 and left **0** unresolved English fidelity questions. Gate H subsequently revalidated the canonical bilingual payload and restored Unit 1 to **RELEASED** status. `translation.md` remains a retired pointer; canonical English is maintained only here after the verified Tamil.
 
 # English translation — 7-3-1973 Assembly reply
 
