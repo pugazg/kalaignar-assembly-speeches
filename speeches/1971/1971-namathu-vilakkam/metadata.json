@@ -67,19 +67,25 @@
     "preserve_source_punctuation": true,
     "page_boundaries_required": true,
     "historical_glyph_audit_required": true,
-    "next_batch": "scans 24-33 / printed pp.23-32",
-    "completed_scan_pages": "4-23",
-    "completed_printed_pages": "implied 3-22",
-    "completed_page_count": 20,
+    "next_batch": "scans 34-43 / printed pp.33-42",
+    "completed_scan_pages": "4-33",
+    "completed_printed_pages": "implied 3-32",
+    "completed_page_count": 30,
     "total_page_count": 57,
-    "last_batch": "T2",
-    "unresolved_readings": 1,
+    "last_batch": "T3",
+    "unresolved_readings": 2,
     "unresolved_reading_locations": [
       {
         "scan_page": 11,
         "printed_page": 10,
         "marker": "⟦தெளிவில்லை: போக ஏ⟧",
         "note": "Narrow phrase after ஆகவே and before வட்டிக்காக remains visually ambiguous in the controlling scan. No outside wording was substituted."
+      },
+      {
+        "scan_page": 31,
+        "printed_page": 30,
+        "marker": "⟦தெளிவில்லை: பொருள்/வளையல் குறித்த சொற்றொடர்⟧",
+        "note": "Classroom anecdote under வால் மாத்திரம் பாக்கி: the object phrase after கையில் ஒரு is not sufficiently legible in the controlling pixels. No external reconstruction was substituted."
       }
     ],
     "illustration_context_recorded_scan_pages": [
@@ -91,7 +97,10 @@
       16,
       18,
       19,
-      23
+      23,
+      24,
+      28,
+      31
     ]
   },
   "translation": {

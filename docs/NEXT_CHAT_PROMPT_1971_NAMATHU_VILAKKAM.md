@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1971 நமது விளக்கம் / Gate C T3 scans 24–33
+# NEXT CHAT PROMPT — 1971 நமது விளக்கம் / Gate C T4 scans 34–43
 
 Continue directly in pugazg/kalaignar-assembly-speeches, branch main.
 
@@ -27,29 +27,20 @@ ACL-CPL_01732_நமது_விளக்கம்.pdf
 - Gate C — **IN PROGRESS**
 - T1 scans **4–13 — COMPLETE**
 - T2 scans **14–23 — COMPLETE**
-- cumulative Gate-C coverage — **20/57**
-- source markers — **4→23 exactly once and in order**
-- unresolved readings — **1**
-  - scan 11 / printed p.10, after ஆகவே before வட்டிக்காக
-  - marker: ⟦தெளிவில்லை: போக ஏ⟧
+- T3 scans **24–33 — COMPLETE**
+- cumulative Gate-C coverage — **30/57**
+- source markers — **4→33 exactly once and in order**
+- unresolved readings — **2**
+  - scan 11 / printed p.10 — phrase after ஆகவே before வட்டிக்காக
+  - scan 31 / printed p.30 — classroom-anecdote object phrase under வால் மாத்திரம் பாக்கி
 - Gate C.5 — **REQUIRED / NOT STARTED**
 - Tamil verified — **false**
 - English — **BLOCKED**
 
 ## Exact next activity
 
-Perform **Gate C T3 first-pass Tamil transcription — scans 24–33 / printed pp.23–32**.
+Perform **Gate C T4 first-pass Tamil transcription — scans 34–43 / printed pp.33–42**.
 
-Requirements:
+Preserve headings, interventions, quoted material, figures, historical spelling, printed English and illustration context. Use only rendered source pixels. Mark unclear readings rather than guessing. Do not start Gate C.5 in the same iteration.
 
-1. transcribe directly from rendered scan pixels;
-2. append source-page markers 24→33 exactly once and in order;
-3. preserve headings, speaker/interventions, figures, punctuation where legible, historical source spelling and printed English;
-4. preserve illustration/cartoon context conservatively;
-5. do not normalize old glyph readings silently;
-6. mark genuinely unclear readings explicitly rather than guessing;
-7. leave the scan-11 unresolved marker untouched unless new direct source-pixel evidence resolves it;
-8. update metadata, verification log, source/reader README, mapping, handover and next prompt;
-9. do not begin Gate C.5 in the same iteration unless explicitly requested.
-
-Expected result: T3 **10 pages**, cumulative Gate-C **30/57**, exact unresolved count, next **T4 scans 34–43 / printed pp.33–42**.
+Expected result: T4 **10 pages**, cumulative Gate-C **40/57**, exact unresolved count, next **T5 scans 44–53 / printed pp.43–52**.

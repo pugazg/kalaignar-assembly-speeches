@@ -80,7 +80,7 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / LOCKED**
-- Gate C — **IN PROGRESS — T1–T2 scans 4–23 / 20 of 57 pages COMPLETE**
+- Gate C — **IN PROGRESS — T1–T3 scans 4–33 / 30 of 57 pages COMPLETE**
 - Gate C.5 — **REQUIRED / NOT STARTED**
 - Gate D–H — **BLOCKED / downstream**
 - Tamil verified — **no**
@@ -89,6 +89,6 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 
 ## Exact next activity
 
-Continue **Gate C first-pass Tamil transcription — T3 scans 24–33 / printed pp.23–32**.
+Continue **Gate C first-pass Tamil transcription — T4 scans 34–43 / printed pp.33–42**.
 
-T1–T2 scans 4–23 are durable with **20/57** body pages transcribed and **1 cumulative unresolved reading** (scan 11). Use only the rendered booklet scan. Do not import wording from Assembly or Council Official Reports.
+T1–T3 scans 4–33 are durable with **30/57** body pages transcribed and **2 cumulative unresolved readings** (scans 11 and 31). Use only the rendered booklet scan. Do not import wording from Assembly or Council Official Reports.

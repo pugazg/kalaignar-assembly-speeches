@@ -80,3 +80,25 @@ Status: **COMPLETE for this batch / Gate C remains IN PROGRESS**
 
 Exact continuation: **Gate C T3 — scans 24–33 / printed pp.23–32**.
 
+### Batch T3 — scans 24–33 / printed pp.23–32
+
+Status: **COMPLETE for this batch / Gate C remains IN PROGRESS**
+
+- pages transcribed — **10/10**
+- cumulative Gate-C coverage — **30/57 body pages**
+- source-page markers — **4→33 exactly once and in order**
+- source authority — rendered booklet pixels only
+- OCR / external Official Report wording imported — **none**
+- headings, named interventions, quoted material, figures and page transitions — preserved on first pass
+- illustration/context notes recorded conservatively for scans **24, 28 and 31**
+- new unresolved readings introduced in T3 — **1**
+  - scan 31 / printed p.30 — object phrase in the classroom anecdote under வால் மாத்திரம் பாக்கி
+- cumulative unresolved readings — **2**
+  - scan 11 / printed p.10 — existing phrase after ஆகவே before வட்டிக்காக
+  - scan 31 / printed p.30 — classroom-anecdote object phrase
+- Gate C.5 — **NOT STARTED**
+- Tamil verified_against_scan — **false**
+- English — **BLOCKED**
+
+Exact continuation: **Gate C T4 — scans 34–43 / printed pp.33–42**.
+
