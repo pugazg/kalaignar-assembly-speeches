@@ -65,7 +65,7 @@ Gate C.5 is mandatory.
 
 - Gate A — PASS
 - Gate B — PASS / LOCKED
-- Gate C — IN PROGRESS — T1–T4 scans 4–43 COMPLETE / 40 of 57 pages
+- Gate C — IN PROGRESS — T1–T5 scans 4–53 COMPLETE / 50 of 57 pages
 - Gate C.5 — REQUIRED
 - Gate D–E — NOT STARTED
 - English — BLOCKED
@@ -146,4 +146,23 @@ Exact next batch: **T4 scans 34–43 / printed pp.33–42**.
 - English — **BLOCKED**
 
 Exact next batch: **T5 scans 44–53 / printed pp.43–52**.
+
+## Gate C T5 — COMPLETE
+
+- scans — **44–53**
+- printed pages — **43–52**
+- pages transcribed — **10**
+- cumulative Gate C — **50/57**
+- source markers — **4→53 exactly once / monotonic**
+- source-printed English — scans **44, 46, 47, 48** preserved verbatim
+- scan 47 visible clipping `nd encouraged.` — deliberately not reconstructed
+- new unresolved readings — **0**
+- cumulative unresolved readings — **3**
+- unresolved locations — scans **11, 31, 37**
+- illustration/context notes — scans **44, 47, 52**
+- Gate C.5 — **NOT STARTED**
+- Tamil verified — **false**
+- English — **BLOCKED**
+
+Exact next batch: **T6 / FINAL scans 54–60 / printed pp.53–59**.
 

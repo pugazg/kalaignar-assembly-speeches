@@ -127,3 +127,28 @@ Status: **COMPLETE for this batch / Gate C remains IN PROGRESS**
 
 Exact continuation: **Gate C T5 — scans 44–53 / printed pp.43–52**.
 
+### Batch T5 — scans 44–53 / printed pp.43–52
+
+Status: **COMPLETE for this batch / Gate C remains IN PROGRESS**
+
+- pages transcribed — **10/10**
+- cumulative Gate-C coverage — **50/57 body pages**
+- source-page markers — **4→53 exactly once and in order**
+- source authority — rendered booklet pixels only
+- OCR / Official Report / outside-edition wording imported — **none**
+- source-printed English preserved verbatim on scans **44, 46, 47 and 48**
+  - scan 44 retains source grammar `This House is the opinion...` and joined word `shouldformulate`
+  - scan 47 retains the visible source-edge clipping `nd encouraged.` rather than reconstructing a missing initial letter
+  - scan 48 retains source spelling `distillor`
+- illustration/context notes recorded conservatively for scans **44, 47 and 52**
+- new unresolved readings introduced in T5 — **0**
+- cumulative unresolved readings — **3**
+  - scan 11 / printed p.10 — phrase after `ஆகவே` before `வட்டிக்காக`
+  - scan 31 / printed p.30 — classroom-anecdote object phrase
+  - scan 37 / printed p.36 — short phrase inside Rajaji quotation
+- Gate C.5 — **NOT STARTED**
+- Tamil `verified_against_scan=false`
+- English — **BLOCKED**
+
+Exact continuation: **Gate C T6 / FINAL — scans 54–60 / printed pp.53–59**.
+
