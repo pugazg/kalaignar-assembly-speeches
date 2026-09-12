@@ -52,8 +52,8 @@
   "gates": {
     "gate_a": "pass-complete",
     "gate_b": "pass-locked-booklet-level",
-    "gate_c": "in-progress",
-    "gate_c5": "required-not-started",
+    "gate_c": "complete",
+    "gate_c5": "ready-not-started",
     "gate_d": "not-started",
     "gate_e": "not-started",
     "gate_f": "blocked",
@@ -61,18 +61,18 @@
     "gate_h": "not-started"
   },
   "transcription": {
-    "status": "in-progress",
+    "status": "first-pass-complete",
     "verified_against_scan": false,
     "preserve_source_spelling": true,
     "preserve_source_punctuation": true,
     "page_boundaries_required": true,
     "historical_glyph_audit_required": true,
-    "next_batch": "scans 54-60 / printed pp.53-59",
-    "completed_scan_pages": "4-53",
-    "completed_printed_pages": "implied 3-52",
-    "completed_page_count": 50,
+    "next_batch": null,
+    "completed_scan_pages": "4-60",
+    "completed_printed_pages": "implied 3-59",
+    "completed_page_count": 57,
     "total_page_count": 57,
-    "last_batch": "T5",
+    "last_batch": "T6-final",
     "unresolved_readings": 3,
     "unresolved_reading_locations": [
       {
@@ -118,7 +118,9 @@
       46,
       47,
       48
-    ]
+    ],
+    "gate_c_complete": true,
+    "gate_c_completion_note": "Gate C first-pass Tamil transcription complete for all 57 body pages, scans 4-60 / implied printed pp.3-59. Source-page markers 4-60 occur exactly once and in order. Three unresolved readings remain at scans 11, 31 and 37. Gate C.5 historical-glyph audit is next."
   },
   "translation": {
     "status": "blocked",

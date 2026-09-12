@@ -152,3 +152,29 @@ Status: **COMPLETE for this batch / Gate C remains IN PROGRESS**
 
 Exact continuation: **Gate C T6 / FINAL — scans 54–60 / printed pp.53–59**.
 
+### Batch T6 / FINAL — scans 54–60 / printed pp.53–59
+
+Status: **COMPLETE / GATE C COMPLETE**
+
+- pages transcribed — **7/7**
+- cumulative Gate-C coverage — **57/57 body pages**
+- complete source-page marker sequence — **4→60 exactly once and in order**
+- source authority — rendered booklet pixels only
+- OCR / Official Report / outside-edition wording imported — **none**
+- parliamentary interventions and headings on scans 54–60 — preserved on first pass
+- Kambaramayanam quotations / prohibition discussion / crime-and-permit figures / closing appeal — preserved in source order
+- scan 60 concluding heading `நன்றி.` and final `வணக்கம்.` — preserved
+- later library stamp below the closing speech on scan 60 — **not transcribed as speech text**
+- scan 61 — back cover / non-speech matter
+- new unresolved readings introduced in T6 — **0**
+- cumulative unresolved readings — **3**
+  - scan 11 / printed p.10 — phrase after `ஆகவே` before `வட்டிக்காக`
+  - scan 31 / printed p.30 — classroom-anecdote object phrase
+  - scan 37 / printed p.36 — short phrase inside Rajaji quotation
+- Gate C — **PASS / COMPLETE at first-pass transcription level**
+- Gate C.5 — **READY / NOT STARTED**
+- Tamil `verified_against_scan=false`
+- English — **BLOCKED**
+
+Exact continuation: **Gate C.5 historical-glyph audit for scans 4–60 / 57 pages**, beginning with the first logical batch **scans 4–13**. Do not begin Gate D until Gate C.5 is complete.
+

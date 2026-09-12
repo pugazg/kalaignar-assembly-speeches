@@ -31,10 +31,10 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / LOCKED**
-- Gate C — **IN PROGRESS — T1–T5 scans 4–53 COMPLETE; 50/57 pages**
-- Gate C.5 — **REQUIRED / NOT STARTED**
+- Gate C — **PASS / COMPLETE — T1–T6 scans 4–60; 57/57 pages**
+- Gate C.5 — **READY / NOT STARTED — historical-glyph audit next**
 - Gate D–H — **NOT STARTED**
-- Tamil — **FIRST PASS IN PROGRESS / NOT VERIFIED — 3 unresolved readings**
+- Tamil — **FIRST PASS COMPLETE / NOT VERIFIED — 3 unresolved readings; Gate C.5 next**
 - English — **BLOCKED**
 - release — **NOT RELEASED**
 
@@ -42,7 +42,7 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 
 - [`metadata.json`](./metadata.json)
 - [`source-notes.md`](./source-notes.md)
-- [`transcript.md`](./transcript.md) — Gate-C first-pass Tamil; T1–T5 scans 4–53 complete.
+- [`transcript.md`](./transcript.md) — Gate-C first-pass Tamil complete for scans 4–60 / 57 pages.
 - [`verification-log.md`](./verification-log.md)
 - [`historical-glyph-audit.md`](./historical-glyph-audit.md)
 
@@ -56,4 +56,4 @@ This booklet-level entry is intentionally **not** added to the canonical dated s
 
 ## Exact next activity
 
-Gate C T6 / FINAL — transcribe **scans 54–60 / printed pp.53–59** directly from the rendered booklet scan.
+Gate C.5 historical-glyph audit — begin with **scans 4–13 / implied printed pp.3–12**. Audit the 1971 historical typeforms against rendered pixels; do not begin Gate D.

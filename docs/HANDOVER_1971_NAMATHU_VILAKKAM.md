@@ -65,7 +65,7 @@ Gate C.5 is mandatory.
 
 - Gate A — PASS
 - Gate B — PASS / LOCKED
-- Gate C — IN PROGRESS — T1–T5 scans 4–53 COMPLETE / 50 of 57 pages
+- Gate C — PASS / COMPLETE — T1–T6 scans 4–60 / 57 of 57 pages
 - Gate C.5 — REQUIRED
 - Gate D–E — NOT STARTED
 - English — BLOCKED
@@ -165,4 +165,28 @@ Exact next batch: **T5 scans 44–53 / printed pp.43–52**.
 - English — **BLOCKED**
 
 Exact next batch: **T6 / FINAL scans 54–60 / printed pp.53–59**.
+
+## Gate C T6 / FINAL — COMPLETE
+
+- scans — **54–60**
+- printed pages — **53–59**
+- pages transcribed — **7**
+- cumulative Gate C — **57/57**
+- source markers — **4→60 exactly once / monotonic**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **3**
+- unresolved locations — scans **11, 31, 37**
+- scan 60 closing `நன்றி.` / `வணக்கம்.` — preserved
+- later library stamp on scan 60 — excluded from speech text
+- scan 61 — back cover / non-speech
+- Gate C — **COMPLETE**
+- Gate C.5 — **READY / NOT STARTED**
+- Tamil verified — **false**
+- English — **BLOCKED**
+
+## Exact next activity
+
+Begin **Gate C.5 historical-glyph audit — scans 4–13 / implied printed pp.3–12**.
+
+Audit reform-sensitive historical typeforms directly against the source pixels. Do not global-replace. Preserve the three unresolved markers unless the scan itself resolves them. Do not begin Gate D in the same iteration.
 
