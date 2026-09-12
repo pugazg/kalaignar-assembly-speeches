@@ -57,9 +57,9 @@ Status: **PASS / COMPLETE**
 
 - **CR2:** **COMPLETE** — scans 20–21 and 25–27 are page-level closed
 - **CR3:** **COMPLETE** — scans 34–35 are page-level closed
-- then: whole-Tamil recovery audit
-- then: English repair/retranslation for recovered spans
-- then: English fidelity recheck and Gate-H canonical revalidation/re-release.
+- whole-Tamil recovery integrity audit — **PASS / COMPLETE**
+- next: Gate-E Tamil fidelity recheck for affected recovered pages/spans
+- later: English repair/retranslation, Gate-G recheck and Gate-H canonical revalidation/re-release.
 
 ## Page-by-page revalidation
 
@@ -700,7 +700,7 @@ The remaining **34** marked line beginnings require no inserted text. They eithe
 - `கும்ப / கோணத்தில்`;
 - `வழங் / கப்பட்ட`;
 - `அக்கு / லெட்ஜ்மெண்டுகளை`;
-- `தெரிவிக்கப்பட்ட / டும்`;
+- `தெரிவிக்கப்பட் / டும்`;
 - `மொத் / தம்`;
 - `ஆயி / ரம்`.
 
@@ -741,4 +741,64 @@ Page-boundary evidence:
 All legacy gutter-crop pages in Unit 1 are now individually recovered and page-level revalidated.
 
 Exact next activity: **whole-Tamil crop-recovery integrity audit** across scans 4–40, with special attention to the recovered pages and page boundaries. Do not begin Gate-E fidelity recheck until that whole-Tamil integrity audit passes.
+
+## Whole-Tamil crop-recovery integrity audit
+
+Status: **PASS / COMPLETE**
+
+Scope:
+
+- canonical Tamil layer: booklet scans **4–40** / printed pp. **3–39**;
+- individually recovered pages: **4–5, 10–11, 20–21, 25–27, 34–35**;
+- audit type: structural / provenance / boundary integrity check, not a new transcription pass.
+
+Automated canonical checks:
+
+- source-page markers **4–40**: **37 / 37**, each exactly once and strictly monotonic;
+- legacy gutter placeholders on all recovered pages: **0**;
+- legacy gutter placeholders anywhere in the canonical Tamil layer: **0**;
+- recovered pages checked individually: **11 / 11**;
+- documented recovery boundaries checked: **9 / 9 PASS**;
+- scan-13 small cartoon-label hold remains separate and unchanged as an explicit non-reconstruction note.
+
+Boundary integrity confirmed:
+
+1. scan 4 → 5: `சுதந்திரக் / கட்சியின்`;
+2. scan 5 → 6: `பாளையங் / கோட்டைச்`;
+3. scan 20 → 21: `இங்கே சுட்டிக் காட்டினேன்.` → `அது மாத்திரமல்ல...`;
+4. scan 21 → 22: `கட்டுப்படுத்து / கின்ற`;
+5. scan 25 → 26: `உட்படுத்தப்பட்டிருக் / கிறதா?`;
+6. scan 26 → 27: sentence close → `திட்டக் குழுவில்...`;
+7. scan 27 → 28: `தேர்ந் / தெடுக்கப்படுகிற`;
+8. scan 34 → 35: `நாங்கள் / செலவு செய்துவிட்ட...`;
+9. scan 35 → 36: sentence close → heading `ஒன்பது அறிவிப்புகள்`.
+
+Recovery-record consistency confirmed:
+
+- page-5 Ponnappa Nadar split remains source-supported;
+- page-10 `நில வரியைக் / குறைத்தோம்` remains intact;
+- page-20 `வரியையெல்லாம்` remains intact;
+- page-21 `அடிபட்டு` and booklet double quotation around `அன் அக்கெளண்டட் மணி` remain intact;
+- page-25 embedded English `THIRUMATHI T. N. ANANDANAYAKI...` and recovered `have` remain intact;
+- page-27 embedded English `Ratification` remains intact;
+- page-34 booklet-specific `லைசென்ஸ்` and `வந்து` remain unnormalized;
+- page-35 dates / figures remain intact: **27-2-1972, 6,764, 15-6-1972, 26,150, 14-9-1972, 28-2-1973, 1,15,227, பிப்ரவரி 1973, 1,48,000, 1,41,000, 8,700**.
+
+Integrity-audit correction:
+
+- scan 35 had one residual booklet-lineation mismatch left by the page-level pass:
+  - previous canonical: `ஆட்சேபணை தெரிவிக்கப்பட்ட / டும்`;
+  - booklet pixels: `ஆட்சேபணை தெரிவிக்கப்பட் / டும்`;
+  - canonical Tamil corrected to the booklet-visible physical split, yielding continuous `தெரிவிக்கப்பட்டும்`;
+  - this is a **booklet-pixel lineation correction**, not a TNLA normalization;
+  - no recovery count changed: page-35 direct official-witness recoveries remain **2**, with **34** no-insert positions.
+
+Audit result:
+
+- whole-Tamil crop-recovery integrity: **PASS**;
+- unresolved legacy gutter holds: **0**;
+- contextual guesses introduced by recovery: **0**;
+- page-level recovery phase: **CLOSED**.
+
+Exact next activity: **Gate-E Tamil fidelity recheck for the affected recovered pages/spans only**. Do not repair English, run Gate G, re-close Gate H, restore RELEASED, or resume Unit 2 in the same iteration.
 
