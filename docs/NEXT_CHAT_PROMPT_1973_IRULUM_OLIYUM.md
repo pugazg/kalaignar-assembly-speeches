@@ -1,69 +1,68 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate D D1
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 crop recovery page 5
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Do not reset to a stale checkpoint.
+Fetch live `main` first and preserve newer durable work.
 
-Last archival-content checkpoint before this documentation update:
+Last durable checkpoint before this documentation update:
 
-`45eaffb05ec12d462136764ff58c261eb3d269e1`
+`bb415982708f2eb123629c7fb18cfd593490fe4b`
 
-Message: `Close 1973 Council glyph audit mapping`
+Message: `Advance Unit 1 crop recovery to page 5`
 
-Unit 1 is **fully released through Gate H**. Do not reopen it absent genuinely new contrary source evidence.
+## Why Unit 1 is reopened
 
-## Controlling source
+Unit 1 had already passed Gate H, but genuinely new official evidence is now available:
+
+`927193.pdf` — **Tamil Nadu Legislative Assembly Debates, 7 March 1973**
+
+SHA-256: `b56b0e2d70fb64ec026312ca62d925cb2ef7df32feb8a9578848df97461c54b4`
+
+It is an independent official witness for the same Assembly reply and may be used **only to recover wording physically missing from the cropped gutter of the controlling booklet scan**.
+
+## Controlling booklet
 
 `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`
 
-- physical scans: **64**
-- bytes: **101,602,456**
-- SHA-256: `0330e70d6d7a62e2c84d712966a8436b91956d722134bc71ca0b2329283f8694`
-- image-only controlling source
-- source pixels outrank OCR/context
-- do not commit the PDF
+- Unit 1 scans: **4–40**
+- printed pp.: **3–39**
+- visible booklet wording remains controlling
+- do not normalize to TNLA wording where booklet pixels are legible
 
-## Unit 2 durable state
+## Durable crop-recovery state
 
-- Gate A — **PASS**
-- Gate B — **PASS / LOCKED**
-- Gate C — **COMPLETE — 22/22 pages**
-- Gate C.5 — **PASS / COMPLETE — 22/22 pages**
-  - HG1 scans 41–50 — PASS — 1 correction
-  - HG2 scans 51–60 — PASS — 1 correction
-  - HG3 scans 61–62 — PASS — 0 corrections
-  - cumulative historical-glyph corrections: **2**
-  - unresolved glyph clusters: **0**
-- Gate D — **NEXT / NOT STARTED**
-- Gates E–H — **NOT STARTED / downstream**
-- Tamil — **not verified**
-- English — **BLOCKED**
+Workflow: **page by page**
 
-Gate C.5 corrections:
+### Scan 4 / printed p.3
 
-1. scan 44 / printed p.43: `மாறுக` → `மாறாக` — historical `றா`;
-2. scan 58 / printed p.57: `வேலதான்` → `வேலைதான்` — historical `லை`.
+**PASS / PAGE-LEVEL RECOVERY VERIFIED**
 
-Do not reopen these without direct contrary source-pixel evidence.
+- old crop markers reviewed: **38**
+- direct source-supported missing-fragment recoveries: **10**
+- crop markers remaining: **0**
+- booklet physical line breaks preserved
+- no contextual guessing
+- TNLA evidence: PDF pp.86–87 / proceedings pp.484–485
+- page boundary confirmed: scan 4 ends `சுதந்திரக்`; scan 5 begins `கட்சியின் சார்பில் ...`
 
-## Exact next activity — Gate D D1
+### Other pages
 
-Audit **scans 41–50 / printed pp.40–49** for Tamil completeness.
+Earlier bulk recovery touched scans 5 and 10–11, but under the new page-by-page protocol they are **not yet page-level revalidated**. Review them individually when their turn comes.
 
-Requirements:
+Unit 2 Gate D D1 is **paused**.
 
-- create/use `speeches/1973/1973-03-08-financial-statement-reply/completeness-audit.md`;
-- confirm source-page markers **41→50** exist exactly once and in order;
-- verify page-start/page-end continuity against the scan;
-- confirm printed headings, speaker labels and interventions are represented;
-- confirm printed illustrations/source context already retained are represented without invented text;
-- confirm no page, paragraph, intervention or page-boundary continuation is omitted or duplicated;
-- confirm source-loss/unresolved state remains explicit; do not reconstruct missing text;
-- record any completeness corrections with scan provenance;
-- update metadata, README, verification log, mapping and handover;
-- keep `transcription.verified_against_scan=false`;
-- **do not begin Gate E** in the same iteration.
+## Exact next activity
 
-Normal Gate-D batch size is **10 scan pages**. After D1, expected continuation is **D2 scans 51–60 / printed pp.50–59**, followed by the final short D3 scans 61–62.
+Work **only on booklet scan 5 / printed p.4**.
+
+1. Read the pre-recovery scan-5 text and all `⟦scan-crop⟧` positions.
+2. Visually inspect the controlling booklet scan.
+3. Compare the matching TNLA proceedings passage.
+4. Recover only the missing left-gutter characters/words.
+5. Preserve booklet-visible wording and physical line breaks.
+6. Remove a crop marker only when the official witness confirms the exact continuation.
+7. Record each recovered fragment and page-boundary evidence in `crop-recovery-audit.md`.
+8. Update metadata/README/handover.
+9. **Do not proceed to scan 10 or any other page in the same iteration.**
