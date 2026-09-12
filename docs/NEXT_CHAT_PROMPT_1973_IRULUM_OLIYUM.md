@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 Gate-E Tamil fidelity recheck
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 English repair for recovered spans
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,11 +8,15 @@ Fetch live `main` first and preserve newer durable work.
 
 Live checkpoint immediately before this prompt refresh:
 
-`5b15eaffa44b14033d59ecb67dbd75181560b5d9` — `Hand off recovered spans to Gate E recheck`
+`31f678cdc236806393a2eebc5ca9400d82a62b90` — `Hand off to English repair after Gate E pass`
 
 If live `main` is newer, preserve the newer state.
 
 ## Source hierarchy
+
+Controlling Tamil translation source:
+
+the **post-recovery Gate-E-verified Tamil** in canonical `transcript.md`.
 
 Controlling booklet:
 
@@ -22,15 +26,17 @@ Official crop-recovery witness:
 
 `927193.pdf` — *Tamil Nadu Legislative Assembly Debates, 7 March 1973*
 
-The booklet pixels remain controlling wherever legible. TNLA may support **only text physically absent because of gutter crop**. Never normalize visible booklet wording to TNLA.
+For English repair, translate from the final verified Tamil. Do not independently normalize Tamil to TNLA. Source-printed English embedded in the booklet remains verbatim.
 
-## Durable recovery state
+## Durable Tamil state
 
 Page-level crop recovery: **COMPLETE**
 
 Whole-Tamil crop-recovery integrity audit: **PASS / COMPLETE**
 
-Recovered / individually closed scans:
+Focused post-recovery Gate-E Tamil fidelity recheck: **PASS / COMPLETE**
+
+Recovered / reverified scans:
 
 - **4–5**
 - **10–11**
@@ -38,49 +44,62 @@ Recovered / individually closed scans:
 - **25–27**
 - **34–35**
 
-Integrity-audit result:
+Gate-E recheck result:
 
-- Tamil source-page markers 4–40: **37 / 37**, unique and monotonic;
-- recovered pages checked: **11 / 11**;
-- legacy gutter placeholders remaining: **0**;
-- documented recovery boundaries: **9 / 9 PASS**;
-- scan-13 small cartoon-label hold remains separate / unchanged;
-- contextual recovery guesses: **0**;
-- booklet-specific forms retained against TNLA differences: **PASS**.
+- affected booklet scans visually re-read: **11 / 11**;
+- direct recoveries and adjacent booklet-visible text: **PASS**;
+- names / speaker labels: **PASS**;
+- numerals / dates / money / units: **PASS**;
+- embedded English: **PASS**;
+- headings / interventions / punctuation / physical lineation: **PASS**;
+- recovery-touched boundaries: **9 / 9 PASS**;
+- focused Gate-E new corrections: **0**;
+- unresolved Tamil fidelity questions: **0**;
+- `transcription.verified_against_scan=true`.
 
-One integrity-audit correction was required on scan 35:
+The prior integrity-audit scan-35 correction remains confirmed:
 
-- `ஆட்சேபணை தெரிவிக்கப்பட்ட / டும்`
-- → booklet-visible `ஆட்சேபணை தெரிவிக்கப்பட் / டும்`
-- continuous word remains `தெரிவிக்கப்பட்டும்`.
+`ஆட்சேபணை தெரிவிக்கப்பட் / டும்` → continuous `தெரிவிக்கப்பட்டும்`.
 
 Unit 2 Gate D D1 remains **paused**.
 
 ## Exact next activity
 
-Perform **Gate-E Tamil fidelity recheck only for the recovered pages/spans**:
+Repair / retranslate **only the English recovered spans** for source pages:
 
 **4–5, 10–11, 20–21, 25–27, 34–35**
 
-This is a focused fidelity recheck, not a whole-speech retranscription.
+The current English on those pages is the pre-recovery Gate-G version and still contains **249 legacy `⟦scan-crop⟧` markers**.
 
-For every affected span:
+Marker inventory:
 
-1. compare canonical Tamil to the controlling booklet pixels;
-2. use TNLA only where the booklet gutter physically removed text;
-3. verify every direct recovery recorded in `crop-recovery-audit.md`;
-4. verify booklet-visible text adjacent to every recovery;
-5. recheck names, initials and speaker labels;
-6. recheck numerals, dates, percentages, money and units;
-7. recheck embedded English, especially:
-   - `THIRUMATHI T. N. ANANDANAYAKI...`
-   - `Ratification`;
-8. recheck headings, intervention boundaries and punctuation where legible;
-9. preserve physical line breaks and all nine recovery-touched page boundaries;
-10. confirm booklet-specific forms retained against TNLA differences;
-11. explicitly recheck scan-35 `தெரிவிக்கப்பட் / டும்`;
-12. record any Gate-E correction in `verification-log.md`, metadata, README, handover and this prompt.
+- p4 — **24**
+- p5 — **12**
+- p10 — **21**
+- p11 — **11**
+- p20 — **32**
+- p21 — **20**
+- p25 — **30**
+- p26 — **28**
+- p27 — **33**
+- p34 — **6**
+- p35 — **32**
 
-If the focused Gate-E recheck passes, the next activity is **English repair / retranslation for the recovered spans**.
+Repair rules:
 
-Do **not** repair English, run Gate G, re-close Gate H, restore RELEASED, or resume Unit 2 in this iteration.
+1. use only the final post-recovery Gate-E-verified Tamil as the translation source;
+2. remove inherited English crop markers where the final Tamil now supplies recovered wording;
+3. preserve source-page boundaries exactly;
+4. preserve speaker labels, interventions, repetition, humour and parliamentary voice;
+5. preserve dates, numerals, money, units, project names and Plan chronology exactly;
+6. preserve source-printed English verbatim, especially:
+   - scan 25 `THIRUMATHI T. N. ANANDANAYAKI...`
+   - scan 27 `Ratification`;
+7. repair only the changed / formerly cropped English spans; do not gratuitously rewrite already verified unaffected English;
+8. update canonical English in `transcript.md`;
+9. verify the 11 repaired English source-page sections now contain **0** legacy crop markers;
+10. update metadata, README, verification log / translation review as appropriate, handover and this prompt.
+
+If English repair completes cleanly, the exact next activity is **Gate-G English fidelity recheck for the repaired recovered spans**.
+
+Do **not** run Gate G, re-close Gate H, restore RELEASED, or resume Unit 2 in the same iteration.
