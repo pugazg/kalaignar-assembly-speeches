@@ -45,10 +45,10 @@
     "verified_against_scan": false,
     "completed_scan_pages": "4-40",
     "completed_printed_pages": "3-39",
-    "source_crop_holds": "recovered and page-level revalidated on scans 4-5, 10-11, 20-21 and 25-27; remaining physical gutter-loss holds: scans 34-35; scan 13 smaller cartoon labels remain separately unresolved",
+    "source_crop_holds": "recovered and page-level revalidated on scans 4-5, 10-11, 20-21, 25-27 and 34; remaining physical gutter-loss hold: scan 35; scan 13 smaller cartoon labels remain separately unresolved",
     "verified_scan_pages": "4-40",
     "completeness_audit_passed": true,
-    "verification_note": "New official TNLA Assembly Debates evidence dated 7 March 1973 permits evidence-based recovery of text physically missing from the booklet scan. Strict page-by-page revalidation has now closed scans 4-5, 10-11, 20-21 and 25-27 with booklet line breaks preserved and no contextual guessing. Scan 5 corrected the earlier bulk join before Ponnappa Nadar; scan 10 restored the cropped `க்` in `நில வரியைக் குறைத்தோம்`; scan 20 restored right-gutter text and corrected booklet-visible `வரியையெல்லாம்`; scan 21 recovered the cross-line `இருக்கின்றன` and corrected booklet-visible `அடிபட்டு`; scans 25-26 restored project/electricity-page crop losses; scan 27 restored ten left-gutter characters, corrected source-visible `கடற் / கரையில்`, `திட்டங்களை`, and repeated `நடந்திருக்கிறது`, and preserved the cross-page `தேர்ந்தெடுக்கப்படுகிற` boundary. Because canonical Tamil has changed after the prior Gate-E/G/H release, Tamil and English fidelity plus release integrity require revalidation after crop recovery is complete."
+    "verification_note": "New official TNLA Assembly Debates evidence dated 7 March 1973 permits evidence-based recovery of text physically missing from the booklet scan. Strict page-by-page revalidation has now closed scans 4-5, 10-11, 20-21, 25-27 and 34 with booklet line breaks preserved and no contextual guessing. Scan 34 restored the missing period after `லைசென்ஸ் வழங்கப்படவில்லை` and the cropped final `ர்` in `முதல் அமைச்சர்`, while deliberately retaining booklet-visible `லைசென்ஸ்` and `வந்து` where TNLA differs. Because canonical Tamil has changed after the prior Gate-E/G/H release, Tamil and English fidelity plus release integrity require revalidation after crop recovery is complete."
   },
   "translation": {
     "language": "English",
@@ -210,19 +210,19 @@
     "secondary_source_file_size_bytes": 184860788,
     "secondary_source_sha256": "b56b0e2d70fb64ec026312ca62d925cb2ef7df32feb8a9578848df97461c54b4",
     "authority": "official TNLA proceedings used only to recover material physically absent from the controlling booklet scan; visible booklet wording remains controlling wherever legible",
-    "recovered_scan_pages": "4-5, 10-11, 20-21, 25-27",
-    "recovered_page_count": 9,
+    "recovered_scan_pages": "4-5, 10-11, 20-21, 25-27, 34",
+    "recovered_page_count": 10,
     "crop_placeholders_removed_cr1": 99,
-    "remaining_actual_tamil_crop_placeholders": 43,
-    "remaining_crop_scan_pages": "34-35",
-    "next_batch": "Page-by-page recovery — scan 34 / printed p.33",
+    "remaining_actual_tamil_crop_placeholders": 37,
+    "remaining_crop_scan_pages": "35",
+    "next_batch": "Page-by-page recovery — scan 35 / printed p.34",
     "tamil_revalidation_required": true,
     "english_repair_required": true,
     "release_revalidation_required": true,
     "workflow_mode": "page-by-page",
-    "page_by_page_verified_scan_pages": "4-5, 10-11, 20-21, 25-27",
-    "page_by_page_verified_count": 9,
-    "next_page_by_page_scan": 34,
+    "page_by_page_verified_scan_pages": "4-5, 10-11, 20-21, 25-27, 34",
+    "page_by_page_verified_count": 10,
+    "next_page_by_page_scan": 35,
     "page4": {
       "status": "verified-recovery",
       "old_crop_markers": 38,
@@ -391,6 +391,28 @@
       "incoming_page_boundary": "scan 26 ends `பின், திட்டக் குழுவிற்கு அதை அனுப்பும்.`; scan 27 begins `திட்டக் குழுவில் தொழில் நுட்ப ஆலோசனைக் குழு மறு`",
       "outgoing_page_boundary": "scan 27 ends `... தேர்ந்`; scan 28 begins `தெடுக்கப்படுகிற ...`, forming cross-page `தேர்ந்தெடுக்கப்படுகிற`",
       "next_scan_page": 34
+    },
+    "page34": {
+      "status": "verified-recovery",
+      "old_crop_markers": 6,
+      "old_crop_marker_accounting": "6 literal occurrences in the pre-recovery block = 5 line-level source-loss placeholders + 1 literal token in the explanatory scan-condition note",
+      "source_loss_positions_revalidated": 5,
+      "remaining_crop_markers": 0,
+      "direct_missing_fragment_recoveries": 2,
+      "no_insert_fragment_positions": 3,
+      "source_line_breaks_preserved": true,
+      "direct_recoveries": [
+        "`லைசென்ஸ் வழங்கப்படவில்லை` -> `லைசென்ஸ் வழங்கப்படவில்லை.`",
+        "`முதல் அமைச்ச` -> `முதல் அமைச்சர்`"
+      ],
+      "booklet_forms_retained": [
+        "`லைசென்ஸ்` retained instead of TNLA `லைசென்சே`",
+        "booklet-visible `வந்து` retained after `கொட்டகைகள் எல்லாம் போட்டுவிட்டு`"
+      ],
+      "tnla_evidence": "PDF p.112 / proceedings p.510; p.113 / proceedings p.511 checked for continuation context",
+      "incoming_page_boundary": "scan 33 closes the electricity-relief/private-generator-tax paragraph; scan 34 begins the street-light restriction paragraph",
+      "outgoing_page_boundary": "scan 34 ends `... எப்படியாவது, நாங்கள்`; scan 35 begins `செலவு செய்துவிட்ட காரணத்தினாலே...`",
+      "next_scan_page": 35
     }
   }
 }
