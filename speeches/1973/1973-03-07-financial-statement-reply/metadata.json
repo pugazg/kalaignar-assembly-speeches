@@ -45,10 +45,10 @@
     "verified_against_scan": false,
     "completed_scan_pages": "4-40",
     "completed_printed_pages": "3-39",
-    "source_crop_holds": "recovered and page-level revalidated on scans 4-5, 10-11, 20-21, 25-27 and 34; remaining physical gutter-loss hold: scan 35; scan 13 smaller cartoon labels remain separately unresolved",
+    "source_crop_holds": "all legacy gutter-loss pages recovered and individually page-level revalidated on scans 4-5, 10-11, 20-21, 25-27 and 34-35; scan 13 smaller cartoon labels remain separately unresolved",
     "verified_scan_pages": "4-40",
     "completeness_audit_passed": true,
-    "verification_note": "New official TNLA Assembly Debates evidence dated 7 March 1973 permits evidence-based recovery of text physically missing from the booklet scan. Strict page-by-page revalidation has now closed scans 4-5, 10-11, 20-21, 25-27 and 34 with booklet line breaks preserved and no contextual guessing. Scan 34 restored the missing period after `லைசென்ஸ் வழங்கப்படவில்லை` and the cropped final `ர்` in `முதல் அமைச்சர்`, while deliberately retaining booklet-visible `லைசென்ஸ்` and `வந்து` where TNLA differs. Because canonical Tamil has changed after the prior Gate-E/G/H release, Tamil and English fidelity plus release integrity require revalidation after crop recovery is complete."
+    "verification_note": "Official TNLA Assembly Debates evidence dated 7 March 1973 has now been used to recover all legacy gutter-crop text physically missing from the booklet scan. Strict page-by-page revalidation is complete for scans 4-5, 10-11, 20-21, 25-27 and 34-35, with booklet line breaks preserved and no contextual guessing. Scan 35 restored cropped `1,41,000` and the concluding `ஆக,` before `ஒரு இலட்சத்து 57 ஆயிரம்...`. Canonical Tamil has changed after the prior Gate-E/G/H release, so the exact next step is a whole-Tamil crop-recovery integrity audit before Gate-E, English repair, Gate-G and Gate-H revalidation."
   },
   "translation": {
     "language": "English",
@@ -202,7 +202,7 @@
     "next_gate": "F"
   },
   "crop_recovery": {
-    "status": "in-progress",
+    "status": "page-level-recovery-complete-integrity-audit-next",
     "secondary_source_filename": "927193.pdf",
     "secondary_source_title": "Tamil Nadu Legislative Assembly Debates",
     "secondary_source_date": "1973-03-07",
@@ -210,19 +210,19 @@
     "secondary_source_file_size_bytes": 184860788,
     "secondary_source_sha256": "b56b0e2d70fb64ec026312ca62d925cb2ef7df32feb8a9578848df97461c54b4",
     "authority": "official TNLA proceedings used only to recover material physically absent from the controlling booklet scan; visible booklet wording remains controlling wherever legible",
-    "recovered_scan_pages": "4-5, 10-11, 20-21, 25-27, 34",
-    "recovered_page_count": 10,
+    "recovered_scan_pages": "4-5, 10-11, 20-21, 25-27, 34-35",
+    "recovered_page_count": 11,
     "crop_placeholders_removed_cr1": 99,
-    "remaining_actual_tamil_crop_placeholders": 37,
-    "remaining_crop_scan_pages": "35",
-    "next_batch": "Page-by-page recovery — scan 35 / printed p.34",
+    "remaining_actual_tamil_crop_placeholders": 0,
+    "remaining_crop_scan_pages": "",
+    "next_batch": "Whole-Tamil crop-recovery integrity audit — scans 4-40",
     "tamil_revalidation_required": true,
     "english_repair_required": true,
     "release_revalidation_required": true,
     "workflow_mode": "page-by-page",
-    "page_by_page_verified_scan_pages": "4-5, 10-11, 20-21, 25-27, 34",
-    "page_by_page_verified_count": 10,
-    "next_page_by_page_scan": 35,
+    "page_by_page_verified_scan_pages": "4-5, 10-11, 20-21, 25-27, 34-35",
+    "page_by_page_verified_count": 11,
+    "next_page_by_page_scan": null,
     "page4": {
       "status": "verified-recovery",
       "old_crop_markers": 38,
@@ -413,6 +413,25 @@
       "incoming_page_boundary": "scan 33 closes the electricity-relief/private-generator-tax paragraph; scan 34 begins the street-light restriction paragraph",
       "outgoing_page_boundary": "scan 34 ends `... எப்படியாவது, நாங்கள்`; scan 35 begins `செலவு செய்துவிட்ட காரணத்தினாலே...`",
       "next_scan_page": 35
+    },
+    "page35": {
+      "status": "verified-recovery-final-legacy-crop-page",
+      "old_crop_markers": 37,
+      "old_crop_marker_accounting": "37 literal occurrences in the pre-recovery block = 36 line-level source-loss placeholders + 1 literal token in the explanatory scan-condition note",
+      "source_loss_positions_revalidated": 36,
+      "remaining_crop_markers": 0,
+      "direct_missing_fragment_recoveries": 2,
+      "no_insert_fragment_positions": 34,
+      "source_line_breaks_preserved": true,
+      "direct_recoveries": [
+        "`,41,000 பேர்` -> `1,41,000 பேர்`",
+        "`ஒரு இலட்சத்து 57 ஆயிரம் பட்டாக்களுக்கான அந்த` -> `ஆக, ஒரு இலட்சத்து 57 ஆயிரம் பட்டாக்களுக்கான அந்த`"
+      ],
+      "figures_rechecked": "27-2-1972; 6,764; 15-6-1972; 26,150; 14-9-1972; 28-2-1973; 1,15,227; பிப்ரவரி 1973; 1,48,000; 1,41,000; 8,700; one lakh 57 thousand; one lakh 41 thousand; eight thousand; seven thousand",
+      "tnla_evidence": "PDF p.112 / proceedings p.510 for the opening continuation; PDF p.113 / proceedings p.511 for the housing-patta passage",
+      "incoming_page_boundary": "scan 34 ends `... எப்படியாவது, நாங்கள்`; scan 35 begins `செலவு செய்துவிட்ட காரணத்தினாலே...`",
+      "outgoing_page_boundary": "scan 35 ends `விவரத்தை நான் இங்கே தெரிவித்துக்கொள்கிறேன்.`; scan 36 begins heading `ஒன்பது அறிவிப்புகள்`",
+      "next_activity": "whole-Tamil crop-recovery integrity audit"
     }
   }
 }
