@@ -60,3 +60,49 @@ Status: **PASS / COMPLETE**
 - then: whole-Tamil recovery audit
 - then: English repair/retranslation for recovered spans
 - then: English fidelity recheck and Gate-H canonical revalidation/re-release.
+
+## Page-by-page revalidation
+
+The recovery workflow is now proceeding **one booklet page at a time**. A page is not considered revalidated merely because an earlier bulk recovery removed its placeholders.
+
+### Booklet scan 4 / printed p.3
+
+Status: **PASS / PAGE-LEVEL RECOVERY VERIFIED**
+
+Evidence:
+
+- controlling booklet: `இருளும் ஒளியும்`, scan **4**;
+- independent official witness: *Tamil Nadu Legislative Assembly Debates*, **7 March 1973**, TNLA PDF pp. **86–87** / proceedings pp. **484–485**;
+- the TNLA witness confirms the same opening reply, the **81 / 175 / 38 / 58 / 43** figures, the first procedural paragraph, and the opening of the Thangamani discussion;
+- visible booklet wording remains controlling wherever legible.
+
+Review result:
+
+- old page-4 `⟦scan-crop⟧` markers reviewed: **38**;
+- page-4 markers remaining: **0**;
+- source line breaks: **preserved**;
+- direct missing-fragment recoveries: **10**;
+- other edge markers required no additional textual fragment after the official witness confirmed the continuation;
+- contextual/grammar-only guesses: **0**;
+- global replacements: **0**.
+
+Direct recovered fragments:
+
+1. `மாமன்ற` → `மாமன்றத்`
+2. `காங்கிர` → `காங்கிரஸ்`
+3. `அவர்க` → `அவர்கள்`
+4. `கழ` → `கழக`
+5. first `உறுப்பினர` → `உறுப்பினர்`
+6. `அவரவர்க` → `அவரவர்கள்`
+7. `இரு` → `இருந்`
+8. second `உறுப்பினர` → `உறுப்பினர்`
+9. `பாராட்டுதல` → `பாராட்டுதலை`
+10. final `சுதந்திர` → `சுதந்திரக்`
+
+Cross-page boundary is now explicit and source-supported:
+
+- scan 4 ends: `... எனக்கு அது புரிந்தது. சுதந்திரக்`
+- scan 5 begins: `கட்சியின் சார்பில் ...`
+
+Exact next page-by-page activity: **booklet scan 5 / printed p.4**.
+
