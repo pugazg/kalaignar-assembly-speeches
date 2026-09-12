@@ -197,3 +197,32 @@ Unresolved completeness questions: **0**.
 
 Exact continuation: **Gate D D2 — scans 51–60 / printed pp.50–59**. Do not begin Gate E in the same iteration.
 
+### D2 — scans 51–60 / printed pp.50–59
+
+Status: **PASS**
+
+- visually compared all ten canonical page blocks to the controlling booklet scans for completeness / structure;
+- source-page markers **51→60** are present exactly once and in order;
+- page-boundary continuations **51→52 through 59→60**: **9 / 9 PASS**;
+- headings, paragraph sequence and speaker/intervention ordering: **PASS**;
+- source-printed English on scans **52–55** is present in the correct structural location;
+- figures / dates / list structure checked, including the agricultural-income-tax example, Theosophical Society land figures and Dindigul voter-list figures;
+- physical crop holds newly identified: **0**;
+- D2 completeness corrections: **0**;
+- unresolved completeness questions: **0**;
+- scan 60 correctly ends mid-sentence at visible `30`; no scan-61 wording was reconstructed.
+
+Key checked joins:
+
+- 51→52: `எதை / எதை விலக்கிவிடலாமென்று`;
+- 55→56: `அவர்கள் என்ன செய்ய / வேண்டும்?`;
+- 56→57: `துணிச்சலோடும், / நேர்மையோடும்,`;
+- 57→58: `5 ஆயிரம் ரூபாய் தான் / விவசாயம் அல்லாத வருமானம்...`;
+- 58→59: `வீட்டு வசதி / வாரியம்`.
+
+Gate-D cumulative coverage: **20 / 22 pages**.  
+Cumulative completeness corrections: **2**.  
+Unresolved completeness questions: **0**.
+
+Exact continuation: **Gate D D3 / FINAL — scans 61–62 / printed pp.60–61**. Do not begin Gate E in the same iteration.
+
