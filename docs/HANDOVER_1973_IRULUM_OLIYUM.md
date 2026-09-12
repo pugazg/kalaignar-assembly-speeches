@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`fdffd1e3a95fab9d127290d6dbab4c8019d79da6` — `Restore Unit 1 root index release status`
+`e7bc576cfdf9865f0fd39ec3446ac06345bcf045` — `Advance Unit 2 README to Gate D D2`
 
 ## Active work
 
@@ -591,50 +591,62 @@ Release result:
 - unresolved Tamil fidelity questions — **0**
 - unresolved English fidelity questions — **0**
 
-## Exact next activity — Unit 2 Gate D D1
+## Unit 2 Gate D D1 — PASS
 
-Resume Unit 2:
+Scope:
 
-`speeches/1973/1973-03-08-financial-statement-reply/`
+- scans **41–50**
+- printed pp. **40–49**
+- pages reviewed: **10 / 10**
 
-Source:
+Result:
 
-`TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`
+- source-page markers **41→50** — exactly once / monotonic / no skip / no duplicate;
+- page-boundary continuity — **9 / 9 PASS**;
+- headings / paragraph order / speaker interventions — **PASS**;
+- figures / dates / source-printed English placement — **PASS**;
+- newly identified crop holds — **0**;
+- unresolved completeness questions — **0**;
+- Gate-D completeness corrections — **2**.
 
-Locked Unit-2 range:
+D1 corrections:
 
-- scans **41–62**
-- printed pp. **40–61**
-- opening heading `சட்டமன்ற மேலவையில்`
-- date **8-3-1973**
-- scan 62 closes with `வணக்கம்`; scan 63 is printer/imprint matter; scan 64 back cover.
+1. scan **43** / printed p.**42** — added a conservative printed-illustration note for the audience/crowd scene at the source position between paragraphs.
+2. scan **44** / printed p.**43** — added a conservative printed-illustration note for the staged Yamadharman/buffalo scene at its source position.
 
-Durable Unit-2 state:
+These are source-context completeness additions only. No speech wording was invented or normalized.
 
-- Gate A — PASS
-- Gate B — PASS / LOCKED
-- Gate C — COMPLETE — **22/22**
-- Gate C.5 — PASS / COMPLETE — **22/22**
-- historical-glyph corrections — **2**
-- unresolved glyph clusters — **0**
-- Gate D — **NEXT / NOT STARTED**
-- English — BLOCKED
+Key checked continuations include:
 
-Perform **Gate D Tamil completeness audit D1 — scans 41–50 / printed pp.40–49**.
+- 41→42 `தெரிந்து / கொண்டிருந்தும்`;
+- 44→45 `அல்லது / தோழமைக் கட்சிகளின் சார்பிலோ`;
+- 45→46 `முன் / கூட்டியே`;
+- 47→48 `உயர்ந்திருக்கிறதே / அல்லாமல் அதிகமல்ல`;
+- 48→49 `தெரிந்து / கொள்கிற அளவுக்கு`;
+- 49→50 `பரிபூரண / மாக முடிந்துவிட்டது`.
 
-Gate-D D1 rules:
+Scan 50 retains both printed Punjab Electricity Board English quotations in the correct structural location.
 
-1. compare the canonical Tamil transcription to the controlling booklet for **completeness/structure**, not general stylistic rewriting;
-2. verify source-page markers 41–50, headings, speaker/intervention order, paragraph continuity, figures and source-printed English placement;
-3. detect omitted/repeated/reordered source material and page-boundary errors;
-4. preserve source spelling/punctuation; do not modernize;
-5. historical-glyph Gate C.5 is already closed — do not reopen without genuine new pixel evidence;
-6. record definite completeness corrections in Unit-2 verification/metadata/README;
-7. **do not begin Gate E in the same iteration**.
+## Exact next activity — Unit 2 Gate D D2
+
+Process **Gate D Tamil completeness audit D2 — scans 51–60 / printed pp.50–59**.
+
+Gate-D D2 rules:
+
+1. compare canonical Tamil against the controlling booklet for completeness / structure;
+2. verify source-page markers **51–60** exactly once and in order;
+3. verify headings, paragraph sequence, speaker/intervention sequence and all page-boundary joins;
+4. verify figures, dates, tables/lists and source-printed English are structurally represented;
+5. detect omissions, repetitions, reordering and misplaced page-boundary text;
+6. preserve source spelling, punctuation and historical forms;
+7. do not reopen Gate C.5 unless genuinely new pixel evidence requires it;
+8. record definite completeness corrections in `completeness-audit.md`, verification log, metadata and README;
+9. if D2 passes, advance to **D3 scans 61–62 / printed pp.60–61**;
+10. **do not begin Gate E in the same iteration**.
 
 ## Required files
 
-Read before Unit-2 Gate-D D1 work:
+Read before Unit-2 Gate-D D2 work:
 
 1. this handover
 2. `docs/NEXT_CHAT_PROMPT_1973_IRULUM_OLIYUM.md`
@@ -653,8 +665,8 @@ All affected pages are individually revalidated. Page-level crop recovery is **C
 
 Next:
 
-1. **Unit 2 Gate D completeness audit D1 — scans 41–50 / printed pp.40–49**;
-2. continue D2/D3 until Gate D closes;
+1. **Unit 2 Gate D completeness audit D2 — scans 51–60 / printed pp.50–59**;
+2. D3 scans 61–62 / printed pp.60–61;
 3. only then begin Gate E.
 
 ## Current Unit 1 release state
@@ -683,7 +695,8 @@ Next:
 - Gate C.5 — PASS / COMPLETE — 22/22
 - historical-glyph corrections — 2
 - unresolved glyph clusters — 0
-- Gate D — **NEXT / NOT STARTED**
+- Gate D — **IN PROGRESS — D1 PASS / 10 of 22 / 2 corrections / 0 unresolved**
 - English — BLOCKED
+- exact next activity — **Gate D D2 scans 51–60 / printed pp.50–59**
 
-Unit 1 revalidation is complete. Unit 2 is now unblocked; start only D1 in the next iteration.
+Unit 1 remains locked/released. Continue only Unit-2 D2 in the next iteration.
