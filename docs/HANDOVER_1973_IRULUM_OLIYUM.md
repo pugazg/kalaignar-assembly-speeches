@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`5211cc7fa8224b15b171a0d033d38f5841e2eb8a` — `Close Unit 2 Gate D and unblock Gate E`
+`4788534992c5bb27a592496debcb7b1c3f26e52e` — `Advance Unit 2 README to Gate E E2`
 
 ## Active work
 
@@ -696,32 +696,65 @@ Gate-D final result:
 - `completeness_audit_passed=true`;
 - Gate E — **UNBLOCKED / NEXT**.
 
-## Exact next activity — Unit 2 Gate E E1
+## Unit 2 Gate E E1 — PASS
 
-Perform **Gate E Tamil source-fidelity verification E1 — scans 41–50 / printed pp.40–49**.
+Scope:
 
-This is the strict page-by-page visual fidelity audit.
+- scans **41–50**
+- printed pp. **40–49**
+- pages visually re-read: **10 / 10**
 
-For scans 41–50 verify:
+Result:
 
-1. every Tamil word / character against source pixels;
-2. names / initials / speaker labels;
-3. numerals, dates, percentages, money and units;
-4. embedded source English;
-5. headings / subheadings;
-6. punctuation where legible;
-7. omissions / repetitions across page transitions;
-8. the two D1 illustration-context notes remain structurally accurate and do not replace speech text;
-9. historical-glyph Gate C.5 corrections remain source-supported;
-10. record each definite Gate-E correction with scan/printed-page provenance.
+- strict visual word/character fidelity audit — **PASS**;
+- names / initials / speaker labels — **PASS**;
+- numerals / dates / money / units — **PASS**;
+- embedded source English — **PASS / verbatim**;
+- headings / interventions / punctuation where legible — **PASS**;
+- page-boundary continuity — **PASS**;
+- D1 illustration-context notes on scans 43–44 — **structurally confirmed**;
+- E1 corrections — **1**;
+- unresolved source-fidelity questions — **0**.
 
-If E1 passes, advance to **E2 scans 51–60 / printed pp.50–59**.
+Definite E1 correction:
+
+- scan **44** / printed p.**43**
+  - before: `சில பேர் ரசிப்பார்கள் என்ற நிலைமை எண்ணி,`
+  - source: `சில பேர் ரசிப்பார்கள் என்று நிலைமையை எண்ணி,`
+  - after: `சில பேர் ரசிப்பார்கள் என்று நிலைமையை எண்ணி,`
+
+This is an ordinary source-fidelity correction. Gate-C.5 historical `மாறாக` on the same page remains unchanged and source-supported.
+
+Scan 50's source-printed Punjab Electricity Board English quotations were rechecked and retained verbatim, including the source's unusual wording `The offer of Rs. 45 lakhs was had on behalf of the Board...`.
+
+Cumulative Gate-E coverage: **10 / 22 pages**.  
+Cumulative Gate-E corrections: **1**.  
+Unresolved Gate-E questions: **0**.
+
+## Exact next activity — Unit 2 Gate E E2
+
+Perform **Gate E Tamil source-fidelity verification E2 — scans 51–60 / printed pp.50–59**.
+
+For scans 51–60:
+
+1. visually compare every Tamil word / character to the controlling booklet;
+2. verify names / initials / speaker labels;
+3. verify all dates, numerals, money, units and legal section references;
+4. verify all source-printed English on scans 52–55 exactly as printed;
+5. verify headings / subheadings and intervention boundaries;
+6. verify punctuation where legible;
+7. check all page transitions 51→52 through 59→60;
+8. preserve source spelling, compounds and historical forms;
+9. preserve Gate-C.5 scan-58 `வேலைதான்` unless new source-pixel evidence disproves it;
+10. record every definite correction with scan / printed-page provenance.
+
+If E2 passes, advance to **E3 / FINAL scans 61–62 / printed pp.60–61**.
 
 Do **not** begin English translation in the same iteration.
 
 ## Required files
 
-Read before Unit-2 Gate-E E1 work:
+Read before Unit-2 Gate-E E2 work:
 
 1. this handover
 2. `docs/NEXT_CHAT_PROMPT_1973_IRULUM_OLIYUM.md`
@@ -740,9 +773,8 @@ All affected pages are individually revalidated. Page-level crop recovery is **C
 
 Next:
 
-1. **Unit 2 Gate E Tamil source-fidelity verification E1 — scans 41–50 / printed pp.40–49**;
-2. E2 scans 51–60 / printed pp.50–59;
-3. E3 scans 61–62 / printed pp.60–61.
+1. **Unit 2 Gate E Tamil source-fidelity verification E2 — scans 51–60 / printed pp.50–59**;
+2. E3 / FINAL scans 61–62 / printed pp.60–61.
 
 ## Current Unit 1 release state
 
@@ -772,7 +804,7 @@ Next:
 - unresolved glyph clusters — 0
 - Gate D — **PASS / COMPLETE — 22 of 22 / 2 cumulative corrections / 0 unresolved**
 - English — BLOCKED
-- Gate E — **NEXT / NOT STARTED**
-- exact next activity — **Gate E E1 scans 41–50 / printed pp.40–49**
+- Gate E — **IN PROGRESS — E1 PASS / 10 of 22 / 1 correction / 0 unresolved**
+- exact next activity — **Gate E E2 scans 51–60 / printed pp.50–59**
 
-Unit 1 remains locked/released. Continue only Unit-2 Gate-E E1 in the next iteration.
+Unit 1 remains locked/released. Continue only Unit-2 Gate-E E2 in the next iteration.
