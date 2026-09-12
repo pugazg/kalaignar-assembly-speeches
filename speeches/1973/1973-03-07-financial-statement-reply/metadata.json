@@ -54,7 +54,7 @@
     "language": "English",
     "type": "faithful reading translation",
     "working_file": "translation.md",
-    "status": "repaired-awaiting-gate-g-recheck",
+    "status": "verified-after-post-recovery-gate-g",
     "blocked_until_tamil_verified": false,
     "requires_verified_tamil": true,
     "tamil_gate_satisfied": true,
@@ -68,8 +68,8 @@
     "source_page_correspondence": true,
     "source_crop_markers_preserved": false,
     "source_printed_english_preserved_verbatim": true,
-    "verified_against_tamil": false,
-    "gate_g_status": "focused-recheck-required-after-recovered-span-repair",
+    "verified_against_tamil": true,
+    "gate_g_status": "pass-after-post-recovery-focused-recheck",
     "review_file": "translation-review.md",
     "gate_f_status": "complete",
     "gate_g_reviewed_source_pages": "4-40",
@@ -78,7 +78,7 @@
     "gate_g_total_page_count": 37,
     "gate_g_last_batch": "G4",
     "gate_g_next_source_page": null,
-    "gate_g_correction_count": 15,
+    "gate_g_correction_count": 17,
     "gate_g_corrections": [
       "scan p.5→6: reduced unsupported agency inflation from 'had me locked up' to source-close wording that Ponnappa Nadar was among those who supported keeping Karunanidhi locked up while the Assembly was conducted.",
       "scan p.7: removed a reversed negation and restored the source position that the Finance Commission itself should take Plan expenditure into account and make recommendations, while the Planning Commission may provide year-to-year assistance under Finance Commission principles.",
@@ -97,13 +97,13 @@
       "scan p.39→40: restored the source-page boundary inside the `ஆரிய மாயை` verse; four lines printed at the top of scan 40 had been incorrectly placed under source page 39 in Gate F."
     ],
     "gate_g_unresolved_fidelity_issues": 0,
-    "verification_gate": "Historical Gate G passed; focused post-recovery recheck pending",
+    "verification_gate": "Gate G passed after focused post-recovery recovered-span recheck",
     "unresolved_translation_questions": 0,
     "verified_source_pages": "4-40",
     "verified_printed_pages": "3-39",
     "verified_page_count": 37,
     "gate_h_status": "reopened-for-crop-recovery",
-    "completion_note": "English recovered spans on source pages 4-5, 10-11, 20-21, 25-27 and 34-35 have been repaired from the final post-recovery Gate-E-verified Tamil. All 249 inherited English crop markers are resolved, source-printed English remains verbatim, and source-page sequence 4-40 remains intact. A focused Gate-G fidelity recheck of the repaired spans is required before Gate-H canonical revalidation and release restoration.",
+    "completion_note": "English recovered spans on source pages 4-5, 10-11, 20-21, 25-27 and 34-35 were repaired from the final post-recovery Gate-E-verified Tamil, removing all 249 inherited English crop markers. A focused post-recovery Gate-G recheck then reviewed all 11 repaired pages, made 2 definite corrections, and left 0 unresolved English fidelity questions. English is again verified against Tamil. Gate-H canonical bilingual integrity/release revalidation is next.",
     "placement": "verified English follows the verified Tamil in canonical transcript.md",
     "working_file_status": "retired pointer to canonical transcript after Gate H",
     "gate_h_preparation_complete": true,
@@ -117,7 +117,15 @@
     "post_recovery_english_repair_page_count": 11,
     "post_recovery_english_crop_markers_before": 249,
     "post_recovery_english_crop_markers_after": 0,
-    "post_recovery_gate_g_recheck_required": true
+    "post_recovery_gate_g_recheck_required": false,
+    "post_recovery_gate_g_recheck_status": "pass-complete",
+    "post_recovery_gate_g_recheck_source_pages": "4-5, 10-11, 20-21, 25-27, 34-35",
+    "post_recovery_gate_g_recheck_page_count": 11,
+    "post_recovery_gate_g_corrections": 2,
+    "post_recovery_gate_g_correction_details": [
+      "scan p.35: `open them ... licences ... to them` -> `inaugurate it ... licences ... for it` for Tamil `திறந்து வைத்தாலும் அதற்கு லைசென்சுகள்...`",
+      "scan p.35: removed duplicated repair artifact `Thus, Thus,` -> `Thus,` for Tamil `ஆக,`"
+    ]
   },
   "release": {
     "status": "recovery-in-progress",
@@ -206,7 +214,7 @@
     "next_scan_page": null,
     "downstream_gate": "F",
     "downstream_blocked": false,
-    "next_gate": "Focused post-recovery Gate-G English fidelity recheck for repaired recovered spans",
+    "next_gate": "Gate-H canonical bilingual integrity / release revalidation",
     "verified_against_scan": true,
     "post_recovery_recheck_required": false,
     "post_recovery_recheck_status": "pass-complete",
@@ -226,7 +234,7 @@
     "post_recovery_scan13_cartoon_hold_unchanged": true
   },
   "crop_recovery": {
-    "status": "english-repair-complete-gate-g-recheck-next",
+    "status": "gate-g-reverified-gate-h-revalidation-next",
     "secondary_source_filename": "927193.pdf",
     "secondary_source_title": "Tamil Nadu Legislative Assembly Debates",
     "secondary_source_date": "1973-03-07",
@@ -239,7 +247,7 @@
     "crop_placeholders_removed_cr1": 99,
     "remaining_actual_tamil_crop_placeholders": 0,
     "remaining_crop_scan_pages": "",
-    "next_batch": "Focused Gate-G English fidelity recheck — repaired spans on scans 4-5, 10-11, 20-21, 25-27, 34-35",
+    "next_batch": "Gate-H canonical bilingual integrity / release revalidation",
     "tamil_revalidation_required": false,
     "english_repair_required": false,
     "release_revalidation_required": true,
@@ -494,7 +502,7 @@
       "next_activity": "English repair / retranslation for recovered spans — COMPLETE"
     },
     "post_recovery_english_repair": {
-      "status": "complete-awaiting-gate-g-recheck",
+      "status": "complete-gate-g-reverified",
       "source_pages": "4-5, 10-11, 20-21, 25-27, 34-35",
       "page_count": 11,
       "translation_source": "final post-recovery Gate-E-verified Tamil",
@@ -527,7 +535,18 @@
         "scan 34→35 generator/licence continuation repaired",
         "scan 35 `1,41,000` and concluding `ஆக,` repaired"
       ],
-      "next_activity": "Focused post-recovery Gate-G English fidelity recheck for repaired spans"
+      "next_activity": "Gate-H canonical bilingual integrity / release revalidation"
+    },
+    "post_recovery_gate_g": {
+      "status": "pass-complete",
+      "source_pages": "4-5, 10-11, 20-21, 25-27, 34-35",
+      "page_count": 11,
+      "corrections": 2,
+      "unresolved_questions": 0,
+      "legacy_english_crop_markers_remaining": 0,
+      "source_printed_english_preserved_verbatim": true,
+      "english_source_pages_unique_and_monotonic": true,
+      "next_activity": "Gate-H canonical bilingual integrity / release revalidation"
     }
   }
 }
