@@ -56,7 +56,7 @@ Status: **PASS / COMPLETE**
 ## Remaining crop-recovery work
 
 - **CR2:** **COMPLETE** — scans 20–21 and 25–27 are page-level closed
-- **CR3:** scan **35** only (scan 34 is now page-level closed)
+- **CR3:** **COMPLETE** — scans 34–35 are page-level closed
 - then: whole-Tamil recovery audit
 - then: English repair/retranslation for recovered spans
 - then: English fidelity recheck and Gate-H canonical revalidation/re-release.
@@ -656,4 +656,89 @@ Page-boundary evidence:
 - the quotation and sentence therefore continue across the booklet page boundary without moving any scan-35 text backward into scan 34.
 
 Exact next page-by-page activity: **booklet scan 35 / printed p.34**. Do not begin the whole-Tamil crop-integrity audit in the same iteration.
+
+### Booklet scan 35 / printed p.34
+
+Status: **PASS / PAGE-LEVEL RECOVERY VERIFIED — FINAL LEGACY CROP PAGE**
+
+Evidence:
+
+- controlling booklet: `இருளும் ஒளியும்`, scan **35** / printed p. **34**;
+- official witness for the opening generator/licence continuation: TNLA PDF p. **112** / proceedings p. **510**;
+- official witness for the housing-patta passage: TNLA PDF p. **113** / proceedings p. **511**;
+- scan 36 / printed p.35 was also visually checked to confirm the outgoing page boundary;
+- visible booklet wording remains controlling wherever legible.
+
+Marker accounting:
+
+- pre-recovery scan-35 block literal `⟦scan-crop⟧` occurrences: **37**;
+- actual line-level left-gutter source-loss positions: **36**;
+- explanatory-note literal-token occurrences: **1**;
+- page-level source-loss positions revalidated: **36 / 36**;
+- direct missing-fragment recoveries from the official witness: **2**;
+- positions requiring no witness-supplied insertion: **34**;
+- source-loss markers remaining on scan 35: **0**;
+- booklet physical line breaks: **preserved**;
+- contextual/grammar-only guesses: **0**;
+- global replacements: **0**.
+
+Direct recoveries:
+
+1. `,41,000 பேர்` → `1,41,000 பேர்`, restoring the cropped initial `1`; both the booklet's surrounding arithmetic and TNLA p.511 confirm the figure.
+2. page-final statistics line `ஒரு இலட்சத்து 57 ஆயிரம் பட்டாக்களுக்கான அந்த` → `ஆக, ஒரு இலட்சத்து 57 ஆயிரம் பட்டாக்களுக்கான அந்த`, restoring the cropped discourse marker `ஆக,`; TNLA independently confirms the same concluding transition.
+
+The remaining **34** marked line beginnings require no inserted text. They either begin with a complete booklet-visible word or preserve an intentional physical-line continuation, including:
+
+- `சொல்லி / யாகிவிட்டது`;
+- `வழங்கப் / பட்ட மாட்டாது`;
+- `அவர் / கள்`;
+- `விளக்கங் / கள்`;
+- `குடி / யிருப்பு`;
+- `திருத்துறைப் / பூண்டியில்`;
+- `சுப் / பையா`;
+- `உரையாற்றியிருக்கிறார் / கள்`;
+- `கும்ப / கோணத்தில்`;
+- `வழங் / கப்பட்ட`;
+- `அக்கு / லெட்ஜ்மெண்டுகளை`;
+- `தெரிவிக்கப்பட்ட / டும்`;
+- `மொத் / தம்`;
+- `ஆயி / ரம்`.
+
+Booklet-visible wording deliberately retained rather than normalized to the TNLA printing includes:
+
+- `மென்று கேட்டார்கள்`;
+- `பட்ட மாட்டாது`;
+- `புகார்களைச் சொன்னார்`;
+- `ஆட்சேபணை`;
+- `அக்குலெட்ஜ்மெண்ட்`;
+- the booklet's word-form numerals such as `ஒரு இலட்சத்து 57 ஆயிரம்`.
+
+Dates and figures rechecked directly against the booklet:
+
+- **27-2-1972**
+- **6,764**
+- **15-6-1972**
+- **26,150**
+- **14-9-1972**
+- **28-2-1973**
+- **1,15,227**
+- **பிப்ரவரி 1973**
+- **1,48,000**
+- **1,41,000**
+- **8,700**
+- **ஒரு இலட்சத்து 57 ஆயிரம்**
+- **ஒரு இலட்சத்து 41 ஆயிரம்**
+- **எட்டு ஆயிரம்**
+- **ஏழாயிரம்**
+
+Page-boundary evidence:
+
+- incoming boundary: scan 34 ends `நீங்கள் இப்படி அறிவித்தீர்கள். எப்படியாவது, நாங்கள்`; scan 35 begins `செலவு செய்துவிட்ட காரணத்தினாலே கொடுக்க வேண்டும்’`;
+- scan 35 ends `விவரத்தை நான் இங்கே தெரிவித்துக்கொள்கிறேன்.`;
+- scan 36 begins the heading `ஒன்பது அறிவிப்புகள்`;
+- no text was moved across either booklet boundary.
+
+All legacy gutter-crop pages in Unit 1 are now individually recovered and page-level revalidated.
+
+Exact next activity: **whole-Tamil crop-recovery integrity audit** across scans 4–40, with special attention to the recovered pages and page boundaries. Do not begin Gate-E fidelity recheck until that whole-Tamil integrity audit passes.
 
