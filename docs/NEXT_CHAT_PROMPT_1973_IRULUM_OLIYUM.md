@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate F F2
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate F F3 / FINAL
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,7 +8,7 @@ Fetch live `main` first and preserve newer durable work.
 
 Live checkpoint immediately before this prompt refresh:
 
-`4dfd715b8507e2a72ce692cb6476a15080c327a0` — `Complete Unit 2 Gate E and hand off Gate F`
+`949cabb13d4244f379c3b9d0096012148f389ae5` — `Complete Unit 2 Gate F batch F1`
 
 If live `main` is newer, preserve the newer state.
 
@@ -18,83 +18,75 @@ Unit 1 / 7-3-1973 / `சட்டப் பேரவையில்` is **RELEAS
 
 Do not reopen Unit 1 unless genuinely new controlling-source evidence appears.
 
-## Unit 2 active work
+## Unit 2 durable Tamil state
 
 Folder:
 
 `speeches/1973/1973-03-08-financial-statement-reply/`
 
-Speech:
+Speech: `சட்டமன்ற மேலவையில்` / **8-3-1973**
 
-`சட்டமன்ற மேலவையில்` / **8-3-1973**
+Controlling source: `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`
 
-Controlling source:
-
-`TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`
-
-Source identity:
-
-- total scans: **64**
-- bytes: **101,602,456**
-- SHA-256: `0330e70d6d7a62e2c84d712966a8436b91956d722134bc71ca0b2329283f8694`
 - Unit 2 scans: **41–62**
 - printed pages: **40–61**
-- scan 62 closes with `வணக்கம்`
-- scan 63 is printer/imprint matter
-- scan 64 is back cover
-- no third speech follows.
-
-## Durable Unit-2 Tamil state
-
 - Gate A — **PASS**
 - Gate B — **PASS / LOCKED**
 - Gate C — **COMPLETE — 22/22**
 - Gate C.5 — **PASS / COMPLETE — 22/22**
 - Gate D — **PASS / COMPLETE — 22/22**
-- Gate E — **PASS / COMPLETE — 22/22**
-- cumulative Gate-E corrections — **15**
+- Gate E — **PASS / COMPLETE / REVALIDATED — 22/22**
+- cumulative Gate-E corrections — **18**
 - unresolved Gate-E questions — **0**
 - Tamil `verified_against_scan=true`
+
+### Post-Gate-E source-pixel repairs discovered during F2 preparation
+
+1. scan **58** / printed p.**57** — `விட்டு வசதி வாரியம்` → `வீட்டு வசதி வாரியம்`
+2. scan **60** / printed p.**59** — `நாணயம்` → `நாளை`
+3. scan **60** / printed p.**59** — `நாங்களும்` → `நாளும்`
+
+These are definite controlling-source repairs, not translation normalisation.
 
 ## Durable Gate-F state
 
 - English working file — `translation.md`
 - Gate F — **IN PROGRESS**
 - F1 scans **41–50 / printed pp.40–49** — **COMPLETE**
-- cumulative Gate-F coverage — **10/22**
+- F2 scans **51–60 / printed pp.50–59** — **COMPLETE**
+- cumulative Gate-F coverage — **20/22**
 - unresolved translation questions — **0**
-- source-page sequence in English — **41→50 exactly once and in order**
-- scan 43 and 44 printed illustration context — preserved
-- scan 50 source-printed Punjab Electricity Board English — preserved verbatim
+- English source-page sequence — **41→60 exactly once and in order**
+- source-printed English on scans **52–55** — **preserved verbatim**
 - Gate G — **NOT STARTED**
 
-F1 ends exactly after the second Punjab Electricity Board quotation on scan 50; the Tamil sentence continues at scan 51.
+F2 ends exactly at scan 60's visible terminal `30`; the sentence continues on scan 61.
 
 ## Exact next activity
 
-Perform **Gate F English translation — F2 scans 51–60 / printed pp.50–59**.
+Perform **Gate F English translation — F3 / FINAL scans 61–62 / printed pp.60–61**.
 
-Translation authority is the **final Gate-E-verified Tamil in canonical `transcript.md`**. Do not translate from OCR or an earlier Tamil draft.
+Translation authority is the final Gate-E-verified Tamil in canonical `transcript.md`.
 
-For F2:
+For F3 / FINAL:
 
-1. translate all verified Tamil content mapped to scans 51–60 / printed pp.50–59;
-2. preserve source-page correspondence **51→60**;
-3. preserve Kalaignar's argumentative sequence, repetitions, direct address, irony and rhetorical rhythm;
-4. preserve all parliamentary speaker changes / interventions and headings;
-5. preserve names, initials, dates, numerals, money, units, legal section references and technical terms;
-6. carry source-printed English on scans **52–55** through **verbatim**, including unusual source grammar and wording;
-7. do not silently correct historical, legal or factual claims;
-8. do not modernize or flatten source-specific phrasing;
-9. append F2 to `translation.md` without altering F1;
+1. translate all verified Tamil mapped to scans 61–62;
+2. preserve source-page correspondence **61→62**;
+3. begin by completing the scan-60 terminal `30` continuation;
+4. preserve speaker labels / interventions and the `மாற்றம்!` heading;
+5. preserve all figures and Dindigul-election wording;
+6. preserve the final State-autonomy argument, repetitions, acknowledgements and `வணக்கம்`;
+7. represent the source closing ornament conservatively;
+8. append F3 to `translation.md` without altering F1–F2;
+9. if both pages are complete, mark Gate F **COMPLETE — 22/22** and set Gate G **UNBLOCKED / NEXT**;
 10. update metadata / README / verification log / handover / next prompt.
 
-Expected F2 result fields:
+Expected result:
 
-- source scans translated: **51–60 / 10 pages**
-- cumulative Gate-F coverage: **20/22**
-- Gate F status: **IN PROGRESS**
-- unresolved translation questions: explicit count
-- next batch: **F3 / FINAL scans 61–62 / printed pp.60–61**
+- F3 translated pages — **2/2**
+- cumulative Gate-F coverage — **22/22**
+- Gate F — **COMPLETE**
+- unresolved translation questions — explicit count
+- Gate G — **UNBLOCKED / NEXT**
 
 Do **not** begin Gate G in the same iteration.

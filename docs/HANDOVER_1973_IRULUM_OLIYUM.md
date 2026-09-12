@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`4dfd715b8507e2a72ce692cb6476a15080c327a0` — `Complete Unit 2 Gate E and hand off Gate F`
+`949cabb13d4244f379c3b9d0096012148f389ae5` — `Complete Unit 2 Gate F batch F1`
 
 ## Active work
 
@@ -21,7 +21,7 @@ Checkpoint before this handover rewrite:
 - focused post-recovery Gate G — PASS;
 - Gate H canonical bilingual release revalidation — **PASS / REVALIDATED AFTER CROP RECOVERY**.
 
-**Current priority: Unit 2 / `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate F English translation F2, scans 51–60 / printed pp.50–59. F1 scans 41–50 is complete; Tamil remains Gate-E verified.**
+**Current priority: Unit 2 / `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate F English translation F3 / FINAL, scans 61–62 / printed pp.60–61. F1–F2 scans 41–60 are complete; Tamil Gate E has been revalidated after 3 source-pixel repairs discovered during F2 preparation.**
 
 Do not reopen Unit 1 unless genuinely new controlling-source evidence appears.
 
@@ -837,13 +837,13 @@ Next:
 - historical-glyph corrections — 2
 - unresolved glyph clusters — 0
 - Gate D — **PASS / COMPLETE — 22 of 22 / 2 cumulative corrections / 0 unresolved**
-- English — **IN PROGRESS / NOT VERIFIED — Gate F F1 complete, 10 of 22 pages, 0 unresolved translation questions**
-- Gate E — **PASS / COMPLETE — 22 of 22 / 15 cumulative corrections / 0 unresolved**
+- English — **IN PROGRESS / NOT VERIFIED — Gate F F1–F2 complete, 20 of 22 pages, 0 unresolved translation questions**
+- Gate E — **PASS / COMPLETE / REVALIDATED — 22 of 22 / 18 cumulative corrections / 0 unresolved**
 - Tamil `verified_against_scan` — **true**
-- Gate F — **IN PROGRESS — F1 COMPLETE / 10 of 22**
-- exact next activity — **Gate F F2 scans 51–60 / printed pp.50–59**
+- Gate F — **IN PROGRESS — F1–F2 COMPLETE / 20 of 22**
+- exact next activity — **Gate F F3 / FINAL scans 61–62 / printed pp.60–61**
 
-Unit 1 remains locked/released. Unit 2 Tamil is verified. Continue only Unit-2 Gate-F F2 in the next iteration; do not begin Gate G.
+Unit 1 remains locked/released. Unit 2 Tamil is verified and revalidated. Continue only Unit-2 Gate-F F3 / FINAL in the next iteration; do not begin Gate G.
 
 ## Unit 2 Gate E E3 / FINAL — PASS / COMPLETE
 
@@ -912,5 +912,48 @@ For F2:
 4. preserve Kalaignar's argumentative sequence, repetition, irony and direct address;
 5. do not resolve or correct source historical/factual claims;
 6. update `translation.md`, metadata, README, verification log, handover and next prompt;
+7. do **not** begin Gate G in the same iteration.
+
+## Post-Gate-E repairs discovered during F2 preparation
+
+New controlling-source evidence encountered while preparing the F2 translation required **3 definite Tamil repairs** before translation:
+
+1. scan **58** / printed p.**57** — `விட்டு வசதி வாரியம்` → `வீட்டு வசதி வாரியம்`;
+2. scan **60** / printed p.**59** — `நாணயம்` → `நாளை`;
+3. scan **60** / printed p.**59** — `நாங்களும்` → `நாளும்`.
+
+Gate E remains **PASS / COMPLETE**, revalidated after these repairs:
+
+- revised cumulative Gate-E corrections — **18**
+- unresolved Gate-E questions — **0**
+- Tamil `verified_against_scan=true`
+
+## Unit 2 Gate F F2 — COMPLETE
+
+Translated **scans 51–60 / printed pp.50–59** from the repaired final Gate-E-verified Tamil.
+
+- F2 source pages — **51→60 exactly once and in order**
+- pages translated — **10 / 10**
+- cumulative Gate-F coverage — **20 / 22**
+- English working file — `translation.md`
+- unresolved translation questions — **0**
+- source-printed English on scans **52–55** — **verbatim**
+- speaker changes / headings / figures / dates / money / legal terminology — preserved
+- source historical / legal / factual claims — not externally corrected
+- F2 ends at scan 60 terminal `30`, preserving the cross-page sentence into scan 61
+- Gate G — **NOT STARTED**
+
+## Exact next activity — Unit 2 Gate F F3 / FINAL
+
+Translate **scans 61–62 / printed pp.60–61** from the final Gate-E-verified Tamil.
+
+For F3 / FINAL:
+
+1. preserve source-page correspondence **61→62**;
+2. begin by completing the scan-60 terminal `30` continuation;
+3. preserve both speaker labels and the `மாற்றம்!` heading;
+4. preserve Dindigul-election rhetoric, the State-autonomy argument, acknowledgements and final `வணக்கம்`;
+5. represent the closing ornament conservatively;
+6. mark Gate F **COMPLETE — 22/22** only after both pages are translated;
 7. do **not** begin Gate G in the same iteration.
 

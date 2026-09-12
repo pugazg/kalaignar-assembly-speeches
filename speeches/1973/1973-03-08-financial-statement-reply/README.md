@@ -20,11 +20,11 @@ This entry preserves the Legislative Council reply dated `8-3-1973` in the sourc
 - Gate C: **COMPLETE — C1–C3 scans 41–62 / printed pp.40–61; 22/22 pages**
 - Gate C.5 historical Tamil glyph audit: **PASS / COMPLETE — HG1–HG3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative corrections; 0 unresolved**
 - Gate D: **PASS / COMPLETE — D1–D3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative completeness corrections; 0 unresolved**
-- Gate E: **PASS / COMPLETE — E1–E3 scans 41–62 / printed pp.40–61; 22/22 pages; 15 cumulative corrections; 0 unresolved**
-- Gate F: **IN PROGRESS — F1 scans 41–50 / printed pp.40–49 COMPLETE; 10/22 pages; 0 unresolved translation questions**
+- Gate E: **PASS / COMPLETE / REVALIDATED — 22/22 pages; 18 cumulative corrections; 0 unresolved (3 post-completion source-pixel repairs on scans 58 and 60 during F2 preparation)**
+- Gate F: **IN PROGRESS — F1–F2 scans 41–60 / printed pp.40–59 COMPLETE; 20/22 pages; 0 unresolved translation questions**
 - Gates G–H: **NOT STARTED / downstream**
 - Tamil status: **VERIFIED AGAINST SCAN — Gate C + C.5 + D + E complete**
-- English: **IN PROGRESS / NOT VERIFIED — Gate F F1 complete; F2 next**
+- English: **IN PROGRESS / NOT VERIFIED — Gate F F1–F2 complete; F3 / FINAL next**
 
 ## Gate C result
 
@@ -156,4 +156,22 @@ Gate F F1 is now **COMPLETE** for scans **41–50 / printed pp.40–49**.
 - Gate G — **NOT STARTED**
 - English — **IN PROGRESS / NOT VERIFIED**
 
-Exact next activity: **Gate F F2 — scans 51–60 / printed pp.50–59**. Carry all source-printed English on scans 52–55 verbatim and do not begin Gate G.
+During F2 preparation, controlling-source pixels disclosed **3 definite Tamil source-fidelity errors** that had survived Gate E. They were repaired before translation:
+
+- scan 58 / printed p.57: `விட்டு வசதி வாரியம்` → `வீட்டு வசதி வாரியம்`
+- scan 60 / printed p.59: `நாணயம்` → `நாளை`
+- scan 60 / printed p.59: `நாங்களும்` → `நாளும்`
+
+Gate E remains **PASS / COMPLETE**, revalidated at **18 cumulative corrections / 0 unresolved**.
+
+Gate F F2 is now **COMPLETE** for scans **51–60 / printed pp.50–59**.
+
+- source pages translated — **10/10**
+- cumulative Gate-F coverage — **20/22 pages**
+- source-page sequence — **41→60 exactly once and in order**
+- unresolved translation questions — **0**
+- source-printed English on scans 52–55 — **preserved verbatim**
+- F2 terminal `30` — preserved as a deliberate cross-page boundary
+- Gate G — **NOT STARTED**
+
+Exact next activity: **Gate F F3 / FINAL — scans 61–62 / printed pp.60–61**. Do not begin Gate G.

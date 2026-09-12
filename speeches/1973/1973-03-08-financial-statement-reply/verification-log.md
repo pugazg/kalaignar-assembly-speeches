@@ -482,3 +482,50 @@ Status: **COMPLETE for this batch / Gate F remains IN PROGRESS**
 - Gate-G verification has **not** started.
 
 Exact continuation: **Gate F batch F2 — scans 51–60 / printed pp.50–59**. Source-printed English on scans 52–55 must be carried through verbatim. Do not begin Gate G in the same iteration.
+
+## Post-Gate-E source-fidelity repairs discovered during Gate-F F2 preparation
+
+While resolving two source-sensitive phrases for translation, the controlling booklet pixels disclosed **3 definite Tamil transcription errors** that had survived the completed Gate-E pass. They were repaired before F2 was translated; the source pixels, not contextual inference, controlled each change.
+
+1. **scan 58 / printed p.57**
+   - before: `106 ஏக்கரா நிலத்தை விட்டு வசதி வாரியம் எடுத்துத்`
+   - source / after: `106 ஏக்கரா நிலத்தை வீட்டு வசதி வாரியம் எடுத்துத்`
+   - type: definite vowel-length / word-form source-fidelity repair.
+
+2. **scan 60 / printed p.59**
+   - before: `அதற்காக அவர்களுடைய நாணயம் நீட்டித்துக் கொடுத்திருக்கிறார்கள்.`
+   - source / after: `அதற்காக அவர்களுடைய நாளை நீட்டித்துக் கொடுத்திருக்கிறார்கள்.`
+   - type: definite word-level source-fidelity repair.
+
+3. **scan 60 / printed p.59**
+   - before: `நாங்களும் நீட்டிக்கப் பட்டு அதுவும் அறிவிக்கப்பட்டது.`
+   - source / after: `நாளும் நீட்டிக்கப் பட்டு அதுவும் அறிவிக்கப்பட்டது.`
+   - type: definite word-level source-fidelity repair.
+
+Gate E remains **PASS / COMPLETE**, revalidated after these repairs.
+
+- prior cumulative Gate-E corrections: **15**
+- post-completion repairs: **3**
+- revised cumulative Gate-E corrections: **18**
+- unresolved Gate-E questions: **0**
+- Tamil `verified_against_scan=true`
+
+## Gate F — English translation
+
+### Batch F2 — scan pp.51–60 / printed pp.50–59
+
+Status: **COMPLETE for this batch / Gate F remains IN PROGRESS**
+
+- translated only from the final Gate-E-verified Tamil, after applying the three definite post-completion source-pixel repairs above;
+- appended source-page sections **51 → 52 → 53 → 54 → 55 → 56 → 57 → 58 → 59 → 60**, exactly once and in order;
+- cumulative Gate-F coverage: **20 / 22 Unit-2 pages**, scans **41–60**;
+- preserved parliamentary speaker changes, headings, argumentative sequence, repetitions, irony, direct address, figures, dates, money, units, legal terminology and source-specific wording;
+- all source-printed English on scans **52–55** was carried through **verbatim**, including unusual grammar and wording;
+- the legal quotations under `Punishment for false, frivolous, fictitious complaint`, `Prosecution for false complaint`, the Maharashtra `Minister means` definition, both constitutional quotations on scan 54, and both Lok Pal quotations on scan 55 remain source-text English rather than retranslation;
+- scan 58 Housing Board wording and scan 60 date-extension wording were translated from the newly repaired source-faithful Tamil;
+- source historical, legal and factual claims were not silently reconciled or corrected;
+- unresolved translation questions: **0**;
+- F2 ends exactly at scan p.60 / printed p.59 with the visible terminal `30`; the sentence continues on scan p.61;
+- Gate-G verification has **not** started.
+
+Exact continuation: **Gate F batch F3 / FINAL — scans 61–62 / printed pp.60–61**. Do not begin Gate G in the same iteration.

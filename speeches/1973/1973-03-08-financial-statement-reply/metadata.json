@@ -57,7 +57,7 @@
     "historical_glyph_gate_required": true,
     "historical_glyph_gate_status": "passed",
     "completeness_audit_passed": true,
-    "verification_note": "Gate C, mandatory Gate C.5, Gate D and Gate E are complete. Gate E source-fidelity verification passed all 22 pages: E1 scans 41-50 / printed pp.40-49 PASS with 1 correction; E2 scans 51-60 / printed pp.50-59 PASS with 11 corrections; E3 / FINAL scans 61-62 / printed pp.60-61 PASS with 3 corrections. Cumulative Gate-E corrections: 15; unresolved source-fidelity questions: 0. Scan 60→61 and 61→62 continuity, `மாற்றம்!`, speaker labels, figures, final State-autonomy argument, acknowledgements, `வணக்கம்` and closing ornament all pass. Tamil is now verified against the controlling scan. English is unblocked; Gate F F1 scans 41-50 is next.",
+    "verification_note": "Gate C, mandatory Gate C.5, Gate D and Gate E are complete. Gate E originally closed with 15 corrections; during Gate-F F2 preparation, controlling booklet pixels revealed 3 additional definite source-fidelity errors (scan 58 `விட்டு வசதி` -> `வீட்டு வசதி`; scan 60 `நாணயம்` -> `நாளை`; scan 60 `நாங்களும்` -> `நாளும்`). These were repaired before translation and Gate E was revalidated. Revised cumulative Gate-E corrections: 18; unresolved source-fidelity questions: 0. Tamil remains verified against the controlling scan.",
     "gate_d_status": "pass-complete",
     "gate_d_reviewed_scan_pages": "41-62",
     "gate_d_reviewed_printed_pages": "40-61",
@@ -83,7 +83,7 @@
     "gate_e_total_page_count": 22,
     "gate_e_last_batch": "E3",
     "gate_e_next_scan_page": null,
-    "gate_e_correction_count": 15,
+    "gate_e_correction_count": 18,
     "gate_e_unresolved_questions": 0,
     "gate_e_corrections": [
       "scan 44 / printed p.43: `சில பேர் ரசிப்பார்கள் என்ற நிலைமை எண்ணி,` -> source `சில பேர் ரசிப்பார்கள் என்று நிலைமையை எண்ணி,`",
@@ -100,8 +100,14 @@
       "scan 60 / printed p.59: `நாங்களும் நீட்டிக்கப்பட்ட பட்டு அதுவும் அறிவிக்கப்பட்டது.` -> source `நாங்களும் நீட்டிக்கப் பட்டு அதுவும் அறிவிக்கப்பட்டது.`",
       "scan 61 / printed p.60: `தேதியே வைக்கவில்லை.` -> source `தேதியே வைக்க வில்லை.`",
       "scan 62 / printed p.61: `சில பொறுப்புகளை நாம் ஏற்றுக் கொண்டிருக்கிறோம்.` -> source `சில பொறுப்புக்களை நாம் ஏற்றுக் கொண்டிருக்கிறோம்.`",
-      "scan 62 / printed p.61: `ஊறுதேடாத வகையில் பொறுப்புகள், அதிகாரங்கள்,` -> source `ஊறுதேடாத வகையில் பொறுப்புக்கள், அதிகாரங்கள்,`"
-    ]
+      "scan 62 / printed p.61: `ஊறுதேடாத வகையில் பொறுப்புகள், அதிகாரங்கள்,` -> source `ஊறுதேடாத வகையில் பொறுப்புக்கள், அதிகாரங்கள்,`",
+      "post-Gate-E repair, scan 58 / printed p.57: `106 ஏக்கரா நிலத்தை விட்டு வசதி வாரியம் எடுத்துத்` -> source `106 ஏக்கரா நிலத்தை வீட்டு வசதி வாரியம் எடுத்துத்`",
+      "post-Gate-E repair, scan 60 / printed p.59: `அதற்காக அவர்களுடைய நாணயம் நீட்டித்துக் கொடுத்திருக்கிறார்கள்.` -> source `அதற்காக அவர்களுடைய நாளை நீட்டித்துக் கொடுத்திருக்கிறார்கள்.`",
+      "post-Gate-E repair, scan 60 / printed p.59: `நாங்களும் நீட்டிக்கப் பட்டு அதுவும் அறிவிக்கப்பட்டது.` -> source `நாளும் நீட்டிக்கப் பட்டு அதுவும் அறிவிக்கப்பட்டது.`"
+    ],
+    "gate_e_post_completion_repair_count": 3,
+    "gate_e_post_completion_repair_scans": "58, 60",
+    "gate_e_revalidated_after_post_completion_repairs": true
   },
   "translation": {
     "language": "English",
@@ -111,20 +117,20 @@
     "requires_verified_tamil": true,
     "tamil_gate_satisfied": true,
     "source": "final Gate-E-verified Tamil transcription",
-    "completed_source_pages": "41-50",
+    "completed_source_pages": "41-60",
     "verified_against_tamil": false,
     "gate_f_status": "in-progress",
     "gate_g_status": "not-started",
     "working_file": "translation.md",
-    "completed_printed_pages": "40-49",
-    "completed_page_count": 10,
+    "completed_printed_pages": "40-59",
+    "completed_page_count": 20,
     "total_page_count": 22,
-    "last_batch": "F1",
-    "next_source_page": 51,
+    "last_batch": "F2",
+    "next_source_page": 61,
     "source_page_correspondence": true,
     "source_printed_english_preserved_verbatim": true,
     "unresolved_translation_questions": 0,
-    "completion_note": "Gate F F1 complete for scans 41-50 / printed pp.40-49. Ten source-page sections are present exactly once and in order; scan-43 and scan-44 illustration context is preserved; both source-printed Punjab Electricity Board quotations on scan 50 are retained verbatim; no source arithmetic or factual tension was silently corrected. F2 scans 51-60 is next."
+    "completion_note": "Gate F F1-F2 complete for scans 41-60 / printed pp.40-59. Twenty source-page sections are present exactly once and in order. All source-printed English on scans 52-55 is preserved verbatim. During F2 preparation, 3 definite Tamil source-fidelity errors on scans 58 and 60 were repaired from controlling pixels before translation; Gate E was revalidated with 18 cumulative corrections. F3 / FINAL scans 61-62 is next."
   },
   "release": {
     "status": "not-released",
