@@ -840,25 +840,25 @@ The power supply position in the States of Southern Zone was going to be extreme
 
 ### Source page 4
 
+> **Post-recovery English repair:** inherited crop markers on this source page were resolved from the final post-recovery Gate-E-verified Tamil. Source-page boundaries are preserved; source-printed English, where present, remains verbatim.
+
 ## In the Legislative Assembly
 
 **Hon. Dr. M. Karunanidhi:**
 
-> **Source-loss note:** scan p.4 is cropped along the right gutter. `⟦scan-crop⟧` below marks source text that is physically missing and is not reconstructed.
+Honourable Deputy Speaker of the House, on the Financial Statement placed before this House, 81 members, including Congress Party leader Ponnappa Nadar, have expressed their views. Of the 175 Dravida Munnetra Kazhagam members, 38 members, and of the 58 members belonging to parties other than the Dravida Munnetra Kazhagam , 43 members, have taken part in this debate and explained many valuable views in accordance with the policies of the parties to which they respectively belong. Whether those views are favourable or adverse , I believe that all of them can help the wheel of this administration turn properly; and I first convey my thanks and appreciation to the members of every party who expressed their views .
 
-Honourable ⟦scan-crop⟧ Deputy Speaker of the House, on the Financial Statement placed before this House, Congress ⟦scan-crop⟧ Party leader Ponnappa Nadar and ⟦scan-crop⟧ 81 members have expressed their views. Of the 175 Dravida Munnetra Kazhagam ⟦scan-crop⟧ members, 38 members, and of the 58 members belonging to parties other than the Dravida Munnetra Kazhagam ⟦scan-crop⟧, 43 members, have taken part in this debate and explained many valuable views in accordance with the policies of the parties to which they respectively belong. Whether those views are favourable ⟦scan-crop⟧ or adverse ⟦scan-crop⟧, I believe that all of them can help the wheel of this administration turn properly; and I first convey my thanks and appreciation to the members of every party who expressed their views ⟦scan-crop⟧.
-
-Ordinarily, debate on the Governor's Address ⟦scan-crop⟧ begins after a ruling-party member moves a Motion of Thanks ⟦scan-crop⟧. Debate on a Financial Statement presented by the Chief Minister or Finance Minister ⟦scan-crop⟧ ordinarily begins after the Opposition first speaks against it ⟦scan-crop⟧. But, for what I believe is the first time ⟦scan-crop⟧, this debate in this House was begun neither on behalf of the ruling party ⟦scan-crop⟧ nor on behalf of the traditional Opposition, but on behalf of an allied party ⟦scan-crop⟧. I am therefore very happy to see that, from the very outset, the debate has begun on a footing that there is no opposition to it ⟦scan-crop⟧. Hon. member Wahab of the Muslim League ⟦scan-crop⟧ supported this Financial Statement, offered his good wishes ⟦scan-crop⟧, and opened the debate.
+Ordinarily, debate on the Governor's Address begins after a ruling-party member moves a Motion of Thanks . Debate on a Financial Statement presented by the Chief Minister or Finance Minister ordinarily begins after the Opposition first speaks against it . But, for what I believe is the first time , this debate in this House was begun neither on behalf of the ruling party nor on behalf of the traditional Opposition, but on behalf of an allied party . I am therefore very happy to see that, from the very outset, the debate has begun on a footing that there is no opposition to it . Hon. member Wahab of the Muslim League supported this Financial Statement, offered his good wishes , and opened the debate.
 
 ## The case of Thiru Tangamani
 
-The party leaders who spoke here, and some members, said that my dear friend and leader of the Communist Party of India ⟦scan-crop⟧ K. T. K. Tangamani ⟦scan-crop⟧ had been prevented from expressing his views on this Financial Statement ⟦scan-crop⟧. When that was said on behalf of the Communist Party ⟦scan-crop⟧, I understood it. When it was said on behalf of the Swatantra ⟦scan-crop⟧—
+The party leaders who spoke here, and some members, said that my dear friend and leader of the Communist Party of India K. T. K. Tangamani had been prevented from expressing his views on this Financial Statement . When that was said on behalf of the Communist Party , I understood it. When it was said on behalf of the Swatantra—
 
 ### Source page 5
 
-> **Source-loss note:** scan p.5 is cropped along the left gutter. `⟦scan-crop⟧` marks missing source text and is not reconstructed.
+> **Post-recovery English repair:** inherited crop markers on this source page were resolved from the final post-recovery Gate-E-verified Tamil. Source-page boundaries are preserved; source-printed English, where present, remains verbatim.
 
-⟦scan-crop⟧ when Thiru Hande spoke on behalf of that party, I understood it. When others spoke on behalf of the ruling Congress Party, except Mrs Ananthanayaki ⟦scan-crop⟧, I understood it. But when Thiru Ponnappa ⟦scan-crop⟧ Nadar of the old Congress Party and some others spoke, I did not understand it ⟦scan-crop⟧. The reason is that neither the Swatantra ⟦scan-crop⟧ Party, nor the Communist Party, nor the ruling Congress ⟦scan-crop⟧ Party has, so far as Tamil Nadu is concerned, previously borne the responsibility of government ⟦scan-crop⟧. But the Congress Party to which our Ponnappa Nadar ⟦scan-crop⟧ belongs ruled Tamil Nadu for twenty years ⟦scan-crop⟧. On behalf of that party, Ponnappa Nadar, leader of our Organisation Congress ⟦scan-crop⟧, was among those who supported keeping me locked up in Palayamkottai for 62 days ⟦scan-crop⟧—
+—Party, when Thiru Hande spoke on its behalf, I understood it. When others spoke on behalf of the ruling Congress Party, except Mrs Ananthanayaki , I understood it. But when Thiru Ponnappa Nadar of the old Congress Party and some others spoke, I did not understand it . The reason is that neither the Swatantra Party, nor the Communist Party, nor the ruling Congress Party has, so far as Tamil Nadu is concerned, previously borne the responsibility of government . But the Congress Party to which our Ponnappa Nadar belongs ruled Tamil Nadu for twenty years . On behalf of that party, Ponnappa Nadar, leader of our Organisation Congress , was among those who supported keeping me locked up in Palayamkottai for 62 days —
 
 > **Printed illustration:** `During the Assembly session (1965)` — `62` — `days in Palayamkottai prison`.
 
@@ -918,29 +918,29 @@ Along with this Rs. 619 lakh of Plan expenditure, the 1972-73 Budget allocation 
 
 ### Source page 10
 
-> **Source-loss note:** scan p.10 is cropped along the right gutter. `⟦scan-crop⟧` marks missing source text and is not reconstructed.
+> **Post-recovery English repair:** inherited crop markers on this source page were resolved from the final post-recovery Gate-E-verified Tamil. Source-page boundaries are preserved; source-printed English, where present, remains verbatim.
 
-Thiru Kasiraman of the ruling Congress Party ⟦scan-crop⟧ made one point. Though he is not present here ⟦scan-crop⟧, because the view he expressed has appeared in the press ⟦scan-crop⟧, I have a duty to answer it ⟦scan-crop⟧. The note he cited was this: in 1966-67, land revenue, irrigation ⟦scan-crop⟧ cess and agricultural income tax together ⟦scan-crop⟧ brought this Government a total of Rs. 840 lakh ⟦scan-crop⟧. This year too, the amount this Government will receive under the same heads ⟦scan-crop⟧ is Rs. 840 lakh. Therefore, there has been no change ⟦scan-crop⟧ and no tax has been reduced. So Thiru Kasiraman said that the claim that we had reduced land revenue was an illusion—a ‘Myth’ ⟦scan-crop⟧.
+Thiru Kasiraman of the ruling Congress Party made one point. Though he is not present here , because the view he expressed has appeared in the press , I have a duty to answer it . The note he cited was this: in 1966-67, land revenue, irrigation tax, cess tax and agricultural income tax together brought this Government a total of Rs. 840 lakh . This year too, the amount this Government will receive under the same heads is Rs. 840 lakh. Therefore, there has been no change and no tax has been reduced. So Thiru Kasiraman said that the claim that we had reduced land revenue was an illusion—a ‘Myth’ .
 
 ## Agricultural income tax
 
-If I am to explain this, we must not forget the changes we have made in agricultural ⟦scan-crop⟧ income tax. After announcing that there would be no basic land assessment ⟦scan-crop⟧ on wet or dry land up to 5 acres ⟦scan-crop⟧, we introduced agricultural income tax here for affluent farmers cultivating cash crops ⟦scan-crop⟧, and through it we obtain somewhat more revenue ⟦scan-crop⟧. That too must be taken into account ⟦scan-crop⟧.
+If I am to explain this, we must not forget the changes we have made in agricultural income tax. After announcing that there would be no basic land assessment on wet or dry land up to 5 acres , we introduced agricultural income tax here for affluent farmers cultivating cash crops , and through it we obtain somewhat more revenue . That too must be taken into account .
 
-But merely taking that into account is not enough. In relation to land revenue ⟦scan-crop⟧, instead of calculating how much is received in each individual year ⟦scan-crop⟧, we must calculate the average received over each five-year period ⟦scan-crop⟧. This is because, in some years, items such as tax remission or instalments ⟦scan-crop⟧ come into the picture.
+But merely taking that into account is not enough. In relation to land revenue , instead of calculating how much is received in each individual year , we must calculate the average received over each five-year period . This is because, in some years, items such as tax remission or instalments come into the picture.
 
 So if we take a five-year account and look at the average, for the five years ending in 1966-67—the period cited by Thiru Kasiraman—the average annual revenue under land revenue was Rs. 8 crore. Likewise, for the five years ending in 1973-74, the average annual land-revenue income is Rs. 6.3 crore. It has therefore fallen by about Rs. 2 crore. Because the basic land assessment was abolished, ordinary farmers have benefited from these concessions. As time goes on, the amount obtained from this tax can only decline; there is no scope for it to increase.
 
 ### Source page 11
 
-> **Source-loss note:** scan p.11 is cropped along the left gutter. `⟦scan-crop⟧` marks missing source text and is not reconstructed.
+> **Post-recovery English repair:** inherited crop markers on this source page were resolved from the final post-recovery Gate-E-verified Tamil. Source-page boundaries are preserved; source-printed English, where present, remains verbatim.
 
 ## Industrial development
 
-Speaking on behalf of our old Congress Party, Thiru Gopal of the ⟦scan-crop⟧ constituency said one thing. ⟦scan-crop⟧ "In 1965-66, Rs. 6.56 crore was allotted for industrial development; in ⟦scan-crop⟧973-74 only Rs. 4.48 crore has been allotted," ⟦scan-crop⟧ he said.
+Speaking on behalf of our old Congress Party, Thiru Gopal of the Kambam constituency said one thing. "In 1965-66, Rs. 6.56 crore was allotted for industrial development; in 1973-74 only Rs. 4.48 crore has been allotted," he said.
 
-If he looks at page 37 of the Budget Memorandum ⟦scan-crop⟧, he can understand one thing. Under Demand No. 35—"Industries" ⟦scan-crop⟧—the amount allotted for ⟦scan-crop⟧965-66 was Rs. 6.56 crore. In the coming year, under the same No. 35 heading "Industries", the amount allotted is Rs. 7.50 crore ⟦scan-crop⟧.
+If he looks at page 37 of the Budget Memorandum , he can understand one thing. Under Demand No. 35—"Industries" —the amount allotted for 1965-66 was Rs. 6.56 crore. In the coming year, under the same No. 35 heading "Industries", the amount allotted is Rs. 7.50 crore .
 
-We must not forget that the amount allotted under the heading "Industries" comes under ⟦scan-crop⟧ demands. Looking at last year and the year before, it is only for the past two or three years that we have been following a system of placing demands separately in this manner. It was by adding all these demands together that, as Thiru Gopal said, Rs. 6.56 crore was allotted for industry in 1965-66. It is not correct to take only one demand ⟦scan-crop⟧ and cite it.
+We must not forget that the amount allotted under the heading "Industries" comes under four demands. Looking at last year and the year before, it is only for the past two or three years that we have been following a system of placing demands separately in this manner. It was by adding all these demands together that, as Thiru Gopal said, Rs. 6.56 crore was allotted for industry in 1965-66. It is not correct to take only one demand and cite it.
 
 But the Rs. 3.35 crore allotted to the TANSI undertaking was also included. The amount now being spent through TANSI is Rs. 7 crore, and this is being spent separately without being included here. We must not forget that this itself is over and above the Rs. 7.5 crore now allotted for industries in the State Financial Statement. Thus, if both are taken into account, instead of the Rs. 6.56 crore spent on industrial development in 1965-66, the truth becomes clear that roughly Rs. 15 crore is now being allotted for it.
 
@@ -1061,33 +1061,33 @@ When we say this as a matter of responsibility, we are not pointing a finger and
 
 ### Source page 20
 
-> **Source-loss note:** scan p.20 is cropped along the right gutter. `⟦scan-crop⟧` marks source text physically lost at the edge and is not reconstructed.
+> **Post-recovery English repair:** inherited crop markers on this source page were resolved from the final post-recovery Gate-E-verified Tamil. Source-page boundaries are preserved; source-printed English, where present, remains verbatim.
 
-—the responsibility is not with the State Government; it is with the Central Government ⟦scan-crop⟧. I wish only to point that out ⟦scan-crop⟧.
+—the responsibility is not with the State Government; it is with the Central Government . I wish only to point that out .
 
-**Mrs T. N. Ananthanayaki:** Mr Chairman ⟦scan-crop⟧, the Hon. Chief Minister has been speaking in such detail about whether responsibility rests with the State Government or the Central ⟦scan-crop⟧ Government. When they stood in the election that day ⟦scan-crop⟧, instead of saying with feeling that the responsibility lay with the Central Government ⟦scan-crop⟧, they said, "If we come to power, we will reduce prices ⟦scan-crop⟧; if we come to power, we will reduce poverty ⟦scan-crop⟧." It would be good to know what their share is today ⟦scan-crop⟧. Today, in order to escape ⟦scan-crop⟧, they are placing the blame on the Central Government ⟦scan-crop⟧. How can that be right?
+**Mrs T. N. Ananthanayaki:** Mr Chairman , the Hon. Chief Minister has been speaking in such detail about whether responsibility rests with the State Government or the Central Government. When they stood in the election that day , instead of saying with feeling that the responsibility lay with the Central Government , they said, "If we come to power, we will reduce prices; if we come to power, we will reduce all taxes." It would be good to know what their share is today . Today, in order to escape , they are placing the blame on the Central Government . How can that be right?
 
-**Hon. Dr. M. Karunanidhi:** What can we do ⟦scan-crop⟧? We said it trusting you. We said it trusting that the Central Government would act responsibly ⟦scan-crop⟧. They betrayed that trust. Did they do it only to us ⟦scan-crop⟧? They did it to them as well ⟦scan-crop⟧.
+**Hon. Dr. M. Karunanidhi:** What can we do ? We said it trusting you. We said it trusting that the Central Government would act responsibly . They betrayed that trust. Did they do it only to us ? They did it to them as well .
 
-**Dr. H. V. Hande:** Mr Chairman, while the Hon. Chief Minister was speaking ⟦scan-crop⟧, he spoke about this inflation ⟦scan-crop⟧. I too began to speak about the Economic Survey of India during my speech ⟦scan-crop⟧. Immediately Hon. P. U. Shanmugam said, "This is a speech that should be made in Parliament" ⟦scan-crop⟧, and stopped me. But I am not saying that to you ⟦scan-crop⟧. This is indeed a speech you should make here ⟦scan-crop⟧. The remedy for this is "increase ⟦scan-crop⟧ production." I was trying to say that producing goods is the remedy ⟦scan-crop⟧. I asked what action you had taken for that ⟦scan-crop⟧.
+**Dr. H. V. Hande:** Mr Chairman, while the Hon. Chief Minister was speaking , he spoke about this inflation . I too began to speak about the Economic Survey of India during my speech . Immediately Hon. P. U. Shanmugam said, "This is a speech that should be made in Parliament" , and stopped me. But I am not saying that to you . This is indeed a speech you should make here . The remedy for this is "increased production." I was trying to say that producing goods is the remedy . I asked what action you had taken for that .
 
-**Hon. Dr. M. Karunanidhi:** Mr Chairman ⟦scan-crop⟧, Thiru Hande says that this is exactly what he had intended to say ⟦scan-crop⟧. What difference does it make whether he says it or I say it ⟦scan-crop⟧? He mentioned one point that he had intended to make at the end ⟦scan-crop⟧; that is true. It is when production increases that this kind of money circulation arises ⟦scan-crop⟧. When that happens, economic growth too must increase ⟦scan-crop⟧. It is that large gap that I pointed out here ⟦scan-crop⟧.
+**Hon. Dr. M. Karunanidhi:** Mr Chairman , Thiru Hande says that this is exactly what he had intended to say . What difference does it make whether he says it or I say it ? He mentioned one point that he had intended to make at the end ; that is true. It is when production increases that this kind of money circulation arises . When that happens, economic growth too must increase . It is that large gap that I pointed out here .
 
 ### Source page 21
 
-> **Source-loss note:** scan p.21 is cropped along the left gutter. `⟦scan-crop⟧` marks source text physically lost at the edge and is not reconstructed.
+> **Post-recovery English repair:** inherited crop markers on this source page were resolved from the final post-recovery Gate-E-verified Tamil. Source-page boundaries are preserved; source-printed English, where present, remains verbatim.
 
-That is not all; there are some other reasons too ⟦scan-crop⟧. Another major cause of the rise in prices is tax evaders ⟦scan-crop⟧. The black money held by these tax evaders in the country—⟦scan-crop⟧ ‘unaccounted money’—does not come into circulation and becomes blocked ⟦scan-crop⟧; because of that, prices rise ⟦scan-crop⟧ and the people of the country are affected. The responsibility for bringing out those black-money holders—those who possess unaccounted money ⟦scan-crop⟧—also does not rest with us; it rests with the Central Government ⟦scan-crop⟧.
+That is not all; there are some other reasons too . Another major cause of the rise in prices is tax evaders . The black money held by these tax evaders in the country— “unaccounted money”—does not come into circulation and becomes blocked ; because of that, prices rise and the people of the country are affected. The responsibility for bringing out those black-money holders—those who possess unaccounted money —also does not rest with us; it rests with the Central Government .
 
 > **Printed illustration text:** `Tax evasion`.
 
-That responsibility lies there ⟦scan-crop⟧, and no one is unaware of the changes that have been made in the country because of it ⟦scan-crop⟧.
+That responsibility lies there , and no one is unaware of the changes that have been made in the country because of it .
 
-**Thiru R. Ponnappa Nadar:** Mr Chairman, ⟦scan-crop⟧ will the Chief Minister explain how black money operates ⟦scan-crop⟧?
+**Thiru R. Ponnappa Nadar:** Mr Chairman, will the Chief Minister explain how black money operates ?
 
-**Hon. Dr. M. Karunanidhi:** They also spoke about production ⟦scan-crop⟧. As far as Tamil Nadu is concerned today, we produce rice ⟦scan-crop⟧. At the same time, we have the conditions needed to control the price of rice ⟦scan-crop⟧. We control it without having to go to other States ⟦scan-crop⟧. Most other food commodities are not like that ⟦scan-crop⟧. Because rice, the most important of the food commodities, is within the control of our State, we are able to keep its price under control ⟦scan-crop⟧.
+**Hon. Dr. M. Karunanidhi:** They also spoke about production . As far as Tamil Nadu is concerned today, we produce rice . At the same time, we have the conditions needed to control the price of rice . We control it without having to go to other States . Most other food commodities are not like that . Because rice, the most important of the food commodities, is within the control of our State, we are able to keep its price under control .
 
-But because that is not so for commodities such as pulses and oil, and because we have to depend on other States for them ⟦scan-crop⟧, and because this situation extends across the whole of India ⟦scan-crop⟧, we do not have the conditions needed to control the prices of these goods—
+But because that is not so for commodities such as pulses and oil, and because we have to depend on other States for them , and because this situation extends across the whole of India , we do not have the conditions needed to control the prices of these goods—
 
 ### Source page 22
 
@@ -1128,70 +1128,70 @@ The Fourth Five-Year Plan ran from 1967 to 1972. In those five years alone, 625 
 
 ### Source page 25
 
-> **Source-loss note:** scan p.25 is cropped along the left gutter. `⟦scan-crop⟧` marks source text physically lost at the edge and is not reconstructed.
+> **Post-recovery English repair:** inherited crop markers on this source page were resolved from the final post-recovery Gate-E-verified Tamil. Source-page boundaries are preserved; source-printed English, where present, remains verbatim.
 
-We must not forget one more thing. If we take Kerala ⟦scan-crop⟧, the electricity required there in one day is only 60 lakh units ⟦scan-crop⟧. Mysore requires 130 lakh units a day ⟦scan-crop⟧. Andhra requires 90 lakh units a day ⟦scan-crop⟧. Thus, even if all three States are combined ⟦scan-crop⟧—Kerala, Mysore and Andhra ⟦scan-crop⟧—the electricity required in one day is only 280 lakh units ⟦scan-crop⟧. Tamil Nadu alone requires 225 lakh units a day ⟦scan-crop⟧.
+We must not forget one more thing. If we take Kerala , the electricity required there in one day is only 60 lakh units . Mysore requires 130 lakh units a day . Andhra requires 90 lakh units a day . Thus, even if all three States are combined —Kerala, Mysore and Andhra —the electricity required in one day is only 280 lakh units . Tamil Nadu alone requires 225 lakh units a day .
 
-Because industry has developed here ⟦scan-crop⟧, and because Tamil Nadu is the only State in India to have provided electricity connections to as many as six lakh pump sets ⟦scan-crop⟧, this State needs 225 lakh units ⟦scan-crop⟧—an amount that comes close to the total daily electricity requirement of Kerala, Mysore and Andhra combined ⟦scan-crop⟧.
+Because industry has developed here , and because Tamil Nadu is the only State in India to have provided electricity connections to as many as six lakh pump sets , this State needs 225 lakh units —an amount that comes close to the total daily electricity requirement of Kerala, Mysore and Andhra combined .
 
-The present difficulties arise from nothing other than the natural calamity that has affected hydro-electric stations ⟦scan-crop⟧. Because nature suddenly and unexpectedly failed us ⟦scan-crop⟧, we did not receive the electricity that should have come from the hydro-electric stations ⟦scan-crop⟧.
+The present difficulties arise from nothing other than the natural calamity that has affected hydro-electric stations . Because nature suddenly and unexpectedly failed us , we did not receive the electricity that should have come from the hydro-electric stations .
 
 ## Did we not even ask for schemes?
 
-If we ask whether we failed even to request schemes from the Central Government ⟦scan-crop⟧, during the three years 1971, 1972 and 1973 we asked for ten schemes ⟦scan-crop⟧:
+If we ask whether we failed even to request schemes from the Central Government , during the three years 1971, 1972 and 1973 we asked for ten schemes :
 
-⟦scan-crop⟧1) Servalar scheme, (2) Nellithurai scheme, ⟦scan-crop⟧3) Solattipuzha scheme, (4) Upper Amaravathi ⟦scan-crop⟧ scheme, (5) Paraliyar scheme, (6) Shanmuga River ⟦scan-crop⟧ scheme, (7) Coonoor Kallar scheme, (8) Lower Moyar ⟦scan-crop⟧ scheme, (9) Tuticorin Thermal Power Station, and (10) Mettur ⟦scan-crop⟧ Thermal Power Station.
+(1) Servalar scheme, (2) Nellithurai scheme, (3) Solattipuzha scheme, (4) Upper Amaravathi scheme, (5) Paraliyar scheme, (6) Shanmuga River scheme, (7) Coonoor Kallar scheme, (8) Lower Moyar scheme, (9) Tuticorin Thermal Power Station, and (10) Mettur Thermal Power Station.
 
-Thus schemes capable of yielding 1,035 megawatts ⟦scan-crop⟧ have been sent for the approval of the Central Commission ⟦scan-crop⟧.
+Thus schemes capable of yielding 1,035 megawatts have been sent for the approval of the Central Commission .
 
 THIRUMATHI T. N. ANANDANAYAKI: All these 10 schemes
-⟦scan-crop⟧ave been sent to the Centre to be included in Fifth Plan which
-⟦scan-crop⟧starts from 1974 and ends in 1979. Why did you not send the
-⟦scan-crop⟧same for inclusion in Fourth Plan. That is the point.
+have been sent to the Centre to be included in Fifth Plan which
+starts from 1974 and ends in 1979. Why did you not send the
+same for inclusion in Fourth Plan. That is the point.
 
-**Thiru R. Ponnappa Nadar:** The Shanmuga River scheme ⟦scan-crop⟧—
+**Thiru R. Ponnappa Nadar:** The Shanmuga River scheme —
 
 ### Source page 26
 
-> **Source-loss note:** scan p.26 is cropped along the right gutter. `⟦scan-crop⟧` marks source text physically lost at the edge and is not reconstructed.
+> **Post-recovery English repair:** inherited crop markers on this source page were resolved from the final post-recovery Gate-E-verified Tamil. Source-page boundaries are preserved; source-printed English, where present, remains verbatim.
 
-—is it included in the Fourth Plan, or has it been included in the Fifth Plan ⟦scan-crop⟧?
+—is it included in the Fourth Plan, or has it been included in the Fifth Plan ?
 
-**Hon. Dr. M. Karunanidhi:** Only after all these schemes ⟦scan-crop⟧ are approved will it be known under which Plan ⟦scan-crop⟧ they fall.
+**Hon. Dr. M. Karunanidhi:** Only after all these schemes are approved will it be known under which Plan they fall.
 
-Apart from these, we are continuing to press for the Central Government's schemes ⟦scan-crop⟧ such as the Kalpakkam expansion scheme, the second Neyveli Thermal Power Station ⟦scan-crop⟧, and the second Tuticorin Thermal Power Station ⟦scan-crop⟧. I have already explained on an earlier occasion the resolutions passed in this House ⟦scan-crop⟧.
+Apart from these, we are continuing to press for the Central Government's schemes such as the Kalpakkam expansion scheme, the second Neyveli Thermal Power Station , and the second Tuticorin Thermal Power Station . I have already explained on an earlier occasion the resolutions passed in this House .
 
-Thiru Kumarasamy of the ruling Congress Party ⟦scan-crop⟧ made a point while speaking. In the Fourth Five-Year Plan ⟦scan-crop⟧—the lady member too made the same point, and this follows from it ⟦scan-crop⟧—if the Central Government has agreed to establish a power station under the Fourth Five-Year Plan ⟦scan-crop⟧, Kumarasamy asked why they should then interfere in it ⟦scan-crop⟧. His question was: why not formulate the scheme we need, inform the Central Minister ⟦scan-crop⟧, and implement it ourselves ⟦scan-crop⟧? He said the present situation had arisen because we failed to do that ⟦scan-crop⟧.
+Thiru Kumarasamy of the ruling Congress Party made a point while speaking. In the Fourth Five-Year Plan —the lady member too made the same point, and this follows from it —if the Central Government has agreed to establish a power station under the Fourth Five-Year Plan , Kumarasamy asked why they should then interfere in it . His question was: why not formulate the scheme we need, inform the Central Minister , and implement it ourselves ? He said the present situation had arisen because we failed to do that .
 
-My concern is not merely that I must answer something that has been said ⟦scan-crop⟧. When this same view is expressed to the public ⟦scan-crop⟧, what will the people who are suffering think ⟦scan-crop⟧? Thiru Kumarasamy has said that the Central Government agreed to establish a power station in the Fourth Plan ⟦scan-crop⟧ and that we can implement it even without obtaining the Central Government's permission ⟦scan-crop⟧. The public will naturally think: why did the Ministers fail to do this and waste time ⟦scan-crop⟧?
+My concern is not merely that I must answer something that has been said . When this same view is expressed to the public , what will the people who are suffering think ? Thiru Kumarasamy has said that the Central Government agreed to establish a power station in the Fourth Plan and that we can implement it even without obtaining the Central Government's permission . The public will naturally think: why did the Ministers fail to do this and waste time ?
 
-But even if a power station is accepted in the Fourth Five-Year Plan ⟦scan-crop⟧, setting it up immediately is not such an easy matter ⟦scan-crop⟧. I trust that those who have previously held responsibility in Government ⟦scan-crop⟧ understand this well.
+But even if a power station is accepted in the Fourth Five-Year Plan , setting it up immediately is not such an easy matter . I trust that those who have previously held responsibility in Government understand this well.
 
-First we prepare and send a detailed report for the scheme ⟦scan-crop⟧.
+First we prepare and send a detailed report for the scheme .
 
-The Central Water and Power Commission examines that report ⟦scan-crop⟧, obtains the approval of the Central Minister for Power ⟦scan-crop⟧, and then sends it to the Planning Commission.
+The Central Water and Power Commission examines that report , obtains the approval of the Central Minister for Power , and then sends it to the Planning Commission.
 
 ### Source page 27
 
-> **Source-loss note:** scan p.27 is cropped along the left gutter. `⟦scan-crop⟧` marks source text physically lost at the edge and is not reconstructed.
+> **Post-recovery English repair:** inherited crop markers on this source page were resolved from the final post-recovery Gate-E-verified Tamil. Source-page boundaries are preserved; source-printed English, where present, remains verbatim.
 
-In the Planning Commission, the Technical Advisory Committee again ⟦scan-crop⟧ examines it and then grants approval ⟦scan-crop⟧. Under these procedures and through these channels ⟦scan-crop⟧, it takes at least two years for a scheme to be accepted ⟦scan-crop⟧.
+In the Planning Commission, the Technical Advisory Committee again examines it and then grants approval . Under these procedures and through these channels , it takes at least two years for a scheme to be accepted .
 
-For example, the Nellithurai, ⟦scan-crop⟧ Servalar and Paraliyar schemes were sent in 1970-71 ⟦scan-crop⟧. We must not forget that those schemes have still not received approval ⟦scan-crop⟧.
+For example, the Nellithurai, Servalar and Paraliyar schemes were sent in 1970-71 . We must not forget that those schemes have still not received approval .
 
-Thiru Kumarasamy asked why we should not establish them without the Planning Commission's approval ⟦scan-crop⟧—I heard that the lady member too spoke about it ⟦scan-crop⟧. If we try to proceed without obtaining the Central Government's approval ⟦scan-crop⟧, no factory will come forward to manufacture and supply the equipment required for that station ⟦scan-crop⟧—boilers, generators and other machinery ⟦scan-crop⟧—without the Central Government's approval ⟦scan-crop⟧.
+Thiru Kumarasamy asked why we should not establish them without the Planning Commission's approval —I heard that the lady member too spoke about it at the seashore. If we try to proceed without obtaining the Central Government's approval , no factory will come forward to manufacture and supply the equipment required for that station —boilers, generators and other machinery —without the Central Government's approval .
 
-Not only that. If those items of equipment cannot be obtained from these factories ⟦scan-crop⟧ and have to be imported from abroad ⟦scan-crop⟧, we must obtain the Central Government's approval ⟦scan-crop⟧. Thus there is no way for a State Government to execute schemes without asking them and then say that Ratification ⟦scan-crop⟧ can be obtained later ⟦scan-crop⟧. I wish to make that clear ⟦scan-crop⟧.
+Not only that. If those items of equipment cannot be obtained from these factories and have to be imported from abroad , we must obtain the Central Government's approval . Thus there is no way for a State Government to execute schemes without asking them and then say that Ratification can be obtained later . I wish to make that clear .
 
-Are we using electricity properly and economically ⟦scan-crop⟧? They say that some corruption has taken place, or is taking place ⟦scan-crop⟧. Immediately they say that a corruption inquiry commission must be appointed, a judicial inquiry commission must be appointed ⟦scan-crop⟧.
+Are we using electricity properly and economically ? They say that some corruption has taken place, or is taking place . Immediately they say that a corruption inquiry commission must be appointed, a judicial inquiry commission must be appointed .
 
 ## From the Centre.........
 
-Even if we take it that way, everything must come from the Central Government ⟦scan-crop⟧. Is an election being held? The election officer must come from the Central Government ⟦scan-crop⟧. Are agents being appointed? They must come from the Centre ⟦scan-crop⟧. Are people sitting in the polling booth? They must come from the Centre ⟦scan-crop⟧.
+Even if we take it that way, everything must come from the Central Government . Is an election being held? The election officer must come from the Central Government . Are agents being appointed? They must come from the Centre . Are people sitting in the polling booth? They must come from the Centre .
 
-In a few days, when the Legislative Assembly meets here ⟦scan-crop⟧, they may even say that Mrs Indira Gandhi should stop conducting Parliament there ⟦scan-crop⟧, come here, look after the Chief Minister's responsibility for ten days ⟦scan-crop⟧, and then go back to Delhi ⟦scan-crop⟧. I think they may say even that.
+In a few days, when the Legislative Assembly meets here , they may even say that Mrs Indira Gandhi should stop conducting Parliament there , come here, look after the Chief Minister's responsibility for ten days , and then go back to Delhi . I think they may say even that.
 
-If Ministers themselves are summoned from the Centre in this fashion ⟦scan-crop⟧, Indian history tells us that they will not remain in office ⟦scan-crop⟧. Ministers who are elect—
+If Ministers themselves are summoned from the Centre in this fashion , Indian history tells us that they will not remain in office . Ministers who are elect—
 
 ### Source page 28
 
@@ -1281,6 +1281,8 @@ I further state that the tax levied on electricity generated through private gen
 
 ### Source page 34
 
+> **Post-recovery English repair:** inherited crop markers on this source page were resolved from the final post-recovery Gate-E-verified Tamil. Source-page boundaries are preserved; source-printed English, where present, remains verbatim.
+
 In the cities, street lights may be kept burning only from 7 p.m. to 10 p.m. Generators alone must be used for decorative lighting.
 
 In cinema theatres, only one show may be conducted using electricity. I think this will give our Tiruppur Moideen some measure of happiness. In cinema theatres, only one show may be conducted using electricity. I also state that there is no restriction on conducting the other shows using generators.
@@ -1295,59 +1297,49 @@ To meet the coal requirements of the thermal stations in Madras, permission has 
 
 **Dr. H. V. Hande:** They said the 36th Division. The Chief Minister must explain that.
 
-> **Source-loss note:** the final intervention on scan p.34 runs into physical right-gutter crop loss. `⟦scan-crop⟧` marks unrecoverable line endings and is not reconstructed.
-
-**Hon. Dr. M. Karunanidhi:** For them⟦scan-crop⟧  
-not even a generator, no licence has been issued⟦scan-crop⟧  
-They put up all the sheds and then came⟦scan-crop⟧  
-‘We have put them up; even so, Chief Minister⟦scan-crop⟧  
-you announced this. Somehow, because we⟦scan-crop⟧
+**Hon. Dr. M. Karunanidhi:** For them, not even a generator—no licence has been issued. They put up all the sheds and then came and said, ‘We have put them up; even so, Chief Minister, you announced this. Somehow, because we—
 
 ### Source page 35
 
-> **Source-loss note:** scan p.35 is cropped along the left gutter. `⟦scan-crop⟧` marks unrecoverable line beginnings and is not reconstructed.
+> **Post-recovery English repair:** inherited crop markers on this source page were resolved from the final post-recovery Gate-E-verified Tamil. Source-page boundaries are preserved; source-printed English, where present, remains verbatim.
 
-⟦scan-crop⟧have incurred the expense, it must be given,’  
-⟦scan-crop⟧they asked. I said it was absolutely impossible,  
-⟦scan-crop⟧and that settled it. It was not given.
+—have incurred the expense, it must be given,’ they asked. I said it was absolutely impossible, and that settled it. It was not given.
 
-⟦scan-crop⟧**Dr. H. V. Hande:** A Minister went and inaugurated it.
+**Dr. H. V. Hande:** A Minister went and inaugurated it.
 
-⟦scan-crop⟧**Hon. Dr. M. Karunanidhi:** Even if Ministers themselves go and  
-⟦scan-crop⟧open them, licences will not be issued to them—  
-⟦scan-crop⟧that is the strict order.
+**Hon. Dr. M. Karunanidhi:** Even if Ministers themselves go and open them, licences will not be issued to them—that is the strict order.
 
 ## Residential house-site pattas
 
-Then our Communist Party member Thiru  
-⟦scan-crop⟧Subbaiah made some complaints about the  
-⟦scan-crop⟧residential house-site pattas issued in Thanjavur district.  
-⟦scan-crop⟧He said, in effect, that the Chief Minister came and issued them  
-⟦scan-crop⟧to 157,000 people, but that many people did not get them  
-⟦scan-crop⟧and only some people did. I do not know on what basis  
-⟦scan-crop⟧he said that. I immediately collected all the explanations  
-⟦scan-crop⟧about it.
+Then our Communist Party member Thiru
+Subbaiah made some complaints about the
+residential house-site pattas issued in Thanjavur district.
+He said, in effect, that the Chief Minister came and issued them
+to 157,000 people, but that many people did not get them
+and only some people did. I do not know on what basis
+he said that. I immediately collected all the explanations
+about it.
 
-On 27-2-1972, 6,764 residential  
-⟦scan-crop⟧house-site pattas were issued at Thiruvaiyaru. On 15-6-1972,  
-⟦scan-crop⟧26,150 were issued at Thiruthuraipoondi. Thiru Manali and Thiru Sub-  
-⟦scan-crop⟧baiah both took part and spoke there. On  
-⟦scan-crop⟧14-9-1972 and 28-2-1973, at Kumbakonam,  
-⟦scan-crop⟧1,15,227 were issued. Thus, up to the end of February 1973,  
-⟦scan-crop⟧the number of pattas issued was 1,48,000.
+On 27-2-1972, 6,764 residential
+house-site pattas were issued at Thiruvaiyaru. On 15-6-1972,
+26,150 were issued at Thiruthuraipoondi. Thiru Manali and Thiru Sub-
+baiah both took part and spoke there. On
+14-9-1972 and 28-2-1973, at Kumbakonam,
+1,15,227 were issued. Thus, up to the end of February 1973,
+the number of pattas issued was 1,48,000.
 
-Of these,  
-⟦scan-crop⟧among the 1,48,000 people who received residential house-site pattas,  
-⟦scan-crop⟧,41,000 people have sent acknowledgements that they received them.  
-⟦scan-crop⟧Those acknowledgements are with the officials. Acknowledgements are still  
-⟦scan-crop⟧to come from another seven thousand people. After pattas were issued,  
-⟦scan-crop⟧8,700 cases are under inquiry because objections  
-⟦scan-crop⟧or denial of title were raised. Thus, taking this also into account,  
-⟦scan-crop⟧out of a total of 157,000, receipts have been obtained  
-⟦scan-crop⟧for 141,000 pattas. There are cases concerning  
-⟦scan-crop⟧eight thousand pattas. Receipts have not come for seven thousand pattas.  
-⟦scan-crop⟧I place before the House these particulars relating to  
-⟦scan-crop⟧157,000 pattas.
+Of these,
+among the 1,48,000 people who received residential house-site pattas,
+1,41,000 people have sent acknowledgements that they received them.
+Those acknowledgements are with the officials. Acknowledgements are still
+to come from another seven thousand people. After pattas were issued,
+8,700 cases are under inquiry because objections
+or denial of title were raised. Thus, taking this also into account,
+out of a total of 157,000, receipts have been obtained
+for 141,000 pattas. There are cases concerning
+eight thousand pattas. Receipts have not come for seven thousand pattas.
+Thus, Thus, I place before the House these particulars relating to 157,000 pattas.
+
 
 ### Source page 36
 
