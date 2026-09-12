@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 crop recovery page 11
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 crop recovery page 20
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -6,11 +6,11 @@ Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
 Fetch live `main` first and preserve newer durable work.
 
-Live checkpoint immediately before the scan-10 page-level pass:
+Live checkpoint immediately before the scan-11 page-level pass:
 
-`19f36549022045cd9dde718cb08f21effa759634` — `Close page 5 crop recovery and hand off scan 10`
+`ace19d11d8dea0d731c66a23d9a6ec28623fdd28` — `Revalidate Unit 1 crop recovery page 10`
 
-The scan-10 pass is committed together with this refreshed prompt; if live `main` is newer, preserve the newer state.
+The scan-11 pass is committed together with this refreshed prompt; if live `main` is newer, preserve the newer state.
 
 ## Why Unit 1 is reopened
 
@@ -47,37 +47,37 @@ Workflow: **one booklet page per iteration**.
 
 **PASS / PAGE-LEVEL RECOVERY VERIFIED**
 
-- pre-recovery block literal `⟦scan-crop⟧` occurrences: **29**
-- actual line-level source-loss positions: **28**
-- direct source-supported right-gutter recoveries: **12**
-- positions requiring no inserted fragment after witness check: **16**
+### Scan 11 / printed p.10
+
+**PASS / PAGE-LEVEL RECOVERY VERIFIED**
+
+- pre-recovery block literal `⟦scan-crop⟧` occurrences: **16**
+- actual line-level source-loss positions: **15**
+- direct official-witness-supported left-gutter recoveries: **11**
+- positions requiring no inserted fragment after witness check: **4**
 - source-loss markers remaining: **0**
 - booklet physical line breaks preserved
 - no contextual guessing
-- TNLA evidence: PDF pp. **91–92** / proceedings pp. **489–490**
-- bulk-CR1 omission corrected:
-  - `ஆகவே நில வரியை குறைத்தோம்`
-  - → booklet line `ஆகவே நில வரியைக்`
-  - next line `குறைத்தோம் என்று சொல்லுவது ஒரு மாயை; ‘Myth’ என்று`
-- outgoing boundary confirmed: scan 10 ends `வித்துக் கொள்கிறேன்.`; scan 11 begins `தொழில் அபிவிருத்தி`
+- TNLA evidence: PDF pp. **92–93** / proceedings pp. **490–491**
+- Gopal industrial-development figures retained as booklet printed
+- incoming boundary: scan 10 ends `வித்துக் கொள்கிறேன்.`; scan 11 begins `தொழில் அபிவிருத்தி`
+- outgoing boundary: scan 11 ends `... என்பால் அன்பு வைத்து, அவர்கள்`; scan 12 begins `இந்த நிதி நிலை அறிக்கையில்...`
 
-### Other pages
-
-Earlier bulk recovery touched scan **11**, but under the strict page-by-page protocol it is **not yet individually revalidated**.
+All four pages populated by the earlier bulk CR1 pass — **4, 5, 10, 11** — are now individually page-level revalidated.
 
 Unit 2 Gate D D1 remains **paused**.
 
 ## Exact next activity
 
-Work **only on booklet scan 11 / printed p.10**.
+Work **only on booklet scan 20 / printed p.19**.
 
-1. Read the pre-recovery scan-11 text and every line-level `⟦scan-crop⟧` position.
+1. Read the pre-recovery scan-20 text and every line-level `⟦scan-crop⟧` position.
 2. Visually inspect the controlling booklet scan at high resolution.
-3. Compare only the matching official TNLA passage — mainly PDF pp. **92–93** / proceedings pp. **490–491**.
+3. Compare only the matching official TNLA passage — mainly PDF pp. **100–101** / proceedings pp. **498–499**.
 4. Recover only characters/words physically lost at the gutter.
 5. Preserve every booklet-visible spelling, punctuation, numeral, spacing choice and physical line break.
 6. Remove a crop marker only when the official witness confirms the exact continuation.
-7. Recheck the `தொழில் அபிவிருத்தி` / Gopal figures and transition into the James passage without normalizing booklet wording to TNLA.
+7. Recheck the national-income / money-supply continuation and the Ananthanayaki / Hande interventions without normalizing booklet wording to TNLA.
 8. Record every recovered fragment plus incoming/outgoing page-boundary evidence in `crop-recovery-audit.md`.
 9. Update metadata/README/handover and advance the next prompt.
-10. **Do not process scan 20 or any other page in the same iteration.**
+10. **Do not process scan 21 or any other page in the same iteration.**

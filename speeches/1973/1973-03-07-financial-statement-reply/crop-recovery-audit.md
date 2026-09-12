@@ -224,5 +224,64 @@ Page-boundary evidence:
 - scan 11 begins the heading `தொழில் அபிவிருத்தி`;
 - no text was moved across either page boundary.
 
-Exact next page-by-page activity: **booklet scan 11 / printed p.10**. Do not process scan 20 in the same iteration.
+Exact next page-by-page activity completed below: **booklet scan 11 / printed p.10**.
+
+### Booklet scan 11 / printed p.10
+
+Status: **PASS / PAGE-LEVEL RECOVERY VERIFIED**
+
+Evidence:
+
+- controlling booklet: `இருளும் ஒளியும்`, scan **11** / printed p. **10**;
+- independent official witness: *Tamil Nadu Legislative Assembly Debates*, **7 March 1973**, TNLA PDF pp. **92–93** / proceedings pp. **490–491**;
+- the witness confirms the Gopal industrial-development figures and the transition into the James passage;
+- visible booklet wording, numerals, punctuation and spacing remain controlling wherever legible.
+
+Marker accounting:
+
+- pre-recovery scan-11 block literal `⟦scan-crop⟧` occurrences: **16**;
+- line-level left-gutter source-loss positions: **15**;
+- explanatory-note literal-token occurrences: **1**;
+- page-level source-loss positions revalidated: **15 / 15**;
+- source-loss markers remaining on scan 11: **0**;
+- booklet physical line breaks: **preserved**;
+- contextual/grammar-only guesses: **0**;
+- global replacements: **0**.
+
+Direct missing-fragment recoveries, in physical line order:
+
+1. `ம்பம்` → `கம்பம்` (recovered `க`)
+2. `வர்கள்` → `அவர்கள்` (recovered `அ`)
+3. `பிவிருத்திக்காக` → `அபிவிருத்திக்காக` (recovered `அ`)
+4. `973-74-ல்` → `1973-74-ல்` (recovered `1`)
+5. `ன்று` → `என்று` (recovered `எ`)
+6. `க்கம் 37-ஐப்` → `பக்கம் 37-ஐப்` (recovered `ப`)
+7. `ரிந்து கொள்ளலாம்` → `புரிந்து கொள்ளலாம்` (recovered `பு`)
+8. `ன்ற தலைப்பில்` → `என்ற தலைப்பில்` (recovered `எ`)
+9. `965-66-ஆம்` → `1965-66-ஆம்` (recovered `1`)
+10. `துக்கப்பட்டிருக்கிற` → `ஒதுக்கப்பட்டிருக்கிற` (recovered `ஒ`)
+11. `ன்கு கோரிக்கைகளின்` → `நான்கு கோரிக்கைகளின்` (recovered `நா`)
+
+The other **4** line-level crop positions were independently checked against the official witness and require **no inserted fragment**:
+
+- `தொழில்கள் என்ற தலைப்பின் கீழ்...` already begins with a complete source word;
+- `விடக்கூடாது...` already begins with a complete source word;
+- `தொழிலுக்காக...` already begins with a complete source word;
+- `கையை மாத்திரம்...` is the visible continuation of the previous physical-line `கோரிக்`.
+
+Bulk-CR1 page-level result:
+
+- no lexical recovery from bulk CR1 had to be reversed on scan 11;
+- the page was restored from the bulk collapsed paragraph to the booklet's physical line sequence;
+- the booklet-visible figures `6·56`, `4·48`, `7·50`, `3·35`, `7·5` and `15` were retained without normalization.
+
+Page-boundary evidence:
+
+- incoming boundary: scan 10 ends `வித்துக் கொள்கிறேன்.`; scan 11 begins heading `தொழில் அபிவிருத்தி`;
+- scan 11 ends `என்று சொல்லிவிடாமல், என்பால் அன்பு வைத்து, அவர்கள்`;
+- scan 12 begins `இந்த நிதி நிலை அறிக்கையில் தன்னுடைய ஆழ்ந்த கருத்துக்களையெல்லாம்...`;
+- TNLA proceedings p.491 confirms the same James-passage continuation;
+- no text was moved across either page boundary.
+
+Exact next page-by-page activity: **booklet scan 20 / printed p.19**. Do not process scan 21 in the same iteration.
 

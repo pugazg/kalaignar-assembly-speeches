@@ -168,31 +168,49 @@ Result:
   - next line `குறைத்தோம் என்று சொல்லுவது ஒரு மாயை; ‘Myth’ என்று`
   - TNLA independently confirms the missing `க்`.
 
-## Exact next activity — scan 11 only
+## Page 11 — PASS / CLOSED
 
-Process **booklet scan 11 / printed p.10** and stop.
+Booklet scan **11** / printed p.**10** has been individually revalidated.
 
-Current scan-11 state:
+Result:
 
-- legacy pre-recovery literal crop-marker count: **16**
-- current source-loss markers: **0**, because bulk CR1 already populated the gutter text
-- **NOT YET individually revalidated**
-- TNLA witness: mainly PDF pp. **92–93** / proceedings pp. **490–491**
+- legacy literal crop-marker count: **16**
+- actual line-level source-loss positions: **15**
+- direct missing-fragment recoveries: **11**
+- complete-at-edge / visible-continuation positions requiring no inserted fragment: **4**
+- source-loss markers remaining: **0**
+- booklet physical line breaks preserved
+- contextual guesses: **0**
+- global replacements: **0**
+- TNLA evidence: PDF pp. **92–93** / proceedings pp. **490–491**
+- Gopal figures and James transition rechecked without normalization
+- incoming boundary: scan 10 ends `வித்துக் கொள்கிறேன்.`; scan 11 begins `தொழில் அபிவிருத்தி`
+- outgoing boundary: scan 11 ends `... என்பால் அன்பு வைத்து, அவர்கள்`; scan 12 begins `இந்த நிதி நிலை அறிக்கையில்...`
+
+## Exact next activity — scan 20 only
+
+Process **booklet scan 20 / printed p.19** and stop.
+
+Current scan-20 state:
+
+- legacy crop markers remain in the canonical Tamil;
+- this page has **not** yet been recovered under the new strict page-by-page protocol;
+- matching TNLA witness is mainly PDF pp. **100–101** / proceedings pp. **498–499**.
 
 Verify:
 
-- every pre-recovery line-level crop position independently;
-- `தொழில் அபிவிருத்தி` / Gopal industrial-development figures;
-- transition into the James passage;
+- every line-level crop position independently;
+- the continuation of the national-income / money-supply argument;
+- the transition into the Ananthanayaki and Hande interventions;
 - all booklet-visible numerals, spelling, punctuation and spacing;
 - physical line breaks;
 - incoming and outgoing page boundaries.
 
-Do **not** process scan 20 in the same iteration.
+Do **not** process scan 21 in the same iteration.
 
 ## Required files
 
-Read before scan-10 work:
+Read before scan-20 work:
 
 1. this handover
 2. `docs/NEXT_CHAT_PROMPT_1973_IRULUM_OLIYUM.md`
@@ -209,7 +227,7 @@ If either PDF is missing in a new chat, retrieve it from conversation/Library be
 
 Continue exactly one page per iteration:
 
-**11 → 20 → 21 → 25 → 26 → 27 → 34 → 35**
+**20 → 21 → 25 → 26 → 27 → 34 → 35**
 
 After all affected pages are individually revalidated:
 
