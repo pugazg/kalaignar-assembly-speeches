@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1971 நமது விளக்கம் / Gate C T4 scans 34–43
+# NEXT CHAT PROMPT — 1971 நமது விளக்கம் / Gate C T5 scans 44–53
 
 Continue directly in pugazg/kalaignar-assembly-speeches, branch main.
 
@@ -28,19 +28,31 @@ ACL-CPL_01732_நமது_விளக்கம்.pdf
 - T1 scans **4–13 — COMPLETE**
 - T2 scans **14–23 — COMPLETE**
 - T3 scans **24–33 — COMPLETE**
-- cumulative Gate-C coverage — **30/57**
-- source markers — **4→33 exactly once and in order**
-- unresolved readings — **2**
+- T4 scans **34–43 — COMPLETE**
+- cumulative Gate-C coverage — **40/57**
+- source markers — **4→43 exactly once and in order**
+- unresolved readings — **3**
   - scan 11 / printed p.10 — phrase after ஆகவே before வட்டிக்காக
-  - scan 31 / printed p.30 — classroom-anecdote object phrase under வால் மாத்திரம் பாக்கி
+  - scan 31 / printed p.30 — classroom-anecdote object phrase
+  - scan 37 / printed p.36 — short phrase inside Rajaji quotation
+- source-printed Indira Gandhi English letter on scan 35 — preserved verbatim
 - Gate C.5 — **REQUIRED / NOT STARTED**
 - Tamil verified — **false**
 - English — **BLOCKED**
 
 ## Exact next activity
 
-Perform **Gate C T4 first-pass Tamil transcription — scans 34–43 / printed pp.33–42**.
+Perform **Gate C T5 first-pass Tamil transcription — scans 44–53 / printed pp.43–52**.
 
-Preserve headings, interventions, quoted material, figures, historical spelling, printed English and illustration context. Use only rendered source pixels. Mark unclear readings rather than guessing. Do not start Gate C.5 in the same iteration.
+Requirements:
 
-Expected result: T4 **10 pages**, cumulative Gate-C **40/57**, exact unresolved count, next **T5 scans 44–53 / printed pp.43–52**.
+1. transcribe directly from rendered scan pixels;
+2. append source-page markers 44→53 exactly once and in order;
+3. preserve headings, speaker/interventions, quotations, figures, punctuation where legible, historical source spelling and printed English;
+4. preserve illustration/cartoon context conservatively;
+5. mark genuinely unclear readings explicitly rather than guessing;
+6. leave the three existing unresolved markers untouched unless direct source-pixel evidence resolves them;
+7. update metadata, verification log, source/reader README, mapping, handover and next prompt;
+8. do not begin Gate C.5 in the same iteration unless explicitly requested.
+
+Expected result: T5 **10 pages**, cumulative Gate-C **50/57**, exact unresolved count, next **T6 / FINAL scans 54–60 / printed pp.53–59**.

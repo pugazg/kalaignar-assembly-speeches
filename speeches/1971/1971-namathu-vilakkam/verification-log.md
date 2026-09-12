@@ -102,3 +102,28 @@ Status: **COMPLETE for this batch / Gate C remains IN PROGRESS**
 
 Exact continuation: **Gate C T4 — scans 34–43 / printed pp.33–42**.
 
+### Batch T4 — scans 34–43 / printed pp.33–42
+
+Status: **COMPLETE for this batch / Gate C remains IN PROGRESS**
+
+- pages transcribed — **10/10**
+- cumulative Gate-C coverage — **40/57 body pages**
+- source-page markers — **4→43 exactly once and in order**
+- source authority — rendered booklet pixels only
+- OCR / Official Report / outside edition wording imported — **none**
+- source-printed English letter from Prime Minister Indira Gandhi on scan 35 — **preserved verbatim**
+- Tamil translation of that letter on scans 35–36 — preserved as printed
+- headings, named interventions, quoted Rajaji passages, Cauvery dispute discussion, censorship discussion and prohibition-history figures — preserved on first pass
+- illustration/context note recorded conservatively for scan **36**
+- new unresolved readings introduced in T4 — **1**
+  - scan 37 / printed p.36 — short phrase inside the Rajaji quotation from `நமது ஜனநாயகம்`, marked `⟦தெளிவில்லை: தேச பக்தி வேறு⟧`
+- cumulative unresolved readings — **3**
+  - scan 11 / printed p.10 — existing phrase after `ஆகவே` before `வட்டிக்காக`
+  - scan 31 / printed p.30 — classroom-anecdote object phrase
+  - scan 37 / printed p.36 — Rajaji-quotation phrase
+- Gate C.5 — **NOT STARTED**
+- Tamil `verified_against_scan=false`
+- English — **BLOCKED**
+
+Exact continuation: **Gate C T5 — scans 44–53 / printed pp.43–52**.
+

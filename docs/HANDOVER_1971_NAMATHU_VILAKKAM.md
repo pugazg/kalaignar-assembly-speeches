@@ -65,7 +65,7 @@ Gate C.5 is mandatory.
 
 - Gate A — PASS
 - Gate B — PASS / LOCKED
-- Gate C — IN PROGRESS — T1–T3 scans 4–33 COMPLETE / 30 of 57 pages
+- Gate C — IN PROGRESS — T1–T4 scans 4–43 COMPLETE / 40 of 57 pages
 - Gate C.5 — REQUIRED
 - Gate D–E — NOT STARTED
 - English — BLOCKED
@@ -128,4 +128,22 @@ Exact next batch: **T3 scans 24–33 / printed pp.23–32**.
 - English — **BLOCKED**
 
 Exact next batch: **T4 scans 34–43 / printed pp.33–42**.
+
+## Gate C T4 — COMPLETE
+
+- scans — **34–43**
+- printed pages — **33–42**
+- pages transcribed — **10**
+- cumulative Gate C — **40/57**
+- source markers — **4→43 exactly once / monotonic**
+- source-printed Indira Gandhi English letter — **preserved verbatim**
+- new unresolved readings — **1**
+- cumulative unresolved readings — **3**
+- new unresolved location — scan **37** / printed p.36, short phrase in Rajaji quotation
+- existing unresolved locations — scans **11** and **31**
+- Gate C.5 — **NOT STARTED**
+- Tamil verified — **false**
+- English — **BLOCKED**
+
+Exact next batch: **T5 scans 44–53 / printed pp.43–52**.
 
