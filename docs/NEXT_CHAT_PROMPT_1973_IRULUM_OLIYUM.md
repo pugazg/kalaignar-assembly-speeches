@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 crop recovery page 35
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 1 whole-Tamil crop-recovery integrity audit
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -6,11 +6,11 @@ Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
 Fetch live `main` first and preserve newer durable work.
 
-Live checkpoint immediately before the scan-34 page-level pass:
+Live checkpoint immediately before this prompt refresh:
 
-`f6f46ea055f5a83b96982a0717be86338e274239` — `Recover Unit 1 crop text page 27`
+`88a57331d1fa4cd2a2739e95139e7d30523e7d4a` — `Close final crop page and hand off integrity audit`
 
-The scan-34 pass is committed together with this refreshed prompt; if live `main` is newer, preserve the newer state.
+If live `main` is newer, preserve the newer state.
 
 ## Source hierarchy
 
@@ -22,11 +22,11 @@ Official crop-recovery witness:
 
 `927193.pdf` — *Tamil Nadu Legislative Assembly Debates, 7 March 1973*
 
-Visible booklet wording remains controlling. TNLA may supply **only text physically absent because of gutter crop**. Never normalize legible booklet wording to TNLA and never reconstruct from grammar/context.
+Visible booklet wording remains controlling. TNLA was used only to supply material physically absent because of gutter crop. Never normalize legible booklet wording to TNLA.
 
 ## Durable crop-recovery state
 
-Workflow: **one booklet page per iteration**.
+Page-level crop recovery is **COMPLETE**.
 
 Individually PASS / PAGE-LEVEL RECOVERY VERIFIED:
 
@@ -34,39 +34,55 @@ Individually PASS / PAGE-LEVEL RECOVERY VERIFIED:
 - scans **10–11**
 - scans **20–21**
 - scans **25–27**
-- scan **34**
+- scans **34–35**
 
-### Scan 34 result
+Final scan-35 result:
 
-- pre-recovery literal `⟦scan-crop⟧` occurrences: **6**
-- actual line-level source-loss positions: **5**
+- pre-recovery literal `⟦scan-crop⟧` occurrences: **37**
+- actual line-level source-loss positions: **36**
 - direct official-witness recoveries: **2**
-- positions requiring no inserted fragment: **3**
+- positions requiring no inserted fragment: **34**
 - source-loss markers remaining: **0**
 - booklet physical line breaks preserved
 - contextual guesses: **0**
-- principal TNLA evidence: PDF p. **112** / proceedings p. **510**
 - recovered:
-  - `லைசென்ஸ் வழங்கப்படவில்லை` → `லைசென்ஸ் வழங்கப்படவில்லை.`
-  - `முதல் அமைச்ச` → `முதல் அமைச்சர்`
-- booklet-visible `லைசென்ஸ்` and `வந்து` retained where TNLA differs
-- outgoing boundary: scan 34 ends `... எப்படியாவது, நாங்கள்`; scan 35 begins `செலவு செய்துவிட்ட காரணத்தினாலே...`.
+  - `,41,000 பேர்` → `1,41,000 பேர்`
+  - concluding `ஆக,` before `ஒரு இலட்சத்து 57 ஆயிரம்...`
+- incoming boundary: scan 34 `... எப்படியாவது, நாங்கள்` → scan 35 `செலவு செய்துவிட்ட காரணத்தினாலே...`
+- outgoing boundary: scan 35 ends `விவரத்தை நான் இங்கே தெரிவித்துக்கொள்கிறேன்.`; scan 36 begins `ஒன்பது அறிவிப்புகள்`.
 
-Remaining crop page: **35 only**.
+Legacy gutter-crop page list is fully closed:
+
+**4–5, 10–11, 20–21, 25–27, 34–35**
 
 Unit 2 Gate D D1 remains **paused**.
 
 ## Exact next activity
 
-Work **only on booklet scan 35 / printed p.34**.
+Perform the **whole-Tamil crop-recovery integrity audit** across canonical Tamil scans **4–40 / printed pp.3–39**.
 
-1. Read the pre-recovery scan-35 text and every line-level `⟦scan-crop⟧` position.
-2. Visually inspect the controlling booklet scan at high resolution.
-3. Compare only the matching official TNLA passage — PDF p. **112** / proceedings p. **510** for the opening continuation, then mainly PDF p. **113** / proceedings p. **511** for the housing-patta section.
-4. Recover only characters/words physically lost at the left gutter.
-5. Preserve every booklet-visible spelling, punctuation, numeral, spacing choice and physical line break.
-6. Remove a crop marker only when the official witness confirms the exact continuation.
-7. Recheck all dates and figures in the housing-patta section without normalizing booklet wording to TNLA.
-8. Record every recovered fragment plus incoming/outgoing page-boundary evidence in `crop-recovery-audit.md`.
-9. Update metadata/README/handover and advance this prompt to the whole-Tamil crop-recovery integrity audit.
-10. **Do not begin the whole-Tamil crop-recovery integrity audit in the same iteration.**
+This is an integrity audit, not a new transcription pass. Do not start Gate E in the same iteration.
+
+Verify:
+
+1. recovered pages **4–5, 10–11, 20–21, 25–27, 34–35** contain no legacy gutter-crop placeholder;
+2. source-page markers **4–40** occur exactly once and are strictly monotonic;
+3. no recovered text crossed a booklet page boundary incorrectly;
+4. confirm these documented boundaries:
+   - 4→5 `சுதந்திரக் / கட்சியின்`
+   - 5→6 `பாளையங் / கோட்டைச்`
+   - 20→21 sentence close → `அது மாத்திரமல்ல...`
+   - 21→22 `கட்டுப்படுத்து / கின்ற`
+   - 25→26 `உட்படுத்தப்பட்டிருக் / கிறதா?`
+   - 26→27 sentence boundary → `திட்டக் குழுவில்...`
+   - 27→28 `தேர்ந் / தெடுக்கப்படுகிற`
+   - 34→35 `நாங்கள் / செலவு செய்துவிட்ட...`
+   - 35→36 sentence close → `ஒன்பது அறிவிப்புகள்`;
+5. recheck every recovery record's dates, numerals, punctuation and embedded English against canonical Tamil;
+6. confirm booklet-specific wording retained against TNLA differences has not been silently normalized;
+7. keep scan-13 smaller cartoon-label holds separate and unchanged;
+8. update `crop-recovery-audit.md`, `metadata.json`, README, handover and this prompt with the audit result.
+
+If the whole-Tamil crop-recovery integrity audit passes, the next activity is **Gate-E Tamil fidelity recheck for the affected recovered pages/spans**.
+
+Do **not** repair English, run Gate G, re-close Gate H, restore RELEASED, or resume Unit 2 in this iteration.
