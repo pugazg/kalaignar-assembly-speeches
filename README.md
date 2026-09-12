@@ -23,6 +23,11 @@ Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.
   - Assembly event reference: [`29 March 1971 — Interim-Budget reply`](./sources/1971-namathu-nilai/events/1971-03-29-assembly-interim-budget-reply.md)
   - Assembly event reference: [`2 April 1971 — Governor-address reply`](./sources/1971-namathu-nilai/events/1971-04-02-assembly-governors-address-reply.md)
   - Handover: [`docs/HANDOVER_1971_NAMATHU_NILAI.md`](./docs/HANDOVER_1971_NAMATHU_NILAI.md)
+- [`நமது விளக்கம்` — 1971 source package](./sources/1971-namathu-vilakkam/README.md) — 61-scan Government of Tamil Nadu booklet. **Gate A PASS / Gate B LOCKED at booklet-witness level. Scans 4–60 form one continuous edited two-House compilation; the source introduction identifies replies on 29-6-1971 in the Assembly and 30-6-1971 in the Legislative Council. Tamil Gate C is next; English remains blocked.**
+  - Reader-facing booklet entry: [`speeches/1971/1971-namathu-vilakkam/`](./speeches/1971/1971-namathu-vilakkam/)
+  - Event reference: [`29 June 1971 — Assembly budget reply`](./sources/1971-namathu-vilakkam/events/1971-06-29-assembly-budget-reply.md)
+  - Event reference: [`30 June 1971 — Council budget reply`](./sources/1971-namathu-vilakkam/events/1971-06-30-council-budget-reply.md)
+  - Handover: [`docs/HANDOVER_1971_NAMATHU_VILAKKAM.md`](./docs/HANDOVER_1971_NAMATHU_VILAKKAM.md)
 - [`இருளும் ஒளியும்` — 1973 source package](./sources/1973-irulum-oliyum/mapping.md) — 64-scan Government of Tamil Nadu publication containing the 7-3-1973 Assembly reply and 8-3-1973 Legislative Council reply. **COMPLETE / CLOSED: both units have verified Tamil, verified English, canonical bilingual transcripts, synchronized indexes and Gate-H RELEASED status. Unit 1 remains RELEASED / REVALIDATED AFTER CROP RECOVERY; Unit 2 is RELEASED after Gate H.**
   - Released Unit 1: [`7-3-1973 — சட்டப் பேரவையில்`](./speeches/1973/1973-03-07-financial-statement-reply/)
   - Released Unit 2: [`8-3-1973 — சட்டமன்ற மேலவையில்`](./speeches/1973/1973-03-08-financial-statement-reply/)
@@ -30,11 +35,11 @@ Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.
 - [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source mapped into 10 dated speeches. **All 10 speeches are fully released with verified Tamil and verified English.**
 - Copy/paste continuation prompt: [`docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md`](./docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md)
 
-### `நமது நிலை` indexing note
+### 1971 edited-booklet indexing note
 
-The 1971 booklet is an **edited two-House witness** and has no single speech date. Its reader-facing folder preserves the booklet itself, with `date: null`, while the dated event files above remain metadata/provenance references.
+Both `நமது நிலை` and `நமது விளக்கம்` are **edited two-House booklet witnesses** and do not have one safe canonical speech date. Their reader-facing folders preserve each booklet itself with `date: null`; dated event files remain metadata/provenance references.
 
-Accordingly, `நமது நிலை` is intentionally **not** added to the canonical dated speech table below or to `data/speeches.json` as though it were one complete Assembly transcript. Tamil wording comes only from `ACL-CPL_01726_நமது_நிலை.pdf`; external legislative records establish House/date/event provenance only and supplied no Tamil or English text.
+Accordingly, neither booklet-level entry is added to the canonical dated speech table below or to `data/speeches.json` as though it were one complete Assembly transcript. Each booklet's Tamil wording remains controlled only by its own scan; external legislative records may establish House/date/event provenance but must not silently replace booklet text.
 
 ## Speech index
 
@@ -66,6 +71,7 @@ kalaignar-assembly-speeches/
 ├── docs/
 │   ├── ARCHIVAL_WORKFLOW.md
 │   ├── HANDOVER_1971_NAMATHU_NILAI.md
+│   ├── HANDOVER_1971_NAMATHU_VILAKKAM.md
 │   ├── HANDOVER_2007_INDUSTRIAL_SPEECHES.md
 │   └── NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md
 ├── sources/
@@ -75,6 +81,10 @@ kalaignar-assembly-speeches/
 │   │   ├── transcription/
 │   │   ├── translations/en/
 │   │   └── provenance / audit records
+│   ├── 1971-namathu-vilakkam/
+│   │   ├── README.md
+│   │   ├── mapping.md
+│   │   └── events/
 │   ├── 1973-irulum-oliyum/
 │   │   └── mapping.md
 │   └── 2007-industrial-speeches/
@@ -83,7 +93,8 @@ kalaignar-assembly-speeches/
     ├── 1963/
     ├── 1970/
     ├── 1971/
-    │   └── 1971-namathu-nilai/
+    │   ├── 1971-namathu-nilai/
+    │   └── 1971-namathu-vilakkam/
     ├── 1973/
     │   ├── 1973-03-07-financial-statement-reply/
     │   └── 1973-03-08-financial-statement-reply/
