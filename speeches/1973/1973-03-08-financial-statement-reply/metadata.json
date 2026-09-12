@@ -49,30 +49,33 @@
     "completed_page_count": 22,
     "total_page_count": 22,
     "last_batch": "C3",
-    "next_scan_page": 61,
+    "next_scan_page": 41,
     "source_page_markers_checked": true,
     "marker_sequence_checked": "41-62",
     "source_crop_holds": "none identified in Gate C scans 41-62",
     "embedded_english_preserved": true,
     "historical_glyph_gate_required": true,
     "historical_glyph_gate_status": "passed",
-    "completeness_audit_passed": false,
-    "verification_note": "Gate C and mandatory Gate C.5 are complete. Gate D completeness audit is in progress: D1 scans 41-50 PASS with 2 source-context completeness additions and 0 unresolved; D2 scans 51-60 PASS with 0 additional corrections and 0 unresolved. Source-page markers 41-60 are complete and monotonic; D3 scans 61-62 is next. Tamil remains not verified until Gate D and Gate E both complete.",
-    "gate_d_status": "in-progress",
-    "gate_d_reviewed_scan_pages": "41-60",
-    "gate_d_reviewed_printed_pages": "40-59",
-    "gate_d_reviewed_page_count": 20,
+    "completeness_audit_passed": true,
+    "verification_note": "Gate C and mandatory Gate C.5 are complete. Gate D completeness audit is PASS / COMPLETE for scans 41-62 / printed pp.40-61: 22/22 mapped pages represented, source-page markers 41-62 exactly once/in order, 2 cumulative source-context completeness additions (printed illustration notes on scans 43 and 44), 0 unresolved completeness questions, and 0 physical crop holds. Scan 62 closes with `வணக்கம்`; scan 63 is printer/imprint matter and scan 64 back cover, so the Unit-2 speech boundary is locked. Gate E source-fidelity verification is next; Tamil is not yet verified.",
+    "gate_d_status": "pass-complete",
+    "gate_d_reviewed_scan_pages": "41-62",
+    "gate_d_reviewed_printed_pages": "40-61",
+    "gate_d_reviewed_page_count": 22,
     "gate_d_total_page_count": 22,
-    "gate_d_last_batch": "D2",
-    "gate_d_next_scan_page": 61,
+    "gate_d_last_batch": "D3",
+    "gate_d_next_scan_page": null,
     "gate_d_correction_count": 2,
     "gate_d_unresolved_completeness_questions": 0,
     "gate_d_corrections": [
       "scan 43 / printed p.42: added printed illustration note for audience / crowd scene at source position",
       "scan 44 / printed p.43: added printed illustration note for staged Yamadharman scene with a buffalo at source position"
     ],
-    "gate_d_marker_sequence_checked": "41-60 exactly once and monotonic",
-    "gate_d_page_boundaries_checked": "41→42 through 59→60; all internal joins PASS"
+    "gate_d_marker_sequence_checked": "41-62 exactly once and monotonic",
+    "gate_d_page_boundaries_checked": "41→42 through 61→62; all internal joins PASS",
+    "gate_d_speech_end_locked": true,
+    "gate_d_non_speech_tail": "scan 63 printer/imprint matter; scan 64 back cover; no third speech follows",
+    "next_gate": "E1"
   },
   "translation": {
     "language": "English",
@@ -131,6 +134,6 @@
     "completed_printed_pages": "40-61",
     "batch_size_pages": 10,
     "final_batch_may_be_shorter_at_gate_boundary": true,
-    "next_gate": "D3"
+    "next_gate": "E"
   }
 }
