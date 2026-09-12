@@ -36,3 +36,27 @@ Status: **PASS / LOCKED at booklet-witness level**
 ## Exact next activity
 
 Gate C T1 — **scans 4–13 / implied printed pp.3–12**.
+
+## Gate C — Tamil first-pass transcription
+
+### Batch T1 — scans 4–13 / implied printed pp.3–12
+
+Status: **COMPLETE for this batch / Gate C remains IN PROGRESS**
+
+- pages transcribed — **10/10**
+- cumulative Gate-C coverage — **10/57 body pages**
+- source-page markers — **4→13 exactly once and in order**
+- source authority — rendered booklet pixels only
+- OCR / external Official Report wording imported — **none**
+- opening heading and opening address — preserved
+- speaker/intervention labels — preserved where printed
+- headings, figures, punctuation and printed English/Latin abbreviations — preserved on first pass
+- illustration/context notes recorded conservatively for scans **8, 9, 11 and 13**
+- unresolved readings — **1**
+  - scan 11 / printed p.10 — narrow phrase after ஆகவே before வட்டிக்காக, marked ⟦தெளிவில்லை: போக ஏ⟧
+- Gate C.5 — **NOT STARTED**
+- Tamil verified_against_scan — **false**
+- English — **BLOCKED**
+
+Exact continuation: **Gate C T2 — scans 14–23 / printed pp.13–22**.
+

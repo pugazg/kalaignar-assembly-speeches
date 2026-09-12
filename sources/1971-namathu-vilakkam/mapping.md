@@ -98,7 +98,7 @@ These are event/provenance records only. They are not complete canonical transcr
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / LOCKED**
-- Gate C — **READY**
+- Gate C — **IN PROGRESS — T1 scans 4–13 COMPLETE; 10/57 pages; 1 unresolved**
 - Gate C.5 — **MANDATORY after Gate C**
 - Tamil verification — **blocked until Gate E**
 - English — **blocked until Tamil verification**
@@ -106,6 +106,6 @@ These are event/provenance records only. They are not complete canonical transcr
 
 ## Exact continuation
 
-Gate C T1: **scans 4–13 / implied printed pp.3–12**.
+Gate C T2: **scans 14–23 / printed pp.13–22**.
 
-Do not begin a provenance reconstruction of the 29/30 June House splices during T1. Transcribe the booklet exactly as printed.
+T1 scans 4–13 is complete. One narrow scan-11 phrase remains explicitly unresolved; do not normalize it without source-pixel evidence. Do not begin provenance reconstruction of the 29/30 June House splices during T2.

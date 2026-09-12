@@ -65,7 +65,7 @@ Gate C.5 is mandatory.
 
 - Gate A — PASS
 - Gate B — PASS / LOCKED
-- Gate C — NOT STARTED
+- Gate C — IN PROGRESS — T1 scans 4–13 COMPLETE / 10 of 57 pages
 - Gate C.5 — REQUIRED
 - Gate D–E — NOT STARTED
 - English — BLOCKED
@@ -73,6 +73,25 @@ Gate C.5 is mandatory.
 
 ## Exact next activity
 
-Gate C T1: **transcribe scans 4–13 / implied printed pp.3–12** directly from the booklet pixels.
+Gate C T2: **transcribe scans 14–23 / printed pp.13–22** directly from the booklet pixels.
 
-Do not import wording from any Official Report. Preserve headings, interventions, numerals, English, cartoons/illustration context and source-specific historical spelling.
+T1 scans 4–13 is durable. Cumulative Gate-C coverage: **10/57**. Unresolved readings: **1**, at scan 11 / printed p.10 after ஆகவே and before வட்டிக்காக, preserved as ⟦தெளிவில்லை: போக ஏ⟧. Gate C.5 has not started. Do not import Official Report wording.
+
+## Gate C T1 — COMPLETE
+
+- scans — **4–13**
+- implied printed pages — **3–12**
+- pages transcribed — **10**
+- cumulative Gate C — **10/57**
+- source markers — **4→13 exactly once / monotonic**
+- illustration/context notes — scans **8, 9, 11, 13**
+- unresolved readings — **1**
+- unresolved location — scan **11** / printed p.10, after ஆகவே before வட்டிக்காக
+- uncertainty marker — ⟦தெளிவில்லை: போக ஏ⟧
+- external wording imported — **none**
+- Gate C.5 — **NOT STARTED**
+- Tamil verified — **false**
+- English — **BLOCKED**
+
+Exact next batch: **T2 scans 14–23 / printed pp.13–22**.
+

@@ -52,7 +52,7 @@
   "gates": {
     "gate_a": "pass-complete",
     "gate_b": "pass-locked-booklet-level",
-    "gate_c": "not-started",
+    "gate_c": "in-progress",
     "gate_c5": "required-not-started",
     "gate_d": "not-started",
     "gate_e": "not-started",
@@ -61,13 +61,33 @@
     "gate_h": "not-started"
   },
   "transcription": {
-    "status": "not-started",
+    "status": "in-progress",
     "verified_against_scan": false,
     "preserve_source_spelling": true,
     "preserve_source_punctuation": true,
     "page_boundaries_required": true,
     "historical_glyph_audit_required": true,
-    "next_batch": "scans 4-13 / implied printed pp.3-12"
+    "next_batch": "scans 14-23 / printed pp.13-22",
+    "completed_scan_pages": "4-13",
+    "completed_printed_pages": "implied 3-12",
+    "completed_page_count": 10,
+    "total_page_count": 57,
+    "last_batch": "T1",
+    "unresolved_readings": 1,
+    "unresolved_reading_locations": [
+      {
+        "scan_page": 11,
+        "printed_page": 10,
+        "marker": "⟦தெளிவில்லை: போக ஏ⟧",
+        "note": "Narrow phrase after ஆகவே and before வட்டிக்காக remains visually ambiguous in the controlling scan. No outside wording was substituted."
+      }
+    ],
+    "illustration_context_recorded_scan_pages": [
+      8,
+      9,
+      11,
+      13
+    ]
   },
   "translation": {
     "status": "blocked",
