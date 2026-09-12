@@ -226,3 +226,40 @@ Unresolved completeness questions: **0**.
 
 Exact continuation: **Gate D D3 / FINAL — scans 61–62 / printed pp.60–61**. Do not begin Gate E in the same iteration.
 
+### D3 / FINAL — scans 61–62 / printed pp.60–61
+
+Status: **PASS / GATE D COMPLETE**
+
+- visually compared both final canonical page blocks to the controlling booklet scans;
+- source-page markers **61→62** are present exactly once and in order;
+- incoming scan-60→61 continuation is structurally complete: visible scan-60 final `30` continues with scan-61 `மனுக்கள் தான் வந்திருக்கின்றன.`;
+- scan-61→62 paragraph continuity: **PASS**;
+- heading `மாற்றம்!`: **PASS**;
+- final State-autonomy argument: **PASS**;
+- final acknowledgements and `வணக்கம்`: **PASS**;
+- closing ornament context: **PASS**;
+- scan 63 confirmed as printer/imprint matter;
+- scan 64 confirmed as back cover;
+- no third speech follows;
+- D3 completeness corrections: **0**;
+- unresolved completeness questions: **0**.
+
+## Gate D final result
+
+- audited scan range: **41–62**
+- audited printed range: **40–61**
+- pages audited: **22/22**
+- full source-page sequence: **41→62 exactly once / no skip / no duplicate**
+- cumulative completeness corrections: **2**
+  - scan 43 audience/crowd illustration context
+  - scan 44 Yamadharman/buffalo illustration context
+- unresolved completeness questions: **0**
+- physical crop holds: **0**
+- speech end: **LOCKED / PASS**
+- Gate D: **PASS / COMPLETE**
+- `transcription.verified_against_scan=false` remains correct until Gate E completes
+- Gate E: **UNBLOCKED / NEXT**
+- English remains blocked
+
+Exact continuation: **Gate E Tamil source-fidelity verification E1 — scans 41–50 / printed pp.40–49**.
+
