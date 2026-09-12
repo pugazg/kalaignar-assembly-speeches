@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`4402842f428f4a03d75b2a0e5ab065a35416bcd3` — `Complete crop recovery README state`
+`5f9b46226414d165ac872d5a779d61cd9aa462cd` — `Advance README after crop integrity audit`
 
 ## Active work
 
@@ -400,37 +400,69 @@ All legacy gutter-crop pages in Unit 1 are now individually **PASS / CLOSED**:
 
 **4–5, 10–11, 20–21, 25–27, 34–35**
 
-## Exact next activity — whole-Tamil crop-recovery integrity audit
+## Whole-Tamil crop-recovery integrity audit — PASS / COMPLETE
 
-Do **not** start Gate E yet.
+Scope: canonical Tamil scans **4–40 / printed pp.3–39**.
 
-Audit the canonical Tamil layer across **scans 4–40 / printed pp.3–39**, with special attention to every recovered page and every boundary touched by recovery.
+Result:
+
+- Tamil source-page markers **4–40**: **37 / 37**, exactly once and strictly monotonic;
+- recovered pages checked: **11 / 11** — scans **4–5, 10–11, 20–21, 25–27, 34–35**;
+- legacy gutter placeholders on recovered pages: **0**;
+- legacy gutter placeholders anywhere in canonical Tamil: **0**;
+- documented recovery boundaries: **9 / 9 PASS**;
+- scan-13 smaller cartoon-label hold: **unchanged / separate**;
+- booklet-specific wording retained against TNLA differences: **PASS**;
+- contextual guesses introduced by recovery: **0**.
+
+Boundary joins confirmed:
+
+- 4→5 `சுதந்திரக் / கட்சியின்`
+- 5→6 `பாளையங் / கோட்டைச்`
+- 20→21 sentence close → `அது மாத்திரமல்ல...`
+- 21→22 `கட்டுப்படுத்து / கின்ற`
+- 25→26 `உட்படுத்தப்பட்டிருக் / கிறதா?`
+- 26→27 sentence close → `திட்டக் குழுவில்...`
+- 27→28 `தேர்ந் / தெடுக்கப்படுகிற`
+- 34→35 `நாங்கள் / செலவு செய்துவிட்ட...`
+- 35→36 sentence close → `ஒன்பது அறிவிப்புகள்`
+
+Integrity-audit correction:
+
+- scan 35 residual canonical lineation `ஆட்சேபணை தெரிவிக்கப்பட்ட / டும்`
+- corrected to booklet-visible `ஆட்சேபணை தெரிவிக்கப்பட் / டும்`
+- continuous word remains `தெரிவிக்கப்பட்டும்`
+- this is a booklet-pixel lineation correction, not TNLA normalization;
+- page-35 recovery counts remain **2 direct witness recoveries / 34 no-insert positions**.
+
+## Exact next activity — Gate-E Tamil fidelity recheck for recovered spans/pages
+
+Re-run **Gate E only for the affected recovered pages/spans**:
+
+**4–5, 10–11, 20–21, 25–27, 34–35**
+
+This is not a whole-speech retranscription. Recheck the canonical Tamil against the controlling booklet pixels, using TNLA only where the booklet gutter physically removed text.
 
 Verify at minimum:
 
-1. recovered pages **4–5, 10–11, 20–21, 25–27, 34–35** contain no legacy gutter-crop placeholder;
-2. no recovery text has crossed a booklet page boundary incorrectly;
-3. all documented boundary joins remain exact:
-   - 4→5 `சுதந்திரக் / கட்சியின்`
-   - 5→6 `பாளையங் / கோட்டைச்`
-   - 20→21 `இங்கே சுட்டிக் காட்டினேன். / அது மாத்திரமல்ல...`
-   - 21→22 `கட்டுப்படுத்து / கின்ற`
-   - 25→26 `உட்படுத்தப்பட்டிருக் / கிறதா?`
-   - 26→27 sentence boundary into `திட்டக் குழுவில்...`
-   - 27→28 `தேர்ந் / தெடுக்கப்படுகிற`
-   - 34→35 `நாங்கள் / செலவு செய்துவிட்ட...`
-   - 35→36 sentence close → `ஒன்பது அறிவிப்புகள்`;
-4. recovered dates, numerals, embedded English and punctuation match the page-level audit records;
-5. booklet-specific wording retained against TNLA differences has not been silently normalized;
-6. scan 13 smaller cartoon-label holds remain separate and unchanged;
-7. Tamil source-page markers 4–40 remain exactly once and strictly monotonic;
-8. update the crop-recovery audit, metadata, README, handover and next prompt with the integrity-audit result.
+1. every direct crop recovery recorded in `crop-recovery-audit.md`;
+2. booklet-visible wording adjacent to every recovered fragment;
+3. names / initials / speaker labels;
+4. numerals, dates, percentages, money and units;
+5. embedded English — especially `THIRUMATHI T. N. ANANDANAYAKI...` and `Ratification`;
+6. headings and intervention boundaries;
+7. punctuation where booklet pixels are legible;
+8. physical line breaks and all nine recovery-touched page boundaries;
+9. retained booklet-specific forms against TNLA differences;
+10. scan-35 integrity correction `தெரிவிக்கப்பட் / டும்`.
 
-If the integrity audit passes, the next activity becomes **Gate-E Tamil fidelity recheck for affected recovery spans/pages**.
+If Gate-E recheck passes, next activity becomes **English repair / retranslation for the recovered spans**.
+
+Do **not** repair English, run Gate G, re-close Gate H, restore RELEASED, or resume Unit 2 in the same iteration.
 
 ## Required files
 
-Read before whole-Tamil crop-recovery integrity audit:
+Read before Gate-E Tamil fidelity recheck:
 
 1. this handover
 2. `docs/NEXT_CHAT_PROMPT_1973_IRULUM_OLIYUM.md`
@@ -449,20 +481,20 @@ All affected pages are individually revalidated. Page-level crop recovery is **C
 
 Next:
 
-1. **whole-Tamil crop-recovery integrity audit**;
-2. Gate-E Tamil fidelity recheck for affected pages/spans;
-3. English repair/retranslation for recovered spans;
-4. Gate-G English fidelity recheck;
-5. Gate-H canonical bilingual revalidation;
-6. restore RELEASED only after all checks pass;
-7. resume Unit 2 Gate D D1.
+1. **Gate-E Tamil fidelity recheck for affected recovered pages/spans**;
+2. English repair/retranslation for recovered spans;
+3. Gate-G English fidelity recheck;
+4. Gate-H canonical bilingual revalidation;
+5. restore RELEASED only after all checks pass;
+6. resume Unit 2 Gate D D1.
 
 ## Current Unit 1 release state
 
 - `transcription.status = crop-recovery-in-progress`
 - `transcription.verified_against_scan = false`
 - page-by-page verified scans: **4–5, 10–11, 20–21, 25–27, 34–35 — COMPLETE**
-- next activity: **whole-Tamil crop-recovery integrity audit**
+- whole-Tamil crop-recovery integrity audit — **PASS / COMPLETE**
+- next activity: **Gate-E Tamil fidelity recheck for recovered spans/pages**
 - Gate E — recheck required
 - English `verified_against_tamil = false`
 - Gate G — recheck required
