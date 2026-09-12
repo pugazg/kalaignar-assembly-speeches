@@ -680,13 +680,13 @@ The power supply position in the States of Southern Zone was going to be extreme
 
 **டாக்டர் எச். வி. ஹண்டே :** 36-வது டிவிஷன் என்று சொன்னார்கள். அதை முதலமைச்சர் விளக்க வேண்டும்.
 
-> **Scan condition:** the final intervention on scan p.34 runs into physical right-gutter crop loss. Line breaks are retained and `⟦scan-crop⟧` marks unrecoverable line endings.
+> **Page-34 crop recovery:** the final Karunanidhi intervention on booklet scan 34 / printed p.33 was rechecked line by line against the official *Tamil Nadu Legislative Assembly Debates, 7 March 1973*. Only right-gutter material physically absent from the booklet is supplied from that witness. Booklet-visible wording and physical line breaks remain controlling. See `crop-recovery-audit.md`.
 
-**மாண்புமிகு டாக்டர் மு. கருணாநிதி :** அவர்களுக்கு⟦scan-crop⟧
-ஜெனரேட்டர் கூட அல்ல, லைசென்ஸ் வழங்கப்படவில்லை⟦scan-crop⟧
-அவர்கள் கொட்டகைகள் எல்லாம் போட்டுவிட்டு வந்து⟦scan-crop⟧
-‘நாங்கள் போட்டுவிட்டோம், இருந்தாலும் முதல் அமைச்ச⟦scan-crop⟧
-நீங்கள் இப்படி அறிவித்தீர்கள். எப்படியாவது, நாங்கள்⟦scan-crop⟧
+**மாண்புமிகு டாக்டர் மு. கருணாநிதி :** அவர்களுக்கு
+ஜெனரேட்டர் கூட அல்ல, லைசென்ஸ் வழங்கப்படவில்லை.
+அவர்கள் கொட்டகைகள் எல்லாம் போட்டுவிட்டு வந்து
+‘நாங்கள் போட்டுவிட்டோம், இருந்தாலும் முதல் அமைச்சர்
+நீங்கள் இப்படி அறிவித்தீர்கள். எப்படியாவது, நாங்கள்
 
 <!-- source-page: 35 -->
 
