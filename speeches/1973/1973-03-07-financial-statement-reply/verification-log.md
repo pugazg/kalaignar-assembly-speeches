@@ -868,3 +868,43 @@ The canonical English status notes were refreshed to remove stale statements tha
 
 Exact continuation: **focused post-recovery Gate-G English fidelity recheck for repaired source pages 4–5, 10–11, 20–21, 25–27, 34–35**. Do not re-close Gate H or resume Unit 2 in the same iteration.
 
+## Post-recovery Gate G — focused English fidelity recheck
+
+Status: **PASS / COMPLETE**
+
+Scope:
+
+- repaired English source pages **4–5, 10–11, 20–21, 25–27, 34–35**;
+- pages reviewed: **11 / 11**;
+- basis: final post-recovery Gate-E-verified Tamil;
+- no external historical correction or TNLA-to-English translation was used.
+
+Coverage and checks:
+
+- omissions / additions — **PASS**;
+- recovered-fragment fidelity — **PASS**;
+- speaker labels / intervention order — **PASS**;
+- figures / dates / units / Plan chronology — **PASS**;
+- source-printed English — **PASS / verbatim**;
+- source-page boundaries — **PASS**;
+- English source-page sections **4–40** exactly once and in order — **PASS**;
+- legacy English crop markers — **0**.
+
+Definite corrections: **2**
+
+1. **scan p.35** — corrected `open them ... licences ... to them` to source-faithful `inaugurate it ... licences ... for it` for Tamil `திறந்து வைத்தாலும் அதற்கு லைசென்சுகள்...`.
+2. **scan p.35** — removed duplicated repair artifact `Thus, Thus,`; final English now has one `Thus,` for Tamil `ஆக,`.
+
+Focused post-recovery Gate-G unresolved fidelity issues: **0**.
+
+Post-recovery Gate-G status:
+
+- `verified_against_tamil=true`;
+- repaired recovered-span English: **verified**;
+- focused Gate G: **PASS / COMPLETE**;
+- historical pre-recovery Gate-G corrections: **15**;
+- focused post-recovery corrections: **2**;
+- cumulative definite English fidelity corrections across both review eras: **17**.
+
+Exact continuation: **Gate H — canonical bilingual integrity / release revalidation for Unit 1**. Do not resume Unit 2 in the same iteration.
+
