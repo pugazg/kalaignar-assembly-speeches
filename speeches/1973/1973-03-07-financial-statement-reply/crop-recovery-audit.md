@@ -55,7 +55,7 @@ Status: **PASS / COMPLETE**
 
 ## Remaining crop-recovery work
 
-- **CR2:** scans **26–27** (scans 20–21 and 25 are now page-level closed)
+- **CR2:** scan **27** only (scans 20–21 and 25–26 are now page-level closed)
 - **CR3:** scans **34–35**
 - then: whole-Tamil recovery audit
 - then: English repair/retranslation for recovered spans
@@ -482,4 +482,64 @@ Page-boundary evidence:
 - the cross-page word is therefore `உட்படுத்தப்பட்டிருக்கிறதா?`, with no text moved across the booklet boundary.
 
 Exact next page-by-page activity: **booklet scan 26 / printed p.25**. Do not process scan 27 in the same iteration.
+
+### Booklet scan 26 / printed p.25
+
+Status: **PASS / PAGE-LEVEL RECOVERY VERIFIED**
+
+Evidence:
+
+- controlling booklet: `இருளும் ஒளியும்`, scan **26** / printed p. **25**;
+- independent official witness: *Tamil Nadu Legislative Assembly Debates*, **7 March 1973**, TNLA PDF pp. **105–106** / proceedings pp. **503–504**;
+- the witness confirms the completion of Ponnappa Nadar's question, Karunanidhi's immediate answer, the Kalpakkam / Neyveli / Tuticorin central-project paragraph, the Kumarasami fourth-plan passage, and the opening procedural explanation for project approval;
+- visible booklet wording remains controlling wherever legible.
+
+Marker accounting:
+
+- pre-recovery scan-26 block literal `⟦scan-crop⟧` occurrences: **37**;
+- actual line-level right-gutter source-loss positions: **36**;
+- explanatory-note literal-token occurrences: **1**;
+- page-level source-loss positions revalidated: **36 / 36**;
+- direct missing-character/punctuation recoveries from the official witness: **6**;
+- positions requiring no witness-supplied insertion: **30**;
+- source-loss markers remaining on scan 26: **0**;
+- booklet physical line breaks: **preserved**;
+- contextual/grammar-only guesses: **0**;
+- global replacements: **0**.
+
+Direct recoveries, in physical line order:
+
+1. `திட்டங்கள` → `திட்டங்கள்`, restoring the cropped final pulli.
+2. `வருகிறோம்` → `வருகிறோம்.`, restoring the sentence-final period.
+3. `பொதுமக்களிட` → `பொதுமக்களிடத்தில்`, using the official witness for the physically missing right-gutter suffix before next-line `சொல்கிற`.
+4. `உடனடியா` → `உடனடியாக`, restoring the cropped final `க`.
+5. `ஆராய்ந்து` → `ஆராய்ந்து,`, restoring the comma before next-line `மத்திய`.
+6. `பெற்` → `பெற்ற` before next-line `பின்`, restoring the cropped `ற`.
+
+The remaining **30** marked positions were independently checked against the booklet and official witness and require **no inserted fragment**. They are either complete at the edge or preserve an intentional physical-line continuation, including `நெய் / வேலி`, `ஐந் / தாண்டுத்`, `மத் / திய`, `குமார / சாமி`, `தேவை / யான`, `அமைச்ச / ரிடம்`, `வேண்டி / யது`, `இருக் / கிற`, `ஒத்துக்கொண்டிருக் / கிறார்கள்`, `பொது / மக்கள்`, and `தயா / ரித்து`.
+
+One additional **booklet-visible fidelity correction** was made during the high-resolution edge re-read:
+
+- pre-recovery first line ended `உட்படுத்தப்பட்ட`;
+- the booklet pixels preserve the physical split as `உட்படுத்தப்பட்` / next-line `டிருக்கிறதா ?`;
+- the canonical page now preserves that visible split, yielding the cross-line word `உட்படுத்தப்பட்டிருக்கிறதா ?`;
+- this is a booklet-pixel correction, not a normalization to TNLA.
+
+Booklet-specific forms retained rather than normalized to the TNLA printing include:
+
+- `இவைகள் அன்னியில்`;
+- `மத்திய அரசினர்`;
+- `ஒத்துக் கொண்டிருக்கிறார்கள்`;
+- `அப்படிச் செய்யத் தவறியதால் தான்`;
+- source punctuation and spacing such as `கருதிக் கொள்வார்கள் ?`;
+- `நீர்மின் குழு` and `மின்சாரத்துறை` as printed in the booklet.
+
+Page-boundary evidence:
+
+- incoming boundary: scan 25 ends `... நான்காவது திட்டத்தில் உட்படுத்தப்பட்டிருக்`; scan 26 begins `கிறதா? அல்லது ஐந்தாவது திட்டத்தில்...`, preserving the cross-page word `உட்படுத்தப்பட்டிருக்கிறதா?`;
+- scan 26 ends `பின், திட்டக் குழுவிற்கு அதை அனுப்பும்.`;
+- scan 27 begins `திட்டக் குழுவில் தொழில் நுட்ப ஆலோசனைக் குழு மறு...`;
+- no text was moved across either booklet boundary.
+
+Exact next page-by-page activity: **booklet scan 27 / printed p.26**. Do not process scan 34 in the same iteration.
 
