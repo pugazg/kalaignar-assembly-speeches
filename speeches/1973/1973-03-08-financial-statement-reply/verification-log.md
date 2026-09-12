@@ -263,3 +263,50 @@ Status: **PASS / GATE D COMPLETE**
 
 Exact continuation: **Gate E Tamil source-fidelity verification E1 — scans 41–50 / printed pp.40–49**.
 
+## Gate E — Tamil source-fidelity verification
+
+### E1 — scans 41–50 / printed pp.40–49
+
+Status: **PASS**
+
+Review method:
+
+- all ten source scans were re-read visually against the canonical Tamil at enlarged source resolution;
+- source pixels controlled every fidelity decision;
+- names / initials / speaker labels, numerals, dates, money, units, headings, punctuation, embedded English and page transitions were checked;
+- Gate C.5 historical-glyph decisions were preserved unless contradicted by the source;
+- Gate-D illustration-context notes on scans 43–44 were checked to ensure they represent printed non-speech source context and do not replace speech text.
+
+Results:
+
+- scans reviewed: **41–50 / 10 pages**;
+- Gate-E corrections in E1: **1**;
+- unresolved source-fidelity questions: **0**;
+- embedded source English: **PASS / verbatim**;
+- names / speaker labels: **PASS**;
+- figures / dates / money / units: **PASS**;
+- headings / interventions: **PASS**;
+- page-boundary continuity: **PASS**.
+
+Definite correction:
+
+1. **scan 44 / printed p.43**
+   - before: `சில பேர் ரசிப்பார்கள் என்ற நிலைமை எண்ணி,`
+   - source: `சில பேர் ரசிப்பார்கள் என்று நிலைமையை எண்ணி,`
+   - after: `சில பேர் ரசிப்பார்கள் என்று நிலைமையை எண்ணி,`
+   - type: ordinary source-fidelity correction;
+   - evidence: clearly legible controlling booklet pixels;
+   - this is **not** a historical-glyph correction and does not alter the earlier Gate-C.5 `மாறாக` decision on the same page.
+
+E1 source-context checks:
+
+- scan 43 printed audience/crowd illustration note remains structurally accurate;
+- scan 44 printed Yamadharman/buffalo illustration note remains structurally accurate;
+- scan 50 retains both Punjab Electricity Board English quotations as printed, including the source wording `The offer of Rs. 45 lakhs was had on behalf of the Board...`.
+
+Cumulative Gate-E coverage: **10 / 22 pages**.  
+Cumulative Gate-E corrections: **1**.  
+Unresolved Gate-E questions: **0**.
+
+Exact continuation: **Gate E E2 — scans 51–60 / printed pp.50–59**. English remains blocked until Gate E is complete.
+
