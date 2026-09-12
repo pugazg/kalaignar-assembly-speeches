@@ -32,8 +32,8 @@ For every mapped source page:
 | Batch | Scan pages | Printed pages | Status | Completeness corrections |
 |---|---|---|---|---:|
 | D1 | 41–50 | 40–49 | **PASS** | **2** |
-| D2 | 51–60 | 50–59 | NEXT | — |
-| D3 | 61–62 | 60–61 | NOT STARTED | — |
+| D2 | 51–60 | 50–59 | **PASS** | **0** |
+| D3 | 61–62 | 60–61 | NEXT | — |
 
 ## D1 page-level coverage
 
@@ -79,8 +79,44 @@ D1 unresolved completeness questions: **0**.
 
 Cumulative Gate-D completeness corrections: **2**.
 
+## D2 page-level coverage
+
+| Scan | Printed | Marker exactly once | Key completeness evidence | Source-loss / unresolved state | Result |
+|---:|:---:|:---:|---|---|:---:|
+| 51 | 50 | YES | p.49 Punjab-board continuation closes; heading `விசாரணைக் குழு`; opposition / M.P. Sivagnanam / Eswaramoorthy / Swaminathan sequence begins | none | PASS |
+| 52 | 51 | YES | p.50 continuation; heading `அந்தச் சட்டம் தெரியுமா?`; printed `Punishment for false, frivolous, fictitious complaint` passage retained in place | none | PASS |
+| 53 | 52 | YES | printed `Prosecution for false complaint` passage; `Minister means...` passage; Swaminathan / Kamaraj argument | none | PASS |
+| 54 | 53 | YES | heading `அண்ணாவின் பதில்`; 1968 Chavan / Anna discussion; two printed English constitutional/Lok-Pal passages retained | none | PASS |
+| 55 | 54 | YES | Tamil explanation of Singh Deo position; printed `The Council have examined...` and `We feel...` passages; 2-6-1968 reference | none | PASS |
+| 56 | 55 | YES | p.54 continuation; central-inquiry / state-autonomy argument; M. P. Sivagnanam reference | none | PASS |
+| 57 | 56 | YES | p.55 continuation; heading `நமது எதிர்ப்பு`; agricultural-income-tax argument begins | none | PASS |
+| 58 | 57 | YES | tax-example figures **6,000 / 110 / 11,000 / 187 / 77**; heading `தியாசாபிகல் சொசைட்டி விவகாரம்`; 296 / 106 acres; 56-1 / 56-2; 191 grounds | none | PASS |
+| 59 | 58 | YES | 4-6-1971→8-6-1971 transfer window; July 1972 petition; Rajaram intervention / Karunanidhi reply; heading `திண்டுக்கல் தேர்தல்` | none | PASS |
+| 60 | 59 | YES | Dindigul-voter-list continuation; **11,000 / 50,000 / 300** figures; page ends visibly mid-sentence at `30` for D3 continuation | none | PASS |
+
+Marker sequence for D2: **51 → 52 → 53 → 54 → 55 → 56 → 57 → 58 → 59 → 60**.
+
+Page-boundary continuity checked:
+
+- 51→52: `எதை / எதை விலக்கிவிடலாமென்று`;
+- 52→53: `13-வது பிரிவில் / Prosecution for false complaint...`;
+- 53→54: paragraph close → heading `அண்ணாவின் பதில்`;
+- 54→55: printed Singh Deo English quotation → Tamil explanation `அதாவது...`;
+- 55→56: `அவர்கள் என்ன செய்ய / வேண்டும்?`;
+- 56→57: `இந்த அரசு துணிச்சலோடும், / நேர்மையோடும்,`;
+- 57→58: `5 ஆயிரம் ரூபாய் தான் / விவசாயம் அல்லாத வருமானம்...`;
+- 58→59: `வீட்டு வசதி / வாரியம்`;
+- 59→60: Dindigul-election paragraph continues into `நான் சட்டப்பேரவையிலே சொன்னேன்...`.
+
+Source-printed English placement checked on scans **52–55**: **PASS**.
+
+Canonical Tamil changes made during D2: **0**.  
+D2 unresolved completeness questions: **0**.  
+Cumulative Gate-D coverage: **20 / 22 pages**.  
+Cumulative Gate-D completeness corrections: **2**.
+
 ## Exact next activity
 
-Proceed with **Gate D D2 — scans 51–60 / printed pp.50–59**.
+Proceed with **Gate D D3 / FINAL — scans 61–62 / printed pp.60–61**.
 
-Do not begin Gate E until Gate D is complete for scans 41–62.
+Do not begin Gate E in the same iteration.
