@@ -20,7 +20,7 @@ This entry preserves the Legislative Council reply dated `8-3-1973` in the sourc
 - Gate C: **COMPLETE — C1–C3 scans 41–62 / printed pp.40–61; 22/22 pages**
 - Gate C.5 historical Tamil glyph audit: **PASS / COMPLETE — HG1–HG3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative corrections; 0 unresolved**
 - Gate D: **PASS / COMPLETE — D1–D3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative completeness corrections; 0 unresolved**
-- Gate E: **IN PROGRESS — E1 scans 41–50 / printed pp.40–49 PASS; 10/22 pages; 1 correction; 0 unresolved**
+- Gate E: **IN PROGRESS — E1 + E2 scans 41–60 / printed pp.40–59 PASS; 20/22 pages; 12 cumulative corrections; 0 unresolved**
 - Gates F–H: **NOT STARTED / downstream**
 - Tamil status: **Gate C + C.5 + D complete; Gate E in progress / not verified**
 - English: **blocked until Tamil verification**
@@ -85,7 +85,7 @@ Gate D final result:
 - speech-end classification — **LOCKED / PASS**
 - Gate D — **PASS / COMPLETE**
 
-Gate E E1 is now **PASS** for scans **41–50 / printed pp.40–49**.
+Gate E E1 is **PASS** for scans **41–50 / printed pp.40–49**.
 
 - scans reviewed — **10/10**
 - E1 source-fidelity corrections — **1**
@@ -103,8 +103,23 @@ E1 correction:
 
 The correction is an ordinary source-fidelity correction; Gate-C.5 historical `மாறாக` remains unchanged and source-supported.
 
-Gate-E cumulative coverage: **10/22 pages**.  
-Cumulative Gate-E corrections: **1**.  
+Gate E E2 is now **PASS** for scans **51–60 / printed pp.50–59**.
+
+- scans reviewed — **10/10**
+- E2 source-fidelity corrections — **11**
+- cumulative Gate-E corrections — **12**
+- unresolved source-fidelity questions — **0**
+- names / initials / speaker labels — **PASS after two scan-59 punctuation repairs**
+- figures / dates / money / units / legal references — **PASS**
+- source-printed English on scans 52–55 — **PASS / verbatim**
+- headings / interventions / punctuation — **PASS**
+- page transitions 51→52 through 59→60 — **9/9 PASS**
+- Gate-C.5 scan-58 `வேலைதான்` — **revalidated / preserved**
+
+E2 definite corrections are recorded with scan / printed-page provenance in `verification-log.md`; they include source spacing/compound repairs, scan-54 wording, scan-56 wording, the printed scan-57 ellipsis, scan-59 wording and speaker punctuation, and two scan-60 voter-list wording repairs.
+
+Gate-E cumulative coverage: **20/22 pages**.  
+Cumulative Gate-E corrections: **12**.  
 Unresolved Gate-E questions: **0**.
 
-Exact next activity: **Gate E E2 — scans 51–60 / printed pp.50–59**. English remains blocked until Gate E is complete.
+Exact next activity: **Gate E E3 / FINAL — scans 61–62 / printed pp.60–61**. English remains blocked until Gate E is complete.
