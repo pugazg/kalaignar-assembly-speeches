@@ -4,7 +4,7 @@
 
 **Gate D — Tamil completeness audit**
 
-Status: **IN PROGRESS**
+Status: **PASS / COMPLETE**
 
 Locked scope:
 
@@ -33,7 +33,7 @@ For every mapped source page:
 |---|---|---|---|---:|
 | D1 | 41–50 | 40–49 | **PASS** | **2** |
 | D2 | 51–60 | 50–59 | **PASS** | **0** |
-| D3 | 61–62 | 60–61 | NEXT | — |
+| D3 | 61–62 | 60–61 | **PASS / FINAL** | **0** |
 
 ## D1 page-level coverage
 
@@ -115,8 +115,49 @@ D2 unresolved completeness questions: **0**.
 Cumulative Gate-D coverage: **20 / 22 pages**.  
 Cumulative Gate-D completeness corrections: **2**.
 
+## D3 page-level coverage
+
+| Scan | Printed | Marker exactly once | Key completeness evidence | Source-loss / unresolved state | Result |
+|---:|:---:|:---:|---|---|:---:|
+| 61 | 60 | YES | incoming `30 / மனுக்கள் தான்...` continuation from scan 60; Rajaram intervention; heading `மாற்றம்!`; Dindigul election / central-election-authority argument | none | PASS |
+| 62 | 61 | YES | p.60 continuation; final State-autonomy argument; final acknowledgements; `வணக்கம்`; printed closing ornament represented | none | PASS |
+
+Marker sequence for D3: **61 → 62**.
+
+Boundary / closing checks:
+
+- 60→61: scan 60 ends visibly at `30`; scan 61 begins `மனுக்கள் தான் வந்திருக்கின்றன.`, preserving `300 மனுக்கள் தான்...`;
+- 61→62: scan 61 ends `எனக்குப் புரியவில்லை,`; scan 62 continues `இப்படி எதற்கெடுத்தாலும் மாநிலத்தினுடைய உரிமைகளைக்...`;
+- scan 62 closes the speech with `இந்த அளவிலே முடிக்கின்றேன். வணக்கம்.`;
+- source closing ornament `○` is represented;
+- scan 63 is printer/imprint matter only;
+- scan 64 is back-cover artwork;
+- no third speech follows.
+
+Canonical Tamil changes made during D3: **0**.  
+D3 unresolved completeness questions: **0**.
+
+## Gate D final result
+
+**PASS / COMPLETE — scans 41–62 / printed pp.40–61.**
+
+- mapped pages represented: **22 / 22**;
+- source-page sequence: **41 → 62 exactly once and in order**;
+- missing pages: **0**;
+- duplicate page markers: **0**;
+- D1 completeness corrections: **2**;
+- D2 completeness corrections: **0**;
+- D3 completeness corrections: **0**;
+- cumulative completeness corrections: **2**;
+- unresolved completeness questions: **0**;
+- physical crop holds identified: **0**;
+- speech-end classification: **LOCKED / PASS**;
+- Gate E: **unblocked / next**.
+
 ## Exact next activity
 
-Proceed with **Gate D D3 / FINAL — scans 61–62 / printed pp.60–61**.
+Begin **Gate E — Tamil source-fidelity verification E1, scans 41–50 / printed pp.40–49**.
 
-Do not begin Gate E in the same iteration.
+Check words/characters, names/initials, numerals/dates/percentages/money/units, embedded English, headings, speaker labels, punctuation where legible, and omissions/repetitions across page transitions.
+
+Do not begin English translation until Gate E passes for the full Unit-2 range.
