@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`80672dae526ed96f217317cc0d8771ba6e8d4444` — `Advance README to focused Gate G recheck`
+`8b04ecc811eb4b5f8284404be6939d6c1c440370` — `Refresh canonical status after focused Gate G pass`
 
 ## Active work
 
@@ -512,39 +512,79 @@ Notable repairs:
 
 The prior full Gate-G PASS is historical only because it reviewed the pre-recovery English.
 
-## Exact next activity — focused post-recovery Gate-G English fidelity recheck
+## Focused post-recovery Gate G — PASS / COMPLETE
 
-Review **only the repaired recovered-span English** on source pages:
+Scope:
 
-**4–5, 10–11, 20–21, 25–27, 34–35**
+**English source pages 4–5, 10–11, 20–21, 25–27, 34–35**
 
-Compare each repaired English section against the final post-recovery Gate-E-verified Tamil.
+Result:
+
+- repaired English pages reviewed: **11 / 11**;
+- review source: final post-recovery Gate-E-verified Tamil;
+- omissions / additions: **PASS**;
+- recovered-fragment fidelity: **PASS**;
+- names / speaker labels / intervention order: **PASS**;
+- dates / numerals / money / units / project names / Plan chronology: **PASS**;
+- source-printed English: **PASS / verbatim**;
+- English source-page sequence **4–40**: **PASS / exactly once / monotonic**;
+- legacy English crop markers: **0**;
+- unresolved English fidelity questions: **0**;
+- `verified_against_tamil=true`.
+
+Definite focused corrections: **2**
+
+1. scan 35:
+   - before: `Even if Ministers themselves go and open them, licences will not be issued to them...`
+   - after: `Even if Ministers themselves go and inaugurate it, licences will not be issued for it...`
+   - reason: final Tamil has `திறந்து வைத்தாலும் அதற்கு லைசென்சுகள்...`; the earlier English incorrectly redirected `அதற்கு` to people.
+
+2. scan 35:
+   - before: `Thus, Thus, I place before the House...`
+   - after: `Thus, I place before the House...`
+   - reason: duplicate repair artifact; Tamil has one `ஆக,`.
+
+Historical pre-recovery Gate G remains recorded with **15** corrections. Focused post-recovery Gate G adds **2**, for **17 cumulative definite English fidelity corrections across both review eras**.
+
+## Exact next activity — Gate-H canonical bilingual integrity / release revalidation
+
+Revalidate the canonical Unit-1 bilingual release after crop recovery and focused Gate-G completion.
 
 Verify at minimum:
 
-1. no omission/addition in each repaired span;
-2. every recovered Tamil fragment has a faithful English counterpart;
-3. names, initials, speaker labels and intervention order;
-4. dates, numerals, money, units, project names and Plan chronology;
-5. source-printed English remains verbatim, especially scan 25 Ananthanayaki and scan 27 `Ratification`;
-6. the repaired scan-4 inclusive 81-member count;
-7. scan-10 complete tax-head list;
-8. scan-11 Kambam / 1973-74 / 1965-66 / four demands;
-9. scan-20 **reduce all taxes**;
-10. scan-27 **at the seashore**;
-11. scan-34→35 generator/licence continuation;
-12. scan-35 **1,41,000** and concluding `ஆக,` sense;
-13. recovery-touched English page boundaries remain aligned.
+1. canonical Tamil source-page markers **4–40** occur exactly once and strictly in order;
+2. canonical English source-page sections **4–40** occur exactly once and strictly in order;
+3. Tamil layer contains **0** legacy gutter placeholders;
+4. English layer contains **0** legacy gutter placeholders;
+5. Tamil remains the final post-recovery Gate-E-verified payload;
+6. English remains the focused post-recovery Gate-G-verified payload;
+7. Tamil→English merge transition has no duplication / omission;
+8. all recovery-touched bilingual boundaries remain aligned:
+   - 4→5
+   - 5→6
+   - 20→21
+   - 21→22
+   - 25→26
+   - 26→27
+   - 27→28
+   - 34→35
+   - 35→36;
+9. historical Gate-G boundary fixes **37→38** and **39→40** remain intact;
+10. scan-13 small cartoon-label hold remains separate / unchanged;
+11. work README, metadata, `data/speeches.json`, root README/index and release state are synchronized;
+12. `translation.md` remains a retired pointer and is not revived as a second editable canonical English copy.
 
-Record any Gate-G correction in `translation-review.md`, `verification-log.md`, metadata, README, handover and next prompt.
+If all Gate-H checks pass:
 
-If the focused Gate-G recheck passes, the next activity is **Gate-H canonical bilingual integrity/release revalidation**.
+- set Gate H to **PASS / REVALIDATED AFTER CROP RECOVERY**;
+- restore Unit 1 release to **RELEASED**;
+- then the next activity becomes **resume Unit 2 Gate D D1**.
 
-Do **not** re-close Gate H, restore RELEASED, or resume Unit 2 in the same iteration.
+Do **not** start Unit 2 in the same iteration as Gate-H revalidation.
 
 ## Required files
 
-Read before focused post-recovery Gate-G recheck:
+Read before Gate-H canonical bilingual integrity / release revalidation:
 
 1. this handover
 2. `docs/NEXT_CHAT_PROMPT_1973_IRULUM_OLIYUM.md`
@@ -563,10 +603,9 @@ All affected pages are individually revalidated. Page-level crop recovery is **C
 
 Next:
 
-1. **focused post-recovery Gate-G English fidelity recheck for repaired spans**;
-2. Gate-H canonical bilingual revalidation;
-3. restore RELEASED only after all checks pass;
-4. resume Unit 2 Gate D D1.
+1. **Gate-H canonical bilingual integrity / release revalidation**;
+2. restore RELEASED only if Gate H passes;
+3. resume Unit 2 Gate D D1 in the following iteration.
 
 ## Current Unit 1 release state
 
@@ -577,9 +616,10 @@ Next:
 - focused post-recovery Gate E — **PASS / COMPLETE**
 - Tamil verified_against_scan — **true**
 - English recovered-span repair — **COMPLETE / 249 → 0 markers**
-- next activity: **focused post-recovery Gate-G English fidelity recheck**
-- English `verified_against_tamil = false`
-- Gate G — **focused recheck next**
+- focused post-recovery Gate G — **PASS / COMPLETE — 2 corrections / 0 unresolved**
+- English `verified_against_tamil = true`
+- next activity: **Gate-H canonical bilingual integrity / release revalidation**
+- Gate G — **PASS / REVALIDATED AFTER CROP RECOVERY**
 - Gate H — reopened
 - release — recovery in progress
 
