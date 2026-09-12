@@ -763,3 +763,56 @@ The prior Gate-E/G/H results remain historical audit records, but the canonical 
 
 Exact continuation: **CR2 — scans 20–21 and 25–27**.
 
+## Post-recovery Gate E — focused Tamil fidelity recheck
+
+Status: **PASS / COMPLETE**
+
+Scope:
+
+- affected recovered booklet scans only: **4–5, 10–11, 20–21, 25–27, 34–35**;
+- printed pages: **3–4, 9–10, 19–20, 24–26, 33–34**;
+- this was a focused source-fidelity recheck after page-level crop recovery and the whole-Tamil crop-recovery integrity audit, not a full retranscription of scans 4–40.
+
+Review basis:
+
+- controlling source: `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`;
+- official TNLA witness: `927193.pdf`, used only where booklet gutter loss physically removed text;
+- all **11** affected booklet scans were visually re-read from rendered source pages;
+- every direct crop recovery and its adjacent booklet-visible wording was rechecked against the page-level recovery audit;
+- TNLA evidence was rechecked for physically missing gutter fragments without normalizing booklet-visible spelling, punctuation, numerals or wording.
+
+Checks completed:
+
+- names, initials and speaker labels — **PASS**;
+- dates, numerals, money, units and plan/project figures — **PASS**;
+- embedded source English — **PASS**, including scan 25 `THIRUMATHI T. N. ANANDANAYAKI...` and scan 27 `Ratification`;
+- headings / intervention boundaries — **PASS**;
+- source-visible punctuation adjacent to recovered fragments — **PASS**;
+- physical line breaks on recovered pages — **PASS**;
+- all **9** recovery-touched page boundaries — **PASS**;
+- booklet-specific forms retained against TNLA differences — **PASS**;
+- scan-13 small cartoon-label hold remains separate and unchanged.
+
+Specific retained / verified examples include:
+
+- scan 5: `நம்முடைய நிறுவன காங்கிரஸ் கட்சியின் தலைவர் / திரு. பொன்னப்ப நாடார்...`;
+- scan 10: `நில வரியைக் / குறைத்தோம்` and source `‘Myth’`;
+- scan 11: source middle-dot figures `6·56 / 4·48 / 7·50 / 3·35 / 7·5`;
+- scan 20: `வரியையெல்லாம்` and the Ananthanayaki / Hande speaker sequence;
+- scan 21: `அடிபட்டு` and booklet double quotation `“அன் அக்கெளண்டட் மணி”`;
+- scan 25: electricity-demand figures **60 / 130 / 90 / 280 / 225**, **6 இலட்சம்** pump connections, **1,035 மெகாவாட்**, project list and printed English intervention;
+- scan 26: `உட்படுத்தப்பட் / டிருக்கிறதா ?`, Kalpakkam / Neyveli / Tuticorin passage and `பொதுமக்களிடத்தில்`;
+- scan 27: `சேர்வலாறு`, `கடற் / கரையில்`, `திட்டங்களை`, repeated `நடந்தி / ருக்கிறது`, and `Ratification`;
+- scan 34: booklet `லைசென்ஸ்`, `வந்து`, `முதல் அமைச்சர் / நீங்கள்`;
+- scan 35: all house-site-patta dates / figures, `1,41,000`, final `ஆக,`, and booklet-visible `ஆட்சேபணை தெரிவிக்கப்பட் / டும்`.
+
+Post-recovery Gate-E result:
+
+- **new corrections during this focused Gate-E recheck: 0**;
+- the earlier whole-Tamil integrity audit had already made **1** booklet-pixel lineation correction on scan 35 (`தெரிவிக்கப்பட் / டும்`);
+- unresolved Tamil source-fidelity questions after recheck: **0**;
+- canonical Tamil `verified_against_scan`: **true**;
+- Tamil crop recovery + integrity + focused Gate-E fidelity recheck: **CLOSED / PASS**.
+
+Exact continuation: **English repair / retranslation for recovered spans on scans 4–5, 10–11, 20–21, 25–27, 34–35**. Do not run Gate G or Gate H in the same iteration.
+
