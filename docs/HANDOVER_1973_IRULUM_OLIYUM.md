@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`512ef345eb35d263d8c2af3a19d8dab3b7736fc0` — `Advance README to English repair after Gate E pass`
+`80672dae526ed96f217317cc0d8771ba6e8d4444` — `Advance README to focused Gate G recheck`
 
 ## Active work
 
@@ -467,51 +467,84 @@ The preceding whole-Tamil integrity audit's one correction remains confirmed:
 
 Tamil crop recovery + integrity + focused Gate-E fidelity recheck are now **CLOSED / PASS**.
 
-## Exact next activity — English repair / retranslation for recovered spans
+## Post-recovery English repair — COMPLETE
 
-Repair only the English source-page sections corresponding to:
+Scope:
+
+**source pages 4–5, 10–11, 20–21, 25–27, 34–35**
+
+Result:
+
+- repaired English source-page sections: **11 / 11**;
+- translation source: final post-recovery **Gate-E-verified Tamil**;
+- TNLA was not translated independently into English;
+- source-printed English remains verbatim;
+- inherited English crop markers before repair: **249**;
+- inherited English crop markers after repair: **0**;
+- English source-page sections **4–40** remain exactly once and strictly monotonic.
+
+Marker inventory resolved:
+
+- p4 **24**
+- p5 **12**
+- p10 **21**
+- p11 **11**
+- p20 **32**
+- p21 **20**
+- p25 **30**
+- p26 **28**
+- p27 **33**
+- p34 **6**
+- p35 **32**
+
+Notable repairs:
+
+- scan 4: inclusive **81-member** count restored;
+- scan 4→5: Swatantra Party continuation restored;
+- scan 10: complete tax-head list restored;
+- scan 11: **Kambam**, **1973-74**, **1965-66**, **four demands** restored;
+- scan 20: stale pre-recovery **“reduce poverty”** corrected to **“reduce all taxes”** for final Tamil `வரியையெல்லாம்`;
+- scan 21: recovered quotation force around **“unaccounted money”** retained;
+- scan 25: list **(1)** / **(3)** and source-printed **have been sent** restored;
+- scan 27: recovered `கடற்கரையில்` rendered **“at the seashore”**; `Ratification` retained;
+- scan 34→35: generator/licence exchange repaired across the source-page boundary;
+- scan 35: **1,41,000** and concluding `ஆக,` transition restored.
+
+The prior full Gate-G PASS is historical only because it reviewed the pre-recovery English.
+
+## Exact next activity — focused post-recovery Gate-G English fidelity recheck
+
+Review **only the repaired recovered-span English** on source pages:
 
 **4–5, 10–11, 20–21, 25–27, 34–35**
 
-Current inherited English state:
+Compare each repaired English section against the final post-recovery Gate-E-verified Tamil.
 
-- these 11 English sections still reflect the pre-recovery Tamil;
-- they contain **249 legacy `⟦scan-crop⟧` markers** in total;
-- the final Tamil is now the sole translation source;
-- source-printed English embedded in Tamil pages remains verbatim and must not be retranslated.
+Verify at minimum:
 
-English marker inventory:
+1. no omission/addition in each repaired span;
+2. every recovered Tamil fragment has a faithful English counterpart;
+3. names, initials, speaker labels and intervention order;
+4. dates, numerals, money, units, project names and Plan chronology;
+5. source-printed English remains verbatim, especially scan 25 Ananthanayaki and scan 27 `Ratification`;
+6. the repaired scan-4 inclusive 81-member count;
+7. scan-10 complete tax-head list;
+8. scan-11 Kambam / 1973-74 / 1965-66 / four demands;
+9. scan-20 **reduce all taxes**;
+10. scan-27 **at the seashore**;
+11. scan-34→35 generator/licence continuation;
+12. scan-35 **1,41,000** and concluding `ஆக,` sense;
+13. recovery-touched English page boundaries remain aligned.
 
-- p4 — **24**
-- p5 — **12**
-- p10 — **21**
-- p11 — **11**
-- p20 — **32**
-- p21 — **20**
-- p25 — **30**
-- p26 — **28**
-- p27 — **33**
-- p34 — **6**
-- p35 — **32**
+Record any Gate-G correction in `translation-review.md`, `verification-log.md`, metadata, README, handover and next prompt.
 
-Repair rules:
+If the focused Gate-G recheck passes, the next activity is **Gate-H canonical bilingual integrity/release revalidation**.
 
-1. translate only from the post-recovery Gate-E-verified Tamil;
-2. remove inherited English crop placeholders only where the final Tamil now supplies the recovered wording;
-3. preserve source-page boundaries exactly;
-4. preserve parliamentary speaker/intervention order and rhetorical repetition;
-5. preserve dates, numerals, money, units, project names and plan chronology exactly from final Tamil;
-6. preserve source-printed English verbatim, especially scan 25 Ananthanayaki and scan 27 `Ratification`;
-7. do not modernize booklet-specific Tamil oddities into editorially corrected English unless required for faithful meaning;
-8. update canonical English in `transcript.md` only for these recovered spans;
-9. record repair coverage / marker removal in metadata, README, handover and next prompt;
-10. **do not run Gate G in the same iteration**.
-
-If English repair completes cleanly, next activity is **Gate-G English fidelity recheck for the repaired recovered spans**.
+Do **not** re-close Gate H, restore RELEASED, or resume Unit 2 in the same iteration.
 
 ## Required files
 
-Read before English recovered-span repair:
+Read before focused post-recovery Gate-G recheck:
 
 1. this handover
 2. `docs/NEXT_CHAT_PROMPT_1973_IRULUM_OLIYUM.md`
@@ -530,23 +563,23 @@ All affected pages are individually revalidated. Page-level crop recovery is **C
 
 Next:
 
-1. **English repair / retranslation for recovered spans**;
-2. Gate-G English fidelity recheck for repaired spans;
-3. Gate-H canonical bilingual revalidation;
-4. restore RELEASED only after all checks pass;
-5. resume Unit 2 Gate D D1.
+1. **focused post-recovery Gate-G English fidelity recheck for repaired spans**;
+2. Gate-H canonical bilingual revalidation;
+3. restore RELEASED only after all checks pass;
+4. resume Unit 2 Gate D D1.
 
 ## Current Unit 1 release state
 
-- `transcription.status = crop-recovery-in-progress`
-- `transcription.verified_against_scan = false`
+- `transcription.status = verified-after-crop-recovery`
+- `transcription.verified_against_scan = true`
 - page-by-page verified scans: **4–5, 10–11, 20–21, 25–27, 34–35 — COMPLETE**
 - whole-Tamil crop-recovery integrity audit — **PASS / COMPLETE**
 - focused post-recovery Gate E — **PASS / COMPLETE**
 - Tamil verified_against_scan — **true**
-- next activity: **English repair / retranslation for recovered spans**
+- English recovered-span repair — **COMPLETE / 249 → 0 markers**
+- next activity: **focused post-recovery Gate-G English fidelity recheck**
 - English `verified_against_tamil = false`
-- Gate G — recheck required
+- Gate G — **focused recheck next**
 - Gate H — reopened
 - release — recovery in progress
 
