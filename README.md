@@ -23,7 +23,7 @@ Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.
   - Assembly event reference: [`29 March 1971 — Interim-Budget reply`](./sources/1971-namathu-nilai/events/1971-03-29-assembly-interim-budget-reply.md)
   - Assembly event reference: [`2 April 1971 — Governor-address reply`](./sources/1971-namathu-nilai/events/1971-04-02-assembly-governors-address-reply.md)
   - Handover: [`docs/HANDOVER_1971_NAMATHU_NILAI.md`](./docs/HANDOVER_1971_NAMATHU_NILAI.md)
-- [`இருளும் ஒளியும்` — 1973 source package](./sources/1973-irulum-oliyum/mapping.md) — 64-scan Government of Tamil Nadu publication mapped into an Assembly reply on 7-3-1973 and a Legislative Council reply on 8-3-1973. **New official TNLA evidence has reopened Unit 1 for crop recovery: CR1 recovered scans 4–5 and 10–11; remaining crop targets are 20–21, 25–27 and 34–35. Unit 2 Gate D is temporarily paused.**
+- [`இருளும் ஒளியும்` — 1973 source package](./sources/1973-irulum-oliyum/mapping.md) — 64-scan Government of Tamil Nadu publication mapped into an Assembly reply on 7-3-1973 and a Legislative Council reply on 8-3-1973. **Unit 1 crop recovery and revalidation are complete: Tamil and English are verified again, post-recovery Gate H passed, and the 7-3-1973 Assembly reply is RELEASED. Unit 2 is now unblocked; exact next activity is Gate D D1, scans 41–50 / printed pp.40–49.**
   - Released Unit 1: [`7-3-1973 — சட்டப் பேரவையில்`](./speeches/1973/1973-03-07-financial-statement-reply/)
   - Handover: [`docs/HANDOVER_1973_IRULUM_OLIYUM.md`](./docs/HANDOVER_1973_IRULUM_OLIYUM.md)
 - [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source mapped into 10 dated speeches. **All 10 speeches are fully released with verified Tamil and verified English.**
@@ -41,7 +41,7 @@ Accordingly, `நமது நிலை` is intentionally **not** added to the c
 |---|---|---|---|---|---|
 | 21-03-1963 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 1](./speeches/1963/1963-03-21-industries-debate/) | தொழில்துறை மானியத்தின்மீது உரை | Verified | Verified | Verified against scan pp. 18–26 |
 | 09-09-1970 | [உதயக் கதிர்](./speeches/1970/1970-09-09-no-confidence-motion/) | நம்பிக்கையில்லாத் தீர்மான விவாதத்திற்கான பதிலுரை | Verified | Verified | Verified against scan pp. 5–46 |
-| 07-03-1973 | [இருளும் ஒளியும் — சட்டப் பேரவையில்](./speeches/1973/1973-03-07-financial-statement-reply/) | நிதிநிலை அறிக்கை விவாதத்திற்கான பதிலுரை | Crop recovery in progress | Recheck required | New official TNLA evidence recovering gutter-loss text; release revalidation pending |
+| 07-03-1973 | [இருளும் ஒளியும் — சட்டப் பேரவையில்](./speeches/1973/1973-03-07-financial-statement-reply/) | நிதிநிலை அறிக்கை விவாதத்திற்கான பதிலுரை | Verified | Verified | Gate H revalidated after TNLA-assisted gutter recovery; RELEASED |
 | 16-04-1981 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 2](./speeches/1981/1981-04-16-industries-debate/) | தொழில் கொள்கைகள், திட்டங்கள் மற்றும் மானியக் கோரிக்கை குறித்த உரை | Verified | Verified | Verified against scan pp. 27–61 |
 | 03-05-1989 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 3](./speeches/1989/1989-05-03-industries-debate/) | தொழில்துறை மானிய விவாத உரை | Verified | Verified | Verified against scan pp. 62–98 |
 | 18-04-1990 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 4](./speeches/1990/1990-04-18-industries-debate/) | தொழில்துறை மானிய விவாத உரை | Verified | Verified | Verified against scan pp. 99–135 |
