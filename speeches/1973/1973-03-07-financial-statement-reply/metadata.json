@@ -48,7 +48,7 @@
     "source_crop_holds": "recovered from official TNLA Assembly Debates on scans 4-5 and 10-11; remaining physical gutter-loss holds: scans 20-21, 25-27 and 34-35; scan 13 smaller cartoon labels remain separately unresolved",
     "verified_scan_pages": "4-40",
     "completeness_audit_passed": true,
-    "verification_note": "New official TNLA Assembly Debates evidence dated 7 March 1973 permits evidence-based recovery of text physically missing from the booklet scan. CR1 restored scans 4-5 and 10-11 without contextual guessing. Because canonical Tamil has changed after the prior Gate-E/G/H release, Tamil and English fidelity plus release integrity require revalidation after crop recovery is complete."
+    "verification_note": "New official TNLA Assembly Debates evidence dated 7 March 1973 permits evidence-based recovery of text physically missing from the booklet scan. Bulk CR1 restored scans 4-5 and 10-11; strict page-by-page revalidation has now independently closed scans 4-5 with booklet line breaks preserved and no contextual guessing. Scan 5 also corrected the earlier bulk join before Ponnappa Nadar to the witness-supported `தலைவர்` / `திரு. பொன்னப்ப` physical line sequence. Because canonical Tamil has changed after the prior Gate-E/G/H release, Tamil and English fidelity plus release integrity require revalidation after crop recovery is complete."
   },
   "translation": {
     "language": "English",
@@ -215,14 +215,14 @@
     "crop_placeholders_removed_cr1": 99,
     "remaining_actual_tamil_crop_placeholders": 226,
     "remaining_crop_scan_pages": "20-21, 25-27, 34-35",
-    "next_batch": "Page-by-page recovery — scan 5 / printed p.4",
+    "next_batch": "Page-by-page recovery — scan 10 / printed p.9",
     "tamil_revalidation_required": true,
     "english_repair_required": true,
     "release_revalidation_required": true,
     "workflow_mode": "page-by-page",
-    "page_by_page_verified_scan_pages": "4",
-    "page_by_page_verified_count": 1,
-    "next_page_by_page_scan": 5,
+    "page_by_page_verified_scan_pages": "4-5",
+    "page_by_page_verified_count": 2,
+    "next_page_by_page_scan": 10,
     "page4": {
       "status": "verified-recovery",
       "old_crop_markers": 38,
@@ -232,6 +232,22 @@
       "tnla_pdf_pages": "86-87",
       "tnla_proceedings_pages": "484-485",
       "next_scan_page": 5
+    },
+    "page5": {
+      "status": "verified-recovery",
+      "old_crop_markers": 16,
+      "old_crop_marker_accounting": "16 literal occurrences in the pre-recovery block = 15 line-level source-loss placeholders + 1 literal token in the explanatory scan-condition note",
+      "source_loss_positions_revalidated": 15,
+      "remaining_crop_markers": 0,
+      "direct_missing_fragment_recoveries": 15,
+      "source_line_breaks_preserved": true,
+      "tnla_pdf_pages": "87",
+      "tnla_proceedings_pages": "485",
+      "bulk_cr1_page_level_corrections": 1,
+      "bulk_cr1_correction": "Replaced unsupported collapsed `தலைவரான பொன்னப்ப நாடார்` with booklet-line `தலைவர்` followed by TNLA-confirmed `திரு. பொன்னப்ப நாடார்` on the next physical line.",
+      "incoming_page_boundary": "scan 4 ends `சுதந்திரக்`; scan 5 begins `கட்சியின் சார்பில்`",
+      "outgoing_page_boundary": "scan 5 ends `பாளையங்`; scan 6 begins `கோட்டைச் சிறைச்சாலையில்`",
+      "next_scan_page": 10
     }
   }
 }
