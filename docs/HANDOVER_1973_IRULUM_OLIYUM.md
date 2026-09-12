@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`5f9b46226414d165ac872d5a779d61cd9aa462cd` — `Advance README after crop integrity audit`
+`512ef345eb35d263d8c2af3a19d8dab3b7736fc0` — `Advance README to English repair after Gate E pass`
 
 ## Active work
 
@@ -435,34 +435,83 @@ Integrity-audit correction:
 - this is a booklet-pixel lineation correction, not TNLA normalization;
 - page-35 recovery counts remain **2 direct witness recoveries / 34 no-insert positions**.
 
-## Exact next activity — Gate-E Tamil fidelity recheck for recovered spans/pages
+## Post-recovery Gate E — PASS / COMPLETE
 
-Re-run **Gate E only for the affected recovered pages/spans**:
+Focused source-fidelity recheck scope:
+
+**scans 4–5, 10–11, 20–21, 25–27, 34–35**  
+printed pp. **3–4, 9–10, 19–20, 24–26, 33–34**
+
+Result:
+
+- affected booklet scans visually re-read: **11 / 11**;
+- every direct crop recovery rechecked against the page-level recovery audit;
+- booklet-visible text adjacent to recoveries: **PASS**;
+- names / initials / speaker labels: **PASS**;
+- numerals, dates, money, units and project figures: **PASS**;
+- embedded English: **PASS**, including scan 25 `THIRUMATHI T. N. ANANDANAYAKI...` and scan 27 `Ratification`;
+- headings / intervention boundaries / legible punctuation: **PASS**;
+- physical line breaks on recovered pages: **PASS**;
+- recovery-touched page boundaries: **9 / 9 PASS**;
+- booklet-specific forms retained against TNLA differences: **PASS**;
+- scan-13 small cartoon-label hold: **unchanged / separate**;
+- focused Gate-E new corrections: **0**;
+- unresolved Tamil fidelity questions: **0**;
+- `transcription.verified_against_scan=true` restored.
+
+The preceding whole-Tamil integrity audit's one correction remains confirmed:
+
+- scan 35 `ஆட்சேபணை தெரிவிக்கப்பட்ட / டும்`
+- → booklet-visible `ஆட்சேபணை தெரிவிக்கப்பட் / டும்`
+- continuous word: `தெரிவிக்கப்பட்டும்`.
+
+Tamil crop recovery + integrity + focused Gate-E fidelity recheck are now **CLOSED / PASS**.
+
+## Exact next activity — English repair / retranslation for recovered spans
+
+Repair only the English source-page sections corresponding to:
 
 **4–5, 10–11, 20–21, 25–27, 34–35**
 
-This is not a whole-speech retranscription. Recheck the canonical Tamil against the controlling booklet pixels, using TNLA only where the booklet gutter physically removed text.
+Current inherited English state:
 
-Verify at minimum:
+- these 11 English sections still reflect the pre-recovery Tamil;
+- they contain **249 legacy `⟦scan-crop⟧` markers** in total;
+- the final Tamil is now the sole translation source;
+- source-printed English embedded in Tamil pages remains verbatim and must not be retranslated.
 
-1. every direct crop recovery recorded in `crop-recovery-audit.md`;
-2. booklet-visible wording adjacent to every recovered fragment;
-3. names / initials / speaker labels;
-4. numerals, dates, percentages, money and units;
-5. embedded English — especially `THIRUMATHI T. N. ANANDANAYAKI...` and `Ratification`;
-6. headings and intervention boundaries;
-7. punctuation where booklet pixels are legible;
-8. physical line breaks and all nine recovery-touched page boundaries;
-9. retained booklet-specific forms against TNLA differences;
-10. scan-35 integrity correction `தெரிவிக்கப்பட் / டும்`.
+English marker inventory:
 
-If Gate-E recheck passes, next activity becomes **English repair / retranslation for the recovered spans**.
+- p4 — **24**
+- p5 — **12**
+- p10 — **21**
+- p11 — **11**
+- p20 — **32**
+- p21 — **20**
+- p25 — **30**
+- p26 — **28**
+- p27 — **33**
+- p34 — **6**
+- p35 — **32**
 
-Do **not** repair English, run Gate G, re-close Gate H, restore RELEASED, or resume Unit 2 in the same iteration.
+Repair rules:
+
+1. translate only from the post-recovery Gate-E-verified Tamil;
+2. remove inherited English crop placeholders only where the final Tamil now supplies the recovered wording;
+3. preserve source-page boundaries exactly;
+4. preserve parliamentary speaker/intervention order and rhetorical repetition;
+5. preserve dates, numerals, money, units, project names and plan chronology exactly from final Tamil;
+6. preserve source-printed English verbatim, especially scan 25 Ananthanayaki and scan 27 `Ratification`;
+7. do not modernize booklet-specific Tamil oddities into editorially corrected English unless required for faithful meaning;
+8. update canonical English in `transcript.md` only for these recovered spans;
+9. record repair coverage / marker removal in metadata, README, handover and next prompt;
+10. **do not run Gate G in the same iteration**.
+
+If English repair completes cleanly, next activity is **Gate-G English fidelity recheck for the repaired recovered spans**.
 
 ## Required files
 
-Read before Gate-E Tamil fidelity recheck:
+Read before English recovered-span repair:
 
 1. this handover
 2. `docs/NEXT_CHAT_PROMPT_1973_IRULUM_OLIYUM.md`
@@ -481,12 +530,11 @@ All affected pages are individually revalidated. Page-level crop recovery is **C
 
 Next:
 
-1. **Gate-E Tamil fidelity recheck for affected recovered pages/spans**;
-2. English repair/retranslation for recovered spans;
-3. Gate-G English fidelity recheck;
-4. Gate-H canonical bilingual revalidation;
-5. restore RELEASED only after all checks pass;
-6. resume Unit 2 Gate D D1.
+1. **English repair / retranslation for recovered spans**;
+2. Gate-G English fidelity recheck for repaired spans;
+3. Gate-H canonical bilingual revalidation;
+4. restore RELEASED only after all checks pass;
+5. resume Unit 2 Gate D D1.
 
 ## Current Unit 1 release state
 
@@ -494,8 +542,9 @@ Next:
 - `transcription.verified_against_scan = false`
 - page-by-page verified scans: **4–5, 10–11, 20–21, 25–27, 34–35 — COMPLETE**
 - whole-Tamil crop-recovery integrity audit — **PASS / COMPLETE**
-- next activity: **Gate-E Tamil fidelity recheck for recovered spans/pages**
-- Gate E — recheck required
+- focused post-recovery Gate E — **PASS / COMPLETE**
+- Tamil verified_against_scan — **true**
+- next activity: **English repair / retranslation for recovered spans**
 - English `verified_against_tamil = false`
 - Gate G — recheck required
 - Gate H — reopened
