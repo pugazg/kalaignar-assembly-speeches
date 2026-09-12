@@ -8,15 +8,22 @@
 
 Checkpoint before this handover rewrite:
 
-`8b04ecc811eb4b5f8284404be6939d6c1c440370` — `Refresh canonical status after focused Gate G pass`
+`fdffd1e3a95fab9d127290d6dbab4c8019d79da6` — `Restore Unit 1 root index release status`
 
 ## Active work
 
-Current priority is **Unit 1 post-release crop recovery, one booklet page per iteration**.
+**Unit 1 is CLOSED / RELEASED again.** Post-release crop recovery and all downstream revalidation are complete:
 
-Unit 1 had previously passed Gate H and was released. It is legitimately reopened because the newly supplied official TNLA Assembly Debates volume provides primary-source text for wording physically lost at the gutter of the `இருளும் ஒளியும்` scan.
+- page-level crop recovery — COMPLETE;
+- whole-Tamil integrity audit — PASS;
+- focused post-recovery Gate E — PASS;
+- English recovered-span repair — COMPLETE;
+- focused post-recovery Gate G — PASS;
+- Gate H canonical bilingual release revalidation — **PASS / REVALIDATED AFTER CROP RECOVERY**.
 
-**Unit 2 Gate D is paused.**
+**Current priority: Unit 2 / `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate D Tamil completeness audit D1, scans 41–50 / printed pp.40–49.**
+
+Do not reopen Unit 1 unless genuinely new controlling-source evidence appears.
 
 ## Source hierarchy
 
@@ -546,45 +553,88 @@ Definite focused corrections: **2**
 
 Historical pre-recovery Gate G remains recorded with **15** corrections. Focused post-recovery Gate G adds **2**, for **17 cumulative definite English fidelity corrections across both review eras**.
 
-## Exact next activity — Gate-H canonical bilingual integrity / release revalidation
+## Post-recovery Gate H — PASS / RELEASED
 
-Revalidate the canonical Unit-1 bilingual release after crop recovery and focused Gate-G completion.
+Gate-H canonical bilingual integrity / release revalidation is **COMPLETE**.
 
-Verify at minimum:
+Checks passed:
 
-1. canonical Tamil source-page markers **4–40** occur exactly once and strictly in order;
-2. canonical English source-page sections **4–40** occur exactly once and strictly in order;
-3. Tamil layer contains **0** legacy gutter placeholders;
-4. English layer contains **0** legacy gutter placeholders;
-5. Tamil remains the final post-recovery Gate-E-verified payload;
-6. English remains the focused post-recovery Gate-G-verified payload;
-7. Tamil→English merge transition has no duplication / omission;
-8. all recovery-touched bilingual boundaries remain aligned:
-   - 4→5
-   - 5→6
-   - 20→21
-   - 21→22
-   - 25→26
-   - 26→27
-   - 27→28
-   - 34→35
-   - 35→36;
-9. historical Gate-G boundary fixes **37→38** and **39→40** remain intact;
-10. scan-13 small cartoon-label hold remains separate / unchanged;
-11. work README, metadata, `data/speeches.json`, root README/index and release state are synchronized;
-12. `translation.md` remains a retired pointer and is not revived as a second editable canonical English copy.
+- Tamil source-page markers **4–40** — **37/37**, exactly once, strictly monotonic;
+- English source-page sections **4–40** — **37/37**, exactly once, strictly monotonic;
+- Tamil legacy crop markers — **0**;
+- English legacy crop markers — **0**;
+- canonical Tamil remains the final post-recovery Gate-E-verified payload;
+- canonical English remains the focused post-recovery Gate-G-verified payload;
+- Tamil→English merge transition — **PASS**;
+- recovery-touched bilingual boundaries **9/9 PASS**:
+  - 4→5
+  - 5→6
+  - 20→21
+  - 21→22
+  - 25→26
+  - 26→27
+  - 27→28
+  - 34→35
+  - 35→36;
+- historical Gate-G boundary repairs **37→38** and **39→40** remain intact;
+- scan-13 small cartoon-label hold remains explicit / unchanged;
+- `translation.md` remains a retired pointer;
+- work metadata / README, `data/speeches.json`, and root README/index synchronized;
+- Gate-H language corrections — **0**.
 
-If all Gate-H checks pass:
+Release result:
 
-- set Gate H to **PASS / REVALIDATED AFTER CROP RECOVERY**;
-- restore Unit 1 release to **RELEASED**;
-- then the next activity becomes **resume Unit 2 Gate D D1**.
+- Gate H — **PASS / REVALIDATED AFTER CROP RECOVERY**
+- Tamil `verified_against_scan=true`
+- English `verified_against_tamil=true`
+- Unit 1 — **RELEASED**
+- unresolved Tamil fidelity questions — **0**
+- unresolved English fidelity questions — **0**
 
-Do **not** start Unit 2 in the same iteration as Gate-H revalidation.
+## Exact next activity — Unit 2 Gate D D1
+
+Resume Unit 2:
+
+`speeches/1973/1973-03-08-financial-statement-reply/`
+
+Source:
+
+`TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`
+
+Locked Unit-2 range:
+
+- scans **41–62**
+- printed pp. **40–61**
+- opening heading `சட்டமன்ற மேலவையில்`
+- date **8-3-1973**
+- scan 62 closes with `வணக்கம்`; scan 63 is printer/imprint matter; scan 64 back cover.
+
+Durable Unit-2 state:
+
+- Gate A — PASS
+- Gate B — PASS / LOCKED
+- Gate C — COMPLETE — **22/22**
+- Gate C.5 — PASS / COMPLETE — **22/22**
+- historical-glyph corrections — **2**
+- unresolved glyph clusters — **0**
+- Gate D — **NEXT / NOT STARTED**
+- English — BLOCKED
+
+Perform **Gate D Tamil completeness audit D1 — scans 41–50 / printed pp.40–49**.
+
+Gate-D D1 rules:
+
+1. compare the canonical Tamil transcription to the controlling booklet for **completeness/structure**, not general stylistic rewriting;
+2. verify source-page markers 41–50, headings, speaker/intervention order, paragraph continuity, figures and source-printed English placement;
+3. detect omitted/repeated/reordered source material and page-boundary errors;
+4. preserve source spelling/punctuation; do not modernize;
+5. historical-glyph Gate C.5 is already closed — do not reopen without genuine new pixel evidence;
+6. record definite completeness corrections in Unit-2 verification/metadata/README;
+7. **do not begin Gate E in the same iteration**.
 
 ## Required files
 
-Read before Gate-H canonical bilingual integrity / release revalidation:
+Read before Unit-2 Gate-D D1 work:
 
 1. this handover
 2. `docs/NEXT_CHAT_PROMPT_1973_IRULUM_OLIYUM.md`
@@ -603,9 +653,9 @@ All affected pages are individually revalidated. Page-level crop recovery is **C
 
 Next:
 
-1. **Gate-H canonical bilingual integrity / release revalidation**;
-2. restore RELEASED only if Gate H passes;
-3. resume Unit 2 Gate D D1 in the following iteration.
+1. **Unit 2 Gate D completeness audit D1 — scans 41–50 / printed pp.40–49**;
+2. continue D2/D3 until Gate D closes;
+3. only then begin Gate E.
 
 ## Current Unit 1 release state
 
@@ -618,12 +668,12 @@ Next:
 - English recovered-span repair — **COMPLETE / 249 → 0 markers**
 - focused post-recovery Gate G — **PASS / COMPLETE — 2 corrections / 0 unresolved**
 - English `verified_against_tamil = true`
-- next activity: **Gate-H canonical bilingual integrity / release revalidation**
 - Gate G — **PASS / REVALIDATED AFTER CROP RECOVERY**
-- Gate H — reopened
-- release — recovery in progress
+- Gate H — **PASS / REVALIDATED AFTER CROP RECOVERY**
+- release — **RELEASED**
+- next activity — **Unit 2 Gate D D1**
 
-## Unit 2 paused state
+## Unit 2 active-next state
 
 `சட்டமன்ற மேலவையில்` / 8-3-1973:
 
@@ -633,7 +683,7 @@ Next:
 - Gate C.5 — PASS / COMPLETE — 22/22
 - historical-glyph corrections — 2
 - unresolved glyph clusters — 0
-- Gate D — NOT STARTED / PAUSED
+- Gate D — **NEXT / NOT STARTED**
 - English — BLOCKED
 
-Do not resume Unit 2 until Unit-1 crop recovery/revalidation is complete.
+Unit 1 revalidation is complete. Unit 2 is now unblocked; start only D1 in the next iteration.
