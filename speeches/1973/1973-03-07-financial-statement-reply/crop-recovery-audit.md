@@ -285,3 +285,83 @@ Page-boundary evidence:
 
 Exact next page-by-page activity: **booklet scan 20 / printed p.19**. Do not process scan 21 in the same iteration.
 
+### Booklet scan 20 / printed p.19
+
+Status: **PASS / PAGE-LEVEL RECOVERY VERIFIED**
+
+Evidence:
+
+- controlling booklet: `இருளும் ஒளியும்`, scan **20** / printed p. **19**;
+- independent official witness: *Tamil Nadu Legislative Assembly Debates*, **7 March 1973**;
+- principal witness span: TNLA PDF pp. **100–101** / proceedings pp. **498–499**;
+- the final Karunanidhi continuation on this booklet page is confirmed on TNLA PDF p. **102** / proceedings p. **500**;
+- the witness confirms the national-income / money-supply close, the Ananthanayaki and Hande interventions, and the closing production / economic-growth response;
+- visible booklet wording remains controlling wherever legible.
+
+Marker accounting:
+
+- pre-recovery scan-20 block literal `⟦scan-crop⟧` occurrences: **41**;
+- actual line-level right-gutter source-loss positions: **40**;
+- explanatory-note literal-token occurrences: **1**;
+- page-level source-loss positions revalidated: **40 / 40**;
+- direct missing-fragment/punctuation recoveries: **33**;
+- complete-at-edge / visible-next-line positions requiring no inserted fragment: **7**;
+- source-loss markers remaining on scan 20: **0**;
+- booklet physical line breaks: **preserved**;
+- contextual/grammar-only guesses: **0**;
+- global replacements: **0**.
+
+Direct recoveries, in physical line order:
+
+1. `தா` → `தான்`
+2. `விரும்புகின்றே` → `விரும்புகின்றேனே`
+3. first `தலைவரவர்களே` → `தலைவரவர்களே,`
+4. `மத்தி` → `மத்திய`
+5. `பேசிக்கொ` → `பேசிக்கொண்` before next-line `டிருந்தார்கள்`
+6. `நின்றபோ` → `நின்றபோதே`
+7. `உணர்ச்ச` → `உணர்ச்சி` before next-line `யோடு`
+8. `வி` → `விலை` before next-line `வாசியைக்`
+9. `ஆட்சிக்` → `ஆட்சிக்கு`
+10. `என்` → `என்று`
+11. `பங்` → `பங்கு`
+12. `இன்றை` → `இன்றைக்` before next-line `குத்`
+13. `மத்திய அ` → `மத்திய அர` before next-line `சிடம்`
+14. `என்ன செய்வது` → `என்ன செய்வது?`
+15. `பொறு` → `பொறுப்` before next-line `பேற்று`
+16. `சொன்னோம்` → `சொன்னோம்.`
+17. `எங்களுக்` → `எங்களுக்கு`
+18. `சேர்த்துத்தா` → `சேர்த்துத்தான்`
+19. `மதி` → `மதிப்` before next-line `புக்குரிய`
+20. `நானு` → `நானும்`
+21. `உடனே` → `உடனே,`
+22. `இன்கிரீஸ்` → `இன்கிரீஸ்ட்`
+23. `செய்தால்தா` → `செய்தால்தான்`
+24. `அதற்` → `அதற்கு`
+25. second `தலைவரவர்களே` → `தலைவரவர்களே,`
+26. `சொல்` → `சொல்ல`
+27. `அவ` → `அவர்`
+28. `அவர்க` → `அவர்கள்`
+29. `குறிப்பி` → `குறிப்பிட்` before next-line `டார்கள்`
+30. `பெருகினால்தா` → `பெருகினால்தான்`
+31. `இப்படி ஏ` → `இப்படி ஏற்` before next-line `படுகிற`
+32. `பெருகி` → `பெருகிட`
+33. `நா` → `நான்`
+
+The **7** source-loss positions requiring no inserted fragment were independently checked against the official witness: line endings `இந்த`, `சர்வே`, `பாராளு`, `தடுத்து`, `உங்களுக்குச்`, `பேச்சு`, and `கேட்டேன்.` are already complete in the booklet and continue naturally on the next physical line where applicable.
+
+Visible-booklet fidelity correction found during this page-level pass:
+
+- prior canonical text: `வந்தால் வறுமையெல்லாம் குறைப்போம்`
+- booklet scan 20 visibly reads: `வந்தால் வரியையெல்லாம் குறைப்போம்`
+- TNLA p.101 / proceedings p.499 independently confirms `வரியையெல்லாம்`
+- canonical Tamil was corrected to the booklet-visible form; this is not a TNLA normalization.
+
+Page-boundary evidence:
+
+- incoming boundary: scan 19 ends `... அந்தச் சங்கடம் அவர்களுக்கு இருக்கிறது. ஆகவே,`; scan 20 begins `பொறுப்பு மாநில அரசுக்கு அல்ல; மத்திய அரசுக்குத் தான்`;
+- scan 20 ends `இங்கே சுட்டிக் காட்டினேன்.`;
+- scan 21 begins `அது மாத்திரமல்ல, இன்னும் சில காரணங்கள் இருக்...`;
+- no text was moved across either page boundary.
+
+Exact next page-by-page activity: **booklet scan 21 / printed p.20**. Do not process scan 25 in the same iteration.
+

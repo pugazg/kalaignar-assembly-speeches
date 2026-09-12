@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`19f36549022045cd9dde718cb08f21effa759634` — `Close page 5 crop recovery and hand off scan 10`
+`86b416aad48e080df75f7d3e440f34a55f760d19` — `Revalidate Unit 1 crop recovery page 11`
 
 ## Active work
 
@@ -187,26 +187,52 @@ Result:
 - incoming boundary: scan 10 ends `வித்துக் கொள்கிறேன்.`; scan 11 begins `தொழில் அபிவிருத்தி`
 - outgoing boundary: scan 11 ends `... என்பால் அன்பு வைத்து, அவர்கள்`; scan 12 begins `இந்த நிதி நிலை அறிக்கையில்...`
 
-## Exact next activity — scan 20 only
+## Page 20 — PASS / CLOSED
 
-Process **booklet scan 20 / printed p.19** and stop.
+Booklet scan **20** / printed p.**19** is now individually recovered and revalidated.
 
-Current scan-20 state:
+Evidence:
+
+- principal TNLA witness: PDF pp. **100–101** / proceedings pp. **498–499**
+- closing Karunanidhi continuation: TNLA PDF p. **102** / proceedings p. **500**
+- national-income / money-supply close confirmed
+- Ananthanayaki and Hande interventions confirmed
+- production / economic-growth close confirmed
+- incoming boundary: scan 19 ends `... அந்தச் சங்கடம் அவர்களுக்கு இருக்கிறது. ஆகவே,`; scan 20 begins `பொறுப்பு மாநில அரசுக்கு அல்ல; மத்திய அரசுக்குத் தான்`
+- outgoing boundary: scan 20 ends `இங்கே சுட்டிக் காட்டினேன்.`; scan 21 begins `அது மாத்திரமல்ல, இன்னும் சில காரணங்கள் இருக்...`
+
+Result:
+
+- legacy literal crop-marker occurrences: **41**
+- actual line-level source-loss positions: **40**
+- direct missing-fragment/punctuation recoveries: **33**
+- complete-at-edge / visible-next-line positions requiring no inserted fragment: **7**
+- source-loss markers remaining: **0**
+- booklet physical line breaks preserved
+- contextual guesses: **0**
+- global replacements: **0**
+- visible-booklet fidelity correction: `வறுமையெல்லாம்` → `வரியையெல்லாம்`, independently confirmed by TNLA.
+
+## Exact next activity — scan 21 only
+
+Process **booklet scan 21 / printed p.20** and stop.
+
+Current scan-21 state:
 
 - legacy crop markers remain in the canonical Tamil;
-- this page has **not** yet been recovered under the new strict page-by-page protocol;
-- matching TNLA witness is mainly PDF pp. **100–101** / proceedings pp. **498–499**.
+- this page has **not** yet been recovered under the strict page-by-page protocol;
+- matching TNLA witness is mainly PDF pp. **102–103** / proceedings pp. **500–501**.
 
 Verify:
 
 - every line-level crop position independently;
-- the continuation of the national-income / money-supply argument;
-- the transition into the Ananthanayaki and Hande interventions;
-- all booklet-visible numerals, spelling, punctuation and spacing;
+- continuation of the price-rise argument through tax evasion / black money;
+- Ponnappa Nadar intervention and the rice / food-price-control response;
+- all booklet-visible spelling, punctuation, numerals and spacing;
 - physical line breaks;
 - incoming and outgoing page boundaries.
 
-Do **not** process scan 21 in the same iteration.
+Do **not** process scan 25 in the same iteration.
 
 ## Required files
 
@@ -227,7 +253,7 @@ If either PDF is missing in a new chat, retrieve it from conversation/Library be
 
 Continue exactly one page per iteration:
 
-**20 → 21 → 25 → 26 → 27 → 34 → 35**
+**21 → 25 → 26 → 27 → 34 → 35**
 
 After all affected pages are individually revalidated:
 
@@ -243,8 +269,8 @@ After all affected pages are individually revalidated:
 
 - `transcription.status = crop-recovery-in-progress`
 - `transcription.verified_against_scan = false`
-- page-by-page verified scans: **4–5, 10**
-- next page: **11**
+- page-by-page verified scans: **4–5, 10–11, 20**
+- next page: **21**
 - Gate E — recheck required
 - English `verified_against_tamil = false`
 - Gate G — recheck required
