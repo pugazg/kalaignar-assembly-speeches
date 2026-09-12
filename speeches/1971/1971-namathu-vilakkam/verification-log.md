@@ -202,3 +202,22 @@ Status: **PASS / COMPLETE for this batch**
 
 Exact continuation: **Gate C.5-2 scans 14–23 / printed pp.13–22**.
 
+### C.5-2 — scans 14–23 / printed pp.13–22
+
+Status: **PASS / COMPLETE for this batch**
+
+- pages audited — **10/10**
+- cumulative Gate-C.5 coverage — **20/57**
+- new definite textual corrections — **25 across 19 source sites**
+- cumulative Gate-C.5 corrections — **33 across 24 source sites**
+- source authority — rendered scan pixels only
+- global replacement / modernization / outside textual witnesses — **none**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **3**
+- source-page marker sequence — **4→60 unchanged / 57 markers**
+- notable repairs include the scan-17 flag-sale sentence and scan-17→18 omitted boundary phrase, scan-19 `இவைகளையெல்லாம் ... என்பதைத்தான்`, scan-21 `பளுவை`, scan-22 `கோரிக்கை இணங்க` / `சதவிகிதமாகக்`, and scan-23 `தந்திருக்கிறோம். அதனை` / `செங்கற்பட்டு`
+- Tamil `verified_against_scan=false`
+- Gate D — **BLOCKED**
+
+Exact continuation: **Gate C.5-3 scans 24–33 / printed pp.23–32**.
+

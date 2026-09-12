@@ -32,7 +32,7 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / LOCKED**
 - Gate C — **PASS / COMPLETE — T1–T6 scans 4–60; 57/57 pages**
-- Gate C.5 — **IN PROGRESS — C.5-1 scans 4–13 COMPLETE; 10/57 audited; 8 corrections**
+- Gate C.5 — **IN PROGRESS — C.5-1–2 scans 4–23 COMPLETE; 20/57 audited; 33 cumulative corrections**
 - Gate D–H — **NOT STARTED**
 - Tamil — **FIRST PASS COMPLETE / C.5 IN PROGRESS / NOT VERIFIED — 3 unresolved readings**
 - English — **BLOCKED**
@@ -56,4 +56,4 @@ This booklet-level entry is intentionally **not** added to the canonical dated s
 
 ## Exact next activity
 
-Gate C.5-2 historical-glyph audit — **scans 14–23 / printed pp.13–22**. C.5-1 is durable at 10/57 pages with 8 definite corrections across 5 source sites; do not begin Gate D.
+Gate C.5-3 historical-glyph/source-form audit — **scans 24–33 / printed pp.23–32**. C.5-1–2 are durable at 20/57 pages with 33 cumulative corrections across 24 source sites; do not begin Gate D.

@@ -204,3 +204,19 @@ Correction sites: scan 4 `மாமன்றத்து`; scan 5 four `கு�
 
 Exact next: **Gate C.5-2 scans 14–23 / printed pp.13–22**.
 
+## Gate C.5-2 — COMPLETE / PASS
+
+- scans — **14–23 / printed pp.13–22**
+- pages audited — **10**
+- cumulative C.5 — **20/57**
+- new corrections — **25 across 19 source sites**
+- cumulative corrections — **33 across 24 source sites**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **3**
+- source markers — **4→60 unchanged**
+- Gate D — **BLOCKED**
+
+Notable source repairs: scan 15 `குழப்பம்` / `செய்யப்பட்டு`; scan 17 flag-sale sentence and omitted page-boundary phrase; scan 18 `பொறுப்புகளை` / `வீடுகளைக்`; scan 19 `இவைகளையெல்லாம் ... என்பதைத்தான்`; scan 21 `வர்களைத்` / `பளுவை`; scan 22 `இதே`, `கோரிக்கை இணங்க`, `சதவிகிதமாகக்`, accusative forms; scan 23 `தந்திருக்கிறோம். அதனை` and `செங்கற்பட்டு`.
+
+Exact next: **Gate C.5-3 scans 24–33 / printed pp.23–32**. Re-inspect the existing scan-31 unresolved phrase directly from pixels.
+
