@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate D D2
+# NEXT CHAT PROMPT — 1973 `இருளும் ஒளியும்` / Unit 2 Gate D D3 FINAL
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -8,7 +8,7 @@ Fetch live `main` first and preserve newer durable work.
 
 Live checkpoint immediately before this prompt refresh:
 
-`c26268633b781c25844b81397b267554539cfbec` — `Record Unit 2 Gate D D1 and hand off D2`
+`ff90f94256a04372fa82f0677a9b0327931e6afa` — `Record Unit 2 Gate D D2 and hand off D3`
 
 If live `main` is newer, preserve the newer state.
 
@@ -53,44 +53,46 @@ Source identity:
 - historical-glyph corrections — **2**
 - unresolved historical-glyph clusters — **0**
 - Gate D — **IN PROGRESS**
-- D1 scans **41–50 / printed pp.40–49** — **PASS**
-- D1 completeness corrections — **2**
-- D1 unresolved completeness questions — **0**
+- D1 scans **41–50 / printed pp.40–49** — **PASS / 2 corrections / 0 unresolved**
+- D2 scans **51–60 / printed pp.50–59** — **PASS / 0 corrections / 0 unresolved**
+- Gate-D cumulative coverage — **20/22**
+- Gate-D cumulative completeness corrections — **2**
 - Gate E — NOT STARTED
 - English — BLOCKED
 
-### D1 corrections
-
-1. scan 43 / printed p.42 — added conservative printed audience/crowd illustration context at the source position.
-2. scan 44 / printed p.43 — added conservative staged Yamadharman/buffalo illustration context at the source position.
-
-No speech wording was invented or normalized.
-
 ## Exact next activity
 
-Perform **Gate D Tamil completeness audit — D2 scans 51–60 / printed pp.50–59**.
+Perform **Gate D Tamil completeness audit — D3 / FINAL scans 61–62 / printed pp.60–61**.
 
-For scans 51–60:
+For scans 61–62:
 
 1. compare canonical Tamil against the controlling booklet;
-2. verify source-page markers **51–60** exactly once and in order;
-3. verify headings, paragraph order, speaker/intervention sequence and page-boundary continuity;
-4. verify figures, dates, lists/tables and source-printed English are structurally represented in the correct location;
-5. detect omitted, repeated, reordered or boundary-shifted source material;
-6. preserve booklet spelling, punctuation, compounds and historical forms;
-7. do not modernize or context-correct;
-8. Gate C.5 is already closed — reopen a historical-glyph reading only if new pixel evidence genuinely requires it;
-9. record every definite Gate-D completeness correction in Unit-2 transcript / `completeness-audit.md` / verification log / metadata / README as appropriate;
-10. if D2 passes, advance the exact next activity to **D3 scans 61–62 / printed pp.60–61**.
+2. verify source-page markers **61–62** exactly once and in order;
+3. verify the incoming scan-60→61 continuation from scan 60's visible final `30`;
+4. verify scan-61→62 paragraph continuity;
+5. verify heading `மாற்றம்!`;
+6. verify the final State-autonomy argument, final acknowledgements, `வணக்கம்`, and closing ornament context;
+7. confirm scan 62 is the speech end;
+8. confirm scan 63 is printer/imprint matter and scan 64 back cover — no third speech follows;
+9. detect omitted / repeated / reordered source material;
+10. preserve source spelling, punctuation, compounds and historical forms;
+11. Gate C.5 remains closed unless genuinely new source-pixel evidence requires reopening;
+12. record every definite completeness correction, if any, in Unit-2 transcript / `completeness-audit.md` / verification log / metadata / README.
 
-Expected D2 result fields:
+Expected D3 result fields:
 
-- scans reviewed: **51–60 / 10 pages**
-- cumulative Gate-D coverage: **20/22**
-- D2 completeness corrections: explicit count
+- scans reviewed: **61–62 / 2 pages**
+- Gate-D final coverage: **22/22**
+- D3 completeness corrections: explicit count
 - cumulative completeness corrections: explicit count
 - unresolved completeness questions: explicit count
-- source-page sequence status
-- next batch: **D3 scans 61–62 / printed pp.60–61** if D2 passes.
+- full source-page sequence **41→62** status
+- locked speech-end classification status.
+
+If D3 passes:
+
+- mark Gate D **PASS / COMPLETE**
+- set `completeness_audit_passed=true`
+- exact next activity becomes **Gate E Tamil source-fidelity verification E1 — scans 41–50 / printed pp.40–49**.
 
 Do **not** begin Gate E in the same iteration.
