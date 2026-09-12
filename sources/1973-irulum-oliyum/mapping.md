@@ -189,6 +189,33 @@ Unit 1 is **RELEASED**. Canonical `transcript.md` contains the unchanged verifie
 - Gate D: **unblocked / next**
 - Tamil remains not verified until Gate E passes
 
-## Exact next activity
+## Unit 2 downstream closure
 
-Begin **Unit 2 Gate D Tamil completeness audit — D1 scans 41–50 / printed pp.40–49**. Confirm page markers, page continuity, headings, speaker/intervention sequence, printed source context and unresolved/source-loss state for the first 10 pages. Do not begin Gate E in the same iteration.
+- Gate D — **PASS / COMPLETE — 22/22**
+- Gate E — **PASS / COMPLETE / REVALIDATED — 22/22; 18 cumulative Tamil corrections; 0 unresolved**
+- Gate F — **COMPLETE — English 22/22**
+- Gate G — **PASS / COMPLETE — 22/22; 3 English fidelity corrections; 0 unresolved**
+- Gate H — **PASS / RELEASED**
+
+## Gate H result — Unit 2
+
+Canonical `transcript.md` contains verified Tamil followed by verified English.
+
+- Tamil markers **41→62** — exactly once / in order;
+- English sections **41→62** — exactly once / in order;
+- source-printed English — verbatim;
+- all 3 Gate-G corrections — rechecked after merge;
+- `translation.md` — retired pointer;
+- indexes — synchronized;
+- Unit 2 — **RELEASED**.
+
+## Package closure
+
+`இருளும் ஒளியும்` is **COMPLETE / CLOSED**.
+
+- Unit 1 — **RELEASED / REVALIDATED AFTER CROP RECOVERY**
+- Unit 2 — **RELEASED**
+- scans 63–64 — non-speech tail matter
+- no third speech follows
+
+Next repository activity: attach the next Assembly-speeches PDF and start Gate A/B using `docs/START_NEXT_ASSEMBLY_PDF_PROMPT.md`.

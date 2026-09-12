@@ -23,9 +23,10 @@ This entry preserves the Legislative Council reply dated `8-3-1973` in the sourc
 - Gate E: **PASS / COMPLETE / REVALIDATED — 22/22 pages; 18 cumulative corrections; 0 unresolved (3 post-completion source-pixel repairs on scans 58 and 60 during F2 preparation)**
 - Gate F: **PASS / COMPLETE — F1–F3 scans 41–62 / printed pp.40–61; 22/22 pages; 0 unresolved translation questions**
 - Gate G: **PASS / COMPLETE — scans 41–62 / printed pp.40–61; 22/22 pages; 3 corrections; 0 unresolved**
-- Gate H: **UNBLOCKED / NEXT — canonical merge, index and release**
+- Gate H: **PASS — canonical bilingual merge/index/release validated**
 - Tamil status: **VERIFIED AGAINST SCAN — Gate C + C.5 + D + E complete**
-- English: **VERIFIED AGAINST FINAL TAMIL — Gate F + Gate G complete**
+- English: **VERIFIED AGAINST FINAL TAMIL — canonical English now lives in `transcript.md`**
+- Release: **RELEASED**
 
 ## Gate C result
 
@@ -212,4 +213,21 @@ Corrections:
 Gate G is **PASS / COMPLETE**. English is **VERIFIED**.
 
 Exact next activity: **Gate H — canonical merge, index and release for Unit 2**.
+
+## Gate H final release
+
+Gate H is **PASS** and this Unit is **RELEASED**.
+
+- canonical `transcript.md` — verified Tamil followed by verified English;
+- Tamil markers — **41→62 exactly once and in order**;
+- English sections — **41→62 exactly once and in order**;
+- verified Tamil payload — preserved during merge;
+- source-printed English — **verbatim**;
+- all 3 Gate-G corrections — revalidated after merge;
+- temporary Gate-F boundary notes — removed from canonical payload;
+- `translation.md` — retired pointer only;
+- scan 62 — speech close with `வணக்கம்` and ornament;
+- scans 63–64 — non-speech tail matter; no third speech follows.
+
+The complete `இருளும் ஒளியும்` source package is now **CLOSED**: both dated units are released.
 

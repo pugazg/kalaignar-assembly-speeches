@@ -150,3 +150,26 @@ Unresolved fidelity issues: **0**
 **Gate H — canonical merge, index and release for Unit 2.**
 
 The verified Tamil must remain untouched at the start of canonical `transcript.md`. Consolidate the complete Gate-G-verified English after it, validate Tamil markers and English source-page sections **41→62 exactly once and in order**, recheck all three Gate-G corrections after merge, update indexes / metadata / handover, retire the separate editable English working copy only after validation, and mark RELEASED only after all Gate-H integrity checks pass.
+
+## Gate H canonical-merge validation
+
+Status: **PASS / RELEASED**
+
+- Tamil source-page markers **41–62** — **22/22, exactly once, strictly monotonic**;
+- English source-page sections **41–62** — **22/22, exactly once, strictly monotonic**;
+- verified Tamil payload from source page 41 through the scan-62 closing ornament — **preserved byte-for-byte during merge**;
+- source-printed English quotations — **PASS / verbatim**;
+- temporary Gate-F batch-boundary notes — **removed from canonical payload**;
+- scan 62 speech end / `வணக்கம்` / closing ornament — **PASS**;
+- scan 63 printer/imprint matter, scan 64 back cover, no third speech — **PASS**.
+
+Gate-G correction sites rechecked after merge:
+
+1. scans **45→46** Bangladesh-tax physical page boundary — **PASS**;
+2. scan **51** Bill-argument correction with unsupported `merely` removed — **PASS**;
+3. scan **57** ellipsis with unsupported `and urge it` removed — **PASS**.
+
+Gate H introduced **0 new Tamil corrections** and **0 new English corrections**.
+
+Final state: Tamil verified, English verified, Gate H **PASS**, Unit 2 **RELEASED**.
+

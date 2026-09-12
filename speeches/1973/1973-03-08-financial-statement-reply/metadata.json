@@ -130,7 +130,7 @@
     "source_page_correspondence": true,
     "source_printed_english_preserved_verbatim": true,
     "unresolved_translation_questions": 0,
-    "completion_note": "Gate F translated all 22 Unit-2 source pages. Gate G then reviewed scans 41-62 / printed pp.40-61 in one user-authorized iteration, applying 3 definite English-fidelity corrections with 0 unresolved questions. English is verified against the final Gate-E-verified Tamil. Gate H canonical merge/index/release is next and has not started.",
+    "completion_note": "Gate F translated all 22 pages; Gate G verified all 22 pages with 3 corrections / 0 unresolved; Gate H canonicalised the bilingual transcript, synchronized indexes, retired the duplicate English working copy and released Unit 2.",
     "review_file": "translation-review.md",
     "gate_g_reviewed_source_pages": "41-62",
     "gate_g_reviewed_printed_pages": "40-61",
@@ -149,11 +149,23 @@
     "verified_source_pages": "41-62",
     "verified_printed_pages": "40-61",
     "verified_page_count": 22,
-    "gate_h_status": "ready-not-started"
+    "gate_h_status": "passed",
+    "placement": "verified English follows the verified Tamil in canonical transcript.md",
+    "working_file_status": "retired pointer to canonical transcript after Gate H",
+    "gate_h_preparation_complete": true,
+    "gate_h_canonical_merge_complete": true,
+    "gate_h_indexed": true,
+    "gate_h_release_ready": true,
+    "gate_h_integrity_note": "Tamil markers 41-62 and English sections 41-62 each occur exactly once and in order; verified Tamil payload was preserved; source-printed English is verbatim; all 3 Gate-G correction sites pass; temporary Gate-F boundary notes are absent; translation.md is retired; indexes are synchronized."
   },
   "release": {
-    "status": "not-released",
-    "gate_h_passed": false
+    "status": "released",
+    "gate_h_status": "passed",
+    "gate_h_passed": true,
+    "canonical_transcript_contains_verified_tamil_and_english": true,
+    "indexed": true,
+    "release_ready": true,
+    "release_note": "Gate H validated the canonical bilingual Unit-2 transcript and synchronized repository indexes."
   },
   "historical_glyph_audit": {
     "gate": "C.5",

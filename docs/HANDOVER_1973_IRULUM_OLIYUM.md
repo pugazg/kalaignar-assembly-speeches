@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`2f541d1c952464a57c2bae20714338d1a2933ddc` — `Complete Unit 2 Gate F translation`
+`8c21eb7676d57b3ab3285d0c2d9d9d27e05ee4d9` — `Complete Unit 2 Gate G review`
 
 ## Active work
 
@@ -21,7 +21,7 @@ Checkpoint before this handover rewrite:
 - focused post-recovery Gate G — PASS;
 - Gate H canonical bilingual release revalidation — **PASS / REVALIDATED AFTER CROP RECOVERY**.
 
-**Current priority: Unit 2 / `சட்டமன்ற மேலவையில்` / 8-3-1973 — Gate H canonical merge, index and release. Gate G is PASS / COMPLETE — 22/22; English is verified against the final Tamil.**
+**Current state: the complete 1973 `இருளும் ஒளியும்` source package is CLOSED. Unit 1 and Unit 2 are both RELEASED. No further work remains in this package unless genuinely new controlling-source evidence appears.**
 
 Do not reopen Unit 1 unless genuinely new controlling-source evidence appears.
 
@@ -1024,4 +1024,27 @@ Perform the canonical merge, index and release:
 7. update `metadata.json`, README, verification log, `translation-review.md`, `data/speeches.json`, root README/index and this handover;
 8. retire `translation.md` to a pointer only after canonical merge validation;
 9. mark Unit 2 RELEASED only after every Gate-H integrity check passes.
+
+## Unit 2 Gate H — PASS / RELEASED
+
+- verified Tamil payload preserved during merge;
+- Tamil markers **41→62** — 22/22 exactly once / in order;
+- English sections **41→62** — 22/22 exactly once / in order;
+- source-printed English — verbatim;
+- all 3 Gate-G corrections — rechecked;
+- `translation.md` — retired pointer;
+- `data/speeches.json` and root index — synchronized;
+- Gate-H corrections — **0 Tamil / 0 English**;
+- Unit 2 — **RELEASED**.
+
+## 1973 source-package closure
+
+1. 7-3-1973 / `சட்டப் பேரவையில்` — RELEASED / REVALIDATED AFTER CROP RECOVERY.
+2. 8-3-1973 / `சட்டமன்ற மேலவையில்` — RELEASED.
+
+Scans 63–64 are non-speech tail matter. No third speech follows.
+
+## Exact next repository activity
+
+Do not reopen either 1973 unit without genuinely new controlling-source evidence. Attach the next Assembly-speeches PDF and use `docs/START_NEXT_ASSEMBLY_PDF_PROMPT.md`; begin with Gate A source preflight and Gate B mapping.
 

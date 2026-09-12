@@ -583,3 +583,24 @@ Definite corrections:
 The complete correction rationale and per-batch reconfirmations are recorded in `translation-review.md`.
 
 Exact continuation: **Gate H — canonical merge, index and release for Unit 2**. Do not alter the verified Tamil while merging the verified English.
+
+## Gate H — canonical merge, index and release
+
+Status: **PASS / RELEASED**
+
+- verified Tamil payload retained without wording changes — **PASS**;
+- Tamil source-page markers **41–62** — **22/22, exactly once, strictly monotonic**;
+- verified English source-page sections **41–62** — **22/22, exactly once, strictly monotonic**;
+- Tamil→English canonical transition — **PASS / no duplicate layer / no omitted page section**;
+- source-printed English — **PASS / verbatim**;
+- temporary F1 / F2 / F3 boundary notes — **absent from canonical release payload**;
+- all 3 Gate-G correction sites — **PASS after merge**;
+- scan 62 `வணக்கம்` and closing ornament — **PASS**;
+- scan 63 imprint / scan 64 back cover / no third speech — **PASS**;
+- `translation.md` retired to pointer — **PASS**;
+- indexes synchronized — **PASS**;
+- Gate H corrections — **0 Tamil / 0 English**.
+
+Final result: Gate H **PASS**; Tamil verified; English verified; Unit 2 **RELEASED**; `இருளும் ஒளியும்` **COMPLETE / CLOSED**.
+
+Exact continuation: attach the next Assembly-speeches PDF and use `docs/START_NEXT_ASSEMBLY_PDF_PROMPT.md`. Do not reopen either 1973 unit without genuinely new controlling-source evidence.
