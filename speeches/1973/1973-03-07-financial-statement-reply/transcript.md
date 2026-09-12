@@ -64,9 +64,23 @@
 
 <!-- source-page: 5 -->
 
-> **Crop recovery:** the `இருளும் ஒளியும்` scan has physical gutter loss on this page. Missing characters/words below were restored only where the official *Tamil Nadu Legislative Assembly Debates, 7 March 1973* independently supplies the same passage. Source-visible booklet wording is retained; provenance is logged in `crop-recovery-audit.md`.
+> **Page-5 crop recovery:** the booklet scan is physically cropped at the left gutter. This page was rechecked line by line against the official *Tamil Nadu Legislative Assembly Debates, 7 March 1973*. Only text physically missing at the gutter is supplied from that official witness; visible booklet wording and the booklet's physical line breaks are retained. The page-level re-read also corrects the earlier bulk-CR1 join before Ponnappa Nadar: the booklet ends the preceding line with `தலைவர்`, and the official witness confirms the next missing fragment as `திரு.`. See `crop-recovery-audit.md`.
 
-கட்சியின் சார்பில் திரு ஹண்டே அவர்கள் பேசும்போது அது எனக்குப் புரிந்தது. ஆளும் காங்கிரஸ் கட்சியின் சார்பில் திருமதி அனந்தநாயகி அம்மையார் அவர்கள் தவிர மற்றவர்கள் பேசும்போதும் அது எனக்குப் புரிந்தது. ஆனால், பழைய காங்கிரஸ் கட்சியைச் சேர்ந்த திரு பொன்னப்ப நாடார் அவர்களும், வேறு சிலரும் பேசிய நேரத்தில் எனக்கு அது புரியவில்லை. ஏனெனில், இங்கே சுதந்திரக் கட்சியோ, கம்யூனிஸ்ட் கட்சியோ அல்லது ஆளும் காங்கிரஸ் கட்சியோ தமிழ்நாட்டைப் பொறுத்தவரையில் ஆட்சிப் பொறுப்பை இது வரையில் ஏற்றுக்கொண்டு இருந்த கட்சிகள் அல்ல. ஆனால், நம்முடைய பொன்னப்ப நாடார் அவர்களுடைய காங்கிரஸ் கட்சி தமிழ்நாட்டை 20 ஆண்டுக் காலம் அரசோச்சிய கட்சியாகும். அந்தக் கட்சியின் சார்பில் நம்முடைய நிறுவன காங்கிரஸ் கட்சியின் தலைவரான பொன்னப்ப நாடார் அவர்கள் என்னை 62 நாட்கள் பாளையங்
+கட்சியின் சார்பில் திரு ஹண்டே அவர்கள் பேசும்போது அது
+எனக்குப் புரிந்தது. ஆளும் காங்கிரஸ் கட்சியின் சார்பில்
+திருமதி அனந்தநாயகி அம்மையார் அவர்கள் தவிர மற்ற
+வர்கள் பேசும்போதும் அது எனக்குப் புரிந்தது. ஆனால்,
+பழைய காங்கிரஸ் கட்சியைச் சேர்ந்த திரு பொன்னப்ப
+நாடார் அவர்களும், வேறு சிலரும் பேசிய நேரத்தில் எனக்கு
+அது புரியவில்லை. ஏனெனில், இங்கே சுதந்திரக்
+கட்சியோ, கம்யூனிஸ்ட் கட்சியோ அல்லது ஆளும் காங்
+கிரஸ் கட்சியோ தமிழ்நாட்டைப் பொறுத்தவரையில்
+ஆட்சிப் பொறுப்பை இது வரையில் ஏற்றுக்கொண்டு இருந்த
+கட்சிகள் அல்ல. ஆனால், நம்முடைய பொன்னப்ப நாடார்
+அவர்களுடைய காங்கிரஸ் கட்சி தமிழ்நாட்டை 20 ஆண்டுக்
+காலம் அரசோச்சிய கட்சியாகும். அந்தக் கட்சியின் சார்பில்
+நம்முடைய நிறுவன காங்கிரஸ் கட்சியின் தலைவர்
+திரு. பொன்னப்ப நாடார் அவர்கள் என்னை 62 நாட்கள் பாளையங்
 
 > **Printed illustration text:** `சட்டசபைத் தொடரின் போது (1965)` — `62` — `நாட்கள் பாளையச் சிறையில்`.
 
