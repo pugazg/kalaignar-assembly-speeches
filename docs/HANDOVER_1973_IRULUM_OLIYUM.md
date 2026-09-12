@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`e7bc576cfdf9865f0fd39ec3446ac06345bcf045` — `Advance Unit 2 README to Gate D D2`
+`b9f5c75d862acccff4658216abebdc744450c3bb` — `Advance Unit 2 README to Gate D D3`
 
 ## Active work
 
@@ -627,26 +627,58 @@ Key checked continuations include:
 
 Scan 50 retains both printed Punjab Electricity Board English quotations in the correct structural location.
 
-## Exact next activity — Unit 2 Gate D D2
+## Unit 2 Gate D D2 — PASS
 
-Process **Gate D Tamil completeness audit D2 — scans 51–60 / printed pp.50–59**.
+Scope:
 
-Gate-D D2 rules:
+- scans **51–60**
+- printed pp. **50–59**
+- pages reviewed: **10 / 10**
+
+Result:
+
+- source-page markers **51→60** — exactly once / monotonic / no skip / no duplicate;
+- page-boundary continuity — **9 / 9 PASS**;
+- headings / paragraph order / speaker interventions — **PASS**;
+- figures / dates / list structure — **PASS**;
+- source-printed English on scans **52–55** — **PASS / structurally retained in place**;
+- newly identified crop holds — **0**;
+- D2 completeness corrections — **0**;
+- D2 unresolved completeness questions — **0**;
+- cumulative Gate-D coverage — **20 / 22**;
+- cumulative Gate-D completeness corrections — **2**.
+
+Key checked continuations include:
+
+- 51→52 `எதை / எதை விலக்கிவிடலாமென்று`;
+- 52→53 `13-வது பிரிவில் / Prosecution for false complaint...`;
+- 55→56 `அவர்கள் என்ன செய்ய / வேண்டும்?`;
+- 56→57 `துணிச்சலோடும், / நேர்மையோடும்,`;
+- 57→58 `5 ஆயிரம் ரூபாய் தான் / விவசாயம் அல்லாத வருமானம்...`;
+- 58→59 `வீட்டு வசதி / வாரியம்`.
+
+Scan 60 correctly ends mid-sentence at the visible `30`; D3 must resume from scan 61 without reconstructing forward.
+
+## Exact next activity — Unit 2 Gate D D3 / FINAL
+
+Process **Gate D Tamil completeness audit D3 — scans 61–62 / printed pp.60–61**.
+
+Gate-D D3 rules:
 
 1. compare canonical Tamil against the controlling booklet for completeness / structure;
-2. verify source-page markers **51–60** exactly once and in order;
-3. verify headings, paragraph sequence, speaker/intervention sequence and all page-boundary joins;
-4. verify figures, dates, tables/lists and source-printed English are structurally represented;
-5. detect omissions, repetitions, reordering and misplaced page-boundary text;
-6. preserve source spelling, punctuation and historical forms;
-7. do not reopen Gate C.5 unless genuinely new pixel evidence requires it;
-8. record definite completeness corrections in `completeness-audit.md`, verification log, metadata and README;
-9. if D2 passes, advance to **D3 scans 61–62 / printed pp.60–61**;
+2. verify source-page markers **61–62** exactly once and in order;
+3. verify the incoming scan-60→61 continuation and scan-61→62 continuity;
+4. verify the `மாற்றம்!` heading, final State-autonomy argument, final acknowledgements and `வணக்கம்`;
+5. confirm scan 62 closes the speech and that scans 63–64 are non-speech printer/back-cover matter;
+6. detect omitted / repeated / reordered material;
+7. preserve source spelling / punctuation / historical forms;
+8. do not reopen Gate C.5 unless genuinely new source-pixel evidence requires it;
+9. if D3 passes, mark Gate D **PASS / COMPLETE — 22/22** and unblock Gate E;
 10. **do not begin Gate E in the same iteration**.
 
 ## Required files
 
-Read before Unit-2 Gate-D D2 work:
+Read before Unit-2 Gate-D D3 / FINAL work:
 
 1. this handover
 2. `docs/NEXT_CHAT_PROMPT_1973_IRULUM_OLIYUM.md`
@@ -665,9 +697,8 @@ All affected pages are individually revalidated. Page-level crop recovery is **C
 
 Next:
 
-1. **Unit 2 Gate D completeness audit D2 — scans 51–60 / printed pp.50–59**;
-2. D3 scans 61–62 / printed pp.60–61;
-3. only then begin Gate E.
+1. **Unit 2 Gate D completeness audit D3 / FINAL — scans 61–62 / printed pp.60–61**;
+2. if Gate D passes, begin Gate E in the following iteration.
 
 ## Current Unit 1 release state
 
@@ -695,8 +726,8 @@ Next:
 - Gate C.5 — PASS / COMPLETE — 22/22
 - historical-glyph corrections — 2
 - unresolved glyph clusters — 0
-- Gate D — **IN PROGRESS — D1 PASS / 10 of 22 / 2 corrections / 0 unresolved**
+- Gate D — **IN PROGRESS — D1+D2 PASS / 20 of 22 / 2 cumulative corrections / 0 unresolved**
 - English — BLOCKED
-- exact next activity — **Gate D D2 scans 51–60 / printed pp.50–59**
+- exact next activity — **Gate D D3 / FINAL scans 61–62 / printed pp.60–61**
 
-Unit 1 remains locked/released. Continue only Unit-2 D2 in the next iteration.
+Unit 1 remains locked/released. Continue only Unit-2 D3 / FINAL in the next iteration.
