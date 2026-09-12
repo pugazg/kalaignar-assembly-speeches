@@ -45,10 +45,10 @@
     "verified_against_scan": false,
     "completed_scan_pages": "4-40",
     "completed_printed_pages": "3-39",
-    "source_crop_holds": "recovered and page-level revalidated on scans 4-5, 10-11 and 20-21; remaining physical gutter-loss holds: scans 25-27 and 34-35; scan 13 smaller cartoon labels remain separately unresolved",
+    "source_crop_holds": "recovered and page-level revalidated on scans 4-5, 10-11, 20-21 and 25; remaining physical gutter-loss holds: scans 26-27 and 34-35; scan 13 smaller cartoon labels remain separately unresolved",
     "verified_scan_pages": "4-40",
     "completeness_audit_passed": true,
-    "verification_note": "New official TNLA Assembly Debates evidence dated 7 March 1973 permits evidence-based recovery of text physically missing from the booklet scan. Strict page-by-page revalidation has now closed scans 4-5, 10-11 and 20-21 with booklet line breaks preserved and no contextual guessing. Scan 5 corrected the earlier bulk join before Ponnappa Nadar; scan 10 restored the cropped `க்` in `நில வரியைக் குறைத்தோம்`; scan 20 restored right-gutter text and corrected booklet-visible `வரியையெல்லாம்`; scan 21 recovered the cropped `கி` in the cross-line `இருக்கின்றன` and corrected booklet-visible `அடிபட்டு` plus the printed double quotation around `அன் அக்கெளண்டட் மணி`. Because canonical Tamil has changed after the prior Gate-E/G/H release, Tamil and English fidelity plus release integrity require revalidation after crop recovery is complete."
+    "verification_note": "New official TNLA Assembly Debates evidence dated 7 March 1973 permits evidence-based recovery of text physically missing from the booklet scan. Strict page-by-page revalidation has now closed scans 4-5, 10-11, 20-21 and 25 with booklet line breaks preserved and no contextual guessing. Scan 5 corrected the earlier bulk join before Ponnappa Nadar; scan 10 restored the cropped `க்` in `நில வரியைக் குறைத்தோம்`; scan 20 restored right-gutter text and corrected booklet-visible `வரியையெல்லாம்`; scan 21 recovered the cross-line `இருக்கின்றன` and corrected booklet-visible `அடிபட்டு` plus its printed quotation; scan 25 restored four cropped left-edge characters/punctuation marks, including `(1)`, `(3)` and English `have`. Because canonical Tamil has changed after the prior Gate-E/G/H release, Tamil and English fidelity plus release integrity require revalidation after crop recovery is complete."
   },
   "translation": {
     "language": "English",
@@ -210,19 +210,19 @@
     "secondary_source_file_size_bytes": 184860788,
     "secondary_source_sha256": "b56b0e2d70fb64ec026312ca62d925cb2ef7df32feb8a9578848df97461c54b4",
     "authority": "official TNLA proceedings used only to recover material physically absent from the controlling booklet scan; visible booklet wording remains controlling wherever legible",
-    "recovered_scan_pages": "4-5, 10-11, 20-21",
-    "recovered_page_count": 6,
+    "recovered_scan_pages": "4-5, 10-11, 20-21, 25",
+    "recovered_page_count": 7,
     "crop_placeholders_removed_cr1": 99,
-    "remaining_actual_tamil_crop_placeholders": 156,
-    "remaining_crop_scan_pages": "25-27, 34-35",
-    "next_batch": "Page-by-page recovery — scan 25 / printed p.24",
+    "remaining_actual_tamil_crop_placeholders": 118,
+    "remaining_crop_scan_pages": "26-27, 34-35",
+    "next_batch": "Page-by-page recovery — scan 26 / printed p.25",
     "tamil_revalidation_required": true,
     "english_repair_required": true,
     "release_revalidation_required": true,
     "workflow_mode": "page-by-page",
-    "page_by_page_verified_scan_pages": "4-5, 10-11, 20-21",
-    "page_by_page_verified_count": 6,
-    "next_page_by_page_scan": 25,
+    "page_by_page_verified_scan_pages": "4-5, 10-11, 20-21, 25",
+    "page_by_page_verified_count": 7,
+    "next_page_by_page_scan": 26,
     "page4": {
       "status": "verified-recovery",
       "old_crop_markers": 38,
@@ -313,6 +313,28 @@
       "incoming_page_boundary": "scan 20 ends `இங்கே சுட்டிக் காட்டினேன்.`; scan 21 begins `அது மாத்திரமல்ல, இன்னும் சில காரணங்கள் இருக்`",
       "outgoing_page_boundary": "scan 21 ends `... விலையைக் கட்டுப்படுத்து`; scan 22 begins `கின்ற சூழ்நிலை...`, forming cross-page `கட்டுப்படுத்துகின்ற`",
       "next_scan_page": 25
+    },
+    "page25": {
+      "status": "verified-recovery",
+      "old_crop_markers": 38,
+      "old_crop_marker_accounting": "38 literal occurrences in the pre-recovery block = 37 line-level source-loss placeholders + 1 literal token in the explanatory scan-condition note",
+      "source_loss_positions_revalidated": 37,
+      "remaining_crop_markers": 0,
+      "direct_missing_fragment_recoveries": 4,
+      "no_insert_fragment_positions": 33,
+      "source_line_breaks_preserved": true,
+      "non_crop_booklet_fidelity_corrections": 0,
+      "direct_recoveries": [
+        "`டுத்துக்கொண்டால்` -> `எடுத்துக்கொண்டால்`",
+        "`1)` -> `(1)`",
+        "`3)` -> `(3)`",
+        "`ave been` -> `have been`"
+      ],
+      "figures_rechecked": "60, 130, 90, 280, 225 இலட்சம் யூனிட்; 6 இலட்சம் pump connections; 71/72/73; 1,035 மெகாவாட்; 1974-1979",
+      "tnla_evidence": "PDF pp.104-105 / proceedings pp.502-503",
+      "incoming_page_boundary": "scan 24 closes the electricity-production comparison/map; scan 25 begins `இன்னொன்றையும் மறந்துவிடக்கூடாது. கேரளாவை`",
+      "outgoing_page_boundary": "scan 25 ends `... உட்படுத்தப்பட்டிருக்`; scan 26 begins `கிறதா? ...`, forming cross-page `உட்படுத்தப்பட்டிருக்கிறதா?`",
+      "next_scan_page": 26
     }
   }
 }

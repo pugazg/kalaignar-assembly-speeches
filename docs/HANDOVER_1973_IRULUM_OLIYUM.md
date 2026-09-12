@@ -8,7 +8,7 @@
 
 Checkpoint before this handover rewrite:
 
-`6668c8383970f46d81ace73622e38bd3a368facd` — `Recover Unit 1 crop text page 20`
+`a764e4006136887813a2c8350e2d8a9f1719d359` — `Recover Unit 1 crop text page 21`
 
 ## Active work
 
@@ -241,31 +241,63 @@ Result:
   - `டிப்பட்டு` → `அடிபட்டு`;
   - `‘அன் அக்கெளண்டட் மணி’` → `“அன் அக்கெளண்டட் மணி”`.
 
-## Exact next activity — scan 25 only
+## Page 25 — PASS / CLOSED
 
-Process **booklet scan 25 / printed p.24** and stop.
+Booklet scan **25** / printed p.**24** is now individually recovered and revalidated.
 
-Current scan-25 state:
+Evidence:
+
+- TNLA witness: PDF pp. **104–105** / proceedings pp. **502–503**
+- Kerala / Mysore / Andhra / Tamil Nadu electricity-demand comparison confirmed
+- hydroelectric-shortfall paragraph confirmed
+- ten-project list confirmed
+- Ananthanayaki English intervention confirmed
+- Ponnappa Nadar question opening confirmed
+- incoming boundary: scan 25 begins `இன்னொன்றையும் மறந்துவிடக்கூடாது. கேரளாவை` after scan 24's electricity-production comparison/map
+- outgoing boundary: scan 25 `... உட்படுத்தப்பட்டிருக்` → scan 26 `கிறதா? ...`, preserving cross-page `உட்படுத்தப்பட்டிருக்கிறதா?`
+
+Result:
+
+- legacy literal crop-marker occurrences: **38**
+- actual line-level source-loss positions: **37**
+- direct official-witness missing-character/punctuation recoveries: **4**
+- positions requiring no inserted fragment: **33**
+- source-loss markers remaining: **0**
+- booklet physical line breaks preserved
+- contextual guesses: **0**
+- global replacements: **0**
+- direct recoveries:
+  - `டுத்துக்கொண்டால்` → `எடுத்துக்கொண்டால்`
+  - `1)` → `(1)`
+  - `3)` → `(3)`
+  - `ave been` → `have been`
+- no additional non-crop booklet-fidelity correction was required.
+
+## Exact next activity — scan 26 only
+
+Process **booklet scan 26 / printed p.25** and stop.
+
+Current scan-26 state:
 
 - legacy crop markers remain in the canonical Tamil;
 - this page has **not** yet been recovered under the strict page-by-page protocol;
-- matching official witness is mainly TNLA PDF pp. **104–105** / proceedings pp. **502–503**.
+- matching official witness is mainly TNLA PDF pp. **105–106** / proceedings pp. **503–504**.
 
 Verify:
 
-- every line-level left-gutter crop position independently;
-- Kerala / Mysore / Andhra / Tamil Nadu daily electricity-demand figures;
-- the hydroelectric-shortfall explanation;
-- the ten-project list and the Ananthanayaki English intervention;
-- all booklet-visible numerals, spelling, punctuation and spacing;
+- every line-level right-gutter crop position independently;
+- completion of Ponnappa Nadar's question and Karunanidhi's answer;
+- Kalpakkam / Neyveli / Tuticorin central-project paragraph;
+- Kumarasami fourth-plan intervention and response;
+- all booklet-visible wording, numerals, punctuation and spacing;
 - physical line breaks;
 - incoming and outgoing page boundaries.
 
-Do **not** process scan 26 in the same iteration.
+Do **not** process scan 27 in the same iteration.
 
 ## Required files
 
-Read before scan-25 work:
+Read before scan-26 work:
 
 1. this handover
 2. `docs/NEXT_CHAT_PROMPT_1973_IRULUM_OLIYUM.md`
@@ -282,7 +314,7 @@ If either PDF is missing in a new chat, retrieve it from conversation/Library be
 
 Continue exactly one page per iteration:
 
-**25 → 26 → 27 → 34 → 35**
+**26 → 27 → 34 → 35**
 
 After all affected pages are individually revalidated:
 
@@ -298,8 +330,8 @@ After all affected pages are individually revalidated:
 
 - `transcription.status = crop-recovery-in-progress`
 - `transcription.verified_against_scan = false`
-- page-by-page verified scans: **4–5, 10–11, 20–21**
-- next page: **25**
+- page-by-page verified scans: **4–5, 10–11, 20–21, 25**
+- next page: **26**
 - Gate E — recheck required
 - English `verified_against_tamil = false`
 - Gate G — recheck required

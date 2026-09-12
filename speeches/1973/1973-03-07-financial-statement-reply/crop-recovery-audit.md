@@ -55,7 +55,7 @@ Status: **PASS / COMPLETE**
 
 ## Remaining crop-recovery work
 
-- **CR2:** scans **20–21 and 25–27**
+- **CR2:** scans **26–27** (scans 20–21 and 25 are now page-level closed)
 - **CR3:** scans **34–35**
 - then: whole-Tamil recovery audit
 - then: English repair/retranslation for recovered spans
@@ -421,4 +421,65 @@ Page-boundary evidence:
 - the cross-page word is therefore `கட்டுப்படுத்துகின்ற`, with no text moved across the booklet boundary.
 
 Exact next page-by-page activity: **booklet scan 25 / printed p.24**. Do not process scan 26 in the same iteration.
+
+### Booklet scan 25 / printed p.24
+
+Status: **PASS / PAGE-LEVEL RECOVERY VERIFIED**
+
+Evidence:
+
+- controlling booklet: `இருளும் ஒளியும்`, scan **25** / printed p. **24**;
+- independent official witness: *Tamil Nadu Legislative Assembly Debates*, **7 March 1973**, TNLA PDF pp. **104–105** / proceedings pp. **502–503**;
+- the witness confirms the Kerala / Mysore / Andhra / Tamil Nadu daily electricity-demand comparison, hydroelectric-shortfall explanation, ten-project list, Ananthanayaki English intervention, and opening of Ponnappa Nadar's question;
+- visible booklet wording remains controlling wherever legible.
+
+Marker accounting:
+
+- pre-recovery scan-25 block literal `⟦scan-crop⟧` occurrences: **38**;
+- actual line-level left-gutter source-loss positions: **37**;
+- explanatory-note literal-token occurrences: **1**;
+- page-level source-loss positions revalidated: **37 / 37**;
+- direct missing-character/punctuation recoveries from the official witness: **4**;
+- positions requiring no witness-supplied insertion: **33**;
+- source-loss markers remaining on scan 25: **0**;
+- booklet physical line breaks: **preserved**;
+- contextual/grammar-only guesses: **0**;
+- global replacements: **0**.
+
+Direct recoveries, in physical line order:
+
+1. `டுத்துக்கொண்டால்` → `எடுத்துக்கொண்டால்`, restoring the cropped initial `எ`.
+2. `1) சேர்வலாறு` → `(1) சேர்வலாறு`, restoring the cropped opening parenthesis.
+3. `3) சொலாட்டிப்புழா` → `(3) சொலாட்டிப்புழா`, restoring the cropped opening parenthesis.
+4. English `ave been sent ...` → `have been sent ...`, restoring the cropped initial `h`.
+
+The remaining **33** marked positions require no inserted text after booklet/TNLA comparison: they either begin with a complete booklet-visible word or preserve an intentional physical-line continuation, including `கிட்டத் / தட்டப்போய்த்`, `கேட்க / வில்லையா`, `மேல் அமரா / வதித்`, and `திட்ட / மானது`.
+
+Booklet-visible forms retained rather than normalized to the TNLA printing include:
+
+- `இலட்சம்` throughout the electricity-demand figures;
+- `நெல்லித்துறைத் திட்டம்`;
+- `சொலாட்டிப்புழா திட்டம்`;
+- `மேல் அமரா / வதித் திட்டம்` with the booklet physical line break;
+- `சண்முகா நதித் திட்டம்`;
+- the booklet's English lineation of Ananthanayaki's intervention.
+
+Figures and dates rechecked:
+
+- daily demand: **60 / 130 / 90 / 280 / 225** இலட்சம் யூனிட்;
+- Tamil Nadu pump connections: **6 இலட்சம்**;
+- project-request years: **71, 72, 73**;
+- ten-project total: **1,035 மெகாவாட்**;
+- English intervention: **1974–1979** Fifth Plan reference.
+
+No additional non-crop booklet-fidelity correction was required on this page.
+
+Page-boundary evidence:
+
+- incoming boundary: scan 24 closes the preceding electricity-production comparison and its printed map/illustration labels; scan 25 begins `இன்னொன்றையும் மறந்துவிடக்கூடாது. கேரளாவை`;
+- scan 25 ends `மானது, நான்காவது திட்டத்தில் உட்படுத்தப்பட்டிருக்`;
+- scan 26 begins `கிறதா? அல்லது ஐந்தாவது திட்டத்தில்...`;
+- the cross-page word is therefore `உட்படுத்தப்பட்டிருக்கிறதா?`, with no text moved across the booklet boundary.
+
+Exact next page-by-page activity: **booklet scan 26 / printed p.25**. Do not process scan 27 in the same iteration.
 
