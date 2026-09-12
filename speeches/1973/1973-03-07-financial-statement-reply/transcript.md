@@ -2,7 +2,7 @@
 
 **7-3-1973 — நிதிநிலை அறிக்கை விவாதத்திற்கான பதிலுரை**
 
-> **Archival transcription and translation note:** The Tamil source layer for scan pp.4–40 / printed pp.3–39 has completed post-release gutter recovery, the whole-Tamil integrity audit, and the focused post-recovery Gate-E fidelity recheck. Recovery used the official *Tamil Nadu Legislative Assembly Debates, 7 March 1973* only where the controlling `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf` booklet physically lost gutter text; booklet-visible wording remains controlling. All legacy gutter placeholders are resolved on scans 4–5, 10–11, 20–21, 25–27 and 34–35. The corresponding English recovered spans have now been repaired from that final Gate-E-verified Tamil, including all **249** inherited English crop markers. The repaired English is **awaiting the focused post-recovery Gate-G fidelity recheck** before Gate H / RELEASED status can be restored.
+> **Archival transcription and translation note:** The Tamil source layer for scan pp.4–40 / printed pp.3–39 has completed post-release gutter recovery, the whole-Tamil integrity audit, and the focused post-recovery Gate-E fidelity recheck. The corresponding English recovered spans on source pages **4–5, 10–11, 20–21, 25–27, 34–35** were repaired from that final Tamil, resolving all **249** inherited English crop markers. A focused post-recovery Gate-G recheck then reviewed all 11 repaired pages, made **2** definite English fidelity corrections, and left **0** unresolved English fidelity questions. Tamil `verified_against_scan=true`; English `verified_against_tamil=true`. Gate H / RELEASED status remains reopened pending canonical bilingual integrity and release revalidation.
 
 ---
 
@@ -828,7 +828,7 @@ The power supply position in the States of Southern Zone was going to be extreme
 
 # English translation
 
-> **Historical Gate-G note / post-recovery status:** Gate G previously passed on the pre-recovery English with **15** corrections and **0** unresolved questions. After new primary-source gutter recovery changed the canonical Tamil, the affected English spans on source pages **4–5, 10–11, 20–21, 25–27, 34–35** were repaired from the final post-recovery Gate-E-verified Tamil. Those repaired spans now contain **0** legacy crop markers. The prior Gate-G PASS remains historical only; a focused post-recovery Gate-G recheck is still required.
+> **Gate-G status after crop recovery:** the historical pre-recovery Gate G reviewed 37/37 pages with **15** corrections. After recovered-span repair, a focused post-recovery Gate-G recheck reviewed source pages **4–5, 10–11, 20–21, 25–27, 34–35**, made **2** further corrections on scan 35, left **0** unresolved fidelity questions, and confirmed **0** legacy English crop markers. English is again verified against the final Tamil. Gate H revalidation is still pending.
 
 # English translation — 7-3-1973 Assembly reply
 
