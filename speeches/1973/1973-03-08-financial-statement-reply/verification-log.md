@@ -148,3 +148,52 @@ Status: **PASS / Gate C.5 COMPLETE**
 
 Exact continuation: **Gate D Tamil completeness audit — D1 scans 41–50 / printed pp.40–49**. Do not begin Gate E in the same iteration.
 
+## Gate D — Tamil completeness audit
+
+### D1 — scans 41–50 / printed pp.40–49
+
+Status: **PASS**
+
+Review method:
+
+- visually compared all ten canonical page blocks to the controlling booklet scans;
+- audited completeness / structure only, not general Gate-E word-level fidelity;
+- source-page markers, headings, speaker changes, interventions, paragraph order, page transitions, figures and source-printed English placement were checked;
+- Gate C.5 historical-glyph results were preserved and not reopened without new evidence.
+
+Results:
+
+- scans reviewed: **41–50 / 10 pages**;
+- source-page markers **41→50**: **exactly once / monotonic / no skip / no duplicate**;
+- page-boundary continuations checked: **9 / 9 PASS**;
+- speaker / intervention ordering: **PASS**;
+- headings: **PASS**;
+- figures / dates / source-printed English structural placement: **PASS**;
+- physical crop holds newly identified: **0**;
+- unresolved completeness questions: **0**;
+- canonical completeness corrections: **2**.
+
+Completeness corrections:
+
+1. scan **43** / printed p.**42** — added a conservative note for the printed audience/crowd illustration at its physical location between paragraphs.
+2. scan **44** / printed p.**43** — added a conservative note for the printed staged Yamadharman/buffalo illustration at its physical location inside the anecdote.
+
+These are source-context completeness additions only; no speech wording was invented or normalized.
+
+Key boundary checks:
+
+- 41→42: `தெரிந்து / கொண்டிருந்தும்`;
+- 44→45: `அல்லது / தோழமைக் கட்சிகளின் சார்பிலோ`;
+- 45→46: `முன் / கூட்டியே`;
+- 47→48: `உயர்ந்திருக்கிறதே / அல்லாமல் அதிகமல்ல`;
+- 48→49: `தெரிந்து / கொள்கிற அளவுக்கு`;
+- 49→50: `பரிபூரண / மாக முடிந்துவிட்டது`.
+
+Scan 50 source-printed Punjab Electricity Board English was rechecked for structural placement and retained verbatim, including both quoted passages.
+
+Gate-D cumulative coverage: **10 / 22 pages**.  
+Cumulative completeness corrections: **2**.  
+Unresolved completeness questions: **0**.
+
+Exact continuation: **Gate D D2 — scans 51–60 / printed pp.50–59**. Do not begin Gate E in the same iteration.
+
