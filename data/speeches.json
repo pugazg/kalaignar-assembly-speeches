@@ -52,9 +52,11 @@
       "ta",
       "en"
     ],
-    "transcription_status": "crop-recovery-in-progress",
-    "verified_against_scan": false,
-    "translation_status": "recheck-required-after-crop-recovery"
+    "transcription_status": "verified",
+    "verified_against_scan": true,
+    "translation_status": "verified",
+    "release_status": "released",
+    "gate_h_status": "revalidated-after-crop-recovery"
   },
   {
     "id": "1981-04-16-industries-debate",
