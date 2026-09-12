@@ -758,7 +758,7 @@ Next:
 - Gate G — **PASS / REVALIDATED AFTER CROP RECOVERY**
 - Gate H — **PASS / REVALIDATED AFTER CROP RECOVERY**
 - release — **RELEASED**
-- next activity — **Unit 2 Gate D D1**
+- next activity — **Unit 2 Gate E E1 — scans 41–50 / printed pp.40–49**
 
 ## Unit 2 active-next state
 
