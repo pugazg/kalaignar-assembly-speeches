@@ -178,3 +178,27 @@ Status: **COMPLETE / GATE C COMPLETE**
 
 Exact continuation: **Gate C.5 historical-glyph audit for scans 4–60 / 57 pages**, beginning with the first logical batch **scans 4–13**. Do not begin Gate D until Gate C.5 is complete.
 
+## Gate C.5 — historical-glyph / source-form audit
+
+### C.5-1 — scans 4–13 / implied printed pp.3–12
+
+Status: **PASS / COMPLETE for this batch**
+
+- pages audited — **10/10**
+- cumulative Gate-C.5 coverage — **10/57**
+- definite textual corrections — **8 across 5 source sites**
+- global replacements / modernization / outside text — **none**
+- scan 4: `மாண்புமிகு உறுப்பினர்கள்` → `மாமன்றத்து உறுப்பினர்கள்`
+- scan 5: four `குளோரோபாம்` → `குளோரோஃபாம்`
+- scan 8: `வெளியேற்றப்பட்டலாம்` → `வெளியேற்றப்படலாம்`
+- scan 9: `பதின்மூன்று, பதினான்கு காலம்` → `பதின்மூன்று, பதினான்காண்டுக் காலம்`
+- scan 13: `கண்டுபிடித்துத் திரு ராஜாராம்` → `கண்டுபிடித்து திரு ராஜாராம்`
+- scan 11 unresolved phrase — **re-inspected / retained unresolved**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **3**
+- source-page markers — **4→60 unchanged / 57**
+- Tamil `verified_against_scan=false`
+- Gate D — **BLOCKED**
+
+Exact continuation: **Gate C.5-2 scans 14–23 / printed pp.13–22**.
+

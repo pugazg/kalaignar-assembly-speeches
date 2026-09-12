@@ -23,7 +23,7 @@ Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.
   - Assembly event reference: [`29 March 1971 — Interim-Budget reply`](./sources/1971-namathu-nilai/events/1971-03-29-assembly-interim-budget-reply.md)
   - Assembly event reference: [`2 April 1971 — Governor-address reply`](./sources/1971-namathu-nilai/events/1971-04-02-assembly-governors-address-reply.md)
   - Handover: [`docs/HANDOVER_1971_NAMATHU_NILAI.md`](./docs/HANDOVER_1971_NAMATHU_NILAI.md)
-- [`நமது விளக்கம்` — 1971 source package](./sources/1971-namathu-vilakkam/README.md) — 61-scan Government of Tamil Nadu booklet. **Gate A PASS / Gate B LOCKED. Gate C first-pass Tamil is COMPLETE for scans 4–60 / 57 pages with source markers 4→60 exactly once and 3 unresolved readings (scans 11, 31, 37). Gate C.5 historical-glyph audit is READY / NEXT; English remains blocked until Tamil verification.**
+- [`நமது விளக்கம்` — 1971 source package](./sources/1971-namathu-vilakkam/README.md) — 61-scan Government of Tamil Nadu booklet. **Gate A PASS / Gate B LOCKED / Gate C COMPLETE 57/57. Gate C.5 is IN PROGRESS: C.5-1 scans 4–13 audited with 8 definite corrections across 5 source sites; 3 unresolved readings remain (scans 11, 31, 37). Exact next is C.5-2 scans 14–23; English remains blocked.**
   - Reader-facing booklet entry: [`speeches/1971/1971-namathu-vilakkam/`](./speeches/1971/1971-namathu-vilakkam/)
   - Event reference: [`29 June 1971 — Assembly budget reply`](./sources/1971-namathu-vilakkam/events/1971-06-29-assembly-budget-reply.md)
   - Event reference: [`30 June 1971 — Council budget reply`](./sources/1971-namathu-vilakkam/events/1971-06-30-council-budget-reply.md)

@@ -99,11 +99,11 @@ These are event/provenance records only. They are not complete canonical transcr
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / LOCKED**
 - Gate C — **PASS / COMPLETE — scans 4–60; 57/57 pages; 3 unresolved readings carried into Gate C.5 / later fidelity gates**
-- Gate C.5 — **READY / NOT STARTED — mandatory historical-glyph audit**
+- Gate C.5 — **IN PROGRESS — C.5-1 scans 4–13 COMPLETE; 10/57 audited; 8 corrections**
 - Tamil verification — **blocked until Gate E**
 - English — **blocked until Tamil verification**
 - Gate H / release — **not reached**
 
 ## Exact continuation
 
-Gate C.5: begin historical-glyph audit with **scans 4–13 / implied printed pp.3–12**. Gate C is complete at **57/57**. Preserve all three unresolved-reading markers unless direct source-pixel evidence resolves them. Do not begin Gate D until the full Gate C.5 audit is complete.
+Gate C.5-2: audit **scans 14–23 / printed pp.13–22**. C.5-1 is complete at **10/57 pages**, with **8 corrections across 5 source sites** and **3 unresolved readings** remaining. Do not begin Gate D until Gate C.5 is complete.

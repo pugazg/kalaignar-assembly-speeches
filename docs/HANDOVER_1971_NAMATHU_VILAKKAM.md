@@ -190,3 +190,17 @@ Begin **Gate C.5 historical-glyph audit — scans 4–13 / implied printed pp.3�
 
 Audit reform-sensitive historical typeforms directly against the source pixels. Do not global-replace. Preserve the three unresolved markers unless the scan itself resolves them. Do not begin Gate D in the same iteration.
 
+## Gate C.5-1 — COMPLETE / PASS
+
+- scans — **4–13 / implied printed pp.3–12**
+- audited — **10/57**
+- corrections — **8 across 5 source sites**
+- scan 11 uncertainty — **re-inspected / retained**
+- cumulative unresolved — **3**
+- source markers — **4→60 unchanged**
+- Gate D — **BLOCKED**
+
+Correction sites: scan 4 `மாமன்றத்து`; scan 5 four `குளோரோஃபாம்` forms; scan 8 `வெளியேற்றப்படலாம்`; scan 9 `பதினான்காண்டுக் காலம்`; scan 13 `கண்டுபிடித்து திரு`.
+
+Exact next: **Gate C.5-2 scans 14–23 / printed pp.13–22**.
+
