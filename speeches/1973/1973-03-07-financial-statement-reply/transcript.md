@@ -1307,7 +1307,7 @@ To meet the coal requirements of the thermal stations in Madras, permission has 
 
 **Dr. H. V. Hande:** A Minister went and inaugurated it.
 
-**Hon. Dr. M. Karunanidhi:** Even if Ministers themselves go and open them, licences will not be issued to them—that is the strict order.
+**Hon. Dr. M. Karunanidhi:** Even if Ministers themselves go and inaugurate it, licences will not be issued for it—that is the strict order.
 
 ## Residential house-site pattas
 
@@ -1338,7 +1338,7 @@ or denial of title were raised. Thus, taking this also into account,
 out of a total of 157,000, receipts have been obtained
 for 141,000 pattas. There are cases concerning
 eight thousand pattas. Receipts have not come for seven thousand pattas.
-Thus, Thus, I place before the House these particulars relating to 157,000 pattas.
+Thus, I place before the House these particulars relating to 157,000 pattas.
 
 
 ### Source page 36
