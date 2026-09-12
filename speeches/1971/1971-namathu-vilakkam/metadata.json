@@ -67,12 +67,12 @@
     "preserve_source_punctuation": true,
     "page_boundaries_required": true,
     "historical_glyph_audit_required": true,
-    "next_batch": "scans 14-23 / printed pp.13-22",
-    "completed_scan_pages": "4-13",
-    "completed_printed_pages": "implied 3-12",
-    "completed_page_count": 10,
+    "next_batch": "scans 24-33 / printed pp.23-32",
+    "completed_scan_pages": "4-23",
+    "completed_printed_pages": "implied 3-22",
+    "completed_page_count": 20,
     "total_page_count": 57,
-    "last_batch": "T1",
+    "last_batch": "T2",
     "unresolved_readings": 1,
     "unresolved_reading_locations": [
       {
@@ -86,7 +86,12 @@
       8,
       9,
       11,
-      13
+      13,
+      14,
+      16,
+      18,
+      19,
+      23
     ]
   },
   "translation": {

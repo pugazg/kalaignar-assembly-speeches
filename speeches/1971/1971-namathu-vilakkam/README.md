@@ -31,7 +31,7 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / LOCKED**
-- Gate C — **IN PROGRESS — T1 scans 4–13 COMPLETE; 10/57 pages**
+- Gate C — **IN PROGRESS — T1–T2 scans 4–23 COMPLETE; 20/57 pages**
 - Gate C.5 — **REQUIRED / NOT STARTED**
 - Gate D–H — **NOT STARTED**
 - Tamil — **FIRST PASS IN PROGRESS / NOT VERIFIED — 1 unresolved reading**
@@ -42,7 +42,7 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 
 - [`metadata.json`](./metadata.json)
 - [`source-notes.md`](./source-notes.md)
-- [`transcript.md`](./transcript.md) — Gate-C first-pass Tamil; T1 scans 4–13 complete.
+- [`transcript.md`](./transcript.md) — Gate-C first-pass Tamil; T1–T2 scans 4–23 complete.
 - [`verification-log.md`](./verification-log.md)
 - [`historical-glyph-audit.md`](./historical-glyph-audit.md)
 
@@ -56,4 +56,4 @@ This booklet-level entry is intentionally **not** added to the canonical dated s
 
 ## Exact next activity
 
-Gate C T2 — transcribe **scans 14–23 / printed pp.13–22** directly from the rendered booklet scan.
+Gate C T3 — transcribe **scans 24–33 / printed pp.23–32** directly from the rendered booklet scan.

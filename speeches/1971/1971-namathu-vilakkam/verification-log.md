@@ -60,3 +60,23 @@ Status: **COMPLETE for this batch / Gate C remains IN PROGRESS**
 
 Exact continuation: **Gate C T2 — scans 14–23 / printed pp.13–22**.
 
+### Batch T2 — scans 14–23 / printed pp.13–22
+
+Status: **COMPLETE for this batch / Gate C remains IN PROGRESS**
+
+- pages transcribed — **10/10**
+- cumulative Gate-C coverage — **20/57 body pages**
+- source-page markers — **4→23 exactly once and in order**
+- source authority — rendered booklet pixels only
+- OCR / external Official Report wording imported — **none**
+- headings / speaker references / figures / fiscal amounts — preserved on first pass
+- illustration/context notes recorded conservatively for scans **14, 16, 18, 19 and 23**
+- new unresolved readings introduced in T2 — **0**
+- cumulative unresolved readings — **1**
+  - existing scan 11 / printed p.10 phrase remains unchanged: ⟦தெளிவில்லை: போக ஏ⟧
+- Gate C.5 — **NOT STARTED**
+- Tamil verified_against_scan — **false**
+- English — **BLOCKED**
+
+Exact continuation: **Gate C T3 — scans 24–33 / printed pp.23–32**.
+
