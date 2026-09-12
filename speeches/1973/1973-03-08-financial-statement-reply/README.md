@@ -20,9 +20,9 @@ This entry preserves the Legislative Council reply dated `8-3-1973` in the sourc
 - Gate C: **COMPLETE — C1–C3 scans 41–62 / printed pp.40–61; 22/22 pages**
 - Gate C.5 historical Tamil glyph audit: **PASS / COMPLETE — HG1–HG3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative corrections; 0 unresolved**
 - Gate D: **PASS / COMPLETE — D1–D3 scans 41–62 / printed pp.40–61; 22/22 pages; 2 cumulative completeness corrections; 0 unresolved**
-- Gate E: **NEXT / NOT STARTED**
+- Gate E: **IN PROGRESS — E1 scans 41–50 / printed pp.40–49 PASS; 10/22 pages; 1 correction; 0 unresolved**
 - Gates F–H: **NOT STARTED / downstream**
-- Tamil status: **Gate C + C.5 + D complete; Gate E next / not verified**
+- Tamil status: **Gate C + C.5 + D complete; Gate E in progress / not verified**
 - English: **blocked until Tamil verification**
 
 ## Gate C result
@@ -85,4 +85,26 @@ Gate D final result:
 - speech-end classification — **LOCKED / PASS**
 - Gate D — **PASS / COMPLETE**
 
-Exact next activity: **Gate E Tamil source-fidelity verification E1 — scans 41–50 / printed pp.40–49**. English remains blocked until Gate E completes.
+Gate E E1 is now **PASS** for scans **41–50 / printed pp.40–49**.
+
+- scans reviewed — **10/10**
+- E1 source-fidelity corrections — **1**
+- unresolved source-fidelity questions — **0**
+- names / speaker labels / figures / headings / page transitions — **PASS**
+- source-printed English — **PASS / verbatim**
+- D1 illustration-context notes on scans 43–44 — structurally confirmed
+
+E1 correction:
+
+- scan 44 / printed p.43:
+  `சில பேர் ரசிப்பார்கள் என்ற நிலைமை எண்ணி,`
+  → source-faithful
+  `சில பேர் ரசிப்பார்கள் என்று நிலைமையை எண்ணி,`
+
+The correction is an ordinary source-fidelity correction; Gate-C.5 historical `மாறாக` remains unchanged and source-supported.
+
+Gate-E cumulative coverage: **10/22 pages**.  
+Cumulative Gate-E corrections: **1**.  
+Unresolved Gate-E questions: **0**.
+
+Exact next activity: **Gate E E2 — scans 51–60 / printed pp.50–59**. English remains blocked until Gate E is complete.
