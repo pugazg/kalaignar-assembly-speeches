@@ -106,3 +106,68 @@ Cross-page boundary is now explicit and source-supported:
 
 Exact next page-by-page activity: **booklet scan 5 / printed p.4**.
 
+### Booklet scan 5 / printed p.4
+
+Status: **PASS / PAGE-LEVEL RECOVERY VERIFIED**
+
+Evidence:
+
+- controlling booklet: `இருளும் ஒளியும்`, scan **5** / printed p. **4**;
+- independent official witness: *Tamil Nadu Legislative Assembly Debates*, **7 March 1973**, TNLA PDF p. **87** / proceedings p. **485**;
+- the witness confirms the Hande / Ananthanayaki / Ponnappa Nadar continuation, the Congress-governance comparison, **20 ஆண்டுக் காலம்**, and the **62 நாட்கள்** Palayamkottai passage;
+- visible booklet wording remains controlling wherever legible.
+
+Marker accounting:
+
+- the pre-recovery scan-5 block contains **16 literal** `⟦scan-crop⟧` occurrences;
+- **15** are source-loss placeholders at the left edge of printed lines;
+- **1** is the literal token quoted inside the explanatory scan-condition note;
+- page-level source-loss positions revalidated: **15 / 15**;
+- source-loss markers remaining on scan 5: **0**;
+- source line breaks: **preserved**;
+- contextual/grammar-only guesses: **0**;
+- global replacements: **0**.
+
+Direct missing-fragment recoveries, in physical line order:
+
+1. `கட்` + `சியின்` → `கட்சியின்`
+2. `எ` + `னக்குப்` → `எனக்குப்`
+3. `தி` + `ருமதி` → `திருமதி`
+4. `வ` + `ர்கள்` → `வர்கள்`
+5. `ப` + `ழைய` → `பழைய`
+6. `நா` + `டார்` → `நாடார்`
+7. `அ` + `து` → `அது`
+8. `கட்` + `சியோ` → `கட்சியோ`
+9. `கி` + `ரஸ்` → `கிரஸ்` after the preceding line's visible `காங்`
+10. `ஆ` + `ட்சிப்` → `ஆட்சிப்`
+11. `கட்` + `சிகள்` → `கட்சிகள்`
+12. `அ` + `வர்களுடைய` → `அவர்களுடைய`
+13. `கா` + `லம்` → `காலம்`
+14. `ந` + `ம்முடைய` → `நம்முடைய`
+15. missing line opening before visible `பொன்னப்ப நாடார்...` → `திரு. `, confirmed by the official witness's `தலைவர் திரு. பொன்னப்ப நாடார்` sequence.
+
+Page-level correction to earlier bulk CR1:
+
+- the bulk pass had collapsed the last two booklet lines into `... கட்சியின் தலைவரான பொன்னப்ப நாடார் ...`;
+- high-resolution booklet reinspection does **not** support that join at the cropped edge;
+- the booklet visibly ends the preceding line with `தலைவர்`;
+- TNLA p.87 / proceedings p.485 independently gives `தலைவர் திரு. பொன்னப்ப நாடார்`;
+- canonical Tamil is therefore restored as the physical two-line sequence:
+  - `நம்முடைய நிறுவன காங்கிரஸ் கட்சியின் தலைவர்`
+  - `திரு. பொன்னப்ப நாடார் அவர்கள் என்னை 62 நாட்கள் பாளையங்`.
+
+Page-boundary evidence:
+
+- incoming boundary remains: scan 4 ends `சுதந்திரக்`; scan 5 begins `கட்சியின் சார்பில்...`;
+- scan 5 ends exactly `பாளையங்`;
+- scan 6 begins `கோட்டைச் சிறைச்சாலையில்...`;
+- no text from scan 6 was moved backward into scan 5.
+
+Illustration text retained from the booklet:
+
+- `சட்டசபைத் தொடரின் போது (1965)`
+- `62`
+- `நாட்கள் பாளையச் சிறையில்`
+
+Exact next page-by-page activity: **booklet scan 10 / printed p.9**. Do not process scan 11 in the same iteration.
+
