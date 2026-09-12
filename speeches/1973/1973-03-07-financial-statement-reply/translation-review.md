@@ -335,3 +335,70 @@ Integrity checks:
 Gate H made **0 new English language corrections**.
 
 Unit 1 is **released**. The next source activity is Unit 2 Gate C.
+
+## Post-recovery Gate G — focused recovered-span recheck
+
+Status: **PASS / COMPLETE**
+
+Scope:
+
+- source pages **4–5, 10–11, 20–21, 25–27, 34–35**;
+- repaired page count: **11**;
+- review source: final post-recovery Gate-E-verified Tamil in canonical `transcript.md`;
+- review type: focused fidelity recheck of repaired recovered spans, not a second full 37-page Gate-G pass.
+
+Checks completed:
+
+- omissions / additions in repaired spans — **PASS**;
+- every recovered Tamil fragment represented in English — **PASS**;
+- names / initials / speaker labels — **PASS**;
+- intervention order / parliamentary voice — **PASS**;
+- dates / numerals / money / units / project names / Plan chronology — **PASS**;
+- source-printed English — **PASS / verbatim**, including scan 25 `THIRUMATHI T. N. ANANDANAYAKI...` and scan 27 `Ratification`;
+- source-page sequence **4–40** — **PASS / exactly once / monotonic**;
+- legacy English crop markers — **0**;
+- recovery-touched continuations — **PASS**.
+
+### Post-recovery correction 1 — scan p.35: restore the licence target
+
+Pre-recheck repaired English:
+
+`Even if Ministers themselves go and open them, licences will not be issued to them—that is the strict order.`
+
+Final Tamil:
+
+`அமைச்சர்களே போய்த் திறந்து வைத்தாலும் அதற்கு லைசென்சுகள் வழங்கப் பட்ட மாட்டாது என்பது கண்டிப்பான உத்தரவு.`
+
+Focused Gate G:
+
+`Even if Ministers themselves go and inaugurate it, licences will not be issued for it—that is the strict order.`
+
+The earlier English changed Tamil `அதற்கு` (“for it”) into a person-directed `to them`, and `திறந்து வைத்தாலும்` is better represented in this inauguration context as **inaugurate it**.
+
+### Post-recovery correction 2 — scan p.35: remove duplicated transition
+
+The repair pass accidentally produced:
+
+`Thus, Thus, I place before the House these particulars relating to 157,000 pattas.`
+
+Final Tamil has one concluding `ஆக,`.
+
+Focused Gate G corrected the English to:
+
+`Thus, I place before the House these particulars relating to 157,000 pattas.`
+
+This is a mechanical repair artifact correction, not a new interpretation.
+
+## Focused post-recovery Gate-G result
+
+- repaired pages reviewed: **11 / 11**;
+- definite corrections in focused recheck: **2**;
+- unresolved English fidelity questions: **0**;
+- legacy crop markers in canonical English: **0**;
+- `verified_against_tamil`: **true**;
+- post-recovery Gate G: **PASS / COMPLETE**.
+
+Historical pre-recovery Gate G remains documented with **15** corrections. With the two focused post-recovery corrections, the repository now records **17 cumulative definite English fidelity corrections across both review eras**, while keeping the historical and post-recovery counts distinct.
+
+Exact next activity: **Gate-H canonical bilingual integrity / release revalidation**. Do not resume Unit 2 in the same iteration.
+
