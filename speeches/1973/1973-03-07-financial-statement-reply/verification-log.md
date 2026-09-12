@@ -908,3 +908,53 @@ Post-recovery Gate-G status:
 
 Exact continuation: **Gate H — canonical bilingual integrity / release revalidation for Unit 1**. Do not resume Unit 2 in the same iteration.
 
+## Post-recovery Gate H — canonical bilingual release revalidation
+
+Status: **PASS / RELEASED**
+
+Canonical integrity checks:
+
+- Tamil source-page markers **4–40** — **37 / 37, exactly once, strictly monotonic**;
+- English source-page sections **4–40** — **37 / 37, exactly once, strictly monotonic**;
+- Tamil legacy `⟦scan-crop⟧` markers — **0**;
+- English legacy `⟦scan-crop⟧` markers — **0**;
+- Tamil→English merge transition — **PASS / no duplicate source layer / no omitted canonical page section**;
+- post-recovery Tamil payload remains the final focused Gate-E-verified Tamil — **PASS**;
+- post-recovery English payload remains the focused Gate-G-verified English — **PASS**.
+
+Recovery-touched boundaries — **9 / 9 PASS**:
+
+- 4→5;
+- 5→6;
+- 20→21;
+- 21→22;
+- 25→26;
+- 26→27;
+- 27→28;
+- 34→35;
+- 35→36.
+
+Historical Gate-G boundary repairs remain intact:
+
+- 37→38 — Thiru Subbu intervention boundary — **PASS**;
+- 39→40 — `ஆரிய மாயை` verse boundary — **PASS**.
+
+Other release checks:
+
+- scan-13 small cartoon-label hold remains explicit / unchanged;
+- `translation.md` remains a retired pointer and was not revived as a second editable English copy;
+- canonical Tamil and English each retain **37/37** mapped Unit-1 pages;
+- work metadata / README, machine-readable speech index and root speech index are synchronized in this revalidation sequence;
+- Gate H introduced **0 new Tamil corrections** and **0 new English corrections**.
+
+## Gate H final result
+
+- Gate H: **PASS / REVALIDATED AFTER CROP RECOVERY**
+- Tamil `verified_against_scan=true`
+- English `verified_against_tamil=true`
+- Unit 1 release status: **RELEASED**
+- unresolved Tamil fidelity questions: **0**
+- unresolved English fidelity questions: **0**
+
+Exact continuation: **Unit 2 / 8-3-1973 / `சட்டமன்ற மேலவையில்` — Gate D completeness audit D1, scans 41–50 / printed pp.40–49**. Do not begin Gate E in the same iteration.
+
