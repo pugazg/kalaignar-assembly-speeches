@@ -2,317 +2,179 @@
 
 ## Repository
 
-`pugazg/kalaignar-assembly-speeches` — branch `main`
+`pugazg/kalaignar-assembly-speeches`, branch `main`.
 
-**LIVE MAIN IS AUTHORITATIVE.** Fetch live `main` first in every continuation and preserve newer durable work.
+**LIVE MAIN IS AUTHORITATIVE.** Fetch live `main` first and preserve newer durable work.
 
-Active source package:
+Checkpoint before this handover rewrite:
 
-`sources/1973-irulum-oliyum/`
+`996f2e7fdae5f3d373ad784451a614f2b2df0b6d` — `Set next crop recovery page to scan 5`
 
-Released Unit 1 reader-facing entry:
+## Active work
 
-`speeches/1973/1973-03-07-financial-statement-reply/`
+Current priority is **Unit 1 post-release crop recovery, one booklet page per iteration**.
 
-## Controlling source
+Unit 1 had previously passed Gate H and was released. It is now legitimately reopened because a newly supplied official TNLA Assembly Debates volume provides primary-source text for wording physically lost at the gutter of the `இருளும் ஒளியும்` scan.
 
-The only transcription/verification authority for this work is:
+**Unit 2 Gate D is paused.**
+
+## Source hierarchy
+
+### Primary controlling publication
 
 `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`
 
-Locked identity:
-
-- physical scans: **64**
-- file size: **101,602,456 bytes**
+- 64 scans
+- 101,602,456 bytes
 - SHA-256: `0330e70d6d7a62e2c84d712966a8436b91956d722134bc71ca0b2329283f8694`
-- publication title: `இருளும் ஒளியும்`
-- cover attribution: `தமிழக முதல்வர் டாக்டர் மு. கருணாநிதி`
-- issuing body: `செய்தி, மக்கள் தொடர்புத்துறை, தமிழ்நாடு அரசு`
-- place/date: `சென்னை, 16-3-1973`
-- printer: `தமிழரசு அச்சகம்`
-- image-only controlling source; source pixels outrank OCR/context
-- do not commit the PDF
+- Unit 1: scans **4–40** / printed pp. **3–39**
+- Unit 2: scans **41–62** / printed pp. **40–61**
+- visible booklet pixels remain controlling
 
-## Locked source structure
+### Official crop-recovery witness
 
-| Scan pages | Printed pages | Classification |
-|---:|---:|---|
-| 1 | — | cover |
-| 2 | — | title/photo |
-| 3 | — | `பதிப்புரை` / source preface |
-| 4–40 | 3–39 | Unit 1 — `சட்டப் பேரவையில்`, dated 7-3-1973 |
-| 41–62 | 40–61 | Unit 2 — `சட்டமன்ற மேலவையில்`, dated 8-3-1973 |
-| 63 | — | printer/imprint |
-| 64 | — | back cover / later donor sticker |
+`927193.pdf`
 
-Canonical Unit 1 ID:
+- Tamil Nadu Legislative Assembly Debates
+- sitting date: **7 March 1973**
+- 119 PDF pages
+- 184,860,788 bytes
+- SHA-256: `b56b0e2d70fb64ec026312ca62d925cb2ef7df32feb8a9578848df97461c54b4`
+- Karunanidhi reply begins around TNLA PDF p.86 / proceedings p.484
 
-`1973-03-07-financial-statement-reply`
+### Recovery rules
 
-Canonical Unit 2 ID is mapped as:
+1. Booklet pixels win wherever legible.
+2. TNLA may supply only text physically missing because of gutter crop.
+3. Do not normalize visible booklet wording to TNLA.
+4. Do not recover from OCR alone.
+5. Never reconstruct from grammar/context.
+6. Preserve exact booklet page boundaries.
+7. Record page-specific provenance in `crop-recovery-audit.md`.
 
-`1973-03-08-financial-statement-reply`
+## Recovery inventory
 
-**Unit 1 is now released through Gate H. Unit 2 is the next active archival unit; do not reopen Unit 1 without genuinely new contrary source evidence.**
+Original actual Tamil `⟦scan-crop⟧` markers:
 
-## Mandatory workflow documents
+| Scan | Count |
+|---:|---:|
+| 4 | 38 |
+| 5 | 16 |
+| 10 | 29 |
+| 11 | 16 |
+| 20 | 41 |
+| 21 | 29 |
+| 25 | 38 |
+| 26 | 37 |
+| 27 | 38 |
+| 34 | 6 |
+| 35 | 37 |
 
-Read before continuation:
+Original total: **325**.
 
-1. `docs/ARCHIVAL_WORKFLOW.md`
-2. `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-3. this handover
-4. `sources/1973-irulum-oliyum/mapping.md`
-5. `speeches/1973/1973-03-07-financial-statement-reply/README.md`
-6. `speeches/1973/1973-03-07-financial-statement-reply/metadata.json`
-7. `speeches/1973/1973-03-07-financial-statement-reply/verification-log.md`
-8. `speeches/1973/1973-03-07-financial-statement-reply/historical-glyph-audit.md`
-9. `speeches/1973/1973-03-07-financial-statement-reply/completeness-audit.md`
-10. `speeches/1973/1973-03-07-financial-statement-reply/source-fidelity-audit.md`
+Bulk CR1 populated scans **4, 5, 10 and 11**, removing **99** markers. Remaining actual markers: **226** on scans **20–21, 25–27, 34–35**.
 
-## Unit 1 durable gate state
+The user then changed the workflow to **strict page-by-page revalidation**. Bulk-populated pages do not count as individually closed until their own turns.
 
-`சட்டப் பேரவையில்` / 7-3-1973 / scans **4–40** / printed pp. **3–39**
+## Page 4 — PASS / CLOSED
 
-- Gate A — **PASS**
-- Gate B — **PASS / LOCKED**
-- Gate C — **COMPLETE**
-- Gate C.5 historical Tamil glyph audit — **PASS / COMPLETE**
-  - 5 corrections after retrospective Gate-E reconciliation
-  - 0 unresolved glyph clusters
-- Gate D Tamil completeness audit — **PASS / COMPLETE**
-  - 37/37 source-page markers, scans 4→40
-  - 0 completeness corrections
-- Gate E Tamil source-fidelity verification — **PASS / COMPLETE**
-  - E1 scans 4–13 — PASS, 0 corrections
-  - E2 scans 14–23 — PASS, 2 corrections
-  - E3 scans 24–33 — PASS, 3 corrections
-  - E4 scans 34–40 — PASS, 4 corrections
-  - cumulative Gate-E corrections: **9**
-  - unresolved new Gate-E fidelity questions: **0**
-  - `transcription.verified_against_scan=true`
-- Gate F English translation — **COMPLETE**
-  - F1 scans 4–13 / printed pp.3–12 — **COMPLETE**
-  - F2 scans 14–23 / printed pp.13–22 — **COMPLETE**
-  - F3 scans 24–33 / printed pp.23–32 — **COMPLETE**
-  - F4 scans 34–40 / printed pp.33–39 — **COMPLETE**
-  - coverage: **37 / 37 pages**
-  - working file: `speeches/1973/1973-03-07-financial-statement-reply/translation.md`
-  - source-page sequence: **4→40 exactly once and in order**
-- Gate G English fidelity/voice review — **PASS / COMPLETE**
-  - G1 scans **4–13** / printed pp. **3–12** — **PASS**
-  - G2 scans **14–23** / printed pp. **13–22** — **PASS**
-  - G3 scans **24–33** / printed pp. **23–32** — **PASS**
-  - G4 scans **34–40** / printed pp. **33–39** — **PASS**
-  - reviewed: **37 / 37 pages**
-  - cumulative Gate-G corrections: **15**
-  - unresolved English fidelity issues: **0**
-  - English `verified_against_tamil=true`
-- Gate H canonical merge/index/release — **PASS / COMPLETE**
-  - canonical `transcript.md` contains verified Tamil followed by verified English
-  - Tamil markers 4→40 exactly once/in order
-  - English source-page sections 4→40 exactly once/in order
-  - `translation.md` retired to pointer
-  - Unit 1 release — **RELEASED**
+Booklet scan **4** / printed p.**3** has been individually revalidated.
 
-## Historical-glyph corrections
+Durable checkpoints:
 
-Accepted and canonical:
+- `fc5735436e30009bb2f6d82e7908610f8209cf82` — revalidated page-4 transcript
+- `380462a399c0ed1d543856a6fd7e9c91df754f49` — page-4 recovery audit
+- `eed0f0b487b963755e8eda0e2d23735d61860964` — page-by-page metadata state
+- `bb415982708f2eb123629c7fb18cfd593490fe4b` — README advanced to page 5
 
-1. scan 4 / printed p.3: `பெறுமல்` → `பெறாமல்` — first occurrence
-2. scan 4 / printed p.3: `பெறுமல்` → `பெறாமல்` — second occurrence
-3. scan 12 / printed p.11: `மாற்றுந்தாய்` → `மாற்றாந்தாய்`
-4. scan 36 / printed p.35: `பத்துப் பாயிண்டுகளே வைத்துக்கொண்டு` → `பத்துப் பாயிண்டுகளை வைத்துக்கொண்டு` — retrospective Gate-E E4 `ளை` reconciliation
-5. scan 40 / printed p.39: `நெருக்கடிகளே அலட்சியப்படுத்தாமல்` → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்` — retrospective Gate-E E4 `ளை` reconciliation
+Result:
 
-Do not reopen without direct contrary source-pixel evidence.
-
-## Gate E corrections
-
-1. scan 14 / printed p.13:
-   - `மதிப்புக்குரிய முதலமைச்சர் அவர்கள் திரு கோபால்`
-   - → `மதிப்புக்குரிய முதலமைச்சரவர்கள் திரு கோபால்`
-
-2. scan 21 / printed p.20 illustration:
-   - `வரிசலுகை`
-   - → `வரி ஏய்ப்பு`
-
-3. scan 31 / printed p.30 illustration:
-   - `கைத்தறியாளர்களுக்குத் நூல்கள் அரசு நேரிடை விநியோகம்`
-   - → `கைத்தறியாளர்களுக்கு நூல்கள் அரசு நேரிடை விநியோகம்`
-
-4. scan 32 / printed p.31 illustration:
-   - `விவசாயத்திற்கும் மின்சாரம்`
-   - → `விவசாயத்திற்கு மின்சாரம்`
-
-5. scan 33 / printed p.32 body:
-   - `மின் வெட்டு நிலமை`
-   - → `மின் வெட்டு நிலைமை`
-
-6. scan 36 / printed p.35:
-   - `பத்துப் பாயிண்டுகளே வைத்துக்கொண்டு`
-   - → `பத்துப் பாயிண்டுகளை வைத்துக்கொண்டு`
-
-7. scan 39 / printed p.38:
-   - `பொது வாழ்வில் எப்படி இருக்கவேண்டும்`
-   - → `பொது வாழ்வில் எப்படி யிருக்கவேண்டும்`
-
-8. scan 40 / printed p.39 verse:
-   - `வன்கண் நாதா போற்றி !`
-   - → `வன்கண நாதா போற்றி !`
-
-9. scan 40 / printed p.39 closing paragraph:
-   - `நெருக்கடிகளே அலட்சியப்படுத்தாமல்`
-   - → `நெருக்கடிகளை அலட்சியப்படுத்தாமல்`
-
-## Known source-condition holds
-
-Physical gutter loss is present on:
-
-- scans 4–5
-- scans 10–11
-- scans 20–21
-- scans 25–27
-- scans 34–35
-
-Unrecoverable text is marked `⟦scan-crop⟧` and must **not** be reconstructed from grammar, memory, parallel text, OCR or outside sources.
-
-Scan 13 contains a cartoon. Confident labels are represented; smaller labels remain unresolved where the source pixels do not support a secure reading.
-
-These are source-condition holds, not Gate-E fidelity failures.
-
-## Printed English rule
-
-Printed English already present in the source belongs to the verified Tamil/source layer and must remain verbatim.
-
-During Gate F, translate the Tamil source text into English but **do not rewrite or paraphrase source-printed English passages**; carry them through faithfully in their original wording and placement.
-
-## Active batch policy
-
-Process **10 scan pages per iteration**.
-
-If fewer pages remain before a locked gate or speech boundary, process only the remainder. Never cross a gate or speech boundary merely to fill the batch.
-
-## Gate F progress
-
-F1, F2, F3 and F4 are **COMPLETE** through the locked Unit-1 end at **scan p.40 / printed p.39**.
-
-- F1: scans **4–13** / printed pp. **3–12** — 10 pages;
-- F2: scans **14–23** / printed pp. **13–22** — 10 pages;
-- F3: scans **24–33** / printed pp. **23–32** — 10 pages;
-- F4: scans **34–40** / printed pp. **33–39** — 7 pages;
-- cumulative coverage: **37 / 37 Unit-1 pages**;
-- English source-page sequence: **4→40, exactly once and in order**;
-- inherited `⟦scan-crop⟧` source-loss markers remain explicit and unreconstructed, including scans 34–35;
-- source-printed English in the earlier pages remains verbatim;
-- F4 stops exactly at scan p.40; Unit 2 was not entered;
-- `translation.status=verified`;
-- `translation.verified_against_tamil=true`;
-- Gate G is **PASS / COMPLETE — 37 of 37 pages reviewed / 15 corrections / 0 unresolved / English verified**.
-
-## Gate G result
-
-Gate G re-read the **entire English translation against the final verified Tamil page by page** under the active bounded iteration policy:
-
-- G1 — scans **4–13** / printed pp. **3–12** — **PASS**
-- G2 — scans **14–23** / printed pp. **13–22** — **PASS**
-- G3 — scans **24–33** / printed pp. **23–32** — **PASS**
-- G4 — scans **34–40** / printed pp. **33–39** — **PASS**
-
-Final result:
-
-- reviewed pages: **37 / 37**
-- definite Gate-G corrections: **15**
-- unresolved fidelity issues: **0**
-- English `verified_against_tamil=true`
-- Gate G: **PASSED**
-- G4 corrections: scan 36 removes administrative normalization of `தாழ்த்தப்பட்ட மக்கள்`; scan 37→38 restores Thiru Subbu's physical page boundary; scan 38 removes an unsupported extra category from the book/party sentence; scan 39→40 restores the physical boundary inside the `ஆரிய மாயை` verse;
-- crop holds on scans 34–35 remain explicit and unreconstructed;
-- the `முடிப்புரை` closes exactly at scan p.40 / printed p.39;
-- Unit 2 remains untouched.
-
-Review ledger: `speeches/1973/1973-03-07-financial-statement-reply/translation-review.md`.
-
-## Unit 1 post-release crop recovery
-
-New official evidence is available from **Tamil Nadu Legislative Assembly Debates, 7 March 1973** (`927193.pdf`, SHA-256 `b56b0e2d70fb64ec026312ca62d925cb2ef7df32feb8a9578848df97461c54b4`).
-
-This evidence authorizes reopening released Unit 1 **only for physical gutter-loss recovery and downstream bilingual revalidation**.
-
-Workflow is now **page by page**.
-
-### Page 4 / printed p.3 — PASS / VERIFIED
-
-- former page-4 crop markers reviewed: **38**
+- old page-4 crop markers reviewed: **38**
 - direct missing-fragment recoveries: **10**
-- crop markers remaining on page 4: **0**
+- markers remaining: **0**
 - source line breaks preserved
-- no contextual/grammar-only reconstruction
-- TNLA evidence: PDF pp. **86–87** / proceedings pp. **484–485**
-- cross-page boundary confirmed: scan 4 ends `சுதந்திரக்`; scan 5 begins `கட்சியின் சார்பில் ...`
+- figures **81 / 175 / 38 / 58 / 43** checked
+- `திரு தங்கமணி வழக்கு` checked
+- boundary confirmed: scan 4 ends `சுதந்திரக்`; scan 5 starts `கட்சியின் சார்பில்...`
+- contextual guesses: **0**
+- global replacements: **0**
 
-Exact next page: **scan 5 / printed p.4**.
+## Exact next activity — scan 5 only
 
-Unit 2 Gate D D1 is paused until Unit-1 crop recovery, Tamil revalidation, English repair/fidelity review and Gate-H revalidation are complete.
+Process **booklet scan 5 / printed p.4** and stop.
 
-## Unit 2 durable gate state
+Current scan-5 state:
 
-`சட்டமன்ற மேலவையில்` / 8-3-1973 / scans **41–62** / printed pp. **40–61**
+- original crop markers: **16**
+- current markers: **0**, because bulk CR1 already populated the gutter text
+- **NOT YET individually revalidated**
+- TNLA witness: mainly PDF p. **87** / proceedings p. **485**
 
-- Gate A — **PASS at source-package level**
-- Gate B — **PASS / LOCKED**
-- Gate C — **COMPLETE**
-  - C1 scans **41–50** / printed pp. **40–49** — **COMPLETE**
-  - C2 scans **51–60** / printed pp. **50–59** — **COMPLETE**
-  - C3 scans **61–62** / printed pp. **60–61** — **COMPLETE**
-  - cumulative coverage: **22 / 22 pages**
-  - source-page markers: **41→62 exactly once and in order**
-  - Unit-2 Gate-C crop holds: **0**
-  - scan 62 closes with `வணக்கம்` and the printed closing ornament
-  - scan 63 printer/imprint; scan 64 back cover; no third speech follows
-- Gate C.5 historical-glyph audit — **PASS / COMPLETE**
-  - HG1 scans **41–50** / printed pp. **40–49** — **PASS** — 1 correction
-  - HG2 scans **51–60** / printed pp. **50–59** — **PASS** — 1 correction
-  - HG3 scans **61–62** / printed pp. **60–61** — **PASS** — 0 corrections
-  - reviewed: **22 / 22 pages**
-  - cumulative corrections: **2**
-  - unresolved glyph clusters: **0**
-- Gate D — **NEXT / NOT STARTED**
-- Gates D–H — **NOT STARTED / downstream**
-- Tamil status — **Gate-C complete / not verified**
-- English — **blocked**
-- canonical folder: `speeches/1973/1973-03-08-financial-statement-reply/`
+Verify:
 
-## Gate C source notes
+- continuation `கட்சியின் சார்பில்...`
+- Hande / Ananthanayaki / Ponnappa Nadar passages
+- Congress governance comparison
+- `20 ஆண்டுக் காலம்`
+- `62 நாட்கள்`
+- booklet-supported illustration text
+- page end `பாளையங்`
+- scan 6 begins `கோட்டைச் சிறைச்சாலையில்...`
 
-- scans 41–62 were visually transcribed from the controlling source in three bounded batches;
-- no physical crop-loss hold was required anywhere in Unit 2 Gate C;
-- illustrations on scans 43–44 did not justify inventing additional labels;
-- source-printed English on scan 50 and the legal/constitutional passages on scans 52–55 are retained verbatim;
-- scan 61 continues the Dindigul-election discussion and contains the heading `மாற்றம்!`;
-- scan 62 closes the Council reply with the State-autonomy argument, final acknowledgements, `வணக்கம்`, and the printed closing ornament;
-- scan 63 was confirmed as printer/imprint matter and scan 64 as the back cover;
-- historical Tamil typeforms have been audited through the full Unit-2 range **41–62**; Gate C.5 is PASS / COMPLETE with **2 corrections** and **0 unresolved glyph clusters**;
-- released Unit 1 was not reopened.
+Do **not** process scan 10 in the same iteration.
 
-## Exact next activity
+## Required files
 
-Continue **Unit 1 post-release crop recovery, page-by-page — scan 5 / printed p.4**.
+Read before scan-5 work:
 
-Rules:
+1. this handover
+2. `docs/NEXT_CHAT_PROMPT_1973_IRULUM_OLIYUM.md`
+3. `speeches/1973/1973-03-07-financial-statement-reply/crop-recovery-audit.md`
+4. `speeches/1973/1973-03-07-financial-statement-reply/transcript.md`
+5. `speeches/1973/1973-03-07-financial-statement-reply/metadata.json`
+6. `speeches/1973/1973-03-07-financial-statement-reply/README.md`
+7. `speeches/1973/1973-03-07-financial-statement-reply/verification-log.md`
+8. `speeches/1973/1973-03-07-financial-statement-reply/source-notes.md`
 
-- controlling source remains `TVA_BOK_0064058_இருளும்_ஒளியும்.pdf`;
-- official TNLA 7-3-1973 proceedings are used only for text physically absent at the gutter;
-- preserve visible booklet wording, punctuation, numerals and physical line breaks;
-- do not normalize to TNLA wording where the booklet is legible;
-- record every recovered fragment in `crop-recovery-audit.md`;
-- do not proceed beyond scan 5 in the same iteration;
-- Unit 2 Gate D remains paused.
+If either PDF is missing in the new chat, retrieve it from conversation/Library before asking the user to upload again.
 
-## Last archival-content checkpoint before this handover update
+## Remaining page sequence
 
-`bb415982708f2eb123629c7fb18cfd593490fe4b`
+After scan 5, continue exactly one page per iteration:
 
-Message: `Advance Unit 1 crop recovery to page 5`
+**10 → 11 → 20 → 21 → 25 → 26 → 27 → 34 → 35**
 
-The handover/next-chat documentation commits are newer than this content checkpoint. Always fetch live `main` first.
+After all affected pages are individually revalidated:
+
+1. whole-Tamil crop-recovery integrity audit;
+2. Gate-E Tamil fidelity recheck for affected pages/spans;
+3. English repair/retranslation for recovered spans;
+4. Gate-G English fidelity recheck;
+5. Gate-H canonical bilingual revalidation;
+6. restore RELEASED only after all checks pass;
+7. resume Unit 2 Gate D D1.
+
+## Current Unit 1 release state
+
+- `transcription.status = crop-recovery-in-progress`
+- `transcription.verified_against_scan = false`
+- Gate E — recheck required
+- English `verified_against_tamil = false`
+- Gate G — recheck required
+- Gate H — reopened
+- release — recovery in progress
+
+## Unit 2 paused state
+
+`சட்டமன்ற மேலவையில்` / 8-3-1973:
+
+- Gate A — PASS
+- Gate B — PASS / LOCKED
+- Gate C — COMPLETE — 22/22
+- Gate C.5 — PASS / COMPLETE — 22/22
+- historical-glyph corrections — 2
+- unresolved glyph clusters — 0
+- Gate D — NOT STARTED / PAUSED
+- English — BLOCKED
+
+Do not resume Unit 2 until Unit-1 crop recovery/revalidation is complete.
