@@ -1,6 +1,6 @@
 # English translation — நமது விளக்கம்
 
-> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F first-pass translation is **PASS / COMPLETE — scans 4–60 / 57/57 pages**. Gate G page-by-page fidelity review is **IN PROGRESS — G1–G2 scans 4–23 COMPLETE, 20/57 reviewed, 8 cumulative English fidelity refinements, 0 blocking issues**.
+> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F first-pass translation is **PASS / COMPLETE — scans 4–60 / 57/57 pages**. Gate G page-by-page fidelity review is **IN PROGRESS — G1–G3 scans 4–33 COMPLETE, 30/57 reviewed, 15 cumulative English fidelity refinements, 0 blocking issues**.
 
 ---
 
@@ -344,7 +344,7 @@ Even though the Central Government has provided Rs. 70 or 80 crore for this year
 
 > **Source illustration note:** Beside a large book representing the Tamil Nadu Chief Minister's Budget Statement, an editorial illustration depicts a Government carrying the burden of poor people.
 
-From where should these plans be planned? Generally, plans are drawn up from above and sent down here. Because that arrangement is not suited to creating the proper, healthy conditions needed for our plans to function in our State, we have created a Planning Committee at the State level.
+Where should these plans be formulated? Generally, plans are drawn up from above and sent down here. Because that arrangement is not suited to creating the proper, healthy conditions needed for our plans to function in our State, we have created a Planning Committee at the State level.
 
 When I placed the Interim Budget before this House, I explained this. The Planning Committee has now been constituted and has begun to carry out its work in a proper manner.
 
@@ -362,11 +362,11 @@ The State Planning Committee was discussed here. Thiru Thangamani said that the 
 
 When the State Planning Committee was formed, the other States looked upon it with some shock. Today we see every State coming forward to establish a Planning Committee. It is a good development that Planning Minister Thiru C. Subramaniam has also spoken welcoming this.
 
-When Thiru Ponnappa Nadar spoke, he remarked that it was while our Thiru Subramaniam was a Minister at the Centre that the currency was devalued. He referred to Thiru C. Subramaniam, but did not mention that Thiru Ashok Mehta too was a reason for
+When Thiru Ponnappa Nadar spoke, he remarked that it was while our Thiru Subramaniam was a Minister at the Centre that the currency was devalued. He referred to Thiru C. Subramaniam, but did not mention that Thiru Ashok Mehta too was also responsible for
 
 <!-- source-page: 26 -->
 
-it. Thiru Ponnappa Nadar knows where he is now; he is on their side. Apart from that, this devaluation took place when the highly respected leader Kamaraj was President of the All India Congress.
+it. Thiru Ponnappa Nadar knows where he is now; he is right by his side. Apart from that, this devaluation took place when the highly respected leader Kamaraj was President of the All India Congress.
 
 The point is not when it was done! In those days, Congress members sat in this House to the extent of pleading the Central Government's case. But it is our “good fortune” that they have now come to the point of accusing the Central Government. I am delighted; I am thrilled.
 
@@ -434,7 +434,7 @@ I have just cited what he wrote on page 53 of that book under the heading “The
 
 **Chief Minister:** This book was published in '68. Already in '68 the time had ripened. But I find it amusing that in '71 the time has supposedly not ripened.
 
-We too are not saying that the Central Government should become weak. He has gone one step beyond us and, supporting East Pakistan's war of liberation, is even supporting its breaking away from Pakistan as a separate part.
+We too are not saying that the Central Government should become weak. He has gone one step beyond us and, supporting East Pakistan's war of liberation, is even supporting its breaking away from Pakistan as a separate entity.
 
 But I wish to remind you that the State autonomy we ask for here involves not the slightest desire to break away separately, apart from the question of the extent of powers. The difficulties we face in our relations and friendship with the Central Government
 
@@ -476,7 +476,7 @@ As far as the Dravida Munnetra Kazhagam is concerned, there is no 'personality c
 
 <!-- source-page: 32 -->
 
-from the leaders down to the cadres, we regard ourselves as one family and live as elder and younger brothers. I wish to point out, therefore, that there is not even the slightest room here for personal adulation or personal praise.
+from the leaders down to the cadres, we regard ourselves as one family and relate to one another as elder and younger brothers. I wish to point out, therefore, that there is not even the slightest room here for personal adulation or personal praise.
 
 In reply, my dear friend Veerasami took great pains to bring books and show them, asking, “Is there no picture of Kamaraj in this? Is there no picture of Nehru?”
 
@@ -490,7 +490,7 @@ This is a picture that appeared in our Government journal `Madras Information` i
 
 That is not all. A new Governor arrives in the State; the Governor's picture is printed first, and the next picture printed is Rajaji's. I do not know whether this is a 'personality cult' or not.
 
-In journals such as `Kalaimagal` and `Kalki`, and especially in `Kalki`, which was closely connected with him, when he assumed office as Governor-General he was described in terms such as “Janaka Maharaja on the throne” and “Janaka Rajarishi.”
+In journals such as `Kalaimagal` and `Kalki`, and especially in `Kalki`, which was associated with him, when he assumed office as Governor-General he was described in terms such as “Janaka Maharaja on the throne” and “Janaka Rajarishi.”
 
 ### The story of making Rajaji a god!
 
@@ -500,7 +500,7 @@ That is not all. In 1952, when Rajaji moved a confidence motion in this House, I
 
 “What is the purpose of this resolution? Its purpose is to prove that this Ministry is not, like the Ministries before it, made up of ordinary people—people of no distinction—but that this Ministry is extraordinary and is functioning under the leadership of a supreme statesman.
 
-“The present course of the Congress is to begin a cult of leadership. We saw this even in the last election. Did the Congress ask for votes on the Five-Year Plan? Whether donkey or horse, it was said that a vote cast for a Congress candidate was a vote cast for the great leader Nehru. But this doctrine of leadership worship did not take hold in the South. The Congress therefore found it necessary to seek a saviour from the South. Rajaji himself fostered this new mode of worship. Rajaji spoke of himself as an instrument chosen by God—as God's plenipotentiary messenger.
+“The present course of the Congress is to begin a cult of leadership. We saw this even in the last election. Did the Congress ask for votes on the Five-Year Plan? Whether the candidate was a donkey or a horse, it was said that a vote cast for a Congress candidate was a vote cast for the great leader Nehru. But this doctrine of leadership worship did not take hold in the South. The Congress therefore found it necessary to seek a saviour from the South. Rajaji himself fostered this new mode of worship. Rajaji spoke of himself as an instrument chosen by God—as God's plenipotentiary messenger.
 
 ### “I myself am God.”
 

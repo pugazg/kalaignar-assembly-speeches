@@ -2,9 +2,9 @@
 
 ## Status
 
-**Gate G IN PROGRESS — G1–G2 COMPLETE.**
+**Gate G IN PROGRESS — G1–G3 COMPLETE.**
 
-Gate F first-pass English is complete for **57/57 pages, scans 4–60**. Gate G has reviewed **20/57 pages** through scans **4–23 / implied printed pp.3–22**.
+Gate F first-pass English is complete for **57/57 pages, scans 4–60**. Gate G has reviewed **30/57 pages** through scans **4–33 / implied printed pp.3–32**.
 
 ## Review authority
 
@@ -20,8 +20,8 @@ Do not use OCR, booklet pixels, web research, or the Assembly/Council Official R
 |---|---:|---:|---|---:|
 | G1 | 4–13 | implied 3–12 | **complete** | 0 |
 | G2 | 14–23 | 13–22 | **complete** | 0 |
-| G3 | 24–33 | 23–32 | next | — |
-| G4 | 34–43 | 33–42 | pending | — |
+| G3 | 24–33 | 23–32 | **complete** | 0 |
+| G4 | 34–43 | 33–42 | next | — |
 | G5 | 44–53 | 43–52 | pending | — |
 | G6 / FINAL | 54–60 | 53–59 | pending | — |
 
@@ -82,4 +82,32 @@ Checks passing without change:
 
 Verified Tamil changes during G2: **none**. Official Report / OCR / booklet-pixel / web wording used: **none**.
 
-Exact next: **Gate G G3 — scans 24–33 / printed pp.23–32**.
+## G3 — scans 24–33 / printed pp.23–32
+
+Status: **COMPLETE — 10/10 pages / 0 blocking fidelity issues**
+
+Seven reader-facing English refinements were applied from the verified Tamil only:
+
+1. **scan 24** — `From where should these plans be planned?` → `Where should these plans be formulated?` to remove an English tautology while preserving `இந்தத் திட்டங்கள் எங்கிருந்து திட்டப்பட வேண்டும்?`;
+2. **scan 25→26** — `was a reason for it` → `was also responsible for it` for `அதற்குக் காரணம்`, preserving the page-spanning syntax and making the responsibility claim idiomatic without adding outside context;
+3. **scan 26** — `he is on their side` → `he is right by his side` for `அவர் பக்கத்தில்தான் இருக்கிறார்`, correcting the plural possessive and retaining the source's pointed humour;
+4. **scan 29** — `breaking away from Pakistan as a separate part` → `breaking away from Pakistan as a separate entity` for `பாகிஸ்தானிலிருந்து விடுபட்டுத் துண்டாகப் பிரியவேண்டும்`, avoiding an unclear English referent;
+5. **scan 32** — `live as elder and younger brothers` → `relate to one another as elder and younger brothers` for `அண்ணன்-தம்பிகளாகப் பழகி வருகிறவர்கள்`;
+6. **scan 32** — `Kalki, which was closely connected with him` → `Kalki, which was associated with him` for `அவருக்குத் தொடர்புடைய, கல்கியில்`, removing the unsupported intensifier `closely`;
+7. **scan 33** — `Whether donkey or horse` → `Whether the candidate was a donkey or a horse` to make explicit the source-controlled referent in `கழுதையானாலும் குதிரையானாலும் காங்கிரஸ் வேட்பாளருக்குப் போடும் ஓட்டு`.
+
+Checks passing without change:
+
+- source-page markers **24→33** and page order;
+- page-spanning syntax **25→26, 29→30 and 31→32**;
+- all headings in the range;
+- speaker/intervention material on scans **27 and 29**;
+- all State-plan figures, dates, money amounts, road counts and historical year references;
+- State Planning Committee / Central Planning Commission, Administrative Reforms Committee, Centre-State relations, Rajamannar Committee and State-autonomy terminology;
+- illustration/context notes on scans **24, 28 and 31**;
+- Charles Lamb / pork anecdote, Rajaji quotations, classroom humour and personality-cult passages;
+- no omission/addition requiring Tamil change.
+
+Verified Tamil changes during G3: **none**. Official Report / OCR / booklet-pixel / web wording used: **none**.
+
+Exact next: **Gate G G4 — scans 34–43 / printed pp.33–42**.

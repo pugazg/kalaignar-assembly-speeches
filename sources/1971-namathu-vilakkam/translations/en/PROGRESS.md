@@ -2,14 +2,14 @@
 
 ## Current status
 
-**Gate F PASS / COMPLETE — Gate G IN PROGRESS / G1–G2 COMPLETE.**
+**Gate F PASS / COMPLETE — Gate G IN PROGRESS / G1–G3 COMPLETE.**
 
 - verified Tamil prerequisite — **PASS / COMPLETE 57/57**;
 - Gate F first-pass translation — **57/57 pages complete**;
 - completed range — **scans 4–60 / implied printed pp.3–59**;
 - F1–F6 translation questions — **0 blocking**;
 - English `verified_against_tamil` — **false**;
-- Gate G — **IN PROGRESS — G1–G2 scans 4–23 COMPLETE; 20/57 reviewed; 8 refinements; 0 blocking fidelity issues**;
+- Gate G — **IN PROGRESS — G1–G3 scans 4–33 COMPLETE; 30/57 reviewed; 15 refinements; 0 blocking fidelity issues**;
 - Official Report wording used — **none**.
 
 ## Gate-F tracker
@@ -91,8 +91,8 @@
 |---|---:|---|---:|---:|
 | G1 | 4–13 | **complete** | 5 | 0 |
 | G2 | 14–23 | **complete** | 3 | 0 |
-| G3 | 24–33 | next | — | — |
-| G4 | 34–43 | pending | — | — |
+| G3 | 24–33 | **complete** | 7 | 0 |
+| G4 | 34–43 | next | — | — |
 | G5 | 44–53 | pending | — | — |
 | G6 / FINAL | 54–60 | pending | — | — |
 
@@ -117,4 +117,18 @@
 - figures, money, percentages, employment counts, headings, illustration notes and page-spanning syntax — **PASS**;
 - Official Report / OCR / booklet pixels / web wording used — **none**.
 
-Exact next: **Gate G G3 — scans 24–33 / printed pp.23–32**.
+## G3 notes
+
+- reviewed scans **24–33 / 10 pages**, cumulative **30/57**;
+- reader-facing English refinements — **7 / cumulative 15**;
+- blocking fidelity issues — **0**;
+- verified Tamil changes — **none**;
+- scan 24 planning-question tautology removed without changing meaning;
+- scans 25→26 Ashok Mehta responsibility wording and Ponnappa Nadar side-reference clarified;
+- scan 29 East-Pakistan separation wording made idiomatic without external reconciliation;
+- scan 32 brotherhood wording and `Kalki` association tightened to the Tamil;
+- scan 33 donkey/horse line made explicit that the referent is the Congress candidate;
+- page-spanning syntax **25→26, 29→30, 31→32**, interventions, headings, figures, money, illustration notes, State-planning/Centre-State terminology and historical quotations — **PASS**;
+- Official Report / OCR / booklet pixels / web wording used — **none**.
+
+Exact next: **Gate G G4 — scans 34–43 / printed pp.33–42**.

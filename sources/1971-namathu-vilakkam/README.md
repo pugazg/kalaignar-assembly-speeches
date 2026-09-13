@@ -86,7 +86,7 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 - Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
 - Gate E — **PASS / COMPLETE — 57/57 verified; 101 corrections; 0 unresolved source-fidelity questions**
 - Gate F — **PASS / COMPLETE — F1–F6 scans 4–60; 57/57 translated; 0 blocking questions**
-- Gate G — **IN PROGRESS — G1–G2 scans 4–23 COMPLETE; 20/57 reviewed; 8 refinements; 0 blocking fidelity issues**
+- Gate G — **IN PROGRESS — G1–G3 scans 4–33 COMPLETE; 30/57 reviewed; 15 refinements; 0 blocking fidelity issues**
 - Gate H — **BLOCKED / downstream**
 - Tamil verified — **yes**
 - English — **first pass complete / verification next**
@@ -94,4 +94,4 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 
 ## Exact next activity
 
-Gate E and Gate F remain **PASS / COMPLETE**. Gate G G1–G2 is **COMPLETE through scans 4–23 / 20 of 57 pages reviewed**, with **8 cumulative English fidelity refinements** and **0 blocking fidelity issues**; verified Tamil remains unchanged. Exact next activity: **Gate G G3 — scans 24–33 / printed pp.23–32**.
+Gate E and Gate F remain **PASS / COMPLETE**. Gate G G1–G3 is **COMPLETE through scans 4–33 / 30 of 57 pages reviewed**, with **15 cumulative English fidelity refinements** and **0 blocking fidelity issues**; verified Tamil remains unchanged. Exact next activity: **Gate G G4 — scans 34–43 / printed pp.33–42**.
