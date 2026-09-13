@@ -81,7 +81,7 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / LOCKED**
 - Gate C — **PASS / COMPLETE — T1–T6 scans 4–60 / 57 of 57 pages**
-- Gate C.5 — **IN PROGRESS — C.5-1–5 scans 4–53 COMPLETE; 50/57 audited; 107 cumulative corrections**
+- Gate C.5 — **PASS / COMPLETE — C.5-1–6 scans 4–60; 57/57 audited; 129 cumulative corrections across 109 source sites**
 - Gate D–H — **BLOCKED / downstream**
 - Tamil verified — **no**
 - English — **blocked**
@@ -89,4 +89,4 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 
 ## Exact next activity
 
-Gate C remains **COMPLETE — 57/57**. Gate C.5-1–5 audited **scans 4–53 / 50 pages**, with **107 cumulative definite corrections across 90 source sites**. No new unresolved readings were introduced; **2 unresolved readings remain** (scans 11 and 37). Exact next activity: **Gate C.5-6 / FINAL scans 54–60 / printed pp.53–59**. Do not start Gate D.
+Gate C remains **COMPLETE — 57/57**. Gate C.5 is now **PASS / COMPLETE — scans 4–60 / 57 of 57 pages**, with **129 cumulative definite corrections across 109 source sites**. Two unresolved readings remain explicitly marked (scans 11 and 37). Exact next activity: **Gate D — Tamil completeness audit** over the locked 57-page body. Do not start Gate E in the same iteration.

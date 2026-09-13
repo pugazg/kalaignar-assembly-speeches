@@ -66,7 +66,7 @@ Gate C.5 is mandatory.
 - Gate A — PASS
 - Gate B — PASS / LOCKED
 - Gate C — PASS / COMPLETE — T1–T6 scans 4–60 / 57 of 57 pages
-- Gate C.5 — **IN PROGRESS — C.5-1–5 scans 4–53 COMPLETE; 50/57 audited; 107 cumulative corrections**
+- Gate C.5 — **PASS / COMPLETE — C.5-1–6 scans 4–60; 57/57 audited; 129 cumulative corrections across 109 source sites**
 - unresolved readings — **2** (scans 11 and 37; scan 31 resolved in C.5-3)
 - Gate D–E — NOT STARTED
 - English — BLOCKED
@@ -74,9 +74,9 @@ Gate C.5 is mandatory.
 
 ## Exact next activity
 
-Begin **Gate C.5-6 / FINAL historical-glyph/source-form audit — scans 54–60 / printed pp.53–59**.
+Begin **Gate D — Tamil completeness audit** over the locked source body scans 4–60 / printed pp.3–59.
 
-Complete the remaining seven body pages directly against the booklet pixels. Preserve the two unresolved readings at scans 11 and 37 unless the controlling pixels are revisited and decisive. Do not global-replace, modernize, import Official Report wording, or begin Gate D in the same iteration.
+Confirm all 57 mapped source pages are represented exactly once, source-page markers 4→60 are unique and monotonic, no page is skipped or duplicated, the locked start/end boundaries are preserved, all printed speaker changes/interventions are represented, and the two unresolved readings at scans 11 and 37 remain explicit. Do not begin Gate E in the same iteration.
 
 ## Gate C T1 — COMPLETE
 
@@ -272,4 +272,22 @@ Exact next: **Gate C.5-5 scans 44–53 / printed pp.43–52**.
 Notable source repairs: scan 44 page-boundary cleanup / இந்தியப் பூராக முழுமைக்கும் / நாம்கூறிட; scan 45 அளவுக்கு நிறைய / source punctuation / சிபாரிசுகளைக்; scan 46 விற்பனைக் கணக்குகள் / விவரங்கள்தான்; scan 47 பேசுகையில் / மது விலக்கு; scan 49 தயக்கத்தினை / பெரு நஷ்டம்; scan 50 6ஆம் / அவர்கள் மீது / ஒன்றைக் / அமல் படுத்துவதாகச்; scan 51 அமல் படுத்துவதற்காகச் / தீர்மானத்தைக்; scan 53 மதிப்பளிக்க வில்லை / தனிக் தோட்டத்திற்கு / தயவுசெய்து / என்ன வேண்டுமானாலும்.
 
 Exact next: **Gate C.5-6 / FINAL scans 54–60 / printed pp.53–59**.
+
+## Gate C.5-6 / FINAL — COMPLETE / PASS
+
+- scans — **54–60 / printed pp.53–59**
+- pages audited — **7**
+- cumulative C.5 — **57/57 / COMPLETE**
+- new corrections — **22 across 19 source sites**
+- cumulative corrections — **129 across 109 source sites**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **2** (scans 11 and 37)
+- source markers — **4→60 exactly once / 57 markers**
+- Gate C.5 — **PASS / COMPLETE**
+- Gate D — **UNBLOCKED / NEXT**
+- Gate E — **BLOCKED**
+
+Notable source repairs: scan 55 குல்ஹாபூரில்; scan 57 இலங்கையிலே / வால்மீகி ராமனை / மடவாரில் ஓதை / ரத்தின சாமி / சுகாதார; scan 58 வருபவனால் / ஆபத்துக் கிடையாதாம் / பொருந்தும் / வசூலிப்பதில் / குடித்துக் கொண்டேதான் / மாறு பட்ட; scan 59 எங்கேயோ; scan 60 உங்களே எல்லாம் / கட்டாயப் படுத்தவும்; plus source-page-boundary dash cleanup at 57→58, 58→59 and 59→60.
+
+Exact next: **Gate D — Tamil completeness audit**. Do not begin Gate E in the same iteration.
 

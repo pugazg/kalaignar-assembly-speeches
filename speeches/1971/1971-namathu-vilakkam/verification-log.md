@@ -278,3 +278,22 @@ Status: **PASS / COMPLETE for this batch**
 
 Exact continuation: **Gate C.5-6 / FINAL scans 54–60 / printed pp.53–59**.
 
+### C.5-6 / FINAL — scans 54–60 / printed pp.53–59
+
+Status: **PASS / COMPLETE for this batch; Gate C.5 COMPLETE**
+
+- pages audited — **7/7**
+- cumulative Gate-C.5 coverage — **57/57 / COMPLETE**
+- new definite textual corrections — **22 across 19 source sites**
+- cumulative Gate-C.5 corrections — **129 across 109 source sites**
+- source authority — rendered scan pixels only
+- global replacement / modernization / outside textual witnesses — **none**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **2** (scans 11 and 37)
+- source-page marker sequence — **4→60 exactly once / 57 markers**
+- Tamil `verified_against_scan=false`
+- Gate D — **UNBLOCKED / NEXT**
+- Gate E — **BLOCKED until Gate D completes**
+
+Exact continuation: **Gate D — Tamil completeness audit**. Do not begin Gate E in the same iteration.
+

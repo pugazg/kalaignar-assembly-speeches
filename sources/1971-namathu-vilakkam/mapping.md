@@ -99,11 +99,11 @@ These are event/provenance records only. They are not complete canonical transcr
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / LOCKED**
 - Gate C — **PASS / COMPLETE — scans 4–60; 57/57 pages; first-pass carried 3 unresolved readings; C.5-3 resolved scan 31, leaving 2**
-- Gate C.5 — **IN PROGRESS — C.5-1–5 scans 4–53 COMPLETE; 50/57 audited; 107 cumulative corrections**
+- Gate C.5 — **PASS / COMPLETE — C.5-1–6 scans 4–60; 57/57 audited; 129 cumulative corrections across 109 source sites**
 - Tamil verification — **blocked until Gate E**
 - English — **blocked until Tamil verification**
 - Gate H / release — **not reached**
 
 ## Exact continuation
 
-Gate C.5-6 / FINAL: audit **scans 54–60 / printed pp.53–59**. C.5-1–5 are complete at **50/57 pages**, with **107 cumulative corrections across 90 source sites** and **2 unresolved readings** remaining (scans 11 and 37). Complete Gate C.5 over the final seven body pages; do not begin Gate D in the same iteration.
+Gate C.5 is **COMPLETE / PASS — 57/57**. Exact continuation: **Gate D — Tamil completeness audit**. Confirm the locked scan 4→60 / printed pp.3→59 body is represented exactly once and in order, start/end align with the locked source map, all speaker changes/interventions are represented, and unresolved markers at scans 11 and 37 remain explicit. Do not begin Gate E in the same iteration.

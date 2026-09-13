@@ -2,7 +2,7 @@
 
 Gate C.5 is **mandatory** for this 1971 source.
 
-Status: **IN PROGRESS — C.5-1–5 scans 4–53 COMPLETE; 50/57 pages audited; 107 cumulative corrections**
+Status: **COMPLETE / PASS — C.5-1–6 scans 4–60 COMPLETE; 57/57 pages audited; 129 cumulative corrections across 109 source sites**
 
 Gate C first-pass Tamil is complete for **scans 4–60 / 57 body pages**.
 
@@ -168,9 +168,29 @@ Notable repairs include scan-44 page-boundary cleanup, source இந்திய
 
 The existing unresolved markers at scans 11 and 37 are unchanged.
 
+## C.5-6 / FINAL — scans 54–60 / printed pp.53–59
+
+Status: **COMPLETE / PASS for this batch**
+
+- pages audited — **7/7**
+- cumulative C.5 — **57/57 / COMPLETE**
+- new definite textual corrections — **22 across 19 source sites**
+- cumulative definite corrections — **129 across 109 source sites**
+- global replacements — **none**
+- modernization — **none**
+- outside textual witnesses imported — **none**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **2** (scans 11 and 37)
+- source-page marker sequence — **4→60 exactly once and monotonic / 57 markers**
+
+Notable final-batch repairs include scan-55 குல்ஹாபூரில்; scan-57 இலங்கையிலே, வால்மீகி ராமனை, Kamba quote மடவாரில் ஓதை, source ரத்தின சாமி / சுகாதார; scan-58 வருபவனால், ஆபத்துக் கிடையாதாம், பொருந்தும், வசூலிப்பதில், குடித்துக் கொண்டேதான், மாறு பட்ட; scan-59 எங்கேயோ; scan-60 உங்களே எல்லாம் and கட்டாயப் படுத்தவும்; plus three source-page-boundary dash cleanups.
+
+Gate C.5 is now **COMPLETE / PASS — 57/57**. The two pre-existing unresolved readings at scans 11 and 37 remain explicitly marked; no unsupported reconstruction was introduced.
+
 ## Exact next activity
 
-**C.5-6 / FINAL scans 54–60 / printed pp.53–59**. Complete the historical-glyph/source-form audit over the remaining seven body pages. Do not begin Gate D in the same iteration.
+**Gate D — Tamil completeness audit** over the locked 57-page body. Confirm every mapped page is represented, markers 4→60 are complete/monotonic/unique, no page is duplicated or skipped, start/end align with the locked map, all printed speaker changes/interventions are represented, and the two unresolved readings remain explicit. Do not begin Gate E in the same iteration.
+
 
 
 
