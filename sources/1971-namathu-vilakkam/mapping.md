@@ -123,4 +123,6 @@ Full ledger: [`cross-witness-audit.md`](./cross-witness-audit.md).
 
 ## Exact continuation
 
-Gate E is **PASS / COMPLETE — scans 4–60 / implied printed pp.3–59, 57/57 verified pages**, with **101 cumulative corrections / 0 unresolved source-fidelity questions**. The terminal scan-60 speech ending and scan-61 non-speech classification pass. Tamil is now verified. Exact continuation: **Gate F F1 — English first-pass translation from the verified Tamil, scans 4–13 / implied printed pp.3–12**.
+Gate E remains **PASS / COMPLETE — 57/57 verified pages**. Gate F F1 is **COMPLETE — scans 4–13 / implied printed pp.3–12, 10/57 translated pages**, with **0 blocking translation questions** and no Official Report wording used. Exact continuation: **Gate F F2 — scans 14–23 / printed pp.13–22**.
+
+- English translation — **IN PROGRESS — Gate F F1 scans 4–13 COMPLETE; 10/57 pages; 0 blocking questions**

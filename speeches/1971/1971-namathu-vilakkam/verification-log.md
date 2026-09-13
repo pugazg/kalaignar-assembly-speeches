@@ -531,3 +531,25 @@ E6 repairs:
 All **57/57** body pages are now source-fidelity verified against the controlling booklet pixels. Source markers **4→60** remain exact, unique and ordered; unresolved source-fidelity questions are **0**; current unresolved readings are **0**. The verified Tamil is now the sole textual authority for English translation. The Official Reports remain provenance material and must not supply English wording.
 
 Exact continuation: **Gate F F1 — English first-pass translation from the verified Tamil, scans 4–13 / implied printed pp.3–12**. Do not begin Gate G in the same iteration.
+
+## Gate F — English translation
+
+### F1 — scans 4–13 / implied printed pp.3–12
+
+Status: **COMPLETE / Gate F remains IN PROGRESS**
+
+- pages translated — **10/10**;
+- cumulative Gate-F coverage — **10/57**;
+- authority — **verified Tamil only**;
+- source-page markers 4→13 — **preserved**;
+- headings / speaker intervention / numerals and figures — **preserved in source order**;
+- illustration/context notes — **scans 8, 9, 11, 13 represented**;
+- scan-11 authorized Tamil emendation — **translated from verified Tamil only**;
+- Official Report wording used — **NO**;
+- blocking translation questions — **0**;
+- English `verified_against_tamil` — **false**;
+- Gate G — **NOT STARTED**.
+
+Non-blocking source-name handling: `கின்ஸ்மாஸ்க்ரேஸ்` is conservatively rendered **Kinsmasgrace** from the verified Tamil; no outside identification was imported.
+
+Exact continuation: **Gate F F2 — scans 14–23 / printed pp.13–22**.

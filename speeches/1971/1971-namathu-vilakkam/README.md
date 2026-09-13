@@ -36,17 +36,18 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 - cross-witness — **COMPLETE / Official Reports aligned; 2 user-authorized Council-record emendations applied at formerly unreadable booklet loci**
 - Gate D — **PASS / COMPLETE — 57/57; 0 completeness corrections; 0 unresolved completeness questions**
 - Gate E — **PASS / COMPLETE — E1–E6 scans 4–60; 57/57 verified; 101 cumulative corrections; 0 unresolved source-fidelity questions**
-- Gate F — **NEXT / READY / NOT STARTED**
+- Gate F — **IN PROGRESS — F1 scans 4–13 COMPLETE; 10/57 translated; 0 blocking questions**
 - Gate G–H — **BLOCKED / downstream**
 - Tamil — **VERIFIED AGAINST CONTROLLING BOOKLET — unresolved readings 0**
-- English — **READY / NOT STARTED**
+- English — **FIRST PASS IN PROGRESS / NOT YET VERIFIED**
 - release — **NOT RELEASED**
 
 ## Files
 
 - [`metadata.json`](./metadata.json)
 - [`source-notes.md`](./source-notes.md)
-- [`transcript.md`](./transcript.md) — Gate-C first-pass Tamil complete for scans 4–60 / 57 pages.
+- [`transcript.md`](./transcript.md) — verified Tamil, scans 4–60 / 57 pages.
+- [`translation.md`](./translation.md) — Gate-F English first pass in progress; F1 scans 4–13 complete.
 - [`verification-log.md`](./verification-log.md)
 - [`historical-glyph-audit.md`](./historical-glyph-audit.md)
 - [`../../../sources/1971-namathu-vilakkam/cross-witness-audit.md`](../../../sources/1971-namathu-vilakkam/cross-witness-audit.md) — Official Report provenance/alignment ledger
@@ -61,4 +62,4 @@ This booklet-level entry is intentionally **not** added to the canonical dated s
 
 ## Exact next activity
 
-Gate E is **PASS / COMPLETE — 57/57 pages verified** with **101 cumulative definite booklet-pixel-supported corrections** and **0 unresolved source-fidelity questions**. E6 added 6 corrections; all final page joins pass, scan 54 interventions pass, scan 60 closes correctly with `நன்றி.` / `வணக்கம்.`, and scan 61 remains non-speech back cover. Tamil is now verified. Exact next: **Gate F F1 — English first-pass translation from verified Tamil, scans 4–13 / implied printed pp.3–12**.
+Gate F F1 is **COMPLETE — scans 4–13 / implied printed pp.3–12, 10/57 pages**. English was translated only from the verified Tamil; page markers, headings, scan-11 intervention, figures and illustration/context notes are preserved; blocking translation questions **0**; no Official Report wording was used. Exact next: **Gate F F2 — scans 14–23 / printed pp.13–22**.

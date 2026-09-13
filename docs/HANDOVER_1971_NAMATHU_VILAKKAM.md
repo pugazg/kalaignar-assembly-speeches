@@ -72,8 +72,8 @@ Gate C.5 is mandatory.
 - Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
 - Gate E — **PASS / COMPLETE — E1–E6 scans 4–60; 57/57 verified; 101 cumulative corrections; 0 unresolved source-fidelity questions**
 - Tamil — **VERIFIED AGAINST CONTROLLING BOOKLET**
-- Gate F — **NEXT / READY / NOT STARTED**
-- English — **READY / NOT STARTED**
+- Gate F — **IN PROGRESS — F1 scans 4–13 COMPLETE; 10/57 translated; 0 blocking questions**
+- English — **FIRST PASS IN PROGRESS / NOT VERIFIED**
 - release — NOT RELEASED
 
 ## Official Report cross-witness — COMPLETE
@@ -96,9 +96,9 @@ Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
 ## Exact next activity
 
-Begin **Gate F F1 — English first-pass translation from the verified Tamil, scans 4–13 / implied printed pp.3–12**.
+Begin **Gate F F2 — English first-pass translation from the verified Tamil, scans 14–23 / printed pp.13–22**.
 
-Use only the now-verified Tamil in `speeches/1971/1971-namathu-vilakkam/transcript.md` as textual authority. Do not translate from OCR, the booklet pixels directly, or either Official Report. Preserve headings, speaker/intervention structure, direct address, repetitions, humour, rhetoric, figures and source order. The two provenance-tagged Official-Record emendations are already part of the verified Tamil; translate the verified Tamil reading without independently consulting those records. Initialize the English translation control records and reader-facing `translation.md` if absent. Do not begin Gate G in the same iteration.
+Use only `speeches/1971/1971-namathu-vilakkam/transcript.md` as textual authority. Continue the reader-facing `translation.md` in booklet order and preserve source-page markers, headings, speaker/intervention structure, direct address, repetitions, humour, rhetoric, names, figures and source order. Do not use either Official Report for English wording. Update `TRANSLATION_PLAN.md`, `PROGRESS.md` and `GLOSSARY.md` as needed. Do not begin Gate G in the same iteration.
 
 ## Gate C T1 — COMPLETE
 
@@ -438,3 +438,19 @@ Exact next: **Gate E E6 / FINAL — scans 54–60 / printed pp.53–59**.
 E6 repairs: scan 54 `நாம் கூறிட` and `வைத்துப்`; scan 56 `எழுதியிருக்கிறார்`; scan 58 source compound `பற்றுப்போய்விட்டது`; scan 59 `நடைபெறாமல்`; scan 60 `உங்களை எல்லாம்`.
 
 Exact next: **Gate F F1 — English first-pass translation, scans 4–13 / implied printed pp.3–12**.
+
+## Gate F F1 — COMPLETE
+
+- scans — **4–13 / implied printed pp.3–12**
+- pages translated — **10 / cumulative 10/57**
+- authority — **verified Tamil only**
+- blocking translation questions — **0**
+- page markers — **4→13 preserved**
+- illustration/context notes — **scans 8, 9, 11, 13 represented**
+- speaker/intervention material — **scan 11 represented**
+- Official Report wording used — **NO**
+- English verified — **NO / Gate G not started**
+
+Translation control records initialized under `sources/1971-namathu-vilakkam/translations/en/`; reader-facing English initialized at `speeches/1971/1971-namathu-vilakkam/translation.md`.
+
+Exact next: **Gate F F2 — scans 14–23 / printed pp.13–22**.
