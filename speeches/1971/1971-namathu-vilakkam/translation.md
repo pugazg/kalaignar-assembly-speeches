@@ -1,6 +1,6 @@
 # English translation — நமது விளக்கம்
 
-> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F is **IN PROGRESS**; F1–F2 scans 4–23 are complete. Gate G has not started.
+> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F is **IN PROGRESS**; F1–F3 scans 4–33 are complete. Gate G has not started.
 
 ---
 
@@ -328,3 +328,186 @@ If Haryana has obtained first place, it is only one-third the area of Tamil Nadu
 ### Electric light in every nook and corner within three years
 
 We are making an earnest effort to bring electric light to every village. I wish to state that, within another two or three years, we will make arrangements to reach a position where there is no village without lighting facilities, and thereby earn your appreciation.
+<!-- source-page: 24 -->
+
+### State Planning Committee
+
+The amount we consider necessary for our State Plan this year is between Rs. 100 crore and Rs. 105 crore. The amount allocated by the Central Government for this year's Plan is only between Rs. 70 crore and Rs. 80 crore.
+
+When speaking about the prohibition issue, should we, as the Leader of the Opposition suggested, reduce Plan expenditure? That is impossible!
+
+### A sound government
+
+If Plan expenditure is reduced, we cannot fulfil the promises we have made to the poor and humble people of this country; we cannot create a sound government.
+
+Even though the Central Government has provided Rs. 70 or 80 crore for this year's Plan expenditure, we have undertaken efforts to spend between Rs. 100 crore and Rs. 105 crore.
+
+> **Source illustration note:** Beside a large book representing the Tamil Nadu Chief Minister's Budget Statement, an editorial illustration depicts a Government carrying the burden of poor people.
+
+From where should these plans be planned? Generally, plans are drawn up from above and sent down here. Because that arrangement is not suited to creating the proper, healthy conditions needed for our plans to function in our State, we have created a Planning Committee at the State level.
+
+When I placed the Interim Budget before this House, I explained this. The Planning Committee has now been constituted and has begun to carry out its work in a proper manner.
+
+<!-- source-page: 25 -->
+
+When this Planning Committee was created at the State level, the newspapers speculated that somehow a State Planning Committee was being formed in opposition to the Central Planning Commission.
+
+I am very happy to see that today, just as a Planning Committee has been created in our State, an initiative has arisen in every State to create such Planning Committees.
+
+What schemes will we implement for our State over ten years? What will the condition of the people be after ten years? What will the standard of education be? What should our economic resources be like? What should our sectors of development be like? It is precisely to examine all these matters, formulate a proper plan for the State, and secure the necessary financial resources from the Central Government that this State Planning Committee has now been constituted and begun its work.
+
+The State Planning Committee was discussed here. Thiru Thangamani said that the functions of the Planning Committee had not been defined. A list of its functions has already been announced and published in the journals. I shall have it supplied to the members as well.
+
+### Other States are following our State Planning Committee
+
+When the State Planning Committee was formed, the other States looked upon it with some shock. Today we see every State coming forward to establish a Planning Committee. It is a good development that Planning Minister Thiru C. Subramaniam has also spoken welcoming this.
+
+When Thiru Ponnappa Nadar spoke, he remarked that it was while our Thiru Subramaniam was a Minister at the Centre that the currency was devalued. He referred to Thiru C. Subramaniam, but did not mention that Thiru Ashok Mehta too was a reason for
+
+<!-- source-page: 26 -->
+
+it. Thiru Ponnappa Nadar knows where he is now; he is on their side. Apart from that, this devaluation took place when the highly respected leader Kamaraj was President of the All India Congress.
+
+The point is not when it was done! In those days, Congress members sat in this House to the extent of pleading the Central Government's case. But it is our “good fortune” that they have now come to the point of accusing the Central Government. I am delighted; I am thrilled.
+
+### Administrative Reforms Committee
+
+Likewise, we believe that many reforms must be carried out in administration. Our Thiru R. Krishnasami Naidu too pointed this out at the last session of the Legislature.
+
+To show how administration works even in small offices, he cited eleven questions concerning a single matter. Here, we have to carry out administrative reform covering many more matters. Though today's administration in Tamil Nadu is at a level worthy of praise, it is not without shortcomings.
+
+The Administrative Reforms Committee has been asked to examine conditions and submit a report with this fundamental objective: the ordinary person in this country must be able to obtain the benefit he needs cheaply, easily and quickly.
+
+In this connection, however much our State may reform its administration, frame plans, and approach problems with an egalitarian outlook, the long-standing demand of the Dravida Munnetra Kazhagam, now the ruling party, is that the State must obtain sufficient powers to implement all of them.
+
+<!-- source-page: 27 -->
+
+### Centre-State Study Committee
+
+In keeping with that long-standing demand, the “Rajamannar” Committee was constituted. It began its work in September 1969, and its report has been submitted to the House.
+
+Almost everyone who has spoken here has welcomed the Rajamannar report on Centre-State relations.
+
+Dr. Hande said that he was going to express some major opinion on this, but said nothing. Perhaps he will speak about it when the Rajamannar Committee report comes up for debate.
+
+When we ask for autonomy for the State and greater powers for the State, it is truly welcome that even the Tamil Nadu Congress Party has passed a resolution saying that the States should receive greater powers.
+
+**Mrs. T. N. Ananthanayaki:** It is not correct to suggest that we passed such a resolution only today. This was said by our party leader Kamaraj as early as 1967. The issue was raised at many conferences. The resolution was passed at the all-India level.
+
+**Chief Minister:** Whoever said it, that is all right; what matters is the time when the resolution was passed, not who said it first. But the States must receive greater powers.
+
+### Veteran statesman Rajaji's view
+
+On the idea that the State should obtain autonomy, veteran statesman Rajaji has expressed a view in the journal `Kalki`.
+
+With the Speaker's permission, I wish to read it out.
+
+<!-- source-page: 28 -->
+
+### Rajaji and Bhaktavatsalam!
+
+A humorous story told by the famous English writer “Charles Lamb”! In ancient times in China, when a house caught fire and burned down, a pig inside it was also roasted and died. The man who touched the animal, unable to bear the heat, put his finger in his mouth. He discovered that roasted pork was very tasty.
+
+Immediately, the people nearby burned down all their houses too, roasted the pigs there and tasted them. And thus, it is said, arose the custom of cooking and eating meat. Some Chief Ministers are behaving in a way that recalls this humorous story. That is, because East Bengal's demand strengthens their own view that State Governments should obtain greater autonomous rights as against the Central Government, these Chief Ministers welcome the turmoil in Bangla Desh,” he has said.
+
+> **Source illustration note:** Beside a book representing the Tamil Nadu Chief Minister's Budget Statement, an editorial illustration shows a crowd of people and the mark `150`.
+
+I regret that, in the list of those who burned down their houses merely to touch and taste pork, Rajaji's words would now require us to include the Tamil Nadu Congress Committee that met yesterday as well.
+
+### The first person to taste the pork
+
+If we ask who first touched a piece of pork and said that it was tasty—
+
+“We must accept that the emergence of a federal structure cannot be avoided. The Indian Constitution that we framed does not appear to have taken this into account.
+
+<!-- source-page: 29 -->
+
+Yet the political history of India after 1947 shows how the temptation to concentrate powers in the Central Government has continued to obstruct matters. An effort is under way to reduce step by step the importance of the regions and to concentrate more and more powers in the Central Government”—the person who said this was Rajaji.
+
+Thus the first person to demonstrate that the pork was tasty was veteran statesman Rajaji. He has written in this manner in the book `Our Democracy`.
+
+I have just cited what he wrote on page 53 of that book under the heading “The tendency to weaken regional government.”
+
+### Supporting it in '58; opposing it in '71—amusing!
+
+**Dr. H. V. Hande:** There is a difference of opinion here. At that time Rajaji asked for greater financial powers for the State. But Rajaji opposes fighting the Central Government over everything. If this spreads to other States, it will not be good.
+
+**Chief Minister:** This book was published in '68. Already in '68 the time had ripened. But I find it amusing that in '71 the time has supposedly not ripened.
+
+We too are not saying that the Central Government should become weak. He has gone one step beyond us and, supporting East Pakistan's war of liberation, is even supporting its breaking away from Pakistan as a separate part.
+
+But I wish to remind you that the State autonomy we ask for here involves not the slightest desire to break away separately, apart from the question of the extent of powers. The difficulties we face in our relations and friendship with the Central Government
+
+<!-- source-page: 30 -->
+
+were explained by me clearly at that time, and I gave detailed answers to all the doubts that arose about them. Therefore, I do not think it necessary to explain the matter at length once again.
+
+### What we won through struggle
+
+No one can say that we never struggled with the Central Government or that we obtained nothing through struggle. Even today I can share a piece of happy news.
+
+With the permission of the Central Government and with its assistance, the Central Government, two days ago, sanctioned Rs. 1½ crore for us to launch an integrated scheme to establish agricultural marketing centres at six places—Thiruthuraipoondi, Kuthalam, Muthur, Vadakudi, Kattumannarkoil and Pattukkottai—and, linked to them, to create 56 village roads. I am very happy to inform the House of this.
+
+Therefore, whenever necessary, we have never shrunk from arguing stubbornly and struggling with the Central Government to obtain what is due to our State.
+
+### The true face of the Swatantra Party!
+
+Dr. Hande levelled the charge: “For everything you keep saying 'State autonomy, State autonomy' and use it to escape from the people—whether it is permission for education, permission for a hospital, or two or three new beds for a hospital—even for all these demands you point to State autonomy and escape.”
+
+Perhaps they may welcome State autonomy. But at the same time they may also accuse us of invoking State autonomy for everything.
+
+<!-- source-page: 31 -->
+
+It is only when the Rajamannar Committee report is debated that, through Dr. Hande, we will be able to see the true face of the Swatantra Party on Centre-State relations.
+
+The person who handed Dr. Hande the Rajamannar report here was Thiru Ponnappa Nadar. He gave it to him and helped him. He said he would weave a pattern around the Rajamannar Committee report, and he did his weaving. I came expecting a magnificent critique today, but I have been disappointed.
+
+### Only the tail is left!
+
+In a school, a teacher was teaching a lesson. One student, instead of paying attention to the lesson, was looking at the wall. There was a small hole in the wall. A rat was entering it. The teacher asked, “Did everything I said go in?” The boy replied, “Only the tail is left.”
+
+> **Source illustration note:** An editorial illustration shows a large money bag marked `Rs. 1½ crore`, supported by a hand labelled `Tamil Nadu Government`, while a hand from above, representing the Central Government, holds it.
+
+In the same way, leaving aside so much in the Rajamannar report, they seized only upon the Chief Minister's photograph printed on the first page and charged, “Is this necessary? Is a 'personality cult' growing?” They spoke as though even people in the ruling party had that feeling, with the thought that perhaps something could be staged here too.
+
+### There is no 'personality cult' in the D.M.K.
+
+As far as the Dravida Munnetra Kazhagam is concerned, there is no 'personality cult'. We have never cultivated among ourselves the feeling that one person is greater than another. In the Dravida Munnetra Kazhagam,
+
+<!-- source-page: 32 -->
+
+from the leaders down to the cadres, we regard ourselves as one family and live as elder and younger brothers. I wish to point out, therefore, that there is not even the slightest room here for personal adulation or personal praise.
+
+In reply, my dear friend Veerasami took great pains to bring books and show them, asking, “Is there no picture of Kamaraj in this? Is there no picture of Nehru?”
+
+That is not what Dr. Hande wanted. When Dr. Hande spoke, he said: “Pictures of Nehru and Kamaraj were published; we opposed even that, and therefore we oppose this too.” So I wish to show the picture he wants.
+
+### When he was Chief Minister . . . . . .
+
+This is a picture that appeared in our Government journal `Madras Information` in 1952, when Rajaji was Chief Minister. Is this a personality cult or not? This humble man does not know.
+
+(The Chief Minister showed the aforesaid picture in the House.)
+
+That is not all. A new Governor arrives in the State; the Governor's picture is printed first, and the next picture printed is Rajaji's. I do not know whether this is a 'personality cult' or not.
+
+In journals such as `Kalaimagal` and `Kalki`, and especially in `Kalki`, which was closely connected with him, when he assumed office as Governor-General he was described in terms such as “Janaka Maharaja on the throne” and “Janaka Rajarishi.”
+
+### The story of making Rajaji a god!
+
+That is not all. In 1952, when Rajaji moved a confidence motion in this House, I think it would be appropriate to quote from the speech made from the Opposition by Thiru Anthony Pillai on that confidence motion:—
+
+<!-- source-page: 33 -->
+
+“What is the purpose of this resolution? Its purpose is to prove that this Ministry is not, like the Ministries before it, made up of ordinary people—people of no distinction—but that this Ministry is extraordinary and is functioning under the leadership of a supreme statesman.
+
+“The present course of the Congress is to begin a cult of leadership. We saw this even in the last election. Did the Congress ask for votes on the Five-Year Plan? Whether donkey or horse, it was said that a vote cast for a Congress candidate was a vote cast for the great leader Nehru. But this doctrine of leadership worship did not take hold in the South. The Congress therefore found it necessary to seek a saviour from the South. Rajaji himself fostered this new mode of worship. Rajaji spoke of himself as an instrument chosen by God—as God's plenipotentiary messenger.
+
+### “I myself am God.”
+
+“If, after a little more time, Rajaji were to say, 'I myself am God,' I would not be surprised. Rajaji asked people to pray for rain—and when rain did fall, some Congressmen began saying that the rain had come only because of Rajaji, and therefore that he was God.
+
+### Why research artificial rain?
+
+“If this is true, a special resolution may be passed asking the Central Government not to spend public money on research into producing artificial rain. Wherever drought distress occurs, it will be enough to send Rajaji there as Chief Minister.”
+
+Thus, at that time Rajaji was elevated to such a position that Thiru Anthony Pillai could accuse him not merely of a “personality cult”, but of having made himself into a god.

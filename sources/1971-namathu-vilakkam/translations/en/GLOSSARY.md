@@ -55,3 +55,22 @@ Controlled terminology for the booklet-only English translation. The verified Ta
 | `ஊதியக் குழு` | `Pay Commission` | Public-pay context. |
 | `யானைப் பசிக்குச் சோளப்பொரி` | `popped maize for an elephant's hunger` | Recurring source metaphor retained literally. |
 | `மின் ஒளி` | `electric light` | Rural electrification context. |
+| `மாநிலத் திட்டக் குழு` | `State Planning Committee` | Source uses `குழு`; retained as Committee rather than importing an external institutional title. |
+| `மத்தியத் திட்டக் குழு` | `Central Planning Commission` | Central planning institution as phrased in context. |
+| `இடைக்கால வரவு செலவுத் திட்டம்` | `Interim Budget` | Fiscal-document context. |
+| `நாணய மதிப்புக் குறைப்பு` | `currency devaluation` | Economic-policy term. |
+| `நிர்வாகச் சீர்திருத்தக் குழு` | `Administrative Reforms Committee` | Source form is `குழு`; no outside renaming. |
+| `மத்திய மாநில ஆய்வுக் குழு` | `Centre-State Study Committee` | Heading-level conservative rendering. |
+| `ராஜமன்னார் குழு` | `Rajamannar Committee` | Source committee name retained. |
+| `மாநில சுயாட்சி` | `State autonomy` | Core political terminology. |
+| `சமஷ்டி அமைப்பு` | `federal structure` | Constitutional quotation. |
+| `பிரதேச ஆட்சி` | `regional government` | Rajaji quotation. |
+| `வேளாண்மை விற்பனைக் கூடம்` | `agricultural marketing centre` | Rural-development scheme. |
+| `பர்சனலிடி கல்ட்` | `personality cult` | Source English-derived political phrase. |
+| `தனியார் தோத்திரம்` / `தனியார் துதி` | `personal adulation` / `personal praise` | Source rhetorical pair retained. |
+| `மெட்ராஸ் இன்பர்மேஷன்` | `Madras Information` | Source journal title transliterated into English. |
+| `கவர்னர் ஜெனரல்` | `Governor-General` | Source office title. |
+| `நம்பிக்கைத் தீர்மானம்` | `confidence motion` | Parliamentary term. |
+| `தலைமை வழிபாடு` | `cult of leadership` / `leadership worship` | Anthony Pillai quotation; wording varies with sentence structure while preserving source rhetoric. |
+| `ரட்சகர்` | `saviour` | Source rhetorical/religious term in Congress leadership passage. |
+| `செயற்கை மழை` | `artificial rain` | Source phrase retained literally. |

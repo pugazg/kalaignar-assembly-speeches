@@ -72,7 +72,7 @@ Gate C.5 is mandatory.
 - Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
 - Gate E — **PASS / COMPLETE — E1–E6 scans 4–60; 57/57 verified; 101 cumulative corrections; 0 unresolved source-fidelity questions**
 - Tamil — **VERIFIED AGAINST CONTROLLING BOOKLET**
-- Gate F — **IN PROGRESS — F1–F2 scans 4–23 COMPLETE; 20/57 translated; 0 blocking questions**
+- Gate F — **IN PROGRESS — F1–F3 scans 4–33 COMPLETE; 30/57 translated; 0 blocking questions**
 - English — **FIRST PASS IN PROGRESS / NOT VERIFIED**
 - release — NOT RELEASED
 
@@ -96,9 +96,9 @@ Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
 ## Exact next activity
 
-Begin **Gate F F3 — English first-pass translation from the verified Tamil, scans 24–33 / printed pp.23–32**.
+Begin **Gate F F4 — English first-pass translation from the verified Tamil, scans 34–43 / printed pp.33–42**.
 
-Use only `speeches/1971/1971-namathu-vilakkam/transcript.md` as textual authority. Continue the reader-facing `translation.md` in booklet order and preserve source-page markers, headings, speaker/intervention structure, direct address, repetitions, humour, rhetoric, names, figures and source order. Do not use either Official Report or web research for English wording. Update `TRANSLATION_PLAN.md`, `PROGRESS.md` and `GLOSSARY.md` as needed. Do not begin Gate G in the same iteration.
+Use only `speeches/1971/1971-namathu-vilakkam/transcript.md` as textual authority. Continue the reader-facing `translation.md` in booklet order and preserve source-page markers, headings, speaker/intervention structure, direct address, repetitions, humour, rhetoric, names, figures and source order. Preserve the verified Tamil reading of the scan-37 provenance-tagged emendation without independently consulting the Official Report. Do not use web research for English wording. Update `TRANSLATION_PLAN.md`, `PROGRESS.md` and `GLOSSARY.md` as needed. Do not begin Gate G in the same iteration.
 
 ## Gate C T1 — COMPLETE
 
@@ -470,3 +470,21 @@ Exact next: **Gate F F2 — scans 14–23 / printed pp.13–22**.
 - English verified — **NO / Gate G not started**
 
 Exact next: **Gate F F3 — scans 24–33 / printed pp.23–32**.
+
+## Gate F F3 — COMPLETE
+
+- scans — **24–33 / printed pp.23–32**
+- pages translated — **10 / cumulative 30/57**
+- authority — **verified Tamil only**
+- blocking translation questions — **0**
+- source-page markers — **24→33 preserved**
+- page-spanning syntax — **25→26, 29→30, 31→32 preserved**
+- speaker/intervention material — **scans 27 and 29 represented**
+- illustration/context notes — **scans 24, 28, 31 represented**
+- historical quotations / chronology — **preserved without external correction**
+- humour / wordplay — **preserved**
+- Official Report wording used — **NO**
+- web/external wording used — **NO**
+- English verified — **NO / Gate G not started**
+
+Exact next: **Gate F F4 — scans 34–43 / printed pp.33–42**.

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1971 நமது விளக்கம் / Gate F F3 English scans 24–33
+# NEXT CHAT PROMPT — 1971 நமது விளக்கம் / Gate F F4 English scans 34–43
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,7 +8,7 @@ Use only the Gate-E-verified Tamil in:
 
 `speeches/1971/1971-namathu-vilakkam/transcript.md`
 
-Do not translate from OCR, booklet pixels, web research, or the 29-06-1971 Assembly / 30-06-1971 Council Official Reports. Those records remain provenance witnesses only.
+Do not translate from OCR, booklet pixels, web research, or the 29-06-1971 Assembly / 30-06-1971 Council Official Reports. Those records remain provenance witnesses only. Scan 37's user-authorized emendation is already incorporated in the verified Tamil; translate that verified Tamil reading only.
 
 ## Durable state
 
@@ -17,7 +17,8 @@ Do not translate from OCR, booklet pixels, web research, or the 29-06-1971 Assem
 - Gate F — **IN PROGRESS**
 - F1 scans 4–13 — **COMPLETE / 10 pages**
 - F2 scans 14–23 — **COMPLETE / 10 pages**
-- cumulative Gate-F coverage — **20/57 pages**
+- F3 scans 24–33 — **COMPLETE / 10 pages**
+- cumulative Gate-F coverage — **30/57 pages**
 - blocking translation questions — **0**
 - reader-facing English — `speeches/1971/1971-namathu-vilakkam/translation.md`
 - translation control records — `sources/1971-namathu-vilakkam/translations/en/`
@@ -27,19 +28,19 @@ Do not translate from OCR, booklet pixels, web research, or the 29-06-1971 Assem
 
 ## Exact next activity
 
-Perform **Gate F F3 — English first-pass translation, scans 24–33 / printed pp.23–32**.
+Perform **Gate F F4 — English first-pass translation, scans 34–43 / printed pp.33–42**.
 
 Requirements:
 
-1. translate only the verified Tamil for scans 24–33;
+1. translate only the verified Tamil for scans 34–43;
 2. append to the existing reader-facing `translation.md` in exact source order and preserve all source-page markers;
-3. preserve headings, speaker labels/interventions, names, figures, money, percentages and source order;
+3. preserve headings, speaker labels/interventions, names, figures, money, percentages, quotations and source order;
 4. preserve Kalaignar's parliamentary voice, repetitions, humour, metaphors, direct address and argumentative rhythm;
-5. do not improve historical/factual claims or silently normalize source wording;
-6. do not use Official Reports or web research to supply English wording;
-7. update `PROGRESS.md` and `GLOSSARY.md` for new terminology or non-blocking source-controlled decisions;
-8. record exact F3 page coverage and any blocking translation questions;
-9. update metadata, README/status, mapping, handover, root status and next prompt;
-10. do **not** begin Gate G in the same iteration.
+5. translate the scan-37 provenance-tagged verified Tamil reading as it stands; do not independently consult the Official Report;
+6. do not improve historical/factual claims or silently normalize source wording;
+7. do not use Official Reports or web research to supply English wording;
+8. update `PROGRESS.md` and `GLOSSARY.md` for new terminology or non-blocking source-controlled decisions;
+9. record exact F4 page coverage and any blocking translation questions;
+10. update metadata, README/status, mapping, handover, root status and next prompt; do **not** begin Gate G.
 
-Expected continuation after F3: **Gate F F4 — scans 34–43 / printed pp.33–42**.
+Expected continuation after F4: **Gate F F5 — scans 44–53 / printed pp.43–52**.

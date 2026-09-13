@@ -574,3 +574,27 @@ Status: **COMPLETE / Gate F remains IN PROGRESS**
 Non-blocking source-controlled choices: `அரிசன` is rendered **Harijan** to preserve the period source register; `வணிக வரம்பு` is conservatively rendered **business limit**; `கம்பவுண்டிங்` as **compounding**; `கிரவுண்ட்` as **ground**; and the beggars' rehabilitation passage preserves the source's `பற்று` wordplay without importing an external explanation.
 
 Exact continuation: **Gate F F3 — scans 24–33 / printed pp.23–32**.
+
+### F3 — scans 24–33 / printed pp.23–32
+
+Status: **COMPLETE / Gate F remains IN PROGRESS**
+
+- pages translated — **10/10**;
+- cumulative Gate-F coverage — **30/57**;
+- authority — **verified Tamil only**;
+- source-page markers 24→33 — **preserved**;
+- source-page-spanning syntax — **25→26, 29→30 and 31→32 preserved in English order**;
+- speaker/intervention pages — **27 and 29 represented**;
+- illustration/context notes — **scans 24, 28 and 31 represented**;
+- State-planning / administrative-reform / Centre-State terminology — **source-controlled and glossary-recorded**;
+- historical quotations and source inconsistencies — **preserved without external correction**;
+- humour / wordplay — **preserved, including the scan-31 'Only the tail is left!' anecdote**;
+- blocking translation questions — **0**;
+- Official Report wording used — **NO**;
+- web/external research used for English wording — **NO**;
+- English `verified_against_tamil` — **false**;
+- Gate G — **NOT STARTED**.
+
+Non-blocking source-controlled choices include `State Planning Committee`, `Administrative Reforms Committee`, `Centre-State Study Committee`, `State autonomy`, `federal structure`, `personality cult`, `Madras Information`, and conservative retention of the source's '58/'68 chronology exactly as printed rather than reconciling it externally.
+
+Exact continuation: **Gate F F4 — scans 34–43 / printed pp.33–42**.

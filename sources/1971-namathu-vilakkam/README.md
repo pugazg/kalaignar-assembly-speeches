@@ -85,7 +85,7 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 - cross-witness — **COMPLETE / 2 user-authorized Council-record emendations applied; current unresolved readings 0**
 - Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
 - Gate E — **PASS / COMPLETE — 57/57 verified; 101 corrections; 0 unresolved source-fidelity questions**
-- Gate F — **IN PROGRESS — F1–F2 scans 4–23 COMPLETE; 20/57 translated; 0 blocking questions**
+- Gate F — **IN PROGRESS — F1–F3 scans 4–33 COMPLETE; 30/57 translated; 0 blocking questions**
 - Gate G–H — **BLOCKED / downstream**
 - Tamil verified — **no**
 - English — **blocked**
@@ -93,4 +93,4 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 
 ## Exact next activity
 
-Gate E remains **PASS / COMPLETE — 57/57**. Gate F F1–F2 is now **COMPLETE through scans 4–23 / 20 of 57 pages**, with **0 blocking translation questions**. English remains controlled solely by the verified Tamil; no Official Report or web wording was used. Exact next activity: **Gate F F3 — scans 24–33 / printed pp.23–32**.
+Gate E remains **PASS / COMPLETE — 57/57**. Gate F F1–F3 is now **COMPLETE through scans 4–33 / 30 of 57 pages**, with **0 blocking translation questions**. English remains controlled solely by the verified Tamil; no Official Report or web wording was used. Exact next activity: **Gate F F4 — scans 34–43 / printed pp.33–42**.
