@@ -2,7 +2,7 @@
 
 Gate C.5 is **mandatory** for this 1971 source.
 
-Status: **IN PROGRESS — C.5-1–3 scans 4–33 COMPLETE; 30/57 pages audited; 51 cumulative corrections**
+Status: **IN PROGRESS — C.5-1–4 scans 4–43 COMPLETE; 40/57 pages audited; 80 cumulative corrections**
 
 Gate C first-pass Tamil is complete for **scans 4–60 / 57 body pages**.
 
@@ -131,8 +131,28 @@ Items 2 and 3 each contain two distinct textual corrections, giving the batch to
 
 The scan-31 uncertainty marker is removed because the scan itself is decisive. The scan-11 and scan-37 uncertainties remain unchanged.
 
+## C.5-4 — scans 34–43 / printed pp.33–42
+
+Status: **COMPLETE / PASS for this batch**
+
+- pages audited — **10/10**
+- cumulative C.5 — **40/57**
+- new definite textual corrections — **29 across 24 source sites**
+- cumulative definite corrections — **80 across 64 source sites**
+- global replacements — **none**
+- modernization — **none**
+- outside textual witnesses imported — **none**
+- scan-37 existing unresolved reading — **RE-INSPECTED / RETAINED**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **2** (scans 11 and 37)
+
+Notable repairs include scan-34 source பர்சனலிடி forms and முதல்வர்; scan-35 restoration of போய்ச் சேர்ந்ததாகக் கூடத் தெரியவில்லை and மைய-மாநில உறவு-ஆய்வுக்; scan-36 accusative கருத்துக்களை; scan-38 source தீர்க்க சிந்தனையின்; scan-39 அதிகாரிகளை, முளைத்துக் கிடக்கும் புல் பூண்டுகளைச், and page-boundary cleanup; scan-40 கேட்டுக் கொண்டிருக்கின்ற / கட்டிக் கொண்டே; scan-41 கூடக் கவலைப்படவில்லை; scan-43 பயனை ஆராய and source-printed ஒப்புக்கொள்ளப்பட்ட வேண்டிய.
+
+The scan-37 Rajaji quotation was re-inspected directly from the booklet pixels at high resolution. The uncertain short phrase remains insufficiently decisive; its existing marker is retained unchanged. Scan 11 also remains unresolved.
+
 ## Exact next activity
 
-**C.5-4 scans 34–43 / printed pp.33–42**. Re-inspect the existing scan-37 Rajaji-quotation uncertainty directly from the booklet pixels. Do not begin Gate D.
+**C.5-5 scans 44–53 / printed pp.43–52**. Do not begin Gate D.
+
 
 

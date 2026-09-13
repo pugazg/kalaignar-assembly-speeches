@@ -241,3 +241,22 @@ Status: **PASS / COMPLETE for this batch**
 
 Exact continuation: **Gate C.5-4 scans 34–43 / printed pp.33–42**. Re-inspect the existing scan-37 uncertainty directly from pixels.
 
+### C.5-4 — scans 34–43 / printed pp.33–42
+
+Status: **PASS / COMPLETE for this batch**
+
+- pages audited — **10/10**
+- cumulative Gate-C.5 coverage — **40/57**
+- new definite textual corrections — **29 across 24 source sites**
+- cumulative Gate-C.5 corrections — **80 across 64 source sites**
+- source authority — rendered scan pixels only
+- global replacement / modernization / outside textual witnesses — **none**
+- scan-37 Rajaji-quotation uncertainty — **re-inspected / retained**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **2** (scans 11 and 37)
+- source-page marker sequence — **4→60 unchanged / 57 markers**
+- Tamil verified_against_scan=false
+- Gate D — **BLOCKED**
+
+Exact continuation: **Gate C.5-5 scans 44–53 / printed pp.43–52**.
+
