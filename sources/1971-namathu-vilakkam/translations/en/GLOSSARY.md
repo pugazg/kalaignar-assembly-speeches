@@ -74,3 +74,18 @@ Controlled terminology for the booklet-only English translation. The verified Ta
 | `தலைமை வழிபாடு` | `cult of leadership` / `leadership worship` | Anthony Pillai quotation; wording varies with sentence structure while preserving source rhetoric. |
 | `ரட்சகர்` | `saviour` | Source rhetorical/religious term in Congress leadership passage. |
 | `செயற்கை மழை` | `artificial rain` | Source phrase retained literally. |
+| `ராஜாஜி ஹால்` | `Rajaji Hall` | Source name retained. |
+| `பூணூல்` | `sacred thread` | Direct cultural-object rendering; no added gloss. |
+| `சுயராஜ்யா` | `Swarajya` | Source newspaper title. |
+| `சம அந்தஸ்துள்ள சுயாட்சி உறுப்புகள் அடங்கிய சமஷ்டி யூனியன்` | `a federal union consisting of autonomous units of equal status` | Scan-37 verified Tamil quotation. |
+| `நடுவர் தீர்ப்பு` | `arbitration` | Cauvery dispute context. |
+| `காவிரி நதிநீர்ப் பிரச்சினை` | `Cauvery river-water dispute` | Source wording. |
+| `வீராணம் திட்டம்` | `Veeranam project` | Source project name. |
+| `செய்திப்படம்` | `newsreel` | Government-film context. |
+| `தணிக்கைக் குழு` / `சென்சார் போர்டு` | `Censor Board` | Film-censorship context. |
+| `ஒட்டக்கூத்தன் பாட்டுக்கு இரட்டைத் தாழ்ப்பாள்` | `a double lock on Ottakoothan's song` | Literal rendering; no external gloss. |
+| `தீவுத் திடல்` | `Island Grounds` | Source place-name rendering. |
+| `மதுவிலக்கு` | `prohibition` | Alcohol-policy context. |
+| `கள்ள மது` | `illicit liquor` | Prohibition passage. |
+| `பி.எஸ்.பி.` | `P.S.P.` | Source abbreviation retained. |
+| `தமிழரசுக் கழகம்` | `Tamil Arasu Kazhagam` | Source organisation name. |

@@ -1,6 +1,6 @@
 # English translation — நமது விளக்கம்
 
-> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F is **IN PROGRESS**; F1–F3 scans 4–33 are complete. Gate G has not started.
+> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F is **IN PROGRESS**; F1–F4 scans 4–43 are complete. Gate G has not started.
 
 ---
 
@@ -511,3 +511,197 @@ That is not all. In 1952, when Rajaji moved a confidence motion in this House, I
 “If this is true, a special resolution may be passed asking the Central Government not to spend public money on research into producing artificial rain. Wherever drought distress occurs, it will be enough to send Rajaji there as Chief Minister.”
 
 Thus, at that time Rajaji was elevated to such a position that Thiru Anthony Pillai could accuse him not merely of a “personality cult”, but of having made himself into a god.
+<!-- source-page: 34 -->
+
+### From newspapers to cinema
+
+That is not all—an A.V.M.-produced film showed Rajaji ploughing with a plough. After all, was he not someone exhausted from ploughing generation after generation?
+
+That is not all. Several English journals even carried pictures showing him washing his own cloth with his sacred thread tucked over his ear.
+
+### After Rajaji, who in the Swatantra Party?
+
+When the charge of a “personality cult” was laid against us and against Perarignar Anna, who had been our guide, I found myself thinking: while Rajaji was still alive, a place was named “Rajaji Hall”. While Rajaji was still alive, his large portrait was unveiled in this very House.
+
+As far as the Swatantra Party in Tamil Nadu is concerned, if there is no Rajaji, who comes after him? Is that not a “personality cult”? In that manner, they have cultivated a “personality cult”. But I am duty-bound to point out here that, in the Dravida Munnetra Kazhagam, if there is no Karunanidhi, there are many others after him.
+
+**Dr. Hande:** My charge is that the Chief Minister himself encourages personal adulation. Earlier, when Seemaisamy spoke in this House, the Chief Minister asked whether it was the head or the tail. I said that this attitude must change and that he must become a democrat.
+
+**Chief Minister:** When I speak later, I wish to make clear whether democracy exists with you or not.
+
+<!-- source-page: 35 -->
+
+### Prime Minister Indira Gandhi's letter
+
+They said, among other things, that it was not even known whether the “Rajamannar Committee” report had reached Delhi. The Rajamannar report did reach there, and I shall read here the letter written by Prime Minister Indira Gandhi on the 22nd.
+
+> New Delhi,  
+> 22nd June 1971.
+>
+> Dear Thiru Karunanidhi,
+>
+> I have received your letter of the 15th June  
+> with which you have sent me a copy of the Centre  
+> State Relations Enquiry Committee. Your Govern-  
+> ment will probably examine the recommendations of  
+> this Report. As you know, the Administrative  
+> Reforms Commission also went into this question  
+> and has already submitted a report, which is under  
+> our consideration. If the views of your Government  
+> on this matter are made available to us, they will  
+> also be taken into account. These are important  
+> issues and we intend to consult all the Chief  
+> Ministers.
+>
+> With regards.
+>
+> Yours Sincerely,  
+> (Sd.) INDIRA GANDHI.
+
+### The Tamil translation of the Prime Minister's letter is as follows:—
+
+New Delhi,  
+June 22, 1971.
+
+Dear Thiru Karunanidhi:
+
+I have received your letter dated June 15 and the copy of the report of the Centre-State Relations Enquiry Committee sent along with it. I think your Government will consider these recommendations. The Administrative Reforms Committee has already examined this matter and submitted its report. We are considering the said report.
+
+<!-- source-page: 36 -->
+
+If you send us the views of your Government on this issue, they too can be taken into consideration.
+
+This is an important issue. We intend to consult all the Chief Ministers about it.
+
+Yours faithfully,  
+Indira Gandhi.
+
+I am genuinely happy to see, even in this letter from the Prime Minister of India, an indication that the Central Government of India is prepared to consider this matter.
+
+### Why the letter was released after a delay
+
+The reason I did not release the letter that arrived on the 22nd until yesterday was that the Tamil Nadu Congress Committee meeting was to be held on the 28th. Had I released it earlier, I feared that perhaps the Tamil Nadu Congress Committee meeting might pass a resolution asking: “Why should the Prime Minister call all the Chief Ministers together and speak to them? Would that not weaken the Central Government?” That is why I held it back.
+
+The Leader of the Opposition is skilled in argument. That is why he set the resolution and Indira Gandhi's letter against each other and spoke as though the letter had come after the resolution. Since I understood that, I have stated here the details of when the letter arrived.
+
+> **Source illustration note:** Beside a large book bearing the words “Tamil Nadu Chief Minister's Budget Statement”, an editorial illustration shows two people walking.
+
+The Rajamannar Committee report, which has stated in what ways the relationship between our Central Government and the State Government should exist and how powers should be distributed,
+
+<!-- source-page: 37 -->
+
+will very soon be debated in the Legislative Assembly and the Legislative Council. Since members will then be offering many useful views, I do not wish to speak about it in detail now.
+
+But I am duty-bound to say just one thing. Even some of the eminent persons who oppose today the policy of State autonomy that we advocate once wrote various articles arguing that autonomy was necessary.
+
+When our friend Swaminathan spoke here, it was a welcome view that he supported the policy that the State Government should receive greater powers. But I still do not know whether there is a united view on this matter within his party.
+
+The respected K. Santhanam has written an article in the newspaper `Swarajya` supporting the Rajamannar Committee report. At the same time, veteran statesman Rajaji has expressed opposition to the policy of State autonomy that the Dravida Munnetra Kazhagam has been strongly advocating.
+
+We are seeing both of these appear in the same newspaper. At this time our friend Swaminathan too has spoken in support of State autonomy.
+
+### An answer for Rajaji
+
+If Rajaji happens to see this and asks, “Why did you speak like this?”, I tell our friend Swaminathan that Rajaji's own book is there to provide the answer. In the book `Our Democracy`, he says:
+
+“Because of the separatist tendency embedded in Indian national life and culture, we must work to create a federal union consisting of autonomous units of equal status. The patriotism that arises from the idea that India is a country without separatist tendencies is a different thing. Therefore, the emergence of a federal structure cannot be avoided
+
+<!-- source-page: 38 -->
+
+—we must accept that.”
+
+Yesterday, when I spoke in the Legislative Assembly, I quoted one part. What I am reading today is cited precisely to show that Rajaji himself had worked for autonomy. Rajaji may offer an explanation for this. He may say, “I have the right today to change what I said then.” I shall place before you what he wrote in his preface.
+
+“I wish to emphasise to readers that everything I have said about the problems contained in this book consists of conclusions reached as the result of deep thought, without the slightest bias.”
+
+That is the view he published in his preface! It is in the book `Our Democracy`. I mentioned the title of the book so that, if our friend Swaminathan is questioned, this may serve as a good weapon.
+
+Today the Central Government intervenes in every affair of the State Governments. But it does not intervene in the matters in which it ought to intervene. That is exactly what our Leader of the Opposition pointed out very forcefully.
+
+### Why is the Central Government delaying?
+
+The Cauvery river-water dispute is a problem in which the Central Government should have intervened and settled matters long ago. From 1968 until today, saying again and again that the issue would be settled, the Chief Minister of Kerala, the Chief Minister of Mysore and the Chief Minister of Tamil Nadu have met repeatedly in Tamil Nadu, and likewise in Delhi and Mysore. Finally, Dr. K. L. Rao, the Central Government Minister who presided over the negotiations, himself accepted that the talks had broken down and, recognising that there was no reason to continue them, said that the matter should be referred to arbitration. Even after saying that, they have been dragging it out for nearly a year.
+
+<!-- source-page: 39 -->
+
+As the Opposition leaders pointed out, when elections were held in Mysore, during the parliamentary election, Prime Minister Indira Gandhi, who went there at the time, boldly said that this issue would be referred to arbitration. We do not understand why they are now intervening and hesitating to refer it to arbitration.
+
+We belong to a party that once demanded the separatist goal that Dravida Nadu should belong to the Dravidians. But, recognising the country's security and the circumstances, we abandoned that very policy of separation. Today we are in charge of this Government. We ask for greater powers. We have the right to ask. But you know that, until we obtain those powers, this Government possesses the discipline to act within the powers as they presently stand.
+
+During Anna's time we held the foundation ceremony for the Veeranam project. But it took nearly 1¼ years to obtain permission for that project. We did not say, “Whether permission comes or not, let us begin anyway,” and start it. But today I wish to ask why the Central Government has forgotten what is happening in Mysore.
+
+### Veeranam is at least a somewhat bigger matter
+
+I want to remind you of one thing. This is a small matter. Around our Fort wall, a great deal of grass and weeds had grown. I called our officials and asked, “Can we not clear those weeds and put in beautiful plants? Can we not grow colourful flowers?” The officials scratched their heads and replied: “This Fort belongs to the Central Government's military. We must obtain their permission to clear these weeds.”
+
+After that, when the then Assistant Minister for Defence, Thiru Krishnu, came to Madras, I personally brought him there, showed him around the Fort and asked: “Please give us permission to clear the grass and weeds growing in front of the Fort and grow good plants there.”
+
+<!-- source-page: 40 -->
+
+He said that he would grant permission and left. We wrote a letter; then, after writing a couple of reminder letters and reminding him again when he later came to Madras, permission was obtained from the Central Government. The grass and weeds were cleared and good plants are now being grown. You see that sight every day.
+
+We sought the Central Government's permission even to clear the grass and weeds around the Fort. Even while asking that we should have powers of our own, we remain disciplined within their authority. But why does the Central Government not watch Mysore's conduct? Today they are going on building dams there without obtaining the approval of the Planning Commission.
+
+### Permission denied to a film
+
+Dams such as Hemavathi, Kabini and Harangi are being built there. There is another curious episode in this. To discuss it, a meeting of all-party leaders was convened in our Ministers' room at the Fort. The Government filmed it as a newsreel. When that newsreel went to the Censor Board for release, the Censor Board refused permission. Do you know why? The film stated that it was a meeting of all-party leaders to examine “the Central Government's delay” in the Cauvery river-water dispute. There was a line to that effect. The Censor Board rejected it, saying that those words should not be there. Permission was refused.
+
+We immediately sent the film from here to the chief authority in Delhi and appealed there. As though putting a double lock on Ottakoothan's song, they said that the reference to the Central Government delaying the matter must be removed. They refused permission for release if the words “the Central Government is delaying” remained.
+
+Later, all-party meetings were held throughout Tamil Nadu. One was held in Madras too. I and the leaders of the other parties took part in Madras. That too was made into a newsreel and sent to the Censor Board. They rejected that as well.
+
+<!-- source-page: 41 -->
+
+Today the Censor Board has authority to that extent. Apparently one must not say that the Central Government is delaying.
+
+But, in a film, one may dress someone to look just like Indira Gandhi and make a picture that appears to mock that lady? When the Censor Board here saw that, did they censor it?
+
+### Can we not do the same in return?
+
+But today they will not permit the words “the Central Government is delaying”. So they do not even care about those things. They think no one must cast even a tiny blemish upon the seat of authority of the Central Government. If they are ashamed of such a blemish, then let them not delay! Let them avoid the delay!
+
+If they do not try to stop the schemes for great dams at Hemavathi, Kabini and Harangi, you tell us tomorrow that a statue of Rajaraja Chola must not be installed at the Brihadeeswarar Temple in Thanjavur—do you think we cannot install Rajaraja Chola's statue at that very place?
+
+At the Island Grounds that are under their control, do you think we cannot announce that an all-party meeting will be held without obtaining their permission? If we announce it and hold the meeting, will the Central Government's police come and drive away our police? I do not understand.
+
+### Must it go 'dark' here too?
+
+We conduct ourselves with civility. We conduct ourselves with restraint. We conduct ourselves peacefully. We conduct ourselves responsibly! If all those are cast aside, I wish to tell the Central Government at this moment that people here too are ready to behave as Mysore does.
+
+I do not remember. I think it was either Assam or West Bengal—one of the two—
+
+<!-- source-page: 42 -->
+
+which announced in one year that, because its demand had not been met, it could not celebrate Independence Day on August 15.
+
+Likewise, if, because of the Kabini and Harangi dams being built in Mysore, the Cauvery dries up and Tamil Nadu is left dry within ten years, we too can say that this year's Independence Day has gone dark—to show that we will not permit Tamil Nadu itself to be darkened in that way!
+
+I ask the Central Government to ensure that none of these things comes to pass. I still believe that a favourable reply will come from the Central Government.
+
+Before resolutions on the Cauvery river-water scheme are passed in the Legislative Assembly on the 8th and in the Legislative Council on the 9th, I believe a favourable reply will come from there. On the basis of that hope, I shall consult all-party leaders on the 7th about all these matters and bring forward that resolution.
+
+### Prohibition policy
+
+The next important subject spoken about in this House was the policy of prohibition. Prohibition is not something in which only we here have failed. In many countries of the world, peoples and Governments have planned to enforce it by law and failed. There is abundant historical evidence of this.
+
+### Prohibition in other countries
+
+In the United States, on January 16, 1919, the Constitution itself was amended and a prohibition law was brought into force. After it had been enforced for eleven years, crimes eventually increased. Illicit liquor could not be stopped. Smuggling increased. Those responsible for enforcing
+
+<!-- source-page: 43 -->
+
+prohibition were described as people taking bribes, and on February 20, 1938, the prohibition law was repealed.
+
+In Finland, a prohibition law was introduced in 1907, and in 1931 a committee was appointed to examine the results of that law. The committee said that drunkenness had increased and that the number of offenders had risen. On the basis of that conclusion, the prohibition law in that country was repealed in 1932.
+
+Norway introduced prohibition in 1919. It was repealed in 1927.
+
+Newfoundland enforced prohibition in 1915. It repealed it in 1924.
+
+Turkey enforced prohibition in 1920. It not only repealed it in 1924; in 1926 the Government itself took up that trade.
+
+I wish to remind the Muslim League members of one thing. Whether one belongs to the Dravida Munnetra Kazhagam, the Congress, the Communist Party, the Muslim League, the P.S.P., the Tamil Arasu Kazhagam, the Swatantra Party, or any other party, as far as the Tamil Nadu Government is concerned, none of us denies that prohibition is something that must be accepted as a matter of principle. There is no room for two different views on that. But we must consider whether it has been possible to enforce it by law.
+
+### Prohibition on a religious basis . . . .
+
+I said this even then. In Muslim countries such as Turkey, Syria, Iraq, Iran, Egypt, Pakistan, Malaysia and Indonesia—countries which, on the basis of the Muslim religion, ought to cherish the policy of prohibition like gold—it has not been possible to enforce prohibition by law. I am not arguing that, merely because there is no law there, every person in those countries goes on drinking. There too, their religion

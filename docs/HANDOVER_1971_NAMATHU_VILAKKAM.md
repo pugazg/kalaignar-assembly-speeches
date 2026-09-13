@@ -72,7 +72,7 @@ Gate C.5 is mandatory.
 - Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
 - Gate E — **PASS / COMPLETE — E1–E6 scans 4–60; 57/57 verified; 101 cumulative corrections; 0 unresolved source-fidelity questions**
 - Tamil — **VERIFIED AGAINST CONTROLLING BOOKLET**
-- Gate F — **IN PROGRESS — F1–F3 scans 4–33 COMPLETE; 30/57 translated; 0 blocking questions**
+- Gate F — **IN PROGRESS — F1–F4 scans 4–43 COMPLETE; 40/57 translated; 0 blocking questions**
 - English — **FIRST PASS IN PROGRESS / NOT VERIFIED**
 - release — NOT RELEASED
 
@@ -96,9 +96,9 @@ Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
 ## Exact next activity
 
-Begin **Gate F F4 — English first-pass translation from the verified Tamil, scans 34–43 / printed pp.33–42**.
+Begin **Gate F F5 — English first-pass translation from the verified Tamil, scans 44–53 / printed pp.43–52**.
 
-Use only `speeches/1971/1971-namathu-vilakkam/transcript.md` as textual authority. Continue the reader-facing `translation.md` in booklet order and preserve source-page markers, headings, speaker/intervention structure, direct address, repetitions, humour, rhetoric, names, figures and source order. Preserve the verified Tamil reading of the scan-37 provenance-tagged emendation without independently consulting the Official Report. Do not use web research for English wording. Update `TRANSLATION_PLAN.md`, `PROGRESS.md` and `GLOSSARY.md` as needed. Do not begin Gate G in the same iteration.
+Use only `speeches/1971/1971-namathu-vilakkam/transcript.md` as textual authority. Continue the reader-facing `translation.md` in booklet order and preserve source-page markers, headings, speaker/intervention structure, direct address, repetitions, humour, rhetoric, names, figures, source-printed English and source order. Do not use either Official Report or web research for English wording. Preserve any source-printed English quirks already verified in Tamil. Update `TRANSLATION_PLAN.md`, `PROGRESS.md` and `GLOSSARY.md` as needed. Do not begin Gate G in the same iteration.
 
 ## Gate C T1 — COMPLETE
 
@@ -488,3 +488,23 @@ Exact next: **Gate F F3 — scans 24–33 / printed pp.23–32**.
 - English verified — **NO / Gate G not started**
 
 Exact next: **Gate F F4 — scans 34–43 / printed pp.33–42**.
+
+## Gate F F4 — COMPLETE
+
+- scans — **34–43 / printed pp.33–42**
+- pages translated — **10 / cumulative 40/57**
+- authority — **verified Tamil only**
+- blocking translation questions — **0**
+- source-page markers — **34→43 preserved**
+- page-spanning syntax — **36→37, 37→38, 41→42 preserved**
+- speaker/intervention material — **scan 34 represented**
+- source-printed English — **scan 35 preserved verbatim**
+- printed Tamil translation of letter — **translated separately in source order**
+- illustration/context note — **scan 36 represented**
+- scan 37 emendation — **translated from verified Tamil only**
+- historical claims/dates — **preserved without external correction**
+- Official Report wording used — **NO**
+- web/external wording used — **NO**
+- English verified — **NO / Gate G not started**
+
+Exact next: **Gate F F5 — scans 44–53 / printed pp.43–52**.

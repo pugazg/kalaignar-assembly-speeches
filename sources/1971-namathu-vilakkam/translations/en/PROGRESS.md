@@ -5,9 +5,9 @@
 **Gate F IN PROGRESS.**
 
 - verified Tamil prerequisite — **PASS / COMPLETE 57/57**;
-- Gate F first-pass translation — **30/57 pages complete**;
-- completed range — **scans 4–33 / implied printed pp.3–32**;
-- F1–F3 translation questions — **0 blocking**;
+- Gate F first-pass translation — **40/57 pages complete**;
+- completed range — **scans 4–43 / implied printed pp.3–42**;
+- F1–F4 translation questions — **0 blocking**;
 - English `verified_against_tamil` — **false**;
 - Gate G — **NOT STARTED / BLOCKED until Gate F completes**;
 - Official Report wording used — **none**.
@@ -19,8 +19,8 @@
 | F1 | 4–13 | **complete** | 0 |
 | F2 | 14–23 | **complete** | 0 |
 | F3 | 24–33 | **complete** | 0 |
-| F4 | 34–43 | next | — |
-| F5 | 44–53 | pending | — |
+| F4 | 34–43 | **complete** | 0 |
+| F5 | 44–53 | next | — |
 | F6 / FINAL | 54–60 | pending | — |
 
 ## F1 notes
@@ -52,4 +52,15 @@
 - no Official Report or web wording was imported;
 - blocking translation questions — **0**.
 
-Exact next: **Gate F F4 — scans 34–43 / printed pp.33–42**.
+## F4 notes
+
+- source-page markers **34→43** are preserved;
+- page-spanning syntax at **36→37, 37→38 and 41→42** remains in source order;
+- scan **35** source-printed English is preserved verbatim, followed by the separately printed Tamil translation rendered into English;
+- scan **37** was translated only from canonical verified Tamil;
+- scan **34** intervention and scan **36** illustration note are represented;
+- historical claims and chronology remain source-controlled;
+- no Official Report or web wording was imported;
+- blocking translation questions — **0**.
+
+Exact next: **Gate F F5 — scans 44–53 / printed pp.43–52**.

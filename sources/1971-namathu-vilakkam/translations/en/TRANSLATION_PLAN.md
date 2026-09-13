@@ -2,7 +2,7 @@
 
 ## Status
 
-**Gate F IN PROGRESS — F1–F3 COMPLETE.**
+**Gate F IN PROGRESS — F1–F4 COMPLETE.**
 
 Reader-facing English is maintained only at:
 
@@ -33,8 +33,8 @@ The raw booklet images, OCR, and the 29-06-1971 Assembly / 30-06-1971 Council Of
 | F1 | 4–13 | implied 3–12 | **COMPLETE** |
 | F2 | 14–23 | 13–22 | **COMPLETE** |
 | F3 | 24–33 | 23–32 | **COMPLETE** |
-| F4 | 34–43 | 33–42 | next |
-| F5 | 44–53 | 43–52 | pending |
+| F4 | 34–43 | 33–42 | **COMPLETE** |
+| F5 | 44–53 | 43–52 | next |
 | F6 / FINAL | 54–60 | 53–59 | pending |
 
 ## Translation rules
@@ -49,4 +49,4 @@ The raw booklet images, OCR, and the 29-06-1971 Assembly / 30-06-1971 Council Of
 
 ## Current continuation
 
-F1–F3 scans **4–33** are complete, **30/57 pages**. Exact next: **Gate F F4 — scans 34–43 / printed pp.33–42**.
+F1–F4 scans **4–43** are complete, **40/57 pages**. Exact next: **Gate F F5 — scans 44–53 / printed pp.43–52**.

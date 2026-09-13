@@ -598,3 +598,28 @@ Status: **COMPLETE / Gate F remains IN PROGRESS**
 Non-blocking source-controlled choices include `State Planning Committee`, `Administrative Reforms Committee`, `Centre-State Study Committee`, `State autonomy`, `federal structure`, `personality cult`, `Madras Information`, and conservative retention of the source's '58/'68 chronology exactly as printed rather than reconciling it externally.
 
 Exact continuation: **Gate F F4 — scans 34–43 / printed pp.33–42**.
+
+### F4 — scans 34–43 / printed pp.33–42
+
+Status: **COMPLETE / Gate F remains IN PROGRESS**
+
+- pages translated — **10/10**;
+- cumulative Gate-F coverage — **40/57**;
+- authority — **verified Tamil only**;
+- source-page markers 34→43 — **preserved**;
+- page-spanning syntax — **36→37, 37→38 and 41→42 preserved**;
+- speaker/intervention material — **scan 34 represented**;
+- source-printed English — **scan 35 preserved verbatim**;
+- separately printed Tamil translation of the Prime Minister's letter — **translated in source order**;
+- illustration/context note — **scan 36 represented**;
+- scan-37 authorized emendation — **translated from verified Tamil only; Official Report not consulted**;
+- historical claims/dates — **preserved without external correction**;
+- blocking translation questions — **0**;
+- Official Report wording used — **NO**;
+- web/external wording used — **NO**;
+- English `verified_against_tamil` — **false**;
+- Gate G — **NOT STARTED**.
+
+Non-blocking source-controlled choices include `Swarajya`, `federal union`, `arbitration`, `Cauvery river-water dispute`, `Veeranam project`, `Censor Board`, `newsreel`, `Island Grounds`, `prohibition`, and literal `a double lock on Ottakoothan's song` for the source cultural phrase without external gloss.
+
+Exact continuation: **Gate F F5 — scans 44–53 / printed pp.43–52**.
