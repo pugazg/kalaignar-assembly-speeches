@@ -445,3 +445,27 @@ Status: **PASS / COMPLETE for this batch; Gate E remains IN PROGRESS**
 Notable E3 repairs include scan 24 `திட்டப்பட`; scan 26 `இந்த நாட்டில் உள்ள`, removal of the unsupported comma before `அளவுக்கு`, and source `பெற்றாக`; scan 27 source-printed `மாநிலத்துக்கு அதிக அதிகாரங்களும்`; scan 28 `வீடுகள் எல்லாம்` / `பன்றிகள்`; scan 29 `எங்களை விட` / `நினைவு படுத்துகிறேன்`; scan 29→30 restoration of the split word `சங்கடங்களில்`; scan 31–33 restoration of source `பர்சனலிடி`; scan 32 `அதிலும் முக்கியமாக`; and scan 33 `ரட்சகரைத்`.
 
 Exact continuation: **Gate E E4 — scans 34–43 / printed pp.33–42**. Do not begin Gate F / English.
+
+### E4 — scans 34–43 / printed pp.33–42
+
+Status: **PASS / COMPLETE for this batch; Gate E remains IN PROGRESS**
+
+- pages reviewed — **10/10**;
+- cumulative Gate-E coverage — **40/57**;
+- E4 definite source-fidelity corrections — **17**;
+- cumulative Gate-E corrections — **78**;
+- unresolved source-fidelity questions — **0**;
+- E4 internal page joins 34→35 through 42→43 — **9/9 PASS**;
+- source-boundary dash repairs — **36→37, 37→38, 41→42**;
+- source-printed English letter on scan 35 — **PASS / verbatim**;
+- illustration/context note on scan 36 — **PASS**;
+- speaker/intervention material on scan 34 — **PASS**;
+- scan 37 Official-Record emendation — **preserved / provenance-tagged / excluded from E4 pixel-correction count**;
+- Official-Record wording newly imported in E4 — **NO**;
+- current unresolved readings — **0**;
+- Tamil `verified_against_scan=false` — **unchanged until Gate E closes**;
+- English / Gate F — **BLOCKED**.
+
+Notable E4 repairs include scan 36 source spacing `ஆகவே தான்`; scan 37 `வழங்க இருக்கின்ற` and `மாநில அரசு அதிக அதிகாரங்கள்`; scan 38 `எடுத்து வைக்கிறேன்`, `முன்னிலை`, `காரணத்தினால்`, `விட்டுவிடவேண்டுமென்று`; scan 39 `கோட்டை மதில்`; scan 40 `சொல்லி விட்டுப்போனார்`, `இரண்டொரு`, `காட்சியினை`, `கலந்து கொண்டோம்`; scan 41 `அவைகள் எல்லாம்`; and scan 42 `ஜனவரித் திங்கள்`.
+
+Exact continuation: **Gate E E5 — scans 44–53 / printed pp.43–52**. Do not begin Gate F / English.

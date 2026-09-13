@@ -70,7 +70,7 @@ Gate C.5 is mandatory.
 - unresolved readings — **0** (scan 31 resolved in C.5-3; scans 11 and 37 resolved post-C.5 from the official Council record by explicit user-authorized emendation)
 - cross-witness — **COMPLETE / 2 documented Official-Record emendations applied**
 - Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
-- Gate E — **IN PROGRESS — E1–E3 scans 4–33 PASS; 30/57 reviewed; 61 cumulative corrections; 0 unresolved source-fidelity questions**
+- Gate E — **IN PROGRESS — E1–E4 scans 4–43 PASS; 40/57 reviewed; 78 cumulative corrections; 0 unresolved source-fidelity questions**
 - English — BLOCKED
 - release — NOT RELEASED
 
@@ -94,9 +94,9 @@ Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
 ## Exact next activity
 
-Begin **Gate E E4 — Tamil source-fidelity verification, scans 34–43 / printed pp.33–42**.
+Begin **Gate E E5 — Tamil source-fidelity verification, scans 44–53 / printed pp.43–52**.
 
-Re-read those ten canonical pages directly against the controlling booklet pixels. Check wording, source spelling/compounds, punctuation, figures/amounts, headings, speaker labels/interventions, page-boundary placement and illustration/context notes. Make only definite source-supported corrections; do not modernize or silently smooth source language. Scan 37 contains the documented user-authorized Council-record emendation; preserve its provenance and do not count it as a booklet-pixel correction unless the booklet pixels independently support it. Do not begin Gate F / English.
+Re-read those ten canonical pages directly against the controlling booklet pixels. Check wording, source spelling/compounds, punctuation, figures/amounts, headings, speaker labels/interventions, page-boundary placement, source-printed English and illustration/context notes. Make only definite source-supported corrections; do not modernize or silently smooth source language. No Official-Record emendation falls inside E5. Do not begin Gate F / English.
 
 ## Gate C T1 — COMPLETE
 
@@ -378,3 +378,21 @@ Exact next: **Gate E E3 — scans 24–33 / printed pp.23–32**.
 - current unresolved readings — **0**
 
 Exact next: **Gate E E4 — scans 34–43 / printed pp.33–42**.
+
+## Gate E E4 — PASS
+
+- scans — **34–43 / printed pp.33–42**
+- pages reviewed — **10 / cumulative 40/57**
+- E4 corrections — **17**
+- cumulative Gate-E corrections — **78**
+- unresolved source-fidelity questions — **0**
+- page joins — **9/9 PASS**
+- boundary repairs — **36→37, 37→38, 41→42**
+- source-printed English — **scan 35 PASS / verbatim**
+- illustration/context note — **scan 36 PASS**
+- speaker/intervention material — **scan 34 PASS**
+- scan 37 Official-Record emendation — **preserved / provenance-tagged / excluded from E4 pixel-correction count**
+- outside wording newly imported — **NO**
+- current unresolved readings — **0**
+
+Exact next: **Gate E E5 — scans 44–53 / printed pp.43–52**.

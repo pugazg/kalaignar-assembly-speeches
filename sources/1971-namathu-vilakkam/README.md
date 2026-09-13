@@ -84,7 +84,7 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 - Gate C.5 — **PASS / COMPLETE — C.5-1–6 scans 4–60; 57/57 audited; 129 cumulative corrections across 109 source sites**
 - cross-witness — **COMPLETE / 2 user-authorized Council-record emendations applied; current unresolved readings 0**
 - Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
-- Gate E — **IN PROGRESS — E1–E3 scans 4–33 PASS; 30/57 reviewed; 61 corrections; 0 unresolved source-fidelity questions**
+- Gate E — **IN PROGRESS — E1–E4 scans 4–43 PASS; 40/57 reviewed; 78 corrections; 0 unresolved source-fidelity questions**
 - Gate F–H — **BLOCKED / downstream**
 - Tamil verified — **no**
 - English — **blocked**
@@ -92,4 +92,4 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 
 ## Exact next activity
 
-Gate D remains **PASS / COMPLETE — 57/57**. Gate E E1–E3 is now **PASS through scans 4–33 / 30 of 57 pages**, with **61 cumulative definite booklet-pixel-supported source-fidelity corrections** and **0 unresolved source-fidelity questions**. E3 added 21 corrections, including source-boundary repairs at 25→26, 29→30 and 31→32; no outside wording was imported in E3. Current unresolved readings: **0**. Exact next activity: **Gate E E4 — scans 34–43 / printed pp.33–42**.
+Gate D remains **PASS / COMPLETE — 57/57**. Gate E E1–E4 is now **PASS through scans 4–43 / 40 of 57 pages**, with **78 cumulative definite booklet-pixel-supported source-fidelity corrections** and **0 unresolved source-fidelity questions**. E4 added 17 corrections, including boundary repairs at 36→37, 37→38 and 41→42; scan 35 English is verbatim and scan 37's authorized Official-Record emendation remains separately tagged. Current unresolved readings: **0**. Exact next activity: **Gate E E5 — scans 44–53 / printed pp.43–52**.
