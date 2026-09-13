@@ -2,14 +2,14 @@
 
 ## Current status
 
-**Gate F PASS / COMPLETE — Gate G IN PROGRESS / G1–G4 COMPLETE.**
+**Gate F PASS / COMPLETE — Gate G IN PROGRESS / G1–G5 COMPLETE.**
 
 - verified Tamil prerequisite — **PASS / COMPLETE 57/57**;
 - Gate F first-pass translation — **57/57 pages complete**;
 - completed range — **scans 4–60 / implied printed pp.3–59**;
 - F1–F6 translation questions — **0 blocking**;
 - English `verified_against_tamil` — **false**;
-- Gate G — **IN PROGRESS — G1–G4 scans 4–43 COMPLETE; 40/57 reviewed; 23 refinements; 0 blocking fidelity issues**;
+- Gate G — **IN PROGRESS — G1–G5 scans 4–53 COMPLETE; 50/57 reviewed; 35 refinements; 0 blocking fidelity issues**;
 - Official Report wording used — **none**.
 
 ## Gate-F tracker
@@ -93,8 +93,8 @@
 | G2 | 14–23 | **complete** | 3 | 0 |
 | G3 | 24–33 | **complete** | 7 | 0 |
 | G4 | 34–43 | **complete** | 8 | 0 |
-| G5 | 44–53 | next | — | — |
-| G6 / FINAL | 54–60 | pending | — | — |
+| G5 | 44–53 | **complete** | 12 | 0 |
+| G6 / FINAL | 54–60 | next | — | — |
 
 ## G1 notes
 
@@ -146,4 +146,21 @@
 - page-spanning syntax **36→37, 37→38, 41→42**, intervention, headings, dates, dam names, illustration note, State-autonomy/Centre-State terminology and prohibition chronology — **PASS**;
 - Official Report / OCR / booklet pixels / web wording used — **none**.
 
-Exact next: **Gate G G5 — scans 44–53 / printed pp.43–52**.
+## G5 notes
+
+- reviewed scans **44–53 / 10 pages**, cumulative **50/57**;
+- reader-facing English refinements — **12 / cumulative 35**;
+- blocking fidelity issues — **0**;
+- verified Tamil changes — **none**;
+- repaired the **43→44** page-spanning religious-tenets sentence;
+- scan 44 now preserves the distinction between relaxing/suspending and repealing the prohibition law; `தீவிரமாகவும்` is rendered from Tamil rather than copied from the adjacent English witness;
+- scan 45 `அஸ்வா` transliteration aligned to verified Tamil;
+- scan 47 intoxicant wording clarified in both Tamil-derived renderings;
+- scan 48 `கடத்தல்காரர்` restored as `smuggler` and `வீராங்கனைகளும்` retained as `women stalwarts`;
+- scan 50 `அலட்சியப்படுத்தும்` no longer inherits the previous editorial's `hesitation` wording;
+- scan 53 public/wordplay and parliamentary-response wording tightened to the verified Tamil;
+- source-printed English on **44, 46, 47, 48** remained verbatim;
+- page-spanning syntax, interventions, headings, figures, percentages, illustration notes, prohibition chronology and Anna-policy exchanges — **PASS**;
+- Official Report / OCR / booklet pixels / web wording used — **none**.
+
+Exact next: **Gate G G6 / FINAL — scans 54–60 / printed pp.53–59**.

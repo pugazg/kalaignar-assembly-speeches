@@ -118,11 +118,11 @@ Full ledger: [`cross-witness-audit.md`](./cross-witness-audit.md).
 - Gate C.5 — **PASS / COMPLETE — C.5-1–6 scans 4–60; 57/57 audited; 129 cumulative corrections across 109 source sites**
 - Gate D completeness — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
 - Tamil source-fidelity verification — **PASS / COMPLETE — Gate E E1–E6 scans 4–60; 57/57 verified; 101 corrections; 0 unresolved**
-- English — **Gate F PASS / COMPLETE; Gate G IN PROGRESS — G1–G4 scans 4–43 COMPLETE; 40/57 reviewed; 23 refinements; 0 blocking fidelity issues**
+- English — **Gate F PASS / COMPLETE; Gate G IN PROGRESS — G1–G5 scans 4–53 COMPLETE; 50/57 reviewed; 35 refinements; 0 blocking fidelity issues**
 - Gate H / release — **not reached**
 
 ## Exact continuation
 
-Gate E and Gate F remain **PASS / COMPLETE**. Gate G G1–G4 is **COMPLETE through scans 4–43 / implied printed pp.3–42, 40/57 reviewed pages**, with **23 cumulative English fidelity refinements / 0 blocking fidelity issues**. Exact continuation: **Gate G G5 — scans 44–53 / printed pp.43–52**.
+Gate E and Gate F remain **PASS / COMPLETE**. Gate G G1–G5 is **COMPLETE through scans 4–53 / implied printed pp.3–52, 50/57 reviewed pages**, with **35 cumulative English fidelity refinements / 0 blocking fidelity issues**. Exact continuation: **Gate G G6 / FINAL — scans 54–60 / printed pp.53–59**.
 
-- English translation — **GATE F PASS / COMPLETE; Gate G IN PROGRESS — G1–G4 scans 4–43 COMPLETE; 40/57 reviewed; 23 refinements; 0 blocking fidelity issues**
+- English translation — **GATE F PASS / COMPLETE; Gate G IN PROGRESS — G1–G5 scans 4–53 COMPLETE; 50/57 reviewed; 35 refinements; 0 blocking fidelity issues**

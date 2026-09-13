@@ -1,6 +1,6 @@
 # English translation — நமது விளக்கம்
 
-> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F first-pass translation is **PASS / COMPLETE — scans 4–60 / 57/57 pages**. Gate G page-by-page fidelity review is **IN PROGRESS — G1–G4 scans 4–43 COMPLETE, 40/57 reviewed, 23 cumulative English fidelity refinements, 0 blocking issues**.
+> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F first-pass translation is **PASS / COMPLETE — scans 4–60 / 57/57 pages**. Gate G page-by-page fidelity review is **IN PROGRESS — G1–G5 scans 4–53 COMPLETE, 50/57 reviewed, 35 cumulative English fidelity refinements, 0 blocking issues**.
 
 ---
 
@@ -704,16 +704,16 @@ I wish to remind the Muslim League members of one thing. Whether one belongs to 
 
 ### Prohibition on a religious basis . . . .
 
-I said this even then. In Muslim countries such as Turkey, Syria, Iraq, Iran, Egypt, Pakistan, Malaysia and Indonesia—countries which, on the basis of the Muslim religion, ought to cherish the policy of prohibition like gold—it has not been possible to enforce prohibition by law. I am not arguing that, merely because there is no law there, every person in those countries goes on drinking. There too, their religion
+I said this even then. In Muslim countries such as Turkey, Syria, Iraq, Iran, Egypt, Pakistan, Malaysia and Indonesia—countries which, on the basis of the Muslim religion, ought to cherish the policy of prohibition like gold—it has not been possible to enforce prohibition by law. I am not arguing that, merely because there is no law there, every person in those countries goes on drinking. There too, they engage in this conduct
 <!-- source-page: 44 -->
 
-is opposed to their religion. In truth, there is no support for such conduct.
+in a manner contrary to their religious tenets. In truth, there is no support for such conduct.
 
 **Thiru K. S. Abdul Wahab:** I wish to state that prohibition is in force in Arabia.
 
 **Chief Minister:** My argument is that it is not enough for it to exist only in Arabia.
 
-By relaxing the law here too, until the Indian Union comes forward to enforce prohibition throughout India, we are not even saying that we are repealing that law. By merely giving it a rest, we cannot say that every person in Tamil Nadu will turn into a drunkard. That is the very point the Muslim League member Moideen made.
+By relaxing the law here too, we are not repealing it. We are only giving it a rest until the Indian Union comes forward to enforce prohibition throughout India. Nor can we say that every person in Tamil Nadu will turn into a drunkard merely because the law is given such a rest. That is the very point the Muslim League member Moideen made.
 
 > **Source illustration note:** Beside a large book titled “Tamil Nadu Chief Minister's Budget Statement”, an editorial illustration shows a person climbing steps marked `1000`.
 
@@ -725,7 +725,7 @@ To examine prohibition, the Central Planning Commission in 1963 established a co
 > the necessary programme to bring about nation-wide Prohibition  
 > speedily and effectively”.
 
-“This House considers that prohibition should be regarded as an inseparable part of the Second Five-Year Plan. It therefore recommends that the Planning Commission formulate the necessary procedures to implement prohibition throughout the country rapidly and effectively.”
+“This House considers that prohibition should be regarded as an inseparable part of the Second Five-Year Plan. It therefore recommends that the Planning Commission formulate the necessary procedures to implement prohibition throughout the country vigorously and effectively.”
 
 <!-- source-page: 45 -->
 
@@ -735,7 +735,7 @@ This committee was constituted in 1963 and an effort was made to introduce prohi
 
 One important recommendation concerned alcohol in ear medicines. It appears that, in one State alone, thousands of pounds of such medicine were consumed. In some States the sales were higher. The committee therefore recommended that this should be controlled. It also recommended controlling the production of 'tinctures' containing excessive quantities of alcohol. The Central Government was unable to implement any of these measures.
 
-The Tek Chand Committee said that many amendments had to be made to the Drugs Act. The Central Government did not heed that either. If medicines such as asava and arishtam are prepared in the proper manner, they can contain only 10 to 12 per cent 'alcohol'. But arishtams, asavas and similar medicines containing 80 to 90 per cent alcohol are being sold. The Tek Chand Committee said that the 'Drugs Act' had to be amended for this. It was not done.
+The Tek Chand Committee said that many amendments had to be made to the Drugs Act. The Central Government did not heed that either. If medicines such as asva and arishtam are prepared in the proper manner, they can contain only 10 to 12 per cent 'alcohol'. But arishtams, asvas and similar medicines containing 80 to 90 per cent alcohol are being sold. The Tek Chand Committee said that the 'Drugs Act' had to be amended for this. It was not done.
 
 ### Restrictions on drinking toddy
 
@@ -788,11 +788,11 @@ This is what the Maharashtra Chief Minister announced on December 31, 1963:
 > Toddy with alcoholic content not exceeding 3·5 percent  
 > will be made freely available.
 
-Beverages containing intoxicating content not exceeding 3·5 per cent would be freely available.
+Beverages containing an intoxicating substance at no more than 3·5 per cent would be freely available.
 
 > **Source illustration note:** An editorial illustration shows three human figures; the small lettering in the image is not guessed.
 
-Toddy containing intoxicating content not exceeding 3·5 per cent would be freely available. Prohibition in Maharashtra was relaxed to that extent.
+Toddy containing an intoxicating substance at no more than 3·5 per cent would be freely available. Prohibition in Maharashtra was relaxed to that extent.
 
 <!-- source-page: 48 -->
 
@@ -805,11 +805,11 @@ The Maharashtra Chief Minister further said:
 > is not the consumer who is only the victim of the evil of  
 > drinking but illicit distillor, the bootlegger and trafficker.”
 
-“Our experience in implementing prohibition over the last fourteen years has created the need to take a more realistic view. The greatest factor working against prohibition is not the drinker—he is merely a victim of the habit. The enemies of the prohibition policy are those who distil illicit liquor, the bootlegger and the seller.” Thus, in 1963, the prohibition policy in Maharashtra was relaxed.
+“Our experience in implementing prohibition over the last fourteen years has created the need to take a more realistic view. The greatest factor working against prohibition is not the drinker—he is merely a victim of the habit. The enemies of the prohibition policy are those who distil illicit liquor, the smuggler and the seller.” Thus, in 1963, the prohibition policy in Maharashtra was relaxed.
 
 ### The Tamil Nadu Congress view at the All India Congress conference
 
-At the All India Congress Committee conference held in the city of Kunaha in 1968, a resolution was passed saying that seven years should be allowed for complete prohibition to be implemented throughout the country. Thiru Nijalingappa was the president at the time. Thiru C. Subramaniam was a representative from Tamil Nadu. Women who followed Gandhian principles, such as Mrs. Sushila Nayar, also took part in that meeting.
+At the All India Congress Committee conference held in the city of Kunaha in 1968, a resolution was passed saying that seven years should be allowed for complete prohibition to be implemented throughout the country. Thiru Nijalingappa was the president at the time. Thiru C. Subramaniam was a representative from Tamil Nadu. Gandhian women stalwarts such as Mrs. Sushila Nayar also took part in that meeting.
 
 The resolution they brought was that, within another seven years from 1968, prohibition should be implemented throughout India. Thiru C. Subramaniam, leader of the Tamil Nadu Congress Party, who participated in that conference, stated that the prohibition issue should not be approached emotionally but in a manner that could actually be implemented in practice.
 
@@ -841,7 +841,7 @@ With the Speaker's permission, I shall read an editorial written at that time by
 
 This is an editorial from `Navasakthi`, published in that newspaper on November 6, 1968.
 
-Today they may write differently. Even so, I draw your attention to the fact that `Navasakthi` wrote then that abandoning it would be most appropriate and that State Chief Ministers should not be blamed merely because many of them had shown hesitation or had not displayed enthusiasm.
+Today they may write differently. Even so, I draw your attention to the fact that `Navasakthi` wrote then that abandoning it would be most appropriate and that State Chief Ministers should not be blamed because many of them had neglected it or had not shown interest.
 
 ### Those who sought to stain Anna then speak of Anna today
 
@@ -899,13 +899,13 @@ Anna bowed to democracy. We too bow to democracy. Therefore, this is Anna's path
 
 **Chief Minister:** We bow to the General Council to which Anna bowed. We are not people who bow only to the 'garden of education'.
 
-**Dr. H. V. Hande:** They deceive the town by invoking Anna's name.
+**Dr. H. V. Hande:** They deceive the public by invoking Anna's name.
 
 (Several members raised points of order.)
 
 **Speaker:** That may be removed from the proceedings.
 
-**Chief Minister:** Please, no. He says that by invoking Anna's name we deceive the town. Whether we deceive the town or not, the town knows. There is no need for the 'oozing mouths' to know.
+**Chief Minister:** Please, no. He says that by invoking Anna's name we deceive the public. Whether we deceive the public or not, the public knows. There is no need for the 'slavering mouths' to know.
 
 (Cries of “Shame, shame”.)
 
@@ -913,13 +913,13 @@ Anna bowed to democracy. We too bow to democracy. Therefore, this is Anna's path
 
 (Several members rose, saying that it was a point of order.)
 
-**Speaker:** I request everyone to sit down. Because the Chief Minister magnanimously said that the statement that they deceive the town may remain in the proceedings, Dr. Hande appears to think he may say anything he wishes. He must withdraw what he has just said—the words, “What standing do you have?”
+**Speaker:** I request everyone to sit down. Because the Chief Minister magnanimously said that the statement that they deceive the public may remain in the proceedings, Dr. Hande appears to think he may say anything he wishes. He must withdraw what he has just said—the words, “What standing do you have?”
 
 **Dr. H. V. Hande:** What must I withdraw?
 
 **Speaker:** You must withdraw the words “What standing do you have?”, which are contrary to the traditions of this House.
 
-**Minister Anbazhagan:** The honourable member must first submit to the Speaker. Only after that, if he wishes to offer any explanation, he may convey it personally to the Speaker. He need not convey it to the House. Nor is there any need for him to exchange his feelings here.
+**Minister Anbazhagan:** The honourable member must first defer to the Speaker. Only after that, if he wishes to offer any explanation, he may convey it personally to the Speaker. He need not convey it to the House. Nor need he express his feelings here.
 
 <!-- source-page: 54 -->
 

@@ -2,9 +2,9 @@
 
 ## Status
 
-**Gate G IN PROGRESS — G1–G4 COMPLETE.**
+**Gate G IN PROGRESS — G1–G5 COMPLETE.**
 
-Gate F first-pass English is complete for **57/57 pages, scans 4–60**. Gate G has reviewed **40/57 pages** through scans **4–43 / implied printed pp.3–42**.
+Gate F first-pass English is complete for **57/57 pages, scans 4–60**. Gate G has reviewed **50/57 pages** through scans **4–53 / implied printed pp.3–52**.
 
 ## Review authority
 
@@ -22,8 +22,8 @@ Do not use OCR, booklet pixels, web research, or the Assembly/Council Official R
 | G2 | 14–23 | 13–22 | **complete** | 0 |
 | G3 | 24–33 | 23–32 | **complete** | 0 |
 | G4 | 34–43 | 33–42 | **complete** | 0 |
-| G5 | 44–53 | 43–52 | next | — |
-| G6 / FINAL | 54–60 | 53–59 | pending | — |
+| G5 | 44–53 | 43–52 | **complete** | 0 |
+| G6 / FINAL | 54–60 | 53–59 | next | — |
 
 ## Review rules
 
@@ -141,4 +141,36 @@ Checks passing without change:
 
 Verified Tamil changes during G4: **none**. Official Report / OCR / booklet-pixel / web wording used: **none**.
 
-Exact next: **Gate G G5 — scans 44–53 / printed pp.43–52**.
+## G5 — scans 44–53 / printed pp.43–52
+
+Status: **COMPLETE — 10/10 pages / 0 blocking fidelity issues**
+
+Twelve reader-facing English fidelity refinements were applied from the verified Tamil only:
+
+1. **scan 43→44** — repaired the page-spanning sentence from the broken `There too, their religion / is opposed to their religion` to `There too, they engage in this conduct / in a manner contrary to their religious tenets`, matching `அங்கேயும் தங்களது மத / மார்க்கத்திற்கு விரோதமான வகையில் இந்தக் காரியத்தில் ஈடுபட்டிருக்கிறார்கள்`;
+2. **scan 44** — recast the law-relaxation passage to preserve the Tamil distinction between **not repealing** the law, **giving it a rest**, and waiting for nationwide prohibition;
+3. **scan 44** — `rapidly and effectively` → `vigorously and effectively` for the separately printed Tamil `தீவிரமாகவும் திறமையாகவும்`; the source-printed English block above it remains untouched;
+4. **scan 45** — source-controlled `அஸ்வா` is now rendered `asva` / `asvas` at both occurrences instead of the expanded `asava` / `asavas`;
+5. **scan 47** — both separately printed Tamil renderings of `போதைப் பொருள் உள்ள` were clarified as `containing an intoxicating substance` rather than the awkward `containing intoxicating content`;
+6. **scan 48** — `bootlegger` → `smuggler` for Tamil `கடத்தல்காரர்`, preventing the adjacent source-printed English block from controlling the Tamil-derived rendering;
+7. **scan 48** — restored the rhetorical force of `வீராங்கனைகளும்` as `Gandhian women stalwarts` in the Sushila Nayar sentence;
+8. **scan 50** — `shown hesitation` → `had neglected it` for the current sentence's `அலட்சியப்படுத்தும்`, rather than importing wording from the preceding editorial passage;
+9. **scan 53** — rendered political idiom `ஊர்` as `the public` rather than literal `the town` throughout the exchange;
+10. **scan 53** — `ஊறு வாயர்கள்` → `slavering mouths`, preserving the insult/humour more naturally than `oozing mouths`;
+11. **scan 53** — `submit to the Speaker` → `defer to the Speaker` for parliamentary `அவைத் தலைவருக்குப் பணிய வேண்டும்`;
+12. **scan 53** — `exchange his feelings here` → `express his feelings here` for `தன் உணர்ச்சிகளை இங்கே பரிமாற`.
+
+Checks passing without change:
+
+- source-page markers **44→53** and page order;
+- page-spanning syntax **43→44, 48→49 and 51→52**;
+- all headings, figures, percentages, dates and money amounts in the range;
+- speaker/intervention material on scans **44, 51, 52 and 53**;
+- illustration/context notes on scans **44, 47 and 52**;
+- prohibition-policy chronology, Tek Chand Committee material, Congress-manifesto/editorial passages, Anna-policy argument and House exchanges;
+- source-printed English blocks on scans **44, 46, 47 and 48** preserved **verbatim**, including `shouldformulate`, `nd encouraged.` and `distillor`;
+- no omission/addition requiring Tamil change.
+
+Verified Tamil changes during G5: **none**. Official Report / OCR / booklet-pixel / web wording used: **none**.
+
+Exact next: **Gate G G6 / FINAL — scans 54–60 / printed pp.53–59**.
