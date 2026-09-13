@@ -664,3 +664,23 @@ Status: **COMPLETE — GATE F CLOSED**
 **PASS / COMPLETE — 57/57 pages populated in English from verified Tamil.**
 
 The reader-facing `translation.md` now contains a continuous source-page sequence **4→60**. Gate F introduced no changes to verified Tamil. English is complete but not yet verified. Exact next: **Gate G G1 — page-by-page English fidelity review against verified Tamil, scans 4–13 / implied printed pp.3–12**.
+
+## Gate G — English fidelity review
+
+### G1 — scans 4–13 / implied printed pp.3–12
+
+Status: **COMPLETE / Gate G remains IN PROGRESS**
+
+- pages reviewed — **10/10**;
+- cumulative Gate-G coverage — **10/57**;
+- reader-facing English refinements — **5**;
+- blocking fidelity issues — **0**;
+- verified Tamil changes — **none**;
+- headings / page order / source-page markers — **PASS**;
+- scan 11 intervention and canonical authorized emendation — **PASS**;
+- figures, money, counts and illustration notes — **PASS**;
+- Official Report / OCR / booklet-pixel / web wording used — **NO**.
+
+Refinements: scan 7 `a good man—a capable man`; scan 8 `goodwill and interest`; scan 10 `ceiling`; scan 12 employment/unemployment problem-frame; scan 13 `is useful only to that extent`.
+
+Exact continuation: **Gate G G2 — scans 14–23 / printed pp.13–22**.

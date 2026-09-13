@@ -57,7 +57,7 @@
     "gate_d": "pass-complete",
     "gate_e": "pass-complete",
     "gate_f": "pass-complete",
-    "gate_g": "next",
+    "gate_g": "in-progress",
     "gate_h": "blocked"
   },
   "transcription": {
@@ -273,8 +273,8 @@
     "gate_d_official_record_emendations_checked": "scans 11 and 37 present, aligned and provenance-tagged",
     "gate_d_unresolved_markers": 0,
     "gate_d_note": "Gate D Tamil completeness audit PASS / COMPLETE for all 57 body scans. Source-page markers 4-60 occur exactly once, are unique and strictly monotonic; all 56 internal page joins are structurally represented; no empty or exact-duplicate page bodies were found; opening and closing boundaries match the locked source map; explicit speaker/intervention material on scans 11, 27, 29, 34, 44 and 51-54 was checked against the booklet and is represented; the two user-authorized Official-Record emendations at scans 11 and 37 remain provenance-tagged; unresolved completeness questions and unresolved reading markers are 0. No Gate-D transcript correction was required.",
-    "next_gate": "G1",
-    "next_activity": "Gate G G1 — page-by-page English fidelity review against verified Tamil, scans 4-13 / implied printed pp.3-12",
+    "next_gate": "G2",
+    "next_activity": "Gate G G2 — page-by-page English fidelity review against verified Tamil, scans 14-23 / printed pp.13-22",
     "gate_e_status": "pass-complete",
     "gate_e_reviewed_scan_pages": "4-60",
     "gate_e_reviewed_printed_pages": "implied 3-59",
@@ -407,7 +407,7 @@
     "gate_e_e6_illustration_context": "none in scans 54-60"
   },
   "translation": {
-    "status": "first-pass-complete",
+    "status": "fidelity-review-in-progress",
     "blocked_until_tamil_verified": false,
     "verified_against_tamil": false,
     "authority": "verified Tamil in speeches/1971/1971-namathu-vilakkam/transcript.md",
@@ -423,7 +423,7 @@
     "reader_facing_file": "speeches/1971/1971-namathu-vilakkam/translation.md",
     "control_directory": "sources/1971-namathu-vilakkam/translations/en/",
     "official_report_wording_used": false,
-    "note": "Gate F PASS / COMPLETE. English first-pass translation covers all 57/57 booklet speech-body pages, scans 4-60 / implied printed pp.3-59. F5 translated scans 44-53 and F6/final translated scans 54-60 from the Gate-E-verified Tamil only. Source-page markers, interventions, source-printed English (including verified quirks), quotations, figures, humour and terminal thanks were preserved in source order. No Official Report wording, OCR, booklet-pixel reconstruction or web wording was used. Blocking translation questions: 0. English remains unverified until Gate G.",
+    "note": "Gate F remains PASS / COMPLETE 57/57. Gate G is IN PROGRESS: G1 scans 4-13 / implied printed pp.3-12 reviewed page by page against verified Tamil, 10/57 pages. Five English fidelity refinements were applied: scan 7 rhetorical `நல்லவர்—வல்லவர்`; scan 8 `ஆர்வம்` as `interest`; scan 10 `உச்சவரம்பு` as `ceiling`; scan 12 the employment/unemployment problem phrasing; scan 13 `பயன்படும்` as `is useful`. Headings, scan-11 intervention and authorized canonical emendation, figures, illustration notes and page boundaries pass. Blocking fidelity issues: 0. No Official Report, OCR, booklet-pixel or web wording was used.",
     "source_printed_english_preserved_scan_pages": "35, 44, 46, 47, 48",
     "f4_official_record_emendation_handling": "scan 37 translated only from canonical verified Tamil; Official Report not consulted for English wording",
     "web_wording_used": false,
@@ -431,9 +431,16 @@
     "f5_completed_page_count": 10,
     "f6_completed_scan_pages": "54-60",
     "f6_completed_page_count": 7,
-    "gate_g_status": "next-not-started",
-    "gate_g_reviewed_page_count": 0,
-    "gate_g_next_batch": "G1 scans 4-13 / implied printed pp.3-12"
+    "gate_g_status": "in-progress",
+    "gate_g_reviewed_page_count": 10,
+    "gate_g_next_batch": "G2 scans 14-23 / printed pp.13-22",
+    "gate_g_reviewed_scan_pages": "4-13",
+    "gate_g_reviewed_printed_pages": "implied 3-12",
+    "gate_g_total_page_count": 57,
+    "gate_g_last_batch": "G1",
+    "gate_g_g1_refinement_count": 5,
+    "gate_g_refinement_count": 5,
+    "gate_g_blocking_fidelity_issues": 0
   },
   "release": {
     "status": "not-released",

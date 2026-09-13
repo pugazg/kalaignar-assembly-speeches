@@ -59,4 +59,6 @@ Gate A, Gate B, Gate C, Gate C.5, Gate D and Gate E are complete. Gate E closed 
 
 Gate F is **PASS / COMPLETE — scans 4–60 / implied printed pp.3–59, 57/57 pages**, with **0 blocking translation questions**. Source-printed English on scans 35, 44, 46, 47 and 48 is preserved as source material, including verified quirks. No Official Report or web wording was imported. English is complete but not verified.
 
-Exact next activity: **Gate G G1 — English fidelity review against verified Tamil, scans 4–13 / implied printed pp.3–12**.
+Gate G is now **IN PROGRESS**. G1 scans **4–13 / implied printed pp.3–12** is complete: **10/57 reviewed, 5 English refinements, 0 blocking fidelity issues, 0 verified-Tamil changes**.
+
+Exact next activity: **Gate G G2 — scans 14–23 / printed pp.13–22**.

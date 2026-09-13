@@ -1,6 +1,6 @@
 # English translation — நமது விளக்கம்
 
-> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F first-pass translation is **PASS / COMPLETE — scans 4–60 / 57/57 pages**. Gate G page-by-page fidelity review is **NEXT / NOT STARTED**.
+> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F first-pass translation is **PASS / COMPLETE — scans 4–60 / 57/57 pages**. Gate G page-by-page fidelity review is **IN PROGRESS — G1 scans 4–13 COMPLETE, 10/57 reviewed, 5 English fidelity refinements, 0 blocking issues**.
 
 ---
 
@@ -70,7 +70,7 @@ Perhaps Thiru Manali Kandasami praised this Budget Statement because the Chief M
 
 When he asked, “If so many good things are to be done, what is wrong with increasing the sales tax by half a per cent?”, I felt greatly encouraged.
 
-It gives me great pleasure that, in this tax measure, the Government has received the support of a good and capable man with such seasoned experience!
+It gives me great pleasure that, in this tax measure, the Government has received the support of a good man—a capable man—with such seasoned experience!
 
 But I do not know what decision the members of the Communist Party of India took at the secret meeting they held among themselves after Manali spoke. They opposed this tax yesterday, and they have continued to speak against it today as well.
 
@@ -80,7 +80,7 @@ Our friend Thiru Arumugasami, speaking on behalf of the Praja Socialist Party on
 
 .” As I reply to the debate here, I am prepared to take him at his word.
 
-I believe that no one of goodwill and genuine concern can deny that this Budget Statement has been prepared with the determination to bring that ideal into being.
+I believe that no one of goodwill and interest can deny that this Budget Statement has been prepared with the determination to bring that ideal into being.
 
 ### So that the poor may rise . . . . . .
 
@@ -110,7 +110,7 @@ But this Government seeks to bring about innovations and peaceful revolutions in
 
 ### Nationalisation of buses
 
-You have welcomed the nationalisation of passenger buses; you have also welcomed the imposition of an upper limit on them.
+You have welcomed the nationalisation of passenger buses; you have also welcomed the imposition of a ceiling on them.
 
 On the nationalisation of passenger buses—on bringing them into public ownership—the Leader of the Opposition and other members with progressive views expressed their opinions.
 
@@ -158,13 +158,13 @@ We will not forget what members on the Opposition side and in the allied parties
 
 Whoever has merit and ability—whatever party they may until then have belonged to, whatever party feeling may exist in their hearts—we will not concern ourselves with any of that. Those who are capable, those who have the ability to carry out the duties of this Government properly, will be selected. That is certain!
 
-Employment and the hardship of unemployment are of the greatest importance. Today this problem lies spread across the whole expanse of India; we cannot forget that.
+The problem of employment—the hardship of unemployment—is extremely important. Today it lies spread across the whole of India; we cannot forget that.
 
 <!-- source-page: 13 -->
 
 When the Leader of the Opposition spoke here, he said, with good intent and sound thought: “I welcome the schemes this Government has drawn up for employment. But for an elephant's hunger this is like popped maize. Therefore this employment programme must be expanded.”
 
-I accept that. But I know that friends who wish to use this for propaganda will seize on it as a reason and put in the newspapers that Thiru Rajaram Naidu said the employment programme was like popped maize for an elephant's hunger. I know, too, that this scheme goes only that far. Even so, he has at least acknowledged that this Government has recognised the situation; for that I thank him.
+I accept that. But I know that friends who wish to use this for propaganda will seize on it as a reason and put in the newspapers that Thiru Rajaram Naidu said the employment programme was like popped maize for an elephant's hunger. I know, too, that this scheme is useful only to that extent. Even so, he has at least acknowledged that this Government has recognised the situation; for that I thank him.
 
 > **Source illustration note:** An editorial illustration beside an open car carries wording about employment based on merit, while the front of the car is printed with “Tamil Nadu Government Budget Statement” and “1971”.
 <!-- source-page: 14 -->

@@ -2,14 +2,14 @@
 
 ## Current status
 
-**Gate F PASS / COMPLETE — Gate G NEXT / NOT STARTED.**
+**Gate F PASS / COMPLETE — Gate G IN PROGRESS / G1 COMPLETE.**
 
 - verified Tamil prerequisite — **PASS / COMPLETE 57/57**;
 - Gate F first-pass translation — **57/57 pages complete**;
 - completed range — **scans 4–60 / implied printed pp.3–59**;
 - F1–F6 translation questions — **0 blocking**;
 - English `verified_against_tamil` — **false**;
-- Gate G — **NEXT / NOT STARTED**;
+- Gate G — **IN PROGRESS — G1 scans 4–13 COMPLETE; 10/57 reviewed; 5 refinements; 0 blocking fidelity issues**;
 - Official Report wording used — **none**.
 
 ## Gate-F tracker
@@ -85,4 +85,25 @@
 
 **PASS / COMPLETE — 57/57.** English first-pass population is complete. English remains `verified_against_tamil=false` until Gate G finishes.
 
-Exact next: **Gate G G1 — scans 4–13 / implied printed pp.3–12**.
+## Gate-G tracker
+
+| Batch | Scan pages | Status | English refinements | Blocking fidelity issues |
+|---|---:|---|---:|---:|
+| G1 | 4–13 | **complete** | 5 | 0 |
+| G2 | 14–23 | next | — | — |
+| G3 | 24–33 | pending | — | — |
+| G4 | 34–43 | pending | — | — |
+| G5 | 44–53 | pending | — | — |
+| G6 / FINAL | 54–60 | pending | — | — |
+
+## G1 notes
+
+- reviewed **10/57** pages directly against verified Tamil;
+- reader-facing English refinements — **5**;
+- blocking fidelity issues — **0**;
+- verified Tamil changes — **none**;
+- scan 11 canonical emendation reviewed only against canonical verified Tamil;
+- names, figures, money, counts, headings, interventions, illustration notes and page ordering — **PASS**;
+- Official Report / OCR / booklet pixels / web wording used — **none**.
+
+Exact next: **Gate G G2 — scans 14–23 / printed pp.13–22**.

@@ -74,7 +74,7 @@ Gate C.5 is mandatory.
 - Tamil — **VERIFIED AGAINST CONTROLLING BOOKLET**
 - Gate F — **PASS / COMPLETE — F1–F6 scans 4–60; 57/57 translated; 0 blocking questions**
 - English — **FIRST PASS COMPLETE / NOT VERIFIED**
-- Gate G — **NEXT / NOT STARTED**
+- Gate G — **IN PROGRESS — G1 scans 4–13 COMPLETE; 10/57 reviewed; 5 refinements; 0 blocking fidelity issues**
 - release — NOT RELEASED
 
 ## Official Report cross-witness — COMPLETE
@@ -97,9 +97,9 @@ Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
 ## Exact next activity
 
-Begin **Gate G G1 — page-by-page English fidelity review against the verified Tamil, scans 4–13 / implied printed pp.3–12**.
+Begin **Gate G G2 — page-by-page English fidelity review against the verified Tamil, scans 14–23 / printed pp.13–22**.
 
-Use only `speeches/1971/1971-namathu-vilakkam/transcript.md` as review authority. Compare the completed reader-facing English against verified Tamil page by page. Check omissions/additions, semantic fidelity, headings, interventions, quotations, names, figures, dates, money, percentages and page-boundary order. Refine English where the verified Tamil supports it; do not change Tamil because of translation difficulty. Do not use Official Reports, OCR, booklet pixels or web research to supply wording. Record review decisions in `TRANSLATION_REVIEW.md`. Do not begin Gate H.
+Use only `speeches/1971/1971-namathu-vilakkam/transcript.md` as review authority. Compare English page by page for omissions/additions, semantic fidelity, headings, quotations, names, figures, money, percentages, page-spanning syntax and illustration notes. Refine English only where verified Tamil supports the change; do not change Tamil because of translation difficulty. Do not use Official Reports, OCR, booklet pixels or web research. Record decisions in `TRANSLATION_REVIEW.md`. Do not begin Gate H.
 
 ## Gate C T1 — COMPLETE
 
@@ -527,6 +527,18 @@ Exact next: **Gate F F5 — scans 44–53 / printed pp.43–52**.
 - terminal `நன்றி.` / `வணக்கம்.` — **represented**
 - blocking translation questions — **0**
 - Gate F — **PASS / COMPLETE**
-- Gate G — **NEXT / NOT STARTED**
+- Gate G — **IN PROGRESS — G1 scans 4–13 COMPLETE; 10/57 reviewed; 5 refinements; 0 blocking fidelity issues**
 
-Exact next: **Gate G G1 — scans 4–13 / implied printed pp.3–12**.
+Exact next: **Gate G G2 — scans 14–23 / printed pp.13–22**.
+
+## Gate G G1 — COMPLETE
+
+- scans — **4–13 / implied printed pp.3–12**
+- pages reviewed — **10 / cumulative 10/57**
+- English fidelity refinements — **5**
+- blocking fidelity issues — **0**
+- verified Tamil changes — **none**
+- source-page order / headings / scan-11 intervention / canonical emendation / figures / illustration notes — **PASS**
+- outside wording used — **NO**
+
+Exact next: **Gate G G2 — scans 14–23 / printed pp.13–22**.
