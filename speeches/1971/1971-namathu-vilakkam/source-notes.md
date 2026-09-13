@@ -57,6 +57,6 @@ Official Reports have now been retrieved and cross-witnessed. They remain separa
 
 Gate A, Gate B, Gate C, Gate C.5, Gate D and Gate E are complete. Gate E closed **PASS / COMPLETE — 57/57 pages**, with **101 cumulative definite booklet-pixel-supported corrections**, **0 unresolved source-fidelity questions**, and **Tamil verified_against_scan=true**. Cross-witness audit and the two authorized Official-Report emendations remain separately documented. **Current unresolved readings: 0.**
 
-Gate F is now **IN PROGRESS**. F1 scans **4–13 / implied printed pp.3–12** is complete, covering **10/57** body pages with **0 blocking translation questions**. English uses only the verified Tamil; no Official Report wording was imported.
+Gate F is **IN PROGRESS**. F1–F2 scans **4–23 / implied printed pp.3–22** are complete, covering **20/57** body pages with **0 blocking translation questions**. English uses only the verified Tamil; no Official Report or web wording was imported.
 
-Exact next activity: **Gate F F2 — scans 14–23 / printed pp.13–22**.
+Exact next activity: **Gate F F3 — scans 24–33 / printed pp.23–32**.

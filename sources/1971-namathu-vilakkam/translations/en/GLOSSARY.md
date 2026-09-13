@@ -35,3 +35,23 @@ Controlled terminology for the booklet-only English translation. The verified Ta
 | `வேலையில்லாத் திண்டாட்டம்` | `hardship of unemployment` | Retains source emphasis. |
 | `யானைப் பசிக்கு சோளப் பொரி` | `popped maize for an elephant's hunger` | Source metaphor retained rather than replaced with a different English idiom. |
 | `இளைஞர்கள் அணி` | `Youth Corps` | Source institutional wording rendered literally; no outside expansion. |
+| `முன் உரிமை` | `priority` | Employment-selection context. |
+| `பிளாக்` | `block` | Rural administrative unit; retained as standard English term. |
+| `அரிசன` | `Harijan` | Period source register preserved; not silently modernised. |
+| `பிச்சைக்காரர்கள் மறுவாழ்வு` | `beggars' rehabilitation` | Scheme heading/context. |
+| `கொடி நாள்` | `Flag Day` | Source observance name. |
+| `தொழு நோய்` | `leprosy` | Medical condition in Gandhi illustration description. |
+| `குடிசை மாற்று வாரியம்` | `Slum Clearance Board` | Housing institution. |
+| `குடிநீர் வாரியம்` | `Water Supply Board` | Drinking-water institution; conservative institutional rendering from verified Tamil. |
+| `மூவர் குழு` | `three-member committee` | Administrative follow-up committee. |
+| `அமைச்சர் அவை` | `Council of Ministers` | Government decision-making body. |
+| `கழக அரசு` | `Kazhagam Government` | DMK-period self-reference preserved. |
+| `வணிக வரம்பு` | `business limit` | Conservative rendering; no external tax-law classification imported. |
+| `கம்பவுண்டிங்` | `compounding` | Source English-derived tax term. |
+| `மேல்வரி` / `சர் சார்ஜ்` | `surcharge` | Tax context. |
+| `கிரவுண்ட்` | `ground` | Source land unit retained without conversion. |
+| `நகர்ப்புற நிலவரி` | `urban land tax` | Direct fiscal rendering. |
+| `வேளாண்மை வரி` | `agricultural tax` | Direct fiscal rendering. |
+| `ஊதியக் குழு` | `Pay Commission` | Public-pay context. |
+| `யானைப் பசிக்குச் சோளப்பொரி` | `popped maize for an elephant's hunger` | Recurring source metaphor retained literally. |
+| `மின் ஒளி` | `electric light` | Rural electrification context. |

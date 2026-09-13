@@ -1,6 +1,6 @@
 # English translation — நமது விளக்கம்
 
-> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F is **IN PROGRESS**; F1 scans 4–13 is complete. Gate G has not started.
+> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F is **IN PROGRESS**; F1–F2 scans 4–23 are complete. Gate G has not started.
 
 ---
 
@@ -167,3 +167,164 @@ When the Leader of the Opposition spoke here, he said, with good intent and soun
 I accept that. But I know that friends who wish to use this for propaganda will seize on it as a reason and put in the newspapers that Thiru Rajaram Naidu said the employment programme was like popped maize for an elephant's hunger. I know, too, that this scheme goes only that far. Even so, he has at least acknowledged that this Government has recognised the situation; for that I thank him.
 
 > **Source illustration note:** An editorial illustration beside an open car carries wording about employment based on merit, while the front of the car is printed with “Tamil Nadu Government Budget Statement” and “1971”.
+<!-- source-page: 14 -->
+
+### How much did they allocate?
+
+This is as much as this Government can do. With the financial resources available to us in the State—with our revenue and with the powers we possess—this is what we are able to do.
+
+Apart from what they pointed out, the Government of India allocated Rs. 50 crore for the rural employment programme for the whole of India. Some of our Tamil Nadu journalists, without even understanding this properly, assumed that Rs. 50 crore had been allocated to Tamil Nadu and criticised it on that basis.
+
+> **Source illustration note:** An editorial illustration in front of a large gateway/house-like structure prominently shows the number `15000`.
+
+They wondered how much of this Rs. 50 crore these people were going to divide among themselves. They became agitated even before that. In truth, the Rs. 50 crore was allocated for the rural employment programme for all of India. When making this allocation, instead of fixing employment for 15,000 people per State, or fixing so many people per division or per block, some clever person in the Central Government devised the scheme as employment for one thousand people per district.
+
+As far as Tamil Nadu is concerned, we have fewer districts but they are large in area. As the Leader of the Opposition pointed out, in the northern States there are more districts and they are smaller in area. In some places, Uttar Pradesh for instance, there are 54 districts. In Maharashtra there are more than 26 districts; more than 34 districts are there.
+
+<!-- source-page: 15 -->
+
+When it was calculated on that district basis, the amount due to us did not come to us. That is why only a little over Rs. 1 crore was allotted to us for rural employment. With that, on the basis of paying Rs. 100 a month, we could create employment for only 15,000 rural people. A difficulty arose because in each district it could be given to only 10 blocks. Therefore we decided that the State Government would spend another Rs. 1 crore, and by fixing 10 blocks, 20 blocks and so on in each district, we created another programme providing employment for 15,000 more people.
+
+They said that, when such employment is given, it should be given only to families with absolutely no employment—that first preference, priority, should be given to them. Though they said this, even earlier, under the instructions we had issued to the officer and to those committees, we had already conveyed that those belonging to families in which no one has employment should be given priority. I consider it my duty to state here that we had already informed the officials of this.
+
+In the Police Department, 2,000 posts have been earmarked for those who have passed S.S.L.C., and we have created an employment programme under which 1,000 of them will be recruited directly. This Government has planned to provide loan facilities to 30,000 technically trained persons so that they may establish small industries. We have also decided to form a Youth Corps consisting of graduates and use that corps for good social service, for useful work in rural areas, and for freeing rural people from harmful habits. Two thousand young people are to be gathered into that corps, given responsibilities, and paid a monthly allowance of Rs. 175. Provision has been made for this in the Budget.
+
+<!-- source-page: 16 -->
+
+Employment has been provided to 6,500 teachers. Though some shortcomings were pointed out, people are today in such a state of unemployment that they feel it is enough if they get even that. We cannot forget this. I believe it was the honourable member Muthusami who said that teachers in private schools sign as though they have received their full salary but actually receive only half. Teachers are in such a position that even that employment seems enough.
+
+I wish to point out here that they have not rejected the assistance this Government gives them through technical training; they have accepted it. In the same way, we have provided employment to 2,400 engineers.
+
+> **Source illustration note:** An editorial illustration in the form of an open book points to the Budget Statement; in large lettering it reads “Tamil Nadu Chief Minister's Budget Statement.”
+
+We have also extended many concessions to backward Harijan people. Even if, as the Leader of the Opposition pointed out, it is a scheme that had already begun, it is now being expanded. In this Budget we have framed a scheme to assist one thousand washermen and barbers in purchasing the tools of their trades. After saying all this, and after saying that even these are not enough, the Leader of the Opposition nevertheless said in his speech that taxes should not be imposed. I know very well that he said this because he is the Leader of the Opposition. At one time he sat on this side; when the Opposition criticised the taxes that were then imposed and fired volleys of questions, he was the one who answered them. In a democracy, there is nothing surprising in the people who ask questions and the people who answer them changing places from time to time. That is why, after saying all this as Leader of the Opposition, and after saying that what has been given is like popped maize for an elephant's hunger, he has drawn up still more schemes
+
+<!-- source-page: 17 -->
+
+that ought to be implemented here, and yet has asked the question whether taxes may be imposed.
+
+### Beggars' rehabilitation scheme
+
+This Government has prepared a scheme to rehabilitate beggars, and we are raising funds for it.
+
+About this, Ponnappa Nadar said, “It is a good scheme; there must be no corruption in it.” We should not look at every scheme with suspicion.
+
+We are collecting funds—for beggars! If some people commit wrongdoing even in that, they must be regarded as cruel people who betray beggars, as wicked people. There is no point in asking why a “serial number” has not been put on everything.
+
+Flag Day has been observed for many years. On Flag Day, a price is not printed on each flag.
+
+Those flags are sold among schoolchildren for the prescribed amount. I have never heard of a serial number being put on every flag so sold. There is, however, an account of how many cards have been printed. My signature is printed on them so that no one else can print them.
+
+On the other side there is an engraved picture of Mahatma Gandhi treating a beggar afflicted by leprosy. They are counted and distributed at each place, and it is calculated how much money ought to come into the fund through them. Therefore, I firmly believe there will be no wrongdoing in this. If any wrongdoing is pointed out, I am also prepared to take appropriate action on behalf of the Government.
+
+Speaking of the beggars' rehabilitation scheme, the Leader of the Opposition, because of his love for beggars and his attachment to them—if I say “attachment”, people in that circle may become angry with him—
+
+<!-- source-page: 18 -->
+
+and therefore, because of the love he bears for beggars—said that the Chief Minister's birthday could be observed as Beggars' Day, just as Nehru's birthday is observed as Children's Day.
+
+I intend that within five years beggars should be rehabilitated so completely that there will be no gathering of beggars left in Tamil Nadu.
+
+There is a way to continue observing Pandit Nehru's birthday as Children's Day. Though Pandit Nehru passed away many years ago, children continue to be born.
+
+But once this problem of beggars has been solved, it will no longer be possible to celebrate a Beggars' Rehabilitation Day. I therefore request the Leader of the Opposition to understand this and suggest some other idea.
+
+### Slum Clearance Board
+
+We have taken on many more responsibilities. In Madras city, through the Slum Clearance Board, we are engaged in a major effort to build good houses for the poor and humble under a Rs. 40 crore programme spread over seven years.
+
+This is a frightening problem that has remained unresolved for many years. Today this Government has taken up that problem with great courage and, out of its determination to carry it through, has planned to spend Rs. 4 crore on it in this year alone. That work is now proceeding.
+
+> **Source illustration note:** An editorial illustration beside a large book representing the Tamil Nadu Chief Minister's Budget Statement shows a slum/house scene.
+
+<!-- source-page: 19 -->
+
+Similarly, through a Water Supply Board in Tamil Nadu, we have drawn up plans involving the expenditure of many crores so that protected drinking water may become available to all rural people within the next several years, and we have carried out many progressive measures in that field at great speed.
+
+When I read the Budget Statement, I explained the basis on which we are doing all these things. This Government has undertaken all these efforts so that there may be a dawn in the lives of the poor and humble, rural people, and backward people who until now have been pushed down and cast aside somewhere, unable even to become properly aware of themselves.
+
+Will the needs of our State be fully met by the schemes set out in this Budget Statement alone? No. There are still many needs. Members who spoke here have set out those needs constituency by constituency.
+
+### Three-member committee
+
+Until now, the position has been that, if you wished, you could later read in the legislative proceedings all the problems raised in the Budget debate. Some of them might even be forgotten. To avoid that as far as possible, any problem that members underline concerning their own constituencies will be examined by the Chief Secretary, the Finance Secretary and one of the Board
+
+> **Source illustration note:** An editorial illustration over a map of Tamil Nadu shows documents and a three-member group.
+
+<!-- source-page: 20 -->
+
+members—a three-member committee in all. That committee will examine all the views expressed by members here, consult the head of each department and the departmental secretaries and officials, place reports before the Council of Ministers, and make arrangements to implement a large number of them in this year's Budget itself. I am very happy to inform this House of that.
+
+It is precisely because needs such as these have to be met that—even if we think we can somehow avoid it—we are compelled to enlarge the necessary sources of finance through taxes.
+
+### Members' remuneration
+
+I believe I must answer the request raised in between by our friend Arumugasami. Without saying it too bluntly, he said, “Please pay a little attention to us too.”
+
+I am not unaware that all members have this desire. The only competition among them is over who will tie the bell around the cat's neck; everyone has the thought that, if it is given, they can accept it.
+
+In the same way, when it was Rs. 150, it was raised to Rs. 250. Members of all parties accepted it. In the same way, the request of our friend Arumugasami will also be accepted soon.
+
+I do not wish to say now what the amount will be. When the relevant grant comes up for debate, the Minister responsible for that grant will announce it; I wish to make that clear here.
+
+We have many needs. Other members too have needs. Those also have to be fulfilled. There are still many needs that remain to be fulfilled. I recognise that as well.
+
+<!-- source-page: 21 -->
+
+It is for that very reason that, since there is no other way to enlarge our sources of finance, we have to go in search of taxes.
+
+### The Kazhagam Government's tax policy
+
+Even when we go in search of taxes, we want them, as far as possible, to touch those who are able to bear them and not harm those who cannot. That is the tax policy of the Kazhagam Government.
+
+In accordance with that, we have raised the sales tax from three per cent to three and a half per cent. Even there, several concessions were granted in the Legislature the day before yesterday: the overall “business limit”, which had been Rs. 15,000, has been raised to Rs. 25,000. Likewise, the “compounding” limit, which had been Rs. 75,000, has been raised to Rs. 1 lakh.
+
+This tax had to be raised on the basis that people should bear a small burden so that many large and worthwhile measures can be carried out.
+
+In the matter of sales tax and surcharge, the public will not face any great hardship. For a day or two there may be scattered newspaper reports here and there of “traders in turmoil” or a “merchants' revolt”. But we must understand very clearly that this is not really a tax that will seriously affect traders.
+
+Members also expressed views on the sales tax and surcharge. Some other members said that, since this applies only to Madras, people in the suburbs of Madras may take advantage of that and evade it. We therefore thought about that too. Members asked: is this tax only for Madras? Is there no such tax for urban areas such as Coimbatore, Salem, Madurai and Tiruchi?
+
+<!-- source-page: 22 -->
+
+We are therefore considering imposing the same sales-tax surcharge in the suburban areas of Madras and in cities such as Coimbatore, Salem, Tiruchi and Madurai together with their suburban areas; and, in accordance with the members' request, reducing the existing surcharge of 10 per cent to 5 per cent.
+
+### Urban land tax
+
+In Madras city and in other cities, the urban land tax has been abolished for the many thousands of people who own up to one ground.
+
+Through the site-tax measure, by granting tax exemption to the many thousands who own one ground in Madras and elsewhere, this Government has created a situation in which all of them can be freed from this tax in keeping with an egalitarian objective.
+
+When commenting to reporters after the Budget Statement was placed before this House, (Com.) member Thiru K. T. K. Thangamani said, regarding agricultural taxation, that taxes did not touch those who earn large incomes in the villages.
+
+A Bill containing certain changes, designed to affect only those who derive high profits from agriculture, will be brought before this House.
+
+Referring to all these taxes, Dr. Hande said that the Government gives with one hand and takes back with the other.
+
+### The State's total income
+
+The total income of this State is Rs. 2,400 crore. Of this Rs. 2,400 crore, the amount paid as salaries to Government employees is Rs. 100 crore. That is one twenty-fourth of the State's income.
+
+If the additional taxes—the additional sources of finance—we are now raising bring in Rs. 25 crore, Government employees have to bear only one share of it: a tax burden of only Rs. 1 crore. At the same time, for them
+
+<!-- source-page: 23 -->
+
+we have granted a pay increase of Rs. 25 crore in accordance with the recommendations of the Second Pay Commission. I ask you to compare the two.
+
+### “I know nothing about Haryana?”
+
+We are carrying out the plan under which we have declared that, within the specified period—before the end of 1972—there should not be a single village anywhere in Tamil Nadu without electric light.
+
+> **Source illustration note:** An editorial illustration shows an open book and an electricity/switch symbol; the smaller printed words are not fully legible and are not guessed.
+
+When Mrs. Ananthanayaki spoke, she said: “Until now Tamil Nadu held first place. But now, in that respect, it has fallen to second place. Haryana has come to first place.”
+
+People in the north—and the newspapers—are writing a great deal about whether it really is in first place.
+
+It is not good for the Chief Minister of one State to interfere in the affairs of another State. I have not entered into that controversy either.
+
+If Haryana has obtained first place, it is only one-third the area of Tamil Nadu and one-fourth its population! Haryana is only equal in size to the combined total of the three districts of North Arcot, South Arcot and Chengalpattu!
+
+### Electric light in every nook and corner within three years
+
+We are making an earnest effort to bring electric light to every village. I wish to state that, within another two or three years, we will make arrangements to reach a position where there is no village without lighting facilities, and thereby earn your appreciation.

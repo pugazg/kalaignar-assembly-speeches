@@ -553,3 +553,24 @@ Status: **COMPLETE / Gate F remains IN PROGRESS**
 Non-blocking source-name handling: `கின்ஸ்மாஸ்க்ரேஸ்` is conservatively rendered **Kinsmasgrace** from the verified Tamil; no outside identification was imported.
 
 Exact continuation: **Gate F F2 — scans 14–23 / printed pp.13–22**.
+
+### F2 — scans 14–23 / printed pp.13–22
+
+Status: **COMPLETE / Gate F remains IN PROGRESS**
+
+- pages translated — **10/10**;
+- cumulative Gate-F coverage — **20/57**;
+- authority — **verified Tamil only**;
+- source-page markers 14→23 — **preserved**;
+- source-page-spanning syntax — **15→16 and 19→20 preserved in English order**;
+- headings, numbers, money, percentages and policy terms — **preserved**;
+- illustration/context notes — **scans 14, 16, 18, 19 and 23 represented**;
+- blocking translation questions — **0**;
+- Official Report wording used — **NO**;
+- web/external research used for English wording — **NO**;
+- English `verified_against_tamil` — **false**;
+- Gate G — **NOT STARTED**.
+
+Non-blocking source-controlled choices: `அரிசன` is rendered **Harijan** to preserve the period source register; `வணிக வரம்பு` is conservatively rendered **business limit**; `கம்பவுண்டிங்` as **compounding**; `கிரவுண்ட்` as **ground**; and the beggars' rehabilitation passage preserves the source's `பற்று` wordplay without importing an external explanation.
+
+Exact continuation: **Gate F F3 — scans 24–33 / printed pp.23–32**.

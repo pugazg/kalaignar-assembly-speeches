@@ -36,7 +36,7 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 - cross-witness — **COMPLETE / Official Reports aligned; 2 user-authorized Council-record emendations applied at formerly unreadable booklet loci**
 - Gate D — **PASS / COMPLETE — 57/57; 0 completeness corrections; 0 unresolved completeness questions**
 - Gate E — **PASS / COMPLETE — E1–E6 scans 4–60; 57/57 verified; 101 cumulative corrections; 0 unresolved source-fidelity questions**
-- Gate F — **IN PROGRESS — F1 scans 4–13 COMPLETE; 10/57 translated; 0 blocking questions**
+- Gate F — **IN PROGRESS — F1–F2 scans 4–23 COMPLETE; 20/57 translated; 0 blocking questions**
 - Gate G–H — **BLOCKED / downstream**
 - Tamil — **VERIFIED AGAINST CONTROLLING BOOKLET — unresolved readings 0**
 - English — **FIRST PASS IN PROGRESS / NOT YET VERIFIED**
@@ -62,4 +62,4 @@ This booklet-level entry is intentionally **not** added to the canonical dated s
 
 ## Exact next activity
 
-Gate F F1 is **COMPLETE — scans 4–13 / implied printed pp.3–12, 10/57 pages**. English was translated only from the verified Tamil; page markers, headings, scan-11 intervention, figures and illustration/context notes are preserved; blocking translation questions **0**; no Official Report wording was used. Exact next: **Gate F F2 — scans 14–23 / printed pp.13–22**.
+Gate F F1–F2 is **COMPLETE through scans 4–23 / 20 of 57 pages**. F2 preserves the verified Tamil's page order, headings, figures, policy terminology, page-spanning syntax and illustration/context notes; blocking translation questions **0**; no Official Report or web wording was used. Exact next: **Gate F F3 — scans 24–33 / printed pp.23–32**.
