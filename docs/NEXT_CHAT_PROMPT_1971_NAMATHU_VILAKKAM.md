@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1971 நமது விளக்கம் / Gate G G4 English fidelity scans 34–43
+# NEXT CHAT PROMPT — 1971 நமது விளக்கம் / Gate G G5 English fidelity scans 44–53
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -16,8 +16,9 @@ Do not use OCR, booklet pixels, web research, or the Assembly/Council Official R
 - G1 scans 4–13 — **COMPLETE / 10 pages / 5 refinements**
 - G2 scans 14–23 — **COMPLETE / 10 pages / 3 refinements**
 - G3 scans 24–33 — **COMPLETE / 10 pages / 7 refinements**
-- cumulative Gate-G coverage — **30/57 pages**
-- cumulative Gate-G refinements — **15**
+- G4 scans 34–43 — **COMPLETE / 10 pages / 8 refinements**
+- cumulative Gate-G coverage — **40/57 pages**
+- cumulative Gate-G refinements — **23**
 - blocking fidelity issues — **0**
 - verified Tamil changes during Gate G — **none**
 - English `verified_against_tamil` — **false**
@@ -25,17 +26,18 @@ Do not use OCR, booklet pixels, web research, or the Assembly/Council Official R
 
 ## Exact next activity
 
-Perform **Gate G G4 — page-by-page English fidelity review, scans 34–43 / printed pp.33–42**.
+Perform **Gate G G5 — page-by-page English fidelity review, scans 44–53 / printed pp.43–52**.
 
 Requirements:
 
-1. compare every English page 34–43 directly with the verified Tamil;
-2. check omissions, additions, semantic drift, headings, names, figures, money, percentages, State-planning/Centre-State terminology, speaker interventions, quotations, humour, illustration notes and page-spanning syntax;
+1. compare every English page 44–53 directly with the verified Tamil;
+2. check omissions, additions, semantic drift, headings, names, figures, money, percentages, prohibition-policy terminology, speaker interventions, quotations, humour, illustration notes and page-spanning syntax;
 3. preserve the source's historical claims and chronology without outside reconciliation;
-4. refine English only where verified Tamil supports it; do not change verified Tamil because the English is difficult;
-5. do not use Official Reports, OCR, booklet pixels or web research to supply wording;
-6. record every English refinement and any blocking fidelity issue in `TRANSLATION_REVIEW.md` / `PROGRESS.md`;
-7. update metadata, READMEs, mapping, handover, root status and next prompt;
-8. do **not** begin Gate H.
+4. preserve source-printed English blocks exactly where they occur; review the translated Tamil material only from verified Tamil;
+5. refine English only where verified Tamil supports it; do not change verified Tamil because the English is difficult;
+6. do not use Official Reports, OCR, booklet pixels or web research to supply wording;
+7. record every English refinement and any blocking fidelity issue in `TRANSLATION_REVIEW.md` / `PROGRESS.md`;
+8. update metadata, READMEs, mapping, handover, root status and next prompt;
+9. do **not** begin Gate H.
 
-Expected continuation after G4: **Gate G G5 — scans 44–53 / printed pp.43–52**.
+Expected continuation after G5: **Gate G G6 / FINAL — scans 54–60 / printed pp.53–59**.

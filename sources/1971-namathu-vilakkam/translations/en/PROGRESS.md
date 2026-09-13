@@ -2,14 +2,14 @@
 
 ## Current status
 
-**Gate F PASS / COMPLETE — Gate G IN PROGRESS / G1–G3 COMPLETE.**
+**Gate F PASS / COMPLETE — Gate G IN PROGRESS / G1–G4 COMPLETE.**
 
 - verified Tamil prerequisite — **PASS / COMPLETE 57/57**;
 - Gate F first-pass translation — **57/57 pages complete**;
 - completed range — **scans 4–60 / implied printed pp.3–59**;
 - F1–F6 translation questions — **0 blocking**;
 - English `verified_against_tamil` — **false**;
-- Gate G — **IN PROGRESS — G1–G3 scans 4–33 COMPLETE; 30/57 reviewed; 15 refinements; 0 blocking fidelity issues**;
+- Gate G — **IN PROGRESS — G1–G4 scans 4–43 COMPLETE; 40/57 reviewed; 23 refinements; 0 blocking fidelity issues**;
 - Official Report wording used — **none**.
 
 ## Gate-F tracker
@@ -92,8 +92,8 @@
 | G1 | 4–13 | **complete** | 5 | 0 |
 | G2 | 14–23 | **complete** | 3 | 0 |
 | G3 | 24–33 | **complete** | 7 | 0 |
-| G4 | 34–43 | next | — | — |
-| G5 | 44–53 | pending | — | — |
+| G4 | 34–43 | **complete** | 8 | 0 |
+| G5 | 44–53 | next | — | — |
 | G6 / FINAL | 54–60 | pending | — | — |
 
 ## G1 notes
@@ -131,4 +131,19 @@
 - page-spanning syntax **25→26, 29→30, 31→32**, interventions, headings, figures, money, illustration notes, State-planning/Centre-State terminology and historical quotations — **PASS**;
 - Official Report / OCR / booklet pixels / web wording used — **none**.
 
-Exact next: **Gate G G4 — scans 34–43 / printed pp.33–42**.
+## G4 notes
+
+- reviewed scans **34–43 / 10 pages**, cumulative **40/57**;
+- reader-facing English refinements — **8 / cumulative 23**;
+- blocking fidelity issues — **0**;
+- verified Tamil changes — **none**;
+- scan 34 ploughing tautology and unsourced `a place` wording tightened to the Tamil;
+- scan 39 `அடக்க உணர்ச்சி` rendered as `restraint` and the Veeranam heading made idiomatic without changing the contrast;
+- scan 40 `அடக்கத்தோடு` aligned to `with restraint`, and the singular Delhi authority restored in the Censor appeal passage;
+- scan 42 Independence-Day sentence word order repaired without changing the source chronology;
+- scan 43 `லஞ்சப் பேராளர்கள்` tightened to `bribe-takers`;
+- scan 35 source-printed English remained untouched; scan 37 was reviewed only against canonical verified Tamil;
+- page-spanning syntax **36→37, 37→38, 41→42**, intervention, headings, dates, dam names, illustration note, State-autonomy/Centre-State terminology and prohibition chronology — **PASS**;
+- Official Report / OCR / booklet pixels / web wording used — **none**.
+
+Exact next: **Gate G G5 — scans 44–53 / printed pp.43–52**.

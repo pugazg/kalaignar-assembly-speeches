@@ -2,9 +2,9 @@
 
 ## Status
 
-**Gate G IN PROGRESS — G1–G3 COMPLETE.**
+**Gate G IN PROGRESS — G1–G4 COMPLETE.**
 
-Gate F first-pass English is complete for **57/57 pages, scans 4–60**. Gate G has reviewed **30/57 pages** through scans **4–33 / implied printed pp.3–32**.
+Gate F first-pass English is complete for **57/57 pages, scans 4–60**. Gate G has reviewed **40/57 pages** through scans **4–43 / implied printed pp.3–42**.
 
 ## Review authority
 
@@ -21,8 +21,8 @@ Do not use OCR, booklet pixels, web research, or the Assembly/Council Official R
 | G1 | 4–13 | implied 3–12 | **complete** | 0 |
 | G2 | 14–23 | 13–22 | **complete** | 0 |
 | G3 | 24–33 | 23–32 | **complete** | 0 |
-| G4 | 34–43 | 33–42 | next | — |
-| G5 | 44–53 | 43–52 | pending | — |
+| G4 | 34–43 | 33–42 | **complete** | 0 |
+| G5 | 44–53 | 43–52 | next | — |
 | G6 / FINAL | 54–60 | 53–59 | pending | — |
 
 ## Review rules
@@ -110,4 +110,35 @@ Checks passing without change:
 
 Verified Tamil changes during G3: **none**. Official Report / OCR / booklet-pixel / web wording used: **none**.
 
-Exact next: **Gate G G4 — scans 34–43 / printed pp.33–42**.
+## G4 — scans 34–43 / printed pp.33–42
+
+Status: **COMPLETE — 10/10 pages / 0 blocking fidelity issues**
+
+Eight reader-facing English refinements were applied from the verified Tamil only:
+
+1. **scan 34** — `ploughing with a plough` → `ploughing` for `ஏர் உழுவது`, removing an English tautology without changing the source image;
+2. **scan 34** — `a place was named “Rajaji Hall”` → `the name “Rajaji Hall” was given`, avoiding an added generic noun where the Tamil is simply passive `‘ராஜாஜி ஹால்’ என்று பெயரிடப்பட்டது`;
+3. **scan 39** — `possesses the discipline to act` → `has the restraint to act` for `அடக்க உணர்ச்சி`;
+4. **scan 39** — heading `Veeranam is at least a somewhat bigger matter` → `Veeranam, at least, is a somewhat bigger matter`, preserving the source's contrastive `வீராணமாவது` while making the English idiomatic;
+5. **scan 40** — `we remain disciplined within their authority` → `we remain, with restraint, within their authority` for `அவர்களுடைய அதிகாரத்திற்குட்பட்டு அடக்கத்தோடு நாங்கள் இருக்கிறோம்`;
+6. **scan 40** — `they said` → `the chief authority there said` in the Delhi Censor appeal passage, matching the singular source verb `என்றார்` and the already stated singular authority;
+7. **scan 42** — `which announced in one year that` → `which, in one year, announced that` for the source's `ஓராண்டு ... அறிவித்தார்கள்`, repairing English word order without changing the chronology;
+8. **scan 43** — `people taking bribes` → `bribe-takers` for `லஞ்சப் பேராளர்கள்`.
+
+Checks passing without change:
+
+- source-page markers **34→43** and page order;
+- page-spanning syntax **36→37, 37→38 and 41→42**;
+- all headings in the range;
+- scan **34** Hande intervention and Chief Minister response;
+- scan **35** source-printed English block preserved unchanged; the separately printed Tamil rendering was reviewed only against the verified Tamil;
+- scan **37** provenance-tagged canonical Tamil emendation reviewed only as canonical Tamil; the Official Report was not consulted for English wording;
+- dates, year references, the **1¼-year** Veeranam delay, dam names and prohibition chronology;
+- Rajamannar / Centre-State / State-autonomy, Cauvery arbitration, Planning Commission and Censor Board terminology;
+- illustration/context note on scan **36**;
+- source historical claims, quotations and chronology preserved without outside reconciliation;
+- no omission/addition requiring Tamil change.
+
+Verified Tamil changes during G4: **none**. Official Report / OCR / booklet-pixel / web wording used: **none**.
+
+Exact next: **Gate G G5 — scans 44–53 / printed pp.43–52**.

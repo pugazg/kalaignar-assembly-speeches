@@ -74,7 +74,7 @@ Gate C.5 is mandatory.
 - Tamil — **VERIFIED AGAINST CONTROLLING BOOKLET**
 - Gate F — **PASS / COMPLETE — F1–F6 scans 4–60; 57/57 translated; 0 blocking questions**
 - English — **FIRST PASS COMPLETE / NOT VERIFIED**
-- Gate G — **IN PROGRESS — G1–G3 scans 4–33 COMPLETE; 30/57 reviewed; 15 refinements; 0 blocking fidelity issues**
+- Gate G — **IN PROGRESS — G1–G4 scans 4–43 COMPLETE; 40/57 reviewed; 23 refinements; 0 blocking fidelity issues**
 - release — NOT RELEASED
 
 ## Official Report cross-witness — COMPLETE
@@ -97,11 +97,11 @@ Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
 ## Exact next activity
 
-Begin **Gate G G4 — page-by-page English fidelity review against the verified Tamil, scans 34–43 / printed pp.33–42**.
+Begin **Gate G G5 — page-by-page English fidelity review against the verified Tamil, scans 44–53 / printed pp.43–52**.
 
-G3 is durable and complete: scans **24–33 / 10 pages**, **7 refinements**, cumulative Gate-G coverage **30/57**, cumulative refinements **15**, blocking fidelity issues **0**, verified Tamil changes **none**.
+G4 is durable and complete: scans **34–43 / 10 pages**, **8 refinements**, cumulative Gate-G coverage **40/57**, cumulative refinements **23**, blocking fidelity issues **0**, verified Tamil changes **none**. Source-printed English on scan 35 remained unchanged; scan 37 was reviewed only against canonical verified Tamil.
 
-Use only `speeches/1971/1971-namathu-vilakkam/transcript.md` as review authority. Compare English page by page for omissions/additions, semantic fidelity, headings, quotations, names, figures, money, percentages, speaker interventions, page-spanning syntax and illustration notes. Preserve Rajamannar/Centre-State terminology, historical quotations, humour and source chronology. Refine English only where verified Tamil supports the change; do not change Tamil because of translation difficulty. Do not use Official Reports, OCR, booklet pixels or web research. Record decisions in `TRANSLATION_REVIEW.md` / `PROGRESS.md`. Do not begin Gate H.
+Use only `speeches/1971/1971-namathu-vilakkam/transcript.md` as review authority. Compare English page by page for omissions/additions, semantic fidelity, headings, quotations, names, figures, money, percentages, speaker interventions, page-spanning syntax and illustration notes. Preserve source-printed English where present, prohibition-policy chronology, historical quotations, humour and source chronology. Refine English only where verified Tamil supports it; do not change Tamil because of translation difficulty. Do not use Official Reports, OCR, booklet pixels or web research. Record decisions in `TRANSLATION_REVIEW.md` / `PROGRESS.md`. Do not begin Gate H.
 
 ## Gate C T1 — COMPLETE
 

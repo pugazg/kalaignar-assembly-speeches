@@ -37,7 +37,7 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 - Gate D — **PASS / COMPLETE — 57/57; 0 completeness corrections; 0 unresolved completeness questions**
 - Gate E — **PASS / COMPLETE — E1–E6 scans 4–60; 57/57 verified; 101 cumulative corrections; 0 unresolved source-fidelity questions**
 - Gate F — **PASS / COMPLETE — F1–F6 scans 4–60; 57/57 translated; 0 blocking questions**
-- Gate G — **IN PROGRESS — G1–G3 scans 4–33 COMPLETE; 30/57 reviewed; 15 refinements; 0 blocking fidelity issues**
+- Gate G — **IN PROGRESS — G1–G4 scans 4–43 COMPLETE; 40/57 reviewed; 23 refinements; 0 blocking fidelity issues**
 - Gate H — **BLOCKED / downstream**
 - Tamil — **VERIFIED AGAINST CONTROLLING BOOKLET — unresolved readings 0**
 - English — **FIRST PASS COMPLETE / NOT YET VERIFIED**
@@ -48,7 +48,7 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 - [`metadata.json`](./metadata.json)
 - [`source-notes.md`](./source-notes.md)
 - [`transcript.md`](./transcript.md) — verified Tamil, scans 4–60 / 57 pages.
-- [`translation.md`](./translation.md) — Gate-F English first pass complete, 57/57 pages; Gate-G fidelity review complete through scans 4–33 / 30 of 57 pages.
+- [`translation.md`](./translation.md) — Gate-F English first pass complete, 57/57 pages; Gate-G fidelity review complete through scans 4–43 / 40 of 57 pages.
 - [`verification-log.md`](./verification-log.md)
 - [`historical-glyph-audit.md`](./historical-glyph-audit.md)
 - [`../../../sources/1971-namathu-vilakkam/cross-witness-audit.md`](../../../sources/1971-namathu-vilakkam/cross-witness-audit.md) — Official Report provenance/alignment ledger
@@ -63,4 +63,4 @@ This booklet-level entry is intentionally **not** added to the canonical dated s
 
 ## Exact next activity
 
-Gate F remains **PASS / COMPLETE — 57/57**. Gate G G1–G3 is **COMPLETE through scans 4–33 / 30 of 57 pages reviewed**, with **15 cumulative reader-facing English fidelity refinements** and **0 blocking fidelity issues**. Verified Tamil remains unchanged. Exact next: **Gate G G4 — scans 34–43 / printed pp.33–42**.
+Gate F remains **PASS / COMPLETE — 57/57**. Gate G G1–G4 is **COMPLETE through scans 4–43 / 40 of 57 pages reviewed**, with **23 cumulative reader-facing English fidelity refinements** and **0 blocking fidelity issues**. Verified Tamil remains unchanged. Exact next: **Gate G G5 — scans 44–53 / printed pp.43–52**.

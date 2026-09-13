@@ -1,6 +1,6 @@
 # English translation — நமது விளக்கம்
 
-> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F first-pass translation is **PASS / COMPLETE — scans 4–60 / 57/57 pages**. Gate G page-by-page fidelity review is **IN PROGRESS — G1–G3 scans 4–33 COMPLETE, 30/57 reviewed, 15 cumulative English fidelity refinements, 0 blocking issues**.
+> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F first-pass translation is **PASS / COMPLETE — scans 4–60 / 57/57 pages**. Gate G page-by-page fidelity review is **IN PROGRESS — G1–G4 scans 4–43 COMPLETE, 40/57 reviewed, 23 cumulative English fidelity refinements, 0 blocking issues**.
 
 ---
 
@@ -515,13 +515,13 @@ Thus, at that time Rajaji was elevated to such a position that Thiru Anthony Pil
 
 ### From newspapers to cinema
 
-That is not all—an A.V.M.-produced film showed Rajaji ploughing with a plough. After all, was he not someone exhausted from ploughing generation after generation?
+That is not all—an A.V.M.-produced film showed Rajaji ploughing. After all, was he not someone exhausted from ploughing generation after generation?
 
 That is not all. Several English journals even carried pictures showing him washing his own cloth with his sacred thread tucked over his ear.
 
 ### After Rajaji, who in the Swatantra Party?
 
-When the charge of a “personality cult” was laid against us and against Perarignar Anna, who had been our guide, I found myself thinking: while Rajaji was still alive, a place was named “Rajaji Hall”. While Rajaji was still alive, his large portrait was unveiled in this very House.
+When the charge of a “personality cult” was laid against us and against Perarignar Anna, who had been our guide, I found myself thinking: while Rajaji was still alive, the name “Rajaji Hall” was given. While Rajaji was still alive, his large portrait was unveiled in this very House.
 
 As far as the Swatantra Party in Tamil Nadu is concerned, if there is no Rajaji, who comes after him? Is that not a “personality cult”? In that manner, they have cultivated a “personality cult”. But I am duty-bound to point out here that, in the Dravida Munnetra Kazhagam, if there is no Karunanidhi, there are many others after him.
 
@@ -626,11 +626,11 @@ The Cauvery river-water dispute is a problem in which the Central Government sho
 
 As the Opposition leaders pointed out, when elections were held in Mysore, during the parliamentary election, Prime Minister Indira Gandhi, who went there at the time, boldly said that this issue would be referred to arbitration. We do not understand why they are now intervening and hesitating to refer it to arbitration.
 
-We belong to a party that once demanded the separatist goal that Dravida Nadu should belong to the Dravidians. But, recognising the country's security and the circumstances, we abandoned that very policy of separation. Today we are in charge of this Government. We ask for greater powers. We have the right to ask. But you know that, until we obtain those powers, this Government possesses the discipline to act within the powers as they presently stand.
+We belong to a party that once demanded the separatist goal that Dravida Nadu should belong to the Dravidians. But, recognising the country's security and the circumstances, we abandoned that very policy of separation. Today we are in charge of this Government. We ask for greater powers. We have the right to ask. But you know that, until we obtain those powers, this Government has the restraint to act within the powers as they presently stand.
 
 During Anna's time we held the foundation ceremony for the Veeranam project. But it took nearly 1¼ years to obtain permission for that project. We did not say, “Whether permission comes or not, let us begin anyway,” and start it. But today I wish to ask why the Central Government has forgotten what is happening in Mysore.
 
-### Veeranam is at least a somewhat bigger matter
+### Veeranam, at least, is a somewhat bigger matter
 
 I want to remind you of one thing. This is a small matter. Around our Fort wall, a great deal of grass and weeds had grown. I called our officials and asked, “Can we not clear those weeds and put in beautiful plants? Can we not grow colourful flowers?” The officials scratched their heads and replied: “This Fort belongs to the Central Government's military. We must obtain their permission to clear these weeds.”
 
@@ -640,13 +640,13 @@ After that, when the then Assistant Minister for Defence, Thiru Krishnu, came to
 
 He said that he would grant permission and left. We wrote a letter; then, after writing a couple of reminder letters and reminding him again when he later came to Madras, permission was obtained from the Central Government. The grass and weeds were cleared and good plants are now being grown. You see that sight every day.
 
-We sought the Central Government's permission even to clear the grass and weeds around the Fort. Even while asking that we should have powers of our own, we remain disciplined within their authority. But why does the Central Government not watch Mysore's conduct? Today they are going on building dams there without obtaining the approval of the Planning Commission.
+We sought the Central Government's permission even to clear the grass and weeds around the Fort. Even while asking that we should have powers of our own, we remain, with restraint, within their authority. But why does the Central Government not watch Mysore's conduct? Today they are going on building dams there without obtaining the approval of the Planning Commission.
 
 ### Permission denied to a film
 
 Dams such as Hemavathi, Kabini and Harangi are being built there. There is another curious episode in this. To discuss it, a meeting of all-party leaders was convened in our Ministers' room at the Fort. The Government filmed it as a newsreel. When that newsreel went to the Censor Board for release, the Censor Board refused permission. Do you know why? The film stated that it was a meeting of all-party leaders to examine “the Central Government's delay” in the Cauvery river-water dispute. There was a line to that effect. The Censor Board rejected it, saying that those words should not be there. Permission was refused.
 
-We immediately sent the film from here to the chief authority in Delhi and appealed there. As though putting a double lock on Ottakoothan's song, they said that the reference to the Central Government delaying the matter must be removed. They refused permission for release if the words “the Central Government is delaying” remained.
+We immediately sent the film from here to the chief authority in Delhi and appealed there. As though putting a double lock on Ottakoothan's song, the chief authority there said that the reference to the Central Government delaying the matter must be removed. They refused permission for release if the words “the Central Government is delaying” remained.
 
 Later, all-party meetings were held throughout Tamil Nadu. One was held in Madras too. I and the leaders of the other parties took part in Madras. That too was made into a newsreel and sent to the Censor Board. They rejected that as well.
 
@@ -672,7 +672,7 @@ I do not remember. I think it was either Assam or West Bengal—one of the two�
 
 <!-- source-page: 42 -->
 
-which announced in one year that, because its demand had not been met, it could not celebrate Independence Day on August 15.
+which, in one year, announced that, because its demand had not been met, it could not celebrate Independence Day on August 15.
 
 Likewise, if, because of the Kabini and Harangi dams being built in Mysore, the Cauvery dries up and Tamil Nadu is left dry within ten years, we too can say that this year's Independence Day has gone dark—to show that we will not permit Tamil Nadu itself to be darkened in that way!
 
@@ -690,7 +690,7 @@ In the United States, on January 16, 1919, the Constitution itself was amended a
 
 <!-- source-page: 43 -->
 
-prohibition were described as people taking bribes, and on February 20, 1938, the prohibition law was repealed.
+prohibition were described as bribe-takers, and on February 20, 1938, the prohibition law was repealed.
 
 In Finland, a prohibition law was introduced in 1907, and in 1931 a committee was appointed to examine the results of that law. The committee said that drunkenness had increased and that the number of offenders had risen. On the basis of that conclusion, the prohibition law in that country was repealed in 1932.
 
