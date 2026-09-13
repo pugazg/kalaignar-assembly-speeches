@@ -297,3 +297,24 @@ Status: **PASS / COMPLETE for this batch; Gate C.5 COMPLETE**
 
 Exact continuation: **Gate D — Tamil completeness audit**. Do not begin Gate E in the same iteration.
 
+## Cross-witness audit — Official Reports
+
+Status: **COMPLETE / PROVENANCE-AND-AMBIGUITY PASS**
+
+Secondary witnesses supplied by the user:
+
+- `713073.pdf` — Tamil Nadu Legislative Assembly, 29-06-1971; 88 PDF pages; Chief Minister's budget reply located at **PDF pp.61–86**; p.87 begins post-reply clarification material.
+- `900599.pdf` — Tamil Nadu Legislative Council, 30-06-1971; 52 PDF pages; Chief Minister's budget reply located at **PDF pp.26–50**; p.51 is post-reply / adjournment material and p.52 is an appendix.
+
+Cross-witness structural result: the Official Reports confirm that the booklet is an **edited two-House compilation**, not a verbatim reprint of either House record. The booklet contains Assembly-specific material as well as Council-specific connective wording, so the existing Gate-B rule against inventing a single House splice remains in force.
+
+Secondary support for the two remaining booklet uncertainties:
+
+- scan 11 / printed p.10 — Council PDF p.32 reads the corresponding passage `ஆகவே வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை போக ஏற்படுகிற நஷ்டம் தான் ...`;
+- scan 37 / printed p.36 — Council PDF p.38 reads the corresponding Rajaji quotation `... என்ற கருத்தினாலெழும் தேசபக்தி வேறு ...`.
+
+These are **high-confidence secondary readings**, not booklet-source corrections. Both uncertainty markers remain in the canonical booklet transcript because rendered booklet pixels remain controlling.
+
+Canonical booklet text changed in this audit: **NO**.
+
+Exact workflow continuation remains **Gate D — Tamil completeness audit**.

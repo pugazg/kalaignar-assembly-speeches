@@ -68,15 +68,34 @@ Gate C.5 is mandatory.
 - Gate C — PASS / COMPLETE — T1–T6 scans 4–60 / 57 of 57 pages
 - Gate C.5 — **PASS / COMPLETE — C.5-1–6 scans 4–60; 57/57 audited; 129 cumulative corrections across 109 source sites**
 - unresolved readings — **2** (scans 11 and 37; scan 31 resolved in C.5-3)
+- cross-witness — **COMPLETE / Official Reports aligned; canonical booklet text unchanged**
 - Gate D–E — NOT STARTED
 - English — BLOCKED
 - release — NOT RELEASED
+
+## Official Report cross-witness — COMPLETE
+
+User-supplied secondary witnesses:
+
+- `713073.pdf` — Legislative Assembly, 29-06-1971; 88 PDF pages; CM reply **PDF pp.61–86**.
+- `900599.pdf` — Legislative Council, 30-06-1971; 52 PDF pages; CM reply **PDF pp.26–50**.
+
+Durable result:
+
+- booklet's edited two-House construction — **CONFIRMED**;
+- single inferred House splice — **still prohibited**;
+- scan 11 — Council p.32 supports `... வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை போக ஏற்படுகிற நஷ்டம் தான் ...`;
+- scan 37 — Council p.38 supports `என்ற கருத்தினாலெழும் தேசபக்தி வேறு`;
+- canonical booklet wording changed — **NO**;
+- booklet unresolved count — **2**.
+
+Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
 ## Exact next activity
 
 Begin **Gate D — Tamil completeness audit** over the locked source body scans 4–60 / printed pp.3–59.
 
-Confirm all 57 mapped source pages are represented exactly once, source-page markers 4→60 are unique and monotonic, no page is skipped or duplicated, the locked start/end boundaries are preserved, all printed speaker changes/interventions are represented, and the two unresolved readings at scans 11 and 37 remain explicit. Do not begin Gate E in the same iteration.
+Confirm all 57 mapped source pages are represented exactly once, source-page markers 4→60 are unique and monotonic, no page is skipped or duplicated, the locked start/end boundaries are preserved, all printed speaker changes/interventions are represented, and the two unresolved readings at scans 11 and 37 remain explicit. The completed Official Report cross-witness audit gives high-confidence secondary readings for both uncertainties, but Gate D must not import those readings into the booklet source layer. Do not begin Gate E in the same iteration.
 
 ## Gate C T1 — COMPLETE
 

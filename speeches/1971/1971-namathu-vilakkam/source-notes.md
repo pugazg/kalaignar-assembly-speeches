@@ -36,7 +36,7 @@ The body is not split by a printed second title or reliable internal House divid
 
 Do not guess Assembly/Council splice points from member names, isolated House words, topic changes or illustrations.
 
-If Official Reports are later used for provenance comparison, they remain separate witnesses and must not silently correct the booklet transcription.
+Official Reports have now been retrieved and cross-witnessed. They remain separate secondary witnesses and **must not silently correct the booklet transcription**. See [`../../../sources/1971-namathu-vilakkam/cross-witness-audit.md`](../../../sources/1971-namathu-vilakkam/cross-witness-audit.md).
 
 ## Scan-specific features
 
@@ -46,8 +46,15 @@ If Official Reports are later used for provenance comparison, they remain separa
 - visible library stamps / handwriting are not source speech text;
 - printed English passages, where present, must be preserved verbatim.
 
+## Cross-witness status
+
+- 29-06-1971 Assembly Official Report supplied as `713073.pdf` — reply witness PDF pp.61–86;
+- 30-06-1971 Council Official Report supplied as `900599.pdf` — reply witness PDF pp.26–50;
+- result — **edited two-House booklet construction independently confirmed**;
+- scan 11 and scan 37 — both now have high-confidence Council secondary readings, while the booklet canonical markers remain unresolved.
+
 ## Current status
 
-Gate A and Gate B are complete. Gate C has not started.
+Gate A, Gate B, Gate C and Gate C.5 are complete. Cross-witness provenance/ambiguity audit is complete. Tamil is not yet verified; the two booklet uncertainties at scans 11 and 37 remain explicit.
 
-Exact next activity: **T1 scans 4–13 / implied printed pp.3–12**.
+Exact next activity: **Gate D — Tamil completeness audit**.

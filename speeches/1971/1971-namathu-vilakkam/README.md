@@ -33,8 +33,10 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 - Gate B — **PASS / LOCKED**
 - Gate C — **PASS / COMPLETE — T1–T6 scans 4–60; 57/57 pages**
 - Gate C.5 — **PASS / COMPLETE — scans 4–60 / 57 of 57 pages; 129 corrections across 109 source sites**
-- Gate D–H — **NOT STARTED**
-- Tamil — **FIRST PASS COMPLETE / C.5 IN PROGRESS / NOT VERIFIED — 2 unresolved readings**
+- cross-witness — **COMPLETE / provenance-and-ambiguity pass against 29-06-1971 Assembly and 30-06-1971 Council Official Reports; canonical booklet text unchanged**
+- Gate D — **NEXT / NOT STARTED**
+- Gate E–H — **BLOCKED / downstream**
+- Tamil — **FIRST PASS COMPLETE / C.5 COMPLETE / NOT VERIFIED — 2 booklet-unresolved readings with high-confidence Council secondary support**
 - English — **BLOCKED**
 - release — **NOT RELEASED**
 
@@ -45,6 +47,7 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 - [`transcript.md`](./transcript.md) — Gate-C first-pass Tamil complete for scans 4–60 / 57 pages.
 - [`verification-log.md`](./verification-log.md)
 - [`historical-glyph-audit.md`](./historical-glyph-audit.md)
+- [`../../../sources/1971-namathu-vilakkam/cross-witness-audit.md`](../../../sources/1971-namathu-vilakkam/cross-witness-audit.md) — Official Report provenance/alignment ledger
 
 Source mapping and provenance records live under:
 

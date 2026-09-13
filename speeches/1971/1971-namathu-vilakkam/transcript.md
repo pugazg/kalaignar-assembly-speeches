@@ -1,6 +1,6 @@
 # நமது விளக்கம்
 
-> **Gate C/C.5 working note:** Gate C first-pass transcription is **COMPLETE — scan pp.4–60 / implied printed pp.3–59, 57/57 body pages**. Gate C.5 historical-glyph/source-form audit is **IN PROGRESS**. C.5-1–2 have audited scans **4–23 / implied printed pp.3–22**, with **33 cumulative definite pixel-supported textual corrections across 24 source sites**. The three unresolved readings at scans 11, 31 and 37 remain explicit; no outside source has been used to fill them.
+> **Gate C/C.5 working note:** Gate C first-pass transcription is **COMPLETE — scan pp.4–60 / implied printed pp.3–59, 57/57 body pages**. Gate C.5 historical-glyph/source-form audit is **PASS / COMPLETE — 57/57**, with **129 cumulative definite booklet-pixel-supported corrections across 109 source sites**. Two booklet readings remain unresolved at scans **11** and **37**. A separate cross-witness audit against the 29-06-1971 Assembly and 30-06-1971 Council Official Reports documents high-confidence secondary readings for both, but **no Official Report wording has been imported into this controlling booklet transcript**.
 
 ---
 

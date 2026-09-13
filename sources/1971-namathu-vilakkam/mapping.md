@@ -82,7 +82,7 @@ The source is represented as an **edited two-House booklet compilation**, not as
 
 - Do not infer a House splice from isolated occurrences of `பேரவை`, `மேலவை`, member names, topic changes or cartoon placement.
 - Do not use an external Official Report to rewrite booklet wording.
-- If primary Assembly/Council Official Reports are later retrieved, create a provenance/alignment ledger that records source relationships without changing the booklet source layer.
+- Primary Assembly/Council Official Reports have now been retrieved. Their provenance/alignment findings are recorded in [`cross-witness-audit.md`](./cross-witness-audit.md) without changing the booklet source layer.
 - The reader-facing booklet entry remains one source witness with `date: null`.
 
 ### Provenance event records
@@ -91,6 +91,22 @@ The source is represented as an **edited two-House booklet compilation**, not as
 - `events/1971-06-30-council-budget-reply.md`
 
 These are event/provenance records only. They are not complete canonical transcripts and are not added to `data/speeches.json` merely on the strength of the edited booklet.
+
+---
+
+## Official Report cross-witness
+
+Status: **COMPLETE / PROVENANCE-AND-AMBIGUITY PASS**
+
+- Assembly witness — `713073.pdf`, 29-06-1971, 88 PDF pages; Chief Minister reply PDF pp.61–86.
+- Council witness — `900599.pdf`, 30-06-1971, 52 PDF pages; Chief Minister reply PDF pp.26–50.
+- structural result — the existing edited two-House booklet model is independently confirmed; no single inferred House splice is introduced.
+- scan 11 — Council PDF p.32 gives high-confidence secondary wording around `வட்டிக்காக ... தொகை போக ...`.
+- scan 37 — Council PDF p.38 gives high-confidence secondary wording `என்ற கருத்தினாலெழும் தேசபக்தி வேறு`.
+- canonical booklet transcript changes from cross-witness — **0**.
+- unresolved booklet readings remain — **2**.
+
+Full ledger: [`cross-witness-audit.md`](./cross-witness-audit.md).
 
 ---
 

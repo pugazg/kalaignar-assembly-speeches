@@ -53,7 +53,7 @@
     "gate_a": "pass-complete",
     "gate_b": "pass-locked-booklet-level",
     "gate_c": "complete",
-    "gate_c5": "in-progress",
+    "gate_c5": "pass-complete",
     "gate_d": "not-started",
     "gate_e": "not-started",
     "gate_f": "blocked",
@@ -79,13 +79,13 @@
         "scan_page": 11,
         "printed_page": 10,
         "marker": "⟦தெளிவில்லை: போக ஏ⟧",
-        "note": "Narrow phrase after ஆகவே and before வட்டிக்காக remains visually ambiguous in the controlling scan. No outside wording was substituted."
+        "note": "Narrow phrase remains visually ambiguous in the controlling booklet scan. Cross-witness audit: the 30-06-1971 Legislative Council Official Report, PDF p.32, independently reads the corresponding passage as `ஆகவே வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை போக ஏற்படுகிற நஷ்டம் தான் ...`. This is high-confidence secondary support only; no outside wording has been substituted into the booklet transcript."
       },
       {
         "scan_page": 37,
         "printed_page": 36,
         "marker": "⟦தெளிவில்லை: தேச பக்தி வேறு⟧",
-        "note": "Rajaji quotation from `நமது ஜனநாயகம்`: re-inspected directly from the controlling scan at high resolution during C.5-4; the short phrase remains insufficiently decisive for safe reconstruction. No outside edition was used."
+        "note": "Rajaji quotation remains visually ambiguous in the controlling booklet scan despite high-resolution re-inspection. Cross-witness audit: the 30-06-1971 Legislative Council Official Report, PDF p.38, independently reads the corresponding phrase as `என்ற கருத்தினாலெழும் தேசபக்தி வேறு`. This is high-confidence secondary support only; no outside wording has been substituted into the booklet transcript."
       }
     ],
     "illustration_context_recorded_scan_pages": [
@@ -252,5 +252,55 @@
     "canonical_dated_speech_index": false,
     "data_speeches_json": false,
     "reason": "edited two-House booklet compilation with no single speech date"
+  },
+  "cross_witness": {
+    "status": "complete-provenance-and-ambiguity-pass",
+    "canonical_authority": "ACL-CPL_01732_நமது_விளக்கம்.pdf rendered scan pixels",
+    "canonical_text_changed": false,
+    "booklet_representation_changed": false,
+    "audit_file": "sources/1971-namathu-vilakkam/cross-witness-audit.md",
+    "witnesses": [
+      {
+        "filename": "713073.pdf",
+        "house": "Tamil Nadu Legislative Assembly",
+        "date": "1971-06-29",
+        "pdf_pages": 88,
+        "file_size_bytes": 127383550,
+        "sha256": "33557239d1084cfd20d5bbc1b68182091bf6c234475081acb321bdebba38c99c",
+        "chief_minister_reply_pdf_pages": "61-86",
+        "following_material": "PDF p.87 begins post-reply clarification / adjournment material"
+      },
+      {
+        "filename": "900599.pdf",
+        "house": "Tamil Nadu Legislative Council",
+        "date": "1971-06-30",
+        "pdf_pages": 52,
+        "file_size_bytes": 65950249,
+        "sha256": "9ee1ecc81bff62e533bfb128bc0c69de0b937cfea49e47603aa41f4c082b9281",
+        "chief_minister_reply_pdf_pages": "26-50",
+        "following_material": "PDF p.51 is post-reply / adjournment material; p.52 appendix"
+      }
+    ],
+    "structural_finding": "Official Reports confirm that the booklet is an edited composite of both House replies, with Assembly-specific and Council-specific material interleaved/condensed. No single inferred House splice is authorized.",
+    "unresolved_secondary_support": [
+      {
+        "booklet_scan": 11,
+        "printed_page": 10,
+        "witness": "900599.pdf / Legislative Council / 30-06-1971",
+        "witness_pdf_page": 32,
+        "reading": "ஆகவே வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை போக ஏற்படுகிற நஷ்டம் தான் ...",
+        "confidence": "high",
+        "canonical_status": "unresolved-in-booklet"
+      },
+      {
+        "booklet_scan": 37,
+        "printed_page": 36,
+        "witness": "900599.pdf / Legislative Council / 30-06-1971",
+        "witness_pdf_page": 38,
+        "reading": "என்ற கருத்தினாலெழும் தேசபக்தி வேறு",
+        "confidence": "high",
+        "canonical_status": "unresolved-in-booklet"
+      }
+    ]
   }
 }
