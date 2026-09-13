@@ -221,3 +221,23 @@ Status: **PASS / COMPLETE for this batch**
 
 Exact continuation: **Gate C.5-3 scans 24–33 / printed pp.23–32**.
 
+### C.5-3 — scans 24–33 / printed pp.23–32
+
+Status: **PASS / COMPLETE for this batch**
+
+- pages audited — **10/10**
+- cumulative Gate-C.5 coverage — **30/57**
+- new definite textual corrections — **18 across 16 source sites**
+- cumulative Gate-C.5 corrections — **51 across 40 source sites**
+- source authority — rendered scan pixels only
+- global replacement / modernization / outside textual witnesses — **none**
+- scan-31 classroom uncertainty — **resolved directly from source pixels**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **2** (scans 11 and 37)
+- source-page marker sequence — **4→60 unchanged / 57 markers**
+- notable repairs include scan-24 accusative/modal wording, scan-25 `நிறைவேற்றிடுவோம்`, scan-26 accusatives, scan-30 restored `மருத்துவச்சாலை அனுமதியா,`, scan-31 `பார்க்க` / `விமரிசனம்` plus the resolved `சுவரில் ஒரு சிறிய வளை ... எலி` anecdote, scan-32 `சொன்னார்—` / `புதியதாக`, and scan-33 `மீதா`
+- Tamil `verified_against_scan=false`
+- Gate D — **BLOCKED**
+
+Exact continuation: **Gate C.5-4 scans 34–43 / printed pp.33–42**. Re-inspect the existing scan-37 uncertainty directly from pixels.
+

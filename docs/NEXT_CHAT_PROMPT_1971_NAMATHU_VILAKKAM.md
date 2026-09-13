@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1971 நமது விளக்கம் / Gate C.5-3 scans 24–33
+# NEXT CHAT PROMPT — 1971 நமது விளக்கம் / Gate C.5-4 scans 34–43
 
 Continue directly in pugazg/kalaignar-assembly-speeches, branch main. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -14,32 +14,31 @@ ACL-CPL_01732_நமது_விளக்கம்.pdf — rendered scan pixels
 - Gate C.5 — **IN PROGRESS**
 - C.5-1 scans **4–13 — COMPLETE / PASS**
 - C.5-2 scans **14–23 — COMPLETE / PASS**
-- cumulative C.5 coverage — **20/57**
-- cumulative definite corrections — **33 across 24 source sites**
-- unresolved readings — **3**
+- C.5-3 scans **24–33 — COMPLETE / PASS**
+- cumulative C.5 coverage — **30/57**
+- cumulative definite corrections — **51 across 40 source sites**
+- unresolved readings — **2**
   - scan 11 / printed p.10 — re-inspected in C.5-1; still unresolved
-  - scan 31 / printed p.30 — MUST be re-inspected in this next batch
-  - scan 37 / printed p.36 — later batch
+  - scan 37 / printed p.36 — MUST be re-inspected in this next batch
+- scan 31 / printed p.30 — **RESOLVED in C.5-3** directly from the booklet pixels as `சுவரைப் பார்த்துக் கொண்டிருந்தான். சுவரில் ஒரு சிறிய வளை. அதில் ஓர் எலி நுழைந்து கொண்டிருந்தது.`
 - Gate D — **BLOCKED**
 - Tamil verified_against_scan — **false**
 - English — **BLOCKED**
 
-## C.5-2 durable highlights
+## C.5-3 durable highlights
 
-- scan 14 — `இதனைத்தான்`
-- scan 15 — `குழப்பம்`; `பதவி ஒதுக்கம் செய்யப்பட்டு`; `கிராமப்புற மக்கள் விடுவிப்பதற்கும்`
-- scan 16 — `ஜனநாயகத்திலே`
-- scan 17→18 — corrected flag-sale sentence and restored omitted `பற்றின் காரணமாக என்றால் அந்த வட்டாரத்திலே`
-- scan 18 — `பொறுப்புகளை`; `வீடுகளைக்`
-- scan 19 — `இவைகளையெல்லாம் ... என்பதைத்தான்`
-- scan 20 — `எண்ணினால்கூட`
-- scan 21 — `தாங்கக் கூடியவர்களைத்`; `பளுவை`; `மேல்வரிப் பிரச்சினையிலும்`
-- scan 22 — `இதே`; `கோரிக்கை இணங்க`; `5 சதவிகிதமாகக்`; accusative forms restored
-- scan 23 — `தந்திருக்கிறோம். அதனை`; `செங்கற்பட்டு`
+- scan 24 — `எதிர்க் கட்சித்`; `வாக்குறுதிகளை ... முடியாது`
+- scan 25 — `என்னென்ன திட்டங்களை நிறைவேற்றிடுவோம்?`
+- scan 26 — `11 கேள்விகளை`; `பல விஷயங்களை`; `நாட்டிலுள்ள`; `நிலைமைகளை`
+- scan 27 — `விவாதத்துக்கு`
+- scan 30 — `ஒன்றரைக் கோடி`; restored `மருத்துவச்சாலை அனுமதியா,`
+- scan 31 — `பார்க்க`; `விமரிசனம்`; classroom uncertainty resolved to `சுவரில் ஒரு சிறிய வளை. அதில் ஓர் எலி...`
+- scan 32 — `இப்படிச் சொன்னார்—நேரு`; `புதியதாக`
+- scan 33 — `ஐந்தாண்டுத் திட்டத்தின் மீதா ஓட்டுக் கேட்டது?`
 
 ## Exact next activity
 
-Perform **Gate C.5-3 historical-glyph/source-form audit — scans 24–33 / printed pp.23–32**.
+Perform **Gate C.5-4 historical-glyph/source-form audit — scans 34–43 / printed pp.33–42**.
 
 Requirements:
 
@@ -47,10 +46,10 @@ Requirements:
 2. inspect reform-sensitive historical Tamil typeforms and all ordinary source-form discrepancies;
 3. make only definite pixel-supported corrections;
 4. do not global-replace, modernize, or import outside wording;
-5. directly re-inspect the existing scan-31 unresolved classroom-anecdote phrase; resolve only if pixels are decisive;
-6. preserve the scan-11 and scan-37 unresolved markers;
+5. directly re-inspect the existing scan-37 unresolved Rajaji-quotation phrase; resolve only if the booklet pixels are decisive;
+6. preserve the scan-11 unresolved marker;
 7. record exact batch and cumulative correction counts and unresolved outcomes;
 8. update transcript, metadata, historical-glyph audit, verification log, READMEs, mapping, handover, root status and next prompt;
 9. do not begin Gate D in the same iteration.
 
-Expected next after this batch: **C.5-4 scans 34–43 / printed pp.33–42**.
+Expected next after this batch: **C.5-5 scans 44–53 / printed pp.43–52**.

@@ -66,16 +66,17 @@ Gate C.5 is mandatory.
 - Gate A — PASS
 - Gate B — PASS / LOCKED
 - Gate C — PASS / COMPLETE — T1–T6 scans 4–60 / 57 of 57 pages
-- Gate C.5 — REQUIRED
+- Gate C.5 — **IN PROGRESS — C.5-1–3 scans 4–33 COMPLETE; 30/57 audited; 51 cumulative corrections**
+- unresolved readings — **2** (scans 11 and 37; scan 31 resolved in C.5-3)
 - Gate D–E — NOT STARTED
 - English — BLOCKED
 - release — NOT RELEASED
 
 ## Exact next activity
 
-Gate C T2: **transcribe scans 14–23 / printed pp.13–22** directly from the booklet pixels.
+Begin **Gate C.5-4 historical-glyph/source-form audit — scans 34–43 / printed pp.33–42**.
 
-T1 scans 4–13 is durable. Cumulative Gate-C coverage: **10/57**. Unresolved readings: **1**, at scan 11 / printed p.10 after ஆகவே and before வட்டிக்காக, preserved as ⟦தெளிவில்லை: போக ஏ⟧. Gate C.5 has not started. Do not import Official Report wording.
+Re-inspect the existing scan-37 Rajaji-quotation uncertainty directly from the booklet pixels. Preserve scan 11 unless its own source pixels are revisited in a later targeted pass. Do not global-replace, modernize, import Official Report wording, or begin Gate D in the same iteration.
 
 ## Gate C T1 — COMPLETE
 
@@ -220,3 +221,19 @@ Notable source repairs: scan 15 `குழப்பம்` / `செய்யப
 
 Exact next: **Gate C.5-3 scans 24–33 / printed pp.23–32**. Re-inspect the existing scan-31 unresolved phrase directly from pixels.
 
+## Gate C.5-3 — COMPLETE / PASS
+
+- scans — **24–33 / printed pp.23–32**
+- pages audited — **10**
+- cumulative C.5 — **30/57**
+- new corrections — **18 across 16 source sites**
+- cumulative corrections — **51 across 40 source sites**
+- scan 31 classroom uncertainty — **RESOLVED directly from pixels**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **2** (scans 11 and 37)
+- source markers — **4→60 unchanged**
+- Gate D — **BLOCKED**
+
+Notable source repairs: scan 24 `எதிர்க் கட்சித்` and accusative/modal wording; scan 25 `திட்டங்களை நிறைவேற்றிடுவோம்`; scan 26 accusatives / `நாட்டிலுள்ள`; scan 27 `விவாதத்துக்கு`; scan 30 `ஒன்றரைக்` and restored `மருத்துவச்சாலை அனுமதியா,`; scan 31 `பார்க்க`, `விமரிசனம்`, and the now-resolved classroom reading `சுவரில் ஒரு சிறிய வளை. அதில் ஓர் எலி...`; scan 32 `சொன்னார்—` / `புதியதாக`; scan 33 `மீதா`.
+
+Exact next: **Gate C.5-4 scans 34–43 / printed pp.33–42**. Re-inspect the existing scan-37 uncertainty directly from pixels.

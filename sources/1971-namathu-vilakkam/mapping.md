@@ -98,12 +98,12 @@ These are event/provenance records only. They are not complete canonical transcr
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / LOCKED**
-- Gate C — **PASS / COMPLETE — scans 4–60; 57/57 pages; 3 unresolved readings carried into Gate C.5 / later fidelity gates**
-- Gate C.5 — **IN PROGRESS — C.5-1–2 scans 4–23 COMPLETE; 20/57 audited; 33 cumulative corrections**
+- Gate C — **PASS / COMPLETE — scans 4–60; 57/57 pages; first-pass carried 3 unresolved readings; C.5-3 resolved scan 31, leaving 2**
+- Gate C.5 — **IN PROGRESS — C.5-1–3 scans 4–33 COMPLETE; 30/57 audited; 51 cumulative corrections**
 - Tamil verification — **blocked until Gate E**
 - English — **blocked until Tamil verification**
 - Gate H / release — **not reached**
 
 ## Exact continuation
 
-Gate C.5-3: audit **scans 24–33 / printed pp.23–32**. C.5-1–2 are complete at **20/57 pages**, with **33 cumulative corrections across 24 source sites** and **3 unresolved readings** remaining. Scan 31 contains an existing unresolved marker and must be re-inspected directly in this next batch. Do not begin Gate D until Gate C.5 is complete.
+Gate C.5-4: audit **scans 34–43 / printed pp.33–42**. C.5-1–3 are complete at **30/57 pages**, with **51 cumulative corrections across 40 source sites** and **2 unresolved readings** remaining. Scan 31 was resolved directly from the pixels in C.5-3; scan 37 must be re-inspected in this next batch. Do not begin Gate D until Gate C.5 is complete.

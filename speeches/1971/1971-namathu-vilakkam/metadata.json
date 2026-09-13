@@ -73,19 +73,13 @@
     "completed_page_count": 57,
     "total_page_count": 57,
     "last_batch": "T6-final",
-    "unresolved_readings": 3,
+    "unresolved_readings": 2,
     "unresolved_reading_locations": [
       {
         "scan_page": 11,
         "printed_page": 10,
         "marker": "⟦தெளிவில்லை: போக ஏ⟧",
         "note": "Narrow phrase after ஆகவே and before வட்டிக்காக remains visually ambiguous in the controlling scan. No outside wording was substituted."
-      },
-      {
-        "scan_page": 31,
-        "printed_page": 30,
-        "marker": "⟦தெளிவில்லை: பொருள்/வளையல் குறித்த சொற்றொடர்⟧",
-        "note": "Classroom anecdote under வால் மாத்திரம் பாக்கி: the object phrase after கையில் ஒரு is not sufficiently legible in the controlling pixels. No external reconstruction was substituted."
       },
       {
         "scan_page": 37,
@@ -120,18 +114,18 @@
       48
     ],
     "gate_c_complete": true,
-    "gate_c_completion_note": "Gate C first-pass Tamil transcription complete for all 57 body pages, scans 4-60 / implied printed pp.3-59. Source-page markers 4-60 occur exactly once and in order. Three unresolved readings remain at scans 11, 31 and 37. Gate C.5 historical-glyph audit is next.",
+    "gate_c_completion_note": "Gate C first-pass Tamil transcription is complete for all 57 body pages, scans 4-60 / implied printed pp.3-59. Source-page markers 4-60 occur exactly once and in order. The first pass carried three unresolved readings at scans 11, 31 and 37; Gate C.5-3 resolved the scan-31 classroom anecdote directly from the controlling pixels, leaving two unresolved readings at scans 11 and 37.",
     "gate_c5_status": "in-progress",
-    "gate_c5_completed_scan_pages": "4-23",
-    "gate_c5_completed_printed_pages": "implied 3-22",
-    "gate_c5_audited_page_count": 20,
+    "gate_c5_completed_scan_pages": "4-33",
+    "gate_c5_completed_printed_pages": "implied 3-32",
+    "gate_c5_audited_page_count": 30,
     "gate_c5_total_page_count": 57,
-    "gate_c5_last_batch": "C.5-2",
-    "gate_c5_next_batch": "scans 24-33 / printed pp.23-32",
-    "gate_c5_correction_count": 33,
-    "gate_c5_correction_sites": 24,
-    "gate_c5_unresolved_readings": 3,
-    "gate_c5_note": "C.5-1–2 audited scans 4-23 directly against rendered pixels. C.5-2 added 25 definite textual corrections across 19 source sites; cumulative Gate C.5 corrections are 33 across 24 sites. No new unresolved readings were introduced; the existing unresolved readings remain at scans 11, 31 and 37.",
+    "gate_c5_last_batch": "C.5-3",
+    "gate_c5_next_batch": "scans 34-43 / printed pp.33-42",
+    "gate_c5_correction_count": 51,
+    "gate_c5_correction_sites": 40,
+    "gate_c5_unresolved_readings": 2,
+    "gate_c5_note": "C.5-1–3 audited scans 4-33 directly against rendered pixels. C.5-3 added 18 definite textual corrections across 16 source sites; cumulative Gate C.5 corrections are 51 across 40 sites. The scan-31 classroom uncertainty was resolved from the booklet pixels as `சுவரைப் பார்த்துக் கொண்டிருந்தான். சுவரில் ஒரு சிறிய வளை. அதில் ஓர் எலி நுழைந்து கொண்டிருந்தது.` Two unresolved readings remain at scans 11 and 37.",
     "gate_c5_corrections": [
       "scan 4 / implied printed p.3: மாண்புமிகு உறுப்பினர்கள் → மாமன்றத்து உறுப்பினர்கள்.",
       "scan 5 / printed p.4: four occurrences குளோரோபாம் → குளோரோஃபாம்.",
@@ -158,7 +152,23 @@
       "scan 22 / printed p.21: கொண்டிருப்பவர்கள் வரிகள் → கொண்டிருப்பவர்களை வரிகள்.",
       "scan 22 / printed p.21: இந்த வரிகள் எல்லாம் → இந்த வரிகளை எல்லாம்.",
       "scan 23 / printed p.22: ஊதிய உயர்வு தருகிறோம். அதன் → ஊதிய உயர்வு தந்திருக்கிறோம். அதனை.",
-      "scan 23 / printed p.22: செங்கல்பட்டு → செங்கற்பட்டு."
+      "scan 23 / printed p.22: செங்கல்பட்டு → செங்கற்பட்டு.",
+      "scan 24 / printed p.23: எதிர்க்கட்சித் தலைவர் → எதிர்க் கட்சித் தலைவர்.",
+      "scan 24 / printed p.23: வாக்குறுதிகள் நிறைவேற்ற முடியாத ஒரு → வாக்குறுதிகளை நிறைவேற்ற முடியாது ஒரு.",
+      "scan 25 / printed p.24: என்னென்ன திட்டங்கள் நிறைவேற்றப்படும்? → என்னென்ன திட்டங்களை நிறைவேற்றிடுவோம்?",
+      "scan 26 / printed p.25: 11 கேள்விகள் → 11 கேள்விகளை.",
+      "scan 26 / printed p.25: பல விஷயங்கள் உள்ளடக்கியதான → பல விஷயங்களை உள்ளடக்கியதான.",
+      "scan 26 / printed p.25: இந்த நாட்டில் உள்ள → இந்த நாட்டிலுள்ள.",
+      "scan 26 / printed p.25: நிலைமைகள் ஆராய்ந்து → நிலைமைகளை ஆராய்ந்து.",
+      "scan 27 / printed p.26: விவாதத்திற்கு வரும் நேரத்தில் → விவாதத்துக்கு வரும் நேரத்தில்.",
+      "scan 30 / printed p.29: ஒன்றரை கோடி ரூபாயை → ஒன்றரைக் கோடி ரூபாயை.",
+      "scan 30 / printed p.29: restored omitted source phrase `மருத்துவச்சாலை அனுமதியா,` between `கல்வி அனுமதியா,` and `மருத்துவச் சாலைக்கு 2—3 புதிய படுக்கைகள் வேண்டுமா`.",
+      "scan 31 / printed p.30: நாம் காண முடியும் → நாம் பார்க்க முடியும்.",
+      "scan 31 / printed p.30: விமர்சனம் → விமரிசனம்.",
+      "scan 31 / printed p.30: resolved the classroom-anecdote uncertainty to `ஒரு மாணவன் பாடத்தைக் கவனிக்காமல் சுவரைப் பார்த்துக் கொண்டிருந்தான். சுவரில் ஒரு சிறிய வளை. அதில் ஓர் எலி நுழைந்து கொண்டிருந்தது.`",
+      "scan 32 / printed p.31: இப்படிச் சொன்ன நேரு → இப்படிச் சொன்னார்—நேரு.",
+      "scan 32 / printed p.31: புதிதாக மாநில கவர்னர் → புதியதாக மாநில கவர்னர்.",
+      "scan 33 / printed p.32: ஐந்தாண்டுத் திட்டத்தின் மீது எதை ஓட்டுக் கேட்டது? → ஐந்தாண்டுத் திட்டத்தின் மீதா ஓட்டுக் கேட்டது?"
     ]
   },
   "translation": {

@@ -2,15 +2,16 @@
 
 Gate C.5 is **mandatory** for this 1971 source.
 
-Status: **IN PROGRESS — C.5-1–2 scans 4–23 COMPLETE; 20/57 pages audited; 33 cumulative corrections**
+Status: **IN PROGRESS — C.5-1–3 scans 4–33 COMPLETE; 30/57 pages audited; 51 cumulative corrections**
 
 Gate C first-pass Tamil is complete for **scans 4–60 / 57 body pages**.
 
 Current unresolved readings carried into the audit:
 
 - scan 11 / printed p.10 — phrase after `ஆகவே` before `வட்டிக்காக`;
-- scan 31 / printed p.30 — classroom-anecdote object phrase;
 - scan 37 / printed p.36 — short phrase inside the Rajaji quotation.
+
+The former scan-31 classroom uncertainty was resolved directly from the controlling pixels in C.5-3.
 
 Minimum reform-sensitive families to inspect page by page:
 
@@ -92,8 +93,46 @@ The list above records **19 source sites**; several sites contain more than one 
 
 No existing unresolved marker falls inside scans 14–23. The scan-11 uncertainty remains untouched; scans 31 and 37 remain pending in later C.5 batches.
 
+## C.5-3 — scans 24–33 / printed pp.23–32
+
+Status: **COMPLETE / PASS for this batch**
+
+- pages audited — **10/10**
+- cumulative C.5 — **30/57**
+- new definite textual corrections — **18 across 16 source sites**
+- cumulative definite corrections — **51 across 40 source sites**
+- global replacements — **none**
+- modernization — **none**
+- outside textual witnesses imported — **none**
+- scan-31 existing unresolved reading — **RESOLVED from controlling pixels**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **2** (scans 11 and 37)
+
+Corrections:
+
+1. scan 24: `எதிர்க்கட்சித் தலைவர்` → `எதிர்க் கட்சித் தலைவர்`
+2. scan 24: `வாக்குறுதிகள் நிறைவேற்ற முடியாத ஒரு` → `வாக்குறுதிகளை நிறைவேற்ற முடியாது ஒரு`
+3. scan 25: `என்னென்ன திட்டங்கள் நிறைவேற்றப்படும்?` → `என்னென்ன திட்டங்களை நிறைவேற்றிடுவோம்?`
+4. scan 26: `11 கேள்விகள்` → `11 கேள்விகளை`
+5. scan 26: `பல விஷயங்கள் உள்ளடக்கியதான` → `பல விஷயங்களை உள்ளடக்கியதான`
+6. scan 26: `இந்த நாட்டில் உள்ள` → `இந்த நாட்டிலுள்ள`
+7. scan 26: `நிலைமைகள் ஆராய்ந்து` → `நிலைமைகளை ஆராய்ந்து`
+8. scan 27: `விவாதத்திற்கு வரும் நேரத்தில்` → `விவாதத்துக்கு வரும் நேரத்தில்`
+9. scan 30: `ஒன்றரை கோடி ரூபாயை` → `ஒன்றரைக் கோடி ரூபாயை`
+10. scan 30: restored omitted `மருத்துவச்சாலை அனுமதியா,`
+11. scan 31: `நாம் காண முடியும்` → `நாம் பார்க்க முடியும்`
+12. scan 31: `விமர்சனம்` → `விமரிசனம்`
+13. scan 31: classroom sentence repaired directly from pixels to `ஒரு மாணவன் பாடத்தைக் கவனிக்காமல் சுவரைப் பார்த்துக் கொண்டிருந்தான். சுவரில் ஒரு சிறிய வளை. அதில் ஓர் எலி நுழைந்து கொண்டிருந்தது.`
+14. scan 32: `இப்படிச் சொன்ன நேரு` → `இப்படிச் சொன்னார்—நேரு`
+15. scan 32: `புதிதாக மாநில கவர்னர்` → `புதியதாக மாநில கவர்னர்`
+16. scan 33: `ஐந்தாண்டுத் திட்டத்தின் மீது எதை ஓட்டுக் கேட்டது?` → `ஐந்தாண்டுத் திட்டத்தின் மீதா ஓட்டுக் கேட்டது?`
+
+Items 2 and 3 each contain two distinct textual corrections, giving the batch total of **18**.
+
+The scan-31 uncertainty marker is removed because the scan itself is decisive. The scan-11 and scan-37 uncertainties remain unchanged.
+
 ## Exact next activity
 
-**C.5-3 scans 24–33 / printed pp.23–32**.
+**C.5-4 scans 34–43 / printed pp.33–42**. Re-inspect the existing scan-37 Rajaji-quotation uncertainty directly from the booklet pixels. Do not begin Gate D.
 
 
