@@ -2,9 +2,9 @@
 
 ## Status
 
-**Gate G IN PROGRESS — G1 COMPLETE.**
+**Gate G IN PROGRESS — G1–G2 COMPLETE.**
 
-Gate F first-pass English is complete for **57/57 pages, scans 4–60**. Gate G has reviewed **10/57 pages** through scans **4–13 / implied printed pp.3–12**.
+Gate F first-pass English is complete for **57/57 pages, scans 4–60**. Gate G has reviewed **20/57 pages** through scans **4–23 / implied printed pp.3–22**.
 
 ## Review authority
 
@@ -19,8 +19,8 @@ Do not use OCR, booklet pixels, web research, or the Assembly/Council Official R
 | Batch | Scan pages | Printed pages | Status | Blocking fidelity issues |
 |---|---:|---:|---|---:|
 | G1 | 4–13 | implied 3–12 | **complete** | 0 |
-| G2 | 14–23 | 13–22 | next | — |
-| G3 | 24–33 | 23–32 | pending | — |
+| G2 | 14–23 | 13–22 | **complete** | 0 |
+| G3 | 24–33 | 23–32 | next | — |
 | G4 | 34–43 | 33–42 | pending | — |
 | G5 | 44–53 | 43–52 | pending | — |
 | G6 / FINAL | 54–60 | 53–59 | pending | — |
@@ -59,4 +59,27 @@ Checks passing without change:
 
 Verified Tamil changes during G1: **none**. Official Report / OCR / booklet-pixel / web wording used: **none**.
 
-Exact next: **Gate G G2 — scans 14–23 / printed pp.13–22**.
+## G2 — scans 14–23 / printed pp.13–22
+
+Status: **COMPLETE — 10/10 pages / 0 blocking fidelity issues**
+
+Three reader-facing English refinements were applied from the verified Tamil only:
+
+1. **scan 14** — `how much ... these people were going to divide among themselves` → `who would get how much of this Rs. 50 crore`, avoiding an unsupported implication that the money would be divided among the speakers/officials;
+2. **scan 14** — restored the omitted source phrase `மிகுந்த தந்திரத்தோடு` as `with great cleverness` in the district-allocation sentence;
+3. **scan 19** — `backward people` → `people living in a backward condition` for `பிற்போக்கான நிலையில் உள்ள மக்கள்`, preserving the source's description of condition rather than introducing a category label.
+
+Checks passing without change:
+
+- source-page markers **14→23** and page order;
+- page-spanning syntax **15→16** and **19→20**;
+- all headings in the range;
+- employment figures, salary amounts, tax percentages and State-income figures;
+- illustration/context notes on scans **14, 16, 18, 19, 23**;
+- beggars' rehabilitation humour and `பற்று` wordplay;
+- `Harijan`, `business limit`, `compounding`, `ground`, Slum Clearance Board and Water Supply Board source-controlled terminology;
+- no omission/addition requiring Tamil change.
+
+Verified Tamil changes during G2: **none**. Official Report / OCR / booklet-pixel / web wording used: **none**.
+
+Exact next: **Gate G G3 — scans 24–33 / printed pp.23–32**.

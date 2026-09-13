@@ -2,14 +2,14 @@
 
 ## Current status
 
-**Gate F PASS / COMPLETE — Gate G IN PROGRESS / G1 COMPLETE.**
+**Gate F PASS / COMPLETE — Gate G IN PROGRESS / G1–G2 COMPLETE.**
 
 - verified Tamil prerequisite — **PASS / COMPLETE 57/57**;
 - Gate F first-pass translation — **57/57 pages complete**;
 - completed range — **scans 4–60 / implied printed pp.3–59**;
 - F1–F6 translation questions — **0 blocking**;
 - English `verified_against_tamil` — **false**;
-- Gate G — **IN PROGRESS — G1 scans 4–13 COMPLETE; 10/57 reviewed; 5 refinements; 0 blocking fidelity issues**;
+- Gate G — **IN PROGRESS — G1–G2 scans 4–23 COMPLETE; 20/57 reviewed; 8 refinements; 0 blocking fidelity issues**;
 - Official Report wording used — **none**.
 
 ## Gate-F tracker
@@ -90,8 +90,8 @@
 | Batch | Scan pages | Status | English refinements | Blocking fidelity issues |
 |---|---:|---|---:|---:|
 | G1 | 4–13 | **complete** | 5 | 0 |
-| G2 | 14–23 | next | — | — |
-| G3 | 24–33 | pending | — | — |
+| G2 | 14–23 | **complete** | 3 | 0 |
+| G3 | 24–33 | next | — | — |
 | G4 | 34–43 | pending | — | — |
 | G5 | 44–53 | pending | — | — |
 | G6 / FINAL | 54–60 | pending | — | — |
@@ -106,4 +106,15 @@
 - names, figures, money, counts, headings, interventions, illustration notes and page ordering — **PASS**;
 - Official Report / OCR / booklet pixels / web wording used — **none**.
 
-Exact next: **Gate G G2 — scans 14–23 / printed pp.13–22**.
+## G2 notes
+
+- reviewed scans **14–23 / 10 pages**, cumulative **20/57**;
+- reader-facing English refinements — **3 / cumulative 8**;
+- blocking fidelity issues — **0**;
+- verified Tamil changes — **none**;
+- scan 14 allocation/share wording and omitted `மிகுந்த தந்திரத்தோடு` repaired;
+- scan 19 `பிற்போக்கான நிலையில் உள்ள மக்கள்` clarified as a condition, not a category label;
+- figures, money, percentages, employment counts, headings, illustration notes and page-spanning syntax — **PASS**;
+- Official Report / OCR / booklet pixels / web wording used — **none**.
+
+Exact next: **Gate G G3 — scans 24–33 / printed pp.23–32**.

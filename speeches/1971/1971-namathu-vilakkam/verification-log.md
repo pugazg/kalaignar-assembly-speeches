@@ -684,3 +684,21 @@ Status: **COMPLETE / Gate G remains IN PROGRESS**
 Refinements: scan 7 `a good man—a capable man`; scan 8 `goodwill and interest`; scan 10 `ceiling`; scan 12 employment/unemployment problem-frame; scan 13 `is useful only to that extent`.
 
 Exact continuation: **Gate G G2 — scans 14–23 / printed pp.13–22**.
+
+### G2 — scans 14–23 / printed pp.13–22
+
+Status: **COMPLETE / Gate G remains IN PROGRESS**
+
+- pages reviewed — **10/10**;
+- cumulative Gate-G coverage — **20/57**;
+- reader-facing English refinements — **3 / cumulative 8**;
+- blocking fidelity issues — **0**;
+- verified Tamil changes — **none**;
+- source-page order / page-spanning syntax 15→16 and 19→20 — **PASS**;
+- headings / figures / money / percentages / employment counts — **PASS**;
+- illustration/context notes scans 14, 16, 18, 19, 23 — **PASS**;
+- Official Report / OCR / booklet-pixel / web wording used — **NO**.
+
+Refinements: scan 14 corrected the Rs. 50 crore share sentence; scan 14 restored omitted `மிகுந்த தந்திரத்தோடு` as `with great cleverness`; scan 19 changed `backward people` to `people living in a backward condition`.
+
+Exact continuation: **Gate G G3 — scans 24–33 / printed pp.23–32**.

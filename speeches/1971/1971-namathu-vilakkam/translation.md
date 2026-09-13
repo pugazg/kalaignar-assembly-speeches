@@ -1,6 +1,6 @@
 # English translation — நமது விளக்கம்
 
-> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F first-pass translation is **PASS / COMPLETE — scans 4–60 / 57/57 pages**. Gate G page-by-page fidelity review is **IN PROGRESS — G1 scans 4–13 COMPLETE, 10/57 reviewed, 5 English fidelity refinements, 0 blocking issues**.
+> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F first-pass translation is **PASS / COMPLETE — scans 4–60 / 57/57 pages**. Gate G page-by-page fidelity review is **IN PROGRESS — G1–G2 scans 4–23 COMPLETE, 20/57 reviewed, 8 cumulative English fidelity refinements, 0 blocking issues**.
 
 ---
 
@@ -177,7 +177,7 @@ Apart from what they pointed out, the Government of India allocated Rs. 50 crore
 
 > **Source illustration note:** An editorial illustration in front of a large gateway/house-like structure prominently shows the number `15000`.
 
-They wondered how much of this Rs. 50 crore these people were going to divide among themselves. They became agitated even before that. In truth, the Rs. 50 crore was allocated for the rural employment programme for all of India. When making this allocation, instead of fixing employment for 15,000 people per State, or fixing so many people per division or per block, some clever person in the Central Government devised the scheme as employment for one thousand people per district.
+They wondered who would get how much of this Rs. 50 crore. Even before anything else, this caused them some concern. In truth, the Rs. 50 crore was allocated for the rural employment programme for all of India. When making this allocation, with great cleverness, instead of fixing employment for 15,000 people per State, or fixing so many people per division or per block, some clever person in the Central Government devised the scheme as employment for one thousand people per district.
 
 As far as Tamil Nadu is concerned, we have fewer districts but they are large in area. As the Leader of the Opposition pointed out, in the northern States there are more districts and they are smaller in area. In some places, Uttar Pradesh for instance, there are 54 districts. In Maharashtra there are more than 26 districts; more than 34 districts are there.
 
@@ -241,7 +241,7 @@ This is a frightening problem that has remained unresolved for many years. Today
 
 Similarly, through a Water Supply Board in Tamil Nadu, we have drawn up plans involving the expenditure of many crores so that protected drinking water may become available to all rural people within the next several years, and we have carried out many progressive measures in that field at great speed.
 
-When I read the Budget Statement, I explained the basis on which we are doing all these things. This Government has undertaken all these efforts so that there may be a dawn in the lives of the poor and humble, rural people, and backward people who until now have been pushed down and cast aside somewhere, unable even to become properly aware of themselves.
+When I read the Budget Statement, I explained the basis on which we are doing all these things. This Government has undertaken all these efforts so that there may be a dawn in the lives of the poor and humble, rural people, and people living in a backward condition who until now have been pushed down and cast aside somewhere, unable even to become properly aware of themselves.
 
 Will the needs of our State be fully met by the schemes set out in this Budget Statement alone? No. There are still many needs. Members who spoke here have set out those needs constituency by constituency.
 

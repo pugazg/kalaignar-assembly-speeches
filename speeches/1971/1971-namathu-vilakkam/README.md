@@ -37,7 +37,7 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 - Gate D — **PASS / COMPLETE — 57/57; 0 completeness corrections; 0 unresolved completeness questions**
 - Gate E — **PASS / COMPLETE — E1–E6 scans 4–60; 57/57 verified; 101 cumulative corrections; 0 unresolved source-fidelity questions**
 - Gate F — **PASS / COMPLETE — F1–F6 scans 4–60; 57/57 translated; 0 blocking questions**
-- Gate G — **IN PROGRESS — G1 scans 4–13 COMPLETE; 10/57 reviewed; 5 refinements; 0 blocking fidelity issues**
+- Gate G — **IN PROGRESS — G1–G2 scans 4–23 COMPLETE; 20/57 reviewed; 8 refinements; 0 blocking fidelity issues**
 - Gate H — **BLOCKED / downstream**
 - Tamil — **VERIFIED AGAINST CONTROLLING BOOKLET — unresolved readings 0**
 - English — **FIRST PASS COMPLETE / NOT YET VERIFIED**
@@ -63,4 +63,4 @@ This booklet-level entry is intentionally **not** added to the canonical dated s
 
 ## Exact next activity
 
-Gate F remains **PASS / COMPLETE — 57/57**. Gate G G1 is **COMPLETE — scans 4–13 / 10 of 57 pages reviewed**, with **5 reader-facing English fidelity refinements** and **0 blocking fidelity issues**. Verified Tamil was unchanged. Exact next: **Gate G G2 — scans 14–23 / printed pp.13–22**.
+Gate F remains **PASS / COMPLETE — 57/57**. Gate G G1–G2 is **COMPLETE through scans 4–23 / 20 of 57 pages reviewed**, with **8 cumulative reader-facing English fidelity refinements** and **0 blocking fidelity issues**. Verified Tamil remains unchanged. Exact next: **Gate G G3 — scans 24–33 / printed pp.23–32**.
