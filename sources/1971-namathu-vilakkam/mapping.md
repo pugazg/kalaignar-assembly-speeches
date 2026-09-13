@@ -116,10 +116,11 @@ Full ledger: [`cross-witness-audit.md`](./cross-witness-audit.md).
 - Gate B — **PASS / LOCKED**
 - Gate C — **PASS / COMPLETE — scans 4–60; 57/57 pages; first-pass carried 3 unresolved readings; C.5-3 resolved scan 31, leaving 2**
 - Gate C.5 — **PASS / COMPLETE — C.5-1–6 scans 4–60; 57/57 audited; 129 cumulative corrections across 109 source sites**
-- Tamil verification — **blocked until Gate E**
+- Gate D completeness — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
+- Tamil source-fidelity verification — **NEXT at Gate E**
 - English — **blocked until Tamil verification**
 - Gate H / release — **not reached**
 
 ## Exact continuation
 
-Gate C.5 is **COMPLETE / PASS — 57/57**. The two post-C.5 unreadable loci at scans 11 and 37 are now resolved by documented Official-Report emendation; current unresolved readings are **0**. Exact continuation: **Gate D — Tamil completeness audit**. Confirm the locked scan 4→60 / printed pp.3→59 body is represented exactly once and in order, start/end align with the locked source map, all speaker changes/interventions are represented, and both emendations retain provenance. Do not begin Gate E in the same iteration.
+Gate D is **PASS / COMPLETE — 57/57**. Source-page sequence 4→60 occurs exactly once and in order; all 56 internal joins are represented; opening scan 4 and closing scan 60 align with the locked map; scan 61 is back cover / non-speech; all explicit speaker/intervention pages pass; the two documented Official-Record emendations retain provenance; unresolved completeness questions **0**. Exact continuation: **Gate E E1 — Tamil source-fidelity verification, scans 4–13 / implied printed pp.3–12**.

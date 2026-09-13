@@ -54,8 +54,8 @@
     "gate_b": "pass-locked-booklet-level",
     "gate_c": "complete",
     "gate_c5": "pass-complete",
-    "gate_d": "not-started",
-    "gate_e": "not-started",
+    "gate_d": "pass-complete",
+    "gate_e": "next",
     "gate_f": "blocked",
     "gate_g": "blocked",
     "gate_h": "not-started"
@@ -248,7 +248,33 @@
           "resolved_text": "என்ற கருத்தினாலெழும் தேசபக்தி வேறு"
         }
       ]
-    }
+    },
+    "completeness_audit_passed": true,
+    "gate_d_status": "pass-complete",
+    "gate_d_reviewed_scan_pages": "4-60",
+    "gate_d_reviewed_printed_pages": "implied 3-59",
+    "gate_d_reviewed_page_count": 57,
+    "gate_d_total_page_count": 57,
+    "gate_d_last_batch": "D1-final",
+    "gate_d_next_scan_page": null,
+    "gate_d_correction_count": 0,
+    "gate_d_corrections": [],
+    "gate_d_unresolved_completeness_questions": 0,
+    "gate_d_marker_sequence_checked": "4-60 exactly once, unique and strictly monotonic",
+    "gate_d_page_boundaries_checked": "4→5 through 59→60; all 56 internal joins structurally represented",
+    "gate_d_duplicate_page_bodies": 0,
+    "gate_d_empty_page_bodies": 0,
+    "gate_d_speaker_intervention_pages": "11, 27, 29, 34, 44, 51-54",
+    "gate_d_explicit_speaker_label_count": 26,
+    "gate_d_speaker_interventions_checked": true,
+    "gate_d_opening_locked": "scan 4: `நமது விளக்கம்` / `தலைவர் அவர்களே!`",
+    "gate_d_closing_locked": "scan 60: `நன்றி.` and final `வணக்கம்.`",
+    "gate_d_non_speech_tail": "later library stamp below speech ending on scan 60 excluded; scan 61 is back cover / non-speech matter",
+    "gate_d_official_record_emendations_checked": "scans 11 and 37 present, aligned and provenance-tagged",
+    "gate_d_unresolved_markers": 0,
+    "gate_d_note": "Gate D Tamil completeness audit PASS / COMPLETE for all 57 body scans. Source-page markers 4-60 occur exactly once, are unique and strictly monotonic; all 56 internal page joins are structurally represented; no empty or exact-duplicate page bodies were found; opening and closing boundaries match the locked source map; explicit speaker/intervention material on scans 11, 27, 29, 34, 44 and 51-54 was checked against the booklet and is represented; the two user-authorized Official-Record emendations at scans 11 and 37 remain provenance-tagged; unresolved completeness questions and unresolved reading markers are 0. No Gate-D transcript correction was required.",
+    "next_gate": "E1",
+    "next_activity": "Gate E E1 — Tamil source-fidelity verification, scans 4-13 / implied printed pp.3-12"
   },
   "translation": {
     "status": "blocked",

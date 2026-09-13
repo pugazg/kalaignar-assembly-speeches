@@ -83,12 +83,13 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 - Gate C — **PASS / COMPLETE — T1–T6 scans 4–60 / 57 of 57 pages**
 - Gate C.5 — **PASS / COMPLETE — C.5-1–6 scans 4–60; 57/57 audited; 129 cumulative corrections across 109 source sites**
 - cross-witness — **COMPLETE / 2 user-authorized Council-record emendations applied; current unresolved readings 0**
-- Gate D — **NEXT / UNBLOCKED**
-- Gate E–H — **BLOCKED / downstream**
+- Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
+- Gate E — **NEXT / UNBLOCKED**
+- Gate F–H — **BLOCKED / downstream**
 - Tamil verified — **no**
 - English — **blocked**
 - release — **not released**
 
 ## Exact next activity
 
-Gate C remains **COMPLETE — 57/57** and Gate C.5 is **PASS / COMPLETE — 57/57**, with **129 cumulative definite pixel-supported corrections across 109 source sites**. Cross-witness comparison against the official Assembly and Council reports is **COMPLETE** and confirms the edited two-House construction. The two formerly unresolved booklet loci (scans 11 and 37) have now been resolved from the official 30-06-1971 Council record by explicit user-authorized emendation. **Current unresolved readings: 0.** Exact next activity: **Gate D — Tamil completeness audit** over the locked 57-page body. Do not start Gate E in the same iteration.
+Gate C and Gate C.5 remain complete. Gate D is now **PASS / COMPLETE — 57/57**: markers 4→60 are unique and monotonic, all internal page joins and locked start/end boundaries pass, explicit speaker/intervention material is structurally present, scan 61 remains non-speech back cover, and both documented Official-Record emendations retain provenance. Gate-D corrections **0**; unresolved completeness questions **0**; current unresolved readings **0**. Exact next activity: **Gate E E1 — Tamil source-fidelity verification, scans 4–13 / implied printed pp.3–12**.

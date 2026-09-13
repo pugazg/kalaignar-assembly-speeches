@@ -69,7 +69,8 @@ Gate C.5 is mandatory.
 - Gate C.5 — **PASS / COMPLETE — C.5-1–6 scans 4–60; 57/57 audited; 129 cumulative corrections across 109 source sites**
 - unresolved readings — **0** (scan 31 resolved in C.5-3; scans 11 and 37 resolved post-C.5 from the official Council record by explicit user-authorized emendation)
 - cross-witness — **COMPLETE / 2 documented Official-Record emendations applied**
-- Gate D–E — NOT STARTED
+- Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
+- Gate E — **NEXT / NOT STARTED**
 - English — BLOCKED
 - release — NOT RELEASED
 
@@ -93,9 +94,9 @@ Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
 ## Exact next activity
 
-Begin **Gate D — Tamil completeness audit** over the locked source body scans 4–60 / printed pp.3–59.
+Begin **Gate E E1 — Tamil source-fidelity verification, scans 4–13 / implied printed pp.3–12**.
 
-Confirm all 57 mapped source pages are represented exactly once, source-page markers 4→60 are unique and monotonic, no page is skipped or duplicated, the locked start/end boundaries are preserved, all printed speaker changes/interventions are represented, and the two documented Official-Record emendations at scans 11 and 37 are retained with provenance. Current unresolved readings are **0**. Do not begin Gate E in the same iteration.
+Re-read those ten canonical pages directly against the controlling booklet pixels. Check wording, spelling, punctuation, figures, headings, speaker labels/interventions, page-boundary placement and illustration-context notes. Preserve the two documented Official-Record emendations policy: scan 11 is an authorized Council-record emendation and must not be mistaken for a booklet-pixel reading. Record only definite fidelity corrections; do not modernize. Do not begin Gate F / English.
 
 ## Gate C T1 — COMPLETE
 
@@ -310,3 +311,23 @@ Notable source repairs: scan 55 குல்ஹாபூரில்; scan 57 �
 
 Exact next: **Gate D — Tamil completeness audit**. Do not begin Gate E in the same iteration.
 
+## Gate D — PASS / COMPLETE
+
+- source scans — **4–60 / 57 pages**
+- printed range — **implied pp.3–59**
+- markers — **4→60 exactly once / unique / monotonic**
+- internal joins — **56/56 PASS**
+- empty page bodies — **0**
+- exact duplicate page bodies — **0**
+- opening — **scan 4 / `நமது விளக்கம்` / `தலைவர் அவர்களே!` — PASS**
+- closing — **scan 60 / `நன்றி.` / `வணக்கம்.` — PASS**
+- scan 60 library stamp — **excluded / PASS**
+- scan 61 — **back cover / non-speech / PASS**
+- explicit speaker/intervention pages — **11, 27, 29, 34, 44, 51–54 — PASS**
+- explicit speaker labels — **26 / PASS**
+- Official-Record emendations scans 11 and 37 — **retained / provenance-tagged / PASS**
+- completeness corrections — **0**
+- unresolved completeness questions — **0**
+- current unresolved readings — **0**
+
+Exact next: **Gate E E1 — scans 4–13 / implied printed pp.3–12**.

@@ -336,3 +336,31 @@ Status: **PASS / COMPLETE**
 - Gate E — **BLOCKED until Gate D completes**.
 
 Exact continuation: **Gate D — Tamil completeness audit**. Do not begin Gate E in the same iteration.
+
+## Gate D — Tamil completeness audit
+
+Status: **PASS / COMPLETE — 57/57**
+
+- reviewed source scans — **4–60 / 57 pages**;
+- printed range — **implied pp.3–59**;
+- source-page markers — **4→60 exactly once, unique and strictly monotonic**;
+- missing source-page markers — **0**;
+- duplicate source-page markers — **0**;
+- empty canonical page bodies — **0**;
+- exact-duplicate canonical page bodies — **0**;
+- internal page joins — **56/56 structurally represented**;
+- opening boundary — **PASS**: scan 4 begins `நமது விளக்கம்` / `தலைவர் அவர்களே!`;
+- closing boundary — **PASS**: scan 60 preserves `நன்றி.` and final `வணக்கம்.`;
+- scan 60 later library stamp — **excluded from speech text / PASS**;
+- scan 61 — **back cover / non-speech matter / PASS**;
+- explicit speaker/intervention pages — **11, 27, 29, 34, 44, 51–54**;
+- explicit speaker labels in canonical transcript — **26**, checked against the corresponding booklet pages;
+- scan-53 chamber reactions / order interventions — **represented in source order**;
+- Official-Record emendations — **2/2 retained and provenance-tagged** (scans 11 and 37);
+- unresolved reading markers — **0**;
+- unresolved completeness questions — **0**;
+- Gate-D completeness corrections — **0**.
+
+Gate D found no skipped or duplicated mapped page and no missing structural intervention. The canonical Tamil remains **not yet source-fidelity verified** because Gate E has not started.
+
+Exact continuation: **Gate E E1 — Tamil source-fidelity verification, scans 4–13 / implied printed pp.3–12**. Do not begin translation.
