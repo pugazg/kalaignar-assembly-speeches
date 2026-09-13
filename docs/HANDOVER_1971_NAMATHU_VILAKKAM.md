@@ -66,7 +66,7 @@ Gate C.5 is mandatory.
 - Gate A — PASS
 - Gate B — PASS / LOCKED
 - Gate C — PASS / COMPLETE — T1–T6 scans 4–60 / 57 of 57 pages
-- Gate C.5 — **IN PROGRESS — C.5-1–3 scans 4–33 COMPLETE; 30/57 audited; 51 cumulative corrections**
+- Gate C.5 — **IN PROGRESS — C.5-1–4 scans 4–43 COMPLETE; 40/57 audited; 80 cumulative corrections**
 - unresolved readings — **2** (scans 11 and 37; scan 31 resolved in C.5-3)
 - Gate D–E — NOT STARTED
 - English — BLOCKED
@@ -74,9 +74,9 @@ Gate C.5 is mandatory.
 
 ## Exact next activity
 
-Begin **Gate C.5-4 historical-glyph/source-form audit — scans 34–43 / printed pp.33–42**.
+Begin **Gate C.5-5 historical-glyph/source-form audit — scans 44–53 / printed pp.43–52**.
 
-Re-inspect the existing scan-37 Rajaji-quotation uncertainty directly from the booklet pixels. Preserve scan 11 unless its own source pixels are revisited in a later targeted pass. Do not global-replace, modernize, import Official Report wording, or begin Gate D in the same iteration.
+Continue direct pixel comparison. Preserve both unresolved readings at scans 11 and 37 unless the controlling booklet pixels themselves resolve them in a later targeted pass. Do not global-replace, modernize, import Official Report wording, or begin Gate D in the same iteration.
 
 ## Gate C T1 — COMPLETE
 
@@ -237,3 +237,23 @@ Exact next: **Gate C.5-3 scans 24–33 / printed pp.23–32**. Re-inspect the ex
 Notable source repairs: scan 24 `எதிர்க் கட்சித்` and accusative/modal wording; scan 25 `திட்டங்களை நிறைவேற்றிடுவோம்`; scan 26 accusatives / `நாட்டிலுள்ள`; scan 27 `விவாதத்துக்கு`; scan 30 `ஒன்றரைக்` and restored `மருத்துவச்சாலை அனுமதியா,`; scan 31 `பார்க்க`, `விமரிசனம்`, and the now-resolved classroom reading `சுவரில் ஒரு சிறிய வளை. அதில் ஓர் எலி...`; scan 32 `சொன்னார்—` / `புதியதாக`; scan 33 `மீதா`.
 
 Exact next: **Gate C.5-4 scans 34–43 / printed pp.33–42**. Re-inspect the existing scan-37 uncertainty directly from pixels.
+
+## Gate C.5-4 — COMPLETE / PASS
+
+- scans — **34–43 / printed pp.33–42**
+- pages audited — **10**
+- cumulative C.5 — **40/57**
+- new corrections — **29 across 24 source sites**
+- cumulative corrections — **80 across 64 source sites**
+- scan 37 Rajaji-quotation uncertainty — **RE-INSPECTED / RETAINED**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **2** (scans 11 and 37)
+- source markers — **4→60 unchanged**
+- Gate D — **BLOCKED**
+
+Notable source repairs: scan 34 source பர்சனலிடி forms / முதல்வர்; scan 35 restored போய்ச் சேர்ந்ததாகக் கூடத் தெரியவில்லை and மைய-மாநில உறவு-ஆய்வுக்; scan 36 கருத்துக்களை / வாதத் திறமை; scan 38 தீர்க்க சிந்தனையின் / ஒத்துக் கொண்டு; scan 39 அதிகாரிகளை / முளைத்துக் கிடக்கும் புல் பூண்டுகளைச் and page-boundary cleanup; scan 40 கேட்டுக் கொண்டிருக்கின்ற / கட்டிக் கொண்டே; scan 41 கூடக் கவலைப்படவில்லை / நடந்து கொள்வதற்கு; scan 43 பயனை ஆராய and source-printed ஒப்புக்கொள்ளப்பட்ட வேண்டிய.
+
+The scan-37 uncertainty was re-inspected from the booklet pixels at high resolution and remains unresolved. No outside wording was imported.
+
+Exact next: **Gate C.5-5 scans 44–53 / printed pp.43–52**.
+

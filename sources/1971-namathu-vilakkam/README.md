@@ -81,7 +81,7 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / LOCKED**
 - Gate C — **PASS / COMPLETE — T1–T6 scans 4–60 / 57 of 57 pages**
-- Gate C.5 — **IN PROGRESS — C.5-1–3 scans 4–33 COMPLETE; 30/57 audited; 51 cumulative corrections**
+- Gate C.5 — **IN PROGRESS — C.5-1–4 scans 4–43 COMPLETE; 40/57 audited; 80 cumulative corrections**
 - Gate D–H — **BLOCKED / downstream**
 - Tamil verified — **no**
 - English — **blocked**
@@ -89,4 +89,4 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 
 ## Exact next activity
 
-Gate C remains **COMPLETE — 57/57**. Gate C.5-1–3 audited **scans 4–33 / 30 pages**, with **51 cumulative definite corrections across 40 source sites**. The scan-31 classroom uncertainty was resolved directly from the booklet pixels; **2 unresolved readings remain** (scans 11 and 37). Exact next activity: **Gate C.5-4 scans 34–43 / printed pp.33–42**. Re-inspect scan 37; do not start Gate D.
+Gate C remains **COMPLETE — 57/57**. Gate C.5-1–4 audited **scans 4–43 / 40 pages**, with **80 cumulative definite corrections across 64 source sites**. The scan-37 Rajaji-quotation uncertainty was re-inspected directly from the booklet pixels and remains unresolved; **2 unresolved readings remain** (scans 11 and 37). Exact next activity: **Gate C.5-5 scans 44–53 / printed pp.43–52**. Do not start Gate D.
