@@ -70,7 +70,7 @@ Gate C.5 is mandatory.
 - unresolved readings — **0** (scan 31 resolved in C.5-3; scans 11 and 37 resolved post-C.5 from the official Council record by explicit user-authorized emendation)
 - cross-witness — **COMPLETE / 2 documented Official-Record emendations applied**
 - Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
-- Gate E — **IN PROGRESS — E1–E4 scans 4–43 PASS; 40/57 reviewed; 78 cumulative corrections; 0 unresolved source-fidelity questions**
+- Gate E — **IN PROGRESS — E1–E5 scans 4–53 PASS; 50/57 reviewed; 95 cumulative corrections; 0 unresolved source-fidelity questions**
 - English — BLOCKED
 - release — NOT RELEASED
 
@@ -94,9 +94,9 @@ Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
 ## Exact next activity
 
-Begin **Gate E E5 — Tamil source-fidelity verification, scans 44–53 / printed pp.43–52**.
+Begin **Gate E E6 / FINAL — Tamil source-fidelity verification, scans 54–60 / printed pp.53–59**.
 
-Re-read those ten canonical pages directly against the controlling booklet pixels. Check wording, source spelling/compounds, punctuation, figures/amounts, headings, speaker labels/interventions, page-boundary placement, source-printed English and illustration/context notes. Make only definite source-supported corrections; do not modernize or silently smooth source language. No Official-Record emendation falls inside E5. Do not begin Gate F / English.
+Re-read the final seven canonical body pages directly against the controlling booklet pixels. Check wording, source spelling/compounds, punctuation, numerals/amounts, headings, speaker labels/interventions, page-boundary placement, source-printed English and illustration/context notes. Verify the terminal speech ending on scan 60 and continue to exclude later library matter / scan 61 back cover. Make only definite source-supported corrections; do not modernize or silently smooth source language. If E6 passes with no unresolved source-fidelity questions, close Gate E / set Tamil `verified_against_scan=true`, then set the next workflow gate only; do not begin Gate F / English in the same iteration.
 
 ## Gate C T1 — COMPLETE
 
@@ -396,3 +396,21 @@ Exact next: **Gate E E4 — scans 34–43 / printed pp.33–42**.
 - current unresolved readings — **0**
 
 Exact next: **Gate E E5 — scans 44–53 / printed pp.43–52**.
+
+## Gate E E5 — PASS
+
+- scans — **44–53 / printed pp.43–52**
+- pages reviewed — **10 / cumulative 50/57**
+- E5 corrections — **17**
+- cumulative Gate-E corrections — **95**
+- unresolved source-fidelity questions — **0**
+- internal joins — **PASS**
+- 51→52 source word split — **REPAIRED: `வேண்டு` / `மென்று`**
+- source-printed English — **scans 44, 46, 47, 48 PASS / verbatim**
+- source English quirks `shouldformulate`, `nd encouraged.`, `distillor` — **preserved intentionally**
+- illustration/context notes — **scans 44, 47, 52 PASS**
+- speaker/intervention material — **scans 44, 51–53 PASS**
+- outside wording imported — **NO**
+- current unresolved readings — **0**
+
+Exact next: **Gate E E6 / FINAL — scans 54–60 / printed pp.53–59**.

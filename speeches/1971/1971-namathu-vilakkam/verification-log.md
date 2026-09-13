@@ -469,3 +469,27 @@ Status: **PASS / COMPLETE for this batch; Gate E remains IN PROGRESS**
 Notable E4 repairs include scan 36 source spacing `ஆகவே தான்`; scan 37 `வழங்க இருக்கின்ற` and `மாநில அரசு அதிக அதிகாரங்கள்`; scan 38 `எடுத்து வைக்கிறேன்`, `முன்னிலை`, `காரணத்தினால்`, `விட்டுவிடவேண்டுமென்று`; scan 39 `கோட்டை மதில்`; scan 40 `சொல்லி விட்டுப்போனார்`, `இரண்டொரு`, `காட்சியினை`, `கலந்து கொண்டோம்`; scan 41 `அவைகள் எல்லாம்`; and scan 42 `ஜனவரித் திங்கள்`.
 
 Exact continuation: **Gate E E5 — scans 44–53 / printed pp.43–52**. Do not begin Gate F / English.
+
+### E5 — scans 44–53 / printed pp.43–52
+
+Status: **PASS / COMPLETE for this batch; Gate E remains IN PROGRESS**
+
+- pages reviewed — **10/10**;
+- cumulative Gate-E coverage — **50/57**;
+- E5 definite source-fidelity corrections — **17**;
+- cumulative Gate-E corrections — **95**;
+- unresolved source-fidelity questions — **0**;
+- E5 internal joins 44→45 through 52→53 — **PASS**;
+- 51→52 source word split — **REPAIRED**: `வேண்டு` / `மென்று`;
+- source-printed English — **scans 44, 46, 47, 48 PASS / verbatim**;
+- intentional source English quirks preserved — **`shouldformulate`, `nd encouraged.`, `distillor`**;
+- illustration/context notes — **scans 44, 47, 52 PASS**;
+- speaker/intervention material — **scans 44, 51, 52, 53 PASS after source-form repairs**;
+- Official-Record wording imported in E5 — **NO**;
+- current unresolved readings — **0**;
+- Tamil `verified_against_scan=false` — **unchanged until Gate E closes**;
+- English / Gate F — **BLOCKED**.
+
+Notable E5 repairs include scan 45 `அளவுக்கு மீறிய`, source-quoted `‘ஆல்கஹால்’`, and `குறிக்கோள்`; scan 46 `கணக்குகளே` and `மக்கள் தொகை`; scan 47 source exclamation punctuation; scan 49 `கொள்கையினை`; scan 50 `கைவிடுவதுகூடத்`; scan 51 `வடிவத்திற்குக்` plus restoration of `அந்தந்தக் கட்சித் தலைவர்களையும் சந்தித்து ... அந்தத் தீர்மானத்தைக்`; scan 51→52 the split `வேண்டு` / `மென்று`; and scan 53 `கல்வித் தோட்டத்திற்கு`, source-printed `ஊறு வாயர்களுக்குத்`, and `சொல்லுவதைச்`.
+
+Exact continuation: **Gate E E6 / FINAL — scans 54–60 / printed pp.53–59**. Do not begin Gate F / English in the same iteration.

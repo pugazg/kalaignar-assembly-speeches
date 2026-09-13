@@ -117,10 +117,10 @@ Full ledger: [`cross-witness-audit.md`](./cross-witness-audit.md).
 - Gate C — **PASS / COMPLETE — scans 4–60; 57/57 pages; first-pass carried 3 unresolved readings; C.5-3 resolved scan 31, leaving 2**
 - Gate C.5 — **PASS / COMPLETE — C.5-1–6 scans 4–60; 57/57 audited; 129 cumulative corrections across 109 source sites**
 - Gate D completeness — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
-- Tamil source-fidelity verification — **IN PROGRESS — Gate E E1–E4 scans 4–43 PASS; 40/57 reviewed; 78 corrections; 0 unresolved**
+- Tamil source-fidelity verification — **IN PROGRESS — Gate E E1–E5 scans 4–53 PASS; 50/57 reviewed; 95 corrections; 0 unresolved**
 - English — **blocked until Tamil verification**
 - Gate H / release — **not reached**
 
 ## Exact continuation
 
-Gate D remains **PASS / COMPLETE — 57/57**. Gate E E1–E4 is **PASS through scans 4–43 / implied printed pp.3–42, 40/57 pages**, with **78 cumulative corrections / 0 unresolved source-fidelity questions**. All E4 joins pass after boundary repairs at 36→37, 37→38 and 41→42; scan 35 English and scan 36 illustration/context pass; scan 37's authorized emendation retains provenance. Exact continuation: **Gate E E5 — scans 44–53 / printed pp.43–52**.
+Gate D remains **PASS / COMPLETE — 57/57**. Gate E E1–E5 is **PASS through scans 4–53 / implied printed pp.3–52, 50/57 pages**, with **95 cumulative corrections / 0 unresolved source-fidelity questions**. E5 joins pass after the 51→52 source word-boundary repair; source-printed English on scans 44, 46, 47 and 48 and illustration/context notes on scans 44, 47 and 52 pass. Exact continuation: **Gate E E6 / FINAL — scans 54–60 / printed pp.53–59**.
