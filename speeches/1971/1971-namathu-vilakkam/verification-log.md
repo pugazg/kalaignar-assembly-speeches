@@ -364,3 +364,41 @@ Status: **PASS / COMPLETE — 57/57**
 Gate D found no skipped or duplicated mapped page and no missing structural intervention. The canonical Tamil remains **not yet source-fidelity verified** because Gate E has not started.
 
 Exact continuation: **Gate E E1 — Tamil source-fidelity verification, scans 4–13 / implied printed pp.3–12**. Do not begin translation.
+
+## Gate E — Tamil source-fidelity verification
+
+### E1 — scans 4–13 / implied printed pp.3–12
+
+Status: **PASS / COMPLETE for this batch; Gate E remains IN PROGRESS**
+
+- pages reviewed — **10/10**;
+- cumulative Gate-E coverage — **10/57**;
+- direct authority — **rendered booklet pixels**;
+- definite source-fidelity corrections — **15**;
+- unresolved source-fidelity questions — **0**;
+- internal page joins 4→5 through 12→13 — **9/9 PASS** after one source-boundary dash cleanup at 7→8;
+- illustration/context notes checked — **scans 8, 9, 11 and 13 / PASS**;
+- scan 11 Official-Record emendation — **preserved with provenance / not counted as a booklet-pixel E1 correction**;
+- current unresolved readings — **0**;
+- Tamil `verified_against_scan=false` — **unchanged until Gate E closes**;
+- English / Gate F — **BLOCKED**.
+
+Definite E1 repairs:
+
+1. scan 4 — restored source punctuation `தெரிவித்தமைக்காக,—அந்தக்`;
+2. scan 4 — restored `என்ற ஒரு நிலையில்`;
+3. scan 4 — restored `நன்றி கூறி வரவேற்கக்`;
+4. scan 4 — replaced a corrupted sentence segment with source `சட்ட மன்றத்திலேயும், பேரவையிலேயும் எந்தெந்த மானியங்கள் விவாதிக்கப்படுகின்றனவோ அவைகளைப்பற்றிய மொத்தக் கருத்துக்களை அங்கே விவாதிக்க வழிவகைகள் கண்டு`;
+5. scan 5 — `கொடுக்கப்பட்டவர்களேத் தவிர` → `கொடுக்கப்பட்டவர்களைத் தவிர`;
+6. scan 7 — `அவர்கள் சொன்னதைப் போன்ற` → `அவர்களைப் போன்ற`;
+7. scan 7 — `தொடர்ப்பாகப்` → `தொடர்பாகப்`;
+8. scan 7→8 — removed spurious leading em dash before `கொண்டது`;
+9. scan 9 — `சோகப்புயல்கள் எல்லாம்` → `சோகப்புயல்களை எல்லாம்`;
+10. scan 10 — `சுதந்திராக் கட்சியின் தலைவர்` → `சுதந்திராக் கட்சித் தலைவர்`;
+11. scan 10 — `தவறுக்கக் கருத` → `தவறாகக் கருத`;
+12. scan 11 — `வருமான வரி செலுத்துவதில்லை` → `வருமான வரி செலுத்துவது இல்லை`;
+13. scan 11 — `கேடுபாடுகள்` → `கேடு பாடுகள்`;
+14. scan 11 — `பரிட்சார்த்தமாக` → `பரீட்சார்த்தமாக`;
+15. scan 13 — `திரு ராஜாராம் நாடு` → `திரு ராஜாராம் நாயுடு`.
+
+Exact continuation: **Gate E E2 — scans 14–23 / printed pp.13–22**. Do not begin Gate F / English.

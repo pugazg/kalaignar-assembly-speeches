@@ -55,6 +55,6 @@ Official Reports have now been retrieved and cross-witnessed. They remain separa
 
 ## Current status
 
-Gate A, Gate B, Gate C and Gate C.5 are complete. Cross-witness audit and the two authorized Official-Report emendations are complete. Tamil is not yet Gate-E verified; **current unresolved readings: 0**.
+Gate A, Gate B, Gate C, Gate C.5 and Gate D are complete. Cross-witness audit and the two authorized Official-Report emendations are complete. Gate E is **IN PROGRESS**: E1 scans 4–13 passed with 15 definite booklet-pixel-supported corrections and 0 unresolved source-fidelity questions. Tamil is not yet fully Gate-E verified; **current unresolved readings: 0**.
 
-Exact next activity: **Gate D — Tamil completeness audit**.
+Exact next activity: **Gate E E2 — scans 14–23 / printed pp.13–22**.

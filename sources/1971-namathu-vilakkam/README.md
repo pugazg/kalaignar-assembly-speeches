@@ -84,7 +84,7 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 - Gate C.5 — **PASS / COMPLETE — C.5-1–6 scans 4–60; 57/57 audited; 129 cumulative corrections across 109 source sites**
 - cross-witness — **COMPLETE / 2 user-authorized Council-record emendations applied; current unresolved readings 0**
 - Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
-- Gate E — **NEXT / UNBLOCKED**
+- Gate E — **IN PROGRESS — E1 scans 4–13 PASS; 10/57 reviewed; 15 corrections; 0 unresolved source-fidelity questions**
 - Gate F–H — **BLOCKED / downstream**
 - Tamil verified — **no**
 - English — **blocked**
@@ -92,4 +92,4 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 
 ## Exact next activity
 
-Gate C and Gate C.5 remain complete. Gate D is now **PASS / COMPLETE — 57/57**: markers 4→60 are unique and monotonic, all internal page joins and locked start/end boundaries pass, explicit speaker/intervention material is structurally present, scan 61 remains non-speech back cover, and both documented Official-Record emendations retain provenance. Gate-D corrections **0**; unresolved completeness questions **0**; current unresolved readings **0**. Exact next activity: **Gate E E1 — Tamil source-fidelity verification, scans 4–13 / implied printed pp.3–12**.
+Gate D remains **PASS / COMPLETE — 57/57**. Gate E E1 is now **PASS for scans 4–13 / 10 of 57 pages**, with **15 definite booklet-pixel-supported source-fidelity corrections** and **0 unresolved source-fidelity questions**. All E1 page joins and illustration/context notes pass; the scan-11 authorized Council-record emendation remains separately provenance-tagged. Current unresolved readings: **0**. Exact next activity: **Gate E E2 — scans 14–23 / printed pp.13–22**.
