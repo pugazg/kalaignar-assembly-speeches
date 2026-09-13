@@ -89,3 +89,22 @@ Controlled terminology for the booklet-only English translation. The verified Ta
 | `கள்ள மது` | `illicit liquor` | Prohibition passage. |
 | `பி.எஸ்.பி.` | `P.S.P.` | Source abbreviation retained. |
 | `தமிழரசுக் கழகம்` | `Tamil Arasu Kazhagam` | Source organisation name. |
+| `தேக்சந்த் கமிட்டி` | `Tek Chand Committee` | Prohibition committee name as represented in verified Tamil. |
+| `அஸ்வா` / `அரிஷ்டம்` | `asava` / `arishtam` | Medicine names transliterated; no external standardisation imported. |
+| `கள்` | `toddy` | Prohibition context. |
+| `தீர்வை` | `duty` | Fiscal levy on toddy; conservative contextual rendering. |
+| `வெட் ஏரியா` / `டிரை ஏரியா` | `wet area` / `dry area` | Source English-derived prohibition terms. |
+| `நவசக்தி` | `Navasakthi` | Source newspaper title. |
+| `பாடமொழி` | `medium of instruction` | Education-policy context. |
+| `அண்ணா வழி` | `Anna's path` | Political/rhetorical phrase retained. |
+| `கல்வித் தோட்டம்` | `garden of education` | Source-literal first-pass rendering; queue for Gate-G fidelity/context review, not externally normalised. |
+| `ஊறு வாயர்கள்` | `oozing mouths` | Source-literal wordplay/insult; queue for Gate-G review. |
+| `பதநீர்` | `padaneer` | Source term retained; distinguished from `toddy` in the passage. |
+| `கம்ப ராமாயணம்` | `Kamba Ramayanam` | Literary work title. |
+| `உண்டாட்டுப் படலம்` | `Undattu Padalam` | Source section title transliterated. |
+| `காலம் போக்கும் விடுதி` | `recreation lounge` | Ratnasamy quotation; contextual rendering. |
+| `காவல்துறை கமிஷன்` | `Police Commission` | Source institutional wording. |
+| `சிலம்புச் செல்வர் ம. பொ. சி.` | `Silambu Selvar Ma. Po. Si.` | Honorific/name retained from verified Tamil. |
+| `பெர்மிட்` | `permit` | Alcohol-permit context. |
+| `வேதனையான முடிவு` | `A painful decision` | Printed heading. |
+| `மன்றாடிக் கேட்பது` | `pleading / beseeching` | Closing appeal; rhetoric retained. |

@@ -1,6 +1,6 @@
 # English translation — நமது விளக்கம்
 
-> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F is **IN PROGRESS**; F1–F4 scans 4–43 are complete. Gate G has not started.
+> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F first-pass translation is **PASS / COMPLETE — scans 4–60 / 57/57 pages**. Gate G page-by-page fidelity review is **NEXT / NOT STARTED**.
 
 ---
 
@@ -705,3 +705,363 @@ I wish to remind the Muslim League members of one thing. Whether one belongs to 
 ### Prohibition on a religious basis . . . .
 
 I said this even then. In Muslim countries such as Turkey, Syria, Iraq, Iran, Egypt, Pakistan, Malaysia and Indonesia—countries which, on the basis of the Muslim religion, ought to cherish the policy of prohibition like gold—it has not been possible to enforce prohibition by law. I am not arguing that, merely because there is no law there, every person in those countries goes on drinking. There too, their religion
+<!-- source-page: 44 -->
+
+is opposed to their religion. In truth, there is no support for such conduct.
+
+**Thiru K. S. Abdul Wahab:** I wish to state that prohibition is in force in Arabia.
+
+**Chief Minister:** My argument is that it is not enough for it to exist only in Arabia.
+
+By relaxing the law here too, until the Indian Union comes forward to enforce prohibition throughout India, we are not even saying that we are repealing that law. By merely giving it a rest, we cannot say that every person in Tamil Nadu will turn into a drunkard. That is the very point the Muslim League member Moideen made.
+
+> **Source illustration note:** Beside a large book titled “Tamil Nadu Chief Minister's Budget Statement”, an editorial illustration shows a person climbing steps marked `1000`.
+
+To examine prohibition, the Central Planning Commission in 1963 established a committee under the chairmanship of Justice Tek Chand. Why was this committee established? Because in 1956 Parliament passed a resolution:
+
+> “This House is the opinion that Prohibition should be  
+> regarded as an integral part of the Second Five Year Plan  
+> and recommends that the Planning Commission shouldformulate  
+> the necessary programme to bring about nation-wide Prohibition  
+> speedily and effectively”.
+
+“This House considers that prohibition should be regarded as an inseparable part of the Second Five-Year Plan. It therefore recommends that the Planning Commission formulate the necessary procedures to implement prohibition throughout the country rapidly and effectively.”
+
+<!-- source-page: 45 -->
+
+### Could the Central Government implement it?
+
+This committee was constituted in 1963 and an effort was made to introduce prohibition throughout the country. The committee conducted various studies. It submitted a report in 1963. We must see what recommendations that committee made.
+
+One important recommendation concerned alcohol in ear medicines. It appears that, in one State alone, thousands of pounds of such medicine were consumed. In some States the sales were higher. The committee therefore recommended that this should be controlled. It also recommended controlling the production of 'tinctures' containing excessive quantities of alcohol. The Central Government was unable to implement any of these measures.
+
+The Tek Chand Committee said that many amendments had to be made to the Drugs Act. The Central Government did not heed that either. If medicines such as asava and arishtam are prepared in the proper manner, they can contain only 10 to 12 per cent 'alcohol'. But arishtams, asavas and similar medicines containing 80 to 90 per cent alcohol are being sold. The Tek Chand Committee said that the 'Drugs Act' had to be amended for this. It was not done.
+
+### Restrictions on drinking toddy
+
+Next, that committee said that 'toddy is less dangerous than illicit liquor'. It also said toddy could be permitted with certain safeguards. The committee's objective was prohibition itself, but it made some interim recommendations. It said toddy containing five per cent alcohol could be permitted; refrigeration could be used to prevent the toddy from fermenting; it should be drunk only at the places where it is sold; taking it home to drink should be prohibited; and the 'duty' on toddy should be low. Only then, it said, would people not go in search of illicit liquor. The committee made many such recommendations.
+
+<!-- source-page: 46 -->
+
+### Enforcement of the law and liquor sales
+
+The committee itself gave the sales figures for illicit liquor throughout the country. In 1963–64, illicit-liquor sales throughout India amounted to Rs. 52 crore. Of that, sales in States where drinking was permitted amounted to Rs. 9 crore. In States where prohibition law was in force, illicit-liquor sales amounted to Rs. 43 crore. Out of the total Rs. 52 crore, Rs. 9 crore was sold in drinking States and Rs. 43 crore in prohibition States.
+
+This included illicit liquor alone; other kinds of alcohol were not included. The committee also pointed out that this was money the Government was losing.
+
+### Prohibition and population growth
+
+Next, the Tek Chand Committee said that if consumption in a 'wet area' had been 100 units before prohibition, then after ten years—after allowing for roughly 20 per cent population growth and other circumstances—it had risen to 130 units. In a 'dry area', it had fallen from 100 units to 90 units after ten years. It also said we must not forget that all this was illicit liquor.
+
+What I have cited are the details given in the report of the committee established to bring prohibition throughout the country.
+
+### Prohibition and the Congress Party
+
+I wish to show what statements the Congress Party issued during its election campaigns in 1957 and 1962.
+
+> “Prohibition has long been the Congress policy and it has  
+> been introduced in some parts of the country. Progressive  
+> steps will be taken to introduce it in other parts.”
+
+“Prohibition has long been the policy of the Congress; it has been implemented in some parts of the country. Progressive steps should be taken to implement it in the other parts of the country as well.”
+
+This is the Congress election manifesto of 1957.
+
+<!-- source-page: 47 -->
+
+> “The Congress Policy of Prohibition should be maintained  
+> nd encouraged.”
+
+“The Congress policy of prohibition should be maintained; it should be encouraged!”—
+
+This is the Congress statement of 1962.
+
+### Prohibition and the State of Maharashtra
+
+After the 1962 Congress statement, the Chief Minister of Maharashtra brought a resolution in the Legislative Assembly. In 1963, that is, a few months after the Tek Chand Committee was constituted, Maharashtra began to relax the prohibition policy. The State Chief Minister said at the time:
+
+This is what the Maharashtra Chief Minister announced on December 31, 1963:
+
+> Beverages with an alcoholic content not exceeding 3·5  
+> percent will be made freely available.
+>
+> Toddy with alcoholic content not exceeding 3·5 percent  
+> will be made freely available.
+
+Beverages containing intoxicating content not exceeding 3·5 per cent would be freely available.
+
+> **Source illustration note:** An editorial illustration shows three human figures; the small lettering in the image is not guessed.
+
+Toddy containing intoxicating content not exceeding 3·5 per cent would be freely available. Prohibition in Maharashtra was relaxed to that extent.
+
+<!-- source-page: 48 -->
+
+The Maharashtra Chief Minister further said:
+
+> “However, the experience of the implementation of this policy  
+> over the last 14 years compels us to take a more realistic  
+> and rational view of the situation as it has developed. We  
+> find that the biggest factor which works against Prohibition  
+> is not the consumer who is only the victim of the evil of  
+> drinking but illicit distillor, the bootlegger and trafficker.”
+
+“Our experience in implementing prohibition over the last fourteen years has created the need to take a more realistic view. The greatest factor working against prohibition is not the drinker—he is merely a victim of the habit. The enemies of the prohibition policy are those who distil illicit liquor, the bootlegger and the seller.” Thus, in 1963, the prohibition policy in Maharashtra was relaxed.
+
+### The Tamil Nadu Congress view at the All India Congress conference
+
+At the All India Congress Committee conference held in the city of Kunaha in 1968, a resolution was passed saying that seven years should be allowed for complete prohibition to be implemented throughout the country. Thiru Nijalingappa was the president at the time. Thiru C. Subramaniam was a representative from Tamil Nadu. Women who followed Gandhian principles, such as Mrs. Sushila Nayar, also took part in that meeting.
+
+The resolution they brought was that, within another seven years from 1968, prohibition should be implemented throughout India. Thiru C. Subramaniam, leader of the Tamil Nadu Congress Party, who participated in that conference, stated that the prohibition issue should not be approached emotionally but in a manner that could actually be implemented in practice.
+
+With the Speaker's permission, I shall read an editorial written at that time by a newspaper in Tamil Nadu.
+
+### What did this daily write then?
+
+“There is nothing surprising in the fact that heated discussions on prohibition took place at the All India Congress Committee meeting being held in Poona and at the Working Committee meeting held before it.
+
+<!-- source-page: 49 -->
+
+“As far as the Congress Party is concerned, we have accepted prohibition as a fundamental policy. Our Constitution too clearly stresses it in the Directive Principles.
+
+“Accepting something as a matter of policy is one thing; differences of opinion over putting it into practice are another.
+
+“No one need magnify the differences of opinion that prevail in the Congress high command over when and how complete prohibition should be implemented.
+
+“Prohibition is not merely a moral principle. It also has economic consequences. Therefore, it would not do justice to the various State Chief Ministers either to ignore the hesitation they have shown in implementing prohibition or to criticise them as having failed to show sufficient interest in prohibition.
+
+“Even in States where complete or partial prohibition is in force, it cannot be said to have achieved complete success. For example, in Tamil Nadu, where complete prohibition is in operation, the distillation and sale of liquor are prohibited by law; yet everyone knows that the law closes its eyes and watches helplessly while it flourishes here and there as a widespread cottage industry.
+
+“There can be no doubt that, rather than enacting such a law and then helplessly watching it being violated, it would be wiser not to enact such a law at all. Moreover, being unable to remove the evil of alcohol while also losing the revenue that comes from it is a great loss on both the moral and financial fronts.
+
+“Rather than treating it as a question of prestige and undertaking one scheme after another, planning and implementing measures for social welfare with practical possibilities in mind is to be welcomed.
+
+<!-- source-page: 50 -->
+
+“Our argument is not that there should be no prohibition. Our position is only that, if it cannot be properly implemented, it is not wrong—even in view of financial circumstances—to abandon it.”
+
+This is an editorial from `Navasakthi`, published in that newspaper on November 6, 1968.
+
+Today they may write differently. Even so, I draw your attention to the fact that `Navasakthi` wrote then that abandoning it would be most appropriate and that State Chief Ministers should not be blamed merely because many of them had shown hesitation or had not displayed enthusiasm.
+
+### Those who sought to stain Anna then speak of Anna today
+
+They spoke about Anna. They asked: can those who came in Anna's path, those who follow Anna's path completely, depart from it?
+
+Congress members too said that Anna's soul would shed tears, that Anna's soul would curse us. I wish to say one thing. When Anna said he would enforce prohibition rigorously, do you know what the former whip of the Legislature said at the Kunaha City All India Congress Committee meeting?
+
+He charged at the All India Congress Committee meeting that “the Chief Minister of Tamil Nadu has ordered that those committing offences should not be arrested or produced before a court.”
+
+He said at the All India Congress Committee meeting that the Chief Minister of Tamil Nadu—Anna was Chief Minister then—had ordered that those committing prohibition offences should not be arrested or produced before a court. That speech was the reward Anna received for saying he would enforce prohibition rigorously!
+
+Now, deliberately, they drag Anna into it. “You have departed from Anna's policy. Who are you?” Dr. Hande asked such questions.
+
+<!-- source-page: 51 -->
+
+I wish to remind you of one thing. In this very House, on January 23, 1968, our leader Anna brought a resolution that, within five years, Tamil would be the medium of instruction in all Government colleges in Tamil Nadu.
+
+None of you is unaware of the agitations that arose when we moved to put that resolution into practical effect.
+
+The Lakshmanasami Mudaliar Committee was constituted for that purpose. Contrary to the resolution Anna had brought—that Tamil should be the medium of instruction everywhere throughout Tamil Nadu—arrangements have today been made, on the basis of the Lakshmanasami Mudaliar recommendation, to provide an opportunity even in Government colleges for those who wish to have English as the medium of instruction.
+
+If that is so, should Dr. Hande not ask: what have you done with the resolution passed in Anna's time? He does not ask, because this is a matter favourable to him.
+
+Anna said one thing; because of differences of time, changing times, and the conditions in the country, there arose a situation in which the leaders of the respective parties had to be consulted, a decision taken, and that resolution slightly altered. Even now, what we say is only that prohibition has been postponed.
+
+Some people on behalf of the Swatantra Party welcome the repeal of prohibition. Sadiq Ali, belonging to the Congress Party, has welcomed it in the Legislative Council. They oppose it in the Lower House. In the Upper House, Thiru Easwara Moorthi spoke welcoming it.
+
+And finally, what did our Thiru Ponnappa Nadar say? After speaking in support of the view that the prohibition law should not be repealed, he finally pointed to Salem and said, “Pass the law. Be careful.” Even he came around in support of postponement..........
+
+**Thiru R. Ponnappa Nadar:** Honourable Speaker, I wish to make a personal explanation that I am not supporting it. I fully believe that prohibition should
+
+<!-- source-page: 52 -->
+
+remain. If the Chief Minister thinks he should cast a blemish on that belief, I am not responsible for it.
+
+**Chief Minister:** I will neither cast a blemish nor give you away.
+
+**Dr. Hande:** My question is why, on this particular issue, you are departing from Anna's path. Apart from this, the Chief Minister has delivered a remarkable speech in support of relaxing prohibition. But my question is: what change has occurred in the last two years?
+
+### What is Anna's path?
+
+**Chief Minister:** Anna's path is a good democratic path. We are those who follow it. In democratic ways, views expressed at one time may be reconsidered at another.
+
+Anna was firm and emphatic on the Dravida Nadu policy. Later, taking into account the condition of the country and India's security, he convened the General Council to reconsider the Dravida Nadu policy. The General Council examined and considered it and said the policy of separation should be abandoned. Anna bowed to democracy and accepted it.
+
+> **Source illustration note:** An editorial illustration shows two people walking through a gateway marked `DMK`, `Long live`, and `Democratic path`.
+
+We too have followed that very course. The General Council wished the matter to be reconsidered; we bow to the instruction the General Council gave the Cabinet.
+
+Anna bowed to democracy. We too bow to democracy. Therefore, this is Anna's path and no other.
+
+<!-- source-page: 53 -->
+
+**Dr. H. V. Hande:** You have not shown respect to Anna; you have shown respect only to the General Council.
+
+**Chief Minister:** We bow to the General Council to which Anna bowed. We are not people who bow only to the 'garden of education'.
+
+**Dr. H. V. Hande:** They deceive the town by invoking Anna's name.
+
+(Several members raised points of order.)
+
+**Speaker:** That may be removed from the proceedings.
+
+**Chief Minister:** Please, no. He says that by invoking Anna's name we deceive the town. Whether we deceive the town or not, the town knows. There is no need for the 'oozing mouths' to know.
+
+(Cries of “Shame, shame”.)
+
+**Dr. H. V. Hande:** What standing do you have to say that?
+
+(Several members rose, saying that it was a point of order.)
+
+**Speaker:** I request everyone to sit down. Because the Chief Minister magnanimously said that the statement that they deceive the town may remain in the proceedings, Dr. Hande appears to think he may say anything he wishes. He must withdraw what he has just said—the words, “What standing do you have?”
+
+**Dr. H. V. Hande:** What must I withdraw?
+
+**Speaker:** You must withdraw the words “What standing do you have?”, which are contrary to the traditions of this House.
+
+**Minister Anbazhagan:** The honourable member must first submit to the Speaker. Only after that, if he wishes to offer any explanation, he may convey it personally to the Speaker. He need not convey it to the House. Nor is there any need for him to exchange his feelings here.
+
+<!-- source-page: 54 -->
+
+**Dr. H. V. Hande:** I withdraw the words, “What standing do you have?” But............
+
+### We will not hurt anyone's feelings!
+
+**Chief Minister:** I have never wished to hurt the view—the feeling—that repealing the prohibition law is not good.
+
+People like Dr. Hande may, if they wish, want to hurt our feelings. But I do not wish to hurt anyone's feelings.
+
+When the respected Tiruppur Moideen spoke, was that a view expressed merely in order to oppose the Dravida Munnetra Kazhagam? No! Was the view expressed on behalf of the Tamil Arasu Kazhagam merely to oppose the Munnetra Kazhagam? Was the view expressed by the P.S.P. merely to oppose the Munnetra Kazhagam? No!
+
+They all genuinely believe in prohibition. That is why they spoke with emotion. I am always prepared to respect those feelings.
+
+At the same time, we must be prepared to respect one another. We must be prepared to show one another courtesy.
+
+If today we say that we follow Anna's path—Anna's path is the democratic path; we follow that democratic path. Anna's path is to place any view before the General Council and accept the General Council's decision.
+
+Following that same path, we placed this policy before the General Council for examination and accepted the General Council's decision.
+
+Therefore, if you keep asking, “Is this Anna's path? Is this Anna's path?”, does it mean that all the Congress Chief Ministers in India who have repealed prohibition have no faith in Gandhi's path?
+
+<!-- source-page: 55 -->
+
+### Exceptions to prohibition
+
+On that day Thiru C. Subramaniam said: “At least some people must be exempted from prohibition. Liquor must be made available to soldiers. In all this we cannot keep looking to Gandhi. At one time Gandhi said there should be no army at all. Can India survive without an army? Therefore the armed forces must be given the right to drink.” He said this at the Congress Party conference held in Kulhapur.
+
+It was when all these people were in the old Congress that prohibition was repealed in Maharashtra. Prohibition was repealed in Mysore. Prohibition was repealed in Andhra. In what other State has prohibition not been repealed?
+
+Even though they were all Congressmen, did they do these things contrary to Gandhi's path, on the basis that no respect need be given to Gandhi?
+
+### Anna will not abandon us!
+
+That is the measure by which this Government, the Ministers in this Government, and those of us shaped by Anna must be judged. They wish to use Anna's name to accuse us. Do not think that, by using our own Anna, you can destroy us. Our elder brother Anna will not abandon us so easily.
+
+### Only to stop the tragedies......!
+
+They called the final part a 'tragedy'. How many tragedies occurred while prohibition was in force?
+
+In Madras itself, on 7-8-1967, 113 people were admitted to hospital after drinking varnish, and 51 died.
+
+In Kanchipuram, 145 people drank varnish and were admitted to hospital; 24 died.
+
+<!-- source-page: 56 -->
+
+In Chengalpattu, 151 people were admitted to hospital; 14 died.
+
+In Walajabad, 84 people were admitted to hospital; 14 died.
+
+If this is a 'tragedy' undertaken in order to stop those tragedies, then I readily accept that this is a 'tragedy'.
+
+### We accept the failure
+
+Prohibition has failed. Previous Ministers refused to accept that the law could not function successfully here. We openly accept it.
+
+While Anna was alive, permission was given to draw padaneer from coconut trees. But instead of being drawn as padaneer, it came to be drawn almost like toddy. It was almost as though prohibition itself had been repealed. Having seen this in practice, as soon as I assumed responsibility for the Government I issued an order cancelling that permission. Immediately everyone went to court. That order could not be implemented.
+
+It is only as conditions of this kind kept growing that, with no other way left, we arrived at this decision. It is not that we are unwilling to be guided by the honourable member's feelings. It is not that we do not respect anyone's feelings.
+
+### The Kamba Ramayanam on toddy!
+
+Our senior leader Sa. Ganesan, speaking on behalf of the Swatantra Party, spoke very movingly. He asked: can drink exist in the land where Valluvar was born? It was in the very land where Valluvar was born that Kambar wrote the Ramayanam.
+
+In the Kamba Ramayanam, Kambar wrote that women too drank. It was only after Valluvar had been born and written the Kural that Kambar was born in this land and wrote the Ramayanam.
+
+<!-- source-page: 57 -->
+
+Kambar, who had read and understood the Kural, has written in many places in the Ramayanam that people drank toddy. It may be argued that even there it was only the kings in Lanka who drank alcohol and not others. They drank in Mithilapuri too. Kambar sings:—
+
+> Having drunk fresh fragrant liquor, crystal-clear to behold,  
+> their smiles broke openly forth, and they spoke words unlike themselves;  
+> though they tried to hide it, as a quarrel betrays itself despite concealment,  
+> he saw many red lotus-like faces whose very state revealed their intoxication.
+
+That is what Kambar sings. I can read it only by looking at the text.
+
+They say it was in Tamil Nadu that Kambar saw Ayodhya and Mithila. Kambar let only Rama off. Valmiki freed Rama from drink; he did not free Ayodhyapuri and Mithila.
+
+When Dasaratha set out for Mithila, Kambar refers to many people he encountered on the way, saying things such as “the clamour among women and men with liquor”.
+
+The `Undattu Padalam` says that the Ayodhya armies who went with Dasaratha drank toddy, experienced pleasure and rejoiced. Just as Valluvar did, the equally powerful Kambar saw that condition and set it out.
+
+Kambar himself says it. So I am not saying that we do not accept the principle. I am only setting out the conditions. Not only in India but throughout the world, people recognised the evil and tried; they could not succeed.
+
+### Why not do here what is done in England!
+
+Professor M. Ratnasamy, M.P., who is respected as one of the leaders of the Swatantra Party and as a distinguished intellectual, wrote an article and sent it to our Health Minister, Industries Minister and Law Minister. What did he say in that article?
+
+“The toddy shop in our country is filthy and lacking in facilities.
+
+<!-- source-page: 58 -->
+
+“By contrast, liquor shops in England have facilities such as tables and benches. Tasty snacks are also available there. A person who comes out after doing nothing but drinking may cause dangers. But a person who has had a drink with a snack, remained in a good environment and then leaves for home causes no danger. That is the only difference.
+
+“Rather than calling what exists in England a 'liquor shop', it would be more appropriate to call it a 'recreation lounge'. The Government should not look only at collecting revenue; it should also consider the welfare of the people.”
+
+He then writes: “Whether prohibition is repealed or not, the person who drinks goes on drinking. If good liquor is not available, he drinks whatever he can find and suffers. Thiru Rajagopalachari says that if toddy shops are opened, the offence of beating one's wife will increase. Is it only the non-drinker who never beats his wife? The great majority of drinkers do not beat their wives. Yes. The law must be framed for the welfare of this great majority.”
+
+On what basis did they speak from the Congress Party side too? If our friend Easwaramoorthi said, “Let prohibition go; I welcome it,” we are acting only after examining the existing conditions, and for no other reason.
+
+Please do not think that we have somehow lost our attachment to the policy of prohibition. The Police Commission appointed by us, even though we did not ask it to examine this subject, gave some evidence of how standards were declining and wrote some observations about prohibition in its report.
+
+Silambu Selvar Ma. Po. Si., who was then a member of the Police Commission, alone wrote a dissenting note. All the others wrote by presenting a picture of the existing conditions. I very humbly and respectfully ask you not to forget all of that.
+
+Today we know the number of people arrested since 1967 for prohibition offences. In this year alone, the number arrested for this
+
+<!-- source-page: 59 -->
+
+offence is nearly three and a half lakh. Nearly 2,000 people are in prison today. Among them are 164 women. (Followers of the Kamba Ramayanam.)
+
+There are women among those who have obtained permits too. Nearly 150 women have permits.
+
+I am not someone who does not know the smell that comes from the mouth when liquor is consumed. I am not speaking of everyone. Nor am I someone who has failed to notice that smell among some people. Such is the situation.
+
+If nearly three and a half lakh people have been arrested today, how many have escaped arrest?
+
+Even if there are ten people in one case, according to the Police Department's calculation 27 lakh people are drinking. Whether by consuming arishtam, distilling illicit liquor or consuming other intoxicants, lakhs of people are committing that offence. We do not receive the revenue that ought to come from toddy. It goes to someone or other.
+
+### A painful decision
+
+If it is calculated at Rs. 5 lakh a day, it comes to Rs. 1¼ crore or Rs. 1¾ crore a month! Nearly Rs. 20 crore in revenue a year. Where does this revenue go? The decision is simply that the revenue now going somewhere else should come to the Government, because we have not been able to reform them.
+
+When Kundrakudi Adigalar and Thiru M. Sankaralingam spoke here, they said that people must be advised not to drink and that prohibition propaganda must be carried out.
+
+As our friend Arumugasami pointed out, because prohibition propaganda had not been properly carried out for many years, evils had grown to this extent. Therefore, even if prohibition is postponed, this Government will take the initiative in campaigning about its effects, its evils and the evils that can arise from excessive drinking.
+
+<!-- source-page: 60 -->
+
+I am duty-bound to point out at this time that those who come forward for that work will certainly be encouraged.
+
+I respect and appreciate the feelings of the members—our friends in the allied parties. Some of them have even pleaded with me. They said they were virtually beseeching me. I am younger in age than all of them. Please take back that pleading and beseeching.
+
+I therefore appeal to those who spoke with such emotion. We have not taken this decision out of arrogance—ignoring all of you, brushing aside what is in your hearts, treating your request like water poured onto barren ground, and saying, “Who are you to tell me, and who am I to listen?”
+
+We have reached this decision with great regret and great pain, considering the conditions as they exist and because there is no other way. Even then, we have only postponed prohibition.
+
+Therefore, let all of us together press the Government of India and ask it to implement the resolution that Parliament passed in 1956—that prohibition should be brought throughout India. Until it is implemented throughout India, there is no other way except postponement. I ask you to forgive me for being unable to accept your request on this one matter.
+
+### Thanks
+
+I convey my thanks to all the members and party leaders who expressed many views on this Budget Statement. Even though heat arose in between, I ask that, because of Tamil culture, we certainly forget that heat. I thank all of you and take my seat. Vanakkam.
+
+> **Gate F final state:** **PASS / COMPLETE — 57/57 speech-body pages translated from the Gate-E-verified Tamil.** Source-page markers 4→60 are continuous and ordered. Gate G page-by-page English fidelity review is next and has not started.

@@ -2,7 +2,7 @@
 
 ## Status
 
-**Gate F IN PROGRESS — F1–F4 COMPLETE.**
+**Gate F PASS / COMPLETE — F1–F6, 57/57 pages. Gate G NEXT / NOT STARTED.**
 
 Reader-facing English is maintained only at:
 
@@ -34,8 +34,8 @@ The raw booklet images, OCR, and the 29-06-1971 Assembly / 30-06-1971 Council Of
 | F2 | 14–23 | 13–22 | **COMPLETE** |
 | F3 | 24–33 | 23–32 | **COMPLETE** |
 | F4 | 34–43 | 33–42 | **COMPLETE** |
-| F5 | 44–53 | 43–52 | next |
-| F6 / FINAL | 54–60 | 53–59 | pending |
+| F5 | 44–53 | 43–52 | **COMPLETE** |
+| F6 / FINAL | 54–60 | 53–59 | **COMPLETE** |
 
 ## Translation rules
 
@@ -49,4 +49,17 @@ The raw booklet images, OCR, and the 29-06-1971 Assembly / 30-06-1971 Council Of
 
 ## Current continuation
 
-F1–F4 scans **4–43** are complete, **40/57 pages**. Exact next: **Gate F F5 — scans 44–53 / printed pp.43–52**.
+Gate F first pass is **COMPLETE — scans 4–60 / 57/57 pages**. Exact next: **Gate G G1 — English fidelity review, scans 4–13 / implied printed pp.3–12**.
+
+## Gate G review plan
+
+Gate G verifies reader-facing English page by page against the **verified Tamil only**. It may refine English, but translation difficulty is not evidence for changing Tamil.
+
+| Batch | Scan pages | Printed pages | Status |
+|---|---:|---:|---|
+| G1 | 4–13 | implied 3–12 | next |
+| G2 | 14–23 | 13–22 | pending |
+| G3 | 24–33 | 23–32 | pending |
+| G4 | 34–43 | 33–42 | pending |
+| G5 | 44–53 | 43–52 | pending |
+| G6 / FINAL | 54–60 | 53–59 | pending |

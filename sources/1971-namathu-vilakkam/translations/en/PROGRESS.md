@@ -2,14 +2,14 @@
 
 ## Current status
 
-**Gate F IN PROGRESS.**
+**Gate F PASS / COMPLETE — Gate G NEXT / NOT STARTED.**
 
 - verified Tamil prerequisite — **PASS / COMPLETE 57/57**;
-- Gate F first-pass translation — **40/57 pages complete**;
-- completed range — **scans 4–43 / implied printed pp.3–42**;
-- F1–F4 translation questions — **0 blocking**;
+- Gate F first-pass translation — **57/57 pages complete**;
+- completed range — **scans 4–60 / implied printed pp.3–59**;
+- F1–F6 translation questions — **0 blocking**;
 - English `verified_against_tamil` — **false**;
-- Gate G — **NOT STARTED / BLOCKED until Gate F completes**;
+- Gate G — **NEXT / NOT STARTED**;
 - Official Report wording used — **none**.
 
 ## Gate-F tracker
@@ -20,8 +20,8 @@
 | F2 | 14–23 | **complete** | 0 |
 | F3 | 24–33 | **complete** | 0 |
 | F4 | 34–43 | **complete** | 0 |
-| F5 | 44–53 | next | — |
-| F6 / FINAL | 54–60 | pending | — |
+| F5 | 44–53 | **complete** | 0 |
+| F6 / FINAL | 54–60 | **complete** | 0 |
 
 ## F1 notes
 
@@ -63,4 +63,26 @@
 - no Official Report or web wording was imported;
 - blocking translation questions — **0**.
 
-Exact next: **Gate F F5 — scans 44–53 / printed pp.43–52**.
+## F5 notes
+
+- scans **44–53** complete — cumulative **50/57**;
+- source-printed English on scans **44, 46, 47, 48** preserved verbatim, including `shouldformulate`, `nd encouraged.`, `distillor`;
+- speaker/intervention material on **44, 51–53** represented;
+- illustration/context notes on **44, 47, 52** represented;
+- source-sensitive literal choices are recorded for later Gate-G fidelity/refinement rather than externally resolved;
+- blocking translation questions — **0**.
+
+## F6 / FINAL notes
+
+- scans **54–60** complete — final **57/57**;
+- Kamba Ramayanam passage and prohibition-policy rhetoric translated conservatively from verified Tamil;
+- all figures, counts and money amounts retained;
+- terminal thanks and `Vanakkam` retained;
+- blocking translation questions — **0**;
+- no Official Report or web wording imported.
+
+## Gate F closure
+
+**PASS / COMPLETE — 57/57.** English first-pass population is complete. English remains `verified_against_tamil=false` until Gate G finishes.
+
+Exact next: **Gate G G1 — scans 4–13 / implied printed pp.3–12**.

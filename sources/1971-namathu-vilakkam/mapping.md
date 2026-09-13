@@ -123,6 +123,6 @@ Full ledger: [`cross-witness-audit.md`](./cross-witness-audit.md).
 
 ## Exact continuation
 
-Gate E remains **PASS / COMPLETE — 57/57 verified pages**. Gate F F1–F4 is **COMPLETE through scans 4–43 / implied printed pp.3–42, 40/57 translated pages**, with **0 blocking translation questions** and no Official Report or web wording used. Exact continuation: **Gate F F5 — scans 44–53 / printed pp.43–52**.
+Gate E remains **PASS / COMPLETE — 57/57 verified pages**. Gate F is **PASS / COMPLETE — scans 4–60 / implied printed pp.3–59, 57/57 translated pages**, with **0 blocking translation questions** and no Official Report or web wording used. Exact continuation: **Gate G G1 — English fidelity review, scans 4–13 / implied printed pp.3–12**.
 
-- English translation — **IN PROGRESS — Gate F F1–F4 scans 4–43 COMPLETE; 40/57 pages; 0 blocking questions**
+- English translation — **GATE F PASS / COMPLETE — scans 4–60; 57/57 pages; 0 blocking questions; Gate G next**

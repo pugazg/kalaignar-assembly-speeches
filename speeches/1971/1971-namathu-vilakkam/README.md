@@ -36,10 +36,11 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 - cross-witness — **COMPLETE / Official Reports aligned; 2 user-authorized Council-record emendations applied at formerly unreadable booklet loci**
 - Gate D — **PASS / COMPLETE — 57/57; 0 completeness corrections; 0 unresolved completeness questions**
 - Gate E — **PASS / COMPLETE — E1–E6 scans 4–60; 57/57 verified; 101 cumulative corrections; 0 unresolved source-fidelity questions**
-- Gate F — **IN PROGRESS — F1–F4 scans 4–43 COMPLETE; 40/57 translated; 0 blocking questions**
-- Gate G–H — **BLOCKED / downstream**
+- Gate F — **PASS / COMPLETE — F1–F6 scans 4–60; 57/57 translated; 0 blocking questions**
+- Gate G — **NEXT / NOT STARTED**
+- Gate H — **BLOCKED / downstream**
 - Tamil — **VERIFIED AGAINST CONTROLLING BOOKLET — unresolved readings 0**
-- English — **FIRST PASS IN PROGRESS / NOT YET VERIFIED**
+- English — **FIRST PASS COMPLETE / NOT YET VERIFIED**
 - release — **NOT RELEASED**
 
 ## Files
@@ -62,4 +63,4 @@ This booklet-level entry is intentionally **not** added to the canonical dated s
 
 ## Exact next activity
 
-Gate F F1–F4 is **COMPLETE through scans 4–43 / 40 of 57 pages**. F4 preserves scan-35 source English verbatim, translates its printed Tamil rendering, carries scan-37 from verified Tamil only, and preserves the Cauvery/censorship/prohibition passages without external correction. Blocking translation questions **0**. Exact next: **Gate F F5 — scans 44–53 / printed pp.43–52**.
+Gate F is **PASS / COMPLETE — scans 4–60 / 57 of 57 pages**, with **0 blocking translation questions**. F5–F6 completed all remaining pages, preserving verified source English quirks, interventions, Kamba Ramayanam material, figures and terminal thanks without outside wording. English is complete but not yet verified. Exact next: **Gate G G1 — page-by-page English fidelity review, scans 4–13 / implied printed pp.3–12**.

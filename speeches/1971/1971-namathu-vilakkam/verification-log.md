@@ -623,3 +623,44 @@ Status: **COMPLETE / Gate F remains IN PROGRESS**
 Non-blocking source-controlled choices include `Swarajya`, `federal union`, `arbitration`, `Cauvery river-water dispute`, `Veeranam project`, `Censor Board`, `newsreel`, `Island Grounds`, `prohibition`, and literal `a double lock on Ottakoothan's song` for the source cultural phrase without external gloss.
 
 Exact continuation: **Gate F F5 — scans 44–53 / printed pp.43–52**.
+
+### F5 — scans 44–53 / printed pp.43–52
+
+Status: **COMPLETE**
+
+- pages translated — **10/10**;
+- cumulative Gate-F coverage after F5 — **50/57**;
+- authority — **verified Tamil only**;
+- source-page markers 44→53 — **preserved**;
+- speaker/intervention material — **scans 44, 51, 52, 53 represented**;
+- illustration/context notes — **scans 44, 47, 52 represented**;
+- source-printed English — **scans 44, 46, 47, 48 preserved verbatim, including source quirks `shouldformulate`, `nd encouraged.`, `distillor`**;
+- printed Tamil renderings following source English — **translated separately in source order**;
+- blocking translation questions — **0**;
+- Official Report wording used — **NO**;
+- web/external wording used — **NO**.
+
+Source-sensitive F5 decisions retained for Gate-G review include the literal/source-controlled renderings `garden of education`, `oozing mouths`, `padaneer`, and source-period prohibition terminology.
+
+### F6 / FINAL — scans 54–60 / printed pp.53–59
+
+Status: **COMPLETE — GATE F CLOSED**
+
+- pages translated — **7/7**;
+- final cumulative Gate-F coverage — **57/57**;
+- source-page markers 54→60 — **preserved**;
+- speaker/intervention material — **scan 54 represented**;
+- Kamba Ramayanam quotation and surrounding wordplay — **translated conservatively from verified Tamil**;
+- figures, arrest/prison counts, revenue amounts and terminal prohibition appeal — **preserved**;
+- final `நன்றி.` / `வணக்கம்.` — **rendered as `Thanks` / `Vanakkam`**;
+- blocking translation questions — **0**;
+- Official Report wording used — **NO**;
+- web/external wording used — **NO**;
+- English `verified_against_tamil` — **false**;
+- Gate G — **NEXT / NOT STARTED**.
+
+## Gate F closure
+
+**PASS / COMPLETE — 57/57 pages populated in English from verified Tamil.**
+
+The reader-facing `translation.md` now contains a continuous source-page sequence **4→60**. Gate F introduced no changes to verified Tamil. English is complete but not yet verified. Exact next: **Gate G G1 — page-by-page English fidelity review against verified Tamil, scans 4–13 / implied printed pp.3–12**.

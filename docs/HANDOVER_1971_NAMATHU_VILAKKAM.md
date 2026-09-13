@@ -72,8 +72,9 @@ Gate C.5 is mandatory.
 - Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
 - Gate E — **PASS / COMPLETE — E1–E6 scans 4–60; 57/57 verified; 101 cumulative corrections; 0 unresolved source-fidelity questions**
 - Tamil — **VERIFIED AGAINST CONTROLLING BOOKLET**
-- Gate F — **IN PROGRESS — F1–F4 scans 4–43 COMPLETE; 40/57 translated; 0 blocking questions**
-- English — **FIRST PASS IN PROGRESS / NOT VERIFIED**
+- Gate F — **PASS / COMPLETE — F1–F6 scans 4–60; 57/57 translated; 0 blocking questions**
+- English — **FIRST PASS COMPLETE / NOT VERIFIED**
+- Gate G — **NEXT / NOT STARTED**
 - release — NOT RELEASED
 
 ## Official Report cross-witness — COMPLETE
@@ -96,9 +97,9 @@ Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
 ## Exact next activity
 
-Begin **Gate F F5 — English first-pass translation from the verified Tamil, scans 44–53 / printed pp.43–52**.
+Begin **Gate G G1 — page-by-page English fidelity review against the verified Tamil, scans 4–13 / implied printed pp.3–12**.
 
-Use only `speeches/1971/1971-namathu-vilakkam/transcript.md` as textual authority. Continue the reader-facing `translation.md` in booklet order and preserve source-page markers, headings, speaker/intervention structure, direct address, repetitions, humour, rhetoric, names, figures, source-printed English and source order. Do not use either Official Report or web research for English wording. Preserve any source-printed English quirks already verified in Tamil. Update `TRANSLATION_PLAN.md`, `PROGRESS.md` and `GLOSSARY.md` as needed. Do not begin Gate G in the same iteration.
+Use only `speeches/1971/1971-namathu-vilakkam/transcript.md` as review authority. Compare the completed reader-facing English against verified Tamil page by page. Check omissions/additions, semantic fidelity, headings, interventions, quotations, names, figures, dates, money, percentages and page-boundary order. Refine English where the verified Tamil supports it; do not change Tamil because of translation difficulty. Do not use Official Reports, OCR, booklet pixels or web research to supply wording. Record review decisions in `TRANSLATION_REVIEW.md`. Do not begin Gate H.
 
 ## Gate C T1 — COMPLETE
 
@@ -508,3 +509,24 @@ Exact next: **Gate F F4 — scans 34–43 / printed pp.33–42**.
 - English verified — **NO / Gate G not started**
 
 Exact next: **Gate F F5 — scans 44–53 / printed pp.43–52**.
+
+## Gate F F5 — COMPLETE
+
+- scans — **44–53 / printed pp.43–52**
+- pages translated — **10 / cumulative 50/57**
+- source-printed English scans 44, 46, 47, 48 — **preserved verbatim**
+- verified source quirks `shouldformulate`, `nd encouraged.`, `distillor` — **preserved**
+- speaker/intervention pages 44, 51–53 — **represented**
+- blocking translation questions — **0**
+
+## Gate F F6 / FINAL — COMPLETE
+
+- scans — **54–60 / printed pp.53–59**
+- pages translated — **7 / final 57/57**
+- Kamba Ramayanam material / closing prohibition argument — **translated from verified Tamil only**
+- terminal `நன்றி.` / `வணக்கம்.` — **represented**
+- blocking translation questions — **0**
+- Gate F — **PASS / COMPLETE**
+- Gate G — **NEXT / NOT STARTED**
+
+Exact next: **Gate G G1 — scans 4–13 / implied printed pp.3–12**.
