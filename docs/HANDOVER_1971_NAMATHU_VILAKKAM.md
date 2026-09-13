@@ -70,7 +70,7 @@ Gate C.5 is mandatory.
 - unresolved readings — **0** (scan 31 resolved in C.5-3; scans 11 and 37 resolved post-C.5 from the official Council record by explicit user-authorized emendation)
 - cross-witness — **COMPLETE / 2 documented Official-Record emendations applied**
 - Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
-- Gate E — **IN PROGRESS — E1 scans 4–13 PASS; 10/57 reviewed; 15 corrections; 0 unresolved source-fidelity questions**
+- Gate E — **IN PROGRESS — E1–E2 scans 4–23 PASS; 20/57 reviewed; 40 cumulative corrections; 0 unresolved source-fidelity questions**
 - English — BLOCKED
 - release — NOT RELEASED
 
@@ -94,9 +94,9 @@ Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
 ## Exact next activity
 
-Begin **Gate E E2 — Tamil source-fidelity verification, scans 14–23 / printed pp.13–22**.
+Begin **Gate E E3 — Tamil source-fidelity verification, scans 24–33 / printed pp.23–32**.
 
-Re-read those ten canonical pages directly against the controlling booklet pixels. Check wording, source spellings/compounds, punctuation, figures, headings, speaker labels/interventions, page-boundary placement and illustration/context notes. Make only definite source-supported corrections; do not modernize or silently smooth source language. No Official-Record emendation falls inside E2. Do not begin Gate F / English.
+Re-read those ten canonical pages directly against the controlling booklet pixels. Check wording, source spelling/compounds, punctuation, figures/amounts, headings, speaker labels/interventions, page-boundary placement and illustration/context notes. Make only definite source-supported corrections; do not modernize or silently smooth source language. No Official-Record emendation falls inside E3. Do not begin Gate F / English.
 
 ## Gate C T1 — COMPLETE
 
@@ -347,3 +347,18 @@ Exact next: **Gate E E1 — scans 4–13 / implied printed pp.3–12**.
 Notable repairs: scan 4 restored `என்ற ஒரு நிலையில்`, `நன்றி கூறி`, and the source grants/debate sentence; scan 5 `கொடுக்கப்பட்டவர்களைத்`; scan 7 `அவர்களைப் போன்ற` / `தொடர்பாகப்` plus 7→8 dash cleanup; scan 9 `சோகப்புயல்களை`; scan 10 `சுதந்திராக் கட்சித் தலைவர்` / `தவறாகக் கருத`; scan 11 `செலுத்துவது இல்லை`, `கேடு பாடுகள்`, `பரீட்சார்த்தமாக`; scan 13 `திரு ராஜாராம் நாயுடு`.
 
 Exact next: **Gate E E2 — scans 14–23 / printed pp.13–22**.
+
+## Gate E E2 — PASS
+
+- scans — **14–23 / printed pp.13–22**
+- pages reviewed — **10 / cumulative 20/57**
+- E2 corrections — **25**
+- cumulative Gate-E corrections — **40**
+- unresolved source-fidelity questions — **0**
+- page joins — **9/9 PASS**
+- boundary dash repairs — **15→16, 16→17, 19→20, 22→23**
+- illustration/context notes — **scans 14, 16, 18, 19, 23 PASS**
+- outside wording imported — **NO**
+- current unresolved readings — **0**
+
+Exact next: **Gate E E3 — scans 24–33 / printed pp.23–32**.

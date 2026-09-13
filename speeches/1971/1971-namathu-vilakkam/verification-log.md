@@ -402,3 +402,24 @@ Definite E1 repairs:
 15. scan 13 — `திரு ராஜாராம் நாடு` → `திரு ராஜாராம் நாயுடு`.
 
 Exact continuation: **Gate E E2 — scans 14–23 / printed pp.13–22**. Do not begin Gate F / English.
+
+### E2 — scans 14–23 / printed pp.13–22
+
+Status: **PASS / COMPLETE for this batch; Gate E remains IN PROGRESS**
+
+- pages reviewed — **10/10**;
+- cumulative Gate-E coverage — **20/57**;
+- E2 definite source-fidelity corrections — **25**;
+- cumulative Gate-E corrections — **40**;
+- unresolved source-fidelity questions — **0**;
+- E2 internal page joins 14→15 through 22→23 — **9/9 PASS**;
+- page-boundary dash repairs — **4** at **15→16, 16→17, 19→20, 22→23**;
+- illustration/context notes checked — **scans 14, 16, 18, 19 and 23 / PASS**;
+- Official-Record wording imported in E2 — **NO**;
+- current unresolved readings — **0**;
+- Tamil `verified_against_scan=false` — **unchanged until Gate E closes**;
+- English / Gate F — **BLOCKED**.
+
+Notable E2 repairs include scan 16 `சலுகைகளை` and source spacing `விரிவுபடுத்தப் படுகிறது`; scan 17 `வருகிறோம்`, `செய்கின்ற`, and `நடவடிக்கைகளை`; scan 18 restoration of omitted `அந்தப் பிரச்சினையை`; scan 19 `அழுத்தப்பட்டு`; scan 20 `நிதிவாயில்களைப்`; scan 21 `வரிகளைத்`, `காரியங்களைச்`, `ஏற்படப்போவதில்லை`, `இரண்டொரு நாள்`; scan 22 `வாங்கிக்கொள்கிறார்கள்` and `ஏற்க`; and scan 23 `குறிப்பிட்ட காலத்திற்குள்`.
+
+Exact continuation: **Gate E E3 — scans 24–33 / printed pp.23–32**. Do not begin Gate F / English.
