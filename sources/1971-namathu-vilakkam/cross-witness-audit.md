@@ -1,12 +1,12 @@
 # Cross-witness audit — `நமது விளக்கம்`
 
-Status: **COMPLETE / PROVENANCE-AND-AMBIGUITY PASS**
+Status: **COMPLETE / PROVENANCE PASS + 2 USER-AUTHORIZED OFFICIAL-RECORD EMENDATIONS**
 
 ## Purpose
 
 This ledger compares the controlling 21-07-1971 Government of Tamil Nadu booklet `நமது விளக்கம்` with the two retrieved contemporary Official Report witnesses for its underlying House replies.
 
-The booklet remains the **canonical textual authority for the booklet transcript**. The Official Reports are secondary witnesses for provenance, structural comparison and ambiguous-reading support. They must not silently normalize, expand, reorder or replace booklet wording.
+The booklet remains the controlling textual witness. The Official Reports are separate witnesses for provenance and alignment. Following explicit user authorization, the official 30-06-1971 Council record may be used to resolve a booklet locus that remained genuinely unreadable after direct pixel review, provided the alignment is secure and the emendation is explicitly documented. Exactly two such emendations were applied here.
 
 ## Witnesses
 
@@ -65,7 +65,7 @@ Therefore the booklet must continue to be preserved **in booklet order**. Cross-
 
 This table records **anchors**, not an invented page-by-page House allocation.
 
-## Existing unresolved readings — secondary-witness findings
+## Formerly unresolved readings — Official-Record resolutions
 
 The booklet pixels remain controlling, so neither marker is silently replaced in `transcript.md`.
 
@@ -77,9 +77,9 @@ W2, Council Official Report, PDF p.32 gives the corresponding sentence as:
 
 `ஆகவே வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை போக ஏற்படுகிற நஷ்டம் தான் ...`
 
-Cross-witness outcome: **SECONDARY WITNESS SUPPORT — HIGH CONFIDENCE; BOOKLET CANONICAL READING REMAINS UNRESOLVED.**
+Resolution outcome: **RESOLVED / USER-AUTHORIZED OFFICIAL-RECORD EMENDATION.**
 
-The Official Report shows that `போக` belongs after `தொகை` in its House witness. Because the booklet scan itself remains visually ambiguous and the booklet is an edited witness, this does not authorize silently rewriting the booklet sentence.
+The Council Official Report securely aligns the passage. The canonical transcript now reads: `ஆகவே வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை போக ஏற்படுகிற நட்டம்தான் குறிப்பிடப்பட்டிருக்கிறதல்லாமல், வட்டியும் கொடுக்காமல் நட்டம் ஏற்பட்டிருப்பதாகக் கருதுவது சரியல்ல.` The change is explicitly tagged in `transcript.md`.
 
 ### Scan 37 / printed p.36
 
@@ -89,21 +89,21 @@ W2, Council Official Report, PDF p.38 gives the corresponding Rajaji quotation a
 
 `... என்ற கருத்தினாலெழும் தேசபக்தி வேறு. எனவே சமஷ்டி அமைப்பு ...`
 
-Cross-witness outcome: **SECONDARY WITNESS SUPPORT — HIGH CONFIDENCE; BOOKLET CANONICAL READING REMAINS UNRESOLVED.**
+Resolution outcome: **RESOLVED / USER-AUTHORIZED OFFICIAL-RECORD EMENDATION.**
 
-The Council witness strongly supports `என்ற கருத்தினாலெழும் தேசபக்தி வேறு`, but the booklet marker remains until the controlling booklet pixels themselves justify a canonical reconstruction or an explicit editorial policy authorizes secondary-witness emendation.
+The Council witness securely supports `என்ற கருத்தினாலெழும் தேசபக்தி வேறு`. The unresolved marker has been removed and the canonical transcript now carries that reading with an explicit provenance comment.
 
 ## Canonical-text impact
 
-- booklet transcript changed from Official Reports — **NO**
-- unresolved markers removed — **NO**
-- Official Report wording imported into booklet source layer — **NO**
+- booklet transcript changed from Official Reports — **YES, exactly 2 documented emendations**
+- unresolved markers removed — **YES, both**
+- Official Report wording imported into booklet source layer — **ONLY at the two explicitly unreadable, user-authorized loci**
 - Gate-B booklet-level representation changed — **NO**
 - provenance certainty improved — **YES**
-- both unresolved passages now have documented high-confidence secondary readings — **YES**
+- current unresolved readings — **0**
 
 ## Workflow consequence
 
-This cross-witness pass is provenance work outside the canonical source-fidelity gates. Gate C.5 remains **PASS / COMPLETE — 57/57**.
+This cross-witness pass remains separate from the Gate C.5 pixel audit. Gate C.5 stays **PASS / COMPLETE — 57/57** with its historical total unchanged at 129 corrections across 109 source sites. The two later Official-Record emendations are tracked separately.
 
-Exact next workflow activity remains **Gate D — Tamil completeness audit** against the controlling booklet. Gate D must keep the two booklet uncertainties explicit and must not treat secondary-witness wording as a source-pixel correction.
+Exact next workflow activity remains **Gate D — Tamil completeness audit**. Gate D should confirm the two emendations and their provenance are retained. Current unresolved readings: **0**.

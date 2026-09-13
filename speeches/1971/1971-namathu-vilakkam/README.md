@@ -33,10 +33,10 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 - Gate B — **PASS / LOCKED**
 - Gate C — **PASS / COMPLETE — T1–T6 scans 4–60; 57/57 pages**
 - Gate C.5 — **PASS / COMPLETE — scans 4–60 / 57 of 57 pages; 129 corrections across 109 source sites**
-- cross-witness — **COMPLETE / provenance-and-ambiguity pass against 29-06-1971 Assembly and 30-06-1971 Council Official Reports; canonical booklet text unchanged**
+- cross-witness — **COMPLETE / Official Reports aligned; 2 user-authorized Council-record emendations applied at formerly unreadable booklet loci**
 - Gate D — **NEXT / NOT STARTED**
 - Gate E–H — **BLOCKED / downstream**
-- Tamil — **FIRST PASS COMPLETE / C.5 COMPLETE / NOT VERIFIED — 2 booklet-unresolved readings with high-confidence Council secondary support**
+- Tamil — **FIRST PASS COMPLETE / C.5 COMPLETE / NOT VERIFIED — current unresolved readings 0**
 - English — **BLOCKED**
 - release — **NOT RELEASED**
 
@@ -59,4 +59,4 @@ This booklet-level entry is intentionally **not** added to the canonical dated s
 
 ## Exact next activity
 
-Gate D — **Tamil completeness audit** over the locked scans 4–60 / printed pp.3–59. Gate C.5 is complete at 57/57 pages with 129 cumulative corrections across 109 source sites; scans 11 and 37 remain explicitly unresolved. Do not begin Gate E in the same iteration.
+Gate D — **Tamil completeness audit** over the locked scans 4–60 / printed pp.3–59. Gate C.5 is complete at 57/57 pages with 129 cumulative pixel-supported corrections across 109 source sites. The two formerly unresolved loci at scans 11 and 37 have now been resolved by documented, user-authorized emendation from the official 30-06-1971 Legislative Council record. **Current unresolved readings: 0.** Do not begin Gate E in the same iteration.

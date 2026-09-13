@@ -58,7 +58,7 @@ Therefore:
 - reader-facing preservation follows **booklet order, scans 4–60**;
 - exact Assembly/Council splice points are **not invented** from isolated speaker labels, House references, topic changes or illustrations;
 - the two dated House events are recorded as provenance references only;
-- the 29-06-1971 Assembly and 30-06-1971 Council Official Reports have now been retrieved and audited as secondary witnesses; see [`cross-witness-audit.md`](./cross-witness-audit.md). They support provenance/alignment and difficult-reading evidence but must not silently replace or repair booklet wording.
+- the 29-06-1971 Assembly and 30-06-1971 Council Official Reports have now been retrieved and audited; see [`cross-witness-audit.md`](./cross-witness-audit.md). They remain separate witnesses. After explicit user authorization, the Council record was used for exactly **2 documented emendations** at booklet loci that remained unreadable after direct scan review (scans 11 and 37). No other Official-Report wording was imported.
 
 This follows the repository's established edited-booklet treatment.
 
@@ -82,7 +82,7 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 - Gate B — **PASS / LOCKED**
 - Gate C — **PASS / COMPLETE — T1–T6 scans 4–60 / 57 of 57 pages**
 - Gate C.5 — **PASS / COMPLETE — C.5-1–6 scans 4–60; 57/57 audited; 129 cumulative corrections across 109 source sites**
-- cross-witness — **COMPLETE / provenance-and-ambiguity pass; booklet text unchanged**
+- cross-witness — **COMPLETE / 2 user-authorized Council-record emendations applied; current unresolved readings 0**
 - Gate D — **NEXT / UNBLOCKED**
 - Gate E–H — **BLOCKED / downstream**
 - Tamil verified — **no**
@@ -91,4 +91,4 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 
 ## Exact next activity
 
-Gate C remains **COMPLETE — 57/57** and Gate C.5 is **PASS / COMPLETE — 57/57**, with **129 cumulative definite corrections across 109 source sites**. Cross-witness comparison against the official Assembly and Council reports is **COMPLETE** and confirms the edited two-House construction. Both remaining booklet uncertainties (scans 11 and 37) now have high-confidence Council secondary readings, but remain unresolved in the canonical booklet layer. Exact next activity: **Gate D — Tamil completeness audit** over the locked 57-page body. Do not start Gate E in the same iteration.
+Gate C remains **COMPLETE — 57/57** and Gate C.5 is **PASS / COMPLETE — 57/57**, with **129 cumulative definite pixel-supported corrections across 109 source sites**. Cross-witness comparison against the official Assembly and Council reports is **COMPLETE** and confirms the edited two-House construction. The two formerly unresolved booklet loci (scans 11 and 37) have now been resolved from the official 30-06-1971 Council record by explicit user-authorized emendation. **Current unresolved readings: 0.** Exact next activity: **Gate D — Tamil completeness audit** over the locked 57-page body. Do not start Gate E in the same iteration.

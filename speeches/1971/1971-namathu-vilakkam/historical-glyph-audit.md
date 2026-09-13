@@ -6,7 +6,7 @@ Status: **COMPLETE / PASS — C.5-1–6 scans 4–60 COMPLETE; 57/57 pages audit
 
 Gate C first-pass Tamil is complete for **scans 4–60 / 57 body pages**.
 
-Current unresolved readings carried into the audit:
+Unresolved readings carried into Gate C.5 at the time:
 
 - scan 11 / printed p.10 — phrase after `ஆகவே` before `வட்டிக்காக`;
 - scan 37 / printed p.36 — short phrase inside the Rajaji quotation.
@@ -185,13 +185,19 @@ Status: **COMPLETE / PASS for this batch**
 
 Notable final-batch repairs include scan-55 குல்ஹாபூரில்; scan-57 இலங்கையிலே, வால்மீகி ராமனை, Kamba quote மடவாரில் ஓதை, source ரத்தின சாமி / சுகாதார; scan-58 வருபவனால், ஆபத்துக் கிடையாதாம், பொருந்தும், வசூலிப்பதில், குடித்துக் கொண்டேதான், மாறு பட்ட; scan-59 எங்கேயோ; scan-60 உங்களே எல்லாம் and கட்டாயப் படுத்தவும்; plus three source-page-boundary dash cleanups.
 
-Gate C.5 is now **COMPLETE / PASS — 57/57**. The two pre-existing unresolved readings at scans 11 and 37 remain explicitly marked; no unsupported reconstruction was introduced.
+Gate C.5 closed **COMPLETE / PASS — 57/57** with two unresolved readings at scans 11 and 37. Those two loci were later resolved in a separate, documented post-C.5 step from the official 30-06-1971 Legislative Council debate record after explicit user authorization; the historical C.5 counts above remain unchanged.
 
 ## Exact next activity
 
-**Gate D — Tamil completeness audit** over the locked 57-page body. Confirm every mapped page is represented, markers 4→60 are complete/monotonic/unique, no page is duplicated or skipped, start/end align with the locked map, all printed speaker changes/interventions are represented, and the two unresolved readings remain explicit. Do not begin Gate E in the same iteration.
+**Gate D — Tamil completeness audit** over the locked 57-page body. Confirm every mapped page is represented, markers 4→60 are complete/monotonic/unique, no page is duplicated or skipped, start/end align with the locked map, all printed speaker changes/interventions are represented, and the two post-C.5 Official-Report emendations at scans 11 and 37 are retained with provenance. Current unresolved readings are **0**. Do not begin Gate E in the same iteration.
 
+## Post-C.5 Official Report resolution
 
+Status: **COMPLETE / 2 OF 2 FORMER UNRESOLVED LOCI RESOLVED**
 
-
-
+- authority — official Tamil Nadu Legislative Council debate record, **30-06-1971** (`900599.pdf`);
+- user authorization — **explicit**;
+- scan 11 / printed p.10 — resolved from Council PDF p.32 to `ஆகவே வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை போக ஏற்படுகிற நட்டம்தான் குறிப்பிடப்பட்டிருக்கிறதல்லாமல், வட்டியும் கொடுக்காமல் நட்டம் ஏற்பட்டிருப்பதாகக் கருதுவது சரியல்ல.`;
+- scan 37 / printed p.36 — resolved from Council PDF p.38 to `என்ற கருத்தினாலெழும் தேசபக்தி வேறு`;
+- current unresolved readings — **0**;
+- Gate C.5 pixel-supported correction count — **unchanged at 129 across 109 source sites**; these two are separately recorded Official-Report emendations.

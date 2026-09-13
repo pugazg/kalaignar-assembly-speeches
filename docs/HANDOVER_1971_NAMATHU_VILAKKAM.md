@@ -67,8 +67,8 @@ Gate C.5 is mandatory.
 - Gate B — PASS / LOCKED
 - Gate C — PASS / COMPLETE — T1–T6 scans 4–60 / 57 of 57 pages
 - Gate C.5 — **PASS / COMPLETE — C.5-1–6 scans 4–60; 57/57 audited; 129 cumulative corrections across 109 source sites**
-- unresolved readings — **2** (scans 11 and 37; scan 31 resolved in C.5-3)
-- cross-witness — **COMPLETE / Official Reports aligned; canonical booklet text unchanged**
+- unresolved readings — **0** (scan 31 resolved in C.5-3; scans 11 and 37 resolved post-C.5 from the official Council record by explicit user-authorized emendation)
+- cross-witness — **COMPLETE / 2 documented Official-Record emendations applied**
 - Gate D–E — NOT STARTED
 - English — BLOCKED
 - release — NOT RELEASED
@@ -84,10 +84,10 @@ Durable result:
 
 - booklet's edited two-House construction — **CONFIRMED**;
 - single inferred House splice — **still prohibited**;
-- scan 11 — Council p.32 supports `... வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை போக ஏற்படுகிற நஷ்டம் தான் ...`;
-- scan 37 — Council p.38 supports `என்ற கருத்தினாலெழும் தேசபக்தி வேறு`;
-- canonical booklet wording changed — **NO**;
-- booklet unresolved count — **2**.
+- scan 11 — Council p.32 securely aligned and was used to resolve the canonical sentence after explicit user authorization;
+- scan 37 — Council p.38 securely aligned and was used to resolve `என்ற கருத்தினாலெழும் தேசபக்தி வேறு` after explicit user authorization;
+- canonical booklet wording changed — **YES, exactly 2 documented emendations**;
+- booklet unresolved count — **0**.
 
 Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
@@ -95,7 +95,7 @@ Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
 Begin **Gate D — Tamil completeness audit** over the locked source body scans 4–60 / printed pp.3–59.
 
-Confirm all 57 mapped source pages are represented exactly once, source-page markers 4→60 are unique and monotonic, no page is skipped or duplicated, the locked start/end boundaries are preserved, all printed speaker changes/interventions are represented, and the two unresolved readings at scans 11 and 37 remain explicit. The completed Official Report cross-witness audit gives high-confidence secondary readings for both uncertainties, but Gate D must not import those readings into the booklet source layer. Do not begin Gate E in the same iteration.
+Confirm all 57 mapped source pages are represented exactly once, source-page markers 4→60 are unique and monotonic, no page is skipped or duplicated, the locked start/end boundaries are preserved, all printed speaker changes/interventions are represented, and the two documented Official-Record emendations at scans 11 and 37 are retained with provenance. Current unresolved readings are **0**. Do not begin Gate E in the same iteration.
 
 ## Gate C T1 — COMPLETE
 

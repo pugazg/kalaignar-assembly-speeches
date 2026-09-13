@@ -36,7 +36,7 @@ The body is not split by a printed second title or reliable internal House divid
 
 Do not guess Assembly/Council splice points from member names, isolated House words, topic changes or illustrations.
 
-Official Reports have now been retrieved and cross-witnessed. They remain separate secondary witnesses and **must not silently correct the booklet transcription**. See [`../../../sources/1971-namathu-vilakkam/cross-witness-audit.md`](../../../sources/1971-namathu-vilakkam/cross-witness-audit.md).
+Official Reports have now been retrieved and cross-witnessed. They remain separate witnesses and must not silently normalize the booklet. However, after explicit user authorization, the Council Official Report was used to resolve exactly two otherwise unreadable booklet loci (scans 11 and 37); both changes are documented as editorial emendations. See [`../../../sources/1971-namathu-vilakkam/cross-witness-audit.md`](../../../sources/1971-namathu-vilakkam/cross-witness-audit.md).
 
 ## Scan-specific features
 
@@ -51,10 +51,10 @@ Official Reports have now been retrieved and cross-witnessed. They remain separa
 - 29-06-1971 Assembly Official Report supplied as `713073.pdf` — reply witness PDF pp.61–86;
 - 30-06-1971 Council Official Report supplied as `900599.pdf` — reply witness PDF pp.26–50;
 - result — **edited two-House booklet construction independently confirmed**;
-- scan 11 and scan 37 — both now have high-confidence Council secondary readings, while the booklet canonical markers remain unresolved.
+- scan 11 and scan 37 — both resolved from the official 30-06-1971 Council debate record by explicit user-authorized emendation; canonical unresolved markers removed.
 
 ## Current status
 
-Gate A, Gate B, Gate C and Gate C.5 are complete. Cross-witness provenance/ambiguity audit is complete. Tamil is not yet verified; the two booklet uncertainties at scans 11 and 37 remain explicit.
+Gate A, Gate B, Gate C and Gate C.5 are complete. Cross-witness audit and the two authorized Official-Report emendations are complete. Tamil is not yet Gate-E verified; **current unresolved readings: 0**.
 
 Exact next activity: **Gate D — Tamil completeness audit**.

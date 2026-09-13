@@ -73,21 +73,8 @@
     "completed_page_count": 57,
     "total_page_count": 57,
     "last_batch": "T6-final",
-    "unresolved_readings": 2,
-    "unresolved_reading_locations": [
-      {
-        "scan_page": 11,
-        "printed_page": 10,
-        "marker": "⟦தெளிவில்லை: போக ஏ⟧",
-        "note": "Narrow phrase remains visually ambiguous in the controlling booklet scan. Cross-witness audit: the 30-06-1971 Legislative Council Official Report, PDF p.32, independently reads the corresponding passage as `ஆகவே வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை போக ஏற்படுகிற நஷ்டம் தான் ...`. This is high-confidence secondary support only; no outside wording has been substituted into the booklet transcript."
-      },
-      {
-        "scan_page": 37,
-        "printed_page": 36,
-        "marker": "⟦தெளிவில்லை: தேச பக்தி வேறு⟧",
-        "note": "Rajaji quotation remains visually ambiguous in the controlling booklet scan despite high-resolution re-inspection. Cross-witness audit: the 30-06-1971 Legislative Council Official Report, PDF p.38, independently reads the corresponding phrase as `என்ற கருத்தினாலெழும் தேசபக்தி வேறு`. This is high-confidence secondary support only; no outside wording has been substituted into the booklet transcript."
-      }
-    ],
+    "unresolved_readings": 0,
+    "unresolved_reading_locations": [],
     "illustration_context_recorded_scan_pages": [
       8,
       9,
@@ -125,7 +112,7 @@
     "gate_c5_correction_count": 129,
     "gate_c5_correction_sites": 109,
     "gate_c5_unresolved_readings": 2,
-    "gate_c5_note": "Gate C.5 COMPLETE / PASS. All 57 body scans (4-60 / implied printed pp.3-59) were audited directly against rendered source pixels. Final C.5-6 scans 54-60 added 22 definite textual corrections across 19 source sites; cumulative Gate C.5 corrections are 129 across 109 source sites. Two explicitly marked unresolved readings remain at scans 11 and 37. No outside textual witness, global replacement, lexical modernization or silent normalization was used. Gate D is the exact next activity.",
+    "gate_c5_note": "Gate C.5 COMPLETE / PASS. All 57 body scans (4-60 / implied printed pp.3-59) were audited directly against rendered source pixels. Final C.5-6 scans 54-60 added 22 definite textual corrections across 19 source sites; cumulative Gate C.5 corrections are 129 across 109 source sites. Two readings remained unresolved at C.5 closure (scans 11 and 37); both were later resolved by explicit, user-authorized emendation from the official 30-06-1971 Legislative Council debate record. Current unresolved readings: 0. No other outside wording was imported.",
     "gate_c5_corrections": [
       "scan 4 / implied printed p.3: மாண்புமிகு உறுப்பினர்கள் → மாமன்றத்து உறுப்பினர்கள்.",
       "scan 5 / printed p.4: four occurrences குளோரோபாம் → குளோரோஃபாம்.",
@@ -237,7 +224,31 @@
       "scan 59→60 / printed pp.58→59: removed spurious transcript em dashes splitting source அதற் / காக across the page boundary.",
       "scan 60 / printed p.59: இது உங்கள் எல்லாம் → source இது உங்களே எல்லாம்.",
       "scan 60 / printed p.59: கட்டாயப்படுத்தவும் → source கட்டாயப் படுத்தவும்."
-    ]
+    ],
+    "current_unresolved_readings": 0,
+    "post_c5_official_record_resolution": {
+      "status": "complete",
+      "resolution_count": 2,
+      "authority": "Tamil Nadu Legislative Council Official Report, 30-06-1971",
+      "user_authorized": true,
+      "note": "Two booklet loci that remained unreadable after direct scan review were explicitly resolved from the corresponding official Legislative Council debate record. These are documented editorial emendations, not additional Gate C.5 pixel-supported corrections.",
+      "resolutions": [
+        {
+          "booklet_scan": 11,
+          "printed_page": 10,
+          "official_record_file": "900599.pdf",
+          "official_record_pdf_page": 32,
+          "resolved_text": "ஆகவே வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை போக ஏற்படுகிற நட்டம்தான் குறிப்பிடப்பட்டிருக்கிறதல்லாமல், வட்டியும் கொடுக்காமல் நட்டம் ஏற்பட்டிருப்பதாகக் கருதுவது சரியல்ல."
+        },
+        {
+          "booklet_scan": 37,
+          "printed_page": 36,
+          "official_record_file": "900599.pdf",
+          "official_record_pdf_page": 38,
+          "resolved_text": "என்ற கருத்தினாலெழும் தேசபக்தி வேறு"
+        }
+      ]
+    }
   },
   "translation": {
     "status": "blocked",
@@ -254,9 +265,9 @@
     "reason": "edited two-House booklet compilation with no single speech date"
   },
   "cross_witness": {
-    "status": "complete-provenance-and-ambiguity-pass",
-    "canonical_authority": "ACL-CPL_01732_நமது_விளக்கம்.pdf rendered scan pixels",
-    "canonical_text_changed": false,
+    "status": "complete-with-user-authorized-official-record-emendations",
+    "canonical_authority": "ACL-CPL_01732_நமது_விளக்கம்.pdf rendered scan pixels, with two explicit user-authorized emendations from the official 30-06-1971 Legislative Council debate record at otherwise unreadable loci",
+    "canonical_text_changed": true,
     "booklet_representation_changed": false,
     "audit_file": "sources/1971-namathu-vilakkam/cross-witness-audit.md",
     "witnesses": [
@@ -282,15 +293,15 @@
       }
     ],
     "structural_finding": "Official Reports confirm that the booklet is an edited composite of both House replies, with Assembly-specific and Council-specific material interleaved/condensed. No single inferred House splice is authorized.",
-    "unresolved_secondary_support": [
+    "resolution_policy": "Official Legislative debate wording may resolve an explicitly unreadable booklet locus when the corresponding passage is securely aligned and the user explicitly authorizes the update; such changes must be documented as editorial emendations.",
+    "resolved_official_record_emendations": [
       {
         "booklet_scan": 11,
         "printed_page": 10,
         "witness": "900599.pdf / Legislative Council / 30-06-1971",
         "witness_pdf_page": 32,
-        "reading": "ஆகவே வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை போக ஏற்படுகிற நஷ்டம் தான் ...",
-        "confidence": "high",
-        "canonical_status": "unresolved-in-booklet"
+        "reading": "ஆகவே வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை போக ஏற்படுகிற நட்டம்தான் குறிப்பிடப்பட்டிருக்கிறதல்லாமல், வட்டியும் கொடுக்காமல் நட்டம் ஏற்பட்டிருப்பதாகக் கருதுவது சரியல்ல.",
+        "status": "resolved"
       },
       {
         "booklet_scan": 37,
@@ -298,8 +309,7 @@
         "witness": "900599.pdf / Legislative Council / 30-06-1971",
         "witness_pdf_page": 38,
         "reading": "என்ற கருத்தினாலெழும் தேசபக்தி வேறு",
-        "confidence": "high",
-        "canonical_status": "unresolved-in-booklet"
+        "status": "resolved"
       }
     ]
   }

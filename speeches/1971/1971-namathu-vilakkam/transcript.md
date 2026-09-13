@@ -1,6 +1,6 @@
 # நமது விளக்கம்
 
-> **Gate C/C.5 working note:** Gate C first-pass transcription is **COMPLETE — scan pp.4–60 / implied printed pp.3–59, 57/57 body pages**. Gate C.5 historical-glyph/source-form audit is **PASS / COMPLETE — 57/57**, with **129 cumulative definite booklet-pixel-supported corrections across 109 source sites**. Two booklet readings remain unresolved at scans **11** and **37**. A separate cross-witness audit against the 29-06-1971 Assembly and 30-06-1971 Council Official Reports documents high-confidence secondary readings for both, but **no Official Report wording has been imported into this controlling booklet transcript**.
+> **Gate C/C.5 working note:** Gate C first-pass transcription is **COMPLETE — scan pp.4–60 / implied printed pp.3–59, 57/57 body pages**. Gate C.5 historical-glyph/source-form audit is **PASS / COMPLETE — 57/57**, with **129 cumulative definite booklet-pixel-supported corrections across 109 source sites**. The two formerly unresolved booklet readings at scans **11** and **37** were subsequently resolved by explicit, user-authorized emendation from the official 30-06-1971 Legislative Council debate record. **Current unresolved readings: 0.**
 
 ---
 
@@ -138,7 +138,8 @@
 
 **முதல்வர்:** வருமானம் இருந்தால் வரி செலுத்துவார்கள். வருமானம் இல்லாமல் இருக்கிறதால் வருமான வரி செலுத்த முடியாது. ஆனால் மற்ற வரிகள் எல்லாம் செலுத்தப்படுகின்றன.
 
-ஆகவே ⟦தெளிவில்லை: போக ஏ⟧ வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை தள்ளா ஏற்படுகிற நட்டம்தான் குறிப்பிடப்பட்டிருக்கிறதா மல் வட்டியும் கொடுக்காமல் நட்டம் ஏற்பட்டிருப்பதாகக் கருதுவது சரியல்ல.
+<!-- official-record-emendation: scan 11 / printed p.10; resolved against Tamil Nadu Legislative Council Official Report, 30-06-1971, PDF p.32; user-authorized -->
+ஆகவே வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை போக ஏற்படுகிற நட்டம்தான் குறிப்பிடப்பட்டிருக்கிறதல்லாமல், வட்டியும் கொடுக்காமல் நட்டம் ஏற்பட்டிருப்பதாகக் கருதுவது சரியல்ல.
 
 நிர்வாகத்தில் உள்ள கேடுபாடுகள் எவை எவை, எந்த எந்தக் காரணத்தால் இந்தச் சீர்குலைவுகள் ஏற்பட்டிருக்கின்றன என்பவைகளை எல்லாம் எண்ணிப் பார்த்திடவும், ஆராய்ந்திடவும் இப்போது பரிட்சார்த்தமாக, சில ‘டிப்போக்களில்’ ஆய்வுகள் நடைபெற்று வருகின்றன.
 
@@ -603,7 +604,8 @@
 
 ஒருவேளை ராஜாஜி அவர்கள் பார்த்துவிட்டு ஏன் இப்படிப் பேசியிருக்கிறாய் என்று கேட்டால், பதில் சொல்ல, ராஜாஜி அவர்கள் எழுதிய புத்தகமே இருக்கிறதென்று நண்பர் சுவாமிநாதன் அவர்களுக்குத் தெரிவித்துக்கொள்கிறேன். ‘நமது ஜனநாயகம்’ என்ற புத்தகம், அதிலே சொல்லியிருக்கிறார்.
 
-‘இந்திய தேசிய வாழ்விலும், பண்பாட்டிலும் குடி கொண்டுள்ள பிரிவினைப் போக்குக் காரணமாக, சம அந்தஸ்துள்ள சுயாட்சி உறுப்புகள் அடங்கிய சமஷ்டி யூனியன் உருவாக்கவே நாம் உழைக்க வேண்டும். பிரிவினைப் பாடுகளில்லாத நாடு இந்தியா என்ற கருத்தினையும் ⟦தெளிவில்லை: தேச பக்தி வேறு⟧. எனவே சமஷ்டி அமைப்பு உருவாவதைத் தவிர்க்க—
+<!-- official-record-emendation: scan 37 / printed p.36; resolved against Tamil Nadu Legislative Council Official Report, 30-06-1971, PDF p.38; user-authorized -->
+‘இந்திய தேசிய வாழ்விலும், பண்பாட்டிலும் குடி கொண்டுள்ள பிரிவினைப் போக்குக் காரணமாக, சம அந்தஸ்துள்ள சுயாட்சி உறுப்புகள் அடங்கிய சமஷ்டி யூனியன் உருவாக்கவே நாம் உழைக்க வேண்டும். பிரிவினைப் பாடுகளில்லாத நாடு இந்தியா என்ற கருத்தினாலெழும் தேசபக்தி வேறு. எனவே சமஷ்டி அமைப்பு உருவாவதைத் தவிர்க்க—
 
 <!-- source-page: 38 -->
 

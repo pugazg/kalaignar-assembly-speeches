@@ -101,10 +101,10 @@ Status: **COMPLETE / PROVENANCE-AND-AMBIGUITY PASS**
 - Assembly witness — `713073.pdf`, 29-06-1971, 88 PDF pages; Chief Minister reply PDF pp.61–86.
 - Council witness — `900599.pdf`, 30-06-1971, 52 PDF pages; Chief Minister reply PDF pp.26–50.
 - structural result — the existing edited two-House booklet model is independently confirmed; no single inferred House splice is introduced.
-- scan 11 — Council PDF p.32 gives high-confidence secondary wording around `வட்டிக்காக ... தொகை போக ...`.
-- scan 37 — Council PDF p.38 gives high-confidence secondary wording `என்ற கருத்தினாலெழும் தேசபக்தி வேறு`.
-- canonical booklet transcript changes from cross-witness — **0**.
-- unresolved booklet readings remain — **2**.
+- scan 11 — Council PDF p.32 securely aligns and was used, after explicit user authorization, to resolve the unreadable booklet sentence around `வட்டிக்காக ... தொகை போக ...`.
+- scan 37 — Council PDF p.38 securely aligns and was used, after explicit user authorization, to resolve `என்ற கருத்தினாலெழும் தேசபக்தி வேறு`.
+- canonical booklet transcript changes from Official Report — **2 documented emendations**.
+- current unresolved booklet readings — **0**.
 
 Full ledger: [`cross-witness-audit.md`](./cross-witness-audit.md).
 
@@ -122,4 +122,4 @@ Full ledger: [`cross-witness-audit.md`](./cross-witness-audit.md).
 
 ## Exact continuation
 
-Gate C.5 is **COMPLETE / PASS — 57/57**. Exact continuation: **Gate D — Tamil completeness audit**. Confirm the locked scan 4→60 / printed pp.3→59 body is represented exactly once and in order, start/end align with the locked source map, all speaker changes/interventions are represented, and unresolved markers at scans 11 and 37 remain explicit. Do not begin Gate E in the same iteration.
+Gate C.5 is **COMPLETE / PASS — 57/57**. The two post-C.5 unreadable loci at scans 11 and 37 are now resolved by documented Official-Report emendation; current unresolved readings are **0**. Exact continuation: **Gate D — Tamil completeness audit**. Confirm the locked scan 4→60 / printed pp.3→59 body is represented exactly once and in order, start/end align with the locked source map, all speaker changes/interventions are represented, and both emendations retain provenance. Do not begin Gate E in the same iteration.

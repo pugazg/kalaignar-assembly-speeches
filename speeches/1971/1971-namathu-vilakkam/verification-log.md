@@ -313,8 +313,26 @@ Secondary support for the two remaining booklet uncertainties:
 - scan 11 / printed p.10 — Council PDF p.32 reads the corresponding passage `ஆகவே வட்டிக்காக அரசுக்குக் கொடுக்கப்பட்ட தொகை போக ஏற்படுகிற நஷ்டம் தான் ...`;
 - scan 37 / printed p.36 — Council PDF p.38 reads the corresponding Rajaji quotation `... என்ற கருத்தினாலெழும் தேசபக்தி வேறு ...`.
 
-These are **high-confidence secondary readings**, not booklet-source corrections. Both uncertainty markers remain in the canonical booklet transcript because rendered booklet pixels remain controlling.
+These two secondary readings were initially retained as provenance-only support. After explicit user authorization, both were promoted to **documented Official-Report emendations** at the two otherwise unreadable booklet loci. The rest of the booklet remains controlled by its rendered pixels.
 
-Canonical booklet text changed in this audit: **NO**.
+Canonical booklet text changed from the Official Report: **YES — exactly 2 documented emendations (scans 11 and 37)**.
+
+Current unresolved readings: **0**.
 
 Exact workflow continuation remains **Gate D — Tamil completeness audit**.
+
+## Post-C.5 Official Record emendation
+
+Status: **PASS / COMPLETE**
+
+- user directive — if the official Legislative debate record contains the missing readings, update the canonical transcript;
+- official witness — `900599.pdf`, Tamil Nadu Legislative Council, 30-06-1971;
+- scan 11 / printed p.10 — resolved from Council PDF p.32;
+- scan 37 / printed p.36 — resolved from Council PDF p.38;
+- Official-Report emendations applied — **2**;
+- current unresolved readings — **0**;
+- Gate C.5 historical correction total — **unchanged: 129 across 109 source sites**;
+- Gate D — **NEXT / UNBLOCKED**;
+- Gate E — **BLOCKED until Gate D completes**.
+
+Exact continuation: **Gate D — Tamil completeness audit**. Do not begin Gate E in the same iteration.
