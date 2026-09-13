@@ -87,11 +87,17 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 - Gate E — **PASS / COMPLETE — 57/57 verified; 101 corrections; 0 unresolved source-fidelity questions**
 - Gate F — **PASS / COMPLETE — F1–F6 scans 4–60; 57/57 translated; 0 blocking questions**
 - Gate G — **PASS / COMPLETE — G1–G6 scans 4–60; 57/57 reviewed; 42 refinements; 0 blocking fidelity issues**
-- Gate H — **NOT STARTED / next**
+- Gate H — **PASS / COMPLETE — final archival / release closure**
 - Tamil verified — **yes**
 - English — **verified against Tamil / 57 of 57**
-- release — **not released**
+- release — **RELEASED / CLOSED**
 
-## Exact next activity
+## Final workflow state
 
-Gate E, Gate F and Gate G are **PASS / COMPLETE**. Gate G closed at **scans 4–60 / 57 of 57 pages reviewed**, with **42 cumulative English fidelity refinements**, **0 blocking fidelity issues**, and no verified-Tamil changes. English `verified_against_tamil=true`. Exact next activity: **Gate H — final archival / release closure review**.
+Gate A–H are **PASS / COMPLETE**. Gate G closed at **57/57 reviewed pages**, **42 cumulative English fidelity refinements**, **0 blocking fidelity issues**, and no verified-Tamil changes. Gate H reconciled final status surfaces, confirmed scan **60** as the speech-body terminus and scan **61** as non-speech, and preserved the booklet-level indexing policy.
+
+Final archival record: [`source-archival-release-status.md`](./source-archival-release-status.md).
+
+**SOURCE PACKAGE AND BOOKLET-DERIVED TAMIL/ENGLISH READER ENTRY RELEASED / CLOSED.**
+
+There is no routine next activity.

@@ -215,4 +215,23 @@ Verified Tamil changes during G6: **none**. Official Report / OCR / booklet-pixe
 - verified Tamil changes during Gate G — **none**
 - English `verified_against_tamil` — **true**
 
-Exact next: **Gate H — final archival / release closure review**. Gate H has **not** started.
+## Gate H — final archival / release closure
+
+Status: **PASS / COMPLETE — RELEASED / CLOSED**
+
+Closure checks:
+
+- Gate A–G status surfaces reconciled;
+- verified Tamil remains **57/57**, source-page markers **4→60 exactly once and in order**;
+- verified English remains **57/57**, source-page markers **4→60 exactly once and in order**;
+- Gate-G total remains **42 refinements / 0 blockers / 0 verified-Tamil changes**;
+- scan **60 / printed p.59** remains the locked speech-body terminus with **Thanks / Vanakkam**;
+- scan **61** remains excluded as back cover / non-speech;
+- `date: null` and `booklet-edited-two-house-compilation` remain correct;
+- booklet-level entry remains outside the canonical dated speech table and `data/speeches.json`;
+- the two dated House records remain provenance/event references, not a reconstructed booklet splice;
+- no Tamil or English wording changed during Gate H.
+
+Final disposition: **Gate H PASS / COMPLETE; booklet-derived Tamil/English reader entry RELEASED / CLOSED.**
+
+Future changes require direct controlling-source evidence for Tamil, or a correction derived only from the verified Tamil for English.

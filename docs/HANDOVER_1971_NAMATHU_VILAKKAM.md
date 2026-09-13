@@ -75,7 +75,8 @@ Gate C.5 is mandatory.
 - Gate F — **PASS / COMPLETE — F1–F6 scans 4–60; 57/57 translated; 0 blocking questions**
 - English — **VERIFIED AGAINST TAMIL — 57/57**
 - Gate G — **PASS / COMPLETE — G1–G6 scans 4–60; 57/57 reviewed; 42 refinements; 0 blocking fidelity issues**
-- release — NOT RELEASED
+- Gate H — **PASS / COMPLETE**
+- release — **RELEASED / CLOSED**
 
 ## Official Report cross-witness — COMPLETE
 
@@ -95,13 +96,24 @@ Durable result:
 
 Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
-## Exact next activity
+## Final closure
 
-Begin **Gate H — final archival / release closure review**.
+Gate H is **PASS / COMPLETE** and this booklet source package is **RELEASED / CLOSED**.
 
-Gate G is durable and **PASS / COMPLETE**: scans **4–60 / 57 of 57 pages**, **42 cumulative English fidelity refinements**, **0 blocking fidelity issues**, verified Tamil changes during Gate G **none**, and English `verified_against_tamil=true`.
+Closure confirmed:
 
-Gate H must review the final reader-facing package and control metadata for archival/release closure without reopening verified Tamil or re-running Gate G. Confirm status consistency across `transcript.md`, `translation.md`, `metadata.json`, reader/source READMEs, mapping, translation review/progress ledgers, handover and root index; confirm scan 60 is the speech-body terminus and scan 61 remains excluded; confirm release/indexing policy for this edited two-House booklet; and record the final Gate-H disposition.
+1. Tamil source-page markers **4→60** occur exactly once and in order;
+2. English source-page markers **4→60** occur exactly once and in order;
+3. Gate G remains **57/57 reviewed / 42 refinements / 0 blockers / no verified-Tamil changes**;
+4. scan **60 / printed p.59** remains the locked speech-body terminus with `நன்றி.` / `வணக்கம்.`;
+5. scan **61** remains excluded as back cover / non-speech;
+6. `date: null` remains correct because this is an edited two-House compilation, not a single dated speech;
+7. the booklet-level entry remains outside the canonical dated speech table and `data/speeches.json`;
+8. Gate H made **0 Tamil/English wording changes**.
+
+The two explicitly user-authorized Official-Record Tamil emendations at scans 11 and 37 remain documented in `cross-witness-audit.md`; no Official-Report wording entered the Gate-G English.
+
+There is **no routine next activity**. A future Tamil correction requires direct evidence from the controlling booklet source (or an explicitly authorized provenance correction); a future English correction must be derived only from the verified Tamil.
 
 ## Gate C T1 — COMPLETE
 

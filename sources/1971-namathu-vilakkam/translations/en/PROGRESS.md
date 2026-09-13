@@ -8,7 +8,7 @@
 - Gate F first-pass translation — **57/57 pages complete**;
 - completed range — **scans 4–60 / implied printed pp.3–59**;
 - F1–F6 translation questions — **0 blocking**;
-- English `verified_against_tamil` — **false**;
+- English `verified_against_tamil` — **true**;
 - Gate G — **PASS / COMPLETE — G1–G6 scans 4–60; 57/57 reviewed; 42 refinements; 0 blocking fidelity issues**;
 - Official Report wording used — **none**.
 
@@ -83,7 +83,7 @@
 
 ## Gate F closure
 
-**PASS / COMPLETE — 57/57.** English first-pass population is complete. English remains `verified_against_tamil=false` until Gate G finishes.
+**PASS / COMPLETE — 57/57.** At Gate-F closure English remained unverified; Gate G subsequently completed 57/57 and set `verified_against_tamil=true`.
 
 ## Gate-G tracker
 
@@ -182,4 +182,15 @@
 
 English `verified_against_tamil=true`.
 
-Exact next: **Gate H — final archival / release closure review**. Gate H has **not** started.
+## Gate H final closure
+
+- final Tamil marker sequence **4→60** — **PASS / 57 exactly once**;
+- final English marker sequence **4→60** — **PASS / 57 exactly once**;
+- scan **60 / printed p.59** speech terminus — **PASS**;
+- scan **61** back cover / non-speech exclusion — **PASS**;
+- booklet identity — **edited two-House compilation / date:null — PASS**;
+- canonical dated index / `data/speeches.json` — **booklet intentionally absent / PASS**;
+- metadata, reader/source READMEs, mapping, review ledger, progress ledger, handover and root status — **reconciled**;
+- Gate-H textual changes — **0**.
+
+**Gate H PASS / COMPLETE. RELEASED / CLOSED.**

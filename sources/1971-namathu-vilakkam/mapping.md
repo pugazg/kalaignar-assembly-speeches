@@ -119,10 +119,20 @@ Full ledger: [`cross-witness-audit.md`](./cross-witness-audit.md).
 - Gate D completeness — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
 - Tamil source-fidelity verification — **PASS / COMPLETE — Gate E E1–E6 scans 4–60; 57/57 verified; 101 corrections; 0 unresolved**
 - English — **Gate F PASS / COMPLETE; Gate G PASS / COMPLETE — G1–G6 scans 4–60; 57/57 reviewed; 42 refinements; 0 blocking fidelity issues; verified_against_tamil=true**
-- Gate H / release — **Gate H not started / release not reached**
+- Gate H / release — **PASS / COMPLETE — RELEASED / CLOSED**
 
-## Exact continuation
+## Final closure
 
-Gate E, Gate F and Gate G are **PASS / COMPLETE**. Gate G closed at **scans 4–60 / implied printed pp.3–59, 57/57 reviewed pages**, with **42 cumulative English fidelity refinements / 0 blocking fidelity issues** and no verified-Tamil changes. Exact continuation: **Gate H — final archival / release closure review**.
+Gate A–H are **PASS / COMPLETE**. Gate G closed at **scans 4–60 / implied printed pp.3–59, 57/57 reviewed pages**, with **42 cumulative English fidelity refinements / 0 blocking fidelity issues** and no verified-Tamil changes.
+
+Gate H confirmed:
+
+- Tamil and English source-page markers **4→60 exactly once and in order**;
+- scan **60 / printed p.59** is the speech-body terminus;
+- scan **61** is excluded as back cover / non-speech;
+- `date: null` and the edited two-House booklet identity remain correct;
+- the booklet entry remains outside the canonical dated speech table and `data/speeches.json`.
+
+Final disposition: **RELEASED / CLOSED. No routine continuation.**
 
 - English translation — **GATE F PASS / COMPLETE; Gate G PASS / COMPLETE — scans 4–60; 57/57 reviewed; 42 refinements; 0 blocking fidelity issues; verified_against_tamil=true**

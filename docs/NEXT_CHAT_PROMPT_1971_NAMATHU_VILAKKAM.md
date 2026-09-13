@@ -1,50 +1,32 @@
-# NEXT CHAT PROMPT — 1971 நமது விளக்கம் / Gate H final archival-release closure
+# CLOSED — 1971 `நமது விளக்கம்`
 
-Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Repository: `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
-## Durable state
+## Final durable state
 
-- Gate A–F — **PASS / COMPLETE**
+- Gate A–H — **PASS / COMPLETE**
 - Tamil — **VERIFIED 57/57**
-- Gate G — **PASS / COMPLETE**
-- G1 scans 4–13 — **COMPLETE / 5 refinements**
-- G2 scans 14–23 — **COMPLETE / 3 refinements**
-- G3 scans 24–33 — **COMPLETE / 7 refinements**
-- G4 scans 34–43 — **COMPLETE / 8 refinements**
-- G5 scans 44–53 — **COMPLETE / 12 refinements**
-- G6 / FINAL scans 54–60 — **COMPLETE / 7 refinements**
-- Gate-G coverage — **57/57 pages**
-- cumulative Gate-G refinements — **42**
-- blocking fidelity issues — **0**
+- English — **VERIFIED AGAINST TAMIL 57/57**
+- Gate-G refinements — **42**
+- Gate-G blocking fidelity issues — **0**
 - verified Tamil changes during Gate G — **none**
-- English `verified_against_tamil` — **true**
-- Gate H — **NOT STARTED / next**
-- release — **NOT RELEASED**
+- Gate H textual changes — **0**
+- scan **60 / printed p.59** — locked speech-body terminus
+- scan **61** — back cover / non-speech / excluded
+- booklet identity — **edited two-House compilation**
+- metadata date — **null**
+- canonical dated speech table — **booklet intentionally absent**
+- `data/speeches.json` — **booklet intentionally absent**
+- release — **RELEASED / CLOSED**
 
-## Gate-G authority record
+## Authority and provenance
 
-Gate G used only the Gate-E-verified Tamil in `speeches/1971/1971-namathu-vilakkam/transcript.md` as authority for Tamil-derived English. Source-printed English was preserved verbatim where applicable. No OCR, booklet pixels, web research, or Assembly/Council Official Reports supplied English wording.
+The controlling booklet remains `ACL-CPL_01732_நமது_விளக்கம்.pdf`. Tamil is the verified booklet witness, with the two explicitly user-authorized Official-Record emendations at scans 11 and 37 documented in `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
-## Exact next activity
+Gate-G English was reviewed only against the verified Tamil; no Official Report, OCR, booklet-pixel, or web wording supplied English.
 
-Perform **Gate H — final archival / release closure review**.
+## Future-change rule
 
-Requirements:
+There is **no routine next activity**.
 
-1. do **not** reopen or rewrite verified Tamil or Gate-G English unless a concrete internal inconsistency is found;
-2. verify final status consistency across:
-   - `speeches/1971/1971-namathu-vilakkam/transcript.md`
-   - `speeches/1971/1971-namathu-vilakkam/translation.md`
-   - `speeches/1971/1971-namathu-vilakkam/metadata.json`
-   - reader/source `README.md` files
-   - `sources/1971-namathu-vilakkam/mapping.md`
-   - `sources/1971-namathu-vilakkam/translations/en/TRANSLATION_REVIEW.md`
-   - `sources/1971-namathu-vilakkam/translations/en/PROGRESS.md`
-   - `docs/HANDOVER_1971_NAMATHU_VILAKKAM.md`
-   - root `README.md`;
-3. confirm scan **60 / printed p.59** remains the locked speech-body terminus and scan **61** remains excluded as back cover / non-speech;
-4. preserve the booklet-level indexing policy: it is an edited two-House compilation and must not be invented as one dated Assembly event;
-5. determine and record the Gate-H archival/release disposition, synchronizing metadata and all status surfaces;
-6. do not use OCR, booklet pixels, web research, or Official Reports to alter wording during this closure review.
-
-If all closure checks pass, mark Gate H **PASS / COMPLETE** and the booklet **RELEASED / CLOSED** according to the repository's established release conventions.
+A future Tamil correction requires direct evidence from the controlling booklet source or a separately authorized provenance correction. A future English correction must be derived only from the verified Tamil and immediate booklet context. Do not silently reconstruct this edited booklet as a single dated Assembly speech.

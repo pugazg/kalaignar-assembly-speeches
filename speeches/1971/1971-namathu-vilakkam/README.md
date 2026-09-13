@@ -38,10 +38,10 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 - Gate E — **PASS / COMPLETE — E1–E6 scans 4–60; 57/57 verified; 101 cumulative corrections; 0 unresolved source-fidelity questions**
 - Gate F — **PASS / COMPLETE — F1–F6 scans 4–60; 57/57 translated; 0 blocking questions**
 - Gate G — **PASS / COMPLETE — G1–G6 scans 4–60; 57/57 reviewed; 42 refinements; 0 blocking fidelity issues**
-- Gate H — **NOT STARTED / next**
+- Gate H — **PASS / COMPLETE — final archival / release closure**
 - Tamil — **VERIFIED AGAINST CONTROLLING BOOKLET — unresolved readings 0**
 - English — **VERIFIED AGAINST TAMIL — 57/57**
-- release — **NOT RELEASED**
+- release — **RELEASED / CLOSED**
 
 ## Files
 
@@ -52,6 +52,7 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 - [`verification-log.md`](./verification-log.md)
 - [`historical-glyph-audit.md`](./historical-glyph-audit.md)
 - [`../../../sources/1971-namathu-vilakkam/cross-witness-audit.md`](../../../sources/1971-namathu-vilakkam/cross-witness-audit.md) — Official Report provenance/alignment ledger
+- [`../../../sources/1971-namathu-vilakkam/source-archival-release-status.md`](../../../sources/1971-namathu-vilakkam/source-archival-release-status.md) — final Gate-H archival/release record
 
 Source mapping and provenance records live under:
 
@@ -61,6 +62,10 @@ Source mapping and provenance records live under:
 
 This booklet-level entry is intentionally **not** added to the canonical dated speech table or `data/speeches.json` as one Assembly event.
 
-## Exact next activity
+## Final workflow state
 
-Gate F remains **PASS / COMPLETE — 57/57**. Gate G is now **PASS / COMPLETE — scans 4–60 / 57 of 57 pages reviewed**, with **42 cumulative reader-facing English fidelity refinements**, **0 blocking fidelity issues**, and no verified-Tamil changes. English `verified_against_tamil=true`. Exact next: **Gate H — final archival / release closure review**.
+Gate A–H are **PASS / COMPLETE**. Tamil is verified **57/57**; English is verified against Tamil **57/57**, with **42 cumulative Gate-G refinements**, **0 blocking fidelity issues**, and no verified-Tamil changes during English review.
+
+Gate H confirmed scan **60 / printed p.59** as the locked speech-body terminus, scan **61** as excluded back cover / non-speech, and the booklet-level indexing rule. This edited two-House booklet remains outside the canonical dated speech table and `data/speeches.json`.
+
+**RELEASED / CLOSED.** There is no routine next activity.

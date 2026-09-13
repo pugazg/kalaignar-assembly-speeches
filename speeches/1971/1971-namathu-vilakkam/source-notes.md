@@ -57,8 +57,8 @@ Official Reports have now been retrieved and cross-witnessed. They remain separa
 
 Gate A, Gate B, Gate C, Gate C.5, Gate D and Gate E are complete. Gate E closed **PASS / COMPLETE — 57/57 pages**, with **101 cumulative definite booklet-pixel-supported corrections**, **0 unresolved source-fidelity questions**, and **Tamil verified_against_scan=true**. Cross-witness audit and the two authorized Official-Report emendations remain separately documented. **Current unresolved readings: 0.**
 
-Gate F is **PASS / COMPLETE — scans 4–60 / implied printed pp.3–59, 57/57 pages**, with **0 blocking translation questions**. Source-printed English on scans 35, 44, 46, 47 and 48 is preserved as source material, including verified quirks. No Official Report or web wording was imported. English is complete but not verified.
+Gate F is **PASS / COMPLETE — scans 4–60 / implied printed pp.3–59, 57/57 pages**, with **0 blocking translation questions**. Gate G is **PASS / COMPLETE — 57/57 reviewed, 42 cumulative English fidelity refinements, 0 blocking fidelity issues, and no verified-Tamil changes**. Source-printed English on scans 35, 44, 46, 47 and 48 remains preserved as source material, including verified quirks. Gate H is **PASS / COMPLETE** and the booklet-derived reader entry is **RELEASED / CLOSED**.
 
-Gate G is **IN PROGRESS**. G1–G2 scans **4–23 / implied printed pp.3–22** are complete: **20/57 reviewed, 8 cumulative English refinements, 0 blocking fidelity issues, 0 verified-Tamil changes**.
+Scan **60 / printed p.59** is the locked speech-body terminus; scan **61** remains excluded as back cover / non-speech. The booklet remains an edited two-House compilation with `date: null` and is intentionally absent from the canonical dated speech table and `data/speeches.json`.
 
-Exact next activity: **Gate G G3 — scans 24–33 / printed pp.23–32**.
+There is **no routine next activity**. Future Tamil changes require direct controlling-source evidence; future English changes must be derived only from the verified Tamil.
