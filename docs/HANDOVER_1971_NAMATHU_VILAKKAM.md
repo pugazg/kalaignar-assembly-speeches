@@ -70,8 +70,10 @@ Gate C.5 is mandatory.
 - unresolved readings — **0** (scan 31 resolved in C.5-3; scans 11 and 37 resolved post-C.5 from the official Council record by explicit user-authorized emendation)
 - cross-witness — **COMPLETE / 2 documented Official-Record emendations applied**
 - Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
-- Gate E — **IN PROGRESS — E1–E5 scans 4–53 PASS; 50/57 reviewed; 95 cumulative corrections; 0 unresolved source-fidelity questions**
-- English — BLOCKED
+- Gate E — **PASS / COMPLETE — E1–E6 scans 4–60; 57/57 verified; 101 cumulative corrections; 0 unresolved source-fidelity questions**
+- Tamil — **VERIFIED AGAINST CONTROLLING BOOKLET**
+- Gate F — **NEXT / READY / NOT STARTED**
+- English — **READY / NOT STARTED**
 - release — NOT RELEASED
 
 ## Official Report cross-witness — COMPLETE
@@ -94,9 +96,9 @@ Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
 ## Exact next activity
 
-Begin **Gate E E6 / FINAL — Tamil source-fidelity verification, scans 54–60 / printed pp.53–59**.
+Begin **Gate F F1 — English first-pass translation from the verified Tamil, scans 4–13 / implied printed pp.3–12**.
 
-Re-read the final seven canonical body pages directly against the controlling booklet pixels. Check wording, source spelling/compounds, punctuation, numerals/amounts, headings, speaker labels/interventions, page-boundary placement, source-printed English and illustration/context notes. Verify the terminal speech ending on scan 60 and continue to exclude later library matter / scan 61 back cover. Make only definite source-supported corrections; do not modernize or silently smooth source language. If E6 passes with no unresolved source-fidelity questions, close Gate E / set Tamil `verified_against_scan=true`, then set the next workflow gate only; do not begin Gate F / English in the same iteration.
+Use only the now-verified Tamil in `speeches/1971/1971-namathu-vilakkam/transcript.md` as textual authority. Do not translate from OCR, the booklet pixels directly, or either Official Report. Preserve headings, speaker/intervention structure, direct address, repetitions, humour, rhetoric, figures and source order. The two provenance-tagged Official-Record emendations are already part of the verified Tamil; translate the verified Tamil reading without independently consulting those records. Initialize the English translation control records and reader-facing `translation.md` if absent. Do not begin Gate G in the same iteration.
 
 ## Gate C T1 — COMPLETE
 
@@ -414,3 +416,25 @@ Exact next: **Gate E E5 — scans 44–53 / printed pp.43–52**.
 - current unresolved readings — **0**
 
 Exact next: **Gate E E6 / FINAL — scans 54–60 / printed pp.53–59**.
+
+## Gate E E6 / FINAL — PASS / COMPLETE
+
+- scans — **54–60 / printed pp.53–59**
+- pages reviewed — **7 / final cumulative 57/57**
+- E6 corrections — **6**
+- final cumulative Gate-E corrections — **101**
+- unresolved source-fidelity questions — **0**
+- internal joins 54→55 through 59→60 — **6/6 PASS / no new boundary repair**
+- speaker/intervention material — **scan 54 PASS**
+- source-printed English in E6 — **none**
+- illustration/context notes in E6 — **none**
+- scan 60 `நன்றி.` / final `வணக்கம்.` — **PASS**
+- scan 60 later library stamp — **excluded / PASS**
+- scan 61 — **back cover / non-speech / PASS**
+- current unresolved readings — **0**
+- Tamil `verified_against_scan` — **true**
+- Gate E — **CLOSED**
+
+E6 repairs: scan 54 `நாம் கூறிட` and `வைத்துப்`; scan 56 `எழுதியிருக்கிறார்`; scan 58 source compound `பற்றுப்போய்விட்டது`; scan 59 `நடைபெறாமல்`; scan 60 `உங்களை எல்லாம்`.
+
+Exact next: **Gate F F1 — English first-pass translation, scans 4–13 / implied printed pp.3–12**.

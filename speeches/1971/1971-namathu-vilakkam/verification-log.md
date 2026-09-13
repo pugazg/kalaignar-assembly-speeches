@@ -493,3 +493,41 @@ Status: **PASS / COMPLETE for this batch; Gate E remains IN PROGRESS**
 Notable E5 repairs include scan 45 `அளவுக்கு மீறிய`, source-quoted `‘ஆல்கஹால்’`, and `குறிக்கோள்`; scan 46 `கணக்குகளே` and `மக்கள் தொகை`; scan 47 source exclamation punctuation; scan 49 `கொள்கையினை`; scan 50 `கைவிடுவதுகூடத்`; scan 51 `வடிவத்திற்குக்` plus restoration of `அந்தந்தக் கட்சித் தலைவர்களையும் சந்தித்து ... அந்தத் தீர்மானத்தைக்`; scan 51→52 the split `வேண்டு` / `மென்று`; and scan 53 `கல்வித் தோட்டத்திற்கு`, source-printed `ஊறு வாயர்களுக்குத்`, and `சொல்லுவதைச்`.
 
 Exact continuation: **Gate E E6 / FINAL — scans 54–60 / printed pp.53–59**. Do not begin Gate F / English in the same iteration.
+
+### E6 / FINAL — scans 54–60 / printed pp.53–59
+
+Status: **PASS / COMPLETE — Gate E CLOSED**
+
+- pages reviewed — **7/7**;
+- final cumulative Gate-E coverage — **57/57**;
+- E6 definite source-fidelity corrections — **6**;
+- final cumulative Gate-E corrections — **101**;
+- unresolved source-fidelity questions — **0**;
+- current unresolved readings — **0**;
+- E6 internal joins 54→55 through 59→60 — **6/6 PASS / no new boundary repair required**;
+- speaker/intervention material — **scan 54 PASS**;
+- source-printed English in E6 — **none**;
+- illustration/context notes in E6 — **none**;
+- scan 60 speech terminal `நன்றி.` / final `வணக்கம்.` — **PASS**;
+- scan 60 later library stamp — **excluded / PASS**;
+- scan 61 — **back cover / non-speech / PASS**;
+- Official-Record wording newly imported in E6 — **NO**;
+- the two authorized Official-Record emendations at scans 11 and 37 — **retained / provenance-tagged / excluded from the 101 Gate-E booklet-pixel correction count**;
+- Tamil `verified_against_scan` — **TRUE**.
+
+E6 repairs:
+
+1. scan 54 — `நாம்கூறிட முடியாது` → source `நாம் கூறிட முடியாது`;
+2. scan 54 — `பொதுக் குழுவில் வைத்து பொதுக் குழுவின்` → source `பொதுக் குழுவில் வைத்துப் பொதுக் குழுவின்`;
+3. scan 56 — `கம்பர் இராமாயணம் எழுதினார்` → source `கம்பர் இராமாயணம் எழுதியிருக்கிறார்`;
+4. scan 58 — `எங்களுக்குப் பற்றுப் போய்விட்டது` → source `எங்களுக்குப் பற்றுப்போய்விட்டது`;
+5. scan 59 — `நடைபெறுமல்` → source `நடைபெறாமல்`;
+6. scan 60 — `உங்களே எல்லாம்` → source `உங்களை எல்லாம்`.
+
+## Gate E closure
+
+**PASS / COMPLETE — Tamil VERIFIED.**
+
+All **57/57** body pages are now source-fidelity verified against the controlling booklet pixels. Source markers **4→60** remain exact, unique and ordered; unresolved source-fidelity questions are **0**; current unresolved readings are **0**. The verified Tamil is now the sole textual authority for English translation. The Official Reports remain provenance material and must not supply English wording.
+
+Exact continuation: **Gate F F1 — English first-pass translation from the verified Tamil, scans 4–13 / implied printed pp.3–12**. Do not begin Gate G in the same iteration.

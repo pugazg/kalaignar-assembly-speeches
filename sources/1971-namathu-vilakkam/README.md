@@ -84,12 +84,13 @@ The 1971 source uses older Tamil print. Gate C.5 historical-glyph review is **ma
 - Gate C.5 — **PASS / COMPLETE — C.5-1–6 scans 4–60; 57/57 audited; 129 cumulative corrections across 109 source sites**
 - cross-witness — **COMPLETE / 2 user-authorized Council-record emendations applied; current unresolved readings 0**
 - Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
-- Gate E — **IN PROGRESS — E1–E5 scans 4–53 PASS; 50/57 reviewed; 95 corrections; 0 unresolved source-fidelity questions**
-- Gate F–H — **BLOCKED / downstream**
+- Gate E — **PASS / COMPLETE — 57/57 verified; 101 corrections; 0 unresolved source-fidelity questions**
+- Gate F — **NEXT / READY / NOT STARTED**
+- Gate G–H — **BLOCKED / downstream**
 - Tamil verified — **no**
 - English — **blocked**
 - release — **not released**
 
 ## Exact next activity
 
-Gate D remains **PASS / COMPLETE — 57/57**. Gate E E1–E5 is now **PASS through scans 4–53 / 50 of 57 pages**, with **95 cumulative definite booklet-pixel-supported source-fidelity corrections** and **0 unresolved source-fidelity questions**. E5 added 17 corrections, including the 51→52 word-boundary repair; source-printed English on scans 44, 46, 47 and 48 is preserved verbatim. Current unresolved readings: **0**. Exact next activity: **Gate E E6 / FINAL — scans 54–60 / printed pp.53–59**.
+Gate E is now **PASS / COMPLETE — 57/57 source-fidelity verified pages**, with **101 cumulative booklet-pixel-supported corrections** and **0 unresolved source-fidelity questions**. E6 added 6 corrections and confirmed the terminal scan-60 ending plus scan-61 back-cover exclusion. Tamil `verified_against_scan=true`; current unresolved readings: **0**. Exact next activity: **Gate F F1 — English first-pass translation from verified Tamil, scans 4–13 / implied printed pp.3–12**.
