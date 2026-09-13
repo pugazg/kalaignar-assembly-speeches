@@ -2,7 +2,7 @@
 
 Gate C.5 is **mandatory** for this 1971 source.
 
-Status: **IN PROGRESS — C.5-1–4 scans 4–43 COMPLETE; 40/57 pages audited; 80 cumulative corrections**
+Status: **IN PROGRESS — C.5-1–5 scans 4–53 COMPLETE; 50/57 pages audited; 107 cumulative corrections**
 
 Gate C first-pass Tamil is complete for **scans 4–60 / 57 body pages**.
 
@@ -150,9 +150,28 @@ Notable repairs include scan-34 source பர்சனலிடி forms and ம
 
 The scan-37 Rajaji quotation was re-inspected directly from the booklet pixels at high resolution. The uncertain short phrase remains insufficiently decisive; its existing marker is retained unchanged. Scan 11 also remains unresolved.
 
+## C.5-5 — scans 44–53 / printed pp.43–52
+
+Status: **COMPLETE / PASS for this batch**
+
+- pages audited — **10/10**
+- cumulative C.5 — **50/57**
+- new definite textual corrections — **27 across 26 source sites**
+- cumulative definite corrections — **107 across 90 source sites**
+- global replacements — **none**
+- modernization — **none**
+- outside textual witnesses imported — **none**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **2** (scans 11 and 37)
+
+Notable repairs include scan-44 page-boundary cleanup, source இந்தியப் பூராக முழுமைக்கும், நாம்கூறிட, and மதுவிலக்கு கருதப்படவேண்டும்; scan-45 அளவுக்கு நிறைய, source punctuation around ஆல்கஹால், and சிபாரிசுகளைக்; scan-46 விற்பனைக் கணக்குகள், விவரங்கள்தான், source spacing and எடுக்கப்பட வேண்டும்; scan-47 பேசுகையில் and source மது விலக்கு; scan-49 page-boundary cleanup, தயக்கத்தினை, பெரு நஷ்டம்; scan-50 6ஆம், அவர்கள் மீது, ஒன்றைக், அமல் படுத்துவதாகச்; scan-51 அமல் படுத்துவதற்காகச் and தீர்மானத்தைக்; scan-52 page-boundary cleanup; scan-53 மதிப்பளிக்க வில்லை, தனிக் தோட்டத்திற்கு, தயவுசெய்து, and என்ன வேண்டுமானாலும்.
+
+The existing unresolved markers at scans 11 and 37 are unchanged.
+
 ## Exact next activity
 
-**C.5-5 scans 44–53 / printed pp.43–52**. Do not begin Gate D.
+**C.5-6 / FINAL scans 54–60 / printed pp.53–59**. Complete the historical-glyph/source-form audit over the remaining seven body pages. Do not begin Gate D in the same iteration.
+
 
 
 

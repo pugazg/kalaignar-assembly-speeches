@@ -66,7 +66,7 @@ Gate C.5 is mandatory.
 - Gate A — PASS
 - Gate B — PASS / LOCKED
 - Gate C — PASS / COMPLETE — T1–T6 scans 4–60 / 57 of 57 pages
-- Gate C.5 — **IN PROGRESS — C.5-1–4 scans 4–43 COMPLETE; 40/57 audited; 80 cumulative corrections**
+- Gate C.5 — **IN PROGRESS — C.5-1–5 scans 4–53 COMPLETE; 50/57 audited; 107 cumulative corrections**
 - unresolved readings — **2** (scans 11 and 37; scan 31 resolved in C.5-3)
 - Gate D–E — NOT STARTED
 - English — BLOCKED
@@ -74,9 +74,9 @@ Gate C.5 is mandatory.
 
 ## Exact next activity
 
-Begin **Gate C.5-5 historical-glyph/source-form audit — scans 44–53 / printed pp.43–52**.
+Begin **Gate C.5-6 / FINAL historical-glyph/source-form audit — scans 54–60 / printed pp.53–59**.
 
-Continue direct pixel comparison. Preserve both unresolved readings at scans 11 and 37 unless the controlling booklet pixels themselves resolve them in a later targeted pass. Do not global-replace, modernize, import Official Report wording, or begin Gate D in the same iteration.
+Complete the remaining seven body pages directly against the booklet pixels. Preserve the two unresolved readings at scans 11 and 37 unless the controlling pixels are revisited and decisive. Do not global-replace, modernize, import Official Report wording, or begin Gate D in the same iteration.
 
 ## Gate C T1 — COMPLETE
 
@@ -256,4 +256,20 @@ Notable source repairs: scan 34 source பர்சனலிடி forms / ம�
 The scan-37 uncertainty was re-inspected from the booklet pixels at high resolution and remains unresolved. No outside wording was imported.
 
 Exact next: **Gate C.5-5 scans 44–53 / printed pp.43–52**.
+
+## Gate C.5-5 — COMPLETE / PASS
+
+- scans — **44–53 / printed pp.43–52**
+- pages audited — **10**
+- cumulative C.5 — **50/57**
+- new corrections — **27 across 26 source sites**
+- cumulative corrections — **107 across 90 source sites**
+- new unresolved readings — **0**
+- cumulative unresolved readings — **2** (scans 11 and 37)
+- source markers — **4→60 unchanged**
+- Gate D — **BLOCKED**
+
+Notable source repairs: scan 44 page-boundary cleanup / இந்தியப் பூராக முழுமைக்கும் / நாம்கூறிட; scan 45 அளவுக்கு நிறைய / source punctuation / சிபாரிசுகளைக்; scan 46 விற்பனைக் கணக்குகள் / விவரங்கள்தான்; scan 47 பேசுகையில் / மது விலக்கு; scan 49 தயக்கத்தினை / பெரு நஷ்டம்; scan 50 6ஆம் / அவர்கள் மீது / ஒன்றைக் / அமல் படுத்துவதாகச்; scan 51 அமல் படுத்துவதற்காகச் / தீர்மானத்தைக்; scan 53 மதிப்பளிக்க வில்லை / தனிக் தோட்டத்திற்கு / தயவுசெய்து / என்ன வேண்டுமானாலும்.
+
+Exact next: **Gate C.5-6 / FINAL scans 54–60 / printed pp.53–59**.
 
