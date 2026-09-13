@@ -2,9 +2,9 @@
 
 ## Status
 
-**Gate G IN PROGRESS — G1–G5 COMPLETE.**
+**Gate G PASS / COMPLETE — G1–G6 COMPLETE.**
 
-Gate F first-pass English is complete for **57/57 pages, scans 4–60**. Gate G has reviewed **50/57 pages** through scans **4–53 / implied printed pp.3–52**.
+Gate F first-pass English is complete for **57/57 pages, scans 4–60**. Gate G has reviewed **57/57 pages** through scans **4–60 / implied printed pp.3–59**.
 
 ## Review authority
 
@@ -23,7 +23,7 @@ Do not use OCR, booklet pixels, web research, or the Assembly/Council Official R
 | G3 | 24–33 | 23–32 | **complete** | 0 |
 | G4 | 34–43 | 33–42 | **complete** | 0 |
 | G5 | 44–53 | 43–52 | **complete** | 0 |
-| G6 / FINAL | 54–60 | 53–59 | next | — |
+| G6 / FINAL | 54–60 | 53–59 | **complete** | 0 |
 
 ## Review rules
 
@@ -173,4 +173,46 @@ Checks passing without change:
 
 Verified Tamil changes during G5: **none**. Official Report / OCR / booklet-pixel / web wording used: **none**.
 
-Exact next: **Gate G G6 / FINAL — scans 54–60 / printed pp.53–59**.
+## G6 / FINAL — scans 54–60 / printed pp.53–59
+
+Status: **COMPLETE — 7/7 pages / 0 blocking fidelity issues**
+
+Seven reader-facing English fidelity refinements were applied from the verified Tamil only:
+
+1. **scan 56** — `can drink exist in the land where Valluvar was born?` → `can there be drinking in the land where Valluvar was born?` for `வள்ளுவர் பிறந்த நாட்டிலே குடி இருக்கலாமா`, making the rhetorical question idiomatic without changing its force;
+2. **scan 57** — `Kambar let only Rama off. Valmiki freed Rama from drink; he did not free Ayodhyapuri and Mithila.` → `Kambar exempted only Rama. Valmiki freed Rama from drinking; Ayodhyapuri and Mithila were not exempted.`, removing an ambiguous English pronoun while preserving the source's compressed contrast;
+3. **scan 57** — heading `Why not do here what is done in England!` → `Why not do here as they do in England!`;
+4. **scan 59** — `Even if there are ten people in one case` → `Even if we reckon ten people per case`, preserving the source's calculation frame;
+5. **scan 60** — `will certainly be encouraged` → `will certainly be supported` for `நிச்சயமாக ஆக்கம் அளிக்கப்படும்`;
+6. **scan 60** — removed unsupported `virtually` from the beseeching passage and rendered `திரும்பப் பெற்றுக் கொள்ளுங்கள்` as `Please withdraw that pleading and beseeching`;
+7. **scan 60** — `because of Tamil culture, we certainly forget that heat` → `in keeping with Tamil culture, we should certainly forget that heat`, matching the Chief Minister's closing request.
+
+Checks passing without change:
+
+- source-page markers **54→60** and terminal order;
+- all headings, speaker interventions and rhetorical exchanges;
+- figures and counts: **113/51, 145/24, 151/14, 84/14, 3½ lakh, 2,000, 164, 150, 27 lakh, Rs. 5 lakh/day, Rs. 20 crore/year**;
+- padaneer/toddy, Kamba Ramayanam, prohibition-policy and Police Commission terminology;
+- Kambar verse passage retained without outside literary reconciliation;
+- final appeal to the Government of India and the **1956** parliamentary resolution;
+- terminal **Thanks / Vanakkam** and speech-body boundary at scan 60;
+- no omission/addition requiring Tamil change.
+
+Verified Tamil changes during G6: **none**. Official Report / OCR / booklet-pixel / web wording used: **none**.
+
+## Gate G closure
+
+**PASS / COMPLETE — 57/57.**
+
+- G1 refinements — **5**
+- G2 refinements — **3**
+- G3 refinements — **7**
+- G4 refinements — **8**
+- G5 refinements — **12**
+- G6 / FINAL refinements — **7**
+- cumulative English fidelity refinements — **42**
+- blocking fidelity issues — **0**
+- verified Tamil changes during Gate G — **none**
+- English `verified_against_tamil` — **true**
+
+Exact next: **Gate H — final archival / release closure review**. Gate H has **not** started.

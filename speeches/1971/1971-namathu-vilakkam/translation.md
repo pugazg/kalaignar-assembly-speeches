@@ -1,6 +1,6 @@
 # English translation — நமது விளக்கம்
 
-> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F first-pass translation is **PASS / COMPLETE — scans 4–60 / 57/57 pages**. Gate G page-by-page fidelity review is **IN PROGRESS — G1–G5 scans 4–53 COMPLETE, 50/57 reviewed, 35 cumulative English fidelity refinements, 0 blocking issues**.
+> **Translation authority note:** This English is translated only from the verified Tamil in `transcript.md`. The controlling Tamil has completed Gate E against `ACL-CPL_01732_நமது_விளக்கம்.pdf`. The 29-06-1971 Assembly and 30-06-1971 Council Official Reports are provenance witnesses only and supply no English wording. Gate F first-pass translation is **PASS / COMPLETE — scans 4–60 / 57/57 pages**. Gate G page-by-page fidelity review is **PASS / COMPLETE — G1–G6 scans 4–60, 57/57 reviewed, 42 cumulative English fidelity refinements, 0 blocking issues**.
 
 ---
 
@@ -983,7 +983,7 @@ It is only as conditions of this kind kept growing that, with no other way left,
 
 ### The Kamba Ramayanam on toddy!
 
-Our senior leader Sa. Ganesan, speaking on behalf of the Swatantra Party, spoke very movingly. He asked: can drink exist in the land where Valluvar was born? It was in the very land where Valluvar was born that Kambar wrote the Ramayanam.
+Our senior leader Sa. Ganesan, speaking on behalf of the Swatantra Party, spoke very movingly. He asked: can there be drinking in the land where Valluvar was born? It was in the very land where Valluvar was born that Kambar wrote the Ramayanam.
 
 In the Kamba Ramayanam, Kambar wrote that women too drank. It was only after Valluvar had been born and written the Kural that Kambar was born in this land and wrote the Ramayanam.
 
@@ -998,7 +998,7 @@ Kambar, who had read and understood the Kural, has written in many places in the
 
 That is what Kambar sings. I can read it only by looking at the text.
 
-They say it was in Tamil Nadu that Kambar saw Ayodhya and Mithila. Kambar let only Rama off. Valmiki freed Rama from drink; he did not free Ayodhyapuri and Mithila.
+They say it was in Tamil Nadu that Kambar saw Ayodhya and Mithila. Kambar exempted only Rama. Valmiki freed Rama from drinking; Ayodhyapuri and Mithila were not exempted.
 
 When Dasaratha set out for Mithila, Kambar refers to many people he encountered on the way, saying things such as “the clamour among women and men with liquor”.
 
@@ -1006,7 +1006,7 @@ The `Undattu Padalam` says that the Ayodhya armies who went with Dasaratha drank
 
 Kambar himself says it. So I am not saying that we do not accept the principle. I am only setting out the conditions. Not only in India but throughout the world, people recognised the evil and tried; they could not succeed.
 
-### Why not do here what is done in England!
+### Why not do here as they do in England!
 
 Professor M. Ratnasamy, M.P., who is respected as one of the leaders of the Swatantra Party and as a distinguished intellectual, wrote an article and sent it to our Health Minister, Industries Minister and Law Minister. What did he say in that article?
 
@@ -1038,7 +1038,7 @@ I am not someone who does not know the smell that comes from the mouth when liqu
 
 If nearly three and a half lakh people have been arrested today, how many have escaped arrest?
 
-Even if there are ten people in one case, according to the Police Department's calculation 27 lakh people are drinking. Whether by consuming arishtam, distilling illicit liquor or consuming other intoxicants, lakhs of people are committing that offence. We do not receive the revenue that ought to come from toddy. It goes to someone or other.
+Even if we reckon ten people per case, according to the Police Department's calculation 27 lakh people are drinking. Whether by consuming arishtam, distilling illicit liquor or consuming other intoxicants, lakhs of people are committing that offence. We do not receive the revenue that ought to come from toddy. It goes to someone or other.
 
 ### A painful decision
 
@@ -1050,9 +1050,9 @@ As our friend Arumugasami pointed out, because prohibition propaganda had not be
 
 <!-- source-page: 60 -->
 
-I am duty-bound to point out at this time that those who come forward for that work will certainly be encouraged.
+I am duty-bound to point out at this time that those who come forward for that work will certainly be supported.
 
-I respect and appreciate the feelings of the members—our friends in the allied parties. Some of them have even pleaded with me. They said they were virtually beseeching me. I am younger in age than all of them. Please take back that pleading and beseeching.
+I respect and appreciate the feelings of the members—our friends in the allied parties. Some of them have even pleaded with me. They even said that they were beseeching me. I am younger in age than all of them. Please withdraw that pleading and beseeching.
 
 I therefore appeal to those who spoke with such emotion. We have not taken this decision out of arrogance—ignoring all of you, brushing aside what is in your hearts, treating your request like water poured onto barren ground, and saying, “Who are you to tell me, and who am I to listen?”
 
@@ -1062,6 +1062,6 @@ Therefore, let all of us together press the Government of India and ask it to im
 
 ### Thanks
 
-I convey my thanks to all the members and party leaders who expressed many views on this Budget Statement. Even though heat arose in between, I ask that, because of Tamil culture, we certainly forget that heat. I thank all of you and take my seat. Vanakkam.
+I convey my thanks to all the members and party leaders who expressed many views on this Budget Statement. Even though heat arose in between, I ask that, in keeping with Tamil culture, we should certainly forget that heat. I thank all of you and take my seat. Vanakkam.
 
-> **Gate F final state:** **PASS / COMPLETE — 57/57 speech-body pages translated from the Gate-E-verified Tamil.** Source-page markers 4→60 are continuous and ordered. Gate G page-by-page English fidelity review is next and has not started.
+> **Gate G final state:** **PASS / COMPLETE — 57/57 speech-body pages reviewed page by page against the Gate-E-verified Tamil.** Gate G closed with **42 cumulative English fidelity refinements**, **0 blocking fidelity issues**, and **no verified-Tamil changes**. Source-page markers 4→60 are continuous and ordered. English `verified_against_tamil=true`. Gate H is next and has not started.

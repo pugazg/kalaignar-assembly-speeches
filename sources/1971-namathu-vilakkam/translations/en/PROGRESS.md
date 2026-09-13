@@ -2,14 +2,14 @@
 
 ## Current status
 
-**Gate F PASS / COMPLETE — Gate G IN PROGRESS / G1–G5 COMPLETE.**
+**Gate F PASS / COMPLETE — Gate G PASS / COMPLETE.**
 
 - verified Tamil prerequisite — **PASS / COMPLETE 57/57**;
 - Gate F first-pass translation — **57/57 pages complete**;
 - completed range — **scans 4–60 / implied printed pp.3–59**;
 - F1–F6 translation questions — **0 blocking**;
 - English `verified_against_tamil` — **false**;
-- Gate G — **IN PROGRESS — G1–G5 scans 4–53 COMPLETE; 50/57 reviewed; 35 refinements; 0 blocking fidelity issues**;
+- Gate G — **PASS / COMPLETE — G1–G6 scans 4–60; 57/57 reviewed; 42 refinements; 0 blocking fidelity issues**;
 - Official Report wording used — **none**.
 
 ## Gate-F tracker
@@ -94,7 +94,7 @@
 | G3 | 24–33 | **complete** | 7 | 0 |
 | G4 | 34–43 | **complete** | 8 | 0 |
 | G5 | 44–53 | **complete** | 12 | 0 |
-| G6 / FINAL | 54–60 | next | — | — |
+| G6 / FINAL | 54–60 | **complete** | 7 | 0 |
 
 ## G1 notes
 
@@ -163,4 +163,23 @@
 - page-spanning syntax, interventions, headings, figures, percentages, illustration notes, prohibition chronology and Anna-policy exchanges — **PASS**;
 - Official Report / OCR / booklet pixels / web wording used — **none**.
 
-Exact next: **Gate G G6 / FINAL — scans 54–60 / printed pp.53–59**.
+## G6 / FINAL notes
+
+- reviewed scans **54–60 / 7 pages**, cumulative **57/57**;
+- reader-facing English refinements — **7 / cumulative 42**;
+- blocking fidelity issues — **0**;
+- verified Tamil changes — **none**;
+- scan 56 Valluvar/drinking rhetorical question made idiomatic without changing force;
+- scan 57 Kambar/Valmiki contrast clarified without importing literary context, and the England heading made idiomatic;
+- scan 59 Police Department calculation recast as `ten people per case`;
+- scan 60 `ஆக்கம் அளிக்கப்படும்` rendered as `will certainly be supported`, unsupported `virtually` removed from the pleading passage, and the Tamil-culture closing request made grammatical and faithful;
+- figures, deaths/admissions, arrest/permit counts, revenue figures, Kamba Ramayanam passage, prohibition-policy rhetoric, closing appeal, Thanks and Vanakkam — **PASS**;
+- Official Report / OCR / booklet pixels / web wording used — **none**.
+
+## Gate G closure
+
+**PASS / COMPLETE — 57/57 reviewed; 42 cumulative refinements; 0 blocking fidelity issues; verified Tamil changes none.**
+
+English `verified_against_tamil=true`.
+
+Exact next: **Gate H — final archival / release closure review**. Gate H has **not** started.
