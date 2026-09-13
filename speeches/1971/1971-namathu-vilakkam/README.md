@@ -35,7 +35,7 @@ Because the booklet has more than one underlying speech date, `metadata.json` ke
 - Gate C.5 — **PASS / COMPLETE — scans 4–60 / 57 of 57 pages; 129 corrections across 109 source sites**
 - cross-witness — **COMPLETE / Official Reports aligned; 2 user-authorized Council-record emendations applied at formerly unreadable booklet loci**
 - Gate D — **PASS / COMPLETE — 57/57; 0 completeness corrections; 0 unresolved completeness questions**
-- Gate E — **IN PROGRESS — E1–E2 scans 4–23 PASS; 20/57 reviewed; 40 cumulative corrections; 0 unresolved source-fidelity questions**
+- Gate E — **IN PROGRESS — E1–E3 scans 4–33 PASS; 30/57 reviewed; 61 cumulative corrections; 0 unresolved source-fidelity questions**
 - Gate F–H — **BLOCKED / downstream**
 - Tamil — **COMPLETENESS-AUDITED / SOURCE-FIDELITY REVIEW IN PROGRESS — unresolved readings 0**
 - English — **BLOCKED**
@@ -60,4 +60,4 @@ This booklet-level entry is intentionally **not** added to the canonical dated s
 
 ## Exact next activity
 
-Gate E E1–E2 is **PASS through scans 4–23 / 20 of 57 pages**, with **40 cumulative definite booklet-pixel-supported corrections** and **0 unresolved source-fidelity questions**. E2 added 25 corrections and all 9 E2 page joins pass after four boundary-dash cleanups. Illustration/context notes through scan 23 remain conservative and source-supported; no outside wording was imported in E2. Exact next: **Gate E E3 — scans 24–33 / printed pp.23–32**.
+Gate E E1–E3 is **PASS through scans 4–33 / 30 of 57 pages**, with **61 cumulative definite booklet-pixel-supported corrections** and **0 unresolved source-fidelity questions**. E3 added 21 corrections; all 9 E3 page joins pass after source-boundary repairs at 25→26, 29→30 and 31→32. Illustration/context notes on scans 24, 28 and 31 pass, and no outside wording was imported in E3. Exact next: **Gate E E4 — scans 34–43 / printed pp.33–42**.

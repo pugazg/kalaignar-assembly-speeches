@@ -70,7 +70,7 @@ Gate C.5 is mandatory.
 - unresolved readings — **0** (scan 31 resolved in C.5-3; scans 11 and 37 resolved post-C.5 from the official Council record by explicit user-authorized emendation)
 - cross-witness — **COMPLETE / 2 documented Official-Record emendations applied**
 - Gate D — **PASS / COMPLETE — 57/57; 0 corrections; 0 unresolved completeness questions**
-- Gate E — **IN PROGRESS — E1–E2 scans 4–23 PASS; 20/57 reviewed; 40 cumulative corrections; 0 unresolved source-fidelity questions**
+- Gate E — **IN PROGRESS — E1–E3 scans 4–33 PASS; 30/57 reviewed; 61 cumulative corrections; 0 unresolved source-fidelity questions**
 - English — BLOCKED
 - release — NOT RELEASED
 
@@ -94,9 +94,9 @@ Ledger: `sources/1971-namathu-vilakkam/cross-witness-audit.md`.
 
 ## Exact next activity
 
-Begin **Gate E E3 — Tamil source-fidelity verification, scans 24–33 / printed pp.23–32**.
+Begin **Gate E E4 — Tamil source-fidelity verification, scans 34–43 / printed pp.33–42**.
 
-Re-read those ten canonical pages directly against the controlling booklet pixels. Check wording, source spelling/compounds, punctuation, figures/amounts, headings, speaker labels/interventions, page-boundary placement and illustration/context notes. Make only definite source-supported corrections; do not modernize or silently smooth source language. No Official-Record emendation falls inside E3. Do not begin Gate F / English.
+Re-read those ten canonical pages directly against the controlling booklet pixels. Check wording, source spelling/compounds, punctuation, figures/amounts, headings, speaker labels/interventions, page-boundary placement and illustration/context notes. Make only definite source-supported corrections; do not modernize or silently smooth source language. Scan 37 contains the documented user-authorized Council-record emendation; preserve its provenance and do not count it as a booklet-pixel correction unless the booklet pixels independently support it. Do not begin Gate F / English.
 
 ## Gate C T1 — COMPLETE
 
@@ -362,3 +362,19 @@ Exact next: **Gate E E2 — scans 14–23 / printed pp.13–22**.
 - current unresolved readings — **0**
 
 Exact next: **Gate E E3 — scans 24–33 / printed pp.23–32**.
+
+## Gate E E3 — PASS
+
+- scans — **24–33 / printed pp.23–32**
+- pages reviewed — **10 / cumulative 30/57**
+- E3 corrections — **21**
+- cumulative Gate-E corrections — **61**
+- unresolved source-fidelity questions — **0**
+- page joins — **9/9 PASS**
+- source-boundary repairs — **25→26, 29→30, 31→32**
+- illustration/context notes — **scans 24, 28, 31 PASS**
+- speaker/intervention pages 27 and 29 — **PASS**
+- outside wording imported — **NO**
+- current unresolved readings — **0**
+
+Exact next: **Gate E E4 — scans 34–43 / printed pp.33–42**.

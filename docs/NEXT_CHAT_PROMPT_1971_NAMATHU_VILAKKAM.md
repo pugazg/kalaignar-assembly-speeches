@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 1971 நமது விளக்கம் / Gate E E3 scans 24–33
+# NEXT CHAT PROMPT — 1971 நமது விளக்கம் / Gate E E4 scans 34–43
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -19,17 +19,18 @@ Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE
 - Gate E — **IN PROGRESS**
 - E1 scans 4–13 — **PASS / 10 pages / 15 corrections**
 - E2 scans 14–23 — **PASS / 10 pages / 25 corrections**
-- cumulative Gate-E coverage — **20/57 pages**
-- cumulative Gate-E corrections — **40**
+- E3 scans 24–33 — **PASS / 10 pages / 21 corrections**
+- cumulative Gate-E coverage — **30/57 pages**
+- cumulative Gate-E corrections — **61**
 - unresolved source-fidelity questions — **0**
-- E2 page joins — **9/9 PASS**; boundary dash repairs at **15→16, 16→17, 19→20, 22→23**
-- illustration/context notes through scan 23 — **PASS**
+- E3 page joins — **9/9 PASS**; source-boundary repairs at **25→26, 29→30, 31→32**
+- illustration/context notes through scan 33 — **PASS**
 - Tamil `verified_against_scan` — **false**
 - English / Gate F — **BLOCKED**
 
 ## Exact next activity
 
-Perform **Gate E E3 — Tamil source-fidelity verification, scans 24–33 / printed pp.23–32**.
+Perform **Gate E E4 — Tamil source-fidelity verification, scans 34–43 / printed pp.33–42**.
 
 Requirements:
 
@@ -37,9 +38,9 @@ Requirements:
 2. check wording, source spelling/compounds, punctuation, numerals/amounts, headings, speaker labels/interventions and page-boundary placement;
 3. check illustration/context notes where present;
 4. make only definite source-supported corrections; do not modernize or silently smooth awkward source language;
-5. no Official-Record emendation falls inside scans 24–33; do not import outside wording;
-6. record exact E3 correction count, cumulative Gate-E count and unresolved source-fidelity questions;
+5. scan 37 contains the documented user-authorized Council-record emendation; preserve its provenance and do not count it as a booklet-pixel correction unless the booklet pixels independently support the same wording;
+6. record exact E4 correction count, cumulative Gate-E count and unresolved source-fidelity questions;
 7. update transcript, metadata, verification log, READMEs, mapping, handover, root status and next prompt;
 8. do not begin Gate F / English.
 
-Expected continuation after E3: **Gate E E4 — scans 34–43 / printed pp.33–42**.
+Expected continuation after E4: **Gate E E5 — scans 44–53 / printed pp.43–52**.

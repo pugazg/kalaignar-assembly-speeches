@@ -423,3 +423,25 @@ Status: **PASS / COMPLETE for this batch; Gate E remains IN PROGRESS**
 Notable E2 repairs include scan 16 `சலுகைகளை` and source spacing `விரிவுபடுத்தப் படுகிறது`; scan 17 `வருகிறோம்`, `செய்கின்ற`, and `நடவடிக்கைகளை`; scan 18 restoration of omitted `அந்தப் பிரச்சினையை`; scan 19 `அழுத்தப்பட்டு`; scan 20 `நிதிவாயில்களைப்`; scan 21 `வரிகளைத்`, `காரியங்களைச்`, `ஏற்படப்போவதில்லை`, `இரண்டொரு நாள்`; scan 22 `வாங்கிக்கொள்கிறார்கள்` and `ஏற்க`; and scan 23 `குறிப்பிட்ட காலத்திற்குள்`.
 
 Exact continuation: **Gate E E3 — scans 24–33 / printed pp.23–32**. Do not begin Gate F / English.
+
+### E3 — scans 24–33 / printed pp.23–32
+
+Status: **PASS / COMPLETE for this batch; Gate E remains IN PROGRESS**
+
+- pages reviewed — **10/10**;
+- cumulative Gate-E coverage — **30/57**;
+- E3 definite source-fidelity corrections — **21**;
+- cumulative Gate-E corrections — **61**;
+- unresolved source-fidelity questions — **0**;
+- E3 internal page joins 24→25 through 32→33 — **9/9 PASS**;
+- source-boundary repairs — **25→26, 29→30, 31→32**;
+- illustration/context notes checked — **scans 24, 28 and 31 / PASS**;
+- speaker/intervention material on scans 27 and 29 — **PASS after source-form review**;
+- Official-Record wording imported in E3 — **NO**;
+- current unresolved readings — **0**;
+- Tamil `verified_against_scan=false` — **unchanged until Gate E closes**;
+- English / Gate F — **BLOCKED**.
+
+Notable E3 repairs include scan 24 `திட்டப்பட`; scan 26 `இந்த நாட்டில் உள்ள`, removal of the unsupported comma before `அளவுக்கு`, and source `பெற்றாக`; scan 27 source-printed `மாநிலத்துக்கு அதிக அதிகாரங்களும்`; scan 28 `வீடுகள் எல்லாம்` / `பன்றிகள்`; scan 29 `எங்களை விட` / `நினைவு படுத்துகிறேன்`; scan 29→30 restoration of the split word `சங்கடங்களில்`; scan 31–33 restoration of source `பர்சனலிடி`; scan 32 `அதிலும் முக்கியமாக`; and scan 33 `ரட்சகரைத்`.
+
+Exact continuation: **Gate E E4 — scans 34–43 / printed pp.33–42**. Do not begin Gate F / English.
