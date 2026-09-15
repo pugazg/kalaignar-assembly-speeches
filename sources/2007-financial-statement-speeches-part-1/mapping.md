@@ -112,7 +112,7 @@ Released material remains locked. This anthology must be processed as an indepen
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speech 1 COMPLETE / CLOSED; Speech 2 COMPLETE — scans 25–33 / 9 of 9 pages; speeches 3–19 not started**
+- Gate C — **Speech 1 COMPLETE / CLOSED; Speech 2 COMPLETE / CLOSED; Speech 3 COMPLETE — scans 34–42 / 9 of 9 pages; speeches 4–19 not started**
 - Gate D — **Speech 1 PASS / COMPLETE — 0 completeness corrections; Speech 2 PASS / COMPLETE — 0 completeness corrections**
 - Gate E — **Speech 1 PASS / COMPLETE — 9 source-fidelity corrections; 0 unresolved; Tamil VERIFIED; Speech 2 PASS / COMPLETE — 6 source-fidelity corrections; 0 unresolved; Tamil VERIFIED**
 - Gate C.5 — **provisionally N/A for this modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
@@ -124,4 +124,4 @@ Released material remains locked. This anthology must be processed as an indepen
 
 Speech 1 / 5.3.1958 Tamil is now **VERIFIED**: Gate C complete, Gate D PASS, Gate E PASS with **9 corrections / 0 unresolved readings**.
 
-Speeches 1 and 2 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Exact next: **Speech 3 / 16.3.1960 Gate C, scans 34–42 / printed pp.33–41**.
+Speeches 1 and 2 are **RELEASED / CLOSED through Gate H**. Speech 3 / 16.3.1960 Gate C is **COMPLETE — 9/9 pages; Tamil transcribed / not verified**. Exact next: **Speech 3 Gate D completeness audit, scans 34–42 / printed pp.33–41**.

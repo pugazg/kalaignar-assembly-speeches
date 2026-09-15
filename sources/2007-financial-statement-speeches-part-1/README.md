@@ -160,6 +160,23 @@ Gate E applied **6 source-fidelity corrections** with **0 unresolved readings**.
 
 Canonical bilingual transcript and dated indexes are synchronized. Full English audit: `speeches/1959/1959-03-04-financial-statement-debate/translation-review.md`.
 
+## Speech 3 current state
+
+Reader/work entry:
+
+[`../../speeches/1960/1960-03-16-financial-statement-debate/`](../../speeches/1960/1960-03-16-financial-statement-debate/)
+
+- Gate C — **COMPLETE / 9 of 9 pages**
+- source markers — **34→42 exactly once**
+- unresolved first-pass readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- Gate C.5 — **provisionally N/A**
+- Gate D — **NOT STARTED / next**
+- Gate E — **NOT STARTED**
+- English — **BLOCKED**
+
+Gate C preserved the C. Subramaniam intervention, J. Madhava Gowder intervention, Deputy Speaker interventions including printed English, the quoted letter with embedded English administrative terms, figures, humour and page-spanning continuations.
+
 ## Exact next activity
 
-Begin **Speech 3 / 16.3.1960 Gate C**, scans **34–42 / printed pp.33–41**. Complete only the first-pass Tamil transcription in that iteration.
+Perform **Speech 3 Gate D Tamil completeness audit**, scans **34–42 / printed pp.33–41**. Do not begin Gate E, English, or Speech 4 in the same iteration.

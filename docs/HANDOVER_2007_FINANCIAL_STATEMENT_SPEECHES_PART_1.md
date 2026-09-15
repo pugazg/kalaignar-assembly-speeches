@@ -230,6 +230,29 @@ Speech 2 / 4.3.1959 is **RELEASED / CLOSED**.
 - root and machine-readable dated indexes — synchronized;
 - Gate-H wording changes — 0.
 
+## Speech 3 durable Gate-C state
+
+Canonical working entry:
+
+`speeches/1960/1960-03-16-financial-statement-debate/`
+
+- scans **34–42 / printed pp.33–41**
+- Gate C — **COMPLETE / 9 of 9 pages**
+- source markers — **34→42**
+- unresolved first-pass readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- Gate C.5 — **provisionally N/A** for modern 2007 typesetting
+- Gate D — **NOT STARTED / next**
+- Gate E — **NOT STARTED**
+- English — **BLOCKED**
+
+Gate C preserved:
+- C. Subramaniam intervention on scan 39;
+- J. Madhava Gowder intervention spanning scans 41→42;
+- Deputy Speaker interventions on scan 42, including printed English;
+- the quoted letter and embedded English administrative terms;
+- all figures and the scan-42 close.
+
 ## Exact next activity
 
-Process **Speech 3 / 16.3.1960**, scans **34–42 / printed pp.33–41**, through **Gate C first-pass Tamil transcription only**. Do not begin Gate D/E or English in the same iteration.
+Perform **Speech 3 Gate D completeness audit** for scans **34–42 / printed pp.33–41**. Confirm all nine page markers, start/end boundaries, interventions, printed-English blocks, quotations, figures and transitions. Do **not** begin Gate E, English, or Speech 4 in the same iteration.
