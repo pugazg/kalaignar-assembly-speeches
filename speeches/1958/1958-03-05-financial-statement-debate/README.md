@@ -33,10 +33,10 @@
 - Gate A source preflight: **PASS / COMPLETE** at anthology level.
 - Gate B structural mapping: **PASS / COMPLETE / LOCKED**.
 - Gate C Tamil first-pass transcription: **COMPLETE — 7/7 pages, scans 18–24**.
-- Tamil status: **transcribed / NOT VERIFIED**.
-- Gate C.5: **provisionally N/A for modern 2007 typesetting; reopen if page-specific legacy glyph evidence appears**.
+- Tamil status: **VERIFIED — 7/7 pages**.
+- Gate C.5: **N/A / CLOSED — modern 2007 typesetting; Gate E found no legacy/reform-sensitive glyph anomaly**.
 - Gate D: **PASS / COMPLETE — 7/7 pages; 0 completeness corrections**.
-- Gate E: **NOT STARTED / next**.
+- Gate E: **PASS / COMPLETE — 7/7 pages; 9 source-fidelity corrections; 0 unresolved readings**.
 - Unresolved first-pass readings: **0**.
 - English: **BLOCKED until Tamil verification**.
 
@@ -47,20 +47,19 @@
 - [`source-notes.md`](./source-notes.md) — boundary/source policy.
 - [`verification-log.md`](./verification-log.md) — Gate-C completion ledger; later Gates D/E must append independently.
 
-## Gate D result
+## Gate E result
 
-**PASS / COMPLETE.**
+**PASS / COMPLETE — Tamil VERIFIED.**
 
-- source-page markers **18→24** — exactly once and in order;
-- locked start at scan 18 — PASS;
-- locked end at scan 24 / next speech begins scan 25 — PASS;
-- speaker label and all three C. Subramaniam interventions — represented;
-- quotations / figures / paragraph order — structurally complete;
-- transitions **18→19, 19→20, 20→21, 21→22, 22→23, 23→24** — no omission or duplication;
-- completeness corrections — **0**.
+Gate E visually re-read all seven pages against the rendered scan and applied **9** source-fidelity corrections:
 
-Tamil remains **NOT VERIFIED**.
+- scan 19 — two joined source forms `திட்டமிட்டிருந்தோமென்றும்`;
+- scan 20 — `வருஷமே`, printed spacing `விதிக்கப் பட்டிருக்கின்றன`, intervention `சென்ற வருஷம்`, and `இவ்வளவாவது`;
+- scan 23 — source spelling `சுவிட்ஜர்லாண்டை`;
+- scan 24 — `வடக்கு என்ற வள்ளி வேண்டாம்` and `தெரிவித்துக் கொண்டு`.
+
+Scans 18, 21 and 22 required no text correction. All page transitions and all three interventions passed after correction. Unresolved readings: **0**.
 
 ## Exact next activity
 
-Perform **Gate E strict page-by-page visual source-fidelity verification** for scans **18–24 / printed pp.17–23**. Check every word/character, names, numerals, punctuation, quotations, interventions and page transitions against the rendered source pixels. Do not begin English in the same iteration.
+Begin **Gate F English translation** from the **verified Tamil only**, scans **18–24 / printed pp.17–23**. Do not use OCR, web text, Official Reports or other anthologies to supply English wording. Do not begin Speech 2 in the same iteration.

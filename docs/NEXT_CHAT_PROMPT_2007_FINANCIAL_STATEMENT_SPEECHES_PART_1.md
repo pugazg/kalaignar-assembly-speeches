@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 1 Gate E
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 1 Gate F
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,21 +6,15 @@ Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE
 
 `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf`
 
-- title — `நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)`
-- first edition — மே, 2007
-- actual PDF pages — **546**
-- bytes — **393,027,493**
-- SHA-256 — `e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932`
-- no usable parsed text layer
-- rendered scan pixels are authoritative
-
 ## Durable anthology state
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
 - mapped speeches — **19**
+- speech body — scans **18–545**
+- scan 546 — closing portrait/back matter
 
-## Speech 1 durable state
+## Speech 1 durable Tamil state
 
 Path: `speeches/1958/1958-03-05-financial-statement-debate/`
 
@@ -28,29 +22,36 @@ Path: `speeches/1958/1958-03-05-financial-statement-debate/`
 - printed date — `5.3.1958`
 - scans — **18–24**
 - printed pages — **17–23**
-- Gate C — **COMPLETE / 7 of 7 pages**
+- Gate C — **COMPLETE**
 - Gate D — **PASS / COMPLETE / 0 completeness corrections**
-- source markers — **18→24 exactly once and in order**
-- unresolved readings — **0**
-- Tamil — **reviewed structurally / NOT VERIFIED**
-- Gate C.5 — **provisionally N/A for modern 2007 typesetting**
-- Gate E — **NOT STARTED / next**
-- English — **BLOCKED**
+- Gate E — **PASS / COMPLETE / 9 source-fidelity corrections**
+- unresolved Tamil readings — **0**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- Gate C.5 — **N/A / CLOSED** for this modern 2007 typesetting
+- English — **NOT STARTED / Gate F next**
+
+Gate-E correction record:
+
+- scan 19 ×2 — `திட்டமிட்டிருந்தோமென்றும்`;
+- scan 20 ×4 — `வருஷமே`, `விதிக்கப் பட்டிருக்கின்றன`, `சென்ற வருஷம்`, `இவ்வளவாவது`;
+- scan 23 — `சுவிட்ஜர்லாண்டை`;
+- scan 24 ×2 — `வடக்கு என்ற வள்ளி வேண்டாம்`, `தெரிவித்துக் கொண்டு`.
 
 ## Exact next activity
 
-Perform **Gate E strict page-by-page visual source-fidelity verification** for scans **18–24 / printed pp.17–23**.
+Perform **Gate F English translation** for Speech 1, all seven verified Tamil pages.
 
 Requirements:
 
-1. compare every Tamil word/character directly with the rendered scan pixels;
-2. check source spelling, compounds/spacing, punctuation, names/initials, numerals, money/quantities, quotations and speaker labels;
-3. inspect all three C. Subramaniam interventions;
-4. inspect all page transitions **18→19, 19→20, 20→21, 21→22, 22→23, 23→24** for duplicated or lost wording;
-5. preserve printer/source forms; do not modernise or silently repair grammar;
-6. if a historical/reform-sensitive glyph issue genuinely appears, reopen Gate C.5 for that item rather than guessing;
-7. record every source-fidelity correction in `verification-log.md`;
-8. if all seven pages pass with no unresolved reading, set Tamil `verified_against_scan=true` and status `verified`;
-9. do **not** begin English or Speech 2 in the same iteration.
+1. translate only from the final verified Tamil in `transcript.md`;
+2. preserve page sequence 18→24;
+3. preserve Kalaignar's argumentative order, repetitions, direct address, humour, rhetorical contrasts and wordplay;
+4. preserve all three C. Subramaniam interventions in place;
+5. preserve quotations and figures faithfully, including the fertiliser quantities, port/revenue figures and country-income figures;
+6. do not silently correct historical/political claims;
+7. do not use OCR, web copies, Official Reports or other anthologies to supply English wording;
+8. record the English as a first-pass translation, not yet verified;
+9. do not begin Gate G or Speech 2 in the same iteration.
 
-Expected continuation after a clean Gate E: **Gate F English translation from the verified Tamil**.
+Expected continuation: **Gate G full English fidelity/voice review against the verified Tamil**.

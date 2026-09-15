@@ -100,7 +100,7 @@ Gate C is **COMPLETE**:
 - Tamil status — **transcribed / NOT VERIFIED**
 - Gate C.5 — **provisionally N/A** for modern 2007 typesetting; reopen only if actual glyph evidence requires it
 - Gate D — **PASS / COMPLETE — 7/7 pages, 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
+- Gate E — **PASS / COMPLETE — 7/7 pages; 9 corrections; 0 unresolved readings**
 - English — **BLOCKED**
 
 The first pass preserved the speaker label, all three C. Subramaniam interventions, quotations, figures, and page-spanning continuations. No outside source supplied wording.
@@ -115,10 +115,28 @@ Gate D is **PASS / COMPLETE**.
 - quotations / figures / paragraph order — structurally complete;
 - transitions **18→19, 19→20, 20→21, 21→22, 22→23, 23→24** — PASS;
 - completeness corrections — **0**;
-- Tamil remains **NOT VERIFIED**.
+- Tamil — **VERIFIED / verified_against_scan=true**.
+
+## Speech 1 Gate-E result
+
+Gate E is **PASS / COMPLETE**.
+
+- scans **18–24 / printed pp.17–23**
+- verified pages — **7/7**
+- source-fidelity corrections — **9**
+- unresolved readings — **0**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- Gate C.5 — **N/A / CLOSED** for this modern 2007 typesetting; no legacy-glyph anomaly found
+
+Corrections:
+- scan 19 — two `திட்டமிட்டிருந்தோமென்றும்` joined forms;
+- scan 20 — `வருஷமே`, `விதிக்கப் பட்டிருக்கின்றன`, `சென்ற வருஷம்`, `இவ்வளவாவது`;
+- scan 23 — `சுவிட்ஜர்லாண்டை`;
+- scan 24 — `வடக்கு என்ற வள்ளி வேண்டாம்`, `தெரிவித்துக் கொண்டு`.
 
 ## Exact next activity
 
-Perform **Gate E strict page-by-page visual source-fidelity verification** for Speech 1, scans **18–24 / printed pp.17–23**.
+Perform **Gate F English translation for Speech 1** from the final verified Tamil only.
 
-Check every word/character, names/initials, numerals, punctuation, quotations, speaker labels/interventions and page transitions against the rendered source pixels. Apply only source-supported corrections and record each in `verification-log.md`. Do **not** begin English or Speech 2 in the same iteration.
+Translate the complete scans **18–24 / printed pp.17–23**. Preserve argument order, quotations, all three interventions, humour/wordplay, figures and source claims. Do not import wording from OCR, web sources, Official Reports or other anthologies. Do **not** begin Speech 2 in the same iteration.

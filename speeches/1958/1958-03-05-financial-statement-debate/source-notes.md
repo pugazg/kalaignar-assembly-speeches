@@ -52,13 +52,15 @@ Thus scan 18 = printed 17 and scan 24 = printed 23.
 
 First-pass unresolved readings: **0**.
 
-Gate D completeness audit is now **PASS / COMPLETE**. It confirmed all seven markers, locked boundaries, all three C. Subramaniam interventions, quotations, figures and page transitions; **0 completeness corrections** were required.
+Gate D completeness audit is **PASS / COMPLETE** with **0 completeness corrections**.
 
-This still does **not** mean the text is verified. Gate E strict word-by-word visual fidelity remains outstanding.
+Gate E strict page-by-page visual source-fidelity verification is also **PASS / COMPLETE**. All seven scans were re-read directly against the rendered pixels. **9 source-fidelity corrections** were applied and **0 unresolved readings** remain. Tamil is now **verified_against_scan=true**.
+
+The corrections are itemised in `verification-log.md`. No outside witness supplied wording.
 
 ## Historical-glyph gate
 
-This is a modern 2007 typeset anthology. Gate C.5 is therefore **provisionally N/A** for this edition. If Gate D/E reveals any page-specific legacy/reform-sensitive glyph ambiguity, Gate C.5 must be reopened for that evidence rather than assumed away.
+This is a modern 2007 typeset anthology. Gate C.5 is **N/A / CLOSED for this speech**: the complete Gate-E visual audit found no page-specific legacy/reform-sensitive glyph anomaly.
 
 ## External-witness rule
 

@@ -40,14 +40,14 @@
     "usable_text_layer": false
   },
   "transcription": {
-    "method": "manual first-pass transcription from rendered scan pixels",
+    "method": "manual first-pass transcription followed by Gate D completeness audit and strict Gate E page-by-page visual source-fidelity verification from rendered scan pixels",
     "preserve_source_spelling": true,
     "preserve_source_punctuation": true,
     "preserve_source_numerals": true,
     "preserve_headings": true,
     "preserve_speaker_labels_and_interventions": true,
     "page_boundaries_marked": true,
-    "status": "reviewed",
+    "status": "verified",
     "gate_c_status": "complete",
     "completed_scan_pages": "18-24",
     "completed_printed_pages": "17-23",
@@ -56,24 +56,30 @@
     "source_page_markers_checked_first_pass": true,
     "unresolved_readings": 0,
     "completeness_audit_passed": true,
-    "verified_against_scan": false,
-    "historical_glyph_gate_status": "provisionally-n-a-modern-2007-typesetting",
-    "next_gate": "E",
-    "note": "Gate C first pass and Gate D completeness audit are complete for all seven pages. Gate D found 0 completeness corrections: page markers 18-24 are unique/ordered; boundaries, all three C. Subramaniam interventions, quotations, figures and transitions are structurally complete. Tamil remains not verified until Gate E strict visual source-fidelity passes.",
+    "verified_against_scan": true,
+    "historical_glyph_gate_status": "n-a-modern-2007-typesetting-no-legacy-glyph-anomaly-found",
+    "next_gate": "F",
+    "note": "Gates C, D and E are complete for all seven pages. Gate D found 0 completeness corrections. Gate E directly re-read scans 18-24 and applied 9 source-fidelity corrections: two joined திட்டமிட்டிருந்தோமென்றும் forms on scan 19; four scan-20 corrections (வருஷமே, printed spacing விதிக்கப் பட்டிருக்கின்றன, சென்ற வருஷம், இவ்வளவாவது); scan-23 சுவிட்ஜர்லாண்டை; scan-24 வேண்டாம் and தெரிவித்துக் கொண்டு. Unresolved readings: 0. Tamil is verified.",
     "gate_d_status": "pass-complete",
     "gate_d_checked_scan_pages": "18-24",
     "gate_d_page_count": 7,
     "gate_d_completeness_corrections": 0,
     "gate_d_marker_check": "18-24 exactly once and in order",
     "gate_d_boundary_check": "scan 18 start PASS; scan 24 end PASS; scan 25 excluded as Speech 2",
-    "gate_d_transition_check": "18→19, 19→20, 20→21, 21→22, 22→23, 23→24 PASS"
+    "gate_d_transition_check": "18→19, 19→20, 20→21, 21→22, 22→23, 23→24 PASS",
+    "verified_scan_pages": "18-24",
+    "gate_e_status": "pass-complete",
+    "gate_e_page_count": 7,
+    "gate_e_correction_count": 9,
+    "gate_e_unresolved_readings": 0
   },
   "translation": {
     "language": "English",
-    "status": "blocked",
-    "blocked_until_tamil_verified": true,
+    "status": "not-started",
+    "blocked_until_tamil_verified": false,
     "verified_against_tamil": false,
     "source_text": "final verified Tamil only",
-    "next_gate": "F after Tamil Gate E passes"
+    "next_gate": "F",
+    "tamil_gate_satisfied": true
   }
 }

@@ -78,17 +78,23 @@ Reader/work entry:
 - Gate C — **COMPLETE / 7 of 7 pages**
 - source markers — **18→24 exactly once in first-pass transcript**
 - unresolved first-pass readings — **0**
-- Tamil — **transcribed / NOT VERIFIED**
+- Tamil — **VERIFIED / verified_against_scan=true**
 - Gate D — **PASS / COMPLETE — 7/7 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
-- English — **BLOCKED**
+- Gate E — **PASS / COMPLETE — 7/7 pages; 9 source-fidelity corrections; 0 unresolved readings**
+- English — **NOT STARTED / Gate F next**
 
-## Gate D result for Speech 1
+## Speech 1 Tamil verification closure
 
-**PASS / COMPLETE — 7/7 pages, 0 completeness corrections.**
+Gate C and Gate D remain complete. Gate E is **PASS / COMPLETE — 7/7 pages**.
 
-Markers 18→24 are unique and ordered; start/end boundaries, all three C. Subramaniam interventions, quotations, figures and page transitions are structurally complete. Tamil is still **not verified**.
+- Gate-E source-fidelity corrections — **9**
+- unresolved readings — **0**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- Gate C.5 — **N/A / CLOSED for this modern 2007 typesetting; no legacy-glyph anomaly observed**
+
+Correction sites: scan 19 ×2, scan 20 ×4, scan 23 ×1, scan 24 ×2. Full details are in the speech `verification-log.md`.
 
 ## Exact next activity
 
-Perform **Gate E strict visual source-fidelity verification** for Speech 1, scans **18–24 / printed pp.17–23**. Do not begin English or Speech 2 in the same iteration.
+Begin **Gate F English translation for Speech 1** from the verified Tamil only, scans **18–24 / printed pp.17–23**. Do not begin Speech 2 in the same iteration.
