@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speech 1 / 5.3.1958 Gate C first-pass Tamil is now **COMPLETE — scans 18–24 / printed pp.17–23, 7/7 pages**. Tamil is **transcribed / not verified**. No other speech has begun.
+Speech 1 / 5.3.1958 Tamil is **VERIFIED — scans 18–24 / printed pp.17–23, 7/7 pages**. Gate F English first pass is also **COMPLETE — 7/7 pages**; English is not yet verified. No other speech has begun.
 
 ## Parallel-witness / released-material rule
 
@@ -81,7 +81,8 @@ Reader/work entry:
 - Tamil — **VERIFIED / verified_against_scan=true**
 - Gate D — **PASS / COMPLETE — 7/7 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 7/7 pages; 9 source-fidelity corrections; 0 unresolved readings**
-- English — **NOT STARTED / Gate F next**
+- Gate F English — **COMPLETE / 7 of 7 pages; NOT YET VERIFIED**
+- Gate G — **NOT STARTED / next**
 
 ## Speech 1 Tamil verification closure
 
@@ -95,6 +96,12 @@ Gate C and Gate D remain complete. Gate E is **PASS / COMPLETE — 7/7 pages**.
 
 Correction sites: scan 19 ×2, scan 20 ×4, scan 23 ×1, scan 24 ×2. Full details are in the speech `verification-log.md`.
 
+## Gate F result for Speech 1
+
+**COMPLETE — 7/7 pages.**
+
+The working first-pass English is in the speech entry's `translation.md`. It was translated only from verified Tamil; outside wording was not used. English `verified_against_tamil=false`.
+
 ## Exact next activity
 
-Begin **Gate F English translation for Speech 1** from the verified Tamil only, scans **18–24 / printed pp.17–23**. Do not begin Speech 2 in the same iteration.
+Perform **Gate G full English fidelity and voice review** against the verified Tamil for scans **18–24 / printed pp.17–23**. Do not begin Speech 2 in the same iteration.

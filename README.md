@@ -33,7 +33,7 @@ Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.
   - Released Unit 2: [`8-3-1973 — சட்டமன்ற மேலவையில்`](./speeches/1973/1973-03-08-financial-statement-reply/)
   - Handover: [`docs/HANDOVER_1973_IRULUM_OLIYUM.md`](./docs/HANDOVER_1973_IRULUM_OLIYUM.md)
 - [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source mapped into 10 dated speeches. **All 10 speeches are fully released with verified Tamil and verified English.**
-- [`நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)` — 2007 source package](./sources/2007-financial-statement-speeches-part-1/README.md) — **546-scan anthology; Gate A + Gate B COMPLETE / LOCKED; 19 speech units mapped. Speech 1 / 5.3.1958 Tamil is VERIFIED after Gate E — 7/7 pages, 9 source-fidelity corrections, 0 unresolved readings.** Exact next: Speech 1 Gate F English translation from verified Tamil.
+- [`நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)` — 2007 source package](./sources/2007-financial-statement-speeches-part-1/README.md) — **546-scan anthology; Gate A + Gate B COMPLETE / LOCKED; 19 speech units mapped. Speech 1 / 5.3.1958 Tamil VERIFIED; Gate F English first pass COMPLETE — 7/7 pages, not yet verified.** Exact next: Speech 1 Gate G English fidelity/voice review.
   - Handover: [`docs/HANDOVER_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md`](./docs/HANDOVER_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md)
   - Continuation prompt: [`docs/NEXT_CHAT_PROMPT_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md`](./docs/NEXT_CHAT_PROMPT_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md)
 - Copy/paste continuation prompt: [`docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md`](./docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md)

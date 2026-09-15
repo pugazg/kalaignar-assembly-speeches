@@ -38,7 +38,7 @@
 - Gate D: **PASS / COMPLETE — 7/7 pages; 0 completeness corrections**.
 - Gate E: **PASS / COMPLETE — 7/7 pages; 9 source-fidelity corrections; 0 unresolved readings**.
 - Unresolved first-pass readings: **0**.
-- English: **BLOCKED until Tamil verification**.
+- English Gate F first pass: **COMPLETE — 7/7 pages; NOT YET VERIFIED**.
 
 ## கோப்புகள்
 
@@ -60,6 +60,20 @@ Gate E visually re-read all seven pages against the rendered scan and applied **
 
 Scans 18, 21 and 22 required no text correction. All page transitions and all three interventions passed after correction. Unresolved readings: **0**.
 
+## Gate F result
+
+**COMPLETE — first-pass English translation for all 7 verified Tamil pages.**
+
+- translated source pages — **18–24**
+- translation source — **final Gate-E-verified Tamil only**
+- all three C. Subramaniam interventions — preserved in place
+- quotations / figures / page order — preserved
+- OCR / web / Official Report / other-anthology wording — **none**
+- English `verified_against_tamil` — **false**
+- Gate G — **NOT STARTED / next**
+
+The working first-pass English is in [`translation.md`](./translation.md). It is not yet canonical/verified.
+
 ## Exact next activity
 
-Begin **Gate F English translation** from the **verified Tamil only**, scans **18–24 / printed pp.17–23**. Do not use OCR, web text, Official Reports or other anthologies to supply English wording. Do not begin Speech 2 in the same iteration.
+Perform **Gate G full English fidelity and voice review** against the final verified Tamil for scans **18–24 / printed pp.17–23**. Do not begin Speech 2 in the same iteration.

@@ -118,12 +118,36 @@ No text correction required.
 **Tamil `verified_against_scan`: true.**  
 **Gate C.5:** N/A / closed for this modern 2007 typesetting.
 
+## Gate F — English first-pass translation
+
+**Status:** COMPLETE — 7/7 pages
+
+The English in `translation.md` was translated only from the final Gate-E-verified Tamil.
+
+Gate-F checks:
+
+- [x] source-page sequence **18→24** preserved;
+- [x] all three C. Subramaniam interventions retained in place;
+- [x] fertiliser quantities **140,000 tons** / **one lakh and four thousand tons** retained;
+- [x] port/revenue and country-income figures retained;
+- [x] cat/kitten/mouse analogy retained;
+- [x] authority/intoxication → prohibition wordplay retained;
+- [x] Deivanai / Valli / Subramaniam closing wordplay retained without outside gloss;
+- [x] historical/political claims translated as source claims, not externally corrected;
+- [x] OCR / web / Official Report / alternate-anthology wording used — **none**.
+
+Gate-F blocking translation questions: **0**.
+
+Gate F is a first-pass translation stage. English is **not verified** until Gate G rereads the complete translation against the verified Tamil page by page.
+
 ## Verification status
 
 - Gate C — **COMPLETE**
 - Gate D — **PASS / COMPLETE**
 - Gate E — **PASS / COMPLETE**
 - Tamil — **VERIFIED**
-- English — **NOT STARTED / Gate F next**
+- Gate F — **COMPLETE / 7 of 7 pages**
+- English `verified_against_tamil` — **false**
+- Gate G — **NOT STARTED / next**
 
-Gate F must translate from this verified Tamil only.
+Exact next: **Gate G full English fidelity and voice review for scans 18–24**.

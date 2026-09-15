@@ -75,11 +75,18 @@
   },
   "translation": {
     "language": "English",
-    "status": "not-started",
+    "status": "translated",
     "blocked_until_tamil_verified": false,
     "verified_against_tamil": false,
-    "source_text": "final verified Tamil only",
-    "next_gate": "F",
-    "tamil_gate_satisfied": true
+    "source_text": "final Gate-E-verified Tamil transcript",
+    "next_gate": "G",
+    "tamil_gate_satisfied": true,
+    "type": "faithful reading translation",
+    "placement": "working translation.md until Gate H canonical merge",
+    "translated_source_pages": "18-24",
+    "translated_page_count": 7,
+    "gate_f_status": "complete",
+    "gate_f_blocking_questions": 0,
+    "verification_note": "Gate F first-pass English is complete for all seven verified Tamil pages. It preserves page sequence, all three C. Subramaniam interventions, quotations, figures, source claims, humour and rhetorical contrasts. No OCR, web, Official Report or alternate-anthology wording supplied the English. Gate G page-by-page fidelity/voice review is still required."
   }
 }

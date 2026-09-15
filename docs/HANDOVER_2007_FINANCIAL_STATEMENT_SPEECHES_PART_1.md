@@ -82,8 +82,12 @@ Treat this 2007 anthology as its own witness.
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speech 1 COMPLETE — 7/7 pages, scans 18–24**
-- Gate C.5 — **provisionally N/A** because the anthology is modern 2007 typesetting; reopen only if actual source pixels show a historical-glyph anomaly
-- Gates D–H — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED for Speech 1**
+- Gate D — **Speech 1 PASS / COMPLETE**
+- Gate E — **Speech 1 PASS / COMPLETE / Tamil VERIFIED**
+- Gate F — **Speech 1 COMPLETE — 7/7 English pages**
+- Gate G — **Speech 1 NOT STARTED / next**
+- Gate H — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
 
@@ -97,11 +101,11 @@ Gate C is **COMPLETE**:
 - **7/7 pages**
 - source markers **18→24**
 - unresolved first-pass readings — **0**
-- Tamil status — **transcribed / NOT VERIFIED**
+- Tamil status — **VERIFIED**
 - Gate C.5 — **provisionally N/A** for modern 2007 typesetting; reopen only if actual glyph evidence requires it
 - Gate D — **PASS / COMPLETE — 7/7 pages, 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 7/7 pages; 9 corrections; 0 unresolved readings**
-- English — **BLOCKED**
+- English — **Gate F COMPLETE / NOT YET VERIFIED**
 
 The first pass preserved the speaker label, all three C. Subramaniam interventions, quotations, figures, and page-spanning continuations. No outside source supplied wording.
 
@@ -135,8 +139,12 @@ Corrections:
 - scan 23 — `சுவிட்ஜர்லாண்டை`;
 - scan 24 — `வடக்கு என்ற வள்ளி வேண்டாம்`, `தெரிவித்துக் கொண்டு`.
 
+## Speech 1 Gate-F result
+
+Gate F is **COMPLETE — 7/7 pages**.
+
+The working English is in `speeches/1958/1958-03-05-financial-statement-debate/translation.md`. It was translated only from the verified Tamil, with all three interventions, quotations, figures, rhetoric and wordplay retained. English remains `verified_against_tamil=false`.
+
 ## Exact next activity
 
-Perform **Gate F English translation for Speech 1** from the final verified Tamil only.
-
-Translate the complete scans **18–24 / printed pp.17–23**. Preserve argument order, quotations, all three interventions, humour/wordplay, figures and source claims. Do not import wording from OCR, web sources, Official Reports or other anthologies. Do **not** begin Speech 2 in the same iteration.
+Perform **Gate G full English fidelity and voice review** for scans **18–24 / printed pp.17–23** against the final verified Tamil. Record all refinements in a translation-review audit. Do not begin Speech 2 in the same iteration.

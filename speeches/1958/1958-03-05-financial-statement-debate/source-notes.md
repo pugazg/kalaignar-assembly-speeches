@@ -65,3 +65,12 @@ This is a modern 2007 typeset anthology. Gate C.5 is **N/A / CLOSED for this spe
 ## External-witness rule
 
 No web source, Official Report or other anthology was used to supply wording for this Gate-C transcript. Any future parallel-witness comparison must remain separate from this source layer.
+
+
+## English Gate F state
+
+Gate F is **COMPLETE — 7/7 pages** in `translation.md`.
+
+The English was translated only from the final Gate-E-verified Tamil. It preserves source-page order, all three C. Subramaniam interventions, quoted material, figures, source claims, humour and rhetorical contrasts. No OCR, web copy, Official Report or alternate anthology supplied English wording.
+
+English remains **not verified** until Gate G rereads the complete translation against the verified Tamil page by page.
