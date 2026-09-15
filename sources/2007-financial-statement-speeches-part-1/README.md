@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-No Tamil transcription has begun for this source.
+Speech 1 / 5.3.1958 Gate C first-pass Tamil is now **COMPLETE — scans 18–24 / printed pp.17–23, 7/7 pages**. Tamil is **transcribed / not verified**. No other speech has begun.
 
 ## Parallel-witness / released-material rule
 
@@ -69,8 +69,20 @@ This anthology contains dates already represented elsewhere in the repository:
 
 These are separate source witnesses. Do **not** overwrite or silently normalize any previously released canonical Tamil/English from this 2007 anthology. Any overlap must be handled explicitly as parallel-witness evidence.
 
+## Speech 1 current state
+
+Reader/work entry:
+
+[`../../speeches/1958/1958-03-05-financial-statement-debate/`](../../speeches/1958/1958-03-05-financial-statement-debate/)
+
+- Gate C — **COMPLETE / 7 of 7 pages**
+- source markers — **18→24 exactly once in first-pass transcript**
+- unresolved first-pass readings — **0**
+- Tamil — **transcribed / NOT VERIFIED**
+- Gate D — **NOT STARTED / next**
+- Gate E — **NOT STARTED**
+- English — **BLOCKED**
+
 ## Exact next activity
 
-Begin **Gate C for உரை 1 / 5.3.1958**, source scans **18–24 / printed pp.17–23**.
-
-Because the entire first speech is only seven pages, process the complete speech in one bounded Gate-C first-pass transcription. Preserve exact source wording, punctuation, numerals, speaker/intervention labels and printed English. Use `<!-- source-page: N -->` markers. Do not begin Gate D/E or English in the same iteration.
+Perform **Gate D Tamil completeness audit** for Speech 1, scans **18–24 / printed pp.17–23**. Check page-marker coverage/order, start/end boundary, all interventions/quotations/figures, and every page transition. Do not begin Gate E or English in the same iteration.

@@ -112,10 +112,12 @@ Released material remains locked. This anthology must be processed as an indepen
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **NOT STARTED**
+- Gate C — **Speech 1 COMPLETE — scans 18–24 / 7 of 7 pages; remaining speeches not started**
 - Gate C.5 — **provisionally N/A for this modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
 - Gates D–H — **NOT STARTED**
 
 ## Exact continuation
 
-Begin **உரை 1 / 5.3.1958**, scans **18–24 / printed pp.17–23**, with Gate C first-pass Tamil transcription. Because this is a seven-page speech, complete all seven pages in one bounded iteration. Do not begin Gate D/E or English in the same iteration.
+Speech 1 / 5.3.1958 Gate C is **COMPLETE — 7/7 pages**. Exact next: **Gate D completeness audit for scans 18–24 / printed pp.17–23**.
+
+Do not start Speech 2 merely to fill an iteration. Gate E and English remain downstream.

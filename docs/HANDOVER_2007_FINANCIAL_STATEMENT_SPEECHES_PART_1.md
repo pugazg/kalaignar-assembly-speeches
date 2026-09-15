@@ -81,18 +81,32 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **NOT STARTED**
+- Gate C — **Speech 1 COMPLETE — 7/7 pages, scans 18–24**
 - Gate C.5 — **provisionally N/A** because the anthology is modern 2007 typesetting; reopen only if actual source pixels show a historical-glyph anomaly
 - Gates D–H — **NOT STARTED**
 
-## Exact next activity
+## Speech 1 durable Gate-C state
 
-Process **உரை 1 / 5.3.1958**, scans **18–24 / printed pp.17–23**, through **Gate C first-pass Tamil transcription only**.
-
-Create the canonical working entry under:
+Canonical working entry:
 
 `speeches/1958/1958-03-05-financial-statement-debate/`
 
-Use explicit source-page markers 18→24, preserve source wording/punctuation/figures/interventions, and record uncertainties rather than guessing. Since the speech is only seven pages, complete it in one bounded Gate-C iteration.
+Gate C is **COMPLETE**:
 
-Do **not** begin Gate D, Gate E, English, or Speech 2 in the same iteration.
+- scans **18–24 / printed pp.17–23**
+- **7/7 pages**
+- source markers **18→24**
+- unresolved first-pass readings — **0**
+- Tamil status — **transcribed / NOT VERIFIED**
+- Gate C.5 — **provisionally N/A** for modern 2007 typesetting; reopen only if actual glyph evidence requires it
+- Gate D — **NOT STARTED**
+- Gate E — **NOT STARTED**
+- English — **BLOCKED**
+
+The first pass preserved the speaker label, both C. Subramaniam interventions, quotations, figures, and page-spanning continuations. No outside source supplied wording.
+
+## Exact next activity
+
+Perform **Gate D completeness audit for Speech 1**, scans **18–24 / printed pp.17–23**.
+
+Confirm all seven markers exactly once/in order, start/end boundary, interventions, quotations, figures, and continuations **18→19, 19→20, 20→21, 21→22, 22→23, 23→24**. Record any completeness corrections. Do **not** begin Gate E, English, or Speech 2 in the same iteration.
