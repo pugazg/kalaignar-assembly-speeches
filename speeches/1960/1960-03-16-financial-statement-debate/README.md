@@ -26,11 +26,11 @@
 - Gate C Tamil first pass — **COMPLETE / 9 of 9 pages**
 - source markers — **34→42 exactly once**
 - first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- Gate C.5 — **provisionally N/A** for modern 2007 typesetting; reopen if actual legacy-glyph evidence appears
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; Gate E found no historical/reform-sensitive glyph anomaly**
 - Gate D — **PASS / COMPLETE — 9/9 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
-- English — **BLOCKED until Tamil verification**
+- Gate E — **PASS / COMPLETE — 9/9 pages; 3 source-fidelity corrections; 0 unresolved readings**
+- English — **NOT STARTED / Gate F next**
 
 ## Files
 
@@ -56,6 +56,20 @@
 
 Tamil remains **NOT VERIFIED**.
 
+## Gate E result
+
+**PASS / COMPLETE — Tamil VERIFIED.**
+
+Gate E re-read all nine pages directly against the rendered source pixels and applied **3 source-fidelity corrections**:
+
+- scan 37 — line-break join `கட்டுப்படுத்தவேண்டு மென்று` → **`கட்டுப்படுத்தவேண்டுமென்று`**;
+- scan 41 — preserved source mixed-script spacing **`D.H.O -வுக்கு`**;
+- scan 42 — `கட்டிப் பிடித்துக் கொண்டிருக்கிறது` → **`கட்டிப் பிடித்துக்கொண்டிருக்கிறது`**.
+
+Scans 34–36, 38–40 required no text correction. All interventions, printed-English blocks, quoted-letter English terms, figures, quotations and page transitions passed after correction.
+
+Unresolved readings: **0**.
+
 ## Exact next activity
 
-Perform **Gate E strict page-by-page visual source-fidelity verification** for scans **34–42 / printed pp.33–41**. Do not begin English or Speech 4 in the same iteration.
+Begin **Gate F English translation** for Speech 3 from the final verified Tamil only, scans **34–42 / printed pp.33–41**. Do not begin Speech 4 in the same iteration.

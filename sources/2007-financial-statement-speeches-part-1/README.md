@@ -169,11 +169,11 @@ Reader/work entry:
 - Gate C — **COMPLETE / 9 of 9 pages**
 - source markers — **34→42 exactly once**
 - unresolved first-pass readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- Gate C.5 — **provisionally N/A**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED for Speech 3**
 - Gate D — **PASS / COMPLETE — 9/9 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
-- English — **BLOCKED**
+- Gate E — **PASS / COMPLETE — 9/9 pages; 3 source-fidelity corrections; 0 unresolved readings**
+- English — **NOT STARTED / Gate F next**
 
 Gate C preserved the C. Subramaniam intervention, J. Madhava Gowder intervention, Deputy Speaker interventions including printed English, the quoted letter with embedded English administrative terms, figures, humour and page-spanning continuations.
 
@@ -183,6 +183,12 @@ Gate C preserved the C. Subramaniam intervention, J. Madhava Gowder intervention
 
 Markers 34→42 are unique/ordered; start/end boundaries, all speaker interventions, printed-English blocks, quoted-letter structure, figures and all page transitions are structurally complete. Tamil remains not verified.
 
+## Speech 3 Gate E closure
+
+**PASS / COMPLETE — 9/9 pages; Tamil VERIFIED.**
+
+Gate E applied **3 source-fidelity corrections** with **0 unresolved readings**. Full details are in the Speech 3 verification log.
+
 ## Exact next activity
 
-Perform **Speech 3 Gate E strict page-by-page visual source-fidelity verification**, scans **34–42 / printed pp.33–41**. Do not begin English or Speech 4 in the same iteration.
+Begin **Speech 3 Gate F English translation** from the final verified Tamil only, scans **34–42 / printed pp.33–41**. Do not begin Speech 4 in the same iteration.

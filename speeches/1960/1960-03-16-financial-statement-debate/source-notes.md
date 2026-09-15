@@ -32,10 +32,12 @@ Throughout this speech, `printed page = PDF scan page - 1`.
 
 First-pass unresolved readings: **0**.
 
-Gate D completeness audit is now **PASS / COMPLETE**. It confirmed all nine page markers, locked boundaries, the C. Subramaniam intervention, J. Madhava Gowder intervention across 41→42, Deputy Speaker printed-English interventions, the quoted letter with embedded English terms, figures and every cross-page continuation. **0 completeness corrections** were required.
+Gate D completeness audit is **PASS / COMPLETE** with **0 completeness corrections**.
 
-This still does **not** verify the Tamil text. Gate E strict page-by-page visual source-fidelity remains mandatory.
+Gate E strict page-by-page visual source-fidelity verification is also **PASS / COMPLETE**. All nine scans were re-read directly against the rendered pixels. **3 source-fidelity corrections** were applied and **0 unresolved readings** remain. Tamil is now `verified_against_scan=true`.
+
+Gate E also rechecked all printed English verbatim, including the Deputy Speaker's interventions and the administrative English embedded in the quoted letter. No outside witness supplied wording.
 
 ## Historical-glyph gate
 
-This is modern 2007 typesetting. Gate C.5 is **provisionally N/A** for this speech and must be reopened only if an actual historical/reform-sensitive glyph ambiguity is found.
+This is modern 2007 typesetting. Gate C.5 is **N/A / CLOSED for this speech**: the complete Gate-E visual audit found no historical/reform-sensitive glyph anomaly.

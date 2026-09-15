@@ -268,6 +268,25 @@ Gate D is **PASS / COMPLETE**.
 - completeness corrections — **0**;
 - Tamil remains **NOT VERIFIED**.
 
+## Speech 3 Gate-E result
+
+Gate E is **PASS / COMPLETE**.
+
+- scans **34–42 / printed pp.33–41**
+- verified pages — **9/9**
+- source-fidelity corrections — **3**
+- unresolved readings — **0**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- Gate C.5 — **N/A / CLOSED** for modern 2007 typesetting; no historical-glyph anomaly found
+
+Corrections:
+- scan 37 — `கட்டுப்படுத்தவேண்டுமென்று`;
+- scan 41 — source mixed-script spacing `D.H.O -வுக்கு`;
+- scan 42 — `சிமெண்டு கட்டிப் பிடித்துக்கொண்டிருக்கிறது`.
+
+All interventions, printed English, quoted-letter English terms, figures, dates and transitions passed after correction.
+
 ## Exact next activity
 
-Perform **Speech 3 Gate E strict page-by-page visual source-fidelity verification** for scans **34–42 / printed pp.33–41**. Check every word/character, names, numerals, punctuation, quotations, interventions, printed English and page transitions against the rendered source pixels. Do **not** begin English or Speech 4 in the same iteration.
+Perform **Speech 3 Gate F English translation** from the final verified Tamil only, all scans **34–42**. Preserve argument order, quotations, all interventions, printed-English blocks, figures, humour/analogies and source claims. Do not import wording from OCR, web sources, Official Reports or other anthologies. Do **not** begin Speech 4 in the same iteration.
