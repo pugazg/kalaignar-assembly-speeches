@@ -105,3 +105,45 @@ Scans **34, 35, 36, 38, 39 and 40** required no text correction.
 - English — **NOT STARTED / Gate F next**
 
 Gate F must translate from this verified Tamil only.
+
+
+## Gate F — English first-pass translation
+
+**Status:** COMPLETE — 9/9 pages
+
+Translation authority: final Gate-E-verified Tamil only.
+
+Preserved: page order, all interventions, source-printed Deputy Speaker English, quoted-letter English terms, quoted Budget extracts, dates/figures, and all major humour/analogies.
+
+Outside wording used: **none**.  
+Blocking translation questions: **0**.
+
+## Gate G — English fidelity and voice review
+
+**Status:** PASS / COMPLETE — 9/9 pages
+
+- refinements — **17**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed English — **preserved verbatim**
+- English `verified_against_tamil=true`
+
+Full refinement ledger: `translation-review.md`.
+
+## Gate H — canonical merge / index / release closure
+
+**Status:** PASS / COMPLETE — RELEASED / CLOSED
+
+- [x] Tamil source-page markers **34→42** preserved in canonical Tamil layer;
+- [x] English source-page sections **34→42** preserved in canonical English layer;
+- [x] canonical bilingual `transcript.md` created without changing verified wording;
+- [x] `translation.md` retired to pointer;
+- [x] metadata release state synchronized;
+- [x] root dated index synchronized;
+- [x] `data/speeches.json` synchronized;
+- [x] Gate-H Tamil wording changes — **0**;
+- [x] Gate-H English wording changes — **0**.
+
+Final status: **Speech 3 RELEASED / CLOSED**.
+
+Exact next: **Speech 4 / 6.3.1961 Gate C, scans 43–48 / printed pp.42–47**.

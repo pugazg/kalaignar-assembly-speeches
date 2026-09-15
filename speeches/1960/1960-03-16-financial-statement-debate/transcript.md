@@ -1,8 +1,12 @@
-# நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் — உரை : 3
+# நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள்
 
-**நாள் : 16.3.1960**
+## உரை : 3 — நாள் : 16.3.1960
 
-> **Transcription state:** Gates C, D and E are complete for scans 34–42 / printed pp.33–41. Gate E re-read all nine pages directly against rendered scan pixels and applied **3 source-fidelity corrections**; unresolved readings: **0**. Tamil is now **VERIFIED** and `verified_against_scan=true`. Gate C.5 is N/A / CLOSED for this modern 2007 typesetting; no historical/reform-sensitive glyph anomaly was found. English is not started; Gate F is next.
+> **Gate H release status:** Speech 3 is **RELEASED / CLOSED**. Tamil Gates C–E are complete and Tamil is verified against source scans 34–42 with 3 Gate-E corrections / 0 unresolved readings. Gate F translated all 9 pages; Gate G verified all 9 English pages with **17 fidelity/voice refinements**, 0 blockers and 0 Tamil changes. Gate H canonicalised the bilingual transcript, synchronized repository indexes, retired the duplicate English working copy, and preserved the neutral archival slug `financial-statement-debate` as a subject label rather than an asserted official motion title.
+
+---
+
+# தமிழ் மூல உரை
 
 <!-- source-page: 34 -->
 
@@ -72,3 +76,81 @@
 **உதவி சபாநாயகர் :** The Hon. Member's time is up. He has already exceeded the time limit. So he must finish his speech soon.
 
 **கலைஞர் மு. கருணாநிதி :** சமுதாய நலத்திட்டம் வெறும் அரசியல் விளம்பரச் சாவடிகள் என்று சொல்லி பட்ஜெட்டானது சர்க்கரை பொங்கல் அல்ல, முழுக்க முழுக்கக் கசப்பானதா என்று கேட்டீர்களேயானால் - கசப்பு என்றால் மருந்து என்று சொல்ல முடியாதே, அதனால் இதுவெறும் மாய்மாலம் என்று சொல்லிக் கொண்டு, என்னுடைய உரையை முடித்துக்கொள்கிறேன்.
+
+---
+
+# English translation
+
+> **Gate H canonical English note:** the English below is the complete Gate-G-verified translation of source pages **34–42**. It is derived only from the final verified Tamil. Source-printed English on scan 42 is preserved exactly. `translation.md` is retired to a pointer; the authoritative English is maintained in this canonical bilingual transcript.
+
+### Source page 34
+
+## Kalaignar's Legislative Assembly Speeches on the Financial Statement
+
+**Speech: 3**  
+**Date: 16.3.1960**
+
+**Kalaignar M. Karunanidhi:** Honourable Speaker, I wish to place before the House my views on the financial statement for 1960-61. Many members of the ruling party have spoken in support of this statement. In particular, Sri Thiagaraja Naicker, member for the Theni constituency, said that this statement tastes as sweet as sugar pongal. We have all read this statement; we have not eaten it (laughter). Perhaps it tastes sweet to him. Every year, when the Honourable Finance Minister presents the financial statement, he usually concludes by saying, “I request the House to accept this statement.” But this year he concluded by saying, “I conclude with full confidence that the House will accept this statement.”
+
+When I consider why the Honourable Minister has acquired this confidence this year as never before, I think he must have believed that the statement would win the confidence of the people's forum because there is no new tax this year and because a tax already imposed on perishable goods is now being removed. When I consider why, besides imposing no new taxes, he is also saying that an existing tax is being removed, I wish to make one point—
+
+### Source page 35
+
+—We have heard that a camel is heavily loaded, two stones are placed on top of that load, and then, after a little while, the stones that had been put there precisely to be removed are taken away, whereupon the camel rises and walks. In the same way, if the Honourable Finance Minister treats the people's forum like that camel, first placing a heavy tax burden on it and then expecting the people to feel relieved because two or three taxes have been removed, I wish to say that this is deeply regrettable.
+
+Further, in every financial statement presented by our Finance Minister, the section on prices normally comes first. In this year's financial statement, instead of speaking about prices at the outset, the Honourable Finance Minister describes, for as many as 36 pages, all the rare and great deeds performed by this Government, and only at the end, at the “climax” of that sad story, says that prices and wage increases form a spiral. Why has the distress over prices, which until now used to be mentioned first, been pushed to the back this time? Is it only this year that such a voice has been raised about the price situation, or has that voice been raised in this House year after year? We should think about that. In the 1957-58 financial statement, the same Finance Minister, Honourable Sri Subramania Kondar, said that because production had increased, prices ought to have fallen; but that year prices had risen considerably... In a period without food scarcity, in a State where agriculture is the principal occupation, an increase in the prices of agricultural produce might even generally be welcome. But when, in the country—
+
+### Source page 36
+
+—food prices rise because of scarcity, that is extremely dangerous. Looking at the country as a whole, we must keep in mind that the shortage of rice has increased to some extent. Importing rice from foreign countries is also becoming more difficult day by day. In these circumstances, the Government is keeping a vigilant watch on the food situation,” he said. In the 1958-59 financial statement it was stated: “As a result of the good harvest, prices are now becoming stable. Even so, there is still a need for us to watch the situation carefully.” In the 1959-60 statement it was said: “...the rise in prices still remains a major problem. In particular, the increase in the price of foodstuffs is a matter of concern. The wholesale grain price index stood at 512 in December 1957. By December 1958 it had risen to 569.... The National Development Council, which examined this, came to the conclusion that, if the price of foodgrains is to be controlled, the only course is for the Government itself to take over the entire wholesale grain trade....” In this year's financial statement too, he says: “...I wish once again to emphasise here that it is very necessary to devise measures to control prices to some extent.”
+
+The same refrain that has been sung year after year about rising prices has been sung again and again. To sing the same refrain every year while prices keep rising, and merely to say that the situation is distressing, the grandmother at home is enough; a parliamentary minister is not needed for that, I say with great regret. Sugarcane cultivation, oilseeds, cashew, coconut, agricultural development, soil-conservation—
+
+### Source page 37
+
+—irrigation facilities, community-welfare schemes: after listing in sequence all the things they say they have done, he concludes by saying, “I emphasise that it is necessary to control the rise in prices.” It is like saying: eight doctors examined the patient, seven lakh rupees were spent, they still could not find out what the disease was, and therefore the patient is gone. The public begins to wonder whether those who examined him were doctors at all. For five or six years, Ministers have been joining the people in saying that prices must be controlled. The people ask their representatives whether there is no way to bring prices down. The representatives ask the Ministers whether prices can be controlled, and the Ministers in turn ask the representatives whether prices can be controlled. It is this mutual questioning that has become a great spiral; prices and wage increases are not the great spiral, I wish to point out.
+
+Being tied to the work of the Central Government's commodity department is cited as one of the reasons why these prices cannot be controlled. If so, the Cabinet should consider whether, if this Province were to free itself from that bond with the Central Government's commodity department—if this Province were to gain liberation—it could certainly control prices. By filling page after page with statistics, sprinkling them like mustard seeds in a tempering, the Minister is only deceiving himself. They tell us that we must believe the statistics thus displayed. Are those statistics really supported by evidence? Are they trustworthy? I wish to give one example. I will not call it a shocking contradiction. In the 1959-60—
+
+### Source page 38
+
+—annual statement it is said that 2.6 lakh tons of fertiliser were supplied in 1956-57. This contradiction may be an ordinary one. But does it not help tear away the veil of illusion called statistics? I accuse this Cabinet of trying to deceive the people of this country and blind their eyes with statistics. If one asks how many chickens there are in poultry farms in Thanjavur district, the Minister asks the district officer. The district officer asks the village officer. The village officer asks the village watchman. If the watchman says there are 15 chickens in the village, by the time that statistic reaches the Minister's hand, four of those chickens are already boiling as biryani. If people are asked to accept a Budget prepared with statistics of this sort—statistics that are of no use to anyone—no one is ready to accept it.
+
+There is no proper plan to increase food production. There is no money to implement the many small and large irrigation schemes required to increase food production. If money is asked for, the Government in the North has no mind to provide it. The Parambikulam scheme is now in confusion. As for the Kattalai canal, Pullambadi canal and Mettur canal that you mention, the matter stands at a point where the Mysore Government accuses the Madras Government of having violated the 1924 agreement concerning them, and the Central Government has taken up the matter and must decide how it is going to rule on it. In every district there are numerous small irrigation schemes that remain to be implemented. Each year, whenever I speak, I have referred to them.
+
+### Source page 39
+
+On one such occasion, even the Honourable Kakkan said jokingly, “You yourself mention every scheme, leaving not even one scheme for us to name.” Leave all that aside. From the day I began speaking in this House, I have been speaking about the Kudaganaru scheme that must be implemented in my constituency. If a dam is built across the Kudaganaru at Kalvarpatti near Vedasandur in Dindigul taluk and a canal is cut for 20 miles, five or six tanks will fill. Ten thousand acres of land can be brought under cultivation. I have spoken about this many times. I have also met the Minister personally and explained it to him. But what action has been taken to implement that scheme? When a Minister tours my constituency, he speaks in the manner of: “You voted for Karunanidhi. Will he get the Kudaganaru scheme implemented for you?” I ask whether this is democracy or distilled dictatorship. When Ministers intimidate the people of a constituency by saying, “Because you voted for Karunanidhi, you will not get the Kudaganaru scheme,” it amounts to threatening them not to vote for the Dravida Munnetra Kazhagam in the next election. I wish to level that charge. Let them say that the scheme will be completed within the next year. If an order is issued that work on it will begin tomorrow itself, I am prepared to resign my position this very evening.
+
+**Hon. C. Subramaniam:** I request the Public Works Minister not to implement the Kudaganaru scheme, because Karunanidhi must remain in this House.
+
+### Source page 40
+
+**Kalaignar M. Karunanidhi:** I mentioned this only to show whether it reflects a responsible Minister's sense of responsibility when, speaking about a scheme, he says, “You voted for Karunanidhi, so you will not get that scheme.” I did not mention it for the Finance Minister's jest or ridicule. Whether Karunanidhi wants it or not, if the people elect him, he will come here. The Finance Minister said, “If Annadurai gives a Rs. 2,000-crore plan, I will resign.” There is no need for you now to turn back on us what we said then—that we did not give such a plan because, if Anna gave it, you would lose your post.
+
+Community-welfare schemes are spoken of proudly. Many members have spoken about them in this House. Were community-welfare schemes created for political publicity, for the publicity of one party? I wish to give just one example. In my native village of Thirukkuvalai, a foundation-stone ceremony was performed by Arignar Anna for the construction of the Muthuvelar-Anjugam Mother and Child Welfare Home in the names of my mother and father. A sum of about Rs. 7,000 was planned for it, and I sent Rs. 5,000 to the committee. I wish to conclude my speech after reading the letter sent to me about it by the comrades there. He writes:
+
+“The foundation-stone ceremony for our Thirukkuvalai Muthuvelar-Anjugam hospital was held on 22.5.59. After that, the Thanjavur District Health Officer wrote to you asking for the Plan and Estimate for the Thirukkuvalai building. You sent it to me. After that, with the help of the Nagai Block Development officials—
+
+### Source page 41
+
+—I had a Plan and Estimate prepared by Retired Chandrasekara Iyer at Kumbakonam and sent it on your behalf to D.H.O. I registered it at Melavazhakkarai Post Office on 14.12.59 under No. 182. After that, in the last week of December, the Nagai Health Inspector came to inspect the site, bringing the Plan and Estimate we had sent. After inspecting it, he obtained from me, on your behalf, a letter of consent to add a latrine and a compound wall. He said that within another week the Plan Approval would come from the D.H.O Office, and instructed us, as a precaution, to keep building materials such as stone and cement ready. Immediately, at the place where the building is to be constructed, we collected all the stones required for the building—about 40,000 stones—together with 100 cartloads of gravel for the concrete, 50 cartloads of sand, and 65 bags of cement. From the day he left after saying this, no reply has come. After that, on 15.1.60, I sent a reminder to the Thanjavur D.H.O, registered under No. 188. There was no reply to that either.
+
+“When I went to Nagai and asked the Health Inspector, he said that the Plan and Estimate we had sent were not correct, and that the D.H.O had arranged, through the Director of Public Health in Madras, for the Sanitary Chief Engineer to prepare a Plan and Estimate for about Rs. 8,000. Such a practice has never occurred in this district before. In the first week of February I wrote to the District Health Officer...”
+
+**Mr. J. Madhava Gowder:** Honourable Deputy Speaker, I wish to raise a point of order. May an Honourable Member read in this House a letter written by a private individual? I wish to know from you whether that is in accordance with the rules of the House—
+
+### Source page 42
+
+**Deputy Speaker:** May I know what that Hon. Member is reading ?
+
+**Hon. C. Subramaniam:** He is reading a letter written by some friend.
+
+**Deputy Speaker:** How can the Hon. Member read that letter here?
+
+**Kalaignar M. Karunanidhi:** If I am not allowed to read it, I will not read it. I remember the letter. One hundred cartloads of gravel, 50 cartloads of sand and 65 bags of cement have been collected and kept ready. The cement is setting hard. The materials have been there for eight months. The sand is washing away. He has written asking what is to be done. Annadurai inaugurated it. Karunanidhi is to build it; a Congress candidate has won in that constituency. He asks whether it is being obstructed merely because Karunanidhi might get the credit, and what other reason there could be...
+
+**Deputy Speaker:** The Hon. Member's time is up. He has already exceeded the time limit. So he must finish his speech soon.
+
+**Kalaignar M. Karunanidhi:** I say that the community-welfare scheme is nothing but a set of political publicity booths. If you ask whether the Budget is not sugar pongal but entirely bitter—well, one cannot say that just because something is bitter it is medicine. Therefore, I say that this is mere sham, and with that I conclude my speech.
+

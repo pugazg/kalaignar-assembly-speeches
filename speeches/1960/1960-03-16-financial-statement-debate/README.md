@@ -30,14 +30,20 @@
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; Gate E found no historical/reform-sensitive glyph anomaly**
 - Gate D — **PASS / COMPLETE — 9/9 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 9/9 pages; 3 source-fidelity corrections; 0 unresolved readings**
-- English — **NOT STARTED / Gate F next**
+- Gate F English — **COMPLETE / 9 of 9 pages**
+- Gate G — **PASS / COMPLETE — 9/9 pages; 17 refinements; 0 blockers**
+- English — **VERIFIED AGAINST TAMIL**
+- Gate H — **PASS / COMPLETE**
+- Release status — **RELEASED / CLOSED**
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — Gate-C first-pass Tamil
-- [`metadata.json`](./metadata.json) — source and workflow state
-- [`source-notes.md`](./source-notes.md) — source authority and boundary policy
-- [`verification-log.md`](./verification-log.md) — Gate-C completion ledger
+- [`transcript.md`](./transcript.md) — canonical verified Tamil followed by canonical verified English
+- [`translation.md`](./translation.md) — retired pointer to canonical English
+- [`translation-review.md`](./translation-review.md) — Gates F–H English and release audit
+- [`metadata.json`](./metadata.json) — source, gate and release state
+- [`source-notes.md`](./source-notes.md) — source authority, boundary and release policy
+- [`verification-log.md`](./verification-log.md) — Gates C–H audit trail
 
 ## Gate D result
 
@@ -70,6 +76,17 @@ Scans 34–36, 38–40 required no text correction. All interventions, printed-E
 
 Unresolved readings: **0**.
 
+## Gate F / Gate G / Gate H closure
+
+- Gate F — **COMPLETE / 9 of 9 English pages**
+- Gate G — **PASS / COMPLETE / 17 refinements / 0 blockers / 0 Tamil changes**
+- source-printed English — **preserved exactly**
+- English `verified_against_tamil=true`
+- Gate H — **PASS / COMPLETE**
+- Speech 3 — **RELEASED / CLOSED**
+
+Canonical `transcript.md` now contains verified Tamil followed by verified English. The duplicate English working file is retired to a pointer, and repository indexes are synchronized.
+
 ## Exact next activity
 
-Begin **Gate F English translation** for Speech 3 from the final verified Tamil only, scans **34–42 / printed pp.33–41**. Do not begin Speech 4 in the same iteration.
+Begin **Speech 4 / 6.3.1961 — Gate C Tamil first-pass transcription**, scans **43–48 / printed pp.42–47**. Do not begin Gate D/E or English in the same iteration.

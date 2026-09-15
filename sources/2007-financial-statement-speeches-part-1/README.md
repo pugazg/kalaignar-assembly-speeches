@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speech 1 / 5.3.1958 is **RELEASED / CLOSED through Gate H**. Speech 2 / 4.3.1959 Gate C first-pass Tamil is now **COMPLETE — scans 25–33 / printed pp.24–32, 9/9 pages**; Tamil is transcribed / not verified.
+Speeches 1 / 5.3.1958, 2 / 4.3.1959 and 3 / 16.3.1960 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English.
 
 ## Parallel-witness / released-material rule
 
@@ -173,7 +173,11 @@ Reader/work entry:
 - Gate C.5 — **N/A / CLOSED for Speech 3**
 - Gate D — **PASS / COMPLETE — 9/9 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 9/9 pages; 3 source-fidelity corrections; 0 unresolved readings**
-- English — **NOT STARTED / Gate F next**
+- Gate F English — **COMPLETE / 9 of 9 pages**
+- Gate G — **PASS / COMPLETE — 9/9 pages; 17 refinements; 0 blockers**
+- English — **VERIFIED AGAINST TAMIL**
+- Gate H — **PASS / COMPLETE**
+- Speech 3 release — **RELEASED / CLOSED**
 
 Gate C preserved the C. Subramaniam intervention, J. Madhava Gowder intervention, Deputy Speaker interventions including printed English, the quoted letter with embedded English administrative terms, figures, humour and page-spanning continuations.
 
@@ -189,6 +193,17 @@ Markers 34→42 are unique/ordered; start/end boundaries, all speaker interventi
 
 Gate E applied **3 source-fidelity corrections** with **0 unresolved readings**. Full details are in the Speech 3 verification log.
 
+## Speech 3 Gate F / Gate G / Gate H closure
+
+- Gate F — **COMPLETE / 9 of 9 pages**
+- Gate G — **PASS / COMPLETE / 17 refinements / 0 blockers / 0 Tamil changes**
+- source-printed English — **preserved exactly**
+- English — **VERIFIED AGAINST TAMIL**
+- Gate H — **PASS / COMPLETE**
+- release — **RELEASED / CLOSED**
+
+Canonical bilingual transcript and dated indexes are synchronized. Full English audit: `speeches/1960/1960-03-16-financial-statement-debate/translation-review.md`.
+
 ## Exact next activity
 
-Begin **Speech 3 Gate F English translation** from the final verified Tamil only, scans **34–42 / printed pp.33–41**. Do not begin Speech 4 in the same iteration.
+Begin **Speech 4 / 6.3.1961 Gate C**, scans **43–48 / printed pp.42–47**. Complete only the first-pass Tamil transcription in that iteration.
