@@ -1,0 +1,98 @@
+# Handover — 2007 financial-statement speeches anthology, Part 1
+
+Repository: `pugazg/kalaignar-assembly-speeches`, branch `main`.
+
+## Controlling source
+
+`TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf`
+
+Locked source identity:
+
+- printed title — `நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)`;
+- author — கலைஞர் மு. கருணாநிதி;
+- publisher — தமிழ்க்கனி பதிப்பகம், சென்னை - 600 004;
+- first edition — மே, 2007;
+- physical PDF pages — **546**;
+- file size — **393,027,493 bytes**;
+- SHA-256 — `e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932`;
+- usable text layer — **none**;
+- authority — rendered scan pixels.
+
+The source viewer initially exposed only 150 pages, but the actual PDF has 546 pages. Do not reintroduce the 150-page cap into metadata.
+
+## Physical source state
+
+- scans 1–17 — front matter / title matter;
+- scans 18–545 — **19** numbered `உரை` units;
+- scan 546 — closing portrait/back matter;
+- printed page = scan page - 1 through the speech body.
+
+Gate A: **PASS / COMPLETE**.
+
+## Gate B
+
+**PASS / COMPLETE / LOCKED.**
+
+Full inventory is in:
+
+`sources/2007-financial-statement-speeches-part-1/mapping.md`
+
+Speech starts are scans:
+
+**18, 25, 34, 43, 49, 60, 76, 90, 113, 117, 152, 191, 231, 263, 320, 356, 389, 482, 511**.
+
+The focused second boundary check covered every transition plus 545→546; no boundary changed.
+
+## Locked speech dates
+
+1. 5.3.1958
+2. 4.3.1959
+3. 16.3.1960
+4. 6.3.1961
+5. 2.7.1962
+6. 7.3.1963
+7. 7.3.1964
+8. 4.3.1966
+9. 29.3.1971
+10. 29.6.71
+11. 10.3.1972
+12. 07.03.1973
+13. 14.03.1974
+14. 10.03.1975
+15. 03.08.1977
+16. 1.3.1978
+17. 22 & 23.3.1979
+18. 09.07.1980
+19. 06.03.1982
+
+Speech 17 is deliberately held as a **multi-date source unit**; do not invent one canonical date.
+
+## Existing-source overlaps
+
+Do not modify released or existing source layers merely because this anthology overlaps them.
+
+- Speech 9 / 29.03.1971 — overlaps the `நமது நிலை` event/provenance record.
+- Speech 10 / 29.06.1971 — overlaps the `நமது விளக்கம்` event/provenance record.
+- Speech 12 / 07.03.1973 — parallel witness to the already released canonical `1973-03-07-financial-statement-reply`.
+
+Treat this 2007 anthology as its own witness.
+
+## Current gates
+
+- Gate A — **PASS / COMPLETE**
+- Gate B — **PASS / COMPLETE / LOCKED**
+- Gate C — **NOT STARTED**
+- Gate C.5 — **provisionally N/A** because the anthology is modern 2007 typesetting; reopen only if actual source pixels show a historical-glyph anomaly
+- Gates D–H — **NOT STARTED**
+
+## Exact next activity
+
+Process **உரை 1 / 5.3.1958**, scans **18–24 / printed pp.17–23**, through **Gate C first-pass Tamil transcription only**.
+
+Create the canonical working entry under:
+
+`speeches/1958/1958-03-05-financial-statement-debate/`
+
+Use explicit source-page markers 18→24, preserve source wording/punctuation/figures/interventions, and record uncertainties rather than guessing. Since the speech is only seven pages, complete it in one bounded Gate-C iteration.
+
+Do **not** begin Gate D, Gate E, English, or Speech 2 in the same iteration.
