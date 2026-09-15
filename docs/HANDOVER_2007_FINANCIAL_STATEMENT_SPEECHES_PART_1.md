@@ -253,6 +253,21 @@ Gate C preserved:
 - the quoted letter and embedded English administrative terms;
 - all figures and the scan-42 close.
 
+## Speech 3 Gate-D result
+
+Gate D is **PASS / COMPLETE**.
+
+- markers **34→42** — exactly once and in order;
+- start/end boundaries — PASS;
+- scan-39 C. Subramaniam intervention — represented;
+- scans 41→42 J. Madhava Gowder intervention — continuous;
+- scan-42 Deputy Speaker interventions / printed English — represented;
+- quoted letter / embedded English administrative terms — structurally complete;
+- figures / quotations / humour / analogies — structurally complete;
+- transitions **34→35, 35→36, 36→37, 37→38, 38→39, 39→40, 40→41, 41→42** — PASS;
+- completeness corrections — **0**;
+- Tamil remains **NOT VERIFIED**.
+
 ## Exact next activity
 
-Perform **Speech 3 Gate D completeness audit** for scans **34–42 / printed pp.33–41**. Confirm all nine page markers, start/end boundaries, interventions, printed-English blocks, quotations, figures and transitions. Do **not** begin Gate E, English, or Speech 4 in the same iteration.
+Perform **Speech 3 Gate E strict page-by-page visual source-fidelity verification** for scans **34–42 / printed pp.33–41**. Check every word/character, names, numerals, punctuation, quotations, interventions, printed English and page transitions against the rendered source pixels. Do **not** begin English or Speech 4 in the same iteration.

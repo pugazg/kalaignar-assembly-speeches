@@ -171,12 +171,18 @@ Reader/work entry:
 - unresolved first-pass readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - Gate C.5 — **provisionally N/A**
-- Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 9/9 pages; 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 - English — **BLOCKED**
 
 Gate C preserved the C. Subramaniam intervention, J. Madhava Gowder intervention, Deputy Speaker interventions including printed English, the quoted letter with embedded English administrative terms, figures, humour and page-spanning continuations.
 
+## Speech 3 Gate D result
+
+**PASS / COMPLETE — 9/9 pages; 0 completeness corrections.**
+
+Markers 34→42 are unique/ordered; start/end boundaries, all speaker interventions, printed-English blocks, quoted-letter structure, figures and all page transitions are structurally complete. Tamil remains not verified.
+
 ## Exact next activity
 
-Perform **Speech 3 Gate D Tamil completeness audit**, scans **34–42 / printed pp.33–41**. Do not begin Gate E, English, or Speech 4 in the same iteration.
+Perform **Speech 3 Gate E strict page-by-page visual source-fidelity verification**, scans **34–42 / printed pp.33–41**. Do not begin English or Speech 4 in the same iteration.

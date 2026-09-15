@@ -28,8 +28,8 @@
 - first-pass unresolved readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - Gate C.5 — **provisionally N/A** for modern 2007 typesetting; reopen if actual legacy-glyph evidence appears
-- Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 9/9 pages; 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 - English — **BLOCKED until Tamil verification**
 
 ## Files
@@ -39,6 +39,23 @@
 - [`source-notes.md`](./source-notes.md) — source authority and boundary policy
 - [`verification-log.md`](./verification-log.md) — Gate-C completion ledger
 
+## Gate D result
+
+**PASS / COMPLETE — 9/9 pages.**
+
+- markers **34→42** — exactly once and in order;
+- scan 34 opening / scan 42 close — PASS;
+- scan 43 begins Speech 4 and remains excluded;
+- C. Subramaniam intervention on scan 39 — represented;
+- J. Madhava Gowder intervention spanning scans 41→42 — represented continuously;
+- both Deputy Speaker interventions and printed English on scan 42 — represented;
+- quoted letter and embedded English administrative terms — structurally complete;
+- figures, quotations, humour/analogies and paragraph sequence — structurally complete;
+- transitions **34→35, 35→36, 36→37, 37→38, 38→39, 39→40, 40→41, 41→42** — no omission or duplication;
+- completeness corrections — **0**.
+
+Tamil remains **NOT VERIFIED**.
+
 ## Exact next activity
 
-Perform **Gate D Tamil completeness audit** for scans **34–42 / printed pp.33–41**. Do not begin Gate E, English, or Speech 4 in the same iteration.
+Perform **Gate E strict page-by-page visual source-fidelity verification** for scans **34–42 / printed pp.33–41**. Do not begin English or Speech 4 in the same iteration.
