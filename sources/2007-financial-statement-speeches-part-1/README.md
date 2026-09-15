@@ -132,7 +132,11 @@ Reader/work entry:
 - Gate C.5 — **N/A / CLOSED for Speech 2**
 - Gate D — **PASS / COMPLETE — 9/9 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 9/9 pages; 6 source-fidelity corrections; 0 unresolved readings**
-- English — **NOT STARTED / Gate F next**
+- Gate F English — **COMPLETE / 9 of 9 pages**
+- Gate G — **PASS / COMPLETE — 9/9 pages; 12 refinements; 0 blockers**
+- English — **VERIFIED AGAINST TAMIL**
+- Gate H — **PASS / COMPLETE**
+- Speech 2 release — **RELEASED / CLOSED**
 
 ## Speech 2 Gate D result
 
@@ -146,6 +150,16 @@ Markers 25→33 are unique/ordered; start/end boundaries, the scan-26 interventi
 
 Gate E applied **6 source-fidelity corrections** with **0 unresolved readings**. Full correction details are in the Speech 2 verification log.
 
+## Speech 2 Gate F / Gate G / Gate H closure
+
+- Gate F — **COMPLETE / 9 of 9 pages**
+- Gate G — **PASS / COMPLETE / 12 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL**
+- Gate H — **PASS / COMPLETE**
+- release — **RELEASED / CLOSED**
+
+Canonical bilingual transcript and dated indexes are synchronized. Full English audit: `speeches/1959/1959-03-04-financial-statement-debate/translation-review.md`.
+
 ## Exact next activity
 
-Begin **Speech 2 Gate F English translation** from the final verified Tamil only, scans **25–33 / printed pp.24–32**. Do not begin Speech 3 in the same iteration.
+Begin **Speech 3 / 16.3.1960 Gate C**, scans **34–42 / printed pp.33–41**. Complete only the first-pass Tamil transcription in that iteration.

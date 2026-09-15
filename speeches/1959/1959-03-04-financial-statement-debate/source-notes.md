@@ -41,3 +41,16 @@ Correction details are itemised in `verification-log.md`. No outside witness sup
 ## Historical-glyph gate
 
 This is modern 2007 typesetting. Gate C.5 is **N/A / CLOSED for this speech**: the complete Gate-E visual audit found no historical/reform-sensitive glyph anomaly.
+
+
+## Gate F / Gate G / Gate H release state
+
+- Gate F — **COMPLETE / 9 of 9 pages**
+- Gate G — **PASS / COMPLETE / 12 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL**
+- Gate H — **PASS / COMPLETE**
+- release — **RELEASED / CLOSED**
+
+The English was derived only from the final verified Tamil. No OCR, web copy, Official Report or alternate anthology supplied wording.
+
+Gate H canonicalised the bilingual `transcript.md`, retired `translation.md` to a pointer, synchronized dated indexes, and made **0** verified-wording changes.

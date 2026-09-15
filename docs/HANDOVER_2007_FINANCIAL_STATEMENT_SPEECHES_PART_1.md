@@ -85,9 +85,9 @@ Treat this 2007 anthology as its own witness.
 - Gate C.5 — **N/A / CLOSED for Speech 1**
 - Gate D — **Speech 1 PASS / COMPLETE; Speech 2 PASS / COMPLETE — 9/9 pages, 0 completeness corrections**
 - Gate E — **Speech 1 PASS / COMPLETE / Tamil VERIFIED; Speech 2 PASS / COMPLETE — 9/9 pages, 6 corrections, 0 unresolved, Tamil VERIFIED**
-- Gate F — **Speech 1 COMPLETE — 7/7 English pages**
-- Gate G — **Speech 1 PASS / COMPLETE — 7/7 pages; 10 refinements; 0 blockers; English VERIFIED**
-- Gate H — **Speech 1 PASS / COMPLETE — RELEASED / CLOSED**
+- Gate F — **Speech 1 COMPLETE — 7/7 English pages; Speech 2 COMPLETE — 9/9 English pages**
+- Gate G — **Speech 1 PASS / COMPLETE — 7/7 pages; 10 refinements; 0 blockers; English VERIFIED; Speech 2 PASS / COMPLETE — 9/9 pages; 12 refinements; 0 blockers; English VERIFIED**
+- Gate H — **Speech 1 PASS / COMPLETE — RELEASED / CLOSED; Speech 2 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Speech 1 durable Gate-C state
 
@@ -218,6 +218,18 @@ Corrections:
 - scan 30 — `அந்த நிலையில்`;
 - scan 32 — `19 இலட்சமாக`.
 
+## Speech 2 Gate-F / Gate-G / Gate-H result
+
+Speech 2 / 4.3.1959 is **RELEASED / CLOSED**.
+
+- Gate F — complete 9/9;
+- Gate G — PASS / COMPLETE, 12 refinements, 0 blockers, 0 Tamil changes;
+- English `verified_against_tamil=true`;
+- Gate H — PASS / COMPLETE;
+- canonical bilingual transcript — complete;
+- root and machine-readable dated indexes — synchronized;
+- Gate-H wording changes — 0.
+
 ## Exact next activity
 
-Perform **Speech 2 Gate F English translation** from the final verified Tamil only, all scans **25–33**. Preserve argument order, quoted material, the C. Subramaniam intervention, figures, humour/analogies and source claims. Do not import wording from OCR, web sources, Official Reports or other anthologies. Do **not** begin Speech 3 in the same iteration.
+Process **Speech 3 / 16.3.1960**, scans **34–42 / printed pp.33–41**, through **Gate C first-pass Tamil transcription only**. Do not begin Gate D/E or English in the same iteration.

@@ -99,3 +99,44 @@ Scans **25, 31 and 33** required no text correction.
 - English — **NOT STARTED / Gate F next**
 
 Gate F must translate from this verified Tamil only.
+
+
+## Gate F — English first-pass translation
+
+**Status:** COMPLETE — 9/9 pages
+
+Translation authority: final Gate-E-verified Tamil only.
+
+Preserved: page order, C. Subramaniam intervention, quotations, dates, all figures and percentages, doctor/patient analogy, Tenali Raman cat story, three-pond saying, Kudaganaru request, industrial-policy rhetoric, slum-screening criticism and source-stated final road-repair total.
+
+Outside wording used: **none**.  
+Blocking translation questions: **0**.
+
+## Gate G — English fidelity and voice review
+
+**Status:** PASS / COMPLETE — 9/9 pages
+
+- refinements — **12**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- English `verified_against_tamil=true`
+
+Full refinement ledger: `translation-review.md`.
+
+## Gate H — canonical merge / index / release closure
+
+**Status:** PASS / COMPLETE — RELEASED / CLOSED
+
+- [x] Tamil source-page markers **25→33** preserved in canonical Tamil layer;
+- [x] English source-page sections **25→33** preserved in canonical English layer;
+- [x] canonical bilingual `transcript.md` created without changing verified wording;
+- [x] `translation.md` retired to pointer;
+- [x] metadata release state synchronized;
+- [x] root dated index synchronized;
+- [x] `data/speeches.json` synchronized;
+- [x] Gate-H Tamil wording changes — **0**;
+- [x] Gate-H English wording changes — **0**.
+
+Final status: **Speech 2 RELEASED / CLOSED**.
+
+Exact next: **Speech 3 / 16.3.1960 Gate C, scans 34–42 / printed pp.33–41**.

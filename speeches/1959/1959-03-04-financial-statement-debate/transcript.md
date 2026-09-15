@@ -1,8 +1,12 @@
-# நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் — உரை : 2
+# நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள்
 
-**நாள் : 4.3.1959**
+## உரை : 2 — நாள் : 4.3.1959
 
-> **Transcription state:** Gates C, D and E are complete for scans 25–33 / printed pp.24–32. Gate E re-read all nine pages directly against rendered scan pixels and applied **6 source-fidelity corrections**; unresolved readings: **0**. Tamil is now **VERIFIED** and `verified_against_scan=true`. Gate C.5 is N/A / CLOSED for this modern 2007 typesetting; no legacy/reform-sensitive glyph anomaly was found during the visual audit. English remains not started; Gate F is next.
+> **Gate H release status:** Speech 2 is **RELEASED / CLOSED**. Tamil Gates C–E are complete and Tamil is verified against source scans 25–33 with 6 Gate-E corrections / 0 unresolved readings. Gate F translated all 9 pages; Gate G verified all 9 English pages with **12 fidelity/voice refinements**, 0 blockers and 0 Tamil changes. Gate H canonicalised the bilingual transcript, synchronized repository indexes, retired the duplicate English working copy, and preserved the neutral archival slug `financial-statement-debate` as a subject label rather than an asserted official motion title.
+
+---
+
+# தமிழ் மூல உரை
 
 <!-- source-page: 25 -->
 
@@ -72,3 +76,81 @@
 <!-- source-page: 33 -->
 
 கோபி-தாராபுரம் ரோடு செப்பனிட 10,000 ரூபாய், கோபி-சவுர்தாபூர் ரோடு செப்பனிட 10,000 ரூபாய் தனிப்பட்ட பழுது பார்க்கும் வேலைகளை ஈரோடு-சத்தி சாலையில் செய்வதற்காக 60,000 ரூபாய், கோபி - தாராபுரம் சாலையில் தனிப்பட்ட பழுது பார்க்கும் வேலைக்காக 20,000 ரூபாய், சத்தியமங்கலம்-மேட்டுப்பாளையம் சாலை தனி ரிப்பேர்களுக்காக 73,000 ரூபாய் ஆக இரண்டு லட்சத்து நாற்பத்தெண்ணாயிரத்து இருநூறு ரூபாய் செலவில் அவசர அவசரமாகத் திட்டங்கள் தீட்டப்படுகின்றன என்பதை நாம் எண்ணிப் பார்க்க வேண்டுமென்று கூறிக்கொண்டு என்னுடைய உரையை முடித்துக் கொள்கிறேன்.
+
+---
+
+# English translation
+
+> **Gate H canonical English note:** the English below is the complete Gate-G-verified translation of source pages **25–33**. It is derived only from the final verified Tamil. `translation.md` is retired to a pointer; the authoritative English is maintained in this canonical bilingual transcript.
+
+### Source page 25
+
+## Kalaignar's Legislative Assembly Speeches on the Financial Statement
+
+**Speech: 2**  
+**Date: 4.3.1959**
+
+**Kalaignar M. Karunanidhi:** Honourable Speaker, I am very happy that I have been given the opportunity, for the third time, to speak on the financial statement that our Finance Minister has placed before this House for the eighth time. Members of the ruling party have praised this Budget highly as one that imposes no taxes and shows a surplus. Whenever members on that side spoke, they also pointed out that members of the Opposition should join in singing its praises. Rather than rejoicing that this is a financial statement without taxes, the joy would be meaningful if the statement were to say that existing taxes had been remitted. Everyone, including Mrs. Sentharam who spoke yesterday, asked us, “Praise it; praise it.” This statement is not worthy of praise. Had there been tax relief, perhaps it would have been worthy of praise.
+
+The Governor's address was delivered on 4 February 1959. In that address he says, “The seasonal conditions this year may be said to be not bad.” One month later, when the Honourable Finance Minister presented his financial statement on 2 March 1959, he said, “The seasonal conditions this year must be regarded as bad.” Thus, within one month, two different opinions—
+
+### Source page 26
+
+—have been expressed. Both these speeches were prepared by the same department. The Governor saying that the seasonal conditions are not bad while the Finance Minister says they are bad appears strange beyond strange. The Governor's address further says that electricity will be supplied to 1,200 villages this year and that a total of 8,000 villages will receive electricity. The Finance Minister, however, says that next year another thousand villages will receive electricity and that the total number of electrified villages in the State will rise to 9,000.
+
+**Hon. C. Subramaniam:** I thought the member knew addition and subtraction.
+
+**Kalaignar M. Karunanidhi:** I know addition and subtraction very well. I ask the Minister not to forget under whom he is serving as a minister. It would have been better if, after pointing to the 8,000 villages mentioned by the Governor, he had explained without confusion that the total number of electrified villages would become 9,000 next year. I regret that the necessary explanation was not given. I have to speak on the basis of the words in his statement. I only wished to point out that it should have been stated clearly that, in addition to the villages already covered and the number mentioned by the Governor, another thousand villages would receive electricity next year.
+
+The Minister has showered the financial statement with statistics. Is merely displaying statistics enough? We must realise that the mark of a good doctor is to show the patients who have been cured rather than merely a list of medicines administered. Moreover, a doubt arises whether the statistics now given—
+
+### Source page 27
+
+—are correct and whether they are trustworthy.
+
+In the 1958-59 financial statement, while assessing the overall position of the State, it is said that “although production had not reached the level of 1956-57...”
+
+If we look at the statistics he has given this year, 57.2 lakh acres were under cultivation in 1956-57, and the same 57.2 lakh acres were under cultivation in 1958-59. At the same time, he states that rice production was 31.96 lakh tons in 1956-57 and 32.98 lakh tons in 1958-59. Having said that the level of production had not increased in 1958-59, what is the purpose of presenting statistics in the 1959-60 statement as though it had increased? I ask how we are to place confidence in these statistics. Even with this production, prices continue to soar like poison. What is the reason for that?
+
+They have said that the Government is going to take over the wholesale trade in foodgrains. The Dravida Munnetra Kazhagam stands for the nationalisation of all industries. In that spirit, the DMK has no objection whatsoever to the Government taking over and running the foodgrain trade as well. But if we look at any sector that the Government has taken over and is now running and ask whether it is being run successfully, the answer is no. Because of administrative corruption, inefficiency, and the irresponsible conduct of officials, these undertakings are not being run properly. This Government's scheme and policy of nationalisation are like the story of Tenali Raman raising a cat! In order to avoid spending the golden egg that had been given for rearing the cat, he is said to have put hot milk before the cat and burned the lips of the cat when it drank—
+
+### Source page 28
+
+—There is a story that the next day, even when cold milk was placed before it, the cat refused to come and drink it. In the same way, when people see irresponsibility and corruption growing in nationalisation schemes—in industries taken over and run by the Government—I fear that, like Tenali Raman's cat, the public may end up saying that nationalisation itself is unnecessary. If the people are driven to such a conclusion, my view is that the Government itself will be responsible.
+
+Moreover, as stated in the Governor's address, the decision that the Government should procure and trade in only two lakh tons of grain is something we must condemn. Government procurement and trade in just these two lakh tons of foodgrains is like trying to cross a well only halfway. I wish to state on this occasion that the entire trade should be taken over, entrusted to responsible officers, and conducted in a manner in which administrative corruption is not allowed to proliferate.
+
+In general, whatever the Government takes up ends in the manner of the saying, “I dug three ponds at three points; two ponds were ruined, and one pond had no water.” We see exactly that outcome in the matter of establishing seed farms. The Honourable Minister had proudly stated in this House that by 1959-60 they would establish 360 seed farms in this country. Now the Minister's statement says: “We tried to establish 360 seed farms, abandoned several of them, closed several of them, and are prepared to run 130 seed farms.”
+
+Thus, they have come to the position that it is enough to establish 130 seed farms and somehow keep them going—
+
+### Source page 29
+
+—The decision had been to establish 360 farms. But they are prepared to establish only 130. From the seed farms alone, the yield they expected was 1,325 tons. But what does the sad statistic say? They have obtained only 977 tons from the seed farms. This does not appear in the Minister's statement. Taken as a whole, we know that the seed farms must have caused a loss of more than Rs. 1,25,000. At just one farm in Nedumalam, Rs. 25,837 was spent. When we hear that the income from it was about Rs. 14,549 and that the loss there was nearly Rs. 11,324, then if we ask whether the activities planned and carried out by the Government are really being conducted properly, the answer must be no. I therefore ask how the people of this country can have confidence in schemes framed in this manner.
+
+If we look at the statistics the Minister has given to show that the average yield of paddy is steadily increasing, they say that the yield per acre was 1,214 pounds in 1955-56, 1,255 pounds in 1956-57, and 1,300 pounds in 1957-58. This does not show any remarkable increase. The same Minister, speaking last year, said that Japan produces 2,550 pounds per acre and China 1,550 pounds. The Minister who sits here in this House must make an effort to reach such a level. I regret to state that the Minister has said nothing in his statement about what efforts he proposes to make toward that end.
+
+The statistics say that a great many irrigation schemes have been completed.
+
+### Source page 30
+
+Whenever I get an opportunity to speak in this House, I have been saying that, if the Kudaganaru scheme is implemented in my Kulithalai constituency, it would make it possible for seven or eight tanks to fill with water. It is a very small scheme. It can be completed at a cost of Rs. 10 lakh. If this scheme is implemented, water will become available to the dry areas and thereby bring prosperity and a better life to the people there. On page 29 of this statement, the Minister says: “I wish to point out that, if the need arises to expand the plan in any sector, there will be no difficulty in providing the necessary funds.” Taking this one sentence as my weapon, I ask the Minister to implement the Kudaganaru scheme in the Kulithalai constituency. Since you say there will be no difficulty in providing funds to expand schemes further, I request that you use your funds so that the Kudaganaru scheme may be implemented without difficulty.
+
+Statistics have been given to show that we have developed major industries. Two large projects are mentioned. One is the Neyveli project. The other is the railway coach factory at Perambur. Do both of these belong to this Government? Who has administrative control over them? Both belong to the Government in the North. I wish to state with shame and pain that only 25 per cent of the profit from the Neyveli project is given to Tamil Nadu. At Perambur, coaches are assembled with 65 per cent of the materials coming from abroad! In that situation, even the two undertakings cited as major industries are under the Government in the North. You—
+
+### Source page 31
+
+—seek to show that industry has developed, but all the statistics you display concern industries in the private sector. You say that you are going to establish an egalitarian society; you boast that you are marching toward a socialist-pattern society. I ask: will merely citing private-sector statistics make you people who have reached the summit of egalitarianism? In the North they keep starting major industries that bring prosperity—the Rourkela iron works, the Bhilai steel works, the Durgapur works. Schemes costing many crores of rupees are being undertaken there. When that is so, are these two projects enough for our Tamil Nadu? I ask that we reflect on whether our country has not been cheated.
+
+I wish to point out that the amount spent on improving the slums is certainly insufficient. This money is spent merely to hide the slums from the eyes of visitors from abroad. Whether the Prime Minister of Ghana comes, Marshal Tito comes, or the Duke of Edinburgh comes, when they are taken in procession through the streets, our Government needs many screens. The slums along the roads are hidden behind screens so that foreign visitors do not see them. I saw those screens when I had gone to Tiruchirappalli. At that time Marshal Tito was expected to pass in procession. In the Chintamani area, bamboo screens had been erected to a height of about half a palmyra tree. When I asked why they had been put up, I was told that “in that area there are slums inhabited by Adi Dravidar people—
+
+### Source page 32
+
+—and those slums stand beside the drains, and the screens were erected so that they would not be seen by Marshal Tito.” After putting up screens of this kind, they bring Marshal Tito and boast, “Look at this, look at that, look at our beautiful land.” I wish to point out that the amount now allocated is in fact insufficient for improving the slums. In 1958-59, Rs. 27 lakh was allotted for midday meals for Harijan school students. Now, under this head, the amount spent for Harijan students—covering not only midday meals but also hostels—comes to Rs. 19 lakh. Are we to praise this Government for reducing the amount from Rs. 27 lakh to Rs. 19 lakh in this way?
+
+Finally, if we look at the community welfare scheme, I wish to point out that it is approached from the perspective of the ruling party. Whether in areas represented by the Communist Party, in areas represented by the Dravida Munnetra Kazhagam, or generally in Opposition areas, their assessments or suggestions concerning this community welfare scheme are not accepted. I wish to give just one example. A Dravida Munnetra Kazhagam conference was held in Gobi some time ago. After that, a Congress Party conference was held in Gobi. I wish to place before the House the figures for the amount spent by the Highways Department for that Congress Party conference. Rs. 20,000 to repair the Erode-Sathyamangalam road connecting Gobi—
+
+### Source page 33
+
+—Rs. 10,000 to repair the Gobi-Dharapuram road; Rs. 10,000 to repair the Gobi-Saurdapur road; Rs. 60,000 for special repair works on the Erode-Sathy road; Rs. 20,000 for special repair works on the Gobi-Dharapuram road; Rs. 73,000 for special repairs on the Sathyamangalam-Mettupalayam road. Thus, I ask that we consider how schemes are drawn up in great haste at a cost of Rs. 2,48,200, and with that I conclude my speech.
+
