@@ -311,26 +311,28 @@ Speech 3 / 16.3.1960 is **RELEASED / CLOSED**.
 - root and machine-readable dated indexes — synchronized;
 - Gate-H wording changes — 0.
 
-## Speech 4 Gate-C state
+## Speech 4 Gate-C / Gate-D state
 
 - path — `speeches/1961/1961-03-06-financial-statement-debate/`
 - scans **43–48 / printed pp.42–47**
 - Gate C — **COMPLETE / 6 of 6**
+- Gate D — **PASS / COMPLETE / 0 completeness corrections**
 - markers — **43→48**
 - unresolved — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- Tamil — **REVIEWED STRUCTURALLY / NOT VERIFIED**
 
-## Speech 5 Gate-C state
+## Speech 5 Gate-C / Gate-D state
 
 - path — `speeches/1962/1962-07-02-financial-statement-debate/`
 - scans **49–59 / printed pp.48–58**
 - Gate C — **COMPLETE / 11 of 11**
+- Gate D — **PASS / COMPLETE / 0 completeness corrections**
 - markers — **49→59**
 - unresolved — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- Tamil — **REVIEWED STRUCTURALLY / NOT VERIFIED**
 
-Combined Gate-C activity: **17 pages**. Speech 6 is deferred by the whole-speech 25-page rule.
+Combined Gate-D activity: **17 pages**. Hard boundary **48→49** passed; scan 60 is Speech 6 and remains excluded. Speech 6 stays deferred by the whole-speech 25-page rule.
 
 ## Exact next activity
 
-Perform **Gate D completeness audit for Speech 4 and Speech 5 together**, scans **43–59**, treating the 48→49 boundary as a hard speech boundary. Do not begin Gate E in the same iteration.
+Perform **Gate E strict page-by-page visual source-fidelity verification for Speech 4 and Speech 5 together**, scans **43–59**. Do not begin English in the same iteration.

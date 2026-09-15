@@ -43,12 +43,28 @@ Gate-C structural items preserved:
 
 First-pass unresolved readings: **0**.
 
+## Gate D — Tamil completeness audit
+
+**Status:** PASS / COMPLETE — 11/11 pages
+
+- [x] markers **49–59** occur exactly once and in order;
+- [x] scan 49 opening and scan 59 closing boundary are represented;
+- [x] scan 60 begins Speech 6 and is excluded from Speech 5;
+- [x] M. Bhaktavatsalam intervention on scan 53 is represented in sequence;
+- [x] interim-budget / Finance Commission quotation across **54→55** is continuous;
+- [x] food-production, fertiliser, seed-farm, industry, taxation and transport figures are structurally represented;
+- [x] transitions **49→50, 50→51, 51→52, 52→53, 53→54, 54→55, 55→56, 56→57, 57→58, 58→59** show no omission or duplication.
+
+**Completeness corrections applied:** 0.
+
+Gate D establishes structural completeness only; it is not word-by-word fidelity certification.
+
 ## Verification status
 
 - Gate C — **COMPLETE**
-- Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **NOT STARTED / next**
 - Tamil `verified_against_scan` — **false**
 - English — **BLOCKED**
 
-Do not mark Tamil verified until Gate E has independently passed.
+Do not mark Tamil verified until Gate E independently passes.

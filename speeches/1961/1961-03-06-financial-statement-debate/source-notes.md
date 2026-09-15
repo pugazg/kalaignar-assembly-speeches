@@ -33,7 +33,9 @@ Throughout this speech, `printed page = PDF scan page - 1`.
 
 First-pass unresolved readings: **0**.
 
-Gate C completion is not verification. Gate D completeness and Gate E strict visual source-fidelity remain mandatory.
+Gate D completeness audit is **PASS / COMPLETE** with **0 completeness corrections**. It confirmed all six page markers, locked boundaries, the scan-48 interventions and source-printed English, figures, quotations and every cross-page continuation.
+
+This still does **not** verify the Tamil text. Gate E strict page-by-page visual source-fidelity remains mandatory.
 
 ## Historical-glyph gate
 

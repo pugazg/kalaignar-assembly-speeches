@@ -222,8 +222,9 @@ Canonical bilingual transcript and dated indexes are synchronized. Full English 
 - scans — **43–48 / printed pp.42–47**
 - source markers — **43→48 exactly once**
 - unresolved first-pass readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- Gate D — **NOT STARTED / next**
+- Tamil — **REVIEWED STRUCTURALLY / NOT VERIFIED**
+- Gate D — **PASS / COMPLETE — 6/6 pages; 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 
 ## Speech 5 current state
 
@@ -231,11 +232,22 @@ Canonical bilingual transcript and dated indexes are synchronized. Full English 
 - scans — **49–59 / printed pp.48–58**
 - source markers — **49→59 exactly once**
 - unresolved first-pass readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- Gate D — **NOT STARTED / next**
+- Tamil — **REVIEWED STRUCTURALLY / NOT VERIFIED**
+- Gate D — **PASS / COMPLETE — 11/11 pages; 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 
-Gate-C activity total: **17 source pages**. Speech 6 / 7.3.1963 spans scans 60–75 (**16 pages**) and was correctly deferred because including it would exceed the 25-page whole-speech limit.
+Gate-D batch total: **17 source pages**. Speech 6 / 7.3.1963 remains deferred by the whole-speech 25-page rule.
+
+## Speeches 4–5 Gate D closure
+
+**PASS / COMPLETE — 17/17 pages; 0 completeness corrections.**
+
+- hard speech boundary **48→49** — PASS;
+- scan 60 — confirmed as Speech 6 start and excluded;
+- Speech 4 interventions / source-printed English — structurally complete;
+- Speech 5 M. Bhaktavatsalam intervention / quoted passages / figures — structurally complete;
+- both Tamil transcripts remain **NOT VERIFIED**.
 
 ## Exact next activity
 
-Perform **Gate D completeness audit for Speeches 4 and 5 together**, total **17 pages**: scans **43–48** and **49–59**. Do not begin Gate E in the same iteration.
+Perform **Gate E strict page-by-page visual source-fidelity verification for Speeches 4 and 5 together**, scans **43–59** (17 pages).

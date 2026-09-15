@@ -28,8 +28,8 @@
 - first-pass unresolved readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - Gate C.5 — **provisionally N/A** for modern 2007 typesetting
-- Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 6/6 pages; 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 - English — **BLOCKED until Tamil verification**
 
 ## Files
@@ -39,6 +39,22 @@
 - [`source-notes.md`](./source-notes.md) — source authority and boundary policy
 - [`verification-log.md`](./verification-log.md) — Gate-C completion ledger
 
+## Gate D result
+
+**PASS / COMPLETE — 6/6 pages.**
+
+- markers **43→48** — exactly once and in order;
+- scan 43 opening / scan 48 close — PASS;
+- scan 49 begins Speech 5 and remains excluded from Speech 4;
+- T. N. Ananthanayaki point of order — represented;
+- temporary Chair S. M. Annamalai intervention — represented;
+- anonymous-member intervention — represented;
+- all source-printed English on scan 48 — represented;
+- figures, quotations, argument sequence and transitions **43→44, 44→45, 45→46, 46→47, 47→48** — structurally complete;
+- completeness corrections — **0**.
+
+Tamil remains **NOT VERIFIED**.
+
 ## Exact next activity
 
-Perform **Gate D Tamil completeness audit** for scans **43–48 / printed pp.42–47**. Do not begin Gate E or English in the same iteration.
+Perform **Gate E strict page-by-page visual source-fidelity verification** for scans **43–48 / printed pp.42–47**.

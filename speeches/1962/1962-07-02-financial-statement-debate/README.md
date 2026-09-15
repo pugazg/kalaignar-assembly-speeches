@@ -28,8 +28,8 @@
 - first-pass unresolved readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - Gate C.5 — **provisionally N/A** for modern 2007 typesetting
-- Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 11/11 pages; 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 - English — **BLOCKED until Tamil verification**
 
 ## Files
@@ -39,6 +39,21 @@
 - [`source-notes.md`](./source-notes.md) — source authority and boundary policy
 - [`verification-log.md`](./verification-log.md) — Gate-C completion ledger
 
+## Gate D result
+
+**PASS / COMPLETE — 11/11 pages.**
+
+- markers **49→59** — exactly once and in order;
+- scan 49 opening / scan 59 close — PASS;
+- scan 60 begins Speech 6 and remains excluded from Speech 5;
+- M. Bhaktavatsalam intervention on scan 53 — represented in sequence;
+- interim-budget / Finance Commission quotation across **54→55** — continuous;
+- food-production, fertiliser, seed-farm, industry, tax and transport figures — structurally represented;
+- transitions **49→50, 50→51, 51→52, 52→53, 53→54, 54→55, 55→56, 56→57, 57→58, 58→59** — no omission or duplication;
+- completeness corrections — **0**.
+
+Tamil remains **NOT VERIFIED**.
+
 ## Exact next activity
 
-Perform **Gate D Tamil completeness audit** for scans **49–59 / printed pp.48–58**. Do not begin Gate E or English in the same iteration.
+Perform **Gate E strict page-by-page visual source-fidelity verification** for scans **49–59 / printed pp.48–58**.

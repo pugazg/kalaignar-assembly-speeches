@@ -38,12 +38,30 @@ Gate-C structural items preserved:
 
 First-pass unresolved readings: **0**.
 
+## Gate D — Tamil completeness audit
+
+**Status:** PASS / COMPLETE — 6/6 pages
+
+- [x] markers **43–48** occur exactly once and in order;
+- [x] scan 43 opening and scan 48 closing boundary are represented;
+- [x] scan 49 begins Speech 5 and is excluded from Speech 4;
+- [x] T. N. Ananthanayaki point of order is represented;
+- [x] temporary Chair S. M. Annamalai intervention is represented;
+- [x] anonymous-member intervention is represented;
+- [x] source-printed English on scan 48 is structurally complete;
+- [x] figures, quotations and argument order are structurally represented;
+- [x] transitions **43→44, 44→45, 45→46, 46→47, 47→48** show no omission or duplication.
+
+**Completeness corrections applied:** 0.
+
+Gate D establishes structural completeness only; it is not word-by-word fidelity certification.
+
 ## Verification status
 
 - Gate C — **COMPLETE**
-- Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **NOT STARTED / next**
 - Tamil `verified_against_scan` — **false**
 - English — **BLOCKED**
 
-Do not mark Tamil verified until Gate E has independently passed.
+Do not mark Tamil verified until Gate E independently passes.
