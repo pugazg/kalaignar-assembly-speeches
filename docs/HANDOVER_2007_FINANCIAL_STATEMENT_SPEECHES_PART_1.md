@@ -103,7 +103,7 @@ Gate C is **COMPLETE**:
 - Gate E — **NOT STARTED**
 - English — **BLOCKED**
 
-The first pass preserved the speaker label, both C. Subramaniam interventions, quotations, figures, and page-spanning continuations. No outside source supplied wording.
+The first pass preserved the speaker label, all three C. Subramaniam interventions, quotations, figures, and page-spanning continuations. No outside source supplied wording.
 
 ## Exact next activity
 

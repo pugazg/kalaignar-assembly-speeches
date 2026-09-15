@@ -52,7 +52,7 @@ Requirements:
 
 1. verify `<!-- source-page: 18 -->` through `<!-- source-page: 24 -->` each occur exactly once and in order;
 2. recheck the locked start at scan 18 and the speech close / ornament at scan 24; confirm scan 25 is Speech 2 and is excluded;
-3. verify that speaker labels and both `மாண்புமிகு திரு. சி. சுப்பிரமணியம்` interventions are represented;
+3. verify that speaker labels and all three `மாண்புமிகு திரு. சி. சுப்பிரமணியம்` interventions are represented;
 4. verify quotations, figures and paragraph order are structurally complete;
 5. inspect every transition **18→19, 19→20, 20→21, 21→22, 22→23, 23→24** for omission/duplication;
 6. apply only definite completeness corrections supported by the controlling scan;
