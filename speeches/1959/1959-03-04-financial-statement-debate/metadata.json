@@ -38,14 +38,14 @@
     "usable_text_layer": false
   },
   "transcription": {
-    "method": "manual first-pass transcription from rendered scan pixels",
+    "method": "manual first-pass transcription followed by Gate D completeness audit and strict Gate E page-by-page visual source-fidelity verification from rendered scan pixels",
     "preserve_source_spelling": true,
     "preserve_source_punctuation": true,
     "preserve_source_numerals": true,
     "preserve_headings": true,
     "preserve_speaker_labels_and_interventions": true,
     "page_boundaries_marked": true,
-    "status": "reviewed",
+    "status": "verified",
     "gate_c_status": "complete",
     "completed_scan_pages": "25-33",
     "completed_printed_pages": "24-32",
@@ -54,10 +54,10 @@
     "source_page_markers_checked_first_pass": true,
     "unresolved_readings": 0,
     "completeness_audit_passed": true,
-    "verified_against_scan": false,
-    "historical_glyph_gate_status": "provisionally-n-a-modern-2007-typesetting",
-    "next_gate": "E",
-    "note": "Gate C first pass and Gate D completeness audit are complete for all nine pages. Gate D found 0 completeness corrections: page markers 25-33 are unique/ordered; boundaries, the scan-26 C. Subramaniam intervention, quotations, figures and all page transitions are structurally complete. Tamil remains not verified until Gate E strict visual source-fidelity passes.",
+    "verified_against_scan": true,
+    "historical_glyph_gate_status": "n-a-modern-2007-typesetting-no-legacy-glyph-anomaly-found",
+    "next_gate": "F",
+    "note": "Gates C, D and E are complete for all nine pages. Gate D found 0 completeness corrections. Gate E directly re-read scans 25-33 and applied 6 source-fidelity corrections: scan 26 குறிப்பிடும்; scan 27 semicolon in திட்டமும்; கொள்கையும்; scan 28 comma after ஒப்புவித்து; scan 29 செய்கின்ற; scan 30 அந்த நிலையில்; scan 32 19 இலட்சமாக. Unresolved readings: 0. Tamil is verified.",
     "gate_d_status": "pass-complete",
     "gate_d_checked_scan_pages": "25-33",
     "gate_d_page_count": 9,
@@ -65,14 +65,20 @@
     "gate_d_marker_check": "25-33 exactly once and in order",
     "gate_d_boundary_check": "scan 25 start PASS; scan 33 end PASS; scan 34 excluded as Speech 3",
     "gate_d_intervention_check": "C. Subramaniam intervention on scan 26 represented",
-    "gate_d_transition_check": "25→26, 26→27, 27→28, 28→29, 29→30, 30→31, 31→32, 32→33 PASS"
+    "gate_d_transition_check": "25→26, 26→27, 27→28, 28→29, 29→30, 30→31, 31→32, 32→33 PASS",
+    "verified_scan_pages": "25-33",
+    "gate_e_status": "pass-complete",
+    "gate_e_page_count": 9,
+    "gate_e_correction_count": 6,
+    "gate_e_unresolved_readings": 0
   },
   "translation": {
     "language": "English",
-    "status": "blocked",
-    "blocked_until_tamil_verified": true,
+    "status": "not-started",
+    "blocked_until_tamil_verified": false,
     "verified_against_tamil": false,
     "source_text": "final verified Tamil only",
-    "next_gate": "F after Tamil Gate E passes"
+    "next_gate": "F",
+    "tamil_gate_satisfied": true
   }
 }

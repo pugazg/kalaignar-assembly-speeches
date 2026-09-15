@@ -1,10 +1,6 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 2 Gate E
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 2 Gate F
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
-
-## Controlling source
-
-`TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf`
 
 ## Durable anthology state
 
@@ -12,10 +8,10 @@ Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE
 - Gate B — **PASS / COMPLETE / LOCKED**
 - mapped speeches — **19**
 - Speech 1 / 5.3.1958 — **RELEASED / CLOSED**
-- Speech 2 / 4.3.1959 — Gate C COMPLETE; Gate D PASS
+- Speech 2 / 4.3.1959 — Tamil **VERIFIED**
 - speeches 3–19 — not started
 
-## Speech 2 durable state
+## Speech 2 durable Tamil state
 
 Path: `speeches/1959/1959-03-04-financial-statement-debate/`
 
@@ -23,29 +19,38 @@ Path: `speeches/1959/1959-03-04-financial-statement-debate/`
 - printed date — `4.3.1959`
 - scans — **25–33**
 - printed pages — **24–32**
-- Gate C — **COMPLETE / 9 of 9 pages**
+- Gate C — **COMPLETE**
 - Gate D — **PASS / COMPLETE / 0 completeness corrections**
-- source markers — **25→33 exactly once and in order**
-- first-pass unresolved readings — **0**
-- Tamil — **REVIEWED STRUCTURALLY / NOT VERIFIED**
-- Gate C.5 — **provisionally N/A for modern 2007 typesetting**
-- Gate E — **NOT STARTED / next**
-- English — **BLOCKED**
+- Gate E — **PASS / COMPLETE / 6 source-fidelity corrections**
+- unresolved Tamil readings — **0**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- Gate C.5 — **N/A / CLOSED** for modern 2007 typesetting
+- English — **NOT STARTED / Gate F next**
+
+Gate-E correction record:
+
+- scan 26 — `கவனர் குறிப்பிடும் 8,000...`;
+- scan 27 — `திட்டமும்; கொள்கையும்!`;
+- scan 28 — `ஒப்புவித்து,`;
+- scan 29 — `செய்கின்ற காரியங்கள்`;
+- scan 30 — `அந்த நிலையில்`;
+- scan 32 — `19 இலட்சமாக ஆகிறது`.
 
 ## Exact next activity
 
-Perform **Gate E strict page-by-page visual source-fidelity verification** for scans **25–33 / printed pp.24–32**.
+Perform **Gate F English translation** for Speech 2, all nine verified Tamil pages.
 
 Requirements:
 
-1. compare every Tamil word/character directly with the rendered scan pixels;
-2. check source spelling, spacing/compounds, punctuation, names, numerals, quantities and quotations;
-3. inspect the C. Subramaniam intervention on scan 26;
-4. inspect transitions **25→26, 26→27, 27→28, 28→29, 29→30, 30→31, 31→32, 32→33**;
-5. preserve source forms; do not modernise or silently correct grammar;
-6. if an actual historical/reform-sensitive glyph issue appears, reopen Gate C.5 for that item;
-7. record every fidelity correction in `verification-log.md`;
-8. if all nine pages pass with no unresolved reading, set Tamil `verified_against_scan=true`;
-9. do **not** begin English or Speech 3 in the same iteration.
+1. translate only from the final verified Tamil in `transcript.md`;
+2. preserve source-page sequence **25→33**;
+3. preserve the C. Subramaniam intervention in place;
+4. preserve quoted passages, all figures, amounts, dates and percentages;
+5. preserve Kalaignar's analogies and humour, including the doctor/patient image, Tenali Raman's cat story, the three-pond saying, and the slum-screening criticism;
+6. do not silently correct historical/political claims or arithmetic;
+7. do not use OCR, web copies, Official Reports or alternate anthologies to supply English wording;
+8. record the English as a first-pass translation, not yet verified;
+9. do not begin Gate G or Speech 3 in the same iteration.
 
-Expected continuation after a clean Gate E: **Speech 2 Gate F English translation from verified Tamil**.
+Expected continuation: **Speech 2 Gate G full English fidelity/voice review against verified Tamil**.

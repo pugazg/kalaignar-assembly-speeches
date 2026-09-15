@@ -84,7 +84,7 @@ Treat this 2007 anthology as its own witness.
 - Gate C — **Speech 1 CLOSED; Speech 2 COMPLETE — 9/9 pages, scans 25–33**
 - Gate C.5 — **N/A / CLOSED for Speech 1**
 - Gate D — **Speech 1 PASS / COMPLETE; Speech 2 PASS / COMPLETE — 9/9 pages, 0 completeness corrections**
-- Gate E — **Speech 1 PASS / COMPLETE / Tamil VERIFIED; Speech 2 NOT STARTED / next**
+- Gate E — **Speech 1 PASS / COMPLETE / Tamil VERIFIED; Speech 2 PASS / COMPLETE — 9/9 pages, 6 corrections, 0 unresolved, Tamil VERIFIED**
 - Gate F — **Speech 1 COMPLETE — 7/7 English pages**
 - Gate G — **Speech 1 PASS / COMPLETE — 7/7 pages; 10 refinements; 0 blockers; English VERIFIED**
 - Gate H — **Speech 1 PASS / COMPLETE — RELEASED / CLOSED**
@@ -182,7 +182,7 @@ Canonical working entry:
 - Gate C.5 — **provisionally N/A** for modern 2007 typesetting
 - Gate D — **NOT STARTED / next**
 - Gate E — **NOT STARTED**
-- English — **BLOCKED**
+- English — **Speech 1 verified/released; Speech 2 NOT STARTED / Gate F next**
 
 Gate C preserved the C. Subramaniam intervention, quoted material, all printed figures, and every page-spanning continuation through the scan-33 close.
 
@@ -198,6 +198,26 @@ Gate D is **PASS / COMPLETE**.
 - completeness corrections — **0**;
 - Tamil remains **NOT VERIFIED**.
 
+## Speech 2 Gate-E result
+
+Gate E is **PASS / COMPLETE**.
+
+- scans **25–33 / printed pp.24–32**
+- verified pages — **9/9**
+- source-fidelity corrections — **6**
+- unresolved readings — **0**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- Gate C.5 — **N/A / CLOSED** for modern 2007 typesetting; no legacy-glyph anomaly found
+
+Corrections:
+- scan 26 — `குறிப்பிடும்`;
+- scan 27 — source semicolon `திட்டமும்; கொள்கையும்!`;
+- scan 28 — comma after `ஒப்புவித்து`;
+- scan 29 — `செய்கின்ற காரியங்கள்`;
+- scan 30 — `அந்த நிலையில்`;
+- scan 32 — `19 இலட்சமாக`.
+
 ## Exact next activity
 
-Perform **Speech 2 Gate E strict page-by-page visual source-fidelity verification** for scans **25–33 / printed pp.24–32**. Check every word/character, names, numerals, punctuation, quotations, intervention and page transitions against the rendered source pixels. Do **not** begin English or Speech 3 in the same iteration.
+Perform **Speech 2 Gate F English translation** from the final verified Tamil only, all scans **25–33**. Preserve argument order, quoted material, the C. Subramaniam intervention, figures, humour/analogies and source claims. Do not import wording from OCR, web sources, Official Reports or other anthologies. Do **not** begin Speech 3 in the same iteration.

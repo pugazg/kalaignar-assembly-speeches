@@ -26,11 +26,11 @@
 - Gate C Tamil first pass — **COMPLETE / 9 of 9 pages**
 - source markers — **25→33 exactly once**
 - first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- Gate C.5 — **provisionally N/A** for modern 2007 typesetting; reopen if actual legacy-glyph evidence appears
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; Gate E found no legacy/reform-sensitive glyph anomaly**
 - Gate D — **PASS / COMPLETE — 9/9 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
-- English — **BLOCKED until Tamil verification**
+- Gate E — **PASS / COMPLETE — 9/9 pages; 6 source-fidelity corrections; 0 unresolved readings**
+- English — **NOT STARTED / Gate F next**
 
 ## Files
 
@@ -53,6 +53,23 @@
 
 Tamil remains **NOT VERIFIED**.
 
+## Gate E result
+
+**PASS / COMPLETE — Tamil VERIFIED.**
+
+Gate E re-read all nine pages directly against the rendered source pixels and applied **6 source-fidelity corrections**:
+
+- scan 26 — `கவனர் குறிப்பிட்டும்` → **`கவனர் குறிப்பிடும்`**;
+- scan 27 — source punctuation `திட்டமும்; கொள்கையும்!`;
+- scan 28 — `ஒப்புவித்து;` → **`ஒப்புவித்து,`**;
+- scan 29 — `செய்கிற காரியங்கள்` → **`செய்கின்ற காரியங்கள்`**;
+- scan 30 — `அந்த நிலைமையில்` → **`அந்த நிலையில்`**;
+- scan 32 — `19 லட்சமாக ஆகிறது` → **`19 இலட்சமாக ஆகிறது`**.
+
+Scans 25, 31 and 33 required no text correction. All page transitions, figures, quoted passages and the scan-26 C. Subramaniam intervention passed after correction.
+
+Unresolved readings: **0**.
+
 ## Exact next activity
 
-Perform **Gate E strict page-by-page visual source-fidelity verification** for scans **25–33 / printed pp.24–32**. Do not begin English or Speech 3 in the same iteration.
+Begin **Gate F English translation** for Speech 2 from the final verified Tamil only, scans **25–33 / printed pp.24–32**. Do not begin Speech 3 in the same iteration.

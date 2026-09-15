@@ -128,11 +128,11 @@ Reader/work entry:
 - Gate C — **COMPLETE / 9 of 9 pages**
 - source markers — **25→33 exactly once**
 - unresolved first-pass readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- Gate C.5 — **provisionally N/A**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED for Speech 2**
 - Gate D — **PASS / COMPLETE — 9/9 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
-- English — **BLOCKED**
+- Gate E — **PASS / COMPLETE — 9/9 pages; 6 source-fidelity corrections; 0 unresolved readings**
+- English — **NOT STARTED / Gate F next**
 
 ## Speech 2 Gate D result
 
@@ -140,6 +140,12 @@ Reader/work entry:
 
 Markers 25→33 are unique/ordered; start/end boundaries, the scan-26 intervention, quotations, figures and all page transitions are structurally complete. Tamil remains not verified.
 
+## Speech 2 Gate E closure
+
+**PASS / COMPLETE — 9/9 pages; Tamil VERIFIED.**
+
+Gate E applied **6 source-fidelity corrections** with **0 unresolved readings**. Full correction details are in the Speech 2 verification log.
+
 ## Exact next activity
 
-Perform **Speech 2 Gate E strict page-by-page visual source-fidelity verification**, scans **25–33 / printed pp.24–32**. Do not begin English or Speech 3 in the same iteration.
+Begin **Speech 2 Gate F English translation** from the final verified Tamil only, scans **25–33 / printed pp.24–32**. Do not begin Speech 3 in the same iteration.
