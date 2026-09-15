@@ -39,12 +39,31 @@ Gate-C structural items preserved:
 
 First-pass unresolved readings: **0**.
 
+## Gate D — Tamil completeness audit
+
+**Status:** PASS / COMPLETE — 9/9 pages
+
+Checks completed against the locked source range:
+
+- [x] markers **25, 26, 27, 28, 29, 30, 31, 32, 33** each occur exactly once and in order;
+- [x] scan 25 contains the locked `உரை : 2 / நாள் : 4.3.1959` opening and speaker label;
+- [x] scan 33 contains the closing sentence and ornament;
+- [x] scan 34 is Speech 3 and is excluded;
+- [x] the C. Subramaniam intervention on scan 26 is represented in sequence;
+- [x] quoted passages and key figures are structurally represented;
+- [x] transitions **25→26, 26→27, 27→28, 28→29, 29→30, 30→31, 31→32, 32→33** show no omission or duplication;
+- [x] page furniture / running headers are not admitted as speech wording.
+
+**Completeness corrections applied:** 0.
+
+Gate D establishes structural completeness only; it is not a word-by-word fidelity certification.
+
 ## Verification status
 
 - Gate C — **COMPLETE**
-- Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **NOT STARTED / next**
 - Tamil `verified_against_scan` — **false**
 - English — **BLOCKED**
 
-Do not mark Tamil verified until Gate E has independently passed.
+Do not promote the Tamil to `verified` until Gate E independently passes.

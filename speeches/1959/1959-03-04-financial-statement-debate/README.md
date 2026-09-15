@@ -28,8 +28,8 @@
 - first-pass unresolved readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - Gate C.5 — **provisionally N/A** for modern 2007 typesetting; reopen if actual legacy-glyph evidence appears
-- Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 9/9 pages; 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 - English — **BLOCKED until Tamil verification**
 
 ## Files
@@ -39,6 +39,20 @@
 - [`source-notes.md`](./source-notes.md) — source authority and boundary policy
 - [`verification-log.md`](./verification-log.md) — Gate-C completion ledger
 
+## Gate D result
+
+**PASS / COMPLETE — 9/9 pages.**
+
+- markers **25→33** — exactly once and in order;
+- scan 25 opening / scan 33 close — PASS;
+- scan 34 begins Speech 3 and remains excluded;
+- C. Subramaniam intervention on scan 26 — represented;
+- quotations, figures and paragraph sequence — structurally complete;
+- transitions **25→26, 26→27, 27→28, 28→29, 29→30, 30→31, 31→32, 32→33** — no omission or duplication;
+- completeness corrections — **0**.
+
+Tamil remains **NOT VERIFIED**.
+
 ## Exact next activity
 
-Perform **Gate D Tamil completeness audit** for scans **25–33 / printed pp.24–32**. Do not begin Gate E, English, or Speech 3 in the same iteration.
+Perform **Gate E strict page-by-page visual source-fidelity verification** for scans **25–33 / printed pp.24–32**. Do not begin English or Speech 3 in the same iteration.

@@ -130,10 +130,16 @@ Reader/work entry:
 - unresolved first-pass readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - Gate C.5 — **provisionally N/A**
-- Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 9/9 pages; 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 - English — **BLOCKED**
+
+## Speech 2 Gate D result
+
+**PASS / COMPLETE — 9/9 pages; 0 completeness corrections.**
+
+Markers 25→33 are unique/ordered; start/end boundaries, the scan-26 intervention, quotations, figures and all page transitions are structurally complete. Tamil remains not verified.
 
 ## Exact next activity
 
-Perform **Speech 2 Gate D Tamil completeness audit**, scans **25–33 / printed pp.24–32**. Do not begin Gate E, English, or Speech 3 in the same iteration.
+Perform **Speech 2 Gate E strict page-by-page visual source-fidelity verification**, scans **25–33 / printed pp.24–32**. Do not begin English or Speech 3 in the same iteration.

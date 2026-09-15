@@ -83,8 +83,8 @@ Treat this 2007 anthology as its own witness.
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speech 1 CLOSED; Speech 2 COMPLETE — 9/9 pages, scans 25–33**
 - Gate C.5 — **N/A / CLOSED for Speech 1**
-- Gate D — **Speech 1 PASS / COMPLETE**
-- Gate E — **Speech 1 PASS / COMPLETE / Tamil VERIFIED**
+- Gate D — **Speech 1 PASS / COMPLETE; Speech 2 PASS / COMPLETE — 9/9 pages, 0 completeness corrections**
+- Gate E — **Speech 1 PASS / COMPLETE / Tamil VERIFIED; Speech 2 NOT STARTED / next**
 - Gate F — **Speech 1 COMPLETE — 7/7 English pages**
 - Gate G — **Speech 1 PASS / COMPLETE — 7/7 pages; 10 refinements; 0 blockers; English VERIFIED**
 - Gate H — **Speech 1 PASS / COMPLETE — RELEASED / CLOSED**
@@ -186,6 +186,18 @@ Canonical working entry:
 
 Gate C preserved the C. Subramaniam intervention, quoted material, all printed figures, and every page-spanning continuation through the scan-33 close.
 
+## Speech 2 Gate-D result
+
+Gate D is **PASS / COMPLETE**.
+
+- markers **25→33** — exactly once and in order;
+- start/end boundaries — PASS;
+- scan-26 C. Subramaniam intervention — represented;
+- quotations / figures / paragraph order — structurally complete;
+- transitions **25→26, 26→27, 27→28, 28→29, 29→30, 30→31, 31→32, 32→33** — PASS;
+- completeness corrections — **0**;
+- Tamil remains **NOT VERIFIED**.
+
 ## Exact next activity
 
-Perform **Speech 2 Gate D completeness audit** for scans **25–33 / printed pp.24–32**. Confirm all nine page markers, start/end boundaries, intervention, quotations, figures and transitions. Do **not** begin Gate E, English, or Speech 3 in the same iteration.
+Perform **Speech 2 Gate E strict page-by-page visual source-fidelity verification** for scans **25–33 / printed pp.24–32**. Check every word/character, names, numerals, punctuation, quotations, intervention and page transitions against the rendered source pixels. Do **not** begin English or Speech 3 in the same iteration.

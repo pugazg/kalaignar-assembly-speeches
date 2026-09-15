@@ -2,7 +2,7 @@
 
 **நாள் : 4.3.1959**
 
-> **Transcription state:** Gate C first-pass complete for scans 25–33 / printed pp.24–32. This is a source-faithful first pass, not yet a verified text. Rendered scan pixels are authoritative. Physical line wrapping has been normalised into paragraphs; source wording, punctuation, numerals, quotations, speaker labels and interventions are otherwise preserved.
+> **Transcription state:** Gate C first-pass and Gate D completeness audit are complete for scans 25–33 / printed pp.24–32. All nine source-page markers are present exactly once and in order; start/end boundaries, the C. Subramaniam intervention, quotations, figures and every page transition are structurally complete. Gate D required **0 completeness corrections**. Tamil remains **NOT VERIFIED** until Gate E strict visual source-fidelity review passes.
 
 <!-- source-page: 25 -->
 
