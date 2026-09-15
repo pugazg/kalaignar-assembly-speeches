@@ -2,7 +2,7 @@
 
 **நாள் : 5.3.1958**
 
-> **Current state:** Tamil Gates C–E are complete for scans 18–24 / printed pp.17–23; Tamil is **VERIFIED** with 9 Gate-E corrections and 0 unresolved readings. Gate F English first pass is now **COMPLETE — 7/7 pages** in `translation.md`, translated only from this verified Tamil. English is **NOT YET VERIFIED**; Gate G full page-by-page fidelity/voice review is next.
+> **Current state:** Tamil Gates C–E are complete for scans 18–24 / printed pp.17–23; Tamil is **VERIFIED** with 9 Gate-E corrections and 0 unresolved readings. Gate F English first pass is complete and Gate G is **PASS / COMPLETE — 7/7 pages, 10 English refinements, 0 blockers, 0 Tamil changes**. English `verified_against_tamil=true`. Gate H canonical merge/index/release is next.
 
 <!-- source-page: 18 -->
 

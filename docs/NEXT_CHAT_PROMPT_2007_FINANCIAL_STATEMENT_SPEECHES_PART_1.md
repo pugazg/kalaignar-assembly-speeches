@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 1 Gate G
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 1 Gate H
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,29 +12,25 @@ Path: `speeches/1958/1958-03-05-financial-statement-debate/`
 - printed pages — **17–23**
 - Gate C — **COMPLETE**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **PASS / COMPLETE / 9 corrections / Tamil VERIFIED**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED**
 - Gate F — **COMPLETE / 7 of 7 English pages**
-- English `verified_against_tamil` — **false**
-- Gate G — **NOT STARTED / next**
-- Gate H — **NOT STARTED**
+- Gate G — **PASS / COMPLETE / 10 refinements / 0 blockers**
+- English `verified_against_tamil` — **true**
+- Gate H — **NOT STARTED / next**
 
 ## Exact next activity
 
-Perform **Gate G full English fidelity and voice review** for all seven pages.
-
-Use only:
-- verified Tamil in `transcript.md`;
-- Gate-F English in `translation.md`.
+Perform **Gate H canonical merge / index / release closure for Speech 1**.
 
 Requirements:
-1. compare page by page for omissions/additions and semantic drift;
-2. preserve all three C. Subramaniam interventions;
-3. check quotations, figures, page transitions and rhetorical sequence;
-4. preserve humour/wordplay, especially the cat/kitten/mouse image, authority/intoxication → prohibition exchange, and Deivanai/Valli/Subramaniam close;
-5. do not import wording from OCR, web, Official Reports or other anthologies;
-6. refine English only where verified Tamil supports it;
-7. create/update `translation-review.md` with every refinement and blocker;
-8. if all pages pass, set English `verified_against_tamil=true`;
-9. do not begin Gate H or Speech 2 in the same iteration.
 
-Expected continuation: **Gate H canonical merge/index/release for Speech 1**.
+1. do not reopen verified Tamil or Gate-G English unless a concrete internal inconsistency is found;
+2. verify final consistency across `transcript.md`, `translation.md`, `translation-review.md`, `metadata.json`, `README.md`, `source-notes.md`, `verification-log.md`, anthology mapping/source README, handover and root README;
+3. confirm source-page markers **18→24** occur exactly once and in order in both Tamil and English;
+4. preserve the working archival slug `financial-statement-debate` as a neutral subject label, not an asserted official motion title;
+5. determine whether this speech should be added to canonical dated indexes / `data/speeches.json` under established repository conventions;
+6. if canonical bilingual transcript merge is the repository convention, perform it without changing verified wording;
+7. record final release disposition and synchronize all status surfaces;
+8. do not begin Speech 2 in the same iteration.
+
+If all closure checks pass, mark Gate H **PASS / COMPLETE** and Speech 1 **RELEASED / CLOSED**.

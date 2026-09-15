@@ -81,8 +81,9 @@ Reader/work entry:
 - Tamil — **VERIFIED / verified_against_scan=true**
 - Gate D — **PASS / COMPLETE — 7/7 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 7/7 pages; 9 source-fidelity corrections; 0 unresolved readings**
-- Gate F English — **COMPLETE / 7 of 7 pages; NOT YET VERIFIED**
-- Gate G — **NOT STARTED / next**
+- Gate F English — **COMPLETE / 7 of 7 pages**
+- Gate G — **PASS / COMPLETE — 7/7 pages; 10 refinements; 0 blockers**
+- English — **VERIFIED AGAINST TAMIL**
 
 ## Speech 1 Tamil verification closure
 
@@ -96,12 +97,20 @@ Gate C and Gate D remain complete. Gate E is **PASS / COMPLETE — 7/7 pages**.
 
 Correction sites: scan 19 ×2, scan 20 ×4, scan 23 ×1, scan 24 ×2. Full details are in the speech `verification-log.md`.
 
-## Gate F result for Speech 1
+## Gate F / Gate G closure for Speech 1
 
-**COMPLETE — 7/7 pages.**
+Gate F is **COMPLETE — 7/7 pages**.
 
-The working first-pass English is in the speech entry's `translation.md`. It was translated only from verified Tamil; outside wording was not used. English `verified_against_tamil=false`.
+Gate G is **PASS / COMPLETE — 7/7 pages**:
+
+- English refinements — **10**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- English `verified_against_tamil=true`
+- outside wording — **none**
+
+The detailed Gate-G ledger is in `speeches/1958/1958-03-05-financial-statement-debate/translation-review.md`.
 
 ## Exact next activity
 
-Perform **Gate G full English fidelity and voice review** against the verified Tamil for scans **18–24 / printed pp.17–23**. Do not begin Speech 2 in the same iteration.
+Perform **Gate H canonical merge / index / release closure for Speech 1**. Do not begin Speech 2 in the same iteration.

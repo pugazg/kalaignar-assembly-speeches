@@ -86,7 +86,7 @@ Treat this 2007 anthology as its own witness.
 - Gate D — **Speech 1 PASS / COMPLETE**
 - Gate E — **Speech 1 PASS / COMPLETE / Tamil VERIFIED**
 - Gate F — **Speech 1 COMPLETE — 7/7 English pages**
-- Gate G — **Speech 1 NOT STARTED / next**
+- Gate G — **Speech 1 PASS / COMPLETE — 7/7 pages; 10 refinements; 0 blockers; English VERIFIED**
 - Gate H — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
@@ -105,7 +105,7 @@ Gate C is **COMPLETE**:
 - Gate C.5 — **provisionally N/A** for modern 2007 typesetting; reopen only if actual glyph evidence requires it
 - Gate D — **PASS / COMPLETE — 7/7 pages, 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 7/7 pages; 9 corrections; 0 unresolved readings**
-- English — **Gate F COMPLETE / NOT YET VERIFIED**
+- English — **VERIFIED AGAINST TAMIL**
 
 The first pass preserved the speaker label, all three C. Subramaniam interventions, quotations, figures, and page-spanning continuations. No outside source supplied wording.
 
@@ -139,12 +139,23 @@ Corrections:
 - scan 23 — `சுவிட்ஜர்லாண்டை`;
 - scan 24 — `வடக்கு என்ற வள்ளி வேண்டாம்`, `தெரிவித்துக் கொண்டு`.
 
-## Speech 1 Gate-F result
+## Speech 1 Gate-F / Gate-G result
 
 Gate F is **COMPLETE — 7/7 pages**.
 
-The working English is in `speeches/1958/1958-03-05-financial-statement-debate/translation.md`. It was translated only from the verified Tamil, with all three interventions, quotations, figures, rhetoric and wordplay retained. English remains `verified_against_tamil=false`.
+Gate G is **PASS / COMPLETE — 7/7 pages**.
+
+- refinements — **10**
+- blocking fidelity issues — **0**
+- Tamil changes — **0**
+- English `verified_against_tamil=true`
+- all three C. Subramaniam interventions — PASS
+- quotations, figures, page transitions and source claims — PASS
+- humour/wordplay — PASS
+- outside wording — **none**
+
+The detailed audit is in `speeches/1958/1958-03-05-financial-statement-debate/translation-review.md`.
 
 ## Exact next activity
 
-Perform **Gate G full English fidelity and voice review** for scans **18–24 / printed pp.17–23** against the final verified Tamil. Record all refinements in a translation-review audit. Do not begin Speech 2 in the same iteration.
+Perform **Gate H canonical merge / index / release closure for Speech 1**. Do not begin Speech 2 in the same iteration.

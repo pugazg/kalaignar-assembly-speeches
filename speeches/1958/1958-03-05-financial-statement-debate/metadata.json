@@ -75,11 +75,11 @@
   },
   "translation": {
     "language": "English",
-    "status": "translated",
+    "status": "verified",
     "blocked_until_tamil_verified": false,
-    "verified_against_tamil": false,
+    "verified_against_tamil": true,
     "source_text": "final Gate-E-verified Tamil transcript",
-    "next_gate": "G",
+    "next_gate": "H",
     "tamil_gate_satisfied": true,
     "type": "faithful reading translation",
     "placement": "working translation.md until Gate H canonical merge",
@@ -87,6 +87,13 @@
     "translated_page_count": 7,
     "gate_f_status": "complete",
     "gate_f_blocking_questions": 0,
-    "verification_note": "Gate F first-pass English is complete for all seven verified Tamil pages. It preserves page sequence, all three C. Subramaniam interventions, quotations, figures, source claims, humour and rhetorical contrasts. No OCR, web, Official Report or alternate-anthology wording supplied the English. Gate G page-by-page fidelity/voice review is still required."
+    "verification_note": "Gate G PASS / COMPLETE: all seven English pages were reviewed page by page against the final verified Tamil. Ten reader-facing fidelity/voice refinements were applied, with 0 blockers and 0 Tamil changes. Quotations, figures, all three C. Subramaniam interventions, page transitions, source claims and humour/wordplay pass. No OCR, web, Official Report or alternate-anthology wording was used. English verified_against_tamil=true. Gate H is next.",
+    "gate_g_status": "pass-complete",
+    "gate_g_reviewed_source_pages": "18-24",
+    "gate_g_reviewed_page_count": 7,
+    "gate_g_refinement_count": 10,
+    "gate_g_blocking_fidelity_issues": 0,
+    "gate_g_tamil_changes": 0,
+    "gate_h_status": "not-started"
   }
 }

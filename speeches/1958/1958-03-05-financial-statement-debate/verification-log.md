@@ -151,3 +151,47 @@ Gate F is a first-pass translation stage. English is **not verified** until Gate
 - Gate G — **NOT STARTED / next**
 
 Exact next: **Gate G full English fidelity and voice review for scans 18–24**.
+
+
+## Gate G — English fidelity and voice review
+
+**Status:** PASS / COMPLETE — 7/7 pages
+
+Review authority:
+
+- verified Tamil in `transcript.md`;
+- Gate-F English in `translation.md`.
+
+No OCR, web copy, Official Report or alternate anthology was used to supply English wording.
+
+### Refinements applied
+
+1. **scan 20** — `Contrary to what the members may actually have thought` → **`Contrary to what the members may have thought`**, removing an unnecessary intensifier not carried by `நினைத்தபடி இல்லாமல்`.
+2. **scan 21** — `idle and helpless` → **`idle and inactive`** for `சோம்பி முடங்கிக்`.
+3. **scan 21** — `under the intoxication of authority` → **`intoxicated with power`** for `அதிகார மயக்கம்`, preserving the setup for the prohibition reply.
+4. **scan 22** — `the southern eastern coast here` → **`the eastern coast at our southern tip`** for `இங்குள்ள தென்கோடி கீழ் கடற்கரை`.
+5. **scan 22** — `remain subservient to them` → **`remain enslaved to them`** for the stronger source form `அடிமைப்பட்டுக்`.
+6. **scan 22** — `wait upon them` → **`depend on them`** for `அவர்களை எதிர்பார்த்துக் கொண்டிருக்க`.
+7. **scan 23** — `sound and prosperous schemes` → **`sound and productive schemes`** for `நல்ல வளமான திட்டங்கள்`.
+8. **scan 23** — `pouring out taxes in enormous heaps` → **`pouring out taxes in heaps upon heaps`**, preserving the repetition in `கொள்ளை கொள்ளையாக`.
+9. **scan 24** — `the one who receives for the funeral fire asks in a voice of authority` → **`the one who takes money for the funeral fire demands it in a commanding voice`**, sharpening `வாங்குகிறவன் அதிகாரக் குரலில் கேட்பான்`.
+10. **scan 24** — `This, however, is the voice of a slave` → **`Ours, however, is the voice of a slave`**, making the source contrast in `இதுவோ அடிமைக்குரல்` explicit in English.
+
+### Checks passing without change
+
+- source-page markers **18→24**;
+- all three C. Subramaniam interventions;
+- Tirukkural quotations and the Harischandra-drama quotation;
+- fertiliser quantities and all monetary/income figures;
+- page transitions **18→19, 19→20, 20→21, 21→22, 22→23, 23→24**;
+- cat/kitten/mouse analogy;
+- authority/intoxication → prohibition wordplay;
+- Deivanai / Valli / Subramaniam closing wordplay;
+- historical and political claims retained as source claims;
+- verified Tamil changes — **0**.
+
+**Gate-G refinements:** 10.  
+**Blocking fidelity issues:** 0.  
+**English `verified_against_tamil`: true.**
+
+Exact next: **Gate H canonical merge / index / release closure for Speech 1**.
