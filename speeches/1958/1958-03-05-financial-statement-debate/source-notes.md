@@ -52,7 +52,9 @@ Thus scan 18 = printed 17 and scan 24 = printed 23.
 
 First-pass unresolved readings: **0**.
 
-This does **not** mean the text is verified. Gate D completeness audit and Gate E strict word-by-word visual fidelity remain outstanding.
+Gate D completeness audit is now **PASS / COMPLETE**. It confirmed all seven markers, locked boundaries, all three C. Subramaniam interventions, quotations, figures and page transitions; **0 completeness corrections** were required.
+
+This still does **not** mean the text is verified. Gate E strict word-by-word visual fidelity remains outstanding.
 
 ## Historical-glyph gate
 

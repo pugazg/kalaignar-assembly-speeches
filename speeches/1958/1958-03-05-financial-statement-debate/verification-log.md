@@ -38,12 +38,32 @@ Preserved during Gate C:
 
 First-pass unresolved readings: **0**.
 
+## Gate D — Tamil completeness audit
+
+**Status:** PASS / COMPLETE
+
+Checks completed against the locked range and rendered source pages:
+
+- [x] markers **18, 19, 20, 21, 22, 23, 24** each occur exactly once and in order;
+- [x] no source page is skipped, duplicated or represented outside the locked range;
+- [x] scan 18 contains the locked `உரை : 1 / நாள் : 5.3.1958` opening and speaker label;
+- [x] scan 24 contains the speech close `என்னுடைய உரையை முடித்துக் கொள்கிறேன்.` and closing ornament;
+- [x] scan 25 is Speech 2 and is excluded;
+- [x] all **three** `மாண்புமிகு திரு. சி. சுப்பிரமணியம்` interventions are represented in sequence;
+- [x] major quotations are represented, including both Tirukkural passages and the Arichandra-drama quotation;
+- [x] key figures are structurally represented, including `140,000`, `35 கோடி`, `465`, `600`, `4,000`, `270`;
+- [x] transitions **18→19, 19→20, 20→21, 21→22, 22→23, 23→24** show no structural omission or duplication;
+- [x] running headers/page furniture and the closing ornament are not admitted as speech text.
+
+**Completeness corrections applied:** 0.
+
+Gate D establishes structural completeness only; it is not a word-by-word fidelity certification.
+
 ## Verification status
 
-Gate C completion is **not verification**.
-
-- Gate D completeness audit — **NOT STARTED / next**
-- Gate E strict visual source-fidelity verification — **NOT STARTED**
+- Gate C — **COMPLETE**
+- Gate D — **PASS / COMPLETE**
+- Gate E strict visual source-fidelity verification — **NOT STARTED / next**
 - Tamil `verified_against_scan` — **false**
 - English — **BLOCKED**
 

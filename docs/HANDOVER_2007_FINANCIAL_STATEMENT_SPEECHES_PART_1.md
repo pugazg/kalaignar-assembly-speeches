@@ -99,14 +99,26 @@ Gate C is **COMPLETE**:
 - unresolved first-pass readings — **0**
 - Tamil status — **transcribed / NOT VERIFIED**
 - Gate C.5 — **provisionally N/A** for modern 2007 typesetting; reopen only if actual glyph evidence requires it
-- Gate D — **NOT STARTED**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 7/7 pages, 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 - English — **BLOCKED**
 
 The first pass preserved the speaker label, all three C. Subramaniam interventions, quotations, figures, and page-spanning continuations. No outside source supplied wording.
 
+## Speech 1 Gate-D result
+
+Gate D is **PASS / COMPLETE**.
+
+- markers **18→24** — exactly once and in order;
+- start/end boundaries — PASS;
+- all three C. Subramaniam interventions — represented;
+- quotations / figures / paragraph order — structurally complete;
+- transitions **18→19, 19→20, 20→21, 21→22, 22→23, 23→24** — PASS;
+- completeness corrections — **0**;
+- Tamil remains **NOT VERIFIED**.
+
 ## Exact next activity
 
-Perform **Gate D completeness audit for Speech 1**, scans **18–24 / printed pp.17–23**.
+Perform **Gate E strict page-by-page visual source-fidelity verification** for Speech 1, scans **18–24 / printed pp.17–23**.
 
-Confirm all seven markers exactly once/in order, start/end boundary, interventions, quotations, figures, and continuations **18→19, 19→20, 20→21, 21→22, 22→23, 23→24**. Record any completeness corrections. Do **not** begin Gate E, English, or Speech 2 in the same iteration.
+Check every word/character, names/initials, numerals, punctuation, quotations, speaker labels/interventions and page transitions against the rendered source pixels. Apply only source-supported corrections and record each in `verification-log.md`. Do **not** begin English or Speech 2 in the same iteration.

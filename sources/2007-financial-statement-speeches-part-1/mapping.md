@@ -113,11 +113,14 @@ Released material remains locked. This anthology must be processed as an indepen
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speech 1 COMPLETE — scans 18–24 / 7 of 7 pages; remaining speeches not started**
+- Gate D — **Speech 1 PASS / COMPLETE — 0 completeness corrections**
 - Gate C.5 — **provisionally N/A for this modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
 - Gates D–H — **NOT STARTED**
 
 ## Exact continuation
 
-Speech 1 / 5.3.1958 Gate C is **COMPLETE — 7/7 pages**. Exact next: **Gate D completeness audit for scans 18–24 / printed pp.17–23**.
+Speech 1 / 5.3.1958 Gate C is **COMPLETE** and Gate D is **PASS / COMPLETE — 0 completeness corrections**.
 
-Do not start Speech 2 merely to fill an iteration. Gate E and English remain downstream.
+Exact next: **Gate E strict visual source-fidelity verification for scans 18–24 / printed pp.17–23**.
+
+Do not start Speech 2 or English in the same iteration.

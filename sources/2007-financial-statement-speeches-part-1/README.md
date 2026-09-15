@@ -79,10 +79,16 @@ Reader/work entry:
 - source markers — **18→24 exactly once in first-pass transcript**
 - unresolved first-pass readings — **0**
 - Tamil — **transcribed / NOT VERIFIED**
-- Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 7/7 pages; 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 - English — **BLOCKED**
+
+## Gate D result for Speech 1
+
+**PASS / COMPLETE — 7/7 pages, 0 completeness corrections.**
+
+Markers 18→24 are unique and ordered; start/end boundaries, all three C. Subramaniam interventions, quotations, figures and page transitions are structurally complete. Tamil is still **not verified**.
 
 ## Exact next activity
 
-Perform **Gate D Tamil completeness audit** for Speech 1, scans **18–24 / printed pp.17–23**. Check page-marker coverage/order, start/end boundary, all interventions/quotations/figures, and every page transition. Do not begin Gate E or English in the same iteration.
+Perform **Gate E strict visual source-fidelity verification** for Speech 1, scans **18–24 / printed pp.17–23**. Do not begin English or Speech 2 in the same iteration.
