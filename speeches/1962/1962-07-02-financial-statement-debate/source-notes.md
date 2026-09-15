@@ -41,3 +41,17 @@ The M. Bhaktavatsalam intervention, the Finance Commission quotation, all figure
 ## Historical-glyph gate
 
 This is modern 2007 typesetting. Gate C.5 is **N/A / CLOSED** for this speech; Gate E found no historical/reform-sensitive glyph anomaly.
+
+
+## Gate F — English first-pass translation
+
+- status — **COMPLETE / 11 of 11 pages**
+- authority — final verified Tamil only
+- source-page sequence — **49→59**
+- M. Bhaktavatsalam intervention / Finance Commission quotation — preserved
+- verified `பூவாங்க` — conservatively transliterated as **Poovanga**
+- verified `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` — retained conservatively without outside gloss
+- outside wording — **none**
+- blocking translation questions — **0**
+- English — **FIRST-PASS / NOT YET VERIFIED**
+- Gate G — **next**

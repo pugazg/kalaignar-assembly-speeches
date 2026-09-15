@@ -219,39 +219,37 @@ Canonical bilingual transcript and dated indexes are synchronized. Full English 
 ## Speech 4 current state
 
 - Gate C — **COMPLETE / 6 of 6 pages**
-- scans — **43–48 / printed pp.42–47**
-- source markers — **43→48 exactly once**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate D — **PASS / COMPLETE — 6/6 pages; 0 completeness corrections**
-- Gate E — **PASS / COMPLETE — 6/6 pages; 6 source-fidelity corrections; 0 unresolved readings**
-- Gate C.5 — **N/A / CLOSED**
-- English — **NOT STARTED / Gate F next**
+- Gate D — **PASS / COMPLETE / 0 completeness corrections**
+- Gate E — **PASS / COMPLETE / 6 source-fidelity corrections / 0 unresolved**
+- Tamil — **VERIFIED**
+- Gate F — **COMPLETE / 6 of 6 English pages**
+- English — **FIRST-PASS / NOT YET VERIFIED**
+- Gate G — **NOT STARTED / next**
 
 ## Speech 5 current state
 
 - Gate C — **COMPLETE / 11 of 11 pages**
-- scans — **49–59 / printed pp.48–58**
-- source markers — **49→59 exactly once**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate D — **PASS / COMPLETE — 11/11 pages; 0 completeness corrections**
-- Gate E — **PASS / COMPLETE — 11/11 pages; 10 source-fidelity corrections; 0 unresolved readings**
-- Gate C.5 — **N/A / CLOSED**
-- English — **NOT STARTED / Gate F next**
+- Gate D — **PASS / COMPLETE / 0 completeness corrections**
+- Gate E — **PASS / COMPLETE / 10 source-fidelity corrections / 0 unresolved**
+- Tamil — **VERIFIED**
+- Gate F — **COMPLETE / 11 of 11 English pages**
+- English — **FIRST-PASS / NOT YET VERIFIED**
+- Gate G — **NOT STARTED / next**
 
-Gate-E batch total: **17 source pages / 16 source-fidelity corrections / 0 unresolved readings**. Speech 6 / 7.3.1963 remains deferred by the whole-speech 25-page rule.
+Gate-F batch total: **17/17 English pages translated from verified Tamil only**. Speech 6 remains deferred by the whole-speech 25-page rule.
 
-## Speeches 4–5 Gate E closure
+## Speeches 4–5 Gate F closure
 
-**PASS / COMPLETE — 17/17 pages; Tamil VERIFIED for both speeches.**
+**COMPLETE — 17/17 pages.**
 
-- Speech 4 corrections — **6**
-- Speech 5 corrections — **10**
-- cumulative corrections — **16**
-- unresolved readings — **0**
-- hard speech boundary **48→49** — PASS
-- scan 60 — confirmed as Speech 6 and excluded
-- historical/reform-sensitive glyph anomalies — **none**
+- Speech 4 — **6/6 English pages**
+- Speech 5 — **11/11 English pages**
+- source-printed English in Speech 4 scan 48 — preserved verbatim
+- hard boundary **48→49** — preserved
+- outside wording from OCR / web / Official Reports / alternate anthologies — **none**
+- blocking translation questions — **0**
+- English `verified_against_tamil=false` for both until Gate G
 
 ## Exact next activity
 
-Perform **Gate F English translation for Speeches 4 and 5 together**, all **17 verified Tamil pages / scans 43–59**. Do not begin Gate G in the same iteration.
+Perform **Gate G full English fidelity and voice review for Speeches 4 and 5 together**, scans **43–59**. Do not begin Gate H in the same iteration.

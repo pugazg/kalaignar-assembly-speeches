@@ -92,3 +92,21 @@ Gate D establishes structural completeness only; it is not word-by-word fidelity
 - Gate E — **PASS / COMPLETE**
 - Tamil — **VERIFIED**
 - English — **NOT STARTED / Gate F next**
+
+
+## Gate F — English first-pass translation
+
+**Status:** COMPLETE — 6/6 pages
+
+- [x] translated only from final Gate-E-verified Tamil;
+- [x] source-page sequence **43→48** preserved;
+- [x] scan-48 source-printed English preserved exactly;
+- [x] all interventions retained in order;
+- [x] dates, quantities, percentages and named schemes retained;
+- [x] source-era political claims preserved without outside correction;
+- [x] OCR / web / Official Report / alternate-anthology wording used — **none**.
+
+**Blocking translation questions:** 0.  
+**English `verified_against_tamil`: false.**
+
+Gate F is a first-pass translation gate. Gate G must independently review fidelity and voice before English can be marked verified.

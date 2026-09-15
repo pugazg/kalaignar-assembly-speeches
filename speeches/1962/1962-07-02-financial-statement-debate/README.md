@@ -30,14 +30,18 @@
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no historical-glyph anomaly found**
 - Gate D — **PASS / COMPLETE — 11/11 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 11/11 pages; 10 source-fidelity corrections; 0 unresolved readings**
-- English — **NOT STARTED / Gate F next**
+- Gate F English — **COMPLETE / 11 of 11 pages**
+- English — **FIRST-PASS / NOT YET VERIFIED**
+- Gate G — **NOT STARTED / next**
 
 ## Files
 
 - [`transcript.md`](./transcript.md) — Gate-C first-pass Tamil
 - [`metadata.json`](./metadata.json) — source and workflow state
 - [`source-notes.md`](./source-notes.md) — source authority and boundary policy
-- [`verification-log.md`](./verification-log.md) — Gate-C completion ledger
+- [`verification-log.md`](./verification-log.md) — Tamil and English workflow ledger
+- [`translation.md`](./translation.md) — Gate-F English first-pass translation
+- [`translation-review.md`](./translation-review.md) — English Gate-F/G review record
 
 ## Gate D result
 
@@ -75,6 +79,21 @@ All remaining wording, figures, quotations, intervention text and page transitio
 
 Unresolved readings: **0**.
 
+## Gate F result
+
+**COMPLETE — 11/11 English pages.**
+
+- authority — final Gate-E-verified Tamil only;
+- translated source pages — **49→59**;
+- M. Bhaktavatsalam intervention — preserved in source position;
+- Finance Commission quotation across 54→55 — preserved;
+- figures, rates, quantities, company names, rhetorical examples and source-era claims — retained without outside correction;
+- verified Tamil term `பூவாங்க` — conservatively transliterated as **Poovanga**, without outside identification;
+- verified phrase `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` — conservatively retained with `thumbai` rather than importing an outside gloss;
+- OCR / web / Official Reports / alternate anthologies used for wording — **none**;
+- blocking translation questions — **0**;
+- English `verified_against_tamil=false` until Gate G.
+
 ## Exact next activity
 
-Begin **Gate F English translation** from the final verified Tamil, all scans **49–59**.
+Perform **Gate G full English fidelity and voice review** for scans **49–59**, comparing `translation.md` only against the final verified Tamil.

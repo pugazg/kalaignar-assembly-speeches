@@ -311,32 +311,28 @@ Speech 3 / 16.3.1960 is **RELEASED / CLOSED**.
 - root and machine-readable dated indexes — synchronized;
 - Gate-H wording changes — 0.
 
-## Speech 4 Gate-C / Gate-D / Gate-E state
+## Speech 4 current durable state
 
 - path — `speeches/1961/1961-03-06-financial-statement-debate/`
-- scans **43–48 / printed pp.42–47**
-- Gate C — **COMPLETE / 6 of 6**
-- Gate D — **PASS / COMPLETE / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / 6 source-fidelity corrections / 0 unresolved**
-- Tamil — **VERIFIED**
-- `verified_against_scan=true`
-- Gate C.5 — **N/A / CLOSED**
-- English — **NOT STARTED / Gate F next**
+- scans **43–48**
+- Tamil Gates C–E — **COMPLETE / VERIFIED**
+- Gate F — **COMPLETE / 6/6 English pages**
+- source-printed English scan 48 — preserved exactly
+- English — **FIRST-PASS / NOT YET VERIFIED**
+- Gate G — **NOT STARTED / next**
 
-## Speech 5 Gate-C / Gate-D / Gate-E state
+## Speech 5 current durable state
 
 - path — `speeches/1962/1962-07-02-financial-statement-debate/`
-- scans **49–59 / printed pp.48–58**
-- Gate C — **COMPLETE / 11 of 11**
-- Gate D — **PASS / COMPLETE / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / 10 source-fidelity corrections / 0 unresolved**
-- Tamil — **VERIFIED**
-- `verified_against_scan=true`
-- Gate C.5 — **N/A / CLOSED**
-- English — **NOT STARTED / Gate F next**
+- scans **49–59**
+- Tamil Gates C–E — **COMPLETE / VERIFIED**
+- Gate F — **COMPLETE / 11/11 English pages**
+- English — **FIRST-PASS / NOT YET VERIFIED**
+- Gate G — **NOT STARTED / next**
+- `பூவாங்க` and `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` handled conservatively without outside identification/glossing
 
-Combined Gate-E activity: **17 pages / 16 corrections / 0 unresolved readings**. Hard boundary **48→49** passed; scan 60 is Speech 6 and remains excluded. Speech 6 stays deferred by the whole-speech 25-page rule.
+Combined Gate-F activity: **17/17 English pages**. No OCR, web, Official Report or alternate-anthology wording supplied English. Speech 6 remains deferred under the 25-page whole-speech rule.
 
 ## Exact next activity
 
-Perform **Gate F English translation for Speech 4 and Speech 5 together**, all **17 verified Tamil pages / scans 43–59**. Translate only from the verified Tamil. Do not begin Gate G in the same iteration.
+Perform **Gate G full English fidelity and voice review for Speech 4 and Speech 5 together**, scans **43–59**, comparing only each Gate-F English translation against its final verified Tamil. Do not begin Gate H in the same iteration.

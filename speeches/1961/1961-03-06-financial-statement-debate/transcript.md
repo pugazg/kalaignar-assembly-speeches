@@ -2,7 +2,7 @@
 
 **நாள் : 6.3.1961**
 
-> **Transcription state:** Gates C, D and E are complete for scans 43–48 / printed pp.42–47. Gate E re-read all six pages directly against rendered source pixels and applied **6 source-fidelity corrections**; unresolved readings: **0**. Tamil is now **VERIFIED** and `verified_against_scan=true`. Gate C.5 is N/A / CLOSED for this modern 2007 typesetting; no historical/reform-sensitive glyph anomaly was found. English is not started; Gate F is next.
+> **Workflow state:** Tamil Gates C–E are complete and Tamil is **VERIFIED** for scans 43–48, with 6 Gate-E corrections / 0 unresolved readings. Gate F English first pass is now **COMPLETE — 6/6 pages**, translated only from the verified Tamil. English is **FIRST-PASS / NOT YET VERIFIED**; Gate G fidelity/voice review is next. Gate C.5 is N/A / CLOSED.
 
 <!-- source-page: 43 -->
 

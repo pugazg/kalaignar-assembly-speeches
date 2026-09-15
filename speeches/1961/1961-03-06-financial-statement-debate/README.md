@@ -30,14 +30,18 @@
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no historical-glyph anomaly found**
 - Gate D — **PASS / COMPLETE — 6/6 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 6/6 pages; 6 source-fidelity corrections; 0 unresolved readings**
-- English — **NOT STARTED / Gate F next**
+- Gate F English — **COMPLETE / 6 of 6 pages**
+- English — **FIRST-PASS / NOT YET VERIFIED**
+- Gate G — **NOT STARTED / next**
 
 ## Files
 
 - [`transcript.md`](./transcript.md) — Gate-C first-pass Tamil
 - [`metadata.json`](./metadata.json) — source and workflow state
 - [`source-notes.md`](./source-notes.md) — source authority and boundary policy
-- [`verification-log.md`](./verification-log.md) — Gate-C completion ledger
+- [`verification-log.md`](./verification-log.md) — Tamil and English workflow ledger
+- [`translation.md`](./translation.md) — Gate-F English first-pass translation
+- [`translation-review.md`](./translation-review.md) — English Gate-F/G review record
 
 ## Gate D result
 
@@ -72,6 +76,19 @@ All remaining wording, figures, interventions, source-printed English and page t
 
 Unresolved readings: **0**.
 
+## Gate F result
+
+**COMPLETE — 6/6 English pages.**
+
+- authority — final Gate-E-verified Tamil only;
+- translated source pages — **43→48**;
+- source-printed English on scan 48 — **preserved verbatim**;
+- interventions — preserved in source order;
+- figures, quotations, political claims and rhetoric — retained without outside correction;
+- OCR / web / Official Reports / alternate anthologies used for wording — **none**;
+- blocking translation questions — **0**;
+- English `verified_against_tamil=false` until Gate G.
+
 ## Exact next activity
 
-Begin **Gate F English translation** from the final verified Tamil, all scans **43–48**.
+Perform **Gate G full English fidelity and voice review** for scans **43–48**, comparing `translation.md` only against the final verified Tamil.

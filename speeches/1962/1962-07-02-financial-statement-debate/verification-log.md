@@ -99,3 +99,23 @@ Gate D establishes structural completeness only; it is not word-by-word fidelity
 - Gate E — **PASS / COMPLETE**
 - Tamil — **VERIFIED**
 - English — **NOT STARTED / Gate F next**
+
+
+## Gate F — English first-pass translation
+
+**Status:** COMPLETE — 11/11 pages
+
+- [x] translated only from final Gate-E-verified Tamil;
+- [x] source-page sequence **49→59** preserved;
+- [x] M. Bhaktavatsalam intervention retained in source order;
+- [x] Finance Commission quotation across **54→55** retained;
+- [x] figures, rates, quantities and company references retained;
+- [x] source-era political/economic claims preserved without outside correction;
+- [x] `பூவாங்க` conservatively transliterated rather than externally identified;
+- [x] `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` conservatively retained rather than externally glossed;
+- [x] OCR / web / Official Report / alternate-anthology wording used — **none**.
+
+**Blocking translation questions:** 0.  
+**English `verified_against_tamil`: false.**
+
+Gate F is a first-pass translation gate. Gate G must independently review fidelity and voice before English can be marked verified.

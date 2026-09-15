@@ -57,7 +57,7 @@
     "completeness_audit_passed": true,
     "verified_against_scan": true,
     "historical_glyph_gate_status": "n-a-modern-2007-typesetting-no-historical-glyph-anomaly-found",
-    "next_gate": "F",
+    "next_gate": null,
     "note": "Gates C, D and E are complete for scans 43-48. Gate D found 0 completeness corrections. Gate E applied 6 source-fidelity corrections on scans 43, 47 and 48; unresolved readings 0. Tamil is verified against scan.",
     "gate_d_status": "pass-complete",
     "gate_d_checked_scan_pages": "43-48",
@@ -76,11 +76,23 @@
   },
   "translation": {
     "language": "English",
-    "status": "not-started",
-    "blocked_until_tamil_verified": false,
+    "status": "first-pass-complete",
+    "type": "faithful reading translation",
+    "placement": "working English in translation.md pending Gate G verification",
+    "source_text": "final Gate-E-verified Tamil transcript",
+    "translated_source_pages": "43-48",
+    "translated_page_count": 6,
+    "gate_f_status": "complete",
+    "gate_f_blocking_questions": 0,
+    "source_printed_english_preserved": true,
+    "source_printed_english_scan_pages": "48",
+    "official_report_wording_used": false,
+    "web_wording_used": false,
+    "ocr_wording_used": false,
+    "alternate_anthology_wording_used": false,
     "verified_against_tamil": false,
-    "source_text": "final verified Tamil only",
-    "next_gate": "F",
-    "tamil_gate_satisfied": true
+    "gate_g_status": "not-started",
+    "next_gate": "G",
+    "verification_note": "Gate F translated all 6 verified Tamil pages using only the final Gate-E Tamil. Scan-48 source-printed English was preserved verbatim. No OCR, web, Official Report or alternate-anthology wording was used. Gate G is next."
   }
 }

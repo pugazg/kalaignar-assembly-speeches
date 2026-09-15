@@ -42,3 +42,15 @@ The source-printed English on scan 48 was checked directly and preserved as prin
 ## Historical-glyph gate
 
 This is modern 2007 typesetting. Gate C.5 is **N/A / CLOSED** for this speech; Gate E found no historical/reform-sensitive glyph anomaly.
+
+
+## Gate F — English first-pass translation
+
+- status — **COMPLETE / 6 of 6 pages**
+- authority — final verified Tamil only
+- source-page sequence — **43→48**
+- source-printed English scan 48 — **preserved verbatim**
+- outside wording — **none**
+- blocking translation questions — **0**
+- English — **FIRST-PASS / NOT YET VERIFIED**
+- Gate G — **next**
