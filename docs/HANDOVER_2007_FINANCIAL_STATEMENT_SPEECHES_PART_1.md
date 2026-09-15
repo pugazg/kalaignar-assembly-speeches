@@ -81,7 +81,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speech 1 COMPLETE — 7/7 pages, scans 18–24**
+- Gate C — **Speech 1 CLOSED; Speech 2 COMPLETE — 9/9 pages, scans 25–33**
 - Gate C.5 — **N/A / CLOSED for Speech 1**
 - Gate D — **Speech 1 PASS / COMPLETE**
 - Gate E — **Speech 1 PASS / COMPLETE / Tamil VERIFIED**
@@ -168,6 +168,24 @@ Speech 1 / 5.3.1958 is **RELEASED / CLOSED**.
 - root and machine-readable indexes — synchronized;
 - `translation.md` — retired pointer.
 
+## Speech 2 durable Gate-C state
+
+Canonical working entry:
+
+`speeches/1959/1959-03-04-financial-statement-debate/`
+
+- scans **25–33 / printed pp.24–32**
+- Gate C — **COMPLETE / 9 of 9 pages**
+- source markers — **25→33**
+- unresolved first-pass readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- Gate C.5 — **provisionally N/A** for modern 2007 typesetting
+- Gate D — **NOT STARTED / next**
+- Gate E — **NOT STARTED**
+- English — **BLOCKED**
+
+Gate C preserved the C. Subramaniam intervention, quoted material, all printed figures, and every page-spanning continuation through the scan-33 close.
+
 ## Exact next activity
 
-Process **Speech 2 / 4.3.1959**, scans **25–33 / printed pp.24–32**, through **Gate C first-pass Tamil transcription only**. Do not begin Gate D/E or English in the same iteration.
+Perform **Speech 2 Gate D completeness audit** for scans **25–33 / printed pp.24–32**. Confirm all nine page markers, start/end boundaries, intervention, quotations, figures and transitions. Do **not** begin Gate E, English, or Speech 3 in the same iteration.

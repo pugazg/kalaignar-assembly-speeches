@@ -1,0 +1,70 @@
+{
+  "id": "1959-03-04-financial-statement-debate",
+  "date": "1959-03-04",
+  "year": 1959,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "source_label_ta": "கலைஞர் மு. கருணாநிதி",
+    "role_ta": null,
+    "role_en": null,
+    "role_note": "The speech pages do not establish the speaker's historical office; no role has been inferred from external knowledge."
+  },
+  "legislature": {
+    "source_context_ta": "சட்டமன்ற உரை",
+    "source_context_en": "Legislative Assembly speech"
+  },
+  "speech": {
+    "source_label_ta": "உரை : 2",
+    "printed_date": "4.3.1959",
+    "archive_subject_slug": "financial-statement-debate",
+    "archive_title_note": "Neutral archival subject label derived from the anthology title; not asserted to be an official printed legislative event title."
+  },
+  "source": {
+    "publication_title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)",
+    "edition_ta": "முதற்பதிப்பு",
+    "publication_date": "2007-05",
+    "publication_date_printed_ta": "மே, 2007",
+    "publisher_ta": "தமிழ்க்கனி பதிப்பகம்",
+    "publisher_location_ta": "சென்னை - 600 004",
+    "scan_filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf",
+    "scan_total_pages": 546,
+    "scan_file_size_bytes": 393027493,
+    "sha256": "e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932",
+    "speech_scan_pages": "25-33",
+    "speech_printed_pages": "24-32",
+    "scan_printed_page_relationship": "For this speech, printed page = scan page - 1.",
+    "source_authority": "rendered scan pixels",
+    "usable_text_layer": false
+  },
+  "transcription": {
+    "method": "manual first-pass transcription from rendered scan pixels",
+    "preserve_source_spelling": true,
+    "preserve_source_punctuation": true,
+    "preserve_source_numerals": true,
+    "preserve_headings": true,
+    "preserve_speaker_labels_and_interventions": true,
+    "page_boundaries_marked": true,
+    "status": "transcribed",
+    "gate_c_status": "complete",
+    "completed_scan_pages": "25-33",
+    "completed_printed_pages": "24-32",
+    "completed_page_count": 9,
+    "total_page_count": 9,
+    "source_page_markers_checked_first_pass": true,
+    "unresolved_readings": 0,
+    "completeness_audit_passed": false,
+    "verified_against_scan": false,
+    "historical_glyph_gate_status": "provisionally-n-a-modern-2007-typesetting",
+    "next_gate": "D",
+    "note": "Gate C first pass is complete for all nine pages. This does not imply source verification. Gate D completeness and Gate E strict visual fidelity remain mandatory before Tamil can be marked verified."
+  },
+  "translation": {
+    "language": "English",
+    "status": "blocked",
+    "blocked_until_tamil_verified": true,
+    "verified_against_tamil": false,
+    "source_text": "final verified Tamil only",
+    "next_gate": "F after Tamil Gate E passes"
+  }
+}

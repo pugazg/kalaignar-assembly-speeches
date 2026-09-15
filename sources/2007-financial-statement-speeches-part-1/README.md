@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speech 1 / 5.3.1958 Tamil is **VERIFIED — scans 18–24 / printed pp.17–23, 7/7 pages**. Gate F English first pass is also **COMPLETE — 7/7 pages**; English is not yet verified. No other speech has begun.
+Speech 1 / 5.3.1958 is **RELEASED / CLOSED through Gate H**. Speech 2 / 4.3.1959 Gate C first-pass Tamil is now **COMPLETE — scans 25–33 / printed pp.24–32, 9/9 pages**; Tamil is transcribed / not verified.
 
 ## Parallel-witness / released-material rule
 
@@ -119,6 +119,21 @@ The detailed Gate-G ledger is in `speeches/1958/1958-03-05-financial-statement-d
 
 Canonical bilingual transcript and repository indexes are synchronized. No verified wording changed during Gate H.
 
+## Speech 2 current state
+
+Reader/work entry:
+
+[`../../speeches/1959/1959-03-04-financial-statement-debate/`](../../speeches/1959/1959-03-04-financial-statement-debate/)
+
+- Gate C — **COMPLETE / 9 of 9 pages**
+- source markers — **25→33 exactly once**
+- unresolved first-pass readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- Gate C.5 — **provisionally N/A**
+- Gate D — **NOT STARTED / next**
+- Gate E — **NOT STARTED**
+- English — **BLOCKED**
+
 ## Exact next activity
 
-Begin **Speech 2 / 4.3.1959 Gate C**, scans **25–33 / printed pp.24–32**. Complete only the first-pass Tamil transcription in that iteration.
+Perform **Speech 2 Gate D Tamil completeness audit**, scans **25–33 / printed pp.24–32**. Do not begin Gate E, English, or Speech 3 in the same iteration.
