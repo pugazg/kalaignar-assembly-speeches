@@ -76,9 +76,9 @@
   },
   "translation": {
     "language": "English",
-    "status": "first-pass-complete",
+    "status": "verified",
     "type": "faithful reading translation",
-    "placement": "working English in translation.md pending Gate G verification",
+    "placement": "verified working English in translation.md pending Gate H canonical merge",
     "source_text": "final Gate-E-verified Tamil transcript",
     "translated_source_pages": "43-48",
     "translated_page_count": 6,
@@ -90,9 +90,14 @@
     "web_wording_used": false,
     "ocr_wording_used": false,
     "alternate_anthology_wording_used": false,
-    "verified_against_tamil": false,
-    "gate_g_status": "not-started",
-    "next_gate": "G",
-    "verification_note": "Gate F translated all 6 verified Tamil pages using only the final Gate-E Tamil. Scan-48 source-printed English was preserved verbatim. No OCR, web, Official Report or alternate-anthology wording was used. Gate G is next."
+    "verified_against_tamil": true,
+    "gate_g_status": "pass-complete",
+    "next_gate": "H",
+    "verification_note": "Gate F translated all 6 verified Tamil pages. Gate G PASS / COMPLETE reviewed all 6 pages against the verified Tamil, applied 6 fidelity/voice refinements, found 0 blockers and made 0 Tamil changes. Source-printed English on scan 48 remains verbatim. No OCR, booklet pixels, web, Official Report or alternate-anthology wording was used. English verified_against_tamil=true. Gate H is next.",
+    "gate_g_reviewed_source_pages": "43-48",
+    "gate_g_reviewed_page_count": 6,
+    "gate_g_refinement_count": 6,
+    "gate_g_blocking_fidelity_issues": 0,
+    "gate_g_tamil_changes": 0
   }
 }

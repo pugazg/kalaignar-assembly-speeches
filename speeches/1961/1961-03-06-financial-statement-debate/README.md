@@ -31,8 +31,9 @@
 - Gate D — **PASS / COMPLETE — 6/6 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 6/6 pages; 6 source-fidelity corrections; 0 unresolved readings**
 - Gate F English — **COMPLETE / 6 of 6 pages**
-- English — **FIRST-PASS / NOT YET VERIFIED**
-- Gate G — **NOT STARTED / next**
+- English — **VERIFIED AGAINST TAMIL**
+- Gate G — **PASS / COMPLETE — 6/6 pages; 6 refinements; 0 blockers**
+- Gate H — **NOT STARTED / next**
 
 ## Files
 
@@ -89,6 +90,18 @@ Unresolved readings: **0**.
 - blocking translation questions — **0**;
 - English `verified_against_tamil=false` until Gate G.
 
+## Gate G result
+
+**PASS / COMPLETE — 6/6 pages.**
+
+- English refinements — **6**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed English scan 48 — **preserved verbatim**
+- English `verified_against_tamil=true`
+
+Full ledger: `translation-review.md`.
+
 ## Exact next activity
 
-Perform **Gate G full English fidelity and voice review** for scans **43–48**, comparing `translation.md` only against the final verified Tamil.
+Perform **Gate H canonical merge / index / release closure** for Speech 4.

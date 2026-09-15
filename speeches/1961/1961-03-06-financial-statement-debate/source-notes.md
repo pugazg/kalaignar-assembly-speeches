@@ -54,3 +54,14 @@ This is modern 2007 typesetting. Gate C.5 is **N/A / CLOSED** for this speech; G
 - blocking translation questions — **0**
 - English — **FIRST-PASS / NOT YET VERIFIED**
 - Gate G — **next**
+
+
+## Gate G — English fidelity / voice review
+
+- status — **PASS / COMPLETE — 6/6 pages**
+- refinements — **6**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- source-printed English scan 48 — **preserved verbatim**
+- English `verified_against_tamil=true`
+- Gate H — **next**

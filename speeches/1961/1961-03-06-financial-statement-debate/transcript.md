@@ -2,7 +2,7 @@
 
 **நாள் : 6.3.1961**
 
-> **Workflow state:** Tamil Gates C–E are complete and Tamil is **VERIFIED** for scans 43–48, with 6 Gate-E corrections / 0 unresolved readings. Gate F English first pass is now **COMPLETE — 6/6 pages**, translated only from the verified Tamil. English is **FIRST-PASS / NOT YET VERIFIED**; Gate G fidelity/voice review is next. Gate C.5 is N/A / CLOSED.
+> **Workflow state:** Tamil Gates C–E are complete and Tamil is **VERIFIED** for scans 43–48, with 6 Gate-E corrections / 0 unresolved readings. Gate F English is complete, and Gate G is **PASS / COMPLETE — 6/6 pages, 6 refinements, 0 blockers, 0 Tamil changes**. English is now **VERIFIED AGAINST TAMIL**. Gate H canonical merge / index / release closure is next. Gate C.5 is N/A / CLOSED.
 
 <!-- source-page: 43 -->
 

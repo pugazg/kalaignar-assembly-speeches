@@ -55,3 +55,15 @@ This is modern 2007 typesetting. Gate C.5 is **N/A / CLOSED** for this speech; G
 - blocking translation questions — **0**
 - English — **FIRST-PASS / NOT YET VERIFIED**
 - Gate G — **next**
+
+
+## Gate G — English fidelity / voice review
+
+- status — **PASS / COMPLETE — 11/11 pages**
+- refinements — **11**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- `பூவாங்க` — retained as **Poovanga**
+- `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` — retained conservatively with **thumbai**
+- English `verified_against_tamil=true`
+- Gate H — **next**

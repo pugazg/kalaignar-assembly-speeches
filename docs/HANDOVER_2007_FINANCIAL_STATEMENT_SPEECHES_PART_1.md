@@ -317,9 +317,10 @@ Speech 3 / 16.3.1960 is **RELEASED / CLOSED**.
 - scans **43–48**
 - Tamil Gates C–E — **COMPLETE / VERIFIED**
 - Gate F — **COMPLETE / 6/6 English pages**
-- source-printed English scan 48 — preserved exactly
-- English — **FIRST-PASS / NOT YET VERIFIED**
-- Gate G — **NOT STARTED / next**
+- Gate G — **PASS / COMPLETE / 6 refinements / 0 blockers / 0 Tamil changes**
+- source-printed English scan 48 — **preserved exactly**
+- English — **VERIFIED AGAINST TAMIL**
+- Gate H — **NOT STARTED / next**
 
 ## Speech 5 current durable state
 
@@ -327,12 +328,13 @@ Speech 3 / 16.3.1960 is **RELEASED / CLOSED**.
 - scans **49–59**
 - Tamil Gates C–E — **COMPLETE / VERIFIED**
 - Gate F — **COMPLETE / 11/11 English pages**
-- English — **FIRST-PASS / NOT YET VERIFIED**
-- Gate G — **NOT STARTED / next**
-- `பூவாங்க` and `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` handled conservatively without outside identification/glossing
+- Gate G — **PASS / COMPLETE / 11 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL**
+- `பூவாங்க` / **Poovanga** and `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` / **thumbai** remain conservative source-bound renderings
+- Gate H — **NOT STARTED / next**
 
-Combined Gate-F activity: **17/17 English pages**. No OCR, web, Official Report or alternate-anthology wording supplied English. Speech 6 remains deferred under the 25-page whole-speech rule.
+Combined Gate-G activity: **17/17 pages / 17 refinements / 0 blockers / 0 Tamil changes**. No OCR, booklet pixels, web, Official Report or alternate-anthology wording supplied English. Speech 6 remains deferred under the 25-page whole-speech rule.
 
 ## Exact next activity
 
-Perform **Gate G full English fidelity and voice review for Speech 4 and Speech 5 together**, scans **43–59**, comparing only each Gate-F English translation against its final verified Tamil. Do not begin Gate H in the same iteration.
+Perform **Gate H canonical merge / index / release closure for Speech 4 and Speech 5 together**. Follow the repository's established release convention from Speeches 1–3: canonical bilingual transcript, retire working translation to a pointer, synchronize metadata/indexes/status surfaces, and release only if closure checks pass. Do not begin Speech 6 in the same iteration.

@@ -119,3 +119,21 @@ Gate D establishes structural completeness only; it is not word-by-word fidelity
 **English `verified_against_tamil`: false.**
 
 Gate F is a first-pass translation gate. Gate G must independently review fidelity and voice before English can be marked verified.
+
+
+## Gate G — English fidelity and voice review
+
+**Status:** PASS / COMPLETE — 11/11 pages
+
+- refinements — **11**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- all figures / quotations / intervention / page transitions — **PASS**
+- `பூவாங்க` — **Poovanga / no outside identification**
+- `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` — **conservative `thumbai` rendering / no outside gloss**
+- outside wording — **none**
+- English `verified_against_tamil=true`
+
+Full refinement ledger: `translation-review.md`.
+
+Gate H canonical merge / index / release closure is next.
