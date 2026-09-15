@@ -74,3 +74,19 @@ Gate F is **COMPLETE — 7/7 pages** in `translation.md`.
 Gate G is **PASS / COMPLETE — 7/7 pages**. The English was reviewed only against the final Gate-E-verified Tamil and received **10 fidelity/voice refinements**, with **0 blockers** and **0 Tamil changes**. English is now `verified_against_tamil=true`.
 
 No OCR, web copy, Official Report or alternate anthology supplied English wording. Gate H canonical merge/index/release is next.
+
+
+## Gate H release state
+
+Gate H is **PASS / COMPLETE**.
+
+- canonical bilingual `transcript.md` — verified Tamil followed by verified English;
+- Tamil source-page markers — **18→24 exactly once and in order**;
+- English source-page sections — **18→24 exactly once and in order**;
+- `translation.md` — retired pointer;
+- root dated speech index — synchronized;
+- `data/speeches.json` — synchronized;
+- verified wording changed during Gate H — **none**;
+- release — **RELEASED / CLOSED**.
+
+The archival slug `financial-statement-debate` remains a neutral subject label derived from the anthology subject and is not promoted to an official printed legislative motion title.

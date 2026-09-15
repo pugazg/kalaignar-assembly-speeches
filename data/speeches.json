@@ -1,5 +1,26 @@
 [
   {
+    "id": "1958-03-05-financial-statement-debate",
+    "date": "1958-03-05",
+    "year": 1958,
+    "speaker_ta": "மு. கருணாநிதி",
+    "speaker_en": "M. Karunanidhi",
+    "title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் — உரை : 1",
+    "title_en": "Kalaignar's Legislative Assembly Speeches on the Financial Statement — Speech 1",
+    "event_ta": "நிதிநிலை அறிக்கை மீது உரை",
+    "event_en": "Speech on the financial statement",
+    "path": "speeches/1958/1958-03-05-financial-statement-debate",
+    "languages": [
+      "ta",
+      "en"
+    ],
+    "transcription_status": "verified",
+    "verified_against_scan": true,
+    "translation_status": "verified",
+    "release_status": "released",
+    "gate_h_status": "passed"
+  },
+  {
     "id": "1963-03-21-industries-debate",
     "date": "1963-03-21",
     "year": 1963,

@@ -51,4 +51,22 @@ The review confirms that the English preserves:
 
 Final English state: **VERIFIED AGAINST TAMIL**.
 
-Exact next: **Gate H canonical merge / index / release closure**. Gate H has not started.
+## Gate H — canonical merge / index / release closure
+
+**Status: PASS / COMPLETE — RELEASED / CLOSED**
+
+Closure checks:
+
+- verified Tamil source-page markers **18→24** preserved exactly once and in order in the Tamil layer;
+- verified English source-page sections **18→24** preserved exactly once and in order in the English layer;
+- canonical `transcript.md` now contains verified Tamil followed by verified English;
+- `translation.md` is retired to a pointer to canonical English;
+- Gate-G totals remain **10 refinements / 0 blockers / 0 Tamil changes**;
+- machine-readable `data/speeches.json` entry added under the dated 1958 speech;
+- root dated speech index synchronized;
+- archival slug `financial-statement-debate` retained only as a neutral subject label, not an official motion title;
+- no verified Tamil or verified English wording changed during Gate H.
+
+Final disposition: **Speech 1 RELEASED / CLOSED**.
+
+Exact next anthology activity: **Speech 2 / 4.3.1959 — Gate C Tamil first-pass transcription, scans 25–33 / printed pp.24–32**.

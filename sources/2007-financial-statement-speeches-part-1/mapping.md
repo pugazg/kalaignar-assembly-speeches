@@ -118,12 +118,10 @@ Released material remains locked. This anthology must be processed as an indepen
 - Gate C.5 — **provisionally N/A for this modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
 - Gate F — **Speech 1 COMPLETE — 7/7 English pages**
 - Gate G — **Speech 1 PASS / COMPLETE — 10 refinements; 0 blockers; English VERIFIED**
-- Gate H — **NOT STARTED**
+- Gate H — **Speech 1 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Exact continuation
 
 Speech 1 / 5.3.1958 Tamil is now **VERIFIED**: Gate C complete, Gate D PASS, Gate E PASS with **9 corrections / 0 unresolved readings**.
 
-Gate F and Gate G are **COMPLETE / PASS** for Speech 1. English is **VERIFIED AGAINST TAMIL** after 10 Gate-G refinements and 0 blockers. Exact next: **Gate H canonical merge / index / release closure for Speech 1**.
-
-Do not start Speech 2 in the same iteration.
+Speech 1 is **RELEASED / CLOSED through Gate H** with verified Tamil and verified English in the canonical bilingual transcript. Exact next: **Speech 2 / 4.3.1959 Gate C, scans 25–33 / printed pp.24–32**.

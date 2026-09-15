@@ -87,7 +87,7 @@ Treat this 2007 anthology as its own witness.
 - Gate E — **Speech 1 PASS / COMPLETE / Tamil VERIFIED**
 - Gate F — **Speech 1 COMPLETE — 7/7 English pages**
 - Gate G — **Speech 1 PASS / COMPLETE — 7/7 pages; 10 refinements; 0 blockers; English VERIFIED**
-- Gate H — **NOT STARTED**
+- Gate H — **Speech 1 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Speech 1 durable Gate-C state
 
@@ -156,6 +156,18 @@ Gate G is **PASS / COMPLETE — 7/7 pages**.
 
 The detailed audit is in `speeches/1958/1958-03-05-financial-statement-debate/translation-review.md`.
 
+## Speech 1 Gate-H result
+
+Speech 1 / 5.3.1958 is **RELEASED / CLOSED**.
+
+- canonical bilingual transcript — complete;
+- Tamil — verified;
+- English — verified against Tamil;
+- Gate-G refinements — 10;
+- Gate-H wording changes — 0;
+- root and machine-readable indexes — synchronized;
+- `translation.md` — retired pointer.
+
 ## Exact next activity
 
-Perform **Gate H canonical merge / index / release closure for Speech 1**. Do not begin Speech 2 in the same iteration.
+Process **Speech 2 / 4.3.1959**, scans **25–33 / printed pp.24–32**, through **Gate C first-pass Tamil transcription only**. Do not begin Gate D/E or English in the same iteration.

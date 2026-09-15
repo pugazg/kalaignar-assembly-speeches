@@ -84,6 +84,8 @@ Reader/work entry:
 - Gate F English — **COMPLETE / 7 of 7 pages**
 - Gate G — **PASS / COMPLETE — 7/7 pages; 10 refinements; 0 blockers**
 - English — **VERIFIED AGAINST TAMIL**
+- Gate H — **PASS / COMPLETE**
+- Speech 1 release — **RELEASED / CLOSED**
 
 ## Speech 1 Tamil verification closure
 
@@ -111,6 +113,12 @@ Gate G is **PASS / COMPLETE — 7/7 pages**:
 
 The detailed Gate-G ledger is in `speeches/1958/1958-03-05-financial-statement-debate/translation-review.md`.
 
+## Speech 1 Gate H closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+Canonical bilingual transcript and repository indexes are synchronized. No verified wording changed during Gate H.
+
 ## Exact next activity
 
-Perform **Gate H canonical merge / index / release closure for Speech 1**. Do not begin Speech 2 in the same iteration.
+Begin **Speech 2 / 4.3.1959 Gate C**, scans **25–33 / printed pp.24–32**. Complete only the first-pass Tamil transcription in that iteration.

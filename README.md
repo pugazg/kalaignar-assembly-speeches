@@ -33,7 +33,7 @@ Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.
   - Released Unit 2: [`8-3-1973 — சட்டமன்ற மேலவையில்`](./speeches/1973/1973-03-08-financial-statement-reply/)
   - Handover: [`docs/HANDOVER_1973_IRULUM_OLIYUM.md`](./docs/HANDOVER_1973_IRULUM_OLIYUM.md)
 - [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source mapped into 10 dated speeches. **All 10 speeches are fully released with verified Tamil and verified English.**
-- [`நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)` — 2007 source package](./sources/2007-financial-statement-speeches-part-1/README.md) — **546-scan anthology; Gate A + Gate B COMPLETE / LOCKED; 19 speech units mapped. Speech 1 / 5.3.1958 Tamil VERIFIED and English VERIFIED AGAINST TAMIL after Gate G — 7/7 pages, 10 English refinements, 0 blockers.** Exact next: Speech 1 Gate H canonical merge/index/release closure.
+- [`நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)` — 2007 source package](./sources/2007-financial-statement-speeches-part-1/README.md) — **546-scan anthology; Gate A + Gate B COMPLETE / LOCKED; 19 speech units mapped. Speech 1 / 5.3.1958 is RELEASED / CLOSED through Gate H with verified Tamil and verified English.** Exact next: Speech 2 / 4.3.1959 Gate C, scans 25–33 / printed pp.24–32.
   - Handover: [`docs/HANDOVER_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md`](./docs/HANDOVER_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md)
   - Continuation prompt: [`docs/NEXT_CHAT_PROMPT_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md`](./docs/NEXT_CHAT_PROMPT_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md)
 - Copy/paste continuation prompt: [`docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md`](./docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md)
@@ -48,6 +48,7 @@ Accordingly, neither booklet-level entry is added to the canonical dated speech 
 
 | Date | Publication / speech | Assembly event | Tamil | English | Verification |
 |---|---|---|---|---|---|
+| 05-03-1958 | [நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் — உரை : 1](./speeches/1958/1958-03-05-financial-statement-debate/) | நிதிநிலை அறிக்கை மீது உரை | Verified | Verified | Gate H PASS; RELEASED — source scans 18–24 |
 | 21-03-1963 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 1](./speeches/1963/1963-03-21-industries-debate/) | தொழில்துறை மானியத்தின்மீது உரை | Verified | Verified | Verified against scan pp. 18–26 |
 | 09-09-1970 | [உதயக் கதிர்](./speeches/1970/1970-09-09-no-confidence-motion/) | நம்பிக்கையில்லாத் தீர்மான விவாதத்திற்கான பதிலுரை | Verified | Verified | Verified against scan pp. 5–46 |
 | 07-03-1973 | [இருளும் ஒளியும் — சட்டப் பேரவையில்](./speeches/1973/1973-03-07-financial-statement-reply/) | நிதிநிலை அறிக்கை விவாதத்திற்கான பதிலுரை | Verified | Verified | Gate H revalidated after TNLA-assisted gutter recovery; RELEASED |

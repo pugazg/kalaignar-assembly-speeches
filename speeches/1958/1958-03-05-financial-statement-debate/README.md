@@ -41,13 +41,17 @@
 - English Gate F first pass: **COMPLETE — 7/7 pages**.
 - Gate G English fidelity/voice review: **PASS / COMPLETE — 7/7 pages; 10 refinements; 0 blockers**.
 - English status: **VERIFIED AGAINST TAMIL**.
+- Gate H: **PASS / COMPLETE — canonical bilingual merge + indexes synchronized**.
+- Release status: **RELEASED / CLOSED**.
 
 ## கோப்புகள்
 
-- [`transcript.md`](./transcript.md) — Gate-C first-pass Tamil, source-page markers 18→24.
-- [`metadata.json`](./metadata.json) — source and workflow state.
-- [`source-notes.md`](./source-notes.md) — boundary/source policy.
-- [`verification-log.md`](./verification-log.md) — Gate-C completion ledger; later Gates D/E must append independently.
+- [`transcript.md`](./transcript.md) — canonical verified Tamil followed by canonical verified English.
+- [`translation.md`](./translation.md) — retired pointer to canonical English in `transcript.md`.
+- [`translation-review.md`](./translation-review.md) — Gate-G fidelity/voice audit and Gate-H closure record.
+- [`metadata.json`](./metadata.json) — source, gate and release state.
+- [`source-notes.md`](./source-notes.md) — source authority, boundaries and release notes.
+- [`verification-log.md`](./verification-log.md) — Gates C–H audit trail.
 
 ## Gate E result
 
@@ -92,6 +96,12 @@ The working first-pass English is in [`translation.md`](./translation.md). It is
 
 Detailed decisions are in [`translation-review.md`](./translation-review.md).
 
+## Gate H result
+
+**PASS / COMPLETE — Speech 1 RELEASED / CLOSED.**
+
+Canonical `transcript.md` contains verified Tamil followed by verified English. The duplicate English working file is retired to a pointer, and both root and machine-readable dated indexes are synchronized.
+
 ## Exact next activity
 
-Perform **Gate H canonical merge / index / release closure for Speech 1**. Do not begin Speech 2 in the same iteration.
+Begin **Speech 2 / 4.3.1959 — Gate C Tamil first-pass transcription**, scans **25–33 / printed pp.24–32**. Do not begin Gate D/E or English in the same iteration.

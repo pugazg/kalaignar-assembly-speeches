@@ -195,3 +195,26 @@ No OCR, web copy, Official Report or alternate anthology was used to supply Engl
 **English `verified_against_tamil`: true.**
 
 Exact next: **Gate H canonical merge / index / release closure for Speech 1**.
+
+
+## Gate H — canonical merge / index / release closure
+
+**Status:** PASS / COMPLETE — RELEASED / CLOSED
+
+Closure checks:
+
+- [x] Tamil layer source-page markers **18→24** complete, unique and ordered;
+- [x] English layer source-page sections **18→24** complete, unique and ordered;
+- [x] canonical `transcript.md` contains verified Tamil followed by verified English;
+- [x] Gate-G verified English payload preserved;
+- [x] `translation.md` retired to a pointer;
+- [x] metadata release fields synchronized;
+- [x] root dated speech index synchronized;
+- [x] `data/speeches.json` synchronized;
+- [x] neutral archival slug policy retained;
+- [x] verified Tamil changes during Gate H — **0**;
+- [x] verified English wording changes during Gate H — **0**.
+
+Final status: **Speech 1 RELEASED / CLOSED**.
+
+Exact next anthology activity: **Speech 2 / 4.3.1959 — Gate C, scans 25–33 / printed pp.24–32**.
