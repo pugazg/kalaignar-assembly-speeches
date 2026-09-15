@@ -59,6 +59,18 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 Speeches 1 / 5.3.1958, 2 / 4.3.1959 and 3 / 16.3.1960 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English.
 
+## Whole-speech batching policy
+
+For ongoing anthology processing, use a **maximum of 25 source-scan pages per activity**.
+
+- process only **complete speech units**;
+- add consecutive speeches while the cumulative source-page count remains **≤25**;
+- **never split a speech** merely to fill the page allowance;
+- if the next complete speech would push the activity above 25 pages, defer that **entire speech** to the next activity;
+- if a single speech itself exceeds 25 pages, process it separately as one intact speech unit rather than splitting or dropping it.
+
+Current example: Speech 4 (6 pages) + Speech 5 (11 pages) = **17 pages**, so both belong to one activity; Speech 6 adds 16 pages and would raise the total to 33, so Speech 6 is deferred.
+
 ## Parallel-witness / released-material rule
 
 This anthology contains dates already represented elsewhere in the repository:
@@ -204,6 +216,26 @@ Gate E applied **3 source-fidelity corrections** with **0 unresolved readings**.
 
 Canonical bilingual transcript and dated indexes are synchronized. Full English audit: `speeches/1960/1960-03-16-financial-statement-debate/translation-review.md`.
 
+## Speech 4 current state
+
+- Gate C — **COMPLETE / 6 of 6 pages**
+- scans — **43–48 / printed pp.42–47**
+- source markers — **43→48 exactly once**
+- unresolved first-pass readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- Gate D — **NOT STARTED / next**
+
+## Speech 5 current state
+
+- Gate C — **COMPLETE / 11 of 11 pages**
+- scans — **49–59 / printed pp.48–58**
+- source markers — **49→59 exactly once**
+- unresolved first-pass readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- Gate D — **NOT STARTED / next**
+
+Gate-C activity total: **17 source pages**. Speech 6 / 7.3.1963 spans scans 60–75 (**16 pages**) and was correctly deferred because including it would exceed the 25-page whole-speech limit.
+
 ## Exact next activity
 
-Begin **Speech 4 / 6.3.1961 Gate C**, scans **43–48 / printed pp.42–47**. Complete only the first-pass Tamil transcription in that iteration.
+Perform **Gate D completeness audit for Speeches 4 and 5 together**, total **17 pages**: scans **43–48** and **49–59**. Do not begin Gate E in the same iteration.

@@ -67,6 +67,17 @@ The focused second boundary check covered every transition plus 545→546; no bo
 
 Speech 17 is deliberately held as a **multi-date source unit**; do not invent one canonical date.
 
+## Whole-speech batching policy
+
+Use a **maximum 25 source-scan pages per activity** while preserving whole-speech boundaries.
+
+- add consecutive complete speeches while cumulative pages stay ≤25;
+- do not split a speech merely to fill the batch;
+- if the next speech would exceed 25 pages, defer that whole speech;
+- if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
+
+Current Gate-C batch: Speech 4 = 6 pages; Speech 5 = 11 pages; cumulative **17**. Speech 6 = 16 pages, therefore deferred.
+
 ## Existing-source overlaps
 
 Do not modify released or existing source layers merely because this anthology overlaps them.
@@ -81,10 +92,10 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speech 1 CLOSED; Speech 2 COMPLETE — 9/9 pages, scans 25–33**
+- Gate C — **Speeches 1–3 CLOSED; Speech 4 COMPLETE — 6/6 pages, scans 43–48; Speech 5 COMPLETE — 11/11 pages, scans 49–59**
 - Gate C.5 — **N/A / CLOSED for Speech 1**
-- Gate D — **Speech 1 PASS / COMPLETE; Speech 2 PASS / COMPLETE — 9/9 pages, 0 completeness corrections**
-- Gate E — **Speech 1 PASS / COMPLETE / Tamil VERIFIED; Speech 2 PASS / COMPLETE — 9/9 pages, 6 corrections, 0 unresolved, Tamil VERIFIED**
+- Gate D — **Speeches 1–3 PASS / COMPLETE; Speeches 4–5 NOT STARTED / next**
+- Gate E — **Speeches 1–3 PASS / COMPLETE / Tamil VERIFIED; Speeches 4–5 NOT STARTED**
 - Gate F — **Speech 1 COMPLETE — 7/7 English pages; Speech 2 COMPLETE — 9/9 English pages; Speech 3 COMPLETE — 9/9 English pages**
 - Gate G — **Speech 1 PASS / COMPLETE — 7/7 pages; 10 refinements; 0 blockers; English VERIFIED; Speech 2 PASS / COMPLETE — 9/9 pages; 12 refinements; 0 blockers; English VERIFIED; Speech 3 PASS / COMPLETE — 9/9 pages; 17 refinements; 0 blockers; English VERIFIED**
 - Gate H — **Speech 1 PASS / COMPLETE — RELEASED / CLOSED; Speech 2 PASS / COMPLETE — RELEASED / CLOSED; Speech 3 PASS / COMPLETE — RELEASED / CLOSED**
@@ -300,6 +311,26 @@ Speech 3 / 16.3.1960 is **RELEASED / CLOSED**.
 - root and machine-readable dated indexes — synchronized;
 - Gate-H wording changes — 0.
 
+## Speech 4 Gate-C state
+
+- path — `speeches/1961/1961-03-06-financial-statement-debate/`
+- scans **43–48 / printed pp.42–47**
+- Gate C — **COMPLETE / 6 of 6**
+- markers — **43→48**
+- unresolved — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+
+## Speech 5 Gate-C state
+
+- path — `speeches/1962/1962-07-02-financial-statement-debate/`
+- scans **49–59 / printed pp.48–58**
+- Gate C — **COMPLETE / 11 of 11**
+- markers — **49→59**
+- unresolved — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+
+Combined Gate-C activity: **17 pages**. Speech 6 is deferred by the whole-speech 25-page rule.
+
 ## Exact next activity
 
-Process **Speech 4 / 6.3.1961**, scans **43–48 / printed pp.42–47**, through **Gate C first-pass Tamil transcription only**. Do not begin Gate D/E or English in the same iteration.
+Perform **Gate D completeness audit for Speech 4 and Speech 5 together**, scans **43–59**, treating the 48→49 boundary as a hard speech boundary. Do not begin Gate E in the same iteration.

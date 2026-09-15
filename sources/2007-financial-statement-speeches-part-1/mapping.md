@@ -108,11 +108,21 @@ Live-main repository inspection found:
 
 Released material remains locked. This anthology must be processed as an independent witness and must not silently replace those earlier source layers.
 
+## Whole-speech batching policy
+
+- maximum **25 source-scan pages** per activity;
+- complete speeches only;
+- never split a speech to fill the allowance;
+- defer the next whole speech if adding it would exceed 25 pages;
+- if one speech itself exceeds 25 pages, process that intact speech separately.
+
+For the current batch, Speech 4 (6 pages) + Speech 5 (11 pages) = **17 pages**; Speech 6 (16 pages) is deferred.
+
 ## Gate status
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speech 1 COMPLETE / CLOSED; Speech 2 COMPLETE / CLOSED; Speech 3 COMPLETE — scans 34–42 / 9 of 9 pages; speeches 4–19 not started**
+- Gate C — **Speeches 1–3 CLOSED; Speech 4 COMPLETE — scans 43–48 / 6 of 6; Speech 5 COMPLETE — scans 49–59 / 11 of 11; speeches 6–19 not started**
 - Gate D — **Speech 1 PASS / COMPLETE — 0 completeness corrections; Speech 2 PASS / COMPLETE — 0 completeness corrections; Speech 3 PASS / COMPLETE — 0 completeness corrections**
 - Gate E — **Speech 1 PASS / COMPLETE — 9 source-fidelity corrections; 0 unresolved; Tamil VERIFIED; Speech 2 PASS / COMPLETE — 6 source-fidelity corrections; 0 unresolved; Tamil VERIFIED; Speech 3 PASS / COMPLETE — 3 source-fidelity corrections; 0 unresolved; Tamil VERIFIED**
 - Gate C.5 — **provisionally N/A for this modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
@@ -124,4 +134,4 @@ Released material remains locked. This anthology must be processed as an indepen
 
 Speech 1 / 5.3.1958 Tamil is now **VERIFIED**: Gate C complete, Gate D PASS, Gate E PASS with **9 corrections / 0 unresolved readings**.
 
-Speeches 1, 2 and 3 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Exact next: **Speech 4 / 6.3.1961 Gate C, scans 43–48 / printed pp.42–47**.
+Speeches 1, 2 and 3 are **RELEASED / CLOSED through Gate H**. Speeches 4 and 5 Gate C are **COMPLETE** as a 17-page whole-speech batch. Exact next: **Gate D completeness audit for Speeches 4 and 5 together, scans 43–59**.
