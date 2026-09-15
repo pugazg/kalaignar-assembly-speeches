@@ -26,11 +26,11 @@
 - Gate C Tamil first pass — **COMPLETE / 6 of 6 pages**
 - source markers — **43→48 exactly once**
 - first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- Gate C.5 — **provisionally N/A** for modern 2007 typesetting
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no historical-glyph anomaly found**
 - Gate D — **PASS / COMPLETE — 6/6 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
-- English — **BLOCKED until Tamil verification**
+- Gate E — **PASS / COMPLETE — 6/6 pages; 6 source-fidelity corrections; 0 unresolved readings**
+- English — **NOT STARTED / Gate F next**
 
 ## Files
 
@@ -55,6 +55,23 @@
 
 Tamil remains **NOT VERIFIED**.
 
+## Gate E result
+
+**PASS / COMPLETE — 6/6 pages; Tamil VERIFIED.**
+
+Gate E applied **6 source-fidelity corrections**:
+
+1. scan 43 — `அறிக்கையை பிரிக்கிற` → **`அறிக்கையைப் படிக்கிற`**;
+2. scan 43 — `ஒரு நாட்டின் மக்களுடைய ஒரு நாட்டில்` → **`ஒரு நாட்டின் பெயரை அந்த நாட்டில்`**;
+3. scan 43 — `குறிப்பிட்டு விரும்புகிறேன்` → **`குறிப்பிட விரும்புகிறேன்`**;
+4. scan 47 — first `வெளியிட்டவும்` → **`வெளியிட்டதும்`**;
+5. scan 47 — second `வெளியிட்டவும்` → **`வெளியிட்டதும்`**;
+6. scan 48 — speaker label spacing `டி. என்.` → **`டி.என்.`**.
+
+All remaining wording, figures, interventions, source-printed English and page transitions passed direct visual comparison.
+
+Unresolved readings: **0**.
+
 ## Exact next activity
 
-Perform **Gate E strict page-by-page visual source-fidelity verification** for scans **43–48 / printed pp.42–47**.
+Begin **Gate F English translation** from the final verified Tamil, all scans **43–48**.

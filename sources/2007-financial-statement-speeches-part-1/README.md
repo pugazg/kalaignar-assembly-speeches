@@ -221,33 +221,37 @@ Canonical bilingual transcript and dated indexes are synchronized. Full English 
 - Gate C — **COMPLETE / 6 of 6 pages**
 - scans — **43–48 / printed pp.42–47**
 - source markers — **43→48 exactly once**
-- unresolved first-pass readings — **0**
-- Tamil — **REVIEWED STRUCTURALLY / NOT VERIFIED**
+- Tamil — **VERIFIED / verified_against_scan=true**
 - Gate D — **PASS / COMPLETE — 6/6 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
+- Gate E — **PASS / COMPLETE — 6/6 pages; 6 source-fidelity corrections; 0 unresolved readings**
+- Gate C.5 — **N/A / CLOSED**
+- English — **NOT STARTED / Gate F next**
 
 ## Speech 5 current state
 
 - Gate C — **COMPLETE / 11 of 11 pages**
 - scans — **49–59 / printed pp.48–58**
 - source markers — **49→59 exactly once**
-- unresolved first-pass readings — **0**
-- Tamil — **REVIEWED STRUCTURALLY / NOT VERIFIED**
+- Tamil — **VERIFIED / verified_against_scan=true**
 - Gate D — **PASS / COMPLETE — 11/11 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
+- Gate E — **PASS / COMPLETE — 11/11 pages; 10 source-fidelity corrections; 0 unresolved readings**
+- Gate C.5 — **N/A / CLOSED**
+- English — **NOT STARTED / Gate F next**
 
-Gate-D batch total: **17 source pages**. Speech 6 / 7.3.1963 remains deferred by the whole-speech 25-page rule.
+Gate-E batch total: **17 source pages / 16 source-fidelity corrections / 0 unresolved readings**. Speech 6 / 7.3.1963 remains deferred by the whole-speech 25-page rule.
 
-## Speeches 4–5 Gate D closure
+## Speeches 4–5 Gate E closure
 
-**PASS / COMPLETE — 17/17 pages; 0 completeness corrections.**
+**PASS / COMPLETE — 17/17 pages; Tamil VERIFIED for both speeches.**
 
-- hard speech boundary **48→49** — PASS;
-- scan 60 — confirmed as Speech 6 start and excluded;
-- Speech 4 interventions / source-printed English — structurally complete;
-- Speech 5 M. Bhaktavatsalam intervention / quoted passages / figures — structurally complete;
-- both Tamil transcripts remain **NOT VERIFIED**.
+- Speech 4 corrections — **6**
+- Speech 5 corrections — **10**
+- cumulative corrections — **16**
+- unresolved readings — **0**
+- hard speech boundary **48→49** — PASS
+- scan 60 — confirmed as Speech 6 and excluded
+- historical/reform-sensitive glyph anomalies — **none**
 
 ## Exact next activity
 
-Perform **Gate E strict page-by-page visual source-fidelity verification for Speeches 4 and 5 together**, scans **43–59** (17 pages).
+Perform **Gate F English translation for Speeches 4 and 5 together**, all **17 verified Tamil pages / scans 43–59**. Do not begin Gate G in the same iteration.

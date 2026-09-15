@@ -124,7 +124,7 @@ For the current batch, Speech 4 (6 pages) + Speech 5 (11 pages) = **17 pages**; 
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speeches 1–3 CLOSED; Speech 4 COMPLETE — scans 43–48 / 6 of 6; Speech 5 COMPLETE — scans 49–59 / 11 of 11; speeches 6–19 not started**
 - Gate D — **Speeches 1–3 PASS / COMPLETE — 0 completeness corrections each; Speech 4 PASS / COMPLETE — 0 completeness corrections; Speech 5 PASS / COMPLETE — 0 completeness corrections**
-- Gate E — **Speech 1 PASS / COMPLETE — 9 source-fidelity corrections; 0 unresolved; Tamil VERIFIED; Speech 2 PASS / COMPLETE — 6 source-fidelity corrections; 0 unresolved; Tamil VERIFIED; Speech 3 PASS / COMPLETE — 3 source-fidelity corrections; 0 unresolved; Tamil VERIFIED**
+- Gate E — **Speech 1 PASS / COMPLETE — 9 corrections; Speech 2 PASS / COMPLETE — 6 corrections; Speech 3 PASS / COMPLETE — 3 corrections; Speech 4 PASS / COMPLETE — 6 corrections / 0 unresolved / Tamil VERIFIED; Speech 5 PASS / COMPLETE — 10 corrections / 0 unresolved / Tamil VERIFIED**
 - Gate C.5 — **provisionally N/A for this modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
 - Gate F — **Speech 1 COMPLETE — 7/7 English pages; Speech 2 COMPLETE — 9/9 English pages; Speech 3 COMPLETE — 9/9 English pages**
 - Gate G — **Speech 1 PASS / COMPLETE — 10 refinements; 0 blockers; English VERIFIED; Speech 2 PASS / COMPLETE — 12 refinements; 0 blockers; English VERIFIED; Speech 3 PASS / COMPLETE — 17 refinements; 0 blockers; English VERIFIED**
@@ -134,4 +134,4 @@ For the current batch, Speech 4 (6 pages) + Speech 5 (11 pages) = **17 pages**; 
 
 Speech 1 / 5.3.1958 Tamil is now **VERIFIED**: Gate C complete, Gate D PASS, Gate E PASS with **9 corrections / 0 unresolved readings**.
 
-Speeches 1, 2 and 3 are **RELEASED / CLOSED through Gate H**. Speeches 4 and 5 Gate D are **PASS / COMPLETE — 17/17 pages, 0 completeness corrections**. Exact next: **Gate E strict visual source-fidelity for Speeches 4 and 5 together, scans 43–59**.
+Speeches 1, 2 and 3 are **RELEASED / CLOSED through Gate H**. Speeches 4 and 5 Gate E are **PASS / COMPLETE — 17/17 pages, 16 cumulative source-fidelity corrections, 0 unresolved readings; Tamil VERIFIED for both**. Exact next: **Gate F English translation for Speeches 4 and 5 together, scans 43–59**.

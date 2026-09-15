@@ -32,10 +32,12 @@ Throughout this speech, `printed page = PDF scan page - 1`.
 
 First-pass unresolved readings: **0**.
 
-Gate D completeness audit is **PASS / COMPLETE** with **0 completeness corrections**. It confirmed all eleven page markers, locked boundaries, the M. Bhaktavatsalam intervention, the 54→55 quoted passage, figures and every cross-page continuation.
+Gate D completeness audit is **PASS / COMPLETE** with **0 completeness corrections**.
 
-This still does **not** verify the Tamil text. Gate E strict page-by-page visual source-fidelity remains mandatory.
+Gate E strict page-by-page visual source-fidelity verification is **PASS / COMPLETE**. All eleven pages were re-read directly against rendered source pixels. **10 source-fidelity corrections** were applied and **0 unresolved readings** remain. Tamil is now `verified_against_scan=true`.
+
+The M. Bhaktavatsalam intervention, the Finance Commission quotation, all figures/rates and every page transition were checked directly.
 
 ## Historical-glyph gate
 
-This is modern 2007 typesetting. Gate C.5 is **provisionally N/A** and must be reopened only if an actual historical/reform-sensitive glyph ambiguity is found.
+This is modern 2007 typesetting. Gate C.5 is **N/A / CLOSED** for this speech; Gate E found no historical/reform-sensitive glyph anomaly.

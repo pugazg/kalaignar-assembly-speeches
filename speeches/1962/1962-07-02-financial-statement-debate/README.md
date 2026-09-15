@@ -26,11 +26,11 @@
 - Gate C Tamil first pass — **COMPLETE / 11 of 11 pages**
 - source markers — **49→59 exactly once**
 - first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- Gate C.5 — **provisionally N/A** for modern 2007 typesetting
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no historical-glyph anomaly found**
 - Gate D — **PASS / COMPLETE — 11/11 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
-- English — **BLOCKED until Tamil verification**
+- Gate E — **PASS / COMPLETE — 11/11 pages; 10 source-fidelity corrections; 0 unresolved readings**
+- English — **NOT STARTED / Gate F next**
 
 ## Files
 
@@ -54,6 +54,27 @@
 
 Tamil remains **NOT VERIFIED**.
 
+## Gate E result
+
+**PASS / COMPLETE — 11/11 pages; Tamil VERIFIED.**
+
+Gate E applied **10 source-fidelity corrections**:
+
+1. scan 51 — `தெரியாத தெரு புதுமையை` → **`தெரியாத ஒரு புதுமையை`**;
+2. scan 52 — first `திட்ட வரவேட்டிலும்` → **`திட்ட வரைவேட்டிலும்`**;
+3. scan 52 — second `திட்ட வரவேட்டிலும்` → **`திட்ட வரைவேட்டிலும்`**;
+4. scan 52 — `தீரல் விழுந்த` → **`தேயல் விழுந்த`**;
+5. scan 54 — `வரவு 92.71 லட்சம்` → **`வரவு 92.71 கோடி`**;
+6. scan 54 — `செலவு 99.67 லட்சம்` → **`செலவு 99.67 கோடி`**;
+7. scan 54 — `திருத்தப்பட்டு மதிப்பீடு` → **`திருத்தப்பட்ட மதிப்பீடு`**;
+8. scan 58 — `விளக்கு அளிக்கப்பட்ட` → **`விலக்கு அளிக்கப்பட`**;
+9. scan 58 — `வறனம் பார்க்கின்ற` → **`வானம் பார்க்கின்ற`**;
+10. scan 59 — `வரி விதித்தங்களை` → **`வரி விகிதங்களை`**.
+
+All remaining wording, figures, quotations, intervention text and page transitions passed direct visual comparison.
+
+Unresolved readings: **0**.
+
 ## Exact next activity
 
-Perform **Gate E strict page-by-page visual source-fidelity verification** for scans **49–59 / printed pp.48–58**.
+Begin **Gate F English translation** from the final verified Tamil, all scans **49–59**.

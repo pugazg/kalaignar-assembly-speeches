@@ -56,12 +56,39 @@ First-pass unresolved readings: **0**.
 
 Gate D establishes structural completeness only; it is not word-by-word fidelity certification.
 
+## Gate E — strict page-by-page visual source-fidelity verification
+
+**Status:** PASS / COMPLETE — 6/6 pages
+
+### Corrections applied
+
+1. **scan 43 / printed p.42** — `அறிக்கையை பிரிக்கிற` → **`அறிக்கையைப் படிக்கிற`**.
+2. **scan 43 / printed p.42** — `ஒரு நாட்டின் மக்களுடைய ஒரு நாட்டில்` → **`ஒரு நாட்டின் பெயரை அந்த நாட்டில்`**.
+3. **scan 43 / printed p.42** — `குறிப்பிட்டு விரும்புகிறேன்` → **`குறிப்பிட விரும்புகிறேன்`**.
+4. **scan 47 / printed p.46** — first `வெளியிட்டவும்` → **`வெளியிட்டதும்`**.
+5. **scan 47 / printed p.46** — second `வெளியிட்டவும்` → **`வெளியிட்டதும்`**.
+6. **scan 48 / printed p.47** — speaker-label spacing `டி. என்.` → **`டி.என்.`**.
+
+### Closure checks
+
+- [x] scans **43–48** verified directly against rendered source pixels;
+- [x] all figures and dates checked;
+- [x] all scan-48 interventions checked;
+- [x] source-printed English on scan 48 preserved exactly;
+- [x] transitions **43→44, 44→45, 45→46, 46→47, 47→48** rechecked;
+- [x] scan 49 excluded as Speech 5;
+- [x] historical/reform-sensitive glyph anomaly — **none**;
+- [x] unresolved readings — **0**.
+
+**Gate-E corrections:** 6.  
+**Tamil status:** VERIFIED.  
+**Tamil `verified_against_scan`: true.**  
+**Gate C.5:** N/A / CLOSED.
+
 ## Verification status
 
 - Gate C — **COMPLETE**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **NOT STARTED / next**
-- Tamil `verified_against_scan` — **false**
-- English — **BLOCKED**
-
-Do not mark Tamil verified until Gate E independently passes.
+- Gate E — **PASS / COMPLETE**
+- Tamil — **VERIFIED**
+- English — **NOT STARTED / Gate F next**
