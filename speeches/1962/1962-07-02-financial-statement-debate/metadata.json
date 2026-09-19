@@ -78,7 +78,7 @@
     "language": "English",
     "status": "verified",
     "type": "faithful reading translation",
-    "placement": "verified working English in translation.md pending Gate H canonical merge",
+    "placement": "verified English follows verified Tamil in canonical transcript.md",
     "source_text": "final Gate-E-verified Tamil transcript",
     "translated_source_pages": "49-59",
     "translated_page_count": 11,
@@ -92,12 +92,28 @@
     "alternate_anthology_wording_used": false,
     "verified_against_tamil": true,
     "gate_g_status": "pass-complete",
-    "next_gate": "H",
-    "verification_note": "Gate F translated all 11 verified Tamil pages. Gate G PASS / COMPLETE reviewed all 11 pages against the verified Tamil, applied 11 fidelity/voice refinements, found 0 blockers and made 0 Tamil changes. பூவாங்க remains Poovanga and தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும் remains conservatively rendered with thumbai, with no outside identification/gloss. No OCR, booklet pixels, web, Official Report or alternate-anthology wording was used. English verified_against_tamil=true. Gate H is next.",
+    "next_gate": null,
+    "verification_note": "Gate F translated all 11 verified Tamil pages. Gate G PASS / COMPLETE reviewed all 11 pages against the verified Tamil, applied 11 fidelity/voice refinements, found 0 blockers and made 0 Tamil changes. பூவாங்க remains Poovanga and தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும் remains conservatively rendered with thumbai, with no outside identification/gloss. Gate H canonicalised verified Tamil + verified English in transcript.md, retired translation.md to a pointer, synchronized root/data indexes, and released Speech 5. No OCR, booklet pixels, web, Official Report or alternate-anthology wording supplied English.",
     "gate_g_reviewed_source_pages": "49-59",
     "gate_g_reviewed_page_count": 11,
     "gate_g_refinement_count": 11,
     "gate_g_blocking_fidelity_issues": 0,
-    "gate_g_tamil_changes": 0
+    "gate_g_tamil_changes": 0,
+    "gate_h_status": "passed",
+    "gate_h_canonical_merge_complete": true,
+    "gate_h_indexed": true,
+    "gate_h_release_ready": true,
+    "working_file_status": "retired pointer to canonical transcript after Gate H"
+  },
+  "release": {
+    "status": "released",
+    "gate_h_status": "passed",
+    "gate_h_passed": true,
+    "canonical_transcript_contains_verified_tamil_and_english": true,
+    "indexed": true,
+    "release_ready": true,
+    "released": true,
+    "canonical_slug_policy": "financial-statement-debate is a neutral archival subject label derived from the anthology title, not an asserted official motion title",
+    "release_note": "Speech 5 / 2.7.1962 is fully released through Gate H with verified Tamil and verified English in canonical transcript.md."
   }
 }
