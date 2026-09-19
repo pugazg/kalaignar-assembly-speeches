@@ -33,7 +33,7 @@ Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.
   - Released Unit 2: [`8-3-1973 — சட்டமன்ற மேலவையில்`](./speeches/1973/1973-03-08-financial-statement-reply/)
   - Handover: [`docs/HANDOVER_1973_IRULUM_OLIYUM.md`](./docs/HANDOVER_1973_IRULUM_OLIYUM.md)
 - [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source mapped into 10 dated speeches. **All 10 speeches are fully released with verified Tamil and verified English.**
-- [`நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)` — 2007 source package](./sources/2007-financial-statement-speeches-part-1/README.md) — **546-scan anthology; Gate A + Gate B COMPLETE / LOCKED; 19 speech units mapped. Speeches 1–3 are RELEASED / CLOSED. Speeches 4 / 6.3.1961 and 5 / 2.7.1962 Gate G are PASS / COMPLETE — 17/17 English pages reviewed, 17 refinements, 0 blockers, 0 Tamil changes; English VERIFIED for both.** Exact next: Gate H canonical merge / index / release closure for Speeches 4–5.
+- [`நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)` — 2007 source package](./sources/2007-financial-statement-speeches-part-1/README.md) — **546-scan anthology; Gate A + Gate B COMPLETE / LOCKED; 19 speech units mapped. Speeches 1–5 are RELEASED / CLOSED through Gate H with verified Tamil and verified English. Speeches 4 / 6.3.1961 and 5 / 2.7.1962 completed paired Gate H with the hard 48→49 boundary preserved, 17 cumulative Gate-G refinements, 0 blockers, 0 Tamil changes and 0 Gate-H wording changes.** Exact next: Speech 6 / 7.3.1963 Gate C, scans 60–75 / 16 pages.
   - Handover: [`docs/HANDOVER_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md`](./docs/HANDOVER_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md)
   - Continuation prompt: [`docs/NEXT_CHAT_PROMPT_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md`](./docs/NEXT_CHAT_PROMPT_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md)
 - Copy/paste continuation prompt: [`docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md`](./docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md)
@@ -51,6 +51,8 @@ Accordingly, neither booklet-level entry is added to the canonical dated speech 
 | 05-03-1958 | [நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் — உரை : 1](./speeches/1958/1958-03-05-financial-statement-debate/) | நிதிநிலை அறிக்கை மீது உரை | Verified | Verified | Gate H PASS; RELEASED — source scans 18–24 |
 | 04-03-1959 | [நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் — உரை : 2](./speeches/1959/1959-03-04-financial-statement-debate/) | நிதிநிலை அறிக்கை மீது உரை | Verified | Verified | Gate H PASS; RELEASED — source scans 25–33 |
 | 16-03-1960 | [நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் — உரை : 3](./speeches/1960/1960-03-16-financial-statement-debate/) | நிதிநிலை அறிக்கை மீது உரை | Verified | Verified | Gate H PASS; RELEASED — source scans 34–42 |
+| 06-03-1961 | [நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் — உரை : 4](./speeches/1961/1961-03-06-financial-statement-debate/) | நிதிநிலை அறிக்கை மீது உரை | Verified | Verified | Gate H PASS; RELEASED — source scans 43–48 |
+| 02-07-1962 | [நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் — உரை : 5](./speeches/1962/1962-07-02-financial-statement-debate/) | நிதிநிலை அறிக்கை மீது உரை | Verified | Verified | Gate H PASS; RELEASED — source scans 49–59 |
 | 21-03-1963 | [தொழில்துறை பற்றி கலைஞரின் சட்டமன்ற உரைகள் — உரை : 1](./speeches/1963/1963-03-21-industries-debate/) | தொழில்துறை மானியத்தின்மீது உரை | Verified | Verified | Verified against scan pp. 18–26 |
 | 09-09-1970 | [உதயக் கதிர்](./speeches/1970/1970-09-09-no-confidence-motion/) | நம்பிக்கையில்லாத் தீர்மான விவாதத்திற்கான பதிலுரை | Verified | Verified | Verified against scan pp. 5–46 |
 | 07-03-1973 | [இருளும் ஒளியும் — சட்டப் பேரவையில்](./speeches/1973/1973-03-07-financial-statement-reply/) | நிதிநிலை அறிக்கை விவாதத்திற்கான பதிலுரை | Verified | Verified | Gate H revalidated after TNLA-assisted gutter recovery; RELEASED |
@@ -96,6 +98,11 @@ kalaignar-assembly-speeches/
 │   └── 2007-industrial-speeches/
 │       └── mapping.md
 └── speeches/
+    ├── 1958/
+    ├── 1959/
+    ├── 1960/
+    ├── 1961/
+    ├── 1962/
     ├── 1963/
     ├── 1970/
     ├── 1971/
