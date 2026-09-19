@@ -44,8 +44,92 @@ Gate-F blocking translation questions: **0**.
 
 English status: **first-pass / not yet verified against Tamil**.
 
+## Gate G — full English fidelity and voice review
+
+**Status: PASS / COMPLETE — 16/16 pages**
+
+Review authority was strictly:
+
+- the final Gate-E-verified Tamil in `transcript.md`;
+- the Gate-F English in `translation.md`.
+
+No OCR, scan pixels, web research, Official Reports or alternate anthologies supplied English wording.
+
+### Coverage
+
+| Scan | Printed | Gate-G result |
+|---:|---:|---|
+| 60 | 59 | PASS / 1 refinement |
+| 61 | 60 | PASS / 0 refinements |
+| 62 | 61 | PASS / 1 refinement |
+| 63 | 62 | PASS / 0 refinements |
+| 64 | 63 | PASS / 0 refinements |
+| 65 | 64 | PASS / 1 refinement |
+| 66 | 65 | PASS / 2 refinements |
+| 67 | 66 | PASS / 1 refinement |
+| 68 | 67 | PASS / 1 refinement |
+| 69 | 68 | PASS / 0 refinements |
+| 70 | 69 | PASS / 1 refinement |
+| 71 | 70 | PASS / 1 refinement |
+| 72 | 71 | PASS / 2 refinements |
+| 73 | 72 | PASS / 1 refinement |
+| 74 | 73 | PASS / 3 refinements |
+| 75 | 74 | PASS / 0 refinements |
+
+Total reviewed: **16/16 pages**.  
+Total refinements: **15**.  
+Blocking fidelity issues: **0**.  
+Verified-Tamil changes: **0**.
+
+### Refinement ledger
+
+1. **scan 60** — `the harshness of the rulers` → **`the cruelty of the rulers`**, restoring the force of `ஆட்சியாளர்களுடைய கொடுமை`.
+2. **scan 62** — `Every member belonging to the ruling party has spoken of this as though to say...` → **`All the members of the ruling party said...`**, matching the direct source phrasing.
+3. **scan 65** — `mixed socialism` → **`adulterated socialism`**, preserving the sharper force of `கலப்பட சமதர்மம்`.
+4. **scan 66** — `people in small and middle-level circumstances` → **`people of modest and middle means`**, making `சிறிய, நடுத்தர நிலையில் உள்ளவர்கள்` idiomatic without changing the economic contrast.
+5. **scan 66** — recast the 50/100 hire-car sentence to **`Until then, I ask whether these batches of 50 or 100 hire cars could not be kept from private establishments such as Keevaraj so that the small and middle-level hire-car owners are not harmed.`**, preserving the source's causal emphasis.
+6. **scan 67** — `a sound guide for the growth of our plans` → **`a sound yardstick for the growth of our plans`**, closer to the evaluative force of `நல்ல இலக்கணம்`.
+7. **scan 68** — `farmers are consequently put to difficulty` → **`farmers consequently suffer hardship`**, preserving meaning in more natural English.
+8. **scan 70** — `some details of the research he discovered` → **`some details of his research findings`**, removing awkward English without adding content.
+9. **scan 71** — `has been carrying on this research for the past two years` → **`has been conducting this research for the past two years`**, improving idiomatic fidelity.
+10. **scan 72** — `the Agriculture Department should be approached for the effort` → **`the Agriculture Department should be approached in this regard`**, matching the source's procedural sense.
+11. **scan 72** — `One or two projects have come to the State to that extent.` → **`To that extent, one or two projects have come to this State.`**, retaining the source repetition while improving syntax.
+12. **scan 73** — `South India and Bombay, unlike Uttar Pradesh and Bihar, are suited to sugarcane cultivation.` → **`Uttar Pradesh and Bihar are not as well suited to sugarcane cultivation as South India and Bombay.`**, restoring the source sentence's direction of comparison.
+13. **scan 74** — `If only in view of this importance` → **`At least in view of this important consideration`**, preserving `கருதியாவது` without awkward English.
+14. **scan 74** — `Such cut amounts must be demanded and secured boldly.` → **`We must boldly demand and secure sums cut in this way.`**, restoring the active exhortative voice.
+15. **scan 74** — `whether it is just to withhold several fair shares of tax revenue` → **`whether it is fair to withhold several tax shares that are rightfully due`**, preserving the meaning of `நியாயமான பல வரிப் பங்குகள்` more clearly.
+
+### Gate-G closure checks
+
+- English source-page sequence **60→75** — PASS;
+- M. Bhaktavatsalam intervention on scan 60 — PASS;
+- Finance Minister quotation across **61→62** — PASS;
+- all tax figures / dates / 45→50 paise / 25 July 1957 — PASS;
+- Khrushchev quotation across **64→65** — PASS;
+- public/private-sector lists and **5,000 buses / 200+ motor magnates** — PASS;
+- C. P. Ramaswami Aiyar quotations — PASS;
+- taxi figures **50 / 100** and source-bound **Keevaraj** — PASS;
+- Japan **60 lakh** farmers, seed-distribution argument and cooking analogy — PASS;
+- orchard / **Rs.6,000** bee-farm passage — PASS;
+- music/agriculture research figures **25–60%, 45%, 66%, 50–60%, 8–57%, 10–83%, 5.48 inches, 8 tons/acre** — PASS;
+- D. C. S. Singh / Aften Posten / Prithvi Prize / **Rs.2,000** / gold medal / `Man of Philosophy` — PASS;
+- K. Kamaraj intervention on scan 72 — PASS;
+- Salem / Tuticorin / Sethusamudram / **500 miles** — PASS;
+- sugar-production figures **311 / 321 / 888 / 74 thousand tons** — PASS;
+- Dr. P. Natarajan page references **196 / 174** — PASS;
+- source-printed English on scan 73 — **preserved exactly**:
+  - `The Hon. Member has already taken 25 minutes.`
+  - `Then it will be against the rules and regulations.`
+- four-crore-rupee / West Bengal / P. C. Roy / wrestler analogy — PASS;
+- goldsmiths / swimming / Kamaraj anecdote / final Budget close — PASS;
+- page-spanning syntax **60→61 through 74→75** — PASS;
+- verified-Tamil changes — **0**;
+- blocking fidelity issues — **0**.
+
+**English `verified_against_tamil=true`.**
+
 ## Exact next activity
 
-Perform **Gate G full English fidelity and voice review** for scans **60–75**, comparing this Gate-F English only against the final Gate-E-verified Tamil.
+Perform **Speech 6 Gate H canonical merge / index / release closure**.
 
-Do not begin Gate H or Speech 7 in the same iteration.
+Do not begin Speech 7 in the same iteration.
