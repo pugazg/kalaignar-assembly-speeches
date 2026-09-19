@@ -76,19 +76,25 @@
   },
   "translation": {
     "language": "English",
-    "status": "first-pass",
+    "status": "verified",
     "type": "faithful reading translation",
-    "placement": "working English in translation.md pending Gate G",
+    "placement": "working verified English in translation.md pending Gate H canonical merge",
     "source_text": "final Gate-E-verified Tamil transcript",
     "gate_f_status": "complete",
-    "verified_against_tamil": false,
-    "next_gate": "G",
+    "verified_against_tamil": true,
+    "next_gate": "H",
     "translated_source_pages": "60-75",
     "translated_page_count": 16,
     "gate_f_blocking_questions": 0,
     "source_printed_english_preserved": true,
     "source_printed_english_scan_pages": "73",
-    "verification_note": "Gate F translated all 16 pages only from the final Gate-E-verified Tamil. Source-printed English on scan 73 was preserved verbatim. No OCR, web, Official Report or alternate-anthology wording supplied English. Gate G full fidelity/voice review is next."
+    "verification_note": "Gate F translated all 16 pages only from the final Gate-E-verified Tamil. Gate G reviewed all 16 pages against that verified Tamil, applied 15 English fidelity/voice refinements, found 0 blocking fidelity issues, and made 0 Tamil changes. Source-printed English on scan 73 remains verbatim. No OCR, scan pixels, web research, Official Reports or alternate anthologies supplied English wording.",
+    "gate_g_status": "pass-complete",
+    "gate_g_reviewed_source_pages": "60-75",
+    "gate_g_reviewed_page_count": 16,
+    "gate_g_refinement_count": 15,
+    "gate_g_blocking_fidelity_issues": 0,
+    "gate_g_tamil_changes": 0
   },
   "release": {
     "status": "working",
@@ -96,6 +102,6 @@
     "release_ready": false,
     "gate_h_status": "not-started",
     "indexed": false,
-    "release_note": "Speech 6 is not released. Tamil Gates C-E are complete/verified and Gate F English first-pass translation is complete; Gate G is next."
+    "release_note": "Speech 6 is not released. Tamil Gates C-E are complete/verified and English Gates F-G are complete/verified; Gate H canonical merge / index / release closure is next."
   }
 }
