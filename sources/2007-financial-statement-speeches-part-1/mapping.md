@@ -123,7 +123,7 @@ Speech 6 / 7.3.1963 was processed as the current **16-page Gate-C activity**. Sp
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speeches 1–5 CLOSED; Speech 6 COMPLETE / 16 of 16 / Tamil TRANSCRIBED NOT VERIFIED; speeches 7–19 not started**
-- Gate D — **Speeches 1–5 PASS / COMPLETE — 0 completeness corrections each**
+- Gate D — **Speeches 1–5 PASS / COMPLETE — 0 completeness corrections each; Speech 6 PASS / COMPLETE — 16/16 pages / 0 completeness corrections**
 - Gate E — **Speech 1 PASS / 9 corrections; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; all 1–5 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–5 — modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
 - Gate F — **Speeches 1–5 COMPLETE — page counts 7 / 9 / 9 / 6 / 11**
@@ -138,20 +138,22 @@ Speech 6 / 7.3.1963 was processed as the current **16-page Gate-C activity**. Sp
 - scan **60** — remains the start of Speech 6;
 - verified wording changes during Gate H — **0 Tamil / 0 English**.
 
-## Speech 6 Gate-C state
+## Speech 6 Gates C–D state
 
 - working entry — `speeches/1963/1963-03-07-financial-statement-debate/`
 - scans **60–75 / printed pp.59–74**
 - Gate C — **COMPLETE / 16 of 16 pages**
+- Gate D — **PASS / COMPLETE / 16 of 16 pages / 0 completeness corrections**
 - markers — **60→75 exactly once and in order**
 - boundary **59→60** — preserved
 - boundary **75→76** — preserved; scan 76 remains Speech 7
+- interventions / source-printed English / quotations / figures / 15 page transitions — structurally complete
 - unresolved first-pass readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
-- Gate D — **NOT STARTED / next**
-- Gate E / English — **NOT STARTED / BLOCKED**
+- Gate E — **NOT STARTED / next**
+- English — **BLOCKED**
 - outside wording — **none**
 
 ## Exact continuation
 
-Speeches **1–5 are RELEASED / CLOSED through Gate H**. Speech 6 Gate C is complete. Exact next: **Speech 6 / 7.3.1963 — Gate D completeness audit, scans 60–75 / 16 pages**. Do not begin Gate E, English or Speech 7 in the same iteration.
+Speeches **1–5 are RELEASED / CLOSED through Gate H**. Speech 6 Gates C–D are complete. Exact next: **Speech 6 / 7.3.1963 — Gate E strict page-by-page visual source-fidelity verification, scans 60–75 / 16 pages**. Do not begin English or Speech 7 in the same iteration.
