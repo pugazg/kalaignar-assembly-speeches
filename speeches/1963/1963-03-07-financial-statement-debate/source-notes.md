@@ -33,7 +33,9 @@ Throughout this speech, `printed page = PDF scan page - 1`.
 
 First-pass unresolved readings: **0**.
 
-Tamil status remains **TRANSCRIBED / NOT VERIFIED**. Gate C does not certify word-for-word fidelity; Gate D completeness and Gate E strict visual verification remain pending.
+Gate D completeness audit is **PASS / COMPLETE — 16/16 pages / 0 completeness corrections**. Markers 60→75, boundaries 59→60 and 75→76, all interventions, quotations, figures and page transitions are structurally complete.
+
+Tamil status remains **TRANSCRIBED / NOT VERIFIED**. Gate D establishes structural completeness only; Gate E strict page-by-page visual source-fidelity verification remains pending.
 
 ## Historical-glyph gate
 
@@ -41,4 +43,4 @@ This is modern 2007 typesetting. Gate C.5 is **provisionally N/A** for Speech 6 
 
 ## Exact next
 
-**Gate D completeness audit — scans 60–75 / 16 pages.** Do not begin Gate E, English or Speech 7 in the same iteration.
+**Gate E strict page-by-page visual source-fidelity verification — scans 60–75 / 16 pages.** Do not begin English or Speech 7 in the same iteration.
