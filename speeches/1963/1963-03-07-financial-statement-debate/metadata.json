@@ -76,13 +76,19 @@
   },
   "translation": {
     "language": "English",
-    "status": "not-started",
+    "status": "first-pass",
     "type": "faithful reading translation",
-    "placement": "working English file to be created at Gate F",
+    "placement": "working English in translation.md pending Gate G",
     "source_text": "final Gate-E-verified Tamil transcript",
-    "gate_f_status": "not-started",
+    "gate_f_status": "complete",
     "verified_against_tamil": false,
-    "next_gate": "F"
+    "next_gate": "G",
+    "translated_source_pages": "60-75",
+    "translated_page_count": 16,
+    "gate_f_blocking_questions": 0,
+    "source_printed_english_preserved": true,
+    "source_printed_english_scan_pages": "73",
+    "verification_note": "Gate F translated all 16 pages only from the final Gate-E-verified Tamil. Source-printed English on scan 73 was preserved verbatim. No OCR, web, Official Report or alternate-anthology wording supplied English. Gate G full fidelity/voice review is next."
   },
   "release": {
     "status": "working",
@@ -90,6 +96,6 @@
     "release_ready": false,
     "gate_h_status": "not-started",
     "indexed": false,
-    "release_note": "Speech 6 is not released. Tamil Gates C-E are complete and verified; Gate F English translation is next."
+    "release_note": "Speech 6 is not released. Tamil Gates C-E are complete/verified and Gate F English first-pass translation is complete; Gate G is next."
   }
 }
