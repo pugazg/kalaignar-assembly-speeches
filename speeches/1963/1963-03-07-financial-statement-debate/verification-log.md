@@ -142,8 +142,21 @@ English status: **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL**.
 
 Detailed Gate-F preservation notes are in `translation-review.md`.
 
+## Gate G — English fidelity / voice review
+
+**Status:** PASS / COMPLETE — 16/16 pages
+
+- Gate-F English source-page sequence **60→75** reviewed against final verified Tamil;
+- English refinements — **15**;
+- blocking fidelity issues — **0**;
+- verified-Tamil changes — **0**;
+- source-printed English on scan 73 — preserved verbatim;
+- English `verified_against_tamil=true`.
+
+Detailed page coverage and the 15-item refinement ledger are in `translation-review.md`.
+
 ## Next gate
 
-**Gate G — NOT STARTED / exact next.**
+**Gate H — NOT STARTED / exact next.**
 
-Perform the full English fidelity and voice review for scans 60–75 against the final verified Tamil. Do not begin Gate H or Speech 7 in the same iteration.
+Perform canonical merge / index / release closure for Speech 6. Do not begin Speech 7 in the same iteration.
