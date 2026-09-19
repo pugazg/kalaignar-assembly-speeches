@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1–5 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 6 Gates C–E are **COMPLETE / Tamil VERIFIED** and Gates F–G are **COMPLETE / English VERIFIED AGAINST TAMIL**; Gate H is next.
+Speeches 1–6 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 7 / 7.3.1964 is the next untouched unit.
 
 ## Whole-speech batching policy
 
@@ -258,7 +258,7 @@ The paired 17-page activity is **PASS / COMPLETE**.
 - root dated index / `data/speeches.json` — synchronized;
 - outside wording from OCR / booklet pixels / web / Official Reports / alternate anthologies — **none**.
 
-## Speech 6 Gates C–G state
+## Speech 6 Gate-H closure
 
 Reader/work entry:
 
@@ -275,11 +275,12 @@ Reader/work entry:
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - source-printed English on scan 73 — **preserved verbatim**
 - Gate-F blocking translation questions — **0**
-- Gate H — **NOT STARTED / next**
+- Gate H — **PASS / COMPLETE**
 - hard boundaries **59→60** and **75→76** — preserved
+- release — **RELEASED / CLOSED**
 - Speech 7 / scan 76 — not started
 - outside wording from OCR / web / Official Reports / alternate anthologies — **none**
 
 ## Exact next activity
 
-Perform **Speech 6 / 7.3.1963 — Gate H canonical merge / index / release closure**. Do **not** begin Speech 7 in the same iteration.
+Begin **Speech 7 / 7.3.1964 — Gate C Tamil first-pass transcription**, scans **76–89 / 14 pages**.
