@@ -53,6 +53,14 @@ This is modern 2007 typesetting. Gate C.5 is **N/A / CLOSED** for Speech 6: the 
 
 The English was derived and reviewed only against the final Gate-E-verified Tamil. No OCR, scan pixels, web research, Official Reports or alternate anthologies supplied wording.
 
+## Gate H release state
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+The verified Tamil and Gate-G-verified English are canonical together in `transcript.md`. `translation.md` has been retired to a pointer. Repository indexes and anthology/control surfaces are synchronized. Gate H changed **0 Tamil words** and **0 English words**.
+
+Hard boundaries **59→60** and **75→76** remain preserved; scan 76 remains outside this speech.
+
 ## Exact next
 
-**Gate H canonical merge / index / release closure.** Do not begin Speech 7 in the same iteration.
+**Speech 7 / 7.3.1964 — Gate C Tamil first-pass transcription, scans 76–89 / 14 pages.**
