@@ -122,13 +122,13 @@ Speech 6 / 7.3.1963 was processed as the current **16-page Gate-C activity**. Sp
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–5 CLOSED; Speech 6 COMPLETE / 16 of 16; speeches 7–19 not started**
-- Gate D — **Speeches 1–5 PASS / COMPLETE — 0 completeness corrections each; Speech 6 PASS / COMPLETE — 16/16 pages / 0 completeness corrections**
+- Gate C — **Speeches 1–6 CLOSED; speeches 7–19 not started**
+- Gate D — **Speeches 1–6 PASS / COMPLETE — 0 completeness corrections each**
 - Gate E — **Speech 1 / 9 corrections; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; all 1–6 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–6 — modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
-- Gate F — **Speeches 1–6 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16; Speech 6 English FIRST-PASS / not yet Gate-G verified**
+- Gate F — **Speeches 1–6 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16**
 - Gate G — **Speeches 1–6 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15; 0 blockers; English VERIFIED**
-- Gate H — **Speeches 1–5 PASS / COMPLETE — RELEASED / CLOSED**
+- Gate H — **Speeches 1–6 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Gate-H boundary / release check for Speeches 4–5
 
@@ -138,7 +138,7 @@ Speech 6 / 7.3.1963 was processed as the current **16-page Gate-C activity**. Sp
 - scan **60** — remains the start of Speech 6;
 - verified wording changes during Gate H — **0 Tamil / 0 English**.
 
-## Speech 6 Gates C–G state
+## Speech 6 Gate-H closure
 
 - working entry — `speeches/1963/1963-03-07-financial-statement-debate/`
 - scans **60–75 / printed pp.59–74**
@@ -152,11 +152,12 @@ Speech 6 / 7.3.1963 was processed as the current **16-page Gate-C activity**. Sp
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - source-printed English scan 73 — **preserved verbatim**
 - Gate-F blockers — **0**
-- Gate H — **NOT STARTED / next**
+- Gate H — **PASS / COMPLETE**
 - boundaries **59→60** and **75→76** — preserved
+- release — **RELEASED / CLOSED**
 - Speech 7 not started
 - outside wording — **none**
 
 ## Exact continuation
 
-Speeches **1–5 are RELEASED / CLOSED through Gate H**. Speech 6 Gates C–G are complete with verified Tamil and verified English. Exact next: **Speech 6 / 7.3.1963 — Gate H canonical merge / index / release closure**. Do not begin Speech 7 in the same iteration.
+Speeches **1–6 are RELEASED / CLOSED through Gate H**. Exact next: **Speech 7 / 7.3.1964 — Gate C Tamil first-pass transcription, scans 76–89 / 14 pages**.
