@@ -63,6 +63,48 @@
     "gate_h_status": "passed"
   },
   {
+    "id": "1961-03-06-financial-statement-debate",
+    "date": "1961-03-06",
+    "year": 1961,
+    "speaker_ta": "மு. கருணாநிதி",
+    "speaker_en": "M. Karunanidhi",
+    "title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் — உரை : 4",
+    "title_en": "Kalaignar's Legislative Assembly Speeches on the Financial Statement — Speech 4",
+    "event_ta": "நிதிநிலை அறிக்கை மீது உரை",
+    "event_en": "Speech on the financial statement",
+    "path": "speeches/1961/1961-03-06-financial-statement-debate",
+    "languages": [
+      "ta",
+      "en"
+    ],
+    "transcription_status": "verified",
+    "verified_against_scan": true,
+    "translation_status": "verified",
+    "release_status": "released",
+    "gate_h_status": "passed"
+  },
+  {
+    "id": "1962-07-02-financial-statement-debate",
+    "date": "1962-07-02",
+    "year": 1962,
+    "speaker_ta": "மு. கருணாநிதி",
+    "speaker_en": "M. Karunanidhi",
+    "title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் — உரை : 5",
+    "title_en": "Kalaignar's Legislative Assembly Speeches on the Financial Statement — Speech 5",
+    "event_ta": "நிதிநிலை அறிக்கை மீது உரை",
+    "event_en": "Speech on the financial statement",
+    "path": "speeches/1962/1962-07-02-financial-statement-debate",
+    "languages": [
+      "ta",
+      "en"
+    ],
+    "transcription_status": "verified",
+    "verified_against_scan": true,
+    "translation_status": "verified",
+    "release_status": "released",
+    "gate_h_status": "passed"
+  },
+  {
     "id": "1963-03-21-industries-debate",
     "date": "1963-03-21",
     "year": 1963,
