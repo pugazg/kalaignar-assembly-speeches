@@ -32,8 +32,8 @@
 - Gate D — **PASS / COMPLETE — 16/16 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 16/16 pages; 20 source-fidelity corrections; 0 unresolved readings**
 - Gate F English — **COMPLETE / 16 of 16 pages**
-- English — **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL**
-- Gate G — **NOT STARTED / next**
+- Gate G — **PASS / COMPLETE — 16/16 pages; 15 refinements; 0 blockers; 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - release status — **WORKING / NOT RELEASED**
 
 Gate C and Gate E used only the rendered scan pixels from the controlling anthology. No OCR, web copy, Official Report or alternate anthology supplied wording.
@@ -44,7 +44,7 @@ The verified Tamil preserves source spelling, punctuation, numerals, quotations,
 
 - [`transcript.md`](./transcript.md) — Gate-E-verified Tamil transcript
 - [`translation.md`](./translation.md) — Gate-F English first-pass translation
-- [`translation-review.md`](./translation-review.md) — Gate-F record / Gate-G review surface
+- [`translation-review.md`](./translation-review.md) — Gates F–G English fidelity audit
 - [`metadata.json`](./metadata.json) — source and gate state
 - [`source-notes.md`](./source-notes.md) — source authority and locked boundary
 - [`verification-log.md`](./verification-log.md) — Gates C–E audit trail
@@ -73,20 +73,19 @@ All **16/16** scans were re-read directly against rendered source pixels. Gate E
 
 The correction ledger is recorded in `verification-log.md`. Source-printed English in the Speaker interventions on scan 73 remains verbatim. Gate C.5 is now **N/A / CLOSED** because the full visual verification found no historical/reform-sensitive glyph anomaly.
 
-## Gate F result
+## Gate F / Gate G result
 
-**COMPLETE — 16/16 English pages.**
+- Gate F — **COMPLETE / 16 of 16 English pages**
+- Gate G — **PASS / COMPLETE / 16 of 16 pages**
+- Gate-G refinements — **15**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed English on scan 73 — **preserved verbatim**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- outside wording from OCR / scan pixels / web / Official Reports / alternate anthologies — **none**
 
-Gate F used only the final Gate-E-verified Tamil in `transcript.md`. The working English is in `translation.md`, with source-page sections **60→75**.
-
-- Gate-F blocking translation questions — **0**;
-- source-printed English on scan 73 — **preserved verbatim**;
-- all source figures, dates, quantities, quotations, interventions and page-spanning arguments carried into the first pass;
-- no OCR, web copy, Official Report or alternate anthology supplied English wording;
-- verified Tamil changes — **0**.
-
-English remains **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL**.
+The detailed refinement ledger and page-by-page review are in `translation-review.md`.
 
 ## Exact next activity
 
-Perform **Speech 6 Gate G full English fidelity and voice review**, scans **60–75 / 16 pages**, comparing only the final verified Tamil and Gate-F English. Do not begin Gate H or Speech 7 in the same iteration.
+Perform **Speech 6 Gate H canonical merge / index / release closure**. Do not begin Speech 7 in the same iteration.
