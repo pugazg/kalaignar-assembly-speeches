@@ -138,7 +138,7 @@ Speech 6 / 7.3.1963 was processed as the current **16-page Gate-C activity**. Sp
 - scan **60** — remains the start of Speech 6;
 - verified wording changes during Gate H — **0 Tamil / 0 English**.
 
-## Speech 6 Gates C–F state
+## Speech 6 Gates C–G state
 
 - working entry — `speeches/1963/1963-03-07-financial-statement-debate/`
 - scans **60–75 / printed pp.59–74**
