@@ -35,12 +35,12 @@ First-pass unresolved readings: **0**.
 
 Gate D completeness audit is **PASS / COMPLETE — 16/16 pages / 0 completeness corrections**. Markers 60→75, boundaries 59→60 and 75→76, all interventions, quotations, figures and page transitions are structurally complete.
 
-Tamil status remains **TRANSCRIBED / NOT VERIFIED**. Gate D establishes structural completeness only; Gate E strict page-by-page visual source-fidelity verification remains pending.
+Gate E strict page-by-page visual source-fidelity verification is **PASS / COMPLETE — 16/16 pages**. It applied **20 source-fidelity corrections** across scans 61, 62, 63, 64, 66, 70 and 72; **0 unresolved readings** remain. Tamil is now **VERIFIED / verified_against_scan=true**. The source-printed English on scan 73 was preserved exactly.
 
 ## Historical-glyph gate
 
-This is modern 2007 typesetting. Gate C.5 is **provisionally N/A** for Speech 6 and must be reopened only if later page-specific visual evidence shows a legacy/reform-sensitive glyph issue.
+This is modern 2007 typesetting. Gate C.5 is **N/A / CLOSED** for Speech 6: the complete Gate-E visual audit found no historical/reform-sensitive glyph anomaly.
 
 ## Exact next
 
-**Gate E strict page-by-page visual source-fidelity verification — scans 60–75 / 16 pages.** Do not begin English or Speech 7 in the same iteration.
+**Gate F English translation — scans 60–75 / 16 pages**, using only the final Gate-E-verified Tamil as the translation source. Preserve source-printed English exactly. Do not begin Gate G or Speech 7 in the same iteration.
