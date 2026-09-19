@@ -97,7 +97,7 @@ Treat this 2007 anthology as its own witness.
 - Gate D — **Speeches 1–5 PASS / COMPLETE — 0 completeness corrections each; Speech 6 PASS / COMPLETE — 16/16 pages / 0 completeness corrections**
 - Gate E — **Speeches 1–6 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20; unresolved 0**
 - Gate F — **Speeches 1–6 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16; Speech 6 English FIRST-PASS / Gate G pending**
-- Gate G — **Speeches 1–5 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11; 0 blockers; English VERIFIED**
+- Gate G — **Speeches 1–6 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15; 0 blockers; English VERIFIED**
 - Gate H — **Speeches 1–5 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Speech 1 durable Gate-C state
@@ -369,18 +369,19 @@ Canonical working entry:
 - Tamil — **VERIFIED / verified_against_scan=true**
 - Gate C.5 — **N/A / CLOSED**
 - Gate F — **COMPLETE / 16 of 16 English pages**
-- English — **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL**
+- Gate G — **PASS / COMPLETE / 16 of 16 pages / 15 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - source-printed English scan 73 — **preserved verbatim**
 - Gate-F blocking questions — **0**
 - hard boundaries **59→60** and **75→76** — preserved
 - scan 76 / Speech 7 — excluded and not started
-- Gate G — **NOT STARTED / exact next**
+- Gate H — **NOT STARTED / exact next**
 - release — **WORKING / NOT RELEASED**
 
-Gate F translated only from the final Gate-E-verified Tamil. No OCR, web copy, Official Report or alternate anthology supplied English wording.
+Gate F translated only from the final Gate-E-verified Tamil. Gate G reviewed the English only against that verified Tamil, applying 15 refinements with 0 blockers and 0 Tamil changes. No OCR, scan pixels, web research, Official Reports or alternate anthologies supplied English wording.
 
 ## Exact next activity
 
-Perform **Speech 6 / 7.3.1963 — Gate G full English fidelity and voice review**, scans **60–75 / 16 pages**, comparing only the final verified Tamil and Gate-F English.
+Perform **Speech 6 / 7.3.1963 — Gate H canonical merge / index / release closure**.
 
-Do not begin Gate H or Speech 7 in the same iteration. Do not reopen released Speeches 1–5 merely for stylistic polishing.
+Do not begin Speech 7 in the same iteration. Do not reopen released Speeches 1–5 merely for stylistic polishing.
