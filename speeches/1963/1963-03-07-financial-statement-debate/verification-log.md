@@ -125,8 +125,25 @@ Scans **60, 65, 67, 68, 69, 71, 73, 74 and 75** required no text correction.
 
 Tamil status: **VERIFIED / verified_against_scan=true**.
 
+## Gate F — English first-pass translation
+
+**Status:** COMPLETE — 16/16 pages
+
+Translation authority:
+
+- final Gate-E-verified Tamil in `transcript.md` only;
+- source-page sequence **60→75** preserved in `translation.md`;
+- source-printed English on scan 73 preserved verbatim;
+- OCR / web copy / Official Report / alternate anthology wording — **none**;
+- Gate-F blocking translation questions — **0**;
+- verified-Tamil changes — **0**.
+
+English status: **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL**.
+
+Detailed Gate-F preservation notes are in `translation-review.md`.
+
 ## Next gate
 
-**Gate F — NOT STARTED / exact next.**
+**Gate G — NOT STARTED / exact next.**
 
-Translate the final Gate-E-verified Tamil for scans 60–75 into English, preserving source-printed English verbatim. Do not begin Gate G or Speech 7 in the same iteration.
+Perform the full English fidelity and voice review for scans 60–75 against the final verified Tamil. Do not begin Gate H or Speech 7 in the same iteration.
