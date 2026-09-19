@@ -64,4 +64,20 @@ This is modern 2007 typesetting. Gate C.5 is **N/A / CLOSED** for this speech; G
 - verified-Tamil changes — **0**
 - source-printed English scan 48 — **preserved verbatim**
 - English `verified_against_tamil=true`
-- Gate H — **next**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+
+## Gate H — canonical merge / index / release closure
+
+- status — **PASS / COMPLETE — RELEASED / CLOSED**
+- canonical bilingual `transcript.md` — verified Tamil followed by verified English
+- `translation.md` — retired to a pointer
+- Tamil source markers — **43→48**, complete and ordered
+- English source-page sections — **43→48**, complete and ordered
+- Gate-G totals — **6 refinements / 0 blockers / 0 Tamil changes**
+- source-printed English on scan 48 — **preserved exactly**
+- boundary **48→49** — **preserved**; scan 49 remains Speech 5
+- root and machine-readable dated indexes — synchronized
+- Gate-H verified-Tamil wording changes — **0**
+- Gate-H verified-English wording changes — **0**
+
+No OCR, web copy, Official Report or alternate anthology supplied Gate-H wording.
