@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1–5 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 6 Gates C–D are **COMPLETE / Gate D PASS / 16 of 16 pages / 0 completeness corrections**; Tamil remains **TRANSCRIBED / NOT VERIFIED** and Gate E is next.
+Speeches 1–5 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 6 Gates C–E are **COMPLETE / Tamil VERIFIED**, and Gate F English is **COMPLETE / 16 of 16 pages / FIRST-PASS**; Gate G is next.
 
 ## Whole-speech batching policy
 
@@ -69,7 +69,7 @@ For ongoing anthology processing, use a **maximum of 25 source-scan pages per ac
 - if the next complete speech would push the activity above 25 pages, defer that **entire speech** to the next activity;
 - if a single speech itself exceeds 25 pages, process it separately as one intact speech unit rather than splitting or dropping it.
 
-Current Gate-C activity: Speech 6 / 7.3.1963 is **16 pages / scans 60–75** and is complete. Speech 7 is **14 pages / scans 76–89** and remains deferred; it was not started in the Speech-6 activity.
+Current Speech-6 activity remains bounded to **16 pages / scans 60–75**. Speech 7 is **14 pages / scans 76–89** and remains deferred; it has not been started.
 
 ## Parallel-witness / released-material rule
 
@@ -258,7 +258,7 @@ The paired 17-page activity is **PASS / COMPLETE**.
 - root dated index / `data/speeches.json` — synchronized;
 - outside wording from OCR / booklet pixels / web / Official Reports / alternate anthologies — **none**.
 
-## Speech 6 Gates C–D state
+## Speech 6 Gates C–F state
 
 Reader/work entry:
 
@@ -266,22 +266,19 @@ Reader/work entry:
 
 - scans **60–75 / printed pp.59–74**
 - Gate C — **COMPLETE / 16 of 16 pages**
-- Gate D — **PASS / COMPLETE / 16 of 16 pages / 0 completeness corrections**
-- source markers — **60→75 exactly once and in order**
+- Gate D — **PASS / COMPLETE / 0 completeness corrections**
+- Gate E — **PASS / COMPLETE / 20 source-fidelity corrections / 0 unresolved**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED**
+- Gate F English — **COMPLETE / 16 of 16 pages**
+- English — **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL**
+- source-printed English on scan 73 — **preserved verbatim**
+- Gate-F blocking translation questions — **0**
+- Gate G — **NOT STARTED / next**
 - hard boundaries **59→60** and **75→76** — preserved
-- scan 76 / Speech 7 — excluded
-- M. Bhaktavatsalam scan 60 / K. Kamaraj scan 72 / Speaker scan 73 interventions — structurally represented
-- scan-73 source-printed English — structurally represented
-- quotations, dates, numerals, quantities, book/page references and all 15 page transitions — PASS
-- first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- Gate C.5 — **provisionally N/A**
-- Gate E — **NOT STARTED / next**
-- English — **BLOCKED**
+- Speech 7 / scan 76 — not started
 - outside wording from OCR / web / Official Reports / alternate anthologies — **none**
-
-Gate D made **0 wording/completeness changes**. It establishes structural completeness only; strict word-for-word source fidelity remains for Gate E.
 
 ## Exact next activity
 
-Perform **Speech 6 / 7.3.1963 — Gate E strict page-by-page visual source-fidelity verification**, scans **60–75 / 16 pages**. Do **not** begin English or Speech 7 in the same iteration.
+Perform **Speech 6 / 7.3.1963 — Gate G full English fidelity and voice review**, scans **60–75 / 16 pages**, comparing only the final Gate-E-verified Tamil and Gate-F English. Do **not** begin Gate H or Speech 7 in the same iteration.
