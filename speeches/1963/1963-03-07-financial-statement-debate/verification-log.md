@@ -77,8 +77,56 @@ Checks completed against the locked source range:
 
 Gate D establishes structural completeness only; Tamil remains **TRANSCRIBED / NOT VERIFIED**.
 
+## Gate E — strict page-by-page visual source-fidelity verification
+
+**Status:** PASS / COMPLETE — 16/16 pages
+
+Every page was re-read directly against rendered source pixels. Source spelling, compounds/spacing, punctuation, Tamil/English mixed-script items, numerals, dates, quantities, proper names, quotations, intervention labels and source-printed English were checked without outside normalization.
+
+### Corrections applied
+
+1. **scan 61 / printed p.60** — punctuation: `நாட்டம் செலுத்த வேண்டும், எந்த அளவுக்குத்` → **`நாட்டம் செலுத்த வேண்டும். எந்த அளவுக்குத்`**.
+2. **scan 62 / printed p.61** — source word restored: `பாராட்டத்தக்கதுதான்` → **`பாராட்டுதற்குரியதுதான்`**.
+3. **scan 62 / printed p.61** — source quotation marks restored: `இது வரி போடப்படாத வரவு செலவுத்திட்டம் அல்லவா என்று ஆளும்` → **`‘இது வரி போடப்படாத வரவு செலவுத்திட்டம் அல்லவா’ என்று ஆளும்`**.
+4. **scan 62 / printed p.61** — nested source quotation/punctuation restored around **`“அவலை நினைத்துக்கொண்டு உரலை இடிக்கிறார்கள்”`**; removed the non-source comma/extra closing quotation before `என்று பேசினார்கள்`.
+5. **scan 62 / printed p.61** — punctuation: `தவறாமல் எடுத்துச் சொல்லியிருக்கிறார்கள்` → **`தவறாமல், எடுத்துச் சொல்லியிருக்கிறார்கள்`**.
+6. **scan 62 / printed p.61** — source compound: `நேற்றைய தினம்` → **`நேற்றையதினம்`**.
+7. **scan 62 / printed p.61** — source single quotation marks restored around **`‘இந்த வரவு-செலவுத்திட்டத்திலே வரி போட்டிருப்போமானால் அதுதான் கடைசி வரியாக இருக்கும்’`**.
+8. **scan 63 / printed p.62** — source spacing/quotation: `“இந்த ஆண்டு வரவு செலவுத் திட்டத்திலே வரி போட எங்கே இடம் இருக்கிறது?”` → **`‘இந்த ஆண்டு வரவு செலவுத் திட்டத்திலே வரிபோட எங்கே இடம் இருக்கிறது?’`**.
+9. **scan 63 / printed p.62** — source spacing/quotation: `“வரி போட்டிருந்தால் ...”` → **`‘வரிபோட்டிருந்தால் ...’`**.
+10. **scan 64 / printed p.63** — source single quotation marks restored around **`‘வரியே இல்லை’`**.
+11. **scan 64 / printed p.63** — source single quotation marks restored around **`‘இன்றைய தினம் உன்னை அடிக்கப்போவதில்லை’`**.
+12. **scan 64 / printed p.63** — source single quotation marks restored around **`‘என் மீது அவ்வளவு காதலா பிறந்துவிட்டது’`**.
+13. **scan 64 / printed p.63** — source spacing/punctuation: `இல்லை! இல்லை!` → **`இல்லை ! இல்லை!`**.
+14. **scan 64 / printed p.63** — source single quotation marks restored around **`‘உன்னை அடித்து அடித்து என் கை வலி வந்துவிட்டது’`**.
+15. **scan 64 / printed p.63** — source single quotation marks restored around **`‘சுமை இறக்கப்படாதா?’`**.
+16. **scan 66 / printed p.65** — source single quotation marks restored around **`‘எனக்கு மட்டும் அதிகாரம் இருக்கிறது என்றால் எல்லாப் போக்குவரத்துத் துறைகளையும் தேசியமயமாக்குவேன்’`**.
+17. **scan 66 / printed p.65** — source single quotation marks restored around **`‘எனக்கு மட்டும் அதிகாரம் இருந்தால் எல்லாப் போக்குவரத்துத் துறைகளையும் தேசியமயமாக்குவேன்’`**.
+18. **scan 66 / printed p.65** — source spacing: `இருக்கக்கூடாதா` → **`இருக்கக் கூடாதா`**.
+19. **scan 70 / printed p.69** — source punctuation: `ஒரு வட நாட்டுக்காரர் இருக்கிறார். தனிப்பட்டவர்...` → **`ஒரு வட நாட்டுக்காரர் இருக்கிறார் - தனிப்பட்டவர்...`**.
+20. **scan 72 / printed p.71** — source wording: `விவசாய இலாகாவின் இது குறித்து` → **`விவசாய இலாகாவினர் இது குறித்து`**.
+
+Scans **60, 65, 67, 68, 69, 71, 73, 74 and 75** required no text correction.
+
+### Gate-E closure checks
+
+- [x] scans **60–75** all verified directly against rendered source pixels;
+- [x] markers **60→75** remain exactly once and in order;
+- [x] boundaries **59→60** and **75→76** remain intact;
+- [x] M. Bhaktavatsalam intervention on scan 60 verified;
+- [x] K. Kamaraj intervention on scan 72 verified;
+- [x] both Speaker interventions on scan 73 verified;
+- [x] source-printed English on scan 73 preserved exactly:
+  - `The Hon. Member has already taken 25 minutes.`
+  - `Then it will be against the rules and regulations.`
+- [x] quotations, dates, numerals, quantities, proper names and book/page references checked;
+- [x] unresolved readings — **0**;
+- [x] no historical/reform-sensitive glyph anomaly found; Gate C.5 — **N/A / CLOSED**.
+
+Tamil status: **VERIFIED / verified_against_scan=true**.
+
 ## Next gate
 
-**Gate E — NOT STARTED / exact next.**
+**Gate F — NOT STARTED / exact next.**
 
-Perform strict page-by-page visual source-fidelity verification against rendered scans 60–75. Do not begin English or Speech 7 in the same iteration.
+Translate the final Gate-E-verified Tamil for scans 60–75 into English, preserving source-printed English verbatim. Do not begin Gate G or Speech 7 in the same iteration.
