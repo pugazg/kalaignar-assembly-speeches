@@ -155,8 +155,24 @@ Detailed Gate-F preservation notes are in `translation-review.md`.
 
 Detailed page coverage and the 15-item refinement ledger are in `translation-review.md`.
 
-## Next gate
+## Gate H — canonical merge / index / release closure
 
-**Gate H — NOT STARTED / exact next.**
+**Status:** PASS / COMPLETE — RELEASED / CLOSED
 
-Perform canonical merge / index / release closure for Speech 6. Do not begin Speech 7 in the same iteration.
+- [x] Tamil markers **60→75** preserved exactly once and in order;
+- [x] English sections **60→75** preserved exactly once and in order;
+- [x] canonical bilingual `transcript.md` contains verified Tamil followed by verified English;
+- [x] source-printed English on scan 73 preserved verbatim;
+- [x] `translation.md` retired to pointer after canonical-English presence was confirmed;
+- [x] root dated index synchronized;
+- [x] `data/speeches.json` synchronized;
+- [x] anthology README / mapping / handover synchronized;
+- [x] hard boundaries **59→60** and **75→76** preserved;
+- [x] verified Tamil wording changes during Gate H — **0**;
+- [x] verified English wording changes during Gate H — **0**.
+
+Final disposition: **Speech 6 RELEASED / CLOSED**.
+
+## Exact next
+
+**Speech 7 / 7.3.1964 — Gate C Tamil first-pass transcription, scans 76–89 / 14 pages.**
