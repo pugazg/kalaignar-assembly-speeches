@@ -78,11 +78,11 @@
     "language": "English",
     "status": "verified",
     "type": "faithful reading translation",
-    "placement": "working verified English in translation.md pending Gate H canonical merge",
+    "placement": "canonical in transcript.md; translation.md retired to pointer",
     "source_text": "final Gate-E-verified Tamil transcript",
     "gate_f_status": "complete",
     "verified_against_tamil": true,
-    "next_gate": "H",
+    "next_gate": null,
     "translated_source_pages": "60-75",
     "translated_page_count": 16,
     "gate_f_blocking_questions": 0,
@@ -94,14 +94,20 @@
     "gate_g_reviewed_page_count": 16,
     "gate_g_refinement_count": 15,
     "gate_g_blocking_fidelity_issues": 0,
-    "gate_g_tamil_changes": 0
+    "gate_g_tamil_changes": 0,
+    "gate_h_status": "pass-complete",
+    "canonical_merged": true
   },
   "release": {
-    "status": "working",
-    "released": false,
-    "release_ready": false,
-    "gate_h_status": "not-started",
-    "indexed": false,
-    "release_note": "Speech 6 is not released. Tamil Gates C-E are complete/verified and English Gates F-G are complete/verified; Gate H canonical merge / index / release closure is next."
+    "status": "released",
+    "released": true,
+    "release_ready": true,
+    "gate_h_status": "pass-complete",
+    "indexed": true,
+    "release_note": "Speech 6 Gate H PASS / COMPLETE. Canonical bilingual transcript and repository indexes synchronized; translation.md retired to a pointer; no verified Tamil or English wording changed during Gate H.",
+    "canonical_bilingual_transcript": true,
+    "translation_working_copy_retired": true,
+    "gate_h_wording_changes_tamil": 0,
+    "gate_h_wording_changes_english": 0
   }
 }
