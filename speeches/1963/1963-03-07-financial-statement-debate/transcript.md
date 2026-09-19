@@ -2,7 +2,7 @@
 
 **நாள் : 7.3.1963**
 
-> **Workflow state:** Gates C–E are **COMPLETE** for scans 60–75 / printed pp.59–74. Gate D passed with **0 completeness corrections**. Gate E strict page-by-page visual source-fidelity verification passed **16/16 pages** with **20 source-fidelity corrections** and **0 unresolved readings**. Source-page markers 60→75 remain exactly once and in order; boundaries 59→60 and 75→76 pass. Tamil is **VERIFIED / verified_against_scan=true**. Gate C.5 is **N/A / CLOSED** for this modern 2007 typesetting; no historical/reform-sensitive glyph anomaly was found. Gate F English first-pass translation is **COMPLETE / 16 of 16 pages** in `translation.md`; English is **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL**. Gate G is next.
+> **Workflow state:** Gates C–E are **COMPLETE** for scans 60–75 / printed pp.59–74. Gate D passed with **0 completeness corrections**. Gate E strict page-by-page visual source-fidelity verification passed **16/16 pages** with **20 source-fidelity corrections** and **0 unresolved readings**. Source-page markers 60→75 remain exactly once and in order; boundaries 59→60 and 75→76 pass. Tamil is **VERIFIED / verified_against_scan=true**. Gate C.5 is **N/A / CLOSED** for this modern 2007 typesetting; no historical/reform-sensitive glyph anomaly was found. Gate F English first-pass translation is **COMPLETE / 16 of 16 pages** and Gate G full fidelity/voice review is **PASS / COMPLETE / 16 of 16 pages / 15 refinements / 0 blockers / 0 Tamil changes**. English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**. Gate H canonical merge / index / release closure is next.
 
 <!-- source-page: 60 -->
 
