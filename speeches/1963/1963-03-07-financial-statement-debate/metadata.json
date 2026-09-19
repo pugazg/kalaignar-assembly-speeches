@@ -1,0 +1,83 @@
+{
+  "id": "1963-03-07-financial-statement-debate",
+  "date": "1963-03-07",
+  "year": 1963,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "source_label_ta": "கலைஞர் மு. கருணாநிதி",
+    "role_ta": null,
+    "role_en": null,
+    "role_note": "The speech pages do not establish the speaker's historical office; no role has been inferred from external knowledge."
+  },
+  "legislature": {
+    "source_context_ta": "சட்டமன்ற உரை",
+    "source_context_en": "Legislative Assembly speech"
+  },
+  "speech": {
+    "source_label_ta": "உரை : 6",
+    "printed_date": "7.3.1963",
+    "archive_subject_slug": "financial-statement-debate",
+    "archive_title_note": "Neutral archival subject label derived from the anthology title; not asserted to be an official printed legislative event title."
+  },
+  "source": {
+    "publication_title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)",
+    "edition_ta": "முதற்பதிப்பு",
+    "publication_date": "2007-05",
+    "publication_date_printed_ta": "மே, 2007",
+    "publisher_ta": "தமிழ்க்கனி பதிப்பகம்",
+    "publisher_location_ta": "சென்னை - 600 004",
+    "scan_filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf",
+    "scan_total_pages": 546,
+    "scan_file_size_bytes": 393027493,
+    "sha256": "e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932",
+    "speech_scan_pages": "60-75",
+    "speech_printed_pages": "59-74",
+    "scan_printed_page_relationship": "For this speech, printed page = scan page - 1.",
+    "source_authority": "rendered scan pixels",
+    "usable_text_layer": false
+  },
+  "transcription": {
+    "method": "manual Gate C first-pass transcription from rendered scan pixels",
+    "preserve_source_spelling": true,
+    "preserve_source_punctuation": true,
+    "preserve_source_numerals": true,
+    "preserve_headings": true,
+    "preserve_speaker_labels_and_interventions": true,
+    "preserve_printed_english": true,
+    "page_boundaries_marked": true,
+    "status": "transcribed",
+    "gate_c_status": "complete",
+    "completed_scan_pages": "60-75",
+    "completed_printed_pages": "59-74",
+    "completed_page_count": 16,
+    "total_page_count": 16,
+    "source_page_markers_checked_first_pass": true,
+    "unresolved_readings": 0,
+    "completeness_audit_passed": false,
+    "verified_against_scan": false,
+    "historical_glyph_gate_status": "provisionally-n-a-modern-2007-typesetting",
+    "next_gate": "D",
+    "note": "Gate C first-pass transcription is complete for all 16 pages. Markers 60-75 are present exactly once and in order; boundaries 59→60 and 75→76 are preserved; scan 76 is excluded. Tamil remains transcribed/not verified pending Gate D and Gate E.",
+    "gate_d_status": "not-started",
+    "gate_e_status": "not-started"
+  },
+  "translation": {
+    "language": "English",
+    "status": "blocked",
+    "type": "faithful reading translation",
+    "placement": "not started",
+    "source_text": "blocked until final Gate-E-verified Tamil transcript",
+    "gate_f_status": "not-started",
+    "verified_against_tamil": false,
+    "next_gate": "F-after-Tamil-verification"
+  },
+  "release": {
+    "status": "working",
+    "released": false,
+    "release_ready": false,
+    "gate_h_status": "not-started",
+    "indexed": false,
+    "release_note": "Speech 6 is not released. Gate C only is complete; Gate D is next."
+  }
+}
