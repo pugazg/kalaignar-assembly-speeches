@@ -54,8 +54,31 @@ Before Gate-C closure, obvious draft misreads were rechecked against the rendere
 
 These are Gate-C first-pass cleanup items, not a Gate-E correction ledger.
 
+## Gate D — Tamil completeness audit
+
+**Status:** PASS / COMPLETE — 16/16 pages
+
+Checks completed against the locked source range:
+
+- [x] markers **60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75** each occur exactly once and in order;
+- [x] scan 59 remains excluded as the close of Speech 5;
+- [x] scan 60 contains the locked `உரை : 6 / நாள் : 7.3.1963` opening and speaker label;
+- [x] scan 75 contains the speech close `வணக்கம்.`;
+- [x] scan 76 is Speech 7 and remains excluded;
+- [x] M. Bhaktavatsalam intervention on scan 60 is represented in sequence;
+- [x] K. Kamaraj intervention on scan 72 is represented in sequence;
+- [x] both Speaker interventions on scan 73 are represented with the source-printed English intact;
+- [x] quoted material, dates, numerals, quantities and book/page references are structurally represented;
+- [x] transport/taxi, agriculture/seed, orchard, music-and-agriculture research, industrial-development and goldsmith passages are present in source order;
+- [x] transitions **60→61, 61→62, 62→63, 63→64, 64→65, 65→66, 66→67, 67→68, 68→69, 69→70, 70→71, 71→72, 72→73, 73→74, 74→75** show no omission or duplication;
+- [x] running headers and printed page numbers are not admitted as speech wording.
+
+**Completeness corrections applied:** 0.
+
+Gate D establishes structural completeness only; Tamil remains **TRANSCRIBED / NOT VERIFIED**.
+
 ## Next gate
 
-**Gate D — NOT STARTED.**
+**Gate E — NOT STARTED / exact next.**
 
-Gate D must audit structural completeness only; Tamil remains **NOT VERIFIED** until Gate E.
+Perform strict page-by-page visual source-fidelity verification against rendered scans 60–75. Do not begin English or Speech 7 in the same iteration.
