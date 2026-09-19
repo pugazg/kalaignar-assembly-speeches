@@ -29,8 +29,8 @@
 - first-pass unresolved readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - Gate C.5 — **provisionally N/A — modern 2007 typesetting; reopen only if later page-specific legacy-glyph evidence requires it**
-- Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 16/16 pages; 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 - English — **BLOCKED until Tamil verification**
 - release status — **WORKING / NOT RELEASED**
 
@@ -40,11 +40,29 @@ The first pass preserves source spelling, punctuation, numerals, quotations, spe
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — Gate-C Tamil working transcript
+- [`transcript.md`](./transcript.md) — Gate-C Tamil working transcript; Gate-D structural completeness passed
 - [`metadata.json`](./metadata.json) — source and gate state
 - [`source-notes.md`](./source-notes.md) — source authority and locked boundary
-- [`verification-log.md`](./verification-log.md) — Gate-C audit trail
+- [`verification-log.md`](./verification-log.md) — Gates C–D audit trail
+
+## Gate D result
+
+**PASS / COMPLETE — 16/16 pages; 0 completeness corrections.**
+
+- markers **60→75** — exactly once and in order;
+- scan 59 remains excluded as Speech 5 close;
+- scan 60 opening / scan 75 close — PASS;
+- scan 76 remains excluded as Speech 7;
+- M. Bhaktavatsalam intervention on scan 60 — represented;
+- K. Kamaraj intervention on scan 72 — represented;
+- Speaker interventions on scan 73, including source-printed English — represented;
+- quotations, dates, numerals, quantities and book/page references — structurally complete;
+- transitions **60→61, 61→62, 62→63, 63→64, 64→65, 65→66, 66→67, 67→68, 68→69, 69→70, 70→71, 71→72, 72→73, 73→74, 74→75** — no omission or duplication;
+- running headers / printed page numbers — not admitted as speech wording;
+- completeness corrections — **0**.
+
+Gate D establishes structural completeness only. Tamil remains **TRANSCRIBED / NOT VERIFIED**.
 
 ## Exact next activity
 
-Perform **Speech 6 Gate D completeness audit** across scans **60–75 / 16 pages**. Check page-marker uniqueness/order, start/end boundaries, interventions, quotations, figures and every 60→75 page transition. Do **not** begin Gate E, English or Speech 7 in the same iteration.
+Perform **Speech 6 Gate E strict page-by-page visual source-fidelity verification**, scans **60–75 / 16 pages**. Do not begin English or Speech 7 in the same iteration.
