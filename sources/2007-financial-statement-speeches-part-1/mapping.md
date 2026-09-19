@@ -122,11 +122,11 @@ Speech 6 / 7.3.1963 was processed as the current **16-page Gate-C activity**. Sp
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–5 CLOSED; Speech 6 COMPLETE / 16 of 16 / Tamil TRANSCRIBED NOT VERIFIED; speeches 7–19 not started**
+- Gate C — **Speeches 1–5 CLOSED; Speech 6 COMPLETE / 16 of 16; speeches 7–19 not started**
 - Gate D — **Speeches 1–5 PASS / COMPLETE — 0 completeness corrections each; Speech 6 PASS / COMPLETE — 16/16 pages / 0 completeness corrections**
-- Gate E — **Speech 1 PASS / 9 corrections; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; all 1–5 Tamil VERIFIED / 0 unresolved**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–5 — modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
-- Gate F — **Speeches 1–5 COMPLETE — page counts 7 / 9 / 9 / 6 / 11**
+- Gate E — **Speech 1 / 9 corrections; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; all 1–6 Tamil VERIFIED / 0 unresolved**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–6 — modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
+- Gate F — **Speeches 1–6 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16; Speech 6 English FIRST-PASS / not yet Gate-G verified**
 - Gate G — **Speeches 1–5 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11; 0 blockers; English VERIFIED**
 - Gate H — **Speeches 1–5 PASS / COMPLETE — RELEASED / CLOSED**
 
@@ -138,22 +138,24 @@ Speech 6 / 7.3.1963 was processed as the current **16-page Gate-C activity**. Sp
 - scan **60** — remains the start of Speech 6;
 - verified wording changes during Gate H — **0 Tamil / 0 English**.
 
-## Speech 6 Gates C–D state
+## Speech 6 Gates C–F state
 
 - working entry — `speeches/1963/1963-03-07-financial-statement-debate/`
 - scans **60–75 / printed pp.59–74**
 - Gate C — **COMPLETE / 16 of 16 pages**
-- Gate D — **PASS / COMPLETE / 16 of 16 pages / 0 completeness corrections**
-- markers — **60→75 exactly once and in order**
-- boundary **59→60** — preserved
-- boundary **75→76** — preserved; scan 76 remains Speech 7
-- interventions / source-printed English / quotations / figures / 15 page transitions — structurally complete
-- unresolved first-pass readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- Gate E — **NOT STARTED / next**
-- English — **BLOCKED**
+- Gate D — **PASS / COMPLETE / 0 completeness corrections**
+- Gate E — **PASS / COMPLETE / 20 corrections / 0 unresolved**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED**
+- Gate F — **COMPLETE / 16 of 16 English pages**
+- English — **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL**
+- source-printed English scan 73 — **preserved verbatim**
+- Gate-F blockers — **0**
+- Gate G — **NOT STARTED / next**
+- boundaries **59→60** and **75→76** — preserved
+- Speech 7 not started
 - outside wording — **none**
 
 ## Exact continuation
 
-Speeches **1–5 are RELEASED / CLOSED through Gate H**. Speech 6 Gates C–D are complete. Exact next: **Speech 6 / 7.3.1963 — Gate E strict page-by-page visual source-fidelity verification, scans 60–75 / 16 pages**. Do not begin English or Speech 7 in the same iteration.
+Speeches **1–5 are RELEASED / CLOSED through Gate H**. Speech 6 Gates C–F are complete. Exact next: **Speech 6 / 7.3.1963 — Gate G full English fidelity and voice review, scans 60–75 / 16 pages**. Do not begin Gate H or Speech 7 in the same iteration.
