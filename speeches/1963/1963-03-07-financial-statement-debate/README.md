@@ -27,23 +27,23 @@
 - Gate C Tamil first pass — **COMPLETE / 16 of 16 pages**
 - source markers — **60→75 exactly once and in order**
 - first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- Gate C.5 — **provisionally N/A — modern 2007 typesetting; reopen only if later page-specific legacy-glyph evidence requires it**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; Gate E found no historical/reform-sensitive glyph anomaly**
 - Gate D — **PASS / COMPLETE — 16/16 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
-- English — **BLOCKED until Tamil verification**
+- Gate E — **PASS / COMPLETE — 16/16 pages; 20 source-fidelity corrections; 0 unresolved readings**
+- English — **NOT STARTED / Gate F next**
 - release status — **WORKING / NOT RELEASED**
 
-Gate C used only the rendered scan pixels from the controlling anthology. No OCR, web copy, Official Report or alternate anthology supplied wording.
+Gate C and Gate E used only the rendered scan pixels from the controlling anthology. No OCR, web copy, Official Report or alternate anthology supplied wording.
 
-The first pass preserves source spelling, punctuation, numerals, quotations, speaker labels/interventions and source-printed English. The hard boundaries **59→60** and **75→76** remain intact; scan 76 is excluded.
+The verified Tamil preserves source spelling, punctuation, numerals, quotations, speaker labels/interventions and source-printed English. The hard boundaries **59→60** and **75→76** remain intact; scan 76 is excluded.
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — Gate-C Tamil working transcript; Gate-D structural completeness passed
+- [`transcript.md`](./transcript.md) — Gate-E-verified Tamil transcript
 - [`metadata.json`](./metadata.json) — source and gate state
 - [`source-notes.md`](./source-notes.md) — source authority and locked boundary
-- [`verification-log.md`](./verification-log.md) — Gates C–D audit trail
+- [`verification-log.md`](./verification-log.md) — Gates C–E audit trail
 
 ## Gate D result
 
@@ -61,8 +61,14 @@ The first pass preserves source spelling, punctuation, numerals, quotations, spe
 - running headers / printed page numbers — not admitted as speech wording;
 - completeness corrections — **0**.
 
-Gate D establishes structural completeness only. Tamil remains **TRANSCRIBED / NOT VERIFIED**.
+## Gate E result
+
+**PASS / COMPLETE — Tamil VERIFIED.**
+
+All **16/16** scans were re-read directly against rendered source pixels. Gate E applied **20 source-fidelity corrections** across scans **61, 62, 63, 64, 66, 70 and 72**; scans **60, 65, 67–69, 71 and 73–75** required no correction. Unresolved readings: **0**.
+
+The correction ledger is recorded in `verification-log.md`. Source-printed English in the Speaker interventions on scan 73 remains verbatim. Gate C.5 is now **N/A / CLOSED** because the full visual verification found no historical/reform-sensitive glyph anomaly.
 
 ## Exact next activity
 
-Perform **Speech 6 Gate E strict page-by-page visual source-fidelity verification**, scans **60–75 / 16 pages**. Do not begin English or Speech 7 in the same iteration.
+Perform **Speech 6 Gate F English translation** from the final Gate-E-verified Tamil for scans **60–75 / 16 pages**. Preserve source-printed English exactly. Do not begin Gate G or Speech 7 in the same iteration.
