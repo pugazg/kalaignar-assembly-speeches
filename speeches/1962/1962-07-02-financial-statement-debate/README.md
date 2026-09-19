@@ -33,16 +33,17 @@
 - Gate F English — **COMPLETE / 11 of 11 pages**
 - English — **VERIFIED AGAINST TAMIL**
 - Gate G — **PASS / COMPLETE — 11/11 pages; 11 refinements; 0 blockers**
-- Gate H — **NOT STARTED / next**
+- Gate H — **PASS / COMPLETE**
+- Release status — **RELEASED / CLOSED**
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — Gate-C first-pass Tamil
-- [`metadata.json`](./metadata.json) — source and workflow state
-- [`source-notes.md`](./source-notes.md) — source authority and boundary policy
-- [`verification-log.md`](./verification-log.md) — Tamil and English workflow ledger
-- [`translation.md`](./translation.md) — Gate-F English first-pass translation
-- [`translation-review.md`](./translation-review.md) — English Gate-F/G review record
+- [`transcript.md`](./transcript.md) — canonical verified Tamil followed by canonical verified English
+- [`metadata.json`](./metadata.json) — source, gate and release state
+- [`source-notes.md`](./source-notes.md) — source authority, boundary and release policy
+- [`verification-log.md`](./verification-log.md) — Gates C–H audit trail
+- [`translation.md`](./translation.md) — retired pointer to canonical English
+- [`translation-review.md`](./translation-review.md) — Gates F–H English and release audit
 
 ## Gate D result
 
@@ -108,6 +109,23 @@ Unresolved readings: **0**.
 
 Full ledger: `translation-review.md`.
 
+## Gate H result
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- canonical `transcript.md` now contains verified Tamil followed by verified English;
+- `translation.md` is retired to a pointer to canonical English;
+- Tamil source markers **49→59** and English source-page sections **49→59** remain complete and ordered;
+- Gate-G totals remain **11 refinements / 0 blockers / 0 Tamil changes**;
+- hard previous boundary **48→49** remains preserved;
+- **Poovanga** / **thumbai** remain source-bound without outside identification or gloss;
+- scan 60 remains excluded as Speech 6;
+- root dated index and `data/speeches.json` are synchronized;
+- verified Tamil wording changed during Gate H — **0**;
+- verified English wording changed during Gate H — **0**.
+
+Final disposition: **Speech 5 RELEASED / CLOSED**.
+
 ## Exact next activity
 
-Perform **Gate H canonical merge / index / release closure** for Speech 5.
+After the paired Speeches 4–5 Gate-H closure, begin **Speech 6 / 7.3.1963 — Gate C Tamil first-pass transcription**, scans **60–75 / 16 pages**. Do not begin Speech 6 inside this Gate-H iteration.
