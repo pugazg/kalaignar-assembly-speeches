@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest Gate-C activity: Speech 6 / 7.3.1963 = **16 pages / scans 60–75 — COMPLETE**. Speech 7 / 7.3.1964 = 14 pages and was not started in the Speech-6 activity.
+Latest completed unit: Speech 6 / 7.3.1963 = **RELEASED / CLOSED through Gate H**. Exact next unit: Speech 7 / 7.3.1964 = **14 pages / scans 76–89 — Gate C NOT STARTED**.
 
 ## Existing-source overlaps
 
