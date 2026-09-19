@@ -34,6 +34,8 @@
 - Gate F English — **COMPLETE / 16 of 16 pages**
 - Gate G — **PASS / COMPLETE — 16/16 pages; 15 refinements; 0 blockers; 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE**
+- release — **RELEASED / CLOSED**
 - release status — **WORKING / NOT RELEASED**
 
 Gate C and Gate E used only the rendered scan pixels from the controlling anthology. No OCR, web copy, Official Report or alternate anthology supplied wording.
@@ -42,8 +44,8 @@ The verified Tamil preserves source spelling, punctuation, numerals, quotations,
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — Gate-E-verified Tamil transcript
-- [`translation.md`](./translation.md) — Gate-F English first-pass translation
+- [`transcript.md`](./transcript.md) — canonical released bilingual transcript
+- [`translation.md`](./translation.md) — retired pointer to canonical English
 - [`translation-review.md`](./translation-review.md) — Gates F–G English fidelity audit
 - [`metadata.json`](./metadata.json) — source and gate state
 - [`source-notes.md`](./source-notes.md) — source authority and locked boundary
@@ -86,6 +88,20 @@ The correction ledger is recorded in `verification-log.md`. Source-printed Engli
 
 The detailed refinement ledger and page-by-page review are in `translation-review.md`.
 
+## Gate H result
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- canonical bilingual `transcript.md` — complete;
+- Tamil source-page markers **60→75** — preserved exactly once and in order;
+- English source-page sections **60→75** — preserved exactly once and in order;
+- `translation.md` — retired to pointer after canonical merge;
+- root dated index / `data/speeches.json` — synchronized;
+- source-printed English scan 73 — preserved verbatim;
+- Gate-H verified-Tamil wording changes — **0**;
+- Gate-H verified-English wording changes — **0**;
+- hard boundaries **59→60** and **75→76** — preserved.
+
 ## Exact next activity
 
-Perform **Speech 6 Gate H canonical merge / index / release closure**. Do not begin Speech 7 in the same iteration.
+Begin **Speech 7 / 7.3.1964 — Gate C Tamil first-pass transcription**, scans **76–89 / 14 pages**.
