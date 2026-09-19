@@ -258,7 +258,7 @@ The paired 17-page activity is **PASS / COMPLETE**.
 - root dated index / `data/speeches.json` — synchronized;
 - outside wording from OCR / booklet pixels / web / Official Reports / alternate anthologies — **none**.
 
-## Speech 6 Gates C–F state
+## Speech 6 Gates C–G state
 
 Reader/work entry:
 
