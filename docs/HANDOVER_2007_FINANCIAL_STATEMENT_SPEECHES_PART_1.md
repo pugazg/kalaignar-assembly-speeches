@@ -356,7 +356,7 @@ Speeches 4–5 are closed as one **17-page** activity.
 - root README / anthology surfaces / machine-readable dated index — synchronized;
 - no OCR, booklet pixels, web, Official Report or alternate anthology supplied English wording.
 
-## Speech 6 durable Gates C–F state
+## Speech 6 durable Gates C–G state
 
 Canonical working entry:
 
