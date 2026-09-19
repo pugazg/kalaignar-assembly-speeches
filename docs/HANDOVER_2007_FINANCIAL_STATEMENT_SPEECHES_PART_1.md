@@ -92,13 +92,13 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–5 CLOSED; Speech 6 COMPLETE / 16 of 16; speeches 7–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–5 — modern 2007 typesetting; reopen only for actual page-specific legacy-glyph evidence**
-- Gate D — **Speeches 1–5 PASS / COMPLETE — 0 completeness corrections each; Speech 6 PASS / COMPLETE — 16/16 pages / 0 completeness corrections**
+- Gate C — **Speeches 1–6 CLOSED; speeches 7–19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–6 — modern 2007 typesetting; reopen only for actual page-specific legacy-glyph evidence**
+- Gate D — **Speeches 1–6 PASS / COMPLETE — 0 completeness corrections each**
 - Gate E — **Speeches 1–6 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20; unresolved 0**
-- Gate F — **Speeches 1–6 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16; Speech 6 English FIRST-PASS / Gate G pending**
+- Gate F — **Speeches 1–6 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16**
 - Gate G — **Speeches 1–6 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15; 0 blockers; English VERIFIED**
-- Gate H — **Speeches 1–5 PASS / COMPLETE — RELEASED / CLOSED**
+- Gate H — **Speeches 1–6 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Speech 1 durable Gate-C state
 
@@ -356,7 +356,7 @@ Speeches 4–5 are closed as one **17-page** activity.
 - root README / anthology surfaces / machine-readable dated index — synchronized;
 - no OCR, booklet pixels, web, Official Report or alternate anthology supplied English wording.
 
-## Speech 6 durable Gates C–G state
+## Speech 6 durable Gate-H closure
 
 Canonical working entry:
 
@@ -375,13 +375,13 @@ Canonical working entry:
 - Gate-F blocking questions — **0**
 - hard boundaries **59→60** and **75→76** — preserved
 - scan 76 / Speech 7 — excluded and not started
-- Gate H — **NOT STARTED / exact next**
-- release — **WORKING / NOT RELEASED**
+- Gate H — **PASS / COMPLETE**
+- release — **RELEASED / CLOSED**
 
 Gate F translated only from the final Gate-E-verified Tamil. Gate G reviewed the English only against that verified Tamil, applying 15 refinements with 0 blockers and 0 Tamil changes. No OCR, scan pixels, web research, Official Reports or alternate anthologies supplied English wording.
 
 ## Exact next activity
 
-Perform **Speech 6 / 7.3.1963 — Gate H canonical merge / index / release closure**.
+Begin **Speech 7 / 7.3.1964 — Gate C Tamil first-pass transcription**, scans **76–89 / 14 pages**.
 
-Do not begin Speech 7 in the same iteration. Do not reopen released Speeches 1–5 merely for stylistic polishing.
+Do not reopen released Speeches 1–6 merely for stylistic polishing.
