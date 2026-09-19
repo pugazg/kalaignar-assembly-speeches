@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1–5 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 6 Gates C–E are **COMPLETE / Tamil VERIFIED**, and Gate F English is **COMPLETE / 16 of 16 pages / FIRST-PASS**; Gate G is next.
+Speeches 1–5 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 6 Gates C–E are **COMPLETE / Tamil VERIFIED** and Gates F–G are **COMPLETE / English VERIFIED AGAINST TAMIL**; Gate H is next.
 
 ## Whole-speech batching policy
 
@@ -271,14 +271,15 @@ Reader/work entry:
 - Tamil — **VERIFIED / verified_against_scan=true**
 - Gate C.5 — **N/A / CLOSED**
 - Gate F English — **COMPLETE / 16 of 16 pages**
-- English — **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL**
+- Gate G — **PASS / COMPLETE / 16 of 16 pages / 15 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - source-printed English on scan 73 — **preserved verbatim**
 - Gate-F blocking translation questions — **0**
-- Gate G — **NOT STARTED / next**
+- Gate H — **NOT STARTED / next**
 - hard boundaries **59→60** and **75→76** — preserved
 - Speech 7 / scan 76 — not started
 - outside wording from OCR / web / Official Reports / alternate anthologies — **none**
 
 ## Exact next activity
 
-Perform **Speech 6 / 7.3.1963 — Gate G full English fidelity and voice review**, scans **60–75 / 16 pages**, comparing only the final Gate-E-verified Tamil and Gate-F English. Do **not** begin Gate H or Speech 7 in the same iteration.
+Perform **Speech 6 / 7.3.1963 — Gate H canonical merge / index / release closure**. Do **not** begin Speech 7 in the same iteration.
