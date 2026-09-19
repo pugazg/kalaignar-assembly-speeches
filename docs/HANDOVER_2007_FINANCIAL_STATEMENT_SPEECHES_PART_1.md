@@ -92,13 +92,13 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–3 CLOSED; Speech 4 COMPLETE — 6/6 pages, scans 43–48; Speech 5 COMPLETE — 11/11 pages, scans 49–59**
-- Gate C.5 — **N/A / CLOSED for Speech 1**
-- Gate D — **Speeches 1–3 PASS / COMPLETE; Speeches 4–5 NOT STARTED / next**
-- Gate E — **Speeches 1–3 PASS / COMPLETE / Tamil VERIFIED; Speeches 4–5 NOT STARTED**
-- Gate F — **Speech 1 COMPLETE — 7/7 English pages; Speech 2 COMPLETE — 9/9 English pages; Speech 3 COMPLETE — 9/9 English pages**
-- Gate G — **Speech 1 PASS / COMPLETE — 7/7 pages; 10 refinements; 0 blockers; English VERIFIED; Speech 2 PASS / COMPLETE — 9/9 pages; 12 refinements; 0 blockers; English VERIFIED; Speech 3 PASS / COMPLETE — 9/9 pages; 17 refinements; 0 blockers; English VERIFIED**
-- Gate H — **Speech 1 PASS / COMPLETE — RELEASED / CLOSED; Speech 2 PASS / COMPLETE — RELEASED / CLOSED; Speech 3 PASS / COMPLETE — RELEASED / CLOSED**
+- Gate C — **Speeches 1–5 CLOSED; speeches 6–19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–5 — modern 2007 typesetting; reopen only for actual page-specific legacy-glyph evidence**
+- Gate D — **Speeches 1–5 PASS / COMPLETE — 0 completeness corrections each**
+- Gate E — **Speeches 1–5 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10; unresolved 0**
+- Gate F — **Speeches 1–5 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11**
+- Gate G — **Speeches 1–5 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11; 0 blockers; English VERIFIED**
+- Gate H — **Speeches 1–5 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Speech 1 durable Gate-C state
 
@@ -311,30 +311,53 @@ Speech 3 / 16.3.1960 is **RELEASED / CLOSED**.
 - root and machine-readable dated indexes — synchronized;
 - Gate-H wording changes — 0.
 
-## Speech 4 current durable state
+## Speech 4 Gate-H closure
 
-- path — `speeches/1961/1961-03-06-financial-statement-debate/`
-- scans **43–48**
+Canonical entry:
+
+`speeches/1961/1961-03-06-financial-statement-debate/`
+
+- scans **43–48 / 6 pages**
 - Tamil Gates C–E — **COMPLETE / VERIFIED**
-- Gate F — **COMPLETE / 6/6 English pages**
+- Gate F — **COMPLETE / 6/6**
 - Gate G — **PASS / COMPLETE / 6 refinements / 0 blockers / 0 Tamil changes**
 - source-printed English scan 48 — **preserved exactly**
-- English — **VERIFIED AGAINST TAMIL**
-- Gate H — **NOT STARTED / next**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual transcript — complete
+- `translation.md` — retired pointer
+- release — **RELEASED / CLOSED**
+- Gate-H wording changes — **0 Tamil / 0 English**
 
-## Speech 5 current durable state
+## Speech 5 Gate-H closure
 
-- path — `speeches/1962/1962-07-02-financial-statement-debate/`
-- scans **49–59**
+Canonical entry:
+
+`speeches/1962/1962-07-02-financial-statement-debate/`
+
+- scans **49–59 / 11 pages**
 - Tamil Gates C–E — **COMPLETE / VERIFIED**
-- Gate F — **COMPLETE / 11/11 English pages**
+- Gate F — **COMPLETE / 11/11**
 - Gate G — **PASS / COMPLETE / 11 refinements / 0 blockers / 0 Tamil changes**
-- English — **VERIFIED AGAINST TAMIL**
-- `பூவாங்க` / **Poovanga** and `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` / **thumbai** remain conservative source-bound renderings
-- Gate H — **NOT STARTED / next**
+- `பூவாங்க` / **Poovanga** — source-bound; no outside identification
+- `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` / **thumbai** — conservative; no outside gloss
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual transcript — complete
+- `translation.md` — retired pointer
+- release — **RELEASED / CLOSED**
+- Gate-H wording changes — **0 Tamil / 0 English**
 
-Combined Gate-G activity: **17/17 pages / 17 refinements / 0 blockers / 0 Tamil changes**. No OCR, booklet pixels, web, Official Report or alternate-anthology wording supplied English. Speech 6 remains deferred under the 25-page whole-speech rule.
+## Paired Gate-H closure
+
+Speeches 4–5 are closed as one **17-page** activity.
+
+- hard boundary **48→49** — preserved;
+- Speech 4 source-printed English — verbatim;
+- combined Gate-G state — **17/17 pages / 17 refinements / 0 blockers / 0 Tamil changes**;
+- root README / anthology surfaces / machine-readable dated index — synchronized;
+- no OCR, booklet pixels, web, Official Report or alternate anthology supplied English wording.
 
 ## Exact next activity
 
-Perform **Gate H canonical merge / index / release closure for Speech 4 and Speech 5 together**. Follow the repository's established release convention from Speeches 1–3: canonical bilingual transcript, retire working translation to a pointer, synchronize metadata/indexes/status surfaces, and release only if closure checks pass. Do not begin Speech 6 in the same iteration.
+Begin **Speech 6 / 7.3.1963 — Gate C Tamil first-pass transcription**, scans **60–75 / 16 pages**. Speech 7 / 7.3.1964 is **14 pages / scans 76–89** and is deferred because 16 + 14 = 30 exceeds the 25-page whole-speech limit.
+
+Do not reopen released Speeches 1–5 merely for stylistic polishing.
