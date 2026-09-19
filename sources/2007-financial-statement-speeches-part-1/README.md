@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1–5 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English.
+Speeches 1–5 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 6 Gate C is **COMPLETE / 16 of 16 pages — Tamil TRANSCRIBED / NOT VERIFIED**; Gate D is next.
 
 ## Whole-speech batching policy
 
@@ -69,7 +69,7 @@ For ongoing anthology processing, use a **maximum of 25 source-scan pages per ac
 - if the next complete speech would push the activity above 25 pages, defer that **entire speech** to the next activity;
 - if a single speech itself exceeds 25 pages, process it separately as one intact speech unit rather than splitting or dropping it.
 
-Current example: Speech 4 (6 pages) + Speech 5 (11 pages) = **17 pages**, so both belong to one activity; Speech 6 adds 16 pages and would raise the total to 33, so Speech 6 is deferred.
+Current Gate-C activity: Speech 6 / 7.3.1963 is **16 pages / scans 60–75** and is complete. Speech 7 is **14 pages / scans 76–89** and remains deferred; it was not started in the Speech-6 activity.
 
 ## Parallel-witness / released-material rule
 
@@ -258,6 +258,27 @@ The paired 17-page activity is **PASS / COMPLETE**.
 - root dated index / `data/speeches.json` — synchronized;
 - outside wording from OCR / booklet pixels / web / Official Reports / alternate anthologies — **none**.
 
+## Speech 6 Gate-C closure
+
+Reader/work entry:
+
+[`../../speeches/1963/1963-03-07-financial-statement-debate/`](../../speeches/1963/1963-03-07-financial-statement-debate/)
+
+- scans **60–75 / printed pp.59–74**
+- Gate C — **COMPLETE / 16 of 16 pages**
+- source markers — **60→75 exactly once and in order**
+- hard boundaries **59→60** and **75→76** — preserved
+- scan 76 / Speech 7 — excluded
+- first-pass unresolved readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- Gate C.5 — **provisionally N/A**
+- Gate D — **NOT STARTED / next**
+- Gate E — **NOT STARTED**
+- English — **BLOCKED**
+- outside wording from OCR / web / Official Reports / alternate anthologies — **none**
+
+The Gate-C transcript preserves the source-printed English Speaker interventions on scan 73. Obvious first-pass visual misreads found during cleanup were corrected from the rendered pixels before closure; this is not a Gate-E verification claim.
+
 ## Exact next activity
 
-Begin **Speech 6 / 7.3.1963 — Gate C Tamil first-pass transcription**, scans **60–75 / 16 pages**. Speech 7 / 7.3.1964 is **14 pages / scans 76–89**, so it is deferred because 16 + 14 = 30 exceeds the 25-page whole-speech limit.
+Perform **Speech 6 / 7.3.1963 — Gate D completeness audit**, scans **60–75 / 16 pages**. Check marker uniqueness/order, start/end boundaries, interventions, quotations, figures and all page transitions. Do **not** begin Gate E, English or Speech 7 in the same iteration.
