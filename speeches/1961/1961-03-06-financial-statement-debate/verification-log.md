@@ -126,4 +126,23 @@ Gate F is a first-pass translation gate. Gate G must independently review fideli
 
 Full refinement ledger: `translation-review.md`.
 
-Gate H canonical merge / index / release closure is next.
+## Gate H — canonical merge / index / release closure
+
+**Status:** PASS / COMPLETE — RELEASED / CLOSED
+
+- [x] Tamil source-page markers **43→48** preserved in canonical Tamil layer;
+- [x] English source-page sections **43→48** preserved in canonical English layer;
+- [x] canonical bilingual `transcript.md` created without changing verified wording;
+- [x] `translation.md` retired to pointer;
+- [x] metadata release state synchronized;
+- [x] root dated index synchronized;
+- [x] `data/speeches.json` synchronized;
+- [x] Gate-G totals remain **6 refinements / 0 blockers / 0 Tamil changes**;
+- [x] source-printed English on scan 48 preserved verbatim;
+- [x] hard boundary **48→49** preserved; scan 49 excluded from Speech 4;
+- [x] Gate-H Tamil wording changes — **0**;
+- [x] Gate-H English wording changes — **0**.
+
+Final status: **Speech 4 RELEASED / CLOSED**.
+
+Exact next: **Speech 6 / 7.3.1963 Gate C, scans 60–75 / 16 pages**. Speech 7 is deferred under the ≤25-page whole-speech policy.
