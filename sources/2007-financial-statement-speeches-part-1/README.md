@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1–5 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 6 Gate C is **COMPLETE / 16 of 16 pages — Tamil TRANSCRIBED / NOT VERIFIED**; Gate D is next.
+Speeches 1–5 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 6 Gates C–D are **COMPLETE / Gate D PASS / 16 of 16 pages / 0 completeness corrections**; Tamil remains **TRANSCRIBED / NOT VERIFIED** and Gate E is next.
 
 ## Whole-speech batching policy
 
@@ -258,7 +258,7 @@ The paired 17-page activity is **PASS / COMPLETE**.
 - root dated index / `data/speeches.json` — synchronized;
 - outside wording from OCR / booklet pixels / web / Official Reports / alternate anthologies — **none**.
 
-## Speech 6 Gate-C closure
+## Speech 6 Gates C–D state
 
 Reader/work entry:
 
@@ -266,19 +266,22 @@ Reader/work entry:
 
 - scans **60–75 / printed pp.59–74**
 - Gate C — **COMPLETE / 16 of 16 pages**
+- Gate D — **PASS / COMPLETE / 16 of 16 pages / 0 completeness corrections**
 - source markers — **60→75 exactly once and in order**
 - hard boundaries **59→60** and **75→76** — preserved
 - scan 76 / Speech 7 — excluded
+- M. Bhaktavatsalam scan 60 / K. Kamaraj scan 72 / Speaker scan 73 interventions — structurally represented
+- scan-73 source-printed English — structurally represented
+- quotations, dates, numerals, quantities, book/page references and all 15 page transitions — PASS
 - first-pass unresolved readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - Gate C.5 — **provisionally N/A**
-- Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate E — **NOT STARTED / next**
 - English — **BLOCKED**
 - outside wording from OCR / web / Official Reports / alternate anthologies — **none**
 
-The Gate-C transcript preserves the source-printed English Speaker interventions on scan 73. Obvious first-pass visual misreads found during cleanup were corrected from the rendered pixels before closure; this is not a Gate-E verification claim.
+Gate D made **0 wording/completeness changes**. It establishes structural completeness only; strict word-for-word source fidelity remains for Gate E.
 
 ## Exact next activity
 
-Perform **Speech 6 / 7.3.1963 — Gate D completeness audit**, scans **60–75 / 16 pages**. Check marker uniqueness/order, start/end boundaries, interventions, quotations, figures and all page transitions. Do **not** begin Gate E, English or Speech 7 in the same iteration.
+Perform **Speech 6 / 7.3.1963 — Gate E strict page-by-page visual source-fidelity verification**, scans **60–75 / 16 pages**. Do **not** begin English or Speech 7 in the same iteration.
