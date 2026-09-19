@@ -2,7 +2,7 @@
 
 **நாள் : 7.3.1963**
 
-> **Workflow state:** Gate C Tamil first-pass transcription is **COMPLETE / 16 of 16 pages** for scans 60–75 / printed pp.59–74. Source-page markers 60→75 are preserved exactly once and in order. Tamil is **TRANSCRIBED / NOT VERIFIED** pending Gate D completeness audit and Gate E strict visual source-fidelity verification. Gate C.5 remains provisionally N/A for this modern 2007 typesetting unless a page-specific legacy-glyph issue is found. English is **BLOCKED** until Tamil verification.
+> **Workflow state:** Gate C Tamil first-pass transcription is **COMPLETE / 16 of 16 pages** and Gate D completeness audit is **PASS / COMPLETE / 16 of 16 pages / 0 completeness corrections** for scans 60–75 / printed pp.59–74. Source-page markers 60→75 are preserved exactly once and in order; boundaries 59→60 and 75→76 pass. Tamil remains **TRANSCRIBED / NOT VERIFIED** pending Gate E strict visual source-fidelity verification. Gate C.5 remains provisionally N/A for this modern 2007 typesetting unless a page-specific legacy-glyph issue is found. English is **BLOCKED** until Tamil verification.
 
 <!-- source-page: 60 -->
 
