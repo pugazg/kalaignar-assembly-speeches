@@ -66,4 +66,22 @@ This is modern 2007 typesetting. Gate C.5 is **N/A / CLOSED** for this speech; G
 - `பூவாங்க` — retained as **Poovanga**
 - `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` — retained conservatively with **thumbai**
 - English `verified_against_tamil=true`
-- Gate H — **next**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+
+## Gate H — canonical merge / index / release closure
+
+- status — **PASS / COMPLETE — RELEASED / CLOSED**
+- canonical bilingual `transcript.md` — verified Tamil followed by verified English
+- `translation.md` — retired to a pointer
+- Tamil source markers — **49→59**, complete and ordered
+- English source-page sections — **49→59**, complete and ordered
+- Gate-G totals — **11 refinements / 0 blockers / 0 Tamil changes**
+- previous boundary **48→49** — **preserved**; scan 48 remains Speech 4
+- `பூவாங்க` / **Poovanga** — unchanged; no outside identification
+- `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` / **thumbai** — unchanged; no outside gloss
+- scan 60 — remains excluded as Speech 6
+- root and machine-readable dated indexes — synchronized
+- Gate-H verified-Tamil wording changes — **0**
+- Gate-H verified-English wording changes — **0**
+
+No OCR, web copy, Official Report or alternate anthology supplied Gate-H wording.
