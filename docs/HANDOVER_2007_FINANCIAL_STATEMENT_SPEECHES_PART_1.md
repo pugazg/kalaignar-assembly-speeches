@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Current Gate-C batch: Speech 4 = 6 pages; Speech 5 = 11 pages; cumulative **17**. Speech 6 = 16 pages, therefore deferred.
+Latest Gate-C activity: Speech 6 / 7.3.1963 = **16 pages / scans 60–75 — COMPLETE**. Speech 7 / 7.3.1964 = 14 pages and was not started in the Speech-6 activity.
 
 ## Existing-source overlaps
 
@@ -92,7 +92,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–5 CLOSED; speeches 6–19 not started**
+- Gate C — **Speeches 1–5 CLOSED; Speech 6 COMPLETE / 16 of 16 / Tamil TRANSCRIBED NOT VERIFIED; speeches 7–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–5 — modern 2007 typesetting; reopen only for actual page-specific legacy-glyph evidence**
 - Gate D — **Speeches 1–5 PASS / COMPLETE — 0 completeness corrections each**
 - Gate E — **Speeches 1–5 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10; unresolved 0**
@@ -356,8 +356,30 @@ Speeches 4–5 are closed as one **17-page** activity.
 - root README / anthology surfaces / machine-readable dated index — synchronized;
 - no OCR, booklet pixels, web, Official Report or alternate anthology supplied English wording.
 
+## Speech 6 durable Gate-C state
+
+Canonical working entry:
+
+`speeches/1963/1963-03-07-financial-statement-debate/`
+
+- scans **60–75 / printed pp.59–74**
+- Gate C — **COMPLETE / 16 of 16 pages**
+- source markers — **60→75 exactly once and in order**
+- first-pass unresolved readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- hard boundary **59→60** — preserved
+- hard boundary **75→76** — preserved; scan 76 begins Speech 7 and is excluded
+- Gate C.5 — **provisionally N/A** for modern 2007 typesetting
+- Gate D — **NOT STARTED / next**
+- Gate E — **NOT STARTED**
+- English — **BLOCKED**
+
+The Gate-C first pass was read from the rendered source pixels only. Source spelling, punctuation, numerals, quotations, interventions and the scan-73 printed-English Speaker blocks were retained. No OCR, web copy, Official Report or alternate anthology supplied wording.
+
+First-pass visual cleanup corrected obvious draft misreads before closure, including `ஐயாயிரம் பஸ்களை`, `சர்.சி.பி.ராமசாமி அய்யர்`, `அவரது யோசனையை`, the omitted agriculture/music clause, `1950 டிசம்பரில் இருந்து`, both Nehru-letter verb forms, `காலஞ் சென்ற`, `வேலை பற்றிருக்கின்ற`, `இத்தகைய சந்தர்ப்பத்தில்`, and `எதைச் சொல்லத் தவறினாலும்`. This is **not** a Gate-E verification claim.
+
 ## Exact next activity
 
-Begin **Speech 6 / 7.3.1963 — Gate C Tamil first-pass transcription**, scans **60–75 / 16 pages**. Speech 7 / 7.3.1964 is **14 pages / scans 76–89** and is deferred because 16 + 14 = 30 exceeds the 25-page whole-speech limit.
+Perform **Speech 6 / 7.3.1963 — Gate D completeness audit**, scans **60–75 / 16 pages**.
 
-Do not reopen released Speeches 1–5 merely for stylistic polishing.
+Do not begin Gate E, English or Speech 7 in the same iteration. Do not reopen released Speeches 1–5 merely for stylistic polishing.
