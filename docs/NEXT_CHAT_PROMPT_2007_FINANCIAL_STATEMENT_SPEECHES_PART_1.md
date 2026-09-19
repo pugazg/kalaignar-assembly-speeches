@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speeches 4–5 Gate H
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 6 Gate C
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,65 +6,54 @@ Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE
 
 Maximum **25 source-scan pages per activity**, preserving complete speech units.
 
-Current batch:
+Next batch:
 
-- Speech 4 / 6.3.1961 — **6 pages / scans 43–48**
-- Speech 5 / 2.7.1962 — **11 pages / scans 49–59**
-- total — **17 pages**
-- Speech 6 / 7.3.1963 — deferred
+- Speech 6 / 7.3.1963 — **16 pages / scans 60–75**
+- Speech 7 / 7.3.1964 — **14 pages / scans 76–89**
+- Speech 6 + Speech 7 would be **30 pages**, so Speech 7 is deferred.
 
-## Durable state
+## Durable release state
 
-### Speech 4
-- Tamil Gates C–E — **COMPLETE / VERIFIED**
-- Gate F — **COMPLETE / 6 of 6 English pages**
-- Gate G — **PASS / COMPLETE — 6/6 pages**
-- Gate-G refinements — **6**
-- blockers — **0**
-- verified-Tamil changes — **0**
-- source-printed English scan 48 — **preserved verbatim**
-- English `verified_against_tamil=true`
-- Gate H — **NOT STARTED / next**
+Speeches **1–5 are RELEASED / CLOSED through Gate H**.
 
-### Speech 5
-- Tamil Gates C–E — **COMPLETE / VERIFIED**
-- Gate F — **COMPLETE / 11 of 11 English pages**
-- Gate G — **PASS / COMPLETE — 11/11 pages**
-- Gate-G refinements — **11**
-- blockers — **0**
-- verified-Tamil changes — **0**
-- `பூவாங்க` — **Poovanga**, no outside identification
-- `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` — conservative **thumbai** rendering, no outside gloss
-- English `verified_against_tamil=true`
-- Gate H — **NOT STARTED / next**
+Most recent paired closure:
 
-Combined Gate-G state: **17/17 pages / 17 refinements / 0 blockers / 0 Tamil changes**.
+- Speech 4 / 6.3.1961 — scans **43–48** — Gate H **PASS / COMPLETE — RELEASED / CLOSED**
+- Speech 5 / 2.7.1962 — scans **49–59** — Gate H **PASS / COMPLETE — RELEASED / CLOSED**
+- hard boundary **48→49** — preserved
+- Speech 4 source-printed English on scan 48 — preserved verbatim
+- Speech 5 **Poovanga** / **thumbai** renderings — preserved without outside identification or gloss
+- Gate-H wording changes — **0 Tamil / 0 English**
 
-## Gate-G authority rule
+Do not reopen Speeches 1–5 merely for stylistic polishing.
 
-Gate G used only:
+## Source authority
 
-- final Gate-E-verified Tamil;
-- Gate-F English.
+Use the controlling source:
 
-No OCR, booklet pixels, web research, Official Reports or alternate anthologies supplied English wording.
+`TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf`
+
+For Speech 6:
+
+- locked scans — **60–75**
+- printed pages — **59–74**
+- previous speech closes scan 59
+- scan 60 begins `உரை : 6 / நாள் : 7.3.1963`
+- scan 76 begins Speech 7
+- rendered scan pixels are authoritative
+- do not use OCR, web copies, Official Reports or alternate anthologies to supply wording
 
 ## Exact next activity
 
-Perform **Gate H canonical merge / index / release closure for both Speech 4 and Speech 5**.
+Perform **Gate C Tamil first-pass transcription for Speech 6 / 7.3.1963, scans 60–75 (16/16 pages)**.
 
 Requirements:
 
-1. inspect the established Gate-H release convention already used for Speeches 1–3;
-2. do not reopen or rewrite verified Tamil or Gate-G English unless a concrete internal inconsistency is found;
-3. merge verified Tamil followed by verified English into each canonical `transcript.md`;
-4. retire each `translation.md` to a pointer to canonical English;
-5. preserve Speech 4 source-printed English exactly;
-6. preserve the hard speech boundary **48→49**;
-7. preserve Speech 5 conservative **Poovanga** / **thumbai** renderings without outside identification or gloss;
-8. synchronize `metadata.json`, speech READMEs, source notes, verification logs, anthology README/mapping, handover, root README and machine-readable dated index;
-9. add dated index entries for **1961-03-06** and **1962-07-02** according to repository convention;
-10. if all closure checks pass, mark both **Gate H PASS / COMPLETE — RELEASED / CLOSED**;
-11. do **not** begin Speech 6 in the same iteration.
+1. preserve source spelling, punctuation, numerals, quotations, speaker labels and interventions;
+2. preserve explicit source-page markers **60→75** exactly once and in order;
+3. preserve the hard boundaries **59→60** and **75→76**;
+4. do not infer or modernise unclear wording — record any uncertainty for review;
+5. do not begin Gate D, Gate E or English in the same iteration;
+6. do not begin Speech 7 in the same iteration.
 
-Expected continuation after successful closure: **Speech 6 / 7.3.1963 — next whole-speech batch**, subject to the ≤25-page policy.
+Expected continuation after successful Gate C: **Speech 6 Gate D completeness audit**.
