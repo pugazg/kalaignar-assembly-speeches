@@ -127,7 +127,7 @@ Speech 6 / 7.3.1963 was processed as the current **16-page Gate-C activity**. Sp
 - Gate E — **Speech 1 / 9 corrections; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; all 1–6 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–6 — modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
 - Gate F — **Speeches 1–6 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16; Speech 6 English FIRST-PASS / not yet Gate-G verified**
-- Gate G — **Speeches 1–5 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11; 0 blockers; English VERIFIED**
+- Gate G — **Speeches 1–6 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15; 0 blockers; English VERIFIED**
 - Gate H — **Speeches 1–5 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Gate-H boundary / release check for Speeches 4–5
@@ -148,14 +148,15 @@ Speech 6 / 7.3.1963 was processed as the current **16-page Gate-C activity**. Sp
 - Tamil — **VERIFIED / verified_against_scan=true**
 - Gate C.5 — **N/A / CLOSED**
 - Gate F — **COMPLETE / 16 of 16 English pages**
-- English — **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL**
+- Gate G — **PASS / COMPLETE / 16 of 16 pages / 15 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - source-printed English scan 73 — **preserved verbatim**
 - Gate-F blockers — **0**
-- Gate G — **NOT STARTED / next**
+- Gate H — **NOT STARTED / next**
 - boundaries **59→60** and **75→76** — preserved
 - Speech 7 not started
 - outside wording — **none**
 
 ## Exact continuation
 
-Speeches **1–5 are RELEASED / CLOSED through Gate H**. Speech 6 Gates C–F are complete. Exact next: **Speech 6 / 7.3.1963 — Gate G full English fidelity and voice review, scans 60–75 / 16 pages**. Do not begin Gate H or Speech 7 in the same iteration.
+Speeches **1–5 are RELEASED / CLOSED through Gate H**. Speech 6 Gates C–G are complete with verified Tamil and verified English. Exact next: **Speech 6 / 7.3.1963 — Gate H canonical merge / index / release closure**. Do not begin Speech 7 in the same iteration.
