@@ -41,6 +41,12 @@ Gate E strict page-by-page visual source-fidelity verification is **PASS / COMPL
 
 This is modern 2007 typesetting. Gate C.5 is **N/A / CLOSED** for Speech 6: the complete Gate-E visual audit found no historical/reform-sensitive glyph anomaly.
 
+## Gate F English state
+
+Gate F is **COMPLETE — 16/16 pages**. The English first pass was derived only from the final Gate-E-verified Tamil. Source-printed English on scan 73 remains verbatim. No OCR, web copy, Official Report or alternate anthology supplied wording.
+
+English status: **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL**.
+
 ## Exact next
 
-**Gate F English translation — scans 60–75 / 16 pages**, using only the final Gate-E-verified Tamil as the translation source. Preserve source-printed English exactly. Do not begin Gate G or Speech 7 in the same iteration.
+**Gate G full English fidelity and voice review — scans 60–75 / 16 pages.** Compare only the final verified Tamil and Gate-F English. Do not begin Gate H or Speech 7 in the same iteration.
