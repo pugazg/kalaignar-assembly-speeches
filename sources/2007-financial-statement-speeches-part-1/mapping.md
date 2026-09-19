@@ -122,16 +122,22 @@ For the current batch, Speech 4 (6 pages) + Speech 5 (11 pages) = **17 pages**; 
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–3 CLOSED; Speech 4 COMPLETE — scans 43–48 / 6 of 6; Speech 5 COMPLETE — scans 49–59 / 11 of 11; speeches 6–19 not started**
-- Gate D — **Speeches 1–3 PASS / COMPLETE — 0 completeness corrections each; Speech 4 PASS / COMPLETE — 0 completeness corrections; Speech 5 PASS / COMPLETE — 0 completeness corrections**
-- Gate E — **Speech 1 PASS / COMPLETE — 9 corrections; Speech 2 PASS / COMPLETE — 6 corrections; Speech 3 PASS / COMPLETE — 3 corrections; Speech 4 PASS / COMPLETE — 6 corrections / 0 unresolved / Tamil VERIFIED; Speech 5 PASS / COMPLETE — 10 corrections / 0 unresolved / Tamil VERIFIED**
-- Gate C.5 — **provisionally N/A for this modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
-- Gate F — **Speech 1 COMPLETE — 7/7; Speech 2 COMPLETE — 9/9; Speech 3 COMPLETE — 9/9; Speech 4 COMPLETE — 6/6; Speech 5 COMPLETE — 11/11 English pages**
-- Gate G — **Speech 1 PASS / COMPLETE — 10 refinements; Speech 2 — 12; Speech 3 — 17; Speech 4 PASS / COMPLETE — 6 refinements / 0 blockers / English VERIFIED; Speech 5 PASS / COMPLETE — 11 refinements / 0 blockers / English VERIFIED**
-- Gate H — **Speech 1 PASS / COMPLETE — RELEASED / CLOSED; Speech 2 PASS / COMPLETE — RELEASED / CLOSED; Speech 3 PASS / COMPLETE — RELEASED / CLOSED**
+- Gate C — **Speeches 1–5 CLOSED; speeches 6–19 not started**
+- Gate D — **Speeches 1–5 PASS / COMPLETE — 0 completeness corrections each**
+- Gate E — **Speech 1 PASS / 9 corrections; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; all 1–5 Tamil VERIFIED / 0 unresolved**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–5 — modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
+- Gate F — **Speeches 1–5 COMPLETE — page counts 7 / 9 / 9 / 6 / 11**
+- Gate G — **Speeches 1–5 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11; 0 blockers; English VERIFIED**
+- Gate H — **Speeches 1–5 PASS / COMPLETE — RELEASED / CLOSED**
+
+## Gate-H boundary / release check for Speeches 4–5
+
+- Speech 4 — scans **43–48** / released;
+- Speech 5 — scans **49–59** / released;
+- transition **48→49** — unchanged and hard-preserved;
+- scan **60** — remains the start of Speech 6;
+- verified wording changes during Gate H — **0 Tamil / 0 English**.
 
 ## Exact continuation
 
-Speech 1 / 5.3.1958 Tamil is now **VERIFIED**: Gate C complete, Gate D PASS, Gate E PASS with **9 corrections / 0 unresolved readings**.
-
-Speeches 1, 2 and 3 are **RELEASED / CLOSED through Gate H**. Speeches 4 and 5 Gate G are **PASS / COMPLETE — 17/17 English pages reviewed, 17 cumulative refinements, 0 blockers, 0 Tamil changes; English VERIFIED for both**. Exact next: **Gate H canonical merge / index / release closure for Speeches 4 and 5 together**.
+Speeches **1–5 are RELEASED / CLOSED through Gate H**. Exact next: **Speech 6 / 7.3.1963 — Gate C Tamil first-pass transcription, scans 60–75 / 16 pages**. Speech 7 is deferred because adding its 14 pages would exceed the 25-page whole-speech limit.
