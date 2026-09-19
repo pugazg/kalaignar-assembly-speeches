@@ -38,7 +38,7 @@
     "usable_text_layer": false
   },
   "transcription": {
-    "method": "manual Gate C first-pass transcription from rendered scan pixels",
+    "method": "manual Gate C first-pass transcription followed by Gate D completeness audit and strict Gate E page-by-page visual source-fidelity verification from rendered scan pixels",
     "preserve_source_spelling": true,
     "preserve_source_punctuation": true,
     "preserve_source_numerals": true,
@@ -46,7 +46,7 @@
     "preserve_speaker_labels_and_interventions": true,
     "preserve_printed_english": true,
     "page_boundaries_marked": true,
-    "status": "transcribed",
+    "status": "verified",
     "gate_c_status": "complete",
     "completed_scan_pages": "60-75",
     "completed_printed_pages": "59-74",
@@ -55,12 +55,12 @@
     "source_page_markers_checked_first_pass": true,
     "unresolved_readings": 0,
     "completeness_audit_passed": true,
-    "verified_against_scan": false,
-    "historical_glyph_gate_status": "provisionally-n-a-modern-2007-typesetting",
-    "next_gate": "E",
-    "note": "Gate C first-pass transcription and Gate D completeness audit are complete for all 16 pages. Gate D found 0 completeness corrections. Markers 60-75 are present exactly once and in order; boundaries 59→60 and 75→76 are preserved; scan 76 is excluded. Tamil remains transcribed/not verified pending Gate E.",
+    "verified_against_scan": true,
+    "historical_glyph_gate_status": "n-a-modern-2007-typesetting-no-historical-glyph-anomaly-found",
+    "next_gate": null,
+    "note": "Gates C, D and E are complete for all 16 pages. Gate D found 0 completeness corrections. Gate E directly re-read scans 60-75 against rendered source pixels and applied 20 source-fidelity corrections across scans 61, 62, 63, 64, 66, 70 and 72. Unresolved readings: 0. Tamil is verified.",
     "gate_d_status": "pass-complete",
-    "gate_e_status": "not-started",
+    "gate_e_status": "pass-complete",
     "gate_d_checked_scan_pages": "60-75",
     "gate_d_page_count": 16,
     "gate_d_completeness_corrections": 0,
@@ -68,17 +68,21 @@
     "gate_d_boundary_check": "scan 59 excluded as Speech 5 close; scan 60 start PASS; scan 75 close PASS; scan 76 excluded as Speech 7",
     "gate_d_intervention_check": "M. Bhaktavatsalam scan 60 PASS; K. Kamaraj scan 72 PASS; Speaker source-printed-English interventions scan 73 PASS",
     "gate_d_structural_check": "quotations, dates, numerals, quantities, book/page references and page-spanning passages structurally complete",
-    "gate_d_transition_check": "60→61, 61→62, 62→63, 63→64, 64→65, 65→66, 66→67, 67→68, 68→69, 69→70, 70→71, 71→72, 72→73, 73→74, 74→75 PASS"
+    "gate_d_transition_check": "60→61, 61→62, 62→63, 63→64, 64→65, 65→66, 66→67, 67→68, 68→69, 69→70, 70→71, 71→72, 72→73, 73→74, 74→75 PASS",
+    "verified_scan_pages": "60-75",
+    "gate_e_page_count": 16,
+    "gate_e_correction_count": 20,
+    "gate_e_unresolved_readings": 0
   },
   "translation": {
     "language": "English",
-    "status": "blocked",
+    "status": "not-started",
     "type": "faithful reading translation",
-    "placement": "not started",
-    "source_text": "blocked until final Gate-E-verified Tamil transcript",
+    "placement": "working English file to be created at Gate F",
+    "source_text": "final Gate-E-verified Tamil transcript",
     "gate_f_status": "not-started",
     "verified_against_tamil": false,
-    "next_gate": "F-after-Tamil-verification"
+    "next_gate": "F"
   },
   "release": {
     "status": "working",
@@ -86,6 +90,6 @@
     "release_ready": false,
     "gate_h_status": "not-started",
     "indexed": false,
-    "release_note": "Speech 6 is not released. Gate C only is complete; Gate D is next."
+    "release_note": "Speech 6 is not released. Tamil Gates C-E are complete and verified; Gate F English translation is next."
   }
 }
