@@ -92,11 +92,11 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–5 CLOSED; Speech 6 COMPLETE / 16 of 16 / Tamil TRANSCRIBED NOT VERIFIED; speeches 7–19 not started**
+- Gate C — **Speeches 1–5 CLOSED; Speech 6 COMPLETE / 16 of 16; speeches 7–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–5 — modern 2007 typesetting; reopen only for actual page-specific legacy-glyph evidence**
 - Gate D — **Speeches 1–5 PASS / COMPLETE — 0 completeness corrections each; Speech 6 PASS / COMPLETE — 16/16 pages / 0 completeness corrections**
-- Gate E — **Speeches 1–5 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10; unresolved 0**
-- Gate F — **Speeches 1–5 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11**
+- Gate E — **Speeches 1–6 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20; unresolved 0**
+- Gate F — **Speeches 1–6 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16; Speech 6 English FIRST-PASS / Gate G pending**
 - Gate G — **Speeches 1–5 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11; 0 blockers; English VERIFIED**
 - Gate H — **Speeches 1–5 PASS / COMPLETE — RELEASED / CLOSED**
 
@@ -356,7 +356,7 @@ Speeches 4–5 are closed as one **17-page** activity.
 - root README / anthology surfaces / machine-readable dated index — synchronized;
 - no OCR, booklet pixels, web, Official Report or alternate anthology supplied English wording.
 
-## Speech 6 durable Gates C–D state
+## Speech 6 durable Gates C–F state
 
 Canonical working entry:
 
@@ -364,25 +364,23 @@ Canonical working entry:
 
 - scans **60–75 / printed pp.59–74**
 - Gate C — **COMPLETE / 16 of 16 pages**
-- Gate D — **PASS / COMPLETE / 16 of 16 pages**
-- Gate-D completeness corrections — **0**
-- source markers — **60→75 exactly once and in order**
-- first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- hard boundary **59→60** — preserved
-- hard boundary **75→76** — preserved; scan 76 begins Speech 7 and is excluded
-- M. Bhaktavatsalam scan 60 / K. Kamaraj scan 72 / Speaker scan 73 interventions — PASS structurally
-- scan-73 source-printed English — PASS structurally
-- quotations, dates, numerals, quantities, book/page references — structurally complete
-- all transitions **60→61 through 74→75** — PASS; no omission or duplication
-- Gate C.5 — **provisionally N/A** for modern 2007 typesetting
-- Gate E — **NOT STARTED / next**
-- English — **BLOCKED**
+- Gate D — **PASS / COMPLETE / 0 completeness corrections**
+- Gate E — **PASS / COMPLETE / 20 source-fidelity corrections / 0 unresolved**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED**
+- Gate F — **COMPLETE / 16 of 16 English pages**
+- English — **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL**
+- source-printed English scan 73 — **preserved verbatim**
+- Gate-F blocking questions — **0**
+- hard boundaries **59→60** and **75→76** — preserved
+- scan 76 / Speech 7 — excluded and not started
+- Gate G — **NOT STARTED / exact next**
+- release — **WORKING / NOT RELEASED**
 
-The Gate-C first pass was read from the rendered source pixels only. No OCR, web copy, Official Report or alternate anthology supplied wording. Gate D made no transcript wording changes and does **not** constitute word-for-word source verification.
+Gate F translated only from the final Gate-E-verified Tamil. No OCR, web copy, Official Report or alternate anthology supplied English wording.
 
 ## Exact next activity
 
-Perform **Speech 6 / 7.3.1963 — Gate E strict page-by-page visual source-fidelity verification**, scans **60–75 / 16 pages**.
+Perform **Speech 6 / 7.3.1963 — Gate G full English fidelity and voice review**, scans **60–75 / 16 pages**, comparing only the final verified Tamil and Gate-F English.
 
-Do not begin English or Speech 7 in the same iteration. Do not reopen released Speeches 1–5 merely for stylistic polishing.
+Do not begin Gate H or Speech 7 in the same iteration. Do not reopen released Speeches 1–5 merely for stylistic polishing.
