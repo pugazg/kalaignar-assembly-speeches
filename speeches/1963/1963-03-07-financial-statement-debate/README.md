@@ -36,7 +36,7 @@
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - Gate H — **PASS / COMPLETE**
 - release — **RELEASED / CLOSED**
-- release status — **WORKING / NOT RELEASED**
+- release status — **RELEASED / CLOSED**
 
 Gate C and Gate E used only the rendered scan pixels from the controlling anthology. No OCR, web copy, Official Report or alternate anthology supplied wording.
 
@@ -49,7 +49,7 @@ The verified Tamil preserves source spelling, punctuation, numerals, quotations,
 - [`translation-review.md`](./translation-review.md) — Gates F–G English fidelity audit
 - [`metadata.json`](./metadata.json) — source and gate state
 - [`source-notes.md`](./source-notes.md) — source authority and locked boundary
-- [`verification-log.md`](./verification-log.md) — Gates C–E audit trail
+- [`verification-log.md`](./verification-log.md) — Gates C–H audit trail
 
 ## Gate D result
 
