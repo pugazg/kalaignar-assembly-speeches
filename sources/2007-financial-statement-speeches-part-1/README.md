@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1 / 5.3.1958, 2 / 4.3.1959 and 3 / 16.3.1960 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English.
+Speeches 1–5 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English.
 
 ## Whole-speech batching policy
 
@@ -216,39 +216,48 @@ Gate E applied **3 source-fidelity corrections** with **0 unresolved readings**.
 
 Canonical bilingual transcript and dated indexes are synchronized. Full English audit: `speeches/1960/1960-03-16-financial-statement-debate/translation-review.md`.
 
-## Speech 4 current state
+## Speech 4 Gate-H closure
 
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- scans **43–48 / 6 pages**
 - Tamil Gates C–E — **COMPLETE / VERIFIED**
 - Gate F — **COMPLETE / 6 of 6 English pages**
-- Gate G — **PASS / COMPLETE — 6/6 pages; 6 refinements; 0 blockers; 0 Tamil changes**
+- Gate G — **PASS / COMPLETE — 6 refinements / 0 blockers / 0 Tamil changes**
 - source-printed English scan 48 — **preserved verbatim**
-- English — **VERIFIED AGAINST TAMIL**
-- Gate H — **NOT STARTED / next**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual `transcript.md` — complete
+- `translation.md` — retired pointer
+- release — **RELEASED / CLOSED**
 
-## Speech 5 current state
+## Speech 5 Gate-H closure
 
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- scans **49–59 / 11 pages**
 - Tamil Gates C–E — **COMPLETE / VERIFIED**
 - Gate F — **COMPLETE / 11 of 11 English pages**
-- Gate G — **PASS / COMPLETE — 11/11 pages; 11 refinements; 0 blockers; 0 Tamil changes**
-- `பூவாங்க` — retained as **Poovanga** without outside identification
-- `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` — retained conservatively with **thumbai**
-- English — **VERIFIED AGAINST TAMIL**
-- Gate H — **NOT STARTED / next**
+- Gate G — **PASS / COMPLETE — 11 refinements / 0 blockers / 0 Tamil changes**
+- `பூவாங்க` — **Poovanga**, no outside identification
+- `தும்பை விட்டுவிட்டு வாலைப் பிடிக்கும்` — conservative **thumbai** rendering, no outside gloss
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual `transcript.md` — complete
+- `translation.md` — retired pointer
+- release — **RELEASED / CLOSED**
 
-Gate-G batch total: **17/17 English pages reviewed / 17 cumulative refinements / 0 blockers / 0 Tamil changes**. Speech 6 remains deferred by the whole-speech 25-page rule.
+## Speeches 4–5 Gate-H closure
 
-## Speeches 4–5 Gate G closure
+The paired 17-page activity is **PASS / COMPLETE**.
 
-**PASS / COMPLETE — English VERIFIED for both speeches.**
-
-- Speech 4 refinements — **6**
-- Speech 5 refinements — **11**
-- cumulative refinements — **17**
-- blocking fidelity issues — **0**
-- verified-Tamil changes — **0**
-- hard boundary **48→49** — preserved
-- outside wording from OCR / booklet pixels / web / Official Reports / alternate anthologies — **none**
+- hard speech boundary **48→49** — preserved;
+- canonical Tamil/English ranges — **43→48** and **49→59**, complete and ordered;
+- cumulative Gate-G refinements — **17**;
+- blocking fidelity issues — **0**;
+- verified-Tamil changes — **0**;
+- Gate-H verified-English wording changes — **0**;
+- root dated index / `data/speeches.json` — synchronized;
+- outside wording from OCR / booklet pixels / web / Official Reports / alternate anthologies — **none**.
 
 ## Exact next activity
 
-Perform **Gate H canonical merge / index / release closure for Speeches 4 and 5 together**. Do not begin Speech 6 in the same iteration.
+Begin **Speech 6 / 7.3.1963 — Gate C Tamil first-pass transcription**, scans **60–75 / 16 pages**. Speech 7 / 7.3.1964 is **14 pages / scans 76–89**, so it is deferred because 16 + 14 = 30 exceeds the 25-page whole-speech limit.
