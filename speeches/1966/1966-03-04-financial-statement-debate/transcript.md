@@ -2,7 +2,7 @@
 
 ## உரை : 8 — நாள் : 4.3.1966
 
-> **Gate C state:** COMPLETE — 23/23 source pages transcribed directly from rendered pixels of the controlling split sources. Tamil is **TRANSCRIBED / NOT VERIFIED** (`verified_against_scan=false`). Source-page markers **90→112** are preserved. Gate D completeness audit is next. No OCR, web copy, Official Report or alternate anthology supplied wording.
+> **Gate D state:** PASS / COMPLETE — 23/23 source pages audited for completeness against rendered source pixels. Source-page markers **90→112** remain exactly once and in order; all transitions **90→91 through 111→112** pass, including the cross-split **100→101** transition; boundaries **89→90** and **112→113** remain intact; completeness corrections: **0**. Tamil remains **TRANSCRIBED / NOT VERIFIED** (`verified_against_scan=false`). Gate E strict page-by-page source-fidelity verification is next.
 
 ---
 
