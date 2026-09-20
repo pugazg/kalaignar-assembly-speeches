@@ -121,7 +121,7 @@ Earlier, 50 lakh gallons of water were supplied to Coimbatore city; now only 35 
 
 It was said that borewells would be sunk to overcome the present water shortage. Borewells are said to be sunk in many places, but party differences enter even there. In some places work is stopped because of party rivalry. Some borewells yield no water. Where water tanks exist, the Board does not come forward to supply electricity for pump sets. There is not even an engineer there. It is said that no one has been appointed for three months, that party politics is the reason, and that certain important people are interfering. If that is true, I request that appropriate action be taken.
 
-In this situation, for the water supplied by lorries in Coimbatore, the councillor in each area officially signs under a ration-card system, and drinking water is supplied today to a family in quantities such as one pot or two pots.
+In this situation, for the water supplied by lorries in Coimbatore, the councillor in each area officially signs under a ration-card system, and drinking water is supplied today in quantities of one pot or two pots.
 
 There is no food, no clothing, no water to drink. If all these are absent, what is there in this Budget? Looking at it reminds me of the story of Tenali Raman—
 
@@ -139,7 +139,7 @@ They keep talking of plans and plans, stressing a planned economy, but what wort
 
 —has angrily said, with our Chief Minister sitting nearby, that schemes useful to us are not being given to us, we must think about it.
 
-The Minister told journalists with delight that the Tuticorin thermal-power project had been accepted nearly 1¾ years ago. He said it was regrettable that even after a project accepted 1¾ years earlier, the Central Government had still not approved it and was not ready to take immediate action. I think it was the following week that Minister K. L. Rao, replying to a question in Parliament, spread out his hands and said, “Tuticorin? What Tuticorin? When did we approve it? There is nothing of the sort.”
+The Minister told journalists with delight that the Tuticorin thermal-power project had been accepted nearly 1¾ years ago. He said it was regrettable that even after a project accepted 1¾ years earlier, the Central Government had still not approved it and was not ready to take immediate action. I think it was the following week that Minister K. L. Rao, replying to a question in Parliament, threw up his hands and said, “Tuticorin? What Tuticorin? When did we approve it? There is nothing of the sort.”
 
 After hearing that, Minister Venkataraman either called the journalists or they came to him—either way, it makes no difference—and told them: “Here is K. L. Rao's letter. Minister T. T. K., Planning Commission Chairman Mr. Ashok Mehta, and this same Mr. K. L. Rao all sat together; the Tuticorin thermal-power project was approved, a decision was taken to implement it, and the Tamil Nadu Council of Ministers, specifically the Minister concerned, was officially informed by letter.” He showed that letter to the journalists.
 
@@ -147,9 +147,9 @@ After all this, if the Tuticorin thermal-power project is still in doubt, what i
 
 ### Source page 103
 
-. We too pay taxes to them. The Tamil Nadu Government seems to have lost the feeling that there is nothing wrong in acquiring the voice to ask them with authority.
+. We too pay taxes to them. The Tamil Nadu Government seems to have lost the feeling that there is nothing wrong in finding the voice to ask them with authority.
 
-If they ask for sesame, they will not give oil. Only if they ask for oil will they at least give sesame. But when you go to ask, you ask only, “At least give us sesame.” If they say, “There is no sesame,” you say, “Never mind then.” Asking for sesame and unable to get even kollu, the State Government traps itself in difficulty and reduces itself to expressing anger only occasionally, in situations like this.
+If they ask for sesame, they will not give oil. Only if they ask for oil will they at least give sesame. But when you go to ask, you ask only, “At least give us sesame.” If they say, “There is no sesame,” you say, “Never mind then.” Asking for sesame and unable to get even kol, the State Government traps itself in difficulty and reduces itself to expressing anger only occasionally, in situations like this.
 
 The Salem iron and steel plant has a ten-year history. It has been talked about since 1956–57. But what concrete result has emerged so far? Studies, studies, studies; tours, tours, tours; they come from there and go from here. What concrete result has emerged beyond this? Let me remind this House once of its brief history.
 
