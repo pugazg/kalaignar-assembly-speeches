@@ -71,7 +71,7 @@ That is what he has stated. But what does our respected Chief Minister say? He r
 
 **Kalaignar M. Karunanidhi:** I mention it precisely on the basis that a substantial section of the people does not have the means to buy those things, and for no other reason.
 
-The ruling party's claim that the standard of living has risen is like standing on the bank and clapping and laughing at a man who cannot swim, who has tried to wade through neck-deep water and is now floating away as a corpse, while admiring how great his ability to float is. Like clapping and laughing from the bank, this is how the ruling party speaks today while poor people, workers and ordinary people struggle to buy food—
+When the ruling party says that the standard of living has risen is like standing on the bank and clapping and laughing at a man who cannot swim, who has tried to wade through neck-deep water and is now floating away as a corpse, while admiring how great his ability to float is. Like clapping and laughing from the bank, this is how the ruling party speaks today while poor people, workers and ordinary people struggle to buy food—
 
 ### Source page 96
 
@@ -93,7 +93,7 @@ Take the family of someone earning less than Rs. 100—Rs. 75 or Rs. 60. Even if
 
 ### Source page 98
 
-. Even if we suppose that life can somehow be carried on without food, one feels compelled to ask whether even water to quench thirst is freely available under the rule of these charitable gentlemen. The drinking-water problem is rampant and flying its flag.
+. Even if we suppose that life can somehow be carried on without food, one feels compelled to ask whether even water to quench thirst is freely available under the rule of these so-called charitable gentlemen. The drinking-water problem is rampant and flying its flag.
 
 Why has no scheme been brought to supply Madras city with drinking water from the Cauvery, more than 200 miles away? Although the Government must bear full responsibility for this, because the Dravida Munnetra Kazhagam sits in the administration of the Madras Corporation, imaginary reasons are being offered as though it alone were responsible. Others too ask the Corporation why this Cauvery scheme has not been brought. It is a fair question, but it is being asked in the wrong place.
 
@@ -105,9 +105,9 @@ In Thanjavur, next to Tiruchirappalli, the population was 1 lakh 10 thousand in 
 
 ### Source page 99
 
-—is 15 gallons per person per day; in the earlier period 10 gallons were supplied. Today even 6 gallons are not supplied properly. With the quantity falling like this, the people of Thanjavur are being pushed into a situation where one must ask whether they will be given enough “gallons” of water or whether “Kaalan” will come for them.
+—is 15 gallons per person per day; in the earlier period 10 gallons were supplied. Today even 6 gallons are not supplied properly. With the quantity falling like this, the people of Thanjavur are being pushed into a situation where one must ask whether they will be given enough “gallons” of water or whether “Kaalan” himself will come for them.
 
-A Vennar scheme was drawn up. The present Palli Agraharam drainage near the intake is being blocked by silt from the source printed as “Pewari.” That too has not been attended to. A Rs. 30-lakh drinking-water scheme here is being kept safely in a box and worshipped. Though requests and appeals have been made for the scheme to be accepted immediately—and the municipal council there is itself run by the Congress party—even after they have taken it to the Government, it has not been implemented to this day.
+A Vennar scheme was drawn up. The present Palli Agraharam drainage near the intake is being blocked by silt from the source printed as “Pewari.” That too has not been attended to. A Rs. 30-lakh drinking-water scheme here is being kept safely in a box as though for worship. Though requests and appeals have been made for the scheme to be accepted immediately—and the municipal council there is itself run by the Congress party—even after they have taken it to the Government, it has not been implemented to this day.
 
 When one says Thanjavur, writers beginning stories about it speak of a land rich in water and soil, the fertile Chola country. Yet in the capital of such a Thanjavur district, people are suffering for drinking water.
 
