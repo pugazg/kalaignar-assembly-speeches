@@ -124,6 +124,28 @@ Verified-Tamil changes: **0**.
 
 **English `verified_against_tamil=true`.**
 
+## Gate H — canonical merge / index / release closure
+
+**Status: PASS / COMPLETE — RELEASED / CLOSED**
+
+Closure checks:
+
+- verified Tamil source-page markers **76→89** preserved exactly once and in order in the Tamil layer;
+- verified English source-page sections **76→89** preserved exactly once and in order in the English layer;
+- canonical `transcript.md` contains verified Tamil followed by Gate-G-verified English;
+- `translation.md` retired to a pointer only after the verified English was confirmed canonical;
+- Gate-G totals remain **16 refinements / 0 blockers / 0 Tamil changes**;
+- hard previous boundary **75→76** — preserved;
+- hard next boundary **89→90** — preserved; scan 90 remains Speech 8;
+- machine-readable dated index synchronized;
+- root dated speech index synchronized;
+- anthology/control surfaces synchronized;
+- neutral archival slug policy preserved;
+- verified Tamil wording changed during Gate H — **0**;
+- verified English wording changed during Gate H — **0**.
+
+Final disposition: **Speech 7 RELEASED / CLOSED**.
+
 ## Exact next activity
 
-Perform **Speech 7 Gate H canonical merge / index / release closure**. Do not begin Speech 8 in the same iteration.
+Begin **Speech 8 / 4.3.1966 — Gate C Tamil first-pass transcription**, scans **90–112 / 23 pages**.
