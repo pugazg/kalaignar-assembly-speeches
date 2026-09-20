@@ -56,4 +56,4 @@ The source is modern 2007 typesetting. The complete Gate-E visual audit found no
 
 ## Exact next
 
-**Gate F English first-pass translation — scans 90–112 / 23 pages — from the final Gate-E-verified Tamil only.**
+**Speech 8 RELEASED / CLOSED through Gate H. Exact next: Speech 9 / 29.3.1971 Gate C, scans 113–116 / 4 pages, as a parallel witness to the existing `நமது நிலை` provenance record.**
