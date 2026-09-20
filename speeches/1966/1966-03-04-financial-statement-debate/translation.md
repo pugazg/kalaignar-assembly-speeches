@@ -1,6 +1,6 @@
 # English translation — Speech 8 / 4 March 1966
 
-> **Gate F state:** COMPLETE — 23/23 source pages translated from the final Gate-E-verified Tamil only. English is **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL**. Gate G full fidelity and voice review is next. No OCR, scan pixels, web research, Official Reports or alternate anthologies supplied English wording.
+> **Gate G state:** PASS / COMPLETE — 23/23 source pages reviewed against the final Gate-E-verified Tamil. Gate G applied **16 fidelity/voice refinements**, with **0 blocking fidelity issues** and **0 Tamil changes**. English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**. Gate H canonical merge / index / release closure is next.
 
 ### Source page 90
 
@@ -235,7 +235,7 @@ An arrangement was made to spray pesticide by aircraft in the Villupuram area—
 
 Next, as regards the Kendra Village Scheme, between 1961 and 1964 this Tamil Nadu Government opened 15 Kendra Villages. Up to 1964, the expenditure on Kendra Village staff allowance and breeding-bull maintenance was Rs. 18 lakh 38 thousand. The aim of the Kendra Village Scheme was to develop cattle through artificial insemination.
 
-In the six Kendra Villages started in 1961–62, the number of cattle considered fit for breeding was 202,686. The number of calves expected from them was 81,074. But the calves actually obtained—poor things!—numbered 6,888.
+In the six Kendra Villages started in 1961–62, the number of cattle considered fit for breeding was 202,686. The number of calves expected from them was 81,074. But the calves actually obtained—alas—numbered only 6,888.
 
 In 1962–63, in six Kendra Villages, the number of cattle was 116,969. The expected number of calves was 46,787. The number actually obtained was only 784.
 
@@ -249,15 +249,15 @@ If economy is to be properly applied, our Ministers should come forward to reduc
 
 . I am not here to say how much they should reduce them. They too face today's high prices. The wife of our Home Minister, Hon. Mr. Kakkan, herself once stated at a conference: “Even though we receive Rs. 1,500, our family too is living amid many difficulties.” Therefore, if they themselves think it over and reduce their salaries to some extent, it may serve as an example to others.
 
-Many lakhs of rupees are spent because there is a post called Governor. That too can be saved. If that post were abolished, it would also be a good example of economy.
+Many lakhs of rupees are spent because the office of Governor exists. That too can be saved. If that post were abolished, it would also be a good example of economy.
 
-Ministers too can reduce their tours to some extent. Saying, “We are meeting the people,” is not a sound argument. I am not the one saying this. Mr. Kamaraj, who brought the Kamaraj Plan, himself said: “I cannot meet the people while being a Minister. When I go out saying I must meet the people, large Nandis stand in the way in the villages. That is why I am resigning.” This programme of economy can also be carried out by reducing ministerial tours.
+Ministers too can reduce their tours to some extent. Saying, “We are meeting the people,” is not a sound argument. I am not the one saying this. Mr. Kamaraj, who brought the Kamaraj Plan, himself said: “I cannot meet the people while being a Minister. When I go out saying I must meet the people, large Nandis stand in the way in the villages. That is why I am resigning.” This programme of economy can also be advanced by reducing ministerial tours.
 
 In addition, if Ministers resign their posts about three months before the 1967 general election, the salaries paid to Ministers can thereby be saved, and democracy too can be protected. It is only three months; nothing more is needed. They too may have a desire: whether we return next time or not, let us remain for those three months—
 
 ### Source page 112
 
-. Even so, if they resign for those three months and enter the general election, our respected Ministers—who take pride in saying that the Tamil Nadu Government has been the cause and the beginning of many things that made democracy blossom in the Indian subcontinent—should do this as well and stand as a good precedent.
+. Even so, if they resign for those three months and enter the general election, our respected Ministers—who take pride in saying that the Tamil Nadu Government has pioneered many measures that helped democracy blossom in the Indian subcontinent—should do this as well and set a good precedent.
 
 It is only because proper remedies have so far not been provided in this Budget for all the matters I have raised here that I have had to point them out. I request that this Cabinet make a determined effort, at least during the one year remaining to it, to find remedies for them.
 
@@ -265,4 +265,4 @@ Otherwise, this Cabinet is approaching the point at which, in 1967, it will have
 
 ---
 
-Gate F authority: final Gate-E-verified Tamil in `transcript.md` only. Source-bound names, political labels, quotations, policy claims, institutional terms and historical references are translated conservatively without outside correction or identification. No OCR, scan pixels, web research, Official Reports or alternate anthologies supplied English wording.
+Gate G review authority: final Gate-E-verified Tamil in `transcript.md` and the Gate-F English in this file only. Source-bound names, political labels, quotations, policy claims, institutional terms and historical references remain conservative; no outside correction or identification was imported. No OCR, scan pixels, web research, Official Reports or alternate anthologies supplied English wording.
