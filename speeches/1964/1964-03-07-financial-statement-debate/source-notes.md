@@ -48,7 +48,7 @@ Throughout this speech, `printed page = global scan page - 1`.
 
 First-pass unresolved readings: **0**.
 
-Tamil status remains **TRANSCRIBED / NOT VERIFIED**. Gate D completeness audit is next; Gate E will perform strict source-fidelity verification before Tamil can be marked verified.
+Gate D completeness audit is **PASS / COMPLETE — 14/14 pages / 0 completeness corrections**. Markers 76→89, boundaries 75→76 and 89→90, the M. Bhaktavatsalam intervention, the scan-77 laughter note, the scan-88 bell note, quotations, dates, figures and all page transitions are structurally complete. Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**; Gate E will perform strict word-level source-fidelity verification.
 
 ## Historical-glyph gate
 
@@ -56,4 +56,4 @@ The source is modern 2007 typesetting. Gate C.5 is **provisionally N/A** unless 
 
 ## Exact next
 
-**Gate D completeness audit — scans 76–89 / 14 pages.**
+**Gate E strict page-by-page Tamil source-fidelity verification — scans 76–89 / 14 pages.**
