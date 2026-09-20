@@ -50,8 +50,42 @@ The four pages use modern 2007 typesetting. No page-specific legacy/reform-sensi
 - normalization to the earlier witness — **none**;
 - anthology witness remains independent.
 
+## Gate D — completeness audit
+
+**Status: PASS / COMPLETE — 4/4 pages**
+
+Completeness corrections: **0**.
+
+### Page / boundary checks
+
+- source-page markers **113→116** — exactly once and in order;
+- scan 112 — excluded as released Speech 8 close;
+- scan 113 opening `உரை : 9 / நாள் : 29.3.1971` — PASS;
+- scan 116 close through `கேட்டுக் கொண்டு அமர்கிறேன்.` — PASS;
+- scan 117 — visually confirmed as `உரை : 10 / நாள் : 29.6.71` and excluded;
+- hard boundaries **112→113** and **116→117** — PASS.
+
+### Transition / structural checks
+
+- **113→114** — PASS;
+- **114→115** — PASS; page-spanning `தேவைப்படுகிற` → `தொகையைப் பெற்றுக் கொள்வதுதான்` is continuous and not duplicated or omitted;
+- **115→116** — PASS;
+- scan-113 source heading/date and speaker label — represented;
+- quotations, names, numerals and punctuation structure — represented;
+- scan-115 `‘சன்பிளவர்’`, `100க்கு 90`, and `(சிரிப்பு).` — represented;
+- scan-115 repeated two-sentence sequence is **source-printed repetition**, not a transcription duplication — retained;
+- scan-116 `14 கோடி`, `அவைகளை யெல்லாம்`, and final sentence — represented;
+- source-printed English in scans 113–116 — none;
+- Tamil wording changes at Gate D — **0**;
+- OCR / web / Official Report / `நமது நிலை` / alternate anthology wording — **none**.
+
+Gate D is a completeness/structure audit only. It does **not** claim strict word-for-word verification.
+
+Tamil status remains **TRANSCRIBED / NOT VERIFIED**.  
+`verified_against_scan=false`.
+
 ## Exact next activity
 
-**Gate D completeness audit — scans 113–116 / 4 pages.**
+**Gate E strict Tamil source-fidelity verification — scans 113–116 / 4 pages.**
 
-Gate D should test page coverage, marker uniqueness/order, paragraph continuity, boundary exclusion and structural retention only. Do not begin Gate E wording verification, English translation or Speech 10 in the same activity.
+Gate E must re-read every word, punctuation mark, numeral, quotation and source-visible form directly against the rendered 2007 anthology pixels, recording each correction explicitly. Do not use `நமது நிலை` or any outside witness to normalize the text. Do not begin English translation or Speech 10 in the same activity.

@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1–8 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 8 / 4.3.1966 closed with **43 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**; Gate D retains the retrospective **1 completeness correction** amendment. Speech 9 / 29.3.1971 Gate C is now **COMPLETE / 4 of 4 pages** as an independent parallel witness. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`; Gate D is next.
+Speeches 1–8 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 8 / 4.3.1966 closed with **43 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**; Gate D retains the retrospective **1 completeness correction** amendment. Speech 9 / 29.3.1971 Gates C + D are now **COMPLETE / 4 of 4 pages** as an independent parallel witness. Gate D is **PASS / COMPLETE / 0 completeness corrections**. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`; Gate E is next.
 
 ## Whole-speech batching policy
 
@@ -330,8 +330,8 @@ Reader/work entry:
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate C.5 — **provisionally N/A** for modern 2007 typesetting; reopen only if page-specific legacy-glyph evidence appears
-- Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 4/4 pages; 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 - English — **NOT STARTED**
 - release — **WORKING / NOT RELEASED**
 - hard boundaries **112→113** and **116→117** — preserved
@@ -343,4 +343,4 @@ The first pass preserves the anthology's own wording even where it is semantical
 
 ## Exact next activity
 
-Perform **Speech 9 / 29.3.1971 — Gate D completeness audit**, scans **113–116 / 4 pages**. Gate D must remain a structural/completeness audit only; do not begin strict Gate E verification, English translation, or Speech 10.
+Perform **Speech 9 / 29.3.1971 — Gate E strict Tamil source-fidelity verification**, scans **113–116 / 4 pages**. Use only the controlling 2007 anthology pixels; do not normalize against `நமது நிலை`, begin English translation, or start Speech 10.

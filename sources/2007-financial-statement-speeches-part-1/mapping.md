@@ -123,7 +123,7 @@ Speech 9 / 29.3.1971 has now completed Gate C as one intact **4-page activity / 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speeches 1–8 CLOSED; Speech 9 COMPLETE / 4 of 4; speeches 10–19 not started**
-- Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction after Gate E restored an omitted scan-90 phrase; Speech 9 NOT STARTED / next**
+- Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction after Gate E restored an omitted scan-90 phrase; Speech 9 PASS / COMPLETE / 0 completeness corrections**
 - Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43 corrections; all 1–8 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–8; Speech 9 provisionally N/A — modern 2007 typesetting, with no page-specific legacy-glyph evidence observed at Gate C**
 - Gate F — **Speeches 1–8 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23**
@@ -190,7 +190,8 @@ Speech 9 / 29.3.1971 has now completed Gate C as one intact **4-page activity / 
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate C.5 — **provisionally N/A**
-- Gate D — **NOT STARTED / next**
+- Gate D — **PASS / COMPLETE — 4/4 pages; 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 - hard boundaries **112→113** and **116→117** — preserved
 - scan 117 — confirmed Speech 10 / `உரை : 10 / நாள் : 29.6.71`, excluded
 - `நமது நிலை` relationship — **independent parallel witness / no overwrite**
@@ -198,4 +199,4 @@ Speech 9 / 29.3.1971 has now completed Gate C as one intact **4-page activity / 
 
 ## Exact continuation
 
-Speeches **1–8 remain RELEASED / CLOSED through Gate H**. Speech 9 Gate C is complete but **NOT VERIFIED / NOT RELEASED**. Exact next: **Speech 9 / 29.3.1971 — Gate D completeness audit, scans 113–116 / 4 pages**.
+Speeches **1–8 remain RELEASED / CLOSED through Gate H**. Speech 9 Gates C + D are complete but Tamil is still **NOT VERIFIED / NOT RELEASED**; Gate D recorded **0 completeness corrections**. Exact next: **Speech 9 / 29.3.1971 — Gate E strict Tamil source-fidelity verification, scans 113–116 / 4 pages**.

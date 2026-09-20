@@ -39,8 +39,8 @@ This 2007-anthology unit overlaps the existing நமது நிலை event/p
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - verified_against_scan=false
 - Gate C.5 — **provisionally N/A** for modern 2007 typesetting; reopen only if page-specific legacy-glyph evidence appears
-- Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 4/4 pages; 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 - English — **NOT STARTED**
 - release — **WORKING / NOT RELEASED**
 
@@ -50,15 +50,27 @@ The hard boundaries **112→113** and **116→117** are preserved. Scan 112 belo
 
 ## Files
 
-- transcript.md — Gate-C Tamil first-pass transcript
+- transcript.md — Gate-C Tamil first-pass transcript, unchanged by Gate D
 - metadata.json — source, parallel-witness and gate state
-- source-notes.md — source authority and locked boundaries
-- verification-log.md — Gate-C coverage and structural audit trail
+- source-notes.md — source authority, locked boundaries and Gate-D result
+- verification-log.md — Gate-C coverage plus Gate-D completeness audit trail
 
-## Gate-C note
+## Gate-D result
 
-This is a first-pass transcription, not a word-for-word verification claim. Source-visible wording is retained even when semantically unusual; later Gate E may correct only against the same 2007 scan pixels.
+**PASS / COMPLETE — 4/4 pages; 0 completeness corrections.**
+
+- markers **113→116** — exactly once and in order;
+- hard boundaries **112→113** and **116→117** — PASS;
+- scan-113 heading/date and speaker label — represented;
+- transitions **113→114**, **114→115**, **115→116** — continuous;
+- scan-114→115 continuation `தேவைப்படுகிற` → `தொகையைப் பெற்றுக் கொள்வதுதான்` — PASS;
+- scan-115 `‘சன்பிளவர்’`, `100க்கு 90`, the source-printed repeated two-sentence sequence, and `(சிரிப்பு).` — structurally retained;
+- scan-116 `14 கோடி`, `அவைகளை யெல்லாம்`, and final `கேட்டுக் கொண்டு அமர்கிறேன்.` — structurally retained;
+- completeness corrections — **0**;
+- Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`.
+
+Gate D was a completeness/structure audit only. No Tamil wording was changed and no outside witness was used.
 
 ## Exact next activity
 
-**Speech 9 Gate D completeness audit — scans 113–116 / 4 pages.** Do not begin Gate E, English translation or Speech 10 in that activity.
+**Speech 9 Gate E strict Tamil source-fidelity verification — scans 113–116 / 4 pages.** Do not begin English translation or Speech 10 in that activity.

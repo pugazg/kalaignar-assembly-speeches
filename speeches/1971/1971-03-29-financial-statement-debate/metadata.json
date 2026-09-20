@@ -56,7 +56,7 @@
     "external_witness_wording_imported": false
   },
   "transcription": {
-    "method": "manual Gate C first-pass transcription from rendered pixels of the controlling 2007 anthology split only",
+    "method": "manual Gate C first-pass transcription from rendered pixels of the controlling 2007 anthology split only, followed by Gate D completeness and structural audit",
     "preserve_source_spelling": true,
     "preserve_source_punctuation": true,
     "preserve_source_numerals": true,
@@ -72,12 +72,20 @@
     "total_page_count": 4,
     "source_page_markers_checked_first_pass": true,
     "unresolved_readings": 0,
-    "completeness_audit_passed": false,
+    "completeness_audit_passed": true,
     "verified_against_scan": false,
     "historical_glyph_gate_status": "provisionally-n-a-modern-2007-typesetting",
-    "next_gate": "gate-d-completeness-audit",
+    "next_gate": "gate-e-strict-source-fidelity-verification",
     "outside_wording_imported": false,
-    "note": "Gate C only. The anthology wording is preserved independently of the existing Namathu Nilai witness. Gate D, Gate E and English have not started."
+    "note": "Gates C and D are complete for all 4 source pages. Gate D found 0 completeness corrections: markers 113-116 are unique and ordered; boundaries 112→113 and 116→117 are preserved; the 114→115 continuation is continuous; source heading/date/speaker label, quotations, numerals, names, the source-printed repetition on scan 115, ‘சன்பிளவர்’, (சிரிப்பு)., and the scan-116 close are structurally retained. Tamil remains transcribed/not verified; Gate E and English have not started.",
+    "gate_d_status": "pass-complete",
+    "gate_d_checked_scan_pages": "113-116",
+    "gate_d_page_count": 4,
+    "gate_d_completeness_corrections": 0,
+    "gate_d_marker_check": "113-116 exactly once and in order",
+    "gate_d_boundary_check": "scan 112 excluded as released Speech 8 close; scan 113 start PASS; scan 116 close PASS; scan 117 excluded as Speech 10 start",
+    "gate_d_transition_check": "113→114, 114→115 and 115→116 PASS; 114→115 'தேவைப்படுகிற' → 'தொகையைப் பெற்றுக் கொள்வதுதான்' continuous",
+    "gate_d_structural_check": "heading/date/speaker label, quotations, numerals, names, punctuation structure, source-printed scan-115 repetition, ‘சன்பிளவர்’, (சிரிப்பு)., and scan-116 closing sentence retained"
   },
   "translation": {
     "language": "English",
@@ -89,6 +97,6 @@
     "released": false,
     "release_ready": false,
     "indexed": false,
-    "index_note": "Gate C working entry only; do not add to released dated indexes until later gates close."
+    "index_note": "Gate D working entry only; do not add to released dated indexes until later gates close."
   }
 }

@@ -2,7 +2,7 @@
 
 ## உரை : 9 — நாள் : 29.3.1971
 
-> **Gate C working status:** Tamil first-pass transcription is complete for source scans **113–116 / printed pp.112–115**. This text is **TRANSCRIBED / NOT VERIFIED** and verified_against_scan=false. It is an independent 2007-anthology parallel witness to the existing நமது நிலை event/provenance record; no wording from that earlier source layer was imported.
+> **Gate D working status:** Gate C first-pass transcription and Gate D completeness audit are complete for source scans **113–116 / printed pp.112–115**. Gate D is **PASS / COMPLETE — 4/4 pages / 0 completeness corrections**. The Tamil remains **TRANSCRIBED / NOT VERIFIED** and `verified_against_scan=false`; Gate E strict source-fidelity verification is next. This is an independent 2007-anthology parallel witness to the existing `நமது நிலை` event/provenance record; no wording from that earlier source layer was imported.
 
 ---
 
