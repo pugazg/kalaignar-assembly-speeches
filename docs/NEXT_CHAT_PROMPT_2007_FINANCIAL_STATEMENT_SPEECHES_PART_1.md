@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 8 Gate C
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 8 Gate D
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,67 +8,65 @@ Speeches **1–7 are RELEASED / CLOSED through Gate H** with verified Tamil and 
 
 Do not reopen Speeches 1–7 merely for stylistic polishing.
 
-Speech 7 final closure:
+## Speech 8 durable Gate-C state
 
-- source label/date — `உரை : 7 / 7.3.1964`
-- scans **76–89 / printed pp.75–88**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate E — **19 corrections / 0 unresolved**
-- Gate F — **COMPLETE / 14/14**
-- Gate G — **PASS / COMPLETE / 16 refinements / 0 blockers / 0 Tamil changes**
-- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **PASS / COMPLETE**
-- release — **RELEASED / CLOSED**
-- Gate-H wording changes — **0 Tamil / 0 English**
-- hard boundary **89→90** — preserved
+Working entry:
 
-## Whole-speech batching policy
+`speeches/1966/1966-03-04-financial-statement-debate/`
 
-Maximum **25 source-scan pages per activity**, preserving complete speech units.
+Source identity:
 
-Current exact unit:
-
-- Speech 8 / **4.3.1966**
-- scans **90–112**
-- printed pages **89–111**
+- source label — `உரை : 8`
+- printed date — `4.3.1966`
+- global scans — **90–112**
+- printed pages — **89–111**
 - page count — **23**
-- previous boundary — scan 89 closes Speech 7
-- scan 90 begins `உரை : 8 / நாள் : 4.3.1966`
-- scan 112 closes Speech 8
-- scan 113 begins Speech 9 / 29.3.1971
+- split 004 `...part_004_pages_76-100.pdf`
+  - local pages **15–25** = global scans **90–100**
+  - SHA-256 `249a5cfee267acc49efc222d13408e2c3570f02ee67de7bc3ce583a8e453c9d2`
+- split 005 `...part_005_pages_101-125.pdf`
+  - local pages **1–12** = global scans **101–112**
+  - SHA-256 `1ae9039952b35b70035365de3774cdf3df5ae6c62cb38d030683ce93e2456ade`
 
-Speech 8 fits the 25-page limit as one intact activity. Speech 9 is deferred.
+Boundaries:
 
-## Source authority
+- scan 89 closes released Speech 7;
+- scan 90 begins `உரை : 8 / நாள் : 4.3.1966`;
+- scan 112 closes Speech 8 with `வணக்கம்.`;
+- scan 113 / split 005 local page 13 begins `உரை : 9 / நாள் : 29.3.1971`;
+- hard boundaries **89→90** and **112→113** are preserved.
 
-Use only the controlling anthology split files already supplied by the user:
+Gate C:
 
-1. `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_004_pages_76-100.pdf`
-   - local pages **15–25** = global scans **90–100**
-2. `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_005_pages_101-125.pdf`
-   - local pages **1–12** = global scans **101–112**
+- **COMPLETE / 23 of 23 pages**
+- source markers **90→112 exactly once and in order**
+- first-pass unresolved readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Gate C.5 — **provisionally N/A** for modern 2007 typesetting
+- Gate D — **NOT STARTED / exact next**
+- Gate E / English — **NOT STARTED**
+- release — **WORKING / NOT RELEASED**
 
-Rendered scan pixels are authoritative.
-
-Do not use OCR, web copies, Official Reports or alternate anthologies to supply wording.
+Gate C was transcribed only from rendered source pixels. No OCR, web copy, Official Report or alternate anthology supplied wording.
 
 ## Exact next activity
 
-Perform **Speech 8 / 4.3.1966 — Gate C Tamil first-pass transcription, scans 90–112 / 23 pages**.
+Perform **Speech 8 / 4.3.1966 — Gate D completeness audit**, scans **90–112 / 23 pages**.
 
-Requirements:
+Gate-D requirements:
 
-1. create the working entry at `speeches/1966/1966-03-04-financial-statement-debate/` using the established neutral archival slug pattern;
-2. transcribe all **23/23** source scans directly from rendered pixels;
-3. preserve source spelling, punctuation, numerals, quotations, names, speaker labels/interventions and any source-printed English exactly as printed;
-4. normalize only physical line wrapping into readable paragraphs; do not modernize or silently regularize wording;
-5. add explicit source-page markers **90→112**, each exactly once and in order;
-6. preserve hard boundaries **89→90** and **112→113**; scan 89 belongs to released Speech 7 and scan 113 belongs to Speech 9;
-7. record unresolved readings explicitly rather than guessing;
-8. create/update the speech README, metadata, source notes and verification log for Gate-C state;
-9. treat Gate C.5 as **provisionally N/A** for modern 2007 typesetting unless page-specific legacy-glyph evidence appears;
-10. after Gate C, Tamil must remain **TRANSCRIBED / NOT VERIFIED** and `verified_against_scan=false`;
-11. synchronize anthology README, mapping and handover;
-12. do not begin Gate D, Gate E, English translation or Speech 9 in the same iteration.
+1. use the Gate-C `transcript.md` as the working transcription and the rendered source pixels as the completeness authority;
+2. check every source-page marker **90→112** occurs exactly once and in order;
+3. verify scan 89 remains excluded, scan 90 opening is represented, scan 112 close through `வணக்கம்.` is complete, and scan 113 remains excluded;
+4. check all page-spanning continuations **90→91 through 111→112** for omission, duplication or wrong ordering;
+5. explicitly check the split transition **100→101** across the two PDFs;
+6. check M. Bhaktavatsalam interventions on scans **91, 92 and 95**, and the Speaker source-printed English `He is so well known.` on scan **93**;
+7. check quotations, dates, numerals, rupee amounts, commodity prices, statistical figures, named references and stage/intervention structure are represented;
+8. Gate D is a completeness audit only: do not silently perform Gate-E word-level source corrections;
+9. if a completeness defect is found, correct it and record the exact correction by scan in `verification-log.md`;
+10. after Gate D, Tamil remains **NOT VERIFIED / verified_against_scan=false**;
+11. update `metadata.json`, speech README, source notes, verification log, anthology README, mapping, handover and this next-chat prompt;
+12. do not begin Gate E, English translation or Speech 9 in the same iteration.
 
-Expected continuation after successful Gate C: **Speech 8 Gate D completeness audit, scans 90–112 / 23 pages**.
+Expected continuation after successful Gate D: **Speech 8 Gate E strict page-by-page Tamil source-fidelity verification, scans 90–112 / 23 pages**.
