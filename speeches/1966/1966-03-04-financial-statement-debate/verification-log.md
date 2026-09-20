@@ -164,4 +164,8 @@ Tamil status: **VERIFIED**.
 
 ## Exact next activity
 
-Perform **Speech 8 Gate F English first-pass translation**, scans **90–112 / 23 pages**, using only the final Gate-E-verified Tamil. Do not begin Gate G or Speech 9 in the same iteration.
+Gate F — **COMPLETE / 23 of 23 pages**. Gate G — **PASS / COMPLETE / 16 refinements / 0 blockers / 0 Tamil changes / English verified against Tamil**. Gate H — **PASS / COMPLETE / RELEASED / CLOSED**. Canonical bilingual transcript complete; translation working copy retired; root and machine-readable indexes synchronized; Gate-H wording changes **0 Tamil / 0 English**.
+
+## Exact next activity
+
+Begin **Speech 9 / 29.3.1971 Gate C**, scans **113–116 / 4 pages**, treating this anthology as a parallel witness.
