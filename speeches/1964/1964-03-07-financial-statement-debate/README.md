@@ -27,12 +27,11 @@
 - Gate C Tamil first pass — **COMPLETE / 14 of 14 pages**
 - source markers — **76→89 exactly once and in order**
 - first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate C.5 — **provisionally N/A — modern 2007 typesetting**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found**
 - Gate D — **PASS / COMPLETE — 14/14 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / exact next**
-- English — **NOT STARTED**
+- Gate E — **PASS / COMPLETE — 14/14 pages; 19 source-fidelity corrections; 0 unresolved readings**
+- English — **NOT STARTED / Gate F next**
 - release — **WORKING / NOT RELEASED**
 
 Gate C used only rendered source pixels from the user-supplied split. No OCR, web copy, Official Report or alternate anthology supplied wording.
@@ -41,10 +40,10 @@ The hard boundaries **75→76** and **89→90** are preserved. Scan 75 belongs t
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — Gate-C Tamil first-pass transcript
+- [`transcript.md`](./transcript.md) — Gate-E-verified Tamil transcript
 - [`metadata.json`](./metadata.json) — source and gate state
 - [`source-notes.md`](./source-notes.md) — source authority and locked boundaries
-- [`verification-log.md`](./verification-log.md) — Gate-C audit trail
+- [`verification-log.md`](./verification-log.md) — Gates C–E audit trail
 
 ## Gate D result
 
@@ -62,6 +61,23 @@ The hard boundaries **75→76** and **89→90** are preserved. Scan 75 belongs t
 - completeness corrections — **0**;
 - Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**.
 
+## Gate E result
+
+**PASS / COMPLETE — Tamil VERIFIED.**
+
+All **14/14** scans were re-read directly against rendered source pixels. Gate E applied **19 source-fidelity corrections** across scans **76–81, 83–87 and 89**; scans **82 and 88** required no correction. Unresolved readings: **0**.
+
+- Tamil — **VERIFIED / verified_against_scan=true**;
+- Gate C.5 — **N/A / CLOSED**;
+- markers **76→89** — preserved exactly once and in order;
+- hard boundaries **75→76** and **89→90** — preserved;
+- scan 77 M. Bhaktavatsalam intervention and `(சிரிப்பு)` — PASS;
+- scan 88 `(மணி அடிக்கப்பட்டது.)` — PASS;
+- scan 89 final `வணக்கம்.` — PASS;
+- outside wording from OCR / web / Official Reports / alternate anthologies — **none**.
+
+The exact 19-item correction ledger is in `verification-log.md`.
+
 ## Exact next activity
 
-Perform **Speech 7 Gate E strict page-by-page Tamil source-fidelity verification**, scans **76–89 / 14 pages**. Do not begin English translation or Speech 8 in the same iteration.
+Perform **Speech 7 Gate F English first-pass translation**, scans **76–89 / 14 pages**, using only the final Gate-E-verified Tamil. Do not begin Gate G or Speech 8 in the same iteration.
