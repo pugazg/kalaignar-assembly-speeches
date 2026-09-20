@@ -2,7 +2,7 @@
 
 ## உரை : 8 — நாள் : 4.3.1966
 
-> **Gate E state:** PASS / COMPLETE — 23/23 source pages re-read directly against rendered source pixels. Gate E applied **45 source-fidelity corrections** across scans **90, 92–98, 100–111**, with **0 unresolved readings**. One scan-90 phrase omitted in the Gate-C first pass was detected here and the earlier Gate-D completeness count is retrospectively amended from 0 to **1**. Tamil is **VERIFIED / verified_against_scan=true**. Gate C.5 is **N/A / CLOSED** for this modern 2007 typesetting; no historical/reform-sensitive glyph anomaly was found. Gate F English first-pass translation is next.
+> **Gate E state:** PASS / COMPLETE — 23/23 source pages re-read directly against rendered source pixels. Gate E applied **43 source-fidelity corrections** across scans **90, 92–98, 100–111**, with **0 unresolved readings**. One scan-90 phrase omitted in the Gate-C first pass was detected here and the earlier Gate-D completeness count is retrospectively amended from 0 to **1**. Tamil is **VERIFIED / verified_against_scan=true**. Gate C.5 is **N/A / CLOSED** for this modern 2007 typesetting; no historical/reform-sensitive glyph anomaly was found. Gate F English first-pass translation is next.
 
 ---
 
