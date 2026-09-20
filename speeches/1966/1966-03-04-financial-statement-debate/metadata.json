@@ -56,7 +56,7 @@
     "usable_text_layer": false
   },
   "transcription": {
-    "method": "manual Gate C first-pass transcription directly from rendered source pixels",
+    "method": "manual Gate C first-pass transcription followed by Gate D completeness audit and strict Gate E page-by-page visual source-fidelity verification from rendered source pixels",
     "preserve_source_spelling": true,
     "preserve_source_punctuation": true,
     "preserve_source_numerals": true,
@@ -64,7 +64,7 @@
     "preserve_speaker_labels_and_interventions": true,
     "preserve_printed_english": true,
     "page_boundaries_marked": true,
-    "status": "transcribed",
+    "status": "verified",
     "gate_c_status": "complete",
     "completed_scan_pages": "90-112",
     "completed_printed_pages": "89-111",
@@ -73,27 +73,38 @@
     "source_page_markers_checked_first_pass": true,
     "unresolved_readings": 0,
     "completeness_audit_passed": true,
-    "verified_against_scan": false,
-    "historical_glyph_gate_status": "provisionally-n-a-modern-2007-typesetting",
-    "next_gate": "E",
-    "note": "Gate C is complete for all 23 source pages. Gate D audited all 23 pages directly against rendered source pixels and found 0 completeness corrections. Tamil remains transcribed/not verified; Gate E strict page-by-page source-fidelity verification is next.",
-    "gate_d_status": "pass-complete",
+    "verified_against_scan": true,
+    "historical_glyph_gate_status": "n-a-modern-2007-typesetting-no-historical-glyph-anomaly-found",
+    "next_gate": null,
+    "note": "Gates C, D and E are complete for all 23 source pages. Gate E directly re-read scans 90-112 against rendered source pixels and applied 35 source-fidelity corrections across scans 90, 92-98 and 100-111. One correction restored a phrase omitted at Gate C, so the earlier Gate-D completeness count is retrospectively amended from 0 to 1. Unresolved readings: 0. Tamil is verified.",
+    "gate_d_status": "pass-complete-retrospectively-amended",
     "gate_d_checked_scan_pages": "90-112",
     "gate_d_page_count": 23,
-    "gate_d_completeness_corrections": 0,
+    "gate_d_completeness_corrections": 1,
     "gate_d_marker_check": "90-112 exactly once and in order",
     "gate_d_boundary_check": "scan 89 excluded as Speech 7 close; scan 90 start PASS; scan 112 close PASS; scan 113 excluded as Speech 9 start",
     "gate_d_intervention_check": "M. Bhaktavatsalam interventions scans 91, 92 and 95 PASS; Speaker source-printed English on scan 93 PASS",
     "gate_d_structural_check": "quotations, dates, numerals, rupee amounts, commodity prices, statistical figures, named references and paragraph order structurally complete",
-    "gate_d_transition_check": "90→91 through 111→112 PASS, including cross-split 100→101"
+    "gate_d_transition_check": "90→91 through 111→112 PASS, including cross-split 100→101",
+    "gate_d_retrospective_note": "Gate D originally recorded 0 completeness corrections. Gate E's stricter visual re-read found one omitted scan-90 phrase ('விந்தையாக இருக்கிறது,'); the completeness ledger is therefore retrospectively amended to 1.",
+    "gate_e_status": "pass-complete",
+    "verified_scan_pages": "90-112",
+    "gate_e_page_count": 23,
+    "gate_e_correction_count": 35,
+    "gate_e_unresolved_readings": 0
   },
   "translation": {
     "language": "English",
     "status": "not-started",
     "type": "faithful reading translation",
-    "source_text": "blocked until Tamil Gate E verification",
+    "source_text": "final Gate-E-verified Tamil transcript",
     "verified_against_tamil": false,
-    "next_gate": null
+    "next_gate": "F",
+    "gate_f_status": "not-started",
+    "source_printed_english_preserved": true,
+    "source_printed_english_scan_pages": [
+      93
+    ]
   },
   "release": {
     "status": "working",
@@ -101,6 +112,6 @@
     "release_ready": false,
     "gate_h_status": "not-started",
     "indexed": false,
-    "release_note": "Speech 8 Gates C-D complete; Tamil not yet verified. Gate E strict page-by-page source-fidelity verification is next."
+    "release_note": "Speech 8 Tamil Gates C-E complete and verified; English Gate F is next. Release remains working/not released."
   }
 }
