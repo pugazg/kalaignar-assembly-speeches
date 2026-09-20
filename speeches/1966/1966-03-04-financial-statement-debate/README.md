@@ -32,8 +32,11 @@
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found**
 - Gate D — **PASS / COMPLETE — 23/23 pages; retrospectively amended to 1 completeness correction**
 - Gate E — **PASS / COMPLETE — 23/23 pages; 43 source-fidelity corrections; 0 unresolved readings**
-- English — **NOT STARTED / Gate F next**
-- release — **WORKING / NOT RELEASED**
+- Gate F English — **COMPLETE / 23 of 23 pages**
+- Gate G — **PASS / COMPLETE — 23/23 pages; 16 refinements; 0 blockers; 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE**
+- release — **RELEASED / CLOSED**
 
 Gate C used only rendered source pixels from the two user-supplied split PDFs. No OCR, web copy, Official Report or alternate anthology supplied wording.
 
@@ -79,4 +82,4 @@ The exact **43-item** correction ledger is in `verification-log.md`.
 
 ## Exact next activity
 
-Perform **Speech 8 Gate F English first-pass translation**, scans **90–112 / 23 pages**, using only the final Gate-E-verified Tamil. Do not begin Gate G or Speech 9 in the same iteration.
+Speech 8 is **RELEASED / CLOSED through Gate H**. Exact next: **Speech 9 / 29.3.1971 Gate C**, scans **113–116 / 4 pages**, as a parallel witness.
