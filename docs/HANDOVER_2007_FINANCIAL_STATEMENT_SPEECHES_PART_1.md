@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 7 / 7.3.1964 = **RELEASED / CLOSED through Gate H** with verified Tamil and English. Exact next unit: Speech 8 / 4.3.1966 = **23 pages / scans 90–112 — Gate C NOT STARTED**.
+Latest released unit: Speech 7 / 7.3.1964 = **RELEASED / CLOSED through Gate H** with verified Tamil and English. Active unit: Speech 8 / 4.3.1966 = **Gate C COMPLETE / 23 pages / scans 90–112 / Tamil TRANSCRIBED / NOT VERIFIED**. Exact next: Speech 8 Gate D.
 
 ## Existing-source overlaps
 
@@ -92,8 +92,8 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–7 CLOSED; speeches 8–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–7 — modern 2007 typesetting; reopen only for actual page-specific legacy-glyph evidence**
+- Gate C — **Speeches 1–7 CLOSED; Speech 8 COMPLETE / 23 of 23 / NOT VERIFIED; speeches 9–19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–7; Speech 8 provisionally N/A — modern 2007 typesetting; reopen only for actual page-specific legacy-glyph evidence**
 - Gate D — **Speeches 1–7 PASS / COMPLETE — 0 completeness corrections each**
 - Gate E — **Speeches 1–7 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20 / 19; unresolved 0**
 - Gate F — **Speeches 1–7 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16 / 14**
@@ -394,12 +394,36 @@ Canonical entry:
 
 No OCR, scan pixels, web research, Official Reports or alternate anthologies supplied English wording.
 
+## Speech 8 durable Gate-C state
+
+Working entry:
+
+`speeches/1966/1966-03-04-financial-statement-debate/`
+
+Source:
+
+- global scans **90–112 / printed pp.89–111**
+- split 004 local pages **15–25** = global scans **90–100**
+- split 005 local pages **1–12** = global scans **101–112**
+- split 005 local page **13** / global scan 113 begins Speech 9
+
+Gate state:
+
+- Gate C — **COMPLETE / 23 of 23 pages**
+- source markers — **90→112 exactly once and in order**
+- first-pass unresolved readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Gate C.5 — **provisionally N/A**
+- Gate D — **NOT STARTED / exact next**
+- Gate E / English — **NOT STARTED**
+- hard boundaries **89→90** and **112→113** — preserved
+- outside wording — **none**
+
+No OCR, web copy, Official Report or alternate anthology supplied Gate-C wording.
+
 ## Exact next activity
 
-Begin **Speech 8 / 4.3.1966 — Gate C Tamil first-pass transcription**, scans **90–112 / 23 pages**.
+Perform **Speech 8 / 4.3.1966 — Gate D completeness audit**, scans **90–112 / 23 pages**.
 
-Speech 8 spans the already supplied 25-page splits:
-- `...part_004_pages_76-100.pdf` local pages **15–25** = global scans **90–100**;
-- `...part_005_pages_101-125.pdf` local pages **1–12** = global scans **101–112**.
-
-Do not begin Gate D, English translation or Speech 9 in the same iteration. Do not reopen released Speeches 1–7 merely for stylistic polishing.
+Do not begin Gate E, English translation or Speech 9 in the same iteration. Do not reopen released Speeches 1–7 merely for stylistic polishing.
