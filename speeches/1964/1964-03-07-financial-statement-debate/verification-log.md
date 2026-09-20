@@ -44,6 +44,42 @@ Gate C is a first pass only. It does **not** claim strict word-for-word verifica
 Tamil status: **TRANSCRIBED / NOT VERIFIED**.  
 `verified_against_scan=false`.
 
+## Gate D — completeness audit
+
+**Status: PASS / COMPLETE — 14/14 pages**
+
+Completeness corrections: **0**.
+
+### Page / boundary checks
+
+- source-page markers **76→89** — exactly once and in order;
+- scan 75 — excluded as Speech 6 close;
+- scan 76 opening `உரை : 7 / நாள் : 7.3.1964` — PASS;
+- scan 89 close through `வணக்கம்.` — PASS;
+- scan 90 — excluded as Speech 8 / 4.3.1966 start;
+- hard boundaries **75→76** and **89→90** — PASS.
+
+### Structural checks
+
+- M. Bhaktavatsalam intervention, scan 77 — PASS;
+- `(சிரிப்பு)`, scan 77 — PASS;
+- `(மணி அடிக்கப்பட்டது.)`, scan 88 — PASS;
+- quotations — structurally represented;
+- dates / numerals / rupee amounts / figures — structurally represented;
+- named references and paragraph order — structurally represented;
+- running headers / printed page numbers — correctly excluded from speech wording.
+
+### Transition checks
+
+**76→77, 77→78, 78→79, 79→80, 80→81, 81→82, 82→83, 83→84, 84→85, 85→86, 86→87, 87→88, 88→89 — PASS.**
+
+No omission, duplication or wrong page ordering was found at Gate D.
+
+Gate D is a completeness audit only. It does **not** claim word-for-word verification and no Gate-E-style wording corrections were made.
+
+Tamil remains **TRANSCRIBED / NOT VERIFIED**.  
+`verified_against_scan=false`.
+
 ## Exact next activity
 
-Perform **Gate D completeness audit**, scans **76–89 / 14 pages**. Do not begin Gate E, English translation or Speech 8 in the same iteration.
+Perform **Gate E strict page-by-page Tamil source-fidelity verification**, scans **76–89 / 14 pages**. Do not begin English translation or Speech 8 in the same iteration.
