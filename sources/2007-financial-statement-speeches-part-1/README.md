@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1–7 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 8 / 4.3.1966 Gates C–D are **COMPLETE / 23 of 23 pages / 0 completeness corrections**; Tamil remains **TRANSCRIBED / NOT VERIFIED** and Gate E is next.
+Speeches 1–7 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 8 / 4.3.1966 Gates C–E are **COMPLETE / Tamil VERIFIED** with **43 Gate-E corrections / 0 unresolved readings**. Gate D is retrospectively amended to **1 completeness correction** because Gate E restored the omitted scan-90 phrase `விந்தையாக இருக்கிறது,`. Gate F English is next.
 
 ## Whole-speech batching policy
 
@@ -292,7 +292,7 @@ Reader/work entry:
 - Gate-H wording changes — **0 Tamil / 0 English**
 - outside wording — **none**
 
-## Speech 8 Gate-D state
+## Speech 8 Gate-E state
 
 Reader/work entry:
 
@@ -306,15 +306,16 @@ Reader/work entry:
 - split 005 local pages **1–12** = global scans **101–112**
 - Gate C — **COMPLETE / 23 of 23 pages**
 - source markers — **90→112 exactly once and in order**
-- first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate C.5 — **provisionally N/A**
-- Gate D — **PASS / COMPLETE / 23 of 23 pages / 0 completeness corrections**
+- Gate D — **PASS / COMPLETE / retrospectively amended to 1 completeness correction**
+- Gate-E retrospective note — scan 90 restored omitted phrase **`விந்தையாக இருக்கிறது,`**
+- Gate E — **PASS / COMPLETE / 23 of 23 pages / 43 source-fidelity corrections / 0 unresolved readings**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED**
+- English — **NOT STARTED / Gate F next**
 - hard boundaries **89→90** and **112→113** — preserved
-- scan 113 / Speech 9 — visually confirmed and excluded
+- scan 113 / Speech 9 — excluded
 - outside wording from OCR / web / Official Reports / alternate anthologies — **none**
 
 ## Exact next activity
 
-Perform **Speech 8 / 4.3.1966 — Gate E strict page-by-page Tamil source-fidelity verification**, scans **90–112 / 23 pages**. Do not begin English translation or Speech 9 in the same iteration.
+Perform **Speech 8 / 4.3.1966 — Gate F English first-pass translation**, scans **90–112 / 23 pages**, using only the final Gate-E-verified Tamil. Do not begin Gate G or Speech 9 in the same iteration.
