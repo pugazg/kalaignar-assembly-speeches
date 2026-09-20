@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1–6 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 7 / 7.3.1964 is the next untouched unit.
+Speeches 1–6 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 7 / 7.3.1964 Gate C is **COMPLETE / 14 of 14 pages / Tamil TRANSCRIBED / NOT VERIFIED**; Gate D is next.
 
 ## Whole-speech batching policy
 
@@ -69,7 +69,7 @@ For ongoing anthology processing, use a **maximum of 25 source-scan pages per ac
 - if the next complete speech would push the activity above 25 pages, defer that **entire speech** to the next activity;
 - if a single speech itself exceeds 25 pages, process it separately as one intact speech unit rather than splitting or dropping it.
 
-Current Speech-6 activity remains bounded to **16 pages / scans 60–75**. Speech 7 is **14 pages / scans 76–89** and remains deferred; it has not been started.
+Speech 7 Gate C used the user-supplied 25-page split covering global scans 76–100. Local pages 1–14 map to global scans **76–89**; local page 15 / scan 90 begins Speech 8 and remains excluded.
 
 ## Parallel-witness / released-material rule
 
@@ -265,22 +265,32 @@ Reader/work entry:
 [`../../speeches/1963/1963-03-07-financial-statement-debate/`](../../speeches/1963/1963-03-07-financial-statement-debate/)
 
 - scans **60–75 / printed pp.59–74**
-- Gate C — **COMPLETE / 16 of 16 pages**
-- Gate D — **PASS / COMPLETE / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / 20 source-fidelity corrections / 0 unresolved**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate C.5 — **N/A / CLOSED**
-- Gate F English — **COMPLETE / 16 of 16 pages**
-- Gate G — **PASS / COMPLETE / 16 of 16 pages / 15 refinements / 0 blockers / 0 Tamil changes**
-- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- source-printed English on scan 73 — **preserved verbatim**
-- Gate-F blocking translation questions — **0**
-- Gate H — **PASS / COMPLETE**
-- hard boundaries **59→60** and **75→76** — preserved
+- Gates C–H — **COMPLETE**
+- Tamil / English — **VERIFIED**
 - release — **RELEASED / CLOSED**
-- Speech 7 / scan 76 — not started
+- hard boundary **75→76** — preserved
+
+## Speech 7 Gate-C state
+
+Reader/work entry:
+
+[`../../speeches/1964/1964-03-07-financial-statement-debate/`](../../speeches/1964/1964-03-07-financial-statement-debate/)
+
+- source label/date — `உரை : 7 / 7.3.1964`
+- global scans — **76–89**
+- printed pages — **75–88**
+- working split local pages — **1–14**
+- Gate C — **COMPLETE / 14 of 14 pages**
+- source markers — **76→89 exactly once and in order**
+- first-pass unresolved readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Gate C.5 — **provisionally N/A**
+- Gate D — **NOT STARTED / next**
+- hard boundaries **75→76** and **89→90** — preserved
+- scan 90 / Speech 8 — excluded
 - outside wording from OCR / web / Official Reports / alternate anthologies — **none**
 
 ## Exact next activity
 
-Begin **Speech 7 / 7.3.1964 — Gate C Tamil first-pass transcription**, scans **76–89 / 14 pages**.
+Perform **Speech 7 / 7.3.1964 — Gate D completeness audit**, scans **76–89 / 14 pages**. Do not begin Gate E, English translation or Speech 8 in the same iteration.
