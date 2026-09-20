@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 7 / 7.3.1964 = **RELEASED / CLOSED through Gate H** with verified Tamil and English. Active unit: Speech 8 / 4.3.1966 = **Gates C–D COMPLETE / 23 pages / scans 90–112 / 0 completeness corrections / Tamil TRANSCRIBED / NOT VERIFIED**. Exact next: Speech 8 Gate E.
+Latest released unit: Speech 7 / 7.3.1964 = **RELEASED / CLOSED through Gate H** with verified Tamil and English. Active unit: Speech 8 / 4.3.1966 = **Gates C–E COMPLETE / 23 pages / scans 90–112 / 43 Gate-E corrections / 0 unresolved / Tamil VERIFIED**. Gate D is retrospectively amended to **1 completeness correction** because Gate E restored the omitted scan-90 phrase `விந்தையாக இருக்கிறது,`. Exact next: Speech 8 Gate F.
 
 ## Existing-source overlaps
 
@@ -93,9 +93,9 @@ Treat this 2007 anthology as its own witness.
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speeches 1–7 CLOSED; Speech 8 COMPLETE / 23 of 23 / NOT VERIFIED; speeches 9–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–7; Speech 8 provisionally N/A — modern 2007 typesetting; reopen only for actual page-specific legacy-glyph evidence**
-- Gate D — **Speeches 1–8 PASS / COMPLETE — 0 completeness corrections each**
-- Gate E — **Speeches 1–7 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20 / 19; unresolved 0**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–8 — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found in Speech 8**
+- Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction**
+- Gate E — **Speeches 1–8 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20 / 19 / 43; unresolved 0**
 - Gate F — **Speeches 1–7 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16 / 14**
 - Gate G — **Speeches 1–7 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16; 0 blockers; English VERIFIED**
 - Gate H — **Speeches 1–7 PASS / COMPLETE — RELEASED / CLOSED**
@@ -390,11 +390,11 @@ Canonical entry:
 - release — **RELEASED / CLOSED**
 - Gate-H wording changes — **0 Tamil / 0 English**
 - hard boundaries **75→76** and **89→90** — preserved
-- Speech 8 remains not started
+- Speech 8 is now the active unit; Gates C–E are complete and Tamil is verified
 
 No OCR, scan pixels, web research, Official Reports or alternate anthologies supplied English wording.
 
-## Speech 8 durable Gate-D state
+## Speech 8 durable Gate-E state
 
 Working entry:
 
@@ -411,20 +411,19 @@ Gate state:
 
 - Gate C — **COMPLETE / 23 of 23 pages**
 - source markers — **90→112 exactly once and in order**
-- first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate C.5 — **provisionally N/A**
-- Gate D — **PASS / COMPLETE / 23 of 23 pages / 0 completeness corrections**
-- Gate E — **NOT STARTED / exact next**
-- English — **NOT STARTED**
+- Gate D — **PASS / COMPLETE / retrospectively amended to 1 completeness correction**
+- Gate-E retrospective note — scan 90 restored omitted **`விந்தையாக இருக்கிறது,`**
+- Gate E — **PASS / COMPLETE / 23 of 23 pages / 43 source-fidelity corrections / 0 unresolved**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED**
+- English — **NOT STARTED / Gate F exact next**
 - hard boundaries **89→90** and **112→113** — preserved
 - outside wording — **none**
 
-No OCR, web copy, Official Report or alternate anthology supplied Gate-C wording.
+No OCR, web copy, Official Report or alternate anthology supplied Tamil wording.
 
 ## Exact next activity
 
-Perform **Speech 8 / 4.3.1966 — Gate E strict page-by-page Tamil source-fidelity verification**, scans **90–112 / 23 pages**.
+Perform **Speech 8 / 4.3.1966 — Gate F English first-pass translation**, scans **90–112 / 23 pages**, using only the final Gate-E-verified Tamil.
 
-Do not begin English translation or Speech 9 in the same iteration. Do not reopen released Speeches 1–7 merely for stylistic polishing.
+Do not begin Gate G or Speech 9 in the same iteration. Do not reopen released Speeches 1–7 merely for stylistic polishing.
