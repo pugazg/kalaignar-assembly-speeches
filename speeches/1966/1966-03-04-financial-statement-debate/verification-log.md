@@ -57,7 +57,7 @@ Tamil status: **TRANSCRIBED / NOT VERIFIED**.
 
 **Status: PASS / COMPLETE — 23/23 pages**
 
-Completeness corrections: **0**.
+Completeness corrections at Gate D: **0 originally recorded; retrospectively amended to 1 at Gate E** after the strict re-read restored the omitted scan-90 phrase `விந்தையாக இருக்கிறது,`.
 
 ### Page / boundary checks
 
@@ -83,10 +83,9 @@ Completeness corrections: **0**.
 
 No omission, duplication or wrong page ordering was found at Gate D.
 
-Gate D is a completeness audit only. It does **not** claim word-for-word verification and no Gate-E-style wording corrections were made.
+Gate D is a completeness audit only. It does **not** claim word-for-word verification and no Gate-E-style wording corrections were made at that stage.
 
-Tamil remains **TRANSCRIBED / NOT VERIFIED**.  
-`verified_against_scan=false`.
+Historical Gate-D Tamil state: **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`. Gate E below supersedes that working state and closes Tamil as verified.
 
 ## Gate E — strict Tamil source-fidelity verification
 
