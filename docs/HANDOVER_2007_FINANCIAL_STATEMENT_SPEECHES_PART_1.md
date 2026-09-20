@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 6 / 7.3.1963 = **RELEASED / CLOSED through Gate H**. Active unit: Speech 7 / 7.3.1964 = **Gates C–D COMPLETE / 14 pages / scans 76–89 / 0 completeness corrections / Tamil TRANSCRIBED / NOT VERIFIED**. Exact next: Speech 7 Gate E.
+Latest released unit: Speech 6 / 7.3.1963 = **RELEASED / CLOSED through Gate H**. Active unit: Speech 7 / 7.3.1964 = **Gates C–E COMPLETE / 14 pages / scans 76–89 / 19 Gate-E corrections / 0 unresolved / Tamil VERIFIED**. Exact next: Speech 7 Gate F.
 
 ## Existing-source overlaps
 
@@ -92,10 +92,10 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–6 CLOSED; Speech 7 COMPLETE / 14 of 14 / NOT VERIFIED; speeches 8–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–6; Speech 7 provisionally N/A — modern 2007 typesetting; reopen only for actual page-specific legacy-glyph evidence**
+- Gate C — **Speeches 1–7 CLOSED; speeches 8–19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–7 — modern 2007 typesetting; reopen only for actual page-specific legacy-glyph evidence**
 - Gate D — **Speeches 1–7 PASS / COMPLETE — 0 completeness corrections each**
-- Gate E — **Speeches 1–6 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20; unresolved 0**
+- Gate E — **Speeches 1–7 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20 / 19; unresolved 0**
 - Gate F — **Speeches 1–6 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16**
 - Gate G — **Speeches 1–6 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15; 0 blockers; English VERIFIED**
 - Gate H — **Speeches 1–6 PASS / COMPLETE — RELEASED / CLOSED**
@@ -368,7 +368,7 @@ Canonical entry:
 - release — **RELEASED / CLOSED**
 - hard boundary **75→76** — preserved
 
-## Speech 7 durable Gate-C state
+## Speech 7 durable Gate-E state
 
 Working entry:
 
@@ -386,12 +386,11 @@ Gate state:
 - Gate C — **COMPLETE / 14 of 14 pages**
 - source markers — **76→89 exactly once and in order**
 - first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate C.5 — **provisionally N/A**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 14 of 14 pages / 0 completeness corrections**
-- Gate E — **NOT STARTED / exact next**
-- English — **NOT STARTED**
+- Gate E — **PASS / COMPLETE / 14 of 14 pages / 19 source-fidelity corrections / 0 unresolved**
+- English — **NOT STARTED / Gate F exact next**
 - hard boundaries **75→76** and **89→90** — preserved
 - outside wording — **none**
 
@@ -399,6 +398,6 @@ No OCR, web copy, Official Report or alternate anthology supplied Gate-C wording
 
 ## Exact next activity
 
-Perform **Speech 7 / 7.3.1964 — Gate E strict page-by-page Tamil source-fidelity verification**, scans **76–89 / 14 pages**.
+Perform **Speech 7 / 7.3.1964 — Gate F English first-pass translation**, scans **76–89 / 14 pages**, using only the final Gate-E-verified Tamil.
 
-Do not begin English translation or Speech 8 in the same iteration. Do not reopen released Speeches 1–6 merely for stylistic polishing.
+Do not begin Gate G or Speech 8 in the same iteration. Do not reopen released Speeches 1–6 merely for stylistic polishing.
