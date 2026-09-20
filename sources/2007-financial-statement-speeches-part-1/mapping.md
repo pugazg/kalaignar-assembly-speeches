@@ -123,7 +123,7 @@ Speech 8 / 4.3.1966 has now completed Gate C as an intact **23-page activity / s
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speeches 1–7 CLOSED; Speech 8 COMPLETE / 23 of 23 / NOT VERIFIED; speeches 9–19 not started**
-- Gate D — **Speeches 1–7 PASS / COMPLETE — 0 completeness corrections each**
+- Gate D — **Speeches 1–8 PASS / COMPLETE — 0 completeness corrections each**
 - Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19 corrections; all 1–7 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–7; Speech 8 provisionally N/A — modern 2007 typesetting; reopen only if source pixels show a page-specific legacy-glyph issue**
 - Gate F — **Speeches 1–7 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14**
@@ -163,7 +163,7 @@ Speech 8 / 4.3.1966 has now completed Gate C as an intact **23-page activity / s
 - Gate-H wording changes — **0 Tamil / 0 English**
 - outside wording — **none**
 
-## Speech 8 Gate-C state
+## Speech 8 Gate-D state
 
 - working entry — `speeches/1966/1966-03-04-financial-statement-debate/`
 - scans **90–112 / printed pp.89–111**
@@ -174,11 +174,11 @@ Speech 8 / 4.3.1966 has now completed Gate C as an intact **23-page activity / s
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate C.5 — **provisionally N/A**
-- Gate D — **NOT STARTED / next**
+- Gate D — **PASS / COMPLETE / 23 of 23 pages / 0 completeness corrections**
 - boundaries **89→90** and **112→113** — preserved
 - scan 113 / Speech 9 — excluded
 - outside wording — **none**
 
 ## Exact continuation
 
-Speeches **1–7 are RELEASED / CLOSED through Gate H**. Speech 8 Gate C is complete. Exact next: **Speech 8 / 4.3.1966 — Gate D completeness audit, scans 90–112 / 23 pages**.
+Speeches **1–7 are RELEASED / CLOSED through Gate H**. Speech 8 Gates C–D are complete; Tamil remains not verified. Exact next: **Speech 8 / 4.3.1966 — Gate E strict page-by-page Tamil source-fidelity verification, scans 90–112 / 23 pages**.
