@@ -149,6 +149,41 @@ Gate C.5: **N/A / CLOSED**.
 Tamil status: **VERIFIED**.  
 `verified_against_scan=true`.
 
+## Gate F — English first-pass translation
+
+**Status: COMPLETE — 14/14 pages**
+
+- source authority — final Gate-E-verified Tamil only;
+- English source-page sequence **76→89** — complete and ordered;
+- blocking translation questions — **0**;
+- verified-Tamil changes — **0**;
+- outside wording — **none**.
+
+## Gate G — full English fidelity and voice review
+
+**Status: PASS / COMPLETE — 14/14 pages**
+
+- conceptual refinements — **16**;
+- blocking fidelity issues — **0**;
+- verified-Tamil changes — **0**;
+- English `verified_against_tamil=true`;
+- detailed refinement ledger — `translation-review.md`.
+
+## Gate H — canonical merge / index / release closure
+
+**Status: PASS / COMPLETE — RELEASED / CLOSED**
+
+- verified Tamil markers **76→89** — preserved exactly once and in order;
+- verified English sections **76→89** — preserved exactly once and in order;
+- canonical bilingual `transcript.md` — complete;
+- `translation.md` — retired to pointer;
+- root dated index / `data/speeches.json` — synchronized;
+- hard boundaries **75→76** and **89→90** — preserved;
+- verified Tamil wording changes during Gate H — **0**;
+- verified English wording changes during Gate H — **0**.
+
+Final disposition: **Speech 7 RELEASED / CLOSED**.
+
 ## Exact next activity
 
-Perform **Speech 7 Gate F English first-pass translation**, scans **76–89 / 14 pages**, using only the final Gate-E-verified Tamil. Do not begin Gate G or Speech 8 in the same iteration.
+Begin **Speech 8 / 4.3.1966 — Gate C Tamil first-pass transcription**, scans **90–112 / 23 pages**.
