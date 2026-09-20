@@ -92,7 +92,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–7 CLOSED; Speech 8 COMPLETE / 23 of 23 / NOT VERIFIED; speeches 9–19 not started**
+- Gate C — **Speeches 1–8 CLOSED; speeches 9–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–8 — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found in Speech 8**
 - Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction**
 - Gate E — **Speeches 1–8 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20 / 19 / 43; unresolved 0**
@@ -390,7 +390,7 @@ Canonical entry:
 - release — **RELEASED / CLOSED**
 - Gate-H wording changes — **0 Tamil / 0 English**
 - hard boundaries **75→76** and **89→90** — preserved
-- Speech 8 is now the active unit; Gates C–E are complete and Tamil is verified
+- Speech 8 is **RELEASED / CLOSED through Gate H**; Speech 9 is the next active unit as a parallel witness
 
 No OCR, scan pixels, web research, Official Reports or alternate anthologies supplied English wording.
 
