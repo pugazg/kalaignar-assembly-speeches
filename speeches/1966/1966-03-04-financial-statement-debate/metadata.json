@@ -76,7 +76,7 @@
     "verified_against_scan": true,
     "historical_glyph_gate_status": "n-a-modern-2007-typesetting-no-historical-glyph-anomaly-found",
     "next_gate": null,
-    "note": "Gates C, D and E are complete for all 23 source pages. Gate E directly re-read scans 90-112 against rendered source pixels and applied 35 source-fidelity corrections across scans 90, 92-98 and 100-111. One correction restored a phrase omitted at Gate C, so the earlier Gate-D completeness count is retrospectively amended from 0 to 1. Unresolved readings: 0. Tamil is verified.",
+    "note": "Gates C, D and E are complete for all 23 source pages. Gate E directly re-read scans 90-112 against rendered source pixels and applied 43 source-fidelity corrections across scans 90, 92-98 and 100-111. One correction restored a phrase omitted at Gate C, so the earlier Gate-D completeness count is retrospectively amended from 0 to 1. Unresolved readings: 0. Tamil is verified.",
     "gate_d_status": "pass-complete-retrospectively-amended",
     "gate_d_checked_scan_pages": "90-112",
     "gate_d_page_count": 23,
@@ -90,7 +90,7 @@
     "gate_e_status": "pass-complete",
     "verified_scan_pages": "90-112",
     "gate_e_page_count": 23,
-    "gate_e_correction_count": 35,
+    "gate_e_correction_count": 43,
     "gate_e_unresolved_readings": 0
   },
   "translation": {
