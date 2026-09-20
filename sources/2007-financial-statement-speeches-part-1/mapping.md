@@ -126,9 +126,9 @@ Speech 8 / 4.3.1966 has now completed Gate C as an intact **23-page activity / s
 - Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction after Gate E restored an omitted scan-90 phrase**
 - Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43 corrections; all 1–8 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–8 — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found in Speech 8**
-- Gate F — **Speeches 1–7 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14**
-- Gate G — **Speeches 1–7 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16; 0 blockers; English VERIFIED**
-- Gate H — **Speeches 1–7 PASS / COMPLETE — RELEASED / CLOSED**
+- Gate F — **Speeches 1–8 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23**
+- Gate G — **Speeches 1–8 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16; 0 blockers; English VERIFIED**
+- Gate H — **Speeches 1–8 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Gate-H boundary / release check for Speeches 4–5
 
@@ -163,23 +163,21 @@ Speech 8 / 4.3.1966 has now completed Gate C as an intact **23-page activity / s
 - Gate-H wording changes — **0 Tamil / 0 English**
 - outside wording — **none**
 
-## Speech 8 Gate-E state
+## Speech 8 Gate-H closure
 
-- working entry — `speeches/1966/1966-03-04-financial-statement-debate/`
+- entry — `speeches/1966/1966-03-04-financial-statement-debate/`
 - scans **90–112 / printed pp.89–111**
-- split 004 local pages **15–25** / split 005 local pages **1–12**
-- Gate C — **COMPLETE / 23 of 23 pages**
-- markers **90→112** — exactly once and in order
 - Gate D — **PASS / COMPLETE / retrospectively amended to 1 completeness correction**
-- Gate-E retrospective note — scan 90 restored omitted **`விந்தையாக இருக்கிறது,`**
-- Gate E — **PASS / COMPLETE / 43 corrections / 0 unresolved**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate C.5 — **N/A / CLOSED**
-- English — **NOT STARTED / Gate F next**
-- boundaries **89→90** and **112→113** — preserved
-- scan 113 / Speech 9 — excluded
-- outside wording — **none**
+- Gate E — **43 corrections / 0 unresolved / Tamil VERIFIED**
+- Gate F — **COMPLETE / 23 pages**
+- Gate G — **PASS / COMPLETE / 16 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL**
+- Gate H — **PASS / COMPLETE**
+- release — **RELEASED / CLOSED**
+- indexes synchronized
+- boundaries **89→90** and **112→113** preserved
+- Gate-H wording changes — **0 Tamil / 0 English**
 
 ## Exact continuation
 
-Speeches **1–7 are RELEASED / CLOSED through Gate H**. Speech 8 Gates C–E are complete and Tamil is verified. Exact next: **Speech 8 / 4.3.1966 — Gate F English first-pass translation, scans 90–112 / 23 pages**.
+Speeches **1–8 are RELEASED / CLOSED through Gate H**. Exact next: **Speech 9 / 29.3.1971 — Gate C, scans 113–116 / 4 pages**, as a parallel witness to the existing `நமது நிலை` event/provenance record.
