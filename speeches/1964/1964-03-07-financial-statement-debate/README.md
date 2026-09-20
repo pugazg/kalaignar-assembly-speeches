@@ -30,8 +30,8 @@
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate C.5 — **provisionally N/A — modern 2007 typesetting**
-- Gate D — **NOT STARTED / exact next**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 14/14 pages; 0 completeness corrections**
+- Gate E — **NOT STARTED / exact next**
 - English — **NOT STARTED**
 - release — **WORKING / NOT RELEASED**
 
@@ -46,6 +46,22 @@ The hard boundaries **75→76** and **89→90** are preserved. Scan 75 belongs t
 - [`source-notes.md`](./source-notes.md) — source authority and locked boundaries
 - [`verification-log.md`](./verification-log.md) — Gate-C audit trail
 
+## Gate D result
+
+**PASS / COMPLETE — 14/14 pages; 0 completeness corrections.**
+
+- markers **76→89** — exactly once and in order;
+- scan 75 remains excluded as the released Speech 6 close;
+- scan 76 opening / scan 89 close — PASS;
+- scan 90 remains excluded as Speech 8 start;
+- M. Bhaktavatsalam intervention on scan 77 — represented;
+- `(சிரிப்பு)` on scan 77 — represented;
+- `(மணி அடிக்கப்பட்டது.)` on scan 88 — represented;
+- quotations, dates, numerals, rupee amounts, figures, names and paragraph order — structurally complete;
+- transitions **76→77 through 88→89** — PASS;
+- completeness corrections — **0**;
+- Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**.
+
 ## Exact next activity
 
-Perform **Speech 7 Gate D completeness audit**, scans **76–89 / 14 pages**. Do not begin Gate E, English translation or Speech 8 in the same iteration.
+Perform **Speech 7 Gate E strict page-by-page Tamil source-fidelity verification**, scans **76–89 / 14 pages**. Do not begin English translation or Speech 8 in the same iteration.
