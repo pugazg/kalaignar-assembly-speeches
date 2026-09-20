@@ -88,6 +88,81 @@ Gate D is a completeness audit only. It does **not** claim word-for-word verific
 Tamil remains **TRANSCRIBED / NOT VERIFIED**.  
 `verified_against_scan=false`.
 
+## Gate E — strict Tamil source-fidelity verification
+
+**Status: PASS / COMPLETE — 23/23 pages**
+
+All scans **90–112** were re-read directly against rendered pixels from the controlling split sources. Gate E applied **43 source-fidelity corrections** across scans **90, 92–98 and 100–111**. Unresolved readings: **0**.
+
+One Gate-E finding on scan 90 restored a phrase omitted at Gate C. The earlier Gate-D completeness result is therefore **retrospectively amended from 0 to 1 completeness correction**. This does not reopen the boundary/page-order result: all 23 pages and all transitions remain complete.
+
+### Correction ledger
+
+1. **scan 90 / printed 89** — after `உள்ளபடியே`, restored omitted source phrase **`விந்தையாக இருக்கிறது,`**.
+2. **scan 92 / printed 91** — `குழந்தையில்` → **`குடந்தையில்`**.
+3. **scan 92 / printed 91** — `ஒதுக்கப்பட்டிருக்கிற` → **`ஒதுக்கப் பட்டிருக்கிற`**.
+4. **scan 92 / printed 91** — `இப்படி தொடர்ந்து` → **`இப்படித் தொடர்ந்து`**.
+5. **scan 92 / printed 91** — `வரி போட்டதாக பட்ஜெட்` → **`வரி போட்ட பட்ஜெட்`**.
+6. **scan 92 / printed 91** — `குறிப்பிட்டார்கள்` → **`குறிப்பிடுவார்கள்`**.
+7. **scan 92 / printed 91** — speaker label `மாண்புமிகு திரு. எம். பக்தவத்சலம்` → **`மாண்புமிகு திரு எம். பக்தவத்சலம்`**.
+8. **scan 93 / printed 92** — `எடுத்தப்படுகிறது` → **`எடுக்கப்படுகிறது`**.
+9. **scan 94 / printed 93** — `குடிகாரம்` → **`கடிகாரம்`**.
+10. **scan 94 / printed 93** — `நிலையில` → **`நிலைமையில்`**.
+11. **scan 95 / printed 94** — `ஜவ்வரிசி பதார்த்தம்` → **`ஜவ்வரிசி பகாளபாத்`**.
+12. **scan 96 / printed 95** — source comma restored: `அளித்துள்ளோம்” என்று` → **`அளித்துள்ளோம்”, என்று`**.
+13. **scan 96 / printed 95** — source comma restored: `பறக்கிறது” என்று` → **`பறக்கிறது”, என்று`**.
+14. **scan 97 / printed 96** — `1965 மார்ச் திங்களில்` → **`1965மார்ச் திங்களில்`**.
+15. **scan 97 / printed 96** — `சர்க்காரைப்போல` → **`சர்க்காரைப்போல்`**.
+16. **scan 98 / printed 97** — `இந்தத் தர்மவான்களுடைய` → **`இந்த தர்மவான்களுடைய`**.
+17. **scan 98 / printed 97** — `குடிதண்ணீர்ப் பிரச்சினை வெகு பயங்கரமாகத் தொட்டுக்கட்டி பற்றி கொண்டிருக்கிறது.` → **`குடிதண்ணீர்ப் பிரச்சினை வெகு பயங்கரமாகக் கொடிகட்டி பறந்து கொண்டிருக்கின்றது.`**
+18. **scan 100 / printed 99** — `அத்தகைய நடவடிக்கை` → **`அதற்குத்தக்க நடவடிக்கை`**.
+19. **scan 100 / printed 99** — first `ஒரு குடும்பம்` → **`ஒரு குடம்`**.
+20. **scan 100 / printed 99** — second `இரண்டு குடும்பம்` → **`இரண்டு குடம்`**.
+21. **scan 101 / printed 100** — source closing quote restored: `இது குதிரையின் வால் என்று` → **`இது குதிரையின் வால்’ என்று`**.
+22. **scan 101 / printed 100** — nested source closing quote restored: `“குதிரை எங்கே?” என்று` → **`“குதிரை எங்கே?”’ என்று`**.
+23. **scan 101 / printed 100** — non-source comma removed: `“குதிரை சுவருக்கு பின்னால் இருக்கிறது,”` → **`“குதிரை சுவருக்கு பின்னால் இருக்கிறது”`**.
+24. **scan 101 / printed 100** — `வாலைத் தான்` → **`வாலைத்தான்`**.
+25. **scan 101 / printed 100** — `வெகுவேடிக்கையாகவும்` → **`வெகு வேடிக்கையாகவும்`**.
+26. **scan 102 / printed 101** — `அகிலிலாம் கிடையாது` → **`அதெல்லாம் கிடையாது`**.
+27. **scan 103 / printed 102** — `உரிமைப் பெறுவதில்` → **`குரலைப் பெறுவதில்`**.
+28. **scan 103 / printed 102** — first `எண்ணெய்` in the proverb-like contrast → source **`எண்ணை`**.
+29. **scan 104 / printed 103** — `நடைபெறுக் கொண்டிருக்கிறது` → **`நடைபெற்றுக் கொண்டிருக்கிறது`**.
+30. **scan 105 / printed 104** — source punctuation: `நடவடிக்கைகளும் எடுக்கப்பட்டு வருகின்றன. நில ஆர்ஜிதம்` → **`நடவடிக்கைகளும் எடுக்கப்பட்டு வருகின்றன, நில ஆர்ஜிதம்`**.
+31. **scan 105 / printed 104** — `கவுனர் உரையில்` → **`கவர்னர் உரையில்`**.
+32. **scan 106 / printed 105** — `ஏற்பட்டு விட்டது` → **`ஏற்பட்டுவிட்டது`**.
+33. **scan 106 / printed 105** — `சேலம் உருக்காலைக் திட்டம்` → **`சேலம் உருக்காலைத் திட்டம்`**.
+34. **scan 107 / printed 106** — `குறிப்பிட்ட விரும்புகிறேன்` → **`குறிப்பிட விரும்புகிறேன்`**.
+35. **scan 107 / printed 106** — `லால்பகதூர் இடம்` → **`லால்பகதூரிடம்`**.
+36. **scan 108 / printed 107** — `நிர்ணயிக்கப்பட்டுமா` → **`நிர்ணயிக்கப்படுமா`**.
+37. **scan 108 / printed 107** — page-end fragment `சொல்லப்பட்டாம` → **`சொல்லப்படாம`**.
+38. **scan 109 / printed 108** — `தனிக்கைக் குழு` → **`தணிக்கைக் குழு`**.
+39. **scan 110 / printed 109** — `பயன்படுத்தன` → **`பயன்பட்டன`**.
+40. **scan 110 / printed 109** — `இப்படி அறியாய விரயம்` → **`இப்படிய அநியாய விரயம்`**.
+41. **scan 110 / printed 109** — `குறிப்பிட்ட விரும்புகிறேன்` → **`குறிப்பிட விரும்புகிறேன்`**.
+42. **scan 111 / printed 110** — `பெரிய பெரிய பந்திகள்` → **`பெரிய பெரிய நந்திகள்`**.
+43. **scan 111 / printed 110** — `கூடுதியாக` → **`கூடுதலாக`**.
+
+### Gate-E closure checks
+
+- source-page markers **90→112** — exactly once and in order;
+- hard boundaries **89→90** and **112→113** — PASS;
+- cross-split transition **100→101** — PASS;
+- M. Bhaktavatsalam interventions on scans **91, 92 and 95** — PASS;
+- Speaker source-printed English `He is so well known.` on scan **93** — preserved exactly;
+- quotations, dates, numerals, rupee amounts, commodity prices and statistical blocks — PASS;
+- final scan 112 `வணக்கம்.` — PASS;
+- OCR / web / Official Report / alternate anthology wording — **none**;
+- unresolved readings — **0**.
+
+### Historical-glyph gate
+
+The full visual audit found no historical/reform-sensitive glyph anomaly in this modern 2007 typesetting.
+
+Gate C.5: **N/A / CLOSED**.
+
+Tamil status: **VERIFIED**.  
+`verified_against_scan=true`.
+
 ## Exact next activity
 
-Perform **Gate E strict page-by-page Tamil source-fidelity verification**, scans **90–112 / 23 pages**. Do not begin English translation or Speech 9 in the same iteration.
+Perform **Speech 8 Gate F English first-pass translation**, scans **90–112 / 23 pages**, using only the final Gate-E-verified Tamil. Do not begin Gate G or Speech 9 in the same iteration.
