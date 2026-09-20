@@ -123,7 +123,7 @@ Speech 7 / 7.3.1964 has now completed Gate C as an intact **14-page activity / s
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speeches 1–6 CLOSED; Speech 7 COMPLETE / 14 of 14 / NOT VERIFIED; speeches 8–19 not started**
-- Gate D — **Speeches 1–6 PASS / COMPLETE — 0 completeness corrections each**
+- Gate D — **Speeches 1–7 PASS / COMPLETE — 0 completeness corrections each**
 - Gate E — **Speech 1 / 9 corrections; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; all 1–6 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–6; Speech 7 provisionally N/A — modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
 - Gate F — **Speeches 1–6 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16**
@@ -158,11 +158,11 @@ Speech 7 / 7.3.1964 has now completed Gate C as an intact **14-page activity / s
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate C.5 — **provisionally N/A**
-- Gate D — **NOT STARTED / next**
+- Gate D — **PASS / COMPLETE / 14 of 14 pages / 0 completeness corrections**
 - boundaries **75→76** and **89→90** — preserved
 - scan 90 / Speech 8 — excluded
 - outside wording — **none**
 
 ## Exact continuation
 
-Speeches **1–6 are RELEASED / CLOSED through Gate H**. Speech 7 Gate C is complete. Exact next: **Speech 7 / 7.3.1964 — Gate D completeness audit, scans 76–89 / 14 pages**.
+Speeches **1–6 are RELEASED / CLOSED through Gate H**. Speech 7 Gates C–D are complete; Tamil remains not verified. Exact next: **Speech 7 / 7.3.1964 — Gate E strict page-by-page Tamil source-fidelity verification, scans 76–89 / 14 pages**.
