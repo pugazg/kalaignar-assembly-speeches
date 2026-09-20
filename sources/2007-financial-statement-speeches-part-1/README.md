@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1–8 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 8 / 4.3.1966 closed with **43 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**; Gate D retains the retrospective **1 completeness correction** amendment. Speech 9 / 29.3.1971 Gates C–E are now **COMPLETE / 4 of 4 pages** as an independent parallel witness. Gate D is **PASS / COMPLETE / 0 completeness corrections**; Gate E is **PASS / COMPLETE / 4 source-fidelity corrections / 0 unresolved**. Tamil is **VERIFIED / verified_against_scan=true**; Gate C.5 is **N/A / CLOSED**. Gate F English is next.
+Speeches **1–9 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 9 / 29.3.1971 closed with **4 Gate-E corrections / 11 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes** as an independent parallel witness to `நமது நிலை`. Speech 10 / 29.6.71 now has **source-boundary and Gate-C setup COMPLETE** with full 35-page controlling split coverage confirmed; Tamil and Gate C remain **NOT STARTED**.
 
 ## Whole-speech batching policy
 
@@ -353,6 +353,45 @@ English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**.
 
 Gate H is **PASS / COMPLETE — RELEASED / CLOSED**. The canonical `transcript.md` now contains verified Tamil + verified English; `translation.md` is retired to a pointer; root and machine-readable dated indexes are synchronized. Gate-H wording changes: **0 Tamil / 0 English**. The `நமது நிலை` source layer remains unchanged.
 
+## Speech 10 source-boundary / Gate-C setup
+
+Working entry:
+
+[`../../speeches/1971/1971-06-29-financial-statement-debate/`](../../speeches/1971/1971-06-29-financial-statement-debate/)
+
+- source label/date — `உரை : 10 / 29.6.71`
+- global scans — **117–151 / 35 pages**
+- printed pages — **116–150**
+- hard boundaries — **116→117 / 151→152 — visually re-confirmed**
+- scan 117 — Speech 10 heading/start
+- scan 151 — Speech 10 closing page/ornament
+- scan 152 — Speech 11 / `உரை : 11 / நாள் : 10.3.1972` start, excluded
+- source coverage — **COMPLETE / 35 of 35 pages available**
+
+Controlling split coverage:
+
+| Split | Local pages used | Global scans | Printed pages | Speech pages | SHA-256 |
+|---|---:|---:|---:|---:|---|
+| `...part_005_pages_101-125.pdf` | 17–25 | 117–125 | 116–124 | 9 | `1ae9039952b35b70035365de3774cdf3df5ae6c62cb38d030683ce93e2456ade` |
+| `...part_006_pages_126-150.pdf` | 1–25 | 126–150 | 125–149 | 25 | `67f71bd3d4bce3c2fe9c258daaa307e29b3a5a195c848b4597c4844066ca8043` |
+| `...part_007_pages_151-175.pdf` | 1 | 151 | 150 | 1 | `e6fc152ccc1953d829438fafb6bdcfe5865633033662924518366c05a844f906` |
+
+Boundary-only pages inspected: part005 local 16 = global scan 116 / Speech 9 close; part007 local 2 = global scan 152 / Speech 11 start. The supplied part008 split begins at global scan 176 and is **not controlling for Speech 10**.
+
+The 2007 anthology remains an **independent parallel witness** to `sources/1971-namathu-vilakkam/events/1971-06-29-assembly-budget-reply.md`. The existing `நமது விளக்கம்` source layer was not used for wording and remains unchanged.
+
+Current state:
+
+- Tamil — **NOT STARTED / verified_against_scan=false**
+- Gate C — **NOT STARTED**
+- Gate C.5 — **NOT STARTED**; anthology-level modern-typesetting assessment remains provisional until the speech is processed
+- Gate D / Gate E — **NOT STARTED**
+- English / Gates F–G — **BLOCKED / NOT STARTED**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
+- `transcript.md` — intentionally not created during setup
+
+Under the whole-speech policy, Gate C must process scans **117–151 as one intact 35-page speech unit**, notwithstanding the normal 25-page activity allowance.
+
 ## Exact next activity
 
-Perform **Speech 10 / 29.6.71 source-boundary and Gate-C setup**, mapped scans **117–151 / printed pp.116–150**, as an independent parallel witness to `நமது விளக்கம்`.
+Perform **Speech 10 Gate C Tamil first-pass transcription — scans 117–151 / printed pp.116–150 / 35 pages**, using only the rendered pixels of the three controlling splits above. Do not begin Gate D, English work, or Speech 11 in that activity.

@@ -1,0 +1,138 @@
+{
+  "id": "1971-06-29-financial-statement-debate",
+  "date": "1971-06-29",
+  "year": 1971,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "source_label_ta": "மாண்புமிகு கலைஞர் மு.கருணாநிதி",
+    "role_ta": null,
+    "role_en": null,
+    "role_note": "The Speech 10 opening page supplies the speaker label but this setup does not infer a historical office or role from outside knowledge."
+  },
+  "legislature": {
+    "source_context_ta": "சட்டமன்ற உரை",
+    "source_context_en": "Legislative Assembly speech"
+  },
+  "speech": {
+    "source_label_ta": "உரை : 10",
+    "printed_date": "29.6.71",
+    "archive_subject_slug": "financial-statement-debate",
+    "archive_title_note": "Neutral archival subject label derived from the anthology title; not asserted to be an official printed legislative event title."
+  },
+  "source": {
+    "publication_title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)",
+    "edition_ta": "முதற்பதிப்பு",
+    "publication_date": "2007-05",
+    "publication_date_printed_ta": "மே, 2007",
+    "publisher_ta": "தமிழ்க்கனி பதிப்பகம்",
+    "publisher_location_ta": "சென்னை - 600 004",
+    "controlling_full_scan_filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf",
+    "controlling_full_scan_total_pages": 546,
+    "controlling_full_scan_file_size_bytes": 393027493,
+    "controlling_full_scan_sha256": "e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932",
+    "working_splits": [
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_005_pages_101-125.pdf",
+        "page_count": 25,
+        "file_size_bytes": 18572668,
+        "sha256": "1ae9039952b35b70035365de3774cdf3df5ae6c62cb38d030683ce93e2456ade",
+        "local_pages": "17-25",
+        "global_scans": "117-125",
+        "speech_page_count": 9
+      },
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_006_pages_126-150.pdf",
+        "page_count": 25,
+        "file_size_bytes": 17713432,
+        "sha256": "67f71bd3d4bce3c2fe9c258daaa307e29b3a5a195c848b4597c4844066ca8043",
+        "local_pages": "1-25",
+        "global_scans": "126-150",
+        "speech_page_count": 25
+      },
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_007_pages_151-175.pdf",
+        "page_count": 25,
+        "file_size_bytes": 18066473,
+        "sha256": "e6fc152ccc1953d829438fafb6bdcfe5865633033662924518366c05a844f906",
+        "local_pages": "1",
+        "global_scans": "151",
+        "speech_page_count": 1
+      }
+    ],
+    "boundary_check_pages": [
+      "part005 local page 16 = global scan 116 / Speech 9 close / excluded",
+      "part007 local page 2 = global scan 152 / Speech 11 start / excluded"
+    ],
+    "speech_scan_pages": "117-151",
+    "speech_printed_pages": "116-150",
+    "speech_page_count": 35,
+    "scan_printed_page_relationship": "For this speech, printed page = global scan page - 1.",
+    "source_coverage_complete": true,
+    "source_authority": "rendered scan pixels",
+    "usable_text_layer": false
+  },
+  "parallel_witness": {
+    "is_parallel_witness": true,
+    "related_record": "sources/1971-namathu-vilakkam/events/1971-06-29-assembly-budget-reply.md",
+    "relationship": "independent 2007-anthology witness",
+    "overwrite_existing_source_layer": false,
+    "normalize_to_existing_source_layer": false,
+    "external_witness_wording_imported": false
+  },
+  "setup": {
+    "status": "pass-complete",
+    "start_boundary": "116->117",
+    "end_boundary": "151->152",
+    "boundaries_visually_reconfirmed": true,
+    "controlling_splits_verified": true,
+    "controlling_speech_page_count": 35,
+    "whole_speech_policy": "Speech 10 exceeds the normal 25-page activity allowance and must be processed separately as one intact 35-page speech unit when Gate C begins."
+  },
+  "transcription": {
+    "method": "NOT STARTED. Future Gate C must be transcribed manually from rendered pixels of the three controlling 2007 anthology splits only.",
+    "preserve_source_spelling": true,
+    "preserve_source_punctuation": true,
+    "preserve_source_numerals": true,
+    "preserve_headings": true,
+    "preserve_speaker_labels_and_interventions": true,
+    "preserve_printed_english": true,
+    "page_boundaries_marked": false,
+    "status": "not-started",
+    "gate_c_status": "not-started",
+    "completed_scan_pages": null,
+    "completed_printed_pages": null,
+    "completed_page_count": 0,
+    "total_page_count": 35,
+    "source_page_markers_checked_first_pass": false,
+    "unresolved_readings": null,
+    "completeness_audit_passed": false,
+    "verified_against_scan": false,
+    "historical_glyph_gate_status": "not-started",
+    "gate_d_status": "not-started",
+    "gate_e_status": "not-started",
+    "next_gate": "gate-c",
+    "outside_wording_imported": false
+  },
+  "translation": {
+    "language": "English",
+    "status": "not-started",
+    "type": "faithful reading translation",
+    "source_text": null,
+    "verified_against_tamil": false,
+    "gate_f_status": "not-started",
+    "gate_g_status": "not-started",
+    "next_gate": "blocked-until-tamil-verified",
+    "external_witness_translation_imported": false
+  },
+  "release": {
+    "status": "not-released",
+    "released": false,
+    "release_ready": false,
+    "indexed": false,
+    "gate_h_status": "not-started",
+    "canonical_bilingual_transcript": false,
+    "parallel_witness_preserved": true,
+    "existing_source_layer_overwritten": false
+  }
+}

@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 9 / 29.3.1971 = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 9 closed with **4 Gate-E corrections / 11 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes** and remains an independent parallel witness to `நமது நிலை`. Speeches 1–9 are now released. Exact next: Speech 10 / 29.6.71 source-boundary and Gate-C setup, scans 117–151 / printed pp.116–150, as an independent parallel witness to `நமது விளக்கம்`.
+Latest released unit: Speech 9 / 29.3.1971 = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 9 closed with **4 Gate-E corrections / 11 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes** and remains an independent parallel witness to `நமது நிலை`. Speeches 1–9 are now released. Speech 10 / 29.6.71 has **source-boundary and Gate-C setup COMPLETE** with full 35-page source coverage; Tamil and Gate C remain **NOT STARTED**.
 
 ## Existing-source overlaps
 
@@ -92,7 +92,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–8 CLOSED; Speech 9 COMPLETE / 4 of 4; speeches 10–19 not started**
+- Gate C — **Speeches 1–9 CLOSED; Speech 10 NOT STARTED; speeches 11–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–9 — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found in Speech 9**
 - Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction; Speech 9 PASS / COMPLETE / 0 completeness corrections**
 - Gate E — **Speeches 1–9 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20 / 19 / 43 / 4; unresolved 0**
@@ -528,8 +528,58 @@ The complete before → after ledger is in `translation-review.md`.
 - existing `நமது நிலை` source layer — unchanged
 - parallel-witness / no-overwrite rule — preserved
 
+## Speech 10 durable setup state
+
+Working entry:
+
+`speeches/1971/1971-06-29-financial-statement-debate/`
+
+Locked unit:
+
+- source label — `உரை : 10`
+- printed date — `29.6.71`
+- ISO date — `1971-06-29`
+- global scans — **117–151**
+- printed pages — **116–150**
+- page count — **35**
+- start boundary — **116→117 — PASS**
+- end boundary — **151→152 — PASS**
+- scan 152 — Speech 11 / `10.3.1972`, excluded
+
+Controlling user-supplied splits:
+
+1. `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_005_pages_101-125.pdf`
+   - 25 pages / 18,572,668 bytes
+   - SHA-256 `1ae9039952b35b70035365de3774cdf3df5ae6c62cb38d030683ce93e2456ade`
+   - local pages **17–25** = global scans **117–125** / 9 speech pages
+   - local page 16 = global scan 116 / Speech 9 close, boundary-only
+2. `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_006_pages_126-150.pdf`
+   - 25 pages / 17,713,432 bytes
+   - SHA-256 `67f71bd3d4bce3c2fe9c258daaa307e29b3a5a195c848b4597c4844066ca8043`
+   - local pages **1–25** = global scans **126–150** / 25 speech pages
+3. `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_007_pages_151-175.pdf`
+   - 25 pages / 18,066,473 bytes
+   - SHA-256 `e6fc152ccc1953d829438fafb6bdcfe5865633033662924518366c05a844f906`
+   - local page **1** = global scan **151** / 1 speech page
+   - local page 2 = global scan 152 / Speech 11 start, boundary-only
+
+Total controlling speech coverage: **35/35 pages**. The supplied part008 split begins with global scan 176 and is outside Speech 10.
+
+Parallel-witness lock: Speech 10 is an **independent 2007-anthology witness** to `sources/1971-namathu-vilakkam/events/1971-06-29-assembly-budget-reply.md`. Do not consult that source layer, Official Reports, OCR, web copies or alternate anthologies to supply or repair Speech-10 wording. The existing `நமது விளக்கம்` layer remains unchanged.
+
+Status after setup:
+
+- source-boundary / coverage setup — **PASS / COMPLETE**
+- Tamil — **NOT STARTED / verified_against_scan=false**
+- Gate C — **NOT STARTED**
+- Gate C.5 — **NOT STARTED**
+- Gate D / Gate E — **NOT STARTED**
+- English / Gate F / Gate G — **BLOCKED / NOT STARTED**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
+- `transcript.md` — **not created in setup**
+
+The whole-speech policy controls: despite the normal 25-page activity maximum, this single 35-page speech must be processed as **one intact unit** when Gate C begins.
+
 ## Exact next activity
 
-Perform **Speech 10 / 29.6.71 source-boundary and Gate-C setup**, scans **117–151 / printed pp.116–150**.
-
-Speech 10 is a **35-page** source unit, so the whole-speech policy requires processing it separately as one intact unit rather than splitting it to satisfy the 25-page allowance. It overlaps the released `நமது விளக்கம்` source layer and must be preserved as an independent anthology witness. Do not overwrite or normalize to that earlier witness.
+Perform **Speech 10 Gate C Tamil first-pass transcription — scans 117–151 / printed pp.116–150 / 35 pages** from the controlling 2007 anthology split pixels only. Do not begin Gate D, English work, or Speech 11 in that activity.
