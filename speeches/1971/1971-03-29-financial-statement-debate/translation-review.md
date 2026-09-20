@@ -74,8 +74,24 @@ Verified-Tamil changes: **0**.
 English status: **VERIFIED AGAINST TAMIL**.  
 `verified_against_tamil=true`.
 
+## Gate H — canonical bilingual merge / index / release closure
+
+**Status: PASS / COMPLETE — RELEASED / CLOSED**
+
+- verified Tamil source-page markers **113→116** preserved exactly once and in order;
+- Gate-G-verified English sections **113→116** preserved exactly once and in order;
+- canonical `transcript.md` now contains verified Tamil followed by verified English;
+- `translation.md` retired to the standard released pointer;
+- Gate-G totals remain **11 refinements / 0 blockers / 0 Tamil changes**;
+- Gate-H wording changes — **0 Tamil / 0 English**;
+- hard boundaries **112→113** and **116→117** preserved;
+- scan 117 / Speech 10 content remains excluded;
+- root dated index and `data/speeches.json` synchronized with this distinct dated anthology witness;
+- existing `நமது நிலை` booklet/event source layer remains untouched;
+- independent parallel-witness / no-overwrite rule preserved.
+
+Final disposition: **Speech 9 RELEASED / CLOSED**.
+
 ## Exact next activity
 
-**Gate H — canonical bilingual merge / index / release closure for Speech 9.**
-
-Do not begin Speech 10 in the same activity.
+Begin **Speech 10 / 29.6.71 source-boundary and Gate-C setup**, scans **117–151 / printed pp.116–150**, as an independent parallel witness to the existing `நமது விளக்கம்` source layer. Do not overwrite that released source layer.

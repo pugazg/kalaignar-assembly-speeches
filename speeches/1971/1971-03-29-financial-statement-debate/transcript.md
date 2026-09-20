@@ -2,7 +2,7 @@
 
 ## உரை : 9 — நாள் : 29.3.1971
 
-> **Gate G working status:** Gates C–G are complete for source scans **113–116 / printed pp.112–115**. Tamil is **VERIFIED** with `verified_against_scan=true`. Gate F English translation is complete, and Gate G is **PASS / COMPLETE — 4/4 pages / 11 refinements / 0 blockers / 0 Tamil changes**. English is **VERIFIED AGAINST TAMIL** with `verified_against_tamil=true`; Gate H canonical merge/release is next. This remains an independent 2007-anthology parallel witness to the existing `நமது நிலை` event/provenance record; no wording or English was imported from that earlier source layer.
+> **Gate H release status:** Speech 9 is **RELEASED / CLOSED**. Tamil Gates C–E are complete and Tamil is **VERIFIED** against source scans **113–116** with **4 Gate-E corrections / 0 unresolved readings**. Gate D is **PASS / COMPLETE / 0 completeness corrections**. Gate F translated all **4/4** pages; Gate G verified all **4/4** English pages with **11 fidelity/voice refinements / 0 blockers / 0 Tamil changes**. Gate H canonicalised the bilingual transcript, synchronized the dated indexes, and retired the duplicate English working copy with **0 Tamil / 0 English wording changes**. Hard boundaries **112→113** and **116→117** remain intact. This 2007 anthology entry remains an independent parallel witness to `நமது நிலை`; that source layer was not overwritten.
 
 ---
 
@@ -44,3 +44,46 @@
 சக்தி பைப்ஸ் பற்றிச் சொன்னார்கள். சக்தி பைப்ஸ் என்ற நிறுவனம் இன்று ஆரம்பித்தது அல்ல, நீங்களெல்லாம் ஆரம்பித்து நல்ல போஷாக்கில் வைத்து இருந்த நிறுவனம்தான். அதனுடைய போதாத காலம் அந்த நிறுவனத்தில் பொருளாதார சிக்கல் ஏற்பட்டு அது மூட வேண்டிய சூழ்நிலை ஏற்பட்டது. அப்படிப்பட்ட சூழ்நிலை அங்கே உருவானபோது அங்கே வேலை செய்யும் ஆயிரத்திற்கும் மேற்பட்ட தொழிலாளர்கள் வேலை இழக்க நேரிடும் என்ற அச்சம் ஏற்பட்டது. எப்படி வேறு பல தனிப்பட்ட நிறுவனங்களில் இந்த அரசு பொறுப்போடு நடந்து கொண்டதோ, முன் நோக்காக, சதர்ன் ஸ்ட்ரக்சரல்ஸ்க்கு எந்த அளவுக்கு உதவி செய்ததோ, அதே போல் சக்தி பைப்ஸ் நிறுவனத்திற்கும் உதவி அளித்திருக்கிறோம். அதிலும் குறிப்பாக நாம் போட்டு இருக்கும் 14 கோடி ரூபாய் குடிநீர்த் திட்டத்திற்குத் தரமான பைப்புகள் தேவைப்படும். நம்முடைய மாநிலத்தில் இருக்கும் ஒரே ஒரு பைப் செய்யும் தொழிற்சாலை சக்தி பைப்ஸ் நிறுவனம்தான். அதையும் மூடிவிட இந்த அரசு விரும்பாத காரணத்தால் அவர்களுக்கு இந்தத் தொகை ஒதுக்கியதே தவிர எந்த விதமான விருப்போ, வெறுப்போ அல்ல என்பதை நான் தெரிவித்துக் கொள்கிறேன்.
 
 நம்முடைய நண்பர் கம்யூனிஸ்ட் கட்சி சார்பிலே திரு. சுப்பு அவர்கள் பல பிரச்சினைகளைப் பற்றியெல்லாம் இங்கே எடுத்துச் சொல்லியிருக்கிறார்கள். அவைகளை யெல்லாம் இந்த அரசு நல்ல முறையிலே கவனித்து தக்க நடவடிக்கை எடுக்கும் என்பதைச் சொல்லிக் கொள்கிறேன். எடுத்துச் சொல்லப்பட்டவைகளுக்கெல்லாம் நான் பதில் சொல்லாத காரணத்தினால் அவைகள் கவனிக்கப்படமாட்டா என்று தயவு செய்து யாரும் கருத வேண்டாம். நேரம் இல்லாத காரணத்தினால்தான் அவை விடுபடுகின்றனவே தவிர, வேறு அல்ல என்பதையும் குறிப்பிட்டு, இவைகளையெல்லாம் ஆதரித்து ஒப்புதல் வழங்க வேண்டும் என்று கேட்டுக் கொண்டு அமர்கிறேன்.
+
+---
+
+# English translation
+
+> **Gate H canonical English note:** the English below is the complete Gate-G-verified translation of source pages **113–116**. It is derived only from the final Gate-E-verified Tamil in this independent 2007-anthology witness. `translation.md` is retired to a pointer; the authoritative English is maintained in this canonical bilingual transcript.
+
+### Source page 113
+
+**Speech: 9**  
+**Date: 29.3.1971**
+
+**Hon. Kalaignar M. Karunanidhi:** Mr Speaker, the Hon. leader of the Swatantra Party and members of the opposition parties have spoken here in detail about the allocations under these supplementary estimates. I wish only to tell them that this Government will make efforts to consider constructive suggestions and do what is appropriate.
+
+Mr Hande, while speaking, said that the Chief Minister should give assurances. On many matters they asked that assurances be given. Giving assurances is no great matter. But the assurances that are given must be of a kind that can be kept.
+
+Therefore, I am obliged at this juncture to give them only this assurance: that I will consider all those matters and certainly take appropriate action.
+
+They raised the grievances of college lecturers. Secondly, they suggested that another Pay Commission could be convened to remove the shortcomings in the Pay Commission. The Secretary of the Second Pay Commission has himself been assigned to continue in that work and attend to all those shortcomings. I wish only to state here that the work will be carried out properly in that manner.
+
+### Source page 114
+
+They referred to pensions. Though it has been stated that the Second Pay Commission considered all such matters, I wish only to point out that the Government will certainly consider what ought not to be neglected and what is fair.
+
+They referred to incidents of violence taking place in many places. Yesterday, when an adjournment motion was moved, I referred to this in this House. They themselves said that three murders occurred in Ennore. They also said that a member of the Munnetra Kazhagam was murdered. Without looking at how these murders occurred or which side suffered more deaths, members of all parties must take responsibility for preventing such incidents from occurring and for stopping them. Likewise, there is no denying that the police too have a duty. But when incidents suddenly arise, it becomes impossible for the police to be present in advance at every such place. I say from this House that the police will certainly work impartially and neutrally, and I have asked them to work in that manner.
+
+The lady member spoke about the riot at Nochikuppam. I have received such a complaint. I state that it will be inquired into and appropriate action taken.
+
+They raised here the question whether supplementary estimates are necessary. Supplementary estimates are a means of obtaining the additional sum required for an expenditure programme that has already been accepted and approved—
+
+### Source page 115
+
+. If the amount so required is not allotted, works already agreed to in principle cannot be completed.
+
+They asked whether the sunflower was such an important issue. We are not going to grow sunflowers for anyone to wear on their head. It is to produce the oil called ‘Sunflower’. It is useful in two ways. This oil is much better than gingelly oil and coconut oil. Some doctors say that oil should not be taken. They say gingelly oil should not be taken and coconut oil should not be taken.
+
+Among the members of our House, probably 90 out of 100 would be caught in such a predicament. The moment they mount a platform and begin speaking, stomach pain comes on by itself. They would have fallen into such difficulty. The moment they mount a platform and begin speaking, stomach pain comes on by itself. In such a situation, if sunflower oil is used, all kinds of heat will lessen. Because this oil is said to be excellent in every respect; because our Minister for Cooperation, on returning from Western countries, repeatedly stressed the sunflower and sunflower oil; and because I too went and saw that it is put to good use in Western countries, we asked for sunflower seeds to be produced here, and for no other reason. I wish to point out that the flower is not for wearing; it is for making oil. (Laughter).
+
+### Source page 116
+
+They spoke about Sakthi Pipes. Sakthi Pipes is not a company that was started today; it is a company that all of you started and nurtured well. Bad times befell it: financial difficulties arose and a situation developed in which it had to close. When such a situation arose there, there was fear that more than a thousand workers employed there would lose their jobs. Just as this Government has acted responsibly in the case of several other private companies, and with foresight gave assistance to Southern Structurals, we have likewise given assistance to Sakthi Pipes. In particular, our Rs. 14-crore drinking-water scheme requires pipes of good quality. The only pipe-manufacturing factory in our State is Sakthi Pipes. Because this Government did not want even that to be closed, this amount was allotted to it; it was not out of any preference or aversion, and I wish to make that clear.
+
+Our friend Mr Subbu, on behalf of the Communist Party, has raised many issues here. I say that this Government will consider all of them properly and take appropriate action. Because I have not replied to everything that has been raised, please do not think that those matters will not be attended to. They are being left out only because there is no time, and for no other reason. With that, I request that all these be supported and approved, and I resume my seat.

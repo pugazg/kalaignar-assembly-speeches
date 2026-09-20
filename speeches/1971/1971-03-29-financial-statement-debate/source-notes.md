@@ -124,6 +124,16 @@ Gate G compared only the Gate-F English against the final Gate-E-verified Tamil.
 
 No outside witness supplied English. English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**.
 
+## Gate H — release closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+The verified Tamil and Gate-G-verified English are canonical together in `transcript.md`. `translation.md` is retired to a pointer. Gate H made **0 Tamil / 0 English wording changes**.
+
+The root dated index and `data/speeches.json` now include this distinct dated anthology witness. This does not alter the separate `நமது நிலை` booklet/event source layer.
+
+Hard boundaries **112→113** and **116→117** remain intact; scan 117 remains outside Speech 9.
+
 ## Exact next
 
-**Speech 9 Gate H canonical bilingual merge / index / release closure.**
+**Speech 10 / 29.6.71 source-boundary and Gate-C setup — scans 117–151 / printed pp.116–150**, preserving its independent parallel-witness relationship to `நமது விளக்கம்`.

@@ -116,7 +116,7 @@ Released material remains locked. This anthology must be processed as an indepen
 - defer the next whole speech if adding it would exceed 25 pages;
 - if one speech itself exceeds 25 pages, process that intact speech separately.
 
-Speech 9 / 29.3.1971 has now completed Gate C as one intact **4-page activity / scans 113–116**, using split 005 local pages 13–16. Scan 112 remains the released Speech 8 close; scan 117 begins Speech 10 / 29.6.71 and remains excluded.
+Speech 9 / 29.3.1971 is now **RELEASED / CLOSED through Gate H** as one intact 4-page unit / scans 113–116. Scan 112 remains the released Speech 8 close; scan 117 begins Speech 10 / 29.6.71 and remains excluded. Speech 10 spans **35 scans / 117–151** and, under the whole-speech batching policy, must be processed separately as one intact unit even though it exceeds 25 pages.
 
 ## Gate status
 
@@ -126,9 +126,9 @@ Speech 9 / 29.3.1971 has now completed Gate C as one intact **4-page activity / 
 - Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction after Gate E restored an omitted scan-90 phrase; Speech 9 PASS / COMPLETE / 0 completeness corrections**
 - Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43; Speech 9 / 4 corrections; all 1–9 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–9 — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found in Speech 9**
-- Gate F — **Speeches 1–8 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23**
-- Gate G — **Speeches 1–8 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16; 0 blockers; English VERIFIED**
-- Gate H — **Speeches 1–8 PASS / COMPLETE — RELEASED / CLOSED**
+- Gate F — **Speeches 1–9 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23 / 4**
+- Gate G — **Speeches 1–9 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16 / 11; 0 blockers; English VERIFIED**
+- Gate H — **Speeches 1–9 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Gate-H boundary / release check for Speeches 4–5
 
@@ -179,7 +179,7 @@ Speech 9 / 29.3.1971 has now completed Gate C as one intact **4-page activity / 
 - Gate-H wording changes — **0 Tamil / 0 English**
 
 
-## Speech 9 Gate-C state
+## Speech 9 Gate-H closure
 
 - working entry — `speeches/1971/1971-03-29-financial-statement-debate/`
 - source label/date — `உரை : 9 / 29.3.1971`
@@ -194,7 +194,11 @@ Speech 9 / 29.3.1971 has now completed Gate C as one intact **4-page activity / 
 - Gate F — **COMPLETE / 4 of 4 English pages / 0 blocking questions / 0 Tamil changes**
 - Gate G — **PASS / COMPLETE — 4/4 pages / 11 refinements / 0 blockers / 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **NOT STARTED / next**
+- Gate H — **PASS / COMPLETE**
+- release — **RELEASED / CLOSED**
+- canonical bilingual transcript — **complete**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- root / machine-readable dated indexes — **synchronized**
 - hard boundaries **112→113** and **116→117** — preserved
 - scan 117 — confirmed Speech 10 / `உரை : 10 / நாள் : 29.6.71`, excluded
 - `நமது நிலை` relationship — **independent parallel witness / no overwrite**
@@ -209,4 +213,4 @@ Speech 9 / 29.3.1971 has now completed Gate C as one intact **4-page activity / 
 
 ## Exact continuation
 
-Speeches **1–8 remain RELEASED / CLOSED through Gate H**. Speech 9 Gates C–G are complete; Tamil is **VERIFIED** and English is **VERIFIED AGAINST TAMIL** after **11 Gate-G refinements / 0 blockers / 0 Tamil changes**. Speech 9 remains **NOT RELEASED**. Exact next: **Speech 9 / 29.3.1971 — Gate H canonical bilingual merge / index / release closure**.
+Speeches **1–9 are RELEASED / CLOSED through Gate H**. Speech 9 closed with **4 Gate-E corrections / 11 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**, while preserving its independent parallel-witness relationship to `நமது நிலை`. Exact next: **Speech 10 / 29.6.71 source-boundary and Gate-C setup, scans 117–151 / printed pp.116–150**, as an independent parallel witness to `நமது விளக்கம்`.

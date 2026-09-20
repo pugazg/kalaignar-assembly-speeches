@@ -42,10 +42,11 @@ This 2007-anthology unit overlaps the existing நமது நிலை event/p
 - Gate E — **PASS / COMPLETE — 4/4 pages; 4 source-fidelity corrections; 0 unresolved readings**
 - Gate F — **COMPLETE / 4 of 4 English pages**
 - Gate G — **PASS / COMPLETE — 4/4 pages; 11 refinements; 0 blockers; 0 Tamil changes**
-- English — **VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=true`
-- Gate H — **NOT STARTED / next**
-- release — **WORKING / NOT RELEASED**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual transcript — **COMPLETE**
+- `translation.md` — **retired to released pointer**
+- release — **RELEASED / CLOSED**
 
 Gate C used only rendered source pixels from the user-supplied split PDF. No OCR, web copy, Official Report, நமது நிலை wording or alternate anthology supplied text.
 
@@ -53,9 +54,9 @@ The hard boundaries **112→113** and **116→117** are preserved. Scan 112 belo
 
 ## Files
 
-- transcript.md — Gate-E-verified Tamil transcript
-- translation.md — Gate-G-verified English working translation
-- translation-review.md — Gate-F/G translation audit and refinement ledger
+- transcript.md — canonical bilingual transcript with verified Tamil + verified English
+- translation.md — released pointer to canonical English in `transcript.md`
+- translation-review.md — Gate-F/G audit plus Gate-H release closure
 - metadata.json — source, parallel-witness and gate state
 - source-notes.md — source authority, locked boundaries and Gate-F translation policy
 - verification-log.md — Tamil Gates C–E audit plus Gate-F handoff
@@ -118,8 +119,21 @@ The final English preserves the source-page sequence **113→116**, source-bound
 
 English is now **VERIFIED AGAINST TAMIL / verified_against_tamil=true**.
 
-Speech 9 is still **WORKING / NOT RELEASED** until Gate H performs the canonical bilingual merge and index/release closure.
+## Gate-H result
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- verified Tamil markers **113→116** — preserved exactly once and in order;
+- verified English sections **113→116** — preserved exactly once and in order;
+- canonical bilingual `transcript.md` — complete;
+- `translation.md` — retired to standard released pointer;
+- Gate-G totals — **11 refinements / 0 blockers / 0 Tamil changes**;
+- Gate-H wording changes — **0 Tamil / 0 English**;
+- hard boundaries **112→113** and **116→117** — preserved;
+- root dated index and `data/speeches.json` — synchronized;
+- existing `நமது நிலை` booklet/event layer — unchanged;
+- independent parallel-witness / no-overwrite policy — preserved.
 
 ## Exact next activity
 
-**Speech 9 Gate H canonical bilingual merge / index / release closure.** Do not begin Speech 10 in that activity.
+**Speech 10 / 29.6.71 source-boundary and Gate-C setup — scans 117–151 / printed pp.116–150**, as an independent parallel witness to `நமது விளக்கம்`.

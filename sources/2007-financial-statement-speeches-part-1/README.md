@@ -316,7 +316,7 @@ Reader/work entry:
 - outside wording — **none**
 
 
-## Speech 9 Gate-F working state
+## Speech 9 Gate-H closure
 
 Reader/work entry:
 
@@ -334,8 +334,10 @@ Reader/work entry:
 - Gate F — **COMPLETE / 4 of 4 English pages**
 - Gate G — **PASS / COMPLETE — 4/4 pages; 11 refinements; 0 blockers; 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **NOT STARTED / next**
-- release — **WORKING / NOT RELEASED**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual transcript — **COMPLETE**
+- `translation.md` — **retired pointer**
+- release — **RELEASED / CLOSED**
 - hard boundaries **112→113** and **116→117** — preserved
 - scan 117 visually confirmed as `உரை : 10 / நாள் : 29.6.71` and excluded
 - relationship to `நமது நிலை` — **PARALLEL WITNESS / NO OVERWRITE**
@@ -347,8 +349,10 @@ Gate F translated **4/4 pages** only from the final Gate-E-verified Tamil. Conse
 
 Gate G reviewed all **4/4 pages** against the verified Tamil and applied **11 English refinements** with **0 blocking fidelity issues / 0 Tamil changes**. Source-page order, the scan-115 repetition, names, figures, `(Laughter).`, and all conservative source-bound choices remain intact.
 
-English is now **VERIFIED AGAINST TAMIL / verified_against_tamil=true**.
+English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**.
+
+Gate H is **PASS / COMPLETE — RELEASED / CLOSED**. The canonical `transcript.md` now contains verified Tamil + verified English; `translation.md` is retired to a pointer; root and machine-readable dated indexes are synchronized. Gate-H wording changes: **0 Tamil / 0 English**. The `நமது நிலை` source layer remains unchanged.
 
 ## Exact next activity
 
-Perform **Speech 9 / 29.3.1971 — Gate H canonical bilingual merge / index / release closure**. Do not begin Speech 10.
+Perform **Speech 10 / 29.6.71 source-boundary and Gate-C setup**, mapped scans **117–151 / printed pp.116–150**, as an independent parallel witness to `நமது விளக்கம்`.

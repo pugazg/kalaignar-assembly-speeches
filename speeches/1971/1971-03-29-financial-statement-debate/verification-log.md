@@ -152,8 +152,24 @@ The Gate-F working copy is in `translation.md`; detailed choices are recorded in
 
 The full refinement ledger is in `translation-review.md`.
 
+## Gate H — canonical bilingual merge / release handoff
+
+**Status: PASS / COMPLETE — RELEASED / CLOSED**
+
+- verified Tamil markers **113→116** — preserved once each and in order;
+- verified English source-page sections **113→116** — preserved once each and in order;
+- canonical bilingual `transcript.md` — complete;
+- `translation.md` — retired pointer;
+- Gate-G totals — **11 refinements / 0 blockers / 0 Tamil changes**;
+- Gate-H wording changes — **0 Tamil / 0 English**;
+- hard boundaries **112→113 / 116→117** — PASS;
+- scan 117 / Speech 10 — excluded;
+- root dated index / `data/speeches.json` — synchronized;
+- `நமது நிலை` source layer — unchanged;
+- parallel-witness / no-overwrite rule — preserved.
+
+Final disposition: **Speech 9 RELEASED / CLOSED**.
+
 ## Exact next activity
 
-**Gate H canonical bilingual merge / index / release closure for Speech 9.**
-
-Do not begin Speech 10 in the same activity.
+**Speech 10 / 29.6.71 source-boundary and Gate-C setup — scans 117–151 / printed pp.116–150**. Do not overwrite the existing `நமது விளக்கம்` source layer.

@@ -98,9 +98,9 @@
     "type": "faithful reading translation",
     "source_text": "final Gate-E-verified Tamil transcript",
     "verified_against_tamil": true,
-    "next_gate": "gate-h-canonical-merge-release",
+    "next_gate": null,
     "gate_f_status": "complete",
-    "placement": "Gate-G-verified working copy in translation.md; canonical bilingual merge pending Gate H",
+    "placement": "canonical in transcript.md; translation.md retired to pointer",
     "translated_source_pages": "113-116",
     "translated_page_count": 4,
     "gate_f_blocking_questions": 0,
@@ -114,13 +114,23 @@
     "gate_g_reviewed_page_count": 4,
     "gate_g_refinement_count": 11,
     "gate_g_blocking_fidelity_issues": 0,
-    "gate_g_tamil_changes": 0
+    "gate_g_tamil_changes": 0,
+    "gate_h_status": "pass-complete",
+    "canonical_merged": true,
+    "translation_working_copy_retired": true
   },
   "release": {
-    "status": "working",
-    "released": false,
-    "release_ready": false,
-    "indexed": false,
-    "index_note": "Gate G English verification is complete, but Gate H canonical merge/release is pending; do not add to released dated indexes yet."
+    "status": "released",
+    "released": true,
+    "release_ready": true,
+    "indexed": true,
+    "gate_h_status": "pass-complete",
+    "release_note": "Speech 9 Gate H PASS / COMPLETE. Canonical bilingual transcript and dated repository indexes synchronized; translation.md retired to a pointer; no verified Tamil or English wording changed during Gate H. The 2007 anthology entry remains an independent parallel witness to Namathu Nilai.",
+    "canonical_bilingual_transcript": true,
+    "translation_working_copy_retired": true,
+    "gate_h_wording_changes_tamil": 0,
+    "gate_h_wording_changes_english": 0,
+    "parallel_witness_preserved": true,
+    "existing_source_layer_overwritten": false
   }
 }
