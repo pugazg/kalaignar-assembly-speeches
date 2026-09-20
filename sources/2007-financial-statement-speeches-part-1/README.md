@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1–6 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 7 / 7.3.1964 Gate C is **COMPLETE / 14 of 14 pages / Tamil TRANSCRIBED / NOT VERIFIED**; Gate D is next.
+Speeches 1–6 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 7 / 7.3.1964 Gates C–D are **COMPLETE / 14 of 14 pages / 0 completeness corrections**; Tamil remains **TRANSCRIBED / NOT VERIFIED** and Gate E is next.
 
 ## Whole-speech batching policy
 
@@ -286,11 +286,11 @@ Reader/work entry:
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate C.5 — **provisionally N/A**
-- Gate D — **NOT STARTED / next**
+- Gate D — **PASS / COMPLETE / 14 of 14 pages / 0 completeness corrections**
 - hard boundaries **75→76** and **89→90** — preserved
 - scan 90 / Speech 8 — excluded
 - outside wording from OCR / web / Official Reports / alternate anthologies — **none**
 
 ## Exact next activity
 
-Perform **Speech 7 / 7.3.1964 — Gate D completeness audit**, scans **76–89 / 14 pages**. Do not begin Gate E, English translation or Speech 8 in the same iteration.
+Perform **Speech 7 / 7.3.1964 — Gate E strict page-by-page Tamil source-fidelity verification**, scans **76–89 / 14 pages**. Do not begin English translation or Speech 8 in the same iteration.
