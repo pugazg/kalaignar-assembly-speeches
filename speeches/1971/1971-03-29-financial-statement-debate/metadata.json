@@ -94,13 +94,13 @@
   },
   "translation": {
     "language": "English",
-    "status": "translated",
+    "status": "verified",
     "type": "faithful reading translation",
     "source_text": "final Gate-E-verified Tamil transcript",
-    "verified_against_tamil": false,
-    "next_gate": "gate-g-english-fidelity-review",
+    "verified_against_tamil": true,
+    "next_gate": "gate-h-canonical-merge-release",
     "gate_f_status": "complete",
-    "placement": "working copy in translation.md; not canonical until later Gate H merge",
+    "placement": "Gate-G-verified working copy in translation.md; canonical bilingual merge pending Gate H",
     "translated_source_pages": "113-116",
     "translated_page_count": 4,
     "gate_f_blocking_questions": 0,
@@ -108,13 +108,19 @@
     "source_printed_english_present": false,
     "source_printed_english_scan_pages": [],
     "external_witness_translation_imported": false,
-    "parallel_witness_note": "Gate F was translated only from this anthology's final Gate-E-verified Tamil. No Namathu Nilai English or other witness supplied wording."
+    "parallel_witness_note": "Gate F was translated only from this anthology's final Gate-E-verified Tamil. No Namathu Nilai English or other witness supplied wording.",
+    "gate_g_status": "pass-complete",
+    "gate_g_reviewed_source_pages": "113-116",
+    "gate_g_reviewed_page_count": 4,
+    "gate_g_refinement_count": 11,
+    "gate_g_blocking_fidelity_issues": 0,
+    "gate_g_tamil_changes": 0
   },
   "release": {
     "status": "working",
     "released": false,
     "release_ready": false,
     "indexed": false,
-    "index_note": "Gate F English first-pass working entry only; Gate G verification and Gate H release are incomplete, so do not add to released dated indexes."
+    "index_note": "Gate G English verification is complete, but Gate H canonical merge/release is pending; do not add to released dated indexes yet."
   }
 }

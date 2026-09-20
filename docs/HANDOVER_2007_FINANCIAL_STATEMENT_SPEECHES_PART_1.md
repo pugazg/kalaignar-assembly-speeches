@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 8 / 4.3.1966 = **RELEASED / CLOSED through Gate H** with verified Tamil and English. Speech 8 closed with **43 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**; Gate D retains the retrospective **1 completeness correction** amendment. Active working unit: Speech 9 / 29.3.1971 Gates C–F are **COMPLETE / 4 of 4 pages**. Tamil is **VERIFIED / verified_against_scan=true**. Gate F English is **COMPLETE / 4 of 4 pages / 0 blocking questions / 0 Tamil changes**, but English remains **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**. Exact next: Speech 9 Gate G English fidelity/voice review, scans 113–116 / 4 pages.
+Latest released unit: Speech 8 / 4.3.1966 = **RELEASED / CLOSED through Gate H** with verified Tamil and English. Speech 8 closed with **43 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**; Gate D retains the retrospective **1 completeness correction** amendment. Active working unit: Speech 9 / 29.3.1971 Gates C–G are **COMPLETE / 4 of 4 pages**. Tamil is **VERIFIED / verified_against_scan=true**. Gate G is **PASS / COMPLETE / 11 refinements / 0 blockers / 0 Tamil changes** and English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**. Exact next: Speech 9 Gate H canonical bilingual merge / index / release closure.
 
 ## Existing-source overlaps
 
@@ -97,7 +97,7 @@ Treat this 2007 anthology as its own witness.
 - Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction; Speech 9 PASS / COMPLETE / 0 completeness corrections**
 - Gate E — **Speeches 1–9 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20 / 19 / 43 / 4; unresolved 0**
 - Gate F — **Speeches 1–9 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23 / 4; Speech 9 has 0 blocking questions / 0 Tamil changes**
-- Gate G — **Speeches 1–8 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16; 0 blockers; English VERIFIED**
+- Gate G — **Speeches 1–9 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16 / 11; 0 blockers; English VERIFIED**
 - Gate H — **Speeches 1–8 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Speech 1 durable Gate-C state
@@ -435,8 +435,9 @@ Working entry:
 - Gate D — **PASS / COMPLETE — 4/4 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 4/4 pages; 4 source-fidelity corrections; 0 unresolved readings**
 - Gate F — **COMPLETE / 4 of 4 English pages**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
-- Gate G — **NOT STARTED / next**
+- Gate G — **PASS / COMPLETE — 4/4 pages / 11 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **NOT STARTED / next**
 - release — **NOT RELEASED**
 - hard boundaries **112→113** and **116→117** — preserved
 - scan 117 visually confirmed as `உரை : 10 / நாள் : 29.6.71` and excluded
@@ -494,8 +495,23 @@ Gate-E correction summary:
 - English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
 - `verified_against_tamil=false`
 
+## Speech 9 Gate-G result
+
+- Gate G — **PASS / COMPLETE — 4/4 pages**
+- refinements — **11**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- English source-page sequence **113→116** — PASS
+- scan-115 source-printed repetition — retained twice
+- conservative source-bound terms — PASS
+- outside / `நமது நிலை` English imported — **0**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+
+The complete before → after ledger is in `translation-review.md`.
+
 ## Exact next activity
 
-Perform **Speech 9 / 29.3.1971 — Gate G English fidelity/voice review**, scans **113–116 / 4 pages**.
+Perform **Speech 9 / 29.3.1971 — Gate H canonical bilingual merge / index / release closure**.
 
-Review only `translation.md` against the final Gate-E-verified Tamil in `transcript.md`, record every refinement explicitly in `translation-review.md`, and do not begin Gate H or Speech 10.
+Gate H should merge the verified Tamil and Gate-G-verified English into the canonical `transcript.md`, retire `translation.md` to a pointer, synchronize the root dated index and `data/speeches.json` if the repository's ordinary dated-entry policy applies, and close release state. Do not begin Speech 10 in the same activity.

@@ -41,9 +41,10 @@ This 2007-anthology unit overlaps the existing நமது நிலை event/p
 - Gate D — **PASS / COMPLETE — 4/4 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 4/4 pages; 4 source-fidelity corrections; 0 unresolved readings**
 - Gate F — **COMPLETE / 4 of 4 English pages**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-- Gate G — **NOT STARTED / next**
+- Gate G — **PASS / COMPLETE — 4/4 pages; 11 refinements; 0 blockers; 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+- Gate H — **NOT STARTED / next**
 - release — **WORKING / NOT RELEASED**
 
 Gate C used only rendered source pixels from the user-supplied split PDF. No OCR, web copy, Official Report, நமது நிலை wording or alternate anthology supplied text.
@@ -53,8 +54,8 @@ The hard boundaries **112→113** and **116→117** are preserved. Scan 112 belo
 ## Files
 
 - transcript.md — Gate-E-verified Tamil transcript
-- translation.md — Gate-F English first-pass working translation
-- translation-review.md — Gate-F translation audit record; Gate G pending
+- translation.md — Gate-G-verified English working translation
+- translation-review.md — Gate-F/G translation audit and refinement ledger
 - metadata.json — source, parallel-witness and gate state
 - source-notes.md — source authority, locked boundaries and Gate-F translation policy
 - verification-log.md — Tamil Gates C–E audit plus Gate-F handoff
@@ -109,6 +110,16 @@ No `நமது நிலை` English, web wording, Official Report or alternat
 English status after Gate F: **TRANSLATED / NOT VERIFIED AGAINST TAMIL**.  
 `verified_against_tamil=false`.
 
+## Gate-G result
+
+**PASS / COMPLETE — 4/4 pages; 11 refinements; 0 blocking fidelity issues; 0 Tamil changes.**
+
+The final English preserves the source-page sequence **113→116**, source-bound names and labels, `‘Sunflower’`, verified **heat**, the scan-115 repetition, `Rs. 14-crore`, and `(Laughter).`. No `நமது நிலை` English or other outside witness was used.
+
+English is now **VERIFIED AGAINST TAMIL / verified_against_tamil=true**.
+
+Speech 9 is still **WORKING / NOT RELEASED** until Gate H performs the canonical bilingual merge and index/release closure.
+
 ## Exact next activity
 
-**Speech 9 Gate G English fidelity/voice review — scans 113–116 / 4 pages.** Do not begin Gate H or Speech 10 in that activity.
+**Speech 9 Gate H canonical bilingual merge / index / release closure.** Do not begin Speech 10 in that activity.

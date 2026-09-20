@@ -332,9 +332,9 @@ Reader/work entry:
 - Gate D — **PASS / COMPLETE — 4/4 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 4/4 pages; 4 source-fidelity corrections; 0 unresolved readings**
 - Gate F — **COMPLETE / 4 of 4 English pages**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-- Gate G — **NOT STARTED / next**
+- Gate G — **PASS / COMPLETE — 4/4 pages; 11 refinements; 0 blockers; 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **NOT STARTED / next**
 - release — **WORKING / NOT RELEASED**
 - hard boundaries **112→113** and **116→117** — preserved
 - scan 117 visually confirmed as `உரை : 10 / நாள் : 29.6.71` and excluded
@@ -345,6 +345,10 @@ Gate E corrected scan 115 directly from the anthology pixels to `அதன் �
 
 Gate F translated **4/4 pages** only from the final Gate-E-verified Tamil. Conservative source-bound forms include **Munnetra Kazhagam**, **‘Sunflower’**, **heat** for `ஹீட்டும்`, **Southern Structurals**, and the retained scan-115 repetition. Blocking questions: **0**. Tamil changes: **0**. No `நமது நிலை` English was imported.
 
+Gate G reviewed all **4/4 pages** against the verified Tamil and applied **11 English refinements** with **0 blocking fidelity issues / 0 Tamil changes**. Source-page order, the scan-115 repetition, names, figures, `(Laughter).`, and all conservative source-bound choices remain intact.
+
+English is now **VERIFIED AGAINST TAMIL / verified_against_tamil=true**.
+
 ## Exact next activity
 
-Perform **Speech 9 / 29.3.1971 — Gate G English fidelity/voice review**, scans **113–116 / 4 pages**. Review only the Gate-F English against the final verified Tamil; do not begin Gate H or Speech 10.
+Perform **Speech 9 / 29.3.1971 — Gate H canonical bilingual merge / index / release closure**. Do not begin Speech 10.

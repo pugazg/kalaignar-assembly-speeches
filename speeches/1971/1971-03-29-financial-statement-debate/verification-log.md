@@ -136,8 +136,24 @@ Translation authority: final Gate-E-verified Tamil in `transcript.md` only.
 
 The Gate-F working copy is in `translation.md`; detailed choices are recorded in `translation-review.md`.
 
+## Gate G — English fidelity / voice review handoff
+
+**Status: PASS / COMPLETE — 4/4 pages**
+
+- Gate-G refinements — **11**;
+- blocking fidelity issues — **0**;
+- verified-Tamil changes — **0**;
+- English source-page sequence **113→116** — PASS;
+- scan-115 source-printed repetition — retained;
+- conservative source-bound terms — PASS;
+- outside-witness English imported — **0**;
+- English — **VERIFIED AGAINST TAMIL**;
+- `verified_against_tamil=true`.
+
+The full refinement ledger is in `translation-review.md`.
+
 ## Exact next activity
 
-**Gate G English fidelity/voice review — scans 113–116 / 4 pages.**
+**Gate H canonical bilingual merge / index / release closure for Speech 9.**
 
-Review the Gate-F English line by line against the final verified Tamil only. Record every refinement explicitly. Do not begin Gate H or Speech 10 in the same activity.
+Do not begin Speech 10 in the same activity.

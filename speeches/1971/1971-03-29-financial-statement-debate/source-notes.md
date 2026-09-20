@@ -116,6 +116,14 @@ No `நமது நிலை` English or other external witness supplied transl
 English status: **TRANSLATED / NOT VERIFIED AGAINST TAMIL**.  
 `verified_against_tamil=false`.
 
+## Gate G — English fidelity and voice review
+
+**PASS / COMPLETE — 4/4 pages; 11 refinements; 0 blockers; 0 Tamil changes.**
+
+Gate G compared only the Gate-F English against the final Gate-E-verified Tamil. The source-bound choices `Munnetra Kazhagam`, `‘Sunflower’`, **heat**, **Southern Structurals**, the scan-115 repetition and `(Laughter).` all remain controlled by this anthology witness.
+
+No outside witness supplied English. English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**.
+
 ## Exact next
 
-**Speech 9 Gate G English fidelity/voice review — scans 113–116 / 4 pages.**
+**Speech 9 Gate H canonical bilingual merge / index / release closure.**

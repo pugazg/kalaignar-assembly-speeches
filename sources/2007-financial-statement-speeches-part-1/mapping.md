@@ -192,8 +192,9 @@ Speech 9 / 29.3.1971 has now completed Gate C as one intact **4-page activity / 
 - Gate D — **PASS / COMPLETE — 4/4 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 4/4 pages; 4 source-fidelity corrections; 0 unresolved readings**
 - Gate F — **COMPLETE / 4 of 4 English pages / 0 blocking questions / 0 Tamil changes**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
-- Gate G — **NOT STARTED / next**
+- Gate G — **PASS / COMPLETE — 4/4 pages / 11 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **NOT STARTED / next**
 - hard boundaries **112→113** and **116→117** — preserved
 - scan 117 — confirmed Speech 10 / `உரை : 10 / நாள் : 29.6.71`, excluded
 - `நமது நிலை` relationship — **independent parallel witness / no overwrite**
@@ -202,7 +203,10 @@ Speech 9 / 29.3.1971 has now completed Gate C as one intact **4-page activity / 
 - unresolved readings — **0**
 - Gate-F English — **4/4 pages complete / 0 blocking questions / 0 Tamil changes**
 - Gate-F outside English imported — **0**
+- Gate-G refinements — **11**
+- Gate-G blockers — **0**
+- Gate-G Tamil changes — **0**
 
 ## Exact continuation
 
-Speeches **1–8 remain RELEASED / CLOSED through Gate H**. Speech 9 Gates C–F are complete; Tamil is **VERIFIED** and Gate-F English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL**. Speech 9 remains **NOT RELEASED**. Exact next: **Speech 9 / 29.3.1971 — Gate G English fidelity/voice review, scans 113–116 / 4 pages**.
+Speeches **1–8 remain RELEASED / CLOSED through Gate H**. Speech 9 Gates C–G are complete; Tamil is **VERIFIED** and English is **VERIFIED AGAINST TAMIL** after **11 Gate-G refinements / 0 blockers / 0 Tamil changes**. Speech 9 remains **NOT RELEASED**. Exact next: **Speech 9 / 29.3.1971 — Gate H canonical bilingual merge / index / release closure**.
