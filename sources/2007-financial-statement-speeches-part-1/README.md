@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1–6 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 7 / 7.3.1964 Gates C–E are **COMPLETE / Tamil VERIFIED** with **19 Gate-E corrections / 0 unresolved readings**; Gate F English is next.
+Speeches 1–7 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 7 / 7.3.1964 closed with **19 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**. Speech 8 / 4.3.1966 is next.
 
 ## Whole-speech batching policy
 
@@ -270,28 +270,28 @@ Reader/work entry:
 - release — **RELEASED / CLOSED**
 - hard boundary **75→76** — preserved
 
-## Speech 7 Gate-E state
+## Speech 7 Gate-H closure
 
 Reader/work entry:
 
 [`../../speeches/1964/1964-03-07-financial-statement-debate/`](../../speeches/1964/1964-03-07-financial-statement-debate/)
 
 - source label/date — `உரை : 7 / 7.3.1964`
-- global scans — **76–89**
-- printed pages — **75–88**
-- working split local pages — **1–14**
-- Gate C — **COMPLETE / 14 of 14 pages**
-- source markers — **76→89 exactly once and in order**
-- first-pass unresolved readings — **0**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 14 of 14 pages / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / 14 of 14 pages / 19 source-fidelity corrections / 0 unresolved readings**
-- English — **NOT STARTED / Gate F next**
+- scans **76–89 / printed pp.75–88**
+- Gates C–E — **COMPLETE / Tamil VERIFIED**
+- Gate E — **19 source-fidelity corrections / 0 unresolved**
+- Gate F — **COMPLETE / 14 of 14 English pages**
+- Gate G — **PASS / COMPLETE / 16 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual `transcript.md` — complete
+- `translation.md` — retired pointer
+- root dated index / `data/speeches.json` — synchronized
 - hard boundaries **75→76** and **89→90** — preserved
-- scan 90 / Speech 8 — excluded
-- outside wording from OCR / web / Official Reports / alternate anthologies — **none**
+- release — **RELEASED / CLOSED**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- outside wording — **none**
 
 ## Exact next activity
 
-Perform **Speech 7 / 7.3.1964 — Gate F English first-pass translation**, scans **76–89 / 14 pages**, using only the final Gate-E-verified Tamil. Do not begin Gate G or Speech 8 in the same iteration.
+Begin **Speech 8 / 4.3.1966 — Gate C Tamil first-pass transcription**, scans **90–112 / 23 pages**.
