@@ -72,11 +72,20 @@
     "total_page_count": 23,
     "source_page_markers_checked_first_pass": true,
     "unresolved_readings": 0,
-    "completeness_audit_passed": false,
+    "completeness_audit_passed": true,
     "verified_against_scan": false,
     "historical_glyph_gate_status": "provisionally-n-a-modern-2007-typesetting",
-    "next_gate": "D",
-    "note": "Gate C is complete for all 23 source pages. The first pass was transcribed directly from rendered pixels across the two user-supplied 25-page splits, with no OCR, web copy, Official Report or alternate anthology used to supply wording. Tamil remains transcribed/not verified until Gate D and Gate E."
+    "next_gate": "E",
+    "note": "Gate C is complete for all 23 source pages. Gate D audited all 23 pages directly against rendered source pixels and found 0 completeness corrections. Tamil remains transcribed/not verified; Gate E strict page-by-page source-fidelity verification is next.",
+    "gate_d_status": "pass-complete",
+    "gate_d_checked_scan_pages": "90-112",
+    "gate_d_page_count": 23,
+    "gate_d_completeness_corrections": 0,
+    "gate_d_marker_check": "90-112 exactly once and in order",
+    "gate_d_boundary_check": "scan 89 excluded as Speech 7 close; scan 90 start PASS; scan 112 close PASS; scan 113 excluded as Speech 9 start",
+    "gate_d_intervention_check": "M. Bhaktavatsalam interventions scans 91, 92 and 95 PASS; Speaker source-printed English on scan 93 PASS",
+    "gate_d_structural_check": "quotations, dates, numerals, rupee amounts, commodity prices, statistical figures, named references and paragraph order structurally complete",
+    "gate_d_transition_check": "90→91 through 111→112 PASS, including cross-split 100→101"
   },
   "translation": {
     "language": "English",
@@ -92,6 +101,6 @@
     "release_ready": false,
     "gate_h_status": "not-started",
     "indexed": false,
-    "release_note": "Speech 8 Gate C complete; Tamil not yet verified. Gate D completeness audit is next."
+    "release_note": "Speech 8 Gates C-D complete; Tamil not yet verified. Gate E strict page-by-page source-fidelity verification is next."
   }
 }
