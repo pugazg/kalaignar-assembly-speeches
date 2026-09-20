@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 7 Gate E
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 7 Gate F
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,7 +8,7 @@ Speeches **1–6 are RELEASED / CLOSED through Gate H**.
 
 Do not reopen Speeches 1–6 merely for stylistic polishing.
 
-## Speech 7 durable Gates C–D state
+## Speech 7 durable Gates C–E state
 
 Working entry:
 
@@ -39,35 +39,37 @@ Gate state:
 
 - Gate C — **COMPLETE / 14 of 14 pages**
 - Gate D — **PASS / COMPLETE / 14 of 14 pages / 0 completeness corrections**
+- Gate E — **PASS / COMPLETE / 14 of 14 pages / 19 source-fidelity corrections / 0 unresolved readings**
+- Tamil — **VERIFIED / verified_against_scan=true**
 - source markers **76→89 exactly once and in order**
-- all transitions **76→77 through 88→89 — PASS**
-- first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate C.5 — **provisionally N/A** for modern 2007 typesetting
-- Gate E — **NOT STARTED / exact next**
-- English — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED** for modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found
+- English — **NOT STARTED / Gate F exact next**
 - release — **WORKING / NOT RELEASED**
+- Speech 8 — **NOT STARTED**
 
-Gate D confirmed the M. Bhaktavatsalam intervention on scan 77, `(சிரிப்பு)` on scan 77, `(மணி அடிக்கப்பட்டது.)` on scan 88, all boundaries, quotations, dates, numerals, rupee amounts, figures, names and page order. No OCR, web copy, Official Report or alternate anthology supplied wording.
+Gate E re-read all 14 pages directly against rendered source pixels. No OCR, web copy, Official Report or alternate anthology supplied Tamil wording.
 
 ## Exact next activity
 
-Perform **Speech 7 / 7.3.1964 — Gate E strict page-by-page Tamil source-fidelity verification**, scans **76–89 / 14 pages**.
+Perform **Speech 7 / 7.3.1964 — Gate F English first-pass translation**, scans **76–89 / 14 pages**.
 
-Gate-E requirements:
+Gate-F authority is strictly the **final Gate-E-verified Tamil in `transcript.md`**. Do not use OCR, scan pixels, web research, Official Reports or alternate anthologies to supply or correct English wording.
 
-1. compare every Gate-C Tamil page directly against the rendered source pixels, scan by scan **76→89**;
-2. preserve source spelling, punctuation, numerals, quotations, names, speaker labels/interventions, parenthetical stage notes and page fragments exactly as printed;
-3. make only source-supported fidelity corrections; do not normalize, modernize or rewrite from outside knowledge;
-4. record every correction in `verification-log.md` by scan with exact before → after wording;
-5. keep source-page markers **76→89** exactly once and in order;
-6. preserve hard boundaries **75→76** and **89→90**; scan 90 remains excluded;
-7. explicitly re-check the M. Bhaktavatsalam intervention and `(சிரிப்பு)` on scan 77, the bell note on scan 88, quoted material, dates, rupee amounts and the final `வணக்கம்.`;
-8. if any legacy/reform-sensitive glyph issue is actually encountered, reopen Gate C.5 only for that page and record it; otherwise close Gate C.5 as N/A after the full visual audit;
-9. record unresolved readings rather than guessing;
-10. if all 14 pages pass with 0 unresolved readings, set Tamil status to **VERIFIED / verified_against_scan=true**;
-11. update transcript banner, `metadata.json`, speech README, source notes, verification log, anthology README, mapping, handover and this next-chat prompt;
-12. do not begin English Gate F or Speech 8 in the same iteration.
+Requirements:
 
-Expected continuation after successful Gate E: **Speech 7 Gate F English first-pass translation, scans 76–89 / 14 pages**.
+1. translate all **14/14** verified Tamil source-page sections **76→89**;
+2. preserve source-page sections **76→89** in `translation.md`, each exactly once and in order;
+3. produce a faithful reading translation that preserves the source's names, dates, numerals, rupee amounts, quotations, interventions, parenthetical stage notes, humour, analogies and rhetorical force;
+4. do not normalize or outside-correct source-bound names, historical references, political labels or claims;
+5. keep uncertain/source-bound terms conservative; transliterate rather than import an outside identification or gloss when necessary;
+6. record translation choices and any blocking questions in `translation-review.md`;
+7. create/update `translation.md`, `translation-review.md`, `metadata.json`, speech README, source notes and verification log;
+8. synchronize anthology README, mapping and handover;
+9. after Gate F, English status must be **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL** with `verified_against_tamil=false`;
+10. Gate-F blocking questions must be recorded explicitly; do not silently resolve them from outside sources;
+11. do not alter the verified Tamil during Gate F;
+12. do not begin Gate G or Speech 8 in the same iteration.
+
+Source-bound passages needing conservative handling include the `பஞ்சப்படி` / N.G.O. discussion; legislators' hostel and hospital-bed figures; the 1947 England agricultural-law discussion; the Gandhi socialism/zeros quotation; cinema/election rhetoric and Film Chamber material; the Chinnasami / Tirupati Venkatachalapathi / bull-symbol passages; the `ஆயுள் கைதி` rhetoric; Bhasmasura/Aladdin metaphors; and the Hindi / Union Public Service Commission / `சென்று வருக, வென்று வருக` closing.
+
+Expected continuation after successful Gate F: **Speech 7 Gate G full English fidelity and voice review, scans 76–89 / 14 pages**.
