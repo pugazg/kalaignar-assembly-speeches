@@ -2,7 +2,7 @@
 
 ## உரை : 9 — நாள் : 29.3.1971
 
-> **Gate E verification status:** Gates C–E are complete for source scans **113–116 / printed pp.112–115**. Gate D is **PASS / COMPLETE — 4/4 pages / 0 completeness corrections**. Gate E is **PASS / COMPLETE — 4/4 pages / 4 source-fidelity corrections / 0 unresolved readings**. Tamil is **VERIFIED** with `verified_against_scan=true`; Gate C.5 is **N/A / CLOSED** for this modern 2007 typesetting. This is an independent 2007-anthology parallel witness to the existing `நமது நிலை` event/provenance record; no wording from that earlier source layer was imported.
+> **Gate F working status:** Gates C–E are complete for source scans **113–116 / printed pp.112–115**; Tamil is **VERIFIED** with `verified_against_scan=true`. Gate F English first-pass translation is **COMPLETE — 4/4 pages** in `translation.md`, with **0 blocking translation questions / 0 Tamil changes**. English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL** with `verified_against_tamil=false`; Gate G fidelity/voice review is next. This remains an independent 2007-anthology parallel witness to the existing `நமது நிலை` event/provenance record; no wording or English was imported from that earlier source layer.
 
 ---
 

@@ -6,7 +6,7 @@ Controlling anthology:
 
 TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf
 
-Gate-C / Gate-D / Gate-E working split:
+Gate-C / Gate-D / Gate-E / Gate-F working split:
 
 TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_005_pages_101-125.pdf
 
@@ -16,7 +16,7 @@ TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_க�
 - local pages **13–16** = global scans **113–116**
 - local page **17** = global scan **117 / Speech 10 start**
 
-Rendered scan pixels are authoritative. No OCR, web copy, Official Report, `நமது நிலை` or alternate anthology was used to supply Gate-C wording, Gate-D completeness decisions, or Gate-E source-fidelity corrections.
+Rendered scan pixels are authoritative for Tamil. No OCR, web copy, Official Report, `நமது நிலை` or alternate anthology was used to supply Gate-C wording, Gate-D completeness decisions, Gate-E source-fidelity corrections, or Gate-F English. Gate F used only the final Gate-E-verified Tamil.
 
 ## Locked boundary
 
@@ -94,6 +94,28 @@ The scan-115 repeated sentence pair is source-printed and retained. Scan-116 `�
 
 Tamil status: **VERIFIED / verified_against_scan=true**.
 
+## Gate F — English first-pass translation
+
+**COMPLETE — 4/4 pages; 0 blocking questions; 0 Tamil changes.**
+
+Authority: the final Gate-E-verified Tamil in `transcript.md` only.
+
+Coverage: source pages **113–116**, exactly once and in order.
+
+Conservative choices:
+
+- `முன்னேற்றக் கழகம்` — rendered **Munnetra Kazhagam** without expanding the label from another witness;
+- `‘சன்பிளவர்’` — rendered **‘Sunflower’**;
+- verified `ஹீட்டும்` — rendered **heat** without adding a medical explanation;
+- `சதர்ன் ஸ்ட்ரக்சரல்ஸ்` — rendered **Southern Structurals** from the Tamil form;
+- scan-115 repeated two-sentence sequence — retained in English;
+- `(சிரிப்பு).` — rendered **(Laughter).**.
+
+No `நமது நிலை` English or other external witness supplied translation wording.
+
+English status: **TRANSLATED / NOT VERIFIED AGAINST TAMIL**.  
+`verified_against_tamil=false`.
+
 ## Exact next
 
-**Speech 9 Gate F English translation — scans 113–116 / 4 pages.**
+**Speech 9 Gate G English fidelity/voice review — scans 113–116 / 4 pages.**

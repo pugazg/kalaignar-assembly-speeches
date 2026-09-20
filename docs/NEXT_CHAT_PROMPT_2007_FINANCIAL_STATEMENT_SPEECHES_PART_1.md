@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 9 Gate F
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 9 Gate G
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -14,49 +14,61 @@ Current state:
 
 - source label — `உரை : 9`
 - scans **113–116 / printed pp.112–115**
-- Gate C — **COMPLETE / 4 of 4**
-- Gate D — **PASS / COMPLETE / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / 4 source-fidelity corrections / 0 unresolved**
+- Gates C–E — **COMPLETE**
 - Tamil — **VERIFIED / verified_against_scan=true**
 - Gate C.5 — **N/A / CLOSED**
-- English — **NOT STARTED**
-- Gate F — **NOT STARTED / exact next**
+- Gate F — **COMPLETE / 4 of 4 English pages**
+- Gate-F blocking translation questions — **0**
+- Gate-F Tamil changes — **0**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- Gate G — **NOT STARTED / exact next**
 - release — **NOT RELEASED**
 - hard boundaries **112→113** and **116→117** — preserved
 
-## Gate-E correction ledger
+## Gate-F working files
 
-1. scan **114 / printed 113** — `புறக்கணிப்பட்டுக்கூடாது` → **`புறக்கணிப்படக்கூடாது`**
-2. scan **114 / printed 113** — `பார்த்துக் கொள்வதற்கும்;` → **`பார்த்து கொள்வதற்கும்,`**
-3. scan **115 / printed 114** — `சூரியகாந்திப் பூ பயிரிடப்படுவதில்லை` → **`சூரியகாந்திப் பூ பயிரிடப்போவதில்லை`**
-4. scan **115 / printed 114** — `அதன் மூலமாக எல்லாவிதமான வீட்டும் குறையும்.` → **`அதன் மூலமாக எல்லாவிதமான ஹீட்டும் குறையும்.`**
+- verified Tamil — `transcript.md`
+- Gate-F English — `translation.md`
+- Gate-F audit / choices — `translation-review.md`
 
-The scan-115 repeated two-sentence sequence is printed twice in the source and remains retained. Scan-116 `அவைகளை யெல்லாம்` is confirmed exactly as printed.
+Gate F translated only from this anthology's final Gate-E-verified Tamil. No `நமது நிலை` English or other outside witness supplied wording.
+
+## Conservative Gate-F choices to re-check at Gate G
+
+- `முன்னேற்றக் கழகம்` → **Munnetra Kazhagam**, without expansion from another witness;
+- `‘சன்பிளவர்’` → **‘Sunflower’**;
+- `நல்ல எண்ணெய்` → **gingelly oil**;
+- verified `ஹீட்டும்` → **heat**, with no added medical gloss;
+- `சதர்ன் ஸ்ட்ரக்சரல்ஸ்` → **Southern Structurals**;
+- scan-115 repeated two-sentence sequence — retained twice because the verified Tamil preserves the source-printed repetition;
+- `(சிரிப்பு).` → **(Laughter).**
 
 ## Parallel-witness rule
 
 Speech 9 overlaps the existing `நமது நிலை` event/provenance record. The 2007 anthology remains an **independent source witness**.
 
-- do **not** overwrite released `நமது நிலை` Tamil or English;
-- do **not** normalize or translate this anthology through the earlier witness;
-- do **not** import wording from `நமது நிலை`, Official Reports, OCR, web copies or alternate anthologies;
-- the final Gate-E-verified Tamil in this Speech 9 working entry is the sole textual basis for Gate F English.
+- do **not** overwrite or use released `நமது நிலை` Tamil or English;
+- do **not** normalize this anthology through the earlier witness;
+- do **not** import wording from Official Reports, OCR, web copies or alternate anthologies;
+- Gate G must compare only the Gate-F English with the final Gate-E-verified Tamil in this working entry.
 
 ## Exact next activity
 
-Perform **Speech 9 Gate F English translation**, scans **113–116 / 4 pages**.
+Perform **Speech 9 Gate G full English fidelity and voice review**, scans **113–116 / 4 pages**.
 
 Requirements:
 
-1. translate all **4/4** pages from the final Gate-E-verified Tamil only;
-2. preserve the speech's structure, source-page boundaries, speaker label, quotations, numerals, named references and the `(சிரிப்பு).` reaction;
-3. translate faithfully for meaning and parliamentary voice without adding explanatory facts not present in the Tamil;
-4. preserve the source-printed repetition on scan 115 rather than silently deleting it;
-5. render `‘சன்பிளவர்’` and the verified `ஹீட்டும்` phrase conservatively from context; do not consult another witness to rewrite them;
-6. keep the anthology as an independent parallel witness; no `நமது நிலை` English may be copied or used to fill wording;
-7. create/update the English working translation and Gate-F state using the repository's established anthology workflow;
-8. synchronize README, metadata, source notes, verification/translation records, anthology README, mapping, handover and this continuation prompt;
-9. after Gate F, English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL** until Gate G;
-10. do **not** begin Gate G or Speech 10 in the same iteration.
+1. review every English sentence in `translation.md` line by line against the final verified Tamil in `transcript.md`;
+2. preserve source-page sequence **113→116**, speaker label, names, figures, quotations and the `(Laughter).` reaction;
+3. preserve the scan-115 source-printed repetition rather than editing it away for style;
+4. re-check the conservative source-bound choices listed above without consulting another witness;
+5. improve English only where fidelity, clarity, idiom or parliamentary voice requires it; do not add historical or political facts absent from the Tamil;
+6. record **every Gate-G refinement** explicitly in `translation-review.md`, with scan number and before → after wording;
+7. record blocking fidelity issues explicitly; if any remain, do not mark English verified;
+8. verified Tamil changes should be **0**; if a genuine Tamil-source issue is discovered, stop and record it rather than silently changing the verified Tamil;
+9. if all 4 pages pass with 0 blockers, mark English **VERIFIED AGAINST TAMIL / verified_against_tamil=true** and Gate G **PASS / COMPLETE**;
+10. synchronize working README, metadata, source notes, verification/translation records, anthology README, mapping, handover, root README and this continuation prompt;
+11. do **not** begin Gate H canonical merge/release or Speech 10 in the same iteration.
 
-Expected continuation after successful Gate F: **Speech 9 Gate G English fidelity/voice review, scans 113–116 / 4 pages**.
+Expected continuation after successful Gate G: **Speech 9 Gate H canonical bilingual merge / index / release closure**.

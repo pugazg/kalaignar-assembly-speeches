@@ -316,7 +316,7 @@ Reader/work entry:
 - outside wording — **none**
 
 
-## Speech 9 Gate-C working state
+## Speech 9 Gate-F working state
 
 Reader/work entry:
 
@@ -331,7 +331,10 @@ Reader/work entry:
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no legacy-glyph anomaly found**
 - Gate D — **PASS / COMPLETE — 4/4 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 4/4 pages; 4 source-fidelity corrections; 0 unresolved readings**
-- English — **NOT STARTED / Gate F next**
+- Gate F — **COMPLETE / 4 of 4 English pages**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- Gate G — **NOT STARTED / next**
 - release — **WORKING / NOT RELEASED**
 - hard boundaries **112→113** and **116→117** — preserved
 - scan 117 visually confirmed as `உரை : 10 / நாள் : 29.6.71` and excluded
@@ -340,6 +343,8 @@ Reader/work entry:
 
 Gate E corrected scan 115 directly from the anthology pixels to `அதன் மூலமாக எல்லாவிதமான ஹீட்டும் குறையும்.`; scan 116 `அவைகளை யெல்லாம்` was confirmed exactly as printed. The source-printed repeated two-sentence sequence on scan 115 remains retained. No cross-witness normalisation was used.
 
+Gate F translated **4/4 pages** only from the final Gate-E-verified Tamil. Conservative source-bound forms include **Munnetra Kazhagam**, **‘Sunflower’**, **heat** for `ஹீட்டும்`, **Southern Structurals**, and the retained scan-115 repetition. Blocking questions: **0**. Tamil changes: **0**. No `நமது நிலை` English was imported.
+
 ## Exact next activity
 
-Perform **Speech 9 / 29.3.1971 — Gate F English translation**, scans **113–116 / 4 pages**, using only the final Gate-E-verified Tamil from this 2007 anthology witness. Do not import wording from `நமது நிலை` or begin Speech 10.
+Perform **Speech 9 / 29.3.1971 — Gate G English fidelity/voice review**, scans **113–116 / 4 pages**. Review only the Gate-F English against the final verified Tamil; do not begin Gate H or Speech 10.

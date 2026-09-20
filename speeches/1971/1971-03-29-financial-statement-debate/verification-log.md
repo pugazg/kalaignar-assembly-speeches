@@ -120,8 +120,24 @@ Gate C.5: **N/A / CLOSED**.
 Tamil status: **VERIFIED**.  
 `verified_against_scan=true`.
 
+## Gate F — English first-pass translation handoff
+
+**Status: COMPLETE — 4/4 pages**
+
+Translation authority: final Gate-E-verified Tamil in `transcript.md` only.
+
+- English source-page sequence **113→116** — complete and ordered;
+- blocking translation questions — **0**;
+- verified-Tamil changes — **0**;
+- source-printed repetition on scan 115 — retained;
+- `‘Sunflower’`, `100க்கு 90` / 90 out of 100, `heat`, `Rs. 14-crore`, names and `(Laughter).` — carried into the working translation;
+- English imported from `நமது நிலை` or another witness — **0**;
+- `verified_against_tamil=false`.
+
+The Gate-F working copy is in `translation.md`; detailed choices are recorded in `translation-review.md`.
+
 ## Exact next activity
 
-**Gate F English translation — scans 113–116 / 4 pages.**
+**Gate G English fidelity/voice review — scans 113–116 / 4 pages.**
 
-Translate only from the final Gate-E-verified Tamil controlled by this 2007 anthology witness. Do not import English wording from `நமது நிலை` or any other source, and do not begin Speech 10 in the same activity.
+Review the Gate-F English line by line against the final verified Tamil only. Record every refinement explicitly. Do not begin Gate H or Speech 10 in the same activity.

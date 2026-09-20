@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 8 / 4.3.1966 = **RELEASED / CLOSED through Gate H** with verified Tamil and English. Speech 8 closed with **43 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**; Gate D retains the retrospective **1 completeness correction** amendment. Active working unit: Speech 9 / 29.3.1971 Gates C–E are **COMPLETE / 4 of 4 pages**; Gate D is **PASS / COMPLETE / 0 completeness corrections** and Gate E is **PASS / COMPLETE / 4 source-fidelity corrections / 0 unresolved**. Tamil is **VERIFIED**, `verified_against_scan=true`, as an independent parallel witness. Gate C.5 is **N/A / CLOSED**. Exact next: Speech 9 Gate F English translation, scans 113–116 / 4 pages.
+Latest released unit: Speech 8 / 4.3.1966 = **RELEASED / CLOSED through Gate H** with verified Tamil and English. Speech 8 closed with **43 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**; Gate D retains the retrospective **1 completeness correction** amendment. Active working unit: Speech 9 / 29.3.1971 Gates C–F are **COMPLETE / 4 of 4 pages**. Tamil is **VERIFIED / verified_against_scan=true**. Gate F English is **COMPLETE / 4 of 4 pages / 0 blocking questions / 0 Tamil changes**, but English remains **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**. Exact next: Speech 9 Gate G English fidelity/voice review, scans 113–116 / 4 pages.
 
 ## Existing-source overlaps
 
@@ -96,7 +96,7 @@ Treat this 2007 anthology as its own witness.
 - Gate C.5 — **N/A / CLOSED for Speeches 1–9 — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found in Speech 9**
 - Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction; Speech 9 PASS / COMPLETE / 0 completeness corrections**
 - Gate E — **Speeches 1–9 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20 / 19 / 43 / 4; unresolved 0**
-- Gate F — **Speeches 1–8 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23; Speech 9 NOT STARTED / next**
+- Gate F — **Speeches 1–9 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23 / 4; Speech 9 has 0 blocking questions / 0 Tamil changes**
 - Gate G — **Speeches 1–8 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16; 0 blockers; English VERIFIED**
 - Gate H — **Speeches 1–8 PASS / COMPLETE — RELEASED / CLOSED**
 
@@ -434,7 +434,9 @@ Working entry:
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE — 4/4 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 4/4 pages; 4 source-fidelity corrections; 0 unresolved readings**
-- English — **NOT STARTED / Gate F next**
+- Gate F — **COMPLETE / 4 of 4 English pages**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- Gate G — **NOT STARTED / next**
 - release — **NOT RELEASED**
 - hard boundaries **112→113** and **116→117** — preserved
 - scan 117 visually confirmed as `உரை : 10 / நாள் : 29.6.71` and excluded
@@ -476,8 +478,24 @@ Gate-E correction summary:
 3. `பயிரிடப்படுவதில்லை` → `பயிரிடப்போவதில்லை`
 4. `வீட்டும்` → `ஹீட்டும்`
 
+## Speech 9 Gate-F result
+
+- Gate F — **COMPLETE / 4/4 English pages**
+- translation authority — final Gate-E-verified Tamil only
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- source-page sequence **113→116** — preserved
+- scan-115 source-printed repetition — retained in English
+- `‘சன்பிளவர்’` — **‘Sunflower’**
+- verified `ஹீட்டும்` — **heat**, without outside medical gloss
+- `முன்னேற்றக் கழகம்` — **Munnetra Kazhagam**, not expanded through another witness
+- `சதர்ன் ஸ்ட்ரக்சரல்ஸ்` — **Southern Structurals**
+- outside / `நமது நிலை` English imported — **0**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+
 ## Exact next activity
 
-Perform **Speech 9 / 29.3.1971 — Gate F English translation**, scans **113–116 / 4 pages**.
+Perform **Speech 9 / 29.3.1971 — Gate G English fidelity/voice review**, scans **113–116 / 4 pages**.
 
-Translate only from the final Gate-E-verified Tamil controlled by this 2007 anthology witness. Do not import wording or translation choices from `நமது நிலை`; do not begin Gate G or Speech 10 in the same activity.
+Review only `translation.md` against the final Gate-E-verified Tamil in `transcript.md`, record every refinement explicitly in `translation-review.md`, and do not begin Gate H or Speech 10.

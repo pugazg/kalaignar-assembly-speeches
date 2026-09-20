@@ -40,7 +40,10 @@ This 2007-anthology unit overlaps the existing நமது நிலை event/p
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no legacy-glyph anomaly found**
 - Gate D — **PASS / COMPLETE — 4/4 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 4/4 pages; 4 source-fidelity corrections; 0 unresolved readings**
-- English — **NOT STARTED / Gate F next**
+- Gate F — **COMPLETE / 4 of 4 English pages**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- Gate G — **NOT STARTED / next**
 - release — **WORKING / NOT RELEASED**
 
 Gate C used only rendered source pixels from the user-supplied split PDF. No OCR, web copy, Official Report, நமது நிலை wording or alternate anthology supplied text.
@@ -50,9 +53,11 @@ The hard boundaries **112→113** and **116→117** are preserved. Scan 112 belo
 ## Files
 
 - transcript.md — Gate-E-verified Tamil transcript
+- translation.md — Gate-F English first-pass working translation
+- translation-review.md — Gate-F translation audit record; Gate G pending
 - metadata.json — source, parallel-witness and gate state
-- source-notes.md — source authority, locked boundaries and Gate-D result
-- verification-log.md — Gate-C coverage plus Gate-D completeness audit trail
+- source-notes.md — source authority, locked boundaries and Gate-F translation policy
+- verification-log.md — Tamil Gates C–E audit plus Gate-F handoff
 
 ## Gate-D result
 
@@ -85,6 +90,25 @@ The scan-115 repeated two-sentence sequence is printed twice in the source and r
 
 Tamil is now **VERIFIED / verified_against_scan=true**. Gate C.5 is **N/A / CLOSED**.
 
+## Gate-F result
+
+**COMPLETE — 4/4 English pages; 0 blocking translation questions; 0 Tamil changes.**
+
+Gate F translated only from the final Gate-E-verified Tamil in this anthology witness. The English working copy preserves source-page boundaries **113→116**, the speaker label, names, numerals, the quoted `‘Sunflower’`, the source-printed repeated two-sentence sequence on scan 115, the verified `ஹீட்டும்` as **heat** without adding a medical gloss, and the printed `(Laughter).` reaction.
+
+Conservative source-bound choices:
+
+- `முன்னேற்றக் கழகம்` → **Munnetra Kazhagam**, without expanding the source label;
+- `‘சன்பிளவர்’` → **‘Sunflower’**;
+- `ஹீட்டும்` → **heat**, without outside interpretation;
+- `சதர்ன் ஸ்ட்ரக்சரல்ஸ்` → **Southern Structurals**, from the verified Tamil form;
+- scan-115 repetition — retained exactly as a repeated thought rather than silently edited away.
+
+No `நமது நிலை` English, web wording, Official Report or alternate witness was consulted or imported.
+
+English status after Gate F: **TRANSLATED / NOT VERIFIED AGAINST TAMIL**.  
+`verified_against_tamil=false`.
+
 ## Exact next activity
 
-**Speech 9 Gate F English translation — scans 113–116 / 4 pages.** Do not begin Speech 10 in that activity.
+**Speech 9 Gate G English fidelity/voice review — scans 113–116 / 4 pages.** Do not begin Gate H or Speech 10 in that activity.
