@@ -54,6 +54,19 @@ Gate D completeness audit is **PASS / COMPLETE — 14/14 pages / 0 completeness 
 
 The source is modern 2007 typesetting. The complete Gate-E visual audit found no historical/reform-sensitive glyph anomaly. Gate C.5 is **N/A / CLOSED**.
 
+## Gates F–H English / release state
+
+- Gate F — **COMPLETE / 14 of 14 pages**
+- Gate G — **PASS / COMPLETE / 16 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual transcript — complete
+- `translation.md` — retired pointer
+- release — **RELEASED / CLOSED**
+- Gate-H wording changes — **0 Tamil / 0 English**
+
+No OCR, scan pixels, web research, Official Reports or alternate anthologies supplied English wording.
+
 ## Exact next
 
-**Gate F English first-pass translation — scans 76–89 / 14 pages — from the final Gate-E-verified Tamil only.**
+**Speech 8 / 4.3.1966 — Gate C Tamil first-pass transcription, scans 90–112 / 23 pages.**
