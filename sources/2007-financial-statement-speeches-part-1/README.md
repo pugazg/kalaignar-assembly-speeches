@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1–6 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 7 / 7.3.1964 Gates C–D are **COMPLETE / 14 of 14 pages / 0 completeness corrections**; Tamil remains **TRANSCRIBED / NOT VERIFIED** and Gate E is next.
+Speeches 1–6 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 7 / 7.3.1964 Gates C–E are **COMPLETE / Tamil VERIFIED** with **19 Gate-E corrections / 0 unresolved readings**; Gate F English is next.
 
 ## Whole-speech batching policy
 
@@ -270,7 +270,7 @@ Reader/work entry:
 - release — **RELEASED / CLOSED**
 - hard boundary **75→76** — preserved
 
-## Speech 7 Gate-C state
+## Speech 7 Gate-E state
 
 Reader/work entry:
 
@@ -283,14 +283,15 @@ Reader/work entry:
 - Gate C — **COMPLETE / 14 of 14 pages**
 - source markers — **76→89 exactly once and in order**
 - first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate C.5 — **provisionally N/A**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 14 of 14 pages / 0 completeness corrections**
+- Gate E — **PASS / COMPLETE / 14 of 14 pages / 19 source-fidelity corrections / 0 unresolved readings**
+- English — **NOT STARTED / Gate F next**
 - hard boundaries **75→76** and **89→90** — preserved
 - scan 90 / Speech 8 — excluded
 - outside wording from OCR / web / Official Reports / alternate anthologies — **none**
 
 ## Exact next activity
 
-Perform **Speech 7 / 7.3.1964 — Gate E strict page-by-page Tamil source-fidelity verification**, scans **76–89 / 14 pages**. Do not begin English translation or Speech 8 in the same iteration.
+Perform **Speech 7 / 7.3.1964 — Gate F English first-pass translation**, scans **76–89 / 14 pages**, using only the final Gate-E-verified Tamil. Do not begin Gate G or Speech 8 in the same iteration.
