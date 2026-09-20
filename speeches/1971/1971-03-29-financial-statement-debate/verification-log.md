@@ -84,8 +84,44 @@ Gate D is a completeness/structure audit only. It does **not** claim strict word
 Tamil status remains **TRANSCRIBED / NOT VERIFIED**.  
 `verified_against_scan=false`.
 
+## Gate E — strict Tamil source-fidelity verification
+
+**Status: PASS / COMPLETE — 4/4 pages**
+
+All scans **113–116** were re-read directly against rendered pixels from the controlling 2007 anthology split. Gate E applied **4 source-fidelity corrections**. Unresolved readings: **0**.
+
+### Correction ledger
+
+1. **scan 114 / printed 113** — `புறக்கணிப்பட்டுக்கூடாது` → **`புறக்கணிப்படக்கூடாது`**.
+2. **scan 114 / printed 113** — `பார்த்துக் கொள்வதற்கும்;` → **`பார்த்து கொள்வதற்கும்,`**.
+3. **scan 115 / printed 114** — `சூரியகாந்திப் பூ பயிரிடப்படுவதில்லை` → **`சூரியகாந்திப் பூ பயிரிடப்போவதில்லை`**.
+4. **scan 115 / printed 114** — `அதன் மூலமாக எல்லாவிதமான வீட்டும் குறையும்.` → **`அதன் மூலமாக எல்லாவிதமான ஹீட்டும் குறையும்.`**.
+
+### Gate-E closure checks
+
+- source-page markers **113→116** — exactly once and in order;
+- hard boundaries **112→113** and **116→117** — PASS;
+- scan-113 heading/date and speaker label — PASS;
+- transitions **113→114 / 114→115 / 115→116** — PASS;
+- scan-115 source-printed repeated two-sentence sequence — confirmed and retained;
+- `‘சன்பிளவர்’`, `100க்கு 90`, `(சிரிப்பு).`, `14 கோடி` — PASS;
+- scan-116 `அவைகளை யெல்லாம்` — confirmed exactly as printed;
+- final `கேட்டுக் கொண்டு அமர்கிறேன்.` — PASS;
+- source-printed English — none;
+- outside wording from OCR / web / Official Report / `நமது நிலை` / alternate anthology — **none**;
+- unresolved readings — **0**.
+
+### Historical-glyph gate
+
+The full visual audit found no historical/reform-sensitive glyph anomaly in this modern 2007 typesetting.
+
+Gate C.5: **N/A / CLOSED**.
+
+Tamil status: **VERIFIED**.  
+`verified_against_scan=true`.
+
 ## Exact next activity
 
-**Gate E strict Tamil source-fidelity verification — scans 113–116 / 4 pages.**
+**Gate F English translation — scans 113–116 / 4 pages.**
 
-Gate E must re-read every word, punctuation mark, numeral, quotation and source-visible form directly against the rendered 2007 anthology pixels, recording each correction explicitly. Do not use `நமது நிலை` or any outside witness to normalize the text. Do not begin English translation or Speech 10 in the same activity.
+Translate only from the final Gate-E-verified Tamil controlled by this 2007 anthology witness. Do not import English wording from `நமது நிலை` or any other source, and do not begin Speech 10 in the same activity.

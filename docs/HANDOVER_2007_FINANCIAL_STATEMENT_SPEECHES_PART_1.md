@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 8 / 4.3.1966 = **RELEASED / CLOSED through Gate H** with verified Tamil and English. Speech 8 closed with **43 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**; Gate D retains the retrospective **1 completeness correction** amendment. Active working unit: Speech 9 / 29.3.1971 Gates C + D are **COMPLETE / 4 of 4 pages**; Gate D is **PASS / COMPLETE / 0 completeness corrections**. Tamil remains **TRANSCRIBED / NOT VERIFIED**, `verified_against_scan=false`, as an independent parallel witness. Exact next: Speech 9 Gate E strict Tamil source-fidelity verification, scans 113–116 / 4 pages.
+Latest released unit: Speech 8 / 4.3.1966 = **RELEASED / CLOSED through Gate H** with verified Tamil and English. Speech 8 closed with **43 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**; Gate D retains the retrospective **1 completeness correction** amendment. Active working unit: Speech 9 / 29.3.1971 Gates C–E are **COMPLETE / 4 of 4 pages**; Gate D is **PASS / COMPLETE / 0 completeness corrections** and Gate E is **PASS / COMPLETE / 4 source-fidelity corrections / 0 unresolved**. Tamil is **VERIFIED**, `verified_against_scan=true`, as an independent parallel witness. Gate C.5 is **N/A / CLOSED**. Exact next: Speech 9 Gate F English translation, scans 113–116 / 4 pages.
 
 ## Existing-source overlaps
 
@@ -93,10 +93,10 @@ Treat this 2007 anthology as its own witness.
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speeches 1–8 CLOSED; Speech 9 COMPLETE / 4 of 4; speeches 10–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–8; Speech 9 provisionally N/A — modern 2007 typesetting, no page-specific legacy-glyph evidence observed at Gate C**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–9 — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found in Speech 9**
 - Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction; Speech 9 PASS / COMPLETE / 0 completeness corrections**
-- Gate E — **Speeches 1–8 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20 / 19 / 43; unresolved 0**
-- Gate F — **Speeches 1–8 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23**
+- Gate E — **Speeches 1–9 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20 / 19 / 43 / 4; unresolved 0**
+- Gate F — **Speeches 1–8 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23; Speech 9 NOT STARTED / next**
 - Gate G — **Speeches 1–8 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16; 0 blockers; English VERIFIED**
 - Gate H — **Speeches 1–8 PASS / COMPLETE — RELEASED / CLOSED**
 
@@ -416,7 +416,7 @@ Canonical entry:
 - boundaries **89→90** and **112→113** — preserved
 
 
-## Speech 9 durable Gate-C state
+## Speech 9 durable Gate-E state
 
 Working entry:
 
@@ -430,19 +430,18 @@ Working entry:
 - Gate C — **COMPLETE / 4 of 4 pages**
 - source markers **113→116** — exactly once and in order
 - first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate C.5 — **provisionally N/A** for modern 2007 typesetting
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE — 4/4 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
-- English — **NOT STARTED**
+- Gate E — **PASS / COMPLETE — 4/4 pages; 4 source-fidelity corrections; 0 unresolved readings**
+- English — **NOT STARTED / Gate F next**
 - release — **NOT RELEASED**
 - hard boundaries **112→113** and **116→117** — preserved
 - scan 117 visually confirmed as `உரை : 10 / நாள் : 29.6.71` and excluded
 - parallel-witness rule — the 2007 anthology is independent of `நமது நிலை`; no earlier-source wording was copied, merged, normalised or used to repair this first pass
 - no OCR, web, Official Report or alternate anthology supplied wording
 
-Gate C retained the source's own visible forms, including the semantically unusual scan-115 phrase `அதன் மூலமாக எல்லாவிதமான வீட்டும் குறையும்.` and scan-116 spacing `அவைகளை யெல்லாம்`, without cross-witness correction.
+Gate C retained first-pass source readings for later same-scan verification. Gate E corrected scan 115 to `அதன் மூலமாக எல்லாவிதமான ஹீட்டும் குறையும்.` directly from the anthology pixels; scan 116 `அவைகளை யெல்லாம்` was confirmed exactly as printed. No cross-witness correction was used.
 
 ## Speech 9 Gate-D result
 
@@ -453,11 +452,32 @@ Gate C retained the source's own visible forms, including the semantically unusu
 - hard boundaries **112→113 / 116→117** — PASS
 - scan-115 source-printed repetition — retained, not treated as a transcription duplication
 - Tamil wording changes at Gate D — **0**
-- Tamil state — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Tamil state at Gate D — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - parallel-witness / no-overwrite rule — preserved
+
+## Speech 9 Gate-E result
+
+- Gate E — **PASS / COMPLETE — 4/4 pages**
+- source-fidelity corrections — **4**
+- scan 114 — **2 corrections**
+- scan 115 — **2 corrections**
+- unresolved readings — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED**
+- scan-115 source-printed repetition — confirmed and retained
+- scan-116 `அவைகளை யெல்லாம்` — confirmed exactly as printed
+- outside-witness wording imported — **0**
+- parallel-witness / no-overwrite rule — preserved
+
+Gate-E correction summary:
+
+1. `புறக்கணிப்பட்டுக்கூடாது` → `புறக்கணிப்படக்கூடாது`
+2. `பார்த்துக் கொள்வதற்கும்;` → `பார்த்து கொள்வதற்கும்,`
+3. `பயிரிடப்படுவதில்லை` → `பயிரிடப்போவதில்லை`
+4. `வீட்டும்` → `ஹீட்டும்`
 
 ## Exact next activity
 
-Perform **Speech 9 / 29.3.1971 — Gate E strict Tamil source-fidelity verification**, scans **113–116 / 4 pages**.
+Perform **Speech 9 / 29.3.1971 — Gate F English translation**, scans **113–116 / 4 pages**.
 
-Keep the 2007 anthology as an independent **parallel witness** to `நமது நிலை`. Re-read every source-visible word and punctuation mark only against the controlling 2007 pixels; do not begin English translation or Speech 10.
+Translate only from the final Gate-E-verified Tamil controlled by this 2007 anthology witness. Do not import wording or translation choices from `நமது நிலை`; do not begin Gate G or Speech 10 in the same activity.

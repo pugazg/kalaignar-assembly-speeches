@@ -6,7 +6,7 @@ Controlling anthology:
 
 TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf
 
-Gate-C / Gate-D working split:
+Gate-C / Gate-D / Gate-E working split:
 
 TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_005_pages_101-125.pdf
 
@@ -16,7 +16,7 @@ TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_க�
 - local pages **13–16** = global scans **113–116**
 - local page **17** = global scan **117 / Speech 10 start**
 
-Rendered scan pixels are authoritative. No OCR, web copy, Official Report, `நமது நிலை` or alternate anthology was used to supply Gate-C wording or Gate-D completeness decisions.
+Rendered scan pixels are authoritative. No OCR, web copy, Official Report, `நமது நிலை` or alternate anthology was used to supply Gate-C wording, Gate-D completeness decisions, or Gate-E source-fidelity corrections.
 
 ## Locked boundary
 
@@ -50,16 +50,16 @@ The existing நமது நிலை Tamil/English was not changed, consulted 
 
 First-pass unresolved readings: **0**.
 
-Two source-visible forms were deliberately retained without semantic normalization at Gate C:
+Two first-pass forms were flagged for same-scan re-check at Gate E:
 
-- scan 115 — அதின் context reads **அதன் மூலமாக எல்லாவிதமான வீட்டும் குறையும்.**
-- scan 116 — source spacing **அவைகளை யெல்லாம்**
+- scan 115 — first pass `அதன் மூலமாக எல்லாவிதமான வீட்டும் குறையும்.`
+- scan 116 — source spacing `அவைகளை யெல்லாம்`
 
-These are first-pass source readings, not cross-witness corrections.
+Gate E resolved scan 115 directly from the anthology pixel as **`அதன் மூலமாக எல்லாவிதமான ஹீட்டும் குறையும்.`**. Scan 116 **`அவைகளை யெல்லாம்`** was confirmed exactly as printed and retained.
 
 ## Historical-glyph gate
 
-The source is modern 2007 typesetting. No page-specific legacy/reform-sensitive glyph evidence was observed on scans 113–116. Gate C.5 is **provisionally N/A**, not yet a verification closure.
+The source is modern 2007 typesetting. The complete Gate-E visual audit found no page-specific legacy/reform-sensitive glyph anomaly on scans 113–116. Gate C.5 is **N/A / CLOSED**.
 
 ## Gate D — completeness audit
 
@@ -79,8 +79,21 @@ Checks completed directly against the same rendered 2007 anthology pixels:
 - Tamil wording changes at Gate D — **0**;
 - outside-witness wording imported — **0**.
 
-Gate D does not establish word-for-word verification. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`.
+Gate D did not establish word-for-word verification; Gate E below supersedes that working state.
+
+## Gate E — strict Tamil source-fidelity verification
+
+**PASS / COMPLETE — 4/4 pages; 4 corrections; 0 unresolved readings.**
+
+- scan 114 — `புறக்கணிப்பட்டுக்கூடாது` → **`புறக்கணிப்படக்கூடாது`**;
+- scan 114 — `பார்த்துக் கொள்வதற்கும்;` → **`பார்த்து கொள்வதற்கும்,`**;
+- scan 115 — `பயிரிடப்படுவதில்லை` → **`பயிரிடப்போவதில்லை`**;
+- scan 115 — `வீட்டும்` → **`ஹீட்டும்`** in `அதன் மூலமாக எல்லாவிதமான ஹீட்டும் குறையும்.`.
+
+The scan-115 repeated sentence pair is source-printed and retained. Scan-116 `அவைகளை யெல்லாம்` is confirmed as printed. No unresolved readings remain.
+
+Tamil status: **VERIFIED / verified_against_scan=true**.
 
 ## Exact next
 
-**Speech 9 Gate E strict Tamil source-fidelity verification — scans 113–116 / 4 pages.**
+**Speech 9 Gate F English translation — scans 113–116 / 4 pages.**

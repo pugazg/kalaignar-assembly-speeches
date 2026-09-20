@@ -56,7 +56,7 @@
     "external_witness_wording_imported": false
   },
   "transcription": {
-    "method": "manual Gate C first-pass transcription from rendered pixels of the controlling 2007 anthology split only, followed by Gate D completeness and structural audit",
+    "method": "manual Gate C first-pass transcription from rendered pixels of the controlling 2007 anthology split only, followed by Gate D completeness audit and strict Gate E page-by-page visual source-fidelity verification",
     "preserve_source_spelling": true,
     "preserve_source_punctuation": true,
     "preserve_source_numerals": true,
@@ -64,7 +64,7 @@
     "preserve_speaker_labels_and_interventions": true,
     "preserve_printed_english": true,
     "page_boundaries_marked": true,
-    "status": "transcribed",
+    "status": "verified",
     "gate_c_status": "complete",
     "completed_scan_pages": "113-116",
     "completed_printed_pages": "112-115",
@@ -73,11 +73,11 @@
     "source_page_markers_checked_first_pass": true,
     "unresolved_readings": 0,
     "completeness_audit_passed": true,
-    "verified_against_scan": false,
-    "historical_glyph_gate_status": "provisionally-n-a-modern-2007-typesetting",
-    "next_gate": "gate-e-strict-source-fidelity-verification",
+    "verified_against_scan": true,
+    "historical_glyph_gate_status": "n-a-closed-modern-2007-typesetting-no-historical-glyph-anomaly-found",
+    "next_gate": null,
     "outside_wording_imported": false,
-    "note": "Gates C and D are complete for all 4 source pages. Gate D found 0 completeness corrections: markers 113-116 are unique and ordered; boundaries 112→113 and 116→117 are preserved; the 114→115 continuation is continuous; source heading/date/speaker label, quotations, numerals, names, the source-printed repetition on scan 115, ‘சன்பிளவர்’, (சிரிப்பு)., and the scan-116 close are structurally retained. Tamil remains transcribed/not verified; Gate E and English have not started.",
+    "note": "Gates C, D and E are complete for all 4 source pages. Gate D found 0 completeness corrections. Gate E directly re-read scans 113-116 against rendered 2007 anthology pixels and applied 4 source-fidelity corrections: scan 114 ×2 and scan 115 ×2. Unresolved readings: 0. Tamil is verified. The parallel-witness/no-overwrite rule remains intact.",
     "gate_d_status": "pass-complete",
     "gate_d_checked_scan_pages": "113-116",
     "gate_d_page_count": 4,
@@ -85,18 +85,24 @@
     "gate_d_marker_check": "113-116 exactly once and in order",
     "gate_d_boundary_check": "scan 112 excluded as released Speech 8 close; scan 113 start PASS; scan 116 close PASS; scan 117 excluded as Speech 10 start",
     "gate_d_transition_check": "113→114, 114→115 and 115→116 PASS; 114→115 'தேவைப்படுகிற' → 'தொகையைப் பெற்றுக் கொள்வதுதான்' continuous",
-    "gate_d_structural_check": "heading/date/speaker label, quotations, numerals, names, punctuation structure, source-printed scan-115 repetition, ‘சன்பிளவர்’, (சிரிப்பு)., and scan-116 closing sentence retained"
+    "gate_d_structural_check": "heading/date/speaker label, quotations, numerals, names, punctuation structure, source-printed scan-115 repetition, ‘சன்பிளவர்’, (சிரிப்பு)., and scan-116 closing sentence retained",
+    "gate_e_status": "pass-complete",
+    "verified_scan_pages": "113-116",
+    "gate_e_page_count": 4,
+    "gate_e_correction_count": 4,
+    "gate_e_unresolved_readings": 0
   },
   "translation": {
     "language": "English",
     "status": "not-started",
-    "verified_against_tamil": false
+    "verified_against_tamil": false,
+    "next_gate": "gate-f-english-translation"
   },
   "release": {
     "status": "working",
     "released": false,
     "release_ready": false,
     "indexed": false,
-    "index_note": "Gate D working entry only; do not add to released dated indexes until later gates close."
+    "index_note": "Gate E verified Tamil working entry only; English and Gate H release are not complete, so do not add to released dated indexes."
   }
 }

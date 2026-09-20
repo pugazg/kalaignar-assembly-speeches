@@ -124,8 +124,8 @@ Speech 9 / 29.3.1971 has now completed Gate C as one intact **4-page activity / 
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speeches 1–8 CLOSED; Speech 9 COMPLETE / 4 of 4; speeches 10–19 not started**
 - Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction after Gate E restored an omitted scan-90 phrase; Speech 9 PASS / COMPLETE / 0 completeness corrections**
-- Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43 corrections; all 1–8 Tamil VERIFIED / 0 unresolved**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–8; Speech 9 provisionally N/A — modern 2007 typesetting, with no page-specific legacy-glyph evidence observed at Gate C**
+- Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43; Speech 9 / 4 corrections; all 1–9 Tamil VERIFIED / 0 unresolved**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–9 — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found in Speech 9**
 - Gate F — **Speeches 1–8 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23**
 - Gate G — **Speeches 1–8 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16; 0 blockers; English VERIFIED**
 - Gate H — **Speeches 1–8 PASS / COMPLETE — RELEASED / CLOSED**
@@ -187,16 +187,18 @@ Speech 9 / 29.3.1971 has now completed Gate C as one intact **4-page activity / 
 - Gate C — **COMPLETE / 4 of 4 pages**
 - source-page markers **113→116** — exactly once and in order
 - unresolved first-pass readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate C.5 — **provisionally N/A**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE — 4/4 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
+- Gate E — **PASS / COMPLETE — 4/4 pages; 4 source-fidelity corrections; 0 unresolved readings**
+- Gate F — **NOT STARTED / next**
 - hard boundaries **112→113** and **116→117** — preserved
 - scan 117 — confirmed Speech 10 / `உரை : 10 / நாள் : 29.6.71`, excluded
 - `நமது நிலை` relationship — **independent parallel witness / no overwrite**
 - wording imported from the earlier witness or any outside source — **none**
+- Gate-E corrections — scan 114 ×2; scan 115 ×2; total **4**
+- unresolved readings — **0**
 
 ## Exact continuation
 
-Speeches **1–8 remain RELEASED / CLOSED through Gate H**. Speech 9 Gates C + D are complete but Tamil is still **NOT VERIFIED / NOT RELEASED**; Gate D recorded **0 completeness corrections**. Exact next: **Speech 9 / 29.3.1971 — Gate E strict Tamil source-fidelity verification, scans 113–116 / 4 pages**.
+Speeches **1–8 remain RELEASED / CLOSED through Gate H**. Speech 9 Gates C–E are complete and Tamil is **VERIFIED**, but English is not started and Speech 9 is **NOT RELEASED**. Gate E recorded **4 source-fidelity corrections / 0 unresolved**. Exact next: **Speech 9 / 29.3.1971 — Gate F English translation, scans 113–116 / 4 pages**.

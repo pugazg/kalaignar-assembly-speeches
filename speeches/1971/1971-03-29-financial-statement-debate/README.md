@@ -36,12 +36,11 @@ This 2007-anthology unit overlaps the existing நமது நிலை event/p
 - Gate C Tamil first pass — **COMPLETE / 4 of 4 pages**
 - source markers — **113→116 exactly once and in order**
 - first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- verified_against_scan=false
-- Gate C.5 — **provisionally N/A** for modern 2007 typesetting; reopen only if page-specific legacy-glyph evidence appears
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no legacy-glyph anomaly found**
 - Gate D — **PASS / COMPLETE — 4/4 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
-- English — **NOT STARTED**
+- Gate E — **PASS / COMPLETE — 4/4 pages; 4 source-fidelity corrections; 0 unresolved readings**
+- English — **NOT STARTED / Gate F next**
 - release — **WORKING / NOT RELEASED**
 
 Gate C used only rendered source pixels from the user-supplied split PDF. No OCR, web copy, Official Report, நமது நிலை wording or alternate anthology supplied text.
@@ -50,7 +49,7 @@ The hard boundaries **112→113** and **116→117** are preserved. Scan 112 belo
 
 ## Files
 
-- transcript.md — Gate-C Tamil first-pass transcript, unchanged by Gate D
+- transcript.md — Gate-E-verified Tamil transcript
 - metadata.json — source, parallel-witness and gate state
 - source-notes.md — source authority, locked boundaries and Gate-D result
 - verification-log.md — Gate-C coverage plus Gate-D completeness audit trail
@@ -71,6 +70,21 @@ The hard boundaries **112→113** and **116→117** are preserved. Scan 112 belo
 
 Gate D was a completeness/structure audit only. No Tamil wording was changed and no outside witness was used.
 
+## Gate-E result
+
+**PASS / COMPLETE — 4/4 pages; 4 source-fidelity corrections; 0 unresolved readings.**
+
+Corrections:
+
+1. scan **114 / printed 113** — `புறக்கணிப்பட்டுக்கூடாது` → **`புறக்கணிப்படக்கூடாது`**.
+2. scan **114 / printed 113** — `பார்த்துக் கொள்வதற்கும்;` → **`பார்த்து கொள்வதற்கும்,`**.
+3. scan **115 / printed 114** — `சூரியகாந்திப் பூ பயிரிடப்படுவதில்லை` → **`சூரியகாந்திப் பூ பயிரிடப்போவதில்லை`**.
+4. scan **115 / printed 114** — `அதன் மூலமாக எல்லாவிதமான வீட்டும் குறையும்` → **`அதன் மூலமாக எல்லாவிதமான ஹீட்டும் குறையும்`**.
+
+The scan-115 repeated two-sentence sequence is printed twice in the source and remains unchanged. Scan-116 `அவைகளை யெல்லாம்` is confirmed as printed and retained.
+
+Tamil is now **VERIFIED / verified_against_scan=true**. Gate C.5 is **N/A / CLOSED**.
+
 ## Exact next activity
 
-**Speech 9 Gate E strict Tamil source-fidelity verification — scans 113–116 / 4 pages.** Do not begin English translation or Speech 10 in that activity.
+**Speech 9 Gate F English translation — scans 113–116 / 4 pages.** Do not begin Speech 10 in that activity.

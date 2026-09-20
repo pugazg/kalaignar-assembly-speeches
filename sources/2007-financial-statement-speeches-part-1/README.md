@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1–8 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 8 / 4.3.1966 closed with **43 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**; Gate D retains the retrospective **1 completeness correction** amendment. Speech 9 / 29.3.1971 Gates C + D are now **COMPLETE / 4 of 4 pages** as an independent parallel witness. Gate D is **PASS / COMPLETE / 0 completeness corrections**. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`; Gate E is next.
+Speeches 1–8 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 8 / 4.3.1966 closed with **43 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**; Gate D retains the retrospective **1 completeness correction** amendment. Speech 9 / 29.3.1971 Gates C–E are now **COMPLETE / 4 of 4 pages** as an independent parallel witness. Gate D is **PASS / COMPLETE / 0 completeness corrections**; Gate E is **PASS / COMPLETE / 4 source-fidelity corrections / 0 unresolved**. Tamil is **VERIFIED / verified_against_scan=true**; Gate C.5 is **N/A / CLOSED**. Gate F English is next.
 
 ## Whole-speech batching policy
 
@@ -327,20 +327,19 @@ Reader/work entry:
 - Gate C — **COMPLETE / 4 of 4 pages**
 - source markers — **113→116 exactly once and in order**
 - first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate C.5 — **provisionally N/A** for modern 2007 typesetting; reopen only if page-specific legacy-glyph evidence appears
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no legacy-glyph anomaly found**
 - Gate D — **PASS / COMPLETE — 4/4 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
-- English — **NOT STARTED**
+- Gate E — **PASS / COMPLETE — 4/4 pages; 4 source-fidelity corrections; 0 unresolved readings**
+- English — **NOT STARTED / Gate F next**
 - release — **WORKING / NOT RELEASED**
 - hard boundaries **112→113** and **116→117** — preserved
 - scan 117 visually confirmed as `உரை : 10 / நாள் : 29.6.71` and excluded
 - relationship to `நமது நிலை` — **PARALLEL WITNESS / NO OVERWRITE**
 - outside wording from OCR / web / Official Reports / `நமது நிலை` / alternate anthologies — **none**
 
-The first pass preserves the anthology's own wording even where it is semantically unusual, including scan 115 `அதன் மூலமாக எல்லாவிதமான வீட்டும் குறையும்.` and scan 116 `அவைகளை யெல்லாம்`. These are first-pass source readings, not cross-witness normalisations.
+Gate E corrected scan 115 directly from the anthology pixels to `அதன் மூலமாக எல்லாவிதமான ஹீட்டும் குறையும்.`; scan 116 `அவைகளை யெல்லாம்` was confirmed exactly as printed. The source-printed repeated two-sentence sequence on scan 115 remains retained. No cross-witness normalisation was used.
 
 ## Exact next activity
 
-Perform **Speech 9 / 29.3.1971 — Gate E strict Tamil source-fidelity verification**, scans **113–116 / 4 pages**. Use only the controlling 2007 anthology pixels; do not normalize against `நமது நிலை`, begin English translation, or start Speech 10.
+Perform **Speech 9 / 29.3.1971 — Gate F English translation**, scans **113–116 / 4 pages**, using only the final Gate-E-verified Tamil from this 2007 anthology witness. Do not import wording from `நமது நிலை` or begin Speech 10.
