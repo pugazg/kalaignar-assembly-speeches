@@ -28,12 +28,11 @@
 - Gate C Tamil first pass — **COMPLETE / 23 of 23 pages**
 - source markers — **90→112 exactly once and in order**
 - first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate C.5 — **provisionally N/A — modern 2007 typesetting**
-- Gate D — **PASS / COMPLETE — 23/23 pages; 0 completeness corrections**
-- Gate E — **NOT STARTED / exact next**
-- English — **NOT STARTED**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found**
+- Gate D — **PASS / COMPLETE — 23/23 pages; retrospectively amended to 1 completeness correction**
+- Gate E — **PASS / COMPLETE — 23/23 pages; 43 source-fidelity corrections; 0 unresolved readings**
+- English — **NOT STARTED / Gate F next**
 - release — **WORKING / NOT RELEASED**
 
 Gate C used only rendered source pixels from the two user-supplied split PDFs. No OCR, web copy, Official Report or alternate anthology supplied wording.
@@ -42,14 +41,16 @@ The hard boundaries **89→90** and **112→113** are preserved. Scan 89 belongs
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — Gate-C Tamil first-pass transcript
+- [`transcript.md`](./transcript.md) — Gate-E-verified Tamil transcript
 - [`metadata.json`](./metadata.json) — source and gate state
 - [`source-notes.md`](./source-notes.md) — source authority and locked boundaries
-- [`verification-log.md`](./verification-log.md) — Gate-C audit trail
+- [`verification-log.md`](./verification-log.md) — Gates C–E audit trail with complete Gate-E correction ledger
 
-## Gate D result
+## Gate D / Gate E result
 
-**PASS / COMPLETE — 23/23 pages; 0 completeness corrections.**
+Gate D remains **PASS / COMPLETE — 23/23 pages**, but its completeness count is **retrospectively amended from 0 to 1** because the Gate-E strict visual re-read restored the omitted scan-90 phrase `விந்தையாக இருக்கிறது,`.
+
+Gate E is **PASS / COMPLETE — 23/23 pages; 43 source-fidelity corrections; 0 unresolved readings**.
 
 - markers **90→112** — exactly once and in order;
 - scan 89 remains excluded as the released Speech 7 close;
@@ -60,9 +61,22 @@ The hard boundaries **89→90** and **112→113** are preserved. Scan 89 belongs
 - M. Bhaktavatsalam interventions on scans **91, 92 and 95** — represented;
 - Speaker source-printed English `He is so well known.` on scan **93** — represented;
 - quotations, dates, numerals, rupee amounts, commodity prices, statistical figures, names and paragraph order — structurally complete;
-- completeness corrections — **0**;
-- Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**.
+- completeness corrections — **1 after Gate-E retrospective amendment**;
+- Tamil — **VERIFIED / verified_against_scan=true**.
+
+## Gate-E closure
+
+- source markers **90→112** — exactly once and in order;
+- hard boundaries **89→90** and **112→113** — preserved;
+- cross-split transition **100→101** — PASS;
+- M. Bhaktavatsalam interventions on scans **91, 92 and 95** — PASS;
+- Speaker source-printed English `He is so well known.` on scan **93** — preserved;
+- final scan 112 `வணக்கம்.` — PASS;
+- unresolved readings — **0**;
+- outside wording from OCR / web / Official Report / alternate anthology — **none**.
+
+The exact **43-item** correction ledger is in `verification-log.md`.
 
 ## Exact next activity
 
-Perform **Speech 8 Gate E strict page-by-page Tamil source-fidelity verification**, scans **90–112 / 23 pages**. Do not begin English translation or Speech 9 in the same iteration.
+Perform **Speech 8 Gate F English first-pass translation**, scans **90–112 / 23 pages**, using only the final Gate-E-verified Tamil. Do not begin Gate G or Speech 9 in the same iteration.
