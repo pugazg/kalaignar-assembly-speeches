@@ -122,7 +122,7 @@ Speech 8 / 4.3.1966 has now completed Gate C as an intact **23-page activity / s
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–7 CLOSED; Speech 8 COMPLETE / 23 of 23 / NOT VERIFIED; speeches 9–19 not started**
+- Gate C — **Speeches 1–8 CLOSED; speeches 9–19 not started**
 - Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction after Gate E restored an omitted scan-90 phrase**
 - Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43 corrections; all 1–8 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–8 — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found in Speech 8**
