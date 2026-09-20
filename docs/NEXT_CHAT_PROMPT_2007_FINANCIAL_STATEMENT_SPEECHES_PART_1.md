@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 8 Gate E
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 8 Gate F
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,7 +8,7 @@ Speeches **1–7 are RELEASED / CLOSED through Gate H** with verified Tamil and 
 
 Do not reopen Speeches 1–7 merely for stylistic polishing.
 
-## Speech 8 durable Gates C–D state
+## Speech 8 durable Gates C–E state
 
 Working entry:
 
@@ -39,38 +39,46 @@ Boundaries:
 Gate state:
 
 - Gate C — **COMPLETE / 23 of 23 pages**
-- Gate D — **PASS / COMPLETE / 23 of 23 pages / 0 completeness corrections**
+- Gate D — **PASS / COMPLETE / retrospectively amended to 1 completeness correction**
+- Gate-D retrospective note — Gate E restored the omitted scan-90 phrase `விந்தையாக இருக்கிறது,`
+- Gate E — **PASS / COMPLETE / 23 of 23 pages / 43 source-fidelity corrections / 0 unresolved readings**
 - source markers **90→112 exactly once and in order**
-- all transitions **90→91 through 111→112 — PASS**
 - cross-split transition **100→101 — PASS**
-- first-pass unresolved readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate C.5 — **provisionally N/A** for modern 2007 typesetting
-- Gate E — **NOT STARTED / exact next**
-- English — **NOT STARTED**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate C.5 — **N/A / CLOSED** for modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found
+- English — **NOT STARTED / Gate F exact next**
 - release — **WORKING / NOT RELEASED**
+- Speech 9 — **NOT STARTED**
 
-Gate D directly checked all 23 rendered source pages, including the scan-91/92/95 M. Bhaktavatsalam interventions, scan-93 Speaker source-printed English `He is so well known.`, quotations, dates, numerals, rupee amounts, commodity prices, statistical figures, named references and all page boundaries. No OCR, web copy, Official Report or alternate anthology supplied wording.
+Gate E re-read all 23 pages directly against rendered source pixels. No OCR, web copy, Official Report or alternate anthology supplied Tamil wording.
+
+The complete **43-item** Gate-E correction ledger is in:
+
+`speeches/1966/1966-03-04-financial-statement-debate/verification-log.md`
 
 ## Exact next activity
 
-Perform **Speech 8 / 4.3.1966 — Gate E strict page-by-page Tamil source-fidelity verification**, scans **90–112 / 23 pages**.
+Perform **Speech 8 / 4.3.1966 — Gate F English first-pass translation**, scans **90–112 / 23 pages**.
 
-Gate-E requirements:
+Gate-F authority is strictly the **final Gate-E-verified Tamil in `transcript.md`**. Do not use OCR, scan pixels, web research, Official Reports or alternate anthologies to supply or correct English wording.
 
-1. compare every Gate-C Tamil page directly against the rendered source pixels, scan by scan **90→112**;
-2. preserve source spelling, punctuation, numerals, quotations, names, speaker labels/interventions, source-printed English and page fragments exactly as printed;
-3. make only source-supported fidelity corrections; do not normalize, modernize or rewrite from outside knowledge;
-4. record every correction in `verification-log.md` by scan with exact before → after wording;
-5. keep source-page markers **90→112** exactly once and in order;
-6. preserve hard boundaries **89→90** and **112→113**; scan 113 remains excluded;
-7. explicitly re-check the M. Bhaktavatsalam interventions on scans **91, 92 and 95**, the Speaker source-printed English on scan **93**, quotations, dates, rupee amounts, commodity-price list, statistical blocks and the final `வணக்கம்.`;
-8. explicitly re-check the cross-split **100→101** continuation;
-9. if any legacy/reform-sensitive glyph issue is actually encountered, reopen Gate C.5 only for that page and record it; otherwise close Gate C.5 as N/A after the full visual audit;
-10. record unresolved readings rather than guessing;
-11. if all 23 pages pass with 0 unresolved readings, set Tamil status to **VERIFIED / verified_against_scan=true**;
-12. update transcript banner, `metadata.json`, speech README, source notes, verification log, root anthology summary, anthology README, mapping, handover and this next-chat prompt;
-13. do not begin English Gate F or Speech 9 in the same iteration.
+Requirements:
 
-Expected continuation after successful Gate E: **Speech 8 Gate F English first-pass translation, scans 90–112 / 23 pages**.
+1. translate all **23/23** verified Tamil source-page sections **90→112**;
+2. preserve source-page sections **90→112** in `translation.md`, each exactly once and in order;
+3. produce a faithful reading translation that preserves source names, dates, numerals, rupee amounts, commodity-price figures, statistical blocks, quotations, interventions, humour, analogies and rhetorical force;
+4. preserve the scan-93 Speaker source-printed English `He is so well known.` exactly rather than retranslating it;
+5. do not normalize or outside-correct source-bound names, historical references, political labels, policy claims or institutional terms;
+6. keep uncertain/source-bound terms conservative; transliterate rather than import an outside identification or gloss when necessary;
+7. record translation choices and any blocking questions in `translation-review.md`;
+8. create/update `translation.md`, `translation-review.md`, `metadata.json`, speech README, source notes and verification log;
+9. synchronize anthology README, mapping, handover and root status summary;
+10. after Gate F, English status must be **FIRST-PASS / NOT YET VERIFIED AGAINST TAMIL** with `verified_against_tamil=false`;
+11. Gate-F blocking questions must be recorded explicitly; do not silently resolve them from outside sources;
+12. do not alter the verified Tamil during Gate F;
+13. do not add Speech 8 to the released root dated index or `data/speeches.json`;
+14. do not begin Gate G or Speech 9 in the same iteration.
+
+Source-bound passages requiring conservative handling include the tax / “empty gun” analogy; food-production and nutrition discussion; commodity-price list; Chennai / Tiruchirappalli / Thanjavur / Coimbatore water-supply discussion; Tenali Raman analogy; Tuticorin thermal-power project; Salem steel-plant chronology; backward-region discussion; audit / housing / pesticide / `கேந்திர கிராமம்` expenditure examples; ministerial-economy proposals; and the 1967 election closing.
+
+Expected continuation after successful Gate F: **Speech 8 Gate G full English fidelity and voice review, scans 90–112 / 23 pages**.
