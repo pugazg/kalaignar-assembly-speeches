@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest completed unit: Speech 6 / 7.3.1963 = **RELEASED / CLOSED through Gate H**. Exact next unit: Speech 7 / 7.3.1964 = **14 pages / scans 76–89 — Gate C NOT STARTED**.
+Latest released unit: Speech 6 / 7.3.1963 = **RELEASED / CLOSED through Gate H**. Active unit: Speech 7 / 7.3.1964 = **Gate C COMPLETE / 14 pages / scans 76–89 / Tamil TRANSCRIBED / NOT VERIFIED**. Exact next: Speech 7 Gate D.
 
 ## Existing-source overlaps
 
@@ -92,8 +92,8 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–6 CLOSED; speeches 7–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–6 — modern 2007 typesetting; reopen only for actual page-specific legacy-glyph evidence**
+- Gate C — **Speeches 1–6 CLOSED; Speech 7 COMPLETE / 14 of 14 / NOT VERIFIED; speeches 8–19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–6; Speech 7 provisionally N/A — modern 2007 typesetting; reopen only for actual page-specific legacy-glyph evidence**
 - Gate D — **Speeches 1–6 PASS / COMPLETE — 0 completeness corrections each**
 - Gate E — **Speeches 1–6 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20; unresolved 0**
 - Gate F — **Speeches 1–6 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16**
@@ -358,30 +358,46 @@ Speeches 4–5 are closed as one **17-page** activity.
 
 ## Speech 6 durable Gate-H closure
 
-Canonical working entry:
+Canonical entry:
 
 `speeches/1963/1963-03-07-financial-statement-debate/`
 
 - scans **60–75 / printed pp.59–74**
-- Gate C — **COMPLETE / 16 of 16 pages**
-- Gate D — **PASS / COMPLETE / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / 20 source-fidelity corrections / 0 unresolved**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate C.5 — **N/A / CLOSED**
-- Gate F — **COMPLETE / 16 of 16 English pages**
-- Gate G — **PASS / COMPLETE / 16 of 16 pages / 15 refinements / 0 blockers / 0 Tamil changes**
-- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- source-printed English scan 73 — **preserved verbatim**
-- Gate-F blocking questions — **0**
-- hard boundaries **59→60** and **75→76** — preserved
-- scan 76 / Speech 7 — excluded and not started
-- Gate H — **PASS / COMPLETE**
+- Gates C–H — **COMPLETE**
+- Tamil / English — **VERIFIED**
 - release — **RELEASED / CLOSED**
+- hard boundary **75→76** — preserved
 
-Gate F translated only from the final Gate-E-verified Tamil. Gate G reviewed the English only against that verified Tamil, applying 15 refinements with 0 blockers and 0 Tamil changes. No OCR, scan pixels, web research, Official Reports or alternate anthologies supplied English wording.
+## Speech 7 durable Gate-C state
+
+Working entry:
+
+`speeches/1964/1964-03-07-financial-statement-debate/`
+
+Source:
+
+- global scans **76–89 / printed pp.75–88**
+- working split `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_004_pages_76-100.pdf`
+- split local pages **1–14**
+- local page 15 / global scan 90 begins Speech 8
+
+Gate state:
+
+- Gate C — **COMPLETE / 14 of 14 pages**
+- source markers — **76→89 exactly once and in order**
+- first-pass unresolved readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Gate C.5 — **provisionally N/A**
+- Gate D — **NOT STARTED / exact next**
+- Gate E / English — **NOT STARTED**
+- hard boundaries **75→76** and **89→90** — preserved
+- outside wording — **none**
+
+No OCR, web copy, Official Report or alternate anthology supplied Gate-C wording.
 
 ## Exact next activity
 
-Begin **Speech 7 / 7.3.1964 — Gate C Tamil first-pass transcription**, scans **76–89 / 14 pages**.
+Perform **Speech 7 / 7.3.1964 — Gate D completeness audit**, scans **76–89 / 14 pages**.
 
-Do not reopen released Speeches 1–6 merely for stylistic polishing.
+Do not begin Gate E, English translation or Speech 8 in the same iteration. Do not reopen released Speeches 1–6 merely for stylistic polishing.
