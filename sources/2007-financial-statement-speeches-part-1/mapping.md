@@ -126,9 +126,9 @@ Speech 7 / 7.3.1964 has now completed Gate C as an intact **14-page activity / s
 - Gate D — **Speeches 1–7 PASS / COMPLETE — 0 completeness corrections each**
 - Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19 corrections; all 1–7 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–7 — modern 2007 typesetting; reopen only if source pixels show a page-specific legacy-glyph issue**
-- Gate F — **Speeches 1–6 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16**
-- Gate G — **Speeches 1–6 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15; 0 blockers; English VERIFIED**
-- Gate H — **Speeches 1–6 PASS / COMPLETE — RELEASED / CLOSED**
+- Gate F — **Speeches 1–7 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14**
+- Gate G — **Speeches 1–7 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16; 0 blockers; English VERIFIED**
+- Gate H — **Speeches 1–7 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Gate-H boundary / release check for Speeches 4–5
 
@@ -147,23 +147,22 @@ Speech 7 / 7.3.1964 has now completed Gate C as an intact **14-page activity / s
 - release — **RELEASED / CLOSED**
 - boundary **75→76** — preserved
 
-## Speech 7 Gate-E state
+## Speech 7 Gate-H closure
 
 - working entry — `speeches/1964/1964-03-07-financial-statement-debate/`
 - scans **76–89 / printed pp.75–88**
-- working split local pages **1–14**
-- Gate C — **COMPLETE / 14 of 14 pages**
-- markers **76→89** — exactly once and in order
-- unresolved first-pass readings — **0**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 14 of 14 pages / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / 14 of 14 pages / 19 corrections / 0 unresolved**
-- English — **NOT STARTED / Gate F next**
+- Gates C–E — **COMPLETE / Tamil VERIFIED**
+- Gate E — **19 corrections / 0 unresolved**
+- Gate F — **COMPLETE / 14 of 14 English pages**
+- Gate G — **PASS / COMPLETE / 16 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE**
+- release — **RELEASED / CLOSED**
+- root/date indexes — synchronized
 - boundaries **75→76** and **89→90** — preserved
-- scan 90 / Speech 8 — excluded
+- Gate-H wording changes — **0 Tamil / 0 English**
 - outside wording — **none**
 
 ## Exact continuation
 
-Speeches **1–6 are RELEASED / CLOSED through Gate H**. Speech 7 Gates C–E are complete and Tamil is verified. Exact next: **Speech 7 / 7.3.1964 — Gate F English first-pass translation, scans 76–89 / 14 pages**.
+Speeches **1–7 are RELEASED / CLOSED through Gate H**. Exact next: **Speech 8 / 4.3.1966 — Gate C Tamil first-pass transcription, scans 90–112 / 23 pages**.
