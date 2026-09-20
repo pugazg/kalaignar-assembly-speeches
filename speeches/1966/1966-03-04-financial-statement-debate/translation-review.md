@@ -83,6 +83,22 @@ Verified-Tamil changes: **0**.
 
 **English `verified_against_tamil=true`.**
 
+## Gate H — canonical merge / index / release closure
+
+**Status: PASS / COMPLETE — RELEASED / CLOSED**
+
+- verified Tamil markers **90→112** preserved exactly once and in order;
+- verified English sections **90→112** preserved exactly once and in order;
+- canonical `transcript.md` contains verified Tamil followed by Gate-G-verified English;
+- `translation.md` retired to a pointer;
+- Gate-G totals remain **16 refinements / 0 blockers / 0 Tamil changes**;
+- hard boundaries **89→90** and **112→113** preserved;
+- root dated index and `data/speeches.json` synchronized;
+- anthology/control surfaces synchronized;
+- Gate-H wording changes — **0 Tamil / 0 English**.
+
+Final disposition: **Speech 8 RELEASED / CLOSED**.
+
 ## Exact next activity
 
-Perform **Speech 8 Gate H canonical merge / index / release closure**. Do not begin Speech 9 in the same iteration.
+Begin **Speech 9 / 29.3.1971 — Gate C Tamil first-pass transcription**, scans **113–116 / 4 pages**. Treat this 2007 anthology as a parallel witness to the existing `நமது நிலை` event/provenance record; do not overwrite the released source layer.
