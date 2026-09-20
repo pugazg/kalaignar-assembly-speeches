@@ -116,16 +116,16 @@ Released material remains locked. This anthology must be processed as an indepen
 - defer the next whole speech if adding it would exceed 25 pages;
 - if one speech itself exceeds 25 pages, process that intact speech separately.
 
-Speech 8 / 4.3.1966 has now completed Gate C as an intact **23-page activity / scans 90–112**, spanning split 004 local pages 15–25 and split 005 local pages 1–12. Speech 9 / scan 113 remains excluded.
+Speech 9 / 29.3.1971 has now completed Gate C as one intact **4-page activity / scans 113–116**, using split 005 local pages 13–16. Scan 112 remains the released Speech 8 close; scan 117 begins Speech 10 / 29.6.71 and remains excluded.
 
 ## Gate status
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–8 CLOSED; speeches 9–19 not started**
-- Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction after Gate E restored an omitted scan-90 phrase**
+- Gate C — **Speeches 1–8 CLOSED; Speech 9 COMPLETE / 4 of 4; speeches 10–19 not started**
+- Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction after Gate E restored an omitted scan-90 phrase; Speech 9 NOT STARTED / next**
 - Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43 corrections; all 1–8 Tamil VERIFIED / 0 unresolved**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–8 — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found in Speech 8**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–8; Speech 9 provisionally N/A — modern 2007 typesetting, with no page-specific legacy-glyph evidence observed at Gate C**
 - Gate F — **Speeches 1–8 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23**
 - Gate G — **Speeches 1–8 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16; 0 blockers; English VERIFIED**
 - Gate H — **Speeches 1–8 PASS / COMPLETE — RELEASED / CLOSED**
@@ -178,6 +178,24 @@ Speech 8 / 4.3.1966 has now completed Gate C as an intact **23-page activity / s
 - boundaries **89→90** and **112→113** preserved
 - Gate-H wording changes — **0 Tamil / 0 English**
 
+
+## Speech 9 Gate-C state
+
+- working entry — `speeches/1971/1971-03-29-financial-statement-debate/`
+- source label/date — `உரை : 9 / 29.3.1971`
+- scans **113–116 / printed pp.112–115**
+- Gate C — **COMPLETE / 4 of 4 pages**
+- source-page markers **113→116** — exactly once and in order
+- unresolved first-pass readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Gate C.5 — **provisionally N/A**
+- Gate D — **NOT STARTED / next**
+- hard boundaries **112→113** and **116→117** — preserved
+- scan 117 — confirmed Speech 10 / `உரை : 10 / நாள் : 29.6.71`, excluded
+- `நமது நிலை` relationship — **independent parallel witness / no overwrite**
+- wording imported from the earlier witness or any outside source — **none**
+
 ## Exact continuation
 
-Speeches **1–8 are RELEASED / CLOSED through Gate H**. Exact next: **Speech 9 / 29.3.1971 — Gate C, scans 113–116 / 4 pages**, as a parallel witness to the existing `நமது நிலை` event/provenance record.
+Speeches **1–8 remain RELEASED / CLOSED through Gate H**. Speech 9 Gate C is complete but **NOT VERIFIED / NOT RELEASED**. Exact next: **Speech 9 / 29.3.1971 — Gate D completeness audit, scans 113–116 / 4 pages**.

@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 8 / 4.3.1966 = **RELEASED / CLOSED through Gate H** with verified Tamil and English. Speech 8 closed with **43 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**; Gate D retains the retrospective **1 completeness correction** amendment. Exact next: Speech 9 / 29.3.1971 Gate C, scans 113–116 / 4 pages, as a parallel witness.
+Latest released unit: Speech 8 / 4.3.1966 = **RELEASED / CLOSED through Gate H** with verified Tamil and English. Speech 8 closed with **43 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**; Gate D retains the retrospective **1 completeness correction** amendment. Active working unit: Speech 9 / 29.3.1971 Gate C is **COMPLETE / 4 of 4 pages**, Tamil **TRANSCRIBED / NOT VERIFIED**, `verified_against_scan=false`, as an independent parallel witness. Exact next: Speech 9 Gate D completeness audit, scans 113–116 / 4 pages.
 
 ## Existing-source overlaps
 
@@ -92,9 +92,9 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–8 CLOSED; speeches 9–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–8 — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found in Speech 8**
-- Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction**
+- Gate C — **Speeches 1–8 CLOSED; Speech 9 COMPLETE / 4 of 4; speeches 10–19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–8; Speech 9 provisionally N/A — modern 2007 typesetting, no page-specific legacy-glyph evidence observed at Gate C**
+- Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction; Speech 9 NOT STARTED / next**
 - Gate E — **Speeches 1–8 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20 / 19 / 43; unresolved 0**
 - Gate F — **Speeches 1–8 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23**
 - Gate G — **Speeches 1–8 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16; 0 blockers; English VERIFIED**
@@ -415,8 +415,36 @@ Canonical entry:
 - Gate-H wording changes — **0 Tamil / 0 English**
 - boundaries **89→90** and **112→113** — preserved
 
+
+## Speech 9 durable Gate-C state
+
+Working entry:
+
+`speeches/1971/1971-03-29-financial-statement-debate/`
+
+- source label/date — `உரை : 9 / 29.3.1971`
+- source split — `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_005_pages_101-125.pdf`
+- split SHA-256 — `1ae9039952b35b70035365de3774cdf3df5ae6c62cb38d030683ce93e2456ade`
+- local pages **13–16** = global scans **113–116**
+- printed pages **112–115**
+- Gate C — **COMPLETE / 4 of 4 pages**
+- source markers **113→116** — exactly once and in order
+- first-pass unresolved readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Gate C.5 — **provisionally N/A** for modern 2007 typesetting
+- Gate D — **NOT STARTED / next**
+- Gate E / English — **NOT STARTED**
+- release — **NOT RELEASED**
+- hard boundaries **112→113** and **116→117** — preserved
+- scan 117 visually confirmed as `உரை : 10 / நாள் : 29.6.71` and excluded
+- parallel-witness rule — the 2007 anthology is independent of `நமது நிலை`; no earlier-source wording was copied, merged, normalised or used to repair this first pass
+- no OCR, web, Official Report or alternate anthology supplied wording
+
+Gate C retained the source's own visible forms, including the semantically unusual scan-115 phrase `அதன் மூலமாக எல்லாவிதமான வீட்டும் குறையும்.` and scan-116 spacing `அவைகளை யெல்லாம்`, without cross-witness correction.
+
 ## Exact next activity
 
-Begin **Speech 9 / 29.3.1971 — Gate C Tamil first-pass transcription**, scans **113–116 / 4 pages**.
+Perform **Speech 9 / 29.3.1971 — Gate D completeness audit**, scans **113–116 / 4 pages**.
 
-This unit overlaps the existing `நமது நிலை` event/provenance record. Treat the 2007 anthology as an independent **parallel witness**; do not overwrite or normalize the released source layer. Speech 10 / scan 117 is excluded from this activity.
+Keep the 2007 anthology as an independent **parallel witness** to `நமது நிலை`. Gate D must test completeness, ordering, boundaries and structural retention only; do not begin Gate E wording verification, English translation, or Speech 10.

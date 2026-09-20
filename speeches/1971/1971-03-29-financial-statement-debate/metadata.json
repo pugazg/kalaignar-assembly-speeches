@@ -1,0 +1,94 @@
+{
+  "id": "1971-03-29-financial-statement-debate",
+  "date": "1971-03-29",
+  "year": 1971,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "source_label_ta": "மாண்புமிகு கலைஞர் மு. கருணாநிதி",
+    "role_ta": null,
+    "role_en": null,
+    "role_note": "The speech pages do not establish the speaker's historical office; no role has been inferred from external knowledge."
+  },
+  "legislature": {
+    "source_context_ta": "சட்டமன்ற உரை",
+    "source_context_en": "Legislative Assembly speech"
+  },
+  "speech": {
+    "source_label_ta": "உரை : 9",
+    "printed_date": "29.3.1971",
+    "archive_subject_slug": "financial-statement-debate",
+    "archive_title_note": "Neutral archival subject label derived from the anthology title; not asserted to be an official printed legislative event title."
+  },
+  "source": {
+    "publication_title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)",
+    "edition_ta": "முதற்பதிப்பு",
+    "publication_date": "2007-05",
+    "publication_date_printed_ta": "மே, 2007",
+    "publisher_ta": "தமிழ்க்கனி பதிப்பகம்",
+    "publisher_location_ta": "சென்னை - 600 004",
+    "controlling_full_scan_filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf",
+    "controlling_full_scan_total_pages": 546,
+    "controlling_full_scan_file_size_bytes": 393027493,
+    "controlling_full_scan_sha256": "e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932",
+    "working_splits": [
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_005_pages_101-125.pdf",
+        "page_count": 25,
+        "file_size_bytes": 18572668,
+        "sha256": "1ae9039952b35b70035365de3774cdf3df5ae6c62cb38d030683ce93e2456ade",
+        "local_pages": "13-16",
+        "global_scans": "113-116"
+      }
+    ],
+    "speech_scan_pages": "113-116",
+    "speech_printed_pages": "112-115",
+    "scan_printed_page_relationship": "For this speech, printed page = global scan page - 1.",
+    "source_authority": "rendered scan pixels",
+    "usable_text_layer": false
+  },
+  "parallel_witness": {
+    "is_parallel_witness": true,
+    "related_record": "sources/1971-namathu-nilai/events/1971-03-29-assembly-interim-budget-reply.md",
+    "relationship": "independent 2007-anthology witness",
+    "overwrite_existing_source_layer": false,
+    "normalize_to_existing_source_layer": false,
+    "external_witness_wording_imported": false
+  },
+  "transcription": {
+    "method": "manual Gate C first-pass transcription from rendered pixels of the controlling 2007 anthology split only",
+    "preserve_source_spelling": true,
+    "preserve_source_punctuation": true,
+    "preserve_source_numerals": true,
+    "preserve_headings": true,
+    "preserve_speaker_labels_and_interventions": true,
+    "preserve_printed_english": true,
+    "page_boundaries_marked": true,
+    "status": "transcribed",
+    "gate_c_status": "complete",
+    "completed_scan_pages": "113-116",
+    "completed_printed_pages": "112-115",
+    "completed_page_count": 4,
+    "total_page_count": 4,
+    "source_page_markers_checked_first_pass": true,
+    "unresolved_readings": 0,
+    "completeness_audit_passed": false,
+    "verified_against_scan": false,
+    "historical_glyph_gate_status": "provisionally-n-a-modern-2007-typesetting",
+    "next_gate": "gate-d-completeness-audit",
+    "outside_wording_imported": false,
+    "note": "Gate C only. The anthology wording is preserved independently of the existing Namathu Nilai witness. Gate D, Gate E and English have not started."
+  },
+  "translation": {
+    "language": "English",
+    "status": "not-started",
+    "verified_against_tamil": false
+  },
+  "release": {
+    "status": "working",
+    "released": false,
+    "release_ready": false,
+    "indexed": false,
+    "index_note": "Gate C working entry only; do not add to released dated indexes until later gates close."
+  }
+}
