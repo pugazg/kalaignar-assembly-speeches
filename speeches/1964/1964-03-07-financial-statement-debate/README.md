@@ -31,8 +31,11 @@
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found**
 - Gate D — **PASS / COMPLETE — 14/14 pages; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 14/14 pages; 19 source-fidelity corrections; 0 unresolved readings**
-- English — **NOT STARTED / Gate F next**
-- release — **WORKING / NOT RELEASED**
+- Gate F English — **COMPLETE / 14 of 14 pages**
+- Gate G — **PASS / COMPLETE — 14/14 pages; 16 refinements; 0 blockers; 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE**
+- release — **RELEASED / CLOSED**
 
 Gate C used only rendered source pixels from the user-supplied split. No OCR, web copy, Official Report or alternate anthology supplied wording.
 
@@ -40,10 +43,12 @@ The hard boundaries **75→76** and **89→90** are preserved. Scan 75 belongs t
 
 ## Files
 
-- [`transcript.md`](./transcript.md) — Gate-E-verified Tamil transcript
+- [`transcript.md`](./transcript.md) — canonical released bilingual transcript
 - [`metadata.json`](./metadata.json) — source and gate state
 - [`source-notes.md`](./source-notes.md) — source authority and locked boundaries
-- [`verification-log.md`](./verification-log.md) — Gates C–E audit trail
+- [`translation.md`](./translation.md) — retired pointer to canonical English
+- [`translation-review.md`](./translation-review.md) — Gates F–H English/release audit
+- [`verification-log.md`](./verification-log.md) — Gates C–H audit trail
 
 ## Gate D result
 
@@ -78,6 +83,18 @@ All **14/14** scans were re-read directly against rendered source pixels. Gate E
 
 The exact 19-item correction ledger is in `verification-log.md`.
 
+## Gates F–H result
+
+- Gate F — **COMPLETE / 14 of 14 English pages**;
+- Gate G — **PASS / COMPLETE / 16 conceptual refinements / 0 blockers / 0 Tamil changes**;
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**;
+- Gate H — **PASS / COMPLETE**;
+- canonical bilingual `transcript.md` — complete;
+- `translation.md` — retired to pointer;
+- Gate-H wording changes — **0 Tamil / 0 English**;
+- release — **RELEASED / CLOSED**;
+- hard boundaries **75→76** and **89→90** — preserved.
+
 ## Exact next activity
 
-Perform **Speech 7 Gate F English first-pass translation**, scans **76–89 / 14 pages**, using only the final Gate-E-verified Tamil. Do not begin Gate G or Speech 8 in the same iteration.
+Begin **Speech 8 / 4.3.1966 — Gate C Tamil first-pass transcription**, scans **90–112 / 23 pages**.
