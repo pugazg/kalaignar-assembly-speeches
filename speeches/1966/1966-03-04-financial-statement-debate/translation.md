@@ -9,7 +9,7 @@
 **Speech: 8**  
 **Date: 4.3.1966**
 
-**Kalaignar M. Karunanidhi:** Hon. Speaker, our Chief Minister has placed before this House the Financial Statement for 1966–67, and in the debate now taking place on it I too wish to put forward a few of my views. Members of the ruling party began by praising this Budget as a tax-free Financial Statement, and by the end of their speeches they had set out their own shortcomings and pointed to the various schemes in their constituencies which, despite being raised so many times, have remained unimplemented and shelved.
+**Kalaignar M. Karunanidhi:** Hon. Speaker, our Chief Minister has placed before this House the Financial Statement for 1966–67, and in the debate now taking place on it I too wish to put forward a few of my views. Members of the ruling party began by praising this Budget as a tax-free Financial Statement, and by the end of their speeches they had set out their respective grievances and pointed to the various schemes in their constituencies which, despite being raised so many times, have remained unimplemented and shelved.
 
 There is nothing to rejoice about in calling this a tax-free Budget. Our Chief Minister, thinking that imposing taxes in a tax-free Financial Statement would become a major issue, very cleverly imposed all the taxes that had to be imposed two months earlier, secured the approval of the majority of this House, and now, while those taxes are in force, members of the ruling party argue that a tax-free Budget has been presented. That is indeed strange—
 
@@ -17,7 +17,7 @@ There is nothing to rejoice about in calling this a tax-free Budget. Our Chief M
 
 **Hon. Mr. M. Bhaktavatsalam:** The argument is only that there are no further taxes.
 
-**Kalaignar M. Karunanidhi:** The Chief Minister says there are no further taxes. It is like saying, “a gun without bullets.” Saying “there are no further taxes” is like that. A gun without bullets does not mean a gun into which no bullets were ever loaded. The bullets it had were used to hunt the spotted deer called the poor and the humble; now the empty gun is being shown as a gun without bullets, and it is said that there are no further taxes. Taxes amounting to nearly Rs. 8 crores were imposed two months ago, and now the gun without bullets is shown with the claim that there are no further taxes.
+**Kalaignar M. Karunanidhi:** The Chief Minister says there are no further taxes. It is like saying, “a gun without bullets.” Saying “there are no further taxes” is like that. A gun without bullets does not mean a gun into which no bullets were ever loaded. The bullets it had were used to hunt the poor and humble as though they were spotted deer; now the empty gun is being shown as a gun without bullets, and it is said that there are no further taxes. Taxes amounting to nearly Rs. 8 crores were imposed two months ago, and now the gun without bullets is shown with the claim that there are no further taxes.
 
 At the same time, cannons are firing in the Central Government in the north. A tax on cotton cloth, tobacco tax, tax on diesel oil, sugar tax and many other such taxes are being loaded onto the heads of the people. At such a time, there is no basis whatsoever for rejoicing that this Budget contains no taxes.
 
@@ -29,7 +29,7 @@ The revenue of the Madras Government has increased this year by nearly Rs. 24 cr
 
 Besides these Rs. 8 crores, we are in a position where we must bear Rs. 7 crores allocated by the Central Government, another Rs. 6 crores coming through sales tax, another Rs. 1 crore through motor-vehicle tax, and so on. Members of the ruling party said that because there was no tax, everyone in the Opposition had been disappointed; if there had been taxes, they would have spoken about all sorts of things, and therefore this had caused them a great disappointment.
 
-Even if taxes are imposed, ruling-party members will welcome them and offer congratulations. They would say that even if this Budget had not imposed taxes, they would congratulate it as though it were a Budget that had imposed taxes. So there is no disappointment on that account. Our disappointment is that we expected this Financial Statement to bring the happy news that at least one or two of the many taxes already imposed had been removed.
+Even if taxes are imposed, ruling-party members will welcome them and offer congratulations. Whether this Budget imposed taxes or not, they would still praise and congratulate it. So there is no disappointment on that account. Our disappointment is that we expected this Financial Statement to bring the happy news that at least one or two of the many taxes already imposed had been removed.
 
 I do not know whether it is true or not, but when a camel is unable to walk because more and more weight has been loaded on it, they will unload one or two articles and try to make it walk. It is truly regrettable that even such an effort finds no place in this Budget.
 
@@ -39,7 +39,7 @@ The Chief Minister says they will not disappoint. Even a camel walks because the
 
 ### Source page 93
 
-—the increases in land tax and water tax that have been imposed are cruel, unjust and capable of tormenting farmers. They can throw earth into the very lives of cultivators. This has been said not only from the Opposition side; progressive-minded people on the ruling and Opposition sides have said it as well. If, even after that, they remain stubborn, we may praise the Chief Minister's stubbornness, but we are being forced today to search and search for whether there is any compassion in him.
+—the increases in land tax and water tax that have been imposed are cruel, unjust and capable of tormenting farmers. They can throw soil over the very lives of cultivators. This has been said not only from the Opposition side; progressive-minded people on the ruling and Opposition sides have said it as well. If, even after that, they remain stubborn, we may praise the Chief Minister's stubbornness, but we are being forced today to search and search for whether there is any compassion in him.
 
 Before stating what the Opposition generally thinks of this Budget, I think it appropriate to place before this House the opinion expressed by the respected Dr. Natarajan of the ruling party in an article he wrote. In that journal the article appeared simply under the name “Dr. P. Natarajan”; even the connection “M.L.A.” was not added. Perhaps it appeared under “Dr. P. Natarajan” because of some thought as to whether it was proper to say such things while being an M.L.A. of the ruling party.
 
