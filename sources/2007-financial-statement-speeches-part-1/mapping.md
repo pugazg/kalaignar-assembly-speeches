@@ -116,16 +116,16 @@ Released material remains locked. This anthology must be processed as an indepen
 - defer the next whole speech if adding it would exceed 25 pages;
 - if one speech itself exceeds 25 pages, process that intact speech separately.
 
-Speech 6 / 7.3.1963 was processed as the current **16-page Gate-C activity**. Speech 7 / 7.3.1964 is 14 pages and was not started in that activity.
+Speech 7 / 7.3.1964 has now completed Gate C as an intact **14-page activity / scans 76–89** using split local pages 1–14. Speech 8 / scan 90 remains excluded.
 
 ## Gate status
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–6 CLOSED; speeches 7–19 not started**
+- Gate C — **Speeches 1–6 CLOSED; Speech 7 COMPLETE / 14 of 14 / NOT VERIFIED; speeches 8–19 not started**
 - Gate D — **Speeches 1–6 PASS / COMPLETE — 0 completeness corrections each**
 - Gate E — **Speech 1 / 9 corrections; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; all 1–6 Tamil VERIFIED / 0 unresolved**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–6 — modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–6; Speech 7 provisionally N/A — modern 2007 typesetting; reopen only if source pixels show a legacy-glyph issue**
 - Gate F — **Speeches 1–6 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16**
 - Gate G — **Speeches 1–6 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15; 0 blockers; English VERIFIED**
 - Gate H — **Speeches 1–6 PASS / COMPLETE — RELEASED / CLOSED**
@@ -142,22 +142,27 @@ Speech 6 / 7.3.1963 was processed as the current **16-page Gate-C activity**. Sp
 
 - working entry — `speeches/1963/1963-03-07-financial-statement-debate/`
 - scans **60–75 / printed pp.59–74**
-- Gate C — **COMPLETE / 16 of 16 pages**
-- Gate D — **PASS / COMPLETE / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / 20 corrections / 0 unresolved**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate C.5 — **N/A / CLOSED**
-- Gate F — **COMPLETE / 16 of 16 English pages**
-- Gate G — **PASS / COMPLETE / 16 of 16 pages / 15 refinements / 0 blockers / 0 Tamil changes**
-- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- source-printed English scan 73 — **preserved verbatim**
-- Gate-F blockers — **0**
-- Gate H — **PASS / COMPLETE**
-- boundaries **59→60** and **75→76** — preserved
+- Gates C–H — **COMPLETE**
+- Tamil / English — **VERIFIED**
 - release — **RELEASED / CLOSED**
-- Speech 7 not started
+- boundary **75→76** — preserved
+
+## Speech 7 Gate-C state
+
+- working entry — `speeches/1964/1964-03-07-financial-statement-debate/`
+- scans **76–89 / printed pp.75–88**
+- working split local pages **1–14**
+- Gate C — **COMPLETE / 14 of 14 pages**
+- markers **76→89** — exactly once and in order
+- unresolved first-pass readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Gate C.5 — **provisionally N/A**
+- Gate D — **NOT STARTED / next**
+- boundaries **75→76** and **89→90** — preserved
+- scan 90 / Speech 8 — excluded
 - outside wording — **none**
 
 ## Exact continuation
 
-Speeches **1–6 are RELEASED / CLOSED through Gate H**. Exact next: **Speech 7 / 7.3.1964 — Gate C Tamil first-pass transcription, scans 76–89 / 14 pages**.
+Speeches **1–6 are RELEASED / CLOSED through Gate H**. Speech 7 Gate C is complete. Exact next: **Speech 7 / 7.3.1964 — Gate D completeness audit, scans 76–89 / 14 pages**.
