@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches 1–7 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 7 / 7.3.1964 closed with **19 Gate-E corrections / 16 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes**. Speech 8 / 4.3.1966 is next.
+Speeches 1–7 are **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 8 / 4.3.1966 Gate C is **COMPLETE / 23 of 23 pages / Tamil TRANSCRIBED / NOT VERIFIED**; Gate D is next.
 
 ## Whole-speech batching policy
 
@@ -292,6 +292,29 @@ Reader/work entry:
 - Gate-H wording changes — **0 Tamil / 0 English**
 - outside wording — **none**
 
+## Speech 8 Gate-C state
+
+Reader/work entry:
+
+[`../../speeches/1966/1966-03-04-financial-statement-debate/`](../../speeches/1966/1966-03-04-financial-statement-debate/)
+
+- source label/date — `உரை : 8 / 4.3.1966`
+- global scans — **90–112**
+- printed pages — **89–111**
+- page count — **23**
+- split 004 local pages **15–25** = global scans **90–100**
+- split 005 local pages **1–12** = global scans **101–112**
+- Gate C — **COMPLETE / 23 of 23 pages**
+- source markers — **90→112 exactly once and in order**
+- first-pass unresolved readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Gate C.5 — **provisionally N/A**
+- Gate D — **NOT STARTED / next**
+- hard boundaries **89→90** and **112→113** — preserved
+- scan 113 / Speech 9 — visually confirmed and excluded
+- outside wording from OCR / web / Official Reports / alternate anthologies — **none**
+
 ## Exact next activity
 
-Begin **Speech 8 / 4.3.1966 — Gate C Tamil first-pass transcription**, scans **90–112 / 23 pages**.
+Perform **Speech 8 / 4.3.1966 — Gate D completeness audit**, scans **90–112 / 23 pages**. Do not begin Gate E, English translation or Speech 9 in the same iteration.
