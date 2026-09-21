@@ -338,3 +338,74 @@ In Tamil Nadu, lands belonging to temples, mosques, churches and charitable inst
 In Tamil Nadu, temples owning land cannot acquire further land after 1.3.1972. I do not know of a similar provision in Kerala.
 
 In Tamil Nadu, fruit gardens and groves are exempt only in respect of land held as on 1.7.1959. In Kerala, private forests are exempt.
+
+
+<!-- source-page: 226 -->
+
+Bhoodan lands are exempt in Tamil Nadu. They are exempt in Kerala too.
+
+University lands are exempt in Tamil Nadu. University lands are exempt in Kerala. In Tamil Nadu, colleges may retain 40 standard acres; high schools may retain 20 standard acres; primary or higher elementary schools may retain 10 standard acres; student hostels 25 standard acres; technical schools 25 standard acres; agricultural schools 25 standard acres; orphanages 25 standard acres; and other trusts 5 standard acres. In Kerala, educational institutions and trusts are exempt.
+
+Therefore, as far as the ceiling law is concerned, I wish to tell our Mr Manali and the others that we are not very far behind Kerala and that in certain respects we are somewhat more progressive.
+
+**Mr K. Subbu:** Hon. Deputy Speaker, what we are speaking about is not the ceiling law. The Land Reform Acts brought in after that law were enacted in 1969 and came into force on 1 January 1970. Under that law, the person who tills the land becomes the owner of that land. The intermediary class has been abolished. Even if it is temple land, he acquires rights in it. But all those matters fall outside the exemptions. That is the law we are talking about. You have not referred to it.
+
+**Hon. Kalaignar M. Karunanidhi:** I have referred to the legislation taken as a whole; I am speaking about the connected legislation. We are going to discuss the tenants' law in detail.
+
+<!-- source-page: 227 -->
+
+Mr Subbu also said that under the tenants' law there, no compensation was paid to the owners. Compensation has been paid there. The procedures and forms are different. We are going to discuss the tenants' law at greater length, and since we can speak about it then, I wish to leave the matter here.
+
+In his speech, our Mr Manali gave a great deal of advice to the members of the Dravida Munnetra Kazhagam. Mr Manali recommended that all of you should read the book *Kunrin Melitta Vilakku* written by Arignar Anna.
+
+I do not understand when Mr Manali changed in this fashion. In any book or article, the concluding thought is normally what represents the intention of the author, leader, writer or essayist who wrote it. On the last page of *Kunrin Melitta Vilakku*, Arignar Anna concludes by writing: “Those who witnessed the Tirupparankundram Conference will not dare say so. The Tirupparankundram Conference showed that there is a firm resolve by which Dravidians will protect Dravida Nadu. From where did this resurgence arise! Brother! It is all the result of your valour! The fruit of the awakening! The elevation born of labour! I congratulate you! May your enthusiasm grow! Let Dravidam triumph! Elder brother, Annadurai.”
+
+It is a puzzle to me that Mr Manali now says all the members of the Dravida Munnetra Kazhagam should accept this. I do not understand why Mr Manali said, “Read this again and act according to it.”
+
+<!-- source-page: 228 -->
+
+**Mr Manali C. Kandasamy:** Hon. Kalaignar has very deftly put a question to me. All I said was that DMK members should read the principles set out in that book about how one ought to conduct oneself in public life. I did not say that I accepted the entire book. Your own position has changed today. The position in which you said “Dravida Nadu for Dravidians” has itself undergone change today. I merely said that you should once again read the principles and standards of conduct mentioned there concerning public life.
+
+**Hon. Kalaignar M. Karunanidhi:** In *Kunrin Melitta Vilakku*, Arignar Anna has also said that those in public life should not break away from a party and then attempt to destroy that very party. I wish to point out that such persons are today associated with you.
+
+ADMK member Mr K.M. Subramaniam said that only after joining the ADMK did he begin reading Anna's articles. I genuinely feel very sorry about that. The proper course is to read them, be attracted by them, and then go to a party; it is amusing to join a party first and then say that its policy is sacred. I assume that he has read all the books. I do not know whether he has read a certain book written by Arignar Anna. In it, he writes:
+
+Hail, great lord of greed!
+Hail, you who have two tongues to speak!
+Hail, embodiment of intrigue!
+
+<!-- source-page: 229 -->
+
+Hail, leader of servants!
+Hail, deceitful king!
+Hail, hard-eyed lord!
+Hail, man of cruel nature!
+Hail, coward—hail, hail!
+Hail, supreme embodiment of fear!
+Hail, doer of grievous deceit!
+Hail, one who ties knots of mischief!
+Hail, laughing fox!
+Hail, master of tricks!
+Hail, one possessed of lofty injustice!
+Hail, destroyer of our race!
+Hail, incomparable ruin!
+O lord, hail, hail!
+I have praised you—hail, hail!
+
+That is what has been written in the book *Arya Mayai*. I think he has not read it. This book has been given a very fitting cover.
+
+**Mr K. R. Edmund:** I wish to remind you that people who were once in your party—it is your party now, not ours—and who then jumped from that party through two other parties and, while in yet another party, spoke in the most disgraceful terms about Perarignar Anna, have all today joined your side.
+
+**Hon. Kalaignar M. Karunanidhi:** The world knows who all are on your side.
+
+**Mr K. R. Edmund:** There are good people on our side. People who spoke disgracefully about Perarignar Anna are in your party.
+
+<!-- source-page: 230 -->
+
+**Hon. Kalaignar M. Karunanidhi:** At a time when even the definition of who is “good” has changed in the country, I am surprised that my friend speaks about good people. The country knows very well who are good people and who are not. The country also knows very well that people who once spoke of “Mr Annadurai” are today given page after page in their newspaper.
+
+**Mr K.R. Edmund:** I wish to say that today you have given places in your Cabinet to those who wrote “Annadurai”.
+
+**Hon. Kalaignar M. Karunanidhi:** On this financial statement, I have spoken here at length and given my explanations regarding the many valuable points raised by our Hon. leaders of the opposition and members of all parties. In this reply I have pointed out, to the extent necessary, that the Dravida Munnetra Kazhagam Government has made every effort to face whatever severe crises arise in Tamil Nadu, to obtain the cooperation of the people of Tamil Nadu, and to act with the understanding that crises must not be treated with indifference but must receive close attention.
+
+In that spirit, I convey my thanks and respects to the leaders of all parties and the Hon. members who, by expressing their views, have helped bring this financial-statement discussion to a conclusion. With that, I conclude. Greetings.
