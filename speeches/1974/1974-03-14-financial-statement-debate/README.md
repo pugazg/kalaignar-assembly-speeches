@@ -74,8 +74,10 @@ Speech 13 spans **32 pages**, exceeding the normal 25-page activity allowance. T
 - Gate-E ledger — **8 correction entries / 9 correction occurrences / 0 unresolved readings**
 - Gate E — **PASS / COMPLETE / scans 231–262 / 32 of 32 pages**
 - Gate F / English — **COMPLETE / 32 of 32 pages**
-- Gate G — **NOT STARTED / next**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
+- Gate G — **PASS / COMPLETE / 32 of 32 / 7 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+
+- Gate H / release — **PASS / COMPLETE — RELEASED / CLOSED**
 - source wording imported from outside witnesses — **none**
 - Speech 12 — **unchanged / RELEASED / CLOSED**
 - Speech 14 — **not begun**
@@ -84,13 +86,40 @@ Gate D checked structural completeness only. Gate E then completed the separate 
 
 ## Files
 
-- `transcript.md` — Gate-E-verified Tamil, scans 231–262
-- `translation.md` — complete Gate-F English working translation, source pages 231–262
-- `translation-review.md` — Gate-F completion record; Gate G pending
+- `transcript.md` — canonical bilingual verified Tamil + verified English
+- `translation.md` — released pointer to canonical English in `transcript.md`
+- `translation-review.md` — Gate-F/G audit and Gate-H release closure
 - `metadata.json` — machine-readable Gates C–E final Tamil state
 - `source-notes.md` — source authority and audit constraints
 - `verification-log.md` — detailed Gate C.5 / Gate D result plus final Gate-E correction ledger
 
+## Gate F / Gate G result
+
+- Gate F — **COMPLETE / 32 of 32**
+- Gate G — **PASS / COMPLETE / 32 of 32**
+- English refinements — **7**
+- blocking fidelity issues — **0**
+- verified Tamil changes — **0**
+- source-printed English changes — **0**
+- outside English imported — **0**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+- source-page sequence — **231→262 / 32 / exactly once / ordered**
+
+The Gate-G refinement ledger is in `translation-review.md`.
+
+## Gate H result
+
+- canonical bilingual `transcript.md` — **COMPLETE**
+- Tamil markers **231→262** — **32/32 / exactly once / ordered**
+- English source-page sections **231→262** — **32/32 / exactly once / ordered**
+- `translation.md` — **retired to released pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- source-printed English — **preserved verbatim**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- release — **RELEASED / CLOSED**
+
 ## Exact next activity
 
-Perform **Speech 13 Gate G English fidelity review — source pages 231–262 / 32 of 32** against the final Gate-E-verified Tamil. Do not alter verified Tamil, begin Gate H, or begin Speech 14 in the same activity.
+Begin **Speech 14 / 10.03.1975 source-boundary + Gate-C setup — scans 263–319 / printed pp.262–318 / 57 pages**. Do not reopen Speech 13 unless a source-backed defect is discovered.
