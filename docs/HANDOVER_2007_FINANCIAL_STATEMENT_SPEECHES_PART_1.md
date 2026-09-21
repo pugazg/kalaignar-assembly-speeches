@@ -618,7 +618,7 @@ Parallel-witness/index treatment:
 - root dated speech table — **UNCHANGED INTENTIONALLY**
 - reason — the repository's dated machine-readable index currently has one canonical entry per date; a second `1973-03-07` entry was not created. The released anthology witness remains discoverable through the anthology package and repository status sections.
 
-## Speech 13 durable Gate-C state
+## Speech 13 durable Gate-D state
 
 Canonical working entry:
 
@@ -626,46 +626,43 @@ Canonical working entry:
 
 Locked unit:
 
-- source label/date — `உரை : 13 / 14.03.1974`
-- global scans — **231–262**
-- printed pages — **230–261**
-- page count — **32**
-- hard boundaries — **230→231 / 262→263 — PASS**
-- whole-speech exception — **APPLIED / intact 32-page unit**
+- `உரை : 13 / 14.03.1974`
+- scans **231–262 / printed pp.230–261 / 32 pages**
+- boundaries **230→231 / 262→263 — PASS**
+- whole-speech exception — **APPLIED**
 
-Controlling split coverage:
+Current Tamil state:
 
-- part010 local **6–25** = scans **231–250** / **20 pages** — SHA-256 `257b862a7ebe21d768f8e5a2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90`
-- part011 local **1–12** = scans **251–262** / **12 pages** — SHA-256 `27c9c96d3c0bdb53480f8d1634300bf9d7dc57be17d3f83c66397ef78863712d`
-- total — **32/32 COMPLETE / no gap / no overlap**
-
-Gate C result:
-
-- Gate C — **COMPLETE / 32 of 32 pages**
+- Gate C — **COMPLETE / 32 of 32**
 - source-page markers — **231→262 / 32 / exactly once / ordered**
+- Gate C.5 — **N/A / CLOSED**
+- Gate C.5 basis — **modern 2007 typesetting / no legacy-glyph condition identified**
+- Gate D — **PASS / COMPLETE / 32 of 32**
+- internal transitions — **31 of 31 PASS**
+- completeness corrections — **0**
+- missing pages — **0**
+- duplicate long blocks — **0**
+- unresolved first-pass readings — **0 currently flagged**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- unresolved first-pass readings — **0 currently flagged**
-- first-pass `transcript.md` — **COMPLETE**
-- OCR / web / Official Reports / alternate anthologies / other witnesses — **not used**
-- released Speech 12 — **UNCHANGED**
-- Speech 14 — **NOT STARTED**
+
+Gate-D structural checks passed for heading/date, page continuations, speaker changes/interventions, source-printed English, figures, quotations, parenthetical reactions, page markers and the scan-262 `வணக்கம்.` / ornament close.
+
+No OCR, web copy, Official Reports, alternate anthology, released speech or other witness supplied wording. Speech 12 remains unchanged; Speech 14 was not begun.
 
 Downstream state:
 
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
-- Gate E — **NOT STARTED**
+- Gate E — **NOT STARTED / next**
 - English / Gate F / Gate G — **BLOCKED / NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 
-Gate C is not a word-for-word verification claim.
+## Exact next activity — Speech 13 Gate E
 
-## Exact next activity — Speech 13 Gate C.5 / Gate D
+Perform **word-for-word source-fidelity verification across scans 231–262 / 32 pages** using only the controlling 2007 anthology pixels.
 
-1. determine whether Gate C.5 is applicable to this modern 2007 typesetting;
-2. perform the **Gate D completeness/structure audit across all scans 231–262**;
-3. verify all **31 internal page transitions**, heading/start, close, speaker changes/interventions, printed English, figures, quotations and source-page markers;
-4. apply completeness corrections only when directly supported by the controlling pixels;
-5. Tamil must remain **NOT VERIFIED / verified_against_scan=false** after Gate D;
-6. do not begin Gate E, English work, Gate H or Speech 14 in the same activity.
+- verify every page directly against the source;
+- log each source-fidelity correction with scan and before→after reading;
+- preserve source spelling, punctuation, numerals, speaker labels, source-printed English and source-visible repetition;
+- resolve uncertainties only from the same controlling pixels;
+- set Tamil VERIFIED / `verified_against_scan=true` only if all 32 pages pass with zero unresolved readings;
+- do not begin English work, Gate H or Speech 14 in the same activity.
