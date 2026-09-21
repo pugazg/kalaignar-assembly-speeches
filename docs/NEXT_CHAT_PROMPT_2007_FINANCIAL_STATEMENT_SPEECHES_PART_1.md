@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 12 Gate E finalization
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 12 Gate F English
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -28,35 +28,25 @@ Do not reopen Speeches 1–11 merely for stylistic polishing.
 
 Coverage — **40/40 COMPLETE**.
 
-## Speech 12 durable gate state
+## Speech 12 final Tamil state
 
 - Gate C — **COMPLETE / 40 of 40**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 40 of 40 / 39 of 39 transitions / 0 completeness corrections**
-- scan 191 `மறுபவழி` — **confirmed as printed**
-- Gate E visual review — **COMPLETE / scans 191–230 / 40 of 40 pages**
-- checkpoint correction ledger — **23 confirmed correction entries / 28 correction occurrences**
-- visual-review unresolved readings — **0 at scans 229–230; final whole-ledger unresolved total not yet sealed**
-- corrections applied to `transcript.md` — **0**
-- ledger application — **PENDING final adjudication**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- English / Gate F / G / H — **NOT STARTED**
-
-## Final visual-review additions
-
-- scan 229 — **0 new correction entries / 0 unresolved**
-  - scan-228→229 poem continuation confirmed;
-  - poem and closing exchanges retained.
-- scan 230 — **4 new correction entries / 0 unresolved**
-  - `எழுதியவர்களுக்கு → எழுதியவர் களுக்கு`
-  - `உறுப்பினர்களும் → உறுப்பினர் களும்`
-  - `சுட்டிக்காட்டி இருக்கிறேன் → சுட்டிக்காட்டியிருக்கிறேன்`
-  - `உறுப்பினர்களுக்கும் → உறுப்பினர் களுக்கும்`
-  - final `வணக்கம்.` and source ornament confirmed.
-- scan 204 high-resolution re-adjudication — `“டிசம்பர் மாதம் 8”;ந்தேதி → ‘‘டிசம்பர் மாதம் 8’’ந்தேதி`
-
-The full checkpoint ledger is recorded in Speech 12 `metadata.json` and `verification-log.md`.
+- Gate E — **PASS / COMPLETE / 40 of 40**
+- final Gate-E ledger — **25 correction entries / 30 correction occurrences**
+- affected scans — **16**
+- unresolved readings — **0**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- scan 191 `மறுபவழி` — **confirmed as printed / retained**
+- scan 222 source-visible repeated cinema sentence — **retained twice**
+- scan 228→229 poem continuation — **confirmed / preserved**
+- scan 230 final exchange / `வணக்கம்.` / ornament — **confirmed**
+- outside wording imported — **0**
+- English / Gate F — **NOT STARTED / next**
+- Gate G / H — **NOT STARTED**
+- release — **NOT RELEASED**
 
 ## Mandatory parallel-witness rule
 
@@ -66,18 +56,18 @@ A fully released independent record exists at:
 
 The 2007 anthology Speech 12 remains **parallel witness only**.
 
-Do **not** overwrite, merge into, normalize against, or use the released entry to supply wording.
+Do **not** overwrite, merge into, normalize against, or use the released entry to supply Tamil or English wording.
 
-## Exact next activity
+## Exact next activity — Gate F
 
 1. read live-main Speech 12 README/metadata/source-notes/verification-log/transcript plus anthology controls;
-2. adjudicate the complete **23-entry / 28-occurrence** checkpoint correction ledger against the controlling anthology pixels;
-3. remove or adjust any checkpoint entry not supported by the same source;
-4. batch-apply the finalized correction ledger to `transcript.md`;
-5. preserve scan 222's source-visible repeated cinema sentence;
-6. preserve the scan 228→229 poem wording/continuation;
-7. revalidate all **40 source markers / 191→230**, hard boundaries and close after edits;
-8. record the final Gate-E correction count and unresolved-reading count;
-9. only if the completed source-fidelity audit and post-edit validation support it, set Tamil **VERIFIED / verified_against_scan=true** and Gate E **PASS / COMPLETE**;
-10. synchronize all Speech 12 and anthology controls;
-11. do **not** begin Gate F/English translation, Gate G/H or Speech 13 in the same activity.
+2. translate the complete verified Tamil for **all 40 pages / scans 191–230** into English;
+3. use only this verified anthology Tamil as the translation source;
+4. preserve source-page alignment for all 40 markers;
+5. preserve speaker labels/interventions, source-printed English, figures, dates, quotations, reactions, and visible repetition;
+6. preserve scan 222's repeated cinema-show sentence in English as two source-visible occurrences;
+7. preserve the scan 228→229 poem as one continuous poem while retaining the page transition;
+8. do not import English wording from the released 1973 parallel witness, web sources, Official Reports, alternate anthologies or any other witness;
+9. do not alter verified Tamil during Gate F; record genuine translation questions separately;
+10. after all 40 pages are translated, mark Gate F complete / English translated-not-verified and synchronize Speech 12 and anthology control documents;
+11. do **not** begin Gate G/H or Speech 13 in the same activity.
