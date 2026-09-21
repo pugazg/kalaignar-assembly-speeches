@@ -38,7 +38,7 @@ Use only:
 - local pages **16–25**
 - global scans **241–250**
 - printed pages **240–249**
-- SHA-256 `257b862a7ebe21d768f8e5eb879b753d7d5e2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90`
+- SHA-256 `257b862a7ebe21d768f8e5a2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90`
 
 No OCR, web copy, Official Reports, alternate anthology, released speech or another witness may supply or repair wording.
 
