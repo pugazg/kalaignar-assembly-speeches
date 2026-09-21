@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches **1–11 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 12 / 07.03.1973 is established separately at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent parallel witness** to the already released `1973-03-07-financial-statement-reply`. Speech 12 Gate C is **COMPLETE / 40 of 40**; Gate C.5 is **N/A / CLOSED**; Gate D is **PASS / COMPLETE / 40 of 40 / 0 completeness corrections**; Gate E is **PASS / COMPLETE / 40 of 40 — 25 correction entries / 30 correction occurrences / 0 unresolved**. Tamil is **VERIFIED** with `verified_against_scan=true`. Gate F is **COMPLETE / 40 of 40**; Gate G is **PASS / COMPLETE / 40 of 40 — 12 refinements / 0 blockers / 0 Tamil changes**. English is **VERIFIED AGAINST TAMIL** with `verified_against_tamil=true`; Gate H is next.
+Speeches **1–12 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 12 / 07.03.1973 is preserved at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent released parallel witness** to the separately released `1973-03-07-financial-statement-reply`. Its canonical bilingual transcript is complete; Gate H made **0 Tamil / 0 English wording changes**. To avoid a second canonical same-date entry, `data/speeches.json` and the root dated speech table intentionally retain only the existing `1973-03-07-financial-statement-reply` index record; the anthology witness remains discoverable through this source package and repository status sections.
 
 ## Whole-speech batching policy
 
@@ -416,10 +416,21 @@ Locked unit: **191–230 / printed 190–229 / 40 pages**.
 - English / Gate F — **COMPLETE / 40 of 40**
 - Gate G — **PASS / COMPLETE / 40 of 40 / 12 refinements / 0 blockers / 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **NOT STARTED / next**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
 
 No OCR, web copy, Official Report, released 1973 wording, alternate anthology or another witness supplied Gate-E wording. Final before→after details are in the Speech 12 verification log and metadata.
 
+## Speech 12 Gate-H closure
+
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- parallel witness — **PRESERVED / RELEASED / CLOSED**
+- existing same-date released witness — **UNCHANGED**
+- `data/speeches.json` — **unchanged intentionally**
+- root dated speech table — **unchanged intentionally**
+- no duplicate canonical `1973-03-07` index record was created.
+
 ## Exact next activity
 
-Perform **Speech 12 Gate H canonical bilingual merge / release-readiness closure** while preserving the independent released `1973-03-07-financial-statement-reply` witness unchanged. Do not begin Speech 13 in the same activity.
+Begin **Speech 13 / 14.03.1974 source-boundary and Gate-C setup — scans 231–262 / printed pp.230–261 / 32 pages**. Treat it as one intact whole-speech exception when Gate C starts. Do not reopen Speech 12 unless a source-backed defect is discovered.
