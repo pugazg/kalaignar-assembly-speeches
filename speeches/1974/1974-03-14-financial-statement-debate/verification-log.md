@@ -146,3 +146,24 @@ Final result:
 ## Exact next activity
 
 Begin **Speech 13 Gate F English translation** from the final Gate-E-verified Tamil only. Do not modify verified Tamil, begin Gate G/Gate H, or begin Speech 14 in the same activity.
+
+## Gate F — English first-pass translation
+
+**COMPLETE / 32 of 32 pages.**
+
+- translation source — **final Gate-E-verified Tamil only**
+- English source-page sections — **231→262 / 32 / exactly once / ordered**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / other-witness wording imported — **0**
+- source-printed English preserved verbatim — **YES**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- Gate G — **NOT STARTED / next**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
+
+Conservative source-bound forms retained for Gate-G review include `nalangu`, `kezhvai`, `podi`, `arishtams` and `kavalar`.
+
+## Exact next activity
+
+Perform **Speech 13 Gate G English fidelity review — source pages 231–262 / 32 of 32** against the verified Tamil only. Do not begin Gate H or Speech 14 in the same activity.
