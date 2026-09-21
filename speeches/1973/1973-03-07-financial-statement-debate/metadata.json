@@ -110,8 +110,8 @@
     "verified_against_scan": false,
     "historical_glyph_gate_status": "n-a-closed-modern-2007-typesetting-no-historical-glyph-anomaly-observed",
     "gate_d_status": "pass-complete",
-    "gate_e_status": "in-progress",
-    "next_gate": "Continue Gate E scans 229-230, finalize/apply correction ledger, then 40/40 closure",
+    "gate_e_status": "in-progress-finalization-pending",
+    "next_gate": "Finalize/apply Gate E correction ledger, revalidate 40 markers, then close Gate E if supported",
     "outside_wording_imported": false,
     "gate_c5": {
       "status": "n-a-closed",
@@ -156,18 +156,18 @@
       },
       "outside_wording_imported": false
     },
-    "note": "Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE. Gate E is IN PROGRESS: scans 191-228 (38/40 pages) have been visually reviewed against the controlling anthology pixels, with a checkpoint ledger of 18 confirmed correction occurrences. The ledger has not yet been batch-applied; scans 229-230 remain pending. Tamil remains not verified.",
+    "note": "Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE. Gate E visual review is COMPLETE across scans 191-230 / 40 of 40 pages, with a checkpoint ledger of 23 correction entries / 28 occurrences. Corrections are not yet batch-applied; final ledger adjudication and post-edit validation remain pending. Tamil remains not verified.",
     "gate_e_progress": {
-      "status": "in-progress",
-      "reviewed_scan_pages": "191-228",
-      "reviewed_printed_pages": "190-227",
-      "reviewed_page_count": 38,
+      "status": "in-progress-finalization-pending",
+      "reviewed_scan_pages": "191-230",
+      "reviewed_printed_pages": "190-229",
+      "reviewed_page_count": 40,
       "total_page_count": 40,
-      "pending_scan_pages": "229-230",
-      "pending_page_count": 2,
+      "pending_scan_pages": null,
+      "pending_page_count": 0,
       "transcript_corrections_applied": 0,
-      "correction_ledger_application_status": "deferred-until-full-40-page-gate-e-audit",
-      "confirmed_correction_occurrence_count_checkpoint": 18,
+      "correction_ledger_application_status": "pending-final-ledger-adjudication-and-batch-application",
+      "confirmed_correction_occurrence_count_checkpoint": 28,
       "confirmed_corrections_checkpoint": [
         {
           "scan": 192,
@@ -276,13 +276,59 @@
           "before": "ஏ.டி.எம்.கே.",
           "after": "எ.டி.எம்.கே.",
           "occurrences": 1
+        },
+        {
+          "scan": 204,
+          "before": "“டிசம்பர் மாதம் 8”;ந்தேதி",
+          "after": "‘‘டிசம்பர் மாதம் 8’’ந்தேதி",
+          "occurrences": 1
+        },
+        {
+          "scan": 230,
+          "before": "எழுதியவர்களுக்கு",
+          "after": "எழுதியவர் களுக்கு",
+          "occurrences": 1
+        },
+        {
+          "scan": 230,
+          "before": "உறுப்பினர்களும்",
+          "after": "உறுப்பினர் களும்",
+          "occurrences": 1
+        },
+        {
+          "scan": 230,
+          "before": "சுட்டிக்காட்டி இருக்கிறேன்",
+          "after": "சுட்டிக்காட்டியிருக்கிறேன்",
+          "occurrences": 1
+        },
+        {
+          "scan": 230,
+          "before": "உறுப்பினர்களுக்கும்",
+          "after": "உறுப்பினர் களுக்கும்",
+          "occurrences": 1
         }
       ],
       "final_correction_count": null,
       "final_unresolved_reading_count": null,
       "verified_against_scan": false,
       "outside_wording_imported": false,
-      "note": "Checkpoint only. Scans 191-228 have been visually reviewed against the controlling anthology pixels. The confirmed ledger has not yet been batch-applied to transcript.md because scans 229-230 and full 40/40 Gate-E closure remain pending."
+      "note": "All scans 191-230 have now been visually reviewed against the controlling anthology pixels. Gate E remains open only for final correction-ledger adjudication, batch application to transcript.md, post-edit 40-marker validation, and final correction/unresolved totals. Checkpoint accounting is now explicit: 23 correction entries / 28 correction occurrences. Tamil is not yet verified.",
+      "visual_review_complete": true,
+      "confirmed_correction_entry_count_checkpoint": 23,
+      "scan_229_result": {
+        "status": "reviewed",
+        "correction_entries": 0,
+        "correction_occurrences": 0,
+        "unresolved_readings": 0,
+        "note": "Poem continuation and closing exchanges compared against the controlling anthology pixels; no new wording correction recorded at this checkpoint."
+      },
+      "scan_230_result": {
+        "status": "reviewed",
+        "correction_entries": 4,
+        "correction_occurrences": 4,
+        "unresolved_readings": 0,
+        "note": "Final page visually reviewed; four source-form/spacing corrections recorded in the checkpoint ledger. Source close and ornament confirmed."
+      }
     }
   },
   "translation": {
