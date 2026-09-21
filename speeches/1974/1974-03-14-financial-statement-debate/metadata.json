@@ -244,14 +244,44 @@
   },
   "translation": {
     "language": "English",
-    "status": "not-started",
+    "status": "translated-not-verified",
     "type": "faithful reading translation",
     "source_text": "Gate-E-verified Tamil in transcript.md",
     "verified_against_tamil": false,
-    "gate_f_status": "not-started",
+    "gate_f_status": "complete",
     "gate_g_status": "not-started",
-    "next_gate": "Gate F English translation",
-    "external_witness_translation_imported": false
+    "next_gate": "Gate G English fidelity review",
+    "external_witness_translation_imported": false,
+    "completed_scan_pages": "231-262",
+    "completed_page_count": 32,
+    "total_page_count": 32,
+    "blocking_questions": [],
+    "blocking_question_count": 0,
+    "verified_tamil_changes": 0,
+    "outside_english_imported": false,
+    "source_printed_english_preserved": true,
+    "source_page_markers_preserved": true,
+    "marker_count": 32,
+    "marker_range": "231-262",
+    "gate_f": {
+      "status": "complete",
+      "source_pages": "231-262",
+      "page_count": 32,
+      "blocking_question_count": 0,
+      "verified_tamil_changes": 0,
+      "verified_against_tamil": false,
+      "outside_english_imported": false,
+      "source_printed_english_preserved": true,
+      "source_page_markers_preserved": true,
+      "conservative_source_bound_terms": [
+        "nalangu",
+        "kezhvai",
+        "podi",
+        "arishtams",
+        "kavalar"
+      ],
+      "note": "Complete working English translation from Gate-E-verified Tamil only; Gate G fidelity review remains pending."
+    }
   },
   "release": {
     "status": "not-released",
