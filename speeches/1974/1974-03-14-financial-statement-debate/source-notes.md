@@ -117,25 +117,38 @@ Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`.
 
 **PASS / COMPLETE — scans 231–262 / 32 of 32 pages verified.**
 
-Final correction ledger:
-
-| Scan | Printed page | Before | After | Occurrences |
-|---:|---:|---|---|---:|
-| 238 | 237 | `பின்னாக்கு` | `பிண்ணாக்கு` | 1 |
-| 238 | 237 | `ரெசினால்` | `எஃகினால்` | 1 |
-| 247 | 246 | `எடுத்துக் கொள்ளப்பட்டது` | `எடுத்துக் கொள்ளப்பட்டவை` | 2 |
-| 251 | 250 | `மாநிலஅரசு` | `மாநில அரசு` | 1 |
-| 252 | 251 | `இண்டஸ்ட்ரியல் பாலிசி ரெசல்யூஷன்` | `இண்டஸ்ட்ரியல் பாலிசிரெசல்யூஷன்` | 1 |
-| 256 | 255 | `போடப்போகிறார்கள்` | `போட்டுப்போகிறார்கள்` | 1 |
-| 256 | 255 | `ஏற்படுத்தியுடன்` | `ஏற்படுத்தியவுடன்` | 1 |
-| 262 | 261 | `இந்த அளவில் அமைக்கிறேன்` | `இந்த அவையில் அமைகிறேன்` | 1 |
-
 Final Gate-E ledger: **8 correction entries / 9 occurrences / 0 unresolved readings**.
 
-Tamil is **VERIFIED / `verified_against_scan=true`**. The closing scan 262 ends with `இந்த அவையில் அமைகிறேன். வணக்கம்.` and the source ornament.
+Tamil is **VERIFIED / `verified_against_scan=true`**. No OCR, web copy, Official Report, alternate anthology, released speech or other witness supplied any Tamil wording.
 
-No OCR, web copy, Official Report, alternate anthology, released speech or other witness supplied any correction. The controlling 2007 anthology pixels remain the sole textual authority.
+## Gate F / Gate G English
+
+- Gate F — **COMPLETE / 32 of 32**
+- translation authority — **final Gate-E-verified Tamil only**
+- Gate F blockers — **0**
+- Gate G — **PASS / COMPLETE / 32 of 32**
+- Gate-G refinements — **7**
+- Gate-G blockers — **0**
+- verified-Tamil changes — **0**
+- source-printed English changes — **0**
+- outside English imported — **0**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- source-page sequence — **231→262 / exactly once / ordered**
+
+## Gate H release closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- canonical bilingual `transcript.md` — complete verified Tamil followed by verified English
+- `translation.md` — retired to released pointer
+- Gate-H wording changes — **0 Tamil / 0 English**
+- source-printed English — preserved verbatim
+- hard boundaries **230→231 / 262→263** — preserved
+- `data/speeches.json` — indexed
+- root dated speech table — indexed
+- Speech 12 — unchanged
+- Speech 14 — not begun
 
 ## Exact next
 
-Begin **Gate F English translation** from the final Gate-E-verified Tamil only. Do not change verified Tamil, begin Gate G/Gate H, or start Speech 14 in the same activity.
+Begin **Speech 14 / 10.03.1975 source-boundary + Gate-C setup — scans 263–319 / printed pp.262–318 / 57 pages**. Do not reopen Speech 13 unless a source-backed defect is discovered.
