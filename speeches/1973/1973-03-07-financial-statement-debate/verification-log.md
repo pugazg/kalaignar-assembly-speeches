@@ -184,12 +184,36 @@ Final adjudication added two speaker-label punctuation corrections that were not
 - parallel released witness — **untouched**
 - `data/speeches.json` — **unchanged intentionally; anthology parallel witness remains unreleased**
 
+## Gate F — English translation
+
+**COMPLETE / 40 of 40 pages.**
+
+- translation source — **Gate-E-verified Tamil in `transcript.md` only**
+- translated source pages — **191–230**
+- translated page count — **40/40**
+- source-page markers — **40 / 191→230 / exactly once / ordered**
+- source-printed English — **preserved verbatim**
+  - scan 204 — Hande advertisement/circulation question
+  - scan 205 — extended Hande intervention
+  - scan 214 — T.N. Anandanayaki intervention
+  - scan 217 — K.L. Rao quotation
+  - scan 218 — both K.L. Rao power-planning quotations
+- scan 222 source-visible repeated cinema-show sentence — **translated twice**
+- scan 228→229 poem — **translated continuously while preserving the page transition**
+- scan 230 close — **translated / source close preserved**
+- blocking translation questions — **0**
+- verified Tamil changes — **0**
+- outside English imported — **0**
+- English status — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+
+Gate F does not make an English-verification claim. The working English remains in `translation.md` until Gate G review.
+
 ## Gates not begun
 
-- Gate F / English translation — **NOT STARTED / next**
-- Gate G — **NOT STARTED**
+- Gate G — **NOT STARTED / next**
 - Gate H / release — **NOT STARTED**
 
 ## Exact next activity
 
-Begin **Gate F English translation for Speech 12 / scans 191–230 / 40 verified Tamil pages**, using only this verified anthology Tamil as the translation source. Preserve the parallel-witness separation and do not begin Gate G/H or Speech 13 in the same activity.
+Perform **Gate G strict English-vs-verified-Tamil review for scans 191–230 / 40 pages**. Record every refinement, blocker, source-printed-English change (expected 0), and verified-Tamil change (expected 0). Do not begin Gate H or Speech 13 in the same activity.
