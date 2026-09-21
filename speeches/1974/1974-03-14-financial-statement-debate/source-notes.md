@@ -83,23 +83,36 @@ The normal activity limit is 25 source pages. Speech 13 is 32 pages, so the expl
 
 Gate C has now covered **all scans 231–262** as one intact Speech-13 activity.
 
-## Gate C first-pass state
+## Gate C.5 applicability
 
-- source coverage / boundary setup — **PASS / COMPLETE**
-- Gate C — **COMPLETE / 32 of 32**
-- source-page markers — **231→262 / exactly once / ordered**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
+**N/A / CLOSED.**
+
+The controlling source is modern May-2007 anthology typesetting. A visual review of all **32 Speech-13 pages** found no legacy/reform-sensitive Tamil glyph condition requiring a separate historical-glyph pass. Gate C.5 therefore closes as not applicable; this is not a wording-verification claim.
+
+## Gate D completeness / structure audit
+
+**PASS / COMPLETE.**
+
+- audited scans — **231–262 / 32 of 32**
+- printed pages — **230–261**
+- source-page markers — **231→262 / 32 / exactly once / ordered**
+- internal page transitions — **31 of 31 PASS**
+- hard boundaries — **230→231 / 262→263 PASS**
+- heading/date/start — **PASS**
+- speaker changes/interventions — **PASS**
+- source-printed English — **structurally represented**
+- figures / dates / quotations — **structurally represented**
+- parenthetical reactions — **represented**
+- source-visible repetition — **no structural loss detected**
+- scan-262 close / `வணக்கம்.` / ornament — **PASS**
+- missing pages — **0**
+- duplicate long blocks — **0**
+- completeness corrections — **0**
 - unresolved first-pass readings — **0 currently flagged**
-- Gate C.5 — **NOT STARTED**
-- Gate D / Gate E — **NOT STARTED**
-- English / Gates F–G — **BLOCKED / NOT STARTED**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
 - outside-source wording imported — **0**
-- `transcript.md` — **created / complete first pass**
 
-This Gate-C state is not a word-for-word verification claim. Any later correction must return to the same controlling anthology pixels.
+Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`. Gate D does not perform word-for-word fidelity verification.
 
 ## Exact next
 
-Determine **Gate C.5 applicability**, then perform **Gate D completeness/structure audit — global scans 231–262 / printed pp.230–261 / 32 pages**. Do not begin Gate E, English work or Speech 14 in the same activity.
+Perform **Gate E word-for-word source-fidelity verification — global scans 231–262 / printed pp.230–261 / 32 pages**, using only the same controlling anthology pixels. Do not begin English work or Speech 14 in the same activity.
