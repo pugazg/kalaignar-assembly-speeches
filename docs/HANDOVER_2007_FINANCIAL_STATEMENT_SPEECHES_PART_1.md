@@ -95,7 +95,7 @@ Treat this 2007 anthology as its own witness.
 - Gate C — **Speeches 1–11 CLOSED through release; Speech 12 COMPLETE / 40 of 40 / Tamil TRANSCRIBED-NOT-VERIFIED; speeches 13–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–12 — modern 2007 typesetting; speeches 13–19 not started**
 - Gate D — **PASS / COMPLETE for Speeches 1–12; Speech 12 = 40/40 pages / 39/39 transitions / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–11; Speech 12 IN PROGRESS — scans 191–228 reviewed / 38 of 40; 18 confirmed correction occurrences logged; scans 229–230 pending; Tamil NOT VERIFIED**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–11; Speech 12 IN PROGRESS / VISUAL REVIEW COMPLETE — scans 191–230 reviewed / 40 of 40; checkpoint 23 correction entries / 28 occurrences; ledger application pending; Tamil NOT VERIFIED**
 - Gate F — **COMPLETE for Speeches 1–11; Speech 12 NOT STARTED**
 - Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–11; Speech 12 NOT STARTED**
 - Gate H — **Speeches 1–11 PASS / COMPLETE — RELEASED / CLOSED; Speech 12 NOT STARTED**
@@ -592,10 +592,10 @@ Current state:
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 40 of 40 / 39 of 39 transitions / 0 completeness corrections**
 - Gate E — **IN PROGRESS**
-- Gate-E reviewed — **scans 191–228 / printed 190–227 / 38 of 40 pages**
-- Gate-E pending — **scans 229–230 / 2 pages**
-- checkpoint correction ledger — **18 confirmed correction occurrences**
-- transcript correction batch application — **DEFERRED until full 40/40 Gate-E adjudication**
+- Gate-E reviewed — **scans 191–230 / printed 190–229 / 40 of 40 pages**
+- Gate-E pending visual scans — **none**
+- checkpoint correction ledger — **23 correction entries / 28 correction occurrences**
+- transcript correction batch application — **PENDING final ledger adjudication**
 - final Gate-E correction count — **NOT YET FINAL**
 - final unresolved-reading count — **NOT YET FINAL**
 - scan 191 `மறுபவழி` — **confirmed as printed / wording unchanged**
@@ -630,17 +630,16 @@ Full checkpoint ledger is in the Speech 12 verification log.
 
 ## Exact next activity
 
-Finish **Speech 12 Gate E for scans 229–230**, then finalize and batch-apply the complete 40-page correction ledger.
+Finalize and batch-apply the complete Speech 12 40-page Gate-E correction ledger.
 
 Requirements:
 
 1. use only the controlling anthology pixels and the current anthology transcript;
 2. keep the independent parallel-witness/no-overwrite rule active;
-3. strictly verify scans **229–230**, including the poem continuation, speaker labels, punctuation/spacing, final exchanges and source close;
-4. adjudicate any remaining source-form differences from the reviewed 191–228 range if needed;
-5. batch-apply all confirmed Gate-E corrections to `transcript.md`;
-6. revalidate all **40 source markers / 191→230** after edits;
-7. record final Gate-E correction count and unresolved-reading count;
-8. set Tamil `verified_against_scan=true` only if the complete 40/40 audit supports it;
-9. synchronize all anthology controls after closure;
-10. do **not** begin English translation, Gate H or Speech 13 in the same activity.
+3. adjudicate the complete 40-page checkpoint ledger and remove/adjust any entry not supported by the controlling pixels;
+4. batch-apply all confirmed Gate-E corrections to `transcript.md`;
+5. revalidate all **40 source markers / 191→230** after edits;
+6. record final Gate-E correction count and unresolved-reading count;
+7. set Tamil `verified_against_scan=true` only if the completed audit and post-edit validation support it;
+8. synchronize all anthology controls after closure;
+9. do **not** begin English translation, Gate H or Speech 13 in the same activity.
