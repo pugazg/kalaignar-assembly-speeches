@@ -618,56 +618,43 @@ Parallel-witness/index treatment:
 - root dated speech table — **UNCHANGED INTENTIONALLY**
 - reason — the repository's dated machine-readable index currently has one canonical entry per date; a second `1973-03-07` entry was not created. The released anthology witness remains discoverable through the anthology package and repository status sections.
 
-## Speech 13 durable Gate-F state
+## Speech 13 durable release state
 
-Canonical working entry:
+Canonical entry:
 
 `speeches/1974/1974-03-14-financial-statement-debate/`
 
-Locked source unit:
-
 - `உரை : 13 / 14.03.1974`
 - scans **231–262 / printed pp.230–261 / 32 pages**
-- hard boundaries **230→231 / 262→263 — PASS**
-
-Final Tamil:
-
-- Gates C–E — **COMPLETE**
-- Gate E — **PASS / COMPLETE / 32 of 32**
-- Gate-E corrections — **8 entries / 9 occurrences**
-- unresolved readings — **0**
 - Tamil — **VERIFIED / verified_against_scan=true**
-
-Gate F English:
-
-- status — **COMPLETE / 32 of 32**
-- translation authority — **verified Tamil only**
-- English source-page sections — **231→262 / complete / ordered**
-- blocking translation questions — **0**
+- Gate E — **PASS / COMPLETE / 8 entries / 9 occurrences / 0 unresolved**
+- Gate F — **COMPLETE / 32 of 32**
+- Gate G — **PASS / COMPLETE / 32 of 32**
+- Gate-G refinements — **7**
+- Gate-G blockers — **0**
 - verified-Tamil changes — **0**
-- outside English / other-witness wording imported — **0**
-- source-printed English preserved verbatim — **YES**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-- working file — `translation.md`
-- review record — `translation-review.md`
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired to released pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- source-printed English — **preserved verbatim**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- Speech 12 — **unchanged**
+- Speech 14 — **not begun**
 
-Conservative source-bound transliterations retained for Gate-G review include `nalangu`, `kezhvai`, `podi`, `arishtams` and `kavalar`.
+Gate-G refinement details are in `translation-review.md`.
 
-Downstream:
+## Exact next activity — Speech 14 source-boundary + Gate-C setup
 
-- Gate G — **NOT STARTED / next**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
-- Speech 14 — **NOT STARTED**
+Target unit:
 
-## Exact next activity — Speech 13 Gate G
+- source label/date — `உரை : 14 / 10.03.1975`
+- global scans — **263–319**
+- printed pages — **262–318**
+- page count — **57**
+- hard boundaries — **262→263 / 319→320**
+- working ID — `1975-03-10-financial-statement-debate`
 
-Review **all 32 English source-page sections, 231–262**, directly against the corresponding Gate-E-verified Tamil.
-
-- correct English fidelity and page-boundary alignment only;
-- preserve source-printed English verbatim;
-- keep verified Tamil unchanged;
-- log every English refinement;
-- record blockers explicitly, if any;
-- set `verified_against_tamil=true` only after 32/32 pages pass;
-- do not begin Gate H or Speech 14 in the same activity.
+Because Speech 14 spans **57 pages**, apply the repository's whole-speech exception rather than splitting the speech merely to satisfy the normal activity page limit. First establish and synchronize source-boundary / Gate-C setup only; do not begin Speech 15.
