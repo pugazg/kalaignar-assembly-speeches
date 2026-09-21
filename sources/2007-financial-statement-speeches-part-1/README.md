@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches **1–11 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 12 / 07.03.1973 is now established separately at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent parallel witness** to the already released `1973-03-07-financial-statement-reply`. Speech 12 Gate C is **COMPLETE / 40 of 40 pages**; Tamil is **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`. One first-pass reading remains flagged at scan 191: `மறுபவழி`.
+Speeches **1–11 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 12 / 07.03.1973 is established separately at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent parallel witness** to the already released `1973-03-07-financial-statement-reply`. Speech 12 Gate C is **COMPLETE / 40 of 40**; Gate C.5 is **N/A / CLOSED**; Gate D is **PASS / COMPLETE / 40 of 40 / 0 completeness corrections**. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`; unresolved readings after Gate D are **0**.
 
 ## Whole-speech batching policy
 
@@ -392,7 +392,7 @@ Final state:
 - Gate-H wording changes — **0 Tamil / 0 English**
 - root / machine-readable indexes — **SYNCHRONIZED**
 
-## Speech 12 durable Gate-C state
+## Speech 12 durable Gate-C / Gate-D state
 
 Working entry: [`../../speeches/1973/1973-03-07-financial-statement-debate/`](../../speeches/1973/1973-03-07-financial-statement-debate/)
 
@@ -402,17 +402,25 @@ Locked unit: **191–230 / printed 190–229 / 40 pages**.
 - hard boundaries **190→191 / 230→231 — PASS**
 - Gate C — **COMPLETE / 40 of 40**
 - source markers — **191→230 exactly once and in order**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no separate historical-glyph pass required**
+- Gate D — **PASS / COMPLETE — 40/40 pages; 39/39 internal transitions; 0 completeness corrections**
+- missing pages / duplicate long blocks — **0 / 0**
+- unresolved readings after Gate D — **0**
+- scan 191 `மறுபவழி` — **confirmed as printed from the same controlling scan; transcript wording unchanged**
+- speaker interventions / source-printed English / figures / quotations — **structurally complete**
+- scan 222 source-visible repetition — **retained**
+- scan 228→229 poem continuation — **PASS**
+- scan 230 closing exchange / source close — **PASS**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- first-pass unresolved readings — **1: scan 191 `மறுபவழி`**
 - released `1973-03-07-financial-statement-reply` — **UNCHANGED**
 - parallel-witness / no-overwrite / no-normalization rule — **PRESERVED**
-- Gate C.5 / D / E / English / H — **NOT STARTED**
+- Gate E / English / H — **NOT STARTED**
 
-No OCR, web copy, Official Report, released 1973 wording, alternate anthology or another witness supplied Gate-C wording.
+No OCR, web copy, Official Report, released 1973 wording, alternate anthology or another witness supplied Gate-C or Gate-D wording. Gate D is structural only and does not constitute word-for-word verification.
 
 ## Exact next activity
 
-Perform **Speech 12 Gate C.5 applicability determination + Gate D completeness/structure audit across scans 191–230**.
+Perform **Speech 12 Gate E strict page-by-page Tamil source-fidelity verification across scans 191–230 / 40 pages**.
 
-Do not begin Gate E, English translation, Gate H or Speech 13 in the same activity.
+Use only the controlling anthology pixels, record every source-fidelity correction and unresolved reading, and keep Tamil **NOT VERIFIED** until the complete 40/40 Gate-E audit supports verification. Do not begin English translation, Gate H or Speech 13 in the same activity.
