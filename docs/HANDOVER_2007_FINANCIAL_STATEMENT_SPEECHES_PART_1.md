@@ -618,7 +618,7 @@ Parallel-witness/index treatment:
 - root dated speech table — **UNCHANGED INTENTIONALLY**
 - reason — the repository's dated machine-readable index currently has one canonical entry per date; a second `1973-03-07` entry was not created. The released anthology witness remains discoverable through the anthology package and repository status sections.
 
-## Speech 13 durable source-boundary / Gate-C setup
+## Speech 13 durable Gate-C state
 
 Canonical working entry:
 
@@ -627,55 +627,45 @@ Canonical working entry:
 Locked unit:
 
 - source label/date — `உரை : 13 / 14.03.1974`
-- ISO date — `1974-03-14`
 - global scans — **231–262**
 - printed pages — **230–261**
 - page count — **32**
-- start boundary — **230→231 — PASS**
-- end boundary — **262→263 — PASS**
-- whole-speech exception — **REQUIRED**, because 32 pages exceeds the normal 25-page allowance.
+- hard boundaries — **230→231 / 262→263 — PASS**
+- whole-speech exception — **APPLIED / intact 32-page unit**
 
-Controlling coverage:
+Controlling split coverage:
 
-- part010 `..._part_010_pages_226-250.pdf`
-  - **17,801,423 bytes**
-  - SHA-256 `257b862a7ebe21d768f8e5a2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90`
-  - local **6–25** = scans **231–250** / printed **230–249** / **20 pages**
-  - local 5 = scan 230 / Speech 12 close / boundary-only
-- part011 `..._part_011_pages_251-275.pdf`
-  - **17,580,247 bytes**
-  - SHA-256 `27c9c96d3c0bdb53480f8d1634300bf9d7dc57be17d3f83c66397ef78863712d`
-  - local **1–12** = scans **251–262** / printed **250–261** / **12 pages**
-  - local 13 = scan 263 / Speech 14 start / boundary-only
-- total controlling coverage — **32/32 COMPLETE / no gap / no overlap**
+- part010 local **6–25** = scans **231–250** / **20 pages** — SHA-256 `257b862a7ebe21d768f8e5a2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90`
+- part011 local **1–12** = scans **251–262** / **12 pages** — SHA-256 `27c9c96d3c0bdb53480f8d1634300bf9d7dc57be17d3f83c66397ef78863712d`
+- total — **32/32 COMPLETE / no gap / no overlap**
 
-Pixel boundary evidence:
+Gate C result:
 
-- scan 230 closes Speech 12 and is excluded;
-- scan 231 begins `உரை : 13 / நாள் : 14.03.1974`;
-- scan 262 closes Speech 13 with source ornament;
-- scan 263 begins `உரை : 14 / நாள் : 10.03.1975` and is excluded.
+- Gate C — **COMPLETE / 32 of 32 pages**
+- source-page markers — **231→262 / 32 / exactly once / ordered**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- unresolved first-pass readings — **0 currently flagged**
+- first-pass `transcript.md` — **COMPLETE**
+- OCR / web / Official Reports / alternate anthologies / other witnesses — **not used**
+- released Speech 12 — **UNCHANGED**
+- Speech 14 — **NOT STARTED**
 
-Source-separation safeguards:
+Downstream state:
 
-- controlling authority — **rendered 2007 anthology pixels only**;
-- OCR / web / Official Reports / alternate anthologies / other witnesses — **must not supply wording**;
-- released Speech 12 — **UNCHANGED / not reopened**;
-- Speech 14 — **NOT STARTED**;
-- outside/released-witness wording imported — **0**.
-
-Current state:
-
-- source-boundary / Gate-C setup — **PASS / COMPLETE**
-- Tamil — **NOT STARTED / verified_against_scan=false**
-- Gate C — **NOT STARTED**
-- Gate C.5 / D / E — **NOT STARTED**
-- English / F / G — **BLOCKED / NOT STARTED**
+- Gate C.5 — **NOT STARTED**
+- Gate D — **NOT STARTED**
+- Gate E — **NOT STARTED**
+- English / Gate F / Gate G — **BLOCKED / NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
-- `transcript.md` — **not created during setup**
 
-## Exact next activity — Speech 13 Gate C Tamil first pass
+Gate C is not a word-for-word verification claim.
 
-Process **all 32 pages / scans 231–262 / printed pp.230–261 as one intact Speech-13 unit** from the controlling part010 and part011 pixels only.
+## Exact next activity — Speech 13 Gate C.5 / Gate D
 
-Do not begin Gate C.5, Gate D, Gate E, English work, Gate H, or Speech 14 in the same activity. Do not reopen Speech 12 unless a separate source-backed defect is discovered.
+1. determine whether Gate C.5 is applicable to this modern 2007 typesetting;
+2. perform the **Gate D completeness/structure audit across all scans 231–262**;
+3. verify all **31 internal page transitions**, heading/start, close, speaker changes/interventions, printed English, figures, quotations and source-page markers;
+4. apply completeness corrections only when directly supported by the controlling pixels;
+5. Tamil must remain **NOT VERIFIED / verified_against_scan=false** after Gate D;
+6. do not begin Gate E, English work, Gate H or Speech 14 in the same activity.
