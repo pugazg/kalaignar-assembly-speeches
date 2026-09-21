@@ -41,27 +41,24 @@ Total coverage: **39/39**.
 
 The scan-154 phrase `200 கோடி ரூபாய்க்கு வரிபோட்டுத் தள்ளுகிறேன்` was resolved from enlarged controlling-source pixels during first-pass assembly. It remains subject to Gate E.
 
-## Gate state after Gate F
+## Gate state after Gate G
 
 - Gates C–E — **COMPLETE / Tamil VERIFIED**
 - `verified_against_scan=true`
 - Gate F — **COMPLETE / 39 of 39 English pages**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-- Gate-F blocking questions — **0**
-- Gate-F verified-Tamil changes — **0**
-- Gate G — **NOT STARTED / NEXT**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
+- Gate G — **PASS / COMPLETE / 23 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+- source-printed English — **unchanged / verbatim**
+- Gate H / release — **NOT STARTED / NEXT / NOT RELEASED**
 - outside English imported — **0**
 
-## Gate F translation authority
+## Gate G review authority
 
-The English first pass in `translation.md` was produced only from the final Gate-E-verified Tamil in `transcript.md`.
+The full English review used only the final Gate-E-verified Tamil in `transcript.md`. No OCR, web copy, Official Report, alternate anthology, other witness or outside English supplied wording.
 
-Source-printed English was reproduced as printed, including source typos and mixed Tamil/English lines. No OCR, web copy, Official Report, alternate anthology, other witness or outside translation supplied wording.
-
-The source-visible scan-188 `ஆஸ்திரேலியா` remains **Australia** as a source claim; it was not fact-corrected.
+Gate G applied **23 fidelity/voice refinements**. Source-printed English passages were excluded from editorial rewriting and remain exactly as printed.
 
 ## Exact next
 
-**Gate G full English fidelity and voice review — source pages 152–190 / 39 pages**.
+**Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 12 in the same activity.

@@ -55,8 +55,59 @@ This includes source typos, capitalization, spacing and grammar such as:
 
 No Gate-G fidelity/editorial review has yet been performed.
 
+## Gate G — English fidelity and voice review
+
+**Status: PASS / COMPLETE — 39/39 pages**
+
+Review authority: final Gate-E-verified Tamil in `transcript.md` only.
+
+- source-page sequence — **152→190 / complete / ordered**
+- refinements — **23**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed English changes — **0**
+- outside English / other-witness wording imported — **0**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+
+### Gate-G refinement ledger
+
+1. page 154 — `Mr Kamaraj is an honoured leader who served as Chief Minister for more than eight years in a Government administration.` → `Mr Kamaraj is an honoured leader who served as Chief Minister for more than eight years in government.`
+2. page 154 — `He knew through whom incoming money is spent;` → `He knew through whom the money received by the Government is spent;`
+3. page 155 — `If the accounts are followed continuously from 1956-57, the proportion has grown at about the same level.` → `If we follow the accounts continuously from 1956-57, these proportions have remained at about the same level.`
+4. page 156 — `In the financial statement I have compiled and presented many useful schemes that show what we are implementing.` → `In the financial statement I have set out many useful schemes as evidence of what we are implementing.`
+5. page 159 — `She said, “Is this motorist the only person you find fault with for everything? Is the bus owner the only person you find? You have long been angry with them.”` → `She said, “For everything, is this motorist the only person you can find? Is the bus owner the only person you can find? You have long been angry with them.”`
+6. page 160 — `Even today, after Independence, ordinary Harijan people in villages not only lack proper paths on which to walk;` → `Even today, after Independence, Harijan people in ordinary villages not only lack proper paths on which to walk;`
+7. page 160 — `Four persons carry a body over a narrow single-foot path, slip and fall, and the body too falls into the field —` → `Four persons carry a body along a narrow single-file footpath, slip and fall, and the body too falls into the field —`
+8. page 166 — `our Mr K.T.K. Thangamani stopped with saying that they are distributed in Kerala.` → `our Mr K.T.K. Thangamani confined himself to saying that they are distributed in Kerala.`
+9. page 171 — `Thus we have acted without fear or favour and without discrimination.` → `Thus we have acted without leniency and without discrimination.`
+10. page 172 — `after forty days of bloodshed in Mudukulathur,` → `after forty days of violent conflict in Mudukulathur,`
+11. page 172 — `with haystacks set ablaze, houses set on fire, five or six men having their hands and eyes bound and being shot face-to-face at Keelathooval,` → `with haystacks set ablaze, houses set on fire, five or six men with their hands bound and eyes blindfolded being shot face-to-face at Keelathooval,`
+12. page 174 — `and those 23 bodies were brought out and displayed like fish laid out in a market — those responsible were Congressmen.` → `and those 23 bodies were brought out and displayed like fish laid out in a market — the people who displayed them were members of the Congress Party.`
+13. page 176 — `But I firmly believe that the true Tamil Kamaraj will not fall into Rajaji's net.` → `But I firmly believe that Kamaraj, a true Tamilian, will not fall into Rajaji's net.`
+14. page 177 — `Rajaji is in a hurry. His age is increasing.` → `Rajaji is in a hurry. He is getting older.`
+15. page 179 — `The reason was that those respective All India trade-union representatives withdrew their representatives.` → `The reason was that they withdrew the respective All India trade-union representatives.`
+16. page 183 — `Some clever people had reduced even their holdings to 25 acres or 20 acres.` → `Some clever people had kept their holdings down even to 25 acres or 20 acres.`
+17. page 183 — `They are not worried about four thousand going — not worried about the elephant going — but are worried that the cat may go.` → `They are not worried about four thousand acres going — not worried about the elephant going — but are worried that the cat may go.`
+18. page 185 — `Mr Mohan Kumaramangalam, elected from the Union Territory of Pondicherry and serving as a Minister in the Central Government, comes to Tamil Nadu and speaks at the party level.` → `Mr Mohan Kumaramangalam, elected from Puduvai and serving as a Minister in the Central Government, comes to Tamil Nadu and speaks at the party level.`
+19. page 185 — `They have been in the Congress Party for a long time. (Laughter.)` → `He is someone who has been in the Congress Party for a long time. (Laughter.)`
+20. page 185 — `when a Union Minister speaks in such a low manner about a financial statement presented by a State Minister.` → `when a Union Minister speaks in such a disparaging manner about a financial statement presented by a State Minister.`
+21. page 187 — `I do not know how many years he will remain involved and established in the Congress.` → `I do not know how many years he will remain in the Congress.`
+22. page 188 — `The Volga-Don river project has been completed to the extent of connecting Asiatic Russia and European Russia.` → `The Volga-Don river project has been completed, linking Asiatic Russia and European Russia.`
+23. page 188 — `Could it not instead be said that the Ganga-Cauvery linking project thereby strengthens national integration?` → `Could it not instead be said that the Ganga-Cauvery linking project thereby underscores national integration?`
+
+### Closure checks
+
+- all **39/39** English page sections reviewed against corresponding verified Tamil;
+- speaker changes / interventions / reactions preserved;
+- figures, dates, amounts, percentages and source-visible repetitions preserved;
+- source-printed English remains verbatim, including source typos, capitalization, grammar and page-break forms;
+- scan 188 source reading `ஆஸ்திரேலியா` remains rendered **Australia** as a source claim, without external correction;
+- Gate-G blockers — **0**;
+- verified-Tamil changes — **0**.
+
 ## Exact next activity
 
-Perform **Speech 11 Gate G full English fidelity and voice review — source pages 152–190 / 39 pages**, comparing `translation.md` only against the final Gate-E-verified Tamil in `transcript.md`.
+Perform **Speech 11 Gate H canonical bilingual merge / release readiness and index synchronization**. Merge this Gate-G-verified English after the verified Tamil in canonical `transcript.md`, retire `translation.md` to the released pointer only after merge checks pass, synchronize release/index/control documents, and make **0 Tamil / 0 English wording changes** unless a genuine release blocker is found and explicitly recorded.
 
-Record every English refinement, blocking issue and any verified-Tamil change separately. Do not begin Gate H/release or Speech 12 in the same activity.
+Do not begin Speech 12 in the same activity.

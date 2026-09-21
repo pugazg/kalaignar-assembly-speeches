@@ -127,7 +127,7 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43; Speech 9 / 4; Speech 10 / 26; Speech 11 / 25 corrections; Speeches 1–11 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–11 — modern 2007 typesetting; speeches 12–19 not started**
 - Gate F — **Speeches 1–11 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23 / 4 / 35 / 39; Speech 11 English TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- Gate G — **Speeches 1–10 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16 / 11 / 21; 0 blockers; English VERIFIED**
+- Gate G — **Speeches 1–11 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16 / 11 / 21 / 23; 0 blockers; English VERIFIED**
 - Gate H — **Speeches 1–10 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Gate-H boundary / release check for Speeches 4–5
@@ -229,7 +229,7 @@ Final status:
 - root / machine-readable indexes — **SYNCHRONIZED**
 - parallel witness to `நமது விளக்கம்` — **PRESERVED / NO OVERWRITE**
 
-## Speech 11 Gate-F record
+## Speech 11 Gate-G record
 
 Locked map: **152–190 / printed 151–189 / 39 pages**.
 
@@ -238,16 +238,12 @@ Current status:
 - Tamil — **VERIFIED / verified_against_scan=true**
 - Gate E — **PASS / COMPLETE / 25 corrections / 0 unresolved**
 - Gate F — **COMPLETE / 39 of 39**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-- Gate-F blocking questions — **0**
-- verified-Tamil changes — **0**
-- Gate G — **NOT STARTED / NEXT**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
+- Gate G — **PASS / COMPLETE / 23 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H / release — **NOT STARTED / NEXT / NOT RELEASED**
+- source-printed English — **preserved verbatim**
 - outside English imported — **0**
-
-The Gate-F translation uses only the final verified Tamil and preserves source-printed English exactly as printed.
 
 ## Exact continuation
 
-**Speech 11 Gate G full English fidelity and voice review — pages 152–190 / 39 pages**.
+**Speech 11 Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 12.

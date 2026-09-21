@@ -71,7 +71,7 @@
     "gate_d_status": "pass-complete",
     "gate_e_status": "pass-complete",
     "completeness_audit_passed": true,
-    "next_gate": "gate-g",
+    "next_gate": "gate-h",
     "outside_wording_imported": false,
     "gate_c5": {
       "status": "n/a-closed",
@@ -261,12 +261,12 @@
   },
   "translation": {
     "language": "English",
-    "status": "translated-not-verified",
-    "verified_against_tamil": false,
+    "status": "verified",
+    "verified_against_tamil": true,
     "gate_f_status": "complete",
-    "gate_g_status": "not-started",
+    "gate_g_status": "pass-complete",
     "source_text": "Gate-E-verified Tamil in transcript.md",
-    "next_gate": "gate-g",
+    "next_gate": "gate-h",
     "completed_scan_pages": "152-190",
     "completed_page_count": 39,
     "total_page_count": 39,
@@ -284,6 +284,133 @@
       "verified_against_tamil": false,
       "outside_english_imported": false,
       "source_printed_english_preserved": true
+    },
+    "gate_g": {
+      "status": "pass-complete",
+      "reviewed_source_pages": "152-190",
+      "reviewed_page_count": 39,
+      "refinement_count": 23,
+      "blocking_issue_count": 0,
+      "verified_tamil_changes": 0,
+      "source_printed_english_changes": 0,
+      "outside_english_imported": false,
+      "refinements": [
+        {
+          "page": 154,
+          "before": "Mr Kamaraj is an honoured leader who served as Chief Minister for more than eight years in a Government administration.",
+          "after": "Mr Kamaraj is an honoured leader who served as Chief Minister for more than eight years in government."
+        },
+        {
+          "page": 154,
+          "before": "He knew through whom incoming money is spent;",
+          "after": "He knew through whom the money received by the Government is spent;"
+        },
+        {
+          "page": 155,
+          "before": "If the accounts are followed continuously from 1956-57, the proportion has grown at about the same level.",
+          "after": "If we follow the accounts continuously from 1956-57, these proportions have remained at about the same level."
+        },
+        {
+          "page": 156,
+          "before": "In the financial statement I have compiled and presented many useful schemes that show what we are implementing.",
+          "after": "In the financial statement I have set out many useful schemes as evidence of what we are implementing."
+        },
+        {
+          "page": 159,
+          "before": "She said, “Is this motorist the only person you find fault with for everything? Is the bus owner the only person you find? You have long been angry with them.”",
+          "after": "She said, “For everything, is this motorist the only person you can find? Is the bus owner the only person you can find? You have long been angry with them.”"
+        },
+        {
+          "page": 160,
+          "before": "Even today, after Independence, ordinary Harijan people in villages not only lack proper paths on which to walk;",
+          "after": "Even today, after Independence, Harijan people in ordinary villages not only lack proper paths on which to walk;"
+        },
+        {
+          "page": 160,
+          "before": "Four persons carry a body over a narrow single-foot path, slip and fall, and the body too falls into the field —",
+          "after": "Four persons carry a body along a narrow single-file footpath, slip and fall, and the body too falls into the field —"
+        },
+        {
+          "page": 166,
+          "before": "our Mr K.T.K. Thangamani stopped with saying that they are distributed in Kerala.",
+          "after": "our Mr K.T.K. Thangamani confined himself to saying that they are distributed in Kerala."
+        },
+        {
+          "page": 171,
+          "before": "Thus we have acted without fear or favour and without discrimination.",
+          "after": "Thus we have acted without leniency and without discrimination."
+        },
+        {
+          "page": 172,
+          "before": "after forty days of bloodshed in Mudukulathur,",
+          "after": "after forty days of violent conflict in Mudukulathur,"
+        },
+        {
+          "page": 172,
+          "before": "with haystacks set ablaze, houses set on fire, five or six men having their hands and eyes bound and being shot face-to-face at Keelathooval,",
+          "after": "with haystacks set ablaze, houses set on fire, five or six men with their hands bound and eyes blindfolded being shot face-to-face at Keelathooval,"
+        },
+        {
+          "page": 174,
+          "before": "and those 23 bodies were brought out and displayed like fish laid out in a market — those responsible were Congressmen.",
+          "after": "and those 23 bodies were brought out and displayed like fish laid out in a market — the people who displayed them were members of the Congress Party."
+        },
+        {
+          "page": 176,
+          "before": "But I firmly believe that the true Tamil Kamaraj will not fall into Rajaji's net.",
+          "after": "But I firmly believe that Kamaraj, a true Tamilian, will not fall into Rajaji's net."
+        },
+        {
+          "page": 177,
+          "before": "Rajaji is in a hurry. His age is increasing.",
+          "after": "Rajaji is in a hurry. He is getting older."
+        },
+        {
+          "page": 179,
+          "before": "The reason was that those respective All India trade-union representatives withdrew their representatives.",
+          "after": "The reason was that they withdrew the respective All India trade-union representatives."
+        },
+        {
+          "page": 183,
+          "before": "Some clever people had reduced even their holdings to 25 acres or 20 acres.",
+          "after": "Some clever people had kept their holdings down even to 25 acres or 20 acres."
+        },
+        {
+          "page": 183,
+          "before": "They are not worried about four thousand going — not worried about the elephant going — but are worried that the cat may go.",
+          "after": "They are not worried about four thousand acres going — not worried about the elephant going — but are worried that the cat may go."
+        },
+        {
+          "page": 185,
+          "before": "Mr Mohan Kumaramangalam, elected from the Union Territory of Pondicherry and serving as a Minister in the Central Government, comes to Tamil Nadu and speaks at the party level.",
+          "after": "Mr Mohan Kumaramangalam, elected from Puduvai and serving as a Minister in the Central Government, comes to Tamil Nadu and speaks at the party level."
+        },
+        {
+          "page": 185,
+          "before": "They have been in the Congress Party for a long time. (Laughter.)",
+          "after": "He is someone who has been in the Congress Party for a long time. (Laughter.)"
+        },
+        {
+          "page": 185,
+          "before": "when a Union Minister speaks in such a low manner about a financial statement presented by a State Minister.",
+          "after": "when a Union Minister speaks in such a disparaging manner about a financial statement presented by a State Minister."
+        },
+        {
+          "page": 187,
+          "before": "I do not know how many years he will remain involved and established in the Congress.",
+          "after": "I do not know how many years he will remain in the Congress."
+        },
+        {
+          "page": 188,
+          "before": "The Volga-Don river project has been completed to the extent of connecting Asiatic Russia and European Russia.",
+          "after": "The Volga-Don river project has been completed, linking Asiatic Russia and European Russia."
+        },
+        {
+          "page": 188,
+          "before": "Could it not instead be said that the Ganga-Cauvery linking project thereby strengthens national integration?",
+          "after": "Could it not instead be said that the Ganga-Cauvery linking project thereby underscores national integration?"
+        }
+      ]
     }
   },
   "release": {

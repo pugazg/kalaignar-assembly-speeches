@@ -1,6 +1,6 @@
-# English translation — Gate F first pass
+# English translation — Gate G verified
 
-> **Gate F status:** COMPLETE — **39/39 pages / source pages 152–190**. This is a faithful first-pass English translation from the final Gate-E-verified Tamil in `transcript.md` only. Source-printed English passages are reproduced as printed rather than retranslated or silently corrected. English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL**; `verified_against_tamil=false`.
+> **Gate G status:** PASS / COMPLETE — **39/39 pages / source pages 152–190**. This English has been reviewed page-by-page against the final Gate-E-verified Tamil in `transcript.md` only. Gate G applied **23 English fidelity/voice refinements**, with **0 blockers / 0 verified-Tamil changes**. Source-printed English remains verbatim. English is **VERIFIED AGAINST TAMIL**; `verified_against_tamil=true`.
 
 ### Source page 152
 
@@ -26,7 +26,7 @@ Economic conditions have been discussed in today's debate on the financial state
 
 Even the respected Mr Kamaraj, who is the leader of the Congress Party in this House, while speaking on public platforms, raised the question: “They have imposed taxes amounting to Rs. 200 crore; no one knows what they have done with all that tax money. Has it gone into the pockets of the Ministers?” We look upon all this with great regret.
 
-Mr Kamaraj is an honoured leader who served as Chief Minister for more than eight years in a Government administration. He knew through whom incoming money is spent; whether Ministers even have the authority to sign cheques; what kind of administration exists in Government; and what work the Finance Department does. Although he may not have spoken in the Legislature, I am never prepared to deny that he has good experience and ability in administration. That a person such as he should come to ask whether all the tax revenue collected goes into the pockets of Ministers has truly caused me both surprise and pain.
+Mr Kamaraj is an honoured leader who served as Chief Minister for more than eight years in government. He knew through whom the money received by the Government is spent; whether Ministers even have the authority to sign cheques; what kind of administration exists in Government; and what work the Finance Department does. Although he may not have spoken in the Legislature, I am never prepared to deny that he has good experience and ability in administration. That a person such as he should come to ask whether all the tax revenue collected goes into the pockets of Ministers has truly caused me both surprise and pain.
 
 No one should please imagine that, when Anna assumed office in 1967, he announced, “I am going to impose taxes amounting to Rs. 200 crore,” and that this Government has energetically implemented that announced programme by imposing Rs. 200 crore in taxes.
 
@@ -36,13 +36,13 @@ Today the State receives Rs. 210 crore through taxes. If revenue through taxes i
 
 Out of a total revenue of Rs. 397 crore, Rs. 210 crore today comes through State taxes; we receive Rs. 75 crore as the share of Central taxes; grants-in-aid from the Government of India come to about Rs. 33 crore; and non-tax revenue comes to about Rs. 78 crore. Thus, out of nearly Rs. 400 crore, other receipts account for 50 per cent and tax revenue for 50 per cent. That is the position of the State's revenue today.
 
-If the accounts are followed continuously from 1956-57, the proportion has grown at about the same level. If total revenue in 1956-57 was Rs. 56.23 crore, State taxes were Rs. 30.34 crore; the share of Central taxes was Rs. 7.21 crore; grants-in-aid from the Government of India were Rs. 4.88 crore; and non-tax revenue amounted to Rs. 13.80 crore. Even then, the calculation was roughly 50 per cent other receipts and 50 per cent taxes.
+If we follow the accounts continuously from 1956-57, these proportions have remained at about the same level. If total revenue in 1956-57 was Rs. 56.23 crore, State taxes were Rs. 30.34 crore; the share of Central taxes was Rs. 7.21 crore; grants-in-aid from the Government of India were Rs. 4.88 crore; and non-tax revenue amounted to Rs. 13.80 crore. Even then, the calculation was roughly 50 per cent other receipts and 50 per cent taxes.
 
 Thereafter, revenue through State taxes was about Rs. 43 crore in 1961-62; it became Rs. 95.84 crore in 1966-67; Rs. 163 crore in 1971-72; and Rs. 210 crore in 1972-73. We must not forget that, out of this Rs. 210 crore, about Rs. 35 crore is revenue received through the lifting of prohibition. Between 1961 and 1966-67, State tax revenue rose from Rs. 43 crore to Rs. 95 crore, an increase of 2.2 times. In the same way, in the six-year period from Rs. 95 crore to about Rs. 200 crore today — I first said five years — State tax revenue has risen by only 2.2
 
 ### Source page 156
 
-times. When we calculate the revenue we receive in this way, it has not gone into pockets. In the financial statement I have compiled and presented many useful schemes that show what we are implementing.
+times. When we calculate the revenue we receive in this way, it has not gone into pockets. In the financial statement I have set out many useful schemes as evidence of what we are implementing.
 
 It was alleged that we have increased taxes and have given no tax exemptions. Even with regard to sales tax, this august House certainly knows that we have granted many concessions to traders, especially small traders. Earlier, only traders whose sales were below Rs. 10,000 enjoyed exemption from sales tax. After Anna assumed office in 1967, the Rs. 10,000 limit was changed so that those with sales up to Rs. 15,000 need not pay sales tax. Last year that concession was raised from Rs. 15,000 to Rs. 25,000.
 
@@ -74,7 +74,7 @@ Third, allowing rural unions to collect the existing cess of Rs. 1.50 up to Rs. 
 
 they may impose it. Moreover, for rural development the Government has taken up a major scheme to connect every village with a population of 1,500 to the main roads passing nearby. When such a scheme is being implemented, imposing a 10 per cent tax on motor vehicles is not wrong.
 
-Mrs Ananthanayaki too spoke very emotionally. She said, “Is this motorist the only person you find fault with for everything? Is the bus owner the only person you find? You have long been angry with them.” From that it indirectly became clear that she has long had affection for them. (Commotion.) She said we had long been angry. Four or five days ago, while asking Hon. Transport Minister Mr Ramachandran some questions, she said: “Why have they made it three paise? Even when it was 2½ paise, bus owners were earning large, abundant profits. So why should it have been allowed to become three paise?” I accept the basis of her argument exactly. She said that even at 2½ paise they were earning large profits, so why did you allow it to become three paise? I cite this only as an argument in reply to her own question: if those who earn profits pay a 10 per cent motor-vehicle tax, what is wrong with that? As far as I am concerned...
+Mrs Ananthanayaki too spoke very emotionally. She said, “For everything, is this motorist the only person you can find? Is the bus owner the only person you can find? You have long been angry with them.” From that it indirectly became clear that she has long had affection for them. (Commotion.) She said we had long been angry. Four or five days ago, while asking Hon. Transport Minister Mr Ramachandran some questions, she said: “Why have they made it three paise? Even when it was 2½ paise, bus owners were earning large, abundant profits. So why should it have been allowed to become three paise?” I accept the basis of her argument exactly. She said that even at 2½ paise they were earning large profits, so why did you allow it to become three paise? I cite this only as an argument in reply to her own question: if those who earn profits pay a 10 per cent motor-vehicle tax, what is wrong with that? As far as I am concerned...
 
 **Mrs T. N. Ananthanayaki:** I mentioned not only buses but I particularly mentioned about lorries and private cars. அதற்குத்தான் கேட்டேன். டக் என்று பஸ்ஸுக்குத் திரும்புவது நியாயம் அல்ல.
 
@@ -82,7 +82,7 @@ Mrs Ananthanayaki too spoke very emotionally. She said, “Is this motorist the 
 
 **Hon. Kalaignar M. Karunanidhi:** I am glad that buses have escaped your kindness. (Laughter.)
 
-Similarly, in the unions, in order to connect all places with a population of 1,500 to the main roads, a Rural Road Development Fund is being created and that tax is to be used for it. Likewise, in many villages under the unions there are still numerous deficiencies. Even today, after Independence, ordinary Harijan people in villages not only lack proper paths on which to walk; even after death there are places where there is no route to carry a body to the burial ground. In many places we still see bodies being carried through cultivated fields. Four persons carry a body over a narrow single-foot path, slip and fall, and the body too falls into the field — such terrible scenes still occur in Tamil Nadu. That is why all those places must be improved and put in order; every rural area must have link roads. It is in order to provide such facilities immediately to Scheduled-Caste and backward people that we have allowed the unions to raise the amount from Rs. 1.50 up to Rs. 2.50. We have not, as they said — whether the Hindu newspaper wrote it, or any other newspaper wrote or criticised it — imposed a tax of Rs. 2.50. We have only granted permission for it. And that too was done after seeing what Mr Kamaraj said
+Similarly, in the unions, in order to connect all places with a population of 1,500 to the main roads, a Rural Road Development Fund is being created and that tax is to be used for it. Likewise, in many villages under the unions there are still numerous deficiencies. Even today, after Independence, Harijan people in ordinary villages not only lack proper paths on which to walk; even after death there are places where there is no route to carry a body to the burial ground. In many places we still see bodies being carried through cultivated fields. Four persons carry a body along a narrow single-file footpath, slip and fall, and the body too falls into the field — such terrible scenes still occur in Tamil Nadu. That is why all those places must be improved and put in order; every rural area must have link roads. It is in order to provide such facilities immediately to Scheduled-Caste and backward people that we have allowed the unions to raise the amount from Rs. 1.50 up to Rs. 2.50. We have not, as they said — whether the Hindu newspaper wrote it, or any other newspaper wrote or criticised it — imposed a tax of Rs. 2.50. We have only granted permission for it. And that too was done after seeing what Mr Kamaraj said
 
 ### Source page 161
 
@@ -126,7 +126,7 @@ On the recommendations of the Pay Commission, the cost to the Government came to
 
 I once again remind this House that the Government is now taking steps to remedy them.
 
-They say that cultivable lands and house sites are being distributed in Kerala. Without pointing out whether they are being distributed here or not, our Mr K.T.K. Thangamani stopped with saying that they are distributed in Kerala. In Tamil Nadu, during the twenty years from 1947 to 1967, the total cultivable land assigned amounted to only 2.88 lakh acres, benefiting 1.15 lakh people. But 7,019 people benefited in 1967-68; 24,604 in 1968-69; 71,738 in 1969-70; 99,138 in 1970-71; and 45,000 up to January 1972. Thus, in these four or five years, cultivable lands have been assigned to approximately 2,47,000 people.
+They say that cultivable lands and house sites are being distributed in Kerala. Without pointing out whether they are being distributed here or not, our Mr K.T.K. Thangamani confined himself to saying that they are distributed in Kerala. In Tamil Nadu, during the twenty years from 1947 to 1967, the total cultivable land assigned amounted to only 2.88 lakh acres, benefiting 1.15 lakh people. But 7,019 people benefited in 1967-68; 24,604 in 1968-69; 71,738 in 1969-70; 99,138 in 1970-71; and 45,000 up to January 1972. Thus, in these four or five years, cultivable lands have been assigned to approximately 2,47,000 people.
 
 In fulfilment of the dream long held by agricultural labourers, a scheme has been announced to make agricultural labourers owners of their residential house sites. In Thanjavur district alone, one lakh agricultural labourers will benefit from this scheme and this law. Its inaugural function was held last Monday at Thiruvaiyaru, where for the first time more than 6,000 agricultural labourers were given those house sites.
 
@@ -172,7 +172,7 @@ all those who had stood on their side, pushed the Dravida Munnetra Kazhagam Gove
 
 Whatever the matter and wherever it occurs, we cannot permit anything to be achieved through violence. Whichever party's members are involved, this Government will not simply watch. As proof of that, all those involved in that agitation were arrested without asking whether they belonged to the Kazhagam, supported the Congress, or were Communists.
 
-Indeed, even though more than fifty workers associated with the Kazhagam were assaulted and admitted to hospital, not everyone against whom they lodged complaints was arrested, because industrial peace had to be protected. Likewise, this House knows that when a worker not belonging to the Kazhagam was assaulted, a prominent person associated with the Kazhagam was arrested. Thus we have acted without fear or favour and without discrimination.
+Indeed, even though more than fifty workers associated with the Kazhagam were assaulted and admitted to hospital, not everyone against whom they lodged complaints was arrested, because industrial peace had to be protected. Likewise, this House knows that when a worker not belonging to the Kazhagam was assaulted, a prominent person associated with the Kazhagam was arrested. Thus we have acted without leniency and without discrimination.
 
 So many agitations have taken place. Can they be forgotten? In struggles from 1947-48 up to 1967, under Congress rule, guns spoke. I am not saying that there has been no firing under this Government. But how much less has there been?
 
@@ -182,7 +182,7 @@ With how much caution have firings been handled? Only after what stages have fir
 
 Yet those who refused to hold even a judicial inquiry into major incidents such as Mudukulathur now climb platforms in Tamil Nadu and thunder about democracy! Ah, ha... when we see it, it is amusing even to us. That is the extent to which they thunder.
 
-What Anna, Kalyanasundaram and friends such as Sasivarna Thevar asked at that time was at least this: after forty days of bloodshed in Mudukulathur, with haystacks set ablaze, houses set on fire, five or six men having their hands and eyes bound and being shot face-to-face at Keelathooval, children's bodies lying in fields, women's bodies in canals and women charred in haystacks — when such a dreadful list emerged, was even one judicial inquiry ordered? No. Yet now, if in a firing two people die or one person is injured—
+What Anna, Kalyanasundaram and friends such as Sasivarna Thevar asked at that time was at least this: after forty days of violent conflict in Mudukulathur, with haystacks set ablaze, houses set on fire, five or six men with their hands bound and eyes blindfolded being shot face-to-face at Keelathooval, children's bodies lying in fields, women's bodies in canals and women charred in haystacks — when such a dreadful list emerged, was even one judicial inquiry ordered? No. Yet now, if in a firing two people die or one person is injured—
 
 **Mr R. Ponnappa Nadar:** May I Just but one question to the Chief Minister? At that time an I.C.S. officer was appointed and an inquiry was conducted. The Chief Minister is speaking as though concealing that.
 
@@ -210,7 +210,7 @@ In the disturbances caused by rice scarcity in 1964, Archunan was shot dead in C
 
 On 2.12.1964, in an agitation by students of Scott Christian College in Nagercoil, two students were injured in police firing. On 28.4.1965, during a disturbance concerning the election of the Sedapatti Panchayat Union Chairman, firing took place. Two people died in hospital and four were injured.
 
-At Salem prison, 28 Communist prisoners were shot dead. With the muzzle of the gun placed through the opening in the locked prison door, 23 Communist prisoners who were in custody were shot dead, and those 23 bodies were brought out and displayed like fish laid out in a market — those responsible were Congressmen. What about Iraniyan? What about Kuppu? Were they not shot dead in police firing? Was law and order not disturbed then? What do all those shootings show? Leaving all that aside, why is it now said that in Tamil Nadu law and peace
+At Salem prison, 28 Communist prisoners were shot dead. With the muzzle of the gun placed through the opening in the locked prison door, 23 Communist prisoners who were in custody were shot dead, and those 23 bodies were brought out and displayed like fish laid out in a market — the people who displayed them were members of the Congress Party. What about Iraniyan? What about Kuppu? Were they not shot dead in police firing? Was law and order not disturbed then? What do all those shootings show? Leaving all that aside, why is it now said that in Tamil Nadu law and peace
 
 ### Source page 175
 
@@ -254,7 +254,7 @@ Mob Lathi-charged in Srinagar.
 
 Even now there are countless pieces of evidence showing that incidents are occurring in various States. By listing what happens in other States, I do not wish to argue like a quack that nothing at all is happening here. I have mentioned all these only to show how much concern we have that untoward incidents and violence should not occur.
 
-Using a few incidents occurring here and there in Tamil Nadu, it is said that law, order and peace have broken down here, that anarchy prevails and corruption is widespread. Therefore, Mr Kamaraj goes about giving a clarion call to rally together to eliminate this DMK Government. But Kamaraj says, “Let them govern for five years; then we shall prevent them from returning to office and remove them. Until then we shall wait.” Rajaji, however, raises the call that it should be eliminated immediately and tries to draw Kamaraj to his side. But I firmly believe that the true Tamil Kamaraj will not fall into Rajaji's net.
+Using a few incidents occurring here and there in Tamil Nadu, it is said that law, order and peace have broken down here, that anarchy prevails and corruption is widespread. Therefore, Mr Kamaraj goes about giving a clarion call to rally together to eliminate this DMK Government. But Kamaraj says, “Let them govern for five years; then we shall prevent them from returning to office and remove them. Until then we shall wait.” Rajaji, however, raises the call that it should be eliminated immediately and tries to draw Kamaraj to his side. But I firmly believe that Kamaraj, a true Tamilian, will not fall into Rajaji's net.
 
 We were created by Perarignar Anna, who raised the clarion call, “The line rose; the hill fell”; we were nurtured in that lofty tradition. Rajaji thinks that merely by wishing it,
 
@@ -266,7 +266,7 @@ With regard to education, because Mr Kamaraj took the right step, Perarignar Ann
 
 **Dr H. V. Hande:** The Hon. Chief Minister made a remark that how long Rajaji may live or whatever it is. I am coming to the point.
 
-Rajaji is in a hurry. His age is increasing. (Some members: Sit down, sit down.) The Chief Minister said that this is why he thinks in this manner. I am not speaking about that. We do not know how many years he may live. All I ask is this: while the Chief Minister refers to what happens in other States and to various other events, he has said nothing about what steps have been taken regarding the Simpson issue.
+Rajaji is in a hurry. He is getting older. (Some members: Sit down, sit down.) The Chief Minister said that this is why he thinks in this manner. I am not speaking about that. We do not know how many years he may live. All I ask is this: while the Chief Minister refers to what happens in other States and to various other events, he has said nothing about what steps have been taken regarding the Simpson issue.
 
 What are the steps we are going to take? That is the subject matter of the controversy. There is no point in going round and getting vicarious satisfaction in what is happening in other States. What is the Solution?
 
@@ -292,7 +292,7 @@ They said I had said nothing about the Simpson factory. The Government took acti
 
 were said to be insufficient; it was proposed that Gopal should step down from the leadership position and that a committee should be formed to resolve the issue. We accepted that suggestion and formed a six-member committee. Gopal resigned voluntarily. Mrs Ananthanayaki herself was its convener. Within a few days of its formation, without even informing us, they dissolved the six-member committee. Only after dissolving it did they say, “Do you know the news? We have dissolved the six-member committee.” Ma. Ve. Narayanasamy of our party too was a member of the six-member committee. We had asked him to go along with whatever the majority decision was. We have now asked the Union Minister who had come here to take steps towards finding a good solution to the issue. If that arrangement too does not work, we are considering what further action can be taken.
 
-**Mrs T. N. Ananthanayaki:** The six-member committee was dissolved. The Chief Minister knows it. The reason was that those respective All India trade-union representatives withdrew their representatives. In accordance with their request, and because there was no other way, the six-member committee was dissolved.
+**Mrs T. N. Ananthanayaki:** The six-member committee was dissolved. The Chief Minister knows it. The reason was that they withdrew the respective All India trade-union representatives. In accordance with their request, and because there was no other way, the six-member committee was dissolved.
 
 **Hon. Kalaignar M. Karunanidhi:** If you had shown us the same regard you showed all of them, even after everyone else had left, at least the two of us could have remained. (Loud laughter.)
 
@@ -332,11 +332,11 @@ Mr Subbiah from Thanjavur district knows this. Mr Manali Kandasamy knows it. Sar
 
 **Mrs T. N. Ananthanayaki:** Can you say how much land the Government obtained by reducing the ceiling from 30 standard acres to fifteen?
 
-**Hon. Kalaignar M. Karunanidhi:** That is what I am saying. The fundamental corruption took place in 1959 itself. When only 6,624 acres were obtained out of forty-eight-thousand-and-odd acres, how much more could be obtained from this? Some had holdings up to 30 standard acres. Some clever people had reduced even their holdings to 25 acres or 20 acres.
+**Hon. Kalaignar M. Karunanidhi:** That is what I am saying. The fundamental corruption took place in 1959 itself. When only 6,624 acres were obtained out of forty-eight-thousand-and-odd acres, how much more could be obtained from this? Some had holdings up to 30 standard acres. Some clever people had kept their holdings down even to 25 acres or 20 acres.
 
 **Mrs T. N. Ananthanayaki:** Just as you say wrongdoing took place in 1959, can you say how much land has been obtained now as proof that wrongdoing has not taken place now?
 
-**Hon. Kalaignar M. Karunanidhi:** They are not worried about four thousand going — not worried about the elephant going — but are worried that the cat may go. The law has only now received the President's assent. Once the steps taken under it are completed, these details too will become known.
+**Hon. Kalaignar M. Karunanidhi:** They are not worried about four thousand acres going — not worried about the elephant going — but are worried that the cat may go. The law has only now received the President's assent. Once the steps taken under it are completed, these details too will become known.
 
 **Dr. H.V.HANDE :** Even in the Committee meeting where we all met, it was clearly decided that this sort of malpractice should be com-
 
@@ -358,7 +358,7 @@ and similar categories. We are going to bring a law concerning land reserved for
 
 **Hon. Kalaignar M. Karunanidhi:** I am going to explain it step by step. We shall take everything into consideration. As far as the suggestion you have placed before this House is concerned, a committee has been constituted and its report is under the Government's consideration.
 
-Next, while parties in our State speak of bribery and corruption and say that the Kazhagam Government has lost confidence, Mr Mohan Kumaramangalam, elected from the Union Territory of Pondicherry and serving as a Minister in the Central Government, comes to Tamil Nadu and speaks at the party level. I am not saying he has no right to speak in that manner. They have been in the Congress Party for a long time. (Laughter.) I think it hurts not merely me but everyone in this House when a Union Minister speaks in such a low manner about a financial statement presented by a State Minister. Mr Ponnappa Nadar too underlined that Mr Mohan Kumaramangalam had spoken like this. Perhaps he pointed it out so that I should answer it. We must see what he said. Indeed, when he came to Madras, he asked for an English copy of the financial statement.
+Next, while parties in our State speak of bribery and corruption and say that the Kazhagam Government has lost confidence, Mr Mohan Kumaramangalam, elected from Puduvai and serving as a Minister in the Central Government, comes to Tamil Nadu and speaks at the party level. I am not saying he has no right to speak in that manner. He is someone who has been in the Congress Party for a long time. (Laughter.) I think it hurts not merely me but everyone in this House when a Union Minister speaks in such a disparaging manner about a financial statement presented by a State Minister. Mr Ponnappa Nadar too underlined that Mr Mohan Kumaramangalam had spoken like this. Perhaps he pointed it out so that I should answer it. We must see what he said. Indeed, when he came to Madras, he asked for an English copy of the financial statement.
 
 ### Source page 186
 
@@ -374,7 +374,7 @@ Sir C.P. Ramaswami had spoken about linking the Ganga and Cauvery. When the Drav
 
 ### Source page 187
 
-Congress put it in its election manifesto and Mr Mohan Kumaramangalam now speaks like small children who spit on something and say that no one else should touch it, claiming, “We discovered it.” I do not know how many years he will remain involved and established in the Congress. (Laughter.) It is not good for him to speak in that manner.
+Congress put it in its election manifesto and Mr Mohan Kumaramangalam now speaks like small children who spit on something and say that no one else should touch it, claiming, “We discovered it.” I do not know how many years he will remain in the Congress. (Laughter.) It is not good for him to speak in that manner.
 
 **Mr R. Ponnappa Nadar:** Hon. Speaker, when speaking about Union Ministers, I wish to state that saying “like small children spitting on something...” is not appropriate.
 
@@ -390,7 +390,7 @@ Congress put it in its election manifesto and Mr Mohan Kumaramangalam now speaks
 
 ### Source page 188
 
-and many other rivers have been linked, and canals too have been linked. The Volga-Don river project has been completed to the extent of connecting Asiatic Russia and European Russia. Likewise, the Rhine connects countries such as France, Switzerland and Holland. The Danube connects Yugoslavia, Hungary, Australia and Germany. Therefore, I wish to state that the argument that State autonomy cannot exist if the Ganga and Cauvery are linked is an improper and meaningless argument. Could it not instead be said that the Ganga-Cauvery linking project thereby strengthens national integration? I wish to state that there is not even the slightest separatist intention in this State autonomy. One should not simply say that we are asking for separation and leave it at that.
+and many other rivers have been linked, and canals too have been linked. The Volga-Don river project has been completed, linking Asiatic Russia and European Russia. Likewise, the Rhine connects countries such as France, Switzerland and Holland. The Danube connects Yugoslavia, Hungary, Australia and Germany. Therefore, I wish to state that the argument that State autonomy cannot exist if the Ganga and Cauvery are linked is an improper and meaningless argument. Could it not instead be said that the Ganga-Cauvery linking project thereby underscores national integration? I wish to state that there is not even the slightest separatist intention in this State autonomy. One should not simply say that we are asking for separation and leave it at that.
 
 In an article in "People's Action" - Sarva Seva Sangh Journal of News and Views – Shri Jayaprakash Narayan has referred to people such as me with pride:
 

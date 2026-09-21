@@ -178,13 +178,30 @@ Scan 188's `ஆஸ்திரேலியா` is source-visible and intentional
 
 Gate F does not make an English fidelity-verification claim; that is Gate G.
 
-## Gate status after Gate F
+## Gate G English fidelity and voice review
+
+**Status: PASS / COMPLETE — 39/39 pages**
+
+- review authority — final Gate-E-verified Tamil only
+- source-page sequence — **152→190 / complete / ordered**
+- refinements — **23**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed English changes — **0**
+- outside English imported — **0**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+
+The detailed before → after ledger is in `translation-review.md`.
+
+## Gate status after Gate G
 
 - Gates C–E — **COMPLETE / Tamil VERIFIED**
 - Gate F — **COMPLETE / 39 of 39**
-- Gate G — **NOT STARTED / NEXT**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
+- Gate G — **PASS / COMPLETE / 23 refinements / 0 blockers**
+- English — **VERIFIED AGAINST TAMIL**
+- Gate H / release — **NOT STARTED / NEXT / NOT RELEASED**
 
 ## Exact next activity
 
-Perform **Speech 11 Gate G full English fidelity and voice review — source pages 152–190 / 39 pages**. Review only against the final Gate-E-verified Tamil; do not begin Gate H/release or Speech 12.
+Perform **Speech 11 Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 12.

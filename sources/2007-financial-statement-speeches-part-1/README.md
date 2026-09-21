@@ -373,7 +373,7 @@ Final state:
 - root / machine-readable indexes — **SYNCHRONIZED**
 - parallel witness to `நமது விளக்கம்` — **PRESERVED / NO OVERWRITE**
 
-## Speech 11 Gate-F state
+## Speech 11 Gate-G state
 
 Working entry: [`../../speeches/1972/1972-03-10-financial-statement-debate/`](../../speeches/1972/1972-03-10-financial-statement-debate/)
 
@@ -382,17 +382,13 @@ Locked unit: **152–190 / printed 151–189 / 39 pages**.
 Current state:
 
 - Tamil Gates C–E — **COMPLETE / VERIFIED**
-- Gate F — **COMPLETE / 39 of 39 English pages**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-- Gate-F blocking questions — **0**
-- verified-Tamil changes — **0**
-- Gate G — **NOT STARTED / NEXT**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
+- Gate F — **COMPLETE / 39 of 39**
+- Gate G — **PASS / COMPLETE / 23 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H / release — **NOT STARTED / NEXT / NOT RELEASED**
+- source-printed English — **preserved verbatim**
 - outside English imported — **0**
-
-Gate F translated only from the final verified Tamil and preserved source-printed English verbatim.
 
 ## Exact next activity
 
-Perform **Speech 11 Gate G full English fidelity and voice review — source pages 152–190 / 39 pages**.
+Perform **Speech 11 Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 12.
