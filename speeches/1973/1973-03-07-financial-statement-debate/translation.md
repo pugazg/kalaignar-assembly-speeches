@@ -1,8 +1,8 @@
-# English translation — Gate F working copy
+# English translation — Gate G verified
 
 ## Speech 12 — 07.03.1973
 
-> **Gate F note:** This English working translation is derived only from the Gate-E-verified Tamil in `transcript.md`. Source-page markers are preserved. Source-printed English is reproduced as printed when encountered. No wording is imported from the separately released 1973-03-07 parallel witness, web sources, Official Reports, alternate anthologies or another witness. Gate G has reviewed all 40 Tamil/English page pairs; the refinements below are being applied from the verified Tamil only. Final Gate-G validation and closure status are recorded in the repository controls.
+> **Gate G English verification:** Gate F is **COMPLETE / 40 of 40 pages**. Gate G is **PASS / COMPLETE — all 40 English page sections reviewed against the Gate-E-verified Tamil in `transcript.md`**. Gate G applied **12 English refinements / 0 blockers / 0 verified-Tamil changes / 0 source-printed-English changes**. English is **VERIFIED AGAINST TAMIL** with `verified_against_tamil=true`. Source-page markers 191→230 remain ordered; source-printed English is preserved verbatim; scan 222's repeated cinema sentence remains twice; and the scan 228→229 poem transition is preserved. No wording was imported from the separately released 1973-03-07 parallel witness, web sources, Official Reports, alternate anthologies or another witness.
 
 <!-- source-page: 191 -->
 
