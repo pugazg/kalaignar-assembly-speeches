@@ -162,3 +162,72 @@ year after year your non-plan expenditure keeps rising—1969-70, 1970-71. In wh
 Our friend Mr Vadivel, who spoke on behalf of the Communist Party, asked where all the lands taken under land reform had gone. You took the lands, he said; how much land did you take, how many acres? True to his name, he spoke aggressively. His speech was moving and emotional, and when he kept asking where all the lands were, even I began to wonder: where indeed had they gone, that Mr Vadivel knew something we did not?
 
 Then, when we looked at the figures, we found that, under land reform, up to March 1967, the land declared surplus—that is, when the Congress Government had earlier introduced land reform with a ceiling of 30 standard acres—
+
+
+### Source page 247
+
+when it was brought in, only 24,194 acres—not even land actually obtained, but land merely declared surplus—had been identified. At that time, when I was Deputy Leader of the Opposition, I asked the Revenue Minister, Mr Manickavelar, the very question Mr Vadivel has now asked: how much land did you take and where is it? The then Minister, Mr Manickavelar, said that it had all been divided. With humour, he said that people had divided the surplus land among themselves and taken it away. Since the Government's policy was that land should be divided, he said, they had divided it, and there was no need to worry about it. In that humorous fashion Mr Manickavelar silenced us that day.
+
+Up to March 1967, the surplus land then declared was 24,194 acres. Of that, 16,330 acres were taken over. In other words, 16,330 acres declared surplus were taken over by the Government. Up to 1967, none of that land had been distributed to cultivators; that should be underlined. Then, in 1970, under this Government, we reduced the ceiling from 30 standard acres to 15 standard acres. When we did so, the exemption that had existed for sugarcane lands was withdrawn. The exemption given to grazing lands and similar exemptions were also withdrawn. Thus, under this law, up to 31.1.1974, 90,284 acres had been declared surplus. Of these, 20,429 acres could not be taken over because cases had arisen; 2,306 acres were at the stage of notices having been issued preparatory to takeover; and 67,519 acres had been taken over. Of the land that had thus been taken,
+
+### Source page 248
+
+62,387 acres were allotted to tenants and landless cultivators. Of this, pattas had been issued and full ownership conferred over 39,970 acres. Pattas continue to be issued. Therefore there is no need to ask where the land has gone.
+
+We might even have obtained more than 90,000 acres. But because it had been announced in advance that a ceiling of 30 standard acres was coming, people divided the land among themselves, just as Mr Manickavelar said that day. As a result, when we later brought in the 15-standard-acre ceiling, a situation had already arisen in which we could not obtain a larger extent of surplus land. We should not forget that.
+
+Our friend Mr Vadivel made another point. He said that Government figures showed 64 lakh people without land of their own. I am not aware of any such Government figure. But if he produces it separately, or at another time in this House, I am prepared to examine it and consider the matter. According to the information given to me now, the 1971 Census shows 45 lakh agricultural labourers in Tamil Nadu. This includes all agricultural labourers—those who do agricultural work at some times and other work at other times. Of these, the number of tenants is 4 lakh. Apart from these figures, I have no information that there are 64 lakh landless persons. If he provides such information, I am prepared to consider it.
+
+### Source page 249
+
+Any land taken under land reform is, in the first instance, allotted to the tenant who has been cultivating that land. If there is no such tenant, it is allotted to landless cultivators. I am duty-bound to state this in reply to the issue raised by our friend Mr Vadivel.
+
+When Mr Kumarasamy, a member of the ruling Congress Party, spoke, he asked what schemes this Government had formulated for irrigation and what it had done. After this Government assumed office, the Parambikulam-Aliyar scheme, which had already existed but had stalled midway, was revived; the area receiving irrigation, which had stood at 68,000 acres, was raised to 1,42,000 acres. We cannot forget that.
+
+By utilizing the full potential of the Chittar Pattankal scheme, this Government has created conditions in which 47,000 acres are now cultivated.
+
+The irrigation schemes taken up after 1967 include: the Manimuthar River scheme in South Arcot district; the Ramanathi scheme in Tirunelveli district; the Gadana scheme in Tirunelveli district; renovation of the Vaigai canal in Madurai and Ramanathapuram; Parappalar in Madurai district; Palar-Porundalar in Madurai; the Chinnar scheme in Dharmapuri; the Thandarai anicut scheme in North Arcot and Chengalpattu districts; renovation of the Nandan canal in North Arcot and South Arcot; the Karuppanathi scheme in Tirunelveli district; the Ponnaiyar scheme in Tiruchi district; the Pilavukkal scheme in Ramanathapuram district; and the Marudhanathi scheme in Madurai. Schemes totalling Rs.27 crore and 7 lakh have been created, bringing 1,87,530 acres newly under cultivation. This Government has accomplished that in these five or six years.
+
+### Source page 250
+
+The schemes sanctioned in 1973-74 have also all been published in the financial statement. I believe members can learn the details by reading them there.
+
+If you look at the additional irrigation achieved under minor-irrigation schemes, you will see figures created by this Government over five or six years that will astonish you.
+
+By 1966 there were 4,369 private tube wells; today there are 14,477. By 1966 there were 2,248 filter-point wells; today there are 14,737. In 1967 there were 565 bore wells; today there are 4,873. In 1967 there were 100 deepened wells; today there are 8,042. Up to 1966, the additional area irrigated was 1,10,160 acres; today it is 4,71,782 acres. No one can forget that these are notable achievements we have made through minor-irrigation schemes.
+
+When Mr Ponnappa Nadar, members of the Communist Party, others, and members of the Anna Dravida Munnetra Kazhagam spoke, they asked about the joint-sector approach adopted by the Tamil Nadu Government, and in particular about the fertilizer factory at Thoothukudi: why should it remain in the joint sector, and why should it not be in the public sector? We pressed the Central Planning Commission to allow us to run the nearly Rs.85-crore fertilizer project ourselves as a State Government project, as a public-sector project. The Central Planning Commission refused. Without assistance from the Central Government, we cannot establish an Rs.85-crore project.
+
+### Source page 251
+
+Meanwhile, the financial institutions were prepared to provide finance if someone established a fertilizer factory in the private sector. We did not want to leave it wholly to the private sector. Since the Central Planning Commission would not permit it in the public sector, the State Government intervened and assumed responsibility: 26 per cent for the Government, 25 per cent for the private party, and the remaining 49 per cent as public shares. That is how we began it in the joint sector. It is not that we do not want the public sector. Because the Central Planning Commission did not accept our request, and the alternative was for it to go entirely into the private sector, we made the effort to bring it at least into the joint sector. I am duty-bound to explain that clearly.
+
+**Mr Kovai Chezhian:** Hon. Speaker, in a company with a capital investment of Rs.85 crore, is it fair to entrust full responsibility for the fertilizer factory to the management of a private individual who has invested only Rs.5 crore? Is it fair for them to give contracts for the work of that fertilizer factory to their other sister companies? I wish to know.
+
+**Hon. Kalaignar M. Karunanidhi:** We have retained 26 per cent precisely so that we can exercise control in every way. There are four directors representing the Government on its Board. I have explained the difficulty we faced. The Central Planning Commission did not agree to the public sector. With no other course open to us, we proceeded in this way. I can certainly assure you that the Government is keeping watch so that no other wrongdoing occurs.
+
+### Source page 252
+
+**Mr K.T.K. Thangamani:** The Central Government has adopted an “Industrial Policy Resolution” saying that fertilizer factories should be in the public sector. Has the Central Government changed that policy?
+
+**Hon. Kalaignar M. Karunanidhi:** When we asked, the Central Planning Commission did not grant permission for the public sector. Therefore, this was the decision we took.
+
+The lady member also spoke about the shipping corporation, in a manner suggesting that we were going to operate ships as though we were a separate country and were going to do this in defiance of the Central Government. Mr Manali, who spoke this morning, said that our taking up this shipping corporation was a bold undertaking. Whatever kind of undertaking it may be, I wish to make clear that it is not an undertaking directed against the Central Government. We may argue with the Central Government and struggle with it; we may be firm in demanding our rights. But this Government has never had, and does not now have, a policy of going beyond the existing rules in defiance of the Central Government. The responsibility for ensuring that such a situation never arises lies not only with the State Government but even more with the Central Government. Just as other States may fail to heed Central Government directions—for example, Mysore in building the Hemavathi dam—the responsibility for ensuring that our Tamil Nadu Government is not pushed into such a situation rests not only with us in the Tamil Nadu Government but also, certainly, with those responsible in the Central Government.
+
+### Source page 253
+
+They asked: shipping is a Central subject; if you have obtained permission for this, why have you not immediately resolved the Cauvery issue? Even though “shipping” is a Central subject, the Central Government today permits private companies to maintain shipping corporations. When we asked the Planning Commission why, if such permission could be given to private parties, it could not be given to a State Government, the Planning Commission agreed. It is on the basis of that agreement that we made this announcement. We have announced the “Poompuhar Transport Corporation” and allocated Rs.1 crore for it. I have set all this out in detail in the financial statement.
+
+Ninety per cent of India's shipping vessels call at Bombay port. Why? Because most of those private shipping companies belong to individual capitalists from that region. We have created this corporation with the aim of reducing the shipping congestion on the western coast, expanding the eastern coast, broadening shipping activity across Tamil Nadu and the southern Indian region, and ensuring that Indian unity is not merely a slogan—not something that means Bombay and Uttar Pradesh alone, but something that creates the sense that Indian unity extends from Kashmir to Kanyakumari. It is also intended to increase shipping activity along the eastern coast.
+
+The Central Government has laid down a policy in its Fifth Five-Year Plan: it wishes to develop shipping capacity to 90 lakh tons. The Fifth Five-Year
+
+### Source page 254
+
+Plan of the Central Government has that objective. This shipping corporation is being started in support of that objective, not merely because we wanted to give it the name Poompuhar, nor because we wish to fly a separate flag across Tamil Nadu, separate Tamil Nadu into an independent country, and send that ship around the world. The name Poompuhar should not create prejudice against the shipping corporation.
+
+Once, when the elder statesman Bhaktavatsalam was Chief Minister, places called “police stations” were changed to “kavalar stations”. Later, Bhaktavatsalam again issued orders to erase “kavalar station” and write “police station”. Navalar and I asked him why he had done so. He explained that the Dravida Munnetra Kazhagam had held a *kavalar* meeting in Tiruvottiyur, and that after that they had ordered the word *kavalar* to be erased and “police” written instead.
+
+**Mrs T.N. Anandanayaki:** *Kavalar* means something at the level of a watchman. I remember Hon. Bhaktavatsalam saying that policemen perform a higher duty than that. I too was a member of this House then.
+
+**Hon. Kalaignar M. Karunanidhi:** Please do not say that police work is higher and a watchman's work lower, and thereby treat a watchman's work as inferior. (Interruption.) If that distinction had been known, there was no need to write “kavalar station” in the first place. Bhaktavatsalam's explanation was that only after the Dravida Munnetra Kazhagam held a *kavalar* meeting at Tiruvottiyur was “kavalar station” changed back to “police station”. That explanation
