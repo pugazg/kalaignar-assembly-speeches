@@ -571,9 +571,9 @@ Final state:
 - Gate-H wording changes — **0 Tamil / 0 English**
 - root / `data/speeches.json` — **SYNCHRONIZED**
 
-## Speech 12 Gate-E closure
+## Speech 12 durable Gate-H closure
 
-Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
+Canonical anthology entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 
 Locked unit: **191–230 / printed 190–229 / 40 pages**.
 
@@ -584,78 +584,59 @@ Controlling coverage:
 - part010 local 1–5 = scans 226–230 — **5 pages** — SHA-256 `257b862a7ebe21d768f8e5a2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90`
 - total — **40/40 COMPLETE**
 
-Final Tamil state:
+Final state:
 
-- boundaries **190→191 / 230→231 — PASS**
-- source markers **191→230 — 40/40 / exactly once / ordered**
+- hard boundaries **190→191 / 230→231 — PASS**
+- Tamil source markers **191→230 — 40/40 / exactly once / ordered**
 - Gate C — **COMPLETE / 40 of 40**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 40 of 40 / 39 of 39 transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / 40 of 40**
-- final Gate-E ledger — **25 correction entries / 30 correction occurrences**
-- affected scans — **16**
+- Gate-E ledger — **25 correction entries / 30 correction occurrences**
 - unresolved readings — **0**
-- scan 191 `மறுபவழி` — **confirmed as printed / retained**
-- scan 222 source-visible cinema-sentence repetition — **retained twice**
-- scan 228→229 poem continuation — **confirmed / preserved**
-- scan 230 final exchange / `வணக்கம்.` / ornament — **confirmed**
-- Tamil — **VERIFIED**
-- `verified_against_scan=true`
-- OCR / web / Official Reports / alternate anthology / released 1973 wording imported — **0**
-- whole-speech exception — **APPLIED / 40-page unit kept intact**
+- Tamil — **VERIFIED / verified_against_scan=true**
 - Gate F — **COMPLETE / 40 of 40**
 - Gate G — **PASS / COMPLETE / 40 of 40 / 12 refinements / 0 blockers / 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **NOT STARTED / next**
-- release — **NOT RELEASED**
-- `data/speeches.json` — **unchanged intentionally while this parallel witness remains unreleased**
-- released `speeches/1973/1973-03-07-financial-statement-reply/` — **UNCHANGED**
-
-Final adjudication added two speaker-label punctuation corrections on scans **229** and **230** beyond the earlier checkpoint. Full correction details are in Speech 12 `verification-log.md` and `metadata.json`.
-
-## Speech 12 Gate-F closure
-
-- English working translation — `translation.md`
-- translated pages — **191–230 / 40 of 40**
-- source-page markers — **40 / ordered**
-- translation source — **Gate-E-verified anthology Tamil only**
-- source-printed English — **preserved verbatim**
-- scan 222 repetition — **preserved twice**
-- scan 228→229 poem — **continuous across page transition**
-- blocking questions — **0**
-- verified Tamil changes — **0**
-- outside English imported — **0**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-
-## Speech 12 Gate-G closure
-
-- reviewed pages — **191–230 / 40 of 40**
-- English refinements — **12**
-- blocking issues — **0**
-- verified Tamil changes — **0**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- English source-page sections **191→230 — 40/40 / ordered**
+- `translation.md` — **retired to released pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
 - source-printed English changes — **0**
-- outside English imported — **0**
-- English — **VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=true`
-- source-page markers — **40 / ordered**
 - scan 222 repeated cinema sentence — **preserved twice**
-- scan 228→229 poem transition — **preserved**
-- detailed refinement ledger — `speeches/1973/1973-03-07-financial-statement-debate/translation-review.md`
+- scan 228→229 poem — **preserved**
+- release — **RELEASED / CLOSED**
+- outside wording imported — **0**
 
-## Exact next activity
+Parallel-witness/index treatment:
 
-Perform **Speech 12 Gate H canonical bilingual merge / release-readiness closure**.
+- separately released same-date record — `speeches/1973/1973-03-07-financial-statement-reply/`
+- relationship — **INDEPENDENT PARALLEL WITNESS / NO OVERWRITE / NO NORMALIZATION**
+- same-date released record — **UNCHANGED**
+- `data/speeches.json` — **UNCHANGED INTENTIONALLY**
+- root dated speech table — **UNCHANGED INTENTIONALLY**
+- reason — the repository's dated machine-readable index currently has one canonical entry per date; a second `1973-03-07` entry was not created. The released anthology witness remains discoverable through the anthology package and repository status sections.
 
-Requirements:
+## Exact next activity — Speech 13 source-boundary + Gate-C setup
 
-1. preserve verified Tamil exactly;
-2. preserve Gate-G-verified English exactly;
-3. merge verified English into the canonical bilingual `transcript.md` following repository convention;
-4. retire `translation.md` to the standard released pointer only after successful merge;
-5. preserve all Tamil and English source-page markers **191→230** exactly once and ordered within their respective sections;
-6. preserve source-printed English, scan 222 repetition, and scan 228→229 poem transition;
-7. keep the independent released `1973-03-07-financial-statement-reply` witness unchanged;
-8. synchronize root and machine-readable indexes only if release policy for this parallel witness calls for them;
-9. record Gate-H wording changes, expected **0 Tamil / 0 English**;
-10. do **not** begin Speech 13 in the same activity.
+Speech 13 map from locked Gate B:
+
+- source label/date — `உரை : 13 / 14.03.1974`
+- ISO date — `1974-03-14`
+- global scans — **231–262**
+- printed pages — **230–261**
+- page count — **32**
+- start boundary — **230→231**
+- end boundary — **262→263**
+- expected working entry — `speeches/1974/1974-03-14-financial-statement-debate/`
+- whole-speech exception — **required**, because 32 pages exceeds the normal 25-page activity allowance.
+
+Next activity requirements:
+
+1. reconfirm hard boundaries from the controlling anthology pixels;
+2. identify the controlling split-file coverage for scans **231–262** and record hashes/local-page mapping;
+3. establish the Speech 13 working entry and source-control metadata without importing outside wording;
+4. prepare Gate C for the intact 32-page speech unit;
+5. do not reopen Speech 12 unless a source-backed defect is discovered;
+6. do not begin Speech 14 in the same activity.
