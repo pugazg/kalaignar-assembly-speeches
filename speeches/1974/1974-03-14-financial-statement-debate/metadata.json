@@ -116,7 +116,7 @@
     "historical_glyph_gate_status": "n-a-closed-modern-2007-typesetting-no-historical-glyph-anomaly-observed",
     "gate_d_status": "pass-complete",
     "gate_e_status": "in-progress",
-    "next_gate": "Gate E source-fidelity verification scans 241-250",
+    "next_gate": "Gate E source-fidelity verification scans 251-260",
     "outside_wording_imported": false,
     "marker_count": 32,
     "marker_range": "231-262",
@@ -159,14 +159,14 @@
     },
     "gate_e": {
       "status": "in-progress",
-      "verified_scan_pages": "231-240",
-      "verified_printed_pages": "230-239",
-      "verified_page_count": 10,
+      "verified_scan_pages": "231-250",
+      "verified_printed_pages": "230-249",
+      "verified_page_count": 20,
       "total_page_count": 32,
-      "remaining_scan_pages": "241-262",
-      "next_batch_scan_pages": "241-250",
-      "correction_entry_count": 2,
-      "correction_occurrence_count": 2,
+      "remaining_scan_pages": "251-262",
+      "next_batch_scan_pages": "251-260",
+      "correction_entry_count": 3,
+      "correction_occurrence_count": 4,
       "corrections": [
         {
           "scan": 238,
@@ -183,6 +183,14 @@
           "after": "எஃகினால்",
           "occurrences": 1,
           "reason": "controlling scan reads எஃகினால்"
+        },
+        {
+          "scan": 247,
+          "printed_page": 246,
+          "before": "எடுத்துக் கொள்ளப்பட்டது",
+          "after": "எடுத்துக் கொள்ளப்பட்டவை",
+          "occurrences": 2,
+          "reason": "controlling scan reads எடுத்துக் கொள்ளப்பட்டவை in both 16,330-acre statements"
         }
       ],
       "unresolved_reading_count": 0,
