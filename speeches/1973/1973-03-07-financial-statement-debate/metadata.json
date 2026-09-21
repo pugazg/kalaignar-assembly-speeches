@@ -1,0 +1,140 @@
+{
+  "id": "1973-03-07-financial-statement-debate",
+  "date": "1973-03-07",
+  "year": 1973,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "source_label_ta": "மாண்புமிகு கலைஞர் மு. கருணாநிதி",
+    "role_ta": null,
+    "role_en": null,
+    "role_note": "No role beyond the source-printed speaker label is inferred here."
+  },
+  "legislature": {
+    "source_context_ta": "சட்டமன்ற உரை",
+    "source_context_en": "Legislative Assembly speech"
+  },
+  "speech": {
+    "source_label_ta": "உரை : 12",
+    "printed_date": "07.03.1973",
+    "archive_subject_slug": "financial-statement-debate",
+    "archive_title_note": "Neutral archival subject label derived from the anthology title; preserved separately from the released parallel witness."
+  },
+  "source": {
+    "publication_title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)",
+    "edition_ta": "முதற்பதிப்பு",
+    "publication_date": "2007-05",
+    "publication_date_printed_ta": "மே, 2007",
+    "publisher_ta": "தமிழ்க்கனி பதிப்பகம்",
+    "publisher_location_ta": "சென்னை - 600 004",
+    "controlling_full_scan_filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf",
+    "controlling_full_scan_total_pages": 546,
+    "controlling_full_scan_file_size_bytes": 393027493,
+    "controlling_full_scan_sha256": "e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932",
+    "working_splits": [
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_008_pages_176-200.pdf",
+        "page_count": 25,
+        "file_size_bytes": 17513705,
+        "sha256": "a7e186a1f4f415410d462f39f50c75475a27ef3d1c386a8cf557ef39701dab47",
+        "local_pages": "16-25",
+        "global_scans": "191-200",
+        "speech_page_count": 10
+      },
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_009_pages_201-225.pdf",
+        "page_count": 25,
+        "file_size_bytes": 17778702,
+        "sha256": "fe1df9ca2d41fd52219cd1fc97d0b6036f69b08aaad022ba2135c599088c40a7",
+        "local_pages": "1-25",
+        "global_scans": "201-225",
+        "speech_page_count": 25
+      },
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_010_pages_226-250.pdf",
+        "page_count": 25,
+        "file_size_bytes": 17801423,
+        "sha256": "257b862a7ebe21d768f8e5a2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90",
+        "local_pages": "1-5",
+        "global_scans": "226-230",
+        "speech_page_count": 5
+      }
+    ],
+    "speech_scan_pages": "191-230",
+    "speech_printed_pages": "190-229",
+    "speech_page_count": 40,
+    "scan_printed_page_relationship": "printed page = global scan page - 1",
+    "start_boundary": "190->191 PASS",
+    "end_boundary": "230->231 PASS",
+    "coverage_complete": true,
+    "coverage_page_count": 40,
+    "source_authority": "rendered scan pixels",
+    "usable_text_layer": false
+  },
+  "parallel_witness": {
+    "is_parallel_witness": true,
+    "related_record": "speeches/1973/1973-03-07-financial-statement-reply/",
+    "relationship": "independent 2007-anthology witness",
+    "overwrite_existing_source_layer": false,
+    "normalize_to_existing_source_layer": false,
+    "external_witness_wording_imported": false
+  },
+  "execution": {
+    "normal_activity_page_limit": 25,
+    "whole_speech_exception_applied": true,
+    "reason": "Speech 12 is an intact 40-page source unit."
+  },
+  "transcription": {
+    "language": "Tamil",
+    "method": "manual Gate C first-pass transcription from rendered pixels of the controlling 2007 anthology splits only",
+    "preserve_source_spelling": true,
+    "preserve_source_punctuation": true,
+    "preserve_source_numerals": true,
+    "preserve_headings": true,
+    "preserve_speaker_labels_and_interventions": true,
+    "preserve_printed_english": true,
+    "preserve_source_visible_repetition": true,
+    "page_boundaries_marked": true,
+    "status": "transcribed-not-verified",
+    "gate_c_status": "complete",
+    "completed_scan_pages": "191-230",
+    "completed_printed_pages": "190-229",
+    "completed_page_count": 40,
+    "total_page_count": 40,
+    "source_page_markers_checked_first_pass": true,
+    "marker_count": 40,
+    "marker_range": "191-230",
+    "unresolved_readings": [
+      {
+        "scan": 191,
+        "reading": "மறுபவழி",
+        "note": "Provisional first-pass reading retained and flagged for later same-scan fidelity verification; not normalized from another witness."
+      }
+    ],
+    "unresolved_reading_count": 1,
+    "completeness_audit_passed": false,
+    "verified_against_scan": false,
+    "historical_glyph_gate_status": "not-started",
+    "gate_d_status": "not-started",
+    "gate_e_status": "not-started",
+    "next_gate": "Gate C.5 applicability determination / Gate D completeness audit",
+    "outside_wording_imported": false
+  },
+  "translation": {
+    "language": "English",
+    "status": "not-started",
+    "verified_against_tamil": false,
+    "gate_f_status": "not-started",
+    "gate_g_status": "not-started",
+    "outside_english_imported": false
+  },
+  "release": {
+    "status": "not-released",
+    "released": false,
+    "release_ready": false,
+    "indexed": false,
+    "gate_h_status": "not-started",
+    "parallel_witness_preserved": true,
+    "existing_source_layer_overwritten": false
+  }
+}
