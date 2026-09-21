@@ -52,25 +52,66 @@ Hashes and byte sizes are recorded in `metadata.json` and `source-notes.md`.
 - Tamil status — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 
-### First-pass unresolved reading
+### First-pass reading settled during Gate D
 
-| Scan | First-pass reading | State |
-|---:|---|---|
-| 191 | `மறுபவழி` | **UNRESOLVED — retain provisionally; same-scan verification required later** |
+The scan-191 first-pass form `மறுபவழி` was enlarged and re-read from the same controlling anthology pixels during Gate D. The source supports that exact printed form.
 
-Unresolved count: **1**.
+- wording change — **0**
+- alternate witness consulted — **NO**
+- unresolved readings after Gate D — **0**
 
 Known first-pass transcription slips noticed while completing the unit were corrected only by returning to the same anthology pixels; they do not constitute Gate E verification. No external witness supplied those corrections.
 
+## Gate C.5 — applicability determination
+
+**N/A / CLOSED.**
+
+Basis:
+
+- controlling witness — modern **2007** anthology typesetting;
+- physical coverage reviewed — **40/40 pages**;
+- no legacy/reform-sensitive glyph condition requiring a separate historical-glyph pass was observed;
+- this determination does not constitute Gate-E word-for-word verification.
+
+## Gate D — completeness / structure audit
+
+**PASS / COMPLETE — 40/40 pages; 0 completeness corrections.**
+
+Coverage:
+
+- source markers — **40 / 191→230 / exactly once / ordered**
+- hard start boundary — **190→191 PASS**
+- hard end boundary — **230→231 PASS**
+- internal transitions — **39/39 PASS**
+- missing pages — **0**
+- duplicate long blocks — **0**
+- completeness corrections — **0**
+
+Structural features checked:
+
+- scan 191 source heading/date and opening speaker label — PASS
+- speaker changes/interventions throughout the unit — PASS
+- source-printed English blocks — PASS
+  - scan 204 — Hande advertisement/circulation question
+  - scan 205 — extended Hande circulation/advertisement intervention
+  - scan 214 — T.N. Anandanayaki Fifth Plan/Fourth Plan intervention
+  - scan 217 — K.L. Rao quotation: `He complimented Tamil Nadu...`
+  - scan 218 — both K.L. Rao power-planning English quotations
+- mixed-script inline forms — structurally retained, including `Money supply` and `ratification`
+- figures/dates/percentages and quoted material — structurally present
+- scan 222 source-visible repetition of the cinema-show sentence — retained, not deduplicated
+- scan 228→229 poem continuation — PASS
+- scan 230 final Edmond exchange, closing paragraph and source ornament — PASS
+
+Gate D changed **0 Tamil words**. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`.
+
 ## Gates intentionally not begun
 
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
-- Gate E — **NOT STARTED**
+- Gate E — **NOT STARTED / next**
 - Gate F / English — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED**
 
 ## Next activity
 
-Determine Gate C.5 applicability, then perform **Gate D completeness/structure audit across scans 191–230**. Do not begin Gate E, English, Gate H or Speech 13 in that activity.
+Perform **Gate E strict page-by-page Tamil source-fidelity verification for scans 191–230 / 40 pages** using only the controlling anthology pixels. Record every source-fidelity correction and unresolved reading. Do not begin English, Gate H or Speech 13 in the same activity.
