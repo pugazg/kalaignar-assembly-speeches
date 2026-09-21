@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches **1–12 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 12 / 07.03.1973 is preserved at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent released parallel witness** to the separately released `1973-03-07-financial-statement-reply`. Its canonical bilingual transcript is complete; Gate H made **0 Tamil / 0 English wording changes**. To avoid a second canonical same-date entry, `data/speeches.json` and the root dated speech table intentionally retain only the existing `1973-03-07-financial-statement-reply` index record; the anthology witness remains discoverable through this source package and repository status sections.
+Speeches **1–13 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 12 / 07.03.1973 is preserved at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent released parallel witness** to the separately released `1973-03-07-financial-statement-reply`. Its canonical bilingual transcript is complete; Gate H made **0 Tamil / 0 English wording changes**. To avoid a second canonical same-date entry, `data/speeches.json` and the root dated speech table intentionally retain only the existing `1973-03-07-financial-statement-reply` index record; the anthology witness remains discoverable through this source package and repository status sections.
 
 ## Whole-speech batching policy
 
