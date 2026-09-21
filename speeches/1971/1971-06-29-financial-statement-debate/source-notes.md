@@ -94,23 +94,27 @@ The normal activity limit is 25 source pages. Speech 10 is 35 pages, and the rep
 
 Gate C was completed across **all scans 117–151** as one intact 35-page speech activity.
 
-## Gate state after Gate G
+## Gate state after Gate H
 
 - Tamil Gates C–E — **COMPLETE / VERIFIED**
 - `verified_against_scan=true`
 - Gate F — **COMPLETE / 35 of 35 English pages**
 - Gate G — **PASS / COMPLETE / 21 refinements / 0 blockers / 0 Tamil changes**
-- English — **VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=true`
-- Gate H / release — **NOT STARTED / NOT RELEASED**
-- outside-source English imported — **0**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual transcript — **COMPLETE**
+- release — **RELEASED / CLOSED**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- outside-source wording imported — **0**
 
-## Gate G English review
+## Gate H release checks
 
-The Gate-F English was reviewed against the final verified Tamil for all **35/35 pages / 117–151**. Source-printed English remained verbatim; no outside witness or outside English was used.
+The verified Tamil and verified English are now canonical together in `transcript.md`. Tamil markers and English source-page sections each cover **117→151 exactly once and in order**.
 
-Gate-G totals: **21 refinements / 0 blockers / 0 verified-Tamil changes**.
+Hard boundaries **116→117 / 151→152** and corrected Gate-D transitions **136→137 / 137→138** remain preserved.
+
+The earlier `நமது விளக்கம்` source layer was not overwritten, normalized, or used to alter this anthology witness.
 
 ## Exact next
 
-**Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 11 in the same activity.
+**Speech 11 / 10.3.1972 source-boundary and Gate-C setup — scans 152–190 / printed pp.151–189 / 39 pages**.

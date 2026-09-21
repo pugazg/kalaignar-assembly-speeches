@@ -335,7 +335,7 @@
     "verified_against_tamil": true,
     "gate_f_status": "complete",
     "gate_g_status": "pass-complete",
-    "next_gate": "gate-h",
+    "next_gate": null,
     "external_witness_translation_imported": false,
     "completed_scan_pages": "117-151",
     "completed_page_count": 35,
@@ -471,15 +471,23 @@
           "after": "Even though things became heated in between, I ask that, in keeping with Tamil culture, that heat certainly be forgotten."
         }
       ]
-    }
+    },
+    "gate_h_status": "pass-complete",
+    "placement": "canonical in transcript.md; translation.md retired to pointer",
+    "canonical_merged": true,
+    "translation_working_copy_retired": true
   },
   "release": {
-    "status": "not-released",
-    "released": false,
-    "release_ready": false,
-    "indexed": false,
-    "gate_h_status": "not-started",
-    "canonical_bilingual_transcript": false,
+    "status": "released",
+    "released": true,
+    "release_ready": true,
+    "indexed": true,
+    "gate_h_status": "pass-complete",
+    "release_note": "Speech 10 Gate H PASS / COMPLETE. Canonical bilingual transcript and dated repository indexes synchronized; translation.md retired to a pointer; no verified Tamil or English wording changed during Gate H. The 2007 anthology entry remains an independent parallel witness to நமது விளக்கம்.",
+    "canonical_bilingual_transcript": true,
+    "translation_working_copy_retired": true,
+    "gate_h_wording_changes_tamil": 0,
+    "gate_h_wording_changes_english": 0,
     "parallel_witness_preserved": true,
     "existing_source_layer_overwritten": false
   }

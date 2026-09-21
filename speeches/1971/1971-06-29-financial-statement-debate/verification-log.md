@@ -204,28 +204,34 @@ No other Tamil wording changed. The earlier Gate-C reconciliation note for **136
 
 **Status: PASS / COMPLETE — 35/35 pages**
 
-- review authority — final Gate-E-verified Tamil only
 - refinements — **21**
 - blocking fidelity issues — **0**
 - verified-Tamil changes — **0**
 - source-printed English — **retained verbatim**
-- page sequence **117→151** — **PASS**
-- speaker/intervention/reaction structure — **PASS**
-- figures / dates / quotations / source-visible repetitions — **PASS**
-- outside-witness English imported — **0**
 - English — **VERIFIED AGAINST TAMIL**
 - `verified_against_tamil=true`
 
-The complete refinement ledger is maintained in `translation-review.md`.
+The detailed before → after ledger remains in `translation-review.md`.
 
-## Gate status after Gate G
+## Gate H canonical bilingual merge / release closure
 
-- Gates C–E — **COMPLETE / Tamil VERIFIED**
-- Gate F — **COMPLETE**
-- Gate G — **PASS / COMPLETE / 21 refinements / 0 blockers / 0 Tamil changes**
-- English — **VERIFIED AGAINST TAMIL**
-- Gate H / release — **NOT STARTED / NEXT**
+**Status: PASS / COMPLETE — RELEASED / CLOSED**
+
+- Tamil markers **117→151** — **35/35 / unique / ordered**
+- English sections **117→151** — **35/35 / unique / ordered**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired pointer**
+- hard boundaries **116→117 / 151→152** — **PASS**
+- Gate-D transitions **136→137 / 137→138** — **PASS**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- root dated index / `data/speeches.json` — **SYNCHRONIZED**
+- parallel-witness rule — **PRESERVED**
+- existing `நமது விளக்கம்` layer — **UNCHANGED**
+
+## Final Speech 10 disposition
+
+**RELEASED / CLOSED through Gate H.**
 
 ## Exact next activity
 
-Perform **Speech 10 Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 11.
+Begin **Speech 11 / 10.3.1972 source-boundary and Gate-C setup — scans 152–190 / printed pp.151–189 / 39 pages**. Do not begin Speech 12.

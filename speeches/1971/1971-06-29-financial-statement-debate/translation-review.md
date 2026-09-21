@@ -90,6 +90,25 @@ Verified-Tamil changes: **0**.
 English status: **VERIFIED AGAINST TAMIL**.  
 `verified_against_tamil=true`.
 
+## Gate H — canonical bilingual merge / index / release closure
+
+**Status: PASS / COMPLETE — RELEASED / CLOSED**
+
+- verified Tamil source-page markers **117→151** preserved exactly once and in order;
+- Gate-G-verified English sections **117→151** preserved exactly once and in order;
+- canonical `transcript.md` now contains verified Tamil followed by verified English;
+- `translation.md` retired to the standard released pointer;
+- Gate-G totals remain **21 refinements / 0 blockers / 0 Tamil changes**;
+- Gate-H wording changes — **0 Tamil / 0 English**;
+- hard boundaries **116→117** and **151→152** preserved;
+- Gate-D transitions **136→137** and **137→138** preserved;
+- source-printed English remains verbatim;
+- root dated index and `data/speeches.json` synchronized with this distinct dated anthology witness;
+- existing `நமது விளக்கம்` source layer remains untouched;
+- independent parallel-witness / no-overwrite rule preserved.
+
+Final disposition: **Speech 10 RELEASED / CLOSED**.
+
 ## Exact next activity
 
-Perform **Speech 10 Gate H canonical bilingual merge / release readiness and index synchronization**. Gate H must merge the Gate-G-verified English into the canonical bilingual `transcript.md`, retire `translation.md` to the standard pointer, verify all Tamil and English page sequences **117→151**, preserve the independent parallel-witness rule, and update dated indexes only if the repository's release invariant is satisfied. Do not begin Speech 11 in the same activity.
+Begin **Speech 11 / 10.3.1972 source-boundary and Gate-C setup**, scans **152–190 / printed pp.151–189**, as one intact **39-page** unit under the whole-speech exception. Do not begin Speech 12 in the same activity.

@@ -59,35 +59,40 @@ Speech 10 is **35 pages**, exceeding the normal 25-page activity allowance. The 
 - `verified_against_scan=true`
 - Gate F — **COMPLETE / 35 of 35 English pages**
 - Gate G — **PASS / COMPLETE / 21 refinements / 0 blockers / 0 Tamil changes**
-- English — **VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=true`
-- Gate H / release — **NOT STARTED / NOT RELEASED**
-- outside-source English imported — **0**
-
-## Gate G result
-
-The complete Gate-F English was reviewed page-by-page against the final Gate-E-verified Tamil across **117–151 / 35 pages**.
-
-- English pages — **35/35**
-- refinements — **21**
-- blocking fidelity issues — **0**
-- verified-Tamil changes — **0**
-- source-printed English — **retained verbatim**
-- source-page order / interventions / reactions / figures / dates / quotations — **PASS**
-- outside English / parallel-witness wording imported — **0**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual transcript — **COMPLETE**
+- `translation.md` — **retired to released pointer**
+- release — **RELEASED / CLOSED**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- outside-source wording imported — **0**
 
-The full before → after refinement ledger is in `translation-review.md`.
+## Gate H result
 
-## Working files
+Speech 10 / 29.6.71 is **RELEASED / CLOSED**.
 
-- `transcript.md` — Gate-E-verified Tamil
-- `translation.md` — Gate-G-verified English
-- `translation-review.md` — Gate-F/G audit and refinement ledger
-- `metadata.json`, `source-notes.md`, `verification-log.md` — synchronized gate state
+Release checks:
+
+- verified Tamil markers **117→151** — **35/35 / exactly once / ordered**
+- verified English sections **117→151** — **35/35 / exactly once / ordered**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- source-printed English — **preserved verbatim**
+- hard boundaries **116→117 / 151→152** — **PASS**
+- Gate-D transitions **136→137 / 137→138** — **PASS**
+- Gate-G totals — **21 refinements / 0 blockers / 0 Tamil changes**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- independent parallel witness to `நமது விளக்கம்` — **PRESERVED / NO OVERWRITE**
+- root dated index / `data/speeches.json` — **SYNCHRONIZED**
+
+## Files
+
+- `transcript.md` — canonical bilingual verified Tamil + verified English
+- `translation.md` — released pointer
+- `translation-review.md` — Gate-F/G audit plus Gate-H closure
+- `metadata.json` — released machine-readable state
+- `source-notes.md` — source authority / parallel-witness state
+- `verification-log.md` — Tamil and English gate history / release closure
 
 ## Exact next activity
 
-Perform **Speech 10 Gate H canonical bilingual merge / release readiness and index synchronization**.
-
-Do not begin Speech 11 in the same activity.
+Begin **Speech 11 / 10.3.1972 source-boundary and Gate-C setup — scans 152–190 / printed pp.151–189 / 39 pages**. Process it as one intact speech under the whole-speech exception. Do not begin Speech 12 in the same activity.

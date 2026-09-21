@@ -528,25 +528,38 @@ The complete before → after ledger is in `translation-review.md`.
 - existing `நமது நிலை` source layer — unchanged
 - parallel-witness / no-overwrite rule — preserved
 
-## Speech 10 durable Gate-G state
+## Speech 10 durable Gate-H closure
 
 Working entry: `speeches/1971/1971-06-29-financial-statement-debate/`
 
 Locked unit: **117–151 / printed 116–150 / 35 pages**.
 
-Durable state:
+Final state:
 
 - Tamil Gates C–E — **COMPLETE / VERIFIED**
 - `verified_against_scan=true`
 - Gate F — **COMPLETE / 35 of 35 English pages**
 - Gate G — **PASS / COMPLETE / 21 refinements / 0 blockers / 0 Tamil changes**
-- English — **VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=true`
-- Gate H / release — **NOT STARTED / NEXT**
-- outside English imported — **0**
-
-Gate G reviewed all **35/35** English pages against the final verified Tamil. Source-printed English remained verbatim. No verified Tamil changed.
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual transcript — **COMPLETE**
+- `translation.md` — **retired pointer**
+- release — **RELEASED / CLOSED**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- root / `data/speeches.json` — **SYNCHRONIZED**
+- independent `நமது விளக்கம்` parallel witness — **PRESERVED**
 
 ## Exact next activity
 
-Perform **Speech 10 Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 11 in the same activity.
+Begin **Speech 11 / 10.3.1972 source-boundary and Gate-C setup**.
+
+Locked anthology map:
+
+- global scans — **152–190**
+- printed pages — **151–189**
+- page count — **39**
+- hard start boundary — **151→152**
+- hard end boundary — **190→191**
+- working ID — `1972-03-10-financial-statement-debate`
+
+Because Speech 11 exceeds the normal 25-page activity allowance, process it separately as **one intact 39-page speech unit**. Do not begin Speech 12 in the same activity.

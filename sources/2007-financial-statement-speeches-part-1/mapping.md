@@ -116,19 +116,19 @@ Released material remains locked. This anthology must be processed as an indepen
 - defer the next whole speech if adding it would exceed 25 pages;
 - if one speech itself exceeds 25 pages, process that intact speech separately.
 
-Speech 9 / 29.3.1971 is **RELEASED / CLOSED through Gate H** as one intact 4-page unit / scans 113–116. Scan 112 remains the released Speech 8 close; scan 117 begins Speech 10 / 29.6.71. Speech 10 spans **35 scans / 117–151** and has now completed Gate G as one intact unit under the whole-speech batching exception.
+Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**. Speech 10 spans **35 scans / 117–151** and is released as one intact unit under the whole-speech batching exception. Scan 152 begins Speech 11 / 10.3.1972, which spans **39 scans / 152–190** and must likewise be processed as one intact speech under the exception.
 
 ## Gate status
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–9 CLOSED; Speech 10 COMPLETE / 35 of 35 / Tamil TRANSCRIBED-NOT-VERIFIED; speeches 11–19 not started**
+- Gate C — **Speeches 1–10 CLOSED; speeches 11–19 not started**
 - Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction after Gate E restored an omitted scan-90 phrase; Speech 9 PASS / COMPLETE / 0 completeness corrections; Speech 10 PASS / COMPLETE / 2 completeness corrections**
 - Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43; Speech 9 / 4; Speech 10 / 26 corrections; Speeches 1–10 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–10 — modern 2007 typesetting; no separate historical/reform-sensitive glyph gate required for Speech 10**
 - Gate F — **Speeches 1–10 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23 / 4 / 35; Speech 10 English TRANSLATED / NOT VERIFIED AGAINST TAMIL**
 - Gate G — **Speeches 1–10 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16 / 11 / 21; 0 blockers; English VERIFIED**
-- Gate H — **Speeches 1–9 PASS / COMPLETE — RELEASED / CLOSED**
+- Gate H — **Speeches 1–10 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Gate-H boundary / release check for Speeches 4–5
 
@@ -211,20 +211,24 @@ Speech 9 / 29.3.1971 is **RELEASED / CLOSED through Gate H** as one intact 4-pag
 - Gate-G blockers — **0**
 - Gate-G Tamil changes — **0**
 
-## Speech 10 Gate-G record
+## Speech 10 Gate-H closure
 
 Locked map: **117–151 / printed 116–150 / 35 pages**.
 
-Current status:
+Final status:
 
 - Tamil — **VERIFIED / verified_against_scan=true**
+- Gate E — **PASS / COMPLETE / 26 corrections / 0 unresolved**
 - Gate F — **COMPLETE / 35 of 35**
 - Gate G — **PASS / COMPLETE / 21 refinements / 0 blockers / 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H / release — **NOT STARTED / NEXT**
-
-Source-printed English remains verbatim. No outside witness supplied English wording.
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual transcript — **COMPLETE**
+- release — **RELEASED / CLOSED**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- root / machine-readable indexes — **SYNCHRONIZED**
+- parallel witness to `நமது விளக்கம்` — **PRESERVED / NO OVERWRITE**
 
 ## Exact continuation
 
-**Speech 10 Gate H canonical bilingual merge / release readiness and index synchronization**.
+Begin **Speech 11 / 10.3.1972 source-boundary and Gate-C setup — scans 152–190 / printed pp.151–189 / 39 pages**. Hard boundaries from the locked map are **151→152** and **190→191**. Process Speech 11 as one intact unit; do not begin Speech 12 in the same activity.
