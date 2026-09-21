@@ -1,6 +1,6 @@
 # English translation — Gate F working copy
 
-> **Gate F state:** English first-pass translation from the final Gate-E-verified Tamil only. Source-page sequence, speaker/intervention structure, figures, quotations, source-printed English and source-visible repetition are preserved. English remains **TRANSLATED / NOT VERIFIED AGAINST TAMIL** with `verified_against_tamil=false` until Gate G.
+> **Gate F state:** **COMPLETE — 32 of 32 English source-page sections / pages 231–262**. The translation is derived only from the final Gate-E-verified Tamil. Source-page sequence, speaker/intervention structure, figures, quotations, source-printed English and source-visible repetition are preserved. Blocking translation questions: **0**. Verified-Tamil changes: **0**. English remains **TRANSLATED / NOT VERIFIED AGAINST TAMIL** with `verified_against_tamil=false` until Gate G.
 
 ### Source page 231
 
