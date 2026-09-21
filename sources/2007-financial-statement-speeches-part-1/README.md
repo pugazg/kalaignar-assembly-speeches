@@ -421,4 +421,4 @@ No OCR, web copy, Official Report, released 1973 wording, alternate anthology or
 
 ## Exact next activity
 
-Begin **Speech 12 Gate F English translation for all 40 verified Tamil pages / scans 191–230** using only this verified anthology Tamil as the translation source. Do not begin Gate G/H or Speech 13 in the same activity.
+Perform **Speech 12 Gate G strict English-vs-verified-Tamil review for all 40 pages / scans 191–230**. Record every refinement and blocker, keep verified Tamil unchanged unless a genuine source issue is found, and do not begin Gate H or Speech 13 in the same activity.
