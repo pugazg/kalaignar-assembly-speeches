@@ -33,7 +33,7 @@ Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.
   - Released Unit 2: [`8-3-1973 — சட்டமன்ற மேலவையில்`](./speeches/1973/1973-03-08-financial-statement-reply/)
   - Handover: [`docs/HANDOVER_1973_IRULUM_OLIYUM.md`](./docs/HANDOVER_1973_IRULUM_OLIYUM.md)
 - [`2007 industrial speeches anthology`](./docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md) — 329-page source mapped into 10 dated speeches. **All 10 speeches are fully released with verified Tamil and verified English.**
-- [`நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)` — 2007 source package](./sources/2007-financial-statement-speeches-part-1/README.md) — **546-scan anthology; Gate A + Gate B COMPLETE / LOCKED; 19 speech units mapped. Speeches 1–11 are RELEASED / CLOSED through Gate H with verified Tamil and verified English.** Speech 12 / 07.03.1973 remains a separate independent parallel witness at [`1973-03-07-financial-statement-debate`](./speeches/1973/1973-03-07-financial-statement-debate/): **Gate E PASS / COMPLETE — Tamil VERIFIED; Gate F COMPLETE / 40 of 40; Gate G PASS / COMPLETE — 40 of 40 / 12 English refinements / 0 blockers / 0 Tamil changes; English VERIFIED AGAINST TAMIL; `verified_against_tamil=true`**. Source-printed English remains verbatim, scan 222's repetition remains twice, and the scan 228→229 poem transition is preserved. The released `1973-03-07-financial-statement-reply` remains unchanged. Exact next: Speech 12 Gate H canonical bilingual merge / release-readiness closure; do not begin Speech 13 in the same activity.
+- [`நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)` — 2007 source package](./sources/2007-financial-statement-speeches-part-1/README.md) — **546-scan anthology; Gate A + Gate B COMPLETE / LOCKED; 19 speech units mapped. Speeches 1–12 are RELEASED / CLOSED through Gate H with verified Tamil and verified English.** Speech 12 / 07.03.1973 is a separately released independent parallel witness at [`1973-03-07-financial-statement-debate`](./speeches/1973/1973-03-07-financial-statement-debate/): **Gate H PASS / COMPLETE; canonical bilingual transcript COMPLETE; 0 Tamil / 0 English Gate-H wording changes**. The separately released `1973-03-07-financial-statement-reply` remains unchanged. To avoid a second canonical same-date record, the dated speech table and `data/speeches.json` intentionally retain only the existing reply entry; the anthology witness remains discoverable through the source package and repository status sections. Exact next: Speech 13 / 14.03.1974 source-boundary + Gate-C setup for scans 231–262 / 32 pages.
   - Handover: [`docs/HANDOVER_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md`](./docs/HANDOVER_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md)
   - Continuation prompt: [`docs/NEXT_CHAT_PROMPT_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md`](./docs/NEXT_CHAT_PROMPT_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md)
 - Copy/paste continuation prompt: [`docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md`](./docs/NEXT_CHAT_PROMPT_2007_INDUSTRIAL_SPEECHES.md)
@@ -43,6 +43,12 @@ Detailed working method: [`docs/ARCHIVAL_WORKFLOW.md`](./docs/ARCHIVAL_WORKFLOW.
 Both `நமது நிலை` and `நமது விளக்கம்` are **edited two-House booklet witnesses** and do not have one safe canonical speech date. Their reader-facing folders preserve each booklet itself with `date: null`; dated event files remain metadata/provenance references.
 
 Accordingly, neither booklet-level entry is added to the canonical dated speech table below or to `data/speeches.json` as though it were one complete Assembly transcript. Each booklet's Tamil wording remains controlled only by its own scan; external legislative records may establish House/date/event provenance but must not silently replace booklet text.
+
+### 1973 same-date parallel-witness indexing note
+
+The released 2007-anthology Speech 12 at `speeches/1973/1973-03-07-financial-statement-debate/` is an independent source witness to the separately released `1973-03-07-financial-statement-reply/`.
+
+Both records remain preserved and released, but the canonical dated speech table and `data/speeches.json` retain only the existing reply record for **07-03-1973**. This avoids creating a second canonical same-date index entry while keeping the anthology witness discoverable through the source-package and repository-status links above.
 
 ## Speech index
 
@@ -115,7 +121,7 @@ kalaignar-assembly-speeches/
     │   ├── 1971-namathu-nilai/
     │   └── 1971-namathu-vilakkam/
     ├── 1973/
-    │   ├── 1973-03-07-financial-statement-debate/   # 2007 anthology parallel witness; unreleased
+    │   ├── 1973-03-07-financial-statement-debate/   # released 2007 anthology parallel witness; intentionally not duplicated in dated index
     │   ├── 1973-03-07-financial-statement-reply/
     │   └── 1973-03-08-financial-statement-reply/
     ├── 1981/
