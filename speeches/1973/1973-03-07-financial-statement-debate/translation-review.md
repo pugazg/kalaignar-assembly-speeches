@@ -65,8 +65,28 @@ Review authority: final Gate-E-verified Tamil in `transcript.md` only.
 - verified-Tamil changes — **0**;
 - outside-witness wording imported — **0**.
 
-## Gate H
+## Gate H — canonical bilingual merge / release closure
 
-**NOT STARTED / next.**
+**PASS / COMPLETE — RELEASED / CLOSED.**
 
-Exact next activity: perform **Gate H canonical bilingual merge / release-readiness closure** for this anthology parallel witness while preserving the independent released `1973-03-07-financial-statement-reply` entry unchanged. Do not begin Speech 13 in the same activity.
+- verified Tamil source-page markers **191→230** — preserved exactly once and in order;
+- Gate-G-verified English source-page sections **191→230** — preserved exactly once and in order;
+- canonical `transcript.md` — complete verified Tamil followed by verified English;
+- `translation.md` — retired to the standard released pointer;
+- Gate-G totals — **12 refinements / 0 blockers / 0 Tamil changes**;
+- Gate-H wording changes — **0 Tamil / 0 English**;
+- source-printed English — preserved verbatim;
+- scan 222 repeated cinema sentence — preserved twice in both relevant language layers;
+- scan 228→229 poem transition — preserved;
+- hard boundaries **190→191 / 230→231** — preserved;
+- separate released `1973-03-07-financial-statement-reply` witness — unchanged;
+- canonical dated index policy — **no duplicate same-date entry created**;
+- `data/speeches.json` — unchanged intentionally;
+- root dated speech table — unchanged intentionally;
+- anthology package / repository status controls — synchronized.
+
+Release disposition: **Speech 12 RELEASED / CLOSED as an independent 2007-anthology parallel witness.**
+
+## Exact next activity
+
+Begin **Speech 13 / 14.03.1974 source-boundary and Gate-C setup** from the controlling 2007 financial-statement anthology. Do not reopen Speech 12 unless a source-backed defect is discovered.
