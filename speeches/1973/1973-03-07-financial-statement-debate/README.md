@@ -72,17 +72,17 @@ Speech 12 spans **40 pages**, exceeding the normal 25-page activity allowance. I
 - source markers — **191→230 exactly once and in order**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- first-pass unresolved readings — **1**
-  - scan 191 — `மறுபவழி` — retained provisionally and flagged for later same-scan fidelity verification
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
-- Gate E — **NOT STARTED**
+- first-pass unresolved readings — **0**
+- scan 191 `மறுபவழி` — **CONFIRMED AS PRINTED from the same controlling scan at Gate D; wording unchanged**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no historical-glyph condition requiring a separate pass**
+- Gate D — **PASS / COMPLETE — 40/40 pages; 39/39 internal transitions; 0 completeness corrections**
+- Gate E — **NOT STARTED / next**
 - English / Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - outside-source wording imported — **0**
 
-Gate C preserves speaker interventions, source-printed English, numerals, source punctuation/spelling and visible repetition. First-pass status is not a word-for-word verification claim.
+Gate C preserves speaker interventions, source-printed English, numerals, source punctuation/spelling and visible repetition. Gate D confirmed structural completeness only: all 40 markers, both hard boundaries, all 39 internal transitions, source-printed English blocks, speaker interventions, figures/quotations, the scan-222 visible repetition, scan-228→229 poem continuation, and scan-230 close are represented. Tamil remains **NOT VERIFIED**; Gate D is not a word-for-word verification claim.
 
 ## Files
 
@@ -93,6 +93,6 @@ Gate C preserves speaker interventions, source-printed English, numerals, source
 
 ## Exact next activity
 
-Perform **Gate C.5 applicability determination and Gate D completeness/structure audit for scans 191–230 only**.
+Perform **Gate E strict page-by-page Tamil source-fidelity verification for all scans 191–230 / 40 pages** against the controlling anthology pixels only.
 
-Do not begin Gate E, English translation, Gate H or Speech 13 in that activity.
+Resolve any actual wording/spelling/punctuation/numeral discrepancies directly from the same source, record every correction and unresolved reading, and only after the complete 40/40 audit decide whether Tamil can become VERIFIED. Do not begin English translation, Gate H or Speech 13 in the same activity.
