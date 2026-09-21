@@ -101,18 +101,42 @@ Gate C is a first pass, not a word-for-word verification. No Gate-E fidelity cla
 
 Gate D is a completeness and structural continuity audit only. It does **not** establish word-for-word fidelity.
 
+## Gate E — Batch 1 / scans 231–240
+
+**IN PROGRESS — 10 of 32 pages visually verified against the controlling pixels.**
+
+Correction ledger:
+
+| Scan | Printed page | Before | After | Occurrences |
+|---:|---:|---|---|---:|
+| 238 | 237 | `பின்னாக்கு` | `பிண்ணாக்கு` | 1 |
+| 238 | 237 | `ரெசினால்` | `எஃகினால்` | 1 |
+
+Batch result:
+
+- verified scans — **231–240 / 10 pages**
+- correction entries — **2**
+- correction occurrences — **2**
+- unresolved readings in checked range — **0**
+- source-page markers affected — **0**
+- OCR / web / Official Report / alternate anthology / other-witness wording imported — **0**
+- Tamil verification state — **NOT VERIFIED / verified_against_scan=false**
+- Speech 12 reopened — **NO**
+- Speech 14 begun — **NO**
+
 ## Gate status
 
 - Gate C — **COMPLETE / 32 of 32**
 - Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 32 of 32 / 31 of 31 transitions / 0 completeness corrections**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **IN PROGRESS / 10 of 32 pages**
+- cumulative Gate-E ledger — **2 entries / 2 occurrences**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- Gate E — **NOT STARTED**
 - Gate F / English — **BLOCKED / NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-Perform **Speech 13 Gate E word-for-word source-fidelity verification — scans 231–262 / 32 pages** from the controlling 2007 anthology pixels only. Do not begin English work, Gate H or Speech 14 in the same activity.
+Continue **Speech 13 Gate E — scans 241–250 / printed pp.240–249 / next 10 pages** from the controlling 2007 anthology pixels only. Carry forward the cumulative ledger. Do not begin English work, Gate H or Speech 14.
