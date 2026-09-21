@@ -56,17 +56,22 @@ No source wording was transcribed in this setup activity.
 
 Speech 13 spans **32 pages**, exceeding the normal 25-page activity allowance. The repository policy requires a single speech longer than 25 pages to be processed separately as **one intact speech unit**. Gate C must therefore cover all scans **231–262** in one Speech-13 activity rather than splitting the speech merely to satisfy the allowance.
 
-## Gate C first-pass result
+## Gate C.5 + Gate D result
 
-- source-boundary / Gate-C setup — **PASS / COMPLETE**
 - source coverage — **COMPLETE / 32 of 32**
 - Gate C — **COMPLETE / 32 of 32 pages**
 - source-page markers — **231→262 / exactly once / ordered**
+- Gate C.5 — **N/A / CLOSED**
+- Gate C.5 basis — modern **2007** typesetting; no legacy/reform-sensitive glyph condition identified
+- Gate D — **PASS / COMPLETE / 32 of 32 pages**
+- internal transitions — **31 of 31 PASS**
+- hard boundaries — **230→231 / 262→263 PASS**
+- completeness corrections — **0**
+- missing pages — **0**
+- duplicate long blocks — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - unresolved first-pass readings — **0 currently flagged**
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
 - English / Gate F / Gate G — **BLOCKED / NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
@@ -74,16 +79,15 @@ Speech 13 spans **32 pages**, exceeding the normal 25-page activity allowance. T
 - Speech 12 — **unchanged / RELEASED / CLOSED**
 - Speech 14 — **not begun**
 
-Gate C is a first-pass transcription state only. It does **not** make a word-for-word source-verification claim.
+Gate D checked structural completeness, page continuations, speaker changes/interventions, source-printed English, figures, quotations, parenthetical reactions, source-page markers and the scan-262 close. It does **not** make a word-for-word verification claim, so Tamil remains NOT VERIFIED.
 
 ## Files
 
-- `transcript.md` — complete first-pass Tamil with source-page markers 231→262
-- `README.md` — source boundary, split coverage, safeguards and gate state
-- `metadata.json` — machine-readable source and Gate-C state
-- `source-notes.md` — source authority, hashes and source-separation constraints
-- `verification-log.md` — setup and Gate-C first-pass audit record
+- `transcript.md` — complete first-pass Tamil; status banner synchronized through Gate D
+- `metadata.json` — machine-readable Gate C.5 / Gate D state
+- `source-notes.md` — source authority and audit constraints
+- `verification-log.md` — detailed Gate C.5 / Gate D audit result
 
 ## Exact next activity
 
-Determine **Gate C.5 applicability**, then perform the **Gate D completeness/structure audit across scans 231–262 / 32 pages**. Do not begin Gate E, English work, Gate H, or Speech 14 in that activity.
+Perform **Speech 13 Gate E word-for-word source-fidelity verification — scans 231–262 / 32 pages** against the same controlling anthology pixels. Do not begin English work, Gate H, or Speech 14 in that activity.
