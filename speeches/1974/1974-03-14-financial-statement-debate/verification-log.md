@@ -44,13 +44,32 @@ Total Speech-13 source coverage: **32/32 pages**.
 - web wording imported — **0**;
 - alternate-anthology wording imported — **0**.
 
+## Gate C — first-pass Tamil transcription
+
+**COMPLETE / 32 of 32 pages.**
+
+- global scans — **231–262**
+- printed pages — **230–261**
+- source-page markers — **32 / 231→262 / exactly once / ordered**
+- source wording, spelling, punctuation, numerals — preserved at first-pass level
+- speaker labels / interventions — retained
+- source-printed English — retained
+- source-visible repetition — retained
+- OCR used — **NO**
+- outside witness used — **NO**
+- Speech 12 wording imported — **0**
+- Speech 14 wording imported — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- unresolved first-pass readings — **0 currently flagged**
+
+Gate C is a first pass, not a word-for-word verification. No Gate-E fidelity claim is made.
+
 ## Gate status
 
-- Tamil — **NOT STARTED / NOT VERIFIED**
+- Gate C — **COMPLETE / 32 of 32**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- Gate C — **NOT STARTED**
-- source-page markers — **not yet created**
-- unresolved-reading count — **not assessed; do not treat as zero**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
@@ -58,12 +77,10 @@ Total Speech-13 source coverage: **32/32 pages**.
 - Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 
-The setup does not make any word-for-word fidelity claim.
-
 ## Whole-speech rule
 
-Speech 13 has **32 source pages**. At Gate C it must be processed separately as **one intact 32-page speech unit**, using scans 231–262, rather than split solely to satisfy the normal 25-page activity limit.
+Speech 13 was processed at Gate C as **one intact 32-page speech unit**, notwithstanding the normal 25-page activity limit.
 
 ## Exact next activity
 
-**Speech 13 Gate C Tamil first-pass transcription — scans 231–262 / printed pp.230–261 / 32 pages**. Do not begin Gate C.5, Gate D, English work, or Speech 14 in the same activity.
+Determine **Gate C.5 applicability**, then perform **Gate D completeness/structure audit across scans 231–262 / 32 pages**. Do not begin Gate E, English work, Gate H or Speech 14 in the same activity.
