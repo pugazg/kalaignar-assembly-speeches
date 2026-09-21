@@ -431,31 +431,32 @@ No OCR, web copy, Official Report, released 1973 wording, alternate anthology or
 - root dated speech table — **unchanged intentionally**
 - no duplicate canonical `1973-03-07` index record was created.
 
-## Speech 13 Gate-F completion
+## Speech 13 Gate-H closure
 
 Working entry:
 
 [../../speeches/1974/1974-03-14-financial-statement-debate/](../../speeches/1974/1974-03-14-financial-statement-debate/)
 
 - full unit — **scans 231–262 / printed pp.230–261 / 32 pages**
-- Gate C — **COMPLETE**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 32 of 32 / 31 of 31 transitions / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / 32 of 32**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate F / English — **COMPLETE / 32 of 32 pages**
-- English source-page sequence — **231→262 / complete / ordered**
-- blocking translation questions — **0**
+- Gates C–E — **COMPLETE / Tamil VERIFIED**
+- Gate E — **PASS / COMPLETE / 8 entries / 9 occurrences / 0 unresolved**
+- Gate F — **COMPLETE / 32 of 32**
+- Gate G — **PASS / COMPLETE / 32 of 32**
+- Gate-G refinements — **7**
+- Gate-G blockers — **0**
 - verified-Tamil changes — **0**
-- outside English imported — **0**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- source-page sequence — **231→262 / Tamil + English complete / ordered**
 - source-printed English — **preserved verbatim**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-- Gate G — **NOT STARTED / next**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
 - Speech 12 — **unchanged / RELEASED / CLOSED**
 - Speech 14 — **not begun**
 
 ## Exact next activity
 
-Perform **Speech 13 Gate G English fidelity review — source pages 231–262 / 32 of 32** against the final Gate-E-verified Tamil only. Do not modify verified Tamil, begin Gate H, or begin Speech 14 in the same activity.
+Begin **Speech 14 / 10.03.1975 source-boundary + Gate-C setup — scans 263–319 / printed pp.262–318 / 57 pages**. Do not reopen Speech 13 unless a source-backed defect is discovered.
