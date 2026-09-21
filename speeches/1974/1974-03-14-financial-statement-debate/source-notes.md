@@ -113,6 +113,21 @@ The controlling source is modern May-2007 anthology typesetting. A visual review
 
 Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`. Gate D does not perform word-for-word fidelity verification.
 
+## Gate E source-fidelity verification — Batch 1
+
+**IN PROGRESS — scans 231–240 / 10 of 32 pages verified.**
+
+Corrections applied from the controlling pixels:
+
+| Scan | Printed page | Before | After |
+|---:|---:|---|---|
+| 238 | 237 | `பின்னாக்கு` | `பிண்ணாக்கு` |
+| 238 | 237 | `ரெசினால்` | `எஃகினால்` |
+
+Cumulative Gate-E ledger: **2 correction entries / 2 occurrences / 0 unresolved readings in the checked range**.
+
+Tamil remains **NOT VERIFIED** with `verified_against_scan=false` until all **32/32** pages are verified. No OCR, web copy, Official Report, alternate anthology or other witness supplied either correction.
+
 ## Exact next
 
-Perform **Gate E word-for-word source-fidelity verification — global scans 231–262 / printed pp.230–261 / 32 pages**, using only the same controlling anthology pixels. Do not begin English work or Speech 14 in the same activity.
+Continue **Gate E scans 241–250 / printed pp.240–249 / next 10 pages** from the same controlling anthology pixels. Preserve cumulative corrections and do not begin English work or Speech 14.
