@@ -231,3 +231,78 @@ Once, when the elder statesman Bhaktavatsalam was Chief Minister, places called 
 **Mrs T.N. Anandanayaki:** *Kavalar* means something at the level of a watchman. I remember Hon. Bhaktavatsalam saying that policemen perform a higher duty than that. I too was a member of this House then.
 
 **Hon. Kalaignar M. Karunanidhi:** Please do not say that police work is higher and a watchman's work lower, and thereby treat a watchman's work as inferior. (Interruption.) If that distinction had been known, there was no need to write “kavalar station” in the first place. Bhaktavatsalam's explanation was that only after the Dravida Munnetra Kazhagam held a *kavalar* meeting at Tiruvottiyur was “kavalar station” changed back to “police station”. That explanation
+
+
+### Source page 255
+
+was what he gave. Therefore, merely because of hostility toward the Tamil language, one should not dislike the name Poompuhar. I say this only to urge that good measures should not be opposed, and for no other reason.
+
+We should not speak about boards here. Our K.T.K. Thangamani and other Hon. members have said that we keep creating more and more boards. There is a very important reason for creating more boards and corporations. One purpose is to spread administration more widely and make it efficient. Another is that, in circumstances where neither the State Government nor the Central Government can allocate large sums to them, these corporations and boards can obtain substantial funds from the financial institutions, including banks, that exist today.
+
+In Kerala, a State smaller than ours, there are several corporations such as the Harijan Development Corporation, Rural Development Corporation, Fisheries Development Corporation, Transport Corporation and Electronic Corporation. I have mentioned only the names known to me.
+
+Similarly, in Maharashtra there are the Small Industries Development Corporation, Industrial Development Corporation, State Industrial Investment Corporation of Maharashtra, City Industrial Development Corporation, State Finance Corporation, Konkan Development Corporation and Vidarbha Development Corporation. In addition, in this year's financial statement Maharashtra has created an “Irrigation
+
+### Source page 256
+
+Board” as a corporation.
+
+In Uttar Pradesh they have established a “Hospital Corporation” and also a “Bridges Corporation”. Therefore, these corporations are not simply “boards”, as some say. Someone says they are created merely to appoint chairmen. We have created two or three boards and appointed chairmen to them—that is all. When more boards are created in future, there should not be a suspicion that this is merely to go on appointing members of the ruling party as chairmen. Just as, when a shipping corporation bearing the name Poompuhar was created, an impression arose that there was no need for the shipping corporation, I ask that no such impression arise here. These boards have been constituted so that useful work can be done, administration can be shared and carried out efficiently, and greater financial resources can be obtained; they should be welcomed in that spirit.
+
+The Cauvery issue was discussed here in very alarming terms. It was said that the 1924 agreement on the Cauvery would somehow come to an end. If that agreement ends on 18.2.1974, it does not mean that Cauvery water will stop coming to Tamil Nadu thereafter. Nor does it mean that the agreement made in 1924 itself comes to an end in 1974. Nor does it mean that a new agreement must thereafter be written. Whenever any decision is to be taken on the Cauvery, because it is a major issue for Tamil Nadu, we frequently convene meetings of leaders of all parties, obtain their sound and valuable advice, and it is that decision itself that
+
+### Source page 257
+
+we discuss when we speak with the Central Government. I wish to make clear here that we approach this issue on the basis of the core of that decision, and nothing else.
+
+The Central Government has already appointed many committees on the Cauvery issue. We have been extremely patient; I do not deny that. We have been patient in order to demonstrate that our concern for Indian unity is in no way less than that of the other States.
+
+The Hemavathi dam is being built there. The lady member asked: water comes from there, why should we not stop it? Once, when Mr Pattukkottai Srinivasayyar spoke at an irrigation conference, he even said that a great force should go from Tamil Nadu and break the Cauvery dam there. Such things may suit extremism and fiery speeches. Some people may be fiery in speech, while their action becomes very ordinary indeed. That is why, instead of showing speed only in speech and falling short in action, this Government is today taking a very firm stand on this issue. If the Cauvery river were not available, if anything were to go wrong with the Cauvery agreement, or if the Central Government were to take any one-sided decision in favour of Karnataka, the lives of 4½ crore Tamil people would be brought to ruin. If such a situation arises, this Government certainly will not stand by and watch. At that time, not only the hands of Dravida Munnetra Kazhagam comrades in Tamil Nadu, but the hands of all Tamils will rise as high as necessary against whoever must then be opposed. We have that confidence,
+
+### Source page 258
+
+certainly. Therefore there need be no doubt of any kind. Let us hope that the Central Government will provide funds. Let us hope that the Karnataka Government, Kerala Government and Tamil Nadu Government will sit together and arrive at an amicable decision. With that, I conclude my remarks on this issue.
+
+Many other issues too were discussed in this financial-statement debate. Mr K.T.K. Thangamani said that there is no socialism, and that nationalization alone is not socialism. I accept that view. Nationalization alone is not socialism. But we should not forget that a policy of nationalization is one stage on the road to the summit of socialism. We are carrying out that stage step by step today. I have already set out at many places in this financial statement the various things we have done toward the eventual arrival of socialism. I do not wish to repeat all of them here.
+
+Even with regard to workers, if we look at the workers' welfare insurance scheme, it is in our State that expenditure has gone beyond the statutory limit fixed for them. In Orissa, expenditure has remained within the statutory limit. In Gujarat, Rs.21 lakh has been spent on workers' welfare insurance above the statutory limit. In Haryana, expenditure has remained within the statutory limit. In Bihar, Rs.9 lakh has been spent in excess. In Andhra, Rs.7 lakh has been spent in excess. In Maharashtra, expenditure has remained within the statutory limit. In Madhya Pradesh too, it has remained within the statutory
+
+### Source page 259
+
+limit. In West Bengal, Rs.23 lakh has been spent in excess. In Assam, expenditure has remained within the statutory limit. In Kerala, expenditure has remained within the statutory limit. But in Tamil Nadu alone, under the workers' welfare insurance scheme, Rs.72 lakh has been spent beyond the statutory limit. I wish to state that Tamil Nadu is the one State in India that has spent the highest amount in excess in this manner. (Applause.)
+
+Is it not the Tamil Nadu Government that has introduced, for thirty-five thousand bus workers, a pension scheme of a kind not found elsewhere in India? Can you not at least appreciate that? I am asking and asking you to appreciate something—could you not, at least for that reason, appreciate it once?
+
+I think Mr Thangamani will remember. Six or seven years ago he spoke at a felicitation meeting held at Vani Mahal Theatre in Chennai. I do not think he will have forgotten it. In political circumstances so many things are forgotten. At that meeting he referred to a time when the Communist Party faced danger in Tamil Nadu and was subjected to repression, and he said that, among those in the Dravida Munnetra Kazhagam who gave new life to the Communist Party, Karunanidhi stood foremost. Even if he does not praise me today, I remember his praise that day and take pleasure in it today.
+
+Today Mr Manali praised us. I was watching him as he spoke. He spoke with great emotion.
+
+### Source page 260
+
+Our Muslim League leader Mr Tiruppur Mohideen also spoke with great emotion. Our Mr Perumal spoke. Mr Venkatasamy, leader of the Swatantra Party, also spoke. Although today's debate began with some heat, and although there was some heat in the debate when our friend Rajagopal spoke, later, when the opposition leaders, the Tamil Arasu Kazhagam leader and the Congress Party leader, among others, spoke, they presented the situation well and spoke with genuine feeling.
+
+However many personal differences there may be among us, however many party differences and policy differences there may be, the people have entrusted us with the task of doing some good things for Tamil society.
+
+Our friend Mr Ponnappa Nadar even said that this was the last budget. I am not worried about that. Perhaps he thinks that this Government should fall even before the five-year term is over, without presenting a budget in 1976; I do not know. He even said that photographs were taken because this was the last budget. If photographs are taken at the final stage, at a stage of doubt...
+
+**Mr R. Ponnappa Nadar:** Last time, the election was due in 1972. It took place in 1971. In the same way, I think it will happen now in Tamil Nadu too.
+
+**Hon. Kalaignar M. Karunanidhi:** Whether Indira Gandhi will do that is something you know better than we do, I think. If she does, we can think about it then.
+
+### Source page 261
+
+**Mrs T.N. Anandanayaki:** Indira Gandhi did not do it then. You yourselves went and said that you too would dissolve the Assembly. Was it Indira Gandhi who did it?
+
+**Hon. Kalaignar M. Karunanidhi:** They said they would dissolve it. Then we too said that we would dissolve ours.
+
+Thus, the Tamil people, having seen the Munnetra Kazhagam Government, have entrusted responsibility to us for five years, for ten years—both in 1967 and now. I wish to state that our party is capable of discharging that responsibility.
+
+At the same time, however, I ask you to write and speak all your differing views in a manner that will encourage us and help the administration to be carried on properly. We certainly do not have an obstinate determination that we alone must sit here, giving no place to anyone else.
+
+But I will say one thing. Friends who spoke here said that Tamils in Tamil Nadu are beating and driving away Malayalis. Even such talk is not good. Every State has minorities. Tamils live in Kerala; Andhras live there. Andhras live here. People from Kerala live here. Tamils live in Bombay. Beyond political likes and dislikes, all of us have expressed strong condemnation over what happened in Bombay to Tamils, Malayalis, Andhras and Kannadigas.
+
+### Source page 262
+
+At the same time, just as the Tamils living in Thiruvananthapuram conduct themselves with restraint, people from other States living here too should conduct themselves with restraint. That is extremely important. There should be no impression that the Tamils here are somehow merely ordinary people. There is room in Tamil Nadu for Malayalis; there is room for Telugus; there is room for other minorities; there is room for Gujaratis. All of them will be protected.
+
+But I wish to say just one thing. In South India there can be only one Kerala State; there is no room for two Kerala States. With that, I take my seat in this House. Thank you.
