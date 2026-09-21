@@ -94,8 +94,10 @@ The former first-pass uncertainty at scan **191**, `மறுபவழி`, was 
 - Gate E — **PASS / COMPLETE / 40/40**
 - Gate-E correction ledger — **25 entries / 30 occurrences**
 - unresolved readings — **0**
-- English / Gate F — **COMPLETE / 40 of 40 / translated-not-verified**
-- Gate H — **NOT STARTED**
+- English / Gate F — **COMPLETE / 40 of 40**
+- Gate G — **PASS / COMPLETE / 40 of 40 / 12 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **NOT STARTED / next**
 
 ## Gate E final source-fidelity result
 
@@ -115,22 +117,26 @@ Strict visual source-fidelity review was completed for **scans 191–230 / 40 of
 
 The final adjudication added two speaker-label punctuation corrections on scans **229** and **230** beyond the earlier checkpoint ledger. Full before→after details are recorded in `verification-log.md` and `metadata.json`.
 
-## Gate F English source policy and result
+## Gate F / Gate G English result
 
-Gate F is **COMPLETE / 40 of 40 pages**.
+Gate F is **COMPLETE / 40 of 40 pages** and Gate G is **PASS / COMPLETE / 40 of 40 pages**.
 
 - English source — **verified anthology Tamil in `transcript.md` only**
 - released parallel-witness English consulted/imported — **NO / 0**
 - web / Official Report / alternate anthology English imported — **0**
 - source-page alignment — **40 markers / 191→230 / ordered**
+- Gate-G refinements — **12**
+- blocking fidelity issues — **0**
+- verified Tamil changes — **0**
+- source-printed English changes — **0**
 - source-printed English on scans **204, 205, 214, 217 and 218** — **preserved verbatim**
 - scan 222 repeated cinema sentence — **preserved as two English occurrences**
 - scan 228→229 poem transition — **preserved**
-- blocking translation questions — **0**
-- verified Tamil changes — **0**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+
+Detailed Gate-G refinements are recorded in `translation-review.md`.
 
 ## Exact next activity
 
-Perform **Gate G English verification against the verified Tamil for all scans 191–230 / 40 pages**. Record every English refinement and blocker; do not alter verified Tamil merely to improve English. Do not begin Gate H or Speech 13 in the same activity.
+Perform **Gate H canonical bilingual merge / release-readiness closure** for this anthology parallel witness, preserving the independently released `1973-03-07-financial-statement-reply` entry unchanged. Do not begin Speech 13 in the same activity.
