@@ -431,19 +431,21 @@ No OCR, web copy, Official Report, released 1973 wording, alternate anthology or
 - root dated speech table — **unchanged intentionally**
 - no duplicate canonical `1973-03-07` index record was created.
 
-## Speech 13 Gate E — Batch 1
+## Speech 13 Gate E — Batches 1–2
 
 Working entry:
 
 [../../speeches/1974/1974-03-14-financial-statement-debate/](../../speeches/1974/1974-03-14-financial-statement-debate/)
 
-- scans **231–262 / printed pp.230–261 / 32 pages**
+- full unit — **scans 231–262 / printed pp.230–261 / 32 pages**
 - Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS / scans 231–240 / 10 of 32**
-- correction ledger — **2 entries / 2 occurrences**
-- corrections — scan 238: `பின்னாக்கு→பிண்ணாக்கு`; `ரெசினால்→எஃகினால்`
+- Gate E — **IN PROGRESS / scans 231–250 / 20 of 32**
+- cumulative correction ledger — **3 entries / 4 occurrences**
+- scan 238 — `பின்னாக்கு` → `பிண்ணாக்கு`
+- scan 238 — `ரெசினால்` → `எஃகினால்`
+- scan 247 — `எடுத்துக் கொள்ளப்பட்டது` → `எடுத்துக் கொள்ளப்பட்டவை` ×2
 - unresolved readings in checked range — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - outside/released-witness wording imported — **0**
@@ -452,4 +454,4 @@ Working entry:
 
 ## Exact next activity
 
-Continue **Speech 13 Gate E — scans 241–250 / printed pp.240–249 / next 10 pages**. Carry forward the cumulative correction ledger. Do not begin English work, Gate H or Speech 14.
+Continue **Speech 13 Gate E — scans 251–260 / printed pp.250–259 / next 10 pages**. Carry forward the cumulative correction ledger. Do not begin English work, Gate H or Speech 14.
