@@ -1,0 +1,75 @@
+# Source notes — உரை : 12 / 07.03.1973
+
+## Controlling source
+
+Full anthology:
+
+`TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf`
+
+- 546 physical scans
+- 393,027,493 bytes
+- SHA-256 `e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932`
+- textual authority — **rendered scan pixels**
+
+Gate-C working splits:
+
+| Split | SHA-256 | Size | Local pages | Global scans | Speech pages |
+|---|---|---:|---|---|---:|
+| part008 pages 176–200 | `a7e186a1f4f415410d462f39f50c75475a27ef3d1c386a8cf557ef39701dab47` | 17,513,705 | 16–25 | 191–200 | 10 |
+| part009 pages 201–225 | `fe1df9ca2d41fd52219cd1fc97d0b6036f69b08aaad022ba2135c599088c40a7` | 17,778,702 | 1–25 | 201–225 | 25 |
+| part010 pages 226–250 | `257b862a7ebe21d768f8e5a2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90` | 17,801,423 | 1–5 | 226–230 | 5 |
+
+Coverage is **40/40** with no gap or overlap inside Speech 12.
+
+## Locked boundaries
+
+| Field | Value |
+|---|---|
+| Source label | `உரை : 12` |
+| Printed date | `07.03.1973` |
+| Global scans | **191–230** |
+| Printed pages | **190–229** |
+| Start | scan 190 Speech 11 close → scan 191 Speech 12 start — **PASS** |
+| End | scan 230 Speech 12 close → scan 231 Speech 13 start — **PASS** |
+
+Printed page = global scan - 1 throughout this unit.
+
+## Parallel-witness provenance
+
+The repository already contains a released record at `speeches/1973/1973-03-07-financial-statement-reply/`.
+
+That record was inspected only to confirm that this anthology witness requires a separate non-overwriting path. It was **not** used to supply, repair, normalize or verify Tamil wording in this working entry. The released record remains unchanged.
+
+## Gate-C transcription policy
+
+- all 40 pages manually transcribed from the rendered anthology pixels;
+- no OCR;
+- no web copy;
+- no Official Report;
+- no alternate anthology;
+- no released 1973 Tamil/English imported;
+- physical line wrapping normalized into readable paragraphs;
+- source spelling, punctuation, numerals, speaker interventions, printed English and visible repetition retained;
+- running headers and printed page numbers excluded from speech wording;
+- source markers `191→230` preserve physical scan sequence.
+
+Gate C is a first pass, not a word-for-word verification.
+
+## First-pass uncertainty
+
+One reading remains explicitly unresolved:
+
+- scan **191** — `மறுபவழி`
+
+The first-pass form is retained in `transcript.md` and must be re-read from the same controlling scan during the later fidelity review. No alternative-witness wording is substituted.
+
+## Current gate state
+
+- Gate C — **COMPLETE / 40/40**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Gate C.5 — **NOT STARTED**
+- Gate D — **NOT STARTED**
+- Gate E — **NOT STARTED**
+- English — **NOT STARTED**
+- Gate H — **NOT STARTED**
