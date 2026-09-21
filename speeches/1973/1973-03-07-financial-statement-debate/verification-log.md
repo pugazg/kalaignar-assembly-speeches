@@ -105,38 +105,28 @@ Structural features checked:
 
 Gate D changed **0 Tamil words**. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`.
 
-## Gates intentionally not begun
+## Gate E — strict source-fidelity verification
 
-- Gate E — **NOT STARTED / next**
-- Gate F / English — **NOT STARTED**
-- Gate G — **NOT STARTED**
-- Gate H — **NOT STARTED**
+**PASS / COMPLETE — 40/40 pages; Tamil VERIFIED.**
 
-## Next activity
+Coverage and result:
 
-Perform **Gate E strict page-by-page Tamil source-fidelity verification for scans 191–230 / 40 pages** using only the controlling anthology pixels. Record every source-fidelity correction and unresolved reading. Do not begin English, Gate H or Speech 13 in the same activity.
+- verified scans — **191–230**
+- verified printed pages — **190–229**
+- verified pages — **40/40**
+- source-page markers after correction application — **40 / 191→230 / exactly once / ordered**
+- hard boundaries **190→191 / 230→231** — preserved
+- final source-fidelity ledger — **25 correction entries / 30 correction occurrences**
+- affected scans — **16**
+- unresolved readings — **0**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- OCR / web / Official Report / alternate anthology / released parallel-witness wording imported — **0**
+- Gate-D completeness correction count — **unchanged at 0**
 
+### Final Gate-E correction ledger
 
-## Gate E — strict source-fidelity review checkpoint
-
-**IN PROGRESS — 40/40 pages visually reviewed; final ledger application pending.**
-
-This checkpoint records completed Gate-E work without claiming Gate-E closure or Tamil verification.
-
-- reviewed scans — **191–230**
-- reviewed printed pages — **190–229**
-- reviewed pages — **40/40**
-- pending scans — **none for visual review; final ledger adjudication/application remains**
-- transcript corrections batch-applied — **0**
-- Tamil status — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- outside witness / OCR / web / Official Report wording imported — **0**
-
-### Confirmed correction ledger — checkpoint
-
-The reviewed 40-page range currently contains **23 confirmed correction entries / 28 correction occurrences**. This is still a checkpoint ledger, **not the final Gate-E correction total**, because batch application and post-edit validation remain pending.
-
-| Scan | Current transcription | Controlling anthology reading | Occurrences |
+| Scan | Before | After | Occurrences |
 |---:|---|---|---:|
 | 192 | `நிருவன` | `நிறுவன` | 1 |
 | 193 | `நடைபெற்றிருப்பது` | `நடைபெற்று இருப்பது` | 1 |
@@ -157,55 +147,49 @@ The reviewed 40-page range currently contains **23 confirmed correction entries 
 | 228 | `குறிப்பிடிருக்கிற` | `குறிப்பிடப்பட்டிருக்கிற` | 1 |
 | 228 | `நிலையையும்` | `நிலைமையும்` | 1 |
 | 228 | `ஏ.டி.எம்.கே.` | `எ.டி.எம்.கே.` | 1 |
+| 229 | `திரு. க. உரோ. எட்மண்ட் :` | `திரு. க. உரோ. எட்மண்ட்:` | 1 |
 | 230 | `எழுதியவர்களுக்கு` | `எழுதியவர் களுக்கு` | 1 |
+| 230 | `திரு. க.உரோ. எட்மண்ட் :` | `திரு. க.உரோ. எட்மண்ட்:` | 1 |
 | 230 | `உறுப்பினர்களும்` | `உறுப்பினர் களும்` | 1 |
 | 230 | `சுட்டிக்காட்டி இருக்கிறேன்` | `சுட்டிக்காட்டியிருக்கிறேன்` | 1 |
 | 230 | `உறுப்பினர்களுக்கும்` | `உறுப்பினர் களுக்கும்` | 1 |
 
-The ledger is intentionally **not yet batch-applied to `transcript.md`**. The reason is archival: scans 229–230 and final 40/40 Gate-E adjudication remain pending, so the repository should not imply a partially closed fidelity gate.
+For scan **212**, only the first three source forms are `பிரச்சனை`; later forms on the same scan remain source-printed `பிரச்சினை / பிரச்சினையாக` and were intentionally not normalized.
 
-### Source-visible items reconfirmed during the reviewed range
+Final adjudication added two speaker-label punctuation corrections that were not in the earlier checkpoint ledger:
+
+- scan 229 — first `திரு. க. உரோ. எட்மண்ட்:` label;
+- scan 230 — `திரு. க.உரோ. எட்மண்ட்:` label.
+
+### Source-visible features reconfirmed at Gate E
 
 - scan 191 `மறுபவழி` — retained as printed;
 - scan 204 source-printed English intervention — retained;
 - scan 205 extended English intervention — retained;
-- scan 214 source-printed English intervention — retained;
-- scan 217 K. L. Rao English quotation — retained;
+- scan 214 T.N. Anandanayaki English intervention — retained;
+- scan 217 K.L. Rao English quotation — retained;
 - scan 218 both English power-planning quotations — retained;
-- scan 222 repeated cinema-show sentence — **confirmed source-visible repetition / do not deduplicate**;
-- scan 228 begins the poem which continues onto scan 229 — transition remains intact.
+- scan 222 repeated cinema-show sentence — **confirmed source-visible repetition / retained twice**;
+- scan 228→229 poem continuation — **PASS / preserved**;
+- scan 230 closing exchanges, `வணக்கம்.` and source ornament — **PASS**.
 
-### Gate-E closure conditions still outstanding
+## Post-Gate-E validation
 
-1. final adjudication of the complete 40-page correction ledger;
-2. batch-apply all confirmed corrections to `transcript.md`;
-3. revalidate all **40 source markers / 191→230** after edits;
-4. record final Gate-E correction and unresolved-reading totals;
-5. only then decide whether Tamil can become **VERIFIED / `verified_against_scan=true`**.
+- source markers — **40 / 191→230 / ordered**
+- scan 222 repeated sentence count — **2**
+- scan 228 poem opening — present
+- scan 229 poem continuation — present
+- scan 230 close — present
+- unresolved readings — **0**
+- parallel released witness — **untouched**
+- `data/speeches.json` — **unchanged intentionally; anthology parallel witness remains unreleased**
 
-English / Gate F, Gate G, Gate H and Speech 13 remain **NOT STARTED**.
+## Gates not begun
 
+- Gate F / English translation — **NOT STARTED / next**
+- Gate G — **NOT STARTED**
+- Gate H / release — **NOT STARTED**
 
-### Scans 229–230 completion checkpoint
+## Exact next activity
 
-Both remaining pages have now been visually reviewed against the controlling anthology pixels.
-
-- scan **229 / printed 228** — **PASS at this checkpoint / 0 new correction entries / 0 unresolved**
-  - scan-228→229 poem continuation confirmed;
-  - poem wording retained;
-  - Edmond/Karunanidhi closing exchanges represented;
-  - no new wording correction recorded.
-- scan **230 / printed 229** — **REVIEWED / 4 new correction entries / 0 unresolved**
-  - `எழுதியவர்களுக்கு → எழுதியவர் களுக்கு`
-  - `உறுப்பினர்களும் → உறுப்பினர் களும்`
-  - `சுட்டிக்காட்டி இருக்கிறேன் → சுட்டிக்காட்டியிருக்கிறேன்`
-  - `உறுப்பினர்களுக்கும் → உறுப்பினர் களுக்கும்`
-  - final `வணக்கம்.` and closing ornament confirmed.
-
-During this final visual-review continuation, scan **204** was also re-adjudicated at high resolution and the malformed first-pass date/quotation sequence was confirmed as a correction:
-
-- scan 204 — `“டிசம்பர் மாதம் 8”;ந்தேதி → ‘‘டிசம்பர் மாதம் 8’’ந்தேதி`
-
-Checkpoint accounting is therefore now **23 correction entries / 28 correction occurrences** across the full 40-page visually reviewed range.
-
-Gate E is **not yet closed** because the ledger has not been batch-applied to `transcript.md`, post-edit marker validation has not yet run, and final correction/unresolved totals have not yet been sealed.
+Begin **Gate F English translation for Speech 12 / scans 191–230 / 40 verified Tamil pages**, using only this verified anthology Tamil as the translation source. Preserve the parallel-witness separation and do not begin Gate G/H or Speech 13 in the same activity.
