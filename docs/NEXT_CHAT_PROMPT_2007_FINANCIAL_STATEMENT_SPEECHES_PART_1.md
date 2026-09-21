@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 13 Gate E Batch 2 — scans 241–250
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 13 Gate E Batch 3 — scans 251–260
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,10 +18,11 @@ Working entry:
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
 - Gate E — **IN PROGRESS**
-- verified Gate-E range — **scans 231–240 / 10 of 32 pages**
-- cumulative corrections — **2 entries / 2 occurrences**
+- verified Gate-E range — **scans 231–250 / 20 of 32 pages**
+- cumulative corrections — **3 entries / 4 occurrences**
 - scan 238 — `பின்னாக்கு` → `பிண்ணாக்கு`
 - scan 238 — `ரெசினால்` → `எஃகினால்`
+- scan 247 — `எடுத்துக் கொள்ளப்பட்டது` → `எடுத்துக் கொள்ளப்பட்டவை` ×2
 - unresolved readings in checked range — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - English / Gate F / Gate G — **BLOCKED / NOT STARTED**
@@ -33,18 +34,18 @@ Working entry:
 
 Use only:
 
-`TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_010_pages_226-250.pdf`
+`TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_011_pages_251-275.pdf`
 
-- local pages **16–25**
-- global scans **241–250**
-- printed pages **240–249**
-- SHA-256 `257b862a7ebe21d768f8e5a2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90`
+- local pages **1–10**
+- global scans **251–260**
+- printed pages **250–259**
+- SHA-256 `27c9c96d3c0bdb53480f8d1634300bf9d7dc57be17d3f83c66397ef78863712d`
 
 No OCR, web copy, Official Reports, alternate anthology, released speech or another witness may supply or repair wording.
 
 ## Exact next activity
 
-Perform **Speech 13 Gate E Batch 2 — scans 241–250 / 10 pages**.
+Perform **Speech 13 Gate E Batch 3 — scans 251–260 / 10 pages**.
 
 Requirements:
 
@@ -52,7 +53,7 @@ Requirements:
 2. log every new correction with scan + before→after;
 3. preserve source spelling, punctuation, numerals, speaker labels/interventions, source-printed English, figures and visible repetition;
 4. preserve source-page markers and boundaries;
-5. carry forward the Batch-1 ledger of **2 entries / 2 occurrences**;
-6. keep Tamil **NOT VERIFIED / verified_against_scan=false** after this batch unless the full 32-page gate is somehow completed, which this batch alone cannot do;
+5. carry forward the Batches 1–2 ledger of **3 entries / 4 occurrences**;
+6. keep Tamil **NOT VERIFIED / verified_against_scan=false** after this batch because scans 261–262 will still remain;
 7. synchronize Speech-13 and anthology control documents after the 10-page batch;
 8. do **not** begin English work, Gate H or Speech 14.
