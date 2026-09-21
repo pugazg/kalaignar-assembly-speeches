@@ -354,10 +354,10 @@
   },
   "translation": {
     "language": "English",
-    "status": "translated-not-verified",
-    "verified_against_tamil": false,
+    "status": "verified",
+    "verified_against_tamil": true,
     "gate_f_status": "complete",
-    "gate_g_status": "not-started",
+    "gate_g_status": "pass-complete",
     "source_text": "Gate-E-verified Tamil in transcript.md",
     "completed_scan_pages": "191-230",
     "completed_page_count": 40,
@@ -394,7 +394,92 @@
       },
       "note": "Complete working English translation from verified Tamil only; Gate G fidelity review remains pending."
     },
-    "next_gate": "Gate G English verification against verified Tamil"
+    "next_gate": "Gate H canonical bilingual merge / release-readiness closure",
+    "gate_g": {
+      "status": "pass-complete",
+      "reviewed_source_pages": "191-230",
+      "reviewed_page_count": 40,
+      "refinement_count": 12,
+      "blocking_issue_count": 0,
+      "verified_tamil_changes": 0,
+      "source_printed_english_changes": 0,
+      "outside_english_imported": false,
+      "source_page_markers_preserved": true,
+      "source_visible_repetition_preserved": {
+        "scan": 222,
+        "occurrences": 2
+      },
+      "poem_continuation_preserved": {
+        "scans": "228-229",
+        "confirmed": true
+      },
+      "source_close_confirmed": {
+        "scan": 230,
+        "confirmed": true
+      },
+      "refinements": [
+        {
+          "pages": "192-193",
+          "type": "page-boundary-alignment",
+          "note": "Public Accounts Committee continuation aligned to source break."
+        },
+        {
+          "pages": "193-194",
+          "type": "page-boundary-alignment",
+          "note": "Court-order quotation aligned to source break."
+        },
+        {
+          "pages": "194-195",
+          "type": "page-boundary-alignment",
+          "note": "Finance Commission / Planning Commission sentence aligned to source break."
+        },
+        {
+          "pages": "197-198",
+          "type": "page-boundary-alignment",
+          "note": "Reply-duty sentence aligned to source break."
+        },
+        {
+          "pages": "211-212",
+          "type": "page-boundary-alignment",
+          "note": "Appeal to political parties aligned to source break."
+        },
+        {
+          "page": 214,
+          "before": "Palar project",
+          "after": "Palaiyaru project"
+        },
+        {
+          "page": 215,
+          "before": "Nellithurai, Servalar and Palar projects",
+          "after": "Nellithurai, Servalar and Paraliyaru projects"
+        },
+        {
+          "pages": "217-218",
+          "type": "page-boundary-alignment",
+          "note": "Seminar sentence aligned to source break."
+        },
+        {
+          "page": 223,
+          "before": "They have not even been given a licence, leave alone a generator.",
+          "after": "It is not even a question of a generator; they have not been issued a licence."
+        },
+        {
+          "pages": "224-225",
+          "type": "page-boundary-alignment",
+          "note": "Ten-point reply aligned to source break."
+        },
+        {
+          "page": 226,
+          "before": "But all those matters fall outside the exemptions.",
+          "after": "Under that law, all those exemptions are done away with."
+        },
+        {
+          "page": 228,
+          "before": "after joining the ADMK",
+          "after": "after joining the E.D.M.K."
+        }
+      ]
+    }
   },
   "release": {
     "status": "not-released",
