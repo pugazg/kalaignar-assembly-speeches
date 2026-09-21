@@ -56,29 +56,34 @@ No source wording was transcribed in this setup activity.
 
 Speech 13 spans **32 pages**, exceeding the normal 25-page activity allowance. The repository policy requires a single speech longer than 25 pages to be processed separately as **one intact speech unit**. Gate C must therefore cover all scans **231–262** in one Speech-13 activity rather than splitting the speech merely to satisfy the allowance.
 
-## Current state
+## Gate C first-pass result
 
 - source-boundary / Gate-C setup — **PASS / COMPLETE**
-- source coverage — **COMPLETE / 32 of 32 pages available**
-- Tamil — **NOT STARTED**
+- source coverage — **COMPLETE / 32 of 32**
+- Gate C — **COMPLETE / 32 of 32 pages**
+- source-page markers — **231→262 / exactly once / ordered**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- Gate C — **NOT STARTED**
+- unresolved first-pass readings — **0 currently flagged**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
 - English / Gate F / Gate G — **BLOCKED / NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - source wording imported from outside witnesses — **none**
+- Speech 12 — **unchanged / RELEASED / CLOSED**
+- Speech 14 — **not begun**
 
-No `transcript.md` has been created in this setup activity.
+Gate C is a first-pass transcription state only. It does **not** make a word-for-word source-verification claim.
 
-## Setup files
+## Files
 
-- `README.md` — source boundary, split coverage, source-separation safeguards and gate state
-- `metadata.json` — machine-readable source and status record
-- `source-notes.md` — source authority, hashes, boundary evidence and future transcription constraints
-- `verification-log.md` — setup audit; no Tamil verification claim
+- `transcript.md` — complete first-pass Tamil with source-page markers 231→262
+- `README.md` — source boundary, split coverage, safeguards and gate state
+- `metadata.json` — machine-readable source and Gate-C state
+- `source-notes.md` — source authority, hashes and source-separation constraints
+- `verification-log.md` — setup and Gate-C first-pass audit record
 
 ## Exact next activity
 
-**Speech 13 Gate C Tamil first-pass transcription — scans 231–262 / printed pp.230–261 / 32 pages**, using only the rendered pixels of the two controlling 2007 anthology splits. Do not begin Gate C.5, Gate D, English work, or Speech 14 in that activity.
+Determine **Gate C.5 applicability**, then perform the **Gate D completeness/structure audit across scans 231–262 / 32 pages**. Do not begin Gate E, English work, Gate H, or Speech 14 in that activity.
