@@ -354,11 +354,47 @@
   },
   "translation": {
     "language": "English",
-    "status": "not-started",
+    "status": "translated-not-verified",
     "verified_against_tamil": false,
-    "gate_f_status": "not-started",
+    "gate_f_status": "complete",
     "gate_g_status": "not-started",
-    "outside_english_imported": false
+    "source_text": "Gate-E-verified Tamil in transcript.md",
+    "completed_scan_pages": "191-230",
+    "completed_page_count": 40,
+    "total_page_count": 40,
+    "blocking_questions": [],
+    "blocking_question_count": 0,
+    "verified_tamil_changes": 0,
+    "outside_english_imported": false,
+    "source_printed_english_preserved": true,
+    "source_page_markers_preserved": true,
+    "marker_count": 40,
+    "marker_range": "191-230",
+    "gate_f": {
+      "status": "complete",
+      "source_pages": "191-230",
+      "page_count": 40,
+      "blocking_question_count": 0,
+      "verified_tamil_changes": 0,
+      "verified_against_tamil": false,
+      "outside_english_imported": false,
+      "source_printed_english_preserved": true,
+      "source_page_markers_preserved": true,
+      "source_visible_repetition_preserved": {
+        "scan": 222,
+        "occurrences": 2
+      },
+      "poem_continuation_preserved": {
+        "scans": "228-229",
+        "confirmed": true
+      },
+      "source_close_translated": {
+        "scan": 230,
+        "confirmed": true
+      },
+      "note": "Complete working English translation from verified Tamil only; Gate G fidelity review remains pending."
+    },
+    "next_gate": "Gate G English verification against verified Tamil"
   },
   "release": {
     "status": "not-released",
