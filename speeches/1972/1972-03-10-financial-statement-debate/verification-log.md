@@ -194,14 +194,26 @@ Gate F does not make an English fidelity-verification claim; that is Gate G.
 
 The detailed before → after ledger is in `translation-review.md`.
 
-## Gate status after Gate G
+## Gate H canonical bilingual merge / release closure
 
-- Gates C–E — **COMPLETE / Tamil VERIFIED**
-- Gate F — **COMPLETE / 39 of 39**
-- Gate G — **PASS / COMPLETE / 23 refinements / 0 blockers**
-- English — **VERIFIED AGAINST TAMIL**
-- Gate H / release — **NOT STARTED / NEXT / NOT RELEASED**
+**Status: PASS / COMPLETE — RELEASED / CLOSED**
+
+- Tamil markers **152→190** — **39/39 / unique / ordered**
+- English sections **152→190** — **39/39 / unique / ordered**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired pointer**
+- hard boundaries **151→152 / 190→191** — **PASS**
+- internal source transitions — **38/38 preserved**
+- Gate-G totals — **23 refinements / 0 blockers / 0 Tamil changes**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- source-printed English — **unchanged**
+- root dated index / `data/speeches.json` — **SYNCHRONIZED**
+- outside witness wording imported — **0**
+
+## Final Speech 11 disposition
+
+**RELEASED / CLOSED through Gate H.**
 
 ## Exact next activity
 
-Perform **Speech 11 Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 12.
+Begin **Speech 12 / 07.03.1973 source-boundary and Gate-C setup — scans 191–230 / printed pp.190–229 / 40 pages** as a parallel anthology witness. Do not overwrite the already released `speeches/1973/1973-03-07-financial-statement-reply/` entry, and do not begin Speech 13 in the same activity.

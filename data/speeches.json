@@ -248,6 +248,27 @@
     "gate_h_status": "passed"
   },
   {
+    "id": "1972-03-10-financial-statement-debate",
+    "date": "1972-03-10",
+    "year": 1972,
+    "speaker_ta": "மு. கருணாநிதி",
+    "speaker_en": "M. Karunanidhi",
+    "title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் — உரை : 11",
+    "title_en": "Kalaignar's Legislative Assembly Speeches on the Financial Statement — Speech 11",
+    "event_ta": "நிதிநிலை அறிக்கை மீது உரை",
+    "event_en": "Speech on the financial statement",
+    "path": "speeches/1972/1972-03-10-financial-statement-debate",
+    "languages": [
+      "ta",
+      "en"
+    ],
+    "transcription_status": "verified",
+    "verified_against_scan": true,
+    "translation_status": "verified",
+    "release_status": "released",
+    "gate_h_status": "passed"
+  },
+  {
     "id": "1973-03-07-financial-statement-reply",
     "date": "1973-03-07",
     "year": 1973,

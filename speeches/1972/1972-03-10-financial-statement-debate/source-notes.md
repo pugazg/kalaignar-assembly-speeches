@@ -41,24 +41,32 @@ Total coverage: **39/39**.
 
 The scan-154 phrase `200 கோடி ரூபாய்க்கு வரிபோட்டுத் தள்ளுகிறேன்` was resolved from enlarged controlling-source pixels during first-pass assembly. It remains subject to Gate E.
 
-## Gate state after Gate G
+## Gate state after Gate H
 
-- Gates C–E — **COMPLETE / Tamil VERIFIED**
+- Tamil Gates C–E — **COMPLETE / VERIFIED**
 - `verified_against_scan=true`
 - Gate F — **COMPLETE / 39 of 39 English pages**
 - Gate G — **PASS / COMPLETE / 23 refinements / 0 blockers / 0 Tamil changes**
-- English — **VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=true`
-- source-printed English — **unchanged / verbatim**
-- Gate H / release — **NOT STARTED / NEXT / NOT RELEASED**
-- outside English imported — **0**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual transcript — **COMPLETE**
+- release — **RELEASED / CLOSED**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- outside-source wording imported — **0**
 
-## Gate G review authority
+## Gate H release checks
 
-The full English review used only the final Gate-E-verified Tamil in `transcript.md`. No OCR, web copy, Official Report, alternate anthology, other witness or outside English supplied wording.
+The verified Tamil and verified English are now canonical together in `transcript.md`.
 
-Gate G applied **23 fidelity/voice refinements**. Source-printed English passages were excluded from editorial rewriting and remain exactly as printed.
+- Tamil markers — **152→190 / 39 unique / ordered**
+- English sections — **152→190 / 39 unique / ordered**
+- hard boundaries — **151→152 PASS / 190→191 PASS**
+- internal page transitions — **38/38 preserved**
+- source-printed English — **retained verbatim**
+- `translation.md` — **retired pointer**
+- dated indexes — **synchronized**
+- no outside witness altered this source layer
 
 ## Exact next
 
-**Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 12 in the same activity.
+**Speech 12 / 07.03.1973 source-boundary and Gate-C setup — scans 191–230 / printed pp.190–229 / 40 pages**, as a non-overwriting parallel witness to the already released 1973-03-07 entry.

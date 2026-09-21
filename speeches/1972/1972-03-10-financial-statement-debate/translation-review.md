@@ -106,8 +106,26 @@ Review authority: final Gate-E-verified Tamil in `transcript.md` only.
 - Gate-G blockers — **0**;
 - verified-Tamil changes — **0**.
 
+## Gate H — canonical bilingual merge / index / release closure
+
+**Status: PASS / COMPLETE — RELEASED / CLOSED**
+
+- verified Tamil source-page markers **152→190** preserved exactly once and in order;
+- Gate-G-verified English sections **152→190** preserved exactly once and in order;
+- canonical `transcript.md` now contains verified Tamil followed by verified English;
+- `translation.md` retired to the standard released pointer;
+- Gate-G totals remain **23 refinements / 0 blockers / 0 Tamil changes**;
+- Gate-H wording changes — **0 Tamil / 0 English**;
+- hard boundaries **151→152** and **190→191** preserved;
+- all **38** internal source-page transitions remain ordered;
+- source-printed English remains verbatim;
+- root dated index and `data/speeches.json` synchronized;
+- no outside witness was used to alter the canonical Tamil or English.
+
+Final disposition: **Speech 11 RELEASED / CLOSED**.
+
 ## Exact next activity
 
-Perform **Speech 11 Gate H canonical bilingual merge / release readiness and index synchronization**. Merge this Gate-G-verified English after the verified Tamil in canonical `transcript.md`, retire `translation.md` to the released pointer only after merge checks pass, synchronize release/index/control documents, and make **0 Tamil / 0 English wording changes** unless a genuine release blocker is found and explicitly recorded.
+Begin **Speech 12 / 07.03.1973 source-boundary and Gate-C setup — scans 191–230 / printed pp.190–229 / 40 pages** as one intact whole-speech exception.
 
-Do not begin Speech 12 in the same activity.
+Speech 12 is a **parallel witness only** to the already released `speeches/1973/1973-03-07-financial-statement-reply/`. Do not overwrite or normalize the released entry. Establish a non-overwriting parallel-witness working treatment from the 2007 anthology before transcription. Do not begin Speech 13 in the same activity.

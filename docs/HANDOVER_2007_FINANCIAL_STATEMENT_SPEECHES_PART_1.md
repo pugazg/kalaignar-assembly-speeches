@@ -549,26 +549,38 @@ Final state:
 - root / `data/speeches.json` — **SYNCHRONIZED**
 - independent `நமது விளக்கம்` parallel witness — **PRESERVED**
 
-## Speech 11 durable Gate-G state
+## Speech 11 durable Gate-H closure
 
-Working entry: `speeches/1972/1972-03-10-financial-statement-debate/`
+Canonical entry: `speeches/1972/1972-03-10-financial-statement-debate/`
 
 Locked unit: **152–190 / printed 151–189 / 39 pages**.
 
-Durable state:
+Final state:
 
 - Tamil Gates C–E — **COMPLETE / VERIFIED**
 - `verified_against_scan=true`
 - Gate F — **COMPLETE / 39 of 39 English pages**
 - Gate G — **PASS / COMPLETE / 23 refinements / 0 blockers / 0 Tamil changes**
-- English — **VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=true`
-- source-printed English — **preserved verbatim**
-- Gate H / release — **NOT STARTED / NEXT / NOT RELEASED**
-- outside English imported — **0**
-
-Gate G reviewed all **39/39** English sections against the verified Tamil. The full refinement ledger is in `translation-review.md`.
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual transcript — **COMPLETE**
+- `translation.md` — **retired pointer**
+- release — **RELEASED / CLOSED**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- root / `data/speeches.json` — **SYNCHRONIZED**
 
 ## Exact next activity
 
-Perform **Speech 11 Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 12 in the same activity.
+Begin **Speech 12 / 07.03.1973 source-boundary and Gate-C setup**.
+
+Locked anthology map:
+
+- global scans — **191–230**
+- printed pages — **190–229**
+- page count — **40**
+- hard start boundary — **190→191**
+- hard end boundary — **230→231**
+- existing released canonical speech — `speeches/1973/1973-03-07-financial-statement-reply/`
+- anthology treatment — **parallel witness only / no overwrite**
+
+Because Speech 12 exceeds the normal 25-page allowance, process it separately as **one intact 40-page source unit**. Do not begin Speech 13 in the same activity.

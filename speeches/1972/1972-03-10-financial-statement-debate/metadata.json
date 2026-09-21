@@ -71,7 +71,7 @@
     "gate_d_status": "pass-complete",
     "gate_e_status": "pass-complete",
     "completeness_audit_passed": true,
-    "next_gate": "gate-h",
+    "next_gate": null,
     "outside_wording_imported": false,
     "gate_c5": {
       "status": "n/a-closed",
@@ -266,7 +266,7 @@
     "gate_f_status": "complete",
     "gate_g_status": "pass-complete",
     "source_text": "Gate-E-verified Tamil in transcript.md",
-    "next_gate": "gate-h",
+    "next_gate": null,
     "completed_scan_pages": "152-190",
     "completed_page_count": 39,
     "total_page_count": 39,
@@ -411,13 +411,27 @@
           "after": "Could it not instead be said that the Ganga-Cauvery linking project thereby underscores national integration?"
         }
       ]
-    }
+    },
+    "gate_h_status": "pass-complete",
+    "placement": "canonical in transcript.md; translation.md retired to pointer",
+    "canonical_merged": true,
+    "translation_working_copy_retired": true
   },
   "release": {
-    "status": "not-released",
-    "released": false,
-    "release_ready": false,
-    "indexed": false,
-    "gate_h_status": "not-started"
+    "status": "released",
+    "released": true,
+    "release_ready": true,
+    "indexed": true,
+    "gate_h_status": "pass-complete",
+    "release_note": "Speech 11 Gate H PASS / COMPLETE. Canonical bilingual transcript and dated repository indexes synchronized; translation.md retired to a pointer; no verified Tamil or English wording changed during Gate H.",
+    "canonical_bilingual_transcript": true,
+    "translation_working_copy_retired": true,
+    "gate_h_wording_changes_tamil": 0,
+    "gate_h_wording_changes_english": 0,
+    "hard_boundaries_preserved": [
+      "151->152",
+      "190->191"
+    ],
+    "outside_witness_wording_imported": false
   }
 }

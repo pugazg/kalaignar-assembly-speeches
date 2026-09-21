@@ -1,39 +1,65 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 11 Gate H release closure
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 12 parallel-witness source-boundary + Gate-C setup
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-Speeches **1–10 are RELEASED / CLOSED through Gate H**.
+## Durable release state
 
-Speech 11 / `10.3.1972` has completed Tamil Gates **C–E** and English Gates **F–G** across the intact **39-page** unit.
+Speeches **1–11 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English.
 
-## Speech 11 durable state
+Speech 11 / `10.3.1972` final closure:
 
-- global scans — **152–190**
-- printed pages — **151–189**
-- page count — **39**
-- hard boundaries — **151→152 PASS / 190→191 PASS**
+- scans **152–190 / printed pp.151–189 / 39 pages**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- Gate E — **PASS / COMPLETE / 25 corrections / 0 unresolved**
+- Gate E — **25 corrections / 0 unresolved**
 - Gate F — **COMPLETE / 39/39**
 - Gate G — **PASS / COMPLETE / 23 refinements / 0 blockers / 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- source-printed English — **preserved verbatim**
-- Gate H / release — **NOT STARTED / NEXT / NOT RELEASED**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual transcript — **COMPLETE**
+- release — **RELEASED / CLOSED**
+- Gate-H wording changes — **0 Tamil / 0 English**
 
-## Gate H exact activity
+Do not reopen Speeches 1–11 merely for stylistic polishing.
 
-1. re-fetch live `main` before writing;
-2. merge the complete Gate-G-verified English from `translation.md` into canonical `transcript.md` **after the verified Tamil**;
-3. preserve verified Tamil source markers **152→190 exactly once and ordered**;
-4. preserve English source-page sections **152→190 exactly once and ordered**;
-5. make **0 Tamil / 0 English wording changes** unless a genuine release blocker is found and explicitly recorded;
-6. preserve source-printed English verbatim and the source-bound historical/factual readings;
-7. retire `translation.md` to the standard released pointer only after canonical bilingual merge validation passes;
-8. preserve the Gate-F/G audit and append Gate-H closure to `translation-review.md`;
-9. synchronize Speech-11 README/metadata/source-notes/verification-log, anthology README/mapping, handover/continuation prompt, root dated index and `data/speeches.json`;
-10. verify hard boundaries **151→152 / 190→191** remain preserved;
-11. if all release checks pass, set Gate H **PASS / COMPLETE**, release **RELEASED / CLOSED**, `release.released=true`, `release.release_ready=true`, `release.indexed=true`, and canonical bilingual transcript true;
-12. commit atomically to `main` and re-fetch live main plus key files before claiming durability;
-13. do **not** begin Speech 12 in the same activity.
+## Speech 12 locked anthology map
 
-Expected continuation after Gate H: **Speech 12 source-boundary / Gate-C setup**, beginning at scan **191 / printed page 190 / source date 07.03.1973**, using the locked anthology mapping and whole-speech batching policy.
+- source label — `உரை : 12`
+- printed date — `07.03.1973`
+- ISO date — `1973-03-07`
+- global scans — **191–230**
+- printed pages — **190–229**
+- page count — **40**
+- hard start boundary — **190→191**
+- hard end boundary — **230→231**
+- scan 190 — Speech 11 close / excluded
+- scan 191 — Speech 12 start
+- scan 230 — Speech 12 close
+- scan 231 — Speech 13 start / excluded
+
+## Mandatory parallel-witness rule
+
+A fully released canonical speech already exists at:
+
+`speeches/1973/1973-03-07-financial-statement-reply/`
+
+Speech 12 in this 2007 anthology is therefore **parallel witness only**. Do **not** overwrite, merge into, normalize against, or use the released entry to repair this anthology witness.
+
+Before transcription, establish a **non-overwriting parallel-witness working treatment** consistent with repository conventions and record that relationship in metadata/control documents.
+
+## Whole-speech exception
+
+Speech 12 is **40 pages**, exceeding the normal 25-page activity allowance. Process it separately as **one intact 40-page source unit**. Do not split merely to meet the allowance.
+
+## Exact next activity
+
+1. re-confirm live-main locked mapping and the **190→191 / 230→231** boundaries from the controlling anthology pixels;
+2. establish the controlling split coverage for scans **191–230** and record hashes/page mapping;
+3. inspect the existing released 1973-03-07 entry only to protect against overwrite and document provenance separation — **not** to supply Tamil wording;
+4. establish/create the non-overwriting parallel-witness working entry and its README/metadata/source notes/verification log;
+5. if source coverage and boundaries pass, perform **Gate C first-pass Tamil transcription for all 40 pages / scans 191–230** as one intact unit;
+6. preserve source wording, spelling, punctuation, numerals, speaker interventions, source-printed English and source-visible repetition;
+7. mark genuine uncertainty rather than guessing;
+8. do not use OCR, web copies, Official Reports, the released 1973 speech, alternate anthologies or another witness to supply/repair wording;
+9. after a complete 40/40 first pass, set Tamil **TRANSCRIBED / NOT VERIFIED**, `verified_against_scan=false`, and Gate C **COMPLETE**;
+10. synchronize anthology control documents;
+11. do **not** begin Gate C.5, Gate D/E, English translation, Gate H, or Speech 13 in the same activity.

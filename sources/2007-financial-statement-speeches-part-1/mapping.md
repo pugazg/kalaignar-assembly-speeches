@@ -128,7 +128,7 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–11 — modern 2007 typesetting; speeches 12–19 not started**
 - Gate F — **Speeches 1–11 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23 / 4 / 35 / 39; Speech 11 English TRANSLATED / NOT VERIFIED AGAINST TAMIL**
 - Gate G — **Speeches 1–11 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16 / 11 / 21 / 23; 0 blockers; English VERIFIED**
-- Gate H — **Speeches 1–10 PASS / COMPLETE — RELEASED / CLOSED**
+- Gate H — **Speeches 1–11 PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Gate-H boundary / release check for Speeches 4–5
 
@@ -229,21 +229,25 @@ Final status:
 - root / machine-readable indexes — **SYNCHRONIZED**
 - parallel witness to `நமது விளக்கம்` — **PRESERVED / NO OVERWRITE**
 
-## Speech 11 Gate-G record
+## Speech 11 Gate-H closure
 
 Locked map: **152–190 / printed 151–189 / 39 pages**.
 
-Current status:
+Final status:
 
 - Tamil — **VERIFIED / verified_against_scan=true**
 - Gate E — **PASS / COMPLETE / 25 corrections / 0 unresolved**
 - Gate F — **COMPLETE / 39 of 39**
 - Gate G — **PASS / COMPLETE / 23 refinements / 0 blockers / 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H / release — **NOT STARTED / NEXT / NOT RELEASED**
-- source-printed English — **preserved verbatim**
-- outside English imported — **0**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual transcript — **COMPLETE**
+- release — **RELEASED / CLOSED**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- root / machine-readable indexes — **SYNCHRONIZED**
 
 ## Exact continuation
 
-**Speech 11 Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 12.
+Begin **Speech 12 / 07.03.1973 source-boundary and Gate-C setup — scans 191–230 / printed pp.190–229 / 40 pages**.
+
+Locked boundaries are **190→191** and **230→231**. This source unit is a **parallel witness only** to the already released `speeches/1973/1973-03-07-financial-statement-reply/`; do not overwrite the released entry. Process Speech 12 as one intact whole-speech exception and do not begin Speech 13.

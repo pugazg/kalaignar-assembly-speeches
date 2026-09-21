@@ -373,22 +373,27 @@ Final state:
 - root / machine-readable indexes — **SYNCHRONIZED**
 - parallel witness to `நமது விளக்கம்` — **PRESERVED / NO OVERWRITE**
 
-## Speech 11 Gate-G state
+## Speech 11 Gate-H closure
 
 Working entry: [`../../speeches/1972/1972-03-10-financial-statement-debate/`](../../speeches/1972/1972-03-10-financial-statement-debate/)
 
 Locked unit: **152–190 / printed 151–189 / 39 pages**.
 
-Current state:
+Final state:
 
 - Tamil Gates C–E — **COMPLETE / VERIFIED**
 - Gate F — **COMPLETE / 39 of 39**
 - Gate G — **PASS / COMPLETE / 23 refinements / 0 blockers / 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H / release — **NOT STARTED / NEXT / NOT RELEASED**
-- source-printed English — **preserved verbatim**
-- outside English imported — **0**
+- Gate H — **PASS / COMPLETE**
+- canonical bilingual transcript — **COMPLETE**
+- `translation.md` — **retired pointer**
+- release — **RELEASED / CLOSED**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- root / machine-readable indexes — **SYNCHRONIZED**
 
 ## Exact next activity
 
-Perform **Speech 11 Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 12.
+Begin **Speech 12 / 07.03.1973 source-boundary and Gate-C setup — scans 191–230 / printed pp.190–229 / 40 pages**.
+
+This is a **parallel witness only** to the already released `1973-03-07-financial-statement-reply`; do not overwrite that release. Process the anthology witness intact under the whole-speech exception.
