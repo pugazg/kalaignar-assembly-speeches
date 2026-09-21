@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches **1–11 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 12 / 07.03.1973 is established separately at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent parallel witness** to the already released `1973-03-07-financial-statement-reply`. Speech 12 Gate C is **COMPLETE / 40 of 40**; Gate C.5 is **N/A / CLOSED**; Gate D is **PASS / COMPLETE / 40 of 40 / 0 completeness corrections**; Gate E is **IN PROGRESS — scans 191–228 reviewed / 38 of 40 pages / 18 confirmed correction occurrences logged / scans 229–230 pending**. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`; the Gate-E ledger has not yet been batch-applied.
+Speeches **1–11 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 12 / 07.03.1973 is established separately at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent parallel witness** to the already released `1973-03-07-financial-statement-reply`. Speech 12 Gate C is **COMPLETE / 40 of 40**; Gate C.5 is **N/A / CLOSED**; Gate D is **PASS / COMPLETE / 40 of 40 / 0 completeness corrections**; Gate E is **IN PROGRESS / VISUAL REVIEW COMPLETE — scans 191–230 reviewed / 40 of 40 pages / checkpoint 23 correction entries / 28 occurrences / ledger application pending**. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`; the Gate-E ledger has not yet been batch-applied.
 
 ## Whole-speech batching policy
 
@@ -404,10 +404,10 @@ Locked unit: **191–230 / printed 190–229 / 40 pages**.
 - source markers — **191→230 exactly once and in order**
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
 - Gate D — **PASS / COMPLETE — 40/40 pages; 39/39 transitions; 0 completeness corrections**
-- Gate E — **IN PROGRESS**
-- Gate-E reviewed — **scans 191–228 / 38 of 40 pages**
-- Gate-E pending — **scans 229–230 / 2 pages**
-- checkpoint correction ledger — **18 confirmed correction occurrences**
+- Gate E — **IN PROGRESS / VISUAL REVIEW COMPLETE**
+- Gate-E reviewed — **scans 191–230 / printed 190–229 / 40 of 40 pages**
+- Gate-E pending visual scans — **none**
+- checkpoint correction ledger — **23 correction entries / 28 correction occurrences**
 - correction batch application to `transcript.md` — **DEFERRED until full 40/40 adjudication**
 - final Gate-E correction / unresolved totals — **NOT YET FINAL**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
