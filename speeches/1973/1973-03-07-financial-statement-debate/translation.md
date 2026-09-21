@@ -275,3 +275,66 @@ Dr K.L. Rao spoke, he did not say that it was not running. He said only that arr
 **Hon. Kalaignar M. Karunanidhi:** It was alleged that this Government is indifferent and wholly unconcerned about those affected by the power cut. For the past several days, without attending even to other work, I, the members of the Cabinet and the officials have been attending to this issue. In particular, for the sake of handloom weavers, talks were held yesterday with mill owners, and efforts to secure a substantial quantity of yarn have been completed. Hon. members may have seen that in today's newspapers.
 
 In order to avoid, as far as possible, hardship to workers employed in the mills, a tripartite committee consisting of the Government, representatives of labour and industrialists has been formed. Its work too is proceeding rapidly.
+
+
+<!-- source-page: 221 -->
+
+As for the farmers, representatives of farmers from various districts came and met me and a few other Ministers two days ago. They discussed matters with us for a long time—from ten o'clock for nearly two or two and a half hours. It was a useful discussion. They brought many difficulties to our attention. They said that the four hours of supply now being given should be given properly, that there were faults in some places, and that the four hours should be increased to six. After examining this, we have now decided to increase the present four-hour supply to five hours. (Cheers.) As an experimental first stage, from yesterday under the Vellore electricity scheme, the first group is supplied from 4 a.m. to 9 a.m., the second from 8.30 a.m. to 1.30 p.m., and the third from 1 p.m. to 6 p.m. After observing this, it will very soon be implemented in other places as well.
+
+They said efforts should be made to prevent transformers from developing faults because of excessive electrical “load”. Immediate arrangements have therefore been made for many new transformers. I wish to say that a decision has first been taken to install one thousand transformers there, and that work has already begun.
+
+I am also happy to announce that, until the power-cut situation improves, the minimum electricity charge is being temporarily cancelled for farmers and factories.
+
+<!-- source-page: 222 -->
+
+I also state that farmers affected by the power cut will be given, through the District Collectors and without delay, the same concessions that are normally granted to farmers when the monsoon fails.
+
+I announce that the tax imposed on electricity generated through private generators as a substitute for Electricity Board supply will be cancelled until this emergency ends.
+
+In towns, street lights may burn only from 7 p.m. to 10 p.m. Decorative lighting must use generators.
+
+In cinema theatres, only one show may be conducted using electricity. I think this will give our Tiruppur Moideen some measure of happiness. In cinema theatres, only one show may be conducted using electricity. I also state that there is no bar on conducting the other shows using generators.
+
+To meet the coal requirements of industrial establishments in Chennai, permission has been obtained from the Director General of Shipping to use a foreign vessel for six months. The Chairman of the Electricity Board has been instructed to contact Mr Dastur, Managing Director of South Indian Shipping, and finalise arrangements. I also state here that this scheme to bring in 21,000 tonnes of coal a month will satisfactorily meet our requirements.
+
+**Mrs T.N. Anandanayaki:** Art exhibitions are being held everywhere. Will the Government announce whether electricity will be supplied to them or stopped?
+
+<!-- source-page: 223 -->
+
+**Hon. Kalaignar M. Karunanidhi:** Please tell me where they are being held; then it will be useful. Where is it happening?
+
+**Mrs T.N. Anandanayaki:** We see that board in many places. One is being held today in the 36th Division.
+
+**Dr H.V. Hande:** She said the 36th Division. The Chief Minister should explain it.
+
+**Hon. Kalaignar M. Karunanidhi:** They have not even been given a licence, leave alone a generator. They put up all the sheds and then said, “We have already put them up; still, Chief Minister, you made this announcement. Since we have spent the money, somehow you must give permission.” It has already been said that it is absolutely impossible. Permission has not been given.
+
+**Dr H.V. Hande:** A Minister went and inaugurated it.
+
+**Hon. Kalaignar M. Karunanidhi:** Even if Ministers go and inaugurate them, licences will not be granted. That is the firm order.
+
+Then our Communist Party member Mr Subbiah mentioned some complaints about house-site pattas distributed in Thanjavur district. He said that the Chief Minister had supposedly distributed them to 1,57,000 people, but that many had not received them and only some had. I do not know on what basis he said that. I immediately collected all the details about it.
+
+<!-- source-page: 224 -->
+
+On 27.02.1972, 6,764 house-site pattas were distributed at Thiruvaiyaru. On 15.06.1972, 26,150 were distributed at Thiruthuraipoondi. Mr Manali and Mr Subbiah themselves took part and spoke at that function. On 14.09.1972 and 28.02.1973, 1,15,227 were distributed at Kumbakonam. Thus, by the end of February 1972, the number of pattas distributed was 1,48,000. Of these 1,48,000 recipients of house-site pattas, 1,41,000 have sent acknowledgements that they received them. Those acknowledgements are with the officials. Acknowledgements are still due from another seven thousand persons. After pattas are issued, there are 8,700 cases in which objections have been raised, title has been disputed, or inquiries are pending. Thus, out of the total of 1,57,000 pattas, receipts have been obtained for 1,41,000. There are cases concerning eight thousand pattas, and receipts have not yet come for seven thousand pattas. I place these details concerning the 1,57,000 pattas before the House.
+
+Nine announcements, including one relating to tenants' legislation, have been made in this House on behalf of the Government. These nine announcements have been made as an indication of the ways in which this Government is carrying out its work for Scheduled Castes, backward communities and the poor, and as an indication of this Government's firm faith in public ownership and socialist principles. While speaking this morning, my friend Mr Hande said, in effect, “What are your nine announcements? I will give ten points,” and asked what the answer was to all of them. I believe that, as far as I can, I have answered all ten of those points.
+
+<!-- source-page: 225 -->
+
+I am not unaware that these nine announcements alone are not sufficient to advance Tamil Nadu.
+
+The tenants' law was discussed here. On that subject, Hon. Mr Manali, members of the Communist Party and other members repeatedly keep saying, “Look at the Kerala land-reform law, look at it.”
+
+As far as the Kerala land-ceiling law is concerned, I examined what categories we have exempted in Tamil Nadu and what categories have been exempted in Kerala. In Tamil Nadu, lands of the State and Central Governments and lands of local bodies are exempt. In Kerala, lands of the State and Central Governments are exempt.
+
+In Tamil Nadu, Government-approved industrial and commercial establishments are exempt. In Kerala, industrial and commercial establishments are exempt.
+
+In Tamil Nadu, plantations are exempt. In Kerala, plantations are exempt.
+
+In Tamil Nadu, lands belonging to temples, mosques, churches and charitable institutions are exempt. In Kerala, lands belonging to temples, mosques and churches are exempt.
+
+In Tamil Nadu, temples owning land cannot acquire further land after 1.3.1972. I do not know of a similar provision in Kerala.
+
+In Tamil Nadu, fruit gardens and groves are exempt only in respect of land held as on 1.7.1959. In Kerala, private forests are exempt.
