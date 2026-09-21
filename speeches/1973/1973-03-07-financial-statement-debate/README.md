@@ -76,7 +76,7 @@ Speech 12 spans **40 pages**, exceeding the normal 25-page activity allowance. I
 - scan 191 `மறுபவழி` — **CONFIRMED AS PRINTED from the same controlling scan at Gate D; wording unchanged**
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no historical-glyph condition requiring a separate pass**
 - Gate D — **PASS / COMPLETE — 40/40 pages; 39/39 internal transitions; 0 completeness corrections**
-- Gate E — **NOT STARTED / next**
+- Gate E — **IN PROGRESS — scans 191–228 reviewed / 38 of 40 pages; 18 confirmed correction occurrences logged; corrections not yet batch-applied; scans 229–230 pending**
 - English / Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
@@ -91,8 +91,19 @@ Gate C preserves speaker interventions, source-printed English, numerals, source
 - `source-notes.md` — source authority, split mapping and provenance separation
 - `verification-log.md` — boundary and Gate-C activity record
 
+## Gate E progress checkpoint
+
+Gate E has begun but is **not closed**.
+
+- reviewed — **scans 191–228 / 38 of 40 pages**
+- pending — **scans 229–230**
+- checkpoint correction ledger — **18 confirmed correction occurrences**
+- ledger application — **deferred until full 40/40 Gate-E adjudication**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+
+Confirmed examples include `நிருவன → நிறுவன` (192), `பிரச்சினை → பிரச்சனை` (193), `ஒரோ → ஓஹோ` (194), two `என் 35 → எண் 35` corrections (199), `ஒய்வாக → ஓய்வாக` (206), two `அக்கவுண்டட் → அக்கெளண்டட்` corrections (210), `ஹிந்துஸ்தான் டைம்ஸ்` (217), `சோனல் கவுன்சில்` / `‘சதர்ன் சோன்’` (218), two `ஓ.பி. இராமன்` labels (219), and three scan-228 source-form corrections. Full ledger: `verification-log.md`.
+
 ## Exact next activity
 
-Perform **Gate E strict page-by-page Tamil source-fidelity verification for all scans 191–230 / 40 pages** against the controlling anthology pixels only.
-
-Resolve any actual wording/spelling/punctuation/numeral discrepancies directly from the same source, record every correction and unresolved reading, and only after the complete 40/40 audit decide whether Tamil can become VERIFIED. Do not begin English translation, Gate H or Speech 13 in the same activity.
+Finish **Gate E for scans 229–230**, adjudicate the complete 40-page ledger, batch-apply all source-supported corrections to `transcript.md`, revalidate markers 191→230, and record final correction/unresolved totals. Only then may Tamil be marked VERIFIED. Do not begin English translation, Gate H or Speech 13 in the same activity.
