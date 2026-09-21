@@ -61,7 +61,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 9 | `29.3.1971` | 1971-03-29 | 113–116 | 112–115 | working ID `1971-03-29-financial-statement-debate`; parallel witness to existing `நமது நிலை` provenance/event record |
 | 10 | `29.6.71` | 1971-06-29 | 117–151 | 116–150 | working ID `1971-06-29-financial-statement-debate`; parallel witness to existing `நமது விளக்கம்` provenance/event record |
 | 11 | `10.3.1972` | 1972-03-10 | 152–190 | 151–189 | `1972-03-10-financial-statement-debate` |
-| 12 | `07.03.1973` | 1973-03-07 | 191–230 | 190–229 | working ID `1973-03-07-financial-statement-debate`; **parallel witness only** to released `1973-03-07-financial-statement-reply`; Gate C COMPLETE; Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE 40/40, 0 completeness corrections; Tamil TRANSCRIBED / NOT VERIFIED |
+| 12 | `07.03.1973` | 1973-03-07 | 191–230 | 190–229 | working ID `1973-03-07-financial-statement-debate`; **parallel witness only** to released `1973-03-07-financial-statement-reply`; Gate C COMPLETE; Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE 40/40; Gate E IN PROGRESS — 191–228 reviewed / 38 of 40 / 18 confirmed correction occurrences / 229–230 pending; Tamil TRANSCRIBED / NOT VERIFIED |
 | 13 | `14.03.1974` | 1974-03-14 | 231–262 | 230–261 | `1974-03-14-financial-statement-debate` |
 | 14 | `10.03.1975` | 1975-03-10 | 263–319 | 262–318 | `1975-03-10-financial-statement-debate` |
 | 15 | `03.08.1977` | 1977-08-03 | 320–355 | 319–354 | `1977-08-03-financial-statement-debate` |
