@@ -1,0 +1,141 @@
+{
+  "id": "1974-03-14-financial-statement-debate",
+  "date": "1974-03-14",
+  "year": 1974,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "source_label_ta": "மாண்புமிகு கலைஞர் மு. கருணாநிதி",
+    "role_ta": null,
+    "role_en": null,
+    "role_note": "The Speech 13 opening page supplies the speaker label; this setup does not infer a historical office or role from outside knowledge."
+  },
+  "legislature": {
+    "source_context_ta": "சட்டமன்ற உரை",
+    "source_context_en": "Legislative Assembly speech"
+  },
+  "speech": {
+    "source_label_ta": "உரை : 13",
+    "printed_date": "14.03.1974",
+    "archive_subject_slug": "financial-statement-debate",
+    "archive_title_note": "Neutral archival subject label derived from the anthology title; not asserted to be an official printed legislative event title."
+  },
+  "source": {
+    "publication_title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)",
+    "edition_ta": "முதற்பதிப்பு",
+    "publication_date": "2007-05",
+    "publication_date_printed_ta": "மே, 2007",
+    "publisher_ta": "தமிழ்க்கனி பதிப்பகம்",
+    "publisher_location_ta": "சென்னை - 600 004",
+    "controlling_full_scan_filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf",
+    "controlling_full_scan_total_pages": 546,
+    "controlling_full_scan_file_size_bytes": 393027493,
+    "controlling_full_scan_sha256": "e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932",
+    "working_splits": [
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_010_pages_226-250.pdf",
+        "page_count": 25,
+        "file_size_bytes": 17801423,
+        "sha256": "257b862a7ebe21d768f8e5a2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90",
+        "local_pages": "6-25",
+        "global_scans": "231-250",
+        "printed_pages": "230-249",
+        "speech_page_count": 20
+      },
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_011_pages_251-275.pdf",
+        "page_count": 25,
+        "file_size_bytes": 17580247,
+        "sha256": "27c9c96d3c0bdb53480f8d1634300bf9d7dc57be17d3f83c66397ef78863712d",
+        "local_pages": "1-12",
+        "global_scans": "251-262",
+        "printed_pages": "250-261",
+        "speech_page_count": 12
+      }
+    ],
+    "boundary_check_pages": [
+      "part010 local page 5 = global scan 230 / Speech 12 close / excluded",
+      "part010 local page 6 = global scan 231 / Speech 13 start / admitted",
+      "part011 local page 12 = global scan 262 / Speech 13 close / admitted",
+      "part011 local page 13 = global scan 263 / Speech 14 start / excluded"
+    ],
+    "speech_scan_pages": "231-262",
+    "speech_printed_pages": "230-261",
+    "speech_page_count": 32,
+    "scan_printed_page_relationship": "For this speech, printed page = global scan page - 1.",
+    "start_boundary": "230->231 PASS",
+    "end_boundary": "262->263 PASS",
+    "source_coverage_complete": true,
+    "source_authority": "rendered scan pixels",
+    "usable_text_layer": false
+  },
+  "source_separation": {
+    "declared_parallel_witness": false,
+    "related_record": null,
+    "other_witness_wording_allowed": false,
+    "released_material_wording_imported": false,
+    "ocr_wording_imported": false,
+    "web_wording_imported": false,
+    "official_report_wording_imported": false,
+    "alternate_anthology_wording_imported": false,
+    "safeguard": "Future Speech 13 transcription and verification must use only the controlling 2007 anthology pixels. Released speeches and other witnesses may not supply or repair wording."
+  },
+  "setup": {
+    "status": "pass-complete",
+    "start_boundary": "230->231",
+    "end_boundary": "262->263",
+    "boundaries_visually_reconfirmed": true,
+    "controlling_splits_verified": true,
+    "controlling_speech_page_count": 32,
+    "normal_activity_page_limit": 25,
+    "whole_speech_exception_applied": true,
+    "whole_speech_policy": "Speech 13 is an intact 32-page source unit and must be processed as one speech when Gate C begins."
+  },
+  "transcription": {
+    "language": "Tamil",
+    "method": "NOT STARTED. Future Gate C must be transcribed manually from rendered pixels of the two controlling 2007 anthology splits only.",
+    "preserve_source_spelling": true,
+    "preserve_source_punctuation": true,
+    "preserve_source_numerals": true,
+    "preserve_headings": true,
+    "preserve_speaker_labels_and_interventions": true,
+    "preserve_printed_english": true,
+    "preserve_source_visible_repetition": true,
+    "page_boundaries_marked": false,
+    "status": "not-started",
+    "gate_c_status": "not-started",
+    "completed_scan_pages": null,
+    "completed_printed_pages": null,
+    "completed_page_count": 0,
+    "total_page_count": 32,
+    "source_page_markers_checked_first_pass": false,
+    "unresolved_readings": null,
+    "unresolved_reading_count": null,
+    "completeness_audit_passed": false,
+    "verified_against_scan": false,
+    "historical_glyph_gate_status": "not-started",
+    "gate_d_status": "not-started",
+    "gate_e_status": "not-started",
+    "next_gate": "gate-c",
+    "outside_wording_imported": false
+  },
+  "translation": {
+    "language": "English",
+    "status": "not-started",
+    "type": "faithful reading translation",
+    "source_text": null,
+    "verified_against_tamil": false,
+    "gate_f_status": "not-started",
+    "gate_g_status": "not-started",
+    "next_gate": "blocked-until-tamil-verified",
+    "external_witness_translation_imported": false
+  },
+  "release": {
+    "status": "not-released",
+    "released": false,
+    "release_ready": false,
+    "indexed": false,
+    "gate_h_status": "not-started",
+    "canonical_bilingual_transcript": false
+  }
+}
