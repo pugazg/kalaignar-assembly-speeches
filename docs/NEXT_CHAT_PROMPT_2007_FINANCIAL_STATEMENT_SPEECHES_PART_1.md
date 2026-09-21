@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 12 Gate C.5 + Gate D
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 12 Gate E
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -38,22 +38,28 @@ Do not reopen Speeches 1–11 merely for stylistic polishing.
 
 Coverage — **40/40 COMPLETE**.
 
-## Speech 12 durable Gate-C state
+## Speech 12 durable Gate-C / Gate-D state
 
-Gate C is **COMPLETE / 40 of 40 pages**.
-
+- Gate C — **COMPLETE / 40 of 40**
 - source markers — **191→230 exactly once and in order**
+- Gate C.5 — **N/A / CLOSED**
+  - controlling witness is modern 2007 typesetting
+  - no legacy/reform-sensitive glyph condition requiring a separate historical-glyph pass was observed
+- Gate D — **PASS / COMPLETE / 40 of 40**
+- hard boundaries — **190→191 / 230→231 PASS**
+- internal transitions — **39/39 PASS**
+- completeness corrections — **0**
+- missing pages / duplicate long blocks — **0 / 0**
+- speaker interventions / source-printed English / figures / quotations — **structurally complete**
+- scan 222 source-visible repeated cinema sentence — **retained**
+- scan 228→229 poem continuation — **PASS**
+- scan 230 closing exchange and close — **PASS**
+- scan 191 `மறுபவழி` — **confirmed as printed from the same controlling scan; wording unchanged**
+- unresolved readings after Gate D — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- first-pass unresolved readings — **1**
-  - scan 191 — `மறுபவழி` — retained provisionally for later same-scan fidelity verification
-- source wording/spelling/punctuation/numerals — preserved at first-pass level
-- speaker interventions — retained
-- source-printed English — retained
-- source-visible repetition — retained
-- OCR / web / Official Reports / alternate anthology / released 1973 wording imported — **0**
 
-Known first-pass slips encountered while completing Gate C were corrected only by returning to the same controlling anthology pixels; this does **not** constitute Gate E verification.
+Gate D was structural/completeness review only. It changed **0 Tamil words** and does not constitute word-for-word source verification.
 
 ## Mandatory parallel-witness rule
 
@@ -71,16 +77,17 @@ The released record is unchanged.
 
 Speech 12 is **40 pages**, exceeding the normal 25-page activity allowance. Keep it as **one intact 40-page source unit**.
 
-## Exact next activity
+## Exact next activity — Gate E
 
 1. read live-main Speech 12 README/metadata/source-notes/verification-log/transcript plus anthology controls;
-2. determine **Gate C.5 applicability** for this 2007 typeset witness and record the result;
-3. perform **Gate D completeness/structure audit across all 40 pages / scans 191–230**;
-4. confirm all 40 page markers exactly once and ordered;
-5. confirm hard boundaries **190→191 / 230→231** and all **39 internal page transitions**;
-6. audit speaker labels/interventions, source-printed English, figures, quotations, punctuation structure and source-visible repetition for completeness;
-7. Gate D may repair only omissions/duplications/structural transcription defects directly supported by the controlling anthology pixels;
-8. do not turn Gate D into word-for-word verification; Tamil must remain **NOT VERIFIED / verified_against_scan=false**;
-9. retain genuine uncertainty — including scan 191 `மறுபவழி` unless the same controlling scan itself settles it — rather than importing another witness;
-10. synchronize anthology control documents after Gate D;
-11. do **not** begin Gate E, English translation, Gate H or Speech 13 in the same activity.
+2. perform **strict page-by-page Tamil source-fidelity verification for all 40 pages / scans 191–230**;
+3. use only the controlling anthology pixels — no OCR, web copies, Official Reports, released 1973 transcript, alternate anthology or another witness;
+4. re-read wording, spelling, spacing, punctuation, numerals, quotations, speaker labels/interventions, source-printed English and source-visible repetition;
+5. preserve the scan-222 repeated cinema sentence unless the same scan disproves it;
+6. verify the scan-228→229 poem across the page transition without normalizing its wording;
+7. record every source-fidelity correction as scan + before → after;
+8. record genuine unresolved readings rather than guessing;
+9. keep the released `1973-03-07-financial-statement-reply` untouched;
+10. only after a full **40/40** visual audit, set Tamil **VERIFIED / verified_against_scan=true** if supported and record correction/unresolved totals;
+11. synchronize Speech 12 and anthology control documents;
+12. do **not** begin Gate F/English translation, Gate G/H or Speech 13 in the same activity.
