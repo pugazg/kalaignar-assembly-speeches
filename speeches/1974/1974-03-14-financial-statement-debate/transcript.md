@@ -2,7 +2,7 @@
 
 ## உரை : 13 — நாள் : 14.03.1974
 
-> **Gate C first-pass state:** Gate C is **COMPLETE / 32 of 32 pages**. Source-page markers **231→262** are present exactly once and in order. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`; no unresolved first-pass readings are currently flagged. No wording was supplied from OCR, web copies, Official Reports, alternate anthologies, released speeches or another witness.
+> **Gate D completeness state:** Gate C is **COMPLETE / 32 of 32 pages**; Gate C.5 is **N/A / CLOSED** for the modern 2007 typesetting; Gate D is **PASS / COMPLETE — 32 of 32 pages / 31 of 31 internal transitions / 0 completeness corrections**. Source-page markers **231→262** remain exactly once and in order. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`; Gate D is a structural/completeness audit, not word-for-word verification. No wording was supplied from OCR, web copies, Official Reports, alternate anthologies, released speeches or another witness.
 
 <!-- source-page: 231 -->
 
