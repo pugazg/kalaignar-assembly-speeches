@@ -101,22 +101,26 @@ Gate C is a first pass, not a word-for-word verification. No Gate-E fidelity cla
 
 Gate D is a completeness and structural continuity audit only. It does **not** establish word-for-word fidelity.
 
-## Gate E — Batch 1 / scans 231–240
+## Gate E — Batches 1–2 / scans 231–250
 
-**IN PROGRESS — 10 of 32 pages visually verified against the controlling pixels.**
+**IN PROGRESS — 20 of 32 pages visually verified against the controlling pixels.**
 
-Correction ledger:
+Cumulative correction ledger:
 
 | Scan | Printed page | Before | After | Occurrences |
 |---:|---:|---|---|---:|
 | 238 | 237 | `பின்னாக்கு` | `பிண்ணாக்கு` | 1 |
 | 238 | 237 | `ரெசினால்` | `எஃகினால்` | 1 |
+| 247 | 246 | `எடுத்துக் கொள்ளப்பட்டது` | `எடுத்துக் கொள்ளப்பட்டவை` | 2 |
 
-Batch result:
+Batch-2 result:
 
-- verified scans — **231–240 / 10 pages**
-- correction entries — **2**
-- correction occurrences — **2**
+- newly verified scans — **241–250 / 10 pages**
+- cumulative verified scans — **231–250 / 20 pages**
+- new correction entries — **1**
+- new correction occurrences — **2**
+- cumulative correction entries — **3**
+- cumulative correction occurrences — **4**
 - unresolved readings in checked range — **0**
 - source-page markers affected — **0**
 - OCR / web / Official Report / alternate anthology / other-witness wording imported — **0**
@@ -129,8 +133,8 @@ Batch result:
 - Gate C — **COMPLETE / 32 of 32**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS / 10 of 32 pages**
-- cumulative Gate-E ledger — **2 entries / 2 occurrences**
+- Gate E — **IN PROGRESS / 20 of 32 pages**
+- cumulative Gate-E ledger — **3 entries / 4 occurrences**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate F / English — **BLOCKED / NOT STARTED**
@@ -139,4 +143,4 @@ Batch result:
 
 ## Exact next activity
 
-Continue **Speech 13 Gate E — scans 241–250 / printed pp.240–249 / next 10 pages** from the controlling 2007 anthology pixels only. Carry forward the cumulative ledger. Do not begin English work, Gate H or Speech 14.
+Continue **Speech 13 Gate E — scans 251–260 / printed pp.250–259 / next 10 pages** from the controlling 2007 anthology pixels only. Carry forward the cumulative ledger. Do not begin English work, Gate H or Speech 14.
