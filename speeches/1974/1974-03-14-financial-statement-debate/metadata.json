@@ -102,7 +102,7 @@
     "preserve_printed_english": true,
     "preserve_source_visible_repetition": true,
     "page_boundaries_marked": true,
-    "status": "transcribed-not-verified",
+    "status": "verified",
     "gate_c_status": "complete",
     "completed_scan_pages": "231-262",
     "completed_printed_pages": "230-261",
@@ -112,15 +112,15 @@
     "unresolved_readings": [],
     "unresolved_reading_count": 0,
     "completeness_audit_passed": true,
-    "verified_against_scan": false,
+    "verified_against_scan": true,
     "historical_glyph_gate_status": "n-a-closed-modern-2007-typesetting-no-historical-glyph-anomaly-observed",
     "gate_d_status": "pass-complete",
-    "gate_e_status": "in-progress",
-    "next_gate": "Gate E source-fidelity verification scans 251-260",
+    "gate_e_status": "pass-complete",
+    "next_gate": "Gate F English translation",
     "outside_wording_imported": false,
     "marker_count": 32,
     "marker_range": "231-262",
-    "first_pass_note": "Gate C remains the complete first-pass transcription. Gate C.5 is N/A/CLOSED. Gate D passed all 32 pages and 31 internal transitions with 0 completeness corrections; Tamil is still not word-for-word verified.",
+    "first_pass_note": "Gate C complete; Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE; Gate E PASS/COMPLETE 32/32 with 8 correction entries / 9 occurrences / 0 unresolved. Tamil verified against the controlling scan pixels.",
     "gate_c5": {
       "status": "n-a-closed",
       "basis": "The controlling witness is modern 2007 anthology typesetting. Visual review across all 32 Speech-13 pages found no legacy/reform-sensitive glyph condition requiring a separate historical-glyph pass."
@@ -158,15 +158,15 @@
       "outside_wording_imported": false
     },
     "gate_e": {
-      "status": "in-progress",
-      "verified_scan_pages": "231-250",
-      "verified_printed_pages": "230-249",
-      "verified_page_count": 20,
+      "status": "pass-complete",
+      "verified_scan_pages": "231-262",
+      "verified_printed_pages": "230-261",
+      "verified_page_count": 32,
       "total_page_count": 32,
-      "remaining_scan_pages": "251-262",
-      "next_batch_scan_pages": "251-260",
-      "correction_entry_count": 3,
-      "correction_occurrence_count": 4,
+      "remaining_scan_pages": null,
+      "next_batch_scan_pages": null,
+      "correction_entry_count": 8,
+      "correction_occurrence_count": 9,
       "corrections": [
         {
           "scan": 238,
@@ -191,6 +191,46 @@
           "after": "எடுத்துக் கொள்ளப்பட்டவை",
           "occurrences": 2,
           "reason": "controlling scan reads எடுத்துக் கொள்ளப்பட்டவை in both 16,330-acre statements"
+        },
+        {
+          "scan": 251,
+          "printed_page": 250,
+          "before": "மாநிலஅரசு",
+          "after": "மாநில அரசு",
+          "occurrences": 1,
+          "reason": "controlling scan prints the two words separately"
+        },
+        {
+          "scan": 252,
+          "printed_page": 251,
+          "before": "இண்டஸ்ட்ரியல் பாலிசி ரெசல்யூஷன்",
+          "after": "இண்டஸ்ட்ரியல் பாலிசிரெசல்யூஷன்",
+          "occurrences": 1,
+          "reason": "controlling scan joins பாலிசி and ரெசல்யூஷன்"
+        },
+        {
+          "scan": 256,
+          "printed_page": 255,
+          "before": "போடப்போகிறார்கள்",
+          "after": "போட்டுப்போகிறார்கள்",
+          "occurrences": 1,
+          "reason": "controlling scan reads போட்டுப்போகிறார்கள்"
+        },
+        {
+          "scan": 256,
+          "printed_page": 255,
+          "before": "ஏற்படுத்தியுடன்",
+          "after": "ஏற்படுத்தியவுடன்",
+          "occurrences": 1,
+          "reason": "controlling scan includes வ in ஏற்படுத்தியவுடன்"
+        },
+        {
+          "scan": 262,
+          "printed_page": 261,
+          "before": "இந்த அளவில் அமைக்கிறேன்",
+          "after": "இந்த அவையில் அமைகிறேன்",
+          "occurrences": 1,
+          "reason": "controlling scan closes with இந்த அவையில் அமைகிறேன்"
         }
       ],
       "unresolved_reading_count": 0,
@@ -198,8 +238,8 @@
       "source_authority": "rendered pixels of the controlling 2007 anthology splits only",
       "outside_wording_imported": false,
       "ocr_wording_imported": false,
-      "verified_against_scan": false,
-      "completion_rule": "Set Tamil verified only after scans 231-262 all pass with zero unresolved readings."
+      "verified_against_scan": true,
+      "completion_rule": "Satisfied: scans 231-262 all visually verified with zero unresolved readings."
     }
   },
   "translation": {
