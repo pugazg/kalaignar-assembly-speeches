@@ -77,8 +77,8 @@ Speech 12 spans **40 pages**, exceeding the normal 25-page activity allowance. I
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
 - Gate D — **PASS / COMPLETE — 40/40 pages; 39/39 internal transitions; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 40/40 pages; 25 correction entries / 30 correction occurrences / 0 unresolved**
-- English / Gate F — **NOT STARTED / next**
-- Gate G — **NOT STARTED**
+- English / Gate F — **COMPLETE / 40 of 40 pages / TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- Gate G — **NOT STARTED / next**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - outside-source wording imported — **0**
 
@@ -89,8 +89,24 @@ Gate E completed strict page-by-page source-fidelity verification against the co
 - `transcript.md` — verified Tamil transcript with source-page markers
 - `metadata.json` — machine-readable source, parallel-witness and gate state
 - `source-notes.md` — source authority, split mapping and provenance separation
-- `verification-log.md` — full Gate-C through Gate-E audit and correction ledger
+- `verification-log.md` — Gate-C through Gate-F audit record
+- `translation.md` — complete Gate-F English working translation with source-page markers
+
+## Gate F result
+
+Gate F English translation is **COMPLETE / 40 of 40 pages**.
+
+- translation source — **Gate-E-verified Tamil in `transcript.md` only**
+- source-page markers — **191→230 / 40 / exactly once / ordered**
+- source-printed English — **preserved verbatim**
+- scan 222 source-visible repeated cinema sentence — **translated twice**
+- scan 228→229 poem — **translated as one continuous poem across the source-page transition**
+- blocking translation questions — **0**
+- verified Tamil changes — **0**
+- outside English imported — **0**
+- English status — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
 
 ## Exact next activity
 
-Begin **Gate F English translation for all 40 verified Tamil pages / scans 191–230**, using this verified anthology Tamil as the sole translation source. Preserve the independent parallel-witness separation. Do not begin Gate G/H or Speech 13 in the same activity.
+Perform **Gate G strict English-vs-verified-Tamil fidelity review for all 40 pages / scans 191–230**, recording every English refinement and blocker. Do not begin Gate H or Speech 13 in the same activity.
