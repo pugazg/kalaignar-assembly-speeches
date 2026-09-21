@@ -104,21 +104,59 @@
     "source_page_markers_checked_first_pass": true,
     "marker_count": 40,
     "marker_range": "191-230",
-    "unresolved_readings": [
-      {
-        "scan": 191,
-        "reading": "மறுபவழி",
-        "note": "Provisional first-pass reading retained and flagged for later same-scan fidelity verification; not normalized from another witness."
-      }
-    ],
-    "unresolved_reading_count": 1,
-    "completeness_audit_passed": false,
+    "unresolved_readings": [],
+    "unresolved_reading_count": 0,
+    "completeness_audit_passed": true,
     "verified_against_scan": false,
-    "historical_glyph_gate_status": "not-started",
-    "gate_d_status": "not-started",
+    "historical_glyph_gate_status": "n-a-closed-modern-2007-typesetting-no-historical-glyph-anomaly-observed",
+    "gate_d_status": "pass-complete",
     "gate_e_status": "not-started",
-    "next_gate": "Gate C.5 applicability determination / Gate D completeness audit",
-    "outside_wording_imported": false
+    "next_gate": "Gate E source-fidelity verification",
+    "outside_wording_imported": false,
+    "gate_c5": {
+      "status": "n-a-closed",
+      "basis": "The controlling witness is modern 2007 anthology typesetting. A 40-page visual structural review found no legacy/reform-sensitive glyph condition requiring a separate historical-glyph pass."
+    },
+    "gate_d": {
+      "status": "pass-complete",
+      "audited_scan_pages": "191-230",
+      "audited_printed_pages": "190-229",
+      "audited_page_count": 40,
+      "marker_count": 40,
+      "marker_range": "191-230",
+      "transition_count": 39,
+      "transitions_passed": 39,
+      "hard_boundaries": [
+        "190->191",
+        "230->231"
+      ],
+      "completeness_correction_count": 0,
+      "completeness_corrections": [],
+      "missing_pages": 0,
+      "duplicate_long_blocks": 0,
+      "unresolved_reading_count": 0,
+      "same_scan_settled_readings": [
+        {
+          "scan": 191,
+          "reading": "மறுபவழி",
+          "result": "confirmed-as-printed",
+          "wording_change": false
+        }
+      ],
+      "verified_against_scan": false,
+      "word_for_word_verification_claim": false,
+      "structural_features_checked": {
+        "heading_date_and_close": true,
+        "speaker_changes_and_interventions": true,
+        "source_printed_english": true,
+        "mixed_script_terms": true,
+        "figures_dates_and_quotations": true,
+        "source_visible_repetition": true,
+        "poem_continuation_228_229": true
+      },
+      "outside_wording_imported": false
+    },
+    "note": "Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE across all 40 pages with 0 completeness corrections. All 40 markers, both hard boundaries and 39/39 internal transitions passed. The scan-191 first-pass reading `மறுபவழி` was confirmed from the same controlling scan without changing transcript wording. Tamil remains not verified pending Gate E."
   },
   "translation": {
     "language": "English",
