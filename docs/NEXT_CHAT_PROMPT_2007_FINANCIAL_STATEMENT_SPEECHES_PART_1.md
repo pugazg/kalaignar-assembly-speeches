@@ -1,22 +1,12 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 13 Gate C.5 + Gate D
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 13 Gate E source-fidelity verification
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Durable release state
 
-Speeches **1–12 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English.
+Speeches **1–12 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Do not reopen them unless a separate source-backed defect is discovered.
 
-Speech 12 / 07.03.1973 remains a released independent parallel witness at:
-
-`speeches/1973/1973-03-07-financial-statement-debate/`
-
-The separately released same-date record remains unchanged at:
-
-`speeches/1973/1973-03-07-financial-statement-reply/`
-
-Do not reopen either record unless a separate source-backed defect is discovered.
-
-## Speech 13 durable Gate-C state
+## Speech 13 durable state
 
 Working entry:
 
@@ -28,46 +18,46 @@ Working entry:
 - page count — **32**
 - hard boundaries — **230→231 / 262→263 — PASS**
 - whole-speech exception — **APPLIED / intact 32-page unit**
-- controlling splits — part010 local **6–25** + part011 local **1–12**
-- Gate C — **COMPLETE / 32 of 32 pages**
+- Gate C — **COMPLETE / 32 of 32**
 - source-page markers — **231→262 / exactly once / ordered**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE / 32 of 32**
+- Gate-D internal transitions — **31 of 31 PASS**
+- Gate-D completeness corrections — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - unresolved first-pass readings — **0 currently flagged**
-- `transcript.md` — **COMPLETE first pass**
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
-- Gate E — **NOT STARTED**
-- English / Gates F–G — **BLOCKED / NOT STARTED**
+- Gate E — **NOT STARTED / next**
+- English / Gate F / Gate G — **BLOCKED / NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - Speech 12 — **unchanged**
 - Speech 14 — **not begun**
 
-## Source authority
+## Controlling source
 
-Use only the rendered pixels of:
+Use only rendered pixels from:
 
 1. `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_010_pages_226-250.pdf`
-   - local **6–25** = global scans **231–250**
+   - local **6–25** = scans **231–250**
    - SHA-256 `257b862a7ebe21d768f8e5a2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90`
 2. `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_011_pages_251-275.pdf`
-   - local **1–12** = global scans **251–262**
+   - local **1–12** = scans **251–262**
    - SHA-256 `27c9c96d3c0bdb53480f8d1634300bf9d7dc57be17d3f83c66397ef78863712d`
 
-No OCR, web copy, Official Reports, alternate anthology, released speech or other witness may supply wording.
+No OCR, web copy, Official Reports, alternate anthology, released speech or another witness may supply or repair Tamil wording.
 
 ## Exact next activity
 
-Perform **Speech 13 Gate C.5 applicability determination + Gate D completeness/structure audit — scans 231–262 / 32 pages**.
+Perform **Speech 13 Gate E word-for-word source-fidelity verification — all 32 pages / scans 231–262**.
 
 Requirements:
 
-1. decide Gate C.5 applicability from the actual 2007 typesetting; do not assume historical-glyph review is needed unless the source shows a relevant legacy/reform-sensitive condition;
-2. audit all **32 source pages** and **31 internal transitions** against the controlling pixels;
-3. confirm source markers **231→262** exactly once and in order;
-4. verify heading/start, page continuations, speaker labels/interventions, printed English, figures, quotations, repetitions and the scan-262 close;
-5. apply completeness corrections only where the same controlling pixels directly support them;
-6. do **not** claim word-for-word verification at Gate D;
-7. Tamil must remain **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false** after Gate D;
-8. synchronize Speech-13 README / metadata / source-notes / verification-log and anthology control documents;
-9. do **not** begin Gate E, English work, Gate H or Speech 14 in the same activity.
+1. compare every transcribed page directly against its controlling scan pixels;
+2. log every source-fidelity correction with scan and before→after wording;
+3. preserve source spelling, punctuation, numerals, speaker labels/interventions, source-printed English, figures and visible repetition;
+4. resolve uncertain readings only from the same source pixels; otherwise leave them explicitly unresolved;
+5. preserve all 32 source-page markers and hard boundaries;
+6. after all pages are checked, synchronize transcript / metadata / README / source-notes / verification-log and anthology control documents;
+7. set Tamil to **VERIFIED / verified_against_scan=true** only if **32/32 pages** pass and unresolved readings are **0**;
+8. Gate C.5 and Gate D remain closed; do not reopen them merely for stylistic changes;
+9. do **not** begin English / Gate F, Gate G, Gate H or Speech 14 in this activity.
