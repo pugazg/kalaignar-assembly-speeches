@@ -55,21 +55,43 @@ That record was inspected only to confirm that this anthology witness requires a
 
 Gate C is a first pass, not a word-for-word verification.
 
-## First-pass uncertainty
+## Gate C.5 applicability
 
-One reading remains explicitly unresolved:
+**N/A / CLOSED.**
 
-- scan **191** — `மறுபவழி`
+The controlling witness is modern 2007 anthology typesetting. The full 40-page Gate-D visual structural review did not reveal a legacy/reform-sensitive glyph condition requiring a separate historical-glyph pass.
 
-The first-pass form is retained in `transcript.md` and must be re-read from the same controlling scan during the later fidelity review. No alternative-witness wording is substituted.
+## Gate D completeness / structure result
+
+**PASS / COMPLETE — 40/40 pages; 0 completeness corrections.**
+
+- source markers **191→230** — 40/40, exactly once, ordered
+- hard boundaries **190→191 / 230→231** — PASS
+- internal transitions — **39/39 PASS**
+- missing pages — **0**
+- duplicate long blocks — **0**
+- speaker labels/interventions — structurally represented
+- source-printed English — structurally represented, including scans **204, 205, 214, 217, 218**
+- mixed-script terms such as `Money supply` and `ratification` — retained
+- figures, dates and quotations — structurally represented
+- scan **222** source-visible repeated cinema sentence — retained
+- scan **228→229** poem continuation — retained
+- scan **230** closing exchange and ornament — represented
+
+Gate D is a completeness/structure audit, not word-for-word Tamil verification. No Gate-E claim is made.
+
+## Same-scan settlement
+
+The former first-pass uncertainty at scan **191**, `மறுபவழி`, was enlarged and re-read from the **same controlling anthology scan** during Gate D. The printed form supports `மறுபவழி`; transcript wording was therefore **unchanged**, and the unresolved count is now **0**. No alternate witness was consulted.
 
 ## Current gate state
 
 - Gate C — **COMPLETE / 40/40**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
-- Gate E — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE / 40/40 / 0 completeness corrections**
+- unresolved readings after Gate D — **0**
+- Gate E — **NOT STARTED / next**
 - English — **NOT STARTED**
 - Gate H — **NOT STARTED**
