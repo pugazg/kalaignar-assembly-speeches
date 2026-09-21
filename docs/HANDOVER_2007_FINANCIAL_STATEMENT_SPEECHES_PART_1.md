@@ -639,11 +639,12 @@ Closed upstream gates:
 Gate E:
 
 - status — **IN PROGRESS**
-- verified scans — **231–240 / printed pp.230–239 / 10 of 32 pages**
-- correction entries — **2**
-- correction occurrences — **2**
+- verified scans — **231–250 / printed pp.230–249 / 20 of 32 pages**
+- cumulative correction entries — **3**
+- cumulative correction occurrences — **4**
 - scan 238 — `பின்னாக்கு` → `பிண்ணாக்கு`
 - scan 238 — `ரெசினால்` → `எஃகினால்`
+- scan 247 — `எடுத்துக் கொள்ளப்பட்டது` → `எடுத்துக் கொள்ளப்பட்டவை` ×2
 - unresolved readings in checked range — **0**
 - source-page markers affected — **0**
 - Tamil — **NOT VERIFIED**
@@ -657,8 +658,8 @@ Downstream state:
 - Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 
-## Exact next activity — Speech 13 Gate E / Batch 2
+## Exact next activity — Speech 13 Gate E / Batch 3
 
-Verify **scans 241–250 / printed pp.240–249 / next 10 pages** word-for-word against the same controlling anthology pixels.
+Verify **scans 251–260 / printed pp.250–259 / next 10 pages** word-for-word against the controlling part011 anthology pixels.
 
-Carry forward the cumulative Gate-E ledger from Batch 1. Log each new correction as scan + before→after. Do not set Tamil VERIFIED until all scans **231–262** pass with zero unresolved readings. Do not begin English work, Gate H or Speech 14.
+Carry forward the cumulative Gate-E ledger from Batches 1–2. Log each new correction as scan + before→after. Do not set Tamil VERIFIED until all scans **231–262** pass with zero unresolved readings. Do not begin English work, Gate H or Speech 14.
