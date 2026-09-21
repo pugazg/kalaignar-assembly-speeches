@@ -122,13 +122,14 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–11 CLOSED through release; Speech 12 COMPLETE / 40 of 40 / Tamil TRANSCRIBED-NOT-VERIFIED; speeches 13–19 not started**
-- Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction after Gate E restored an omitted scan-90 phrase; Speech 9 PASS / COMPLETE / 0 completeness corrections; Speech 10 PASS / COMPLETE / 2 completeness corrections; Speech 11 PASS / COMPLETE / 0 completeness corrections; Speech 12 PASS / COMPLETE / 0 completeness corrections / 39 of 39 transitions PASS**
-- Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43; Speech 9 / 4; Speech 10 / 26; Speech 11 / 25; Speech 12 / 30 correction occurrences; Speeches 1–12 Tamil VERIFIED / 0 unresolved**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–12 — modern 2007 typesetting; speeches 13–19 not started**
-- Gate F — **Speeches 1–11 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23 / 4 / 35 / 39; Speech 11 English TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- Gate G — **Speeches 1–11 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16 / 11 / 21 / 23; 0 blockers; English VERIFIED**
-- Gate H — **Speeches 1–11 PASS / COMPLETE — RELEASED / CLOSED**
+- Gate C — **Speeches 1–12 COMPLETE and RELEASED/CLOSED through downstream gates; Speech 13 source-boundary/Gate-C setup PASS/COMPLETE but Tamil and Gate C NOT STARTED; speeches 14–19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–12 — modern 2007 typesetting; Speech 13 NOT STARTED**
+- Gate D — **Speeches 1–12 PASS / COMPLETE; Speech 13 NOT STARTED**
+- Gate E — **Speeches 1–12 PASS / COMPLETE / Tamil VERIFIED / 0 unresolved; Speech 13 NOT STARTED**
+- Gate F — **Speeches 1–12 COMPLETE; Speech 13 BLOCKED / NOT STARTED**
+- Gate G — **Speeches 1–12 PASS / COMPLETE / English VERIFIED; Speech 13 NOT STARTED**
+- Gate H — **Speeches 1–12 PASS / COMPLETE — RELEASED / CLOSED; Speech 13 NOT STARTED / NOT RELEASED**
+- Speech 13 setup — **PASS / COMPLETE / scans 231–262 / 32 pages / whole-speech exception locked**
 
 ## Gate-H boundary / release check for Speeches 4–5
 
@@ -283,6 +284,18 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - same-date index policy — **no duplicate canonical 1973-03-07 entry created**
 - release — **RELEASED / CLOSED**
 
+## Speech 13 source-boundary / Gate-C setup
+
+- working entry — `speeches/1974/1974-03-14-financial-statement-debate/`
+- scans **231–262 / printed pp.230–261 / 32 pages**
+- boundaries **230→231 / 262→263 — PASS**
+- controlling coverage — **part010 local 6–25 = 20 pages; part011 local 1–12 = 12 pages; total 32/32**
+- whole-speech exception — **REQUIRED / intact 32-page unit**
+- Tamil / Gate C — **NOT STARTED**
+- outside/released-witness wording imported — **0**
+- Speech 12 — **unchanged**
+- Speech 14 — **not begun**
+
 ## Exact continuation
 
-Begin **Speech 13 / 14.03.1974 source-boundary and Gate-C setup — scans 231–262 / printed pp.230–261 / 32 pages**. Process it as one intact whole-speech exception when transcription begins. Do not reopen Speech 12 unless a source-backed defect is discovered.
+Perform **Speech 13 Gate C Tamil first-pass transcription — scans 231–262 / printed pp.230–261 / 32 pages** from the controlling anthology pixels only. Do not begin Gate C.5, Gate D, English work, or Speech 14 in that activity.
