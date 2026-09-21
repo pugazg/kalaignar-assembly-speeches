@@ -77,9 +77,10 @@ Speech 12 spans **40 pages**, exceeding the normal 25-page activity allowance. I
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
 - Gate D — **PASS / COMPLETE — 40/40 pages; 39/39 internal transitions; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — 40/40 pages; 25 correction entries / 30 correction occurrences / 0 unresolved**
-- English / Gate F — **COMPLETE / 40 of 40 pages / TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- Gate G — **NOT STARTED / next**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
+- English / Gate F — **COMPLETE / 40 of 40 pages**
+- Gate G — **PASS / COMPLETE / 40 of 40 / 12 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H / release — **NOT STARTED / next / NOT RELEASED**
 - outside-source wording imported — **0**
 
 Gate E completed strict page-by-page source-fidelity verification against the controlling anthology pixels only. The final adjudication added two speaker-label punctuation corrections on scans 229 and 230 beyond the earlier checkpoint ledger. Scan 222's repeated cinema-show sentence remains source-visible and is retained twice; the scan 228→229 poem continuation and scan 230 close are confirmed.
@@ -90,23 +91,26 @@ Gate E completed strict page-by-page source-fidelity verification against the co
 - `metadata.json` — machine-readable source, parallel-witness and gate state
 - `source-notes.md` — source authority, split mapping and provenance separation
 - `verification-log.md` — Gate-C through Gate-F audit record
-- `translation.md` — complete Gate-F English working translation with source-page markers
+- `translation.md` — Gate-G-verified English translation with source-page markers
+- `translation-review.md` — Gate-F/G audit and refinement ledger
 
-## Gate F result
+## Gate F / Gate G result
 
-Gate F English translation is **COMPLETE / 40 of 40 pages**.
-
-- translation source — **Gate-E-verified Tamil in `transcript.md` only**
-- source-page markers — **191→230 / 40 / exactly once / ordered**
-- source-printed English — **preserved verbatim**
-- scan 222 source-visible repeated cinema sentence — **translated twice**
-- scan 228→229 poem — **translated as one continuous poem across the source-page transition**
-- blocking translation questions — **0**
+- Gate F — **COMPLETE / 40 of 40**
+- Gate G — **PASS / COMPLETE / 40 of 40**
+- English refinements — **12**
+- blocking fidelity issues — **0**
 - verified Tamil changes — **0**
+- source-printed English changes — **0**
 - outside English imported — **0**
-- English status — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+- source-page markers — **191→230 / 40 / exactly once / ordered**
+- scan 222 repeated cinema sentence — **retained twice**
+- scan 228→229 poem — **preserved across the source-page transition**
+
+The Gate-G refinement ledger is in `translation-review.md`.
 
 ## Exact next activity
 
-Perform **Gate G strict English-vs-verified-Tamil fidelity review for all 40 pages / scans 191–230**, recording every English refinement and blocker. Do not begin Gate H or Speech 13 in the same activity.
+Perform **Gate H canonical bilingual merge / release-readiness closure for Speech 12** while preserving the separate released `1973-03-07-financial-statement-reply` witness unchanged. Do not begin Speech 13 in the same activity.
