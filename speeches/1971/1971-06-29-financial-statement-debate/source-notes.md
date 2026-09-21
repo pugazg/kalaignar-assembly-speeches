@@ -94,30 +94,25 @@ The normal activity limit is 25 source pages. Speech 10 is 35 pages, and the rep
 
 Gate C was completed across **all scans 117–151** as one intact 35-page speech activity.
 
-## Gate state after Gate E
+## Gate state after Gate F
 
-- source coverage / boundaries — **PASS / COMPLETE**
-- Gate C — **COMPLETE**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 2 completeness corrections**
-- Gate E — **PASS / COMPLETE / 35 of 35 pages**
-- Tamil — **VERIFIED**
+- Tamil Gates C–E — **COMPLETE / VERIFIED**
 - `verified_against_scan=true`
-- Gate-E corrections — **26**
-- Gate-E unresolved readings — **0**
-- English / Gate F — **NOT STARTED / NEXT**
-- Gate G / Gate H — **NOT STARTED**
-- release — **NOT RELEASED**
-- outside-source wording imported — **0**
+- Gate F — **COMPLETE / 35 of 35 English pages**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- Gate-F blocking questions — **0**
+- verified-Tamil changes — **0**
+- Gate G — **NOT STARTED / NEXT**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
+- outside-source English imported — **0**
 
-## Gate E source verification
+## Gate F translation authority
 
-Every Speech-10 source page **117–151** was checked directly against the rendered 2007 anthology pixels. The Gate-D structural boundaries at **136→137** and **137→138** were rechecked and retained.
+The English first pass in `translation.md` was produced only from the final Gate-E-verified Tamil in `transcript.md`.
 
-Gate E applied **26** source-fidelity corrections across **17** scans and left **0 unresolved readings**. No outside witness supplied wording.
-
-Affected scans: **119, 120, 121, 122, 132, 136, 137, 139, 140, 141, 142, 143, 144, 145, 147, 149, 150**.
+Source-printed English passages were retained as printed. No wording or interpretation was supplied by `நமது விளக்கம்`, Official Reports, OCR, web sources, alternate anthologies or outside translations.
 
 ## Exact next
 
-**Gate F English translation — scans 117–151 / 35 pages**, using only the final Gate-E-verified Tamil as translation authority.
+**Gate G full English fidelity and voice review — source pages 117–151 / 35 pages**.

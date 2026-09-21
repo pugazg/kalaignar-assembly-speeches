@@ -54,76 +54,48 @@ Speech 10 is **35 pages**, exceeding the normal 25-page activity allowance. The 
 
 ## Current state
 
-- source-boundary / Gate-C setup — **PASS / COMPLETE**
 - source coverage — **COMPLETE / 35 of 35 pages**
 - Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 2 completeness corrections**
-- Gate E — **PASS / COMPLETE / 35 of 35 pages**
-- Tamil — **VERIFIED**
-- `verified_against_scan=true`
-- Gate-E source-fidelity corrections — **26**
-- Gate-E unresolved readings — **0**
-- English / Gate F — **NOT STARTED / NEXT**
-- Gate G — **NOT STARTED**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
-- outside-source wording imported — **0**
-
-## Gate E result
-
-Speech 10 was verified page-by-page against the rendered pixels of the controlling 2007 anthology splits.
-
-- verified pages — **35/35 / scans 117–151**
-- markers **117→151** — **exactly once / ordered / PASS**
-- hard boundaries **116→117 / 151→152** — **PASS**
-- Gate-D boundaries **136→137 / 137→138** — **rechecked and retained**
-- source-fidelity corrections — **26**
-- affected scans — **119, 120, 121, 122, 132, 136, 137, 139, 140, 141, 142, 143, 144, 145, 147, 149, 150**
-- unresolved readings — **0**
+- Gate E — **PASS / COMPLETE / 26 source-fidelity corrections / 0 unresolved**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- `நமது விளக்கம்` / Official Report / OCR / web / alternate-anthology wording imported — **0**
+- Gate F — **COMPLETE / 35 of 35 English pages**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- Gate-F blocking translation questions — **0**
+- verified-Tamil changes at Gate F — **0**
+- Gate G — **NOT STARTED / NEXT**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
+- outside-source English imported — **0**
 
-### Gate-E correction ledger
+## Gate F result
 
-1. scan 119 — `பொருளாதார மெய்யாம்` → `பொருளாதார மெல்லாம்`
-2. scan 120 — `பல்வேறு கட்டிடங்கள்` → `பலவேறு கட்டிடங்கள்`
-3. scan 120 — `பல்வேறு வசதிகளை` → `பலவேறு வசதிகளை`
-4. scan 120 — `தஞ்சாவூர்க்காரர்` → `தஞ்சாவூர்காரர்`
-5. scan 120 — `என்ன என்று கேட்ட நேரத்தில்` → `என்ன, என்று கேட்ட நேரத்தில்`
-6. scan 121 — `தாரதிட்டம்` → `தாரத்திட்டம்`
-7. scan 122 — `வேலையாய்ப்பிற்காக` → `வேலைவாய்ப்பிற்காக`
-8. scan 132 — `பல்வேறு கருத்துகள் இருக்கின்றன` → `பலவேறு கருத்துக்கள் இருக்கின்றன`
-9. scan 132 — `எழுதி கொண்டிருக்கிறார்கள்` → `எழுதிக் கொண்டிருக்கிறார்கள்`
-10. scan 136 — `இன்றைக்கு தமிழ்நாடு` → `இன்றைக்குத் தமிழ்நாடு`
-11. scan 137 — `பல்வேறு நாடுகளிலும்` → `பலவேறு நாடுகளிலும்`
-12. scan 137 — `பல்வேறு நாட்டு மக்களாலும்` → `பலவேறு நாட்டு மக்களாலும்`
-13. scan 137 — `பல்வேறு நாட்டு அரசுகளாலும்` → `பலவேறு நாட்டு அரசுகளாலும்`
-14. scan 137 — `பதினான்கு ஆண்டுகாலம்` → `பதினான்கு ஆண்டுக்காலம்`
-15. scan 139 — `பல்வேறு ஆராய்ச்சிகள்` → `பலவேறு ஆராய்ச்சிகள்`
-16. scan 139 — `சில சிபாரிசுகளைச் கூறியது` → `சில சிபாரிசுகளைக் கூறியது`
-17. scan 140 — `நாவடங்கும் மதுவிலக்கைக் கொண்டுவரவேண்டும்` → `நாடெங்கும் மதுவிலக்கைக் கொண்டுவரவேண்டும்`
-18. scan 141 — `1963ஆம் ஆண்டு மதுவிலக்குக் கொள்கை` → `1963-ஆம் ஆண்டு மதுவிலக்குக் கொள்கை`
-19. scan 142 — `பல்வேறு ராஜ்ய முதல்வர்கள்` → `பலவேறு ராஜ்ய முதல்வர்கள்`
-20. scan 143 — `கவரவப் பிரச்சினையாகக் கருதி` → `கவரவப் பிரச்சனையாகக் கருதி`
-21. scan 144 — `குன்ஹா நகர அகில இந்தியக் காங்கிரஸ்` → `குன்ஹா நகர் அகில இந்தியக் காங்கிரஸ்`
-22. scan 145 — `தொழிலமைச்சர்களுக்கு` → `தொழிலமைச்சரவர்களுக்கு`
-23. scan 147 — `அண்ணாவிற்கு மதிப்பளிக்கவில்லை.` → `அண்ணாவிற்கு மதிப்பளிக்க வில்லை.`
-24. scan 149 — `தமிழரசுக் கழகத்தின் சார்பிலே சொல்லப்பட்டதும் முன்னேற்றக் கழகத்தை எதிர்க்க வேண்டுமென்று சொல்லப்பட்ட கருத்தா? அல்ல.` → `தமிழரசுக் கழகத்தின் சார்பிலே சொல்லப்பட்டதும் முன்னேற்றக் கழகத்தை எதிர்க்க வேண்டுமென்று சொல்லப்பட்ட கருத்தா?`
-25. scan 149 — `இராணுவத்திற்குக் அளித்தாகவேண்டும்` → `இராணுவத்திற்கு அளித்தாகவேண்டும்`
-26. scan 150 — `113 பேர் மருத்துவமனையில்` → `113பேர் மருத்துவமனையில்`
+The complete English first pass covers source pages **117–151** exactly once and in order and is stored in `translation.md`.
 
-Gate E preserves source-specific spellings, punctuation, printed English, interventions and visible repetitions rather than normalizing them to modern usage.
+Translation authority was exclusively the final Gate-E-verified Tamil in `transcript.md`.
+
+- translated pages — **35/35**
+- source-page sequence — **117→151 / PASS**
+- speaker changes / interventions / parenthetical reactions — preserved
+- figures / dates / quotations / source-visible repetitions — preserved
+- source-printed English — reproduced as printed rather than retranslated
+- Gate-F blocking questions — **0**
+- verified-Tamil changes — **0**
+- outside English / parallel-witness wording imported — **0**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+
+The separate `translation-review.md` records Gate-F source-bound choices and the next review gate.
 
 ## Working files
 
-- `README.md` — source boundary, provenance and gate state
-- `metadata.json` — machine-readable Gate-E result and correction ledger
-- `source-notes.md` — source authority and verification constraints
-- `verification-log.md` — Gate C through Gate E audit record
-- `transcript.md` — Gate-E-verified Tamil transcript, scans 117–151
+- `transcript.md` — Gate-E-verified Tamil
+- `translation.md` — complete Gate-F English first pass
+- `translation-review.md` — Gate-F record; Gate G not yet performed
+- `metadata.json`, `source-notes.md`, `verification-log.md` — synchronized gate state
 
 ## Exact next activity
 
-Perform **Speech 10 Gate F English translation — scans 117–151 / 35 pages**, translating only from the final Gate-E-verified Tamil in `transcript.md`.
+Perform **Speech 10 Gate G full English fidelity and voice review — source pages 117–151 / 35 pages**, comparing the Gate-F English only against the final Gate-E-verified Tamil.
 
-Do not alter verified Tamil except to correct a newly discovered source-fidelity issue with an explicit reopen record. Do not use `நமது விளக்கம்` or outside translations. Do not begin Gate G/H or Speech 11 in the same activity.
+Do not begin Gate H, release indexing, or Speech 11 in the same activity.

@@ -189,17 +189,34 @@ No other Tamil wording changed. The earlier Gate-C reconciliation note for **136
 - `நமது விளக்கம்` source layer — **unchanged**
 - OCR / Official Report / web / alternate-anthology wording imported — **0**
 
-## Gate status after Gate E
+## Gate F English first-pass translation
+
+**Status: COMPLETE — 35/35 pages**
+
+- translation authority — final Gate-E-verified Tamil only
+- source-page sequence — **117→151 / complete / ordered**
+- source-printed English — **preserved as printed**
+- speaker changes / interventions / reactions — **preserved**
+- figures / dates / quotations / source-visible repetitions — **preserved**
+- Gate-F blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside-witness English imported — **0**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+
+Gate F does not make an English fidelity-verification claim; that is Gate G.
+
+## Gate status after Gate F
 
 - Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 2 completeness corrections**
-- Gate E — **PASS / COMPLETE / 26 corrections / 0 unresolved**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate F / English — **NOT STARTED / NEXT**
-- Gate G — **NOT STARTED**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **PASS / COMPLETE**
+- Tamil — **VERIFIED**
+- Gate F — **COMPLETE / 35 of 35**
+- Gate G — **NOT STARTED / NEXT**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-Perform **Speech 10 Gate F English translation — scans 117–151 / 35 pages** from the final Gate-E-verified Tamil only. Do not begin Gate G/H or Speech 11 in the same activity.
+Perform **Speech 10 Gate G full English fidelity and voice review — source pages 117–151 / 35 pages**. Review only against the final Gate-E-verified Tamil; do not begin Gate H or Speech 11.

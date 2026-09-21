@@ -528,26 +528,26 @@ The complete before → after ledger is in `translation-review.md`.
 - existing `நமது நிலை` source layer — unchanged
 - parallel-witness / no-overwrite rule — preserved
 
-## Speech 10 durable Gate-E state
+## Speech 10 durable Gate-F state
 
 Working entry: `speeches/1971/1971-06-29-financial-statement-debate/`
 
-Locked unit: **117–151 / printed 116–150 / 35 pages / hard boundaries 116→117 PASS / 151→152 PASS**.
+Locked unit: **117–151 / printed 116–150 / 35 pages**.
 
 Durable state:
 
-- Gate C — **COMPLETE**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 2 completeness corrections**
-- Gate E — **PASS / COMPLETE / 26 source-fidelity corrections / 0 unresolved**
-- Tamil — **VERIFIED**
+- Tamil Gates C–E — **COMPLETE / VERIFIED**
 - `verified_against_scan=true`
-- Gate F / English — **NOT STARTED / NEXT**
-- Gate G / Gate H — **NOT STARTED**
-- release — **NOT RELEASED**
+- Gate F — **COMPLETE / 35 of 35 English pages**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- Gate-F blocking questions — **0**
+- verified-Tamil changes — **0**
+- Gate G — **NOT STARTED / NEXT**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
 
-Gate E checked every source page directly against the controlling 2007 anthology pixels. Affected scans: **119, 120, 121, 122, 132, 136, 137, 139, 140, 141, 142, 143, 144, 145, 147, 149, 150**. Gate-D boundaries **136→137 / 137→138** were rechecked and retained. No `நமது விளக்கம்`, OCR, Official Report, web or alternate-anthology wording was imported.
+Gate F translated only from the final verified Tamil. Source-printed English was reproduced as printed. No outside witness or outside English supplied wording.
 
 ## Exact next activity
 
-Perform **Speech 10 Gate F English translation — scans 117–151 / 35 pages** from the final Gate-E-verified Tamil only. Do not begin Gate G/H or Speech 11 in the same activity.
+Perform **Speech 10 Gate G full English fidelity and voice review — source pages 117–151 / 35 pages**. Do not begin Gate H or Speech 11 in the same activity.

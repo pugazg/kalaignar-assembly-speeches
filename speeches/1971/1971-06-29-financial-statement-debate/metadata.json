@@ -329,14 +329,31 @@
   },
   "translation": {
     "language": "English",
-    "status": "not-started",
+    "status": "translated-not-verified",
     "type": "faithful reading translation",
     "source_text": "Gate-E-verified Tamil in transcript.md",
     "verified_against_tamil": false,
-    "gate_f_status": "not-started",
+    "gate_f_status": "complete",
     "gate_g_status": "not-started",
-    "next_gate": "gate-f-ready",
-    "external_witness_translation_imported": false
+    "next_gate": "gate-g",
+    "external_witness_translation_imported": false,
+    "completed_scan_pages": "117-151",
+    "completed_page_count": 35,
+    "total_page_count": 35,
+    "blocking_questions": [],
+    "blocking_question_count": 0,
+    "verified_tamil_changes": 0,
+    "source_printed_english_preserved": true,
+    "gate_f": {
+      "status": "complete",
+      "source_pages": "117-151",
+      "page_count": 35,
+      "blocking_question_count": 0,
+      "verified_tamil_changes": 0,
+      "verified_against_tamil": false,
+      "outside_english_imported": false,
+      "source_printed_english_preserved": true
+    }
   },
   "release": {
     "status": "not-released",

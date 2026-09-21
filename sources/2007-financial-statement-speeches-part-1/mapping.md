@@ -116,7 +116,7 @@ Released material remains locked. This anthology must be processed as an indepen
 - defer the next whole speech if adding it would exceed 25 pages;
 - if one speech itself exceeds 25 pages, process that intact speech separately.
 
-Speech 9 / 29.3.1971 is **RELEASED / CLOSED through Gate H** as one intact 4-page unit / scans 113–116. Scan 112 remains the released Speech 8 close; scan 117 begins Speech 10 / 29.6.71. Speech 10 spans **35 scans / 117–151** and has now completed Gate E as one intact unit under the whole-speech batching exception.
+Speech 9 / 29.3.1971 is **RELEASED / CLOSED through Gate H** as one intact 4-page unit / scans 113–116. Scan 112 remains the released Speech 8 close; scan 117 begins Speech 10 / 29.6.71. Speech 10 spans **35 scans / 117–151** and has now completed Gate F as one intact unit under the whole-speech batching exception.
 
 ## Gate status
 
@@ -126,7 +126,7 @@ Speech 9 / 29.3.1971 is **RELEASED / CLOSED through Gate H** as one intact 4-pag
 - Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction after Gate E restored an omitted scan-90 phrase; Speech 9 PASS / COMPLETE / 0 completeness corrections; Speech 10 PASS / COMPLETE / 2 completeness corrections**
 - Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43; Speech 9 / 4; Speech 10 / 26 corrections; Speeches 1–10 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–10 — modern 2007 typesetting; no separate historical/reform-sensitive glyph gate required for Speech 10**
-- Gate F — **Speeches 1–9 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23 / 4**
+- Gate F — **Speeches 1–10 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23 / 4 / 35; Speech 10 English TRANSLATED / NOT VERIFIED AGAINST TAMIL**
 - Gate G — **Speeches 1–9 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16 / 11; 0 blockers; English VERIFIED**
 - Gate H — **Speeches 1–9 PASS / COMPLETE — RELEASED / CLOSED**
 
@@ -211,23 +211,24 @@ Speech 9 / 29.3.1971 is **RELEASED / CLOSED through Gate H** as one intact 4-pag
 - Gate-G blockers — **0**
 - Gate-G Tamil changes — **0**
 
-## Speech 10 Gate-E record
+## Speech 10 Gate-F record
 
-Locked map: **117–151 / printed 116–150 / 35 pages / 116→117 PASS / 151→152 PASS**.
+Locked map: **117–151 / printed 116–150 / 35 pages**.
 
 Current status:
 
-- Gate C — **COMPLETE**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 2 completeness corrections**
-- Gate E — **PASS / COMPLETE / 26 corrections / 0 unresolved**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- Gate F / English — **NOT STARTED / NEXT**
-- Gate G/H — **NOT STARTED**
-- release — **NOT RELEASED**
+- Gate E — **PASS / COMPLETE / 26 corrections / 0 unresolved**
+- Gate F — **COMPLETE / 35 of 35**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- Gate G — **NOT STARTED / NEXT**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
 
-Gate E verified **35/35** source pages. Affected scans: **119, 120, 121, 122, 132, 136, 137, 139, 140, 141, 142, 143, 144, 145, 147, 149, 150**. No outside witness supplied wording.
+The Gate-F translation uses only the final verified Tamil and preserves source-printed English verbatim.
 
 ## Exact continuation
 
-**Speech 10 Gate F English translation — scans 117–151 / 35 pages**, from the final Gate-E-verified Tamil only.
+**Speech 10 Gate G full English fidelity and voice review — pages 117–151 / 35 pages**.
