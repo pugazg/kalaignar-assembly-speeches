@@ -92,15 +92,16 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–11 CLOSED through release; Speech 12 COMPLETE / 40 of 40 and now Tamil VERIFIED through Gate E; speeches 13–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–12 — modern 2007 typesetting; speeches 13–19 not started**
-- Gate D — **PASS / COMPLETE for Speeches 1–12; Speech 12 = 40/40 pages / 39/39 transitions / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–12; Speech 12 = 40/40 pages / 25 correction entries / 30 occurrences / 0 unresolved**
-- Gate F — **COMPLETE for Speeches 1–12; Speech 12 = 40/40 translated pages / 0 blockers / 0 Tamil changes; English NOT VERIFIED AGAINST TAMIL**
-- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–11; Speech 12 NOT STARTED / next**
-- Gate H — **Speeches 1–11 PASS / COMPLETE — RELEASED / CLOSED; Speech 12 NOT STARTED**
+- Gate C — **Speeches 1–13 COMPLETE; speeches 14–19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–13 — modern 2007 typesetting**
+- Gate D — **PASS / COMPLETE for Speeches 1–13**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–13**
+- Gate F — **COMPLETE for Speeches 1–13**
+- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–13**
+- Gate H — **Speeches 1–13 PASS / COMPLETE — RELEASED / CLOSED**
 - Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
-- Speech 12 unresolved readings after Gate D — **0; scan 191 `மறுபவழி` confirmed as printed**
+- Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
+- speeches 14–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
 
