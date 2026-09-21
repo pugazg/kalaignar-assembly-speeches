@@ -1,52 +1,51 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 13 Gate G English fidelity review
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 source-boundary + Gate-C setup
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Durable release state
 
-Speeches **1–12 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Do not reopen them unless a separate source-backed defect is discovered.
+Speeches **1–13 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English.
 
-## Speech 13 durable state
-
-Working entry:
-
-`speeches/1974/1974-03-14-financial-statement-debate/`
+Speech 13 / 14.03.1974 final state:
 
 - scans **231–262 / printed pp.230–261 / 32 pages**
-- Gate C — **COMPLETE**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE**
-- Gate E — **PASS / COMPLETE / 32 of 32**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- Gate-E ledger — **8 entries / 9 occurrences / 0 unresolved**
-- Gate F — **COMPLETE / 32 of 32 English pages**
-- English source-page sequence — **231→262 / complete / ordered**
-- Gate-F blockers — **0**
-- Gate-F verified-Tamil changes — **0**
-- outside English imported — **0**
-- source-printed English preserved verbatim — **YES**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-- Gate G — **NOT STARTED / next**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
-- Speech 14 — **not begun**
+- Gate E — **PASS / COMPLETE / 8 correction entries / 9 occurrences / 0 unresolved**
+- Gate F — **COMPLETE / 32 of 32**
+- Gate G — **PASS / COMPLETE / 32 of 32 / 7 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- `data/speeches.json` and root dated table — **indexed**
 
-## Translation authority
+Do not reopen Speech 13 unless a separate source-backed defect is discovered.
 
-Use only the final Gate-E-verified Tamil in Speech 13 as the authority for Gate G. Do not use web copies, Official Reports, another anthology, released speeches, or another witness to normalize English.
+## Speech 14 mapped source unit
+
+- source label — `உரை : 14`
+- printed date — `10.03.1975`
+- ISO date — **1975-03-10**
+- working ID — `1975-03-10-financial-statement-debate`
+- global scans — **263–319**
+- printed pages — **262–318**
+- page count — **57**
+- start boundary — **262→263**
+- end boundary — **319→320**
+- next source unit — Speech 15 starts at scan **320 / printed 319**
 
 ## Exact next activity
 
-Perform **Speech 13 Gate G English fidelity review — source pages 231–262 / 32 of 32**.
+Perform **Speech 14 source-boundary + Gate-C setup** only.
 
 Requirements:
 
-1. compare every English source-page section directly against the corresponding verified Tamil;
-2. correct English fidelity, speaker/intervention handling, figures, dates, quotations and page-boundary alignment where needed;
-3. preserve source-printed English verbatim, including `Upgradation Grants`, `Upgradation grants`, and `They must reduce the non-plan Expenditure`;
-4. review conservative source-bound terms such as `nalangu`, `kezhvai`, `podi`, `arishtams` and `kavalar` without importing outside wording;
-5. log every English refinement in `translation-review.md`;
-6. make **0 verified-Tamil changes** unless a separate source-backed Tamil defect is discovered;
-7. set English VERIFIED AGAINST TAMIL / `verified_against_tamil=true` only if all 32 pages pass with zero blockers;
-8. synchronize Speech-13 and anthology control documents;
-9. do **not** begin Gate H or Speech 14 in this activity.
+1. refetch live main and inspect current anthology mapping / workflow controls;
+2. visually confirm hard boundaries **262→263** and **319→320** from the controlling anthology pixels;
+3. register the exact controlling split coverage and source hashes needed for scans **263–319**;
+4. create the Speech-14 working entry and machine-readable metadata using repository conventions;
+5. apply the **whole-speech exception** because the speech is **57 pages**; do not split it merely to meet the normal page limit;
+6. set Tamil / Gate C to **NOT STARTED / verified_against_scan=false** after setup;
+7. synchronize source README, mapping, handover and next-chat prompt;
+8. do **not** begin Gate C transcription or Speech 15 in the same setup activity.
