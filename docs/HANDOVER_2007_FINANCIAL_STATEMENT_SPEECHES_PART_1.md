@@ -498,8 +498,8 @@ Gate-E correction summary:
 - `முன்னேற்றக் கழகம்` — **Munnetra Kazhagam**, not expanded through another witness
 - `சதர்ன் ஸ்ட்ரக்சரல்ஸ்` — **Southern Structurals**
 - outside / `நமது நிலை` English imported — **0**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
 
 ## Speech 9 Gate-G result
 
@@ -603,9 +603,10 @@ Final Tamil state:
 - `verified_against_scan=true`
 - OCR / web / Official Reports / alternate anthology / released 1973 wording imported — **0**
 - whole-speech exception — **APPLIED / 40-page unit kept intact**
-- Gate F — **COMPLETE / 40 of 40 / English TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- Gate G — **NOT STARTED / next**
-- Gate H — **NOT STARTED**
+- Gate F — **COMPLETE / 40 of 40**
+- Gate G — **PASS / COMPLETE / 40 of 40 / 12 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **NOT STARTED / next**
 - release — **NOT RELEASED**
 - `data/speeches.json` — **unchanged intentionally while this parallel witness remains unreleased**
 - released `speeches/1973/1973-03-07-financial-statement-reply/` — **UNCHANGED**
@@ -627,19 +628,34 @@ Final adjudication added two speaker-label punctuation corrections on scans **22
 - English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
 - `verified_against_tamil=false`
 
+## Speech 12 Gate-G closure
+
+- reviewed pages — **191–230 / 40 of 40**
+- English refinements — **12**
+- blocking issues — **0**
+- verified Tamil changes — **0**
+- source-printed English changes — **0**
+- outside English imported — **0**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+- source-page markers — **40 / ordered**
+- scan 222 repeated cinema sentence — **preserved twice**
+- scan 228→229 poem transition — **preserved**
+- detailed refinement ledger — `speeches/1973/1973-03-07-financial-statement-debate/translation-review.md`
+
 ## Exact next activity
 
-Perform **Speech 12 Gate G strict English-vs-verified-Tamil review across scans 191–230 / 40 pages**.
+Perform **Speech 12 Gate H canonical bilingual merge / release-readiness closure**.
 
 Requirements:
 
-1. review every Tamil/English source-page pair;
-2. check meaning, completeness, speaker labels, figures, quotations, source-printed English, reactions and page-spanning continuations;
-3. preserve scan 222's repeated cinema sentence twice;
-4. preserve the scan 228→229 poem across the transition;
-5. record every English refinement and blocker;
-6. verified Tamil changes should remain **0** unless a genuine Tamil-source issue is discovered;
-7. do not import wording from the released parallel witness or outside sources;
-8. only after 40/40 review set English `verified_against_tamil=true` if supported;
-9. synchronize all Speech 12 and anthology controls;
-10. do **not** begin Gate H or Speech 13 in the same activity.
+1. preserve verified Tamil exactly;
+2. preserve Gate-G-verified English exactly;
+3. merge verified English into the canonical bilingual `transcript.md` following repository convention;
+4. retire `translation.md` to the standard released pointer only after successful merge;
+5. preserve all Tamil and English source-page markers **191→230** exactly once and ordered within their respective sections;
+6. preserve source-printed English, scan 222 repetition, and scan 228→229 poem transition;
+7. keep the independent released `1973-03-07-financial-statement-reply` witness unchanged;
+8. synchronize root and machine-readable indexes only if release policy for this parallel witness calls for them;
+9. record Gate-H wording changes, expected **0 Tamil / 0 English**;
+10. do **not** begin Speech 13 in the same activity.
