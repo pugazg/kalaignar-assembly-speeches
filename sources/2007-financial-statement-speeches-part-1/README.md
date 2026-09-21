@@ -431,6 +431,28 @@ No OCR, web copy, Official Report, released 1973 wording, alternate anthology or
 - root dated speech table — **unchanged intentionally**
 - no duplicate canonical `1973-03-07` index record was created.
 
+## Speech 13 source-boundary / Gate-C setup
+
+Working entry:
+
+[../../speeches/1974/1974-03-14-financial-statement-debate/](../../speeches/1974/1974-03-14-financial-statement-debate/)
+
+- source label/date — `உரை : 13 / 14.03.1974`
+- global scans — **231–262 / 32 pages**
+- printed pages — **230–261**
+- hard boundaries — **230→231 / 262→263 — visually re-confirmed / PASS**
+- source coverage — **COMPLETE / 32 of 32 pages available**
+- part010 local **6–25** = scans **231–250** / 20 pages / SHA-256 `257b862a7ebe21d768f8e5a2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90`
+- part011 local **1–12** = scans **251–262** / 12 pages / SHA-256 `27c9c96d3c0bdb53480f8d1634300bf9d7dc57be17d3f83c66397ef78863712d`
+- Tamil — **NOT STARTED / verified_against_scan=false**
+- Gate C — **NOT STARTED**
+- downstream gates / English — **NOT STARTED / BLOCKED**
+- `transcript.md` — intentionally not created during setup
+- whole-speech exception — **REQUIRED / 32 pages kept intact**
+- outside/released-witness wording imported — **0**
+- Speech 12 — **unchanged / RELEASED / CLOSED**
+- Speech 14 — **not begun**
+
 ## Exact next activity
 
-Begin **Speech 13 / 14.03.1974 source-boundary and Gate-C setup — scans 231–262 / printed pp.230–261 / 32 pages**. Treat it as one intact whole-speech exception when Gate C starts. Do not reopen Speech 12 unless a source-backed defect is discovered.
+Perform **Speech 13 Gate C Tamil first-pass transcription — scans 231–262 / printed pp.230–261 / 32 pages** from the controlling part010/part011 pixels only. Do not begin Gate C.5, Gate D, English work, or Speech 14 in that activity.
