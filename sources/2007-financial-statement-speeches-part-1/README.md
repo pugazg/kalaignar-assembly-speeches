@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches **1–11 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 12 / 07.03.1973 is established separately at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent parallel witness** to the already released `1973-03-07-financial-statement-reply`. Speech 12 Gate C is **COMPLETE / 40 of 40**; Gate C.5 is **N/A / CLOSED**; Gate D is **PASS / COMPLETE / 40 of 40 / 0 completeness corrections**; Gate E is **PASS / COMPLETE / 40 of 40 — 25 correction entries / 30 correction occurrences / 0 unresolved**. Tamil is **VERIFIED** with `verified_against_scan=true`; Gate F English is next.
+Speeches **1–11 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 12 / 07.03.1973 is established separately at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent parallel witness** to the already released `1973-03-07-financial-statement-reply`. Speech 12 Gate C is **COMPLETE / 40 of 40**; Gate C.5 is **N/A / CLOSED**; Gate D is **PASS / COMPLETE / 40 of 40 / 0 completeness corrections**; Gate E is **PASS / COMPLETE / 40 of 40 — 25 correction entries / 30 correction occurrences / 0 unresolved**. Tamil is **VERIFIED** with `verified_against_scan=true`. Gate F is **COMPLETE / 40 of 40**; English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL** with `verified_against_tamil=false`; Gate G is next.
 
 ## Whole-speech batching policy
 
@@ -413,8 +413,9 @@ Locked unit: **191–230 / printed 190–229 / 40 pages**.
 - scan 230 final close — **confirmed**
 - released `1973-03-07-financial-statement-reply` — **UNCHANGED**
 - parallel-witness / no-overwrite / no-normalization rule — **PRESERVED**
-- English / Gate F — **NOT STARTED / next**
-- Gate G / H — **NOT STARTED**
+- English / Gate F — **COMPLETE / 40 of 40 / TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- Gate G — **NOT STARTED / next**
+- Gate H — **NOT STARTED**
 
 No OCR, web copy, Official Report, released 1973 wording, alternate anthology or another witness supplied Gate-E wording. Final before→after details are in the Speech 12 verification log and metadata.
 
