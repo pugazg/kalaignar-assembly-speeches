@@ -126,8 +126,8 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–13 — modern 2007 typesetting; no Speech-13 legacy/reform-sensitive glyph condition identified**
 - Gate D — **Speeches 1–13 PASS / COMPLETE; Speech 13 = 32/32 pages / 31/31 transitions / 0 completeness corrections**
 - Gate E — **Speeches 1–13 PASS / COMPLETE / Tamil VERIFIED / 0 unresolved; Speech 13 = 32/32 / 8 entries / 9 occurrences**
-- Gate F — **Speeches 1–12 COMPLETE; Speech 13 NOT STARTED / next**
-- Gate G — **Speeches 1–12 PASS / COMPLETE / English VERIFIED; Speech 13 NOT STARTED**
+- Gate F — **Speeches 1–13 COMPLETE; Speech 13 = 32/32 English pages / 0 blockers / 0 Tamil changes**
+- Gate G — **Speeches 1–12 PASS / COMPLETE / English VERIFIED; Speech 13 NOT STARTED / next**
 - Gate H — **Speeches 1–12 PASS / COMPLETE — RELEASED / CLOSED; Speech 13 NOT STARTED / NOT RELEASED**
 - Speech 13 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E PASS-COMPLETE 32/32 / 8 entries / 9 occurrences / Tamil VERIFIED**
 
@@ -284,22 +284,22 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - same-date index policy — **no duplicate canonical 1973-03-07 entry created**
 - release — **RELEASED / CLOSED**
 
-## Speech 13 Gate-E closure
+## Speech 13 Gate-F completion
 
 - working entry — `speeches/1974/1974-03-14-financial-statement-debate/`
-- scans **231–262 / printed pp.230–261 / 32 pages**
-- Gate C — **COMPLETE**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 32 of 32 / 31 of 31 transitions / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / 32 of 32**
-- final Gate-E corrections — **8 entries / 9 occurrences**
-- unresolved readings — **0**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- source-page markers — **231→262 exactly once / ordered**
-- outside wording imported — **0**
-- Speech 12 — **unchanged**
+- Tamil source — **Gate-E VERIFIED / scans 231–262**
+- Gate F — **COMPLETE / 32 of 32**
+- English source-page sequence — **231→262 / complete / ordered**
+- blocking questions — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-printed English preserved — **YES**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- Gate G — **NOT STARTED / next**
+- Gate H — **NOT STARTED**
 - Speech 14 — **not begun**
 
 ## Exact continuation
 
-Begin **Speech 13 Gate F English translation** from the verified Tamil only. Do not modify Tamil, begin Gate G/Gate H, or begin Speech 14 in the same activity.
+Perform **Speech 13 Gate G English fidelity review — pages 231–262 / 32 pages**. Do not modify verified Tamil, begin Gate H, or begin Speech 14.
