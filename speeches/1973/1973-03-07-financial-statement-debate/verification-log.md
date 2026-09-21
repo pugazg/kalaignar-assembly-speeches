@@ -209,11 +209,40 @@ Final adjudication added two speaker-label punctuation corrections that were not
 
 Gate F does not make an English-verification claim. The working English remains in `translation.md` until Gate G review.
 
-## Gates not begun
+## Gate G — English fidelity review
 
-- Gate G — **NOT STARTED / next**
-- Gate H / release — **NOT STARTED**
+**PASS / COMPLETE — 40/40 pages.**
+
+- review authority — **Gate-E-verified Tamil in `transcript.md` only**
+- reviewed source pages — **191–230**
+- reviewed page count — **40/40**
+- source-page markers — **40 / 191→230 / exactly once / ordered**
+- English refinements — **12**
+- blocking fidelity issues — **0**
+- verified Tamil changes — **0**
+- source-printed English changes — **0**
+- outside English / other-witness wording imported — **0**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+
+Gate-G refinements include six source-page-boundary realignments, two project-name transliteration corrections, one generator/licence fidelity correction, one Kerala land-reform exemption clarification, and preservation of the verified Tamil's source-form `எ.டி.எம்.க.` as `E.D.M.K.` in the quoted English wording. Full before→after details are in `translation-review.md`.
+
+### Gate-G closure checks
+
+- all **40/40** Tamil/English page pairs reviewed;
+- all English page sections non-empty;
+- source-printed English on scans **204, 205, 214, 217 and 218** remains verbatim;
+- scan **222** repeated cinema-show sentence remains **2 English occurrences**;
+- scan **228→229** poem continuation remains intact;
+- scan **230** closing exchange and conclusion remain present;
+- verified Tamil SHA/content unchanged from Gate E;
+- parallel released witness untouched;
+- `data/speeches.json` remains unchanged because this anthology witness is still unreleased.
+
+## Gate H / release
+
+**NOT STARTED / next.**
 
 ## Exact next activity
 
-Perform **Gate G strict English-vs-verified-Tamil review for scans 191–230 / 40 pages**. Record every refinement, blocker, source-printed-English change (expected 0), and verified-Tamil change (expected 0). Do not begin Gate H or Speech 13 in the same activity.
+Perform **Gate H canonical bilingual merge / release-readiness closure** for Speech 12 while preserving the independent released `1973-03-07-financial-statement-reply` witness unchanged. Do not begin Speech 13 in the same activity.
