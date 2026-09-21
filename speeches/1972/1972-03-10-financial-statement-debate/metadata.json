@@ -67,12 +67,44 @@
     "unresolved_readings": [],
     "unresolved_reading_count": 0,
     "first_pass_note": "Scan 154 reading '200 கோடி ரூபாய்க்கு வரிபோட்டுத் தள்ளுகிறேன்' settled from enlarged source pixels; not a Gate-E verification claim.",
-    "historical_glyph_gate_status": "not-started",
-    "gate_d_status": "not-started",
+    "historical_glyph_gate_status": "n/a-closed",
+    "gate_d_status": "pass-complete",
     "gate_e_status": "not-started",
-    "completeness_audit_passed": false,
-    "next_gate": "gate-c.5",
-    "outside_wording_imported": false
+    "completeness_audit_passed": true,
+    "next_gate": "gate-e",
+    "outside_wording_imported": false,
+    "gate_c5": {
+      "status": "n/a-closed",
+      "basis": "The controlling witness is modern 2007 anthology typesetting; no legacy/reform-sensitive historical-glyph condition requiring a separate Gate C.5 audit was identified for Speech 11."
+    },
+    "gate_d": {
+      "status": "pass-complete",
+      "audited_scan_pages": "152-190",
+      "audited_printed_pages": "151-189",
+      "audited_page_count": 39,
+      "marker_count": 39,
+      "transition_count": 38,
+      "transitions_passed": 38,
+      "hard_boundaries": [
+        "151->152",
+        "190->191"
+      ],
+      "completeness_correction_count": 0,
+      "completeness_corrections": [],
+      "duplicate_long_blocks": 0,
+      "missing_pages": 0,
+      "unresolved_reading_count": 0,
+      "verified_against_scan": false,
+      "word_for_word_verification_claim": false,
+      "structural_features_checked": {
+        "speaker_changes_and_interventions": true,
+        "parenthetical_reactions": true,
+        "source_printed_english": true,
+        "figures_dates_quotations": true,
+        "source_visible_repetition": true,
+        "source_close_ornament": true
+      }
+    }
   },
   "translation": {
     "language": "English",

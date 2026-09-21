@@ -53,21 +53,50 @@ Speech 11 spans **39 pages**, exceeding the normal 25-page activity allowance, s
 - Gate C — **COMPLETE / 39 of 39**
 - source-page markers — **152→190 / exactly once / ordered — PASS**
 - first-pass unresolved readings — **0 explicitly flagged**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE / 39 of 39 / 0 completeness corrections**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
-- Gate E — **NOT STARTED**
+- Gate E — **NOT STARTED / NEXT**
 - English / Gate F / Gate G — **BLOCKED / NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - outside-source wording imported — **0**
 
-Gate C establishes complete first-pass coverage only. It does not establish word-for-word source fidelity.
+Gate C.5 and Gate D do not make a word-for-word fidelity claim. Tamil remains unverified until Gate E.
 
-The difficult scan-154 phrase was re-read from enlarged source pixels as `200 கோடி ரூபாய்க்கு வரிபோட்டுத் தள்ளுகிறேன்`. This remains a first-pass reading pending Gate E.
+## Gate C.5 result
+
+Gate C.5 is **N/A / CLOSED**.
+
+The controlling witness is modern **2007 anthology typesetting**. Direct inspection of the Speech-11 source pages shows the same modern Tamil type system used elsewhere in this anthology; no legacy/reform-sensitive historical-glyph condition requiring a separate historical-glyph ledger was identified.
+
+## Gate D result
+
+Gate D is **PASS / COMPLETE — 39/39 pages / scans 152–190**.
+
+Structural audit:
+
+- source-page markers **152→190** — **39 unique / ordered / PASS**
+- page transitions **152→153 through 189→190** — **38/38 PASS**
+- hard boundaries **151→152 / 190→191** — **PASS**
+- nonempty mapped page blocks — **39/39**
+- missing mapped pages — **0**
+- duplicated long transcript blocks — **0**
+- printed speaker changes / interventions — **represented**
+- parenthetical reactions — **represented**
+- source-printed English blocks and line-spanning continuations — **represented**
+- figures, dates, quoted material and source-visible repetition — **structurally retained**
+- scan 190 source-close ornament — **boundary preserved**
+- unresolved readings requiring structural hold — **0**
+- completeness corrections — **0**
+- Tamil wording changes at Gate D — **0**
+
+High-risk source structures were checked directly against the rendered pixels, including the English/intervention sequences around scans 159, 170, 172, 175–180 and 183–189, plus the scan-190 close. The unusual source-printed English passage on scan 188 remains exactly a source structure; Gate D does not reinterpret or rewrite it.
 
 ## Exact next activity
 
-Make the **Speech 11 Gate C.5 applicability decision**. If it is **N/A / CLOSED** for the modern 2007 typography, proceed in the same activity with the **Gate D structural-completeness audit across scans 152–190 / 39 pages**.
+Perform **Speech 11 Gate E word-for-word Tamil scan verification — scans 152–190 / printed pp.151–189 / 39 pages**, using only the controlling 2007 anthology pixels.
 
-Do not begin Gate E, English translation, Gate F/G/H, release work, or Speech 12.
+Verify every line, speaker label/intervention, source-printed English passage, figure/date/amount and page transition; record every source-fidelity correction and unresolved reading. Only after a complete 39/39 visual audit may Tamil become **VERIFIED / verified_against_scan=true**.
+
+Do not begin English translation, Gate F/G/H, release work, or Speech 12 in the same activity.

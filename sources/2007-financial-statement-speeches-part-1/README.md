@@ -373,27 +373,25 @@ Final state:
 - root / machine-readable indexes — **SYNCHRONIZED**
 - parallel witness to `நமது விளக்கம்` — **PRESERVED / NO OVERWRITE**
 
-## Speech 11 Gate-C state
+## Speech 11 Gate-D state
 
 Working entry: [`../../speeches/1972/1972-03-10-financial-statement-debate/`](../../speeches/1972/1972-03-10-financial-statement-debate/)
 
-- source label/date — `உரை : 11 / 10.3.1972`
-- scans **152–190 / printed 151–189 / 39 pages**
-- hard boundaries — **151→152 PASS / 190→191 PASS**
-- split coverage — **24 + 15 = 39/39 pages**
+Locked unit: **152–190 / printed 151–189 / 39 pages / 151→152 PASS / 190→191 PASS**.
+
+Current state:
+
 - Gate C — **COMPLETE / 39 of 39**
-- markers — **152→190 / 39 unique / ordered / PASS**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- first-pass unresolved readings — **0 explicitly flagged**
-- Gate C.5 — **NOT STARTED / NEXT**
-- Gate D/E — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE / 39 of 39 / 0 completeness corrections**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Gate E — **NOT STARTED / NEXT**
 - English / Gate F/G — **BLOCKED / NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - outside wording imported — **0**
 
-Speech 11 was processed intact under the whole-speech exception. No OCR, web copy, Official Report, alternate anthology or other witness supplied wording.
+Gate D confirmed **39 unique ordered markers**, **38/38 page transitions**, both hard boundaries, all mapped speaker/intervention structures, embedded English and the source-close ornament. No completeness correction or Tamil wording change was required.
 
 ## Exact next activity
 
-Make the **Speech 11 Gate C.5 applicability decision**; if N/A/closed, perform **Gate D structural-completeness audit across scans 152–190 / 39 pages**. Do not begin Gate E, English work, Gate H/release, or Speech 12.
+Perform **Speech 11 Gate E word-for-word Tamil scan verification — scans 152–190 / 39 pages** from the controlling anthology pixels only.
