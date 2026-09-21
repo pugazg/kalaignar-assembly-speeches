@@ -92,6 +92,75 @@ Source-pixel spot checks were concentrated on the structurally dense pages and t
 
 Gate D makes no word-for-word fidelity claim.
 
+## Gate E word-for-word Tamil scan verification
+
+**Status: PASS / COMPLETE — 39/39 pages**
+
+### Verification scope
+
+- global scans — **152–190**
+- printed pages — **151–189**
+- markers — **152→190 / 39 unique / ordered / PASS**
+- page transitions — **38/38 rechecked**
+- hard boundaries — **151→152 / 190→191 — PASS**
+- source-fidelity corrections — **25**
+- affected scans — **15: 160, 163, 164, 165, 168, 169, 170, 176, 178, 179, 180, 181, 186, 188, 189**
+- unresolved readings — **0**
+- outside-source wording imported — **0**
+
+### Correction ledger
+
+1. scan 160 — `தங்கள் கருணையிலிருந்து` → `தங்கள் கருணை யிலிருந்து`
+2. scan 160 — `ஒன்றையப் பாதையில்` → `ஒற்றையடிப் பாதையில்`
+3. scan 163 — `செலவழிக்கப்படுகிறது` → `செலவழிக்கப் படுகிறது`
+4. scan 164 — `கோரிக்கைகளை ஆராய்வதற்காக தலைமைச் செயலாளரைத்` → `கோரிக்கைகளை ஆராய்வதற்காக, தலைமைச் செயலாளரைத்`
+5. scan 164 — `படிப்படியாக` → `படிப் படியாக`
+6. scan 165 — `அகவைப்படி திட்டம் ஏற்படுத்தப்பட்டது` → `அகவிலைப்படி திட்டம் ஏற்படுத்தப்பட்டது`
+7. scan 165 — `அந்த அகவைப்படி மூன்று முறை` → `அந்த அகவிலைப்படி மூன்று முறை`
+8. scan 165 — `ஏற்குறைய ரூ.23 கோடி` → `ஏறக்குறைய ரூ.23 கோடி`
+9. scan 168 — `பல ஆண்டு காலமாக கணக்கெடுத்துப் பார்த்ததில்` → `பல ஆண்டு காலமாகக் கணக்கெடுத்துப் பார்த்ததில்`
+10. scan 169 — `விரைவில் எடுத்துக் கொள்ளப்பட்டிருக்கின்றன.` → `விரைவில் எடுத்துக் கொள்ளப்பட்டு வருகின்றன.`
+11. scan 169 — `இங்கே முடப்பட்ட தொழிற்சாலைகள்` → `இங்கே மூடப்பட்ட தொழிற்சாலைகள்`
+12. scan 170 — `அலுவர் குழுவில்` → `அறுவர் குழுவில்`
+13. scan 170 — `கெட்டுப்போய் தொழில்கள்` → `கெட்டுப்போய்த் தொழில்கள்`
+14. scan 170 — `வேலையில்லாத திண்டாட்டத்தினால்` → `வேலையில்லாத் திண்டாட்டத்தினால்`
+15. scan 176 — `நடக்கக்கூடியவைகளை` → `நடக்கக் கூடியவைகளை`
+16. scan 176 — `இவைகளையெல்லாம் இங்கே குறிப்பிட்டேன்` → `இவைகளை யெல்லாம் இங்கே குறிப்பிட்டேன்`
+17. scan 178 — `விரைவிலே தீர்க்கின்ற வகையில் அரசாங்கம்` → `விரைவிலே தீர்க்கின்ற வகையிலே அரசாங்கம்`
+18. scan 179 — `அகில இந்தியத் தொழிற்சங்கப் பிரதிநிதிகளை` → `அகில இந்தியத் தொழிற் சங்கப் பிரதிநிதிகளை`
+19. scan 179 — `திரும்பப் பெற்றுக் கொண்டதுதான்` → `திரும்பப் பெற்றுக் கொண்டது தான்`
+20. scan 180 — `ஆனால் குறிப்பிட எந்தக் குற்றச்சாட்டும்` → `ஆனால் குறிப்பிட்ட எந்தக் குற்றச்சாட்டும்`
+21. scan 181 — `2028 ஏக்கராகவும்,` → `2028 ஏக்கராவாகும்,`
+22. scan 186 — `“நான்தான் கண்டுபிடித்தேன் என்று சொல்வதாக சொல்லியிருக்கிறார்.` → `“நான்தான் கண்டுபிடித்தேன்” என்று சொல்வதாக சொல்லியிருக்கிறார்.`
+23. scan 186 — `பொதுப்பணித்துறை அமைச்சரும் திரு. சுப்பிரமணியமும் அவர்களும் மத்திய அமைச்சரிடத்தில் பேசியிருக்கிறோம்.` → `பொதுப்பணித்துறை அமைச்சரும் திரு. சாதிக் பாட்சா அவர்களும் மத்திய அமைச்சரிடத்தில் பேசியிருக்கிறோம்.`
+24. scan 188 — `ஹங்கேரி, ஆஸ்திரியா, ஜெர்மனி` → `ஹங்கேரி, ஆஸ்திரேலியா, ஜெர்மனி`
+25. scan 189 — `வேண்டுமானால் நாங்கள் கொஞ்சம் ஒதுங்கி நிற்கிறோம். மாநில சுயாட்சி` → `வேண்டுமானால் நாங்கள் கொஞ்சம் ஒதுங்கி நிற்கிறோம், மாநில சுயாட்சி`
+
+### Gate-E closure
+
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- Gate E — **PASS / COMPLETE**
+- unresolved readings — **0**
+- source-printed English — **retained as printed**
+- speaker labels / interventions / parenthetical reactions — **verified in place**
+- figures / dates / money / percentages / units — **verified in place**
+- source-visible repetition — **retained**
+- OCR / web / Official Report / alternate-witness wording imported — **0**
+
+Scan 188's `ஆஸ்திரேலியா` is source-visible and intentionally retained without factual normalization.
+
+## Gate status after Gate E
+
+- Gate C — **COMPLETE**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **PASS / COMPLETE / 25 corrections / 0 unresolved**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate F / English — **NOT STARTED / NEXT**
+- Gate G — **NOT STARTED**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
+
 ## Exact next activity
 
-Perform **Speech 11 Gate E word-for-word Tamil scan verification — scans 152–190 / printed pp.151–189 / 39 pages**. Record every source-fidelity correction and unresolved reading. Do not begin English translation, Gate F/G/H, release work, or Speech 12.
+Perform **Speech 11 Gate F English translation — scans 152–190 / 39 pages** from the final Gate-E-verified Tamil only. Do not begin Gate G/H or Speech 12 in the same activity.

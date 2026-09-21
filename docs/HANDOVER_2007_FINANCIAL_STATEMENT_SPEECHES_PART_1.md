@@ -549,7 +549,7 @@ Final state:
 - root / `data/speeches.json` — **SYNCHRONIZED**
 - independent `நமது விளக்கம்` parallel witness — **PRESERVED**
 
-## Speech 11 durable Gate-D state
+## Speech 11 durable Gate-E state
 
 Working entry: `speeches/1972/1972-03-10-financial-statement-debate/`
 
@@ -557,21 +557,19 @@ Locked unit: **152–190 / printed 151–189 / 39 pages / hard boundaries 151→
 
 Durable state:
 
-- Gate C — **COMPLETE / 39 of 39**
-- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
-- Gate D — **PASS / COMPLETE / 39 of 39 / 0 completeness corrections**
-- markers — **152→190 / 39 unique / ordered**
-- transitions — **38/38 PASS**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate E — **NOT STARTED / NEXT**
-- English / Gate F/G — **BLOCKED / NOT STARTED**
+- Gate C — **COMPLETE**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE / 0 completeness corrections**
+- Gate E — **PASS / COMPLETE / 25 source-fidelity corrections / 0 unresolved**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- English / Gate F — **NOT STARTED / NEXT**
+- Gate G/H — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
-- structural unresolved readings — **0**
 - outside wording imported — **0**
 
-Gate D found no missing mapped page, duplicate long block, omitted speaker/intervention structure or broken source boundary. No Tamil wording was changed.
+Gate E checked all **39/39 pages** directly against the controlling anthology pixels. Affected scans: **160, 163, 164, 165, 168, 169, 170, 176, 178, 179, 180, 181, 186, 188, 189**. All 38 transitions and both hard boundaries were rechecked.
 
 ## Exact next activity
 
-Perform **Speech 11 Gate E word-for-word Tamil scan verification — scans 152–190 / printed pp.151–189 / 39 pages**. Do not begin English translation, Gate F/G/H, release work, or Speech 12 in the same activity.
+Perform **Speech 11 Gate F English translation — scans 152–190 / 39 pages** from the final Gate-E-verified Tamil only. Do not begin Gate G/H or Speech 12 in the same activity.

@@ -124,7 +124,7 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speeches 1–10 CLOSED; Speech 11 COMPLETE / 39 of 39 / Tamil TRANSCRIBED-NOT-VERIFIED; speeches 12–19 not started**
 - Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction after Gate E restored an omitted scan-90 phrase; Speech 9 PASS / COMPLETE / 0 completeness corrections; Speech 10 PASS / COMPLETE / 2 completeness corrections; Speech 11 PASS / COMPLETE / 0 completeness corrections**
-- Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43; Speech 9 / 4; Speech 10 / 26 corrections; Speeches 1–10 Tamil VERIFIED / 0 unresolved**
+- Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43; Speech 9 / 4; Speech 10 / 26; Speech 11 / 25 corrections; Speeches 1–11 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–11 — modern 2007 typesetting; speeches 12–19 not started**
 - Gate F — **Speeches 1–10 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23 / 4 / 35; Speech 10 English TRANSLATED / NOT VERIFIED AGAINST TAMIL**
 - Gate G — **Speeches 1–10 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16 / 11 / 21; 0 blockers; English VERIFIED**
@@ -229,7 +229,7 @@ Final status:
 - root / machine-readable indexes — **SYNCHRONIZED**
 - parallel witness to `நமது விளக்கம்` — **PRESERVED / NO OVERWRITE**
 
-## Speech 11 Gate-D record
+## Speech 11 Gate-E record
 
 Locked map: **152–190 / printed 151–189 / 39 pages / 151→152 PASS / 190→191 PASS**.
 
@@ -237,15 +237,16 @@ Current status:
 
 - Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 39 of 39 / 0 completeness corrections**
-- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- Gate E — **NOT STARTED / NEXT**
-- English — **BLOCKED / NOT STARTED**
+- Gate D — **PASS / COMPLETE / 0 completeness corrections**
+- Gate E — **PASS / COMPLETE / 25 corrections / 0 unresolved**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate F / English — **NOT STARTED / NEXT**
+- Gate G/H — **NOT STARTED**
 - release — **NOT RELEASED**
 - outside wording imported — **0**
 
-Gate-D structural checks: **39/39 markers / 38/38 transitions / 0 missing pages / 0 duplicated long blocks / 0 structural corrections**.
+Gate E verified **39/39 pages**. Affected scans: **160, 163, 164, 165, 168, 169, 170, 176, 178, 179, 180, 181, 186, 188, 189**.
 
 ## Exact continuation
 
-Perform **Speech 11 Gate E word-for-word Tamil verification — scans 152–190 / 39 pages**. Do not begin English work, Gate H, or Speech 12.
+**Speech 11 Gate F English translation — scans 152–190 / 39 pages**, from the final Gate-E-verified Tamil only.

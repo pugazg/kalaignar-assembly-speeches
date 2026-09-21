@@ -52,9 +52,9 @@
   },
   "transcription": {
     "language": "Tamil",
-    "status": "transcribed",
+    "status": "verified",
     "method": "manual first-pass transcription from rendered 2007 anthology pixels only",
-    "verified_against_scan": false,
+    "verified_against_scan": true,
     "gate_c_status": "complete",
     "completed_scan_pages": "152-190",
     "completed_printed_pages": "151-189",
@@ -69,9 +69,9 @@
     "first_pass_note": "Scan 154 reading '200 கோடி ரூபாய்க்கு வரிபோட்டுத் தள்ளுகிறேன்' settled from enlarged source pixels; not a Gate-E verification claim.",
     "historical_glyph_gate_status": "n/a-closed",
     "gate_d_status": "pass-complete",
-    "gate_e_status": "not-started",
+    "gate_e_status": "pass-complete",
     "completeness_audit_passed": true,
-    "next_gate": "gate-e",
+    "next_gate": "gate-f",
     "outside_wording_imported": false,
     "gate_c5": {
       "status": "n/a-closed",
@@ -104,6 +104,159 @@
         "source_visible_repetition": true,
         "source_close_ornament": true
       }
+    },
+    "gate_e": {
+      "status": "pass-complete",
+      "verified_scan_pages": "152-190",
+      "verified_printed_pages": "151-189",
+      "verified_page_count": 39,
+      "source_fidelity_correction_count": 25,
+      "affected_scans": [
+        160,
+        163,
+        164,
+        165,
+        168,
+        169,
+        170,
+        176,
+        178,
+        179,
+        180,
+        181,
+        186,
+        188,
+        189
+      ],
+      "unresolved_reading_count": 0,
+      "outside_wording_imported": false,
+      "corrections": [
+        {
+          "scan": 160,
+          "before": "தங்கள் கருணையிலிருந்து",
+          "after": "தங்கள் கருணை யிலிருந்து"
+        },
+        {
+          "scan": 160,
+          "before": "ஒன்றையப் பாதையில்",
+          "after": "ஒற்றையடிப் பாதையில்"
+        },
+        {
+          "scan": 163,
+          "before": "செலவழிக்கப்படுகிறது",
+          "after": "செலவழிக்கப் படுகிறது"
+        },
+        {
+          "scan": 164,
+          "before": "கோரிக்கைகளை ஆராய்வதற்காக தலைமைச் செயலாளரைத்",
+          "after": "கோரிக்கைகளை ஆராய்வதற்காக, தலைமைச் செயலாளரைத்"
+        },
+        {
+          "scan": 164,
+          "before": "படிப்படியாக",
+          "after": "படிப் படியாக"
+        },
+        {
+          "scan": 165,
+          "before": "அகவைப்படி திட்டம் ஏற்படுத்தப்பட்டது",
+          "after": "அகவிலைப்படி திட்டம் ஏற்படுத்தப்பட்டது"
+        },
+        {
+          "scan": 165,
+          "before": "அந்த அகவைப்படி மூன்று முறை",
+          "after": "அந்த அகவிலைப்படி மூன்று முறை"
+        },
+        {
+          "scan": 165,
+          "before": "ஏற்குறைய ரூ.23 கோடி",
+          "after": "ஏறக்குறைய ரூ.23 கோடி"
+        },
+        {
+          "scan": 168,
+          "before": "பல ஆண்டு காலமாக கணக்கெடுத்துப் பார்த்ததில்",
+          "after": "பல ஆண்டு காலமாகக் கணக்கெடுத்துப் பார்த்ததில்"
+        },
+        {
+          "scan": 169,
+          "before": "விரைவில் எடுத்துக் கொள்ளப்பட்டிருக்கின்றன.",
+          "after": "விரைவில் எடுத்துக் கொள்ளப்பட்டு வருகின்றன."
+        },
+        {
+          "scan": 169,
+          "before": "இங்கே முடப்பட்ட தொழிற்சாலைகள்",
+          "after": "இங்கே மூடப்பட்ட தொழிற்சாலைகள்"
+        },
+        {
+          "scan": 170,
+          "before": "அலுவர் குழுவில்",
+          "after": "அறுவர் குழுவில்"
+        },
+        {
+          "scan": 170,
+          "before": "கெட்டுப்போய் தொழில்கள்",
+          "after": "கெட்டுப்போய்த் தொழில்கள்"
+        },
+        {
+          "scan": 170,
+          "before": "வேலையில்லாத திண்டாட்டத்தினால்",
+          "after": "வேலையில்லாத் திண்டாட்டத்தினால்"
+        },
+        {
+          "scan": 176,
+          "before": "நடக்கக்கூடியவைகளை",
+          "after": "நடக்கக் கூடியவைகளை"
+        },
+        {
+          "scan": 176,
+          "before": "இவைகளையெல்லாம் இங்கே குறிப்பிட்டேன்",
+          "after": "இவைகளை யெல்லாம் இங்கே குறிப்பிட்டேன்"
+        },
+        {
+          "scan": 178,
+          "before": "விரைவிலே தீர்க்கின்ற வகையில் அரசாங்கம்",
+          "after": "விரைவிலே தீர்க்கின்ற வகையிலே அரசாங்கம்"
+        },
+        {
+          "scan": 179,
+          "before": "அகில இந்தியத் தொழிற்சங்கப் பிரதிநிதிகளை",
+          "after": "அகில இந்தியத் தொழிற் சங்கப் பிரதிநிதிகளை"
+        },
+        {
+          "scan": 179,
+          "before": "திரும்பப் பெற்றுக் கொண்டதுதான்",
+          "after": "திரும்பப் பெற்றுக் கொண்டது தான்"
+        },
+        {
+          "scan": 180,
+          "before": "ஆனால் குறிப்பிட எந்தக் குற்றச்சாட்டும்",
+          "after": "ஆனால் குறிப்பிட்ட எந்தக் குற்றச்சாட்டும்"
+        },
+        {
+          "scan": 181,
+          "before": "2028 ஏக்கராகவும்,",
+          "after": "2028 ஏக்கராவாகும்,"
+        },
+        {
+          "scan": 186,
+          "before": "“நான்தான் கண்டுபிடித்தேன் என்று சொல்வதாக சொல்லியிருக்கிறார்.",
+          "after": "“நான்தான் கண்டுபிடித்தேன்” என்று சொல்வதாக சொல்லியிருக்கிறார்."
+        },
+        {
+          "scan": 186,
+          "before": "பொதுப்பணித்துறை அமைச்சரும் திரு. சுப்பிரமணியமும் அவர்களும் மத்திய அமைச்சரிடத்தில் பேசியிருக்கிறோம்.",
+          "after": "பொதுப்பணித்துறை அமைச்சரும் திரு. சாதிக் பாட்சா அவர்களும் மத்திய அமைச்சரிடத்தில் பேசியிருக்கிறோம்."
+        },
+        {
+          "scan": 188,
+          "before": "ஹங்கேரி, ஆஸ்திரியா, ஜெர்மனி",
+          "after": "ஹங்கேரி, ஆஸ்திரேலியா, ஜெர்மனி"
+        },
+        {
+          "scan": 189,
+          "before": "வேண்டுமானால் நாங்கள் கொஞ்சம் ஒதுங்கி நிற்கிறோம். மாநில சுயாட்சி",
+          "after": "வேண்டுமானால் நாங்கள் கொஞ்சம் ஒதுங்கி நிற்கிறோம், மாநில சுயாட்சி"
+        }
+      ]
     }
   },
   "translation": {
@@ -111,7 +264,8 @@
     "status": "not-started",
     "verified_against_tamil": false,
     "gate_f_status": "not-started",
-    "gate_g_status": "not-started"
+    "gate_g_status": "not-started",
+    "source_text": "Gate-E-verified Tamil in transcript.md"
   },
   "release": {
     "status": "not-released",

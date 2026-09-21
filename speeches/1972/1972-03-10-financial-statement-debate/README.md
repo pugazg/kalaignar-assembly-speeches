@@ -51,52 +51,39 @@ Speech 11 spans **39 pages**, exceeding the normal 25-page activity allowance, s
 - source-boundary / Gate-C setup — **PASS / COMPLETE**
 - source coverage — **COMPLETE / 39 of 39**
 - Gate C — **COMPLETE / 39 of 39**
-- source-page markers — **152→190 / exactly once / ordered — PASS**
-- first-pass unresolved readings — **0 explicitly flagged**
 - Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 39 of 39 / 0 completeness corrections**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate E — **NOT STARTED / NEXT**
-- English / Gate F / Gate G — **BLOCKED / NOT STARTED**
+- Gate D — **PASS / COMPLETE / 0 completeness corrections**
+- Gate E — **PASS / COMPLETE / 39 of 39**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- Gate-E source-fidelity corrections — **25**
+- Gate-E affected scans — **160, 163, 164, 165, 168, 169, 170, 176, 178, 179, 180, 181, 186, 188, 189**
+- Gate-E unresolved readings — **0**
+- English / Gate F — **NOT STARTED / NEXT**
+- Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - outside-source wording imported — **0**
 
-Gate C.5 and Gate D do not make a word-for-word fidelity claim. Tamil remains unverified until Gate E.
+## Gate E result
 
-## Gate C.5 result
+Speech 11 was checked page-by-page and word-for-word against the rendered pixels of the controlling 2007 anthology across **scans 152–190 / 39 pages**.
 
-Gate C.5 is **N/A / CLOSED**.
-
-The controlling witness is modern **2007 anthology typesetting**. Direct inspection of the Speech-11 source pages shows the same modern Tamil type system used elsewhere in this anthology; no legacy/reform-sensitive historical-glyph condition requiring a separate historical-glyph ledger was identified.
-
-## Gate D result
-
-Gate D is **PASS / COMPLETE — 39/39 pages / scans 152–190**.
-
-Structural audit:
-
-- source-page markers **152→190** — **39 unique / ordered / PASS**
-- page transitions **152→153 through 189→190** — **38/38 PASS**
+- verified pages — **39/39**
+- source markers **152→190** — **exactly once / ordered / PASS**
+- page transitions **152→153 through 189→190** — **38/38 rechecked**
 - hard boundaries **151→152 / 190→191** — **PASS**
-- nonempty mapped page blocks — **39/39**
-- missing mapped pages — **0**
-- duplicated long transcript blocks — **0**
-- printed speaker changes / interventions — **represented**
-- parenthetical reactions — **represented**
-- source-printed English blocks and line-spanning continuations — **represented**
-- figures, dates, quoted material and source-visible repetition — **structurally retained**
-- scan 190 source-close ornament — **boundary preserved**
-- unresolved readings requiring structural hold — **0**
-- completeness corrections — **0**
-- Tamil wording changes at Gate D — **0**
+- source-fidelity corrections — **25**
+- affected scans — **160, 163, 164, 165, 168, 169, 170, 176, 178, 179, 180, 181, 186, 188, 189**
+- unresolved readings — **0**
+- outside-source wording imported — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
 
-High-risk source structures were checked directly against the rendered pixels, including the English/intervention sequences around scans 159, 170, 172, 175–180 and 183–189, plus the scan-190 close. The unusual source-printed English passage on scan 188 remains exactly a source structure; Gate D does not reinterpret or rewrite it.
+Notable source-bound corrections include scan 160 `ஒற்றையடிப் பாதையில்`, scan 165 `அகவிலைப்படி`, scan 169 `மூடப்பட்ட தொழிற்சாலைகள்`, scan 170 `அறுவர் குழுவில்`, scan 181 `2028 ஏக்கராவாகும்`, scan 186 `திரு. சாதிக் பாட்சா`, and scan 188 source-printed `ஆஸ்திரேலியா`. The latter is retained exactly as printed rather than fact-corrected.
+
+The complete before → after ledger is in `verification-log.md` and `metadata.json`.
 
 ## Exact next activity
 
-Perform **Speech 11 Gate E word-for-word Tamil scan verification — scans 152–190 / printed pp.151–189 / 39 pages**, using only the controlling 2007 anthology pixels.
+Perform **Speech 11 Gate F English translation — scans 152–190 / 39 pages**, translating only from the final Gate-E-verified Tamil in `transcript.md`.
 
-Verify every line, speaker label/intervention, source-printed English passage, figure/date/amount and page transition; record every source-fidelity correction and unresolved reading. Only after a complete 39/39 visual audit may Tamil become **VERIFIED / verified_against_scan=true**.
-
-Do not begin English translation, Gate F/G/H, release work, or Speech 12 in the same activity.
+Do not alter verified Tamil except through an explicit source-fidelity reopen. Do not begin Gate G/H, release indexing, or Speech 12 in the same activity.

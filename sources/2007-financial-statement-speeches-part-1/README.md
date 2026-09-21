@@ -373,7 +373,7 @@ Final state:
 - root / machine-readable indexes — **SYNCHRONIZED**
 - parallel witness to `நமது விளக்கம்` — **PRESERVED / NO OVERWRITE**
 
-## Speech 11 Gate-D state
+## Speech 11 Gate-E state
 
 Working entry: [`../../speeches/1972/1972-03-10-financial-statement-debate/`](../../speeches/1972/1972-03-10-financial-statement-debate/)
 
@@ -381,17 +381,18 @@ Locked unit: **152–190 / printed 151–189 / 39 pages / 151→152 PASS / 190�
 
 Current state:
 
-- Gate C — **COMPLETE / 39 of 39**
+- Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 39 of 39 / 0 completeness corrections**
-- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- Gate E — **NOT STARTED / NEXT**
-- English / Gate F/G — **BLOCKED / NOT STARTED**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
+- Gate D — **PASS / COMPLETE / 0 completeness corrections**
+- Gate E — **PASS / COMPLETE / 25 source-fidelity corrections / 0 unresolved**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- English / Gate F — **NOT STARTED / NEXT**
+- Gate G/H — **NOT STARTED**
+- release — **NOT RELEASED**
 - outside wording imported — **0**
 
-Gate D confirmed **39 unique ordered markers**, **38/38 page transitions**, both hard boundaries, all mapped speaker/intervention structures, embedded English and the source-close ornament. No completeness correction or Tamil wording change was required.
+Gate E verified all **39/39 pages** directly against the controlling anthology pixels. Affected scans: **160, 163, 164, 165, 168, 169, 170, 176, 178, 179, 180, 181, 186, 188, 189**.
 
 ## Exact next activity
 
-Perform **Speech 11 Gate E word-for-word Tamil scan verification — scans 152–190 / 39 pages** from the controlling anthology pixels only.
+Perform **Speech 11 Gate F English translation — scans 152–190 / 39 pages**, using only the final Gate-E-verified Tamil.
