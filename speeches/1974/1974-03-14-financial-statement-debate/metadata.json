@@ -111,16 +111,52 @@
     "source_page_markers_checked_first_pass": true,
     "unresolved_readings": [],
     "unresolved_reading_count": 0,
-    "completeness_audit_passed": false,
+    "completeness_audit_passed": true,
     "verified_against_scan": false,
-    "historical_glyph_gate_status": "not-started",
-    "gate_d_status": "not-started",
+    "historical_glyph_gate_status": "n-a-closed-modern-2007-typesetting-no-historical-glyph-anomaly-observed",
+    "gate_d_status": "pass-complete",
     "gate_e_status": "not-started",
-    "next_gate": "Gate C.5 applicability determination / Gate D completeness audit",
+    "next_gate": "Gate E word-for-word source-fidelity verification",
     "outside_wording_imported": false,
     "marker_count": 32,
     "marker_range": "231-262",
-    "first_pass_note": "All 32 source pages are represented by ordered source-page markers 231-262. This is a first-pass transcription only and is not a word-for-word verification claim."
+    "first_pass_note": "Gate C remains the complete first-pass transcription. Gate C.5 is N/A/CLOSED. Gate D passed all 32 pages and 31 internal transitions with 0 completeness corrections; Tamil is still not word-for-word verified.",
+    "gate_c5": {
+      "status": "n-a-closed",
+      "basis": "The controlling witness is modern 2007 anthology typesetting. Visual review across all 32 Speech-13 pages found no legacy/reform-sensitive glyph condition requiring a separate historical-glyph pass."
+    },
+    "gate_d": {
+      "status": "pass-complete",
+      "audited_scan_pages": "231-262",
+      "audited_printed_pages": "230-261",
+      "audited_page_count": 32,
+      "marker_count": 32,
+      "marker_range": "231-262",
+      "transition_count": 31,
+      "transitions_passed": 31,
+      "hard_boundaries": [
+        "230->231",
+        "262->263"
+      ],
+      "completeness_correction_count": 0,
+      "completeness_corrections": [],
+      "missing_pages": 0,
+      "duplicate_long_blocks": 0,
+      "unresolved_reading_count": 0,
+      "verified_against_scan": false,
+      "word_for_word_verification_claim": false,
+      "structural_features_checked": {
+        "heading_date_and_close": true,
+        "speaker_changes_and_interventions": true,
+        "source_printed_english": true,
+        "figures_dates_and_quotations": true,
+        "parenthetical_reactions": true,
+        "source_visible_repetition": true,
+        "source_page_markers": true,
+        "closing_ornament": true
+      },
+      "outside_wording_imported": false
+    }
   },
   "translation": {
     "language": "English",
