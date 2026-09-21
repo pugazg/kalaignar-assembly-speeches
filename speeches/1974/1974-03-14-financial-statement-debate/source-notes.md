@@ -113,21 +113,22 @@ The controlling source is modern May-2007 anthology typesetting. A visual review
 
 Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`. Gate D does not perform word-for-word fidelity verification.
 
-## Gate E source-fidelity verification — Batch 1
+## Gate E source-fidelity verification — Batches 1–2
 
-**IN PROGRESS — scans 231–240 / 10 of 32 pages verified.**
+**IN PROGRESS — scans 231–250 / 20 of 32 pages verified.**
 
 Corrections applied from the controlling pixels:
 
-| Scan | Printed page | Before | After |
-|---:|---:|---|---|
-| 238 | 237 | `பின்னாக்கு` | `பிண்ணாக்கு` |
-| 238 | 237 | `ரெசினால்` | `எஃகினால்` |
+| Scan | Printed page | Before | After | Occurrences |
+|---:|---:|---|---|---:|
+| 238 | 237 | `பின்னாக்கு` | `பிண்ணாக்கு` | 1 |
+| 238 | 237 | `ரெசினால்` | `எஃகினால்` | 1 |
+| 247 | 246 | `எடுத்துக் கொள்ளப்பட்டது` | `எடுத்துக் கொள்ளப்பட்டவை` | 2 |
 
-Cumulative Gate-E ledger: **2 correction entries / 2 occurrences / 0 unresolved readings in the checked range**.
+Cumulative Gate-E ledger: **3 correction entries / 4 occurrences / 0 unresolved readings in the checked range**.
 
-Tamil remains **NOT VERIFIED** with `verified_against_scan=false` until all **32/32** pages are verified. No OCR, web copy, Official Report, alternate anthology or other witness supplied either correction.
+Tamil remains **NOT VERIFIED** with `verified_against_scan=false` until all **32/32** pages are verified. No OCR, web copy, Official Report, alternate anthology or other witness supplied any correction.
 
 ## Exact next
 
-Continue **Gate E scans 241–250 / printed pp.240–249 / next 10 pages** from the same controlling anthology pixels. Preserve cumulative corrections and do not begin English work or Speech 14.
+Continue **Gate E scans 251–260 / printed pp.250–259 / next 10 pages** from the same controlling anthology pixels. Preserve the cumulative ledger and do not begin English work or Speech 14.
