@@ -122,14 +122,14 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–13 COMPLETE; Speeches 1–12 RELEASED/CLOSED downstream; Speech 13 Tamil VERIFIED after Gate E; speeches 14–19 not started**
+- Gate C — **Speeches 1–13 COMPLETE / RELEASED-CLOSED downstream; speeches 14–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–13 — modern 2007 typesetting; no Speech-13 legacy/reform-sensitive glyph condition identified**
 - Gate D — **Speeches 1–13 PASS / COMPLETE; Speech 13 = 32/32 pages / 31/31 transitions / 0 completeness corrections**
 - Gate E — **Speeches 1–13 PASS / COMPLETE / Tamil VERIFIED / 0 unresolved; Speech 13 = 32/32 / 8 entries / 9 occurrences**
 - Gate F — **Speeches 1–13 COMPLETE**
 - Gate G — **Speeches 1–13 PASS / COMPLETE / English VERIFIED; Speech 13 = 7 refinements / 0 blockers / 0 Tamil changes**
-- Gate H — **Speeches 1–12 PASS / COMPLETE — RELEASED / CLOSED; Speech 13 NOT STARTED / NOT RELEASED**
-- Speech 13 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E PASS-COMPLETE 32/32 / 8 entries / 9 occurrences / Tamil VERIFIED**
+- Gate H — **Speeches 1–13 PASS / COMPLETE — RELEASED / CLOSED; speeches 14–19 not started**
+- Speech 13 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED / RELEASED-CLOSED / 7 Gate-G refinements / 0 blockers / 0 Gate-H wording changes**
 
 ## Gate-H boundary / release check for Speeches 4–5
 
