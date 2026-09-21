@@ -76,7 +76,7 @@ Speech 12 spans **40 pages**, exceeding the normal 25-page activity allowance. I
 - scan 191 `மறுபவழி` — **CONFIRMED AS PRINTED from the same controlling scan at Gate D; wording unchanged**
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no historical-glyph condition requiring a separate pass**
 - Gate D — **PASS / COMPLETE — 40/40 pages; 39/39 internal transitions; 0 completeness corrections**
-- Gate E — **IN PROGRESS — scans 191–228 reviewed / 38 of 40 pages; 18 confirmed correction occurrences logged; corrections not yet batch-applied; scans 229–230 pending**
+- Gate E — **IN PROGRESS / VISUAL REVIEW COMPLETE — scans 191–230 reviewed / 40 of 40 pages; checkpoint ledger 23 correction entries / 28 occurrences; ledger not yet batch-applied; final adjudication/post-edit validation pending**
 - English / Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
@@ -93,17 +93,20 @@ Gate C preserves speaker interventions, source-printed English, numerals, source
 
 ## Gate E progress checkpoint
 
-Gate E has begun but is **not closed**.
+Gate E visual review is now **complete across all 40 pages**, but Gate E is **not yet closed**.
 
-- reviewed — **scans 191–228 / 38 of 40 pages**
-- pending — **scans 229–230**
-- checkpoint correction ledger — **18 confirmed correction occurrences**
-- ledger application — **deferred until full 40/40 Gate-E adjudication**
+- reviewed — **scans 191–230 / 40 of 40 pages**
+- pending visual scans — **none**
+- checkpoint correction ledger — **23 confirmed correction entries / 28 correction occurrences**
+- ledger application — **deferred pending final adjudication**
+- scan 229 — **0 new correction entries / 0 unresolved**
+- scan 230 — **4 new correction entries / 0 unresolved**
+- scan 204 late re-adjudication — **1 correction entry confirmed**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 
-Confirmed examples include `நிருவன → நிறுவன` (192), `பிரச்சினை → பிரச்சனை` (193), `ஒரோ → ஓஹோ` (194), two `என் 35 → எண் 35` corrections (199), `ஒய்வாக → ஓய்வாக` (206), two `அக்கவுண்டட் → அக்கெளண்டட்` corrections (210), `ஹிந்துஸ்தான் டைம்ஸ்` (217), `சோனல் கவுன்சில்` / `‘சதர்ன் சோன்’` (218), two `ஓ.பி. இராமன்` labels (219), and three scan-228 source-form corrections. Full ledger: `verification-log.md`.
+The complete checkpoint ledger is in `verification-log.md`. The transcript body has not yet been batch-edited, so this state must not be treated as Gate-E closure.
 
 ## Exact next activity
 
-Finish **Gate E for scans 229–230**, adjudicate the complete 40-page ledger, batch-apply all source-supported corrections to `transcript.md`, revalidate markers 191→230, and record final correction/unresolved totals. Only then may Tamil be marked VERIFIED. Do not begin English translation, Gate H or Speech 13 in the same activity.
+Finalize the complete 40-page Gate-E correction ledger, batch-apply all source-supported corrections to `transcript.md`, revalidate markers 191→230, and record final correction/unresolved totals. Only then may Tamil be marked VERIFIED. Do not begin English translation, Gate H or Speech 13 in the same activity.
