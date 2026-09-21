@@ -1,0 +1,91 @@
+{
+  "id": "1972-03-10-financial-statement-debate",
+  "date": "1972-03-10",
+  "printed_date": "10.3.1972",
+  "year": 1972,
+  "speaker_ta": "மு. கருணாநிதி",
+  "speaker_en": "M. Karunanidhi",
+  "title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் — உரை : 11",
+  "title_en": "Kalaignar's Legislative Assembly Speeches on the Financial Statement — Speech 11",
+  "event_ta": "நிதிநிலை அறிக்கை மீது உரை",
+  "event_en": "Speech on the financial statement",
+  "source": {
+    "anthology": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)",
+    "edition": "மே, 2007",
+    "full_pdf_filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf",
+    "full_pdf_page_count": 546,
+    "full_pdf_size_bytes": 393027493,
+    "full_pdf_sha256": "e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932",
+    "textual_authority": "rendered scan pixels",
+    "global_scan_pages": "152-190",
+    "printed_pages": "151-189",
+    "page_count": 39,
+    "printed_page_relation": "printed page = global scan - 1",
+    "start_boundary": "151->152 PASS",
+    "end_boundary": "190->191 PASS",
+    "splits": [
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_007_pages_151-175.pdf",
+        "sha256": "e6fc152ccc1953d829438fafb6bdcfe5865633033662924518366c05a844f906",
+        "size_bytes": 18066473,
+        "local_pages": "2-25",
+        "global_scans": "152-175",
+        "page_count": 24
+      },
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_008_pages_176-200.pdf",
+        "sha256": "a7e186a1f4f415410d462f39f50c75475a27ef3d1c386a8cf557ef39701dab47",
+        "size_bytes": 17513705,
+        "local_pages": "1-15",
+        "global_scans": "176-190",
+        "page_count": 15
+      }
+    ],
+    "coverage_complete": true,
+    "coverage_page_count": 39,
+    "outside_wording_imported": false
+  },
+  "execution": {
+    "normal_activity_page_limit": 25,
+    "whole_speech_exception_applied": true,
+    "reason": "Speech 11 is an intact 39-page source unit."
+  },
+  "transcription": {
+    "language": "Tamil",
+    "status": "transcribed",
+    "method": "manual first-pass transcription from rendered 2007 anthology pixels only",
+    "verified_against_scan": false,
+    "gate_c_status": "complete",
+    "completed_scan_pages": "152-190",
+    "completed_printed_pages": "151-189",
+    "completed_page_count": 39,
+    "total_page_count": 39,
+    "page_boundaries_marked": true,
+    "source_page_markers_checked_first_pass": true,
+    "marker_count": 39,
+    "marker_range": "152-190",
+    "unresolved_readings": [],
+    "unresolved_reading_count": 0,
+    "first_pass_note": "Scan 154 reading '200 கோடி ரூபாய்க்கு வரிபோட்டுத் தள்ளுகிறேன்' settled from enlarged source pixels; not a Gate-E verification claim.",
+    "historical_glyph_gate_status": "not-started",
+    "gate_d_status": "not-started",
+    "gate_e_status": "not-started",
+    "completeness_audit_passed": false,
+    "next_gate": "gate-c.5",
+    "outside_wording_imported": false
+  },
+  "translation": {
+    "language": "English",
+    "status": "not-started",
+    "verified_against_tamil": false,
+    "gate_f_status": "not-started",
+    "gate_g_status": "not-started"
+  },
+  "release": {
+    "status": "not-released",
+    "released": false,
+    "release_ready": false,
+    "indexed": false,
+    "gate_h_status": "not-started"
+  }
+}

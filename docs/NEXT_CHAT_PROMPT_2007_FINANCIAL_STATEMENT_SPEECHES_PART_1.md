@@ -1,58 +1,48 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 11 source-boundary + Gate-C setup
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 11 Gate C.5 + Gate D
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Durable release state
+Speeches **1–10 are RELEASED / CLOSED through Gate H**. Do not reopen them for stylistic polishing.
 
-Speeches **1–10 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English.
+## Speech 11 locked state
 
-Speech 10 / `29.6.71` final closure:
-
-- scans **117–151 / printed pp.116–150 / 35 pages**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate E — **26 corrections / 0 unresolved**
-- Gate F — **COMPLETE / 35/35**
-- Gate G — **PASS / COMPLETE / 21 refinements / 0 blockers / 0 Tamil changes**
-- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **PASS / COMPLETE**
-- canonical bilingual transcript — **COMPLETE**
-- release — **RELEASED / CLOSED**
-- Gate-H wording changes — **0 Tamil / 0 English**
-- independent parallel-witness relationship to `நமது விளக்கம்` — **PRESERVED / NO OVERWRITE**
-
-Do not reopen Speeches 1–10 merely for stylistic polishing.
-
-## Speech 11 locked anthology map
-
-- source label — `உரை : 11`
-- printed date — `10.3.1972`
-- ISO date — `1972-03-10`
+- source label/date — `உரை : 11 / 10.3.1972`
 - working ID — `1972-03-10-financial-statement-debate`
-- global scans — **152–190**
-- printed pages — **151–189**
-- page count — **39**
-- hard start boundary — **151→152**
-- hard end boundary — **190→191**
-- scan 151 — Speech 10 close / excluded
-- scan 152 — Speech 11 start
-- scan 190 — Speech 11 close
-- scan 191 — Speech 12 start / excluded
+- scans **152–190 / printed pp.151–189 / 39 pages**
+- hard boundaries — **151→152 PASS / 190→191 PASS**
+- part007 local **2–25** = scans **152–175 / 24 pages**, SHA-256 `e6fc152ccc1953d829438fafb6bdcfe5865633033662924518366c05a844f906`
+- part008 local **1–15** = scans **176–190 / 15 pages**, SHA-256 `a7e186a1f4f415410d462f39f50c75475a27ef3d1c386a8cf557ef39701dab47`
+- total coverage — **39/39**
 
-Stable relationship in this run: printed page = global scan page - 1.
+## Gate-C state
 
-## Whole-speech exception
+- Gate C — **COMPLETE / 39 of 39**
+- markers — **152→190 / exactly once / ordered / PASS**
+- first-pass unresolved — **0 explicitly flagged**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Gate C.5 — **NOT STARTED / NEXT**
+- Gate D/E — **NOT STARTED**
+- English / Gate F/G — **BLOCKED / NOT STARTED**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
+- outside-source wording imported — **0**
 
-Speech 11 is **39 pages**, exceeding the normal 25-page activity allowance. Process it separately as **one intact 39-page speech unit**. Do not split the speech merely to meet the allowance.
+The scan-154 first-pass reading `200 கோடி ரூபாய்க்கு வரிபோட்டுத் தள்ளுகிறேன்` was settled from enlarged source pixels and remains subject to Gate E.
+
+## Source authority
+
+Use only rendered pixels of the controlling 2007 anthology. Do not use OCR, web copies, Official Reports, alternate anthologies or another witness to supply or repair wording.
 
 ## Exact next activity
 
-1. re-confirm live-main source mapping and the **151→152 / 190→191** hard boundaries from the controlling anthology pixels;
-2. establish the controlling split coverage for scans **152–190** and record split hashes/page mapping;
-3. create/update the Speech-11 README, metadata, source notes and verification log;
-4. if source coverage is complete and boundaries pass, begin **Gate C first-pass Tamil transcription for all 39 pages / scans 152–190** as one intact unit;
-5. preserve source wording, punctuation, numerals, speaker interventions, source-printed English and source-visible repetition;
-6. mark genuine uncertainty rather than guessing;
-7. do not use OCR, web copies, Official Reports, alternate anthologies or another source witness to supply wording;
-8. after a complete 39/39 first pass, set Tamil **TRANSCRIBED / NOT VERIFIED**, `verified_against_scan=false`, and Gate C **COMPLETE**;
-9. synchronize the anthology control documents;
-10. do **not** begin Gate C.5, Gate D/E, English translation, Gate H, or Speech 12 in the same activity.
+1. decide **Gate C.5 applicability** for the modern 2007 typography;
+2. if **N/A / CLOSED**, record that decision without marking Tamil verified;
+3. perform **Gate D structural-completeness audit across all 39 pages / scans 152–190**;
+4. verify **39 markers** exactly once and monotonic, all **38 page transitions**, and hard boundaries **151→152 / 190→191**;
+5. confirm printed speaker changes/interventions, parenthetical reactions, figures, dates, source-printed English and source-visible repetitions are structurally represented;
+6. apply only source-supported completeness/structure corrections and record each one;
+7. keep Tamil **TRANSCRIBED / NOT VERIFIED** and `verified_against_scan=false` after Gate D;
+8. synchronize Speech-11 and anthology control documents;
+9. do **not** begin Gate E, English translation, Gate F/G/H, release work, or Speech 12.
+
+Expected continuation: **Speech 11 Gate E word-for-word Tamil verification — scans 152–190 / 39 pages**.

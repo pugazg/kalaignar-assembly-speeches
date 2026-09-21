@@ -549,17 +549,27 @@ Final state:
 - root / `data/speeches.json` — **SYNCHRONIZED**
 - independent `நமது விளக்கம்` parallel witness — **PRESERVED**
 
+## Speech 11 durable Gate-C state
+
+Working entry: `speeches/1972/1972-03-10-financial-statement-debate/`
+
+- source label/date — `உரை : 11 / 10.3.1972`
+- scans **152–190 / printed 151–189 / 39 pages**
+- hard boundaries — **151→152 PASS / 190→191 PASS**
+- part007 local **2–25** = scans **152–175 / 24 pages** — SHA-256 `e6fc152ccc1953d829438fafb6bdcfe5865633033662924518366c05a844f906`
+- part008 local **1–15** = scans **176–190 / 15 pages** — SHA-256 `a7e186a1f4f415410d462f39f50c75475a27ef3d1c386a8cf557ef39701dab47`
+- Gate C — **COMPLETE / 39 of 39**
+- markers — **152→190 / unique / ordered / PASS**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- first-pass unresolved — **0 explicitly flagged**
+- Gate C.5 — **NOT STARTED / NEXT**
+- Gate D/E — **NOT STARTED**
+- English / Gate F/G — **BLOCKED / NOT STARTED**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
+- outside wording imported — **0**
+
+Scan 154 `200 கோடி ரூபாய்க்கு வரிபோட்டுத் தள்ளுகிறேன்` was settled from enlarged controlling-source pixels during Gate C; it remains subject to Gate E.
+
 ## Exact next activity
 
-Begin **Speech 11 / 10.3.1972 source-boundary and Gate-C setup**.
-
-Locked anthology map:
-
-- global scans — **152–190**
-- printed pages — **151–189**
-- page count — **39**
-- hard start boundary — **151→152**
-- hard end boundary — **190→191**
-- working ID — `1972-03-10-financial-statement-debate`
-
-Because Speech 11 exceeds the normal 25-page activity allowance, process it separately as **one intact 39-page speech unit**. Do not begin Speech 12 in the same activity.
+Make the **Speech 11 Gate C.5 applicability decision**. If N/A/closed, perform **Gate D structural-completeness audit across scans 152–190 / 39 pages**. Do not begin Gate E, English translation, Gate H/release, or Speech 12.

@@ -373,6 +373,27 @@ Final state:
 - root / machine-readable indexes — **SYNCHRONIZED**
 - parallel witness to `நமது விளக்கம்` — **PRESERVED / NO OVERWRITE**
 
+## Speech 11 Gate-C state
+
+Working entry: [`../../speeches/1972/1972-03-10-financial-statement-debate/`](../../speeches/1972/1972-03-10-financial-statement-debate/)
+
+- source label/date — `உரை : 11 / 10.3.1972`
+- scans **152–190 / printed 151–189 / 39 pages**
+- hard boundaries — **151→152 PASS / 190→191 PASS**
+- split coverage — **24 + 15 = 39/39 pages**
+- Gate C — **COMPLETE / 39 of 39**
+- markers — **152→190 / 39 unique / ordered / PASS**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- first-pass unresolved readings — **0 explicitly flagged**
+- Gate C.5 — **NOT STARTED / NEXT**
+- Gate D/E — **NOT STARTED**
+- English / Gate F/G — **BLOCKED / NOT STARTED**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
+- outside wording imported — **0**
+
+Speech 11 was processed intact under the whole-speech exception. No OCR, web copy, Official Report, alternate anthology or other witness supplied wording.
+
 ## Exact next activity
 
-Begin **Speech 11 / 10.3.1972 source-boundary and Gate-C setup — scans 152–190 / printed pp.151–189 / 39 pages**. Because the speech exceeds 25 pages, process it as one intact speech under the whole-speech exception.
+Make the **Speech 11 Gate C.5 applicability decision**; if N/A/closed, perform **Gate D structural-completeness audit across scans 152–190 / 39 pages**. Do not begin Gate E, English work, Gate H/release, or Speech 12.
