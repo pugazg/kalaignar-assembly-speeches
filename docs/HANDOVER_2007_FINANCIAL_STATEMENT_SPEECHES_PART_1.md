@@ -93,9 +93,9 @@ Treat this 2007 anthology as its own witness.
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speeches 1–11 CLOSED through release; Speech 12 COMPLETE / 40 of 40 / Tamil TRANSCRIBED-NOT-VERIFIED; speeches 13–19 not started**
-- Gate C.5 — **CLOSED for Speeches 1–11; Speech 12 NOT STARTED**
-- Gate D — **PASS / COMPLETE for Speeches 1–11; Speech 12 NOT STARTED**
-- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–11; Speech 12 NOT STARTED**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–12 — modern 2007 typesetting; speeches 13–19 not started**
+- Gate D — **PASS / COMPLETE for Speeches 1–12; Speech 12 = 40/40 pages / 39/39 transitions / 0 completeness corrections**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–11; Speech 12 NOT STARTED / next**
 - Gate F — **COMPLETE for Speeches 1–11; Speech 12 NOT STARTED**
 - Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–11; Speech 12 NOT STARTED**
 - Gate H — **Speeches 1–11 PASS / COMPLETE — RELEASED / CLOSED; Speech 12 NOT STARTED**
@@ -571,7 +571,7 @@ Final state:
 - Gate-H wording changes — **0 Tamil / 0 English**
 - root / `data/speeches.json` — **SYNCHRONIZED**
 
-## Speech 12 durable Gate-C state
+## Speech 12 durable Gate-C / Gate-D state
 
 Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 
@@ -584,33 +584,45 @@ Controlling coverage:
 - part010 local 1–5 = scans 226–230 — **5 pages** — SHA-256 `257b862a7ebe21d768f8e5a2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90`
 - total — **40/40 COMPLETE**
 
-Gate-C state:
+Current state:
 
 - boundaries **190→191 / 230→231 — PASS**
 - source markers **191→230 — 40/40 / exactly once / ordered**
+- Gate C — **COMPLETE / 40 of 40**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no separate historical-glyph pass required**
+- Gate D — **PASS / COMPLETE / 40 of 40**
+- internal transitions — **39/39 PASS**
+- completeness corrections — **0**
+- missing pages / duplicate long blocks — **0 / 0**
+- unresolved readings after Gate D — **0**
+- scan 191 `மறுபவழி` — **confirmed as printed from the same controlling scan; wording unchanged**
+- speaker interventions / source-printed English / figures / quotations — **structurally complete**
+- source-visible scan-222 cinema-sentence repetition — **retained**
+- scan 228→229 poem continuation — **PASS**
+- scan 230 closing exchange and source close — **PASS**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- first-pass unresolved readings — **1**
-  - scan 191 — `மறுபவழி` — retained provisionally for same-scan verification
-- source-printed English / speaker interventions / numerals / visible repetition — retained at first-pass level
 - OCR / web / Official Reports / alternate anthology / released 1973 wording imported — **0**
 - whole-speech exception — **APPLIED / 40-page unit kept intact**
-- Gate C.5 / D / E / F / G / H — **NOT STARTED**
+- Gate E / F / G / H — **NOT STARTED**
 - release — **NOT RELEASED**
 - `data/speeches.json` — **unchanged intentionally while this parallel witness remains unreleased**
 - released `speeches/1973/1973-03-07-financial-statement-reply/` — **UNCHANGED**
 
+Gate D was a completeness/structure audit only and changed **0 Tamil words**. It is not a word-for-word verification claim.
+
 ## Exact next activity
 
-Perform **Speech 12 Gate C.5 applicability determination + Gate D completeness/structure audit for all scans 191–230**.
+Perform **Speech 12 Gate E strict page-by-page Tamil source-fidelity verification for all scans 191–230 / 40 pages**.
 
 Requirements:
 
-1. use only the controlling anthology pixels and the Gate-C working transcript;
+1. use only the controlling anthology pixels and the Gate-C/Gate-D working transcript;
 2. keep the independent parallel-witness/no-overwrite rule active;
-3. determine whether Gate C.5 is applicable for this modern 2007 typesetting and record the result;
-4. audit all 40 source markers, both hard boundaries, all 39 internal transitions, speaker interventions, source-printed English, figures, quotations and source-visible repetition for completeness;
-5. Gate D is structural/completeness review only — do not claim word-for-word verification;
-6. retain/flag genuine uncertainty rather than using the released 1973 witness to resolve it;
-7. synchronize anthology controls after Gate D;
-8. do **not** begin Gate E, English translation, Gate H or Speech 13 in the same activity.
+3. re-read every page word-for-word, including punctuation, numerals, speaker labels, source-printed English and visible repetition;
+4. record every before → after source-fidelity correction with scan number;
+5. retain genuine uncertainty rather than importing wording from the released 1973 witness or any other source;
+6. after all **40/40** pages are checked, record the correction count and unresolved-reading count;
+7. set Tamil `verified_against_scan=true` only if the complete Gate-E audit supports it;
+8. synchronize anthology controls after Gate E;
+9. do **not** begin English translation, Gate H or Speech 13 in the same activity.
