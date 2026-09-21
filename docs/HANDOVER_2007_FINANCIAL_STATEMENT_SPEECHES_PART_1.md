@@ -618,50 +618,56 @@ Parallel-witness/index treatment:
 - root dated speech table — **UNCHANGED INTENTIONALLY**
 - reason — the repository's dated machine-readable index currently has one canonical entry per date; a second `1973-03-07` entry was not created. The released anthology witness remains discoverable through the anthology package and repository status sections.
 
-## Speech 13 durable Gate-E closure
+## Speech 13 durable Gate-F state
 
 Canonical working entry:
 
 `speeches/1974/1974-03-14-financial-statement-debate/`
 
-Locked unit:
+Locked source unit:
 
 - `உரை : 13 / 14.03.1974`
 - scans **231–262 / printed pp.230–261 / 32 pages**
-- boundaries **230→231 / 262→263 — PASS**
+- hard boundaries **230→231 / 262→263 — PASS**
 
-Final Tamil state:
+Final Tamil:
 
-- Gate C — **COMPLETE / 32 of 32**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 32 of 32 / 31 of 31 transitions / 0 completeness corrections**
+- Gates C–E — **COMPLETE**
 - Gate E — **PASS / COMPLETE / 32 of 32**
-- Gate-E correction ledger — **8 entries / 9 occurrences**
+- Gate-E corrections — **8 entries / 9 occurrences**
 - unresolved readings — **0**
-- Tamil — **VERIFIED**
-- `verified_against_scan=true`
-- source-page markers — **231→262 / exactly once / ordered**
-- closing scan 262 — **`இந்த அவையில் அமைகிறேன். வணக்கம்.` / source ornament confirmed**
+- Tamil — **VERIFIED / verified_against_scan=true**
 
-Final Gate-E corrections:
+Gate F English:
 
-- scan 238 — `பின்னாக்கு` → `பிண்ணாக்கு`
-- scan 238 — `ரெசினால்` → `எஃகினால்`
-- scan 247 — `எடுத்துக் கொள்ளப்பட்டது` → `எடுத்துக் கொள்ளப்பட்டவை` ×2
-- scan 251 — `மாநிலஅரசு` → `மாநில அரசு`
-- scan 252 — `இண்டஸ்ட்ரியல் பாலிசி ரெசல்யூஷன்` → `இண்டஸ்ட்ரியல் பாலிசிரெசல்யூஷன்`
-- scan 256 — `போடப்போகிறார்கள்` → `போட்டுப்போகிறார்கள்`
-- scan 256 — `ஏற்படுத்தியுடன்` → `ஏற்படுத்தியவுடன்`
-- scan 262 — `இந்த அளவில் அமைக்கிறேன்` → `இந்த அவையில் அமைகிறேன்`
+- status — **COMPLETE / 32 of 32**
+- translation authority — **verified Tamil only**
+- English source-page sections — **231→262 / complete / ordered**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / other-witness wording imported — **0**
+- source-printed English preserved verbatim — **YES**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- working file — `translation.md`
+- review record — `translation-review.md`
 
-No OCR, web copy, Official Reports, alternate anthology, released speech or other witness supplied wording. Speech 12 remains unchanged; Speech 14 was not begun.
+Conservative source-bound transliterations retained for Gate-G review include `nalangu`, `kezhvai`, `podi`, `arishtams` and `kavalar`.
 
-Downstream state:
+Downstream:
 
-- Gate F / English — **NOT STARTED / next**
-- Gate G — **NOT STARTED**
+- Gate G — **NOT STARTED / next**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
+- Speech 14 — **NOT STARTED**
 
-## Exact next activity — Speech 13 Gate F
+## Exact next activity — Speech 13 Gate G
 
-Begin English translation from the **final Gate-E-verified Tamil only**. Preserve source-page sequence and speaker/intervention structure. Do not change verified Tamil. Do not begin Gate G, Gate H or Speech 14 in the same activity.
+Review **all 32 English source-page sections, 231–262**, directly against the corresponding Gate-E-verified Tamil.
+
+- correct English fidelity and page-boundary alignment only;
+- preserve source-printed English verbatim;
+- keep verified Tamil unchanged;
+- log every English refinement;
+- record blockers explicitly, if any;
+- set `verified_against_tamil=true` only after 32/32 pages pass;
+- do not begin Gate H or Speech 14 in the same activity.
