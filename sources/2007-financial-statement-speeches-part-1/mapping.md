@@ -122,14 +122,14 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–12 COMPLETE and RELEASED/CLOSED through downstream gates; Speech 13 source-boundary/Gate-C setup PASS/COMPLETE but Tamil and Gate C NOT STARTED; speeches 14–19 not started**
+- Gate C — **Speeches 1–12 COMPLETE and RELEASED/CLOSED through downstream gates; Speech 13 COMPLETE / 32 of 32 / Tamil TRANSCRIBED-NOT-VERIFIED; speeches 14–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–12 — modern 2007 typesetting; Speech 13 NOT STARTED**
 - Gate D — **Speeches 1–12 PASS / COMPLETE; Speech 13 NOT STARTED**
 - Gate E — **Speeches 1–12 PASS / COMPLETE / Tamil VERIFIED / 0 unresolved; Speech 13 NOT STARTED**
 - Gate F — **Speeches 1–12 COMPLETE; Speech 13 BLOCKED / NOT STARTED**
 - Gate G — **Speeches 1–12 PASS / COMPLETE / English VERIFIED; Speech 13 NOT STARTED**
 - Gate H — **Speeches 1–12 PASS / COMPLETE — RELEASED / CLOSED; Speech 13 NOT STARTED / NOT RELEASED**
-- Speech 13 setup — **PASS / COMPLETE / scans 231–262 / 32 pages / whole-speech exception locked**
+- Speech 13 — **Gate C COMPLETE / 32 of 32 / markers 231→262 ordered / Tamil TRANSCRIBED-NOT-VERIFIED / whole-speech exception applied**
 
 ## Gate-H boundary / release check for Speeches 4–5
 
@@ -284,18 +284,21 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - same-date index policy — **no duplicate canonical 1973-03-07 entry created**
 - release — **RELEASED / CLOSED**
 
-## Speech 13 source-boundary / Gate-C setup
+## Speech 13 Gate-C completion
 
 - working entry — `speeches/1974/1974-03-14-financial-statement-debate/`
 - scans **231–262 / printed pp.230–261 / 32 pages**
 - boundaries **230→231 / 262→263 — PASS**
 - controlling coverage — **part010 local 6–25 = 20 pages; part011 local 1–12 = 12 pages; total 32/32**
-- whole-speech exception — **REQUIRED / intact 32-page unit**
-- Tamil / Gate C — **NOT STARTED**
+- whole-speech exception — **APPLIED / intact 32-page unit**
+- Gate C — **COMPLETE / 32 of 32**
+- source-page markers — **231→262 / exactly once / ordered**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- unresolved first-pass readings — **0 currently flagged**
 - outside/released-witness wording imported — **0**
 - Speech 12 — **unchanged**
 - Speech 14 — **not begun**
 
 ## Exact continuation
 
-Perform **Speech 13 Gate C Tamil first-pass transcription — scans 231–262 / printed pp.230–261 / 32 pages** from the controlling anthology pixels only. Do not begin Gate C.5, Gate D, English work, or Speech 14 in that activity.
+Determine **Gate C.5 applicability**, then perform **Speech 13 Gate D completeness/structure audit — scans 231–262 / 32 pages**. Do not begin Gate E, English work, Gate H or Speech 14 in that activity.
