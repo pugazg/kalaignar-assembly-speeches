@@ -246,11 +246,11 @@
     "language": "English",
     "status": "not-started",
     "type": "faithful reading translation",
-    "source_text": null,
+    "source_text": "Gate-E-verified Tamil in transcript.md",
     "verified_against_tamil": false,
     "gate_f_status": "not-started",
     "gate_g_status": "not-started",
-    "next_gate": "blocked-until-tamil-verified",
+    "next_gate": "Gate F English translation",
     "external_witness_translation_imported": false
   },
   "release": {
