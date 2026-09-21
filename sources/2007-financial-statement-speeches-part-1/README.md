@@ -392,7 +392,7 @@ Final state:
 - Gate-H wording changes — **0 Tamil / 0 English**
 - root / machine-readable indexes — **SYNCHRONIZED**
 
-## Speech 12 durable Gate-C / Gate-D state
+## Speech 12 durable Gate-C / Gate-D / Gate-E-progress state
 
 Working entry: [`../../speeches/1973/1973-03-07-financial-statement-debate/`](../../speeches/1973/1973-03-07-financial-statement-debate/)
 
@@ -402,25 +402,26 @@ Locked unit: **191–230 / printed 190–229 / 40 pages**.
 - hard boundaries **190→191 / 230→231 — PASS**
 - Gate C — **COMPLETE / 40 of 40**
 - source markers — **191→230 exactly once and in order**
-- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no separate historical-glyph pass required**
-- Gate D — **PASS / COMPLETE — 40/40 pages; 39/39 internal transitions; 0 completeness corrections**
-- missing pages / duplicate long blocks — **0 / 0**
-- unresolved readings after Gate D — **0**
-- scan 191 `மறுபவழி` — **confirmed as printed from the same controlling scan; transcript wording unchanged**
-- speaker interventions / source-printed English / figures / quotations — **structurally complete**
-- scan 222 source-visible repetition — **retained**
-- scan 228→229 poem continuation — **PASS**
-- scan 230 closing exchange / source close — **PASS**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
+- Gate D — **PASS / COMPLETE — 40/40 pages; 39/39 transitions; 0 completeness corrections**
+- Gate E — **IN PROGRESS**
+- Gate-E reviewed — **scans 191–228 / 38 of 40 pages**
+- Gate-E pending — **scans 229–230 / 2 pages**
+- checkpoint correction ledger — **18 confirmed correction occurrences**
+- correction batch application to `transcript.md` — **DEFERRED until full 40/40 adjudication**
+- final Gate-E correction / unresolved totals — **NOT YET FINAL**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
+- scan 222 source-visible repetition — **confirmed / retained**
+- scan 228→229 poem continuation — **preserved; scan 229 still pending final Gate-E adjudication**
 - released `1973-03-07-financial-statement-reply` — **UNCHANGED**
 - parallel-witness / no-overwrite / no-normalization rule — **PRESERVED**
-- Gate E / English / H — **NOT STARTED**
+- English / Gate F / G / H — **NOT STARTED**
 
-No OCR, web copy, Official Report, released 1973 wording, alternate anthology or another witness supplied Gate-C or Gate-D wording. Gate D is structural only and does not constitute word-for-word verification.
+Checkpoint examples: `நிருவன → நிறுவன` (192), `பிரச்சினை → பிரச்சனை` (193), `ஓஹோ` (194), `எண் 35` ×2 (199), `ஓய்வாக` (206), `அக்கெளண்டட்` ×2 (210), `கருதத் தேவையில்லை` (211), `பிரச்சனை` ×3 (212), `ஹிந்துஸ்தான் டைம்ஸ்` (217), `சோனல் கவுன்சில்` / `‘சதர்ன் சோன்’` (218), `ஓ.பி. இராமன்` ×2 (219), and three scan-228 source-form corrections. Full checkpoint ledger: the Speech 12 verification log.
+
+No OCR, web copy, Official Report, released 1973 wording, alternate anthology or another witness supplied Gate-E wording.
 
 ## Exact next activity
 
-Perform **Speech 12 Gate E strict page-by-page Tamil source-fidelity verification across scans 191–230 / 40 pages**.
-
-Use only the controlling anthology pixels, record every source-fidelity correction and unresolved reading, and keep Tamil **NOT VERIFIED** until the complete 40/40 Gate-E audit supports verification. Do not begin English translation, Gate H or Speech 13 in the same activity.
+Finish **Speech 12 Gate E for scans 229–230**, finalize and batch-apply the complete 40-page correction ledger, revalidate all 40 source markers, and record final correction/unresolved totals. Only after that may Tamil be marked VERIFIED. Do not begin English translation, Gate H or Speech 13 in the same activity.
