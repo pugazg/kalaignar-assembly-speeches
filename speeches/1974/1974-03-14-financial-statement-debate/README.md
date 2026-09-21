@@ -69,10 +69,10 @@ Speech 13 spans **32 pages**, exceeding the normal 25-page activity allowance. T
 - completeness corrections — **0**
 - missing pages — **0**
 - duplicate long blocks — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate-E ledger — **3 correction entries / 4 correction occurrences / 0 unresolved readings in scans 231–250**
-- Gate E — **IN PROGRESS / scans 231–250 verified / 20 of 32 pages**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- Gate-E ledger — **8 correction entries / 9 correction occurrences / 0 unresolved readings**
+- Gate E — **PASS / COMPLETE / scans 231–262 / 32 of 32 pages**
 - English / Gate F / Gate G — **BLOCKED / NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - source wording imported from outside witnesses — **none**
@@ -83,11 +83,11 @@ Gate D checked structural completeness, page continuations, speaker changes/inte
 
 ## Files
 
-- `transcript.md` — first-pass Tamil plus Gate-E corrections through scan 250
-- `metadata.json` — machine-readable Gate C.5 / Gate D / partial Gate-E state
+- `transcript.md` — Gate-E-verified Tamil, scans 231–262
+- `metadata.json` — machine-readable Gates C–E final Tamil state
 - `source-notes.md` — source authority and audit constraints
-- `verification-log.md` — detailed Gate C.5 / Gate D result plus Gate-E correction ledger
+- `verification-log.md` — detailed Gate C.5 / Gate D result plus final Gate-E correction ledger
 
 ## Exact next activity
 
-Continue **Speech 13 Gate E word-for-word source-fidelity verification — next 10 pages, scans 251–260 / printed pp.250–259**. Keep cumulative Gate-E state from scans 231–250. Do not begin English work, Gate H, or Speech 14.
+Begin **Speech 13 Gate F English translation** from the final Gate-E-verified Tamil only. Do not alter verified Tamil, do not begin Gate G or Gate H, and do not begin Speech 14 in the same activity.
