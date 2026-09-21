@@ -129,7 +129,7 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate F — **Speeches 1–12 COMPLETE; Speech 13 BLOCKED / NOT STARTED**
 - Gate G — **Speeches 1–12 PASS / COMPLETE / English VERIFIED; Speech 13 NOT STARTED**
 - Gate H — **Speeches 1–12 PASS / COMPLETE — RELEASED / CLOSED; Speech 13 NOT STARTED / NOT RELEASED**
-- Speech 13 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E IN PROGRESS 231–240 = 10/32 / 2 entries / 2 occurrences / Tamil NOT VERIFIED**
+- Speech 13 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E IN PROGRESS 231–250 = 20/32 / 3 entries / 4 occurrences / Tamil NOT VERIFIED**
 
 ## Gate-H boundary / release check for Speeches 4–5
 
@@ -284,17 +284,18 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - same-date index policy — **no duplicate canonical 1973-03-07 entry created**
 - release — **RELEASED / CLOSED**
 
-## Speech 13 Gate E — Batch 1
+## Speech 13 Gate E — Batches 1–2
 
 - working entry — `speeches/1974/1974-03-14-financial-statement-debate/`
 - full unit — **scans 231–262 / 32 pages**
 - Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E verified range — **231–240 / 10 pages**
-- cumulative Gate-E corrections — **2 entries / 2 occurrences**
+- Gate E verified range — **231–250 / 20 pages**
+- cumulative Gate-E corrections — **3 entries / 4 occurrences**
 - scan 238 — `பின்னாக்கு` → `பிண்ணாக்கு`
 - scan 238 — `ரெசினால்` → `எஃகினால்`
+- scan 247 — `எடுத்துக் கொள்ளப்பட்டது` → `எடுத்துக் கொள்ளப்பட்டவை` ×2
 - unresolved readings in checked range — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - outside wording imported — **0**
@@ -303,4 +304,4 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 
 ## Exact continuation
 
-Continue **Speech 13 Gate E — scans 241–250 / printed pp.240–249 / next 10 pages**. Do not begin English work, Gate H or Speech 14.
+Continue **Speech 13 Gate E — scans 251–260 / printed pp.250–259 / next 10 pages**. Do not begin English work, Gate H or Speech 14.
