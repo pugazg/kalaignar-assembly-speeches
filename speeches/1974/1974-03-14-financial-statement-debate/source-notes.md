@@ -113,22 +113,29 @@ The controlling source is modern May-2007 anthology typesetting. A visual review
 
 Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`. Gate D does not perform word-for-word fidelity verification.
 
-## Gate E source-fidelity verification — Batches 1–2
+## Gate E source-fidelity verification — COMPLETE
 
-**IN PROGRESS — scans 231–250 / 20 of 32 pages verified.**
+**PASS / COMPLETE — scans 231–262 / 32 of 32 pages verified.**
 
-Corrections applied from the controlling pixels:
+Final correction ledger:
 
 | Scan | Printed page | Before | After | Occurrences |
 |---:|---:|---|---|---:|
 | 238 | 237 | `பின்னாக்கு` | `பிண்ணாக்கு` | 1 |
 | 238 | 237 | `ரெசினால்` | `எஃகினால்` | 1 |
 | 247 | 246 | `எடுத்துக் கொள்ளப்பட்டது` | `எடுத்துக் கொள்ளப்பட்டவை` | 2 |
+| 251 | 250 | `மாநிலஅரசு` | `மாநில அரசு` | 1 |
+| 252 | 251 | `இண்டஸ்ட்ரியல் பாலிசி ரெசல்யூஷன்` | `இண்டஸ்ட்ரியல் பாலிசிரெசல்யூஷன்` | 1 |
+| 256 | 255 | `போடப்போகிறார்கள்` | `போட்டுப்போகிறார்கள்` | 1 |
+| 256 | 255 | `ஏற்படுத்தியுடன்` | `ஏற்படுத்தியவுடன்` | 1 |
+| 262 | 261 | `இந்த அளவில் அமைக்கிறேன்` | `இந்த அவையில் அமைகிறேன்` | 1 |
 
-Cumulative Gate-E ledger: **3 correction entries / 4 occurrences / 0 unresolved readings in the checked range**.
+Final Gate-E ledger: **8 correction entries / 9 occurrences / 0 unresolved readings**.
 
-Tamil remains **NOT VERIFIED** with `verified_against_scan=false` until all **32/32** pages are verified. No OCR, web copy, Official Report, alternate anthology or other witness supplied any correction.
+Tamil is **VERIFIED / `verified_against_scan=true`**. The closing scan 262 ends with `இந்த அவையில் அமைகிறேன். வணக்கம்.` and the source ornament.
+
+No OCR, web copy, Official Report, alternate anthology, released speech or other witness supplied any correction. The controlling 2007 anthology pixels remain the sole textual authority.
 
 ## Exact next
 
-Continue **Gate E scans 251–260 / printed pp.250–259 / next 10 pages** from the same controlling anthology pixels. Preserve the cumulative ledger and do not begin English work or Speech 14.
+Begin **Gate F English translation** from the final Gate-E-verified Tamil only. Do not change verified Tamil, begin Gate G/Gate H, or start Speech 14 in the same activity.
