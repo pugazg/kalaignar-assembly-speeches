@@ -87,28 +87,34 @@ The former first-pass uncertainty at scan **191**, `மறுபவழி`, was 
 ## Current gate state
 
 - Gate C — **COMPLETE / 40/40**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 40/40 / 0 completeness corrections**
-- unresolved readings after Gate D — **0**
-- Gate E — **IN PROGRESS / VISUAL REVIEW COMPLETE — scans 191–230 reviewed / 40 of 40; checkpoint ledger 23 correction entries / 28 occurrences; transcript batch application pending**
-- English — **NOT STARTED**
+- Gate E — **PASS / COMPLETE / 40/40**
+- Gate-E correction ledger — **25 entries / 30 occurrences**
+- unresolved readings — **0**
+- English / Gate F — **NOT STARTED / next**
 - Gate H — **NOT STARTED**
 
+## Gate E final source-fidelity result
 
-## Gate E progress checkpoint
+Strict visual source-fidelity review was completed for **scans 191–230 / 40 of 40 pages** using only the controlling anthology pixels.
 
-Strict visual source-fidelity review has now been completed for **scans 191–230 / 40 of 40 pages** using only the controlling anthology pixels.
+- correction entries — **25**
+- correction occurrences — **30**
+- affected scans — **16**
+- unresolved readings — **0**
+- transcript corrections batch-applied — **YES**
+- post-edit source markers — **40 / 191→230 / exactly once / ordered**
+- scan 222 source-visible repeated cinema sentence — **retained twice**
+- scan 228→229 poem continuation — **confirmed / preserved**
+- scan 230 final exchange, `வணக்கம்.` and ornament — **confirmed**
+- released `1973-03-07-financial-statement-reply` — **not used for wording / unchanged**
+- outside wording imported — **0**
 
-- pending visual scans — **none**
-- checkpoint correction ledger — **23 correction entries / 28 correction occurrences**
-- corrections batch-applied to `transcript.md` — **0**
-- final Gate-E correction count — **not yet sealed**
-- final unresolved-reading count — **not yet sealed**
-- Tamil verification — **NOT YET CLAIMED**
-- `verified_against_scan=false`
+The final adjudication added two speaker-label punctuation corrections on scans **229** and **230** beyond the earlier checkpoint ledger. Full before→after details are recorded in `verification-log.md` and `metadata.json`.
 
-Scan 229 produced **0 new correction entries / 0 unresolved readings** and confirmed the scan-228→229 poem continuation. Scan 230 produced **4 new correction entries / 0 unresolved readings** and confirmed the final close. A high-resolution re-adjudication of scan 204 also confirmed one additional punctuation/quotation correction. Full checkpoint details are in `verification-log.md`.
+## Exact next activity
 
-No wording from the released 1973 parallel witness or any outside source was used. The correction ledger remains intentionally held for one batch application after final adjudication.
+Begin **Gate F English translation** from the verified anthology Tamil only. Do not begin Gate G/H or Speech 13 in the same activity.
