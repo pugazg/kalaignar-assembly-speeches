@@ -98,7 +98,7 @@
     "preserve_speaker_labels_and_interventions": true,
     "preserve_printed_english": true,
     "page_boundaries_marked": true,
-    "status": "transcribed-not-verified",
+    "status": "verified",
     "gate_c_status": "complete",
     "completed_scan_pages": "117-151",
     "completed_printed_pages": "116-150",
@@ -107,11 +107,11 @@
     "source_page_markers_checked_first_pass": true,
     "unresolved_readings": [],
     "completeness_audit_passed": true,
-    "verified_against_scan": false,
+    "verified_against_scan": true,
     "historical_glyph_gate_status": "n/a-closed",
     "gate_d_status": "pass-complete",
-    "gate_e_status": "not-started",
-    "next_gate": "gate-e",
+    "gate_e_status": "pass-complete",
+    "next_gate": "gate-f",
     "outside_wording_imported": false,
     "first_pass_unresolved_count": 0,
     "first_pass_reconciliation": {
@@ -184,17 +184,158 @@
       ],
       "verified_against_scan": false,
       "word_for_word_verification_claim": false
+    },
+    "gate_e": {
+      "status": "pass-complete",
+      "verified_scan_pages": "117-151",
+      "verified_printed_pages": "116-150",
+      "verified_page_count": 35,
+      "source_fidelity_correction_count": 26,
+      "unresolved_reading_count": 0,
+      "corrections": [
+        {
+          "scan": 119,
+          "before": "பொருளாதார மெய்யாம்",
+          "after": "பொருளாதார மெல்லாம்"
+        },
+        {
+          "scan": 120,
+          "before": "பல்வேறு கட்டிடங்கள்",
+          "after": "பலவேறு கட்டிடங்கள்"
+        },
+        {
+          "scan": 120,
+          "before": "பல்வேறு வசதிகளை",
+          "after": "பலவேறு வசதிகளை"
+        },
+        {
+          "scan": 120,
+          "before": "தஞ்சாவூர்க்காரர்",
+          "after": "தஞ்சாவூர்காரர்"
+        },
+        {
+          "scan": 120,
+          "before": "என்ன என்று கேட்ட நேரத்தில்",
+          "after": "என்ன, என்று கேட்ட நேரத்தில்"
+        },
+        {
+          "scan": 121,
+          "before": "தாரதிட்டம்",
+          "after": "தாரத்திட்டம்"
+        },
+        {
+          "scan": 122,
+          "before": "வேலையாய்ப்பிற்காக",
+          "after": "வேலைவாய்ப்பிற்காக"
+        },
+        {
+          "scan": 132,
+          "before": "பல்வேறு கருத்துகள் இருக்கின்றன",
+          "after": "பலவேறு கருத்துக்கள் இருக்கின்றன"
+        },
+        {
+          "scan": 132,
+          "before": "எழுதி கொண்டிருக்கிறார்கள்",
+          "after": "எழுதிக் கொண்டிருக்கிறார்கள்"
+        },
+        {
+          "scan": 136,
+          "before": "இன்றைக்கு தமிழ்நாடு",
+          "after": "இன்றைக்குத் தமிழ்நாடு"
+        },
+        {
+          "scan": 137,
+          "before": "பல்வேறு நாடுகளிலும்",
+          "after": "பலவேறு நாடுகளிலும்"
+        },
+        {
+          "scan": 137,
+          "before": "பல்வேறு நாட்டு மக்களாலும்",
+          "after": "பலவேறு நாட்டு மக்களாலும்"
+        },
+        {
+          "scan": 137,
+          "before": "பல்வேறு நாட்டு அரசுகளாலும்",
+          "after": "பலவேறு நாட்டு அரசுகளாலும்"
+        },
+        {
+          "scan": 137,
+          "before": "பதினான்கு ஆண்டுகாலம்",
+          "after": "பதினான்கு ஆண்டுக்காலம்"
+        },
+        {
+          "scan": 139,
+          "before": "பல்வேறு ஆராய்ச்சிகள்",
+          "after": "பலவேறு ஆராய்ச்சிகள்"
+        },
+        {
+          "scan": 139,
+          "before": "சில சிபாரிசுகளைச் கூறியது",
+          "after": "சில சிபாரிசுகளைக் கூறியது"
+        },
+        {
+          "scan": 140,
+          "before": "நாவடங்கும் மதுவிலக்கைக் கொண்டுவரவேண்டும்",
+          "after": "நாடெங்கும் மதுவிலக்கைக் கொண்டுவரவேண்டும்"
+        },
+        {
+          "scan": 141,
+          "before": "1963ஆம் ஆண்டு மதுவிலக்குக் கொள்கை",
+          "after": "1963-ஆம் ஆண்டு மதுவிலக்குக் கொள்கை"
+        },
+        {
+          "scan": 142,
+          "before": "பல்வேறு ராஜ்ய முதல்வர்கள்",
+          "after": "பலவேறு ராஜ்ய முதல்வர்கள்"
+        },
+        {
+          "scan": 143,
+          "before": "கவரவப் பிரச்சினையாகக் கருதி",
+          "after": "கவரவப் பிரச்சனையாகக் கருதி"
+        },
+        {
+          "scan": 144,
+          "before": "குன்ஹா நகர அகில இந்தியக் காங்கிரஸ்",
+          "after": "குன்ஹா நகர் அகில இந்தியக் காங்கிரஸ்"
+        },
+        {
+          "scan": 145,
+          "before": "தொழிலமைச்சர்களுக்கு",
+          "after": "தொழிலமைச்சரவர்களுக்கு"
+        },
+        {
+          "scan": 147,
+          "before": "அண்ணாவிற்கு மதிப்பளிக்கவில்லை.",
+          "after": "அண்ணாவிற்கு மதிப்பளிக்க வில்லை."
+        },
+        {
+          "scan": 149,
+          "before": "தமிழரசுக் கழகத்தின் சார்பிலே சொல்லப்பட்டதும் முன்னேற்றக் கழகத்தை எதிர்க்க வேண்டுமென்று சொல்லப்பட்ட கருத்தா? அல்ல.",
+          "after": "தமிழரசுக் கழகத்தின் சார்பிலே சொல்லப்பட்டதும் முன்னேற்றக் கழகத்தை எதிர்க்க வேண்டுமென்று சொல்லப்பட்ட கருத்தா?"
+        },
+        {
+          "scan": 149,
+          "before": "இராணுவத்திற்குக் அளித்தாகவேண்டும்",
+          "after": "இராணுவத்திற்கு அளித்தாகவேண்டும்"
+        },
+        {
+          "scan": 150,
+          "before": "113 பேர் மருத்துவமனையில்",
+          "after": "113பேர் மருத்துவமனையில்"
+        }
+      ],
+      "outside_wording_imported": false
     }
   },
   "translation": {
     "language": "English",
     "status": "not-started",
     "type": "faithful reading translation",
-    "source_text": null,
+    "source_text": "Gate-E-verified Tamil in transcript.md",
     "verified_against_tamil": false,
     "gate_f_status": "not-started",
     "gate_g_status": "not-started",
-    "next_gate": "blocked-until-tamil-verified",
+    "next_gate": "gate-f-ready",
     "external_witness_translation_imported": false
   },
   "release": {

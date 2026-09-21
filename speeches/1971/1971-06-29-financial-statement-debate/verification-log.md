@@ -131,17 +131,75 @@ Tamil remains **TRANSCRIBED / NOT VERIFIED**.
 
 No other Tamil wording changed. The earlier Gate-C reconciliation note for **136–138** is superseded by this correction record.
 
-## Gate status after Gate D
+## Gate E word-for-word Tamil scan verification
 
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
+**Status: PASS / COMPLETE — 35/35 pages**
+
+### Verification scope
+
+- global scans — **117–151**
+- printed pages — **116–150**
+- source authority — **rendered pixels of the controlling 2007 anthology splits**
+- markers — **117→151 / 35 unique ordered / PASS**
+- hard boundaries — **116→117 / 151→152 — PASS**
+- Gate-D structural boundaries **136→137 / 137→138** — **rechecked / PASS**
+- source-fidelity corrections — **26**
+- affected scans — **17**
+- unresolved readings — **0**
+- outside-witness wording imported — **0**
+
+### Correction ledger
+
+1. scan 119 — `பொருளாதார மெய்யாம்` → `பொருளாதார மெல்லாம்`
+2. scan 120 — `பல்வேறு கட்டிடங்கள்` → `பலவேறு கட்டிடங்கள்`
+3. scan 120 — `பல்வேறு வசதிகளை` → `பலவேறு வசதிகளை`
+4. scan 120 — `தஞ்சாவூர்க்காரர்` → `தஞ்சாவூர்காரர்`
+5. scan 120 — `என்ன என்று கேட்ட நேரத்தில்` → `என்ன, என்று கேட்ட நேரத்தில்`
+6. scan 121 — `தாரதிட்டம்` → `தாரத்திட்டம்`
+7. scan 122 — `வேலையாய்ப்பிற்காக` → `வேலைவாய்ப்பிற்காக`
+8. scan 132 — `பல்வேறு கருத்துகள் இருக்கின்றன` → `பலவேறு கருத்துக்கள் இருக்கின்றன`
+9. scan 132 — `எழுதி கொண்டிருக்கிறார்கள்` → `எழுதிக் கொண்டிருக்கிறார்கள்`
+10. scan 136 — `இன்றைக்கு தமிழ்நாடு` → `இன்றைக்குத் தமிழ்நாடு`
+11. scan 137 — `பல்வேறு நாடுகளிலும்` → `பலவேறு நாடுகளிலும்`
+12. scan 137 — `பல்வேறு நாட்டு மக்களாலும்` → `பலவேறு நாட்டு மக்களாலும்`
+13. scan 137 — `பல்வேறு நாட்டு அரசுகளாலும்` → `பலவேறு நாட்டு அரசுகளாலும்`
+14. scan 137 — `பதினான்கு ஆண்டுகாலம்` → `பதினான்கு ஆண்டுக்காலம்`
+15. scan 139 — `பல்வேறு ஆராய்ச்சிகள்` → `பலவேறு ஆராய்ச்சிகள்`
+16. scan 139 — `சில சிபாரிசுகளைச் கூறியது` → `சில சிபாரிசுகளைக் கூறியது`
+17. scan 140 — `நாவடங்கும் மதுவிலக்கைக் கொண்டுவரவேண்டும்` → `நாடெங்கும் மதுவிலக்கைக் கொண்டுவரவேண்டும்`
+18. scan 141 — `1963ஆம் ஆண்டு மதுவிலக்குக் கொள்கை` → `1963-ஆம் ஆண்டு மதுவிலக்குக் கொள்கை`
+19. scan 142 — `பல்வேறு ராஜ்ய முதல்வர்கள்` → `பலவேறு ராஜ்ய முதல்வர்கள்`
+20. scan 143 — `கவரவப் பிரச்சினையாகக் கருதி` → `கவரவப் பிரச்சனையாகக் கருதி`
+21. scan 144 — `குன்ஹா நகர அகில இந்தியக் காங்கிரஸ்` → `குன்ஹா நகர் அகில இந்தியக் காங்கிரஸ்`
+22. scan 145 — `தொழிலமைச்சர்களுக்கு` → `தொழிலமைச்சரவர்களுக்கு`
+23. scan 147 — `அண்ணாவிற்கு மதிப்பளிக்கவில்லை.` → `அண்ணாவிற்கு மதிப்பளிக்க வில்லை.`
+24. scan 149 — `தமிழரசுக் கழகத்தின் சார்பிலே சொல்லப்பட்டதும் முன்னேற்றக் கழகத்தை எதிர்க்க வேண்டுமென்று சொல்லப்பட்ட கருத்தா? அல்ல.` → `தமிழரசுக் கழகத்தின் சார்பிலே சொல்லப்பட்டதும் முன்னேற்றக் கழகத்தை எதிர்க்க வேண்டுமென்று சொல்லப்பட்ட கருத்தா?`
+25. scan 149 — `இராணுவத்திற்குக் அளித்தாகவேண்டும்` → `இராணுவத்திற்கு அளித்தாகவேண்டும்`
+26. scan 150 — `113 பேர் மருத்துவமனையில்` → `113பேர் மருத்துவமனையில்`
+
+### Gate-E outcome
+
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- Gate E — **PASS / COMPLETE**
+- unresolved readings — **0**
+- source-visible repetitions — **retained**
+- source-printed English — **retained as printed**
+- interventions / reactions / figures / dates — **verified in place**
+- `நமது விளக்கம்` source layer — **unchanged**
+- OCR / Official Report / web / alternate-anthology wording imported — **0**
+
+## Gate status after Gate E
+
 - Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 2 completeness corrections**
-- Gate E — **NOT STARTED / NEXT**
-- English / Gate F–G — **BLOCKED / NOT STARTED**
+- Gate E — **PASS / COMPLETE / 26 corrections / 0 unresolved**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate F / English — **NOT STARTED / NEXT**
+- Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-Perform **Speech 10 Gate E word-for-word Tamil scan verification — scans 117–151 / 35 pages** from the controlling anthology pixels only. Record every source-fidelity correction and unresolved reading. Do not begin English translation or Speech 11.
+Perform **Speech 10 Gate F English translation — scans 117–151 / 35 pages** from the final Gate-E-verified Tamil only. Do not begin Gate G/H or Speech 11 in the same activity.

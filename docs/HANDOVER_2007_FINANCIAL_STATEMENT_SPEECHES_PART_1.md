@@ -528,32 +528,26 @@ The complete before → after ledger is in `translation-review.md`.
 - existing `நமது நிலை` source layer — unchanged
 - parallel-witness / no-overwrite rule — preserved
 
-## Speech 10 durable Gate-D state
+## Speech 10 durable Gate-E state
 
 Working entry: `speeches/1971/1971-06-29-financial-statement-debate/`
 
-Locked unit: **117–151 / printed 116–150 / 35 pages / 116→117 PASS / 151→152 PASS**.
+Locked unit: **117–151 / printed 116–150 / 35 pages / hard boundaries 116→117 PASS / 151→152 PASS**.
 
 Durable state:
 
 - Gate C — **COMPLETE**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 2 completeness corrections**
-- Gate E — **NOT STARTED / NEXT**
-- English / Gate F–G — **BLOCKED**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
+- Gate E — **PASS / COMPLETE / 26 source-fidelity corrections / 0 unresolved**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- Gate F / English — **NOT STARTED / NEXT**
+- Gate G / Gate H — **NOT STARTED**
+- release — **NOT RELEASED**
 
-Gate-D corrections:
-
-1. **136→137** — scan 136 ends at `அதற்காக என்னை ஆளாக்கிய`; the Anna memorial completion begins scan 137.
-2. **137→138** — duplicate scan-138 Muslim League/prohibition block removed from scan 137.
-
-Post-correction: **35/35 markers, 34/34 transitions PASS, 0 missing pages, 0 duplicated long blocks**. The earlier Gate-C claim that 136–138 was fully reconciled is superseded by Gate D.
-
-Parallel-witness lock remains unchanged; do not use `நமது விளக்கம்`, OCR, Official Reports, web copies or alternate anthologies to repair wording.
+Gate E checked every source page directly against the controlling 2007 anthology pixels. Affected scans: **119, 120, 121, 122, 132, 136, 137, 139, 140, 141, 142, 143, 144, 145, 147, 149, 150**. Gate-D boundaries **136→137 / 137→138** were rechecked and retained. No `நமது விளக்கம்`, OCR, Official Report, web or alternate-anthology wording was imported.
 
 ## Exact next activity
 
-Perform **Speech 10 Gate E word-for-word Tamil scan verification — scans 117–151 / 35 pages**. Do not begin English translation or Speech 11.
+Perform **Speech 10 Gate F English translation — scans 117–151 / 35 pages** from the final Gate-E-verified Tamil only. Do not begin Gate G/H or Speech 11 in the same activity.

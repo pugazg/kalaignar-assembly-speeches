@@ -56,54 +56,74 @@ Speech 10 is **35 pages**, exceeding the normal 25-page activity allowance. The 
 
 - source-boundary / Gate-C setup — **PASS / COMPLETE**
 - source coverage — **COMPLETE / 35 of 35 pages**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate C — **COMPLETE / 35 of 35 pages**
-- source-page markers — **117→151 / exactly once / in order — PASS**
-- first-pass unresolved readings — **0 explicitly flagged**
+- Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 35 of 35 pages / 2 completeness corrections**
-- Gate E — **NOT STARTED**
-- English / Gate F / Gate G — **BLOCKED / NOT STARTED**
+- Gate D — **PASS / COMPLETE / 2 completeness corrections**
+- Gate E — **PASS / COMPLETE / 35 of 35 pages**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- Gate-E source-fidelity corrections — **26**
+- Gate-E unresolved readings — **0**
+- English / Gate F — **NOT STARTED / NEXT**
+- Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
-- source wording imported from outside witnesses — **none**
-- `transcript.md` — **Gate-D structurally audited Tamil transcript**
+- outside-source wording imported — **0**
 
-Tamil remains unverified. Gate D is a structural-completeness gate and does **not** make a word-for-word scan-fidelity claim.
+## Gate E result
 
-## Gate C.5 result
+Speech 10 was verified page-by-page against the rendered pixels of the controlling 2007 anthology splits.
 
-Gate C.5 is **N/A / CLOSED** for Speech 10. The controlling witness is modern **2007 anthology typesetting**; no legacy or reform-sensitive historical-glyph condition requiring a separate glyph gate was identified. Gate E remains mandatory for word-for-word fidelity.
-
-## Gate D result
-
-Gate D is **PASS / COMPLETE** across **35/35 pages / scans 117–151**.
-
-- markers **117→151** — **35 unique / ordered / PASS**
-- transitions **117→118 through 150→151** — **34/34 PASS after correction**
+- verified pages — **35/35 / scans 117–151**
+- markers **117→151** — **exactly once / ordered / PASS**
 - hard boundaries **116→117 / 151→152** — **PASS**
-- speaker interventions, parenthetical reactions and source-printed English blocks — structurally represented
-- figures, dates, quotations and source-visible repetition — structurally retained
-- scan 151 closing text / source ornament boundary — preserved
-- missing source pages — **0**
-- duplicated long source blocks after correction — **0**
-- outside-witness wording imported — **0**
+- Gate-D boundaries **136→137 / 137→138** — **rechecked and retained**
+- source-fidelity corrections — **26**
+- affected scans — **119, 120, 121, 122, 132, 136, 137, 139, 140, 141, 142, 143, 144, 145, 147, 149, 150**
+- unresolved readings — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- `நமது விளக்கம்` / Official Report / OCR / web / alternate-anthology wording imported — **0**
 
-### Gate-D completeness corrections — 2
+### Gate-E correction ledger
 
-1. **136→137** — scan 136 now ends at `அதற்காக என்னை ஆளாக்கிய`; the Anna memorial sentence completion begins scan 137.
-2. **137→138** — a duplicate copy of the scan-138 Muslim League/prohibition block was removed from scan 137. Scan 137 now ends at `1926ல் அரசாங்கமே அந்த வியாபாரத்தை மேற்கொண்டது.`; scan 138 retains the block once.
+1. scan 119 — `பொருளாதார மெய்யாம்` → `பொருளாதார மெல்லாம்`
+2. scan 120 — `பல்வேறு கட்டிடங்கள்` → `பலவேறு கட்டிடங்கள்`
+3. scan 120 — `பல்வேறு வசதிகளை` → `பலவேறு வசதிகளை`
+4. scan 120 — `தஞ்சாவூர்க்காரர்` → `தஞ்சாவூர்காரர்`
+5. scan 120 — `என்ன என்று கேட்ட நேரத்தில்` → `என்ன, என்று கேட்ட நேரத்தில்`
+6. scan 121 — `தாரதிட்டம்` → `தாரத்திட்டம்`
+7. scan 122 — `வேலையாய்ப்பிற்காக` → `வேலைவாய்ப்பிற்காக`
+8. scan 132 — `பல்வேறு கருத்துகள் இருக்கின்றன` → `பலவேறு கருத்துக்கள் இருக்கின்றன`
+9. scan 132 — `எழுதி கொண்டிருக்கிறார்கள்` → `எழுதிக் கொண்டிருக்கிறார்கள்`
+10. scan 136 — `இன்றைக்கு தமிழ்நாடு` → `இன்றைக்குத் தமிழ்நாடு`
+11. scan 137 — `பல்வேறு நாடுகளிலும்` → `பலவேறு நாடுகளிலும்`
+12. scan 137 — `பல்வேறு நாட்டு மக்களாலும்` → `பலவேறு நாட்டு மக்களாலும்`
+13. scan 137 — `பல்வேறு நாட்டு அரசுகளாலும்` → `பலவேறு நாட்டு அரசுகளாலும்`
+14. scan 137 — `பதினான்கு ஆண்டுகாலம்` → `பதினான்கு ஆண்டுக்காலம்`
+15. scan 139 — `பல்வேறு ஆராய்ச்சிகள்` → `பலவேறு ஆராய்ச்சிகள்`
+16. scan 139 — `சில சிபாரிசுகளைச் கூறியது` → `சில சிபாரிசுகளைக் கூறியது`
+17. scan 140 — `நாவடங்கும் மதுவிலக்கைக் கொண்டுவரவேண்டும்` → `நாடெங்கும் மதுவிலக்கைக் கொண்டுவரவேண்டும்`
+18. scan 141 — `1963ஆம் ஆண்டு மதுவிலக்குக் கொள்கை` → `1963-ஆம் ஆண்டு மதுவிலக்குக் கொள்கை`
+19. scan 142 — `பல்வேறு ராஜ்ய முதல்வர்கள்` → `பலவேறு ராஜ்ய முதல்வர்கள்`
+20. scan 143 — `கவரவப் பிரச்சினையாகக் கருதி` → `கவரவப் பிரச்சனையாகக் கருதி`
+21. scan 144 — `குன்ஹா நகர அகில இந்தியக் காங்கிரஸ்` → `குன்ஹா நகர் அகில இந்தியக் காங்கிரஸ்`
+22. scan 145 — `தொழிலமைச்சர்களுக்கு` → `தொழிலமைச்சரவர்களுக்கு`
+23. scan 147 — `அண்ணாவிற்கு மதிப்பளிக்கவில்லை.` → `அண்ணாவிற்கு மதிப்பளிக்க வில்லை.`
+24. scan 149 — `தமிழரசுக் கழகத்தின் சார்பிலே சொல்லப்பட்டதும் முன்னேற்றக் கழகத்தை எதிர்க்க வேண்டுமென்று சொல்லப்பட்ட கருத்தா? அல்ல.` → `தமிழரசுக் கழகத்தின் சார்பிலே சொல்லப்பட்டதும் முன்னேற்றக் கழகத்தை எதிர்க்க வேண்டுமென்று சொல்லப்பட்ட கருத்தா?`
+25. scan 149 — `இராணுவத்திற்குக் அளித்தாகவேண்டும்` → `இராணுவத்திற்கு அளித்தாகவேண்டும்`
+26. scan 150 — `113 பேர் மருத்துவமனையில்` → `113பேர் மருத்துவமனையில்`
 
-These are completeness/structure fixes only. No Gate-E word-for-word verification was performed and no other Tamil wording changed. The earlier Gate-C claim that **136–138** had been fully reconciled is superseded by this Gate-D amendment.
+Gate E preserves source-specific spellings, punctuation, printed English, interventions and visible repetitions rather than normalizing them to modern usage.
 
 ## Working files
 
-- `README.md` — source boundary, split coverage, parallel-witness and gate state
-- `metadata.json` — machine-readable source and gate status
-- `source-notes.md` — source authority, hashes, boundary evidence and source constraints
-- `verification-log.md` — setup, Gate-C, Gate-C.5 and Gate-D audit record
-- `transcript.md` — Gate-D structurally complete Tamil transcript, scans 117–151
+- `README.md` — source boundary, provenance and gate state
+- `metadata.json` — machine-readable Gate-E result and correction ledger
+- `source-notes.md` — source authority and verification constraints
+- `verification-log.md` — Gate C through Gate E audit record
+- `transcript.md` — Gate-E-verified Tamil transcript, scans 117–151
 
 ## Exact next activity
 
-Perform **Speech 10 Gate E word-for-word Tamil scan verification — scans 117–151 / printed pp.116–150 / 35 pages**, using only the controlling 2007 anthology pixels. Record each source-fidelity correction/unresolved reading. Do not begin English translation, Gate F/G/H, or Speech 11.
+Perform **Speech 10 Gate F English translation — scans 117–151 / 35 pages**, translating only from the final Gate-E-verified Tamil in `transcript.md`.
+
+Do not alter verified Tamil except to correct a newly discovered source-fidelity issue with an explicit reopen record. Do not use `நமது விளக்கம்` or outside translations. Do not begin Gate G/H or Speech 11 in the same activity.

@@ -94,44 +94,30 @@ The normal activity limit is 25 source pages. Speech 10 is 35 pages, and the rep
 
 Gate C was completed across **all scans 117–151** as one intact 35-page speech activity.
 
-## Gate state after Gate D
+## Gate state after Gate E
 
-- source coverage / boundary setup — **PASS / COMPLETE**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate C — **COMPLETE / 35 of 35 pages**
-- source markers **117→151** — **35/35 / unique / ordered / PASS**
-- first-pass unresolved readings — **0 explicitly flagged**
-- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
-- Gate D — **PASS / COMPLETE / 35 of 35 / 2 completeness corrections**
-- Gate E — **NOT STARTED**
-- English / Gates F–G — **BLOCKED / NOT STARTED**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
+- source coverage / boundaries — **PASS / COMPLETE**
+- Gate C — **COMPLETE**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE / 2 completeness corrections**
+- Gate E — **PASS / COMPLETE / 35 of 35 pages**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- Gate-E corrections — **26**
+- Gate-E unresolved readings — **0**
+- English / Gate F — **NOT STARTED / NEXT**
+- Gate G / Gate H — **NOT STARTED**
+- release — **NOT RELEASED**
 - outside-source wording imported — **0**
 
-The Gate-C note that **136–138** had been fully reconciled was incomplete; Gate D found and corrected a residual boundary/duplication issue.
+## Gate E source verification
 
-## Gate C.5 applicability
+Every Speech-10 source page **117–151** was checked directly against the rendered 2007 anthology pixels. The Gate-D structural boundaries at **136→137** and **137→138** were rechecked and retained.
 
-**N/A / CLOSED.** No separate historical-glyph gate is required for this modern 2007 typesetting. This does not replace Gate E.
+Gate E applied **26** source-fidelity corrections across **17** scans and left **0 unresolved readings**. No outside witness supplied wording.
 
-## Gate D structural audit
-
-- coverage — **117–151 / 35 pages**
-- markers — **35/35 / unique / ordered**
-- transitions — **34/34 PASS**
-- hard boundaries — **PASS**
-- interventions / printed English / figures / dates / reactions / source-visible repetition — structurally represented
-- missing pages — **0**
-- duplicated long blocks after correction — **0**
-- completeness corrections — **2**
-
-Corrections:
-1. **136→137** — moved the Anna memorial sentence completion to page 137.
-2. **137→138** — removed duplicated scan-138 Muslim League/prohibition material from page 137.
-
-No other Tamil wording changed.
+Affected scans: **119, 120, 121, 122, 132, 136, 137, 139, 140, 141, 142, 143, 144, 145, 147, 149, 150**.
 
 ## Exact next
 
-**Gate E word-for-word Tamil scan verification — scans 117–151 / printed pp.116–150 / 35 pages**, from the controlling 2007 anthology pixels only.
+**Gate F English translation — scans 117–151 / 35 pages**, using only the final Gate-E-verified Tamil as translation authority.

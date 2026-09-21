@@ -353,36 +353,28 @@ English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**.
 
 Gate H is **PASS / COMPLETE — RELEASED / CLOSED**. The canonical `transcript.md` now contains verified Tamil + verified English; `translation.md` is retired to a pointer; root and machine-readable dated indexes are synchronized. Gate-H wording changes: **0 Tamil / 0 English**. The `நமது நிலை` source layer remains unchanged.
 
-## Speech 10 Gate-D state
+## Speech 10 Gate-E state
 
-Working entry:
-
-`speeches/1971/1971-06-29-financial-statement-debate/`
+Working entry: `speeches/1971/1971-06-29-financial-statement-debate/`
 
 Locked unit: **117–151 / printed 116–150 / 35 pages / 116→117 PASS / 151→152 PASS**.
 
-Controlling split coverage remains **35/35 pages** across part005 local 17–25, part006 local 1–25 and part007 local 1. Parallel-witness lock remains unchanged.
-
 Current state:
 
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
 - Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 2 completeness corrections**
-- Gate E — **NOT STARTED / NEXT**
-- English / Gates F–G — **BLOCKED**
+- Gate E — **PASS / COMPLETE / 26 source-fidelity corrections / 0 unresolved**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- English / Gate F — **NOT STARTED / NEXT**
+- Gate G/H — **NOT STARTED**
 - release — **NOT RELEASED**
+- outside-source wording imported — **0**
 
-Gate-D corrections:
+Gate E verified all **35/35 pages** directly against the controlling anthology pixels. Affected scans: **119, 120, 121, 122, 132, 136, 137, 139, 140, 141, 142, 143, 144, 145, 147, 149, 150**.
 
-1. **136→137** — restored the page boundary by moving the Anna memorial sentence completion to scan 137.
-2. **137→138** — removed duplicated scan-138 Muslim League/prohibition material from scan 137.
-
-After correction: **35 markers / 34 transitions PASS / 0 missing pages / 0 duplicated long blocks**.
-
-The earlier Gate-C note that **136–138** had already been fully reconciled is superseded by Gate D.
+The independent parallel-witness rule remains unchanged; the existing `நமது விளக்கம்` layer was not used to supply or repair wording.
 
 ## Exact next activity
 
-Perform **Speech 10 Gate E word-for-word Tamil scan verification — scans 117–151 / 35 pages** from the controlling anthology pixels only. Do not begin English work or Speech 11.
+Perform **Speech 10 Gate F English translation — scans 117–151 / 35 pages**, using only the final Gate-E-verified Tamil.
