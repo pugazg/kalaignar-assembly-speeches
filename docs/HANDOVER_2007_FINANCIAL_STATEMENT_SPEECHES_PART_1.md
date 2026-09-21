@@ -96,8 +96,8 @@ Treat this 2007 anthology as its own witness.
 - Gate C.5 — **N/A / CLOSED for Speeches 1–12 — modern 2007 typesetting; speeches 13–19 not started**
 - Gate D — **PASS / COMPLETE for Speeches 1–12; Speech 12 = 40/40 pages / 39/39 transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–12; Speech 12 = 40/40 pages / 25 correction entries / 30 occurrences / 0 unresolved**
-- Gate F — **COMPLETE for Speeches 1–11; Speech 12 NOT STARTED / next**
-- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–11; Speech 12 NOT STARTED**
+- Gate F — **COMPLETE for Speeches 1–12; Speech 12 = 40/40 translated pages / 0 blockers / 0 Tamil changes; English NOT VERIFIED AGAINST TAMIL**
+- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–11; Speech 12 NOT STARTED / next**
 - Gate H — **Speeches 1–11 PASS / COMPLETE — RELEASED / CLOSED; Speech 12 NOT STARTED**
 - Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
 - Speech 12 unresolved readings after Gate D — **0; scan 191 `மறுபவழி` confirmed as printed**
@@ -603,24 +603,43 @@ Final Tamil state:
 - `verified_against_scan=true`
 - OCR / web / Official Reports / alternate anthology / released 1973 wording imported — **0**
 - whole-speech exception — **APPLIED / 40-page unit kept intact**
-- Gate F — **NOT STARTED / next**
-- Gate G / H — **NOT STARTED**
+- Gate F — **COMPLETE / 40 of 40 / English TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- Gate G — **NOT STARTED / next**
+- Gate H — **NOT STARTED**
 - release — **NOT RELEASED**
 - `data/speeches.json` — **unchanged intentionally while this parallel witness remains unreleased**
 - released `speeches/1973/1973-03-07-financial-statement-reply/` — **UNCHANGED**
 
 Final adjudication added two speaker-label punctuation corrections on scans **229** and **230** beyond the earlier checkpoint. Full correction details are in Speech 12 `verification-log.md` and `metadata.json`.
 
+## Speech 12 Gate-F closure
+
+- English working translation — `translation.md`
+- translated pages — **191–230 / 40 of 40**
+- source-page markers — **40 / ordered**
+- translation source — **Gate-E-verified anthology Tamil only**
+- source-printed English — **preserved verbatim**
+- scan 222 repetition — **preserved twice**
+- scan 228→229 poem — **continuous across page transition**
+- blocking questions — **0**
+- verified Tamil changes — **0**
+- outside English imported — **0**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+
 ## Exact next activity
 
-Begin **Speech 12 Gate F English translation for all 40 verified Tamil pages / scans 191–230**.
+Perform **Speech 12 Gate G strict English-vs-verified-Tamil review across scans 191–230 / 40 pages**.
 
 Requirements:
 
-1. use only the verified Speech 12 anthology Tamil as the translation source;
-2. keep source-page alignment for all 40 pages;
-3. preserve speaker changes, interventions, source-printed English, figures, quotations, the scan-222 repetition, and the scan-228→229 poem structure;
-4. do not import English from the released 1973 parallel witness or another source;
-5. record genuine translation questions rather than altering verified Tamil;
-6. synchronize Speech 12 and anthology controls after Gate F;
-7. do **not** begin Gate G/H or Speech 13 in the same activity.
+1. review every Tamil/English source-page pair;
+2. check meaning, completeness, speaker labels, figures, quotations, source-printed English, reactions and page-spanning continuations;
+3. preserve scan 222's repeated cinema sentence twice;
+4. preserve the scan 228→229 poem across the transition;
+5. record every English refinement and blocker;
+6. verified Tamil changes should remain **0** unless a genuine Tamil-source issue is discovered;
+7. do not import wording from the released parallel witness or outside sources;
+8. only after 40/40 review set English `verified_against_tamil=true` if supported;
+9. synchronize all Speech 12 and anthology controls;
+10. do **not** begin Gate H or Speech 13 in the same activity.
