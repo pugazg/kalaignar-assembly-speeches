@@ -237,12 +237,29 @@ Gate-G refinements include six source-page-boundary realignments, two project-na
 - scan **230** closing exchange and conclusion remain present;
 - verified Tamil SHA/content unchanged from Gate E;
 - parallel released witness untouched;
-- `data/speeches.json` remains unchanged because this anthology witness is still unreleased.
+- `data/speeches.json` remains unchanged intentionally; this anthology witness is released without creating a duplicate canonical same-date index entry.
 
-## Gate H / release
+## Gate H — canonical bilingual merge / release closure
 
-**NOT STARTED / next.**
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- verified Tamil markers **191→230** — **40/40 / exactly once / ordered**
+- verified English source-page sections **191→230** — **40/40 / exactly once / ordered**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired to released pointer**
+- Gate-G totals — **12 refinements / 0 blockers / 0 Tamil changes**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- source-printed English changes — **0**
+- source-printed English — **preserved verbatim**
+- scan 222 repetition — **preserved twice**
+- scan 228→229 poem — **preserved**
+- hard boundaries **190→191 / 230→231** — **preserved**
+- released same-date `1973-03-07-financial-statement-reply` — **UNCHANGED**
+- `data/speeches.json` — **unchanged intentionally**
+- root dated speech table — **unchanged intentionally**
+- same-date index policy — **no second canonical 1973-03-07 entry created**
+- release — **RELEASED / CLOSED**
 
 ## Exact next activity
 
-Perform **Gate H canonical bilingual merge / release-readiness closure** for Speech 12 while preserving the independent released `1973-03-07-financial-statement-reply` witness unchanged. Do not begin Speech 13 in the same activity.
+Begin **Speech 13 / 14.03.1974 source-boundary and Gate-C setup**. Do not reopen Speech 12 unless a source-backed defect is discovered.
