@@ -41,30 +41,27 @@ Total coverage: **39/39**.
 
 The scan-154 phrase `200 கோடி ரூபாய்க்கு வரிபோட்டுத் தள்ளுகிறேன்` was resolved from enlarged controlling-source pixels during first-pass assembly. It remains subject to Gate E.
 
-## Gate state after Gate E
+## Gate state after Gate F
 
-- Gate C — **COMPLETE / 39 of 39**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / 39 of 39**
-- Tamil — **VERIFIED**
+- Gates C–E — **COMPLETE / Tamil VERIFIED**
 - `verified_against_scan=true`
-- Gate-E corrections — **25**
-- Gate-E affected scans — **160, 163, 164, 165, 168, 169, 170, 176, 178, 179, 180, 181, 186, 188, 189**
-- Gate-E unresolved readings — **0**
-- English / Gate F — **NOT STARTED / NEXT**
-- Gate G/H — **NOT STARTED**
-- release — **NOT RELEASED**
-- outside wording imported — **0**
+- Gate F — **COMPLETE / 39 of 39 English pages**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- Gate-F blocking questions — **0**
+- Gate-F verified-Tamil changes — **0**
+- Gate G — **NOT STARTED / NEXT**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
+- outside English imported — **0**
 
-## Gate E source verification
+## Gate F translation authority
 
-Every mapped Speech-11 page **152–190** was compared directly with the controlling 2007 anthology pixels. All **38 page transitions** and the hard boundaries **151→152 / 190→191** were rechecked.
+The English first pass in `translation.md` was produced only from the final Gate-E-verified Tamil in `transcript.md`.
 
-Gate E applied **25 source-fidelity corrections across 15 scans**, with **0 unresolved readings**. Source-visible historical/factual wording was retained rather than corrected from outside knowledge; for example, scan 188 prints `ஆஸ்திரேலியா` and the canonical transcript now preserves that source reading.
+Source-printed English was reproduced as printed, including source typos and mixed Tamil/English lines. No OCR, web copy, Official Report, alternate anthology, other witness or outside translation supplied wording.
 
-No OCR, web copy, Official Report, alternate anthology or other witness supplied wording.
+The source-visible scan-188 `ஆஸ்திரேலியா` remains **Australia** as a source claim; it was not fact-corrected.
 
 ## Exact next
 
-**Gate F English translation — scans 152–190 / 39 pages**, using only the final Gate-E-verified Tamil as translation authority.
+**Gate G full English fidelity and voice review — source pages 152–190 / 39 pages**.

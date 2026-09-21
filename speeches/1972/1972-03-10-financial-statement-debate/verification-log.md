@@ -161,6 +161,30 @@ Scan 188's `ஆஸ்திரேலியா` is source-visible and intentional
 - Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 
+## Gate F English first-pass translation
+
+**Status: COMPLETE — 39/39 pages**
+
+- translation authority — final Gate-E-verified Tamil only
+- source-page sequence — **152→190 / complete / ordered**
+- source-printed English — **preserved as printed**
+- speaker changes / interventions / reactions — **preserved**
+- figures / dates / amounts / percentages / quotations — **preserved**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside-witness English imported — **0**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+
+Gate F does not make an English fidelity-verification claim; that is Gate G.
+
+## Gate status after Gate F
+
+- Gates C–E — **COMPLETE / Tamil VERIFIED**
+- Gate F — **COMPLETE / 39 of 39**
+- Gate G — **NOT STARTED / NEXT**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
+
 ## Exact next activity
 
-Perform **Speech 11 Gate F English translation — scans 152–190 / 39 pages** from the final Gate-E-verified Tamil only. Do not begin Gate G/H or Speech 12 in the same activity.
+Perform **Speech 11 Gate G full English fidelity and voice review — source pages 152–190 / 39 pages**. Review only against the final Gate-E-verified Tamil; do not begin Gate H/release or Speech 12.

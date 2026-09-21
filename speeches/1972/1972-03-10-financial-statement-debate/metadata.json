@@ -71,7 +71,7 @@
     "gate_d_status": "pass-complete",
     "gate_e_status": "pass-complete",
     "completeness_audit_passed": true,
-    "next_gate": "gate-f",
+    "next_gate": "gate-g",
     "outside_wording_imported": false,
     "gate_c5": {
       "status": "n/a-closed",
@@ -261,11 +261,30 @@
   },
   "translation": {
     "language": "English",
-    "status": "not-started",
+    "status": "translated-not-verified",
     "verified_against_tamil": false,
-    "gate_f_status": "not-started",
+    "gate_f_status": "complete",
     "gate_g_status": "not-started",
-    "source_text": "Gate-E-verified Tamil in transcript.md"
+    "source_text": "Gate-E-verified Tamil in transcript.md",
+    "next_gate": "gate-g",
+    "completed_scan_pages": "152-190",
+    "completed_page_count": 39,
+    "total_page_count": 39,
+    "blocking_questions": [],
+    "blocking_question_count": 0,
+    "verified_tamil_changes": 0,
+    "outside_english_imported": false,
+    "source_printed_english_preserved": true,
+    "gate_f": {
+      "status": "complete",
+      "source_pages": "152-190",
+      "page_count": 39,
+      "blocking_question_count": 0,
+      "verified_tamil_changes": 0,
+      "verified_against_tamil": false,
+      "outside_english_imported": false,
+      "source_printed_english_preserved": true
+    }
   },
   "release": {
     "status": "not-released",

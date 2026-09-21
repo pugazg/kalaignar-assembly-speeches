@@ -373,26 +373,26 @@ Final state:
 - root / machine-readable indexes — **SYNCHRONIZED**
 - parallel witness to `நமது விளக்கம்` — **PRESERVED / NO OVERWRITE**
 
-## Speech 11 Gate-E state
+## Speech 11 Gate-F state
 
 Working entry: [`../../speeches/1972/1972-03-10-financial-statement-debate/`](../../speeches/1972/1972-03-10-financial-statement-debate/)
 
-Locked unit: **152–190 / printed 151–189 / 39 pages / 151→152 PASS / 190→191 PASS**.
+Locked unit: **152–190 / printed 151–189 / 39 pages**.
 
 Current state:
 
-- Gate C — **COMPLETE**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / 25 source-fidelity corrections / 0 unresolved**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- English / Gate F — **NOT STARTED / NEXT**
-- Gate G/H — **NOT STARTED**
-- release — **NOT RELEASED**
-- outside wording imported — **0**
+- Tamil Gates C–E — **COMPLETE / VERIFIED**
+- Gate F — **COMPLETE / 39 of 39 English pages**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- Gate-F blocking questions — **0**
+- verified-Tamil changes — **0**
+- Gate G — **NOT STARTED / NEXT**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
+- outside English imported — **0**
 
-Gate E verified all **39/39 pages** directly against the controlling anthology pixels. Affected scans: **160, 163, 164, 165, 168, 169, 170, 176, 178, 179, 180, 181, 186, 188, 189**.
+Gate F translated only from the final verified Tamil and preserved source-printed English verbatim.
 
 ## Exact next activity
 
-Perform **Speech 11 Gate F English translation — scans 152–190 / 39 pages**, using only the final Gate-E-verified Tamil.
+Perform **Speech 11 Gate G full English fidelity and voice review — source pages 152–190 / 39 pages**.

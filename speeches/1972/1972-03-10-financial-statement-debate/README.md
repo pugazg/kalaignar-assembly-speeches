@@ -50,40 +50,48 @@ Speech 11 spans **39 pages**, exceeding the normal 25-page activity allowance, s
 
 - source-boundary / Gate-C setup — **PASS / COMPLETE**
 - source coverage — **COMPLETE / 39 of 39**
-- Gate C — **COMPLETE / 39 of 39**
+- Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / 39 of 39**
-- Tamil — **VERIFIED**
-- `verified_against_scan=true`
-- Gate-E source-fidelity corrections — **25**
-- Gate-E affected scans — **160, 163, 164, 165, 168, 169, 170, 176, 178, 179, 180, 181, 186, 188, 189**
-- Gate-E unresolved readings — **0**
-- English / Gate F — **NOT STARTED / NEXT**
-- Gate G — **NOT STARTED**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
-- outside-source wording imported — **0**
-
-## Gate E result
-
-Speech 11 was checked page-by-page and word-for-word against the rendered pixels of the controlling 2007 anthology across **scans 152–190 / 39 pages**.
-
-- verified pages — **39/39**
-- source markers **152→190** — **exactly once / ordered / PASS**
-- page transitions **152→153 through 189→190** — **38/38 rechecked**
-- hard boundaries **151→152 / 190→191** — **PASS**
-- source-fidelity corrections — **25**
-- affected scans — **160, 163, 164, 165, 168, 169, 170, 176, 178, 179, 180, 181, 186, 188, 189**
-- unresolved readings — **0**
-- outside-source wording imported — **0**
+- Gate E — **PASS / COMPLETE / 25 source-fidelity corrections / 0 unresolved**
 - Tamil — **VERIFIED / verified_against_scan=true**
+- Gate F — **COMPLETE / 39 of 39 English pages**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- Gate-F blocking translation questions — **0**
+- Gate-F verified-Tamil changes — **0**
+- source-printed English — **preserved as printed**
+- Gate G — **NOT STARTED / NEXT**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
+- outside English imported — **0**
 
-Notable source-bound corrections include scan 160 `ஒற்றையடிப் பாதையில்`, scan 165 `அகவிலைப்படி`, scan 169 `மூடப்பட்ட தொழிற்சாலைகள்`, scan 170 `அறுவர் குழுவில்`, scan 181 `2028 ஏக்கராவாகும்`, scan 186 `திரு. சாதிக் பாட்சா`, and scan 188 source-printed `ஆஸ்திரேலியா`. The latter is retained exactly as printed rather than fact-corrected.
+## Gate F result
 
-The complete before → after ledger is in `verification-log.md` and `metadata.json`.
+The complete first-pass English translation covers source pages **152–190 / 39 pages** exactly once and in order and is stored in `translation.md`.
+
+Translation authority was exclusively the final Gate-E-verified Tamil in `transcript.md`.
+
+- translated pages — **39/39**
+- source-page sequence — **152→190 / PASS**
+- speaker changes / interventions / parenthetical reactions — preserved
+- figures / dates / amounts / percentages / quotations / source-visible repetitions — preserved
+- source-printed English — reproduced as printed rather than retranslated
+- Gate-F blocking questions — **0**
+- verified-Tamil changes — **0**
+- outside English / alternate-witness wording imported — **0**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+
+The source-bound scan-188 reading `ஆஸ்திரேலியா` is rendered **Australia** without external factual normalization.
+
+## Working files
+
+- `transcript.md` — Gate-E-verified Tamil
+- `translation.md` — complete Gate-F English first pass
+- `translation-review.md` — Gate-F handling notes; Gate G not yet performed
+- `metadata.json`, `source-notes.md`, `verification-log.md` — synchronized gate state
 
 ## Exact next activity
 
-Perform **Speech 11 Gate F English translation — scans 152–190 / 39 pages**, translating only from the final Gate-E-verified Tamil in `transcript.md`.
+Perform **Speech 11 Gate G full English fidelity and voice review — source pages 152–190 / 39 pages**, comparing the Gate-F English only against the final Gate-E-verified Tamil.
 
-Do not alter verified Tamil except through an explicit source-fidelity reopen. Do not begin Gate G/H, release indexing, or Speech 12 in the same activity.
+Do not begin Gate H/release or Speech 12 in the same activity.
