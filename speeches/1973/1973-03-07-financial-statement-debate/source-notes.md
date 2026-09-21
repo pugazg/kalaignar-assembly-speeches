@@ -97,7 +97,7 @@ The former first-pass uncertainty at scan **191**, `மறுபவழி`, was 
 - English / Gate F — **COMPLETE / 40 of 40**
 - Gate G — **PASS / COMPLETE / 40 of 40 / 12 refinements / 0 blockers / 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **NOT STARTED / next**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Gate E final source-fidelity result
 
@@ -137,6 +137,18 @@ Gate F is **COMPLETE / 40 of 40 pages** and Gate G is **PASS / COMPLETE / 40 of 
 
 Detailed Gate-G refinements are recorded in `translation-review.md`.
 
+## Gate H release result
+
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired to released pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- Tamil and English page sequences — **191→230 / complete / ordered**
+- source-printed English — **preserved verbatim**
+- parallel-witness provenance — **PRESERVED**
+- released `1973-03-07-financial-statement-reply` — **UNCHANGED**
+- `data/speeches.json` / root dated table — **unchanged intentionally to avoid a second canonical same-date index record**
+- release — **RELEASED / CLOSED**
+
 ## Exact next activity
 
-Perform **Gate H canonical bilingual merge / release-readiness closure** for this anthology parallel witness, preserving the independently released `1973-03-07-financial-statement-reply` entry unchanged. Do not begin Speech 13 in the same activity.
+Begin **Speech 13 / 14.03.1974 source-boundary and Gate-C setup** from the same anthology. Do not reopen Speech 12 unless a source-backed defect is discovered.
