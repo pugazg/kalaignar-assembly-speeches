@@ -73,13 +73,14 @@ Speech 13 spans **32 pages**, exceeding the normal 25-page activity allowance. T
 - `verified_against_scan=true`
 - Gate-E ledger — **8 correction entries / 9 correction occurrences / 0 unresolved readings**
 - Gate E — **PASS / COMPLETE / scans 231–262 / 32 of 32 pages**
-- English / Gate F / Gate G — **BLOCKED / NOT STARTED**
+- Gate F / English — **NOT STARTED / next**
+- Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - source wording imported from outside witnesses — **none**
 - Speech 12 — **unchanged / RELEASED / CLOSED**
 - Speech 14 — **not begun**
 
-Gate D checked structural completeness, page continuations, speaker changes/interventions, source-printed English, figures, quotations, parenthetical reactions, source-page markers and the scan-262 close. It does **not** make a word-for-word verification claim, so Tamil remains NOT VERIFIED.
+Gate D checked structural completeness only. Gate E then completed the separate word-for-word source-fidelity verification across all 32 pages; Tamil is now VERIFIED with zero unresolved readings.
 
 ## Files
 
