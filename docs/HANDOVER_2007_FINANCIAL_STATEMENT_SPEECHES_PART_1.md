@@ -528,51 +528,32 @@ The complete before → after ledger is in `translation-review.md`.
 - existing `நமது நிலை` source layer — unchanged
 - parallel-witness / no-overwrite rule — preserved
 
-## Speech 10 durable Gate-C state
+## Speech 10 durable Gate-D state
 
-Working entry:
+Working entry: `speeches/1971/1971-06-29-financial-statement-debate/`
 
-`speeches/1971/1971-06-29-financial-statement-debate/`
+Locked unit: **117–151 / printed 116–150 / 35 pages / 116→117 PASS / 151→152 PASS**.
 
-Locked unit:
+Durable state:
 
-- source label/date — `உரை : 10 / 29.6.71`
-- ISO date — `1971-06-29`
-- global scans — **117–151**
-- printed pages — **116–150**
-- page count — **35**
-- hard boundaries — **116→117 PASS / 151→152 PASS**
-
-Controlling source coverage remains **35/35**:
-
-- part005 local **17–25** = scans **117–125** / 9 pages
-- part006 local **1–25** = scans **126–150** / 25 pages
-- part007 local **1** = scan **151** / 1 page
-
-Gate C is **COMPLETE**:
-
-- canonical first-pass `transcript.md` — **created**
-- markers **117→151** — **35/35 / exactly once / in order**
-- scan 116 / scan 152 — **excluded**
+- Gate C — **COMPLETE**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- first-pass unresolved readings — **0 explicitly flagged**
-- page-boundary drift **123–125 / 136–138** — reconciled before commit
-- definite same-scan first-pass readings reconciled at **120 / 127 / 139 / 142 / 144 / 149**
-- `நமது விளக்கம்` / Official Report / OCR / web / alternate-anthology wording imported — **0**
-
-The parallel-witness lock is unchanged. Speech 10 is an **independent 2007-anthology witness** to `sources/1971-namathu-vilakkam/events/1971-06-29-assembly-budget-reply.md`.
-
-Downstream state:
-
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
-- Gate E — **NOT STARTED**
-- English / Gate F / Gate G — **BLOCKED / NOT STARTED**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE / 2 completeness corrections**
+- Gate E — **NOT STARTED / NEXT**
+- English / Gate F–G — **BLOCKED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 
-Gate C is not a word-for-word verification claim.
+Gate-D corrections:
+
+1. **136→137** — scan 136 ends at `அதற்காக என்னை ஆளாக்கிய`; the Anna memorial completion begins scan 137.
+2. **137→138** — duplicate scan-138 Muslim League/prohibition block removed from scan 137.
+
+Post-correction: **35/35 markers, 34/34 transitions PASS, 0 missing pages, 0 duplicated long blocks**. The earlier Gate-C claim that 136–138 was fully reconciled is superseded by Gate D.
+
+Parallel-witness lock remains unchanged; do not use `நமது விளக்கம்`, OCR, Official Reports, web copies or alternate anthologies to repair wording.
 
 ## Exact next activity
 
-Perform the **Speech 10 Gate C.5 applicability decision** against the actual 2007 anthology typography. If Gate C.5 is N/A / closed, proceed to the **Gate D structural completeness audit — scans 117–151 / printed pp.116–150 / 35 pages**. Do not begin Gate E, English work, Gate H, or Speech 11 in that activity.
+Perform **Speech 10 Gate E word-for-word Tamil scan verification — scans 117–151 / 35 pages**. Do not begin English translation or Speech 11.

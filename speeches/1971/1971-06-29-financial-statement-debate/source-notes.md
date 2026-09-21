@@ -94,7 +94,7 @@ The normal activity limit is 25 source pages. Speech 10 is 35 pages, and the rep
 
 Gate C was completed across **all scans 117–151** as one intact 35-page speech activity.
 
-## Gate state after Gate C
+## Gate state after Gate D
 
 - source coverage / boundary setup — **PASS / COMPLETE**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
@@ -102,15 +102,36 @@ Gate C was completed across **all scans 117–151** as one intact 35-page speech
 - Gate C — **COMPLETE / 35 of 35 pages**
 - source markers **117→151** — **35/35 / unique / ordered / PASS**
 - first-pass unresolved readings — **0 explicitly flagged**
-- Gate C.5 — **NOT STARTED**
-- Gate D / Gate E — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
+- Gate D — **PASS / COMPLETE / 35 of 35 / 2 completeness corrections**
+- Gate E — **NOT STARTED**
 - English / Gates F–G — **BLOCKED / NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - outside-source wording imported — **0**
-- `transcript.md` — **created**
 
-Gate C does not establish word-for-word source fidelity. Final Gate-C assembly reconciled page-marker drift around scans **123–125** and **136–138** and corrected six definite pixel readings at scans **120, 127, 139, 142, 144 and 149**. These are first-pass transcription reconciliations, not Gate-E corrections.
+The Gate-C note that **136–138** had been fully reconciled was incomplete; Gate D found and corrected a residual boundary/duplication issue.
+
+## Gate C.5 applicability
+
+**N/A / CLOSED.** No separate historical-glyph gate is required for this modern 2007 typesetting. This does not replace Gate E.
+
+## Gate D structural audit
+
+- coverage — **117–151 / 35 pages**
+- markers — **35/35 / unique / ordered**
+- transitions — **34/34 PASS**
+- hard boundaries — **PASS**
+- interventions / printed English / figures / dates / reactions / source-visible repetition — structurally represented
+- missing pages — **0**
+- duplicated long blocks after correction — **0**
+- completeness corrections — **2**
+
+Corrections:
+1. **136→137** — moved the Anna memorial sentence completion to page 137.
+2. **137→138** — removed duplicated scan-138 Muslim League/prohibition material from page 137.
+
+No other Tamil wording changed.
 
 ## Exact next
 
-**Gate C.5 applicability decision for Speech 10.** If the modern 2007 typography makes Gate C.5 N/A, continue to the **Gate D structural completeness audit — scans 117–151 / printed pp.116–150 / 35 pages**. Keep `verified_against_scan=false` until Gate E.
+**Gate E word-for-word Tamil scan verification — scans 117–151 / printed pp.116–150 / 35 pages**, from the controlling 2007 anthology pixels only.

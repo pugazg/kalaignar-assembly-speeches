@@ -106,12 +106,12 @@
     "total_page_count": 35,
     "source_page_markers_checked_first_pass": true,
     "unresolved_readings": [],
-    "completeness_audit_passed": false,
+    "completeness_audit_passed": true,
     "verified_against_scan": false,
-    "historical_glyph_gate_status": "not-started",
-    "gate_d_status": "not-started",
+    "historical_glyph_gate_status": "n/a-closed",
+    "gate_d_status": "pass-complete",
     "gate_e_status": "not-started",
-    "next_gate": "gate-c.5",
+    "next_gate": "gate-e",
     "outside_wording_imported": false,
     "first_pass_unresolved_count": 0,
     "first_pass_reconciliation": {
@@ -152,7 +152,38 @@
           "reading": "குல்காபூரில்"
         }
       ],
-      "verification_claim": false
+      "verification_claim": false,
+      "gate_d_amendment": "Gate D found a residual 136-138 structural boundary/duplication issue despite the Gate-C reconciliation note; the canonical transcript was corrected at Gate D. No other Gate-C Tamil wording was changed."
+    },
+    "gate_c5": {
+      "status": "n/a-closed",
+      "basis": "Modern 2007 anthology typesetting; no legacy or reform-sensitive glyph condition requiring a separate historical-glyph gate was identified for Speech 10."
+    },
+    "gate_d": {
+      "status": "pass-complete",
+      "audited_scan_pages": "117-151",
+      "audited_printed_pages": "116-150",
+      "audited_page_count": 35,
+      "marker_count": 35,
+      "transition_count": 34,
+      "transitions_passed": 34,
+      "hard_boundaries": [
+        "116->117",
+        "151->152"
+      ],
+      "completeness_correction_count": 2,
+      "completeness_corrections": [
+        {
+          "transition": "136->137",
+          "action": "Moved the Anna memorial sentence completion to source-page 137 so source-page 136 ends at 'அதற்காக என்னை ஆளாக்கிய', matching the scan boundary."
+        },
+        {
+          "transition": "137->138",
+          "action": "Removed the duplicated scan-138 Muslim League/prohibition block from source-page 137; source-page 137 now ends with '1926ல் அரசாங்கமே அந்த வியாபாரத்தை மேற்கொண்டது.' and source-page 138 retains the block once."
+        }
+      ],
+      "verified_against_scan": false,
+      "word_for_word_verification_claim": false
     }
   },
   "translation": {

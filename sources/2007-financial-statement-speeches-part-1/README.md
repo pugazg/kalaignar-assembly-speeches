@@ -353,49 +353,36 @@ English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**.
 
 Gate H is **PASS / COMPLETE — RELEASED / CLOSED**. The canonical `transcript.md` now contains verified Tamil + verified English; `translation.md` is retired to a pointer; root and machine-readable dated indexes are synchronized. Gate-H wording changes: **0 Tamil / 0 English**. The `நமது நிலை` source layer remains unchanged.
 
-## Speech 10 Gate-C first-pass state
+## Speech 10 Gate-D state
 
 Working entry:
 
 `speeches/1971/1971-06-29-financial-statement-debate/`
 
-Locked unit:
+Locked unit: **117–151 / printed 116–150 / 35 pages / 116→117 PASS / 151→152 PASS**.
 
-- source label — `உரை : 10`
-- printed date — `29.6.71`
-- ISO date — `1971-06-29`
-- global scans — **117–151**
-- printed pages — **116–150**
-- page count — **35**
-- start boundary — **116→117 — PASS**
-- end boundary — **151→152 — PASS**
-- scan 152 — Speech 11 / `10.3.1972`, excluded
-
-Controlling split coverage remains **35/35 pages**:
-
-1. part005 local pages **17–25** = scans **117–125** / 9 pages — SHA-256 `1ae9039952b35b70035365de3774cdf3df5ae6c62cb38d030683ce93e2456ade`
-2. part006 local pages **1–25** = scans **126–150** / 25 pages — SHA-256 `67f71bd3d4bce3c2fe9c258daaa307e29b3a5a195c848b4597c4844066ca8043`
-3. part007 local page **1** = scan **151** / 1 page — SHA-256 `e6fc152ccc1953d829438fafb6bdcfe5865633033662924518366c05a844f906`
-
-Boundary-only pages remain part005 local 16 = scan 116 and part007 local 2 = scan 152. Part008 remains outside Speech 10.
-
-Parallel-witness lock remains unchanged: the 2007 anthology is an **independent source witness** to `sources/1971-namathu-vilakkam/events/1971-06-29-assembly-budget-reply.md`. No wording from that layer, Official Reports, OCR, web copies or alternate anthologies was imported.
+Controlling split coverage remains **35/35 pages** across part005 local 17–25, part006 local 1–25 and part007 local 1. Parallel-witness lock remains unchanged.
 
 Current state:
 
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- Gate C — **COMPLETE / 35 of 35 pages**
-- markers — **117→151 / unique / ordered / PASS**
-- first-pass unresolved readings — **0 explicitly flagged**
-- Gate C.5 — **NOT STARTED**
-- Gate D / Gate E — **NOT STARTED**
-- English / Gates F–G — **BLOCKED / NOT STARTED**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
-- `transcript.md` — **created**
+- Gate C — **COMPLETE**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE / 2 completeness corrections**
+- Gate E — **NOT STARTED / NEXT**
+- English / Gates F–G — **BLOCKED**
+- release — **NOT RELEASED**
 
-Gate-C final assembly reconciled the working page split around **123–125** and **136–138** and definite pixel readings at scans **120, 127, 139, 142, 144 and 149**. This remains a first-pass transcription state, not a Gate-E verification claim.
+Gate-D corrections:
+
+1. **136→137** — restored the page boundary by moving the Anna memorial sentence completion to scan 137.
+2. **137→138** — removed duplicated scan-138 Muslim League/prohibition material from scan 137.
+
+After correction: **35 markers / 34 transitions PASS / 0 missing pages / 0 duplicated long blocks**.
+
+The earlier Gate-C note that **136–138** had already been fully reconciled is superseded by Gate D.
 
 ## Exact next activity
 
-Perform the **Speech 10 Gate C.5 applicability decision**. If Gate C.5 is N/A / closed for the modern 2007 typesetting, proceed to **Gate D structural completeness audit — scans 117–151 / 35 pages**. Keep Tamil **NOT VERIFIED** and do not begin Gate E, English work, or Speech 11.
+Perform **Speech 10 Gate E word-for-word Tamil scan verification — scans 117–151 / 35 pages** from the controlling anthology pixels only. Do not begin English work or Speech 11.
