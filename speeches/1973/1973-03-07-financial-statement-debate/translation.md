@@ -216,3 +216,62 @@ why do they then interfere in it? That was his question. He said that we should 
 But those who have previously borne the responsibility of government will, I hope, understand well that even if a power station is accepted in the Fourth Five-Year Plan, it is not such an easy matter to establish it immediately.
 
 First, we prepare and send a detailed project report. The Central Water and Power Commission examines that report and, after obtaining the approval of the Union Minister in charge of power, sends it to the Planning Commission. There, the Technical Advisory Committee examines it again and only then gives approval. Under these procedures, it takes at least two years for a project to be accepted. For example, the Nellithurai, Servalar and Palar projects
+
+
+<!-- source-page: 216 -->
+
+were sent in 1970-71. We should not forget that those projects have still not received approval.
+
+Mr Kumarasamy asked why we should not go ahead without Planning Commission approval. I have heard that Mrs Anandanayaki also spoke in that manner on the beach. If we attempt to proceed without obtaining Central Government approval, no factory will agree to manufacture and supply the equipment required for the station—boilers, generators and other machinery—without Central approval. Not only that. If we cannot obtain the equipment from these factories and have to import it from abroad, we must obtain Central Government approval. Therefore, I wish to explain that there is no way for the State Government to implement such projects first and later seek ratification without consulting them.
+
+Are we using electricity properly and economically? They say there has been corruption, corruption. Immediately they say that a corruption inquiry commission must be appointed, that a judicial inquiry commission must be appointed. If we accept this logic, everything must come from the Central Government. Is an election being held? An election officer must come from the Centre. Are agents being appointed? They must come from the Centre. Are people sitting in polling booths? They must come from the Centre. In a few more days, when the Assembly is sitting here, I think they may even say that Mrs Indira Gandhi should stop conducting Parliament there, come here, take charge as Chief Minister for ten days, and then return to Delhi! If Ministers are brought from the Centre in that fashion,
+
+<!-- source-page: 217 -->
+
+Indian history tells us that they will not remain in office. Ministers who are elected must come. Indian history does not show that Governments formed by appointed Ministers endure.
+
+**Mrs T.N. Anandanayaki:** It must also be remembered that those who are appointed in that manner must get elected by the people within the next six months.
+
+**Hon. Kalaignar M. Karunanidhi:** I was not speaking about the six-month story. I was speaking about what happened after that.
+
+**Mr R. Ponnappa Nadar:** I too agree that, if we are to avoid what happened when the Ministry in Orissa fell, there should be no Aya Rams and Gaya Rams among us.
+
+**Hon. Kalaignar M. Karunanidhi:** Mr Ponnappa Nadar too knows that a full stop has been put to the Aya Rams and Gaya Rams. They keep saying there is corruption in the Electricity Board, corruption, and that there must be an inquiry. The respected Mr K.L. Rao, who holds this responsibility as a Union Minister, has spoken in Parliament. It appeared in the Hindustan Times. Fortunately, they printed it, perhaps saying “let it go.” This is one part of Mr K.L. Rao's speech:
+
+He complimented Tamil Nadu for making the best use of power without wastage.
+
+Mr K.L. Rao thus praised Tamil Nadu in Parliament. Not only that. He himself has pointed out that, in general, power projects at the Central level have not been functioning properly. He expressed, at a seminar, his view on how projects and power projects should be implemented.
+
+<!-- source-page: 218 -->
+
+The power planning so far had been totally wrong. It should never have been linked to the general Five Year Plans. Power Planning should be a continuous process.
+
+Mr K.L. Rao said this at a seminar held in Delhi on 23.02.1972.
+
+For your information, I will mention one more thing. On 26.07.72, when I, the Education Minister and the Industries Minister attended the Zonal Council meeting at Hyderabad, Mr K.L. Rao said something there. I say this because people claim that all these difficulties arose from the lack of concern of the Government in a State. I say it particularly so that members of the Communist Party of India will listen carefully.
+
+The power supply position in the States of Southern Zone was going to be extremely bad because of delay in the construction of 390 MW Idikki project due to labour trouble and delay in the commissioning of the 89 MW Unit at Sharavathi on account of delay in supply of equipment, etc., for the project.
+
+That is what he said. At that time a major strike was taking place at Idikki. Those who conducted the strike were other Communists. But if the strike had ended quickly and 390 megawatts of generation had become available there, Tamil Nadu, which is in the “Southern Zone”, could have obtained somewhat more electricity from Kerala. It is because various circumstances of this kind occurred in different places that we have been affected by this power cut. Instead of merely repeating this, we must also attend to what needs to be done.
+
+<!-- source-page: 219 -->
+
+**Dr H.V. Hande:** What I said this morning was precisely the point made by K.L. Rao. At the Basin Bridge Power House, when the installed capacity was 70 megawatts, 60 megawatts was being generated. Now, when the installed capacity is 97.5, only 35 megawatts is being generated. So I said this morning that there is also some defect in our own generation.
+
+**Hon. Mr O.P. Raman:** Sir, at the Basin Bridge Power House, last year when there was no power cut, 24 lakh units were generated. This year 30 lakh units are being generated. There is no basis whatsoever for saying that production has fallen. They said the same about Ennore. They say that generation was full when there was no power cut, but that now we have not increased production and that this is due to our lack of attention. Let me therefore say this: at Ennore too, last year when there was no power cut, only 40 lakh units were generated. But this year 73 lakh units are being generated.
+
+**Mrs T.N. Anandanayaki:** Just one piece of information. The point is not how much we produced when there was no power cut and how much we produce today. When there was no power cut, you were getting the electricity you needed from hydro stations, and therefore there was somewhat less attention to thermal generation. Now there is a power cut. Our question is whether you are now utilising thermal generation to its fullest capacity.
+
+**Hon. Mr O.P. Raman:** It is running fully. Even when Union Minister
+
+<!-- source-page: 220 -->
+
+Dr K.L. Rao spoke, he did not say that it was not running. He said only that arrangements had been made so that there would be no shortage in the water supply; he did not say there was any deficiency. He said that the generators in Tamil Nadu were being operated satisfactorily without any shortcoming.
+
+**Dr H.V. Hande:** What I said was different. I am asking for the figure in megawatts. He is giving figures in lakhs. That will be very convenient for you. They are giving information about how many lakhs. I want the figure in megawatts.
+
+**Hon. Deputy Speaker:** With the permission of the House, I am extending the sitting of the House for a little longer.
+
+**Hon. Kalaignar M. Karunanidhi:** It was alleged that this Government is indifferent and wholly unconcerned about those affected by the power cut. For the past several days, without attending even to other work, I, the members of the Cabinet and the officials have been attending to this issue. In particular, for the sake of handloom weavers, talks were held yesterday with mill owners, and efforts to secure a substantial quantity of yarn have been completed. Hon. members may have seen that in today's newspapers.
+
+In order to avoid, as far as possible, hardship to workers employed in the mills, a tripartite committee consisting of the Government, representatives of labour and industrialists has been formed. Its work too is proceeding rapidly.
