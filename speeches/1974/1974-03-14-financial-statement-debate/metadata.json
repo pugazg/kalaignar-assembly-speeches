@@ -115,8 +115,8 @@
     "verified_against_scan": false,
     "historical_glyph_gate_status": "n-a-closed-modern-2007-typesetting-no-historical-glyph-anomaly-observed",
     "gate_d_status": "pass-complete",
-    "gate_e_status": "not-started",
-    "next_gate": "Gate E word-for-word source-fidelity verification",
+    "gate_e_status": "in-progress",
+    "next_gate": "Gate E source-fidelity verification scans 241-250",
     "outside_wording_imported": false,
     "marker_count": 32,
     "marker_range": "231-262",
@@ -156,6 +156,42 @@
         "closing_ornament": true
       },
       "outside_wording_imported": false
+    },
+    "gate_e": {
+      "status": "in-progress",
+      "verified_scan_pages": "231-240",
+      "verified_printed_pages": "230-239",
+      "verified_page_count": 10,
+      "total_page_count": 32,
+      "remaining_scan_pages": "241-262",
+      "next_batch_scan_pages": "241-250",
+      "correction_entry_count": 2,
+      "correction_occurrence_count": 2,
+      "corrections": [
+        {
+          "scan": 238,
+          "printed_page": 237,
+          "before": "பின்னாக்கு",
+          "after": "பிண்ணாக்கு",
+          "occurrences": 1,
+          "reason": "controlling scan reads பிண்ணாக்கு"
+        },
+        {
+          "scan": 238,
+          "printed_page": 237,
+          "before": "ரெசினால்",
+          "after": "எஃகினால்",
+          "occurrences": 1,
+          "reason": "controlling scan reads எஃகினால்"
+        }
+      ],
+      "unresolved_reading_count": 0,
+      "checked_range_unresolved_readings": [],
+      "source_authority": "rendered pixels of the controlling 2007 anthology splits only",
+      "outside_wording_imported": false,
+      "ocr_wording_imported": false,
+      "verified_against_scan": false,
+      "completion_rule": "Set Tamil verified only after scans 231-262 all pass with zero unresolved readings."
     }
   },
   "translation": {
