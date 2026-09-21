@@ -111,7 +111,7 @@
     "historical_glyph_gate_status": "n-a-closed-modern-2007-typesetting-no-historical-glyph-anomaly-observed",
     "gate_d_status": "pass-complete",
     "gate_e_status": "pass-complete",
-    "next_gate": "Gate F English translation",
+    "next_gate": null,
     "outside_wording_imported": false,
     "gate_c5": {
       "status": "n-a-closed",
@@ -156,7 +156,7 @@
       },
       "outside_wording_imported": false
     },
-    "note": "Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE. Gate E PASS/COMPLETE across scans 191-230 / 40 of 40 pages. Final ledger: 25 correction entries / 30 correction occurrences / 0 unresolved readings. Tamil VERIFIED / verified_against_scan=true. No outside wording imported. Exact next gate: Gate F English translation.",
+    "note": "Gates C–E complete; Tamil VERIFIED / verified_against_scan=true. Gate F complete. Gate G PASS/COMPLETE with 12 English refinements / 0 blockers / 0 Tamil changes. Gate H PASS/COMPLETE; canonical bilingual transcript released. No outside wording imported.",
     "gate_e": {
       "status": "pass-complete",
       "verified_scan_pages": "191-230",
@@ -394,7 +394,7 @@
       },
       "note": "Complete working English translation from verified Tamil only; Gate G fidelity review remains pending."
     },
-    "next_gate": "Gate H canonical bilingual merge / release-readiness closure",
+    "next_gate": null,
     "gate_g": {
       "status": "pass-complete",
       "reviewed_source_pages": "191-230",
@@ -479,15 +479,27 @@
           "after": "after joining the E.D.M.K."
         }
       ]
-    }
+    },
+    "gate_h_status": "pass-complete",
+    "placement": "canonical in transcript.md; translation.md retired to pointer",
+    "canonical_merged": true,
+    "translation_working_copy_retired": true
   },
   "release": {
-    "status": "not-released",
-    "released": false,
-    "release_ready": false,
+    "status": "released",
+    "released": true,
+    "release_ready": true,
     "indexed": false,
-    "gate_h_status": "not-started",
+    "gate_h_status": "pass-complete",
+    "canonical_bilingual_transcript": true,
+    "translation_working_copy_retired": true,
+    "gate_h_wording_changes_tamil": 0,
+    "gate_h_wording_changes_english": 0,
     "parallel_witness_preserved": true,
-    "existing_source_layer_overwritten": false
+    "existing_source_layer_overwritten": false,
+    "same_date_canonical_record_preserved": true,
+    "same_date_canonical_record": "speeches/1973/1973-03-07-financial-statement-reply/",
+    "index_policy": "not added as a second 1973-03-07 entry in data/speeches.json or the dated speech table; discoverable through the anthology source package and repository status sections",
+    "release_note": "Speech 12 Gate H PASS / COMPLETE. Canonical bilingual transcript released; translation.md retired to pointer; no verified Tamil or English wording changed during Gate H. Because the repository already has the separately released same-date 1973-03-07-financial-statement-reply record in the canonical dated indexes, this anthology parallel witness is released without creating a duplicate 1973-03-07 machine-readable/datetime index entry."
   }
 }
