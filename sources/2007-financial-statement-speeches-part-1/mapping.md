@@ -61,7 +61,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 9 | `29.3.1971` | 1971-03-29 | 113–116 | 112–115 | working ID `1971-03-29-financial-statement-debate`; parallel witness to existing `நமது நிலை` provenance/event record |
 | 10 | `29.6.71` | 1971-06-29 | 117–151 | 116–150 | working ID `1971-06-29-financial-statement-debate`; parallel witness to existing `நமது விளக்கம்` provenance/event record |
 | 11 | `10.3.1972` | 1972-03-10 | 152–190 | 151–189 | `1972-03-10-financial-statement-debate` |
-| 12 | `07.03.1973` | 1973-03-07 | 191–230 | 190–229 | working ID `1973-03-07-financial-statement-debate`; **parallel witness only** to released `1973-03-07-financial-statement-reply`; Tamil VERIFIED; Gate F COMPLETE / 40 of 40; Gate G PASS/COMPLETE — 12 refinements / 0 blockers / 0 Tamil changes; English VERIFIED AGAINST TAMIL; Gate H next |
+| 12 | `07.03.1973` | 1973-03-07 | 191–230 | 190–229 | `1973-03-07-financial-statement-debate`; **independent parallel witness** to released `1973-03-07-financial-statement-reply`; Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete; intentionally not duplicated in dated indexes |
 | 13 | `14.03.1974` | 1974-03-14 | 231–262 | 230–261 | `1974-03-14-financial-statement-debate` |
 | 14 | `10.03.1975` | 1975-03-10 | 263–319 | 262–318 | `1975-03-10-financial-statement-debate` |
 | 15 | `03.08.1977` | 1977-08-03 | 320–355 | 319–354 | `1977-08-03-financial-statement-debate` |
@@ -269,8 +269,20 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - Gate F / English — **COMPLETE / 40 of 40**
 - Gate G — **PASS / COMPLETE / 40 of 40 / 12 refinements / 0 blockers / 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **NOT STARTED / next**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+
+## Speech 12 Gate-H closure
+
+- canonical bilingual transcript — **COMPLETE**
+- `translation.md` — **retired pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- existing released `1973-03-07-financial-statement-reply` — **UNCHANGED**
+- relationship — **INDEPENDENT PARALLEL WITNESS / NO OVERWRITE / NO NORMALIZATION**
+- `data/speeches.json` — **unchanged intentionally**
+- root dated speech table — **unchanged intentionally**
+- same-date index policy — **no duplicate canonical 1973-03-07 entry created**
+- release — **RELEASED / CLOSED**
 
 ## Exact continuation
 
-Perform **Speech 12 Gate H canonical bilingual merge / release-readiness closure** while preserving the independent released `1973-03-07-financial-statement-reply` witness unchanged. Do not begin Speech 13 in the same activity.
+Begin **Speech 13 / 14.03.1974 source-boundary and Gate-C setup — scans 231–262 / printed pp.230–261 / 32 pages**. Process it as one intact whole-speech exception when transcription begins. Do not reopen Speech 12 unless a source-backed defect is discovered.
