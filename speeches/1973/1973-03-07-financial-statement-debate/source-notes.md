@@ -94,7 +94,7 @@ The former first-pass uncertainty at scan **191**, `மறுபவழி`, was 
 - Gate E — **PASS / COMPLETE / 40/40**
 - Gate-E correction ledger — **25 entries / 30 occurrences**
 - unresolved readings — **0**
-- English / Gate F — **NOT STARTED / next**
+- English / Gate F — **COMPLETE / 40 of 40 / translated-not-verified**
 - Gate H — **NOT STARTED**
 
 ## Gate E final source-fidelity result
@@ -115,6 +115,22 @@ Strict visual source-fidelity review was completed for **scans 191–230 / 40 of
 
 The final adjudication added two speaker-label punctuation corrections on scans **229** and **230** beyond the earlier checkpoint ledger. Full before→after details are recorded in `verification-log.md` and `metadata.json`.
 
+## Gate F English source policy and result
+
+Gate F is **COMPLETE / 40 of 40 pages**.
+
+- English source — **verified anthology Tamil in `transcript.md` only**
+- released parallel-witness English consulted/imported — **NO / 0**
+- web / Official Report / alternate anthology English imported — **0**
+- source-page alignment — **40 markers / 191→230 / ordered**
+- source-printed English on scans **204, 205, 214, 217 and 218** — **preserved verbatim**
+- scan 222 repeated cinema sentence — **preserved as two English occurrences**
+- scan 228→229 poem transition — **preserved**
+- blocking translation questions — **0**
+- verified Tamil changes — **0**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+
 ## Exact next activity
 
-Begin **Gate F English translation** from the verified anthology Tamil only. Do not begin Gate G/H or Speech 13 in the same activity.
+Perform **Gate G English verification against the verified Tamil for all scans 191–230 / 40 pages**. Record every English refinement and blocker; do not alter verified Tamil merely to improve English. Do not begin Gate H or Speech 13 in the same activity.
