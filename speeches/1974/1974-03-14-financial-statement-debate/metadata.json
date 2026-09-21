@@ -116,7 +116,7 @@
     "historical_glyph_gate_status": "n-a-closed-modern-2007-typesetting-no-historical-glyph-anomaly-observed",
     "gate_d_status": "pass-complete",
     "gate_e_status": "pass-complete",
-    "next_gate": "Gate F English translation",
+    "next_gate": null,
     "outside_wording_imported": false,
     "marker_count": 32,
     "marker_range": "231-262",
@@ -240,17 +240,18 @@
       "ocr_wording_imported": false,
       "verified_against_scan": true,
       "completion_rule": "Satisfied: scans 231-262 all visually verified with zero unresolved readings."
-    }
+    },
+    "note": "Gates C–E complete; Tamil VERIFIED / verified_against_scan=true. Gate F complete. Gate G PASS/COMPLETE with 7 English refinements / 0 blockers / 0 Tamil changes. Gate H PASS/COMPLETE; canonical bilingual transcript released. No outside wording imported."
   },
   "translation": {
     "language": "English",
-    "status": "translated-not-verified",
+    "status": "verified",
     "type": "faithful reading translation",
     "source_text": "Gate-E-verified Tamil in transcript.md",
-    "verified_against_tamil": false,
+    "verified_against_tamil": true,
     "gate_f_status": "complete",
-    "gate_g_status": "not-started",
-    "next_gate": "Gate G English fidelity review",
+    "gate_g_status": "pass-complete",
+    "next_gate": null,
     "external_witness_translation_imported": false,
     "completed_scan_pages": "231-262",
     "completed_page_count": 32,
@@ -281,14 +282,70 @@
         "kavalar"
       ],
       "note": "Complete working English translation from Gate-E-verified Tamil only; Gate G fidelity review remains pending."
-    }
+    },
+    "gate_g": {
+      "status": "pass-complete",
+      "reviewed_source_pages": "231-262",
+      "reviewed_page_count": 32,
+      "refinement_count": 7,
+      "blocking_issue_count": 0,
+      "verified_tamil_changes": 0,
+      "source_printed_english_changes": 0,
+      "outside_english_imported": false,
+      "source_page_markers_preserved": true,
+      "refinements": [
+        {
+          "page": 232,
+          "before": "would then itself have told the ruling party",
+          "after": "would have told the ruling party even then"
+        },
+        {
+          "page": 233,
+          "before": "had both the feeling to appreciate ... and the feeling to point out",
+          "after": "had both the inclination to appreciate ... and the inclination to point out"
+        },
+        {
+          "page": 234,
+          "before": "this Government is as described in the sentiments of that song",
+          "after": "this Government corresponds to the sentiments expressed in that song"
+        },
+        {
+          "page": 236,
+          "before": "a deficit budget could be good",
+          "after": "a budget could be good"
+        },
+        {
+          "page": 250,
+          "type": "source-timeline-restoration",
+          "note": "Restored explicit 1965-66 ... 1966 sequence in private-tube-well sentence."
+        },
+        {
+          "page": 250,
+          "type": "source-timeline-restoration",
+          "note": "Restored explicit 1966 ... 1967 bore-well sequence without smoothing source anomaly."
+        },
+        {
+          "page": 261,
+          "before": "having seen the Munnetra Kazhagam Government",
+          "after": "looking to the Munnetra Kazhagam Government"
+        }
+      ]
+    },
+    "gate_h_status": "pass-complete",
+    "placement": "canonical in transcript.md; translation.md retired to pointer",
+    "canonical_merged": true,
+    "translation_working_copy_retired": true
   },
   "release": {
-    "status": "not-released",
-    "released": false,
-    "release_ready": false,
-    "indexed": false,
-    "gate_h_status": "not-started",
-    "canonical_bilingual_transcript": false
+    "status": "released",
+    "released": true,
+    "release_ready": true,
+    "indexed": true,
+    "gate_h_status": "pass-complete",
+    "canonical_bilingual_transcript": true,
+    "translation_working_copy_retired": true,
+    "gate_h_wording_changes_tamil": 0,
+    "gate_h_wording_changes_english": 0,
+    "release_note": "Speech 13 Gate H PASS / COMPLETE. Canonical bilingual transcript released; translation.md retired to pointer; no verified Tamil or English wording changed during Gate H. Unique date 1974-03-14 is eligible for the canonical dated indexes."
   }
 }
