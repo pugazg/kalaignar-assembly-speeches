@@ -70,43 +70,27 @@ Speech 12 spans **40 pages**, exceeding the normal 25-page activity allowance. I
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **COMPLETE / 40 of 40 pages**
 - source markers — **191→230 exactly once and in order**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-- first-pass unresolved readings — **0**
-- scan 191 `மறுபவழி` — **CONFIRMED AS PRINTED from the same controlling scan at Gate D; wording unchanged**
-- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; no historical-glyph condition requiring a separate pass**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
+- unresolved readings — **0**
+- scan 191 `மறுபவழி` — **CONFIRMED AS PRINTED from the same controlling scan; wording unchanged**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
 - Gate D — **PASS / COMPLETE — 40/40 pages; 39/39 internal transitions; 0 completeness corrections**
-- Gate E — **IN PROGRESS / VISUAL REVIEW COMPLETE — scans 191–230 reviewed / 40 of 40 pages; checkpoint ledger 23 correction entries / 28 occurrences; ledger not yet batch-applied; final adjudication/post-edit validation pending**
-- English / Gate F — **NOT STARTED**
+- Gate E — **PASS / COMPLETE — 40/40 pages; 25 correction entries / 30 correction occurrences / 0 unresolved**
+- English / Gate F — **NOT STARTED / next**
 - Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - outside-source wording imported — **0**
 
-Gate C preserves speaker interventions, source-printed English, numerals, source punctuation/spelling and visible repetition. Gate D confirmed structural completeness only: all 40 markers, both hard boundaries, all 39 internal transitions, source-printed English blocks, speaker interventions, figures/quotations, the scan-222 visible repetition, scan-228→229 poem continuation, and scan-230 close are represented. Tamil remains **NOT VERIFIED**; Gate D is not a word-for-word verification claim.
+Gate E completed strict page-by-page source-fidelity verification against the controlling anthology pixels only. The final adjudication added two speaker-label punctuation corrections on scans 229 and 230 beyond the earlier checkpoint ledger. Scan 222's repeated cinema-show sentence remains source-visible and is retained twice; the scan 228→229 poem continuation and scan 230 close are confirmed.
 
 ## Files
 
-- `transcript.md` — Gate-C Tamil first-pass transcript with source-page markers
+- `transcript.md` — verified Tamil transcript with source-page markers
 - `metadata.json` — machine-readable source, parallel-witness and gate state
 - `source-notes.md` — source authority, split mapping and provenance separation
-- `verification-log.md` — boundary and Gate-C activity record
-
-## Gate E progress checkpoint
-
-Gate E visual review is now **complete across all 40 pages**, but Gate E is **not yet closed**.
-
-- reviewed — **scans 191–230 / 40 of 40 pages**
-- pending visual scans — **none**
-- checkpoint correction ledger — **23 confirmed correction entries / 28 correction occurrences**
-- ledger application — **deferred pending final adjudication**
-- scan 229 — **0 new correction entries / 0 unresolved**
-- scan 230 — **4 new correction entries / 0 unresolved**
-- scan 204 late re-adjudication — **1 correction entry confirmed**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
-
-The complete checkpoint ledger is in `verification-log.md`. The transcript body has not yet been batch-edited, so this state must not be treated as Gate-E closure.
+- `verification-log.md` — full Gate-C through Gate-E audit and correction ledger
 
 ## Exact next activity
 
-Finalize the complete 40-page Gate-E correction ledger, batch-apply all source-supported corrections to `transcript.md`, revalidate markers 191→230, and record final correction/unresolved totals. Only then may Tamil be marked VERIFIED. Do not begin English translation, Gate H or Speech 13 in the same activity.
+Begin **Gate F English translation for all 40 verified Tamil pages / scans 191–230**, using this verified anthology Tamil as the sole translation source. Preserve the independent parallel-witness separation. Do not begin Gate G/H or Speech 13 in the same activity.
