@@ -431,7 +431,7 @@ No OCR, web copy, Official Report, released 1973 wording, alternate anthology or
 - root dated speech table — **unchanged intentionally**
 - no duplicate canonical `1973-03-07` index record was created.
 
-## Speech 13 Gate-E closure
+## Speech 13 Gate-F completion
 
 Working entry:
 
@@ -442,16 +442,20 @@ Working entry:
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 32 of 32 / 31 of 31 transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / 32 of 32**
-- final Gate-E ledger — **8 correction entries / 9 occurrences**
-- unresolved readings — **0**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- closing scan 262 — **`இந்த அவையில் அமைகிறேன். வணக்கம்.` / ornament confirmed**
-- outside/released-witness wording imported — **0**
+- Gate F / English — **COMPLETE / 32 of 32 pages**
+- English source-page sequence — **231→262 / complete / ordered**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-printed English — **preserved verbatim**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- Gate G — **NOT STARTED / next**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
 - Speech 12 — **unchanged / RELEASED / CLOSED**
 - Speech 14 — **not begun**
-- Gate F / English — **NOT STARTED / next**
-- Gate G / Gate H — **NOT STARTED**
 
 ## Exact next activity
 
-Begin **Speech 13 Gate F English translation** from the final Gate-E-verified Tamil only. Do not alter verified Tamil, begin Gate G/Gate H, or begin Speech 14 in the same activity.
+Perform **Speech 13 Gate G English fidelity review — source pages 231–262 / 32 of 32** against the final Gate-E-verified Tamil only. Do not modify verified Tamil, begin Gate H, or begin Speech 14 in the same activity.
