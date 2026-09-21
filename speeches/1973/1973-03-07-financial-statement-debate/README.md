@@ -80,18 +80,18 @@ Speech 12 spans **40 pages**, exceeding the normal 25-page activity allowance. I
 - English / Gate F — **COMPLETE / 40 of 40 pages**
 - Gate G — **PASS / COMPLETE / 40 of 40 / 12 refinements / 0 blockers / 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H / release — **NOT STARTED / next / NOT RELEASED**
+- Gate H / release — **PASS / COMPLETE — RELEASED / CLOSED**
 - outside-source wording imported — **0**
 
 Gate E completed strict page-by-page source-fidelity verification against the controlling anthology pixels only. The final adjudication added two speaker-label punctuation corrections on scans 229 and 230 beyond the earlier checkpoint ledger. Scan 222's repeated cinema-show sentence remains source-visible and is retained twice; the scan 228→229 poem continuation and scan 230 close are confirmed.
 
 ## Files
 
-- `transcript.md` — verified Tamil transcript with source-page markers
+- `transcript.md` — canonical bilingual verified Tamil + verified English
 - `metadata.json` — machine-readable source, parallel-witness and gate state
 - `source-notes.md` — source authority, split mapping and provenance separation
 - `verification-log.md` — Gate-C through Gate-F audit record
-- `translation.md` — Gate-G-verified English translation with source-page markers
+- `translation.md` — released pointer to canonical English in `transcript.md`
 - `translation-review.md` — Gate-F/G audit and refinement ledger
 
 ## Gate F / Gate G result
@@ -111,6 +111,21 @@ Gate E completed strict page-by-page source-fidelity verification against the co
 
 The Gate-G refinement ledger is in `translation-review.md`.
 
+## Gate H result
+
+- canonical bilingual `transcript.md` — **COMPLETE**
+- Tamil markers **191→230** — **40/40 / exactly once / ordered**
+- English source-page sections **191→230** — **40/40 / exactly once / ordered**
+- `translation.md` — **retired to released pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- source-printed English — **preserved verbatim**
+- scan 222 repetition — **preserved twice**
+- scan 228→229 poem — **preserved**
+- independent same-date released witness — **UNCHANGED**
+- `data/speeches.json` — **unchanged intentionally**
+- root dated speech table — **unchanged intentionally**
+- index policy — this released anthology parallel witness is discoverable through the anthology package and repository status sections, without creating a duplicate canonical `1973-03-07` dated entry.
+
 ## Exact next activity
 
-Perform **Gate H canonical bilingual merge / release-readiness closure for Speech 12** while preserving the separate released `1973-03-07-financial-statement-reply` witness unchanged. Do not begin Speech 13 in the same activity.
+Begin **Speech 13 / 14.03.1974 source-boundary and Gate-C setup** from the controlling anthology. Do not reopen Speech 12 unless a source-backed defect is discovered.
