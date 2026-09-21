@@ -73,3 +73,50 @@ Mr James spoke on this financial statement. He said that the Chief Minister had 
 Mr James said one thing. He said: “The State Government had an income of Rs.194 crore in 1966-67. In 1973-74 the State Government's income is Rs.465 crore.” He then subtracted 194 from 465 and said that an additional Rs.271 crore in tax had therefore been imposed on the people. In other words, he treated the whole of revenue as tax: Rs.465 crore in tax now, Rs.194 crore in tax in 1966-67, so 465 minus 194 equals Rs.271 crore. That is an easy argument. They say, “7 plus 8 is 15.” We dispute it. They ask, “How can you dispute that 7 plus 8 is 15?”
 
 What we say is, without doubt, 7 plus 8 is indeed 15. But if, in arriving at 7, you calculate 4 plus 2 as 7 and then say that 7 plus 8 is 15, that is what we are answering. In that sense, Mr James's statement that the State Government received Rs.194 crore in tax revenue in 1966-67 is wrong, and the claim that Rs.465 crore was received through taxes in 1973-74 is also wrong. This revenue includes many different heads. In 1966-67, the share of Central taxes, which was Rs.29 crore,
+
+
+<!-- source-page: 201 -->
+
+has now risen to Rs.96 crore. Madam will be very happy. Look: in 1966-67 the Central Government gave only Rs.29 crore; now it gives Rs.96 crore. I think this gives her a very good point for the public platform: “Even after giving so much, Karunanidhi says there is a stepmotherly attitude. Is that fair?” But what I wish to say is that we must not forget that the Central Government gives this share out of taxes collected from Tamil Nadu as well. The share of taxes received through the Central Government has risen from Rs.29 crore to Rs.96 crore. Central assistance, which was Rs.23 crore in 1966-67, has now risen to Rs.89 crore. If all these are deducted, non-tax revenue was Rs.46 crore and is now Rs.54 crore. If one looks at non-tax revenue, in 1966-67 the figure of Rs.194 crore was not tax; it was total revenue. Of that, tax alone was only Rs.95 crore. On the same basis, State tax revenue now is Rs.225 crore. It was Rs.95 crore in 1966-67; now State tax revenue is Rs.225 crore.
+
+Ministers and I have explained many times in this House that this increase is not due to imposing new taxes on those who cannot bear them. The Rs.95 crore has risen to Rs.225 crore over seven years because old taxes were raised slightly, many reforms were carried out, and because of the progress we produced in industrial and economic development in our State. Is it right for it to rise so much in seven years? That is a fair question. Whether tax revenue of Rs.95 crore may rise to Rs.225 crore over seven years is indeed a fair question. At the same time, before 1967, if we go back another seven
+
+<!-- source-page: 202 -->
+
+years, tax revenue which was Rs.39 crore in 1959-60 had risen to Rs.95 crore by 1966-67. That is an increase of 2.45 times. Compared with 1959-60, tax revenue in 1966-67 was 2.45 times as high. If that is compared with the present period, the rise from Rs.95 crore to Rs.225 crore over these seven years is only 2.36 times. Thus, in the previous seven-year period it rose 2.45 times, while in the present seven-year period it has risen only 2.36 times.
+
+**Mrs T.N. Anandanayaki:** In these six or seven years—we should take only six years—from 1967 to 1973, do you admit that tax revenue has risen by about Rs.130 crore? That is the question.
+
+**Hon. Kalaignar M. Karunanidhi:** If I did not admit it, the tax would not come in!
+
+**Dr H.V. Hande:** The Hon. Chief Minister replied to what Mr Gopal said. Mr Gopal made one more point. He said a great deal of money is being spent on advertisements and asked what it is for. What is the answer to that?
+
+**Hon. Kalaignar M. Karunanidhi:** Mr Hande should not be in such a hurry. That is my next point. Mr Gopal said it; I have noted it down. He said that when Anna was Chief Minister, expenditure on newspaper advertisements over two years was Rs.2.18 lakh, and that it has now increased. First I want to give an explanation.
+
+<!-- source-page: 203 -->
+
+When Anna was Chief Minister, SIDCO, SIPCOT, the Tourism Board, the Slum Clearance Board and the Water Supply and Drainage Board did not exist. Advertisements are now issued on behalf of these bodies too. Not only that: after 1969, newspaper advertising rates were increased. Even the newspapers that boxed and highlighted Mr Gopal's speech know this very well; newspaper advertising rates were raised. Even so, what Mr Gopal said was based on an incorrect calculation.
+
+It is wrong to say that only Rs.2.18 lakh was spent on advertisements during the two years in which Anna was Chief Minister. It is completely wrong. In 1967-68 alone, while Anna was in office, Rs.5,20,945 was spent; in 1968-69, Rs.8,09,151 was spent. Thus more than Rs.13 lakh was spent on advertisements during those two years under Anna's Chief Ministership. In 1969-70, Rs.12 lakh was spent; in 1970-71, Rs.20,43,000; and in 1971-72, Rs.24,83,000. The total amount spent on advertisements in these three or four years was Rs.57 lakh. They pointed out that advertisements worth about Rs.1½ lakh or Rs.2 lakh were given to Murasoli. True. Out of Rs.57 lakh, after giving Rs.1½ or Rs.2 lakh in advertisements to Murasoli, the remaining Rs.55 lakh was given to other newspapers for advertisements. Therefore no one can say that some great wrong has been committed.
+
+**Dr H.V. Hande:** We are not objecting to advertisements being given to Murasoli. But Mr Gopal said here that advertisements should be given in proportion to circulation. I am saying the same thing.
+
+<!-- source-page: 204 -->
+
+What is the basis on which the advertisement is given? What is the circulation of ‘Murasoli’ and whether the advertisement is proportionate to its circulation. That is the only question I want to ask and if the Hon. Chief Minister gives the figures, it would be more useful to the House and also we would be having an objective assessment of the problem.
+
+**Hon. Kalaignar M. Karunanidhi:** I will speak about that. Advertisement expenditure has not risen only here. Even in the Central Government, it rose from Rs.55 lakh in 1963-64 to Rs.115 lakh in 1971-72. They asked on what basis advertisements should be given. At the conference of Information Ministers that day, Prime Minister Indira Gandhi stated the basis on which they should be given. I will read it out—please listen.
+
+“On December 8”, while inaugurating the Conference of Information and Publicity Ministers in New Delhi, the Prime Minister of India stated that “Government publicity media can be used only to propagate the policies of the Government and not for those who severely criticise the policies of the Government.”
+
+She said further that, “When the people have elected a Government to implement its policies, this advertising expenditure from the tax money of those people should be in a manner that supports those policies,” the Prime Minister observed. Even so, we do not follow here precisely the same policy stated by the Prime Minister of India. Even where there is a difference of policy, we exclude only newspapers that deliberately publish defamatory and false reports vilifying this Government, and
+
+<!-- source-page: 205 -->
+
+we give advertisements to the other newspapers. This Government gives advertisements to all newspapers without even applying the policy-difference criterion referred to by Mrs Indira Gandhi.
+
+**Mrs T.N. Anandanayaki:** If that is so, there are so many neutral papers. Advertisements could have been given to them. There are papers with “news value” among the public, not merely particular papers. You can give advertisements to them. If you give them only to your party papers, is that fair?
+
+**Hon. Kalaignar M. Karunanidhi:** I have already said it. Out of Rs.57 lakh, Rs.55 lakh is given to other newspapers. Mr Gopal said that Rs.1½ or Rs.2 lakh is given to Murasoli. It is given to Murasoli. There is nothing wrong in that. I state here that it will continue.
+
+Dr. H.V. HANDE: What is the circulation of ‘Murasoli’ and what is the amount given towards advertisement charges and whether it is proportionate to its circulation? Of Course, the Hon. Chief Minister says that he is not going to give advertisement to newspapers which criticise him harshly. That is a different matter which I do not want to go into now. Also what is the circulation of newspapers like ‘Dinamani, ‘The Hindu’ and ‘The Indian Express’ which the Government consider as neutral papers and what is the amount given to them towards advertisement charges? I am asking a specific question and I want a specific answer. In this connection, I want to point out that so far as the circulation of ‘Murasoli’ is concerned, it is about 15,000. If it is more than 15,000 it has to pay 2 paise extra as tax to the Central Government and that is a different matter. So, I request the Hon. Chief Minister to clarify whether the amount of advertisement charges is commensurate with its circulation.
