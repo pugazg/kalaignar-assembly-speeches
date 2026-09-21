@@ -1,6 +1,6 @@
-# English translation — Gate F working copy
+# English translation — Gate G verified
 
-> **Gate F state:** **COMPLETE — 32 of 32 English source-page sections / pages 231–262**. The translation is derived only from the final Gate-E-verified Tamil. Source-page sequence, speaker/intervention structure, figures, quotations, source-printed English and source-visible repetition are preserved. Blocking translation questions: **0**. Verified-Tamil changes: **0**. English remains **TRANSLATED / NOT VERIFIED AGAINST TAMIL** with `verified_against_tamil=false` until Gate G.
+> **Gate G state:** **PASS / COMPLETE — 32 of 32 English source-page sections / pages 231–262 reviewed against the final Gate-E-verified Tamil**. Gate-G refinements: **7**. Blocking fidelity issues: **0**. Verified-Tamil changes: **0**. Source-printed English remains verbatim. English is **VERIFIED AGAINST TAMIL** with `verified_against_tamil=true`.
 
 ### Source page 231
 
@@ -14,7 +14,7 @@ When our Congress Party leader Mr Ponnappa Nadar spoke, we all noticed that half
 
 Mr Ponnappa Nadar himself cited many portions here.
 
-But when I asked whether our Nadar was a member of this House when Anna spoke from the opposition benches, he said that he was not. Had he been here, I believe he would then itself have told the ruling party that it must certainly carry out Anna's advice. But whether it was Anna's misfortune, or whether the country was destined to receive benefits only after a little more delay, Mr Ponnappa Nadar was not in this House at that time...
+But when I asked whether our Nadar was a member of this House when Anna spoke from the opposition benches, he said that he was not. Had he been here, I believe he would have told the ruling party even then that it must certainly carry out Anna's advice. But whether it was Anna's misfortune, or whether the country was destined to receive benefits only after a little more delay, Mr Ponnappa Nadar was not in this House at that time...
 
 **Mr R. Ponnappa Nadar:** Our political policy is different. I will certainly not come to your party. I cited those merely as quotations. What I pointed out was that, if you came to power, you should do all these things.
 
@@ -28,13 +28,13 @@ remind us also of what Anna said then.
 
 Our Government is duty-bound to carry out, slowly but surely, all the matters that our party placed before the Congress Party when we were in opposition and it was the ruling party. After assuming office as Chief Minister, Anna told this House that we were continuing that work. Therefore, there is no need to think that the views expressed by Anna when we were in opposition will remain unimplemented under this Government.
 
-When the Congress Party leader and Mr K.T.K. Thangamani, one of the leaders of the Communist Party of India, took part in this debate, they used a fine sentence Anna had used in argument: the opposition does not exist to sing lullabies to the ruling party; it exists to express opposition to it. No one should forget that Anna had both the feeling to appreciate the good things done by the ruling party and the feeling to point out its wrong actions.
+When the Congress Party leader and Mr K.T.K. Thangamani, one of the leaders of the Communist Party of India, took part in this debate, they used a fine sentence Anna had used in argument: the opposition does not exist to sing lullabies to the ruling party; it exists to express opposition to it. No one should forget that Anna had both the inclination to appreciate the good things done by the ruling party and the inclination to point out its wrong actions.
 
 When the Congress Party leader and the Communist Party leader said here that they had not come to sing us lullabies, I thought that, whenever they spoke disparagingly and critically of this Government, even if I did not regard it as a lullaby, I would regard it as a *nalangu* song sung in old-style wedding houses. In those old wedding houses, however handsome the bridegroom
 
 ### Source page 234
 
-and however beautiful the bride, the bride's family would sing mockingly of the handsome bridegroom, and the bridegroom's family would similarly sing mockingly of the beautiful bride. The bride's side would sing, “For our beautiful girl, is this long-faced bridegroom the match?” and the bridegroom's side would sing, “Is this sour-faced girl a match for our handsome man?” In old wedding houses this was called a *nalangu* song. Even when they sang mockingly in that way, their hearts wished to praise both the bridegroom and the bride. In that manner, *nalangu* was traditionally an occasion for teasing and banter in old wedding houses. So I take what they have said, if not as a lullaby, at least as *nalangu*. But I wish to state that I do not accept that this Government is as described in the sentiments of that song.
+and however beautiful the bride, the bride's family would sing mockingly of the handsome bridegroom, and the bridegroom's family would similarly sing mockingly of the beautiful bride. The bride's side would sing, “For our beautiful girl, is this long-faced bridegroom the match?” and the bridegroom's side would sing, “Is this sour-faced girl a match for our handsome man?” In old wedding houses this was called a *nalangu* song. Even when they sang mockingly in that way, their hearts wished to praise both the bridegroom and the bride. In that manner, *nalangu* was traditionally an occasion for teasing and banter in old wedding houses. So I take what they have said, if not as a lullaby, at least as *nalangu*. But I wish to state that I do not accept that this Government corresponds to the sentiments expressed in that song.
 
 Many views were expressed overall about the financial statement. A budget is connected with major questions such as increasing the pace of development, controlling prices and reducing unemployment.
 
@@ -54,7 +54,7 @@ Budgets presented at the State level can be framed only on the basis of the powe
 
 ### Source page 236
 
-was raised. From the nineteenth century to the beginning of the twentieth century—one may draw the line at 1930—the view was that preparing a deficit budget was dangerous and would raise prices. A contrary view was also expressed that a deficit budget could be good and that surplus budgets were not necessarily so desirable.
+was raised. From the nineteenth century to the beginning of the twentieth century—one may draw the line at 1930—the view was that preparing a deficit budget was dangerous and would raise prices. A contrary view was also expressed that a budget could be good and that surplus budgets were not necessarily so desirable.
 
 Instead of spending our time debating whether a surplus or deficit budget is good, we should examine a financial statement in the light of the circumstances in which the budget is prepared, the size of the deficit and the gap in that budget, the effort made to fill it, and the extent to which people at the bottom are affected by that effort.
 
@@ -194,7 +194,7 @@ The schemes sanctioned in 1973-74 have also all been published in the financial 
 
 If you look at the additional irrigation achieved under minor-irrigation schemes, you will see figures created by this Government over five or six years that will astonish you.
 
-By 1966 there were 4,369 private tube wells; today there are 14,477. By 1966 there were 2,248 filter-point wells; today there are 14,737. In 1967 there were 565 bore wells; today there are 4,873. In 1967 there were 100 deepened wells; today there are 8,042. Up to 1966, the additional area irrigated was 1,10,160 acres; today it is 4,71,782 acres. No one can forget that these are notable achievements we have made through minor-irrigation schemes.
+Up to 1965-66, over the years through 1966, there were 4,369 private tube wells; today there are 14,477. By 1966 there were 2,248 filter-point wells; today there are 14,737. Up to 1966, in 1967 there were 565 bore wells; today there are 4,873. In 1967 there were 100 deepened wells; today there are 8,042. Up to 1966, the additional area irrigated was 1,10,160 acres; today it is 4,71,782 acres. No one can forget that these are notable achievements we have made through minor-irrigation schemes.
 
 When Mr Ponnappa Nadar, members of the Communist Party, others, and members of the Anna Dravida Munnetra Kazhagam spoke, they asked about the joint-sector approach adopted by the Tamil Nadu Government, and in particular about the fertilizer factory at Thoothukudi: why should it remain in the joint sector, and why should it not be in the public sector? We pressed the Central Planning Commission to allow us to run the nearly Rs.85-crore fertilizer project ourselves as a State Government project, as a public-sector project. The Central Planning Commission refused. Without assistance from the Central Government, we cannot establish an Rs.85-crore project.
 
@@ -295,7 +295,7 @@ Our friend Mr Ponnappa Nadar even said that this was the last budget. I am not w
 
 **Hon. Kalaignar M. Karunanidhi:** They said they would dissolve it. Then we too said that we would dissolve ours.
 
-Thus, the Tamil people, having seen the Munnetra Kazhagam Government, have entrusted responsibility to us for five years, for ten years—both in 1967 and now. I wish to state that our party is capable of discharging that responsibility.
+Thus, the Tamil people, looking to the Munnetra Kazhagam Government, have entrusted responsibility to us—for five years, for ten years, both in 1967 and now. I wish to state that our party is capable of discharging that responsibility.
 
 At the same time, however, I ask you to write and speak all your differing views in a manner that will encourage us and help the administration to be carried on properly. We certainly do not have an obstinate determination that we alone must sit here, giving no place to anyone else.
 
