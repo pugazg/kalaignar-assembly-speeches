@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches **1–9 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 9 / 29.3.1971 closed with **4 Gate-E corrections / 11 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes** as an independent parallel witness to `நமது நிலை`. Speech 10 / 29.6.71 now has **source-boundary and Gate-C setup COMPLETE** with full 35-page controlling split coverage confirmed; Tamil and Gate C remain **NOT STARTED**.
+Speeches **1–9 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 9 / 29.3.1971 closed with **4 Gate-E corrections / 11 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes** as an independent parallel witness to `நமது நிலை`. Speech 10 / 29.6.71 now has **Gate C COMPLETE across all 35 pages**; Tamil is **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`.
 
 ## Whole-speech batching policy
 
@@ -353,45 +353,49 @@ English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**.
 
 Gate H is **PASS / COMPLETE — RELEASED / CLOSED**. The canonical `transcript.md` now contains verified Tamil + verified English; `translation.md` is retired to a pointer; root and machine-readable dated indexes are synchronized. Gate-H wording changes: **0 Tamil / 0 English**. The `நமது நிலை` source layer remains unchanged.
 
-## Speech 10 source-boundary / Gate-C setup
+## Speech 10 Gate-C first-pass state
 
 Working entry:
 
-[`../../speeches/1971/1971-06-29-financial-statement-debate/`](../../speeches/1971/1971-06-29-financial-statement-debate/)
+`speeches/1971/1971-06-29-financial-statement-debate/`
 
-- source label/date — `உரை : 10 / 29.6.71`
-- global scans — **117–151 / 35 pages**
+Locked unit:
+
+- source label — `உரை : 10`
+- printed date — `29.6.71`
+- ISO date — `1971-06-29`
+- global scans — **117–151**
 - printed pages — **116–150**
-- hard boundaries — **116→117 / 151→152 — visually re-confirmed**
-- scan 117 — Speech 10 heading/start
-- scan 151 — Speech 10 closing page/ornament
-- scan 152 — Speech 11 / `உரை : 11 / நாள் : 10.3.1972` start, excluded
-- source coverage — **COMPLETE / 35 of 35 pages available**
+- page count — **35**
+- start boundary — **116→117 — PASS**
+- end boundary — **151→152 — PASS**
+- scan 152 — Speech 11 / `10.3.1972`, excluded
 
-Controlling split coverage:
+Controlling split coverage remains **35/35 pages**:
 
-| Split | Local pages used | Global scans | Printed pages | Speech pages | SHA-256 |
-|---|---:|---:|---:|---:|---|
-| `...part_005_pages_101-125.pdf` | 17–25 | 117–125 | 116–124 | 9 | `1ae9039952b35b70035365de3774cdf3df5ae6c62cb38d030683ce93e2456ade` |
-| `...part_006_pages_126-150.pdf` | 1–25 | 126–150 | 125–149 | 25 | `67f71bd3d4bce3c2fe9c258daaa307e29b3a5a195c848b4597c4844066ca8043` |
-| `...part_007_pages_151-175.pdf` | 1 | 151 | 150 | 1 | `e6fc152ccc1953d829438fafb6bdcfe5865633033662924518366c05a844f906` |
+1. part005 local pages **17–25** = scans **117–125** / 9 pages — SHA-256 `1ae9039952b35b70035365de3774cdf3df5ae6c62cb38d030683ce93e2456ade`
+2. part006 local pages **1–25** = scans **126–150** / 25 pages — SHA-256 `67f71bd3d4bce3c2fe9c258daaa307e29b3a5a195c848b4597c4844066ca8043`
+3. part007 local page **1** = scan **151** / 1 page — SHA-256 `e6fc152ccc1953d829438fafb6bdcfe5865633033662924518366c05a844f906`
 
-Boundary-only pages inspected: part005 local 16 = global scan 116 / Speech 9 close; part007 local 2 = global scan 152 / Speech 11 start. The supplied part008 split begins at global scan 176 and is **not controlling for Speech 10**.
+Boundary-only pages remain part005 local 16 = scan 116 and part007 local 2 = scan 152. Part008 remains outside Speech 10.
 
-The 2007 anthology remains an **independent parallel witness** to `sources/1971-namathu-vilakkam/events/1971-06-29-assembly-budget-reply.md`. The existing `நமது விளக்கம்` source layer was not used for wording and remains unchanged.
+Parallel-witness lock remains unchanged: the 2007 anthology is an **independent source witness** to `sources/1971-namathu-vilakkam/events/1971-06-29-assembly-budget-reply.md`. No wording from that layer, Official Reports, OCR, web copies or alternate anthologies was imported.
 
 Current state:
 
-- Tamil — **NOT STARTED / verified_against_scan=false**
-- Gate C — **NOT STARTED**
-- Gate C.5 — **NOT STARTED**; anthology-level modern-typesetting assessment remains provisional until the speech is processed
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Gate C — **COMPLETE / 35 of 35 pages**
+- markers — **117→151 / unique / ordered / PASS**
+- first-pass unresolved readings — **0 explicitly flagged**
+- Gate C.5 — **NOT STARTED**
 - Gate D / Gate E — **NOT STARTED**
 - English / Gates F–G — **BLOCKED / NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
-- `transcript.md` — intentionally not created during setup
+- `transcript.md` — **created**
 
-Under the whole-speech policy, Gate C must process scans **117–151 as one intact 35-page speech unit**, notwithstanding the normal 25-page activity allowance.
+Gate-C final assembly reconciled the working page split around **123–125** and **136–138** and definite pixel readings at scans **120, 127, 139, 142, 144 and 149**. This remains a first-pass transcription state, not a Gate-E verification claim.
 
 ## Exact next activity
 
-Perform **Speech 10 Gate C Tamil first-pass transcription — scans 117–151 / printed pp.116–150 / 35 pages**, using only the rendered pixels of the three controlling splits above. Do not begin Gate D, English work, or Speech 11 in that activity.
+Perform the **Speech 10 Gate C.5 applicability decision**. If Gate C.5 is N/A / closed for the modern 2007 typesetting, proceed to **Gate D structural completeness audit — scans 117–151 / 35 pages**. Keep Tamil **NOT VERIFIED** and do not begin Gate E, English work, or Speech 11.

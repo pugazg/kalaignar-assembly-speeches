@@ -13,7 +13,7 @@ Controlling anthology:
 - usable parsed text layer — **none**
 - textual authority — **rendered scan pixels**
 
-No Speech-10 wording was transcribed in this setup activity.
+Speech-10 Gate C is now complete as a 35-page first-pass transcription from the rendered anthology pixels only. The resulting Tamil remains **TRANSCRIBED / NOT VERIFIED**.
 
 ## Locked speech boundary
 
@@ -92,21 +92,25 @@ The earlier `நமது விளக்கம்` layer was not used for wordi
 
 The normal activity limit is 25 source pages. Speech 10 is 35 pages, and the repository's explicit exception applies: a single speech longer than 25 pages is processed separately as **one intact unit** rather than split merely to satisfy the allowance.
 
-Future Gate C therefore covers **all scans 117–151** in one speech activity.
+Gate C was completed across **all scans 117–151** as one intact 35-page speech activity.
 
-## Gate state after setup
+## Gate state after Gate C
 
 - source coverage / boundary setup — **PASS / COMPLETE**
-- Tamil — **NOT STARTED**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- Gate C — **NOT STARTED**
+- Gate C — **COMPLETE / 35 of 35 pages**
+- source markers **117→151** — **35/35 / unique / ordered / PASS**
+- first-pass unresolved readings — **0 explicitly flagged**
 - Gate C.5 — **NOT STARTED**
 - Gate D / Gate E — **NOT STARTED**
 - English / Gates F–G — **BLOCKED / NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - outside-source wording imported — **0**
-- `transcript.md` — intentionally not created
+- `transcript.md` — **created**
+
+Gate C does not establish word-for-word source fidelity. Final Gate-C assembly reconciled page-marker drift around scans **123–125** and **136–138** and corrected six definite pixel readings at scans **120, 127, 139, 142, 144 and 149**. These are first-pass transcription reconciliations, not Gate-E corrections.
 
 ## Exact next
 
-**Gate C Tamil first-pass transcription — global scans 117–151 / printed pp.116–150 / 35 pages**, from the controlling split pixels only.
+**Gate C.5 applicability decision for Speech 10.** If the modern 2007 typography makes Gate C.5 N/A, continue to the **Gate D structural completeness audit — scans 117–151 / printed pp.116–150 / 35 pages**. Keep `verified_against_scan=false` until Gate E.

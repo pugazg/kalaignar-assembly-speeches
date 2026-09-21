@@ -43,13 +43,55 @@ Total Speech-10 source coverage: **35/35 pages**.
 - OCR / Official Report / web / alternate-anthology wording imported — **0**;
 - 2007 anthology status — **independent source witness**.
 
-## Gate status
+## Gate C Tamil first pass
 
-- Tamil — **NOT STARTED / NOT VERIFIED**
+**Status: COMPLETE — transcription coverage only / NOT VERIFIED**
+
+The complete Speech-10 first pass was transcribed from the rendered 2007 anthology pixels only.
+
+### Coverage and marker checks
+
+- global scans — **117–151**
+- printed pages — **116–150**
+- represented pages — **35/35**
+- source-page markers — **117→151**
+- marker count — **35**
+- duplicate markers — **0**
+- missing markers — **0**
+- order — **PASS**
+- scan 116 admitted — **no**
+- scan 152 admitted — **no**
+- first-pass unresolved readings explicitly flagged — **0**
 - `verified_against_scan=false`
-- Gate C — **NOT STARTED**
-- source-page markers — **not yet created**
-- unresolved-reading count — **not assessed; do not treat as zero**
+
+### First-pass reconciliation before commit
+
+- page-boundary drift around **123–125** — corrected;
+- page-boundary drift around **136–138** — corrected;
+- scan 120 — `பொதுத்துறை`;
+- scan 127 — `திட்டம்`;
+- scan 139 — `அளவுக்கும் மீறிய`;
+- scan 142 — `கட்டளைக் கொள்கைகள்`;
+- scan 144 — `கல்லூரிகள்`;
+- scan 149 — `குல்காபூரில்`.
+
+These are Gate-C first-pass transcription corrections made directly from the same source pixels. They are **not** a Gate-E word-for-word verification ledger.
+
+### Source-content representation
+
+- speaker labels / interventions — represented in the first pass;
+- source-printed English quotations/interventions — represented;
+- figures / dates / quotations / parenthetical stage reactions — retained at first pass;
+- source-visible repetitions — retained rather than silently deduplicated;
+- `நமது விளக்கம்` wording imported — **0**;
+- Official Report / OCR / web / alternate-anthology wording imported — **0**;
+- existing parallel-witness source layer overwritten — **no**.
+
+## Gate status after Gate C
+
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Gate C — **COMPLETE / 35 of 35 pages**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
@@ -57,12 +99,8 @@ Total Speech-10 source coverage: **35/35 pages**.
 - Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 
-The setup does not make any word-for-word fidelity claim.
-
-## Whole-speech rule
-
-Speech 10 has **35 source pages**. At Gate C it must be processed separately as **one intact 35-page speech unit**, using scans 117–151, rather than split solely to satisfy the normal 25-page activity limit.
+Gate C makes no word-for-word fidelity claim beyond completion of the first-pass source transcription.
 
 ## Exact next activity
 
-**Speech 10 Gate C Tamil first-pass transcription — scans 117–151 / printed pp.116–150 / 35 pages**. Do not begin Gate C.5, Gate D, English work, or Speech 11 in the same activity.
+Perform the **Speech 10 Gate C.5 applicability decision** from the actual scan typography. If Gate C.5 is N/A / closed, perform the **Gate D structural completeness audit — scans 117–151 / 35 pages**. Do not begin Gate E, English work, Gate H, or Speech 11 in that activity.

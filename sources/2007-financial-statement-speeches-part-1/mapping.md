@@ -116,13 +116,13 @@ Released material remains locked. This anthology must be processed as an indepen
 - defer the next whole speech if adding it would exceed 25 pages;
 - if one speech itself exceeds 25 pages, process that intact speech separately.
 
-Speech 9 / 29.3.1971 is now **RELEASED / CLOSED through Gate H** as one intact 4-page unit / scans 113–116. Scan 112 remains the released Speech 8 close; scan 117 begins Speech 10 / 29.6.71 and remains excluded. Speech 10 spans **35 scans / 117–151** and, under the whole-speech batching policy, must be processed separately as one intact unit even though it exceeds 25 pages.
+Speech 9 / 29.3.1971 is **RELEASED / CLOSED through Gate H** as one intact 4-page unit / scans 113–116. Scan 112 remains the released Speech 8 close; scan 117 begins Speech 10 / 29.6.71. Speech 10 spans **35 scans / 117–151** and has now completed Gate C as one intact unit under the whole-speech batching exception.
 
 ## Gate status
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–9 CLOSED; Speech 10 NOT STARTED; speeches 11–19 not started**
+- Gate C — **Speeches 1–9 CLOSED; Speech 10 COMPLETE / 35 of 35 / Tamil TRANSCRIBED-NOT-VERIFIED; speeches 11–19 not started**
 - Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction after Gate E restored an omitted scan-90 phrase; Speech 9 PASS / COMPLETE / 0 completeness corrections**
 - Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43; Speech 9 / 4 corrections; all 1–9 Tamil VERIFIED / 0 unresolved**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–9 — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found in Speech 9**
@@ -211,24 +211,35 @@ Speech 9 / 29.3.1971 is now **RELEASED / CLOSED through Gate H** as one intact 4
 - Gate-G blockers — **0**
 - Gate-G Tamil changes — **0**
 
-## Speech 10 setup record
+## Speech 10 Gate-C record
 
-The locked Speech 10 map is now backed by complete user-supplied split coverage:
+The locked Speech-10 map remains:
 
-| Split | Local pages used | Global scans | Printed pages | Count | File size | SHA-256 |
-|---|---:|---:|---:|---:|---:|---|
-| `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_005_pages_101-125.pdf` | 17–25 | 117–125 | 116–124 | 9 | 18,572,668 bytes | `1ae9039952b35b70035365de3774cdf3df5ae6c62cb38d030683ce93e2456ade` |
-| `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_006_pages_126-150.pdf` | 1–25 | 126–150 | 125–149 | 25 | 17,713,432 bytes | `67f71bd3d4bce3c2fe9c258daaa307e29b3a5a195c848b4597c4844066ca8043` |
-| `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_007_pages_151-175.pdf` | 1 | 151 | 150 | 1 | 18,066,473 bytes | `e6fc152ccc1953d829438fafb6bdcfe5865633033662924518366c05a844f906` |
+- `29.6.71` / `1971-06-29`
+- global scans **117–151**
+- printed pages **116–150**
+- **35 pages**
+- **116→117 PASS**
+- **151→152 PASS**
 
-Coverage total: **35/35 Speech-10 pages**. Boundary-only checks used part005 local page 16 = scan 116 and part007 local page 2 = scan 152. The supplied part008 split is outside Speech 10 and is not a controlling split for this unit.
+Controlling split coverage remains **35/35** across part005 local 17–25, part006 local 1–25 and part007 local 1. Part008 remains outside the unit.
 
-Direct visual re-check: **116→117 PASS**; **151→152 PASS**. Scan 117 begins `உரை : 10 / நாள் : 29.6.71`; scan 151 closes Speech 10; scan 152 begins `உரை : 11 / நாள் : 10.3.1972`.
+Gate C status:
 
-Speech 10 is preserved as an **independent 2007-anthology witness** to `நமது விளக்கம்`; the earlier source layer is not a transcription authority for this unit and remains unchanged.
+- `transcript.md` — **created**
+- source markers — **117→151 / 35 unique ordered markers / PASS**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- first-pass unresolved readings — **0 explicitly flagged**
+- page-boundary reconciliation — **123–125 and 136–138 corrected before canonical assembly**
+- definite first-pass pixel readings reconciled — scans **120, 127, 139, 142, 144, 149**
+- outside-witness wording imported — **0**
+- Gate C.5 / Gate D / Gate E — **NOT STARTED**
+- English — **BLOCKED / NOT STARTED**
+- release — **NOT RELEASED**
 
-Setup status: **COMPLETE**. Tamil: **NOT STARTED**. Gate C: **NOT STARTED**. No transcript or downstream gate work was begun.
+Speech 10 remains an **independent 2007-anthology witness** to `நமது விளக்கம்`; the earlier source layer remains unchanged.
 
 ## Exact continuation
 
-Speeches **1–9 are RELEASED / CLOSED through Gate H**. Speech 10 source coverage and boundary setup are complete. Exact next: **Speech 10 Gate C Tamil first-pass transcription — scans 117–151 / printed pp.116–150 / 35 pages**, processed as one intact speech unit from the 2007 anthology pixels only.
+Speeches **1–9 are RELEASED / CLOSED through Gate H**. Speech 10 Gate C is complete across **117–151 / 35 pages**. Exact next: **Gate C.5 applicability decision; if N/A / closed, Gate D structural completeness audit for the same 35-page unit**. Keep Tamil unverified until Gate E.

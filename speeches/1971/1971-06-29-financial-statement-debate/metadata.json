@@ -90,29 +90,70 @@
     "whole_speech_policy": "Speech 10 exceeds the normal 25-page activity allowance and must be processed separately as one intact 35-page speech unit when Gate C begins."
   },
   "transcription": {
-    "method": "NOT STARTED. Future Gate C must be transcribed manually from rendered pixels of the three controlling 2007 anthology splits only.",
+    "method": "Gate C first-pass transcribed manually from rendered pixels of the three controlling 2007 anthology splits only; no outside witness supplied wording.",
     "preserve_source_spelling": true,
     "preserve_source_punctuation": true,
     "preserve_source_numerals": true,
     "preserve_headings": true,
     "preserve_speaker_labels_and_interventions": true,
     "preserve_printed_english": true,
-    "page_boundaries_marked": false,
-    "status": "not-started",
-    "gate_c_status": "not-started",
-    "completed_scan_pages": null,
-    "completed_printed_pages": null,
-    "completed_page_count": 0,
+    "page_boundaries_marked": true,
+    "status": "transcribed-not-verified",
+    "gate_c_status": "complete",
+    "completed_scan_pages": "117-151",
+    "completed_printed_pages": "116-150",
+    "completed_page_count": 35,
     "total_page_count": 35,
-    "source_page_markers_checked_first_pass": false,
-    "unresolved_readings": null,
+    "source_page_markers_checked_first_pass": true,
+    "unresolved_readings": [],
     "completeness_audit_passed": false,
     "verified_against_scan": false,
     "historical_glyph_gate_status": "not-started",
     "gate_d_status": "not-started",
     "gate_e_status": "not-started",
-    "next_gate": "gate-c",
-    "outside_wording_imported": false
+    "next_gate": "gate-c.5",
+    "outside_wording_imported": false,
+    "first_pass_unresolved_count": 0,
+    "first_pass_reconciliation": {
+      "marker_range": "117-151",
+      "marker_count": 35,
+      "markers_unique_and_ordered": true,
+      "excluded_boundary_scans": [
+        116,
+        152
+      ],
+      "page_boundary_reconciliation": [
+        "123-125",
+        "136-138"
+      ],
+      "definite_pixel_readings_reconciled": [
+        {
+          "scan": 120,
+          "reading": "பொதுத்துறை"
+        },
+        {
+          "scan": 127,
+          "reading": "திட்டம்"
+        },
+        {
+          "scan": 139,
+          "reading": "அளவுக்கும் மீறிய"
+        },
+        {
+          "scan": 142,
+          "reading": "கட்டளைக் கொள்கைகள்"
+        },
+        {
+          "scan": 144,
+          "reading": "கல்லூரிகள்"
+        },
+        {
+          "scan": 149,
+          "reading": "குல்காபூரில்"
+        }
+      ],
+      "verification_claim": false
+    }
   },
   "translation": {
     "language": "English",

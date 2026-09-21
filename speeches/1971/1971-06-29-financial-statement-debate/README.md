@@ -55,26 +55,57 @@ Speech 10 is **35 pages**, exceeding the normal 25-page activity allowance. The 
 ## Current state
 
 - source-boundary / Gate-C setup — **PASS / COMPLETE**
-- source coverage — **COMPLETE / 35 of 35 pages available**
-- Tamil — **NOT STARTED**
+- source coverage — **COMPLETE / 35 of 35 pages**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- Gate C — **NOT STARTED**
+- Gate C — **COMPLETE / 35 of 35 pages**
+- source-page markers — **117→151 / exactly once / in order — PASS**
+- first-pass unresolved readings — **0 explicitly flagged**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
 - English / Gate F / Gate G — **BLOCKED / NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - source wording imported from outside witnesses — **none**
+- `transcript.md` — **CREATED / canonical Gate-C first-pass Tamil transcript**
 
-No `transcript.md` has been created in this setup activity.
+Gate C is a transcription-coverage gate only. It does **not** make a word-for-word scan-verification claim.
 
-## Setup files
+## Gate-C first-pass reconciliation
+
+The complete 35-page first pass was assembled from the rendered pixels of the three controlling anthology splits only.
+
+Mechanical checks completed before commit:
+
+- all **35/35** source pages are represented;
+- source markers **117→151** occur exactly once and in order;
+- scan **116** and scan **152** remain excluded;
+- working page-boundary drift around **123–125** and **136–138** was reconciled before canonical assembly;
+- speaker interventions and source-printed English passages remain represented;
+- first-pass unresolved readings explicitly flagged — **0**;
+- wording imported from `நமது விளக்கம்`, Official Reports, OCR, web copies or alternate anthologies — **0**.
+
+Definite pixel readings reconciled during final Gate-C assembly include:
+
+1. scan 120 — `பொதுத்துறை`;
+2. scan 127 — `திட்டம்`;
+3. scan 139 — `அளவுக்கும் மீறிய`;
+4. scan 142 — `கட்டளைக் கொள்கைகள்`;
+5. scan 144 — `கல்லூரிகள்`;
+6. scan 149 — `குல்காபூரில்`.
+
+These are first-pass transcription reconciliations, **not Gate-E verification corrections**. Tamil remains **NOT VERIFIED**.
+
+## Working files
 
 - `README.md` — source boundary, split coverage, parallel-witness and gate state
-- `metadata.json` — machine-readable source and status record
-- `source-notes.md` — source authority, hashes, boundary evidence and future transcription constraints
-- `verification-log.md` — setup audit; no Tamil verification claim
+- `metadata.json` — machine-readable source and gate status
+- `source-notes.md` — source authority, hashes, boundary evidence and source constraints
+- `verification-log.md` — setup audit plus Gate-C coverage record
+- `transcript.md` — complete Gate-C first-pass Tamil transcript, scans 117–151
 
 ## Exact next activity
 
-**Speech 10 Gate C Tamil first-pass transcription — scans 117–151 / printed pp.116–150 / 35 pages**, using only the rendered pixels of the controlling 2007 anthology splits. Do not begin Gate D, English work, or Speech 11 in that activity.
+Perform the **Speech 10 Gate C.5 applicability decision**, using the actual 2007 anthology typography. If Gate C.5 is N/A / closed, proceed to the **Gate D structural completeness audit** for scans **117–151 / 35 pages**.
+
+At Gate D, audit page coverage, source markers, transitions, interventions, quotations, printed English and completeness only. Keep Tamil **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`; do not begin Gate E, English translation, Gate H, or Speech 11 in that activity.
