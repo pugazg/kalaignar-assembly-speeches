@@ -618,25 +618,64 @@ Parallel-witness/index treatment:
 - root dated speech table — **UNCHANGED INTENTIONALLY**
 - reason — the repository's dated machine-readable index currently has one canonical entry per date; a second `1973-03-07` entry was not created. The released anthology witness remains discoverable through the anthology package and repository status sections.
 
-## Exact next activity — Speech 13 source-boundary + Gate-C setup
+## Speech 13 durable source-boundary / Gate-C setup
 
-Speech 13 map from locked Gate B:
+Canonical working entry:
+
+`speeches/1974/1974-03-14-financial-statement-debate/`
+
+Locked unit:
 
 - source label/date — `உரை : 13 / 14.03.1974`
 - ISO date — `1974-03-14`
 - global scans — **231–262**
 - printed pages — **230–261**
 - page count — **32**
-- start boundary — **230→231**
-- end boundary — **262→263**
-- expected working entry — `speeches/1974/1974-03-14-financial-statement-debate/`
-- whole-speech exception — **required**, because 32 pages exceeds the normal 25-page activity allowance.
+- start boundary — **230→231 — PASS**
+- end boundary — **262→263 — PASS**
+- whole-speech exception — **REQUIRED**, because 32 pages exceeds the normal 25-page allowance.
 
-Next activity requirements:
+Controlling coverage:
 
-1. reconfirm hard boundaries from the controlling anthology pixels;
-2. identify the controlling split-file coverage for scans **231–262** and record hashes/local-page mapping;
-3. establish the Speech 13 working entry and source-control metadata without importing outside wording;
-4. prepare Gate C for the intact 32-page speech unit;
-5. do not reopen Speech 12 unless a source-backed defect is discovered;
-6. do not begin Speech 14 in the same activity.
+- part010 `..._part_010_pages_226-250.pdf`
+  - **17,801,423 bytes**
+  - SHA-256 `257b862a7ebe21d768f8e5a2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90`
+  - local **6–25** = scans **231–250** / printed **230–249** / **20 pages**
+  - local 5 = scan 230 / Speech 12 close / boundary-only
+- part011 `..._part_011_pages_251-275.pdf`
+  - **17,580,247 bytes**
+  - SHA-256 `27c9c96d3c0bdb53480f8d1634300bf9d7dc57be17d3f83c66397ef78863712d`
+  - local **1–12** = scans **251–262** / printed **250–261** / **12 pages**
+  - local 13 = scan 263 / Speech 14 start / boundary-only
+- total controlling coverage — **32/32 COMPLETE / no gap / no overlap**
+
+Pixel boundary evidence:
+
+- scan 230 closes Speech 12 and is excluded;
+- scan 231 begins `உரை : 13 / நாள் : 14.03.1974`;
+- scan 262 closes Speech 13 with source ornament;
+- scan 263 begins `உரை : 14 / நாள் : 10.03.1975` and is excluded.
+
+Source-separation safeguards:
+
+- controlling authority — **rendered 2007 anthology pixels only**;
+- OCR / web / Official Reports / alternate anthologies / other witnesses — **must not supply wording**;
+- released Speech 12 — **UNCHANGED / not reopened**;
+- Speech 14 — **NOT STARTED**;
+- outside/released-witness wording imported — **0**.
+
+Current state:
+
+- source-boundary / Gate-C setup — **PASS / COMPLETE**
+- Tamil — **NOT STARTED / verified_against_scan=false**
+- Gate C — **NOT STARTED**
+- Gate C.5 / D / E — **NOT STARTED**
+- English / F / G — **BLOCKED / NOT STARTED**
+- Gate H / release — **NOT STARTED / NOT RELEASED**
+- `transcript.md` — **not created during setup**
+
+## Exact next activity — Speech 13 Gate C Tamil first pass
+
+Process **all 32 pages / scans 231–262 / printed pp.230–261 as one intact Speech-13 unit** from the controlling part010 and part011 pixels only.
+
+Do not begin Gate C.5, Gate D, Gate E, English work, Gate H, or Speech 14 in the same activity. Do not reopen Speech 12 unless a separate source-backed defect is discovered.
