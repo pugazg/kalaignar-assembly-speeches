@@ -71,8 +71,8 @@ Speech 13 spans **32 pages**, exceeding the normal 25-page activity allowance. T
 - duplicate long blocks — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- Gate-E ledger — **2 correction entries / 2 correction occurrences / 0 unresolved readings in scans 231–240**
-- Gate E — **IN PROGRESS / scans 231–240 verified / 10 of 32 pages**
+- Gate-E ledger — **3 correction entries / 4 correction occurrences / 0 unresolved readings in scans 231–250**
+- Gate E — **IN PROGRESS / scans 231–250 verified / 20 of 32 pages**
 - English / Gate F / Gate G — **BLOCKED / NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - source wording imported from outside witnesses — **none**
@@ -83,11 +83,11 @@ Gate D checked structural completeness, page continuations, speaker changes/inte
 
 ## Files
 
-- `transcript.md` — first-pass Tamil plus Gate-E corrections through scan 240
+- `transcript.md` — first-pass Tamil plus Gate-E corrections through scan 250
 - `metadata.json` — machine-readable Gate C.5 / Gate D / partial Gate-E state
 - `source-notes.md` — source authority and audit constraints
 - `verification-log.md` — detailed Gate C.5 / Gate D result plus Gate-E correction ledger
 
 ## Exact next activity
 
-Continue **Speech 13 Gate E word-for-word source-fidelity verification — next 10 pages, scans 241–250 / printed pp.240–249**. Keep cumulative Gate-E state from scans 231–240. Do not begin English work, Gate H, or Speech 14.
+Continue **Speech 13 Gate E word-for-word source-fidelity verification — next 10 pages, scans 251–260 / printed pp.250–259**. Keep cumulative Gate-E state from scans 231–250. Do not begin English work, Gate H, or Speech 14.
