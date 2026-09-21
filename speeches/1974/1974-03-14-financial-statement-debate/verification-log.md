@@ -167,3 +167,48 @@ Conservative source-bound forms retained for Gate-G review include `nalangu`, `k
 ## Exact next activity
 
 Perform **Speech 13 Gate G English fidelity review — source pages 231–262 / 32 of 32** against the verified Tamil only. Do not begin Gate H or Speech 14 in the same activity.
+
+## Gate G — English fidelity review
+
+**PASS / COMPLETE — 32 of 32 pages.**
+
+- review authority — **final Gate-E-verified Tamil only**
+- English source-page sections — **231→262 / 32 / exactly once / ordered**
+- refinements — **7**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed English changes — **0**
+- outside English / other-witness wording imported — **0**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+
+Refinement details are recorded in `translation-review.md`.
+
+## Gate H — canonical bilingual merge / release closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- Tamil markers **231→262** — **32/32 / exactly once / ordered**
+- English page sections **231→262** — **32/32 / exactly once / ordered**
+- canonical `transcript.md` — **complete bilingual verified record**
+- `translation.md` — **retired to released pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- source-printed English — **preserved verbatim**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- Speech 12 reopened — **NO**
+- Speech 14 begun — **NO**
+
+## Final gate status
+
+- Gate C — **COMPLETE**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED**
+- Gate F — **COMPLETE / 32 of 32**
+- Gate G — **PASS / COMPLETE / English VERIFIED**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+
+## Exact next activity
+
+Begin **Speech 14 / 10.03.1975 source-boundary + Gate-C setup — scans 263–319 / printed pp.262–318 / 57 pages**. Do not reopen Speech 13 unless a source-backed defect is discovered.
