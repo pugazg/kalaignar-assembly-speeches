@@ -92,13 +92,15 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–9 CLOSED; Speech 10 COMPLETE / 35 of 35 / Tamil TRANSCRIBED-NOT-VERIFIED; speeches 11–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–9 — modern 2007 typesetting; no historical/reform-sensitive glyph anomaly found in Speech 9**
-- Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction; Speech 9 PASS / COMPLETE / 0 completeness corrections**
-- Gate E — **Speeches 1–9 PASS / COMPLETE / Tamil VERIFIED — correction counts 9 / 6 / 3 / 6 / 10 / 20 / 19 / 43 / 4; unresolved 0**
-- Gate F — **Speeches 1–9 COMPLETE — English page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23 / 4; Speech 9 has 0 blocking questions / 0 Tamil changes**
-- Gate G — **Speeches 1–9 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16 / 11; 0 blockers; English VERIFIED**
-- Gate H — **Speeches 1–9 PASS / COMPLETE — RELEASED / CLOSED**
+- Gate C — **Speeches 1–11 CLOSED through release; Speech 12 COMPLETE / 40 of 40 / Tamil TRANSCRIBED-NOT-VERIFIED; speeches 13–19 not started**
+- Gate C.5 — **CLOSED for Speeches 1–11; Speech 12 NOT STARTED**
+- Gate D — **PASS / COMPLETE for Speeches 1–11; Speech 12 NOT STARTED**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–11; Speech 12 NOT STARTED**
+- Gate F — **COMPLETE for Speeches 1–11; Speech 12 NOT STARTED**
+- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–11; Speech 12 NOT STARTED**
+- Gate H — **Speeches 1–11 PASS / COMPLETE — RELEASED / CLOSED; Speech 12 NOT STARTED**
+- Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
+- Speech 12 first-pass unresolved readings — **1: scan 191 `மறுபவழி`**
 
 ## Speech 1 durable Gate-C state
 
@@ -569,18 +571,46 @@ Final state:
 - Gate-H wording changes — **0 Tamil / 0 English**
 - root / `data/speeches.json` — **SYNCHRONIZED**
 
+## Speech 12 durable Gate-C state
+
+Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
+
+Locked unit: **191–230 / printed 190–229 / 40 pages**.
+
+Controlling coverage:
+
+- part008 local 16–25 = scans 191–200 — **10 pages** — SHA-256 `a7e186a1f4f415410d462f39f50c75475a27ef3d1c386a8cf557ef39701dab47`
+- part009 local 1–25 = scans 201–225 — **25 pages** — SHA-256 `fe1df9ca2d41fd52219cd1fc97d0b6036f69b08aaad022ba2135c599088c40a7`
+- part010 local 1–5 = scans 226–230 — **5 pages** — SHA-256 `257b862a7ebe21d768f8e5a2f2d2f9e8bb6c4e7ca7f704800a6453f40d0a9b90`
+- total — **40/40 COMPLETE**
+
+Gate-C state:
+
+- boundaries **190→191 / 230→231 — PASS**
+- source markers **191→230 — 40/40 / exactly once / ordered**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- first-pass unresolved readings — **1**
+  - scan 191 — `மறுபவழி` — retained provisionally for same-scan verification
+- source-printed English / speaker interventions / numerals / visible repetition — retained at first-pass level
+- OCR / web / Official Reports / alternate anthology / released 1973 wording imported — **0**
+- whole-speech exception — **APPLIED / 40-page unit kept intact**
+- Gate C.5 / D / E / F / G / H — **NOT STARTED**
+- release — **NOT RELEASED**
+- `data/speeches.json` — **unchanged intentionally while this parallel witness remains unreleased**
+- released `speeches/1973/1973-03-07-financial-statement-reply/` — **UNCHANGED**
+
 ## Exact next activity
 
-Begin **Speech 12 / 07.03.1973 source-boundary and Gate-C setup**.
+Perform **Speech 12 Gate C.5 applicability determination + Gate D completeness/structure audit for all scans 191–230**.
 
-Locked anthology map:
+Requirements:
 
-- global scans — **191–230**
-- printed pages — **190–229**
-- page count — **40**
-- hard start boundary — **190→191**
-- hard end boundary — **230→231**
-- existing released canonical speech — `speeches/1973/1973-03-07-financial-statement-reply/`
-- anthology treatment — **parallel witness only / no overwrite**
-
-Because Speech 12 exceeds the normal 25-page allowance, process it separately as **one intact 40-page source unit**. Do not begin Speech 13 in the same activity.
+1. use only the controlling anthology pixels and the Gate-C working transcript;
+2. keep the independent parallel-witness/no-overwrite rule active;
+3. determine whether Gate C.5 is applicable for this modern 2007 typesetting and record the result;
+4. audit all 40 source markers, both hard boundaries, all 39 internal transitions, speaker interventions, source-printed English, figures, quotations and source-visible repetition for completeness;
+5. Gate D is structural/completeness review only — do not claim word-for-word verification;
+6. retain/flag genuine uncertainty rather than using the released 1973 witness to resolve it;
+7. synchronize anthology controls after Gate D;
+8. do **not** begin Gate E, English translation, Gate H or Speech 13 in the same activity.
