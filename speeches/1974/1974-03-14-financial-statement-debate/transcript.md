@@ -2,7 +2,7 @@
 
 ## உரை : 13 — நாள் : 14.03.1974
 
-> **Gate D completeness state:** Gate C is **COMPLETE / 32 of 32 pages**; Gate C.5 is **N/A / CLOSED** for the modern 2007 typesetting; Gate D is **PASS / COMPLETE — 32 of 32 pages / 31 of 31 internal transitions / 0 completeness corrections**. Source-page markers **231→262** remain exactly once and in order. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`; Gate D is a structural/completeness audit, not word-for-word verification. No wording was supplied from OCR, web copies, Official Reports, alternate anthologies, released speeches or another witness.
+> **Gate E source-fidelity state:** Gate C is **COMPLETE / 32 of 32**; Gate C.5 is **N/A / CLOSED**; Gate D is **PASS / COMPLETE**. Gate E is **IN PROGRESS — scans 231–240 / 10 of 32 pages visually verified against the controlling 2007 anthology pixels**. Current Gate-E ledger: **2 correction entries / 2 correction occurrences / 0 unresolved readings in the checked range**. Tamil remains **NOT VERIFIED** with `verified_against_scan=false` until all 32 pages pass. No wording was supplied from OCR, web copies, Official Reports, alternate anthologies, released speeches or another witness.
 
 <!-- source-page: 231 -->
 
@@ -83,7 +83,7 @@
 
 அகவிலைப்படியை உயர்த்த அத்தியாவசியமாக இருக்கும் பொருள்களின் மீது 59 பொருள்கள் மீது இன்றைக்கு வரி மாற்றம் செய்திருக்கிறோமே அது பாதிக்கிறதா என்றால் இல்லை. நாம் வரி மாற்றம் செய்துள்ள பொருள்கள் என்ற பட்டியலில் இந்த மாமன்றத்தில் வைக்கப்பட்டிருக்கிறது. அவைகளின் இரண்டு மூன்று கட்டங்களில் 7 சதவிகித வரியாக இருந்த பொருள்கள் அப்படியே 7 சதவிகிதமாக ஒருமுனை வரியாக, நிர்வாக வசதிக்காக, பல தொந்தரவுகளை நீக்கிக் கொள்வதற்காக மாற்றம் செய்யப்பட்டிருக்கிறது.
 
-குறிப்பாக பருப்பு, எண்ணெய், பின்னாக்கு போன்றவைகளுக்கு 7 சதவிகிதம் என்று இருந்ததை 3½ சதவிகிதம் என்று குறைக்கப்பட்டிருக்கிறது. எதற்கு அதிகமாக ஆக்கப்பட்டிருக்கிறது என்றால், இந்த 59 பொருட்களில் சீட்டுக்கட்டுகளுக்கு 9 சதவிகிதம், செயற்கை இரப்பர் பொருள்களுக்கு 9 சதவிகிதம், இரப்பரால் செய்யப்பட்ட பொருள்களுக்கு 9 சதவிகிதம், தூய பட்டுத் துணிகள் (கைத்தறி நீங்கலாக) 10 சதவிகிதம், ரெசினால் செய்யப்பட்ட மேஜை, நாற்காலிகள் போன்ற தளவாடங்களுக்கு 10 சதவிகிதம், லினோலியம் 15 சதவிகிதம், சலவைக் கற்களும் சலவைக் கற்களினால் ஆக்கப்பட்ட பொருள்களும் 15 சதவிகிதம், நீளமான தரை விரிப்புகளுக்கு 15 சதவிகிதம்,
+குறிப்பாக பருப்பு, எண்ணெய், பிண்ணாக்கு போன்றவைகளுக்கு 7 சதவிகிதம் என்று இருந்ததை 3½ சதவிகிதம் என்று குறைக்கப்பட்டிருக்கிறது. எதற்கு அதிகமாக ஆக்கப்பட்டிருக்கிறது என்றால், இந்த 59 பொருட்களில் சீட்டுக்கட்டுகளுக்கு 9 சதவிகிதம், செயற்கை இரப்பர் பொருள்களுக்கு 9 சதவிகிதம், இரப்பரால் செய்யப்பட்ட பொருள்களுக்கு 9 சதவிகிதம், தூய பட்டுத் துணிகள் (கைத்தறி நீங்கலாக) 10 சதவிகிதம், எஃகினால் செய்யப்பட்ட மேஜை, நாற்காலிகள் போன்ற தளவாடங்களுக்கு 10 சதவிகிதம், லினோலியம் 15 சதவிகிதம், சலவைக் கற்களும் சலவைக் கற்களினால் ஆக்கப்பட்ட பொருள்களும் 15 சதவிகிதம், நீளமான தரை விரிப்புகளுக்கு 15 சதவிகிதம்,
 
 <!-- source-page: 239 -->
 
