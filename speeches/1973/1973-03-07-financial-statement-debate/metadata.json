@@ -110,8 +110,8 @@
     "verified_against_scan": false,
     "historical_glyph_gate_status": "n-a-closed-modern-2007-typesetting-no-historical-glyph-anomaly-observed",
     "gate_d_status": "pass-complete",
-    "gate_e_status": "not-started",
-    "next_gate": "Gate E source-fidelity verification",
+    "gate_e_status": "in-progress",
+    "next_gate": "Continue Gate E scans 229-230, finalize/apply correction ledger, then 40/40 closure",
     "outside_wording_imported": false,
     "gate_c5": {
       "status": "n-a-closed",
@@ -156,7 +156,134 @@
       },
       "outside_wording_imported": false
     },
-    "note": "Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE across all 40 pages with 0 completeness corrections. All 40 markers, both hard boundaries and 39/39 internal transitions passed. The scan-191 first-pass reading `மறுபவழி` was confirmed from the same controlling scan without changing transcript wording. Tamil remains not verified pending Gate E."
+    "note": "Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE. Gate E is IN PROGRESS: scans 191-228 (38/40 pages) have been visually reviewed against the controlling anthology pixels, with a checkpoint ledger of 18 confirmed correction occurrences. The ledger has not yet been batch-applied; scans 229-230 remain pending. Tamil remains not verified.",
+    "gate_e_progress": {
+      "status": "in-progress",
+      "reviewed_scan_pages": "191-228",
+      "reviewed_printed_pages": "190-227",
+      "reviewed_page_count": 38,
+      "total_page_count": 40,
+      "pending_scan_pages": "229-230",
+      "pending_page_count": 2,
+      "transcript_corrections_applied": 0,
+      "correction_ledger_application_status": "deferred-until-full-40-page-gate-e-audit",
+      "confirmed_correction_occurrence_count_checkpoint": 18,
+      "confirmed_corrections_checkpoint": [
+        {
+          "scan": 192,
+          "before": "நிருவன",
+          "after": "நிறுவன",
+          "occurrences": 1
+        },
+        {
+          "scan": 193,
+          "before": "நடைபெற்றிருப்பது",
+          "after": "நடைபெற்று இருப்பது",
+          "occurrences": 1
+        },
+        {
+          "scan": 193,
+          "before": "பிரச்சினை",
+          "after": "பிரச்சனை",
+          "occurrences": 1
+        },
+        {
+          "scan": 194,
+          "before": "ஒரோ",
+          "after": "ஓஹோ",
+          "occurrences": 1
+        },
+        {
+          "scan": 198,
+          "before": "குறைக்கவில்லை",
+          "after": "குறைக்க வில்லை",
+          "occurrences": 1
+        },
+        {
+          "scan": 198,
+          "before": "ஒரு மாயை மித்",
+          "after": "ஒரு மாயை ‘மித்’",
+          "occurrences": 1
+        },
+        {
+          "scan": 199,
+          "before": "என் 35",
+          "after": "எண் 35",
+          "occurrences": 2
+        },
+        {
+          "scan": 206,
+          "before": "ஒய்வாக",
+          "after": "ஓய்வாக",
+          "occurrences": 1
+        },
+        {
+          "scan": 210,
+          "before": "அக்கவுண்டட்",
+          "after": "அக்கெளண்டட்",
+          "occurrences": 2
+        },
+        {
+          "scan": 211,
+          "before": "கருத்துத் தேவையில்லை",
+          "after": "கருதத் தேவையில்லை",
+          "occurrences": 1
+        },
+        {
+          "scan": 212,
+          "before": "பிரச்சினை",
+          "after": "பிரச்சனை",
+          "occurrences": 3
+        },
+        {
+          "scan": 217,
+          "before": "இந்துஸ் தான் டைம்ஸ்",
+          "after": "ஹிந்துஸ்தான் டைம்ஸ்",
+          "occurrences": 1
+        },
+        {
+          "scan": 218,
+          "before": "மண்டலக் கவுன்சில்",
+          "after": "சோனல் கவுன்சில்",
+          "occurrences": 1
+        },
+        {
+          "scan": 218,
+          "before": "சுதர்ன் சோன்",
+          "after": "‘சதர்ன் சோன்’",
+          "occurrences": 1
+        },
+        {
+          "scan": 219,
+          "before": "ஒ.பி. இராமன்",
+          "after": "ஓ.பி. இராமன்",
+          "occurrences": 2
+        },
+        {
+          "scan": 228,
+          "before": "குறிப்பிடிருக்கிற",
+          "after": "குறிப்பிடப்பட்டிருக்கிற",
+          "occurrences": 1
+        },
+        {
+          "scan": 228,
+          "before": "நிலையையும்",
+          "after": "நிலைமையும்",
+          "occurrences": 1
+        },
+        {
+          "scan": 228,
+          "before": "ஏ.டி.எம்.கே.",
+          "after": "எ.டி.எம்.கே.",
+          "occurrences": 1
+        }
+      ],
+      "final_correction_count": null,
+      "final_unresolved_reading_count": null,
+      "verified_against_scan": false,
+      "outside_wording_imported": false,
+      "note": "Checkpoint only. Scans 191-228 have been visually reviewed against the controlling anthology pixels. The confirmed ledger has not yet been batch-applied to transcript.md because scans 229-230 and full 40/40 Gate-E closure remain pending."
+    }
   },
   "translation": {
     "language": "English",
