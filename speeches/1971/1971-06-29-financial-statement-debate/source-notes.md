@@ -94,25 +94,23 @@ The normal activity limit is 25 source pages. Speech 10 is 35 pages, and the rep
 
 Gate C was completed across **all scans 117–151** as one intact 35-page speech activity.
 
-## Gate state after Gate F
+## Gate state after Gate G
 
 - Tamil Gates C–E — **COMPLETE / VERIFIED**
 - `verified_against_scan=true`
 - Gate F — **COMPLETE / 35 of 35 English pages**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-- Gate-F blocking questions — **0**
-- verified-Tamil changes — **0**
-- Gate G — **NOT STARTED / NEXT**
+- Gate G — **PASS / COMPLETE / 21 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - outside-source English imported — **0**
 
-## Gate F translation authority
+## Gate G English review
 
-The English first pass in `translation.md` was produced only from the final Gate-E-verified Tamil in `transcript.md`.
+The Gate-F English was reviewed against the final verified Tamil for all **35/35 pages / 117–151**. Source-printed English remained verbatim; no outside witness or outside English was used.
 
-Source-printed English passages were retained as printed. No wording or interpretation was supplied by `நமது விளக்கம்`, Official Reports, OCR, web sources, alternate anthologies or outside translations.
+Gate-G totals: **21 refinements / 0 blockers / 0 verified-Tamil changes**.
 
 ## Exact next
 
-**Gate G full English fidelity and voice review — source pages 117–151 / 35 pages**.
+**Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 11 in the same activity.

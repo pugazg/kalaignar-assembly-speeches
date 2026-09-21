@@ -55,47 +55,39 @@ Speech 10 is **35 pages**, exceeding the normal 25-page activity allowance. The 
 ## Current state
 
 - source coverage — **COMPLETE / 35 of 35 pages**
-- Gate C — **COMPLETE**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 2 completeness corrections**
-- Gate E — **PASS / COMPLETE / 26 source-fidelity corrections / 0 unresolved**
-- Tamil — **VERIFIED / verified_against_scan=true**
+- Gates C–E — **COMPLETE / Tamil VERIFIED**
+- `verified_against_scan=true`
 - Gate F — **COMPLETE / 35 of 35 English pages**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-- Gate-F blocking translation questions — **0**
-- verified-Tamil changes at Gate F — **0**
-- Gate G — **NOT STARTED / NEXT**
+- Gate G — **PASS / COMPLETE / 21 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - outside-source English imported — **0**
 
-## Gate F result
+## Gate G result
 
-The complete English first pass covers source pages **117–151** exactly once and in order and is stored in `translation.md`.
+The complete Gate-F English was reviewed page-by-page against the final Gate-E-verified Tamil across **117–151 / 35 pages**.
 
-Translation authority was exclusively the final Gate-E-verified Tamil in `transcript.md`.
-
-- translated pages — **35/35**
-- source-page sequence — **117→151 / PASS**
-- speaker changes / interventions / parenthetical reactions — preserved
-- figures / dates / quotations / source-visible repetitions — preserved
-- source-printed English — reproduced as printed rather than retranslated
-- Gate-F blocking questions — **0**
+- English pages — **35/35**
+- refinements — **21**
+- blocking fidelity issues — **0**
 - verified-Tamil changes — **0**
+- source-printed English — **retained verbatim**
+- source-page order / interventions / reactions / figures / dates / quotations — **PASS**
 - outside English / parallel-witness wording imported — **0**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 
-The separate `translation-review.md` records Gate-F source-bound choices and the next review gate.
+The full before → after refinement ledger is in `translation-review.md`.
 
 ## Working files
 
 - `transcript.md` — Gate-E-verified Tamil
-- `translation.md` — complete Gate-F English first pass
-- `translation-review.md` — Gate-F record; Gate G not yet performed
+- `translation.md` — Gate-G-verified English
+- `translation-review.md` — Gate-F/G audit and refinement ledger
 - `metadata.json`, `source-notes.md`, `verification-log.md` — synchronized gate state
 
 ## Exact next activity
 
-Perform **Speech 10 Gate G full English fidelity and voice review — source pages 117–151 / 35 pages**, comparing the Gate-F English only against the final Gate-E-verified Tamil.
+Perform **Speech 10 Gate H canonical bilingual merge / release readiness and index synchronization**.
 
-Do not begin Gate H, release indexing, or Speech 11 in the same activity.
+Do not begin Speech 11 in the same activity.

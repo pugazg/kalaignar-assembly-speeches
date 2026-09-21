@@ -528,7 +528,7 @@ The complete before → after ledger is in `translation-review.md`.
 - existing `நமது நிலை` source layer — unchanged
 - parallel-witness / no-overwrite rule — preserved
 
-## Speech 10 durable Gate-F state
+## Speech 10 durable Gate-G state
 
 Working entry: `speeches/1971/1971-06-29-financial-statement-debate/`
 
@@ -539,15 +539,14 @@ Durable state:
 - Tamil Gates C–E — **COMPLETE / VERIFIED**
 - `verified_against_scan=true`
 - Gate F — **COMPLETE / 35 of 35 English pages**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-- Gate-F blocking questions — **0**
-- verified-Tamil changes — **0**
-- Gate G — **NOT STARTED / NEXT**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
+- Gate G — **PASS / COMPLETE / 21 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+- Gate H / release — **NOT STARTED / NEXT**
+- outside English imported — **0**
 
-Gate F translated only from the final verified Tamil. Source-printed English was reproduced as printed. No outside witness or outside English supplied wording.
+Gate G reviewed all **35/35** English pages against the final verified Tamil. Source-printed English remained verbatim. No verified Tamil changed.
 
 ## Exact next activity
 
-Perform **Speech 10 Gate G full English fidelity and voice review — source pages 117–151 / 35 pages**. Do not begin Gate H or Speech 11 in the same activity.
+Perform **Speech 10 Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 11 in the same activity.

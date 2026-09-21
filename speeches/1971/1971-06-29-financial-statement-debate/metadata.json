@@ -329,13 +329,13 @@
   },
   "translation": {
     "language": "English",
-    "status": "translated-not-verified",
+    "status": "verified",
     "type": "faithful reading translation",
     "source_text": "Gate-E-verified Tamil in transcript.md",
-    "verified_against_tamil": false,
+    "verified_against_tamil": true,
     "gate_f_status": "complete",
-    "gate_g_status": "not-started",
-    "next_gate": "gate-g",
+    "gate_g_status": "pass-complete",
+    "next_gate": "gate-h",
     "external_witness_translation_imported": false,
     "completed_scan_pages": "117-151",
     "completed_page_count": 35,
@@ -353,6 +353,124 @@
       "verified_against_tamil": false,
       "outside_english_imported": false,
       "source_printed_english_preserved": true
+    },
+    "gate_g": {
+      "status": "pass-complete",
+      "source_pages": "117-151",
+      "page_count": 35,
+      "refinement_count": 21,
+      "blocking_issue_count": 0,
+      "verified_tamil_changes": 0,
+      "verified_against_tamil": true,
+      "outside_english_imported": false,
+      "source_printed_english_preserved": true,
+      "refinements": [
+        {
+          "page": 118,
+          "before": "they have been placed under the necessity of opposing it.",
+          "after": "they have been compelled to oppose it."
+        },
+        {
+          "page": 120,
+          "before": "we are in no position to escape from or hide from this capital aspect.",
+          "after": "we are in no position to escape from or hide from this capital component."
+        },
+        {
+          "page": 123,
+          "before": "Every scheme should not be viewed with suspicion.",
+          "after": "Not every scheme should be viewed with suspicion."
+        },
+        {
+          "page": 123,
+          "before": "there is no meaning in asking why serial numbers have not been put on all this.",
+          "after": "it makes no sense to ask why serial numbers have not been put on all this."
+        },
+        {
+          "page": 123,
+          "before": "my signature is printed on them so that no one can print them independently.",
+          "after": "my signature is affixed to them so that no one else can print such cards."
+        },
+        {
+          "page": 126,
+          "before": "Through the house-site tax, by granting exemption to many thousands of people in Madras and elsewhere who possess one ground, this Government has, with an egalitarian objective, created a situation in which all of them can be freed from this tax.",
+          "after": "By granting a house-site-tax exemption to many thousands of people in Madras and elsewhere who possess one ground, this Government has, with an egalitarian objective, enabled all of them to be freed from this tax."
+        },
+        {
+          "page": 126,
+          "before": "Government employees have to bear only one share of it — a tax burden of one crore rupees.",
+          "after": "Government employees have to bear only one part of it — a tax burden of Rs. 1 crore."
+        },
+        {
+          "page": 127,
+          "before": "The Tondai Mandalam consisting of the three districts of North Arcot, South Arcot and Chengalpattu is Haryana.",
+          "after": "Haryana is only about the size of the Tondai Mandalam comprising the three districts of North Arcot, South Arcot and Chengalpattu."
+        },
+        {
+          "page": 128,
+          "before": "It is a good feature that Planning Minister Mr C. Subramaniam too has spoken welcoming it.",
+          "after": "It is a welcome development that Planning Minister Mr C. Subramaniam too has spoken in support of it."
+        },
+        {
+          "page": 131,
+          "before": "he supports the liberation struggle of East Pakistan and even supports its freeing itself from Pakistan and breaking away as a separate part.",
+          "after": "he supports the liberation struggle of East Pakistan and even supports its breaking away from Pakistan as a separate entity."
+        },
+        {
+          "page": 131,
+          "before": "But I wish to remind you that the State autonomy we ask for here is not, beyond the sphere of powers, accompanied by even the slightest intention of breaking away separately.",
+          "after": "But I wish to remind you that the State autonomy we seek here concerns the extent of powers; there is not the slightest intention of breaking away as a separate entity."
+        },
+        {
+          "page": 132,
+          "before": "the true face of the Swatantra Party on Centre-State relations.",
+          "after": "the actual position of the Swatantra Party on Centre-State relations."
+        },
+        {
+          "page": 134,
+          "before": "Thus Mr Anthony Pillai charged that Rajaji was being built up not merely through a personality cult, but to the point of making himself God.",
+          "after": "Thus, in Mr Anthony Pillai's charge, Rajaji was being built up not merely through a personality cult but to the point where he was said to be making himself into God."
+        },
+        {
+          "page": 135,
+          "before": "As far as the Swatantra Party is concerned, and as far as Tamil Nadu is concerned, the position is: if not Rajaji, who after him?",
+          "after": "As far as the Swatantra Party in Tamil Nadu is concerned, the position is: if not Rajaji, who after him?"
+        },
+        {
+          "page": 136,
+          "before": "I wish to clarify, when we speak later, whether democracy exists with you or not.",
+          "after": "When we come to speak of it later, I wish to clarify whether democracy exists with you or not."
+        },
+        {
+          "page": 137,
+          "before": "Prohibition is not a matter attempted only by us here.",
+          "after": "The policy of prohibition has not been attempted only by us here."
+        },
+        {
+          "page": 139,
+          "before": "thousands of pounds of that medicine are consumed",
+          "after": "thousands of pounds of that medicine are used"
+        },
+        {
+          "page": 140,
+          "before": "Out of the total Rs. 52 crore, Rs. 9 crore was sold in drinking States and Rs. 43 crore in prohibition States.",
+          "after": "Out of the total Rs. 52 crore, sales amounted to Rs. 9 crore in States where drinking was permitted and Rs. 43 crore in prohibition States."
+        },
+        {
+          "page": 142,
+          "before": "Women such as Mrs Sushila Nayyar, who followed Gandhiji, also took part in that meeting.",
+          "after": "Gandhian stalwarts such as Mrs Sushila Nayyar also took part in that meeting."
+        },
+        {
+          "page": 149,
+          "before": "So if it is asked whether this is Anna's path, Anna's path — if Congress Chief Ministers in India have repealed prohibition, does that mean they all lack faith in the Gandhian path?",
+          "after": "So if the question is repeated, “Is this Anna's path? Anna's path?” — if Congress Chief Ministers in India have repealed prohibition, does that mean they all lack faith in the Gandhian path?"
+        },
+        {
+          "page": 151,
+          "before": "Even though there was heat in between, I ask that, in keeping with Tamil culture, that heat certainly be forgotten.",
+          "after": "Even though things became heated in between, I ask that, in keeping with Tamil culture, that heat certainly be forgotten."
+        }
+      ]
     }
   },
   "release": {

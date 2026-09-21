@@ -1,6 +1,6 @@
-# English translation — Gate F first pass
+# English translation — Gate G verified
 
-> **Gate F status:** COMPLETE — **35/35 pages / source pages 117–151**. This is a faithful first-pass English translation from the final Gate-E-verified Tamil in `transcript.md` only. Source-printed English passages are reproduced as printed rather than retranslated. English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL**; `verified_against_tamil=false`.
+> **Gate G status:** PASS / COMPLETE — **35/35 pages / source pages 117–151**. The English below has been reviewed in full against the final Gate-E-verified Tamil in `transcript.md` only. Gate G applied **21 English refinements** with **0 blockers / 0 verified-Tamil changes**. Source-printed English passages remain reproduced as printed. English is **VERIFIED AGAINST TAMIL**; `verified_against_tamil=true`.
 
 ### Source page 117
 
@@ -13,7 +13,7 @@ Among the members who took part in this debate and spoke, there are many whose o
 
 ### Source page 118
 
-I have not forgotten that they have been placed under the necessity of opposing it. Our Hon. Mr Ponnappa Nadar first gave the press the headline that there was nothing revolutionary and nothing new in it, and then began his speech. Whether there is revolution or novelty in it will become known only when the schemes indicated in this statement are put into practice. I too did not imagine that, the moment we finished reading the financial statement, this august House would immediately turn upside down and become one great revolutionary transformation. I believe Hon. Ponnappa Nadar would not have imagined that either.
+I have not forgotten that they have been compelled to oppose it. Our Hon. Mr Ponnappa Nadar first gave the press the headline that there was nothing revolutionary and nothing new in it, and then began his speech. Whether there is revolution or novelty in it will become known only when the schemes indicated in this statement are put into practice. I too did not imagine that, the moment we finished reading the financial statement, this august House would immediately turn upside down and become one great revolutionary transformation. I believe Hon. Ponnappa Nadar would not have imagined that either.
 
 While many members were praising this financial statement, our Dr Hande, when he spoke, remarked: what is there in this to praise? He said that no one except those who had taken an anaesthetic — that is, those who had been given “chloroform” — could praise it. (Those who have been given chloroform cannot speak at all. Good doctors know this.) (Applause). Yet, for some reason, our Dr Hande said that all those who praise this budget are under a ‘chloroform’ stupor. Mr Hande charged that this was a financial statement prepared without an understanding of economics. Economic thinkers have advanced one view that prices rise when taxes are imposed, and another view that they do not. Thinkers such as Keynes and Malgrave belong to the school which holds that, by reducing the money in people's hands through taxation, prices will fall,
 
@@ -31,7 +31,7 @@ development.
 
 Under the heading of buildings and the public sector, we are in a position where we must provide various buildings and various amenities that do not yield revenue to the Government.
 
-All these are for the convenience of the people; we have not prepared the financial statement with the intention that the Government should earn a profit. Therefore, we are in no position to escape from or hide from this capital aspect.
+All these are for the convenience of the people; we have not prepared the financial statement with the intention that the Government should earn a profit. Therefore, we are in no position to escape from or hide from this capital component.
 
 For such capital expenditure, we have to create a surplus in the revenue account. Since even that is insufficient, we have to see what the overall gap arising across the accounts will be. I am duty-bound to say this by way of explanation of their doubt.
 
@@ -69,9 +69,9 @@ Whoever possesses merit and ability, whatever party they may have belonged to un
 
 without concern for any of that, only capable people — those with the ability to discharge the duties of this Government properly — will be selected. That is certain.
 
-This Government has prepared a scheme for the rehabilitation of beggars and is collecting funds for it. Our Mr Ponnappa Nadar said that this is a good scheme, but corruption must not be allowed in it. Every scheme should not be viewed with suspicion. We are collecting funds for beggars. If some people commit wrongdoing in it, they should be regarded as cruel and wicked persons betraying beggars; there is no meaning in asking why serial numbers have not been put on all this.
+This Government has prepared a scheme for the rehabilitation of beggars and is collecting funds for it. Our Mr Ponnappa Nadar said that this is a good scheme, but corruption must not be allowed in it. Not every scheme should be viewed with suspicion. We are collecting funds for beggars. If some people commit wrongdoing in it, they should be regarded as cruel and wicked persons betraying beggars; it makes no sense to ask why serial numbers have not been put on all this.
 
-Flag Day has been observed for so many years. On Flag Day, a price is fixed for the flags. Those flags are sold in schools, to children, for a specified amount. I have never heard of a serial number being put on any such flag. As for how many cards have been printed, my signature is printed on them so that no one can print them independently.
+Flag Day has been observed for so many years. On Flag Day, a price is fixed for the flags. Those flags are sold in schools, to children, for a specified amount. I have never heard of a serial number being put on any such flag. As for how many cards have been printed, my signature is affixed to them so that no one else can print such cards.
 
 On the other side is a picture of Mahatma Gandhi treating three beggars. These are counted and supplied at each place, and it is calculated how much money ought to come to this fund through them. Therefore I firmly believe that no wrongdoing will occur in this. If mistakes
 
@@ -97,11 +97,11 @@ Members asked: is this tax only for Madras? Is there no such tax in urban areas 
 
 For many thousands of people in Madras city and other cities who have up to one ground of land, the urban land tax has been abolished.
 
-Through the house-site tax, by granting exemption to many thousands of people in Madras and elsewhere who possess one ground, this Government has, with an egalitarian objective, created a situation in which all of them can be freed from this tax.
+By granting a house-site-tax exemption to many thousands of people in Madras and elsewhere who possess one ground, this Government has, with an egalitarian objective, enabled all of them to be freed from this tax.
 
 When the financial statement was placed in this House, member Mr K.T.K. Thangamani, commenting to reporters on agricultural tax, said that taxes had not touched those earning large amounts in the villages. We have made certain changes so as to affect only those who derive higher profits from agriculture. The Bill relating to that change is to come before this House.
 
-Referring to all these taxes, Dr Hande said that we give with one hand and take back with the other. The total income of this State is Rs. 2,400 crore. Out of this Rs. 2,400 crore, the amount received as salaries by Government employees is Rs. 100 crore. That is one-twentieth of the State's income. If the amount now being raised through additional taxes and other resources is Rs. 25 crore, Government employees have to bear only one share of it — a tax burden of one crore rupees. At the same time, under the recommendations of the Second Pay Commission, we have given them a pay increase of Rs. 25 crore. I most respectfully ask that the two be compared.
+Referring to all these taxes, Dr Hande said that we give with one hand and take back with the other. The total income of this State is Rs. 2,400 crore. Out of this Rs. 2,400 crore, the amount received as salaries by Government employees is Rs. 100 crore. That is one-twentieth of the State's income. If the amount now being raised through additional taxes and other resources is Rs. 25 crore, Government employees have to bear only one part of it — a tax burden of Rs. 1 crore. At the same time, under the recommendations of the Second Pay Commission, we have given them a pay increase of Rs. 25 crore. I most respectfully ask that the two be compared.
 
 The Slum Clearance Board — the scheme of replacing huts and building good houses for poor and humble people —
 
@@ -111,7 +111,7 @@ is a good scheme. We have to spend a great deal on this and on the Water Board s
 
 We had stated that within the specified period, by the end of 1972, wherever one looked in Tamil Nadu there should not be a single village without electric light, and we are carrying out that scheme.
 
-Mrs Ananthanayaki said while speaking: “Until now Tamil Nadu held first place. But now, in that respect, it has fallen to second place. Haryana has come to first place.” Newspapers in the north are writing a great deal about whether it is indeed in first place. It is not proper for the Chief Minister of one State to intervene in the affairs of another State, and I am not entering that controversy. If Haryana has secured first place, its area is only one-third that of Tamil Nadu, and its population is not even one-fourth that of Tamil Nadu. The Tondai Mandalam consisting of the three districts of North Arcot, South Arcot and Chengalpattu is Haryana.
+Mrs Ananthanayaki said while speaking: “Until now Tamil Nadu held first place. But now, in that respect, it has fallen to second place. Haryana has come to first place.” Newspapers in the north are writing a great deal about whether it is indeed in first place. It is not proper for the Chief Minister of one State to intervene in the affairs of another State, and I am not entering that controversy. If Haryana has secured first place, its area is only one-third that of Tamil Nadu, and its population is not even one-fourth that of Tamil Nadu. Haryana is only about the size of the Tondai Mandalam comprising the three districts of North Arcot, South Arcot and Chengalpattu.
 
 We are making earnest efforts truly to bring light to every village. We had stated that within another two or three years arrangements would be made so that there would not be a single village without lighting facilities; and I also state that, because of that, we will reach a position where we receive your appreciation.
 
@@ -121,7 +121,7 @@ When the State Planning Committee was constituted, other States looked upon it w
 
 ### Source page 128
 
-Today we see every State coming forward to constitute a Planning Committee. It is a good feature that Planning Minister Mr C. Subramaniam too has spoken welcoming it. Mr Ponnappa Nadar, while speaking, pointed out that the devaluation of the currency took place when our Mr C. Subramaniam was a Minister at the Centre. He mentioned Subramaniam, but did not mention that Ashok Mehta too was responsible for it. Mr Ponnappa Nadar knows where he is. He is on his side. Apart from that, this currency devaluation took place when the respected leader Kamaraj was President of the All India Congress. The question is not in whose period it was done. In those days Congress members sat in this august House to the extent of pleading the case for the Central Government. But it is our good fortune that they have now reached the point of criticising the Central Government. I feel delighted and thrilled at the thought.
+Today we see every State coming forward to constitute a Planning Committee. It is a welcome development that Planning Minister Mr C. Subramaniam too has spoken in support of it. Mr Ponnappa Nadar, while speaking, pointed out that the devaluation of the currency took place when our Mr C. Subramaniam was a Minister at the Centre. He mentioned Subramaniam, but did not mention that Ashok Mehta too was responsible for it. Mr Ponnappa Nadar knows where he is. He is on his side. Apart from that, this currency devaluation took place when the respected leader Kamaraj was President of the All India Congress. The question is not in whose period it was done. In those days Congress members sat in this august House to the extent of pleading the case for the Central Government. But it is our good fortune that they have now reached the point of criticising the Central Government. I feel delighted and thrilled at the thought.
 
 Almost everyone here has spoken welcoming the Rajamannar Committee report on Centre-State relations. Dr Hande said he was going to express some major opinion on it, but said nothing. Perhaps he will speak about it when the Rajamannar report comes up for debate. When we ask for autonomy for the State and greater powers for the States, it is truly welcome that even the Tamil Nadu Congress Party has passed a resolution that the States should receive greater powers.
 
@@ -147,15 +147,15 @@ The person who said this was Rajaji. Thus the elder statesman Rajaji was the fir
 
 ### Source page 131
 
-matured and ripened. But I find it amusing that in 1971 the time has not matured. We too have not said that the Central Government should be weakened. He has gone one step further than us: he supports the liberation struggle of East Pakistan and even supports its freeing itself from Pakistan and breaking away as a separate part.
+matured and ripened. But I find it amusing that in 1971 the time has not matured. We too have not said that the Central Government should be weakened. He has gone one step further than us: he supports the liberation struggle of East Pakistan and even supports its breaking away from Pakistan as a separate entity.
 
-But I wish to remind you that the State autonomy we ask for here is not, beyond the sphere of powers, accompanied by even the slightest intention of breaking away separately. In the interim budget I explained in detail, in a friendly spirit, the difficulties that arise for us in our relations with the Central Government, and at that time I gave very detailed answers to all the doubts raised about it. Therefore I do not consider it necessary to speak about it again at length.
+But I wish to remind you that the State autonomy we seek here concerns the extent of powers; there is not the slightest intention of breaking away as a separate entity. In the interim budget I explained in detail, in a friendly spirit, the difficulties that arise for us in our relations with the Central Government, and at that time I gave very detailed answers to all the doubts raised about it. Therefore I do not consider it necessary to speak about it again at length.
 
 No one can say that we have never fought with the Central Government or that we have obtained nothing by doing so. Even today I can give you a piece of happy news. With the approval and assistance of the Central Government, an integrated scheme to establish agricultural marketing yards at six places — Thiruthuraipoondi, Boothalur, Courtallam, Lalgudi, Kattumannarkoil and Pattukkottai — and to create 56 village roads connected with them has been sanctioned for us by the Central Government two days ago, at a cost of Rs. 1½ crore. I am very happy to announce this here. Thus, whenever necessary, we have never held back from arguing and fighting with the Central Government to obtain what is due to our State. But Dr Hande advanced the charge that, “For everything you say State autonomy, State autonomy, and using that alone you
 
 ### Source page 132
 
-escape from the people — is it a kalvari permit, permission for a hospital, or are two or three new beds needed for a hospital? Even for all these requests you point to State autonomy and escape.” Perhaps they may welcome State autonomy, but at the same time they may accuse us of invoking State autonomy for everything. It is only when the Rajamannar Committee report is debated that, through Hande, we will be able to see the true face of the Swatantra Party on Centre-State relations. For even within the Swatantra Party there are several different views on this. In the magazine “Swarajya”, published for the Swatantra Party, the respected Santhanam is writing long articles welcoming the Rajamannar Committee report.
+escape from the people — is it a kalvari permit, permission for a hospital, or are two or three new beds needed for a hospital? Even for all these requests you point to State autonomy and escape.” Perhaps they may welcome State autonomy, but at the same time they may accuse us of invoking State autonomy for everything. It is only when the Rajamannar Committee report is debated that, through Hande, we will be able to see the actual position of the Swatantra Party on Centre-State relations. For even within the Swatantra Party there are several different views on this. In the magazine “Swarajya”, published for the Swatantra Party, the respected Santhanam is writing long articles welcoming the Rajamannar Committee report.
 
 It was Mr Ponnappa Nadar who brought the Rajamannar report here and handed it to Mr Hande. He helped him by giving it to him. Mr Hande prefaced his remarks by saying that he would speak about the Rajamannar Committee report later. I came today thinking that we would hear a magnificent critique, but a story alone came to my mind. In a school, a teacher is teaching a lesson. One student, instead of paying attention to the lesson, is looking at the wall. There is a hole in the wall and a rat is entering it. The teacher asks, “Has everything I mentioned gone in?” The boy says, “Only the tail is left.” In the same way, leaving everything else in the Rajamannar report aside, they showed only the Chief Minister's photograph printed on the first page and asked, “Is this necessary? Is a ‘personality cult’ growing?” They spoke with the idea of trying to stage something here too, as though even those in the ruling party shared that
 
@@ -177,7 +177,7 @@ Rajarishi”. That is not all. When Rajaji moved a confidence motion in this Hou
 
 "... The intention behind this Resolution is to show that this is not usual type of Ministry headed by nonentities ro mediocritis like previous Ministries, but something wonderful, headed by a master statesman. That is the intention behind this Resolution. The present tendency within the Congress is to develop a leader cult, (even during the last elections one noticed it) Congress went about canvassing votes not on the basis of the Five Year Plan but asked the voters to vote for the congress candidate though he be a donkey or a mule, because their vote for a congress candidate was a vote for the great leader,' Nehru. Unfortunately for them, that particular tactics of building up cult of leadership did not succeed in South India. Hence, the necessity for the Congress to build up a South Indiana Messiah. This new cult, Rajaji himself has tried to foster. He has claimed that he is the chosen instrument of God's ambassador - Pleni - Pootentiary on earth. It will not be long, indeed I would not be surprised, if one day Rajaji climed to be God himself. When the Chief Minister appealed to the people to be pray to God for rain and when the rain came in this State some of the Congressmen began to look upon him as God, and that he has been responsible for the recent rain. If this be true, then, I would submit that it is time we sent up a special Resolution to Union Government asking them not to waste the tax-payer's money any more in carrying on research on how to bring about the artificial rain. All that is necessary to do in the way of giving help to any particular State where there is suffering due to drought is to send Rajaji there as Chief Minister of the State."
 
-Thus Mr Anthony Pillai charged that Rajaji was being built up not merely through a personality cult, but to the point of making himself God.
+Thus, in Mr Anthony Pillai's charge, Rajaji was being built up not merely through a personality cult but to the point where he was said to be making himself into God.
 
 ### Source page 135
 
@@ -185,7 +185,7 @@ That is not all. In a film produced by AVM, Rajaji was shown ploughing. Had he n
 
 That is not all. In several English journals, pictures were even published showing him washing a towel himself with his sacred thread tucked behind his ear.
 
-As far as the Swatantra Party is concerned, and as far as Tamil Nadu is concerned, the position is: if not Rajaji, who after him? Is that not personality? In that manner a personality cult was fostered. But I am saying that in the Dravida Munnetra Kazhagam, if Karunanidhi is not there, there are many others after him in the Dravida Munnetra Kazhagam; I am duty-bound to point that out here.
+As far as the Swatantra Party in Tamil Nadu is concerned, the position is: if not Rajaji, who after him? Is that not personality? In that manner a personality cult was fostered. But I am saying that in the Dravida Munnetra Kazhagam, if Karunanidhi is not there, there are many others after him in the Dravida Munnetra Kazhagam; I am duty-bound to point that out here.
 
 Even when that charge of personality cult was placed upon us and upon Perarignar Anna, who served as the political guide for all of us, I reflected that Rajaji Hall was named while Rajaji was still alive. I also reflected that his large portrait was unveiled in this very august House while Rajaji was alive.
 
@@ -195,7 +195,7 @@ I said that such a mentality should change and that one should become a good dem
 
 ### Source page 136
 
-**Hon. Kalaignar M. Karunanidhi:** I wish to clarify, when we speak later, whether democracy exists with you or not.
+**Hon. Kalaignar M. Karunanidhi:** When we come to speak of it later, I wish to clarify whether democracy exists with you or not.
 
 They said things such as that it was not even known whether the Rajamannar Committee report had reached Delhi. The Rajamannar report has reached there, and on the 26th of this month I received a letter from the respected Prime Minister, Mrs Indira Gandhi. Hon. Speaker, with your permission I shall read it.
 
@@ -218,7 +218,7 @@ I am truly happy that even in this letter from the Prime Minister of India there
 
 I am duty-bound to pay my homage at the grave of Perarignar Anna.
 
-The next major subject discussed in this august House was the policy of prohibition. Prohibition is not a matter attempted only by us here. Historical evidence abundantly shows that in many countries of the world, different peoples and governments planned to enforce it by law and failed.
+The next major subject discussed in this august House was the policy of prohibition. The policy of prohibition has not been attempted only by us here. Historical evidence abundantly shows that in many countries of the world, different peoples and governments planned to enforce it by law and failed.
 
 In the United States, on 16 January 1919, they amended the Constitution itself and brought prohibition into force. After it had been enforced for fourteen years, crimes ultimately increased, illicit liquor could not be prevented, smuggling increased, and it was said that those who were to enforce prohibition became demons of bribery; the prohibition law was repealed on 20 February 1938.
 
@@ -238,7 +238,7 @@ Next, to study prohibition, the Central Planning Commission in 1963 constituted 
 
 ### Source page 139
 
-This committee was constituted in 1956, with the effort to implement prohibition throughout the country. It carried out various investigations and gave a report in 1963. We must see what recommendations that committee made in its report. One important recommendation concerned alcohol in ear medicines (ear drops). It appears that in one State alone thousands of pounds of that medicine are consumed, and in some States sales are high. The committee therefore recommended that this be controlled. Next, it recommended controlling the production of tinctures containing excessive alcohol. The Central Government was unable to implement all this.
+This committee was constituted in 1956, with the effort to implement prohibition throughout the country. It carried out various investigations and gave a report in 1963. We must see what recommendations that committee made in its report. One important recommendation concerned alcohol in ear medicines (ear drops). It appears that in one State alone thousands of pounds of that medicine are used, and in some States sales are high. The committee therefore recommended that this be controlled. Next, it recommended controlling the production of tinctures containing excessive alcohol. The Central Government was unable to implement all this.
 
 Next, the Tek Chand Committee said that several amendments should be made to the Drugs Act. The Central Government did not heed that either. If medicines such as asava and arishtam are prepared properly, they can contain only 10 to 12 per cent alcohol. But arishtams and preparations such as asava containing 80 per cent or 90 per cent alcohol are coming onto the market. The Tek Chand Committee said the Drugs Act must be amended to deal with this. It was not done.
 
@@ -248,7 +248,7 @@ Next, that committee said that ‘toddy is less dangerous than illicit arrack’
 
 not seek illicit arrack. The committee made several recommendations in this manner.
 
-The committee gave figures for illicit-liquor sales throughout the country. In 1963–64, illicit-liquor sales throughout India amounted to Rs. 52 crore. Of this, in States where drinking was permitted, it was Rs. 9 crore; in States where prohibition law was in force, illicit-liquor sales were Rs. 43 crore. Out of the total Rs. 52 crore, Rs. 9 crore was sold in drinking States and Rs. 43 crore in prohibition States. Only illicit liquor is included here; other varieties of liquor are not included. The committee also pointed out that this was money not reaching the Government.
+The committee gave figures for illicit-liquor sales throughout the country. In 1963–64, illicit-liquor sales throughout India amounted to Rs. 52 crore. Of this, in States where drinking was permitted, it was Rs. 9 crore; in States where prohibition law was in force, illicit-liquor sales were Rs. 43 crore. Out of the total Rs. 52 crore, sales amounted to Rs. 9 crore in States where drinking was permitted and Rs. 43 crore in prohibition States. Only illicit liquor is included here; other varieties of liquor are not included. The committee also pointed out that this was money not reaching the Government.
 
 Next, if consumption in a ‘wet area’ before prohibition was 100 units, after ten years — after taking into account an increase of about 20 per cent in population and other conditions — it had risen to 130 units. In a ‘dry’ area it had been 100 units and, after ten years, had fallen to 90 units. The Tek Chand Committee said that we must also remember that all this was illicit liquor.
 
@@ -280,7 +280,7 @@ At the All India Congress Committee conference held at Kunha in 1968, an amendme
 
 ### Source page 142
 
-was the President. Mr C. Subramaniam was the representative from Tamil Nadu. Women such as Mrs Sushila Nayyar, who followed Gandhiji, also took part in that meeting. The resolution they brought was that, from 1968, prohibition should be implemented throughout India within another seven years. Tamil Nadu Congress Party leader Mr C. Subramaniam, who attended that conference, stated that the issue of prohibition should not be approached emotionally, but should be approached in a way that could be implemented in practice. With the Speaker's permission, I shall read an editorial written at that time by a newspaper in Tamil Nadu.
+was the President. Mr C. Subramaniam was the representative from Tamil Nadu. Gandhian stalwarts such as Mrs Sushila Nayyar also took part in that meeting. The resolution they brought was that, from 1968, prohibition should be implemented throughout India within another seven years. Tamil Nadu Congress Party leader Mr C. Subramaniam, who attended that conference, stated that the issue of prohibition should not be approached emotionally, but should be approached in a way that could be implemented in practice. With the Speaker's permission, I shall read an editorial written at that time by a newspaper in Tamil Nadu.
 
 “‘There is nothing surprising in the heated debates on prohibition at the All India Congress Committee meeting at Panaji and at the Working Committee meeting held before it. So far as the Congress Party is concerned, we have accepted prohibition as a fundamental policy. Our Constitution too has clearly stressed it in the section on Directive Principles. (Directive Principles) It has clearly stressed it in that section.
 
@@ -370,7 +370,7 @@ All of them genuinely believe in prohibition. That is why they spoke with emotio
 
 At the same time, we must be prepared to respect one another. We must be prepared to show one another courtesy. Today, when we say that we follow Anna's path, Anna's path is the democratic path. We follow that democratic path. Anna's path is to place every issue before the General Council and accept the direction of the General Council. Following that same path, we placed this policy before the General Council, examined it and accepted the General Council's direction.
 
-So if it is asked whether this is Anna's path, Anna's path — if Congress Chief Ministers in India have repealed prohibition, does that mean they all lack faith in the Gandhian path?
+So if the question is repeated, “Is this Anna's path? Anna's path?” — if Congress Chief Ministers in India have repealed prohibition, does that mean they all lack faith in the Gandhian path?
 
 On that occasion Mr C. Subramaniam said that at least some people must be exempted from prohibition and that liquor must be made available to military personnel. He said that Gandhi should not be looked to in all such matters. At one time Gandhiji said that there should be no army at all. Can India survive without an army? Therefore, at the Congress Party conference held at Kulgapur, he said that the right to drink alcohol must be given to the military.
 
@@ -386,4 +386,4 @@ Prohibition has failed. The Ministers who were here before us refused to admit t
 
 that begging — please take it back. We have taken this decision only because there is no other way. Even then, we have only postponed it. We have said that prohibition is being postponed until the Central Government takes responsibility for implementing the prohibition programme throughout India.
 
-I convey my thanks to all the Hon. members and party leaders who expressed many views on this financial statement. Even though there was heat in between, I ask that, in keeping with Tamil culture, that heat certainly be forgotten. I thank you all and resume my seat.
+I convey my thanks to all the Hon. members and party leaders who expressed many views on this financial statement. Even though things became heated in between, I ask that, in keeping with Tamil culture, that heat certainly be forgotten. I thank you all and resume my seat.

@@ -353,7 +353,7 @@ English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**.
 
 Gate H is **PASS / COMPLETE — RELEASED / CLOSED**. The canonical `transcript.md` now contains verified Tamil + verified English; `translation.md` is retired to a pointer; root and machine-readable dated indexes are synchronized. Gate-H wording changes: **0 Tamil / 0 English**. The `நமது நிலை` source layer remains unchanged.
 
-## Speech 10 Gate-F state
+## Speech 10 Gate-G state
 
 Working entry: `speeches/1971/1971-06-29-financial-statement-debate/`
 
@@ -363,16 +363,13 @@ Current state:
 
 - Tamil Gates C–E — **COMPLETE / VERIFIED**
 - Gate F — **COMPLETE / 35 of 35 English pages**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-- Gate-F blocking questions — **0**
-- verified-Tamil changes — **0**
-- Gate G — **NOT STARTED / NEXT**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
+- Gate G — **PASS / COMPLETE / 21 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H / release — **NOT STARTED / NEXT**
 - outside English imported — **0**
 
 Speech 10 remains an independent 2007-anthology witness. The earlier `நமது விளக்கம்` source layer remains unchanged.
 
 ## Exact next activity
 
-Perform **Speech 10 Gate G full English fidelity and voice review — source pages 117–151 / 35 pages**.
+Perform **Speech 10 Gate H canonical bilingual merge / release readiness and index synchronization**.

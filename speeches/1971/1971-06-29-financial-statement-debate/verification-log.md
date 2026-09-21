@@ -196,27 +196,36 @@ No other Tamil wording changed. The earlier Gate-C reconciliation note for **136
 - translation authority — final Gate-E-verified Tamil only
 - source-page sequence — **117→151 / complete / ordered**
 - source-printed English — **preserved as printed**
-- speaker changes / interventions / reactions — **preserved**
-- figures / dates / quotations / source-visible repetitions — **preserved**
-- Gate-F blocking translation questions — **0**
+- blocking translation questions — **0**
 - verified-Tamil changes — **0**
 - outside-witness English imported — **0**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
 
-Gate F does not make an English fidelity-verification claim; that is Gate G.
+## Gate G English fidelity and voice review
 
-## Gate status after Gate F
+**Status: PASS / COMPLETE — 35/35 pages**
 
-- Gate C — **COMPLETE**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE**
-- Gate E — **PASS / COMPLETE**
-- Tamil — **VERIFIED**
-- Gate F — **COMPLETE / 35 of 35**
-- Gate G — **NOT STARTED / NEXT**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
+- review authority — final Gate-E-verified Tamil only
+- refinements — **21**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed English — **retained verbatim**
+- page sequence **117→151** — **PASS**
+- speaker/intervention/reaction structure — **PASS**
+- figures / dates / quotations / source-visible repetitions — **PASS**
+- outside-witness English imported — **0**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+
+The complete refinement ledger is maintained in `translation-review.md`.
+
+## Gate status after Gate G
+
+- Gates C–E — **COMPLETE / Tamil VERIFIED**
+- Gate F — **COMPLETE**
+- Gate G — **PASS / COMPLETE / 21 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL**
+- Gate H / release — **NOT STARTED / NEXT**
 
 ## Exact next activity
 
-Perform **Speech 10 Gate G full English fidelity and voice review — source pages 117–151 / 35 pages**. Review only against the final Gate-E-verified Tamil; do not begin Gate H or Speech 11.
+Perform **Speech 10 Gate H canonical bilingual merge / release readiness and index synchronization**. Do not begin Speech 11.
