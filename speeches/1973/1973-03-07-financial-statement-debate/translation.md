@@ -120,3 +120,46 @@ we give advertisements to the other newspapers. This Government gives advertisem
 **Hon. Kalaignar M. Karunanidhi:** I have already said it. Out of Rs.57 lakh, Rs.55 lakh is given to other newspapers. Mr Gopal said that Rs.1½ or Rs.2 lakh is given to Murasoli. It is given to Murasoli. There is nothing wrong in that. I state here that it will continue.
 
 Dr. H.V. HANDE: What is the circulation of ‘Murasoli’ and what is the amount given towards advertisement charges and whether it is proportionate to its circulation? Of Course, the Hon. Chief Minister says that he is not going to give advertisement to newspapers which criticise him harshly. That is a different matter which I do not want to go into now. Also what is the circulation of newspapers like ‘Dinamani, ‘The Hindu’ and ‘The Indian Express’ which the Government consider as neutral papers and what is the amount given to them towards advertisement charges? I am asking a specific question and I want a specific answer. In this connection, I want to point out that so far as the circulation of ‘Murasoli’ is concerned, it is about 15,000. If it is more than 15,000 it has to pay 2 paise extra as tax to the Central Government and that is a different matter. So, I request the Hon. Chief Minister to clarify whether the amount of advertisement charges is commensurate with its circulation.
+
+
+<!-- source-page: 206 -->
+
+**Hon. Kalaignar M. Karunanidhi:** Mr C. Subramaniam, who was a Minister in this House, has already answered this question. As Information Minister, Mr Subramaniam stated that advertisements are not given merely by looking at newspaper circulation figures, but according to the paper's “tone and content”. (Dr H.V. Hande: I asked about circulation.) The reply already given in this House about the circulation at that time is contained in the book answering the list of complaints you took to Delhi. Mr Hande may read it at leisure and find out.
+
+Next, every member in this House referred to the very important issue of rising prices. Mr Ponnappa Nadar, Mr Hande and some other members said that this Government was not concerned about it and had not thought about it at all. Our senior Communist Party leader Manali also said yesterday, “None of you is concerned about all this.” I do not think Mr Hande has forgotten that he himself said we were not taking sufficient concern. He also said that only the Central and State Governments need worry about this problem and that ordinary people need not. The sentence should not end there. Ordinary people may not worry about it, but we in this House must discuss it and concern ourselves with who bears responsibility. We must explain that to the people.
+
+<!-- source-page: 207 -->
+
+Mr Manali too said this. Citing a song from the old Mithran newspaper, he even asked all the ruling-party members to sing it. It can be sung in Tamil. It can also be translated into Malayalam and sung in Kerala. In fact it is a song that could be sung in every State throughout India. I am not saying that in musical mockery. I wish to answer in the same literary spirit in which he spoke. This is not a problem of one State; it is a problem faced by all the States in India. We have to approach this grave problem in that manner. When we say that the Central Government bears responsibility, we are not saying so merely to escape from the people. We are stating a fact.
+
+We are giving an explanation for it. Such an explanation was not given by the earlier Governments. What was the explanation then? If prices rose, the answer given was simply that prices would rise in that way. When we agitated because prices had risen, we were mocked. If we said that the DMK was standing in protest over rice, the answer came in the form of the question, “Doesn't the DMK queue up for cinema?” Today this Government is duty-bound to echo the very views voiced here by the Hon. leaders of the opposition and Hon. members. We have never thought of evading responsibility while being in office, nor do we wish to. But all of us have a duty to make the people understand the true situation.
+
+In every country, two things must be compared: (1) growth of national income, and (2) currency circulation—Money supply.
+
+<!-- source-page: 208 -->
+
+If we compare them, the Government of India's “Economic Survey 1972-73” states the position very clearly. Compared with 1968, growth in national income in 1968-69 rises by only 7 per cent. At the same time, money supply rises by 8.1 per cent. In 1969-70, compared with 1968-69, growth in national income rises by 7.3 per cent, while money supply rises by 10.8 per cent. In 1970-71, national-income growth is 4.6 per cent higher than in the previous year. At the same time, money supply is 11.1 per cent higher than in the previous year. But suddenly, and alarmingly, in 1971-72 national-income growth falls to 1.5, then stands hesitantly around two points. In contrast, money supply rises by 12.9 per cent. More or less the same situation continues in 1972-73.
+
+Therefore, if money supply is allowed to grow beyond the growth of national income, prices are affected as a consequence. So who has the right and authority to control money supply? Does the State Government have it? Or does the Reserve Bank have the authority to control the other banks? It is when we answer that question that we say the authority to control money supply is not the responsibility of the State Government but of the Central Government. In saying this responsibly, we are not pointing a finger and calling anyone a culprit. We say that because the responsibility lies there, action must be taken. There are difficulties in taking such action. Plans have to be made, but those Plans require money circulation. Thus this becomes a major difficulty. They face that difficulty. I merely wish to point out that the responsibility lies not with the State Government but with the Central Government.
+
+<!-- source-page: 209 -->
+
+**Mrs T.N. Anandanayaki:** Sir, the Hon. Chief Minister has been speaking in such detail about whether responsibility lies with the State Government or the Central Government. When they stood in the election, they did not go before the people with the understanding that the Central Government alone bore that responsibility. They said, “If we come to power, we will reduce prices; if we come to power, we will reduce all prices.” It would be good to know what their own part is today. Today, in order to escape, they place the blame on the Central Government. How can that be right?
+
+**Hon. Kalaignar M. Karunanidhi:** What can we do? We said it because we trusted you. We said it believing that the Central Government would act responsibly. That trust has been betrayed. (Applause.) Did you betray only us? You did it to them as well. (Renewed applause.)
+
+**Dr H.V. Hande:** Sir, while the Hon. Chief Minister was speaking, he referred to inflation and all these matters. In my speech too, I had begun to speak about the Economic Survey of India. Immediately, Hon. P.U. Shanmugam stopped me, saying, “That is a speech to be made in Parliament.” But I did not say the same thing to you. This is indeed a speech you should make here. The remedy for it is “increased production.” I was trying to say that the remedy lies in producing goods. I asked what action you have taken for that.
+
+**Mrs T.N. Anandanayaki:** Sir, he said, “I said it because I trusted you.” I want to ask whether today you are governing because you trust us,
+
+<!-- source-page: 210 -->
+
+or whether you admit that you won then because you trusted us?
+
+**Hon. Kalaignar M. Karunanidhi:** Sir, Mr Hande said that this was precisely the point he had intended to make. What does it matter whether he says it or I say it? He referred to one point he had finally intended to make. That is true. When production increases, this kind of increase in money circulation occurs. When that happens, economic growth too must increase. It is this large gap that I pointed out here.
+
+That is not all. There are a few more reasons. Another major cause of rising prices is tax evasion. The black money held by tax evaders in the country—“unaccounted money”—enters circulation without being accounted for, and because of that prices rise. The people of the country suffer. The responsibility for bringing those black-money holders—those who possess unaccounted money—into the open does not lie with us either; it lies with the Central Government. No one is unaware of the changes that have consequently taken place in the country.
+
+**Mr R. Ponnappa Nadar:** Sir, will the Chief Minister explain how black money operates?
+
+**Hon. Kalaignar M. Karunanidhi:** Similarly, they spoke about production. As far as our Tamil Nadu is concerned today, we produce rice. At the same time, we are in a position to control the price of rice.
