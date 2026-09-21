@@ -92,6 +92,23 @@ The former first-pass uncertainty at scan **191**, `மறுபவழி`, was 
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 40/40 / 0 completeness corrections**
 - unresolved readings after Gate D — **0**
-- Gate E — **NOT STARTED / next**
+- Gate E — **IN PROGRESS — scans 191–228 reviewed / 38 of 40; 18 confirmed correction occurrences logged; scans 229–230 pending; transcript batch application deferred**
 - English — **NOT STARTED**
 - Gate H — **NOT STARTED**
+
+
+## Gate E progress checkpoint
+
+Strict visual source-fidelity review has been completed for **scans 191–228 / 38 of 40 pages** using only the controlling anthology pixels.
+
+- pending scans — **229–230**
+- checkpoint correction ledger — **18 confirmed correction occurrences**
+- corrections batch-applied to `transcript.md` — **0**
+- final Gate-E correction count — **not yet final**
+- final unresolved-reading count — **not yet final**
+- Tamil verification — **NOT YET CLAIMED**
+- `verified_against_scan=false`
+
+The checkpoint ledger is recorded in `verification-log.md`. It includes source-supported forms such as `நிறுவன` (scan 192), `நடைபெற்று இருப்பது` / `பிரச்சனை` (193), `ஓஹோ` (194), `எண் 35` ×2 (199), `ஓய்வாக` (206), `அக்கெளண்டட்` ×2 (210), `கருதத் தேவையில்லை` (211), `பிரச்சனை` ×3 (212), `ஹிந்துஸ்தான் டைம்ஸ்` (217), `சோனல் கவுன்சில்` and `‘சதர்ன் சோன்’` (218), `ஓ.பி. இராமன்` ×2 (219), and three scan-228 source forms.
+
+No wording from the released 1973 parallel witness or any outside source was used. The correction ledger is intentionally held for a single batch application after scans 229–230 and full 40/40 Gate-E adjudication are complete.
