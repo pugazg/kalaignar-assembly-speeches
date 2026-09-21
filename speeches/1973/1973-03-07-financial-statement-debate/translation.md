@@ -163,3 +163,56 @@ That is not all. There are a few more reasons. Another major cause of rising pri
 **Mr R. Ponnappa Nadar:** Sir, will the Chief Minister explain how black money operates?
 
 **Hon. Kalaignar M. Karunanidhi:** Similarly, they spoke about production. As far as our Tamil Nadu is concerned today, we produce rice. At the same time, we are in a position to control the price of rice.
+
+
+<!-- source-page: 211 -->
+
+We control it so that it does not go to other States. Most other food commodities are not like that. Because rice, the principal food grain, is within the control of our State, we are able to keep its price under control. But for commodities such as pulses and oil we have to depend on other States. Because this situation extends across India, and because there is no similar condition that enables us to control their prices, we face a difficulty that cannot easily be resolved.
+
+For these reasons, in both the financial statement and the Governor's Address, we have stated on behalf of this Government that we are making determined efforts to increase the production of pulses and similar grains in Tamil Nadu. No one need think that by saying that the Central Government bears responsibility, the State Government will simply refuse to assume any responsibility. On this very important issue, I most respectfully assure this House that this Government will assume every responsibility it can and use every possible means to control prices.
+
+Next, what is causing great concern in Tamil Nadu today is the power cut. Everyone here has spoken about it. It has been exaggerated to the extent of saying that all of Tamil Nadu is immersed in darkness. In such a situation, political parties approach the issue according to the character of their respective parties. What I most respectfully ask of all political parties is this:
+
+<!-- source-page: 212 -->
+
+this is a common problem. It is not an individual problem. It is not a policy problem. To give an example: when the question arises whether the medium of instruction for students should be English or Tamil, and students say that they want English as their medium and do not need Tamil, when we view that question in terms of the Tamil people and Tamil Nadu it becomes a common issue. Even so, when a political element entered that issue and some sought to use it for political purposes, we approached it as a political problem.
+
+This is different. It affects everyone. As Mr Hande observed and Mr Manali pointed out, this is a major matter in which we must involve ourselves as though facing a wartime situation.
+
+At the same time, a Government has to answer the blame and accusations levelled against it. Just as others may say that this is a common problem, push the Government into a corner and accuse it, the Government has the right to explain that it is not in a position to deserve that accusation and that it is not responsible for it.
+
+Mr Manali himself said that after this Government came to office there had been no generation of electricity and that this was why these difficulties had arisen. He also said that we had not been alert.
+
+Under the First Five-Year Plan our State obtained 110 megawatts of power. Under the Second Five-Year Plan it obtained 315 megawatts. Under the Third Five-Year Plan it obtained 510 megawatts.
+
+<!-- source-page: 213 -->
+
+Thus, from 1951 to 1967, over roughly fifteen years, 935 megawatts of power were generated in our State. The Fourth Five-Year Plan covered the period from 1967 to 1972. In those five years alone, 625 megawatts of power were generated. If 935 megawatts were generated over fifteen years, then 625 megawatts were generated in these five years alone. I wish to give this explanation to show that it is not proper to subject this Government to the charge that we did not increase generation.
+
+We should not forget another fact. Kerala needs only 60 lakh units of electricity a day. Mysore needs 130 lakh units a day, and Andhra needs 90 lakh units a day. Thus, even if all three States—Kerala, Mysore and Andhra—are taken together, their daily requirement is only 280 lakh units. But Tamil Nadu alone requires 225 lakh units a day. Because industry has developed here, and because Tamil Nadu is the only State in India to have given electricity connections to as many as six lakh pump sets (cheers), this State needs 225 lakh units a day—almost approaching the combined daily requirement of Kerala, Mysore and Andhra.
+
+The present problems are due to nothing other than the blow dealt by nature to hydro-electric stations. Because nature suddenly and unexpectedly failed us, we did not receive the power that should have come from the hydro-electric
+
+<!-- source-page: 214 -->
+
+stations.
+
+Have we failed to seek projects from the Central Government? We have sought ten projects: (1) Servalar project, (2) Nellithurai project, (3) Solattipuzha project, (4) Upper Amaravathi project, (5) Palar project, (6) Shanmuga River project, (7) Coonoor Kallar project, (8) Lower Moyar project, (9) Tuticorin Thermal Power Station, and (10) Mettur Thermal Power Station. These ten projects, capable of yielding 1,035 megawatts, have been sent for approval by the Central Commission.
+
+Thirumathi T.N. ANANDANAYAKI : All these ten schemes have been sent to the Centre to be included in the Fifth Plan which starts from 1974 and ends in 1979. Why did you not send the same for inclusion in the Fourth Plan? That is the point.
+
+**Mr R. Ponnappa Nadar:** Is the Shanmuga River project included in the Fourth Plan, or in the Fifth Plan?
+
+**Hon. Kalaignar M. Karunanidhi:** Only after all these schemes are sanctioned will it be known under which Plan they fall.
+
+Apart from these, we have continuously pressed for Central Government projects such as the Kalpakkam expansion scheme, the second Neyveli Thermal Power Station and the second Tuticorin Thermal Power Station. I have previously explained in detail all the resolutions we have moved in this House.
+
+Mr Kumarasamy of the ruling Congress Party made one point while speaking. Mrs Anandanayaki also said something along the same lines. Mr Kumarasamy said: if the Central Government has agreed in the Fourth Five-Year Plan to establish a power station,
+
+<!-- source-page: 215 -->
+
+why do they then interfere in it? That was his question. He said that we should formulate the project we need, inform the Central Ministers, and implement it ourselves; and that this situation had arisen because we failed to do so. My concern is not merely to answer something because it was said here. If this same view is conveyed to the public, what will the people who are suffering think? Mr Kumarasamy has said that the Central Government accepted a power station under the Fourth Plan and that we could implement it even without obtaining Central Government approval. The public will naturally wonder why the Ministers failed to do this and wasted time.
+
+But those who have previously borne the responsibility of government will, I hope, understand well that even if a power station is accepted in the Fourth Five-Year Plan, it is not such an easy matter to establish it immediately.
+
+First, we prepare and send a detailed project report. The Central Water and Power Commission examines that report and, after obtaining the approval of the Union Minister in charge of power, sends it to the Planning Commission. There, the Technical Advisory Committee examines it again and only then gives approval. Under these procedures, it takes at least two years for a project to be accepted. For example, the Nellithurai, Servalar and Palar projects
