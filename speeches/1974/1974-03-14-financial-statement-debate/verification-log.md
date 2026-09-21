@@ -65,22 +65,54 @@ Total Speech-13 source coverage: **32/32 pages**.
 
 Gate C is a first pass, not a word-for-word verification. No Gate-E fidelity claim is made.
 
+## Gate C.5 applicability
+
+**N/A / CLOSED.**
+
+- source typography — **modern 2007 Tamil typesetting**
+- pages visually reviewed for applicability — **32/32**
+- legacy/reform-sensitive glyph condition requiring a separate pass — **not identified**
+- Tamil wording changes — **0**
+
+## Gate D — completeness / structure audit
+
+**PASS / COMPLETE — 32 of 32 pages.**
+
+- scans — **231–262**
+- printed pages — **230–261**
+- markers — **32 / 231→262 / exactly once / ordered**
+- internal transitions — **31/31 PASS**
+- hard start boundary **230→231** — **PASS**
+- hard end boundary **262→263** — **PASS**
+- heading / `உரை : 13` / `நாள் : 14.03.1974` — **represented**
+- speaker labels / interventions — **represented**
+- source-printed English — **represented**
+- figures / dates / percentages — **structurally represented**
+- quotations / parenthetical reactions — **represented**
+- source-visible repetition — **no structural omission detected**
+- scan-262 close / `வணக்கம்.` / closing ornament — **PASS**
+- missing pages — **0**
+- duplicate long blocks — **0**
+- completeness corrections — **0**
+- unresolved first-pass readings — **0 currently flagged**
+- OCR / web / Official Report / alternate anthology / other witness wording imported — **0**
+- Speech 12 reopened — **NO**
+- Speech 14 begun — **NO**
+
+Gate D is a completeness and structural continuity audit only. It does **not** establish word-for-word fidelity.
+
 ## Gate status
 
 - Gate C — **COMPLETE / 32 of 32**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE / 32 of 32 / 31 of 31 transitions / 0 completeness corrections**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
 - Gate F / English — **BLOCKED / NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 
-## Whole-speech rule
-
-Speech 13 was processed at Gate C as **one intact 32-page speech unit**, notwithstanding the normal 25-page activity limit.
-
 ## Exact next activity
 
-Determine **Gate C.5 applicability**, then perform **Gate D completeness/structure audit across scans 231–262 / 32 pages**. Do not begin Gate E, English work, Gate H or Speech 14 in the same activity.
+Perform **Speech 13 Gate E word-for-word source-fidelity verification — scans 231–262 / 32 pages** from the controlling 2007 anthology pixels only. Do not begin English work, Gate H or Speech 14 in the same activity.
