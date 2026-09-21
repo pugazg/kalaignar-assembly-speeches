@@ -311,6 +311,27 @@
     "gate_h_status": "passed"
   },
   {
+    "id": "1974-03-14-financial-statement-debate",
+    "date": "1974-03-14",
+    "year": 1974,
+    "speaker_ta": "மு. கருணாநிதி",
+    "speaker_en": "M. Karunanidhi",
+    "title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் — உரை : 13",
+    "title_en": "Kalaignar's Legislative Assembly Speeches on the Financial Statement — Speech 13",
+    "event_ta": "நிதிநிலை அறிக்கை மீது உரை",
+    "event_en": "Speech on the financial statement",
+    "path": "speeches/1974/1974-03-14-financial-statement-debate",
+    "languages": [
+      "ta",
+      "en"
+    ],
+    "transcription_status": "verified",
+    "verified_against_scan": true,
+    "translation_status": "verified",
+    "release_status": "released",
+    "gate_h_status": "passed"
+  },
+  {
     "id": "1981-04-16-industries-debate",
     "date": "1981-04-16",
     "year": 1981,
