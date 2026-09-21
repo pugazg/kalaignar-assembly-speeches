@@ -61,7 +61,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 9 | `29.3.1971` | 1971-03-29 | 113–116 | 112–115 | working ID `1971-03-29-financial-statement-debate`; parallel witness to existing `நமது நிலை` provenance/event record |
 | 10 | `29.6.71` | 1971-06-29 | 117–151 | 116–150 | working ID `1971-06-29-financial-statement-debate`; parallel witness to existing `நமது விளக்கம்` provenance/event record |
 | 11 | `10.3.1972` | 1972-03-10 | 152–190 | 151–189 | `1972-03-10-financial-statement-debate` |
-| 12 | `07.03.1973` | 1973-03-07 | 191–230 | 190–229 | working ID `1973-03-07-financial-statement-debate`; **parallel witness only** to released `1973-03-07-financial-statement-reply`; Gate C COMPLETE; Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE 40/40; Gate E IN PROGRESS — 191–228 reviewed / 38 of 40 / 18 confirmed correction occurrences / 229–230 pending; Tamil TRANSCRIBED / NOT VERIFIED |
+| 12 | `07.03.1973` | 1973-03-07 | 191–230 | 190–229 | working ID `1973-03-07-financial-statement-debate`; **parallel witness only** to released `1973-03-07-financial-statement-reply`; Gate C COMPLETE; Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE 40/40; Gate E IN PROGRESS / VISUAL REVIEW COMPLETE — 191–230 reviewed / 40 of 40 / checkpoint 23 correction entries / 28 occurrences / ledger application pending; Tamil TRANSCRIBED / NOT VERIFIED |
 | 13 | `14.03.1974` | 1974-03-14 | 231–262 | 230–261 | `1974-03-14-financial-statement-debate` |
 | 14 | `10.03.1975` | 1975-03-10 | 263–319 | 262–318 | `1975-03-10-financial-statement-debate` |
 | 15 | `03.08.1977` | 1977-08-03 | 320–355 | 319–354 | `1977-08-03-financial-statement-debate` |
@@ -124,7 +124,7 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speeches 1–11 CLOSED through release; Speech 12 COMPLETE / 40 of 40 / Tamil TRANSCRIBED-NOT-VERIFIED; speeches 13–19 not started**
 - Gate D — **Speeches 1–7 PASS / COMPLETE with 0 completeness corrections; Speech 8 PASS / COMPLETE, retrospectively amended to 1 completeness correction after Gate E restored an omitted scan-90 phrase; Speech 9 PASS / COMPLETE / 0 completeness corrections; Speech 10 PASS / COMPLETE / 2 completeness corrections; Speech 11 PASS / COMPLETE / 0 completeness corrections; Speech 12 PASS / COMPLETE / 0 completeness corrections / 39 of 39 transitions PASS**
-- Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43; Speech 9 / 4; Speech 10 / 26; Speech 11 / 25 corrections; Speeches 1–11 Tamil VERIFIED / 0 unresolved; Speech 12 IN PROGRESS — scans 191–228 reviewed / 38 of 40; checkpoint ledger 18 confirmed correction occurrences; scans 229–230 pending; Tamil NOT VERIFIED**
+- Gate E — **Speech 1 / 9; Speech 2 / 6; Speech 3 / 3; Speech 4 / 6; Speech 5 / 10; Speech 6 / 20; Speech 7 / 19; Speech 8 / 43; Speech 9 / 4; Speech 10 / 26; Speech 11 / 25 corrections; Speeches 1–11 Tamil VERIFIED / 0 unresolved; Speech 12 IN PROGRESS / VISUAL REVIEW COMPLETE — scans 191–230 reviewed / 40 of 40; checkpoint ledger 23 correction entries / 28 occurrences; ledger application pending; Tamil NOT VERIFIED**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–12 — modern 2007 typesetting; speeches 13–19 not started**
 - Gate F — **Speeches 1–11 COMPLETE — page counts 7 / 9 / 9 / 6 / 11 / 16 / 14 / 23 / 4 / 35 / 39; Speech 11 English TRANSLATED / NOT VERIFIED AGAINST TAMIL**
 - Gate G — **Speeches 1–11 PASS / COMPLETE — refinements 10 / 12 / 17 / 6 / 11 / 15 / 16 / 16 / 11 / 21 / 23; 0 blockers; English VERIFIED**
@@ -264,9 +264,9 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - source-printed English, interventions, figures/quotations, scan-222 repetition, scan-228→229 poem continuation and scan-230 close — **structurally represented**
 - existing released `1973-03-07-financial-statement-reply` — **UNCHANGED**
 - relationship — **INDEPENDENT PARALLEL WITNESS / NO OVERWRITE / NO NORMALIZATION**
-- Gate E — **IN PROGRESS — scans 191–228 reviewed / 38 of 40; 18 confirmed correction occurrences logged; transcript batch application deferred; scans 229–230 pending**
+- Gate E — **IN PROGRESS / VISUAL REVIEW COMPLETE — scans 191–230 reviewed / 40 of 40; checkpoint ledger 23 correction entries / 28 occurrences; transcript batch application pending**
 - English / H — **NOT STARTED**
 
 ## Exact continuation
 
-Finish **Speech 12 Gate E on scans 229–230**, finalize the complete 40-page correction ledger, batch-apply all source-supported corrections to the anthology transcript, revalidate markers 191→230, and record final correction/unresolved totals. Tamil remains NOT VERIFIED until full 40/40 Gate-E closure. Do not begin English translation, Gate H or Speech 13 in the same activity.
+Finalize the complete Speech 12 Gate-E correction ledger, batch-apply all source-supported corrections to the anthology transcript, revalidate markers 191→230, and record final correction/unresolved totals. Tamil remains NOT VERIFIED until Gate-E closure. Do not begin English translation, Gate H or Speech 13 in the same activity.
