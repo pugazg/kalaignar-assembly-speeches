@@ -618,7 +618,7 @@ Parallel-witness/index treatment:
 - root dated speech table — **UNCHANGED INTENTIONALLY**
 - reason — the repository's dated machine-readable index currently has one canonical entry per date; a second `1973-03-07` entry was not created. The released anthology witness remains discoverable through the anthology package and repository status sections.
 
-## Speech 13 durable Gate-D state
+## Speech 13 durable Gate-E state
 
 Canonical working entry:
 
@@ -629,40 +629,36 @@ Locked unit:
 - `உரை : 13 / 14.03.1974`
 - scans **231–262 / printed pp.230–261 / 32 pages**
 - boundaries **230→231 / 262→263 — PASS**
-- whole-speech exception — **APPLIED**
 
-Current Tamil state:
+Closed upstream gates:
 
 - Gate C — **COMPLETE / 32 of 32**
-- source-page markers — **231→262 / 32 / exactly once / ordered**
 - Gate C.5 — **N/A / CLOSED**
-- Gate C.5 basis — **modern 2007 typesetting / no legacy-glyph condition identified**
-- Gate D — **PASS / COMPLETE / 32 of 32**
-- internal transitions — **31 of 31 PASS**
-- completeness corrections — **0**
-- missing pages — **0**
-- duplicate long blocks — **0**
-- unresolved first-pass readings — **0 currently flagged**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
+- Gate D — **PASS / COMPLETE / 32 of 32 / 31 of 31 transitions / 0 completeness corrections**
 
-Gate-D structural checks passed for heading/date, page continuations, speaker changes/interventions, source-printed English, figures, quotations, parenthetical reactions, page markers and the scan-262 `வணக்கம்.` / ornament close.
+Gate E:
+
+- status — **IN PROGRESS**
+- verified scans — **231–240 / printed pp.230–239 / 10 of 32 pages**
+- correction entries — **2**
+- correction occurrences — **2**
+- scan 238 — `பின்னாக்கு` → `பிண்ணாக்கு`
+- scan 238 — `ரெசினால்` → `எஃகினால்`
+- unresolved readings in checked range — **0**
+- source-page markers affected — **0**
+- Tamil — **NOT VERIFIED**
+- `verified_against_scan=false`
 
 No OCR, web copy, Official Reports, alternate anthology, released speech or other witness supplied wording. Speech 12 remains unchanged; Speech 14 was not begun.
 
 Downstream state:
 
-- Gate E — **NOT STARTED / next**
-- English / Gate F / Gate G — **BLOCKED / NOT STARTED**
+- Gate F / English — **BLOCKED / NOT STARTED**
+- Gate G — **NOT STARTED**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 
-## Exact next activity — Speech 13 Gate E
+## Exact next activity — Speech 13 Gate E / Batch 2
 
-Perform **word-for-word source-fidelity verification across scans 231–262 / 32 pages** using only the controlling 2007 anthology pixels.
+Verify **scans 241–250 / printed pp.240–249 / next 10 pages** word-for-word against the same controlling anthology pixels.
 
-- verify every page directly against the source;
-- log each source-fidelity correction with scan and before→after reading;
-- preserve source spelling, punctuation, numerals, speaker labels, source-printed English and source-visible repetition;
-- resolve uncertainties only from the same controlling pixels;
-- set Tamil VERIFIED / `verified_against_scan=true` only if all 32 pages pass with zero unresolved readings;
-- do not begin English work, Gate H or Speech 14 in the same activity.
+Carry forward the cumulative Gate-E ledger from Batch 1. Log each new correction as scan + before→after. Do not set Tamil VERIFIED until all scans **231–262** pass with zero unresolved readings. Do not begin English work, Gate H or Speech 14.
