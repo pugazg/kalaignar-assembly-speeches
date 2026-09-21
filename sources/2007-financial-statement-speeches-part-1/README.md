@@ -431,30 +431,28 @@ No OCR, web copy, Official Report, released 1973 wording, alternate anthology or
 - root dated speech table — **unchanged intentionally**
 - no duplicate canonical `1973-03-07` index record was created.
 
-## Speech 13 Gate C first-pass completion
+## Speech 13 Gate C.5 / Gate D completion
 
 Working entry:
 
 [../../speeches/1974/1974-03-14-financial-statement-debate/](../../speeches/1974/1974-03-14-financial-statement-debate/)
 
-- source label/date — `உரை : 13 / 14.03.1974`
-- global scans — **231–262 / printed pp.230–261 / 32 pages**
-- hard boundaries — **230→231 / 262→263 — PASS**
-- controlling coverage — **32/32 COMPLETE**
-- part010 local **6–25** = scans **231–250** / 20 pages
-- part011 local **1–12** = scans **251–262** / 12 pages
-- whole-speech exception — **APPLIED / intact 32-page unit**
+- scans **231–262 / printed pp.230–261 / 32 pages**
+- hard boundaries — **230→231 / 262→263 PASS**
 - Gate C — **COMPLETE / 32 of 32**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
+- Gate D — **PASS / COMPLETE / 32 of 32**
 - source-page markers — **231→262 / exactly once / ordered**
+- internal transitions — **31 of 31 PASS**
+- completeness corrections — **0**
+- missing pages / duplicate long blocks — **0 / 0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- unresolved first-pass readings — **0 currently flagged**
-- Gate C.5 / Gate D / Gate E — **NOT STARTED**
-- English / Gate F / Gate G — **BLOCKED / NOT STARTED**
-- Gate H / release — **NOT STARTED / NOT RELEASED**
+- Gate E — **NOT STARTED**
+- English / downstream gates — **BLOCKED / NOT STARTED**
 - outside/released-witness wording imported — **0**
-- Speech 12 — **unchanged / RELEASED / CLOSED**
+- Speech 12 — **unchanged**
 - Speech 14 — **not begun**
 
 ## Exact next activity
 
-Determine **Gate C.5 applicability**, then perform **Speech 13 Gate D completeness/structure audit across scans 231–262 / 32 pages**. Do not begin Gate E, English work, Gate H or Speech 14 in that activity.
+Perform **Speech 13 Gate E word-for-word source-fidelity verification — scans 231–262 / 32 pages**. Do not begin English work, Gate H or Speech 14 in that activity.
