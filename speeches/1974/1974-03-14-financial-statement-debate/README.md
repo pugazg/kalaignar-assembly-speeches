@@ -73,8 +73,8 @@ Speech 13 spans **32 pages**, exceeding the normal 25-page activity allowance. T
 - `verified_against_scan=true`
 - Gate-E ledger — **8 correction entries / 9 correction occurrences / 0 unresolved readings**
 - Gate E — **PASS / COMPLETE / scans 231–262 / 32 of 32 pages**
-- Gate F / English — **NOT STARTED / next**
-- Gate G — **NOT STARTED**
+- Gate F / English — **COMPLETE / 32 of 32 pages**
+- Gate G — **NOT STARTED / next**
 - Gate H / release — **NOT STARTED / NOT RELEASED**
 - source wording imported from outside witnesses — **none**
 - Speech 12 — **unchanged / RELEASED / CLOSED**
@@ -85,10 +85,12 @@ Gate D checked structural completeness only. Gate E then completed the separate 
 ## Files
 
 - `transcript.md` — Gate-E-verified Tamil, scans 231–262
+- `translation.md` — complete Gate-F English working translation, source pages 231–262
+- `translation-review.md` — Gate-F completion record; Gate G pending
 - `metadata.json` — machine-readable Gates C–E final Tamil state
 - `source-notes.md` — source authority and audit constraints
 - `verification-log.md` — detailed Gate C.5 / Gate D result plus final Gate-E correction ledger
 
 ## Exact next activity
 
-Begin **Speech 13 Gate F English translation** from the final Gate-E-verified Tamil only. Do not alter verified Tamil, do not begin Gate G or Gate H, and do not begin Speech 14 in the same activity.
+Perform **Speech 13 Gate G English fidelity review — source pages 231–262 / 32 of 32** against the final Gate-E-verified Tamil. Do not alter verified Tamil, begin Gate H, or begin Speech 14 in the same activity.
