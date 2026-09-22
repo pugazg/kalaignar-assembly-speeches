@@ -455,9 +455,9 @@ Working entry:
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
 - Speech 12 — **unchanged / RELEASED / CLOSED**
-- Speech 14 — **Gate C IN PROGRESS / scans 263–312 / 50 of 57 / Tamil NOT VERIFIED**
+- Speech 14 — **Gate C COMPLETE / scans 263–319 / 57 of 57 / Tamil NOT VERIFIED**
 
-## Speech 14 Gate-C through Batch 5
+## Speech 14 Gate-C closure
 
 Working entry:
 
@@ -467,27 +467,27 @@ Working entry:
 - mapped unit — **scans 263–319 / printed pp.262–318 / 57 pages**
 - start boundary **262→263** — **PASS / visually reconfirmed**
 - end boundary **319→320** — **PASS / visually reconfirmed from part013 local 19→20**
-- controlling speech coverage available — **part011 scans 263–275; part012 scans 276–300; part013 scans 301–319**
-- part013 local page 20 / scan 320 — **Speech 15 start / excluded**
-- Gate C cadence — **10 pages per iteration**, with final remainder batch of 7 pages
-- Gate E cadence — **10 pages per iteration**
-- Gate C Batch 1 — **COMPLETE / scans 263–272 / 10 pages**
-- Gate C Batch 2 — **COMPLETE / scans 273–282 / 10 pages**
-- Gate C Batch 3 — **COMPLETE / scans 283–292 / 10 pages**
-- Gate C Batch 4 — **COMPLETE / scans 293–302 / 10 pages**
-- Gate C Batch 5 — **COMPLETE / scans 303–312 / 10 pages**
-- cumulative Gate C — **263–312 / 50 of 57**
-- source markers — **263→312 / 50 / exactly once / ordered**
+- scan 320 — **Speech 15 start / excluded**
+- Gate C Batch 1 — **263–272 / 10 pages / COMPLETE**
+- Gate C Batch 2 — **273–282 / 10 pages / COMPLETE**
+- Gate C Batch 3 — **283–292 / 10 pages / COMPLETE**
+- Gate C Batch 4 — **293–302 / 10 pages / COMPLETE**
+- Gate C Batch 5 — **303–312 / 10 pages / COMPLETE**
+- Gate C Final Batch 6 — **313–319 / 7 pages / COMPLETE**
+- Gate C — **COMPLETE / 57 of 57**
+- source markers — **263→319 / 57 / exactly once / ordered**
+- final close — **scan 319 / `வணக்கம்.`**
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- source-printed English in completed coverage — **preserved**, including `Tamil Nadu Goods Transport Organisation`
-- Gate C.5 / D / E — **NOT STARTED**
+- source-printed English — **preserved**
+- Gate C.5 — **NOT STARTED**
+- Gate D / E — **NOT STARTED**
 - English — **BLOCKED**
 - release — **NOT RELEASED**
 - outside wording imported — **0**
 
-The explicit 10-page cadence for Gate C and Gate E supersedes the earlier whole-speech activity cadence for Speech 14 at those two gates only. The final Gate-C remainder is 7 pages.
+Gate C is a complete first-pass transcription only. It does **not** mark Tamil as verified.
 
 ## Exact next activity
 
-Continue **Speech 14 Gate C FINAL Batch 6 — scans 313–319 / printed pp.312–318 / 7 pages** from part013 local pages **13–19**. If complete, Gate C becomes **COMPLETE / 57 of 57**. Do not begin downstream gates in the same activity unless separately instructed.
+Proceed with **Speech 14 Gate C.5 historical-glyph applicability review**. The controlling 2007 anthology is modern typesetting and the source-package default is provisionally N/A; close Gate C.5 only after confirming that no page-specific legacy-typeform anomaly requires treatment. Do not begin Gate D in the same activity unless separately instructed.
