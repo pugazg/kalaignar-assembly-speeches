@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate E Batch 3 — scans 283–292
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate E Batch 4 — scans 293–302
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -19,11 +19,12 @@ Working entry:
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 57 of 57 / 56 of 56 internal transitions / 0 completeness corrections**
 - Gate E — **IN PROGRESS**
-- verified Gate-E range — **scans 263–282 / printed pp.262–281 / 20 of 57**
+- verified Gate-E range — **scans 263–292 / printed pp.262–291 / 30 of 57**
 - Batch 1 — **263–272 / PASS / 9 corrections**
 - Batch 2 — **273–282 / PASS / 3 corrections**
-- cumulative Gate-E corrections — **12 entries / 12 occurrences**
-- cumulative affected scans — **265, 266, 267, 268, 269, 272, 273, 278**
+- Batch 3 — **283–292 / PASS / 2 corrections**
+- cumulative Gate-E corrections — **14 entries / 14 occurrences**
+- cumulative affected scans — **265, 266, 267, 268, 269, 272, 273, 278, 292**
 - unresolved readings in verified range — **0**
 - source-printed English in verified range — **preserved**
 - outside wording imported — **0**
@@ -32,18 +33,10 @@ Working entry:
 - English — **BLOCKED**
 - release — **NOT RELEASED**
 
-## Gate E Batch 2 source-backed corrections
+## Gate E Batch 3 source-backed corrections
 
-1. scan 273 / printed p.272 — `உறுப்பினராக இல்லாததால்` → `உறுப்பினனாக இல்லாததால்`
-2. scan 278 / printed p.277 — `தாழ்த்தப்பட்டோர் நலம் என்ற தலைப்பில் கீழ் நான் வைத்துள்ள அறிக்கையில்` → `தாழ்த்தப்பட்டோர் நலம் என்ற தலைப்பின் கீழ் நான் வைத்துள்ள அறிக்கையில்`
-3. scan 278 / printed p.277 — `மத்திய அரசிடமிருந்து மொத்தமாகக்கிடைக்கும் உதவியின் அளவையும் குறிப்பிடுகிறது.` → `மத்திய அரசிடமிருந்து மொத்தமாகக் கிடைக்கும் உதவியின் அளவையும் குறிப்பிடுகிறது.`
-
-Source-visible internal numeral discrepancy retained:
-
-- scan 281 — **31,502**
-- scan 282 — **31,562**
-
-Do not normalize one to the other.
+1. scan 292 / printed p.291 — first occurrence `பதினொரு லட்சத்து இருபத்தையாயிரம்` → `பதினோரு லட்சத்து இருபத்தையாயிரம்`
+2. scan 292 / printed p.291 — second occurrence `இந்த பதினொரு லட்சத்து இருபத்தையாயிரம்` → `இந்த பதினோரு லட்சத்து இருபத்தையாயிரம்`
 
 ## Fixed Speech-14 Gate-E cadence
 
@@ -53,11 +46,12 @@ Per explicit user instruction:
 
 ## Exact next activity
 
-Perform **Speech 14 Gate E Batch 3 — scans 283–292 / printed pp.282–291 / exactly 10 pages**.
+Perform **Speech 14 Gate E Batch 4 — scans 293–302 / printed pp.292–301 / exactly 10 pages**.
 
 Source split:
 
-- part012 local pages **8–17 = scans 283–292**
+- part012 local pages **18–25 = scans 293–300**
+- part013 local pages **1–2 = scans 301–302**
 
 Requirements:
 
@@ -67,7 +61,7 @@ Requirements:
 4. preserve source oddities instead of normalizing them;
 5. record every source-backed correction in the Gate-E ledger with scan/page reference and corrected form;
 6. do not import wording from OCR, web, Official Reports, alternate anthologies, released speeches or another witness;
-7. keep Gate E **IN PROGRESS** after Batch 3;
+7. keep Gate E **IN PROGRESS** after Batch 4;
 8. do not exceed the fixed **10-page** batch;
 9. synchronize Speech-14 and anthology control documents;
 10. do not begin English, Gate H or Speech 15.
