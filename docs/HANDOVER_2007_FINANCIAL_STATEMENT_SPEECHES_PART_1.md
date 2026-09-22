@@ -634,7 +634,7 @@ Canonical entry:
 - Gate-H wording changes — **0 Tamil / 0 English**
 - indexed — **YES**
 
-## Speech 14 active Gate-C state
+## Speech 14 — Gate C COMPLETE
 
 Working entry:
 
@@ -648,7 +648,7 @@ Mapped unit:
 - hard end boundary — **319→320 PASS / visually reconfirmed from part013 local 19→20**
 - scan 320 — **உரை : 15 / நாள் : 03.08.1977 / excluded from Speech 14**
 
-Current controlling availability:
+Controlling split coverage:
 
 - part011 local **13–25 = scans 263–275**
   - SHA-256 — `27c9c96d3c0bdb53480f8d1634300bf9d7dc57be17d3f83c66397ef78863712d`
@@ -656,25 +656,18 @@ Current controlling availability:
   - SHA-256 — `2010012bd354bc4f9354d0d547097c6ae9b2c2a7eb225d854018ebc482173cdc`
 - part013 local **1–19 = scans 301–319**
   - SHA-256 — `26f0a480bf6c7b6f3f8638aadc77d0528f15b61def73937fad1627060f31c61b`
-- all **57 Speech-14 source pages are available** across part011–part013.
 
-User-directed cadence:
+Gate C closure:
 
-- Gate C — **10 source pages per iteration**
-- Gate E — **10 source pages per iteration**
-- Gate C final remainder after five full batches — **7 pages**
-- this supersedes the previous whole-speech cadence for Speech 14 at Gates C and E only.
-
-Gate C completed so far:
-
-- Batch 1 — scans **263–272 / printed pp.262–271 / 10 pages**
-- Batch 2 — scans **273–282 / printed pp.272–281 / 10 pages**
-- Batch 3 — scans **283–292 / printed pp.282–291 / 10 pages**
-- Batch 4 — scans **293–302 / printed pp.292–301 / 10 pages**
-- Batch 5 — scans **303–312 / printed pp.302–311 / 10 pages**
-- cumulative coverage — **263–312 / 50 of 57 pages**
-- source markers — **263→312 / 50 / exactly once / ordered**
-- Batch-5 local coverage — **part013 3–12**
+- Batch 1 — **263–272 / 10 pages**
+- Batch 2 — **273–282 / 10 pages**
+- Batch 3 — **283–292 / 10 pages**
+- Batch 4 — **293–302 / 10 pages**
+- Batch 5 — **303–312 / 10 pages**
+- Final Batch 6 — **313–319 / 7 pages**
+- Gate C — **COMPLETE / 57 of 57**
+- source markers — **263→319 / 57 / exactly once / ordered**
+- final speech close — **scan 319 / `வணக்கம்.`**
 - source-printed English — **preserved**
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
@@ -683,7 +676,6 @@ Gate C completed so far:
 
 Downstream:
 
-- Gate C — **IN PROGRESS**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED / 10-page cadence locked**
@@ -692,15 +684,15 @@ Downstream:
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Exact next activity — Speech 14 Gate C FINAL Batch 6
+## Exact next activity — Speech 14 Gate C.5
 
-Process **scans 313–319 / printed pp.312–318 / 7 pages** from part013 local pages **13–19**, using rendered controlling anthology pixels only.
+Perform the **historical-glyph applicability review** for Speech 14.
 
-Requirements:
+The controlling anthology is modern 2007 typesetting, so the anthology-level Gate-C.5 default is **provisionally N/A**. Confirm from the completed 57-page source witness that no page-specific legacy glyph/typeform anomaly requires special treatment. If none is found:
 
-- preserve source spelling, punctuation, numerals, speaker/intervention labels, printed English and visible repetition;
-- add source-page markers **313→319** exactly once and in order;
-- if complete, update cumulative Gate-C coverage to **263–319 / 57 of 57** and mark **Gate C COMPLETE**;
-- keep Tamil `verified_against_scan=false`; Gate-C completion is still first-pass transcription, not Gate-E verification;
-- do not use OCR/web/Official Reports/other witnesses to supply wording;
-- do not begin Gate C.5, Gate D, Gate E, English, Gate H or Speech 15 in the same activity unless separately instructed.
+- mark Gate C.5 **N/A / CLOSED**;
+- keep Tamil **NOT VERIFIED / verified_against_scan=false**;
+- synchronize Speech-14 and anthology control documents;
+- set the exact next activity to **Gate D completeness audit**.
+
+Do **not** begin Gate D, Gate E, English, Gate H or Speech 15 in the same activity unless separately instructed.
