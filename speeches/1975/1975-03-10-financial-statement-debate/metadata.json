@@ -1,0 +1,124 @@
+{
+  "id": "1975-03-10-financial-statement-debate",
+  "date": "1975-03-10",
+  "year": 1975,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "source_label_ta": "மாண்புமிகு கலைஞர் மு. கருணாநிதி",
+    "role_ta": null,
+    "role_en": null,
+    "role_note": "The source supplies the speaker label; no historical office or role is inferred from outside knowledge."
+  },
+  "legislature": {
+    "source_context_ta": "சட்டமன்ற உரை",
+    "source_context_en": "Legislative Assembly speech"
+  },
+  "speech": {
+    "source_label_ta": "உரை : 14",
+    "printed_date": "10.03.1975",
+    "archive_subject_slug": "financial-statement-debate",
+    "archive_title_note": "Neutral archival subject label derived from the anthology title; not asserted to be an official printed legislative event title."
+  },
+  "source": {
+    "publication_title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)",
+    "edition_ta": "முதற்பதிப்பு",
+    "publication_date": "2007-05",
+    "publication_date_printed_ta": "மே, 2007",
+    "publisher_ta": "தமிழ்க்கனி பதிப்பகம்",
+    "publisher_location_ta": "சென்னை - 600 004",
+    "controlling_full_scan_filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf",
+    "controlling_full_scan_total_pages": 546,
+    "controlling_full_scan_file_size_bytes": 393027493,
+    "controlling_full_scan_sha256": "e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932",
+    "speech_scan_pages": "263-319",
+    "speech_printed_pages": "262-318",
+    "speech_page_count": 57,
+    "scan_printed_page_relationship": "printed page = global scan page - 1",
+    "start_boundary": "262->263 PASS",
+    "end_boundary": "319->320 PASS (locked anthology mapping; end-boundary split not present in current batch)",
+    "source_unit_mapped_complete": true,
+    "source_authority": "rendered scan pixels",
+    "usable_text_layer": false,
+    "working_splits_available": [
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_011_pages_251-275.pdf",
+        "page_count": 25,
+        "file_size_bytes": 17580247,
+        "sha256": "27c9c96d3c0bdb53480f8d1634300bf9d7dc57be17d3f83c66397ef78863712d",
+        "local_pages": "13-25",
+        "global_scans": "263-275",
+        "printed_pages": "262-274",
+        "speech_page_count": 13
+      }
+    ],
+    "current_working_split_coverage": "263-275 / first 13 Speech-14 pages",
+    "current_batch_scan_pages": "263-272",
+    "current_batch_local_pages": "13-22",
+    "start_boundary_visually_reconfirmed_in_current_activity": true,
+    "end_boundary_reconfirmation_deferred_until_covering_split_is_available": true
+  },
+  "source_separation": {
+    "other_witness_wording_allowed": false,
+    "released_material_wording_imported": false,
+    "ocr_wording_imported": false,
+    "web_wording_imported": false,
+    "official_report_wording_imported": false,
+    "alternate_anthology_wording_imported": false,
+    "safeguard": "Speech 14 transcription and verification use only controlling 2007 anthology pixels. Released speeches and other witnesses may not supply or repair wording."
+  },
+  "execution": {
+    "normal_activity_page_limit": 25,
+    "user_directed_gate_c_batch_size": 10,
+    "user_directed_gate_e_batch_size": 10,
+    "batching_override_note": "For Speech 14, the user explicitly directed Gate C and Gate E to be processed in 10-page iterations. This supersedes the earlier whole-speech cadence for those two gates only.",
+    "current_gate_c_batch": "263-272 / 10 pages",
+    "next_gate_c_batch": "273-282 / 10 pages"
+  },
+  "transcription": {
+    "language": "Tamil",
+    "method": "manual Gate C first-pass transcription from rendered pixels of the controlling 2007 anthology only",
+    "preserve_source_spelling": true,
+    "preserve_source_punctuation": true,
+    "preserve_source_numerals": true,
+    "preserve_headings": true,
+    "preserve_speaker_labels_and_interventions": true,
+    "preserve_printed_english": true,
+    "preserve_source_visible_repetition": true,
+    "page_boundaries_marked": true,
+    "status": "in-progress",
+    "gate_c_status": "in-progress",
+    "completed_scan_pages": "263-272",
+    "completed_printed_pages": "262-271",
+    "completed_page_count": 10,
+    "total_page_count": 57,
+    "marker_count": 10,
+    "marker_range": "263-272",
+    "unresolved_readings": [],
+    "unresolved_reading_count": 0,
+    "completeness_audit_passed": false,
+    "verified_against_scan": false,
+    "historical_glyph_gate_status": "not-started",
+    "gate_d_status": "not-started",
+    "gate_e_status": "not-started",
+    "gate_e_batch_size": 10,
+    "next_gate": "Gate C scans 273-282",
+    "outside_wording_imported": false
+  },
+  "translation": {
+    "language": "English",
+    "status": "blocked-not-started",
+    "gate_f_status": "blocked",
+    "gate_g_status": "not-started",
+    "verified_against_tamil": false,
+    "block_reason": "Tamil Gates C-E are not complete."
+  },
+  "release": {
+    "status": "not-released",
+    "released": false,
+    "release_ready": false,
+    "indexed": false,
+    "gate_h_status": "not-started",
+    "canonical_bilingual_transcript": false
+  }
+}
