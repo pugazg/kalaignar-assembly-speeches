@@ -634,7 +634,7 @@ Canonical entry:
 - Gate-H wording changes — **0 Tamil / 0 English**
 - indexed — **YES**
 
-## Speech 14 — Gate C COMPLETE
+## Speech 14 — Gate C COMPLETE / Gate C.5 N/A-CLOSED
 
 Working entry:
 
@@ -676,7 +676,7 @@ Gate C closure:
 
 Downstream:
 
-- Gate C.5 — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 57/57 pages reviewed; no legacy/reform-sensitive glyph anomaly observed; 0 Tamil wording changes**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED / 10-page cadence locked**
 - Gate F / English — **BLOCKED**
@@ -684,15 +684,10 @@ Downstream:
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Exact next activity — Speech 14 Gate C.5
+## Exact next activity — Speech 14 Gate D
 
-Perform the **historical-glyph applicability review** for Speech 14.
+Perform the **Gate D completeness / structure audit — scans 263–319 / printed pp.262–318 / 57 pages**.
 
-The controlling anthology is modern 2007 typesetting, so the anthology-level Gate-C.5 default is **provisionally N/A**. Confirm from the completed 57-page source witness that no page-specific legacy glyph/typeform anomaly requires special treatment. If none is found:
+Audit all **57 source markers**, both hard boundaries, all **56 internal page transitions**, missing/duplicated blocks, speaker/intervention continuity, source-printed English blocks, figures/dates and the scan-319 close.
 
-- mark Gate C.5 **N/A / CLOSED**;
-- keep Tamil **NOT VERIFIED / verified_against_scan=false**;
-- synchronize Speech-14 and anthology control documents;
-- set the exact next activity to **Gate D completeness audit**.
-
-Do **not** begin Gate D, Gate E, English, Gate H or Speech 15 in the same activity unless separately instructed.
+Gate D is structural/completeness review only. Keep Tamil **NOT VERIFIED / verified_against_scan=false** and do not begin Gate E in the same activity unless separately instructed.
