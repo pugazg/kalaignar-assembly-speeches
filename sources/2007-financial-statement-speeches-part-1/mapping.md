@@ -122,13 +122,13 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–13 COMPLETE / RELEASED-CLOSED downstream; speeches 14–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–13 — modern 2007 typesetting; no Speech-13 legacy/reform-sensitive glyph condition identified**
-- Gate D — **Speeches 1–13 PASS / COMPLETE; Speech 13 = 32/32 pages / 31/31 transitions / 0 completeness corrections**
-- Gate E — **Speeches 1–13 PASS / COMPLETE / Tamil VERIFIED / 0 unresolved; Speech 13 = 32/32 / 8 entries / 9 occurrences**
-- Gate F — **Speeches 1–13 COMPLETE**
-- Gate G — **Speeches 1–13 PASS / COMPLETE / English VERIFIED; Speech 13 = 7 refinements / 0 blockers / 0 Tamil changes**
-- Gate H — **Speeches 1–13 PASS / COMPLETE — RELEASED / CLOSED; speeches 14–19 not started**
+- Gate C — **Speeches 1–13 COMPLETE / RELEASED-CLOSED downstream; Speech 14 IN PROGRESS 263–272 = 10/57; speeches 15–19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–13; Speech 14 NOT STARTED**
+- Gate D — **Speeches 1–13 PASS / COMPLETE; Speech 14 NOT STARTED**
+- Gate E — **Speeches 1–13 PASS / COMPLETE / Tamil VERIFIED; Speech 14 NOT STARTED / 10-page cadence locked**
+- Gate F — **Speeches 1–13 COMPLETE; Speech 14 BLOCKED**
+- Gate G — **Speeches 1–13 PASS / COMPLETE / English VERIFIED; Speech 14 NOT STARTED**
+- Gate H — **Speeches 1–13 PASS / COMPLETE — RELEASED / CLOSED; Speech 14 NOT RELEASED; speeches 15–19 not started**
 - Speech 13 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED / RELEASED-CLOSED / 7 Gate-G refinements / 0 blockers / 0 Gate-H wording changes**
 
 ## Gate-H boundary / release check for Speeches 4–5
@@ -300,6 +300,21 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - root dated speech table — **indexed**
 - Speech 14 — **not begun**
 
+## Speech 14 Gate-C Batch 1
+
+- working entry — `speeches/1975/1975-03-10-financial-statement-debate/`
+- full mapped unit — **263–319 / printed 262–318 / 57 pages**
+- user-directed Gate C cadence — **10 pages/iteration**
+- user-directed Gate E cadence — **10 pages/iteration**
+- Gate C verified first-pass coverage — **263–272 / 10 pages**
+- source markers — **263→272 / exactly once / ordered**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- current split coverage — **part011 local 13–25 = scans 263–275**
+- end boundary **319→320** — locked from Gate B; current recheck pending covering split
+- downstream gates — **NOT STARTED / BLOCKED**
+- Speech 15 — **not begun**
+
 ## Exact continuation
 
-Begin **Speech 14 / 10.03.1975 source-boundary + Gate-C setup — scans 263–319 / printed pp.262–318 / 57 pages**.
+Continue **Speech 14 Gate C Batch 2 — scans 273–282 / 10 pages**. Gate E must also use 10-page iterations when it is reached.
