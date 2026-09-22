@@ -66,9 +66,9 @@ This user-directed cadence supersedes the earlier whole-speech batching rule for
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 57/57 reviewed; no legacy-glyph anomaly observed**
 - Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — scans 263–319 / 57 of 57 verified / 32 corrections / 20 affected scans / 0 unresolved**
-- Gate F / English — **READY / NOT STARTED**
+- Gate F / English — **IN PROGRESS — Batch 1 scans 263–287 / 25 of 57 translated / 0 blockers / not yet verified against Tamil**
 - release — **NOT RELEASED**
 
 ## Exact next activity
 
-Proceed with **Speech 14 Gate F English translation** from the verified Tamil, preserving source-page alignment and source-printed English quotations exactly. Do not begin Gate G, Gate H or Speech 15 in the same activity unless separately instructed.
+Proceed with **Speech 14 Gate F Batch 2 — scans 288–312 / printed pp.287–311 / exactly 25 pages** from the Gate-E-verified Tamil. Preserve source-page alignment and source-printed English exactly; do not begin Gate G, Gate H or Speech 15.
