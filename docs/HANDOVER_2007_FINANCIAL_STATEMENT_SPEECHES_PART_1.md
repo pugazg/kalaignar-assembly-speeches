@@ -686,34 +686,44 @@ Gate-E final Batch 6:
 
 Downstream:
 
-- Gate F / English — **IN PROGRESS — Batch 1 scans 263–287 / 25 of 57 translated / 0 blockers / verified_against_tamil=false**
+- Gate F / English — **COMPLETE — scans 263–319 / 57 of 57 translated / 0 blockers / verified_against_tamil=false**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Gate F Batches 1–2 durable state
+## Gate F closure — Batches 1–3 COMPLETE
 
 - translation authority — **Gate-E-verified Tamil only**
-- translated scans — **263–312 / printed pp.262–311**
-- translated pages — **50/57**
+- translated scans — **263–319 / printed pp.262–318**
+- translated pages — **57/57**
 - Batch 1 — **263–287 / 25 pages / COMPLETE**
 - Batch 2 — **288–312 / 25 pages / COMPLETE**
-- source-page sequence — **263→312 / 50 sections / complete / ordered**
+- Final Batch 3 — **313–319 / 7 pages / COMPLETE**
+- source-page sequence — **263→319 / 57 sections / exactly once / ordered**
 - blocking translation questions — **0**
 - verified-Tamil changes — **0**
 - outside English / outside-witness wording imported — **0**
-- source-printed English — **preserved verbatim**, including the Vijayawada-resolution quotations on scans 288–289
+- source-printed English — **preserved verbatim**
+  - scans **313–314** — Jayaprakash Narayan / autonomy quotation
+  - scans **316–317** — DMK Parliament quotation
+  - scans **317–318** — 1942 CPI-resolution quotation
+  - scan **318** — A.I.C.C. 8th August Resolution 1942 quotation
 - English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
 - `verified_against_tamil=false`
 - working file — `translation.md`
 - review ledger — `translation-review.md`
 
-## Exact next activity — Speech 14 Gate F FINAL Batch 3
+## Exact next activity — Speech 14 Gate G Batch 1
 
-Translate **scans 313–319 / printed pp.312–318 / exactly 7 pages** from the Gate-E-verified Tamil only.
+Review **scans 263–287 / exactly 25 pages** of Gate-F English against the corresponding Gate-E-verified Tamil.
 
-Source split:
+Requirements:
 
-- part013 local **13–19 = scans 313–319**
-
-Preserve source-page alignment, speaker/intervention structure and all source-printed English quotations exactly. Record any blocking translation question rather than altering verified Tamil. If all seven pages translate without blockers, mark Gate F **COMPLETE / 57 of 57**, but keep English **NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false** until Gate G. Do not begin Gate G, Gate H or Speech 15 in the same activity.
+- fidelity authority — **Gate-E-verified Tamil only**;
+- review meaning fidelity, omissions/additions, figures, dates, percentages, speaker/intervention structure, page continuity and English voice;
+- preserve source-printed English verbatim;
+- make **0 Tamil changes**;
+- record every English refinement in the Gate-G ledger;
+- keep `verified_against_tamil=false` until Gate G completes all 57 pages;
+- do not process more than **25 pages** in this activity;
+- do not begin Gate H or Speech 15.
