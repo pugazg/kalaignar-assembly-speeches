@@ -6,8 +6,9 @@
 - locked anthology start boundary — **262→263 PASS**
 - current-activity start-boundary visual reconfirmation — **PASS**
 - locked anthology end boundary — **319→320 PASS**
-- current-activity end-boundary reconfirmation — **DEFERRED until covering split is available**
-- current controlling split — **part011 / scans 263–275 available**
+- current-activity end-boundary visual reconfirmation — **PASS — part013 local 19→20 = global scans 319→320**
+- available Speech-14 controlling coverage — **part011 scans 263–275; part012 scans 276–300; part013 scans 301–319**
+- part013 local page 20 / global scan 320 — **Speech 15 start / boundary witness only / excluded from Speech 14**
 - outside wording imported — **0**
 
 ## User-directed batch policy
@@ -34,9 +35,27 @@
 
 Gate C first-pass completion is not Gate E verification. Source spelling and awkward printed constructions must not be silently normalized merely because they appear unusual.
 
+## Gate C — Batch 2 / scans 273–282
+
+**BATCH PASS / FIRST-PASS TRANSCRIPTION COMPLETE — 10 additional pages; cumulative 20 of 57 pages.**
+
+- source markers — **273→282 / 10 / exactly once / ordered**
+- cumulative source markers — **263→282 / 20 / exactly once / ordered**
+- printed pages — **272–281**
+- split/local pages — **part011 local 23–25 = scans 273–275; part012 local 1–7 = scans 276–282**
+- speaker labels/interventions — **captured**
+- source-printed English — **preserved verbatim on scans 281–282**
+- figures/dates/percentages — **captured at first-pass level**
+- unresolved readings — **0 currently flagged**
+- Tamil verification state — **NOT VERIFIED**
+- `verified_against_scan=false`
+- OCR / web / Official Report / alternate anthology / other-witness wording imported — **0**
+
+Gate C first-pass completion is not Gate E verification. Source spelling, punctuation, printed English and awkward constructions remain source-bound and must not be silently normalized.
+
 ## Current gate state
 
-- Gate C — **IN PROGRESS / 10 of 57**
+- Gate C — **IN PROGRESS / 20 of 57 / scans 263–282 complete**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED / 10-page cadence locked**
@@ -46,4 +65,4 @@ Gate C first-pass completion is not Gate E verification. Source spelling and awk
 
 ## Exact next activity
 
-Continue **Gate C Batch 2 — scans 273–282 / printed pp.272–281 / 10 pages**. Do not begin downstream gates before Gate C completes.
+Continue **Gate C Batch 3 — scans 283–292 / printed pp.282–291 / 10 pages** from part012 local pages **8–17**. Do not begin downstream gates before Gate C completes.
