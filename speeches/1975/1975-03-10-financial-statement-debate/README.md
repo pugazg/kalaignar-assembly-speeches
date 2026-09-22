@@ -44,24 +44,26 @@ For **Speech 14 only**, the user's explicit working cadence is:
 
 This user-directed cadence supersedes the earlier whole-speech batching rule for these two gates only. Other gates continue to follow the repository workflow.
 
-## Gate C — through Batch 5
+## Gate C — COMPLETE
 
-**IN PROGRESS — scans 263–312 / printed pp.262–311 / 50 of 57 pages first-pass transcribed.**
+**COMPLETE — scans 263–319 / printed pp.262–318 / 57 of 57 pages first-pass transcribed.**
 
 - Batch 1 — **263–272 / 10 pages**
 - Batch 2 — **273–282 / 10 pages / COMPLETE**
 - Batch 3 — **283–292 / 10 pages / COMPLETE**
 - Batch 4 — **293–302 / 10 pages / COMPLETE**
 - Batch 5 — **303–312 / 10 pages / COMPLETE**
-- source-page markers — **263→312 / 50 / exactly once / ordered**
-- Batch-5 local pages — **part013 3–12**
-- source-printed English through scan 312 — **preserved**
-- speaker labels/interventions through scan 312 — **preserved**
+- Final Batch 6 — **313–319 / 7 pages / COMPLETE**
+- source-page markers — **263→319 / 57 / exactly once / ordered**
+- Final Batch-6 local pages — **part013 13–19**
+- source-printed English through scan 319 — **preserved**
+- speaker labels/interventions through scan 319 — **preserved**
+- final close — **scan 319 ends with `வணக்கம்.`**
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - OCR / web / Official Reports / alternate anthology / other-witness wording imported — **0**
-- Gate C.5 — **NOT STARTED**
+- Gate C.5 — **NOT STARTED / next activity**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED / future cadence 10 pages per iteration**
 - English — **BLOCKED / NOT STARTED**
@@ -69,6 +71,4 @@ This user-directed cadence supersedes the earlier whole-speech batching rule for
 
 ## Exact next activity
 
-Continue **Speech 14 Gate C FINAL Batch 6 — scans 313–319 / printed pp.312–318 / 7 pages**.
-
-All seven pages are available in part013 local pages **13–19**. If complete, Gate C reaches **263–319 / 57 of 57**. Do not begin Gate C.5, Gate D, Gate E, English, Gate H, or Speech 15 in the same activity unless separately instructed.
+Proceed with **Speech 14 Gate C.5 historical-glyph applicability review**. The controlling witness is modern 2007 typesetting and the anthology-level default is provisionally N/A, but close Gate C.5 only after confirming no page-specific legacy-typeform anomaly requires treatment. Do not begin Gate D in the same activity unless separately instructed.
