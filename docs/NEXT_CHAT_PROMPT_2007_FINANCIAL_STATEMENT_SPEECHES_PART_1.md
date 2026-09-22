@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate F Batch 2 — scans 288–312
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate F FINAL Batch 3 — scans 313–319
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -19,8 +19,10 @@ Working entry:
 - Gate-E corrections — **32 entries / 32 occurrences**
 - unresolved Tamil readings — **0**
 - Gate F — **IN PROGRESS**
-- Gate F Batch 1 — **scans 263–287 / 25 of 57 translated / COMPLETE**
-- source-page sequence in `translation.md` — **263→287 / 25 sections / ordered**
+- Gate F Batch 1 — **263–287 / 25 pages / COMPLETE**
+- Gate F Batch 2 — **288–312 / 25 pages / COMPLETE**
+- translated coverage — **263–312 / 50 of 57**
+- English source-page sequence — **263→312 / 50 sections / ordered**
 - blocking translation questions — **0**
 - verified-Tamil changes — **0**
 - outside English imported — **0**
@@ -33,23 +35,22 @@ Working entry:
 
 ## Exact next activity
 
-Perform **Speech 14 Gate F Batch 2 — scans 288–312 / printed pp.287–311 / exactly 25 pages**.
+Perform **Speech 14 Gate F FINAL Batch 3 — scans 313–319 / printed pp.312–318 / exactly 7 pages**.
 
 Source split:
 
-- part012 local pages **13–25 = scans 288–300**
-- part013 local pages **1–12 = scans 301–312**
+- part013 local pages **13–19 = scans 313–319**
 
 Requirements:
 
 1. translate only from the Gate-E-verified Tamil in `transcript.md`;
-2. append English sections **288→312** to `translation.md`;
+2. append English sections **313→319** to `translation.md`;
 3. preserve source-page alignment and speaker/intervention structure;
-4. preserve source-printed English quotations verbatim;
-5. keep figures, dates, percentages, reactions and repetitions faithful to the verified Tamil;
+4. preserve all source-printed English quotations verbatim, including source spelling and line-break hyphenation where already source-bound;
+5. keep figures, dates, reactions, repetitions and source-visible oddities faithful to the verified Tamil;
 6. do not modify verified Tamil during Gate F;
 7. record any blocking translation question instead of guessing;
 8. do not import wording from web, Official Reports, alternate anthologies, released speeches or another witness;
-9. keep English **NOT VERIFIED AGAINST TAMIL** until Gate G;
-10. after Batch 2, set the next activity to **Gate F FINAL Batch 3 — scans 313–319 / 7 pages**;
-11. do not begin Gate G, Gate H or Speech 15.
+9. if the seven-page remainder translates with no blockers, mark Gate F **COMPLETE / 57 of 57** while keeping English **NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**;
+10. synchronize Speech-14 and anthology control documents;
+11. set the next activity to **Gate G English fidelity and voice review**, but do not begin Gate G, Gate H or Speech 15 in the same activity.
