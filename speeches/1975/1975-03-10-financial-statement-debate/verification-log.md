@@ -329,16 +329,45 @@ Gate-E correction ledger:
 
 Source-visible awkward constructions retained where supported by the pixels include scan-304 `அரிசனங்கள் இடம்`, scan-307 `ஓய்வூதியம் பெறுகிறவர்களும் அளிக்க`, and scan-312 `நான் என்னுடைய மகனுக்கு ஸ்டாலின் என்று பெயரிட்டார்`.
 
+## Gate E — FINAL Batch 6 / scans 313–319
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — final 7 pages; cumulative 57 of 57.**
+
+Coverage:
+
+- verified scans — **313–319**
+- verified printed pages — **312–318**
+- verified pages — **7/7 in batch; cumulative 57/57**
+- source markers in batch — **313→319 / 7 / exactly once / ordered**
+- split/local coverage — **part013 local 13–19 = scans 313–319**
+- Gate-E corrections — **2 entries / 2 occurrences**
+- affected scans — **1 — 313**
+- cumulative Gate-E corrections — **32 entries / 32 occurrences**
+- cumulative affected scans — **20**
+- unresolved readings — **0**
+- source-printed English quotations — **preserved**
+- final speech close on scan 319 — **verified through `வணக்கம்.`**
+- outside wording imported — **0**
+
+Gate-E correction ledger:
+
+1. **scan 313 / printed p.312** — `போராட்டம் ஆரம்பித்தது இப்போது, ஆனால்` → `போராட்டம் ஆரம்பித்தது இப்போது; ஆனால்`
+2. **scan 313 / printed p.312** — `Rajamannar Committee’s` → `Rajammannar Committee’s`
+
+Source-visible oddities retained where supported by the controlling pixels include `Soverign`, `அயலுறவு. பாதுகாப்பு`, `முதலவர்`, `Gujaritis`, `Beharies`, the repeated punctuation after `desire`, and the scan-319 `அச்சாரமாக`.
+
+**Gate E — PASS / COMPLETE / 57 of 57. Tamil is VERIFIED against the controlling scan.**
+
 ## Current gate state
 
 - Gate C — **COMPLETE / 57 of 57 / scans 263–319 complete**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 57 of 57 / 56 of 56 internal transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS / 50 of 57 verified / scans 263–312 complete / 30 cumulative corrections / 0 unresolved in verified range**
-- Gate F / English — **BLOCKED**
+- Gate E — **PASS / COMPLETE / 57 of 57 verified / scans 263–319 / 32 corrections / 0 unresolved**
+- Gate F / English — **READY / NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-Proceed with **Gate E FINAL Batch 6 — scans 313–319 / printed pp.312–318 / exactly 7 pages**. Complete strict word-for-word source-fidelity verification from rendered controlling anthology pixels only, record every source-backed correction, preserve source-printed English and source-visible oddities, and keep outside wording at zero. If all seven pages pass, Gate E can close and Tamil can become VERIFIED.
+Proceed with **Gate F English translation for Speech 14** from the now-verified Tamil, preserving source-page alignment and source-printed English quotations exactly as source witnesses. Do not begin Gate G, Gate H or Speech 15 in the same activity unless separately instructed.
