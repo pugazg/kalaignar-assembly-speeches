@@ -455,9 +455,9 @@ Working entry:
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
 - Speech 12 — **unchanged / RELEASED / CLOSED**
-- Speech 14 — **Gate C IN PROGRESS / scans 263–292 / 30 of 57 / Tamil NOT VERIFIED**
+- Speech 14 — **Gate C IN PROGRESS / scans 263–302 / 40 of 57 / Tamil NOT VERIFIED**
 
-## Speech 14 Gate-C through Batch 3
+## Speech 14 Gate-C through Batch 4
 
 Working entry:
 
@@ -474,11 +474,11 @@ Working entry:
 - Gate C Batch 1 — **COMPLETE / scans 263–272 / 10 pages**
 - Gate C Batch 2 — **COMPLETE / scans 273–282 / 10 pages**
 - Gate C Batch 3 — **COMPLETE / scans 283–292 / 10 pages**
-- cumulative Gate C — **263–292 / 30 of 57**
-- source markers — **263→292 / 30 / exactly once / ordered**
+- Gate C Batch 4 — **COMPLETE / scans 293–302 / 10 pages**
+- cumulative Gate C — **263–302 / 40 of 57**
+- source markers — **263→302 / 40 / exactly once / ordered**
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- source-printed English in completed coverage — **preserved**, including scans 281–282 and the Vijayawada-resolution material on scans 287–289
 - Gate C.5 / D / E — **NOT STARTED**
 - English — **BLOCKED**
 - release — **NOT RELEASED**
@@ -488,4 +488,4 @@ The explicit 10-page cadence for Gate C and Gate E supersedes the earlier whole-
 
 ## Exact next activity
 
-Continue **Speech 14 Gate C Batch 4 — scans 293–302 / printed pp.292–301 / 10 pages**. Use part012 local pages **18–25** for scans **293–300** and part013 local pages **1–2** for scans **301–302**. Do not begin downstream gates before Gate C completes.
+Continue **Speech 14 Gate C Batch 5 — scans 303–312 / printed pp.302–311 / 10 pages** from part013 local pages **3–12**. Do not begin downstream gates before Gate C completes.
