@@ -634,7 +634,7 @@ Canonical entry:
 - Gate-H wording changes — **0 Tamil / 0 English**
 - indexed — **YES**
 
-## Speech 14 — Gate C COMPLETE / Gate C.5 N/A-CLOSED
+## Speech 14 — Tamil Gates C–E COMPLETE / VERIFIED
 
 Working entry:
 
@@ -657,61 +657,50 @@ Controlling split coverage:
 - part013 local **1–19 = scans 301–319**
   - SHA-256 — `26f0a480bf6c7b6f3f8638aadc77d0528f15b61def73937fad1627060f31c61b`
 
-Gate C closure:
+Tamil gate state:
 
-- Batch 1 — **263–272 / 10 pages**
-- Batch 2 — **273–282 / 10 pages**
-- Batch 3 — **283–292 / 10 pages**
-- Batch 4 — **293–302 / 10 pages**
-- Batch 5 — **303–312 / 10 pages**
-- Final Batch 6 — **313–319 / 7 pages**
 - Gate C — **COMPLETE / 57 of 57**
 - source markers — **263→319 / 57 / exactly once / ordered**
-- final speech close — **scan 319 / `வணக்கம்.`**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
+- Gate E — **PASS / COMPLETE — 57/57**
+- Gate-E verified range — **263–319 / printed 262–318**
+- Gate-E corrections — **32 entries / 32 occurrences**
+- Gate-E affected scans — **20**
+- unresolved readings — **0**
+- final scan 319 close — **verified through `வணக்கம்.`**
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
 - source-printed English — **preserved**
-- unresolved first-pass readings — **0 currently flagged**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
 - outside wording imported — **0**
+
+Gate-E final Batch 6:
+
+- scans **313–319 / printed pp.312–318 / 7 pages**
+- status — **PASS / STRICTLY VERIFIED**
+- corrections — **2 entries / 2 occurrences**
+- affected scan — **313**
+- scan 313 — `போராட்டம் ஆரம்பித்தது இப்போது, ஆனால்` → `போராட்டம் ஆரம்பித்தது இப்போது; ஆனால்`
+- scan 313 — `Rajamannar Committee’s` → `Rajammannar Committee’s`
+- source-visible oddities retained where printed, including `Soverign`, `முதலவர்`, `Gujaritis`, `Beharies`, and scan-319 `அச்சாரமாக`
 
 Downstream:
 
-- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 57/57 pages reviewed; no legacy/reform-sensitive glyph anomaly observed; 0 Tamil wording changes**
-- Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batches 1–5 scans 263–312 / 50 of 57 verified / 30 cumulative corrections / 0 unresolved in verified range**
-- Gate F / English — **BLOCKED**
+- Gate F / English — **READY / NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Gate E Batches 1–5 durable state
+## Exact next activity — Speech 14 Gate F English translation
 
-- verified scans — **263–312 / printed pp.262–311 / 50 pages**
-- Batch 1 — **263–272 / 10 pages / PASS**
-- Batch 2 — **273–282 / 10 pages / PASS**
-- Batch 3 — **283–292 / 10 pages / PASS**
-- Batch 4 — **293–302 / 10 pages / PASS**
-- Batch 5 — **303–312 / 10 pages / PASS**
-- cumulative corrections — **30 entries / 30 occurrences**
-- Batch-5 corrections — **13 entries / 13 occurrences**
-- cumulative affected scans — **265, 266, 267, 268, 269, 272, 273, 278, 292, 296, 298, 302, 303, 304, 305, 309, 310, 311, 312**
-- unresolved readings in verified range — **0**
-- Batch-5 split coverage — **part013 local 3–12**
-- source-visible awkward forms retained where printed, including `அரிசனங்கள் இடம்`, `ஓய்வூதியம் பெறுகிறவர்களும் அளிக்க`, and `நான் என்னுடைய மகனுக்கு ஸ்டாலின் என்று பெயரிட்டார்`
-- outside wording imported — **0**
-- overall Tamil — **NOT VERIFIED / verified_against_scan=false** until the final seven pages complete Gate E
-
-## Exact next activity — Speech 14 Gate E FINAL Batch 6
-
-Process **scans 313–319 / printed pp.312–318 / exactly 7 pages** from part013 local pages **13–19**.
+Translate Speech 14 from the **Gate-E-verified Tamil only**, preserving source-page alignment **263–319** and keeping source-printed English quotations verbatim rather than retranslating them.
 
 Requirements:
 
-- use rendered source pixels only;
-- verify wording, spelling, punctuation, numerals, labels, interventions, printed English and visible repetitions strictly against source;
-- record every correction in the Gate-E ledger with scan/page reference;
-- preserve source oddities rather than normalize them;
-- keep outside wording imported at **0**;
-- if all seven pages pass, mark Gate E **PASS / COMPLETE**, Tamil **VERIFIED**, and `verified_against_scan=true`;
-- then set the next activity to **Gate F English translation** without starting it unless separately instructed;
-- do not begin English, Gate H or Speech 15 in the same activity.
+- source text — verified Tamil in `transcript.md`;
+- English should be a faithful reading translation, not a modernization or political interpretation;
+- preserve every source-page boundary and speaker/intervention structure;
+- preserve source-printed English exactly where it appears;
+- do not import translation wording from web, Official Reports, alternate anthologies, released speeches or another witness;
+- record any blocking translation question rather than altering verified Tamil;
+- do not begin Gate G, Gate H or Speech 15 in the same activity unless separately instructed.
