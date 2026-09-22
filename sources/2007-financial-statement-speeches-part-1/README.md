@@ -479,7 +479,7 @@ Working entry:
   - legacy/reform-sensitive glyph conditions requiring a separate historical-glyph pass — **none observed**
   - wording changes — **0**
 - Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batches 1–4 scans 263–302 / 40 of 57 verified / 17 cumulative corrections / 0 unresolved in verified range**
+- Gate E — **IN PROGRESS — Batches 1–5 scans 263–312 / 50 of 57 verified / 30 cumulative corrections / 0 unresolved in verified range**
 - English — **BLOCKED**
 - release — **NOT RELEASED**
 - outside wording imported — **0**
@@ -488,4 +488,4 @@ Gate C.5 closure does not constitute Tamil source-fidelity verification.
 
 ## Exact next activity
 
-Proceed with **Speech 14 Gate E Batch 5 — scans 303–312 / printed pp.302–311 / exactly 10 pages**. Continue strict source-fidelity verification from rendered controlling anthology pixels only, record every source-backed correction, preserve source-printed English and source-visible oddities, and keep the locked 10-page Gate-E cadence.
+Proceed with **Speech 14 Gate E FINAL Batch 6 — scans 313–319 / printed pp.312–318 / exactly 7 pages**. Complete strict source-fidelity verification from rendered controlling anthology pixels only, record every source-backed correction, preserve source-printed English and source-visible oddities, and if all seven pages pass close Gate E and mark Tamil VERIFIED.
