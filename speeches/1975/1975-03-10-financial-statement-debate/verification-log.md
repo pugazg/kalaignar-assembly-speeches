@@ -53,9 +53,27 @@ Gate C first-pass completion is not Gate E verification. Source spelling and awk
 
 Gate C first-pass completion is not Gate E verification. Source spelling, punctuation, printed English and awkward constructions remain source-bound and must not be silently normalized.
 
+## Gate C — Batch 3 / scans 283–292
+
+**BATCH PASS / FIRST-PASS TRANSCRIPTION COMPLETE — 10 additional pages; cumulative 30 of 57 pages.**
+
+- source markers — **283→292 / 10 / exactly once / ordered**
+- cumulative source markers — **263→292 / 30 / exactly once / ordered**
+- printed pages — **282–291**
+- split/local pages — **part012 local 8–17 = scans 283–292**
+- speaker labels/interventions — **captured**
+- source-printed English — **preserved**, including the Vijayawada-resolution quotations and inline `more buoyancy of taxes`
+- figures/dates/percentages — **captured at first-pass level**
+- unresolved readings — **0 currently flagged**
+- Tamil verification state — **NOT VERIFIED**
+- `verified_against_scan=false`
+- OCR / web / Official Report / alternate anthology / other-witness wording imported — **0**
+
+Gate C first-pass completion is not Gate E verification. Source spelling, punctuation, printed English and awkward constructions remain source-bound and must not be silently normalized.
+
 ## Current gate state
 
-- Gate C — **IN PROGRESS / 20 of 57 / scans 263–282 complete**
+- Gate C — **IN PROGRESS / 30 of 57 / scans 263–292 complete**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED / 10-page cadence locked**
@@ -65,4 +83,4 @@ Gate C first-pass completion is not Gate E verification. Source spelling, punctu
 
 ## Exact next activity
 
-Continue **Gate C Batch 3 — scans 283–292 / printed pp.282–291 / 10 pages** from part012 local pages **8–17**. Do not begin downstream gates before Gate C completes.
+Continue **Gate C Batch 4 — scans 293–302 / printed pp.292–301 / 10 pages** using part012 local pages **18–25** for scans 293–300 and part013 local pages **1–2** for scans 301–302. Do not begin downstream gates before Gate C completes.
