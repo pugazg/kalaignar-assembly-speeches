@@ -678,15 +678,25 @@ Downstream:
 
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 57/57 pages reviewed; no legacy/reform-sensitive glyph anomaly observed; 0 Tamil wording changes**
 - Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
-- Gate E — **NOT STARTED / 10-page cadence locked**
+- Gate E — **IN PROGRESS — Batch 1 scans 263–272 / 10 of 57 verified / 9 corrections / 0 unresolved in verified range**
 - Gate F / English — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Exact next activity — Speech 14 Gate E Batch 1
+## Gate E Batch 1 durable state
 
-Process **scans 263–272 / printed pp.262–271 / exactly 10 pages** from the controlling anthology pixels.
+- scans **263–272 / printed pp.262–271 / 10 pages**
+- status — **PASS / STRICTLY VERIFIED**
+- corrections — **9 entries / 9 occurrences**
+- affected scans — **265, 266, 267, 268, 269, 272**
+- unresolved readings in verified range — **0**
+- outside wording imported — **0**
+- overall Tamil — **NOT VERIFIED / verified_against_scan=false** until all 57 pages complete Gate E
+
+## Exact next activity — Speech 14 Gate E Batch 2
+
+Process **scans 273–282 / printed pp.272–281 / exactly 10 pages** from the controlling anthology pixels.
 
 Requirements:
 
@@ -695,6 +705,6 @@ Requirements:
 - record every correction in the Gate-E ledger with scan/page reference;
 - preserve source oddities rather than normalize them;
 - keep outside wording imported at **0**;
-- after this batch, Gate E should remain **IN PROGRESS** unless all 57 pages have been verified;
+- keep Gate E **IN PROGRESS** after this batch unless all 57 pages have been verified;
 - do not exceed the fixed **10-page Gate-E cadence**;
 - do not begin English, Gate H or Speech 15.
