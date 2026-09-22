@@ -108,9 +108,27 @@ Gate C first-pass completion is not Gate E verification. Source spelling, punctu
 
 Gate C first-pass completion is not Gate E verification. Source spelling, punctuation and awkward constructions remain source-bound and must not be silently normalized.
 
+## Gate C — FINAL Batch 6 / scans 313–319
+
+**BATCH PASS / FIRST-PASS TRANSCRIPTION COMPLETE — final 7 pages; cumulative 57 of 57 pages.**
+
+- source markers — **313→319 / 7 / exactly once / ordered**
+- cumulative source markers — **263→319 / 57 / exactly once / ordered**
+- printed pages — **312–318**
+- split/local pages — **part013 local 13–19 = scans 313–319**
+- source-printed English — **preserved**, including the Jayaprakash Narayan quotation, DMK-parliament quotation, CPI 1942 resolution quotation and A.I.C.C. 1942 resolution quotation
+- final Speech-14 close on scan 319 — **captured through `வணக்கம்.`**
+- hard end boundary **319→320** — **PASS / previously visually reconfirmed; scan 320 excluded**
+- unresolved first-pass readings — **0 currently flagged**
+- Tamil verification state — **NOT VERIFIED**
+- `verified_against_scan=false`
+- OCR / web / Official Report / alternate anthology / other-witness wording imported — **0**
+
+**Gate C — COMPLETE / 57 of 57.** This is a complete first-pass transcription, not source-fidelity verification.
+
 ## Current gate state
 
-- Gate C — **IN PROGRESS / 50 of 57 / scans 263–312 complete**
+- Gate C — **COMPLETE / 57 of 57 / scans 263–319 complete**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED / 10-page cadence locked**
@@ -120,4 +138,4 @@ Gate C first-pass completion is not Gate E verification. Source spelling, punctu
 
 ## Exact next activity
 
-Continue **Gate C FINAL Batch 6 — scans 313–319 / printed pp.312–318 / 7 pages** from part013 local pages **13–19**. If all seven pages are processed, Gate C becomes COMPLETE at **263–319 / 57 of 57**; do not begin Gate C.5 or later gates in the same activity unless separately instructed.
+Proceed with **Gate C.5 historical-glyph applicability review for Speech 14**. The controlling witness is modern 2007 typesetting, so the anthology-level default is provisionally N/A, but close Gate C.5 only after confirming no page-specific legacy-typeform anomaly requires treatment. Do not begin Gate D in the same activity unless separately instructed.
