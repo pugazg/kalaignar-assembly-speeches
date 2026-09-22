@@ -71,9 +71,27 @@ Gate C first-pass completion is not Gate E verification. Source spelling, punctu
 
 Gate C first-pass completion is not Gate E verification. Source spelling, punctuation, printed English and awkward constructions remain source-bound and must not be silently normalized.
 
+## Gate C — Batch 4 / scans 293–302
+
+**BATCH PASS / FIRST-PASS TRANSCRIPTION COMPLETE — 10 additional pages; cumulative 40 of 57 pages.**
+
+- source markers — **293→302 / 10 / exactly once / ordered**
+- cumulative source markers — **263→302 / 40 / exactly once / ordered**
+- printed pages — **292–301**
+- split/local pages — **part012 local 18–25 = scans 293–300; part013 local 1–2 = scans 301–302**
+- speaker labels/interventions — **captured**
+- figures/dates/percentages — **captured at first-pass level**
+- line-wrap readings rechecked against rendered pixels before closure of this batch
+- unresolved readings — **0 currently flagged**
+- Tamil verification state — **NOT VERIFIED**
+- `verified_against_scan=false`
+- OCR / web / Official Report / alternate anthology / other-witness wording imported — **0**
+
+Gate C first-pass completion is not Gate E verification. Source spelling, punctuation and awkward constructions remain source-bound and must not be silently normalized.
+
 ## Current gate state
 
-- Gate C — **IN PROGRESS / 30 of 57 / scans 263–292 complete**
+- Gate C — **IN PROGRESS / 40 of 57 / scans 263–302 complete**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED / 10-page cadence locked**
@@ -83,4 +101,4 @@ Gate C first-pass completion is not Gate E verification. Source spelling, punctu
 
 ## Exact next activity
 
-Continue **Gate C Batch 4 — scans 293–302 / printed pp.292–301 / 10 pages** using part012 local pages **18–25** for scans 293–300 and part013 local pages **1–2** for scans 301–302. Do not begin downstream gates before Gate C completes.
+Continue **Gate C Batch 5 — scans 303–312 / printed pp.302–311 / 10 pages** from part013 local pages **3–12**. Do not begin downstream gates before Gate C completes.
