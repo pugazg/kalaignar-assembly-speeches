@@ -44,16 +44,17 @@ For **Speech 14 only**, the user's explicit working cadence is:
 
 This user-directed cadence supersedes the earlier whole-speech batching rule for these two gates only. Other gates continue to follow the repository workflow.
 
-## Gate C — through Batch 2
+## Gate C — through Batch 3
 
-**IN PROGRESS — scans 263–282 / printed pp.262–281 / 20 of 57 pages first-pass transcribed.**
+**IN PROGRESS — scans 263–292 / printed pp.262–291 / 30 of 57 pages first-pass transcribed.**
 
 - Batch 1 — **263–272 / 10 pages**
 - Batch 2 — **273–282 / 10 pages / COMPLETE**
-- source-page markers — **263→282 / 20 / exactly once / ordered**
-- Batch-2 local pages — **part011 23–25 + part012 1–7**
-- source-printed English — **preserved on scans 264, 281 and 282**
-- speaker labels/interventions through scan 282 — **preserved**
+- Batch 3 — **283–292 / 10 pages / COMPLETE**
+- source-page markers — **263→292 / 30 / exactly once / ordered**
+- Batch-3 local pages — **part012 8–17**
+- source-printed English — **preserved on scans 264, 281–282 and 287–289**
+- speaker labels/interventions through scan 292 — **preserved**
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
@@ -66,6 +67,6 @@ This user-directed cadence supersedes the earlier whole-speech batching rule for
 
 ## Exact next activity
 
-Continue **Speech 14 Gate C Batch 3 — scans 283–292 / printed pp.282–291 / 10 pages**.
+Continue **Speech 14 Gate C Batch 4 — scans 293–302 / printed pp.292–301 / 10 pages**.
 
-All ten pages are available in part012 local pages **8–17**. Do not begin Gate C.5, Gate D, Gate E, English, Gate H, or Speech 15 before Gate C is complete.
+Use part012 local pages **18–25** for scans **293–300** and part013 local pages **1–2** for scans **301–302**. Do not begin Gate C.5, Gate D, Gate E, English, Gate H, or Speech 15 before Gate C is complete.
