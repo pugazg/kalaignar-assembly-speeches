@@ -457,7 +457,7 @@ Working entry:
 - Speech 12 — **unchanged / RELEASED / CLOSED**
 - Speech 14 — **Gate C COMPLETE / scans 263–319 / 57 of 57 / Tamil NOT VERIFIED**
 
-## Speech 14 Gate-C closure
+## Speech 14 Gate-C / C.5 closure
 
 Working entry:
 
@@ -466,28 +466,25 @@ Working entry:
 - source label/date — **உரை : 14 / 10.03.1975**
 - mapped unit — **scans 263–319 / printed pp.262–318 / 57 pages**
 - start boundary **262→263** — **PASS / visually reconfirmed**
-- end boundary **319→320** — **PASS / visually reconfirmed from part013 local 19→20**
-- scan 320 — **Speech 15 start / excluded**
-- Gate C Batch 1 — **263–272 / 10 pages / COMPLETE**
-- Gate C Batch 2 — **273–282 / 10 pages / COMPLETE**
-- Gate C Batch 3 — **283–292 / 10 pages / COMPLETE**
-- Gate C Batch 4 — **293–302 / 10 pages / COMPLETE**
-- Gate C Batch 5 — **303–312 / 10 pages / COMPLETE**
-- Gate C Final Batch 6 — **313–319 / 7 pages / COMPLETE**
+- end boundary **319→320** — **PASS / visually reconfirmed**
 - Gate C — **COMPLETE / 57 of 57**
 - source markers — **263→319 / 57 / exactly once / ordered**
 - final close — **scan 319 / `வணக்கம்.`**
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - source-printed English — **preserved**
-- Gate C.5 — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED**
+  - modern **2007** typesetting
+  - **57/57** Speech-14 pages considered
+  - legacy/reform-sensitive glyph conditions requiring a separate historical-glyph pass — **none observed**
+  - wording changes — **0**
 - Gate D / E — **NOT STARTED**
 - English — **BLOCKED**
 - release — **NOT RELEASED**
 - outside wording imported — **0**
 
-Gate C is a complete first-pass transcription only. It does **not** mark Tamil as verified.
+Gate C.5 closure does not constitute Tamil source-fidelity verification.
 
 ## Exact next activity
 
-Proceed with **Speech 14 Gate C.5 historical-glyph applicability review**. The controlling 2007 anthology is modern typesetting and the source-package default is provisionally N/A; close Gate C.5 only after confirming that no page-specific legacy-typeform anomaly requires treatment. Do not begin Gate D in the same activity unless separately instructed.
+Proceed with **Speech 14 Gate D completeness / structure audit — scans 263–319 / 57 pages**. Check all **57 source markers**, hard boundaries **262→263 / 319→320**, **56 internal page transitions**, missing/duplicated blocks, speaker/intervention continuity, source-printed English, figures/dates and the scan-319 close. Keep Tamil **NOT VERIFIED / verified_against_scan=false** and do not begin Gate E in the same activity unless separately instructed.
