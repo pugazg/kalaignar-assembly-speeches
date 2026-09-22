@@ -662,6 +662,7 @@ User-directed cadence:
 
 - Gate C — **10 source pages per iteration**
 - Gate E — **10 source pages per iteration**
+- Gate C final remainder after five full batches — **7 pages**
 - this supersedes the previous whole-speech cadence for Speech 14 at Gates C and E only.
 
 Gate C completed so far:
@@ -670,9 +671,11 @@ Gate C completed so far:
 - Batch 2 — scans **273–282 / printed pp.272–281 / 10 pages**
 - Batch 3 — scans **283–292 / printed pp.282–291 / 10 pages**
 - Batch 4 — scans **293–302 / printed pp.292–301 / 10 pages**
-- cumulative coverage — **263–302 / 40 of 57 pages**
-- source markers — **263→302 / 40 / exactly once / ordered**
-- Batch-4 local coverage — **part012 18–25 + part013 1–2**
+- Batch 5 — scans **303–312 / printed pp.302–311 / 10 pages**
+- cumulative coverage — **263–312 / 50 of 57 pages**
+- source markers — **263→312 / 50 / exactly once / ordered**
+- Batch-5 local coverage — **part013 3–12**
+- source-printed English — **preserved**
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
@@ -689,16 +692,15 @@ Downstream:
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Exact next activity — Speech 14 Gate C Batch 5
+## Exact next activity — Speech 14 Gate C FINAL Batch 6
 
-Process **scans 303–312 / printed pp.302–311 / 10 pages** from part013 local pages **3–12**, using rendered controlling anthology pixels only.
+Process **scans 313–319 / printed pp.312–318 / 7 pages** from part013 local pages **13–19**, using rendered controlling anthology pixels only.
 
 Requirements:
 
-- carry forward the 10-page Gate-C cadence;
 - preserve source spelling, punctuation, numerals, speaker/intervention labels, printed English and visible repetition;
-- add source-page markers **303→312** exactly once and in order;
-- if complete, update cumulative Gate-C coverage to **263–312 / 50 of 57**;
+- add source-page markers **313→319** exactly once and in order;
+- if complete, update cumulative Gate-C coverage to **263–319 / 57 of 57** and mark **Gate C COMPLETE**;
+- keep Tamil `verified_against_scan=false`; Gate-C completion is still first-pass transcription, not Gate-E verification;
 - do not use OCR/web/Official Reports/other witnesses to supply wording;
-- keep Tamil `verified_against_scan=false`;
-- do not begin Gate C.5, Gate D, Gate E, English, Gate H or Speech 15 before Gate C completes.
+- do not begin Gate C.5, Gate D, Gate E, English, Gate H or Speech 15 in the same activity unless separately instructed.
