@@ -298,7 +298,7 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - Gate-H wording changes — **0 Tamil / 0 English**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 14 — **Gate C COMPLETE / scans 263–319 / 57 of 57 / Tamil NOT VERIFIED**
+- Speech 14 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / scans 263–319 / 57 of 57 / Tamil NOT VERIFIED**
 
 ## Speech 14 Gate-C / C.5 closure
 
