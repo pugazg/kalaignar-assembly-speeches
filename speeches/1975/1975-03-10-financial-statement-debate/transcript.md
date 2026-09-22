@@ -2,7 +2,7 @@
 
 ## உரை : 14 — நாள் : 10.03.1975
 
-> **Tamil gate state:** Gate C **COMPLETE / 57 of 57**; Gate C.5 **N/A / CLOSED**; Gate D **PASS / COMPLETE**; Gate E **IN PROGRESS — scans 263–312 / 50 of 57 strictly verified**. Gate-E Batches 1–5 have applied **30 source-backed corrections across 19 scans** with **0 unresolved readings** in the verified range. Overall Tamil remains **NOT VERIFIED** with `verified_against_scan=false` until Gate E completes all 57 pages. No wording was supplied from OCR, web copies, Official Reports, alternate anthologies, released speeches or another witness.
+> **Tamil gate state:** Gate C **COMPLETE / 57 of 57**; Gate C.5 **N/A / CLOSED**; Gate D **PASS / COMPLETE**; Gate E **PASS / COMPLETE — scans 263–319 / 57 of 57 strictly verified**. The Gate-E ledger contains **32 source-backed corrections across 20 scans** with **0 unresolved readings**. Tamil is **VERIFIED** with `verified_against_scan=true`. No wording was supplied from OCR, web copies, Official Reports, alternate anthologies, released speeches or another witness.
 
 <!-- source-page: 263 -->
 
@@ -544,7 +544,7 @@ Backward Community என்றாலே மத்திய சர்க்க�
 
 கொண்டு, பேசிய அனைவரும் பெரும் பகுதி மாநில சுயாட்சி பற்றிப் பேச அதிக நேரத்தை ஆக்கிரமித்துக் கொண்டிருக்கிறார்கள் என்பதை நான் மிகுந்த மகிழ்ச்சியோடு வரவேற்கிறேன்.
 
-“ஜெயப்பிரகாஷ் நாராயணனோடு உங்களுக்கு என்ன தொடர்பு, அவரோடு நீங்கள் சேரலாமா” என்றெல்லாம்கூட சில பேர் கேள்வியாகக் கேட்டார்கள். ஜெயப்பிரகாஷ் நாராயணனோடு இந்திரா காந்தி அம்மையாருக்கு தகராறு வந்தது இப்போது; பீகார் மாநிலத்தில் ஜெயப்பிரகாஷ் போராட்டம் ஆரம்பித்தது இப்போது, ஆனால் 1972ஆம் ஆண்டிலேயே ஜெயப்பிரகாஷ் நாராயணன் ‘பீப்பிள்ஸ் ஆக்ஷன்’ என்கிற ஒரு தலைசிறந்த பத்திரிகையில் ஒரு கட்டுரை எழுதியிருக்கிறார். அதிலே ஜெயப்பிரகாஷ் நாராயணன், வினோபா பாவே போன்றவர்கள் எல்லாம்கூட எழுதியிருக்கிறார்கள். 1972லேயே ஜெயப் பிரகாஷ் சொல்கிறார். “ஷேக் அப்துல்லாவோடு மோதாதீர்கள், அழைத்துப் பேசுங்கள்’’ என்றெல்லாம் மத்திய அரசுக்கு அறிவுறுத்தியிருக்கிறார். அந்தக் கட்டுரையில் மேலும் குறிப்பிடுகிறார்.
+“ஜெயப்பிரகாஷ் நாராயணனோடு உங்களுக்கு என்ன தொடர்பு, அவரோடு நீங்கள் சேரலாமா” என்றெல்லாம்கூட சில பேர் கேள்வியாகக் கேட்டார்கள். ஜெயப்பிரகாஷ் நாராயணனோடு இந்திரா காந்தி அம்மையாருக்கு தகராறு வந்தது இப்போது; பீகார் மாநிலத்தில் ஜெயப்பிரகாஷ் போராட்டம் ஆரம்பித்தது இப்போது; ஆனால் 1972ஆம் ஆண்டிலேயே ஜெயப்பிரகாஷ் நாராயணன் ‘பீப்பிள்ஸ் ஆக்ஷன்’ என்கிற ஒரு தலைசிறந்த பத்திரிகையில் ஒரு கட்டுரை எழுதியிருக்கிறார். அதிலே ஜெயப்பிரகாஷ் நாராயணன், வினோபா பாவே போன்றவர்கள் எல்லாம்கூட எழுதியிருக்கிறார்கள். 1972லேயே ஜெயப் பிரகாஷ் சொல்கிறார். “ஷேக் அப்துல்லாவோடு மோதாதீர்கள், அழைத்துப் பேசுங்கள்’’ என்றெல்லாம் மத்திய அரசுக்கு அறிவுறுத்தியிருக்கிறார். அந்தக் கட்டுரையில் மேலும் குறிப்பிடுகிறார்.
 
 > The only question that may still be considered to be rel-
 > evant is that of the quantum of autonomy that Jammu and Kash-
@@ -553,7 +553,7 @@ Backward Community என்றாலே மத்திய சர்க்க�
 > work of that State. But this is not a question in any way peculiar
 > to Jammu and Kashmir. There are several States in this country
 > which have been demanding larger measure of autonomy. There is
-> for instance the Rajamannar Committee’s report in regard to
+> for instance the Rajammannar Committee’s report in regard to
 > Tamil Nadu but at the same time it must be recalled. with pride,
 > the ringing words of Chief Minister Mr. Karunanidhi which he is
 > recently reported to have spoken at a public meeting at Thanjavur.
