@@ -691,28 +691,29 @@ Downstream:
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Gate F Batch 1 durable state
+## Gate F Batches 1–2 durable state
 
 - translation authority — **Gate-E-verified Tamil only**
-- translated scans — **263–287 / printed pp.262–286**
-- translated pages — **25/57**
-- source-page sequence — **263→287 / complete / ordered**
+- translated scans — **263–312 / printed pp.262–311**
+- translated pages — **50/57**
+- Batch 1 — **263–287 / 25 pages / COMPLETE**
+- Batch 2 — **288–312 / 25 pages / COMPLETE**
+- source-page sequence — **263→312 / 50 sections / complete / ordered**
 - blocking translation questions — **0**
 - verified-Tamil changes — **0**
 - outside English / outside-witness wording imported — **0**
-- source-printed English — **preserved verbatim**
+- source-printed English — **preserved verbatim**, including the Vijayawada-resolution quotations on scans 288–289
 - English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
 - `verified_against_tamil=false`
 - working file — `translation.md`
 - review ledger — `translation-review.md`
 
-## Exact next activity — Speech 14 Gate F Batch 2
+## Exact next activity — Speech 14 Gate F FINAL Batch 3
 
-Translate **scans 288–312 / printed pp.287–311 / exactly 25 pages** from the Gate-E-verified Tamil only.
+Translate **scans 313–319 / printed pp.312–318 / exactly 7 pages** from the Gate-E-verified Tamil only.
 
 Source split:
 
-- part012 local **13–25 = scans 288–300**
-- part013 local **1–12 = scans 301–312**
+- part013 local **13–19 = scans 313–319**
 
-Preserve source-page alignment, speaker/intervention structure and source-printed English exactly. Record any blocking translation question rather than altering verified Tamil. Do not begin Gate G, Gate H or Speech 15 in the same activity.
+Preserve source-page alignment, speaker/intervention structure and all source-printed English quotations exactly. Record any blocking translation question rather than altering verified Tamil. If all seven pages translate without blockers, mark Gate F **COMPLETE / 57 of 57**, but keep English **NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false** until Gate G. Do not begin Gate G, Gate H or Speech 15 in the same activity.
