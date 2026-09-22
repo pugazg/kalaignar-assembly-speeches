@@ -686,21 +686,33 @@ Gate-E final Batch 6:
 
 Downstream:
 
-- Gate F / English — **READY / NOT STARTED**
+- Gate F / English — **IN PROGRESS — Batch 1 scans 263–287 / 25 of 57 translated / 0 blockers / verified_against_tamil=false**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Exact next activity — Speech 14 Gate F English translation
+## Gate F Batch 1 durable state
 
-Translate Speech 14 from the **Gate-E-verified Tamil only**, preserving source-page alignment **263–319** and keeping source-printed English quotations verbatim rather than retranslating them.
+- translation authority — **Gate-E-verified Tamil only**
+- translated scans — **263–287 / printed pp.262–286**
+- translated pages — **25/57**
+- source-page sequence — **263→287 / complete / ordered**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-printed English — **preserved verbatim**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+- working file — `translation.md`
+- review ledger — `translation-review.md`
 
-Requirements:
+## Exact next activity — Speech 14 Gate F Batch 2
 
-- source text — verified Tamil in `transcript.md`;
-- English should be a faithful reading translation, not a modernization or political interpretation;
-- preserve every source-page boundary and speaker/intervention structure;
-- preserve source-printed English exactly where it appears;
-- do not import translation wording from web, Official Reports, alternate anthologies, released speeches or another witness;
-- record any blocking translation question rather than altering verified Tamil;
-- do not begin Gate G, Gate H or Speech 15 in the same activity unless separately instructed.
+Translate **scans 288–312 / printed pp.287–311 / exactly 25 pages** from the Gate-E-verified Tamil only.
+
+Source split:
+
+- part012 local **13–25 = scans 288–300**
+- part013 local **1–12 = scans 301–312**
+
+Preserve source-page alignment, speaker/intervention structure and source-printed English exactly. Record any blocking translation question rather than altering verified Tamil. Do not begin Gate G, Gate H or Speech 15 in the same activity.
