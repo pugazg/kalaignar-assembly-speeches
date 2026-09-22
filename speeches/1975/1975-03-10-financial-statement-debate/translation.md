@@ -1,6 +1,6 @@
 # English translation — Speech 14 / 10.03.1975
 
-> **Gate F status:** **IN PROGRESS — Batches 1–2 / source pages 263–312 / 50 of 57 pages translated.** Translation authority is the Gate-E-verified Tamil in `transcript.md` only. This is first-pass English and is **NOT YET VERIFIED AGAINST TAMIL**; `verified_against_tamil=false`. Source-printed English is retained verbatim. No translation wording is imported from web sources, Official Reports, alternate anthologies, released speeches or another witness.
+> **Gate F status:** **COMPLETE — Batches 1–3 / source pages 263–319 / 57 of 57 pages translated.** Translation authority is the Gate-E-verified Tamil in `transcript.md` only. This is first-pass English and is **NOT YET VERIFIED AGAINST TAMIL**; `verified_against_tamil=false`. Source-printed English is retained verbatim. No translation wording is imported from web sources, Official Reports, alternate anthologies, released speeches or another witness.
 
 ### Source page 263
 
@@ -539,4 +539,119 @@ Even when our friend Subbu spoke, he said that there can never be such a thing a
 Just as some people faced difficulties because they had been named Lenin, because I named my son Stalin a Christian college refused to admit him. They said, change the name and bring him, and we will admit him. I told them, let the college go; let the name remain. Therefore, I said this to show that we have deep faith in these principles, and to state that those of us who remain in the Kazhagam even today accept the principles of rationalists such as Singaravelar.
 
 In the concluding part of the budget, attention was drawn to the fact that a few pages have been devoted to State autonomy.
+
+### Source page 313
+
+Taking that into account, I very gladly welcome the fact that all those who spoke spent a large part of their time speaking about State autonomy.
+
+Some people even asked questions such as, “What connection do you have with Jayaprakash Narayan? Can you join with him?” The dispute between Mrs Indira Gandhi and Jayaprakash Narayan has arisen now; Jayaprakash's agitation in the State of Bihar began now; but as early as 1972 Jayaprakash Narayan wrote an article in a distinguished journal called *People's Action*. Jayaprakash Narayan, Vinoba Bhave and others have all written in it. As early as 1972 Jayaprakash said: “Do not clash with Sheikh Abdullah; call him and talk,” and gave such advice to the Central Government. He further states in that article:
+
+> The only question that may still be considered to be rel-
+> evant is that of the quantum of autonomy that Jammu and Kash-
+> mir should enjoy within the Union of India and Jammu and Ladak
+> regions in their turn should enjoy within the constitutional frame-
+> work of that State. But this is not a question in any way peculiar
+> to Jammu and Kashmir. There are several States in this country
+> which have been demanding larger measure of autonomy. There is
+> for instance the Rajammannar Committee’s report in regard to
+> Tamil Nadu but at the same time it must be recalled. with pride,
+> the ringing words of Chief Minister Mr. Karunanidhi which he is
+> recently reported to have spoken at a public meeting at Thanjavur.
+> “The demand for greater autonomy to the States,” he declared,
+> “was never meant to divide the country but only to promote the
+> welfare of the people -”. The Prime Minister Mrs. Indira Gandhi
+> herself could examine the demand for more powers to the State
+> for advancing the people’s interest without in any way affecting the
+> unity and integrity of the country.
+
+### Source page 314
+
+Then he says:
+
+> There is enough flexibility in our Constitution and our Central
+> and State leaders have been wise enough to appreciate the limits
+> within which the demand for autonomy may be pressed. I myself
+> have been a consistent advocate of a much larger measure of
+> autonomy to the states in view of the vastness of our population
+> and diversity of our problems.
+
+What more reason do you think I must give you for how a connection arose between Jayaprakash Narayan and us? All the States in India have problems of this kind. They must be discussed and resolved. They must be brought to the forum of discussion. As early as 1972 Jayaprakash pointed out that there was no separatism in the demand for State autonomy put forward by the Dravida Munnetra Kazhagam, that it did not in any way harm Indian unity, and that the leader of that party had said so at a public meeting in Thanjavur. He asked that they be prepared for talks.
+
+One thing he said in 1972 has now been heeded. Let us hope the rest too will be heeded later. If, instead of confronting Sheikh Abdullah with military force, instead of taking him to the glaciers and imprisoning him there as Mr Sezhiyan pointed out in Parliament, and instead of keeping him in prison for thirteen years, the matter had been resolved through talks, the Kashmir problem would have been settled long ago. In the same way, we happily speak of Mother India from Kashmir to Kanyakumari. But when we ask that the States be given greater powers and the character of autonomy, they say Kashmir is separate. From Kanyakumari to Kashmir—
+
+### Source page 315
+
+we ask today only why that principle should fail in this matter alone.
+
+Many scholars have pointed out the need for the principle of State autonomy. Former Chief Justice of the Supreme Court Mr Subba Rao, speaking in Chennai on 20.06.1974, stated that whatever powers are essential to the welfare of the people living in a State, and can be carried out more effectively by the State Government than by the Central Government, the State Government's right to exercise those powers without interference by the Central Government—Soverign—is what is called autonomy.
+
+Kerala Congress leader Mr George, on 10.05.1974, expressed the view that the Central Government should retain only the powers relating to defence, information, broadcasting and foreign affairs, and should come forward to give all the remaining powers to the State Governments.
+
+When the Karnataka State leader of the old Congress Party, Mr Veerendra Patil, spoke at Kalaivanar Arangam in Chennai on 9.6.1974, he said that the Chief Minister of Tamil Nadu would certainly emerge victorious in the sacred struggle called State autonomy; that Mr Karunanidhi had begun a sacred struggle for State autonomy; that the States needed greater powers and greater autonomy in various fields; that only then could the States remain secure without being caught in the grip of a Central Government that committed mistakes; that he fully agreed with Mr Karunanidhi's argument on this matter; and that he believed Mr Karunanidhi would succeed in this sacred struggle.
+
+Many other senior figures too have spoken. When Mrs Sathyavani Muthu spoke at the Mannargudi conference, she said that the demand for State autonomy
+
+### Source page 316
+
+was being treated as something very ordinary, but that one day the country would praise us for having struggled for it and for having succeeded in this demand. She declared that both Nehru and Ambedkar had emphatically spoken of State autonomy, and that it was amusing that those who had wholeheartedly welcomed it then were now calling the same demand for State autonomy separatism.
+
+My dear friend Mr M.G. Ramachandran, who went to Kashmir, which now has State autonomy, said there itself, Mr Edmund—(Laughter.)—that the demand for State autonomy made by the Dravida Munnetra Kazhagam was not based on separatist sentiment. He further said that the Dravida Munnetra Kazhagam's demand for autonomy was not based on separatist sentiment; that the Dravida Munnetra Kazhagam had public support for its demand that the States should have autonomy; that the Dravida Munnetra Kazhagam had not said Tamil Nadu should separate from India; and that it was only saying that the States should have greater powers in their hands. This was the interview given by M.G. Ramachandran to reporters on 18.05.1972.
+
+The present Constitution should be thrown out and a new Constitution created. If Kalaignar's view on State autonomy is not accepted, the same demand will spread to all the States and India will be broken into pieces. The Central Government should accept the demand for State autonomy, which will serve as a great support for the unity of India. This was the declaration of Mr Kovai Sezhiyan at the Nilgiris Dravida Munnetra Kazhagam conference.
+
+> I am the spokesman of the DMK party in Parliament. Do
+> not belittle the importance of my position as the leader of the party
+
+### Source page 317
+
+> in Parliament. And my Chief Minister Mr. Karunanidhi has categori-
+> cally declared that we will never revive our demand for separation.
+> On the contrary we want State Autonomy.
+
+This was the speech delivered in Parliament on March 21 by another dear friend of mine, Mr Manoharan.
+
+State autonomy is not a demand that we are making anew. Anna himself said it. Even when he was in the Opposition, Anna asked, why do you carry a kavadi to Delhi? Its very meaning was: why should the power to accomplish there not be here with us? That is why State autonomy is something Anna himself spoke of. This was spoken by Revolutionary Actor M.G.R. at the Tamburi conference.
+
+Now we have seen another new voice in the newspapers. A Member of Parliament in Punjab, Gurucharan Singh Dhara, has said that all States should be given powers as Jammu and Kashmir has been given; that all States should be granted full autonomy; and that, as Tamil Nadu Chief Minister Mr Karunanidhi has been saying, all powers other than foreign affairs. defence and communications should be given to the States. This view has been expressed by the Akali Dal leader.
+
+In 1942 the Communist Party of India adopted a resolution.
+
+> A resolution of the September Plenary meeting of the Cen-
+> tral Committee, based on report by G. Adhikari, definitively out
+> lined the Party’s new orientation. Its critical passage was as fol-
+> lows:-
+>
+> “Every section of the Indian people which has a contiguous
+> territory as its homeland, common historical tradition, common lan-
+> guage, culture, psychological make-up and common economic life
+
+### Source page 318
+
+> would be recognised as a distinct nationality with the right to exist
+> as an autonomous state within the free Indian Union or Federation
+> and will have the right to secede from it if it may so desire............
+> Thus, free India tomorrow would be a federation or union of au-
+> tonomous States of the various nationalities such as the Pathans,
+> Western Punjabis, Sikhs, Sindhis, Hindustanis, Rajasthanis, Gujaritis,
+> Bengalis, Assamese, Beharies, Oriyas, Andhras, Tamils, Karnatiks,
+> Maharashtrians, Keralas, etc.”
+
+As early as 1942, the Communist Party of India stated in this resolution that these nationalities, each with its own culture and historical connections, should exist with an autonomous character within the Indian Union.
+
+In that same year, 1942, a resolution adopted at the A.I.C.C. meeting where the “Quit India” resolution was passed stated:
+
+> “The constitution according to the Congress view should be
+> a federal one, with the largest measure of Autonomy for the fed-
+> erating units with the residuary powers vesting, in these units.” -
+> A.I.C.C. 8th August Resolution 1942.
+
+This was the assurance given to the people of India at the time when “Quit India” was declared. This was an assurance given by the Congress Party. It is this that the Dravida Munnetra Kazhagam is echoing today in the form of State autonomy, greater powers and federalism at the Centre. Arguments were put forward asking whether we need to struggle for this and whether an amendment to the Constitution would not be enough. On behalf of the ruling Congress Party, it was asked sympathetically whether Karunanidhi, who had said he would go to prison like Sheikh Abdullah, really needed to go to prison. I think perhaps they are saying that they will grant State autonomy without my having to go to prison.
+
+### Source page 319
+
+I convey my thanks in advance, as a token of that.
+
+But I was not here when Mr Manali spoke. Though I was not here, I read his speech. He said that Elder Manali, in his speech, brought out the understanding that ideals cannot be won without struggle. Those are the very impressions I received when I met Sheikh Abdullah at my home and when I met Jayaprakash Narayan in Delhi. What I discussed with them is another matter. But the impression I received was this: “Whoever is prepared to make sacrifices can certainly succeed in their ideals.”
+
+Then they invite us, saying: if so, come out by giving up office. The haste behind that invitation is that they have already decided who will become which Minister. So they are looking to come and sit here immediately. If anyone thinks that if Karunanidhi, Navalar, Professor and the others leave office, the remaining 160 will sit here and they can run the Government with them, that is a daydream. If the D.M. Kazhagam gives up office and enters a struggle, it means that all of them enter the struggle. The time for that will come. At that time, with the memory and spirit of that struggle, we will work tirelessly in Anna's path to secure State autonomy; I state that we will work, and with that I conclude my speech. Vanakkam.
 
