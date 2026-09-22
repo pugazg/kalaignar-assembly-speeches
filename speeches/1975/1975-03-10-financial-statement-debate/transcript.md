@@ -2,7 +2,7 @@
 
 ## உரை : 14 — நாள் : 10.03.1975
 
-> **Tamil gate state:** Gate C **COMPLETE / 57 of 57**; Gate C.5 **N/A / CLOSED**; Gate D **PASS / COMPLETE**; Gate E **IN PROGRESS — scans 263–282 / 20 of 57 strictly verified**. Gate-E Batches 1–2 have applied **12 source-backed corrections across 8 scans** with **0 unresolved readings** in the verified range. Overall Tamil remains **NOT VERIFIED** with `verified_against_scan=false` until Gate E completes all 57 pages. No wording was supplied from OCR, web copies, Official Reports, alternate anthologies, released speeches or another witness.
+> **Tamil gate state:** Gate C **COMPLETE / 57 of 57**; Gate C.5 **N/A / CLOSED**; Gate D **PASS / COMPLETE**; Gate E **IN PROGRESS — scans 263–292 / 30 of 57 strictly verified**. Gate-E Batches 1–3 have applied **14 source-backed corrections across 9 scans** with **0 unresolved readings** in the verified range. Overall Tamil remains **NOT VERIFIED** with `verified_against_scan=false` until Gate E completes all 57 pages. No wording was supplied from OCR, web copies, Official Reports, alternate anthologies, released speeches or another witness.
 
 <!-- source-page: 263 -->
 
@@ -326,7 +326,7 @@ Backward Community என்றாலே மத்திய சர்க்க�
 
 <!-- source-page: 292 -->
 
-விவசாயத்துறை தந்துள்ள புள்ளி விவரப்படி நமது மாநிலத்தில் பதினொரு லட்சத்து இருபத்தையாயிரம் ஏக்கரா விவசாயம் செய்யப்படாமல் இருக்கிறது என்று கணக்கிடப்பட்டிருக்கிறது. இந்த பதினொரு லட்சத்து இருபத்தையாயிரம் ஏக்கராவை படிப்படியாக விவசாயம் செய்ய வேண்டிய பொறுப்பை நாம் ஏற்றுக்கொண்டாக வேண்டும்.
+விவசாயத்துறை தந்துள்ள புள்ளி விவரப்படி நமது மாநிலத்தில் பதினோரு லட்சத்து இருபத்தையாயிரம் ஏக்கரா விவசாயம் செய்யப்படாமல் இருக்கிறது என்று கணக்கிடப்பட்டிருக்கிறது. இந்த பதினோரு லட்சத்து இருபத்தையாயிரம் ஏக்கராவை படிப்படியாக விவசாயம் செய்ய வேண்டிய பொறுப்பை நாம் ஏற்றுக்கொண்டாக வேண்டும்.
 
 இதிலே அரசுக்குச் சொந்தமான புறம்போக்கு நிலங்களை எல்லாம் அரசுப் பண்ணைகளின் மூலமாக எடுத்துக் கொண்டு நாம் சாகுபடி செய்வது என்ற முடிவை மேற்கொண்டு அதை வரவு செலவுத் திட்ட அறிக்கையில் நான் குறிப்பிட்டிருக்கிறேன். இதில் முதல் கட்டமாக செங்கற்பட்டு மாவட்டத்தில் உள்ள கும்மிடிப்பூண்டி தாலுக்காவில் தெருவாய், கரடிப்புத்தூர் என்ற இரண்டு கிராமங்களில் ஆயிரத்து ஐநூற்றிருபத்திரண்டு ஏக்கர் நிலத்தைச் சாகுபடிக்குக் கொண்டுவர ஏற்பாடுகள் செய்யப்பட்டிருக்கின்றன.
 
