@@ -64,11 +64,11 @@ This user-directed cadence supersedes the earlier whole-speech batching rule for
 - `verified_against_scan=false`
 - OCR / web / Official Reports / alternate anthology / other-witness wording imported — **0**
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 57/57 reviewed; no legacy-glyph anomaly observed**
-- Gate D — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
 - Gate E — **NOT STARTED / future cadence 10 pages per iteration**
 - English — **BLOCKED / NOT STARTED**
 - release — **NOT RELEASED**
 
 ## Exact next activity
 
-Proceed with **Speech 14 Gate D completeness / structure audit — scans 263–319 / 57 pages**. Check the 57 source markers, both hard boundaries, all 56 internal page transitions, missing/duplicated blocks, speaker/intervention continuity, source-printed English, figures/dates and the scan-319 close. Gate D must not mark Tamil verified; do not begin Gate E in the same activity unless separately instructed.
+Proceed with **Speech 14 Gate E Batch 1 — scans 263–272 / printed pp.262–271 / 10 pages**. Strictly compare each page against rendered controlling anthology pixels, record every source-backed correction, preserve source-printed English and source-visible oddities, and keep the fixed Gate-E cadence at 10 pages per iteration.
