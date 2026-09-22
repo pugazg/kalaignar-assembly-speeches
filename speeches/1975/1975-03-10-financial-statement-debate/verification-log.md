@@ -89,9 +89,28 @@ Gate C first-pass completion is not Gate E verification. Source spelling, punctu
 
 Gate C first-pass completion is not Gate E verification. Source spelling, punctuation and awkward constructions remain source-bound and must not be silently normalized.
 
+## Gate C — Batch 5 / scans 303–312
+
+**BATCH PASS / FIRST-PASS TRANSCRIPTION COMPLETE — 10 additional pages; cumulative 50 of 57 pages.**
+
+- source markers — **303→312 / 10 / exactly once / ordered**
+- cumulative source markers — **263→312 / 50 / exactly once / ordered**
+- printed pages — **302–311**
+- split/local pages — **part013 local 3–12 = scans 303–312**
+- speaker labels/interventions — **captured**
+- source-printed English — **preserved**, including `Tamil Nadu Goods Transport Organisation`
+- figures/dates/fractions — **captured at first-pass level**
+- source-visible historical/ideological names and spellings — **preserved without outside normalization**
+- three first-pass source-reading corrections made during same-batch visual recheck on scan 305; unresolved readings — **0 currently flagged**
+- Tamil verification state — **NOT VERIFIED**
+- `verified_against_scan=false`
+- OCR / web / Official Report / alternate anthology / other-witness wording imported — **0**
+
+Gate C first-pass completion is not Gate E verification. Source spelling, punctuation and awkward constructions remain source-bound and must not be silently normalized.
+
 ## Current gate state
 
-- Gate C — **IN PROGRESS / 40 of 57 / scans 263–302 complete**
+- Gate C — **IN PROGRESS / 50 of 57 / scans 263–312 complete**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED / 10-page cadence locked**
@@ -101,4 +120,4 @@ Gate C first-pass completion is not Gate E verification. Source spelling, punctu
 
 ## Exact next activity
 
-Continue **Gate C Batch 5 — scans 303–312 / printed pp.302–311 / 10 pages** from part013 local pages **3–12**. Do not begin downstream gates before Gate C completes.
+Continue **Gate C FINAL Batch 6 — scans 313–319 / printed pp.312–318 / 7 pages** from part013 local pages **13–19**. If all seven pages are processed, Gate C becomes COMPLETE at **263–319 / 57 of 57**; do not begin Gate C.5 or later gates in the same activity unless separately instructed.
