@@ -319,10 +319,10 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
   - legacy/reform-sensitive glyph anomalies requiring a separate pass — **0 observed**
   - Tamil wording changes at Gate C.5 — **0**
 - Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
-- Gate E — **NOT STARTED / 10-page cadence locked**
+- Gate E — **IN PROGRESS — Batch 1 scans 263–272 / 10 of 57 verified / 9 corrections / 0 unresolved in verified range**
 - English — **BLOCKED**
 - Speech 15 — **not begun**
 
 ## Exact continuation
 
-Proceed with **Speech 14 Gate E Batch 1 — scans 263–272 / printed pp.262–271 / exactly 10 pages**. Perform strict source-fidelity verification from rendered controlling anthology pixels only, record every source-backed correction, preserve source-printed English and source-visible oddities, and do not exceed the locked 10-page Gate-E cadence.
+Proceed with **Speech 14 Gate E Batch 2 — scans 273–282 / printed pp.272–281 / exactly 10 pages**. Continue strict source-fidelity verification from rendered controlling anthology pixels only, record every source-backed correction, preserve source-printed English and source-visible oddities, and keep the locked 10-page Gate-E cadence.
