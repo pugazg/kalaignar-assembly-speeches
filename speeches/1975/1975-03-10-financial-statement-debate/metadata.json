@@ -99,7 +99,9 @@
     "current_gate_d": "COMPLETE / 57 pages / 56 transitions / 0 corrections",
     "next_gate_e_batch": null,
     "current_gate_e_batch": "313-319 / 7 pages FINAL / COMPLETE / 2 corrections",
-    "next_activity": "Gate F English translation"
+    "next_activity": "Gate F Batch 2 scans 288-312",
+    "current_gate_f_batch": "263-287 / 25 pages COMPLETE",
+    "next_gate_f_batch": "288-312 / 25 pages"
   },
   "transcription": {
     "language": "Tamil",
@@ -180,13 +182,21 @@
   },
   "translation": {
     "language": "English",
-    "status": "ready-not-started",
-    "gate_f_status": "not-started",
+    "status": "in-progress",
+    "gate_f_status": "in-progress",
     "gate_g_status": "not-started",
     "verified_against_tamil": false,
     "block_reason": null,
     "source_text": "Gate-E-verified Tamil in transcript.md",
-    "next_gate": "Gate F English translation"
+    "next_gate": "Gate F Batch 2 scans 288-312",
+    "translated_scans": "263-287",
+    "translated_printed_pages": "262-286",
+    "translated_page_count": 25,
+    "total_page_count": 57,
+    "blocking_question_count": 0,
+    "verified_tamil_changes": 0,
+    "outside_english_imported": false,
+    "current_batch": "263-287 / 25 pages COMPLETE"
   },
   "release": {
     "status": "not-released",
