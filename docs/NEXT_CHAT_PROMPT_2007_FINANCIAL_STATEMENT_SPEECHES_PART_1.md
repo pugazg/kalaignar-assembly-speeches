@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate C Batch 3 — scans 283–292
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate C Batch 4 — scans 293–302
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,10 +18,11 @@ Working entry:
 - end boundary **319→320** — **PASS / visually reconfirmed from part013 local 19→20**
 - scan 320 — **உரை : 15 / நாள் : 03.08.1977 / excluded**
 - Gate C — **IN PROGRESS**
-- completed Gate-C range — **263–282 / 20 of 57**
-- source markers — **263→282 / 20 / exactly once / ordered**
+- completed Gate-C range — **263–292 / 30 of 57**
+- source markers — **263→292 / 30 / exactly once / ordered**
 - Gate C Batch 1 — **263–272 / COMPLETE**
 - Gate C Batch 2 — **273–282 / COMPLETE**
+- Gate C Batch 3 — **283–292 / COMPLETE**
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
@@ -40,25 +41,34 @@ This overrides the older whole-speech cadence for Speech 14 at Gates C and E onl
 
 ## Current source availability
 
-Controlling split for the next batch:
+Batch 4 crosses two controlling splits.
+
+### part012
 
 `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_012_pages_276-300.pdf`
 
 - SHA-256 `2010012bd354bc4f9354d0d547097c6ae9b2c2a7eb225d854018ebc482173cdc`
-- local pages **8–17 = global scans 283–292 / printed pp.282–291**
-- all ten pages for Batch 3 are available
-- all remaining Speech-14 pages are available across part012 and part013
+- local pages **18–25 = global scans 293–300 / printed pp.292–299**
+
+### part013
+
+`TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_013_pages_301-325.pdf`
+
+- SHA-256 `26f0a480bf6c7b6f3f8638aadc77d0528f15b61def73937fad1627060f31c61b`
+- local pages **1–2 = global scans 301–302 / printed pp.300–301**
+
+All ten pages for Batch 4 are available.
 
 ## Exact next activity
 
-Perform **Speech 14 Gate C Batch 3 — scans 283–292 / printed pp.282–291 / exactly 10 pages**.
+Perform **Speech 14 Gate C Batch 4 — scans 293–302 / printed pp.292–301 / exactly 10 pages**.
 
 Requirements:
 
 1. use only rendered controlling anthology pixels;
 2. preserve source wording/spelling/punctuation/numerals, speaker labels/interventions, source-printed English and repetition;
-3. add source-page markers **283→292** exactly once and in order;
-4. update cumulative Gate-C coverage to **263–292 / 30 of 57** if all ten pages are processed;
+3. add source-page markers **293→302** exactly once and in order;
+4. update cumulative Gate-C coverage to **263–302 / 40 of 57** if all ten pages are processed;
 5. keep Tamil **NOT VERIFIED / verified_against_scan=false**;
 6. synchronize Speech-14 and anthology control documents;
 7. do **not** begin Gate C.5, Gate D, Gate E, English, Gate H or Speech 15 before Gate C completes.
