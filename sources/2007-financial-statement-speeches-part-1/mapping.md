@@ -318,10 +318,11 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
   - coverage considered — **57/57 pages**
   - legacy/reform-sensitive glyph anomalies requiring a separate pass — **0 observed**
   - Tamil wording changes at Gate C.5 — **0**
-- Gate D / E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
+- Gate E — **NOT STARTED / 10-page cadence locked**
 - English — **BLOCKED**
 - Speech 15 — **not begun**
 
 ## Exact continuation
 
-Proceed with **Speech 14 Gate D completeness / structure audit — scans 263–319 / 57 pages**. Audit **57 markers**, hard boundaries **262→263 / 319→320**, all **56 internal page transitions**, missing/duplicated blocks, speaker/intervention continuity, source-printed English blocks, figures/dates and the scan-319 close. Gate D is a structural/completeness gate only; keep Tamil **NOT VERIFIED / verified_against_scan=false** and do not begin Gate E in the same activity unless separately instructed.
+Proceed with **Speech 14 Gate E Batch 1 — scans 263–272 / printed pp.262–271 / exactly 10 pages**. Perform strict source-fidelity verification from rendered controlling anthology pixels only, record every source-backed correction, preserve source-printed English and source-visible oddities, and do not exceed the locked 10-page Gate-E cadence.
