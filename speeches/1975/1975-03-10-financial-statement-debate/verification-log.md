@@ -290,16 +290,55 @@ Gate-E correction ledger:
 
 Source-visible punctuation and unusual constructions in this batch were retained where the controlling pixels supported them, including `5.5. கோடி`, `15,86 சதவிகிதம்`, and the semicolon in the scan-301 constitutional-law sentence.
 
+## Gate E — Batch 5 / scans 303–312
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 additional pages; cumulative 50 of 57.**
+
+Coverage:
+
+- verified scans — **303–312**
+- verified printed pages — **302–311**
+- verified pages — **10/10 in batch; cumulative 50/57**
+- source markers in batch — **303→312 / 10 / exactly once / ordered**
+- split/local coverage — **part013 local 3–12 = scans 303–312**
+- Gate-E corrections — **13 entries / 13 occurrences**
+- affected scans — **7 — 303, 304, 305, 309, 310, 311, 312**
+- cumulative Gate-E corrections — **30 entries / 30 occurrences**
+- cumulative affected scans — **19**
+- unresolved readings in verified range — **0**
+- source-printed English — **preserved**
+- outside wording imported — **0**
+- overall Tamil status — **NOT VERIFIED**
+- `verified_against_scan=false` until all 57 pages complete Gate E
+
+Gate-E correction ledger:
+
+1. **scan 303 / printed p.302** — `குறிப்பிட்ட விரும்பினேன்` → `குறிப்பிட விரும்பினேன்`
+2. **scan 303 / printed p.302** — `அவர் களிடத்திலேயும்` → `அவர்களிடத்திலேயும்`
+3. **scan 304 / printed p.303** — `அந்தச் சட்டம் அந்தச் சட்டத்தை எதிர்த்து` → `அந்தச் சட்டம் அந்த சட்டத்தை எதிர்த்து`
+4. **scan 304 / printed p.303** — `உச்ச நீதி மன்றத்திற்குப் சில பேர்` → `உச்ச நீதி மன்றத்திற்கு சில பேர்`
+5. **scan 305 / printed p.304** — `பிப்ரவரி திங்கள் 11ஆம் நாள்` → `பிப்ரவரித் திங்கள் 11ஆம் நாள்`
+6. **scan 305 / printed p.304** — `மத்திய அரசால் நிராகரிக்கப்பட்டோ` → `மத்திய அரசால் நிராகரிக்கப் பட்டோ`
+7. **scan 305 / printed p.304** — `அல்லது புறக்கணிக்கப்பட்டோ` → `அல்லது புறக்கணிக்கப் பட்டோ`
+8. **scan 309 / printed p.308** — `என்றுகேட்டுக் கொண்டிருந்தால்` → `என்று கேட்டுக் கொண்டிருந்தால்`
+9. **scan 310 / printed p.309** — `சிங்காரவேலர், சர்க்கரைச் செட்டியார் இவர்களைப் பற்றி` → `சிங்காரவேலர், சர்க்கரைச் செட்டியார். இவர்களைப் பற்றி`
+10. **scan 311 / printed p.310** — `கஷ்டப்பட வேண்டியிருந்தது` → `கஷ்டப்பட்ட வேண்டியிருந்தது`
+11. **scan 311 / printed p.310** — `சாவதேச அமைப்பான` → `சார்வதேச அமைப்பான`
+12. **scan 312 / printed p.311** — `அதைத்தான் குறிப்பிட்டார்` → `அதைத் தான் குறிப்பிட்டார்`
+13. **scan 312 / printed p.311** — `பகுத்தறிவுவாதிகளுடைய அந்தக்` → `பகுத்தறிவுவாதி களுடைய அந்தக்`
+
+Source-visible awkward constructions retained where supported by the pixels include scan-304 `அரிசனங்கள் இடம்`, scan-307 `ஓய்வூதியம் பெறுகிறவர்களும் அளிக்க`, and scan-312 `நான் என்னுடைய மகனுக்கு ஸ்டாலின் என்று பெயரிட்டார்`.
+
 ## Current gate state
 
 - Gate C — **COMPLETE / 57 of 57 / scans 263–319 complete**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 57 of 57 / 56 of 56 internal transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS / 40 of 57 verified / scans 263–302 complete / 17 cumulative corrections / 0 unresolved in verified range**
+- Gate E — **IN PROGRESS / 50 of 57 verified / scans 263–312 complete / 30 cumulative corrections / 0 unresolved in verified range**
 - Gate F / English — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-Proceed with **Gate E Batch 5 — scans 303–312 / printed pp.302–311 / exactly 10 pages**. Continue strict word-for-word source-fidelity verification from rendered controlling anthology pixels only, record every source-backed correction, preserve source-printed English and source-visible oddities, and keep outside wording at zero.
+Proceed with **Gate E FINAL Batch 6 — scans 313–319 / printed pp.312–318 / exactly 7 pages**. Complete strict word-for-word source-fidelity verification from rendered controlling anthology pixels only, record every source-backed correction, preserve source-printed English and source-visible oddities, and keep outside wording at zero. If all seven pages pass, Gate E can close and Tamil can become VERIFIED.
