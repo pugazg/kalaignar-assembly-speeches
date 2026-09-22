@@ -2,7 +2,7 @@
 
 ## உரை : 14 — நாள் : 10.03.1975
 
-> **Gate C state:** **COMPLETE — scans 263–319 / 57 of 57 pages first-pass transcribed from rendered pixels of the controlling 2007 anthology.** Source-page markers **263→319** are present exactly once and in order. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`; Gate C completion is not Gate-E verification. No wording was supplied from OCR, web copies, Official Reports, alternate anthologies, released speeches or another witness.
+> **Tamil gate state:** Gate C **COMPLETE / 57 of 57**; Gate C.5 **N/A / CLOSED**; Gate D **PASS / COMPLETE**; Gate E **IN PROGRESS — scans 263–272 / 10 of 57 strictly verified**. Gate-E Batch 1 applied **9 source-backed corrections across 6 scans** with **0 unresolved readings** in the verified range. Overall Tamil remains **NOT VERIFIED** with `verified_against_scan=false` until Gate E completes all 57 pages. No wording was supplied from OCR, web copies, Official Reports, alternate anthologies, released speeches or another witness.
 
 <!-- source-page: 263 -->
 
