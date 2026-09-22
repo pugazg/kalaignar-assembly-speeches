@@ -1,6 +1,6 @@
 # English translation — Speech 14 / 10.03.1975
 
-> **Gate F status:** **IN PROGRESS — Batch 1 / source pages 263–287 / 25 of 57 pages translated.** Translation authority is the Gate-E-verified Tamil in `transcript.md` only. This is first-pass English and is **NOT YET VERIFIED AGAINST TAMIL**; `verified_against_tamil=false`. Source-printed English is retained verbatim. No translation wording is imported from web sources, Official Reports, alternate anthologies, released speeches or another witness.
+> **Gate F status:** **IN PROGRESS — Batches 1–2 / source pages 263–312 / 50 of 57 pages translated.** Translation authority is the Gate-E-verified Tamil in `transcript.md` only. This is first-pass English and is **NOT YET VERIFIED AGAINST TAMIL**; `verified_against_tamil=false`. Source-printed English is retained verbatim. No translation wording is imported from web sources, Official Reports, alternate anthologies, released speeches or another witness.
 
 ### Source page 263
 
@@ -269,3 +269,274 @@ Thus, without these taxes differing greatly from those in neighbouring States, t
 Mrs Anandanayaki asked, what have these cattle done, why is there a tax on cattle, and cannot it be reduced? Accepting her request as the request of Tamil Nadu's farming people, I am very happy to announce that I am cancelling the half-per-cent increase in the tax imposed on oil-cake. (Cheers.)
 
 **Mrs T.N. Anandanayaki:** On behalf of the cattle, on behalf of the cows, I thank him for cancelling the tax on oil-cake. (Laughter.) But I wish to say one thing. He spoke as though the Central Government were somehow urging the imposition of tax and as though that was why tax amounting to Rs.6 crore had been imposed today. But in neighbouring Kerala, even after presenting a budget with a deficit of Rs.26 crore, they have not imposed a tax this year. Likewise in Andhra Pradesh, they have not imposed a tax there either. When even this Rs.6 crore can be managed next year by way of more buoyancy of taxes, why should you impose a new tax? There has been no answer to that.
+
+### Source page 288
+
+**Hon. Kalaignar M. Karunanidhi:** We are implementing prohibition here. We have been affected by drought. We are granting tax concessions for that. We have abolished horse racing and are losing Rs.2 crore on that account. If this question is asked after taking all these things into consideration, surely that itself gives them the answer.
+
+The ruling Congress and our Communist friends charged the State Government with being unable today to control the rise in prices. Mr K.D.K. Thangamani read out here several resolutions adopted at Vijayawada. He read the resolutions adopted to abolish caste and remove untouchability. I understand that the conference held by their party at Vijayawada was no ordinary conference but one held once in ten years—it was a very important All-India Communist conference assembled at Vijayawada. I think it is proper that I read out here an important resolution adopted at that conference, held from January 27 to February 2, 1975. Mr K.D.K. apparently forgot to read it out. Therefore I wish to read it.
+
+> “The responsibility for this state of affairs must be placed
+> squarely on the shoulders of the Ruling Congress Govern-
+> ment which has not only failed to protect the Indian economy
+> from the ravages of the world-wide inflationary crisis of capi-
+> talism and the efforts of the big imperialist powers to trans-
+> fer its burdens on to the countries of the third world, but has
+> itself contributed to the inflationary spiral by embarking upon
+> a reckless course of deficit financing and mounting taxation
+> of consumer articles and intermediates and essential raw
+> materials.”
+
+### Source page 289
+
+This Vijayawada resolution is a very important resolution.
+
+It is a resolution that points an emphatic finger at the Central Government as to who is responsible for the rise in prices in India today, for economic disparities and for inflation. Even though I am not in alliance with the Communist Party, on behalf of the Dravida Munnetra Kazhagam I am duty-bound to convey my appreciation and thanks to the Communist Party for adopting this resolution.
+
+At another place in that Vijayawada resolution they state:
+
+> “Black money which has become a parallel economy is
+> causing havoc to the national economy, apart from boosting the
+> price-spiral. As this has created a most dangerous situation where
+> even the previous limited planning has become impossible...."
+
+This concerns black money. We unanimously adopted a resolution here stating that, along with the efforts being undertaken by the Central Government to eradicate black money completely, powers should also be given to the State Governments to take action. When Mr K.D.K. asked whether we would move such a resolution, I asked, “We are ready. Will you support it?” He said, “We will support it.” We then moved, seconded and unanimously passed in this great House a resolution that the State Governments too should be given the power to take action to eradicate black money, and sent it onward. I wish to state that to this day no reply of any kind has come from the Centre.
+
+### Source page 290
+
+From this, what we said was not that the Central Government should not have the power; we said, let the Central Government have it and let the State Governments have it too. There has been no response of any kind to that.
+
+Next, certain shortcomings and accusations have been stated here. It is my great responsibility to answer them. When our friend Mr A.R. Marimuthu spoke, he said that water is not now flowing in the canals of the Parambikulam-Aliyar scheme; that the budget states that it is planned to provide irrigation to an additional 89,000 acres this year; and that there should be no wasteful investment in this.
+
+I wish to state that this is not really an acceptable view; it is a dangerous view. For he spoke as though there were no water at all in Parambikulam-Aliyar and as though extending irrigation to 89,000 acres were a dangerous undertaking. The fact is that the scheme is designed to provide water to 2.5 lakh acres each year. After the Parambikulam-Aliyar agreement had been reached, certain bitter feelings arose in between and a situation developed in which it remained unfinished. After our Government came to office, when Mr E.M.S. was Chief Minister there, and later after Mr Achutha Menon assumed responsibility as Chief Minister there, I and our Ministers met them frequently and held discussions. As a result, a satisfactory conclusion was reached on the Parambikulam-Aliyar agreement.
+
+Under that agreement, the water due to us is 30 T.M.C.—that is, 30,000 million cubic feet of water should come to us.
+
+### Source page 291
+
+Of this, we are presently receiving 16.5 T.M.C. Arrangements have been made for a further 9 T.M.C. to come. Of that, seven T.M.C. will be available even now, and as things proceed another two T.M.C. will come to us. It is with that seven T.M.C. of water that we have planned to provide irrigation to 89,000 acres in the taluks of Pollachi, Palladam, Udumalpet and Dharapuram. Water will be supplied alternately at the rate of 45,000 acres a year. It has even been said that supplying water alternately in this manner is good; there is also a view that otherwise those lands too would become barren. Even apart from such a view, we have proceeded on the basis that, with the water available to us, releasing it alternately for irrigation is the best course. Therefore, the argument that there is no proper scheme cannot be accepted.
+
+Our friend Marimuthu mentioned another matter too. You should not be upset that I am speaking for a long time. I have to speak because the Opposition leaders and Hon. Members have placed before us several good ideas and valuable explanations during this debate. Mr Marimuthu mentioned another point. He was reported as saying that 1 crore 40 lakh acres of land remained uncultivated, and that the Government should take immediate action to bring them under cultivation.
+
+**Mr A.R. Marimuthu:** That has been reported wrongly. What I said was that the total cultivable land is 1 crore 40 lakh acres.
+
+**Hon. Kalaignar M. Karunanidhi:** If it is wrong, perhaps the reporters wrote it wrongly. According to the statistics supplied by our Agriculture Department in 1974,
+
+### Source page 292
+
+it has been calculated that 11 lakh 25 thousand acres in our State remain uncultivated. We must take upon ourselves the responsibility of bringing these 11 lakh 25 thousand acres progressively under cultivation.
+
+In this, we have taken the decision that all Government-owned poramboke lands should be taken up through Government farms and cultivated, and I have referred to this in the budget statement. As a first stage, arrangements have been made to bring 1,522 acres in the two villages of Theruvai and Karadiputhur in Gummidipoondi taluk of Chengalpattu district under cultivation.
+
+Orders have also been issued that District Collectors should identify such lands in the districts that are fit for cultivation but remain uncultivated and hand them over to these Government farm corporations.
+
+We passed a law in 1961 called the Tamil Nadu Land Utilisation Act. Many people who obtained land under that law have not used it. Where that is so, it has also been stated that provision should be made for District Collectors to intervene and take over those lands from persons who are not using them.
+
+Keeping in view the present food situation, the need to increase production further, and the future prosperity of Tamil Nadu, we have decided, as the first stage of a scheme to bring these 11 lakh acres under cultivation, to do this through Government farms.
+
+### Source page 293
+
+**Mr S. Vadivel:** When we say that we will take that land, there is a situation in which some people say it is their patta land, obtain pattas for 5 veli or 10 veli, and leave it uncultivated year after year. I request that the Government make immediate arrangements to cultivate even such lands. The Chief Minister himself knows that a person called Kariyamangalam Pillai leaves 15 veli of land uncultivated year after year.
+
+**Hon. Kalaignar M. Karunanidhi:** We must examine whether the law permits us to take over land if private individuals do not cultivate it. If it does not, we must consider enacting a new law.
+
+**Mr A.R. Marimuthu:** The Government can bring a new Bill and pass it.
+
+**Mr S. Vadivel:** In view of the emergency, why not issue an emergency order? Why not take everything through legislation?
+
+**Hon. Kalaignar M. Karunanidhi:** Even because of this year's drought, land may have been left fallow like that. On that basis, it would not be proper to enact a law this year and take all such lands. If they have deliberately kept them uncultivated, I will only state that the Government will consider what law may be enacted in regard to them.
+
+Our friend Durai Govindarajan, who spoke on behalf of the A.D.M.K., expressed a dangerous view favourable to the State of Karnataka. He said that, as far as Tamil Nadu's water resources are concerned, 50 per cent of the water from the Cauvery and other rivers goes waste into the sea. This is precisely what the Karnataka Government too
+
+### Source page 294
+
+puts forward as its argument. On that basis they have been saying that we should reduce the water we use. This argument is completely wrong.
+
+In stretches where water cannot be used, where there are no ayacuts, within the last ten or twenty miles where the Cauvery reaches Kaveripoompattinam and joins the sea, if rain falls there may be no one who can make use of that water. Some water may perhaps go waste in that way, but it is wrong to say that 50 per cent of the water normally goes waste. He should correct that statement. I request our friend not to carry such propaganda even outside. I wish to state here that we waste no water; every drop is used for the ayacuts without wasting even a single drop.
+
+Our friend Vadivel said that we must find out why Tamil Nadu suffers a 20 per cent electricity loss on a scale found nowhere else in the world. I agree that this 20 per cent should be reduced further; it should be reduced. But it cannot be said to be on a scale found nowhere else in the world. Though there is no time to examine the whole world, if we look at India, according to the 1971-72 statistics, in Andhra Pradesh the length of electricity lines is 1,06,590 kilometres. There, the transmission loss—that is, the electrical loss—is 26.84 per cent. In Haryana, the total length of electricity lines is 66,695 kilometres. There, the electrical loss is 28.52 per cent. In Punjab, the length of electricity lines is 53,536 kilometres. There, the electrical loss is 24.19 per cent. In Rajasthan, the electricity
+
+### Source page 295
+
+line length is 47,063 kilometres. There, the electrical loss is 23.62 per cent. In Uttar Pradesh, the electricity-line length is 1,45,587 kilometres. There, the electrical loss is 26.14 per cent. In Kerala, the length is a lower 34,845 kilometres.
+
+There the loss is 17.29 per cent. In Karnataka, the length is 1,47,266 kilometres. There the loss is 15,86 per cent. In Tamil Nadu the length of the lines is 2,21,040 kilometres. Because lines have to be drawn over long distances to supply electricity to many areas here, the line length is 2,21,040 kilometres. The electrical loss in that is 18.80 per cent. It was said that it has now risen a little and become 20 per cent. I have no difference of opinion at all that it should be reduced. But I wish to state that it is not high when compared with other States.
+
+**Mr K.D.K. Thangamani:** If we look from 1971 onward, it has been increasing year after year, even when compared with other States. The conditions in each State have to be examined, including transmission loss. In two neighbouring States transmission loss is lower. Here it has been increasing for two or three years. What is the reason?
+
+**Hon. Kalaignar M. Karunanidhi:** During these three years, the length over which electricity lines are laid has also increased. That is the reason it is higher. I have already stated here that I am not opposed to the view that it should be reduced.
+
+### Source page 296
+
+Elder Manali, Mr Hande, and the leaders of our allied parties—the Muslim League and the Forward Bloc—all said that our demands have not been pressed properly and should be pressed still more strongly before the Central Government and the Planning Commission. We have been pressing them before the Central Planning Commission and the Central Government.
+
+When we held discussions with the Planning Commission on the 1975-76 Plan, we pressed for Rs.20 crore for drought relief as a non-Plan amount. Not only that, taking into account the loss of revenue caused by cancellation of land tax, postponement of loans and similar measures in order to meet the deficit we face in 1975-76, we have also pressed the Central Government to give us an additional Rs.15 crore in financial assistance.
+
+Because prohibition has been reintroduced, the loss to us over four years of the Fifth Five-Year Plan will be Rs.234 crore. We have pressed for 50 per cent of this—Rs.117 crore—to be given to the Tamil Nadu Government at the rate of Rs.29 crore a year.
+
+For the development of metropolitan Chennai, comparing it with cities such as Bombay and Calcutta, we have also asked for Rs.10 crore to be allotted as non-Plan expenditure. Apart from these, we continue to ask for several other schemes.
+
+Mr Venkatasamy, who spoke on behalf of the Swatantra Party, complained here that work on the second Neyveli lignite mine had not begun.
+
+### Source page 297
+
+The Kalpakkam atomic-power project, planned to generate 470 megawatts, is in a position to begin its first generation of 238 megawatts only in 1977-78. We must not forget that. The work on the second Neyveli lignite mine, which would make possible the generation of 1,000 megawatts of power, has still not been approved by the Central Planning Commission. We have repeatedly raised this with the Planning Commission and the Central Government. In this great House too we have repeatedly spoken about work on the second Neyveli mine. Members of all parties have pressed for it.
+
+When I was recently in Delhi, the matter was discussed with the Central Finance Minister. To go further: a letter to the Prime Minister on 15.11.1973; another letter to the Prime Minister on 19.11.1973; a letter to the Prime Minister on 9.2.1974; a letter to the Planning Minister on 9.2.1974; a letter to the Finance Minister on 16.8.1974; and pressure in person on many occasions. Even after our repeatedly pressing the matter in this manner, we cannot forget that an adverse situation has arisen in which less has been allotted to Neyveli this year than had already been allotted earlier.
+
+In 1974-75, the Central financial allocation for Neyveli was Rs.33 crore; the revised estimate was Rs.54 crore. For the offence of our going and asking for a second mine, the money allotted to Neyveli has been reduced this year to Rs.15 crore. It had been Rs.54 crore for Neyveli. This year it has been reduced to Rs.15 crore. This will adversely affect coal extraction. It will adversely affect the electricity generation obtained from it. Through that, it will adversely affect the fertiliser production available to us. At a time when a Plan of Rs.10,000 crore is being drawn up, the Rs.54 crore for Neyveli lignite has this year been
+
+### Source page 298
+
+reduced to Rs.15 crore; we cannot refrain from pointing that out.
+
+Apart from these, from 1968 to 1974 we have been making demands to the Central Government and struggling for schemes capable of yielding 535 megawatts of power through the Cholathipuzha, Palar, Upper Amaravathi, Shanmuganadhi, Upper Tamiraparani, Lower Mettur and Manimuthar hydroelectric projects. We have not obtained them. The Mettur thermal-power scheme is a scheme capable of yielding 330 megawatts. We have been pressing for it since 1972. We have not obtained that either.
+
+Mr Veerapandi Arumugam spoke with great feeling about the Salem steel plant. The Prime Minister held its foundation-stone ceremony with great ceremony in 1972. Even in Anna's time, all parties joined together and observed an Uprising Day for the Salem steel-plant scheme. Later, when I assumed responsibility as Chief Minister, the Salem steel-plant scheme was announced while we were in Delhi. All the Members of Parliament who had gone there went together and congratulated the Prime Minister. She came for the foundation-stone ceremony. It was then announced that the scheme, begun in 1972, would be completed in 1976. What has happened?
+
+The total cost of this scheme has been estimated at Rs.518 crore. It was calculated that Rs.120 crore would be required to begin work on the first stage. Although the Central Government had allotted Rs.15 crore for this in the 1974-75 financial year, only Rs.3 crore reached the Salem scheme. We must not forget that. When we consider that not more than Rs.3 crore has been provided this year either,
+
+### Source page 299
+
+it appears sufficient only for administrative expenditure there, and we are in a situation where we may lose hope that the Salem steel plant will come. (Interruption.) As Mr Hande says, the money they allot seems sufficient only for petrol expenses. Therefore this Rs.3 crore is not enough. We are in a position where we must worry whether, after starting it in 1972 for some reason, they are now gradually telling us without saying it outright that there will be no Salem steel plant.
+
+**Mr K.D.K. Thangamani:** When answering in Parliament they have said that they are keeping in view the matter of steel plants for all three southern States. If so, why did the Members of Parliament not fight there for a larger allocation?
+
+**Hon. Kalaignar M. Karunanidhi:** They too will ask; we too must ask, together. In Parliament, Mr Hanumanthaiah of the Congress Party has made a serious accusation. He has spoken of a situation that has arisen to the detriment of all our southern States. Mr Hanumanthaiah, an important figure in the Congress Party, has said that Rs.5.5. crore from the capital funds of the railways in the southern regions has been diverted to Bihar.
+
+In 1972, when the foundation-stone ceremony for the Tirunelveli-Kanyakumari railway line was held, it was announced that “the railway line will be completed in 1976.” It is now 1975. The foundation stone remains just as it was. The foundation-stone ceremony of that railway line
+
+### Source page 300
+
+and the political importance it carried are well known to all the people of Tamil Nadu. Just as two rails are laid for a railway, the two parties remain like two rails; but the railway line itself has not been laid. It ended with that ceremony at Kanyakumari.
+
+All of us, without party distinction, have argued for the need for the Kanyakumari railway line. They expressed confidence that it would be laid. But why was the Rs.5½ crore allotted to the southern region taken away to Bihar? What necessity arose in Bihar? There are many other necessities there. I ask that we consider whether it was we who were found to be the easy ones to take from.
+
+How many of our representations to the Central Government are lying pending? However strongly we press them, we remain troubled because we do not get what we ask for.
+
+The Socialist Party, the Congress Party and the Communist Party—all of them speak about land reform and the need for land reform. For that purpose we brought more than eight amending laws in this House.
+
+In 1970 an amendment was brought to extend, for tenants under the ceiling law, the time limit from eight years to ten years.
+
+A law was brought reducing the land ceiling fixed for landowners from thirty standard acres to fifteen standard acres. I do not mention these as achievements;
+
+### Source page 301
+
+I mention them because of the consequences arising from them.
+
+The exemption that had allowed sugar mills to hold land in excess of the ceiling for sugarcane cultivation was removed.
+
+An amending law was brought in 1971 to cancel the exemption that had existed for grazing lands.
+
+The temporary provisions relating to the ceiling fixed for tenants were made permanent. This was done under a 1972 law.
+
+After that, the limit fixed for a family at forty standard acres was reduced to thirty standard acres, and a law was brought in 1972.
+
+A law was brought in 1972 providing that if landowners transferred their land to another person in a manner contrary to law, the land so transferred would be added to their ceiling holding for calculation.
+
+Today many people are able to go to the courts against all these laws. For two or three years we have been asking that these be included in the Ninth Schedule. If they are so included, whoever goes to court and whatever adverse judgment may be given against these laws, it cannot touch these laws. Therefore, in accordance with what Article 31B of the Constitution says, we asked on 11.3.74, 4.11.74, 16.11.74 and recently on 23.11.74 that these laws be included in the Ninth Schedule. Despite our repeatedly asking in this way, even now this socialist scheme—this law—
+
+### Source page 302
+
+and even our request that it be protected have not to this day been incorporated by the Central Government in the Constitution in the required manner.
+
+**Mr K.D.K. Thangamani:** In connection with tenant farmers, as soon as drought occurred we issued two orders. Revenue Courts were cancelled, and Rent Courts were cancelled. The cancellation of the Revenue Court was to some extent beneficial to tenant farmers. After the Rent Court was cancelled, if one says that rent should be reduced because there was no proper production, what is to be done, and where is one to go? If they demand the return of the rent paddy, no one is in a position to agree. Has the Government issued a separate order or directive for this?
+
+**Hon. Kalaignar M. Karunanidhi:** That is a separate issue. The Government will attend to it. (Mr S. Vadivel interrupted.) It is not connected with what I am speaking about. The complication in it will be examined separately and attended to.
+
+I mention this only to show how representations to the Central Government are piling up. I say it only to show that measures to be carried out on a socialist basis are lying stalled.
+
+In 1973-74, a scheme was announced for workers to participate in the investment of Government-owned transport corporations. The difficulty that arose in it was that, when profits are shared, income tax must first be paid and only the remainder can be distributed. In the present situation, if income tax is paid first, how much will remain in the profit? Therefore, for the benefit of workers, we asked that before income tax is paid, the workers' share should be given,
+
+### Source page 303
+
+that they should be given their share out of the total profit, and that the Companies Act should then be amended accordingly in relation to income tax.
+
+A reply came. In that reply, received in July 1974, it was said only that “the Central Government is considering this scheme with great interest; a decision will be taken soon.” There is interest; it is said that attention is being given. But to this day, for this socialist scheme—even after we have explained it in person many times—they are still hesitating to make the amendment that would enable this law for the workers, this law for a good purpose, to rise and function. That is why I wished to mention it today.
+
+In the 1973-74 financial year's budget we announced that the MALCO aluminium factory should be nationalised. Later, the draft was sent to the Central Government on 27.2.73. Following that, we wrote to the Home Department on 28.2.73. Then on 2.3.73 a reply came acknowledging receipt of the letter. After that we held discussions on this with the late Mr Mohan Kumaramangalam. We again reminded the Prime Minister by letter on 30.07.73. So far, the approval we sought for the draft law sent in connection with taking over the MALCO factory has not been received. I wish to state that there has been no further reply.
+
+The Tamil Nadu Hindu Religious and Charitable Endowments Amendment Act—if it is called the Archaka Act, everyone will understand it. The idea embodied in that law was that it should not be the case that only persons of a particular caste are fit to worship God or to perform archana, but that all persons who qualify
+
+### Source page 304
+
+and pass the required test, whatever their caste, may perform worship. Some people went to the Supreme Court against that law. As a result, the law is today lying stalled. In order to remove that blockage and bring the law into operation, we have written many times to the Central Government, which has great concern for Harijans, and have explained clearly to them what our law is. Yet the Constitution has still not been amended to give justice in society to Harijan people, to the lowly, to the oppressed, to those who are subjected to cruelty by people of the higher castes, and to give effect to this socialist principle.
+
+**Mrs Sathyavani Muthu:** Hon. Speaker, I wish to ask the Chief Minister for an explanation as to whether this law was created only for Harijans, as though there is a situation in which only Harijan people cannot become archakas while others in society can become archakas.
+
+**Mr K.D.K. Thangamani:** Hon. Speaker, in this very House we adopted a unanimous resolution on this matter and sent it onward.
+
+**Hon. Kalaignar M. Karunanidhi:** I thank Mr K.D.K. Various shortcomings of this kind are being pointed out on behalf of a State Government. Various representations of this kind are lying pending with the Central Government. This anguish is not ours alone; even the former Chief Minister of Maharashtra, Mr Naik, experienced it. It was for that reason that Maharashtra Chief Minister Mr V.P. Naik and some of the Members of Parliament from that State
+
+### Source page 305
+
+met in Bombay on February 11, 1975—this very year—at Varsha Residence, the Maharashtra Chief Minister's residence, and prepared an entire booklet containing statistics on the matters the Maharashtra State Government had asked for, the requests that had been rejected by the Central Government, ignored or neglected, and how many demands were lying stalled. They sent that booklet to Delhi. This happened on February 11, 1975. The sender was the Chief Minister of Maharashtra, Mr V.P. Naik. On the 21st of that same month he lost the post of Chief Minister. On the 11th he argued for his State. On the 21st he lost the Chief Minister's post. One may ask what will happen to you if you argue. I do not wish to say anything more and enter into that politics, except to say that this situation arose for Mr Naik because the same party was in power both in Maharashtra and at the Centre.
+
+It was argued: what has our State Government done with the powers it has? Why do you still ask for all these things—autonomy, additional powers and so on? It is with these powers that we have done whatever we could for the drought that has now occurred. On behalf of the ruling party and the allied parties, leaders and other members have listed and set out in this great House the extent of the remarkable achievements made by the Kazhagam Government during these eight years, under Anna's leadership and, after him, through our efforts.
+
+### Source page 306
+
+This great House is well aware that we have granted several concessions even in connection with drought relief. I do not wish to set out all those details now.
+
+To mention them in this connection: we granted exemption from collection of land tax. We postponed agricultural loans and granted concessions in repayment of short-term cooperative loans. We gave a grant of Rs.1,000 for purchasing oil pump sets. Various drought-relief works have been undertaken widely throughout the State, including Kanyakumari district. These are measures taken by way of relief for the farming people.
+
+As a result of the drought, I now wish to make some new announcements. Recognising the difficulties in obtaining cooperative loans because of the drought, representations have come to me from various parts of the State asking that takavi loans be given for deepening wells. Members of the Legislature from the ruling party and allied parties have pressed this upon me. They came as delegations and told me. Farming people from various areas have placed this demand: that takavi loans be given for deepening wells in different parts of the State. Recognising the necessity of this demand, the Government has decided to provide takavi loans of at least Rs.500 and up to Rs.2,000 for deepening wells. I am happy to state this. I am also very happy to inform the House that, as a first stage, the Government has allotted Rs.5 crore for this purpose.
+
+As the second announcement, the recommendation of the Dearness Allowance Committee states that, when dearness allowance is given hereafter,
+
+### Source page 307
+
+pensioners should also be given 33/80 of the dearness allowance given to Government employees. In view of our present increase of Rs.20 to Rs.30 in dearness allowance for Government employees, we have decided to give pensioners an additional amount of Rs.8. I am happy to state that, instead of the Rs.5 increase in dearness allowance announced at Pongal, they will receive an increase of Rs.8. Together with the Rs.20 they were already receiving, this Rs.8 will make Rs.28 in dearness allowance for pensioners. I also wish to state that 62 thousand pensioners will benefit from this.
+
+As a third announcement, municipal employees who retired before 14.1.1970 had, from 14.1.1970, been receiving as a temporary pension—an ad hoc pension—Rs.25 or one-quarter of their last-drawn salary, whichever was higher. From 1.4.1974 their pension was increased by Rs.10. Just as the minimum pension for Government employees is Rs.50, I am happy to state that retired municipal employees too will be given a minimum pension of Rs.50 from 1.4.1975.
+
+Representatives of the Nilgiris District Farmers' Association met me and stated that, under the Indo-German Nilgiris Development Project for preventing potato crops in the Nilgiris district from being affected by pests, they were unable because of the drought to pay the takavi amount due for pesticide for cultivation in the fourth, fifth and sixth years. In the fourth and fifth
+
+### Source page 308
+
+years, the total area under potato cultivation is 3,417 acres. I am happy to state that the pesticide charge of Rs.10 lakh payable on this will be postponed for one year.
+
+In order to provide employment opportunities for ex-servicemen, to be useful to the food-supply organisation, and gradually to reduce the tendency of various Government departments to depend upon the private sector for goods transport, the Tamil Nadu Government has decided to establish a Tamil Nadu Goods Transport Organisation. Its capital will be Rs.120 lakh. Of this, Rs.40 lakh will be initial capital and Rs.80 lakh will be in the form of loans obtained through banks. The organisation will begin with 100 lorries and gradually increase its fleet. At the beginning about 600 ex-servicemen, and within two or three years about 2,000, will benefit through it. In accordance with this Government's policy of “a share in investment, responsibility in management,” twenty-four per cent of the investment will be held as workers' share. Two workers will have places on the management board. Its headquarters will be in Chennai. Although the Government of India's Ex-Servicemen Rehabilitation Department has so far not come forward to provide assistance for the further development of this scheme, I express my hope that at least hereafter it will come forward and provide assistance, and I am happy to announce this scheme here.
+
+**Mr S. Vadivel:** The Chief Minister has made several announcements. Just as the Government in Uttar Pradesh has cancelled all the loans of Harijans there, will the Government come forward to cancel them here too?
+
+### Source page 309
+
+**Hon. Kalaignar M. Karunanidhi:** All those matters must be considered in accordance with the available financial resources. If, while I continue making announcements, you keep asking, will you do that, will you do this, then this will cease to be my reply to the budget speech.
+
+It was asked here: “What have you achieved with the powers you have? Why then do you ask for additional powers and State autonomy?” Mr Edmund today said very clearly that State autonomy means additional powers, and additional powers mean State autonomy.
+
+**Mr K.R. Edmund:** Hon. Speaker, I did not say that. For you, State autonomy means self-government; as far as the Anna Dravida Munnetra Kazhagam is concerned, State autonomy means additional powers.
+
+**Hon. Kalaignar M. Karunanidhi:** I agree with that. I said nothing else. (Interruption.) That is all. For the D.M. Kazhagam, State autonomy means additional powers; for the Anna Dravida Munnetra Kazhagam, State autonomy means additional powers. That is what I am saying.
+
+**Mr K.R. Edmund:** I have already stated in my argument that we do not accept the expression “State autonomy.” But we ask for additional powers. We do not say “State autonomy” and then ask for additional powers. But I say that your conception is in the nature of self-government.
+
+**Hon. Kalaignar M. Karunanidhi:** I will come later to why it is not self-government. It does not matter if it gets late.
+
+### Source page 310
+
+Hon. Speaker, our K.D.K. spoke about tradition and said that we had forgotten Singaravelu. Then suddenly he became angry. He said that people were talking about all sorts of persons, but not about Singaravelar and Sarkarai Chettiar, and he stopped with Periyar. He may not have mentioned Anna because he forgot him at that moment. I will not therefore think that Anna is absent from his mind. He asked, who knows Singaravelu? Only N.V.N. knows him, he said. Immediately, Arangannal said everyone knows him.
+
+There is a book, *Manitharul Mameru*, about Lenin, written by L.V. Mitrokhin. In it he says that in 1933, under his supervision, a volume titled *Lenin on Religion* was published. It was not easy to find this rare book. Ramasamy Naicker and Murugesan did not have it. They advised me to approach Mr S. Gurusamy, the editor of the Tamil weekly *Kuthoosi*, a great lover of books and a collector of rare volumes. We went to a small house a little outside Chennai city. At the entrance we found a signboard saying, “Gurusamy and Miss Russia live here.” Mr Gurusamy welcomed us warmly and introduced us to his beautiful daughter, Miss Russia. “My late wife and I—she was a Communist—together named our daughter Russia. She has now grown up and become a doctor. As one who took part in the Self-Respect Movement, I have named 200 children Lenin.
+
+### Source page 311
+
+Many of them had to suffer as a consequence,” it is written. The Russian author records this as having been said by Mr Gurusamy.
+
+**Mr K.D.K. Thangamani:** I said this. On the subject of religion, the book on Lenin was among the books on Lenin published in the ten years after Lenin's death in 1924, and all of them are kept at the Lenin Institute. The book mentioned here too is a book published in 1932; it may have been missed. It is kept there. As far as our party is concerned, what I said about Singaravelar was this: the extent to which the Dravidar Kazhagam showed respect is a different matter. I referred to the Vijayawada conference and said that fifty years had passed since the party began. When the fiftieth anniversary was being celebrated, I said that the first conference of the Communist Party was held in 1925 at Kanpur; that on December 26, 1926, Singaravelar presided over that conference; and that I mentioned him because Singaravelar established here the organisation of the Communist Party, an international organisation.
+
+**Hon. Kalaignar M. Karunanidhi:** I say this so that the impression should not arise that we have no connection. They came to Gurusamy's house precisely in search of that book. Later, that author states that Viduthalai editor Veeramani made an appeal in his newspaper asking whether any of its readers had a copy of that book, and that through that appeal someone brought the book and gave it to him.
+
+Thus, the reason I say this is that the connection between Singaravelar and us continues
+
+### Source page 312
+
+to this day. This author himself has even recorded that Gurusamy named 200 people Lenin.
+
+Even when our friend Subbu spoke, he said that there can never be such a thing as a former Communist; everyone is a Communist if they accept that principle. Elder Manali too made that same point. Gurusamy said that he had named two hundred people Lenin. I named my son Stalin. I do not know to what extent the Communist Party now approaches Stalin. I named the child who was born around the time Stalin died “Stalin.” One son is Muthu, another is Alagiri, another is Stalin, another is Tamil. Someone even wrote and asked me why I had given these four such names. I replied: “Muthu is for the home, Alagiri for the country, Tamil for the language, and Stalin for the world.”
+
+Just as some people faced difficulties because they had been named Lenin, because I named my son Stalin a Christian college refused to admit him. They said, change the name and bring him, and we will admit him. I told them, let the college go; let the name remain. Therefore, I said this to show that we have deep faith in these principles, and to state that those of us who remain in the Kazhagam even today accept the principles of rationalists such as Singaravelar.
+
+In the concluding part of the budget, attention was drawn to the fact that a few pages have been devoted to State autonomy.
+
