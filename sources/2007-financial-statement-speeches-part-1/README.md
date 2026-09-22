@@ -455,9 +455,9 @@ Working entry:
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
 - Speech 12 — **unchanged / RELEASED / CLOSED**
-- Speech 14 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / scans 263–319 / 57 of 57 / Tamil NOT VERIFIED**
+- Speech 14 — **Gates C–E COMPLETE / scans 263–319 / 57 of 57 / Tamil VERIFIED**
 
-## Speech 14 Gate-C / C.5 closure
+## Speech 14 Gates C–E closure
 
 Working entry:
 
@@ -471,7 +471,7 @@ Working entry:
 - source markers — **263→319 / 57 / exactly once / ordered**
 - final close — **scan 319 / `வணக்கம்.`**
 - unresolved first-pass readings — **0 currently flagged**
-- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Tamil — **VERIFIED / verified_against_scan=true**
 - source-printed English — **preserved**
 - Gate C.5 — **N/A / CLOSED**
   - modern **2007** typesetting
@@ -479,13 +479,13 @@ Working entry:
   - legacy/reform-sensitive glyph conditions requiring a separate historical-glyph pass — **none observed**
   - wording changes — **0**
 - Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batches 1–5 scans 263–312 / 50 of 57 verified / 30 cumulative corrections / 0 unresolved in verified range**
-- English — **BLOCKED**
+- Gate E — **PASS / COMPLETE — scans 263–319 / 57 of 57 / 32 corrections / 0 unresolved**
+- Gate F / English — **READY / NOT STARTED**
 - release — **NOT RELEASED**
 - outside wording imported — **0**
 
-Gate C.5 closure does not constitute Tamil source-fidelity verification.
+Gate C.5 closure alone did not constitute Tamil verification; Gate E is now complete and Tamil is verified against the controlling anthology pixels.
 
 ## Exact next activity
 
-Proceed with **Speech 14 Gate E FINAL Batch 6 — scans 313–319 / printed pp.312–318 / exactly 7 pages**. Complete strict source-fidelity verification from rendered controlling anthology pixels only, record every source-backed correction, preserve source-printed English and source-visible oddities, and if all seven pages pass close Gate E and mark Tamil VERIFIED.
+Proceed with **Speech 14 Gate F English translation** from the Gate-E-verified Tamil, preserving source-page alignment and source-printed English quotations exactly. Do not begin Gate G, Gate H or Speech 15 in the same activity unless separately instructed.
