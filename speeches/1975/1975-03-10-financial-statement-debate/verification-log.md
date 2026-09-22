@@ -174,16 +174,48 @@ The audit used the controlling 2007 anthology page sequence. No OCR, web, Offici
 
 Gate D changed **0 Tamil words**. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`.
 
+## Gate E — Batch 1 / scans 263–272
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 of 57 pages.**
+
+Coverage:
+
+- verified scans — **263–272**
+- verified printed pages — **262–271**
+- verified pages — **10/57**
+- source markers in batch — **263→272 / 10 / exactly once / ordered**
+- Gate-E corrections — **9 entries / 9 occurrences**
+- affected scans — **6 — 265, 266, 267, 268, 269, 272**
+- unresolved readings in verified range — **0**
+- source-printed English — **preserved**
+- outside wording imported — **0**
+- overall Tamil status — **NOT VERIFIED**
+- `verified_against_scan=false` until all 57 pages complete Gate E
+
+Gate-E correction ledger:
+
+1. **scan 265 / printed p.264** — `கழித்து பின்னு நிகரமாக` → `கழித்து பின்பு நிகரமாக`
+2. **scan 266 / printed p.265** — `குறிப்பிட்ட படவில்லையே` → `குறிப்பிடப் படவில்லையே`
+3. **scan 267 / printed p.266** — `ஒரு அறிவிப்பினைப் பிறப்பித்தோம்.` → `ஒரு அறிக்கையினைப் பிறப்பித்தோம்.`
+4. **scan 267 / printed p.266** — `மனிதநேயத்தைத் தாரக காரணத்தினால்` → `மனநிறைவைத் தராத காரணத்தினால்`
+5. **scan 268 / printed p.267** — `மாதம் ஒன்றுக்கு இன்னைக்கு கூடுதலாக 30 ரூபாய்` → `மாதம் ஒன்றுக்கு இன்றைக்குக் கூடுதலாக 30 ரூபாய்`
+6. **scan 269 / printed p.268** — `வாகன வரியில் இருப்பது முன்னே முக்கால் கோடியை எதிர்பார்த்தோம்.` → `வாகன வரியில் இருபத்தி மூன்றே முக்கால் கோடியை எதிர்பார்த்தோம்.`
+7. **scan 269 / printed p.268** — `அதனால் அதிகமாக வந்து 36 கோடி என்பதை` → `அதனால் அதிகமாக வந்தது 36 கோடி என்பதை`
+8. **scan 269 / printed p.268** — `இந்த 36 கோடி, உயர்வாக வந்து என்றால் ஏன் வந்து என்று` → `இந்த 36 கோடி, உயர்வாக வந்தது என்றால் ஏன் வந்தது என்று`
+9. **scan 272 / printed p.271** — `ஒரு வேலை நான் கம்யூனிஸ்ட் கட்சி` → `ஒரு வேளை நான் கம்யூனிஸ்ட் கட்சி`
+
+Source-visible oddities and awkward constructions not contradicted by the rendered pixels were retained rather than normalized.
+
 ## Current gate state
 
 - Gate C — **COMPLETE / 57 of 57 / scans 263–319 complete**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 57 of 57 / 56 of 56 internal transitions / 0 completeness corrections**
-- Gate E — **NOT STARTED / 10-page cadence locked**
+- Gate E — **IN PROGRESS / 10 of 57 verified / scans 263–272 complete / 9 corrections / 0 unresolved in verified range**
 - Gate F / English — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-Proceed with **Gate E Batch 1 — scans 263–272 / printed pp.262–271 / exactly 10 pages**. Perform strict word-for-word source-fidelity verification from the rendered controlling anthology pixels, record every source-backed correction in the Gate-E ledger, preserve source-printed English and source-visible oddities, and keep outside wording at zero. Do not process more than these 10 pages in this activity.
+Proceed with **Gate E Batch 2 — scans 273–282 / printed pp.272–281 / exactly 10 pages**. Continue strict word-for-word source-fidelity verification from rendered controlling anthology pixels only, record every source-backed correction, preserve source-printed English and source-visible oddities, and keep outside wording at zero.
