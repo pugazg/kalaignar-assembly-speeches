@@ -18,18 +18,22 @@
 - page count — **57**
 - printed page = global scan page - 1
 - hard start boundary — **262→263 — PASS**
-- hard end boundary — **319→320 — PASS in locked Gate-B anthology mapping**
+- hard end boundary — **319→320 — PASS / visually reconfirmed**
 - scan 262 — Speech 13 close / excluded
 - scan 263 — `உரை : 14 / நாள் : 10.03.1975` / admitted
 - scan 320 — Speech 15 start / excluded
 
-The start boundary was visually reconfirmed in this activity from part011 local pages 12→13. The split containing scans 319→320 is not currently available in this chat, so the end boundary is carried from the already locked anthology mapping and must be visually reconfirmed again when that covering split is available.
+The start boundary was visually reconfirmed from part011 local pages 12→13. The end boundary was visually reconfirmed from part013 local pages 19→20: global scan 319 is the final Speech-14 page and global scan 320 begins `உரை : 15 / நாள் : 03.08.1977`; scan 320 is excluded from Speech 14.
 
-## Current controlling split
+## Current controlling splits
 
 | Split | Local pages used | Global scans | Printed pages | Speech pages | File size | SHA-256 |
 |---|---:|---:|---:|---:|---:|---|
 | `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_011_pages_251-275.pdf` | 13–25 | 263–275 | 262–274 | 13 | 17,580,247 bytes | `27c9c96d3c0bdb53480f8d1634300bf9d7dc57be17d3f83c66397ef78863712d` |
+| `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_012_pages_276-300.pdf` | 1–25 | 276–300 | 275–299 | 25 | 17,952,611 bytes | `2010012bd354bc4f9354d0d547097c6ae9b2c2a7eb225d854018ebc482173cdc` |
+| `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_013_pages_301-325.pdf` | 1–19 | 301–319 | 300–318 | 19 | 17,775,750 bytes | `26f0a480bf6c7b6f3f8638aadc77d0528f15b61def73937fad1627060f31c61b` |
+
+Part013 local page **20 / global scan 320** is retained only as the visually checked end-boundary witness and is excluded from Speech 14.
 
 ## Speech-14 batching directive
 
@@ -40,14 +44,16 @@ For **Speech 14 only**, the user's explicit working cadence is:
 
 This user-directed cadence supersedes the earlier whole-speech batching rule for these two gates only. Other gates continue to follow the repository workflow.
 
-## Gate C — Batch 1
+## Gate C — through Batch 2
 
-**IN PROGRESS — scans 263–272 / printed pp.262–271 / 10 of 57 pages first-pass transcribed.**
+**IN PROGRESS — scans 263–282 / printed pp.262–281 / 20 of 57 pages first-pass transcribed.**
 
-- source-page markers — **263→272 / 10 / exactly once / ordered**
-- current split local pages — **13–22**
-- source-printed English quotation on scan 264 — preserved
-- speaker labels/interventions through scan 272 — preserved
+- Batch 1 — **263–272 / 10 pages**
+- Batch 2 — **273–282 / 10 pages / COMPLETE**
+- source-page markers — **263→282 / 20 / exactly once / ordered**
+- Batch-2 local pages — **part011 23–25 + part012 1–7**
+- source-printed English — **preserved on scans 264, 281 and 282**
+- speaker labels/interventions through scan 282 — **preserved**
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
@@ -60,6 +66,6 @@ This user-directed cadence supersedes the earlier whole-speech batching rule for
 
 ## Exact next activity
 
-Continue **Speech 14 Gate C Batch 2 — scans 273–282 / printed pp.272–281 / 10 pages**.
+Continue **Speech 14 Gate C Batch 3 — scans 283–292 / printed pp.282–291 / 10 pages**.
 
-Scans **273–275** are in the current part011 split; scans **276–282** require the next controlling split. Do not begin Gate C.5, Gate D, Gate E, English, Gate H, or Speech 15 before Gate C is complete.
+All ten pages are available in part012 local pages **8–17**. Do not begin Gate C.5, Gate D, Gate E, English, Gate H, or Speech 15 before Gate C is complete.
