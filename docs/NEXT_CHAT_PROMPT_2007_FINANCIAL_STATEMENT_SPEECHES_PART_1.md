@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate D completeness audit
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate E Batch 1 — scans 263–272
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,42 +18,50 @@ Working entry:
 - end boundary **319→320** — **PASS / visually reconfirmed**
 - Gate C — **COMPLETE / 57 of 57**
 - source markers — **263→319 / 57 / exactly once / ordered**
-- final close — **scan 319 / `வணக்கம்.`**
-- unresolved first-pass readings — **0 currently flagged**
 - Gate C.5 — **N/A / CLOSED**
-  - controlling witness — modern 2007 anthology typesetting
-  - coverage considered — **57/57**
-  - legacy/reform-sensitive glyph/typeform anomalies requiring a separate pass — **0 observed**
+- Gate D — **PASS / COMPLETE**
+  - pages — **57/57**
+  - internal transitions — **56/56 PASS**
+  - missing pages — **0**
+  - accidental duplicated long blocks — **0**
+  - completeness corrections — **0**
   - Tamil wording changes — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- Gate D / E — **NOT STARTED**
+- Gate E — **NOT STARTED**
 - English — **BLOCKED**
 - release — **NOT RELEASED**
 
-## Fixed Speech-14 cadence
+## Gate-D structural checks completed
+
+- hard boundaries **262→263 / 319→320 — PASS**
+- cross-split transitions **275→276 / 300→301 — PASS**
+- source-printed English blocks structurally retained
+- speaker labels/interventions structurally retained
+- figures/dates/percentages and quoted blocks structurally present
+- scan 319 closes through `வணக்கம்.`
+
+Gate D is a completeness/structure gate only and did not verify Tamil wording.
+
+## Fixed Speech-14 Gate-E cadence
 
 Per explicit user instruction:
 
-- Gate C — **10 source pages per iteration** — COMPLETE
-- Gate E — **10 source pages per iteration**
-
-No special Gate-D batching override was set.
+- **Gate E: 10 source pages per iteration**
 
 ## Exact next activity
 
-Perform **Speech 14 Gate D completeness / structure audit — scans 263–319 / printed pp.262–318 / 57 pages**.
+Perform **Speech 14 Gate E Batch 1 — scans 263–272 / printed pp.262–271 / exactly 10 pages**.
 
 Requirements:
 
-1. confirm source-page markers **263→319 / 57 / exactly once / ordered**;
-2. reconfirm hard boundaries **262→263** and **319→320**;
-3. audit all **56 internal source-page transitions** for continuity;
-4. check missing pages, accidental duplicated long blocks and structural omissions;
-5. check structural retention of speaker labels/interventions, source-printed English blocks, figures/dates/percentages and quoted material;
-6. confirm scan 319 closes the speech through `வணக்கம்.`;
-7. record any completeness correction separately if one is needed;
-8. keep Tamil **NOT VERIFIED / verified_against_scan=false** even if Gate D passes;
+1. use only rendered controlling anthology pixels;
+2. perform strict word-for-word source-fidelity verification;
+3. verify spelling, punctuation, numerals, speaker labels/interventions, source-printed English and visible repetition;
+4. preserve source oddities instead of normalizing them;
+5. record every source-backed correction in the Gate-E ledger with scan/page reference and corrected form;
+6. do not import wording from OCR, web, Official Reports, alternate anthologies, released speeches or another witness;
+7. keep Gate E **IN PROGRESS** after Batch 1 unless all pages are verified;
+8. do not exceed the fixed **10-page** batch;
 9. synchronize Speech-14 and anthology control documents;
-10. set the next activity to **Gate E Batch 1 — scans 263–272 / 10 pages** if Gate D passes;
-11. do **not** begin Gate E, English, Gate H or Speech 15 in the same activity unless separately instructed.
+10. do not begin English, Gate H or Speech 15.
