@@ -74,8 +74,8 @@
       }
     ],
     "current_working_split_coverage": "263-319 / all 57 Speech-14 pages available across part011-part013",
-    "current_batch_scan_pages": "293-302",
-    "current_batch_local_pages": "part012 18-25; part013 1-2",
+    "current_batch_scan_pages": "303-312",
+    "current_batch_local_pages": "part013 3-12",
     "start_boundary_visually_reconfirmed_in_current_activity": true,
     "end_boundary_reconfirmation_deferred_until_covering_split_is_available": false,
     "end_boundary_visually_reconfirmed_in_current_activity": true
@@ -94,8 +94,8 @@
     "user_directed_gate_c_batch_size": 10,
     "user_directed_gate_e_batch_size": 10,
     "batching_override_note": "For Speech 14, the user explicitly directed Gate C and Gate E to be processed in 10-page iterations. This supersedes the earlier whole-speech cadence for those two gates only.",
-    "current_gate_c_batch": "293-302 / 10 pages COMPLETE",
-    "next_gate_c_batch": "303-312 / 10 pages"
+    "current_gate_c_batch": "303-312 / 10 pages COMPLETE",
+    "next_gate_c_batch": "313-319 / 7 pages FINAL"
   },
   "transcription": {
     "language": "Tamil",
@@ -110,12 +110,12 @@
     "page_boundaries_marked": true,
     "status": "in-progress",
     "gate_c_status": "in-progress",
-    "completed_scan_pages": "263-302",
-    "completed_printed_pages": "262-301",
-    "completed_page_count": 40,
+    "completed_scan_pages": "263-312",
+    "completed_printed_pages": "262-311",
+    "completed_page_count": 50,
     "total_page_count": 57,
-    "marker_count": 40,
-    "marker_range": "263-302",
+    "marker_count": 50,
+    "marker_range": "263-312",
     "unresolved_readings": [],
     "unresolved_reading_count": 0,
     "completeness_audit_passed": false,
@@ -124,7 +124,7 @@
     "gate_d_status": "not-started",
     "gate_e_status": "not-started",
     "gate_e_batch_size": 10,
-    "next_gate": "Gate C scans 303-312",
+    "next_gate": "Gate C scans 313-319 FINAL",
     "outside_wording_imported": false
   },
   "translation": {
