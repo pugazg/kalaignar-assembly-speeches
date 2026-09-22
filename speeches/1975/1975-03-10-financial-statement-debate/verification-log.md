@@ -126,10 +126,23 @@ Gate C first-pass completion is not Gate E verification. Source spelling, punctu
 
 **Gate C — COMPLETE / 57 of 57.** This is a complete first-pass transcription, not source-fidelity verification.
 
+## Gate C.5 — applicability determination
+
+**N/A / CLOSED.**
+
+Basis:
+
+- controlling witness — modern **2007** anthology typesetting;
+- physical Speech-14 coverage reviewed during Gate C — **57/57 pages / scans 263–319**;
+- no legacy/reform-sensitive glyph or historical typeform condition requiring a separate historical-glyph pass was observed;
+- source spellings, mixed-script forms and unusual printed constructions remain source-bound and are not modernized by this determination;
+- Gate C.5 made **0 Tamil wording changes**;
+- this determination does **not** constitute Gate-E word-for-word source verification.
+
 ## Current gate state
 
 - Gate C — **COMPLETE / 57 of 57 / scans 263–319 complete**
-- Gate C.5 — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED / 10-page cadence locked**
 - Gate F / English — **BLOCKED**
@@ -138,4 +151,4 @@ Gate C first-pass completion is not Gate E verification. Source spelling, punctu
 
 ## Exact next activity
 
-Proceed with **Gate C.5 historical-glyph applicability review for Speech 14**. The controlling witness is modern 2007 typesetting, so the anthology-level default is provisionally N/A, but close Gate C.5 only after confirming no page-specific legacy-typeform anomaly requires treatment. Do not begin Gate D in the same activity unless separately instructed.
+Proceed with **Gate D completeness / structure audit — Speech 14 scans 263–319 / 57 of 57 pages**. Audit marker coverage, hard boundaries, all 56 internal page transitions, missing/duplicated blocks, speaker/intervention continuity, source-printed English blocks, figures/dates and final close. Gate D is structural/completeness review only: do not mark Tamil verified and do not begin Gate E in the same activity unless separately instructed.
