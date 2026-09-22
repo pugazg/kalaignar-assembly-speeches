@@ -627,35 +627,62 @@ Canonical entry:
 
 - `உரை : 13 / 14.03.1974`
 - scans **231–262 / printed pp.230–261 / 32 pages**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate E — **PASS / COMPLETE / 8 entries / 9 occurrences / 0 unresolved**
-- Gate F — **COMPLETE / 32 of 32**
-- Gate G — **PASS / COMPLETE / 32 of 32**
-- Gate-G refinements — **7**
-- Gate-G blockers — **0**
-- verified-Tamil changes — **0**
-- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
-- canonical bilingual `transcript.md` — **COMPLETE**
-- `translation.md` — **retired to released pointer**
+- Tamil / English — **VERIFIED**
+- Gates C–H — **COMPLETE**
+- release — **RELEASED / CLOSED**
+- canonical bilingual transcript — **COMPLETE**
 - Gate-H wording changes — **0 Tamil / 0 English**
-- source-printed English — **preserved verbatim**
-- `data/speeches.json` — **indexed**
-- root dated speech table — **indexed**
-- Speech 12 — **unchanged**
-- Speech 14 — **not begun**
+- indexed — **YES**
 
-Gate-G refinement details are in `translation-review.md`.
+## Speech 14 active Gate-C state
 
-## Exact next activity — Speech 14 source-boundary + Gate-C setup
+Working entry:
 
-Target unit:
+`speeches/1975/1975-03-10-financial-statement-debate/`
+
+Mapped unit:
 
 - source label/date — `உரை : 14 / 10.03.1975`
-- global scans — **263–319**
-- printed pages — **262–318**
-- page count — **57**
-- hard boundaries — **262→263 / 319→320**
-- working ID — `1975-03-10-financial-statement-debate`
+- scans **263–319 / printed pp.262–318 / 57 pages**
+- hard start boundary — **262→263 PASS / visually reconfirmed in current activity**
+- hard end boundary — **319→320 PASS in locked anthology mapping**
+- current available split — part011 local **13–25 = scans 263–275**
+- current covering split SHA-256 — `27c9c96d3c0bdb53480f8d1634300bf9d7dc57be17d3f83c66397ef78863712d`
 
-Because Speech 14 spans **57 pages**, apply the repository's whole-speech exception rather than splitting the speech merely to satisfy the normal activity page limit. First establish and synchronize source-boundary / Gate-C setup only; do not begin Speech 15.
+User-directed cadence:
+
+- Gate C — **10 source pages per iteration**
+- Gate E — **10 source pages per iteration**
+- this supersedes the previous whole-speech cadence for Speech 14 at Gates C and E only.
+
+Gate C Batch 1:
+
+- scans **263–272 / printed pp.262–271**
+- pages completed — **10/57**
+- source markers — **263→272 / exactly once / ordered**
+- unresolved first-pass readings — **0 currently flagged**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- outside wording imported — **0**
+
+Downstream:
+
+- Gate C.5 — **NOT STARTED**
+- Gate D — **NOT STARTED**
+- Gate E — **NOT STARTED / 10-page cadence locked**
+- Gate F / English — **BLOCKED**
+- Gate G — **NOT STARTED**
+- Gate H — **NOT STARTED / NOT RELEASED**
+- Speech 15 — **NOT STARTED**
+
+The current split contains scans **273–275** for the beginning of the next batch. Scans **276–282** require the next controlling split. The end boundary **319→320** should be visually reconfirmed again when its covering split becomes available.
+
+## Exact next activity — Speech 14 Gate C Batch 2
+
+Process **scans 273–282 / printed pp.272–281 / 10 pages** from rendered controlling pixels only.
+
+- carry forward the 10-page Gate-C cadence;
+- preserve source spelling, punctuation, numerals, speaker/intervention labels, printed English and visible repetition;
+- do not use OCR/web/Official Reports/other witnesses to supply wording;
+- keep Tamil `verified_against_scan=false`;
+- do not begin Gate C.5, Gate D, Gate E, English, Gate H or Speech 15 before Gate C completes.
