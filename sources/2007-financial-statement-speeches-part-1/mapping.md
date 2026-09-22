@@ -320,9 +320,9 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
   - Tamil wording changes at Gate C.5 — **0**
 - Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — scans 263–319 / 57 of 57 / 32 corrections / 0 unresolved**
-- Gate F / English — **READY / NOT STARTED**
+- Gate F / English — **IN PROGRESS — Batch 1 scans 263–287 / 25 of 57 translated / 0 blockers / verified_against_tamil=false**
 - Speech 15 — **not begun**
 
 ## Exact continuation
 
-Proceed with **Speech 14 Gate F English translation** from the Gate-E-verified Tamil, preserving source-page alignment and source-printed English quotations exactly. Do not begin Gate G, Gate H or Speech 15 in the same activity unless separately instructed.
+Proceed with **Speech 14 Gate F Batch 2 — scans 288–312 / printed pp.287–311 / exactly 25 pages** from the Gate-E-verified Tamil. Preserve source-page alignment and source-printed English exactly; do not begin Gate G, Gate H or Speech 15.
