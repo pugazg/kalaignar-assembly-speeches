@@ -298,23 +298,26 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - Gate-H wording changes — **0 Tamil / 0 English**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 14 — **not begun**
+- Speech 14 — **Gate C IN PROGRESS / scans 263–282 / 20 of 57 / Tamil NOT VERIFIED**
 
-## Speech 14 Gate-C Batch 1
+## Speech 14 Gate-C Batch 2
 
 - working entry — `speeches/1975/1975-03-10-financial-statement-debate/`
 - full mapped unit — **263–319 / printed 262–318 / 57 pages**
 - user-directed Gate C cadence — **10 pages/iteration**
 - user-directed Gate E cadence — **10 pages/iteration**
-- Gate C verified first-pass coverage — **263–272 / 10 pages**
-- source markers — **263→272 / exactly once / ordered**
+- Gate C first-pass coverage — **263–282 / 20 pages**
+- Batch 2 — **273–282 / printed 272–281 / COMPLETE**
+- source markers — **263→282 / 20 / exactly once / ordered**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- current split coverage — **part011 local 13–25 = scans 263–275**
-- end boundary **319→320** — locked from Gate B; current recheck pending covering split
+- controlling speech coverage now available — **part011 scans 263–275; part012 scans 276–300; part013 scans 301–319**
+- end boundary **319→320** — **PASS / visually reconfirmed from part013 local 19→20**
+- unresolved first-pass readings — **0 currently flagged**
+- outside wording imported — **0**
 - downstream gates — **NOT STARTED / BLOCKED**
 - Speech 15 — **not begun**
 
 ## Exact continuation
 
-Continue **Speech 14 Gate C Batch 2 — scans 273–282 / 10 pages**. Gate E must also use 10-page iterations when it is reached.
+Continue **Speech 14 Gate C Batch 3 — scans 283–292 / printed pp.282–291 / 10 pages** from part012 local pages **8–17**. Gate E must also use 10-page iterations when it is reached.
