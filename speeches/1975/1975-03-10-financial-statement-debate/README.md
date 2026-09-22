@@ -60,15 +60,15 @@ This user-directed cadence supersedes the earlier whole-speech batching rule for
 - speaker labels/interventions through scan 319 — **preserved**
 - final close — **scan 319 ends with `வணக்கம்.`**
 - unresolved first-pass readings — **0 currently flagged**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
+- Tamil — **VERIFIED**
+- `verified_against_scan=true`
 - OCR / web / Official Reports / alternate anthology / other-witness wording imported — **0**
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 57/57 reviewed; no legacy-glyph anomaly observed**
 - Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batches 1–5 scans 263–312 / 50 of 57 verified / 30 cumulative corrections / 0 unresolved in verified range**
-- English — **BLOCKED / NOT STARTED**
+- Gate E — **PASS / COMPLETE — scans 263–319 / 57 of 57 verified / 32 corrections / 20 affected scans / 0 unresolved**
+- Gate F / English — **READY / NOT STARTED**
 - release — **NOT RELEASED**
 
 ## Exact next activity
 
-Proceed with **Speech 14 Gate E FINAL Batch 6 — scans 313–319 / printed pp.312–318 / exactly 7 pages**. Complete strict page-by-page source-fidelity verification from rendered controlling anthology pixels, record every source-backed correction, preserve source-printed English and source-visible oddities, and if all seven pages pass close Gate E and mark Tamil VERIFIED.
+Proceed with **Speech 14 Gate F English translation** from the verified Tamil, preserving source-page alignment and source-printed English quotations exactly. Do not begin Gate G, Gate H or Speech 15 in the same activity unless separately instructed.
