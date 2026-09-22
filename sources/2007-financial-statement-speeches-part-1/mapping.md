@@ -298,20 +298,22 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - Gate-H wording changes — **0 Tamil / 0 English**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 14 — **Gate C IN PROGRESS / scans 263–282 / 20 of 57 / Tamil NOT VERIFIED**
+- Speech 14 — **Gate C IN PROGRESS / scans 263–292 / 30 of 57 / Tamil NOT VERIFIED**
 
-## Speech 14 Gate-C Batch 2
+## Speech 14 Gate-C through Batch 3
 
 - working entry — `speeches/1975/1975-03-10-financial-statement-debate/`
 - full mapped unit — **263–319 / printed 262–318 / 57 pages**
 - user-directed Gate C cadence — **10 pages/iteration**
 - user-directed Gate E cadence — **10 pages/iteration**
-- Gate C first-pass coverage — **263–282 / 20 pages**
-- Batch 2 — **273–282 / printed 272–281 / COMPLETE**
-- source markers — **263→282 / 20 / exactly once / ordered**
+- Gate C first-pass coverage — **263–292 / 30 pages**
+- Batch 1 — **263–272 / 10 pages / COMPLETE**
+- Batch 2 — **273–282 / 10 pages / COMPLETE**
+- Batch 3 — **283–292 / printed 282–291 / COMPLETE**
+- source markers — **263→292 / 30 / exactly once / ordered**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- controlling speech coverage now available — **part011 scans 263–275; part012 scans 276–300; part013 scans 301–319**
+- controlling speech coverage available — **part011 scans 263–275; part012 scans 276–300; part013 scans 301–319**
 - end boundary **319→320** — **PASS / visually reconfirmed from part013 local 19→20**
 - unresolved first-pass readings — **0 currently flagged**
 - outside wording imported — **0**
@@ -320,4 +322,4 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 
 ## Exact continuation
 
-Continue **Speech 14 Gate C Batch 3 — scans 283–292 / printed pp.282–291 / 10 pages** from part012 local pages **8–17**. Gate E must also use 10-page iterations when it is reached.
+Continue **Speech 14 Gate C Batch 4 — scans 293–302 / printed pp.292–301 / 10 pages**: part012 local **18–25** = scans 293–300; part013 local **1–2** = scans 301–302. Gate E must also use 10-page iterations when it is reached.
