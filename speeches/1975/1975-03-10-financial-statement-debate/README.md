@@ -65,10 +65,10 @@ This user-directed cadence supersedes the earlier whole-speech batching rule for
 - OCR / web / Official Reports / alternate anthology / other-witness wording imported — **0**
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 57/57 reviewed; no legacy-glyph anomaly observed**
 - Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batch 1 scans 263–272 / 10 of 57 verified / 9 corrections / 0 unresolved in verified range**
+- Gate E — **IN PROGRESS — Batches 1–2 scans 263–282 / 20 of 57 verified / 12 cumulative corrections / 0 unresolved in verified range**
 - English — **BLOCKED / NOT STARTED**
 - release — **NOT RELEASED**
 
 ## Exact next activity
 
-Proceed with **Speech 14 Gate E Batch 2 — scans 273–282 / printed pp.272–281 / exactly 10 pages**. Continue strict page-by-page source-fidelity verification from rendered controlling anthology pixels, record every source-backed correction, preserve source-printed English and source-visible oddities, and keep the fixed Gate-E cadence at 10 pages per iteration.
+Proceed with **Speech 14 Gate E Batch 3 — scans 283–292 / printed pp.282–291 / exactly 10 pages**. Continue strict page-by-page source-fidelity verification from rendered controlling anthology pixels, record every source-backed correction, preserve source-printed English and source-visible oddities, and keep the fixed Gate-E cadence at 10 pages per iteration.
