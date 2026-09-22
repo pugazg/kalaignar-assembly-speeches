@@ -678,28 +678,35 @@ Downstream:
 
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 57/57 pages reviewed; no legacy/reform-sensitive glyph anomaly observed; 0 Tamil wording changes**
 - Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batches 1–2 scans 263–282 / 20 of 57 verified / 12 cumulative corrections / 0 unresolved in verified range**
+- Gate E — **IN PROGRESS — Batches 1–3 scans 263–292 / 30 of 57 verified / 14 cumulative corrections / 0 unresolved in verified range**
 - Gate F / English — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Gate E Batches 1–2 durable state
+## Gate E Batches 1–3 durable state
 
-- verified scans — **263–282 / printed pp.262–281 / 20 pages**
+- verified scans — **263–292 / printed pp.262–291 / 30 pages**
 - Batch 1 — **263–272 / 10 pages / PASS**
 - Batch 2 — **273–282 / 10 pages / PASS**
-- cumulative corrections — **12 entries / 12 occurrences**
-- Batch-2 corrections — **3 entries / 3 occurrences**
-- cumulative affected scans — **265, 266, 267, 268, 269, 272, 273, 278**
+- Batch 3 — **283–292 / 10 pages / PASS**
+- cumulative corrections — **14 entries / 14 occurrences**
+- Batch-3 corrections — **2 entries / 2 occurrences**
+- cumulative affected scans — **265, 266, 267, 268, 269, 272, 273, 278, 292**
 - unresolved readings in verified range — **0**
-- source-visible scan-281 `31,502` / scan-282 `31,562` discrepancy — **retained as printed**
+- source-printed English on scans **287–289** — **preserved**
+- scan-292 `பதினோரு` — **confirmed twice from source / corrected twice**
 - outside wording imported — **0**
 - overall Tamil — **NOT VERIFIED / verified_against_scan=false** until all 57 pages complete Gate E
 
-## Exact next activity — Speech 14 Gate E Batch 3
+## Exact next activity — Speech 14 Gate E Batch 4
 
-Process **scans 283–292 / printed pp.282–291 / exactly 10 pages** from part012 local pages **8–17**.
+Process **scans 293–302 / printed pp.292–301 / exactly 10 pages**.
+
+Source split:
+
+- part012 local **18–25 = scans 293–300**
+- part013 local **1–2 = scans 301–302**
 
 Requirements:
 
