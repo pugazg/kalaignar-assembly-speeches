@@ -97,8 +97,8 @@
     "current_gate_c_batch": "313-319 / 7 pages FINAL / COMPLETE",
     "next_gate_c_batch": null,
     "current_gate_d": "COMPLETE / 57 pages / 56 transitions / 0 corrections",
-    "next_gate_e_batch": "293-302 / 10 pages",
-    "current_gate_e_batch": "283-292 / 10 pages COMPLETE / 2 corrections"
+    "next_gate_e_batch": "303-312 / 10 pages",
+    "current_gate_e_batch": "293-302 / 10 pages COMPLETE / 3 corrections"
   },
   "transcription": {
     "language": "Tamil",
@@ -127,16 +127,16 @@
     "gate_d_status": "pass-complete",
     "gate_e_status": "in-progress",
     "gate_e_batch_size": 10,
-    "next_gate": "Gate E Batch 4 scans 293-302",
+    "next_gate": "Gate E Batch 5 scans 303-312",
     "outside_wording_imported": false,
     "gate_d_pages_audited": 57,
     "gate_d_internal_transitions_audited": 56,
     "gate_d_completeness_corrections": 0,
-    "gate_e_verified_scans": "263-292",
-    "gate_e_verified_printed_pages": "262-291",
-    "gate_e_verified_page_count": 30,
-    "gate_e_correction_entries": 14,
-    "gate_e_correction_occurrences": 14,
+    "gate_e_verified_scans": "263-302",
+    "gate_e_verified_printed_pages": "262-301",
+    "gate_e_verified_page_count": 40,
+    "gate_e_correction_entries": 17,
+    "gate_e_correction_occurrences": 17,
     "gate_e_affected_scans": [
       265,
       266,
@@ -146,7 +146,10 @@
       272,
       273,
       278,
-      292
+      292,
+      296,
+      298,
+      302
     ],
     "gate_e_unresolved_readings_in_verified_range": 0
   },
