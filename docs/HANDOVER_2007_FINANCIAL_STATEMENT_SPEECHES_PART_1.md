@@ -656,7 +656,7 @@ Current controlling availability:
   - SHA-256 — `2010012bd354bc4f9354d0d547097c6ae9b2c2a7eb225d854018ebc482173cdc`
 - part013 local **1–19 = scans 301–319**
   - SHA-256 — `26f0a480bf6c7b6f3f8638aadc77d0528f15b61def73937fad1627060f31c61b`
-- all **57 Speech-14 source pages are now available** across part011–part013.
+- all **57 Speech-14 source pages are available** across part011–part013.
 
 User-directed cadence:
 
@@ -668,10 +668,11 @@ Gate C completed so far:
 
 - Batch 1 — scans **263–272 / printed pp.262–271 / 10 pages**
 - Batch 2 — scans **273–282 / printed pp.272–281 / 10 pages**
-- cumulative coverage — **263–282 / 20 of 57 pages**
-- source markers — **263→282 / 20 / exactly once / ordered**
-- Batch-2 local coverage — **part011 23–25 + part012 1–7**
-- source-printed English on scans **281–282** — **preserved**
+- Batch 3 — scans **283–292 / printed pp.282–291 / 10 pages**
+- cumulative coverage — **263–292 / 30 of 57 pages**
+- source markers — **263→292 / 30 / exactly once / ordered**
+- Batch-3 local coverage — **part012 8–17**
+- source-printed English in completed coverage — **preserved**, including the Vijayawada-resolution quotations on scans 288–289 and inline `more buoyancy of taxes` on scan 287
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
@@ -688,14 +689,21 @@ Downstream:
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Exact next activity — Speech 14 Gate C Batch 3
+## Exact next activity — Speech 14 Gate C Batch 4
 
-Process **scans 283–292 / printed pp.282–291 / 10 pages** from part012 local pages **8–17**, using rendered controlling anthology pixels only.
+Process **scans 293–302 / printed pp.292–301 / 10 pages** from rendered controlling anthology pixels only.
+
+Source split mapping for the batch:
+
+- part012 local **18–25 = scans 293–300 / 8 pages**
+- part013 local **1–2 = scans 301–302 / 2 pages**
+
+Requirements:
 
 - carry forward the 10-page Gate-C cadence;
 - preserve source spelling, punctuation, numerals, speaker/intervention labels, printed English and visible repetition;
-- add source-page markers **283→292** exactly once and in order;
-- if complete, update cumulative Gate-C coverage to **263–292 / 30 of 57**;
+- add source-page markers **293→302** exactly once and in order;
+- if complete, update cumulative Gate-C coverage to **263–302 / 40 of 57**;
 - do not use OCR/web/Official Reports/other witnesses to supply wording;
 - keep Tamil `verified_against_scan=false`;
 - do not begin Gate C.5, Gate D, Gate E, English, Gate H or Speech 15 before Gate C completes.
