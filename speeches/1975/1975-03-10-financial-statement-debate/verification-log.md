@@ -234,16 +234,43 @@ Gate-E correction ledger:
 
 Source-visible forms retained without normalization include the scan-281 **31,502** audit-objection count and scan-282 **31,562** carry-over count, because the controlling witness prints them differently on the two pages.
 
+## Gate E — Batch 3 / scans 283–292
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 additional pages; cumulative 30 of 57.**
+
+Coverage:
+
+- verified scans — **283–292**
+- verified printed pages — **282–291**
+- verified pages — **10/10 in batch; cumulative 30/57**
+- source markers in batch — **283→292 / 10 / exactly once / ordered**
+- Gate-E corrections — **2 entries / 2 occurrences**
+- affected scans — **1 — 292**
+- cumulative Gate-E corrections — **14 entries / 14 occurrences**
+- cumulative affected scans — **9**
+- unresolved readings in verified range — **0**
+- source-printed English on scans **287–289** — **preserved**, including `more buoyancy of taxes` and the Vijayawada-resolution quotations
+- outside wording imported — **0**
+- overall Tamil status — **NOT VERIFIED**
+- `verified_against_scan=false` until all 57 pages complete Gate E
+
+Gate-E correction ledger:
+
+1. **scan 292 / printed p.291** — first occurrence `பதினொரு லட்சத்து இருபத்தையாயிரம்` → `பதினோரு லட்சத்து இருபத்தையாயிரம்`
+2. **scan 292 / printed p.291** — second occurrence `இந்த பதினொரு லட்சத்து இருபத்தையாயிரம்` → `இந்த பதினோரு லட்சத்து இருபத்தையாயிரம்`
+
+Source-visible numerical and wording oddities in the verified range were retained unless contradicted by the rendered controlling pixels.
+
 ## Current gate state
 
 - Gate C — **COMPLETE / 57 of 57 / scans 263–319 complete**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 57 of 57 / 56 of 56 internal transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS / 20 of 57 verified / scans 263–282 complete / 12 cumulative corrections / 0 unresolved in verified range**
+- Gate E — **IN PROGRESS / 30 of 57 verified / scans 263–292 complete / 14 cumulative corrections / 0 unresolved in verified range**
 - Gate F / English — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-Proceed with **Gate E Batch 3 — scans 283–292 / printed pp.282–291 / exactly 10 pages**. Continue strict word-for-word source-fidelity verification from rendered controlling anthology pixels only, record every source-backed correction, preserve source-printed English and source-visible oddities, and keep outside wording at zero.
+Proceed with **Gate E Batch 4 — scans 293–302 / printed pp.292–301 / exactly 10 pages**. Continue strict word-for-word source-fidelity verification from rendered controlling anthology pixels only, record every source-backed correction, preserve source-printed English and source-visible oddities, and keep outside wording at zero.
