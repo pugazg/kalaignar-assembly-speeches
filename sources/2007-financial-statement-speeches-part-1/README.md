@@ -480,7 +480,7 @@ Working entry:
   - wording changes — **0**
 - Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — scans 263–319 / 57 of 57 / 32 corrections / 0 unresolved**
-- Gate F / English — **IN PROGRESS — Batches 1–2 scans 263–312 / 50 of 57 translated / 0 blockers / verified_against_tamil=false**
+- Gate F / English — **COMPLETE — scans 263–319 / 57 of 57 translated / 0 blockers / verified_against_tamil=false**
 - release — **NOT RELEASED**
 - outside wording imported — **0**
 
@@ -488,4 +488,4 @@ Gate C.5 closure alone did not constitute Tamil verification; Gate E is now comp
 
 ## Exact next activity
 
-Proceed with **Speech 14 Gate F FINAL Batch 3 — scans 313–319 / printed pp.312–318 / exactly 7 pages** from the Gate-E-verified Tamil. Preserve source-page alignment and source-printed English exactly; if the seven-page remainder translates without blockers, close Gate F at 57/57 while leaving English unverified until Gate G.
+Proceed with **Speech 14 Gate G Batch 1 — scans 263–287 / exactly 25 pages**. Review the Gate-F English against the corresponding Gate-E-verified Tamil only, preserve source-printed English verbatim, record every English refinement, and make 0 Tamil changes. Keep English unverified until Gate G finishes all 57 pages.
