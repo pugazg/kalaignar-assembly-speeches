@@ -44,7 +44,7 @@ For **Speech 14 only**, the user's explicit working cadence is:
 
 This user-directed cadence supersedes the earlier whole-speech batching rule for these two gates only. Other gates continue to follow the repository workflow.
 
-## Gate C — COMPLETE
+## Tamil Gates C–E — COMPLETE / VERIFIED
 
 **COMPLETE — scans 263–319 / printed pp.262–318 / 57 of 57 pages first-pass transcribed.**
 
@@ -59,7 +59,7 @@ This user-directed cadence supersedes the earlier whole-speech batching rule for
 - source-printed English through scan 319 — **preserved**
 - speaker labels/interventions through scan 319 — **preserved**
 - final close — **scan 319 ends with `வணக்கம்.`**
-- unresolved first-pass readings — **0 currently flagged**
+- unresolved readings — **0**
 - Tamil — **VERIFIED**
 - `verified_against_scan=true`
 - OCR / web / Official Reports / alternate anthology / other-witness wording imported — **0**
