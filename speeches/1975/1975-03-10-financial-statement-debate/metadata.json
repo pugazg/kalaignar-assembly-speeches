@@ -120,11 +120,11 @@
     "unresolved_reading_count": 0,
     "completeness_audit_passed": false,
     "verified_against_scan": false,
-    "historical_glyph_gate_status": "not-started",
+    "historical_glyph_gate_status": "n/a-closed",
     "gate_d_status": "not-started",
     "gate_e_status": "not-started",
     "gate_e_batch_size": 10,
-    "next_gate": "Gate C.5 historical-glyph applicability review",
+    "next_gate": "Gate D completeness / structure audit",
     "outside_wording_imported": false
   },
   "translation": {
