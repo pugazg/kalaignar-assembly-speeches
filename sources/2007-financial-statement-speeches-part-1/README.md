@@ -478,7 +478,8 @@ Working entry:
   - **57/57** Speech-14 pages considered
   - legacy/reform-sensitive glyph conditions requiring a separate historical-glyph pass — **none observed**
   - wording changes — **0**
-- Gate D / E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
+- Gate E — **NOT STARTED / 10-page cadence locked**
 - English — **BLOCKED**
 - release — **NOT RELEASED**
 - outside wording imported — **0**
@@ -487,4 +488,4 @@ Gate C.5 closure does not constitute Tamil source-fidelity verification.
 
 ## Exact next activity
 
-Proceed with **Speech 14 Gate D completeness / structure audit — scans 263–319 / 57 pages**. Check all **57 source markers**, hard boundaries **262→263 / 319→320**, **56 internal page transitions**, missing/duplicated blocks, speaker/intervention continuity, source-printed English, figures/dates and the scan-319 close. Keep Tamil **NOT VERIFIED / verified_against_scan=false** and do not begin Gate E in the same activity unless separately instructed.
+Proceed with **Speech 14 Gate E Batch 1 — scans 263–272 / printed pp.262–271 / exactly 10 pages**. Perform strict source-fidelity verification from rendered controlling anthology pixels only, record every source-backed correction, preserve source-printed English and source-visible oddities, and do not exceed the locked 10-page Gate-E cadence.
