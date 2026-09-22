@@ -669,10 +669,10 @@ Gate C completed so far:
 - Batch 1 — scans **263–272 / printed pp.262–271 / 10 pages**
 - Batch 2 — scans **273–282 / printed pp.272–281 / 10 pages**
 - Batch 3 — scans **283–292 / printed pp.282–291 / 10 pages**
-- cumulative coverage — **263–292 / 30 of 57 pages**
-- source markers — **263→292 / 30 / exactly once / ordered**
-- Batch-3 local coverage — **part012 8–17**
-- source-printed English in completed coverage — **preserved**, including the Vijayawada-resolution quotations on scans 288–289 and inline `more buoyancy of taxes` on scan 287
+- Batch 4 — scans **293–302 / printed pp.292–301 / 10 pages**
+- cumulative coverage — **263–302 / 40 of 57 pages**
+- source markers — **263→302 / 40 / exactly once / ordered**
+- Batch-4 local coverage — **part012 18–25 + part013 1–2**
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
@@ -689,21 +689,16 @@ Downstream:
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Exact next activity — Speech 14 Gate C Batch 4
+## Exact next activity — Speech 14 Gate C Batch 5
 
-Process **scans 293–302 / printed pp.292–301 / 10 pages** from rendered controlling anthology pixels only.
-
-Source split mapping for the batch:
-
-- part012 local **18–25 = scans 293–300 / 8 pages**
-- part013 local **1–2 = scans 301–302 / 2 pages**
+Process **scans 303–312 / printed pp.302–311 / 10 pages** from part013 local pages **3–12**, using rendered controlling anthology pixels only.
 
 Requirements:
 
 - carry forward the 10-page Gate-C cadence;
 - preserve source spelling, punctuation, numerals, speaker/intervention labels, printed English and visible repetition;
-- add source-page markers **293→302** exactly once and in order;
-- if complete, update cumulative Gate-C coverage to **263–302 / 40 of 57**;
+- add source-page markers **303→312** exactly once and in order;
+- if complete, update cumulative Gate-C coverage to **263–312 / 50 of 57**;
 - do not use OCR/web/Official Reports/other witnesses to supply wording;
 - keep Tamil `verified_against_scan=false`;
 - do not begin Gate C.5, Gate D, Gate E, English, Gate H or Speech 15 before Gate C completes.
