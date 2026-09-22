@@ -364,6 +364,7 @@ Source-visible oddities retained where supported by the controlling pixels inclu
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 57 of 57 / 56 of 56 internal transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / 57 of 57 verified / scans 263–319 / 32 corrections / 0 unresolved**
+- Tamil — **VERIFIED / `verified_against_scan=true`**
 - Gate F / English — **READY / NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
