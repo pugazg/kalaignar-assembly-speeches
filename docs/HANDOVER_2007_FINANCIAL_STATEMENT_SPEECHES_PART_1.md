@@ -678,31 +678,32 @@ Downstream:
 
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 57/57 pages reviewed; no legacy/reform-sensitive glyph anomaly observed; 0 Tamil wording changes**
 - Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batches 1–4 scans 263–302 / 40 of 57 verified / 17 cumulative corrections / 0 unresolved in verified range**
+- Gate E — **IN PROGRESS — Batches 1–5 scans 263–312 / 50 of 57 verified / 30 cumulative corrections / 0 unresolved in verified range**
 - Gate F / English — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Gate E Batches 1–4 durable state
+## Gate E Batches 1–5 durable state
 
-- verified scans — **263–302 / printed pp.262–301 / 40 pages**
+- verified scans — **263–312 / printed pp.262–311 / 50 pages**
 - Batch 1 — **263–272 / 10 pages / PASS**
 - Batch 2 — **273–282 / 10 pages / PASS**
 - Batch 3 — **283–292 / 10 pages / PASS**
 - Batch 4 — **293–302 / 10 pages / PASS**
-- cumulative corrections — **17 entries / 17 occurrences**
-- Batch-4 corrections — **3 entries / 3 occurrences**
-- cumulative affected scans — **265, 266, 267, 268, 269, 272, 273, 278, 292, 296, 298, 302**
+- Batch 5 — **303–312 / 10 pages / PASS**
+- cumulative corrections — **30 entries / 30 occurrences**
+- Batch-5 corrections — **13 entries / 13 occurrences**
+- cumulative affected scans — **265, 266, 267, 268, 269, 272, 273, 278, 292, 296, 298, 302, 303, 304, 305, 309, 310, 311, 312**
 - unresolved readings in verified range — **0**
-- Batch-4 split coverage — **part012 local 18–25 + part013 local 1–2**
-- source-backed Batch-4 forms include `வறட்சி நிவாரணத்துக்கு`, `மேல்அமராவதி`, and `போக்கு வரத்துக் கழகங்களின்`
+- Batch-5 split coverage — **part013 local 3–12**
+- source-visible awkward forms retained where printed, including `அரிசனங்கள் இடம்`, `ஓய்வூதியம் பெறுகிறவர்களும் அளிக்க`, and `நான் என்னுடைய மகனுக்கு ஸ்டாலின் என்று பெயரிட்டார்`
 - outside wording imported — **0**
-- overall Tamil — **NOT VERIFIED / verified_against_scan=false** until all 57 pages complete Gate E
+- overall Tamil — **NOT VERIFIED / verified_against_scan=false** until the final seven pages complete Gate E
 
-## Exact next activity — Speech 14 Gate E Batch 5
+## Exact next activity — Speech 14 Gate E FINAL Batch 6
 
-Process **scans 303–312 / printed pp.302–311 / exactly 10 pages** from part013 local pages **3–12**.
+Process **scans 313–319 / printed pp.312–318 / exactly 7 pages** from part013 local pages **13–19**.
 
 Requirements:
 
@@ -711,6 +712,6 @@ Requirements:
 - record every correction in the Gate-E ledger with scan/page reference;
 - preserve source oddities rather than normalize them;
 - keep outside wording imported at **0**;
-- keep Gate E **IN PROGRESS** after this batch unless all 57 pages have been verified;
-- do not exceed the fixed **10-page Gate-E cadence**;
-- do not begin English, Gate H or Speech 15.
+- if all seven pages pass, mark Gate E **PASS / COMPLETE**, Tamil **VERIFIED**, and `verified_against_scan=true`;
+- then set the next activity to **Gate F English translation** without starting it unless separately instructed;
+- do not begin English, Gate H or Speech 15 in the same activity.
