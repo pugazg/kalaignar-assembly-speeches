@@ -97,8 +97,9 @@
     "current_gate_c_batch": "313-319 / 7 pages FINAL / COMPLETE",
     "next_gate_c_batch": null,
     "current_gate_d": "COMPLETE / 57 pages / 56 transitions / 0 corrections",
-    "next_gate_e_batch": "313-319 / 7 pages FINAL",
-    "current_gate_e_batch": "303-312 / 10 pages COMPLETE / 13 corrections"
+    "next_gate_e_batch": null,
+    "current_gate_e_batch": "313-319 / 7 pages FINAL / COMPLETE / 2 corrections",
+    "next_activity": "Gate F English translation"
   },
   "transcription": {
     "language": "Tamil",
@@ -111,7 +112,7 @@
     "preserve_printed_english": true,
     "preserve_source_visible_repetition": true,
     "page_boundaries_marked": true,
-    "status": "complete-first-pass",
+    "status": "verified",
     "gate_c_status": "complete",
     "completed_scan_pages": "263-319",
     "completed_printed_pages": "262-318",
@@ -122,21 +123,21 @@
     "unresolved_readings": [],
     "unresolved_reading_count": 0,
     "completeness_audit_passed": true,
-    "verified_against_scan": false,
+    "verified_against_scan": true,
     "historical_glyph_gate_status": "n/a-closed",
     "gate_d_status": "pass-complete",
-    "gate_e_status": "in-progress",
+    "gate_e_status": "pass-complete",
     "gate_e_batch_size": 10,
-    "next_gate": "Gate E FINAL Batch 6 scans 313-319",
+    "next_gate": null,
     "outside_wording_imported": false,
     "gate_d_pages_audited": 57,
     "gate_d_internal_transitions_audited": 56,
     "gate_d_completeness_corrections": 0,
-    "gate_e_verified_scans": "263-312",
-    "gate_e_verified_printed_pages": "262-311",
-    "gate_e_verified_page_count": 50,
-    "gate_e_correction_entries": 30,
-    "gate_e_correction_occurrences": 30,
+    "gate_e_verified_scans": "263-319",
+    "gate_e_verified_printed_pages": "262-318",
+    "gate_e_verified_page_count": 57,
+    "gate_e_correction_entries": 32,
+    "gate_e_correction_occurrences": 32,
     "gate_e_affected_scans": [
       265,
       266,
@@ -156,17 +157,36 @@
       309,
       310,
       311,
-      312
+      312,
+      313
     ],
-    "gate_e_unresolved_readings_in_verified_range": 0
+    "gate_e_unresolved_readings_in_verified_range": 0,
+    "gate_e": {
+      "status": "pass-complete",
+      "verified_scan_pages": "263-319",
+      "verified_printed_pages": "262-318",
+      "verified_page_count": 57,
+      "total_page_count": 57,
+      "correction_entry_count": 32,
+      "correction_occurrence_count": 32,
+      "affected_scan_count": 20,
+      "unresolved_reading_count": 0,
+      "source_authority": "rendered pixels of the controlling 2007 anthology splits only",
+      "outside_wording_imported": false,
+      "ocr_wording_imported": false,
+      "verified_against_scan": true,
+      "completion_rule": "Satisfied: scans 263-319 all strictly verified with zero unresolved readings."
+    }
   },
   "translation": {
     "language": "English",
-    "status": "blocked-not-started",
-    "gate_f_status": "blocked",
+    "status": "ready-not-started",
+    "gate_f_status": "not-started",
     "gate_g_status": "not-started",
     "verified_against_tamil": false,
-    "block_reason": "Tamil Gates C-E are not complete."
+    "block_reason": null,
+    "source_text": "Gate-E-verified Tamil in transcript.md",
+    "next_gate": "Gate F English translation"
   },
   "release": {
     "status": "not-released",
