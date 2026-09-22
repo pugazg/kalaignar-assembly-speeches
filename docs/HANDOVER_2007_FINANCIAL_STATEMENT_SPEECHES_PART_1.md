@@ -678,25 +678,28 @@ Downstream:
 
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 57/57 pages reviewed; no legacy/reform-sensitive glyph anomaly observed; 0 Tamil wording changes**
 - Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batch 1 scans 263–272 / 10 of 57 verified / 9 corrections / 0 unresolved in verified range**
+- Gate E — **IN PROGRESS — Batches 1–2 scans 263–282 / 20 of 57 verified / 12 cumulative corrections / 0 unresolved in verified range**
 - Gate F / English — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Gate E Batch 1 durable state
+## Gate E Batches 1–2 durable state
 
-- scans **263–272 / printed pp.262–271 / 10 pages**
-- status — **PASS / STRICTLY VERIFIED**
-- corrections — **9 entries / 9 occurrences**
-- affected scans — **265, 266, 267, 268, 269, 272**
+- verified scans — **263–282 / printed pp.262–281 / 20 pages**
+- Batch 1 — **263–272 / 10 pages / PASS**
+- Batch 2 — **273–282 / 10 pages / PASS**
+- cumulative corrections — **12 entries / 12 occurrences**
+- Batch-2 corrections — **3 entries / 3 occurrences**
+- cumulative affected scans — **265, 266, 267, 268, 269, 272, 273, 278**
 - unresolved readings in verified range — **0**
+- source-visible scan-281 `31,502` / scan-282 `31,562` discrepancy — **retained as printed**
 - outside wording imported — **0**
 - overall Tamil — **NOT VERIFIED / verified_against_scan=false** until all 57 pages complete Gate E
 
-## Exact next activity — Speech 14 Gate E Batch 2
+## Exact next activity — Speech 14 Gate E Batch 3
 
-Process **scans 273–282 / printed pp.272–281 / exactly 10 pages** from the controlling anthology pixels.
+Process **scans 283–292 / printed pp.282–291 / exactly 10 pages** from part012 local pages **8–17**.
 
 Requirements:
 
