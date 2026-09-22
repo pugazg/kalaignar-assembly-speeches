@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate C.5 historical-glyph applicability review
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate D completeness audit
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,36 +17,43 @@ Working entry:
 - start boundary **262→263** — **PASS / visually reconfirmed**
 - end boundary **319→320** — **PASS / visually reconfirmed**
 - Gate C — **COMPLETE / 57 of 57**
-- completed Gate-C range — **263–319**
 - source markers — **263→319 / 57 / exactly once / ordered**
 - final close — **scan 319 / `வணக்கம்.`**
 - unresolved first-pass readings — **0 currently flagged**
+- Gate C.5 — **N/A / CLOSED**
+  - controlling witness — modern 2007 anthology typesetting
+  - coverage considered — **57/57**
+  - legacy/reform-sensitive glyph/typeform anomalies requiring a separate pass — **0 observed**
+  - Tamil wording changes — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- Gate C.5 — **NOT STARTED**
 - Gate D / E — **NOT STARTED**
 - English — **BLOCKED**
 - release — **NOT RELEASED**
 
-## Speech-14 cadence
+## Fixed Speech-14 cadence
 
 Per explicit user instruction:
 
-- **Gate C: 10 source pages per iteration** — now complete, final remainder was 7 pages
-- **Gate E: 10 source pages per iteration**
+- Gate C — **10 source pages per iteration** — COMPLETE
+- Gate E — **10 source pages per iteration**
+
+No special Gate-D batching override was set.
 
 ## Exact next activity
 
-Perform **Speech 14 Gate C.5 historical-glyph applicability review**.
-
-The controlling witness is the modern-typeset 2007 anthology. The anthology-level workflow treats Gate C.5 as **provisionally N/A** unless a page-specific legacy glyph/typeform anomaly is actually encountered.
+Perform **Speech 14 Gate D completeness / structure audit — scans 263–319 / printed pp.262–318 / 57 pages**.
 
 Requirements:
 
-1. review the completed Speech-14 source witness for any legacy glyph/typeform issue that would require Gate-C.5 treatment;
-2. do not alter source wording merely for spelling/style modernization;
-3. if no such anomaly exists, mark Gate C.5 **N/A / CLOSED**;
-4. keep Tamil **NOT VERIFIED / verified_against_scan=false**;
-5. synchronize Speech-14 and anthology control documents;
-6. set the next activity to **Gate D completeness audit**;
-7. do **not** begin Gate D, Gate E, English, Gate H or Speech 15 in the same activity unless separately instructed.
+1. confirm source-page markers **263→319 / 57 / exactly once / ordered**;
+2. reconfirm hard boundaries **262→263** and **319→320**;
+3. audit all **56 internal source-page transitions** for continuity;
+4. check missing pages, accidental duplicated long blocks and structural omissions;
+5. check structural retention of speaker labels/interventions, source-printed English blocks, figures/dates/percentages and quoted material;
+6. confirm scan 319 closes the speech through `வணக்கம்.`;
+7. record any completeness correction separately if one is needed;
+8. keep Tamil **NOT VERIFIED / verified_against_scan=false** even if Gate D passes;
+9. synchronize Speech-14 and anthology control documents;
+10. set the next activity to **Gate E Batch 1 — scans 263–272 / 10 pages** if Gate D passes;
+11. do **not** begin Gate E, English, Gate H or Speech 15 in the same activity unless separately instructed.
