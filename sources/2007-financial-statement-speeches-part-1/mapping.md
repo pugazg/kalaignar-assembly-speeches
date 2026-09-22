@@ -298,30 +298,33 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - Gate-H wording changes — **0 Tamil / 0 English**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 14 — **Gate C IN PROGRESS / scans 263–312 / 50 of 57 / Tamil NOT VERIFIED**
+- Speech 14 — **Gate C COMPLETE / scans 263–319 / 57 of 57 / Tamil NOT VERIFIED**
 
-## Speech 14 Gate-C through Batch 5
+## Speech 14 Gate-C closure
 
 - working entry — `speeches/1975/1975-03-10-financial-statement-debate/`
 - full mapped unit — **263–319 / printed 262–318 / 57 pages**
-- user-directed Gate C cadence — **10 pages/iteration**, with the final remainder batch at 7 pages
-- user-directed Gate E cadence — **10 pages/iteration**
-- Gate C first-pass coverage — **263–312 / 50 pages**
-- Batch 1 — **263–272 / 10 pages / COMPLETE**
-- Batch 2 — **273–282 / 10 pages / COMPLETE**
-- Batch 3 — **283–292 / 10 pages / COMPLETE**
-- Batch 4 — **293–302 / 10 pages / COMPLETE**
-- Batch 5 — **303–312 / printed 302–311 / COMPLETE**
-- source markers — **263→312 / 50 / exactly once / ordered**
+- hard boundaries — **262→263 PASS / 319→320 PASS / both visually reconfirmed**
+- Gate C cadence — **10 pages/iteration**, final remainder **7 pages**
+- Gate C Batch 1 — **263–272 / 10 pages / COMPLETE**
+- Gate C Batch 2 — **273–282 / 10 pages / COMPLETE**
+- Gate C Batch 3 — **283–292 / 10 pages / COMPLETE**
+- Gate C Batch 4 — **293–302 / 10 pages / COMPLETE**
+- Gate C Batch 5 — **303–312 / 10 pages / COMPLETE**
+- Gate C Final Batch 6 — **313–319 / 7 pages / COMPLETE**
+- Gate C — **COMPLETE / 57 of 57**
+- source markers — **263→319 / 57 / exactly once / ordered**
+- final close — **scan 319 / `வணக்கம்.`**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- controlling speech coverage available — **part011 scans 263–275; part012 scans 276–300; part013 scans 301–319**
-- end boundary **319→320** — **PASS / visually reconfirmed from part013 local 19→20**
 - unresolved first-pass readings — **0 currently flagged**
+- source-printed English — **preserved**
 - outside wording imported — **0**
-- downstream gates — **NOT STARTED / BLOCKED**
+- Gate C.5 — **NOT STARTED**
+- Gate D / E — **NOT STARTED**
+- English — **BLOCKED**
 - Speech 15 — **not begun**
 
 ## Exact continuation
 
-Continue **Speech 14 Gate C FINAL Batch 6 — scans 313–319 / printed pp.312–318 / 7 pages** from part013 local pages **13–19**. If all seven pages are processed, Gate C becomes **COMPLETE / 57 of 57**. Do not begin Gate C.5 or later gates in the same activity unless separately instructed.
+Proceed with **Speech 14 Gate C.5 historical-glyph applicability review**. The 2007 anthology is modern typesetting, so Gate C.5 is provisionally N/A at source-package level, but confirm that no page-specific legacy-typeform anomaly requires treatment before closing the gate. Do not begin Gate D in the same activity unless separately instructed.
