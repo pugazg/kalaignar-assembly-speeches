@@ -678,35 +678,31 @@ Downstream:
 
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 57/57 pages reviewed; no legacy/reform-sensitive glyph anomaly observed; 0 Tamil wording changes**
 - Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batches 1–3 scans 263–292 / 30 of 57 verified / 14 cumulative corrections / 0 unresolved in verified range**
+- Gate E — **IN PROGRESS — Batches 1–4 scans 263–302 / 40 of 57 verified / 17 cumulative corrections / 0 unresolved in verified range**
 - Gate F / English — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Gate E Batches 1–3 durable state
+## Gate E Batches 1–4 durable state
 
-- verified scans — **263–292 / printed pp.262–291 / 30 pages**
+- verified scans — **263–302 / printed pp.262–301 / 40 pages**
 - Batch 1 — **263–272 / 10 pages / PASS**
 - Batch 2 — **273–282 / 10 pages / PASS**
 - Batch 3 — **283–292 / 10 pages / PASS**
-- cumulative corrections — **14 entries / 14 occurrences**
-- Batch-3 corrections — **2 entries / 2 occurrences**
-- cumulative affected scans — **265, 266, 267, 268, 269, 272, 273, 278, 292**
+- Batch 4 — **293–302 / 10 pages / PASS**
+- cumulative corrections — **17 entries / 17 occurrences**
+- Batch-4 corrections — **3 entries / 3 occurrences**
+- cumulative affected scans — **265, 266, 267, 268, 269, 272, 273, 278, 292, 296, 298, 302**
 - unresolved readings in verified range — **0**
-- source-printed English on scans **287–289** — **preserved**
-- scan-292 `பதினோரு` — **confirmed twice from source / corrected twice**
+- Batch-4 split coverage — **part012 local 18–25 + part013 local 1–2**
+- source-backed Batch-4 forms include `வறட்சி நிவாரணத்துக்கு`, `மேல்அமராவதி`, and `போக்கு வரத்துக் கழகங்களின்`
 - outside wording imported — **0**
 - overall Tamil — **NOT VERIFIED / verified_against_scan=false** until all 57 pages complete Gate E
 
-## Exact next activity — Speech 14 Gate E Batch 4
+## Exact next activity — Speech 14 Gate E Batch 5
 
-Process **scans 293–302 / printed pp.292–301 / exactly 10 pages**.
-
-Source split:
-
-- part012 local **18–25 = scans 293–300**
-- part013 local **1–2 = scans 301–302**
+Process **scans 303–312 / printed pp.302–311 / exactly 10 pages** from part013 local pages **3–12**.
 
 Requirements:
 
