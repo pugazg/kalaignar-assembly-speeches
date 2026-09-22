@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate C Batch 5 — scans 303–312
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate C FINAL Batch 6 — scans 313–319
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,12 +18,13 @@ Working entry:
 - end boundary **319→320** — **PASS / visually reconfirmed from part013 local 19→20**
 - scan 320 — **உரை : 15 / நாள் : 03.08.1977 / excluded**
 - Gate C — **IN PROGRESS**
-- completed Gate-C range — **263–302 / 40 of 57**
-- source markers — **263→302 / 40 / exactly once / ordered**
+- completed Gate-C range — **263–312 / 50 of 57**
+- source markers — **263→312 / 50 / exactly once / ordered**
 - Gate C Batch 1 — **263–272 / COMPLETE**
 - Gate C Batch 2 — **273–282 / COMPLETE**
 - Gate C Batch 3 — **283–292 / COMPLETE**
 - Gate C Batch 4 — **293–302 / COMPLETE**
+- Gate C Batch 5 — **303–312 / COMPLETE**
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
@@ -38,28 +39,29 @@ Per explicit user instruction:
 - **Gate C: 10 source pages per iteration**
 - **Gate E: 10 source pages per iteration**
 
-This overrides the older whole-speech cadence for Speech 14 at Gates C and E only.
+The final Gate-C remainder is **7 pages**.
 
 ## Current source availability
 
-Controlling split for Batch 5:
+Controlling split for the final Gate-C batch:
 
 `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_013_pages_301-325.pdf`
 
 - SHA-256 `26f0a480bf6c7b6f3f8638aadc77d0528f15b61def73937fad1627060f31c61b`
-- local pages **3–12 = global scans 303–312 / printed pp.302–311**
-- all ten pages for Batch 5 are available
+- local pages **13–19 = global scans 313–319 / printed pp.312–318**
+- local page **20 = global scan 320 / Speech 15 start / boundary witness only**
+- all seven final Speech-14 pages are available
 
 ## Exact next activity
 
-Perform **Speech 14 Gate C Batch 5 — scans 303–312 / printed pp.302–311 / exactly 10 pages**.
+Perform **Speech 14 Gate C FINAL Batch 6 — scans 313–319 / printed pp.312–318 / exactly 7 pages**.
 
 Requirements:
 
 1. use only rendered controlling anthology pixels;
 2. preserve source wording/spelling/punctuation/numerals, speaker labels/interventions, source-printed English and repetition;
-3. add source-page markers **303→312** exactly once and in order;
-4. update cumulative Gate-C coverage to **263–312 / 50 of 57** if all ten pages are processed;
+3. add source-page markers **313→319** exactly once and in order;
+4. update cumulative Gate-C coverage to **263–319 / 57 of 57** and mark **Gate C COMPLETE** if all seven pages are processed;
 5. keep Tamil **NOT VERIFIED / verified_against_scan=false**;
 6. synchronize Speech-14 and anthology control documents;
-7. do **not** begin Gate C.5, Gate D, Gate E, English, Gate H or Speech 15 before Gate C completes.
+7. do **not** begin Gate C.5, Gate D, Gate E, English, Gate H or Speech 15 in the same activity unless separately instructed.
