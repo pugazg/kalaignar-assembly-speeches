@@ -63,7 +63,7 @@ This user-directed cadence supersedes the earlier whole-speech batching rule for
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - OCR / web / Official Reports / alternate anthology / other-witness wording imported — **0**
-- Gate C.5 — **NOT STARTED / next activity**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 57/57 reviewed; no legacy-glyph anomaly observed**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED / future cadence 10 pages per iteration**
 - English — **BLOCKED / NOT STARTED**
@@ -71,4 +71,4 @@ This user-directed cadence supersedes the earlier whole-speech batching rule for
 
 ## Exact next activity
 
-Proceed with **Speech 14 Gate C.5 historical-glyph applicability review**. The controlling witness is modern 2007 typesetting and the anthology-level default is provisionally N/A, but close Gate C.5 only after confirming no page-specific legacy-typeform anomaly requires treatment. Do not begin Gate D in the same activity unless separately instructed.
+Proceed with **Speech 14 Gate D completeness / structure audit — scans 263–319 / 57 pages**. Check the 57 source markers, both hard boundaries, all 56 internal page transitions, missing/duplicated blocks, speaker/intervention continuity, source-printed English, figures/dates and the scan-319 close. Gate D must not mark Tamil verified; do not begin Gate E in the same activity unless separately instructed.
