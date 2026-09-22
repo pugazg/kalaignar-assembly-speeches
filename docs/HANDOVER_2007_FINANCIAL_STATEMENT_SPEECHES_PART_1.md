@@ -677,17 +677,24 @@ Gate C closure:
 Downstream:
 
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 57/57 pages reviewed; no legacy/reform-sensitive glyph anomaly observed; 0 Tamil wording changes**
-- Gate D — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
 - Gate E — **NOT STARTED / 10-page cadence locked**
 - Gate F / English — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-## Exact next activity — Speech 14 Gate D
+## Exact next activity — Speech 14 Gate E Batch 1
 
-Perform the **Gate D completeness / structure audit — scans 263–319 / printed pp.262–318 / 57 pages**.
+Process **scans 263–272 / printed pp.262–271 / exactly 10 pages** from the controlling anthology pixels.
 
-Audit all **57 source markers**, both hard boundaries, all **56 internal page transitions**, missing/duplicated blocks, speaker/intervention continuity, source-printed English blocks, figures/dates and the scan-319 close.
+Requirements:
 
-Gate D is structural/completeness review only. Keep Tamil **NOT VERIFIED / verified_against_scan=false** and do not begin Gate E in the same activity unless separately instructed.
+- use rendered source pixels only;
+- verify wording, spelling, punctuation, numerals, labels, interventions, printed English and visible repetitions strictly against source;
+- record every correction in the Gate-E ledger with scan/page reference;
+- preserve source oddities rather than normalize them;
+- keep outside wording imported at **0**;
+- after this batch, Gate E should remain **IN PROGRESS** unless all 57 pages have been verified;
+- do not exceed the fixed **10-page Gate-E cadence**;
+- do not begin English, Gate H or Speech 15.
