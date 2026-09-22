@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate E Batch 4 — scans 293–302
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate E Batch 5 — scans 303–312
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -19,24 +19,27 @@ Working entry:
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 57 of 57 / 56 of 56 internal transitions / 0 completeness corrections**
 - Gate E — **IN PROGRESS**
-- verified Gate-E range — **scans 263–292 / printed pp.262–291 / 30 of 57**
+- verified Gate-E range — **scans 263–302 / printed pp.262–301 / 40 of 57**
 - Batch 1 — **263–272 / PASS / 9 corrections**
 - Batch 2 — **273–282 / PASS / 3 corrections**
 - Batch 3 — **283–292 / PASS / 2 corrections**
-- cumulative Gate-E corrections — **14 entries / 14 occurrences**
-- cumulative affected scans — **265, 266, 267, 268, 269, 272, 273, 278, 292**
+- Batch 4 — **293–302 / PASS / 3 corrections**
+- cumulative Gate-E corrections — **17 entries / 17 occurrences**
+- cumulative affected scans — **265, 266, 267, 268, 269, 272, 273, 278, 292, 296, 298, 302**
 - unresolved readings in verified range — **0**
-- source-printed English in verified range — **preserved**
 - outside wording imported — **0**
 - overall Tamil — **NOT VERIFIED**
 - `verified_against_scan=false`
 - English — **BLOCKED**
 - release — **NOT RELEASED**
 
-## Gate E Batch 3 source-backed corrections
+## Gate E Batch 4 source-backed corrections
 
-1. scan 292 / printed p.291 — first occurrence `பதினொரு லட்சத்து இருபத்தையாயிரம்` → `பதினோரு லட்சத்து இருபத்தையாயிரம்`
-2. scan 292 / printed p.291 — second occurrence `இந்த பதினொரு லட்சத்து இருபத்தையாயிரம்` → `இந்த பதினோரு லட்சத்து இருபத்தையாயிரம்`
+1. scan 296 / printed p.295 — `வறட்சித் நிவாரணத்துக்கு` → `வறட்சி நிவாரணத்துக்கு`
+2. scan 298 / printed p.297 — `மேல் அமராவதி` → `மேல்அமராவதி`
+3. scan 302 / printed p.301 — `போக்குவரத்துக் கழகங்களின்` → `போக்கு வரத்துக் கழகங்களின்`
+
+Source-visible oddities retained in this batch include `15,86 சதவிகிதம்`, `5.5. கோடி`, and the scan-301 semicolon in the constitutional-law sentence.
 
 ## Fixed Speech-14 Gate-E cadence
 
@@ -46,12 +49,11 @@ Per explicit user instruction:
 
 ## Exact next activity
 
-Perform **Speech 14 Gate E Batch 4 — scans 293–302 / printed pp.292–301 / exactly 10 pages**.
+Perform **Speech 14 Gate E Batch 5 — scans 303–312 / printed pp.302–311 / exactly 10 pages**.
 
 Source split:
 
-- part012 local pages **18–25 = scans 293–300**
-- part013 local pages **1–2 = scans 301–302**
+- part013 local pages **3–12 = scans 303–312**
 
 Requirements:
 
@@ -61,7 +63,7 @@ Requirements:
 4. preserve source oddities instead of normalizing them;
 5. record every source-backed correction in the Gate-E ledger with scan/page reference and corrected form;
 6. do not import wording from OCR, web, Official Reports, alternate anthologies, released speeches or another witness;
-7. keep Gate E **IN PROGRESS** after Batch 4;
+7. keep Gate E **IN PROGRESS** after Batch 5;
 8. do not exceed the fixed **10-page** batch;
 9. synchronize Speech-14 and anthology control documents;
 10. do not begin English, Gate H or Speech 15.
