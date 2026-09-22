@@ -95,7 +95,9 @@
     "user_directed_gate_e_batch_size": 10,
     "batching_override_note": "For Speech 14, the user explicitly directed Gate C and Gate E to be processed in 10-page iterations. This supersedes the earlier whole-speech cadence for those two gates only.",
     "current_gate_c_batch": "313-319 / 7 pages FINAL / COMPLETE",
-    "next_gate_c_batch": null
+    "next_gate_c_batch": null,
+    "current_gate_d": "COMPLETE / 57 pages / 56 transitions / 0 corrections",
+    "next_gate_e_batch": "263-272 / 10 pages"
   },
   "transcription": {
     "language": "Tamil",
@@ -118,14 +120,17 @@
     "marker_range": "263-319",
     "unresolved_readings": [],
     "unresolved_reading_count": 0,
-    "completeness_audit_passed": false,
+    "completeness_audit_passed": true,
     "verified_against_scan": false,
     "historical_glyph_gate_status": "n/a-closed",
-    "gate_d_status": "not-started",
+    "gate_d_status": "pass-complete",
     "gate_e_status": "not-started",
     "gate_e_batch_size": 10,
-    "next_gate": "Gate D completeness / structure audit",
-    "outside_wording_imported": false
+    "next_gate": "Gate E Batch 1 scans 263-272",
+    "outside_wording_imported": false,
+    "gate_d_pages_audited": 57,
+    "gate_d_internal_transitions_audited": 56,
+    "gate_d_completeness_corrections": 0
   },
   "translation": {
     "language": "English",
