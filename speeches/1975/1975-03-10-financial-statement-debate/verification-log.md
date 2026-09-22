@@ -139,11 +139,46 @@ Basis:
 - Gate C.5 made **0 Tamil wording changes**;
 - this determination does **not** constitute Gate-E word-for-word source verification.
 
+## Gate D — completeness / structure audit
+
+**PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections.**
+
+Coverage:
+
+- source markers — **57 / 263→319 / exactly once / ordered**
+- hard start boundary — **262→263 PASS**
+- hard end boundary — **319→320 PASS**
+- internal source-page transitions — **56/56 PASS**
+- missing pages — **0**
+- empty page sections — **0**
+- accidental duplicated long blocks — **0**
+- completeness corrections — **0**
+
+Structural features checked:
+
+- scan 263 heading/date/opening speaker label — **PASS**
+- speaker labels/interventions throughout the unit — **structurally retained**
+- source-printed English blocks — **PASS**
+  - scan 264 — budget/capital-expenditure quotation
+  - scans 281–282 — audit-report material
+  - scans 288–289 — Vijayawada-resolution quotations
+  - scans 313–314 — Jayaprakash Narayan/autonomy quotation
+  - scans 316–317 — Parliament/State Autonomy quotation
+  - scans 317–318 — 1942 CPI resolution quotation
+  - scan 318 — A.I.C.C. 1942 resolution quotation
+- figures/dates/percentages and quoted material — **structurally present**
+- cross-split transitions — **275→276 / 300→301 PASS**
+- scan 319 final paragraph and close — **PASS / ends with `வணக்கம்.`**
+
+The audit used the controlling 2007 anthology page sequence. No OCR, web, Official Report, alternate anthology or other witness supplied wording.
+
+Gate D changed **0 Tamil words**. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`.
+
 ## Current gate state
 
 - Gate C — **COMPLETE / 57 of 57 / scans 263–319 complete**
 - Gate C.5 — **N/A / CLOSED**
-- Gate D — **NOT STARTED**
+- Gate D — **PASS / COMPLETE / 57 of 57 / 56 of 56 internal transitions / 0 completeness corrections**
 - Gate E — **NOT STARTED / 10-page cadence locked**
 - Gate F / English — **BLOCKED**
 - Gate G — **NOT STARTED**
@@ -151,4 +186,4 @@ Basis:
 
 ## Exact next activity
 
-Proceed with **Gate D completeness / structure audit — Speech 14 scans 263–319 / 57 of 57 pages**. Audit marker coverage, hard boundaries, all 56 internal page transitions, missing/duplicated blocks, speaker/intervention continuity, source-printed English blocks, figures/dates and final close. Gate D is structural/completeness review only: do not mark Tamil verified and do not begin Gate E in the same activity unless separately instructed.
+Proceed with **Gate E Batch 1 — scans 263–272 / printed pp.262–271 / exactly 10 pages**. Perform strict word-for-word source-fidelity verification from the rendered controlling anthology pixels, record every source-backed correction in the Gate-E ledger, preserve source-printed English and source-visible oddities, and keep outside wording at zero. Do not process more than these 10 pages in this activity.
