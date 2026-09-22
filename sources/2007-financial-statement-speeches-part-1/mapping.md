@@ -300,18 +300,11 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - root dated speech table — **indexed**
 - Speech 14 — **Gate C COMPLETE / scans 263–319 / 57 of 57 / Tamil NOT VERIFIED**
 
-## Speech 14 Gate-C closure
+## Speech 14 Gate-C / C.5 closure
 
 - working entry — `speeches/1975/1975-03-10-financial-statement-debate/`
 - full mapped unit — **263–319 / printed 262–318 / 57 pages**
 - hard boundaries — **262→263 PASS / 319→320 PASS / both visually reconfirmed**
-- Gate C cadence — **10 pages/iteration**, final remainder **7 pages**
-- Gate C Batch 1 — **263–272 / 10 pages / COMPLETE**
-- Gate C Batch 2 — **273–282 / 10 pages / COMPLETE**
-- Gate C Batch 3 — **283–292 / 10 pages / COMPLETE**
-- Gate C Batch 4 — **293–302 / 10 pages / COMPLETE**
-- Gate C Batch 5 — **303–312 / 10 pages / COMPLETE**
-- Gate C Final Batch 6 — **313–319 / 7 pages / COMPLETE**
 - Gate C — **COMPLETE / 57 of 57**
 - source markers — **263→319 / 57 / exactly once / ordered**
 - final close — **scan 319 / `வணக்கம்.`**
@@ -320,11 +313,15 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - unresolved first-pass readings — **0 currently flagged**
 - source-printed English — **preserved**
 - outside wording imported — **0**
-- Gate C.5 — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED**
+  - controlling witness — modern **2007** anthology typesetting
+  - coverage considered — **57/57 pages**
+  - legacy/reform-sensitive glyph anomalies requiring a separate pass — **0 observed**
+  - Tamil wording changes at Gate C.5 — **0**
 - Gate D / E — **NOT STARTED**
 - English — **BLOCKED**
 - Speech 15 — **not begun**
 
 ## Exact continuation
 
-Proceed with **Speech 14 Gate C.5 historical-glyph applicability review**. The 2007 anthology is modern typesetting, so Gate C.5 is provisionally N/A at source-package level, but confirm that no page-specific legacy-typeform anomaly requires treatment before closing the gate. Do not begin Gate D in the same activity unless separately instructed.
+Proceed with **Speech 14 Gate D completeness / structure audit — scans 263–319 / 57 pages**. Audit **57 markers**, hard boundaries **262→263 / 319→320**, all **56 internal page transitions**, missing/duplicated blocks, speaker/intervention continuity, source-printed English blocks, figures/dates and the scan-319 close. Gate D is a structural/completeness gate only; keep Tamil **NOT VERIFIED / verified_against_scan=false** and do not begin Gate E in the same activity unless separately instructed.
