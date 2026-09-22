@@ -644,10 +644,19 @@ Mapped unit:
 
 - source label/date — `உரை : 14 / 10.03.1975`
 - scans **263–319 / printed pp.262–318 / 57 pages**
-- hard start boundary — **262→263 PASS / visually reconfirmed in current activity**
-- hard end boundary — **319→320 PASS in locked anthology mapping**
-- current available split — part011 local **13–25 = scans 263–275**
-- current covering split SHA-256 — `27c9c96d3c0bdb53480f8d1634300bf9d7dc57be17d3f83c66397ef78863712d`
+- hard start boundary — **262→263 PASS / visually reconfirmed**
+- hard end boundary — **319→320 PASS / visually reconfirmed from part013 local 19→20**
+- scan 320 — **உரை : 15 / நாள் : 03.08.1977 / excluded from Speech 14**
+
+Current controlling availability:
+
+- part011 local **13–25 = scans 263–275**
+  - SHA-256 — `27c9c96d3c0bdb53480f8d1634300bf9d7dc57be17d3f83c66397ef78863712d`
+- part012 local **1–25 = scans 276–300**
+  - SHA-256 — `2010012bd354bc4f9354d0d547097c6ae9b2c2a7eb225d854018ebc482173cdc`
+- part013 local **1–19 = scans 301–319**
+  - SHA-256 — `26f0a480bf6c7b6f3f8638aadc77d0528f15b61def73937fad1627060f31c61b`
+- all **57 Speech-14 source pages are now available** across part011–part013.
 
 User-directed cadence:
 
@@ -655,11 +664,14 @@ User-directed cadence:
 - Gate E — **10 source pages per iteration**
 - this supersedes the previous whole-speech cadence for Speech 14 at Gates C and E only.
 
-Gate C Batch 1:
+Gate C completed so far:
 
-- scans **263–272 / printed pp.262–271**
-- pages completed — **10/57**
-- source markers — **263→272 / exactly once / ordered**
+- Batch 1 — scans **263–272 / printed pp.262–271 / 10 pages**
+- Batch 2 — scans **273–282 / printed pp.272–281 / 10 pages**
+- cumulative coverage — **263–282 / 20 of 57 pages**
+- source markers — **263→282 / 20 / exactly once / ordered**
+- Batch-2 local coverage — **part011 23–25 + part012 1–7**
+- source-printed English on scans **281–282** — **preserved**
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
@@ -667,6 +679,7 @@ Gate C Batch 1:
 
 Downstream:
 
+- Gate C — **IN PROGRESS**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED / 10-page cadence locked**
@@ -675,14 +688,14 @@ Downstream:
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
-The current split contains scans **273–275** for the beginning of the next batch. Scans **276–282** require the next controlling split. The end boundary **319→320** should be visually reconfirmed again when its covering split becomes available.
+## Exact next activity — Speech 14 Gate C Batch 3
 
-## Exact next activity — Speech 14 Gate C Batch 2
-
-Process **scans 273–282 / printed pp.272–281 / 10 pages** from rendered controlling pixels only.
+Process **scans 283–292 / printed pp.282–291 / 10 pages** from part012 local pages **8–17**, using rendered controlling anthology pixels only.
 
 - carry forward the 10-page Gate-C cadence;
 - preserve source spelling, punctuation, numerals, speaker/intervention labels, printed English and visible repetition;
+- add source-page markers **283→292** exactly once and in order;
+- if complete, update cumulative Gate-C coverage to **263–292 / 30 of 57**;
 - do not use OCR/web/Official Reports/other witnesses to supply wording;
 - keep Tamil `verified_against_scan=false`;
 - do not begin Gate C.5, Gate D, Gate E, English, Gate H or Speech 15 before Gate C completes.
