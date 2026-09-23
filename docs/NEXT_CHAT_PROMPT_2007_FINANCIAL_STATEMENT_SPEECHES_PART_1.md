@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 15 source-boundary + Gate-C setup
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 15 Gate C first-pass transcription
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,44 +6,71 @@ Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE
 
 Speeches **1–14 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Do not reopen them unless a separate source-backed defect is discovered.
 
-Speech 14 / `10.03.1975` final state:
+## Speech 15 setup state
 
-- working entry — `speeches/1975/1975-03-10-financial-statement-debate/`
-- scans — **263–319 / printed pp.262–318 / 57 pages**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate E — **32 corrections / 0 unresolved**
-- Gate G — **23 refinements / 0 blockers / 0 Tamil changes**
-- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
-- canonical bilingual transcript — **COMPLETE**
-- `translation.md` — **retired pointer**
-- Gate-H wording changes — **0 Tamil / 0 English**
-- `data/speeches.json` and root dated table — **indexed**
+Working entry:
 
-## Speech 15 mapped unit
+`speeches/1977/1977-08-03-financial-statement-debate/`
 
 - source label/date — `உரை : 15 / 03.08.1977`
-- global scans — **320–355**
-- printed pages — **319–354**
-- page count — **36**
-- incoming boundary — **319→320** — mapped as Speech 14 close → Speech 15 start
-- outgoing boundary — **355→356** — mapped as Speech 15 close → Speech 16 start
-- proposed working entry — `speeches/1977/1977-08-03-financial-statement-debate/`
-- Speech 15 — **NOT STARTED**
+- mapped unit — **scans 320–355 / printed pp.319–354 / 36 pages**
+- source-boundary + Gate-C setup — **PASS / COMPLETE**
+- incoming boundary **319→320** — **PASS / visually reconfirmed**
+- outgoing boundary **355→356** — **PASS / visually reconfirmed**
+- scan 320 — `உரை : 15 / நாள் : 03.08.1977`
+- scan 355 — final Speech-15 page / ends `விடைபெறுகிறேன்.` / source ornament
+- scan 356 — `உரை : 16 / நாள் : 1.3.1978` / excluded
+- source coverage — **36/36 / no gap / no overlap**
+- split transitions **325→326 / 350→351** — **PASS / visually continuous**
+- Gate C — **READY / NOT STARTED**
+- Tamil — **NOT TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Gate C.5 / D / E — **NOT STARTED**
+- Gate F — **BLOCKED**
+- Gate G — **NOT STARTED**
+- Gate H — **NOT STARTED / NOT RELEASED**
+- Speech 16 — **NOT STARTED**
+
+## Controlling splits
+
+1. `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_013_pages_301-325.pdf`
+   - local **20–25 = scans 320–325**
+   - printed **319–324**
+   - size **17,775,750 bytes**
+   - SHA-256 `26f0a480bf6c7b6f3f8638aadc77d0528f15b61def73937fad1627060f31c61b`
+
+2. `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_014_pages_326-350.pdf`
+   - local **1–25 = scans 326–350**
+   - printed **325–349**
+   - size **19,044,518 bytes**
+   - SHA-256 `6caec9d63d871d69f636b35aa3297345bab9e064c7e74e2f9f1bc13f1a29311e`
+
+3. `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_015_pages_351-375.pdf`
+   - local **1–5 = scans 351–355**
+   - printed **350–354**
+   - size **18,255,463 bytes**
+   - SHA-256 `cc81c3d6e9496012e10a39f2a0ad3666d522f9a7b2b58f25f484a7f5a3682344`
+   - local page **6 = scan 356 / Speech 16 boundary witness / excluded**
+
+## Whole-speech exception
+
+The repository's normal activity allowance is **25 source pages**, but Speech 15 itself is **36 pages**. Under the existing whole-speech exception, process the complete speech as one intact unit rather than splitting it merely to satisfy the allowance.
+
+The Speech-14-specific 10-page Gate-C/Gate-E cadence does **not** carry forward to Speech 15.
 
 ## Exact next activity
 
-Perform **Speech 15 source-boundary + Gate-C setup** for the full mapped unit **scans 320–355 / printed pp.319–354 / 36 pages**.
+Perform **Speech 15 Gate C first-pass Tamil transcription — scans 320–355 / printed pp.319–354 / all 36 pages**.
 
 Requirements:
 
-1. inspect live `main` and the anthology source inventory first;
-2. establish the exact controlling split-file coverage for scans **320–355** and record file names, local-page mappings, sizes and SHA-256 values from the available source files;
-3. directly inspect the hard boundaries **319→320** and **355→356** from source pixels;
-4. confirm scan 320 begins `உரை : 15 / நாள் : 03.08.1977`;
-5. confirm scan 355 is the final Speech-15 page and scan 356 begins Speech 16 / `1.3.1978`;
-6. create or synchronize the Speech-15 working entry, source notes, metadata, README, verification log and control documents;
-7. use only rendered controlling anthology pixels; no OCR/web/Official Report/alternate-anthology/other-witness wording may supply the text;
-8. do not reopen Speech 14;
-9. do not begin downstream verification/translation gates before the Speech-15 source unit and Gate-C controls are established;
-10. follow the live repository batching rules unless the user gives a new Speech-15 cadence.
+1. use only rendered controlling anthology pixels;
+2. transcribe all **36/36** pages as one intact Speech-15 unit;
+3. add source-page markers **320→355**, exactly once and ordered;
+4. preserve source wording, spelling, punctuation, numerals, headings, speaker labels/interventions, source-printed English and visible repetition;
+5. preserve page-spanning continuations across **325→326** and **350→351**;
+6. do not import wording from OCR, web, Official Reports, alternate anthologies, released speeches or another witness;
+7. record any genuinely uncertain first-pass reading explicitly rather than normalizing or guessing;
+8. Gate C is first-pass transcription only — keep Tamil **NOT VERIFIED / verified_against_scan=false**;
+9. synchronize Speech-15 and anthology control documents after the complete first pass;
+10. do not begin Gate C.5, Gate D, Gate E, English, Gate H or Speech 16 in the same activity unless separately instructed.
