@@ -68,14 +68,35 @@ Direct boundary evidence:
 
 Split continuity **325→326** and **350→351** was visually checked in the controlling pixels.
 
-## Gate-C setup state
+## Gate-C state
 
-Source unit and controls are established. No body transcription was performed in this setup activity.
+Gate C first-pass transcription is now **COMPLETE — scans 320–355 / 36 of 36 pages**.
 
-- Gate C — **READY / NOT STARTED**
+- source-page markers — **320→355 / 36 / exactly once / ordered**
+- first-pass unresolved readings — **0 currently flagged**
 - transcription source — **rendered pixels only**
-- Tamil — **NOT TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
 - outside wording imported — **0**
+- Tamil — **NOT VERIFIED**
+- `verified_against_scan=false`
 
-Because Speech 15 is **36 pages**, the existing whole-speech exception applies: the next Gate-C activity should process the complete **320–355** unit intact unless the user explicitly sets a different cadence.
+## Fixed Gate-C / Gate-E cadence
+
+Per explicit user instruction, the controlling repository rule is now:
+
+- **Gate C — 10 source pages per iteration**
+- **Gate E — 10 source pages per iteration**
+- only the final remainder of a speech may be fewer than 10 pages;
+- exceeding 10 pages requires a fresh explicit user override.
+
+This supersedes the earlier Speech-15 whole-speech exception for Gates C and E. Speech 15 Gate C had already completed on live `main` before this rule was locked.
+
+Planned Speech-15 Gate-E batches:
+
+- **320–329**
+- **330–339**
+- **340–349**
+- **350–355** final remainder
+
+## Exact next
+
+Gate C.5 applicability determination for **scans 320–355**.
