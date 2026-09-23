@@ -64,7 +64,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 12 | `07.03.1973` | 1973-03-07 | 191–230 | 190–229 | `1973-03-07-financial-statement-debate`; **independent parallel witness** to released `1973-03-07-financial-statement-reply`; Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete; intentionally not duplicated in dated indexes |
 | 13 | `14.03.1974` | 1974-03-14 | 231–262 | 230–261 | `1974-03-14-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 14 | `10.03.1975` | 1975-03-10 | 263–319 | 262–318 | `1975-03-10-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
-| 15 | `03.08.1977` | 1977-08-03 | 320–355 | 319–354 | `1977-08-03-financial-statement-debate`; **Gate C COMPLETE / 36 of 36 first-pass; Tamil NOT VERIFIED** |
+| 15 | `03.08.1977` | 1977-08-03 | 320–355 | 319–354 | `1977-08-03-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 16 | `1.3.1978` | 1978-03-01 | 356–388 | 355–387 | `1978-03-01-financial-statement-debate` |
 | 17 | `22 & 23.3.1979` | **multi-date source unit: 1979-03-22 and 1979-03-23** | 389–481 | 388–480 | **canonicalization HOLD** — do not force to one date until internal date-boundary evidence/policy is resolved |
 | 18 | `09.07.1980` | 1980-07-09 | 482–510 | 481–509 | `1980-07-09-financial-statement-debate` |
@@ -320,47 +320,29 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - root dated speech table — **indexed**
 - Speech 15 — **Gate E IN PROGRESS / Batches 1–3 PASS / 30 of 36**
 
-## Speech 15 Gate-E closure
+## Speech 15 Gate-H closure
 
 - working entry — `speeches/1977/1977-08-03-financial-statement-debate/`
 - source label/date — `உரை : 15 / 03.08.1977`
 - scans — **320–355 / printed pp.319–354 / 36 pages**
 - boundaries **319→320 / 355→356** — **PASS**
-- source coverage — **36/36 / no gap / no overlap**
-- split transitions **325→326 / 350→351** — **PASS**
-- Gate C — **COMPLETE / 36 of 36 first-pass**
 - source-page markers — **320→355 / 36 / exactly once / ordered**
+- Gate C — **COMPLETE / 36 of 36**
 - Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE — 36 of 36**
-- Batch-1 corrections — **19 / 19 occurrences**
-- Batch-2 corrections — **24 / 24 occurrences after direct-pixel reconciliation**
-- Batch-3 corrections — **8 / 8 occurrences**
-- Final Batch-4 corrections — **2 / 2 occurrences**
-- cumulative Gate-E corrections — **53 / 53 occurrences**
-- cumulative affected scans — **26 / 36**
-- Gate-E unresolved — **0**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **PASS / COMPLETE / 53 corrections / 0 unresolved**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- outside wording imported — **0**
-- Gate F — **READY / NOT STARTED**
-- Gate G — **NOT STARTED**
-- Gate H — **NOT STARTED / NOT RELEASED**
-
-## Gate E Final Batch 4 result
-
-- status — **PASS / COMPLETE**
-- scans — **350–355**
-- printed pages — **349–354**
-- source pages verified — **6**
-- cumulative verified — **36/36**
-- split **350→351** — **PASS**
-- final close scan 355 — **PASS**
-- Batch-4 corrections — **2 / 2 occurrences**
-- cumulative corrections — **53 / 53 occurrences**
-- unresolved readings — **0**
-- source separation — **PASS / outside wording 0**
-- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate F — **COMPLETE / 36 of 36**
+- Gate G — **PASS / COMPLETE / 36 of 36 / 6 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+- canonical bilingual transcript — **COMPLETE**
+- `translation.md` — **retired pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- Speech 16 — **NEXT / NOT STARTED**
 
 ## Exact continuation
 
-Begin **Speech 15 Gate F — English translation from Gate-E-verified Tamil only**. Do not alter the verified Tamil. Do not begin Gate G, Gate H or Speech 16 in the same activity.
+Begin **Speech 16 / 1.3.1978 source-boundary + Gate-C setup — scans 356–388 / printed pp.355–387 / 33 pages**. Reconfirm **355→356** and **388→389**; then use the fixed **10-page Gate-C cadence**.
