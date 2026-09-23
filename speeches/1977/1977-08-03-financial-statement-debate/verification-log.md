@@ -46,22 +46,50 @@ Total Speech-15 source coverage: **36/36 pages**.
 - alternate-anthology wording imported — **0**;
 - other-witness wording imported — **0**.
 
-## Gate state
+## Gate C — first-pass transcription
 
-- Gate C — **READY / NOT STARTED**
+**COMPLETE — scans 320–355 / printed pp.319–354 / 36 of 36 pages.**
+
+- source-page markers — **320→355 / 36 / exactly once / ordered**
+- first-pass unresolved readings — **0 currently flagged**
+- heading/date/speaker labels — **captured**
+- speaker interventions — **preserved where printed**
+- source spelling / punctuation / numerals — **preserved at first-pass level**
+- source-printed English — **preserved**
+- page-spanning continuations — **represented**
+- outside wording imported — **0**
+- Tamil verification state — **NOT VERIFIED**
+- `verified_against_scan=false`
+
+Gate C completion is not a Gate-E word-for-word source verification claim.
+
+## Fixed iteration rule — Gate C and Gate E
+
+Per explicit user instruction:
+
+- Gate C — **10 source pages per iteration**
+- Gate E — **10 source pages per iteration**
+- final remainder — may be **fewer than 10** only when fewer than 10 source pages remain in the current speech;
+- no Gate-C or Gate-E iteration may exceed 10 source pages unless the user explicitly overrides the rule.
+
+This rule supersedes the earlier whole-speech exception for Gate C and Gate E. Speech 15 Gate C was already complete on live `main` before the rule was locked.
+
+Planned Speech-15 Gate-E cadence:
+
+- Batch 1 — **320–329 / 10 pages**
+- Batch 2 — **330–339 / 10 pages**
+- Batch 3 — **340–349 / 10 pages**
+- Final Batch 4 — **350–355 / 6 pages**
+
+## Downstream gate state
+
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
-- Tamil — **NOT TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
 - Gate F — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 
-## Whole-speech exception
-
-Speech 15 spans **36 pages**, exceeding the normal 25-page activity limit. Existing repository policy therefore permits the complete speech to be processed as a single intact Gate-C unit rather than split solely to meet the page allowance.
-
 ## Exact next activity
 
-Perform **Gate C first-pass Tamil transcription — scans 320–355 / printed pp.319–354 / all 36 pages** from rendered controlling pixels only. Preserve source wording, spelling, punctuation, numerals, speaker labels/interventions, source-printed English and visible repetition. Gate C is not strict source verification; keep `verified_against_scan=false`.
+Perform **Gate C.5 applicability determination for scans 320–355**. Do not begin Gate E until Gate C.5 is PASS/N/A and Gate D is complete. When Gate E begins, enforce the fixed 10-source-page cadence above.
