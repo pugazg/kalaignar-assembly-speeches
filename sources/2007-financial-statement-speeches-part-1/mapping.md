@@ -334,11 +334,13 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - outside wording imported — **0**
-- Gate C.5 / D / E — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **READY / NOT STARTED**
+- Gate E — **NOT STARTED**
 - fixed iteration rule — **Gate C = 10 source pages / Gate E = 10 source pages; final remainder may be fewer than 10**
 - earlier whole-speech exception — **SUPERSEDED for Gates C and E**
 - planned Gate-E batches — **320–329 / 330–339 / 340–349 / 350–355**
 
 ## Exact continuation
 
-Perform **Speech 15 Gate C.5 applicability determination — scans 320–355**. Do not begin Gate E until Gate C.5 is PASS/N/A and Gate D is complete. When Gate E begins, enforce the fixed 10-page cadence.
+Perform **Speech 15 Gate D completeness audit — scans 320–355 / 36 pages**. Gate C.5 is **N/A / CLOSED** for this modern 2007 typeset witness after representative direct-pixel review at scans 320, 326, 335, 345 and 355. Do not mark Tamil verified. After Gate D passes, begin Gate E with the fixed 10-page cadence **320–329 / 330–339 / 340–349 / 350–355**.
