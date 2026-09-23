@@ -530,7 +530,7 @@ Working entry:
 - root dated speech table — **indexed**
 - outside wording imported — **0**
 
-## Speech 16 Gate-C state
+## Speech 16 Gate-C closure
 
 Working entry:
 
@@ -543,16 +543,18 @@ Working entry:
 - Gate C Batch 1 — **COMPLETE / scans 356–365 / 10 pages**
 - Gate C Batch 2 — **COMPLETE / scans 366–375 / 10 pages**
 - Gate C Batch 3 — **COMPLETE / scans 376–385 / 10 pages**
-- cumulative Gate C — **30 of 33**
-- source markers — **356→385 / 30 / exactly once / ordered**
+- Gate C Final Batch 4 — **COMPLETE / scans 386–388 / 3 pages**
+- Gate C — **COMPLETE / 33 of 33**
+- source markers — **356→388 / 33 / exactly once / ordered**
 - first-pass unresolved readings — **0**
-- source-printed English correspondence on scan 384 — **preserved**
+- final scan 388 close through `வணக்கம்.` and source ornament — **PASS**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- Gate C.5 onward — **NOT STARTED**
+- Gate C.5 — **READY / NOT STARTED**
+- Gate D onward — **NOT STARTED**
 - outside wording imported — **0**
 
 ## Exact next activity
 
-**Speech 16 Gate C Final Batch 4 — scans 386–388 / printed pp.385–387 / final 3 pages.**
+**Speech 16 Gate C.5 applicability review.**
 
-Do not begin Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 17.
+Do not begin Gate E, Gate F, Gate G, Gate H or Speech 17 in the same activity.
