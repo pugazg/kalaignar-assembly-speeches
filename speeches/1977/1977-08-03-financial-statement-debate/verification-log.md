@@ -121,24 +121,68 @@ Structural checks:
 
 Gate D is a structural completeness audit only. It does not replace Gate-E word-for-word source-fidelity verification.
 
+## Gate E — Batch 1 / scans 320–329
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 pages; cumulative 10 of 36.**
+
+Coverage:
+
+- verified scans — **320–329**
+- verified printed pages — **319–328**
+- verified pages — **10/10 in batch; cumulative 10/36**
+- split/local coverage — **part013 local 20–25 = scans 320–325; part014 local 1–4 = scans 326–329**
+- source markers in batch — **320→329 / 10 / exactly once / ordered**
+- split continuation **325→326** — **PASS / source continuation preserved**
+- Gate-E correction ledger — **18 entries / 18 occurrences**
+- affected scans — **10 / 10 — 320–329**
+- unresolved readings — **0**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- pages **330–355** modified in this activity — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+
+Gate-E correction ledger:
+
+1. **scan 320 / printed p.319** — `பேரவைத் தலைவர்களே,` → `பேரவைத் தலைவரவர்களே,`
+2. **scan 321 / printed p.320** — `எடுத்துச் சொன்ன கருத்தை` → `எடுத்துச்சொன்ன கருத்தை`
+3. **scan 321 / printed p.320** — `ஆக்கப்பூர்வமான` → `ஆக்க பூர்வமான`
+4. **scan 321 / printed p.320** — `எடுத்துச் சொல்லக்` → `எடுத்துச்சொல்லக்`
+5. **scan 322 / printed p.321** — first occurrence `கருதுகிறேன்.` → `கருதுகின்றேன்.` in `...கொள்ளமாட்டார் என்றே...`
+6. **scan 322 / printed p.321** — second occurrence `கருதுகிறேன்.` → `கருதுகின்றேன்.` in `...ஒப்பிட்டுப் பார்ப்பது நலமென்று...`
+7. **scan 323 / printed p.322** — `வரவு செலவுத் திட்டத்தை` → `வரவு.செலவுத் திட்டத்தை`
+8. **scan 323 / printed p.322** — `1976-77 ஆம் ஆண்டு திரு. சி. சுப்பிரமணியம்` → `1976-77ஆம் ஆண்டு திரு. சி. சுப்பிரமணியம்`
+9. **scan 324 / printed p.323** — `பத்தாவது பக்கத்தில் இருப்பதாக பாராவில்` → `பத்தாவது பக்கத்தில் இருபதாவது பாராவில்`
+10. **scan 324 / printed p.323** — `....1976-77 ஆம் ஆண்டு` → `....1976-77ஆம் ஆண்டு`
+11. **scan 325 / printed p.324** — `1976-77 ஆம் ஆண்டு பற்றியது அது.` → `1976-77ஆம் ஆண்டு பற்றியது அது.`
+12. **scan 326 / printed p.325** — `குறிப்பிடப்பட்டது எதிர்பார்க்கப்பட்டது` → `குறிப்பிடப்பட்டது எதிர் பார்க்கப்பட்டது`
+13. **scan 327 / printed p.326** — `குறிப்பிட்டுள்ளார்.` → `குறிப்பிட்டுள்ளார்கள்.`
+14. **scan 327 / printed p.326** — `வீட்டு வசதி` → `வீட்டுவசதி`
+15. **scan 328 / printed p.327** — `அறிவிக்கப்பட்டன.` → `அறிவிக்கப் பட்டன.`
+16. **scan 329 / printed p.328** — `1976-77இல்` → `1976-77ல்` in the `24.18 லட்சமும்` sentence
+17. **scan 329 / printed p.328** — `அதன் தொடர்ச்சியாக` → `அதன் தொடர்பாக`
+18. **scan 329 / printed p.328** — `குடகனாறு திட்டம்` → `குடகனாறுத் திட்டம்`
+
+Source-visible oddities retained where supported by the controlling pixels include scan-320 `தலைவரவர்களே`, scan-323 `வரவு.செலவுத்`, scan-325 `137 கோடி` and later `5.37 கோடி`, scan-326 `எதிர் பார்க்கப்பட்டது`, scan-328 `அறிவிக்கப் பட்டன`, and scan-329 `1975-75லும்` / `செலவழித்தக் காரணத்தால்`. No normalization was applied.
+
+**Gate E remains IN PROGRESS — 10 of 36 pages verified. Tamil remains NOT VERIFIED / verified_against_scan=false.**
+
 ## Downstream gate state
 
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **READY / NOT STARTED**
+- Gate E — **IN PROGRESS / Batch 1 PASS / 10 of 36 pages**
 - Gate F — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-Perform **Gate E Batch 1 — scans 320–329 / printed pp.319–328 / exactly 10 pages**.
+Perform **Gate E Batch 2 — scans 330–339 / printed pp.329–338 / exactly 10 pages**.
 
 Use only rendered controlling anthology pixels. Strictly verify every word/character, names/initials, numerals/dates/percentages/money/units, embedded English, headings, speaker labels, punctuation where legible, and omissions/repetitions across page transitions. Record every source-backed correction in the Gate-E ledger. Keep `verified_against_scan=false` until all 36 pages complete Gate E.
 
 Fixed Speech-15 Gate-E cadence:
 
-- Batch 1 — **320–329 / 10 pages**
-- Batch 2 — **330–339 / 10 pages**
+- Batch 1 — **320–329 / 10 pages — PASS / COMPLETE**
+- Batch 2 — **330–339 / 10 pages — NEXT**
 - Batch 3 — **340–349 / 10 pages**
 - Final Batch 4 — **350–355 / 6 pages**
