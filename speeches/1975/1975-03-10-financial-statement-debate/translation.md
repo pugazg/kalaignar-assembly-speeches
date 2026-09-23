@@ -1,6 +1,6 @@
 # English translation — Speech 14 / 10.03.1975
 
-> **Gate F status:** **COMPLETE — Batches 1–3 / source pages 263–319 / 57 of 57 pages translated.** Translation authority is the Gate-E-verified Tamil in `transcript.md` only. This is first-pass English and is **NOT YET VERIFIED AGAINST TAMIL**; `verified_against_tamil=false`. Source-printed English is retained verbatim. No translation wording is imported from web sources, Official Reports, alternate anthologies, released speeches or another witness.
+> **English gate state:** Gate F **COMPLETE — 57/57 translated**. Gate G **IN PROGRESS — Batch 1 scans 263–287 / 25 of 57 reviewed**, with **6 English refinements**, **0 blockers**, **0 Tamil changes**, and source-printed English preserved verbatim. English remains **NOT YET VERIFIED AGAINST TAMIL** with `verified_against_tamil=false` until Gate G completes all 57 pages. No translation wording is imported from web sources, Official Reports, alternate anthologies, released speeches or another witness.
 
 ### Source page 263
 
@@ -10,7 +10,7 @@ Speech 14 — Date: 10.03.1975
 
 Among the many who took part in this debate and spoke, a few went deeply into the figures in the budget and said that the doubts that had arisen for them should be clarified and that certain errors had found a place in the financial statement.
 
-When our friend Hande, who opened this debate, and our friend Edmund, seated before me in the Opposition benches, spoke, they referred to this as my final financial statement. In whatever sense it may be final, I wish only to assure my dear friends who call it “final” that the Kazhagam Government is carrying out its duty with a mind that is not troubled by that.
+When our friend Hande, who opened this debate, and our friend Edmund, seated before me in the Opposition benches, spoke, they referred to this as my final financial statement. In whatever sense it may be final, I wish only to assure my dear friends who call it “final” that the Kazhagam Government is carrying out its duty without being troubled by it.
 
 In regard to the budget, our Communist Party leader K.D.K. and our friend Hande raised some doubts. That is,
 
@@ -22,7 +22,7 @@ When Mr Hande referred to this, he said:
 
 > The budget bristles with a dangerous trend of systematic erosion into capital expenditure that may ultimately rain the development of our State.
 
-Mr Thangamani too supported our friend Hande's view and said that this was the difference that had arisen in the capital expenditure provided for our development.
+Mr Thangamani too supported our friend Hande's view regarding this difference in the capital expenditure provided for our development.
 
 Our financial statement is divided into three sections. It is framed under three heads: the revenue account, the capital account (capital expenditure), and loans. This is the very method by which a budget is prepared.
 
@@ -124,7 +124,7 @@ Likewise, there are the Slum Clearance Board, the Water Supply Board, the scheme
 
 for all villages throughout the State, road facilities connecting even villages with populations below 1,500, and the increase from 2 lakh pump sets to 7 lakh pump sets. I am genuinely sorry if all these things appear to Mr K.D.K. merely as “welfare” measures, or, as another friend said, as things done by a charitable institution. But if Mr K.D.K. says that Anna's path is indeed the path of virtue and that this is a Government proceeding on that righteous path, I am truly grateful to receive such a blessing from an elderly senior such as him.
 
-**Mr K.D.K. Thangamani:** You have taken it very much to heart. You have now mentioned a few things. There are large maths. They own approximately 4½ lakh acres of land. If, through the Bill we have already brought, arrangements are made so that the lands belonging to those maths are made available on lease to farmers, then the agricultural people and cultivators would benefit. No such proposal has come. It would be good if you say something about that.
+**Mr K.D.K. Thangamani:** You have taken it very much to heart. You have now mentioned a few things. There are large religious maths. They own approximately 4½ lakh acres of land. If, through the Bill we have already brought, arrangements are made so that the lands belonging to those maths are made available on lease to farmers, then the agricultural people and cultivators would benefit. No such proposal has come. It would be good if you say something about that.
 
 **Hon. Kalaignar M. Karunanidhi:** I think the Bill on land ownership for cultivators will soon be discussed in this House. At that time we can examine these views in great detail. I am duty-bound to give only that as my answer at this moment.
 
@@ -164,7 +164,7 @@ For example, in the statement I have placed under the head “Welfare of the Sch
 
 ### Source page 279
 
-They grant approval to the Plan after asking all that. We may put it at even Rs.160 crore. We may agree to a level of Rs.140 crore. But if this year we have agreed on Rs.143 crore, the total amount the Central Government provides within that Rs.143 crore, including grant and loan—Central assistance—is Rs.41 crore 15 lakh. When I spoke in the Central Planning Commission, for the people of Tamil Nadu...
+They grant approval to the Plan after asking all that. We may propose even Rs.160 crore. We may agree to a level of Rs.140 crore. But if this year we have agreed on Rs.143 crore, the total amount the Central Government provides within that Rs.143 crore, including grant and loan—Central assistance—is Rs.41 crore 15 lakh. When I spoke in the Central Planning Commission, for the people of Tamil Nadu...
 
 **Mrs Sathyavani Muthu:** What I said that day was that the Rs.143 crore was the amount that officers or Ministers belonging to the State Government asked the Planning Commission to allot during discussion, on the insistence of the Central Government. I do not deny that even now. As far as I know, what the officers here went and asked for Scheduled Castes welfare was Rs.13 crore. But the Planning Commission agreed to Rs.19 crore. Rs.41.15 crore is given as financial assistance by the Central Government. If that money is included in the Rs.143 crore, why should it be separately classified and shown under Scheduled Castes? That is what I am asking again.
 
@@ -174,7 +174,7 @@ They grant approval to the Plan after asking all that. We may put it at even Rs.
 
 I will say one more thing. The Central Government does not distinguish between backward classes and Scheduled Castes. It is in our State that we have a separate department for the welfare of backward classes and attend to their welfare.
 
-Even under the term Backward Community, at the Central Government level it is maintained only in the sense of welfare for Scheduled Castes. Taking our circumstances to them, the amount we asked for both Scheduled Castes welfare and backward-classes welfare was Rs.4.56 crore; that must be kept in mind. This is the amount we asked for within the Rs.143 crore Plan. But the Central Planning Commission advised us to spend Rs.3 crore. The Central Government's advice for expenditure on Scheduled Castes was Rs.3 crore. But under the Plan we have allotted, against that total of Rs.3 crore, Rs.3.97 crore for Scheduled Castes welfare and Rs.64 lakh for backward-classes welfare, making a total of Rs.4 crore 61 lakh allotted for them. I have already stated that in total nearly Rs.10 crore is for Scheduled Castes and nearly Rs.6 crore for backward people. Apart from that, for housing for Harijans, 15 thousand houses at a cost of nearly Rs.3 crore have been completed. That work is being completed this month. We are making arrangements to build one lakh houses in the first stage. Therefore it is not a correct argument to say that the Central Government somehow insisted and that we failed to obtain it.
+At the Central Government level, even the term Backward Community is used only in the sense of welfare for Scheduled Castes. Taking our circumstances to them, the amount we asked for both Scheduled Castes welfare and backward-classes welfare was Rs.4.56 crore; that must be kept in mind. This is the amount we asked for within the Rs.143 crore Plan. But the Central Planning Commission advised us to spend Rs.3 crore. The Central Government's advice for expenditure on Scheduled Castes was Rs.3 crore. But under the Plan we have allotted, against that total of Rs.3 crore, Rs.3.97 crore for Scheduled Castes welfare and Rs.64 lakh for backward-classes welfare, making a total of Rs.4 crore 61 lakh allotted for them. I have already stated that in total nearly Rs.10 crore is for Scheduled Castes and nearly Rs.6 crore for backward people. Apart from that, for housing for Harijans, 15 thousand houses at a cost of nearly Rs.3 crore have been completed. That work is being completed this month. We are making arrangements to build one lakh houses in the first stage. Therefore it is not a correct argument to say that the Central Government somehow insisted and that we failed to obtain it.
 
 (Mrs Sathyavani Muthu rose.)
 
@@ -208,7 +208,7 @@ For some expenditure, a receipt may not have been supplied. A signature may have
 
 **Dr H.V. Hande:** Sir, one more thing. Not only that. The Audit Report says that no record has been shown for the wastage of 75 lakh tonnes of sugar over five years. I said all this only to bring it to the Chief Minister's attention.
 
-**Hon. Kalaignar M. Karunanidhi:** This is not something new only to the D.M.K. Government. In the administration of Tamil Nadu, from the time of the British and through Congress rule, the usual practice has been for audit to be conducted properly, for certain errors, if found, to be pointed out through questions as to what is required, and for officers to answer them. I said this only because of the expression “wonderful Chief Minister,” and for no other reason.
+**Hon. Kalaignar M. Karunanidhi:** This is not something peculiar to the D.M.K. Government. In the administration of Tamil Nadu, from the time of the British and through Congress rule, the usual practice has been for audit to be conducted properly, for certain errors, if found, to be pointed out through questions as to what is required, and for officers to answer them. I said this only because of the expression “wonderful Chief Minister,” and for no other reason.
 
 **Dr H.V. Hande:** It is very high.
 
