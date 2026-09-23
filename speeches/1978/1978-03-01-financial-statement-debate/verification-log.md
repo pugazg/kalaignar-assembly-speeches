@@ -128,16 +128,42 @@ Source-visible forms retained without normalization include:
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - outside wording imported — **0**
 
+## Gate C.5
+
+**N/A / CLOSED across this PDF.**
+
+- historical-glyph corrections — **0**
+- unresolved historical-glyph readings — **0**
+- Tamil changes — **0**
+
+## Gate D structural audit
+
+**PASS / COMPLETE — 33/33 pages.**
+
+- source-page markers — **356→388 / 33 / exactly once / ordered**
+- missing pages — **0**
+- duplicate pages — **0**
+- empty page bodies — **0**
+- incoming boundary **355→356** — **PASS**
+- outgoing boundary **388→389** — **PASS**
+- split continuation **375→376** — **PASS**
+- source-printed English correspondence — **preserved**
+- speaker labels/intervention — **preserved**
+- final scan 388 close through `வணக்கம்.` and source ornament — **preserved**
+- completeness corrections — **0**
+- Tamil wording changes at Gate D — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+
 ## Downstream state
 
 - Gate C — **COMPLETE**
-- Gate C.5 — **READY / NOT STARTED**
-- Gate D — **NOT STARTED**
-- Gate E — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **READY / NOT STARTED**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-**Gate C.5 applicability review.**
+**Gate E Batch 1 — scans 356–365 / printed pp.355–364 / exactly 10 pages.**
