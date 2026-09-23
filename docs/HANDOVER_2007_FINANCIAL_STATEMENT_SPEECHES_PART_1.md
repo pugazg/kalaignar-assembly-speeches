@@ -687,7 +687,7 @@ Gate-E final Batch 6:
 Downstream:
 
 - Gate F / English — **COMPLETE — scans 263–319 / 57 of 57 translated / 0 blockers / verified_against_tamil=false**
-- Gate G — **NOT STARTED**
+- Gate G — **IN PROGRESS — Batch 1 scans 263–287 / 25 of 57 reviewed / 6 refinements / 0 blockers / 0 Tamil changes / verified_against_tamil=false**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
@@ -713,9 +713,25 @@ Downstream:
 - working file — `translation.md`
 - review ledger — `translation-review.md`
 
-## Exact next activity — Speech 14 Gate G Batch 1
+## Gate G Batch 1 durable state
 
-Review **scans 263–287 / exactly 25 pages** of Gate-F English against the corresponding Gate-E-verified Tamil.
+- reviewed scans — **263–287 / 25 of 57**
+- status — **PASS / COMPLETE**
+- English refinements — **6**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed English changes — **0**
+- outside English / other-witness wording imported — **0**
+- source-page sequence — **263→287 / complete / ordered**
+- source-printed English on scans **264, 281, 282** — **verified verbatim**
+- English — **NOT YET VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+
+Batch-1 refinements are recorded in `translation-review.md`; they affect pages **263, 264, 274, 279, 280, 283**.
+
+## Exact next activity — Speech 14 Gate G Batch 2
+
+Review **scans 288–312 / exactly 25 pages** of Gate-F English against the corresponding Gate-E-verified Tamil.
 
 Requirements:
 
@@ -726,4 +742,5 @@ Requirements:
 - record every English refinement in the Gate-G ledger;
 - keep `verified_against_tamil=false` until Gate G completes all 57 pages;
 - do not process more than **25 pages** in this activity;
+- if Batch 2 passes, set next activity to **Gate G FINAL Batch 3 — scans 313–319 / 7 pages**;
 - do not begin Gate H or Speech 15.
