@@ -103,7 +103,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
-- Speech 16 — **Gate E IN PROGRESS / Batch 1 PASS / 10 of 33 / 11 corrections / Tamil NOT VERIFIED**
+- Speech 16 — **Gate E IN PROGRESS / Batches 1–2 PASS / 20 of 33 / 12 corrections / Tamil NOT VERIFIED**
 - speeches 17–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
@@ -796,19 +796,19 @@ Canonical entry:
 
 - source label/date — **உரை : 16 / 1.3.1978**
 - scans — **356–388 / printed pp.355–387 / 33 pages**
-- Gate C — **COMPLETE / 33/33**
+- Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 0 completeness corrections**
-- Gate E Batch 1 — **PASS / scans 356–365 / 10 pages**
-- Gate-E Batch-1 corrections — **11 entries / 11 occurrences**
-- Gate-E affected scans — **6 — 356, 357, 360, 362, 363, 365**
-- Gate-E unresolved — **0**
-- cumulative Gate E — **10/33**
-- scans 366–388 changed by Batch 1 — **0**
+- Gate D — **PASS / COMPLETE**
+- Gate E Batch 1 — **PASS / scans 356–365 / 11 corrections**
+- Gate E Batch 2 — **PASS / scans 366–375 / 1 correction**
+- cumulative Gate E — **20/33 / 12 corrections**
+- cumulative affected scans — **7**
+- unresolved — **0**
+- scans 376–388 changed by Batch 2 — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - Gate F / G / H — **NOT STARTED**
 - Speech 17 — **NOT STARTED**
 
-## Exact next activity — Speech 16 Gate E Batch 2
+## Exact next activity — Speech 16 Gate E Batch 3
 
-Process **scans 366–375 / printed pp.365–374 / exactly 10 source pages** using only rendered controlling anthology pixels. Log every source-backed correction. Preserve source oddities. Do not exceed 10 pages and do not begin Gate F/G/H or Speech 17.
+Process **scans 376–385 / printed pp.375–384 / exactly 10 source pages** from part016 local pages **1–10**. Use only rendered controlling anthology pixels, log every source-backed correction, preserve source oddities and source-printed English, and do not begin Gate F/G/H or Speech 17.
