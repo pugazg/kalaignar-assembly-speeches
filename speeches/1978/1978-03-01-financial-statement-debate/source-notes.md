@@ -109,25 +109,26 @@ Conservative first-pass preservation includes scan 386 the printed `(ஒப்�
 
 - historical-glyph corrections — **0**
 - unresolved — **0**
-- source wording changed — **0**
 
 ## Gate D structural audit
 
-**PASS / COMPLETE — 33/33 pages.**
+**PASS / COMPLETE — 33/33 pages / 0 completeness corrections.**
 
-- markers — **356→388 / exactly once / ordered**
-- missing markers — **0**
-- duplicate markers — **0**
-- empty page bodies — **0**
-- incoming boundary **355→356** — **PASS**
-- outgoing boundary **388→389** — **PASS**
-- part015→part016 continuation **375→376** — **PASS**
-- source-printed English on scans 368 and 384 — **preserved**
-- speaker labels/intervention structure — **preserved**
-- final scan 388 close through `வணக்கம்.` and source ornament — **preserved**
-- completeness corrections — **0**
+## Gate E Batch 1
+
+**PASS / COMPLETE — scans 356–365 / printed pp.355–364 / exactly 10 pages.**
+
+- controlling local pages — **part015 local 6–15**
+- source authority — **rendered controlling pixels only**
+- correction ledger — **11 entries / 11 occurrences**
+- affected scans — **6 — 356, 357, 360, 362, 363, 365**
+- unresolved readings — **0**
+- scans 366–388 modified — **0**
+- outside wording imported — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
+
+Source-visible oddities retained include scan 357 `காட்டி யிருக்கிறோம்`, scan 362 numeric `183,85`, and scan 363 `கட்டப்பட்ட விருக்கின்றன`.
 
 ## Exact next
 
-**Gate E Batch 1 — scans 356–365 / exactly 10 pages.**
+**Gate E Batch 2 — scans 366–375 / exactly 10 pages.**
