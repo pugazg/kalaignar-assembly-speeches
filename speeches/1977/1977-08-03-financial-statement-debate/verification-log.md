@@ -81,10 +81,26 @@ Planned Speech-15 Gate-E cadence:
 - Batch 3 — **340–349 / 10 pages**
 - Final Batch 4 — **350–355 / 6 pages**
 
+## Gate C.5 — historical-glyph applicability
+
+**N/A / CLOSED.**
+
+Decision basis:
+
+- source edition — **May 2007 modern-typeset anthology**;
+- representative direct-pixel review — **scans 320, 326, 335, 345, 355**;
+- known reform-sensitive families considered — `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- observed typography — **modern post-reform Tamil forms**;
+- legacy/historical metal-type identity requiring separate decoding — **not observed**;
+- historical-glyph corrections — **0**;
+- unresolved historical-glyph readings — **0**.
+
+This applicability closure is not a Tamil source-fidelity verification. `verified_against_scan=false` remains unchanged.
+
 ## Downstream gate state
 
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **READY / NOT STARTED**
 - Gate E — **NOT STARTED**
 - Gate F — **BLOCKED**
 - Gate G — **NOT STARTED**
@@ -92,4 +108,13 @@ Planned Speech-15 Gate-E cadence:
 
 ## Exact next activity
 
-Perform **Gate C.5 applicability determination for scans 320–355**. Do not begin Gate E until Gate C.5 is PASS/N/A and Gate D is complete. When Gate E begins, enforce the fixed 10-source-page cadence above.
+Perform **Gate D completeness audit — scans 320–355 / printed pp.319–354 / 36 pages**.
+
+Gate D must verify complete structural representation only: markers **320→355** exactly once and ordered, no page gaps/duplicates, locked start/end boundaries, page-spanning continuity, and all printed speaker/intervention structure represented. Do not mark Tamil verified.
+
+After Gate D passes, Gate E must follow the fixed 10-page cadence:
+
+- **320–329**
+- **330–339**
+- **340–349**
+- **350–355** final remainder
