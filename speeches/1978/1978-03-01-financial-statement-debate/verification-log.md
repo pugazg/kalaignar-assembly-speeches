@@ -91,10 +91,47 @@ Source-visible forms retained without normalization include:
 - scan **384** — source-printed English `TWAD Board/EWS SUB-DIVISION` correspondence
 - scan **385** — printed dates `10.11.1977` and `7.12.1977` retained as source-visible
 
+## Gate C — Final Batch 4 / scans 386–388
+
+**COMPLETE / FIRST-PASS TRANSCRIPTION — 3-page final remainder.**
+
+- global scans — **386–388**
+- printed pages — **385–387**
+- split/local pages — **part016 local 11–13**
+- marker sequence — **386→388 / 3 / exactly once / ordered**
+- cumulative marker sequence — **356→388 / 33 / exactly once / ordered**
+- unresolved first-pass readings — **0**
+- source-pixel authority — **PASS**
+- scan 388 close through `வணக்கம்.` and source ornament — **PASS**
+- OCR/web/Official Reports/alternate anthology/released-speech wording imported — **0**
+- Speech 17 modified — **0**
+- verified-against-scan state — **false**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+
+Source-visible forms retained without normalization include:
+
+- scan **386** — memorandum close `(ஒப்பம்.) / ஆணையாளர்.`
+- scan **386** — `சீப் மினிஸ்டர்ஸ் கப்`
+- scan **387** — `போட்டோக்கள்` / `செக்யூரிட்டி ஆபீசர்`
+- scan **388** — final close `அமைகிறேன், வணக்கம்.`
+
+## Gate C closure
+
+**COMPLETE — 33/33 first-pass pages.**
+
+- Batch 1 — **356–365 / 10**
+- Batch 2 — **366–375 / 10**
+- Batch 3 — **376–385 / 10**
+- Final Batch 4 — **386–388 / 3**
+- source-page markers — **356→388 / 33 / exactly once / ordered**
+- unresolved first-pass readings — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- outside wording imported — **0**
+
 ## Downstream state
 
-- Gate C — **30/33 complete**
-- Gate C.5 — **NOT STARTED**
+- Gate C — **COMPLETE**
+- Gate C.5 — **READY / NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
 - Gate F — **NOT STARTED**
@@ -103,4 +140,4 @@ Source-visible forms retained without normalization include:
 
 ## Exact next activity
 
-**Gate C Final Batch 4 — scans 386–388 / printed pp.385–387 / final 3 pages.**
+**Gate C.5 applicability review.**
