@@ -762,47 +762,42 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - root dated speech table — **indexed**
 - release — **RELEASED / CLOSED**
 
-## Speech 15 Gate-E closure — PASS / COMPLETE / 36 of 36
+## Speech 15 Gate-H closure — PASS / COMPLETE / RELEASED
 
 - working entry — `speeches/1977/1977-08-03-financial-statement-debate/`
 - source label/date — **உரை : 15 / 03.08.1977**
 - scans — **320–355 / printed pp.319–354 / 36 pages**
 - boundaries — **319→320 PASS / 355→356 PASS**
-- source-page markers — **320→355 / 36 / exactly once / ordered**
-- Gate C — **COMPLETE / 36 of 36 first-pass**
+- Tamil source markers — **320→355 / 36/36 / exactly once / ordered**
+- English source sections — **320→355 / 36/36 / exactly once / ordered**
+- Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE — 36/36 / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE — 36/36**
-- Batch 1 — **320–329 / 10 pages / PASS / 19 corrections**
-- Batch 2 — **330–339 / 10 pages / PASS / 24 corrections after direct-pixel reconciliation**
-- Batch 3 — **340–349 / 10 pages / PASS / 8 corrections**
-- Final Batch 4 — **350–355 / 6 pages / PASS / 2 corrections**
-- cumulative Gate-E corrections — **53 entries / 53 occurrences**
-- cumulative affected scans — **26**
-- Gate-E unresolved readings — **0**
-- split continuation **350→351** — **PASS / directly verified**
-- final scan 355 close through `விடைபெறுகிறேன்.` — **PASS**
-- outside wording imported — **0**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **PASS / COMPLETE / 53 corrections / 0 unresolved**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- Gate F — **READY / NOT STARTED**
-- Gate G — **NOT STARTED**
-- Gate H — **NOT STARTED / NOT RELEASED**
-- Speech 16 — **NOT STARTED**
+- Gate F — **COMPLETE / 36 of 36**
+- Gate G — **PASS / COMPLETE / 36 of 36 / 6 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired release pointer**
+- `translation-review.md` — **COMPLETE**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- Speech 16 — **NOT STARTED / NEXT**
 
-Final Batch-4 correction ledger:
+## Exact next activity — Speech 16 source-boundary + Gate-C setup
 
-1. scan 350 / printed p.349 — `செயல்படுத்தப்படும்` → `செயல் படுத்தப்படும்`
-2. scan 351 / printed p.350 — `குறிப்பிடுவதாக` → `குறிப்பிட்டதாக`
+Work on **உரை : 16 / 1.3.1978**, mapped to **scans 356–388 / printed pp.355–387 / 33 pages**, canonical path:
 
-## Exact next activity — Speech 15 Gate F
-
-Begin **English translation from the Gate-E-verified Tamil only**.
+`speeches/1978/1978-03-01-financial-statement-debate/`
 
 Requirements:
 
-- do not alter verified Tamil;
-- translate the verified Tamil, not OCR or an earlier draft;
-- preserve argumentative sequence, repetitions, direct address, humour/irony, metaphors, rhetorical rhythm and parliamentary exchanges;
-- preserve figures, names/initials, page boundaries and source-printed English consistently;
-- do not silently correct historical claims;
-- Gate G, Gate H and Speech 16 remain **NOT STARTED** in this activity.
+- refetch live `main`;
+- reconfirm incoming boundary **355→356** and outgoing boundary **388→389** against rendered controlling pixels;
+- establish controlling split coverage and source notes;
+- create/reuse the canonical working entry without touching released Speech 15;
+- once Gate C transcription begins, process **10 source pages per iteration**; only the final remainder may be fewer than 10;
+- do not exceed 10 Gate-C pages without explicit user override.
