@@ -503,7 +503,7 @@ Gate C.5 closure alone did not constitute Tamil verification; Gate E is now comp
 - root dated speech table — **indexed**
 - release — **RELEASED / CLOSED**
 
-## Speech 15 source-boundary + Gate-C state
+## Speech 15 Gate-E state
 
 Working entry:
 
@@ -514,34 +514,35 @@ Working entry:
 - start boundary **319→320** — **PASS / visually reconfirmed**
 - end boundary **355→356** — **PASS / visually reconfirmed**
 - source coverage — **36/36 / no gap / no overlap**
-- split transitions **325→326 / 350→351** — **visually continuous**
+- split transitions **325→326 / 350→351** — **PASS / visually continuous**
 - Gate C — **COMPLETE / 36 of 36 first-pass**
-- markers — **320→355 / 36 / exactly once / ordered**
-- unresolved first-pass readings — **0 currently flagged**
-- Tamil — **NOT VERIFIED / verified_against_scan=false**
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
 - Gate D — **PASS / COMPLETE — 36/36 / 0 completeness corrections**
-- Gate E — **READY / NOT STARTED**
+- Gate E — **IN PROGRESS**
+- Gate E Batch 1 — **PASS / COMPLETE — scans 320–329 / 10 of 36**
+- Batch-1 correction ledger — **18 entries / 18 occurrences**
+- affected scans — **10**
+- unresolved Gate-E readings — **0**
+- scans **330–355** body text modified in Batch 1 — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
 - Gate F / English — **BLOCKED**
 - outside wording imported — **0**
 
 ## Fixed Gate-C / Gate-E rule
 
-Repository workflow now fixes:
+Repository workflow fixes:
 
 - **Gate C — 10 source pages per iteration**
 - **Gate E — 10 source pages per iteration**
 - only the final remainder may contain fewer than 10 pages;
 - exceeding 10 pages requires explicit user override.
 
-This supersedes the earlier Speech-15 whole-speech exception for Gates C and E. Gate C had already completed on live `main` before the rule was locked.
+Speech-15 Gate-E cadence: **320–329 PASS / 330–339 NEXT / 340–349 / 350–355**.
 
-Planned Speech-15 Gate-E cadence: **320–329 / 330–339 / 340–349 / 350–355**.
+## Gate E Batch 1 result
 
-## Gate D result
-
-**PASS / COMPLETE — 36/36 structurally audited.** Markers **320→355** are complete and ordered, no page is missing/duplicated/empty, locked boundaries and split continuations pass, intervention pages **326 / 335 / 343 / 349** are represented, and Gate-D completeness corrections are **0**. Tamil remains **NOT VERIFIED**.
+**PASS / COMPLETE.** All ten source pages in scans **320–329** were strictly compared against rendered controlling pixels. The source-backed ledger contains **18 corrections / 18 occurrences**, with **0 unresolved** and **0 outside wording imported**. Tamil remains **NOT VERIFIED** until all 36 pages complete Gate E.
 
 ## Exact next activity
 
-Perform **Speech 15 Gate E Batch 1 — scans 320–329 / printed pp.319–328 / exactly 10 pages**. Use rendered controlling pixels only and record every source-backed correction. Do not mark Tamil verified until Gate E completes all 36 pages.
+Perform **Speech 15 Gate E Batch 2 — scans 330–339 / printed pp.329–338 / exactly 10 pages**. Use rendered controlling pixels only and record every source-backed correction. Do not mark Tamil verified until Gate E completes all 36 pages. Do not begin Gate F, Gate G, Gate H or Speech 16.
