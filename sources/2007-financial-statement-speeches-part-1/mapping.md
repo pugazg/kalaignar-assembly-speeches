@@ -123,8 +123,8 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speeches 1–16 COMPLETE; speeches 17–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–15**
-- Gate D — **Speeches 1–15 PASS / COMPLETE**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–16**
+- Gate D — **Speeches 1–16 PASS / COMPLETE**
 - Gate E — **Speeches 1–15 PASS / COMPLETE / Tamil VERIFIED; speeches 16–19 not started**
 - Gate F — **Speeches 1–15 COMPLETE; speeches 16–19 not started**
 - Gate G — **Speeches 1–15 PASS / COMPLETE / English VERIFIED; speeches 16–19 not started**
@@ -341,8 +341,8 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - Gate-H wording changes — **0 Tamil / 0 English**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 16 — **Gate C COMPLETE / scans 356–388 / 33 of 33 / Tamil NOT VERIFIED / Gate C.5 READY**
+- Speech 16 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Tamil NOT VERIFIED / Gate E READY**
 
 ## Exact continuation
 
-Continue **Speech 16 Gate C.5 applicability review**. Gate C is complete at **356–388 / 33 of 33**; boundaries **355→356 / 388→389 PASS**; Tamil remains **NOT VERIFIED**.
+Continue **Speech 16 Gate E Batch 1 — scans 356–365 / printed pp.355–364 / exactly 10 pages**. Gate C.5 is **N/A / CLOSED** and Gate D is **PASS / COMPLETE**; Tamil remains **NOT VERIFIED**.
