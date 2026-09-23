@@ -1,0 +1,144 @@
+{
+  "id": "1977-08-03-financial-statement-debate",
+  "date": "1977-08-03",
+  "year": 1977,
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "source_label_ta": "கலைஞர் மு. கருணாநிதி",
+    "role_ta": null,
+    "role_en": null,
+    "role_note": "The source supplies the speaker label; no historical office or role is inferred from outside knowledge."
+  },
+  "legislature": {
+    "source_context_ta": "சட்டமன்ற உரை",
+    "source_context_en": "Legislative Assembly speech"
+  },
+  "speech": {
+    "source_label_ta": "உரை : 15",
+    "printed_date": "03.08.1977",
+    "archive_subject_slug": "financial-statement-debate",
+    "archive_title_note": "Neutral archival subject label derived from the anthology title; not asserted to be an official printed legislative event title."
+  },
+  "source": {
+    "publication_title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)",
+    "edition_ta": "முதற்பதிப்பு",
+    "publication_date": "2007-05",
+    "publication_date_printed_ta": "மே, 2007",
+    "publisher_ta": "தமிழ்க்கனி பதிப்பகம்",
+    "publisher_location_ta": "சென்னை - 600 004",
+    "controlling_full_scan_filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf",
+    "controlling_full_scan_total_pages": 546,
+    "controlling_full_scan_file_size_bytes": 393027493,
+    "controlling_full_scan_sha256": "e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932",
+    "speech_scan_pages": "320-355",
+    "speech_printed_pages": "319-354",
+    "speech_page_count": 36,
+    "scan_printed_page_relationship": "printed page = global scan page - 1",
+    "start_boundary": "319->320 PASS / visually reconfirmed",
+    "end_boundary": "355->356 PASS / visually reconfirmed",
+    "source_unit_mapped_complete": true,
+    "source_authority": "rendered scan pixels",
+    "usable_text_layer": false,
+    "working_splits_available": [
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_013_pages_301-325.pdf",
+        "page_count": 25,
+        "file_size_bytes": 17775750,
+        "sha256": "26f0a480bf6c7b6f3f8638aadc77d0528f15b61def73937fad1627060f31c61b",
+        "local_pages": "20-25",
+        "global_scans": "320-325",
+        "printed_pages": "319-324",
+        "speech_page_count": 6,
+        "boundary_witness": "local page 19 = global scan 319 / Speech 14 close / excluded"
+      },
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_014_pages_326-350.pdf",
+        "page_count": 25,
+        "file_size_bytes": 19044518,
+        "sha256": "6caec9d63d871d69f636b35aa3297345bab9e064c7e74e2f9f1bc13f1a29311e",
+        "local_pages": "1-25",
+        "global_scans": "326-350",
+        "printed_pages": "325-349",
+        "speech_page_count": 25
+      },
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_015_pages_351-375.pdf",
+        "page_count": 25,
+        "file_size_bytes": 18255463,
+        "sha256": "cc81c3d6e9496012e10a39f2a0ad3666d522f9a7b2b58f25f484a7f5a3682344",
+        "local_pages": "1-5",
+        "global_scans": "351-355",
+        "printed_pages": "350-354",
+        "speech_page_count": 5,
+        "boundary_witness": "local page 6 = global scan 356 / Speech 16 start / excluded"
+      }
+    ],
+    "split_transition_325_326": "PASS / visually continuous Speech-15 text",
+    "split_transition_350_351": "PASS / visually continuous Speech-15 text",
+    "final_page_close": "scan 355 ends with விடைபெறுகிறேன். and source ornament"
+  },
+  "source_separation": {
+    "other_witness_wording_allowed": false,
+    "released_material_wording_imported": false,
+    "ocr_wording_imported": false,
+    "web_wording_imported": false,
+    "official_report_wording_imported": false,
+    "alternate_anthology_wording_imported": false,
+    "safeguard": "Speech 15 transcription and verification use only controlling 2007 anthology pixels. Released speeches and other witnesses may not supply or repair wording."
+  },
+  "execution": {
+    "normal_activity_page_limit": 25,
+    "whole_speech_exception_applies": true,
+    "whole_speech_exception_note": "Speech 15 is 36 pages. Existing repository policy permits a single speech longer than 25 pages to be processed intact rather than split merely to satisfy the normal activity limit.",
+    "inherited_speech14_batch_override": false,
+    "next_activity": "Gate C first-pass Tamil transcription scans 320-355 / all 36 pages"
+  },
+  "transcription": {
+    "language": "Tamil",
+    "method": "manual Gate C first-pass transcription from rendered pixels of the controlling 2007 anthology only",
+    "preserve_source_spelling": true,
+    "preserve_source_punctuation": true,
+    "preserve_source_numerals": true,
+    "preserve_headings": true,
+    "preserve_speaker_labels_and_interventions": true,
+    "preserve_printed_english": true,
+    "preserve_source_visible_repetition": true,
+    "page_boundaries_marked": true,
+    "status": "not-started",
+    "gate_c_status": "ready-not-started",
+    "completed_scan_pages": null,
+    "completed_printed_pages": null,
+    "completed_page_count": 0,
+    "total_page_count": 36,
+    "marker_count": 0,
+    "marker_range": null,
+    "unresolved_readings": [],
+    "unresolved_reading_count": 0,
+    "completeness_audit_passed": false,
+    "verified_against_scan": false,
+    "gate_c5_status": "not-started",
+    "gate_d_status": "not-started",
+    "gate_e_status": "not-started",
+    "outside_wording_imported": false,
+    "next_gate": "Gate C first-pass transcription scans 320-355"
+  },
+  "translation": {
+    "language": "English",
+    "status": "blocked",
+    "gate_f_status": "blocked",
+    "gate_g_status": "not-started",
+    "verified_against_tamil": false,
+    "block_reason": "Tamil Gates C-E are incomplete.",
+    "source_text": "Gate-E-verified Tamil in transcript.md once available",
+    "next_gate": null
+  },
+  "release": {
+    "status": "not-released",
+    "released": false,
+    "release_ready": false,
+    "indexed": false,
+    "gate_h_status": "not-started",
+    "canonical_bilingual_transcript": false
+  }
+}
