@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate G Batch 2 — scans 288–312
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate H release / closure audit
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -19,46 +19,38 @@ Working entry:
 - Gate-E corrections — **32 entries / 32 occurrences**
 - unresolved Tamil readings — **0**
 - Gate F — **COMPLETE / 57 of 57**
-- English source-page sequence — **263→319 / 57 sections / exactly once / ordered**
-- Gate G — **IN PROGRESS**
-- Gate G Batch 1 — **PASS / scans 263–287 / 25 of 57 reviewed**
-- Batch-1 English refinements — **6**
-- refinement pages — **263, 264, 274, 279, 280, 283**
-- blocking fidelity issues — **0**
-- verified-Tamil changes — **0**
-- source-printed English changes — **0**
+- Gate G — **PASS / COMPLETE / 57 of 57**
+- Gate G Batch 1 — **263–287 / 25 pages / 6 refinements**
+- Gate G Batch 2 — **288–312 / 25 pages / 12 refinements**
+- Gate G Final Batch 3 — **313–319 / 7 pages / 5 refinements**
+- cumulative Gate-G refinements — **23**
+- Gate-G blockers — **0**
+- verified-Tamil changes during Gate G — **0**
+- source-printed-English changes — **0**
 - outside English imported — **0**
-- source-printed English on scans **264, 281, 282** — **verified verbatim**
-- English — **NOT YET VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-- Gate H — **NOT STARTED / NOT RELEASED**
+- English source-page sequence — **263→319 / 57 sections / exactly once / ordered**
+- source-printed English — **verified verbatim throughout**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **READY / NOT STARTED**
 - Speech 15 — **NOT STARTED**
-
-## Gate G Batch 1 refinement ledger
-
-1. page 263 — `with a mind that is not troubled by that` → `without being troubled by it`
-2. page 264 — awkward `said that this was the difference...` construction → `regarding this difference...`
-3. page 274 — `There are large maths.` → `There are large religious maths.`
-4. page 279 — `We may put it at even Rs.160 crore.` → `We may propose even Rs.160 crore.`
-5. page 280 — recast the `Backward Community` sentence for faithful, clearer syntax
-6. page 283 — `This is not something new only to the D.M.K. Government.` → `This is not something peculiar to the D.M.K. Government.`
-
-Full before/after wording is in `translation-review.md`.
 
 ## Exact next activity
 
-Perform **Speech 14 Gate G Batch 2 — English fidelity and voice review / scans 288–312 / exactly 25 pages**.
+Perform **Speech 14 Gate H release / closure audit**.
 
 Requirements:
 
-1. compare Gate-F English in `translation.md` with the corresponding Gate-E-verified Tamil in `transcript.md`;
-2. review meaning fidelity, omissions/additions, speaker/intervention structure, figures, dates, percentages, reactions, repetitions and source-page continuity;
-3. improve English only where needed for closer fidelity or clearer faithful reading;
-4. record every English refinement in the Gate-G ledger with source page and before/after wording;
-5. preserve all source-printed English verbatim, especially the Vijayawada-resolution quotations on scans 288–289 and `Tamil Nadu Goods Transport Organisation` on scan 308;
-6. make **0 Tamil changes**;
-7. import no wording from web, Official Reports, alternate anthologies, released speeches or another witness;
-8. keep `verified_against_tamil=false` after Batch 2 because scans 313–319 will remain unreviewed;
-9. do not process more than **25 pages** in this activity;
-10. if Batch 2 passes, set the next activity to **Gate G FINAL Batch 3 — scans 313–319 / exactly 7 pages**;
-11. do not begin Gate H or Speech 15.
+1. confirm Tamil source-page coverage **263→319 / 57/57 / exactly once / ordered**;
+2. confirm English source-page coverage **263→319 / 57/57 / exactly once / ordered**;
+3. confirm hard boundaries **262→263 / 319→320** remain PASS;
+4. confirm Tamil `verified_against_scan=true`;
+5. confirm English `verified_against_tamil=true`;
+6. confirm Gate-E correction ledger totals **32 entries / 32 occurrences** and unresolved Tamil readings **0**;
+7. confirm Gate-G refinement total **23**, blockers **0**, Tamil changes **0**, source-printed-English changes **0**;
+8. confirm source-printed English remains verbatim;
+9. confirm final Tamil close through `வணக்கம்.` and final English close through `Vanakkam.`;
+10. audit bilingual structure and control-document consistency;
+11. determine canonical/index treatment consistent with prior released anthology speeches;
+12. if all checks pass, perform the repository's normal Gate-H release/closure synchronization;
+13. do not alter verified Tamil or English unless a separate source-backed defect is discovered;
+14. do not begin Speech 15 in the same activity unless separately instructed.
