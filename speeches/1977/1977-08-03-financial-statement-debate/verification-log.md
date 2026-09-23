@@ -255,27 +255,63 @@ Source-visible oddities and awkward constructions were retained rather than norm
 
 **Gate E remains IN PROGRESS — 30 of 36 pages verified. Tamil remains NOT VERIFIED / verified_against_scan=false.**
 
+## Gate E — FINAL Batch 4 / scans 350–355
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 6 pages; cumulative 36 of 36.**
+
+Coverage:
+
+- verified scans — **350–355**
+- verified printed pages — **349–354**
+- verified pages — **6/6 in final batch; cumulative 36/36**
+- split/local coverage — **part014 local 25 = scan 350; part015 local 1–5 = scans 351–355**
+- source markers in batch — **350→355 / 6 / exactly once / ordered**
+- split continuation **350→351** — **PASS / source continuation preserved**
+- final scan 355 close through `விடைபெறுகிறேன்.` and source ornament — **PASS**
+- Gate-E Batch-4 correction ledger — **2 entries / 2 occurrences**
+- Batch-4 affected scans — **2 — 350, 351**
+- cumulative Gate-E corrections — **53 entries / 53 occurrences**
+- cumulative affected scans — **26 / 36 verified scans**
+- unresolved readings — **0**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- scan **356 / Speech 16** modified in this activity — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
+
+Gate-E Batch-4 correction ledger:
+
+1. **scan 350 / printed p.349** — `பயிர் இன்ஷூரன்ஸ் திட்டம் செயல்படுத்தப்படும்.` → `பயிர் இன்ஷூரன்ஸ் திட்டம் செயல் படுத்தப்படும்.`
+   - the rendered source visibly separates `செயல் படுத்தப்படும்`; preserve the source spacing.
+2. **scan 351 / printed p.350** — `என்று குறிப்பிடுவதாக தெரிவித்திருக்கிறார்கள்.` → `என்று குறிப்பிட்டதாக தெரிவித்திருக்கிறார்கள்.`
+   - the rendered source reads `குறிப்பிட்டதாக`.
+
+The **350→351** split was checked directly: scan 350 ends `ஆனால் அவர்கள் அறிவித்த`, and scan 351 continues `தேர்தல் பிரகடனத்திலும் வானொலிப் பேச்சிலும்...`; the continuation is complete and ordered.
+
+## Gate E closure
+
+**PASS / COMPLETE — scans 320–355 / printed pp.319–354 / 36 of 36 pages source-verified.**
+
+- Batch 1 — **320–329 / 10 pages / 19 corrections**
+- Batch 2 — **330–339 / 10 pages / 24 corrections after direct-pixel reconciliation**
+- Batch 3 — **340–349 / 10 pages / 8 corrections**
+- Final Batch 4 — **350–355 / 6 pages / 2 corrections**
+- cumulative corrections — **53 entries / 53 occurrences**
+- cumulative affected scans — **26 / 36**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
+
 ## Downstream gate state
 
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS / Batches 1–3 PASS / 30 of 36 pages**
-- Gate-E cumulative corrections — **51 entries / 51 occurrences**
-- Gate-E unresolved readings — **0**
-- Gate F — **BLOCKED**
+- Gate E — **PASS / COMPLETE — 36 of 36**
+- Gate F — **READY / NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
+- Speech 16 — **NOT STARTED**
 
 ## Exact next activity
 
-Perform **Gate E FINAL Batch 4 — scans 350–355 / printed pp.349–354 / 6-page final remainder**.
+Begin **Gate F — English translation from the Gate-E-verified Tamil only**.
 
-Controlling split:
-
-- part014 local page **25 = scan 350 / printed p.349**
-- part015 local pages **1–5 = scans 351–355 / printed pp.350–354**
-- total — **6 pages**
-
-Use only rendered controlling anthology pixels. Strictly verify every word/character, names/initials, numerals/dates/percentages/money/units, embedded English, headings, speaker labels/interventions, punctuation where legible, and omissions/repetitions across the **350→351** split transition. Record every source-backed correction in the Gate-E ledger. Keep `verified_against_scan=false` until this final remainder passes and all 36 pages are complete.
-
-Do not begin Gate F, Gate G, Gate H or Speech 16.
+Preserve Kalaignar's argumentative sequence, repetitions, direct address, humour/irony, metaphors, parliamentary interventions, figures, page boundaries and source-printed English. Do not alter the verified Tamil. Do not begin Gate G, Gate H or Speech 16 in the same activity.
