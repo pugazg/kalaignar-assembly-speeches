@@ -77,8 +77,27 @@ Batch 2:
 - English — **VERIFIED AGAINST TAMIL**
 - `verified_against_tamil=true`
 
-## Gate H
+## Gate H — canonical bilingual merge / release closure
 
-**READY / NOT STARTED**
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- verified Tamil source-page markers **320→355** — **36/36 / exactly once / ordered**
+- Gate-G-verified English source-page sections **320→355** — **36/36 / exactly once / ordered**
+- canonical `transcript.md` — **complete verified Tamil followed by verified English**
+- `translation.md` — **retired to the standard released pointer**
+- Gate-E totals — **53 correction entries / 53 occurrences / 0 unresolved readings**
+- Gate-G totals — **6 refinements / 0 blockers / 0 Tamil changes**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- hard boundaries **319→320 / 355→356** — **preserved**
+- split continuations **325→326 / 350→351** — **preserved**
+- final Tamil close — **`விடைபெறுகிறேன்.`**
+- final English close — **`With that, I take my leave.`**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- release disposition — **Speech 15 RELEASED / CLOSED**
+
+## Exact next activity
+
+Begin **Speech 16 / 1.3.1978 source-boundary + Gate-C setup — scans 356–388 / printed pp.355–387 / 33 pages**. Respect the fixed Gate-C rule of **10 source pages per iteration** once transcription begins. Do not reopen Speech 15 unless a separate source-backed defect is discovered.
 
 Gate H may now merge the Gate-G-verified English after the untouched verified Tamil in canonical `transcript.md`, validate both 36-page sequences, synchronize indexes/status/control documents, retire the working translation file to a pointer, and release Speech 15.
