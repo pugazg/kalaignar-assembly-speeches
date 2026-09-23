@@ -503,7 +503,7 @@ Gate C.5 closure alone did not constitute Tamil verification; Gate E is now comp
 - root dated speech table — **indexed**
 - release — **RELEASED / CLOSED**
 
-## Speech 15 Gate-E closure
+## Speech 15 Gate-H closure
 
 Working entry:
 
@@ -514,25 +514,24 @@ Working entry:
 - boundaries **319→320 / 355→356** — **PASS**
 - source coverage — **36/36 / no gap / no overlap**
 - split transitions **325→326 / 350→351** — **PASS**
-- Gate C — **COMPLETE / 36 of 36 first-pass**
+- Gate C — **COMPLETE / 36 of 36**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **PASS / COMPLETE — 36 of 36**
-- Gate-E Batch 1 — **320–329 / PASS / 19 corrections**
-- Gate-E Batch 2 — **330–339 / PASS / 24 corrections after direct-pixel reconciliation**
-- Gate-E Batch 3 — **340–349 / PASS / 8 corrections**
-- Gate-E Final Batch 4 — **350–355 / PASS / 2 corrections**
-- cumulative Gate-E corrections — **53 entries / 53 occurrences**
-- cumulative affected scans — **26**
-- unresolved Gate-E readings — **0**
-- outside wording imported — **0**
+- Gate E — **PASS / COMPLETE — 36 of 36 / 53 corrections / 0 unresolved**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- Gate F / English — **READY / NOT STARTED**
-- Gate G — **NOT STARTED**
-- Gate H — **NOT STARTED / NOT RELEASED**
-
-Final Batch 4 directly verified the **350→351** split and the scan-355 close through `விடைபெறுகிறேன்.`. The two final source-backed corrections are scan 350 `செயல் படுத்தப்படும்` and scan 351 `குறிப்பிட்டதாக`.
+- Gate F — **COMPLETE — 36 of 36**
+- Gate G — **PASS / COMPLETE — 36 of 36 / 6 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- outside wording imported — **0**
 
 ## Exact next activity
 
-Begin **Speech 15 Gate F — English translation from the verified Tamil only**. Preserve source-printed English, figures, page boundaries, interventions and Kalaignar's parliamentary voice. Do not alter verified Tamil; do not begin Gate G, Gate H or Speech 16 in the same activity.
+Begin **Speech 16 / 1.3.1978 source-boundary + Gate-C setup — scans 356–388 / printed pp.355–387 / 33 pages**.
+
+The locked anthology mapping gives Speech 16 the canonical path `speeches/1978/1978-03-01-financial-statement-debate/`. Reconfirm **355→356** and **388→389** before transcription. Once Gate C begins, process **10 source pages per iteration** except the final remainder.
