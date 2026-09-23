@@ -774,7 +774,7 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - Gate D — **PASS / COMPLETE — 36/36 / 0 completeness corrections**
 - Gate E — **IN PROGRESS**
 - Gate E Batch 1 — **PASS / COMPLETE — scans 320–329 / printed pp.319–328 / 10 pages**
-- Batch-1 corrections — **18 entries / 18 occurrences**
+- Batch-1 corrections — **19 entries / 19 occurrences**
 - Batch-1 affected scans — **10 / 10**
 - Gate-E unresolved readings — **0**
 - split continuation **325→326** — **PASS / preserved**
@@ -829,7 +829,7 @@ Speech-15 Gate-E cadence:
 
 The complete correction ledger is in the Speech-15 `verification-log.md`:
 
-- corrections — **18 entries / 18 occurrences**
+- corrections — **19 entries / 19 occurrences**
 - affected scans — **10**
 - unresolved — **0**
 - source-visible oddities preserved — **YES**

@@ -520,7 +520,7 @@ Working entry:
 - Gate D — **PASS / COMPLETE — 36/36 / 0 completeness corrections**
 - Gate E — **IN PROGRESS**
 - Gate E Batch 1 — **PASS / COMPLETE — scans 320–329 / 10 of 36**
-- Batch-1 correction ledger — **18 entries / 18 occurrences**
+- Batch-1 correction ledger — **19 entries / 19 occurrences**
 - affected scans — **10**
 - unresolved Gate-E readings — **0**
 - scans **330–355** body text modified in Batch 1 — **0**
@@ -541,7 +541,7 @@ Speech-15 Gate-E cadence: **320–329 PASS / 330–339 NEXT / 340–349 / 350–
 
 ## Gate E Batch 1 result
 
-**PASS / COMPLETE.** All ten source pages in scans **320–329** were strictly compared against rendered controlling pixels. The source-backed ledger contains **18 corrections / 18 occurrences**, with **0 unresolved** and **0 outside wording imported**. Tamil remains **NOT VERIFIED** until all 36 pages complete Gate E.
+**PASS / COMPLETE.** All ten source pages in scans **320–329** were strictly compared against rendered controlling pixels. The source-backed ledger contains **19 corrections / 19 occurrences**, with **0 unresolved** and **0 outside wording imported**. Tamil remains **NOT VERIFIED** until all 36 pages complete Gate E.
 
 ## Exact next activity
 
