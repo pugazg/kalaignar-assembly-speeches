@@ -688,7 +688,11 @@ Downstream:
 
 - Gate F / English — **COMPLETE — scans 263–319 / 57 of 57 translated / 0 blockers / verified_against_tamil=false**
 - Gate G — **PASS / COMPLETE — scans 263–319 / 57 of 57 reviewed / 23 cumulative refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes / verified_against_tamil=true**
-- Gate H — **NOT STARTED / NOT RELEASED**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired pointer**
+- `data/speeches.json` / root dated table — **indexed**
+- Gate-H wording changes — **0 Tamil / 0 English**
 - Speech 15 — **NOT STARTED**
 
 ## Gate F closure — Batches 1–3 COMPLETE
@@ -737,20 +741,30 @@ Batch-2 refinements are recorded in `translation-review.md` on pages **290, 291,
 
 Final-Batch refinements are recorded in `translation-review.md` on pages **313, 314, 317, 319**; page **317** has two separate refinements.
 
-## Exact next activity — Speech 14 Gate H release / closure audit
+## Gate H closure — PASS / COMPLETE / RELEASED
 
-Confirm:
-
-- Tamil source-page coverage — **263→319 / 57/57 / ordered**
-- English source-page coverage — **263→319 / 57/57 / ordered**
+- canonical bilingual record — **COMPLETE**
+- Tamil source-page markers — **263→319 / 57/57 / exactly once / ordered**
+- English source-page sections — **263→319 / 57/57 / exactly once / ordered**
 - Tamil — **VERIFIED / verified_against_scan=true**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- source-printed English — **preserved verbatim**
 - Gate-E corrections — **32 entries / 32 occurrences**
 - Gate-G refinements — **23**
-- unresolved Tamil readings — **0**
 - Gate-G blockers — **0**
-- bilingual control-document consistency
-- canonical/index treatment and release readiness
+- Gate-H wording changes — **0 Tamil / 0 English**
+- source-printed English — **preserved verbatim**
+- hard boundaries — **262→263 PASS / 319→320 PASS**
+- final closes — **Tamil `வணக்கம்.` / English `Vanakkam.`**
+- `translation.md` — **retired to released pointer**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- release — **RELEASED / CLOSED**
 
-Do not alter verified Tamil or verified English unless a separate source-backed defect is discovered. Do not begin Speech 15 in the same activity unless separately instructed.
+## Exact next activity — Speech 15 source-boundary + Gate-C setup
+
+Begin **Speech 15 / 03.08.1977 — scans 320–355 / printed pp.319–354 / 36 pages**.
+
+- hard incoming boundary — **319→320**, already mapped as Speech 14 close → Speech 15 start;
+- hard outgoing boundary — **355→356**, mapped as Speech 15 close → Speech 16 start;
+- do not reopen Speech 14 unless a separate source-backed defect is discovered;
+- do not begin downstream verification/translation gates before Speech 15 source-boundary and Gate-C setup are established.
