@@ -154,16 +154,50 @@ Source-visible forms retained without normalization include:
 - Tamil wording changes at Gate D — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 
+## Gate E — Batch 1 / scans 356–365
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 pages; cumulative 10 of 33.**
+
+Coverage:
+
+- verified scans — **356–365**
+- verified printed pages — **355–364**
+- verified pages — **10/10 in batch; cumulative 10/33**
+- split/local coverage — **part015 local 6–15**
+- source markers in batch — **356→365 / 10 / exactly once / ordered**
+- Gate-E Batch-1 correction ledger — **11 entries / 11 occurrences**
+- Batch-1 affected scans — **6 — 356, 357, 360, 362, 363, 365**
+- unresolved readings — **0**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- scans **366–388** modified in this activity — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+
+Gate-E Batch-1 correction ledger:
+
+1. **scan 356 / printed p.355** — `அந்தப் பதவி ஒன்று இருந்து - அந்தப்பதவிக்கு உரியவர்` → `அந்தப் பதவி ஒன்று இருந்து அந்தப்பதவிக்கு உரியவர்`
+   - the source has no dash after `இருந்து`.
+2. **scan 357 / printed p.356** — `இந்த ஆண்டு வருவாய் வரக்கூடியது 680 கோடி ரூபாய்` → `இந்த ஆண்டு வரவாக வரக்கூடியது 680 கோடி ரூபாய்`
+3. **scan 357 / printed p.356** — `ஆளுங்கட்சியைச் சேர்ந்த உறுப்பினர்கள்` → `ஆளுங் கட்சியைச் சேர்ந்த உறுப்பினர்கள்`
+4. **scan 360 / printed p.359** — `மாற்றியமைத்து தனித்தனி` → `மாற்றியமைத்துத் தனித்தனி`
+5. **scan 362 / printed p.361** — `தீர்வுகள் அங்கேங்கே காணப்பட்டன.` → `தீர்வுகள் அங்கங்கே காணப்பட்டன.`
+6. **scan 362 / printed p.361** — `1977ஆம் ஆண்டிலே` → `1977 ஆம் ஆண்டிலே`
+7. **scan 362 / printed p.361** — `183,85 குடியிருப்புகள் கட்டப்பட்டன` → `183,85 குடியிருப்புக்கள் கட்டப்பட்டன`
+   - source numeric form `183,85` retained unchanged.
+8. **scan 363 / printed p.362** — `சென்னையில், திமீர் திடரென்று` → `சென்னையில், திடீர் திடீரென்று`
+9. **scan 365 / printed p.364** — `வீட்டு வசதித் திட்டம்` → `வீட்டு வசதி திட்டம்`
+10. **scan 365 / printed p.364** — `அவர்கள் கவனத்திற்கு கொண்டு வந்து` → `அவர்கள் கவனத்திற்குக் கொண்டு வந்து`
+11. **scan 365 / printed p.364** — `முந்தைய ஆட்சியில் நடைபெற்றிருக்கின்றன` → `முந்தைய ஆட்சியில் நடைபெற்று இருக்கின்றன`
+
 ## Downstream state
 
 - Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **READY / NOT STARTED**
+- Gate E — **IN PROGRESS — 10 of 33**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-**Gate E Batch 1 — scans 356–365 / printed pp.355–364 / exactly 10 pages.**
+**Gate E Batch 2 — scans 366–375 / printed pp.365–374 / exactly 10 pages.**
