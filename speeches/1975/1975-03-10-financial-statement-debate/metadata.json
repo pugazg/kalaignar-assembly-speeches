@@ -99,7 +99,7 @@
     "current_gate_d": "COMPLETE / 57 pages / 56 transitions / 0 corrections",
     "next_gate_e_batch": null,
     "current_gate_e_batch": "313-319 / 7 pages FINAL / COMPLETE / 2 corrections",
-    "next_activity": "Gate H release / closure audit",
+    "next_activity": "Speech 15 source-boundary + Gate-C setup scans 320-355",
     "current_gate_f_batch": "313-319 / 7 pages FINAL / COMPLETE",
     "next_gate_f_batch": null,
     "current_gate_g_batch": "313-319 / 7 pages FINAL / COMPLETE / 5 refinements",
@@ -190,7 +190,7 @@
     "verified_against_tamil": true,
     "block_reason": null,
     "source_text": "Gate-E-verified Tamil in transcript.md",
-    "next_gate": "Gate H release / closure audit",
+    "next_gate": null,
     "translated_scans": "263-319",
     "translated_printed_pages": "262-318",
     "translated_page_count": 57,
@@ -214,7 +214,7 @@
       "outside_english_imported": false,
       "source_printed_english_preserved": true,
       "source_page_markers_preserved": true,
-      "note": "Complete first-pass English translation from Gate-E-verified Tamil only; Gate G fidelity review remains pending."
+      "note": "Complete first-pass English translation from Gate-E-verified Tamil only; Gate G fidelity review subsequently completed."
     },
     "gate_g_reviewed_scans": "263-319",
     "gate_g_reviewed_page_count": 57,
@@ -235,14 +235,22 @@
       "source_page_markers_preserved": true,
       "verified_against_tamil": true,
       "note": "English fidelity and voice review complete against Gate-E-verified Tamil; source-printed English preserved verbatim."
-    }
+    },
+    "placement": "canonical in transcript.md; translation.md retired to pointer",
+    "canonical_merged": true,
+    "translation_working_copy_retired": true,
+    "gate_h_status": "pass-complete"
   },
   "release": {
-    "status": "not-released",
-    "released": false,
-    "release_ready": false,
-    "indexed": false,
-    "gate_h_status": "not-started",
-    "canonical_bilingual_transcript": false
+    "status": "released",
+    "released": true,
+    "release_ready": true,
+    "indexed": true,
+    "gate_h_status": "pass-complete",
+    "canonical_bilingual_transcript": true,
+    "translation_working_copy_retired": true,
+    "gate_h_wording_changes_tamil": 0,
+    "gate_h_wording_changes_english": 0,
+    "release_note": "Speech 14 Gate H PASS / COMPLETE. Canonical bilingual transcript released; translation.md retired to pointer; no verified Tamil or English wording changed during Gate H. Unique date 1975-03-10 is eligible for the canonical dated indexes."
   }
 }
