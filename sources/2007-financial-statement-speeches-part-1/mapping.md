@@ -63,7 +63,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 11 | `10.3.1972` | 1972-03-10 | 152–190 | 151–189 | `1972-03-10-financial-statement-debate` |
 | 12 | `07.03.1973` | 1973-03-07 | 191–230 | 190–229 | `1973-03-07-financial-statement-debate`; **independent parallel witness** to released `1973-03-07-financial-statement-reply`; Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete; intentionally not duplicated in dated indexes |
 | 13 | `14.03.1974` | 1974-03-14 | 231–262 | 230–261 | `1974-03-14-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
-| 14 | `10.03.1975` | 1975-03-10 | 263–319 | 262–318 | `1975-03-10-financial-statement-debate` |
+| 14 | `10.03.1975` | 1975-03-10 | 263–319 | 262–318 | `1975-03-10-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 15 | `03.08.1977` | 1977-08-03 | 320–355 | 319–354 | `1977-08-03-financial-statement-debate` |
 | 16 | `1.3.1978` | 1978-03-01 | 356–388 | 355–387 | `1978-03-01-financial-statement-debate` |
 | 17 | `22 & 23.3.1979` | **multi-date source unit: 1979-03-22 and 1979-03-23** | 389–481 | 388–480 | **canonicalization HOLD** — do not force to one date until internal date-boundary evidence/policy is resolved |
@@ -122,13 +122,13 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–13 COMPLETE / RELEASED-CLOSED downstream; Speech 14 IN PROGRESS 263–272 = 10/57; speeches 15–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–13; Speech 14 NOT STARTED**
-- Gate D — **Speeches 1–13 PASS / COMPLETE; Speech 14 NOT STARTED**
-- Gate E — **Speeches 1–13 PASS / COMPLETE / Tamil VERIFIED; Speech 14 NOT STARTED / 10-page cadence locked**
-- Gate F — **Speeches 1–13 COMPLETE; Speech 14 BLOCKED**
-- Gate G — **Speeches 1–13 PASS / COMPLETE / English VERIFIED; Speech 14 NOT STARTED**
-- Gate H — **Speeches 1–13 PASS / COMPLETE — RELEASED / CLOSED; Speech 14 NOT RELEASED; speeches 15–19 not started**
+- Gate C — **Speeches 1–14 COMPLETE; speeches 15–19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–14**
+- Gate D — **Speeches 1–14 PASS / COMPLETE**
+- Gate E — **Speeches 1–14 PASS / COMPLETE / Tamil VERIFIED**
+- Gate F — **Speeches 1–14 COMPLETE**
+- Gate G — **Speeches 1–14 PASS / COMPLETE / English VERIFIED**
+- Gate H — **Speeches 1–14 PASS / COMPLETE — RELEASED / CLOSED; speeches 15–19 not started**
 - Speech 13 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED / RELEASED-CLOSED / 7 Gate-G refinements / 0 blockers / 0 Gate-H wording changes**
 
 ## Gate-H boundary / release check for Speeches 4–5
@@ -300,30 +300,26 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - root dated speech table — **indexed**
 - Speech 14 — **Gates C–E COMPLETE / scans 263–319 / 57 of 57 / Tamil VERIFIED**
 
-## Speech 14 Gates C–E closure
+## Speech 14 Gate-H closure
 
 - working entry — `speeches/1975/1975-03-10-financial-statement-debate/`
-- full mapped unit — **263–319 / printed 262–318 / 57 pages**
-- hard boundaries — **262→263 PASS / 319→320 PASS / both visually reconfirmed**
-- Gate C — **COMPLETE / 57 of 57**
-- source markers — **263→319 / 57 / exactly once / ordered**
-- final close — **scan 319 / `வணக்கம்.`**
-- Tamil — **VERIFIED**
-- `verified_against_scan=true`
-- unresolved first-pass readings — **0 currently flagged**
-- source-printed English — **preserved**
-- outside wording imported — **0**
-- Gate C.5 — **N/A / CLOSED**
-  - controlling witness — modern **2007** anthology typesetting
-  - coverage considered — **57/57 pages**
-  - legacy/reform-sensitive glyph anomalies requiring a separate pass — **0 observed**
-  - Tamil wording changes at Gate C.5 — **0**
-- Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
-- Gate E — **PASS / COMPLETE — scans 263–319 / 57 of 57 / 32 corrections / 0 unresolved**
-- Gate F / English — **COMPLETE — scans 263–319 / 57 of 57 translated / 0 blockers**
-- Gate G — **PASS / COMPLETE — scans 263–319 / 57 of 57 reviewed / 23 cumulative refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes / verified_against_tamil=true**
-- Speech 15 — **not begun**
+- source label/date — `உரை : 14 / 10.03.1975`
+- scans — **263–319 / printed pp.262–318 / 57 pages**
+- hard boundaries — **262→263 PASS / 319→320 PASS**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate E — **PASS / COMPLETE / 32 corrections / 0 unresolved**
+- Gate F — **COMPLETE / 57 of 57**
+- Gate G — **PASS / COMPLETE / 57 of 57 / 23 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- source-printed English — **preserved verbatim**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- Speech 15 — **NOT STARTED**
 
 ## Exact continuation
 
-Proceed with **Speech 14 Gate H release / closure audit**. Confirm final bilingual 57/57 coverage, verification flags, source-printed-English preservation, control-document consistency, canonical/index treatment and release readiness. Do not alter verified Tamil or English unless a separate source-backed defect is discovered.
+Begin **Speech 15 / 03.08.1977 source-boundary + Gate-C setup — scans 320–355 / printed pp.319–354 / 36 pages**. Do not reopen Speech 14 unless a source-backed defect is discovered.
