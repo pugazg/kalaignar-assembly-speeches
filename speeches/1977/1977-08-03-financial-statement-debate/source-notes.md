@@ -121,9 +121,9 @@ The controlling publication is a **May 2007 modern-typeset anthology**. Enlarged
 - completeness corrections — **0**
 - Tamil remains **NOT VERIFIED**
 
-## Gate E Batch 1 result
+## Gate E state
 
-**PASS / COMPLETE — scans 320–329 / printed pp.319–328 / 10 of 36 pages.**
+**IN PROGRESS — Batch 1 PASS / COMPLETE — scans 320–329 / printed pp.319–328 / 10 of 36 pages.**
 
 - correction ledger — **18 entries / 18 occurrences**
 - affected scans — **10**
