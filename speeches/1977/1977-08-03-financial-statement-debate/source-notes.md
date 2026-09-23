@@ -90,10 +90,10 @@ Per explicit user instruction, the controlling repository rule is now:
 
 This supersedes the earlier Speech-15 whole-speech exception for Gates C and E. Speech 15 Gate C had already completed on live `main` before this rule was locked.
 
-Planned Speech-15 Gate-E batches:
+Speech-15 Gate-E cadence:
 
-- **320–329**
-- **330–339**
+- **320–329 — PASS / COMPLETE**
+- **330–339 — NEXT**
 - **340–349**
 - **350–355** final remainder
 
@@ -121,6 +121,19 @@ The controlling publication is a **May 2007 modern-typeset anthology**. Enlarged
 - completeness corrections — **0**
 - Tamil remains **NOT VERIFIED**
 
+## Gate E Batch 1 result
+
+**PASS / COMPLETE — scans 320–329 / printed pp.319–328 / 10 of 36 pages.**
+
+- correction ledger — **18 entries / 18 occurrences**
+- affected scans — **10**
+- unresolved readings — **0**
+- source separation — **PASS / outside wording imported 0**
+- scans **330–355** body text modified — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+
+See `verification-log.md` for the complete source-backed correction ledger.
+
 ## Exact next
 
-Gate E Batch 1 — **scans 320–329 / exactly 10 pages**.
+Gate E Batch 2 — **scans 330–339 / printed pp.329–338 / exactly 10 pages**.
