@@ -530,8 +530,25 @@ Working entry:
 - root dated speech table — **indexed**
 - outside wording imported — **0**
 
+## Speech 16 Gate-C state
+
+Working entry:
+
+[../../speeches/1978/1978-03-01-financial-statement-debate/](../../speeches/1978/1978-03-01-financial-statement-debate/)
+
+- source label/date — **உரை : 16 / 1.3.1978**
+- mapped unit — **scans 356–388 / printed pp.355–387 / 33 pages**
+- boundaries **355→356 / 388→389** — **PASS / visually reconfirmed**
+- controlling coverage — **part015 local 6–25 + part016 local 1–13 / 33 of 33 / no gap / no overlap**
+- Gate C Batch 1 — **COMPLETE / scans 356–365 / 10 pages**
+- cumulative Gate C — **10 of 33**
+- first-pass unresolved readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Gate C.5 onward — **NOT STARTED**
+- outside wording imported — **0**
+
 ## Exact next activity
 
-Begin **Speech 16 / 1.3.1978 source-boundary + Gate-C setup — scans 356–388 / printed pp.355–387 / 33 pages**.
+**Speech 16 Gate C Batch 2 — scans 366–375 / printed pp.365–374 / exactly 10 pages.**
 
-The locked anthology mapping gives Speech 16 the canonical path `speeches/1978/1978-03-01-financial-statement-debate/`. Reconfirm **355→356** and **388→389** before transcription. Once Gate C begins, process **10 source pages per iteration** except the final remainder.
+Do not begin Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 17.
