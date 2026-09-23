@@ -61,8 +61,8 @@ No Speech-15 body wording has been transcribed in this setup activity.
 - source-page markers — **320→355 / 36 / exactly once / ordered**
 - first-pass unresolved readings — **0 currently flagged**
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 0 historical-glyph corrections / 0 unresolved**
-- Gate D — **READY / NOT STARTED**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 36/36 structurally audited / 0 completeness corrections**
+- Gate E — **READY / NOT STARTED**
 - Tamil — **NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate F / English — **BLOCKED**
@@ -105,8 +105,26 @@ Basis:
 
 This Gate-C.5 decision does **not** verify the Tamil body. Word-for-word source fidelity remains Gate E.
 
+## Gate D result
+
+**PASS / COMPLETE.**
+
+- source-page markers — **320→355 / 36 / exactly once / ordered**
+- missing pages — **0**
+- duplicate markers — **0**
+- empty page sections — **0**
+- boundaries **319→320 / 355→356** — **PASS**
+- split continuations **325→326 / 350→351** — **PASS**
+- printed intervention pages **326, 335, 343, 349** — **represented**
+- first title/date page — **aligned**
+- final close through `விடைபெறுகிறேன்.` — **aligned**
+- Gate-D completeness corrections — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+
 ## Exact next activity
 
-Perform **Speech 15 Gate D completeness audit — scans 320–355 / printed pp.319–354 / all 36 pages**.
+Perform **Speech 15 Gate E Batch 1 — scans 320–329 / printed pp.319–328 / exactly 10 pages**.
 
-Gate D must confirm all 36 source-page markers are present exactly once and ordered, locked boundaries remain correct, page-spanning continuations are represented, speaker labels/interventions are present, and no page is duplicated or omitted. Do not mark Tamil verified. After Gate D passes, Gate E must use the fixed 10-page cadence: **320–329 / 330–339 / 340–349 / 350–355**.
+Strictly verify against rendered controlling anthology pixels only. Record every source-backed correction. Preserve source oddities rather than normalizing. Do not mark Tamil verified until all four Gate-E batches complete.
+
+Fixed Gate-E cadence: **320–329 / 330–339 / 340–349 / 350–355**.
