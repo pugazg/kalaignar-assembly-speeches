@@ -103,7 +103,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
-- Speech 16 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Tamil NOT VERIFIED / Gate E READY**
+- Speech 16 — **Gate E IN PROGRESS / Batch 1 PASS / 10 of 33 / 11 corrections / Tamil NOT VERIFIED**
 - speeches 17–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
@@ -796,23 +796,19 @@ Canonical entry:
 
 - source label/date — **உரை : 16 / 1.3.1978**
 - scans — **356–388 / printed pp.355–387 / 33 pages**
-- boundaries **355→356 / 388→389** — **PASS**
 - Gate C — **COMPLETE / 33/33**
-- Gate C.5 — **N/A / CLOSED across this PDF / 0 historical-glyph corrections / 0 unresolved**
-- Gate D — **PASS / COMPLETE / 33/33 structurally audited**
-- markers — **356→388 / exactly once / ordered**
-- missing / duplicate / empty pages — **0 / 0 / 0**
-- split continuation **375→376** — **PASS**
-- source-printed English on scans 368 and 384 — **preserved**
-- final close through `வணக்கம்.` and source ornament — **preserved**
-- Gate-D completeness corrections — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- Gate E — **READY / NOT STARTED**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE / 0 completeness corrections**
+- Gate E Batch 1 — **PASS / scans 356–365 / 10 pages**
+- Gate-E Batch-1 corrections — **11 entries / 11 occurrences**
+- Gate-E affected scans — **6 — 356, 357, 360, 362, 363, 365**
+- Gate-E unresolved — **0**
+- cumulative Gate E — **10/33**
+- scans 366–388 changed by Batch 1 — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
 - Gate F / G / H — **NOT STARTED**
 - Speech 17 — **NOT STARTED**
 
-## Exact next activity — Speech 16 Gate E Batch 1
+## Exact next activity — Speech 16 Gate E Batch 2
 
-Process **scans 356–365 / printed pp.355–364 / exactly 10 source pages**.
-
-Use only rendered controlling anthology pixels for strict source-fidelity comparison. Preserve source spelling, punctuation, numerals, dates, amounts, labels, interventions, printed English and visible repetition. Log every source-backed correction. Do not exceed 10 pages and do not begin Gate F/G/H or Speech 17.
+Process **scans 366–375 / printed pp.365–374 / exactly 10 source pages** using only rendered controlling anthology pixels. Log every source-backed correction. Preserve source oddities. Do not exceed 10 pages and do not begin Gate F/G/H or Speech 17.
