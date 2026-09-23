@@ -92,7 +92,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–15 COMPLETE; Speech 16 IN PROGRESS / Batches 1–2 COMPLETE / 20 of 33; speeches 17–19 not started**
+- Gate C — **Speeches 1–15 COMPLETE; Speech 16 IN PROGRESS / Batches 1–3 COMPLETE / 30 of 33; speeches 17–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–15**
 - Gate D — **PASS / COMPLETE for Speeches 1–15**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–15; speeches 16–19 not started**
@@ -103,7 +103,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
-- Speech 16 — **Gate C IN PROGRESS / 20 of 33 / Tamil NOT VERIFIED**
+- Speech 16 — **Gate C IN PROGRESS / 30 of 33 / Tamil NOT VERIFIED**
 - speeches 17–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
