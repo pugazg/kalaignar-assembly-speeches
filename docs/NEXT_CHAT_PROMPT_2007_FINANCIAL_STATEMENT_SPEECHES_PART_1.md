@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 15 Gate C.5 applicability determination
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 15 Gate D completeness audit
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,14 +8,12 @@ Speeches **1–14 are RELEASED / CLOSED through Gate H** with verified Tamil and
 
 ## Fixed repository iteration rule
 
-Per explicit user instruction, `docs/ARCHIVAL_WORKFLOW.md` now controls:
+Per explicit user instruction:
 
 - **Gate C — 10 source pages per iteration**
 - **Gate E — 10 source pages per iteration**
-- only the final remainder of a speech may contain fewer than 10 pages;
-- do not exceed 10 source pages in a Gate-C or Gate-E iteration unless the user explicitly overrides the rule.
-
-This rule supersedes any earlier whole-speech exception for Gates C and E.
+- only the final remainder may contain fewer than 10 pages;
+- do not exceed 10 source pages in Gate C or Gate E unless the user explicitly overrides the rule.
 
 ## Speech 15 current state
 
@@ -25,47 +23,36 @@ Working entry:
 
 - source label/date — `உரை : 15 / 03.08.1977`
 - mapped unit — **scans 320–355 / printed pp.319–354 / 36 pages**
-- incoming boundary **319→320** — **PASS / visually reconfirmed**
-- outgoing boundary **355→356** — **PASS / visually reconfirmed**
-- source coverage — **36/36 / no gap / no overlap**
+- boundaries — **319→320 PASS / 355→356 PASS**
 - Gate C — **COMPLETE / 36 of 36 first-pass**
 - source-page markers — **320→355 / 36 / exactly once / ordered**
 - first-pass unresolved readings — **0 currently flagged**
-- Tamil — **NOT VERIFIED**
-- `verified_against_scan=false`
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED**
+- Gate C.5 basis — **May 2007 modern typesetting; representative direct-pixel review at scans 320, 326, 335, 345, 355; 0 historical-glyph corrections / 0 unresolved**
+- Gate D — **READY / NOT STARTED**
 - Gate E — **NOT STARTED**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
 - Gate F — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 16 — **NOT STARTED**
 - outside wording imported — **0**
 
-Speech 15 Gate C was already complete on live `main` before the new fixed 10-page rule was locked. Do not rewrite that completed history merely to simulate 10-page batches.
-
-## Planned Speech-15 Gate-E cadence
-
-When Gate E is reached:
-
-- Batch 1 — **scans 320–329 / printed pp.319–328 / 10 pages**
-- Batch 2 — **scans 330–339 / printed pp.329–338 / 10 pages**
-- Batch 3 — **scans 340–349 / printed pp.339–348 / 10 pages**
-- Final Batch 4 — **scans 350–355 / printed pp.349–354 / 6 pages**
-
 ## Exact next activity
 
-Perform **Speech 15 Gate C.5 applicability determination — scans 320–355**.
+Perform **Speech 15 Gate D completeness audit — scans 320–355 / printed pp.319–354 / all 36 pages**.
 
 Requirements:
 
-1. use the controlling 2007 anthology pixels only;
-2. determine whether this modern 2007 typeset witness requires a separate historical-Tamil-glyph audit;
-3. inspect enough source pages to support a defensible applicability decision, including the known reform-sensitive glyph families defined in `docs/HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`;
-4. if no legacy/historical glyph condition applies, record Gate C.5 **N/A / CLOSED** with the basis;
-5. if historical forms are present, perform or schedule the required Gate C.5 audit without normalising source wording;
-6. make no Gate-E verification claim in this activity;
-7. do not mark Tamil verified;
-8. do not begin Gate E until Gate C.5 is PASS/N/A and Gate D is complete;
-9. preserve the fixed **10-source-page** rule for all later Gate-C and Gate-E iterations;
-10. do not reopen Speech 14 or begin Speech 16.
+1. inspect canonical `transcript.md` structurally against the locked source map;
+2. confirm all **36** source-page markers **320→355** are present exactly once and ordered;
+3. confirm no source page is omitted or duplicated;
+4. confirm start/end align with locked boundaries **319→320** and **355→356**;
+5. confirm split continuations **325→326** and **350→351** are represented without mechanical omission/duplication;
+6. confirm all printed speaker labels/interventions represented in the first-pass transcript;
+7. confirm first/last Speech-15 text aligns with the locked source unit;
+8. record any completeness correction separately; do not perform Gate-E word-for-word polishing;
+9. keep Tamil **NOT VERIFIED / verified_against_scan=false**;
+10. if Gate D passes, set exact next activity to **Gate E Batch 1 — scans 320–329 / exactly 10 pages**;
+11. do not begin Gate E in the same activity unless separately instructed;
+12. do not reopen Speech 14 or begin Speech 16.
