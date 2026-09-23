@@ -92,7 +92,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–15 COMPLETE; Speech 16 IN PROGRESS / Batch 1 COMPLETE / 10 of 33; speeches 17–19 not started**
+- Gate C — **Speeches 1–15 COMPLETE; Speech 16 IN PROGRESS / Batches 1–2 COMPLETE / 20 of 33; speeches 17–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–15**
 - Gate D — **PASS / COMPLETE for Speeches 1–15**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–15; speeches 16–19 not started**
@@ -103,7 +103,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
-- Speech 16 — **Gate C IN PROGRESS / 10 of 33 / Tamil NOT VERIFIED**
+- Speech 16 — **Gate C IN PROGRESS / 20 of 33 / Tamil NOT VERIFIED**
 - speeches 17–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
@@ -786,7 +786,7 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - Gate-H wording changes — **0 Tamil / 0 English**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 16 — **Gate C IN PROGRESS / Batch 1 COMPLETE / 10 of 33 / Tamil NOT VERIFIED**
+- Speech 16 — **Gate C IN PROGRESS / Batches 1–2 COMPLETE / 20 of 33 / Tamil NOT VERIFIED**
 
 ## Speech 16 active Gate-C state
 
@@ -802,15 +802,16 @@ Canonical entry:
 - part016 local **1–13 = scans 376–388** — SHA-256 `cc1067f556825a36fd7558316df12ed09ca92e498374e9b23d1ebb7a2aa28e47`
 - source coverage — **33/33 COMPLETE / no gap / no overlap**
 - Gate C Batch 1 — **COMPLETE / scans 356–365 / 10 pages**
-- marker sequence — **356→365 / exactly once / ordered**
+- Gate C Batch 2 — **COMPLETE / scans 366–375 / 10 pages**
+- marker sequence — **356→375 / 20 / exactly once / ordered**
 - unresolved first-pass readings — **0**
-- source-visible oddities retained — scan 362 `183,85`; scan 363 `கட்டப்பட்ட விருக்கின்றன`
+- source-visible oddities retained — scan 362 `183,85`; scan 363 `கட்டப்பட்ட விருக்கின்றன`; scan 369 `(avoid) ‘அவாய்ட்’`; scan 372 `போட்டாபோட்டி காட்டா குஸ்தி`; scan 375 `தரங்கெட்ட அரசியல்வாதிகள்`
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - Gate C.5 / D / E / F / G / H — **NOT STARTED**
 - Speech 17 — **NOT STARTED**
 
-## Exact next activity — Speech 16 Gate C Batch 2
+## Exact next activity — Speech 16 Gate C Batch 3
 
-Process **scans 366–375 / printed pp.365–374 / exactly 10 source pages** from part015 local pages **16–25**.
+Process **scans 376–385 / printed pp.375–384 / exactly 10 source pages** from part016 local pages **1–10**.
 
 Use only rendered controlling anthology pixels. Preserve source wording, punctuation, numerals, printed English, labels and visible repetition. Do not exceed 10 Gate-C pages and do not begin downstream gates in the same activity.
