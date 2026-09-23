@@ -92,16 +92,17 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–13 COMPLETE; speeches 14–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–13 — modern 2007 typesetting**
-- Gate D — **PASS / COMPLETE for Speeches 1–13**
-- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–13**
-- Gate F — **COMPLETE for Speeches 1–13**
-- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–13**
-- Gate H — **Speeches 1–13 PASS / COMPLETE — RELEASED / CLOSED**
+- Gate C — **Speeches 1–14 COMPLETE; speeches 15–19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–14 — modern 2007 typesetting**
+- Gate D — **PASS / COMPLETE for Speeches 1–14**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–14**
+- Gate F — **COMPLETE for Speeches 1–14**
+- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–14**
+- Gate H — **Speeches 1–14 PASS / COMPLETE — RELEASED / CLOSED**
 - Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
-- speeches 14–19 — **NOT STARTED**
+- Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
+- speeches 15–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
 
