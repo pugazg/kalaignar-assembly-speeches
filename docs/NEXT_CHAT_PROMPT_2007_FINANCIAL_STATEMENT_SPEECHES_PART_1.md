@@ -32,7 +32,7 @@ Working entry:
 - Gate-D completeness corrections — **0**
 - Gate E — **IN PROGRESS**
 - Gate E Batch 1 — **PASS / COMPLETE — scans 320–329 / 10 of 36 pages**
-- Batch-1 corrections — **18 entries / 18 occurrences**
+- Batch-1 corrections — **19 entries / 19 occurrences**
 - Batch-1 affected scans — **10 / 10**
 - Gate-E unresolved readings — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**

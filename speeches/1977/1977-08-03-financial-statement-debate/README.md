@@ -126,7 +126,7 @@ This Gate-C.5 decision does **not** verify the Tamil body. Word-for-word source 
 **PASS / COMPLETE — scans 320–329 / printed pp.319–328 / exactly 10 pages.**
 
 - verified pages — **10/10 in batch; cumulative 10/36**
-- corrections — **18 entries / 18 occurrences**
+- corrections — **19 entries / 19 occurrences**
 - affected scans — **10/10**
 - unresolved readings — **0**
 - split continuation **325→326** — **PASS / preserved**
