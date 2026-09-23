@@ -538,22 +538,19 @@ Working entry:
 
 - source label/date — **உரை : 16 / 1.3.1978**
 - mapped unit — **scans 356–388 / printed pp.355–387 / 33 pages**
-- boundaries **355→356 / 388→389** — **PASS**
 - Gate C — **COMPLETE / 33 of 33**
-- Gate C.5 — **N/A / CLOSED across this PDF / 0 corrections / 0 unresolved**
-- Gate D — **PASS / COMPLETE / 33 of 33 structurally audited / 0 completeness corrections**
-- marker sequence — **356→388 / exactly once / ordered**
-- missing / duplicate / empty pages — **0 / 0 / 0**
-- split continuation **375→376** — **PASS**
-- source-printed English — **preserved**
-- final close through `வணக்கம்.` and source ornament — **preserved**
-- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- Gate E — **READY / NOT STARTED**
+- Gate C.5 — **N/A / CLOSED across this PDF**
+- Gate D — **PASS / COMPLETE / 0 completeness corrections**
+- Gate E Batch 1 — **PASS / scans 356–365 / 10 pages / 11 corrections**
+- cumulative Gate E — **10 of 33**
+- affected scans — **6**
+- unresolved Gate-E readings — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
 - Gate F / G / H — **NOT STARTED**
 - outside wording imported — **0**
 
 ## Exact next activity
 
-**Speech 16 Gate E Batch 1 — scans 356–365 / printed pp.355–364 / exactly 10 pages.**
+**Speech 16 Gate E Batch 2 — scans 366–375 / printed pp.365–374 / exactly 10 pages.**
 
-Use only rendered controlling anthology pixels. Do not exceed 10 Gate-E source pages in this iteration. Do not begin Gate F, Gate G, Gate H or Speech 17.
+Do not exceed 10 source pages. Do not begin Gate F, Gate G, Gate H or Speech 17.
