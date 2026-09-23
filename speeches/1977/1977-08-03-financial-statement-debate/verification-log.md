@@ -97,24 +97,48 @@ Decision basis:
 
 This applicability closure is not a Tamil source-fidelity verification. `verified_against_scan=false` remains unchanged.
 
+## Gate D — Tamil completeness audit
+
+**PASS / COMPLETE — scans 320–355 / 36 of 36 pages.**
+
+Structural checks:
+
+- source-page markers — **320→355 / 36 / exactly once / ordered**
+- missing source pages — **0**
+- duplicate source-page markers — **0**
+- empty canonical page sections — **0**
+- locked start boundary **319→320** — **PASS**
+- locked end boundary **355→356** — **PASS**
+- split continuation **325→326** — **PASS / source continuation represented**
+- split continuation **350→351** — **PASS / source continuation represented**
+- printed speaker/intervention pages — **326, 335, 343, 349 / represented**
+- first Speech-15 title/date page — **aligned with scan 320**
+- final Speech-15 close — **aligned through `விடைபெறுகிறேன்.` on scan 355**
+- Gate-D completeness corrections — **0**
+- unresolved first-pass readings — **0 currently flagged**
+- Tamil verification state — **NOT VERIFIED**
+- `verified_against_scan=false`
+
+Gate D is a structural completeness audit only. It does not replace Gate-E word-for-word source-fidelity verification.
+
 ## Downstream gate state
 
 - Gate C.5 — **N/A / CLOSED**
-- Gate D — **READY / NOT STARTED**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **READY / NOT STARTED**
 - Gate F — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-Perform **Gate D completeness audit — scans 320–355 / printed pp.319–354 / 36 pages**.
+Perform **Gate E Batch 1 — scans 320–329 / printed pp.319–328 / exactly 10 pages**.
 
-Gate D must verify complete structural representation only: markers **320→355** exactly once and ordered, no page gaps/duplicates, locked start/end boundaries, page-spanning continuity, and all printed speaker/intervention structure represented. Do not mark Tamil verified.
+Use only rendered controlling anthology pixels. Strictly verify every word/character, names/initials, numerals/dates/percentages/money/units, embedded English, headings, speaker labels, punctuation where legible, and omissions/repetitions across page transitions. Record every source-backed correction in the Gate-E ledger. Keep `verified_against_scan=false` until all 36 pages complete Gate E.
 
-After Gate D passes, Gate E must follow the fixed 10-page cadence:
+Fixed Speech-15 Gate-E cadence:
 
-- **320–329**
-- **330–339**
-- **340–349**
-- **350–355** final remainder
+- Batch 1 — **320–329 / 10 pages**
+- Batch 2 — **330–339 / 10 pages**
+- Batch 3 — **340–349 / 10 pages**
+- Final Batch 4 — **350–355 / 6 pages**
