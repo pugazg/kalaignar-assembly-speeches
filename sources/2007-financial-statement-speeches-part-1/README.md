@@ -530,7 +530,7 @@ Working entry:
 - root dated speech table — **indexed**
 - outside wording imported — **0**
 
-## Speech 16 Gate-C closure
+## Speech 16 current state
 
 Working entry:
 
@@ -538,23 +538,22 @@ Working entry:
 
 - source label/date — **உரை : 16 / 1.3.1978**
 - mapped unit — **scans 356–388 / printed pp.355–387 / 33 pages**
-- boundaries **355→356 / 388→389** — **PASS / visually reconfirmed**
-- controlling coverage — **part015 local 6–25 + part016 local 1–13 / 33 of 33 / no gap / no overlap**
-- Gate C Batch 1 — **COMPLETE / scans 356–365 / 10 pages**
-- Gate C Batch 2 — **COMPLETE / scans 366–375 / 10 pages**
-- Gate C Batch 3 — **COMPLETE / scans 376–385 / 10 pages**
-- Gate C Final Batch 4 — **COMPLETE / scans 386–388 / 3 pages**
+- boundaries **355→356 / 388→389** — **PASS**
 - Gate C — **COMPLETE / 33 of 33**
-- source markers — **356→388 / 33 / exactly once / ordered**
-- first-pass unresolved readings — **0**
-- final scan 388 close through `வணக்கம்.` and source ornament — **PASS**
+- Gate C.5 — **N/A / CLOSED across this PDF / 0 corrections / 0 unresolved**
+- Gate D — **PASS / COMPLETE / 33 of 33 structurally audited / 0 completeness corrections**
+- marker sequence — **356→388 / exactly once / ordered**
+- missing / duplicate / empty pages — **0 / 0 / 0**
+- split continuation **375→376** — **PASS**
+- source-printed English — **preserved**
+- final close through `வணக்கம்.` and source ornament — **preserved**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- Gate C.5 — **READY / NOT STARTED**
-- Gate D onward — **NOT STARTED**
+- Gate E — **READY / NOT STARTED**
+- Gate F / G / H — **NOT STARTED**
 - outside wording imported — **0**
 
 ## Exact next activity
 
-**Speech 16 Gate C.5 applicability review.**
+**Speech 16 Gate E Batch 1 — scans 356–365 / printed pp.355–364 / exactly 10 pages.**
 
-Do not begin Gate E, Gate F, Gate G, Gate H or Speech 17 in the same activity.
+Use only rendered controlling anthology pixels. Do not exceed 10 Gate-E source pages in this iteration. Do not begin Gate F, Gate G, Gate H or Speech 17.
