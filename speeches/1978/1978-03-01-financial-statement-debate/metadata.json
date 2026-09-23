@@ -81,7 +81,7 @@
     "final_remainder_may_be_under_10": true,
     "current_gate_c_batch": "386-388 / 3 pages FINAL / COMPLETE",
     "next_gate_c_batch": null,
-    "next_activity": "Gate C.5 applicability review"
+    "next_activity": "Gate E Batch 1 scans 356-365 / exactly 10 pages"
   },
   "transcription": {
     "language": "Tamil",
@@ -106,11 +106,25 @@
     "unresolved_reading_count": 0,
     "verified_against_scan": false,
     "outside_wording_imported": false,
-    "next_gate": "Gate C.5 applicability review",
+    "next_gate": "Gate E Batch 1",
     "gate_c_batches_completed": 4,
     "last_completed_batch": "386-388 / 3 pages FINAL",
     "source_printed_english_preserved": true,
-    "final_page_close_verified_first_pass": true
+    "final_page_close_verified_first_pass": true,
+    "gate_c5_status": "n-a-closed",
+    "gate_c5_applicability": "not-applicable-across-pdf",
+    "gate_c5_historical_glyph_corrections": 0,
+    "gate_c5_unresolved": 0,
+    "gate_d_status": "pass-complete",
+    "gate_d_structural_page_count": 33,
+    "gate_d_marker_range": "356-388",
+    "gate_d_missing_pages": 0,
+    "gate_d_duplicate_pages": 0,
+    "gate_d_empty_pages": 0,
+    "gate_d_boundary_start": "355->356 PASS",
+    "gate_d_boundary_end": "388->389 PASS",
+    "gate_d_split_continuation": "375->376 PASS",
+    "gate_d_completeness_corrections": 0
   },
   "translation": {
     "language": "English",
