@@ -92,7 +92,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–14 COMPLETE; Speech 15 READY / NOT STARTED; speeches 16–19 not started**
+- Gate C — **Speeches 1–15 COMPLETE; speeches 16–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–14; Speech 15 NOT STARTED**
 - Gate D — **PASS / COMPLETE for Speeches 1–14; Speech 15 NOT STARTED**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–14; Speech 15 NOT STARTED**
@@ -102,7 +102,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
-- Speech 15 — **SOURCE-BOUNDARY + GATE-C SETUP PASS / 36-page source unit locked**
+- Speech 15 — **GATE C COMPLETE / 36 of 36 first-pass / Tamil NOT VERIFIED**
 - speeches 16–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
@@ -762,36 +762,45 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - root dated speech table — **indexed**
 - release — **RELEASED / CLOSED**
 
-## Speech 15 source-boundary + Gate-C setup — PASS / COMPLETE
+## Speech 15 Gate-C state — COMPLETE / 36 of 36
 
 - working entry — `speeches/1977/1977-08-03-financial-statement-debate/`
 - source label/date — **உரை : 15 / 03.08.1977**
 - scans — **320–355 / printed pp.319–354 / 36 pages**
-- incoming boundary **319→320** — **PASS / visually reconfirmed**
-- outgoing boundary **355→356** — **PASS / visually reconfirmed**
-- scan 320 — **`உரை : 15 / நாள் : 03.08.1977`**
-- scan 355 — **final page / `விடைபெறுகிறேன்.` / source ornament**
-- scan 356 — **`உரை : 16 / நாள் : 1.3.1978` / excluded**
-- part013 local **20–25 = scans 320–325** / SHA-256 `26f0a480bf6c7b6f3f8638aadc77d0528f15b61def73937fad1627060f31c61b`
-- part014 local **1–25 = scans 326–350** / SHA-256 `6caec9d63d871d69f636b35aa3297345bab9e064c7e74e2f9f1bc13f1a29311e`
-- part015 local **1–5 = scans 351–355** / SHA-256 `cc81c3d6e9496012e10a39f2a0ad3666d522f9a7b2b58f25f484a7f5a3682344`
-- split transitions **325→326 / 350→351** — **PASS / visually continuous**
-- coverage — **36/36 / no gap / no overlap**
-- Gate C — **READY / NOT STARTED**
-- Tamil — **NOT TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- boundaries — **319→320 PASS / 355→356 PASS**
+- source-page markers — **320→355 / 36 / exactly once / ordered**
+- first-pass unresolved readings — **0 currently flagged**
+- Gate C — **COMPLETE**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
 - outside wording imported — **0**
-- Speech-14 10-page override — **NOT inherited**
-- whole-speech exception — **ACTIVE / 36-page unit**
+- Gate C.5 — **NOT STARTED**
+- Gate D — **NOT STARTED**
+- Gate E — **NOT STARTED**
+- Gate F — **BLOCKED**
 
-## Exact next activity — Speech 15 Gate C first-pass transcription
+## Fixed repository iteration rule
 
-Process **all scans 320–355 / printed pp.319–354 / 36 pages as one intact speech unit**.
+Per explicit user instruction, this is now the controlling default in `docs/ARCHIVAL_WORKFLOW.md`:
 
-Requirements:
+- **Gate C — 10 source pages per iteration**
+- **Gate E — 10 source pages per iteration**
+- only a final remainder with fewer than 10 pages may be shorter;
+- exceeding 10 pages requires an explicit user override.
 
-- source authority — rendered pixels of the controlling anthology splits only;
-- preserve source spelling, punctuation, numerals, speaker labels/interventions, source-printed English and visible repetition;
-- add source-page markers **320→355** exactly once and in order;
-- do not import wording from OCR, web, Official Reports, alternate anthologies, released speeches or another witness;
-- Gate C is first pass only: keep Tamil **NOT VERIFIED / verified_against_scan=false**;
+This supersedes the earlier Speech-15 whole-speech exception for Gates C and E. Speech 15 Gate C had already completed on live `main` before this rule was locked.
+
+Speech-15 Gate-E cadence when reached:
+
+- Batch 1 — **320–329**
+- Batch 2 — **330–339**
+- Batch 3 — **340–349**
+- Final Batch 4 — **350–355**
+
+## Exact next activity — Speech 15 Gate C.5 applicability determination
+
+Review **scans 320–355** to determine whether a separate historical-glyph audit is required for this modern 2007 typeset witness.
+
+- if no historical-glyph condition applies, record Gate C.5 **N/A / CLOSED** with evidence;
+- do not begin Gate E until Gate C.5 is PASS/N/A and Gate D is complete;
+- when Gate E begins, enforce the fixed 10-page cadence;
 - do not reopen Speech 14.
