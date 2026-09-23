@@ -358,17 +358,58 @@ Source-visible oddities retained where supported by the controlling pixels inclu
 
 **Gate E — PASS / COMPLETE / 57 of 57. Tamil is VERIFIED against the controlling scan.**
 
-## Current gate state
+## Gate F — English first-pass translation
 
-- Gate C — **COMPLETE / 57 of 57 / scans 263–319 complete**
+**COMPLETE / 57 of 57 pages.**
+
+- translation source — **final Gate-E-verified Tamil only**
+- English source-page sections — **263→319 / 57 / exactly once / ordered**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / other-witness wording imported — **0**
+- source-printed English preserved verbatim — **YES**
+
+## Gate G — English fidelity and voice review
+
+**PASS / COMPLETE — 57 of 57 pages.**
+
+- reviewed source pages — **263–319 / 57 of 57**
+- cumulative English refinements — **23**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed English changes — **0**
+- outside English / other-witness wording imported — **0**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+
+Refinement details are recorded in `translation-review.md`.
+
+## Gate H — canonical bilingual merge / release closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- Tamil markers **263→319** — **57/57 / exactly once / ordered**
+- English page sections **263→319** — **57/57 / exactly once / ordered**
+- canonical `transcript.md` — **complete bilingual verified record**
+- `translation.md` — **retired to released pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- source-printed English — **preserved verbatim**
+- hard boundaries **262→263 / 319→320** — **preserved**
+- final Tamil close — **`வணக்கம்.`**
+- final English close — **`Vanakkam.`**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+
+## Final gate status
+
+- Gate C — **COMPLETE / 57 of 57**
 - Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE / 57 of 57 / 56 of 56 internal transitions / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / 57 of 57 verified / scans 263–319 / 32 corrections / 0 unresolved**
-- Tamil — **VERIFIED / `verified_against_scan=true`**
-- Gate F / English — **READY / NOT STARTED**
-- Gate G — **NOT STARTED**
-- Gate H — **NOT STARTED / NOT RELEASED**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED**
+- Gate F — **COMPLETE / 57 of 57**
+- Gate G — **PASS / COMPLETE / English VERIFIED**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Exact next activity
 
-Proceed with **Gate F English translation for Speech 14** from the now-verified Tamil, preserving source-page alignment and source-printed English quotations exactly as source witnesses. Do not begin Gate G, Gate H or Speech 15 in the same activity unless separately instructed.
+Begin **Speech 15 / 03.08.1977 source-boundary + Gate-C setup — scans 320–355 / printed pp.319–354 / 36 pages**. Do not reopen Speech 14 unless a source-backed defect is discovered.
