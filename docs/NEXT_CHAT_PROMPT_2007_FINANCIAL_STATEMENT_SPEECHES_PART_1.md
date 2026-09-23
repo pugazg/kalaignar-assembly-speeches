@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 15 Gate E Batch 3 — scans 340–349
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 15 Gate E FINAL Batch 4 — scans 350–355
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -25,48 +25,50 @@ Working entry:
 - Gate C — **COMPLETE / 36 of 36 first-pass**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate-D marker coverage — **320→355 / 36 / exactly once / ordered**
-- Gate-D missing / duplicate / empty page sections — **0 / 0 / 0**
-- Gate-D split continuations **325→326 / 350→351** — **PASS**
-- printed intervention pages **326 / 335 / 343 / 349** — **represented**
-- Gate-D completeness corrections — **0**
 - Gate E — **IN PROGRESS**
 - Gate E Batch 1 — **PASS / COMPLETE — scans 320–329 / 10 pages / 19 corrections**
-- Gate E Batch 2 — **PASS / COMPLETE — scans 330–339 / 10 pages / 19 corrections**
-- cumulative Gate-E verified pages — **20 / 36**
-- cumulative Gate-E corrections — **38 entries / 38 occurrences**
-- cumulative affected scans — **18**
+- Gate E Batch 2 — **PASS / COMPLETE — scans 330–339 / 10 pages / 24 corrections after direct-pixel reconciliation**
+- Gate E Batch 3 — **PASS / COMPLETE — scans 340–349 / 10 pages / 8 corrections**
+- cumulative Gate-E verified pages — **30 / 36**
+- cumulative Gate-E corrections — **51 entries / 51 occurrences**
+- cumulative affected scans — **24**
 - cumulative Gate-E unresolved — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - outside wording imported — **0**
-- scans **340–355** body text modified during Batch 2 — **0**
+- scans **350–355** body text modified during Batch 3 — **0**
 - Gate F — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 16 — **NOT STARTED**
 
-## Controlling split for Batch 3
+## Batch-2 reconciliation
 
-Batch 3 is wholly inside:
+Enlarged direct-pixel review while advancing Gate E found five additional source-backed defects on scans **332, 336, 338 and 339**. The final Batch-2 ledger is therefore **24 entries / 24 occurrences**. No outside witness supplied wording.
 
-- part014 local pages **15–24 = scans 340–349 / printed pp.339–348**
+## Controlling split for FINAL Batch 4
 
-Total — **10 pages exactly**.
+The final six pages span two split files:
+
+1. part014 local page **25 = scan 350 / printed p.349**
+2. part015 local pages **1–5 = scans 351–355 / printed pp.350–354**
+
+Total — **6 pages exactly**. The **350→351** split continuation must be checked directly.
 
 ## Exact next activity
 
-Perform **Speech 15 Gate E Batch 3 — scans 340–349 / printed pp.339–348 / exactly 10 pages**.
+Perform **Speech 15 Gate E FINAL Batch 4 — scans 350–355 / printed pp.349–354 / exactly 6 pages**.
 
 Requirements:
 
 1. use only rendered controlling anthology pixels;
-2. strictly compare canonical Tamil against source for all ten pages;
-3. check wording, spelling, punctuation, numerals, dates, percentages, money/units, names/initials, headings, speaker labels/interventions, source-printed English and visible repetition;
-4. preserve source oddities and apparent printer's errors if the pixels support them;
-5. record every source-backed correction in `verification-log.md` with page/scan provenance;
-6. import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other witnesses;
-7. do not modify pages 350–355 in this activity;
-8. keep Tamil **NOT VERIFIED / verified_against_scan=false** after Batch 3;
-9. synchronize Speech-15 and anthology control documents after the 10-page batch;
-10. set exact next activity to **Gate E FINAL Batch 4 — scans 350–355 / 6-page final remainder** if Batch 3 passes;
-11. do not begin Gate F, Gate G, Gate H or Speech 16.
+2. strictly compare canonical Tamil against source for all six pages;
+3. explicitly verify the **350→351** split continuation;
+4. check wording, spelling, punctuation, numerals, dates, percentages, money/units, names/initials, headings, speaker labels/interventions, source-printed English and visible repetition;
+5. preserve source oddities and apparent printer's errors if the pixels support them;
+6. record every source-backed correction in `verification-log.md` with page/scan provenance;
+7. import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other witnesses;
+8. do not modify scan 356 or any Speech-16 wording;
+9. if all six pages pass, close Gate E at **36/36** and only then set Tamil **VERIFIED / verified_against_scan=true**;
+10. synchronize Speech-15 and anthology control documents;
+11. set exact next activity to **Gate F** only if the final Gate-E remainder passes;
+12. do not begin Gate F, Gate G, Gate H or Speech 16 in the same activity.

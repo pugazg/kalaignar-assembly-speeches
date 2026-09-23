@@ -520,15 +520,18 @@ Working entry:
 - Gate D — **PASS / COMPLETE — 36/36 / 0 completeness corrections**
 - Gate E — **IN PROGRESS**
 - Gate E Batch 1 — **PASS / COMPLETE — scans 320–329 / 10 pages / 19 corrections**
-- Gate E Batch 2 — **PASS / COMPLETE — scans 330–339 / 10 pages / 19 corrections**
-- cumulative Gate-E coverage — **20 of 36**
-- cumulative correction ledger — **38 entries / 38 occurrences**
-- cumulative affected scans — **18**
+- Gate E Batch 2 — **PASS / COMPLETE — scans 330–339 / 10 pages / 24 corrections after direct-pixel reconciliation**
+- Gate E Batch 3 — **PASS / COMPLETE — scans 340–349 / 10 pages / 8 corrections**
+- cumulative Gate-E coverage — **30 of 36**
+- cumulative correction ledger — **51 entries / 51 occurrences**
+- cumulative affected scans — **24**
 - unresolved Gate-E readings — **0**
-- scans **340–355** body text modified in Batch 2 — **0**
+- scans **350–355** body text modified in Batch 3 — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - Gate F / English — **BLOCKED**
 - outside wording imported — **0**
+
+Batch-2 reconciliation added five source-backed fixes on scans **332, 336, 338 and 339** after enlarged controlling-pixel recheck. The verification log is authoritative for the full 24-entry Batch-2 ledger.
 
 ## Fixed Gate-C / Gate-E rule
 
@@ -539,12 +542,12 @@ Repository workflow fixes:
 - only the final remainder may contain fewer than 10 pages;
 - exceeding 10 pages requires explicit user override.
 
-Speech-15 Gate-E cadence: **320–329 PASS / 330–339 PASS / 340–349 NEXT / 350–355 final remainder**.
+Speech-15 Gate-E cadence: **320–329 PASS / 330–339 PASS / 340–349 PASS / 350–355 NEXT final remainder**.
 
-## Gate E Batch 2 result
+## Gate E Batch 3 result
 
-**PASS / COMPLETE.** All ten source pages in scans **330–339** were strictly compared against rendered controlling pixels. The Batch-2 source-backed ledger contains **19 corrections / 19 occurrences**, with **0 unresolved** and **0 outside wording imported**. Cumulative Gate-E coverage is **20/36** with **38 corrections**. Tamil remains **NOT VERIFIED** until all 36 pages complete Gate E.
+**PASS / COMPLETE.** All ten source pages in scans **340–349** were strictly compared against rendered controlling pixels. The Batch-3 source-backed ledger contains **8 corrections / 8 occurrences**, with **0 unresolved** and **0 outside wording imported**. Cumulative Gate-E coverage is **30/36** with **51 corrections**. Tamil remains **NOT VERIFIED** until all 36 pages complete Gate E.
 
 ## Exact next activity
 
-Perform **Speech 15 Gate E Batch 3 — scans 340–349 / printed pp.339–348 / exactly 10 pages**. Use rendered controlling pixels only and record every source-backed correction. Do not modify scans 350–355 and do not mark Tamil verified until Gate E completes all 36 pages. Do not begin Gate F, Gate G, Gate H or Speech 16.
+Perform **Speech 15 Gate E FINAL Batch 4 — scans 350–355 / printed pp.349–354 / 6-page final remainder**. Use rendered controlling pixels only and record every source-backed correction. Batch 4 spans **part014 local 25 = scan 350** and **part015 local 1–5 = scans 351–355**; verify the **350→351** continuation. Do not begin Gate F, Gate G, Gate H or Speech 16.

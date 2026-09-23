@@ -318,7 +318,7 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - source-printed English — **preserved verbatim**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 15 — **Gate E IN PROGRESS / Batch 1 PASS / 10 of 36**
+- Speech 15 — **Gate E IN PROGRESS / Batches 1–3 PASS / 30 of 36**
 
 ## Speech 15 Gate-E state
 
@@ -333,31 +333,34 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - source-page markers — **320→355 / 36 / exactly once / ordered**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE — 36/36 / 0 completeness corrections**
-- Gate E — **IN PROGRESS / Batches 1–2 PASS / 20 of 36**
+- Gate E — **IN PROGRESS / Batches 1–3 PASS / 30 of 36**
 - Gate-E Batch-1 corrections — **19 entries / 19 occurrences**
-- Gate-E Batch-2 corrections — **19 entries / 19 occurrences**
-- cumulative Gate-E corrections — **38 entries / 38 occurrences**
-- cumulative affected scans — **18 / 20**
+- Gate-E Batch-2 corrections — **24 entries / 24 occurrences after direct-pixel reconciliation**
+- Gate-E Batch-3 corrections — **8 entries / 8 occurrences**
+- cumulative Gate-E corrections — **51 entries / 51 occurrences**
+- cumulative affected scans — **24 / 30**
 - Gate-E unresolved — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - outside wording imported — **0**
-- scans **340–355** body text modified in Batch 2 — **0**
+- scans **350–355** body text modified in Batch 3 — **0**
 - fixed iteration rule — **Gate C = 10 source pages / Gate E = 10 source pages; final remainder may be fewer than 10**
-- Gate-E cadence — **320–329 PASS / 330–339 PASS / 340–349 NEXT / 350–355 final remainder**
+- Gate-E cadence — **320–329 PASS / 330–339 PASS / 340–349 PASS / 350–355 NEXT final remainder**
 
-## Gate E Batch 2 result
+## Gate E Batch 3 result
 
 - status — **PASS / COMPLETE**
-- scans — **330–339**
-- printed pages — **329–338**
+- scans — **340–349**
+- printed pages — **339–348**
 - source pages verified — **10**
-- cumulative verified — **20/36**
-- Batch-2 corrections — **19 / 19 occurrences**
-- cumulative corrections — **38 / 38 occurrences**
+- cumulative verified — **30/36**
+- Batch-3 corrections — **8 / 8 occurrences**
+- cumulative corrections — **51 / 51 occurrences**
 - unresolved readings — **0**
 - source separation — **PASS / outside wording 0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 
+Batch-2 reconciliation is recorded in the Speech-15 verification log: five additional source-backed defects on scans **332, 336, 338 and 339** raised the final Batch-2 ledger to **24**.
+
 ## Exact continuation
 
-Perform **Speech 15 Gate E Batch 3 — scans 340–349 / printed pp.339–348 / exactly 10 pages**. Record every source-backed correction, do not modify scans 350–355, and keep Tamil unverified until the final Gate-E remainder completes. Do not begin Gate F, Gate G, Gate H or Speech 16.
+Perform **Speech 15 Gate E FINAL Batch 4 — scans 350–355 / printed pp.349–354 / 6-page final remainder**. The split is **part014 local 25 = scan 350** plus **part015 local 1–5 = scans 351–355**. Record every source-backed correction, verify the **350→351** continuation, and keep Tamil unverified until the final remainder passes. Do not begin Gate F, Gate G, Gate H or Speech 16.

@@ -93,9 +93,9 @@ This supersedes the earlier Speech-15 whole-speech exception for Gates C and E. 
 Speech-15 Gate-E cadence:
 
 - **320–329 — PASS / COMPLETE**
-- **330–339 — PASS / COMPLETE**
-- **340–349 — NEXT**
-- **350–355** final remainder
+- **330–339 — PASS / COMPLETE / reconciled**
+- **340–349 — PASS / COMPLETE**
+- **350–355 — NEXT / final remainder**
 
 ## Gate C.5 applicability
 
@@ -123,20 +123,23 @@ The controlling publication is a **May 2007 modern-typeset anthology**. Enlarged
 
 ## Gate E state
 
-**IN PROGRESS — Batches 1–2 PASS / COMPLETE — scans 320–339 / printed pp.319–338 / 20 of 36 pages.**
+**IN PROGRESS — Batches 1–3 PASS / COMPLETE — scans 320–349 / printed pp.319–348 / 30 of 36 pages.**
 
 - Batch-1 correction ledger — **19 entries / 19 occurrences**
-- Batch-2 correction ledger — **19 entries / 19 occurrences**
-- cumulative correction ledger — **38 entries / 38 occurrences**
-- Batch-2 affected scans — **8**
-- cumulative affected scans — **18**
+- Batch-2 correction ledger — **24 entries / 24 occurrences after direct-pixel reconciliation**
+- Batch-3 correction ledger — **8 entries / 8 occurrences**
+- cumulative correction ledger — **51 entries / 51 occurrences**
+- Batch-3 affected scans — **5**
+- cumulative affected scans — **24**
 - unresolved readings — **0**
 - source separation — **PASS / outside wording imported 0**
-- scans **340–355** body text modified in Batch 2 — **0**
+- scans **350–355** body text modified in Batch 3 — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 
-See `verification-log.md` for the complete source-backed correction ledger.
+Batch-2 reconciliation added five source-backed fixes on scans **332, 336, 338 and 339**. See `verification-log.md` for the complete page/scan ledger.
 
 ## Exact next
 
-Gate E Batch 3 — **scans 340–349 / printed pp.339–348 / exactly 10 pages**.
+Gate E FINAL Batch 4 — **scans 350–355 / printed pp.349–354 / 6-page final remainder**.
+
+Controlling split: **part014 local 25 = scan 350; part015 local 1–5 = scans 351–355**. Verify the **350→351** continuation. Do not begin Gate F, Gate G, Gate H or Speech 16.

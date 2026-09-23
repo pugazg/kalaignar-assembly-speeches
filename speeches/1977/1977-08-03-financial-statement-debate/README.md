@@ -53,7 +53,7 @@ Rendered pixels of the three controlling 2007 anthology splits above are the sol
 - Speech 14 remains **RELEASED / CLOSED** and must not be reopened merely to advance Speech 15;
 - Speech 16 is outside this unit.
 
-Speech-15 Gate C first-pass is complete. Gate E Batches 1–2 have now been strictly source-verified through scan 339 only.
+Speech-15 Gate C first-pass is complete. Gate E Batches 1–3 have now been strictly source-verified through scan 349 only.
 
 ## Gate state
 
@@ -62,7 +62,7 @@ Speech-15 Gate C first-pass is complete. Gate E Batches 1–2 have now been stri
 - first-pass unresolved readings — **0 currently flagged**
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 36/36 structurally audited / 0 completeness corrections**
-- Gate E — **IN PROGRESS / Batches 1–2 PASS / 20 of 36 pages**
+- Gate E — **IN PROGRESS / Batches 1–3 PASS / 30 of 36 pages**
 - Tamil — **NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate F / English — **BLOCKED**
@@ -86,9 +86,9 @@ This fixed rule supersedes the earlier Speech-15 whole-speech exception for Gate
 For Speech 15, Gate E runs as:
 
 - Batch 1 — **scans 320–329 / 10 pages — PASS / COMPLETE**
-- Batch 2 — **scans 330–339 / 10 pages — PASS / COMPLETE**
-- Batch 3 — **scans 340–349 / 10 pages — NEXT**
-- Final Batch 4 — **scans 350–355 / 6 pages**
+- Batch 2 — **scans 330–339 / 10 pages — PASS / COMPLETE / reconciled**
+- Batch 3 — **scans 340–349 / 10 pages — PASS / COMPLETE**
+- Final Batch 4 — **scans 350–355 / 6 pages — NEXT**
 
 ## Gate C.5 applicability result
 
@@ -121,27 +121,26 @@ This Gate-C.5 decision does **not** verify the Tamil body. Word-for-word source 
 - Gate-D completeness corrections — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 
-## Gate E Batch 2 result
+## Gate E Batch 3 result
 
-**PASS / COMPLETE — scans 330–339 / printed pp.329–338 / exactly 10 pages.**
+**PASS / COMPLETE — scans 340–349 / printed pp.339–348 / exactly 10 pages.**
 
-- verified pages — **10/10 in batch; cumulative 20/36**
-- Batch-2 corrections — **19 entries / 19 occurrences**
-- Batch-2 affected scans — **8/10**
-- cumulative Gate-E corrections — **38 entries / 38 occurrences**
+- verified pages — **10/10 in batch; cumulative 30/36**
+- Batch-3 corrections — **8 entries / 8 occurrences**
+- Batch-3 affected scans — **5/10**
+- cumulative Gate-E corrections — **51 entries / 51 occurrences**
+- cumulative affected scans — **24**
 - unresolved readings — **0**
 - outside wording imported — **0**
-- scans **340–355** body text modified — **0**
+- scans **350–355** body text modified — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 
-The full Batch-2 correction ledger and page/scan provenance are recorded in `verification-log.md`. Source-visible oddities and apparent printer's errors were retained rather than normalized.
+Batch-2 was also reconciled by enlarged direct-pixel review: five additional source-backed defects on scans **332, 336, 338 and 339** raise its final ledger from 19 to **24** corrections. Full page/scan provenance is in `verification-log.md`.
 
 ## Exact next activity
 
-Perform **Speech 15 Gate E Batch 3 — scans 340–349 / printed pp.339–348 / exactly 10 pages**.
+Perform **Speech 15 Gate E FINAL Batch 4 — scans 350–355 / printed pp.349–354 / 6-page final remainder**.
 
-Strictly verify against rendered controlling anthology pixels only. Record every source-backed correction. Preserve source oddities rather than normalizing. Do not modify scans 350–355 in this activity and do not mark Tamil verified until the final Gate-E remainder completes.
-
-Fixed Gate-E cadence: **320–329 PASS / 330–339 PASS / 340–349 NEXT / 350–355 final remainder**.
+Controlling split: **part014 local 25 = scan 350** and **part015 local 1–5 = scans 351–355**. Strictly verify rendered controlling anthology pixels only, including the **350→351** continuation. Record every source-backed correction and preserve source oddities rather than normalizing.
 
 Do not begin Gate F, Gate G, Gate H or Speech 16.
