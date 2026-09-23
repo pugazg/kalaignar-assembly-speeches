@@ -762,7 +762,7 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - root dated speech table — **indexed**
 - release — **RELEASED / CLOSED**
 
-## Speech 15 Gate-E state — Batches 1–3 PASS / 30 of 36
+## Speech 15 Gate-E closure — PASS / COMPLETE / 36 of 36
 
 - working entry — `speeches/1977/1977-08-03-financial-statement-debate/`
 - source label/date — **உரை : 15 / 03.08.1977**
@@ -770,80 +770,39 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - boundaries — **319→320 PASS / 355→356 PASS**
 - source-page markers — **320→355 / 36 / exactly once / ordered**
 - Gate C — **COMPLETE / 36 of 36 first-pass**
-- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
+- Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE — 36/36 / 0 completeness corrections**
-- Gate E — **IN PROGRESS**
-- Gate E Batch 1 — **PASS / COMPLETE — scans 320–329 / 10 pages / 19 corrections**
-- Gate E Batch 2 — **PASS / COMPLETE — scans 330–339 / 10 pages / 24 corrections after direct-pixel reconciliation**
-- Gate E Batch 3 — **PASS / COMPLETE — scans 340–349 / 10 pages / 8 corrections**
-- cumulative Gate-E verification — **30 of 36 pages**
-- cumulative Gate-E corrections — **51 entries / 51 occurrences**
-- cumulative affected scans — **24**
+- Gate E — **PASS / COMPLETE — 36/36**
+- Batch 1 — **320–329 / 10 pages / PASS / 19 corrections**
+- Batch 2 — **330–339 / 10 pages / PASS / 24 corrections after direct-pixel reconciliation**
+- Batch 3 — **340–349 / 10 pages / PASS / 8 corrections**
+- Final Batch 4 — **350–355 / 6 pages / PASS / 2 corrections**
+- cumulative Gate-E corrections — **53 entries / 53 occurrences**
+- cumulative affected scans — **26**
 - Gate-E unresolved readings — **0**
-- scans **350–355** body text modified in Batch 3 — **0**
+- split continuation **350→351** — **PASS / directly verified**
+- final scan 355 close through `விடைபெறுகிறேன்.` — **PASS**
 - outside wording imported — **0**
-- Tamil — **NOT VERIFIED / verified_against_scan=false**
-- Gate F — **BLOCKED**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate F — **READY / NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 16 — **NOT STARTED**
 
-Batch-2 reconciliation found five additional source-backed defects on scans **332, 336, 338 and 339** during enlarged direct-pixel review. They are now corrected and included in the 24-entry Batch-2 ledger; no outside witness supplied wording.
+Final Batch-4 correction ledger:
 
-## Fixed repository iteration rule
+1. scan 350 / printed p.349 — `செயல்படுத்தப்படும்` → `செயல் படுத்தப்படும்`
+2. scan 351 / printed p.350 — `குறிப்பிடுவதாக` → `குறிப்பிட்டதாக`
 
-Per explicit user instruction, this is the controlling default in `docs/ARCHIVAL_WORKFLOW.md`:
+## Exact next activity — Speech 15 Gate F
 
-- **Gate C — 10 source pages per iteration**
-- **Gate E — 10 source pages per iteration**
-- only a final remainder with fewer than 10 pages may be shorter;
-- exceeding 10 pages requires an explicit user override.
+Begin **English translation from the Gate-E-verified Tamil only**.
 
-Speech-15 Gate-E cadence:
+Requirements:
 
-- Batch 1 — **320–329 — PASS / COMPLETE**
-- Batch 2 — **330–339 — PASS / COMPLETE / reconciled**
-- Batch 3 — **340–349 — PASS / COMPLETE**
-- Final Batch 4 — **350–355 — NEXT / 6-page final remainder**
-
-## Gate C.5 applicability — N/A / CLOSED
-
-- source edition — **May 2007 modern-typeset anthology**
-- representative direct-pixel scans checked — **320, 326, 335, 345, 355**
-- known reform-sensitive families considered — `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-- observed typeforms — **modern post-reform Tamil**
-- historical-glyph corrections — **0**
-- unresolved historical-glyph readings — **0**
-
-## Gate D completeness audit — PASS / COMPLETE
-
-- source-page markers — **320→355 / 36 / exactly once / ordered**
-- missing pages — **0**
-- duplicate markers — **0**
-- empty canonical page sections — **0**
-- start boundary **319→320** — **PASS**
-- end boundary **355→356** — **PASS**
-- split continuations **325→326 / 350→351** — **PASS**
-- printed speaker/intervention pages — **326, 335, 343, 349 / represented**
-- Gate-D completeness corrections — **0**
-
-## Gate E Batch 3 result
-
-**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — scans 340–349 / cumulative 30 of 36 pages.**
-
-- Batch-3 corrections — **8 entries / 8 occurrences**
-- Batch-3 affected scans — **5**
-- cumulative corrections — **51 entries / 51 occurrences**
-- cumulative affected scans — **24**
-- unresolved — **0**
-- source-visible oddities preserved — **YES**
-- OCR/web/Official Reports/alternate-anthology/released-speech wording imported — **0**
-- Tamil remains **NOT VERIFIED / verified_against_scan=false**
-
-## Exact next activity — Speech 15 Gate E FINAL Batch 4
-
-Strictly verify **scans 350–355 / printed pp.349–354 / 6-page final remainder** against rendered controlling anthology pixels.
-
-Controlling split: **part014 local 25 = scan 350; part015 local 1–5 = scans 351–355**. Check the **350→351** continuation explicitly. Record every source-backed correction in the Gate-E ledger and preserve source oddities rather than normalizing them.
-
-Do not begin Gate F, Gate G, Gate H or Speech 16.
+- do not alter verified Tamil;
+- translate the verified Tamil, not OCR or an earlier draft;
+- preserve argumentative sequence, repetitions, direct address, humour/irony, metaphors, rhetorical rhythm and parliamentary exchanges;
+- preserve figures, names/initials, page boundaries and source-printed English consistently;
+- do not silently correct historical claims;
+- Gate G, Gate H and Speech 16 remain **NOT STARTED** in this activity.
