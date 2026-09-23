@@ -503,7 +503,7 @@ Gate C.5 closure alone did not constitute Tamil verification; Gate E is now comp
 - root dated speech table — **indexed**
 - release — **RELEASED / CLOSED**
 
-## Speech 15 source-boundary + Gate-C setup
+## Speech 15 source-boundary + Gate-C state
 
 Working entry:
 
@@ -513,19 +513,31 @@ Working entry:
 - mapped unit — **scans 320–355 / printed pp.319–354 / 36 pages**
 - start boundary **319→320** — **PASS / visually reconfirmed**
 - end boundary **355→356** — **PASS / visually reconfirmed**
-- scan 320 — **Speech-15 title/date page**
-- scan 355 — **final Speech-15 page / `விடைபெறுகிறேன்.` / source ornament**
-- scan 356 — **Speech 16 / `1.3.1978` / excluded**
-- controlling coverage — **part013 local 20–25; part014 local 1–25; part015 local 1–5**
 - source coverage — **36/36 / no gap / no overlap**
 - split transitions **325→326 / 350→351** — **visually continuous**
-- Gate C — **READY / NOT STARTED**
-- Tamil — **NOT TRANSCRIBED / NOT VERIFIED**
-- `verified_against_scan=false`
+- Gate C — **COMPLETE / 36 of 36 first-pass**
+- markers — **320→355 / 36 / exactly once / ordered**
+- unresolved first-pass readings — **0 currently flagged**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- Gate C.5 — **NOT STARTED**
+- Gate D — **NOT STARTED**
+- Gate E — **NOT STARTED**
 - Gate F / English — **BLOCKED**
 - outside wording imported — **0**
-- whole-speech exception — **ACTIVE / 36-page unit**
+
+## Fixed Gate-C / Gate-E rule
+
+Repository workflow now fixes:
+
+- **Gate C — 10 source pages per iteration**
+- **Gate E — 10 source pages per iteration**
+- only the final remainder may contain fewer than 10 pages;
+- exceeding 10 pages requires explicit user override.
+
+This supersedes the earlier Speech-15 whole-speech exception for Gates C and E. Gate C had already completed on live `main` before the rule was locked.
+
+Planned Speech-15 Gate-E cadence: **320–329 / 330–339 / 340–349 / 350–355**.
 
 ## Exact next activity
 
-Perform **Speech 15 Gate C first-pass Tamil transcription — scans 320–355 / printed pp.319–354 / all 36 pages as one intact speech unit**. Use rendered controlling anthology pixels only. Preserve source wording, punctuation, numerals, speaker labels/interventions, source-printed English and visible repetition. Do not reopen Speech 14.
+Perform **Speech 15 Gate C.5 applicability determination — scans 320–355**. Keep Tamil unverified. Do not begin Gate E until Gate C.5 is PASS/N/A and Gate D is complete.
