@@ -32,9 +32,9 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 
 ## Gate state
 
-- Gate C — **IN PROGRESS — Batch 1 COMPLETE / scans 356–365 / 10 of 33**
+- Gate C — **IN PROGRESS — Batches 1–2 COMPLETE / scans 356–375 / 20 of 33**
 - first-pass unresolved readings — **0**
-- source markers present — **356→365 / 10 / exactly once / ordered**
+- source markers present — **356→375 / 20 / exactly once / ordered**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate C.5 — **NOT STARTED**
@@ -45,7 +45,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate H — **NOT STARTED / NOT RELEASED**
 - outside wording imported — **0**
 
-Source-visible oddities retained in Batch 1 include scan 362 `183,85` and scan 363 `கட்டப்பட்ட விருக்கின்றன`.
+Source-visible oddities retained in first pass include scan 362 `183,85`, scan 363 `கட்டப்பட்ட விருக்கின்றன`, scan 366 `அல்ல மற்றும் உள்ள கட்சியின் தலைவர்களும்`, scan 372 `போட்டாபோட்டி காட்டா குஸ்தி`, and scan 375 `தரங்கெட்ட அரசியல்வாதிகள்`.
 
 ## Fixed Gate-C / Gate-E iteration rule
 
@@ -55,6 +55,6 @@ Source-visible oddities retained in Batch 1 include scan 362 `183,85` and scan 3
 
 ## Exact next activity
 
-**Gate C Batch 2 — scans 366–375 / printed pp.365–374 / exactly 10 pages.**
+**Gate C Batch 3 — scans 376–385 / printed pp.375–384 / exactly 10 pages.**
 
 Do not begin Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 17.
