@@ -67,10 +67,10 @@ This user-directed cadence supersedes the earlier whole-speech batching rule for
 - Gate D — **PASS / COMPLETE — 57/57 pages; 56/56 internal transitions; 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — scans 263–319 / 57 of 57 verified / 32 corrections / 20 affected scans / 0 unresolved**
 - Gate F / English — **COMPLETE — scans 263–319 / 57 of 57 translated / 0 blockers**
-- Gate G — **IN PROGRESS — Batch 1 scans 263–287 / 25 of 57 reviewed / 6 refinements / 0 blockers / 0 Tamil changes**
-- English — **NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- Gate G — **PASS / COMPLETE — scans 263–319 / 57 of 57 reviewed / 23 cumulative refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - release — **NOT RELEASED**
 
 ## Exact next activity
 
-Proceed with **Speech 14 Gate G Batch 2 — English fidelity and voice review / scans 288–312 / exactly 25 pages**. Review only against the Gate-E-verified Tamil, preserve source-printed English verbatim, record every English refinement, and make 0 Tamil changes. Keep `verified_against_tamil=false` until all 57 pages complete Gate G. Do not begin Gate H or Speech 15.
+Proceed with **Speech 14 Gate H release / closure audit**. Confirm final bilingual structure, 57/57 Tamil and English coverage, verification flags, source-printed-English preservation, control-document consistency, canonical/index treatment and release readiness. Do not alter verified Tamil or English unless a separate source-backed defect is discovered, and do not begin Speech 15 in the same activity unless separately instructed.
