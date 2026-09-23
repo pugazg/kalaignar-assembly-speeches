@@ -2,7 +2,7 @@
 
 ## உரை : 15 / 03.08.1977
 
-**Gate F status: COMPLETE — Batches 1–2 / scans 320–355 / 36 of 36 pages translated.**
+**Gate F: COMPLETE — 36/36. Gate G: PASS / COMPLETE — 36/36 reviewed / 6 refinements / 0 blockers. English is VERIFIED AGAINST TAMIL / `verified_against_tamil=true`.**
 
 Translation authority: the Gate-E-verified Tamil in `transcript.md` only. English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL** until Gate G.
 
@@ -118,7 +118,7 @@ I had referred to this even in the 1975-76 financial statement. Subsequently, on
 
 acres for the ayacutdars of that region—that is, the Parambikulam-Aliyar ayacutdars—and arrangements were made to begin works in the Pollachi, Udumalpet, Palladam and Dharapuram taluks. At that point the Kazhagam Government was dismissed and President's Rule was proclaimed, and those schemes were simply stopped without any work taking place. I mention this now only to show that the former Kazhagam Government had not lagged even to the slightest extent in developing irrigation sources and increasing irrigation facilities.
 
-For the Shenbagathoppu scheme now announced by the Finance Minister, only Rs.25 lakh has been provided this year. At the same time, according to the budget notes, Rs.1 crore has been provided for the Kelavarapalli reservoir scheme. That large scheme with a provision of Rs.1 crore does not appear in the financial statement, while only the Shenbagathoppu scheme appears there. Yet in the book supplied for this purpose, both the Shenbagathoppu scheme and the Kelavarapalli scheme are included. I do not understand why the larger scheme was not highlighted in the financial statement. Even if it took one or two extra pages, it would have been useful to members if the details of all seven schemes announced for implementation had been stated in the financial statement. I cannot refrain from pointing that out.
+For the Shenbagathoppu scheme now announced by the Finance Minister, only Rs.25 lakh has been provided this year. At the same time, according to the budget notes, Rs.1 crore has been provided for the Kelavarap Palli reservoir scheme. That large scheme with a provision of Rs.1 crore does not appear in the financial statement, while only the Shenbagathoppu scheme appears there. Yet in the book supplied for this purpose, both the Shenbagathoppu scheme and the Kelavarapalli scheme are included. I do not understand why the larger scheme was not highlighted in the financial statement. Even if it took one or two extra pages, it would have been useful to members if the details of all seven schemes announced for implementation had been stated in the financial statement. I cannot refrain from pointing that out.
 
 Looking at the details, it appears that only about Rs.2 crore in all has been provided for the seven newly announced schemes. Yet the financial statement also contains the charge that the Kazhagam Government had not provided adequate funds for schemes—
 
@@ -255,7 +255,7 @@ There is a savings scheme in the Tamil Nadu State Co-operative Bank. Under that 
 
 ### Source page 346
 
-for twenty-five years, he receives Rs.20,948. Will people prefer that jackfruit, or this kalap fruit? I ask the Finance Minister to think about it. That is money one pays if one wishes; this is money you compulsorily take. To put it another way, instead of the same Rs.15, if a person pays Rs.5 a month for thirty years, he can receive Rs.12,000 at the end. Paying Rs.5 a month for thirty years yields Rs.12,000. Paying Rs.15 a month for twenty-five years yields Rs.20,000. Therefore this does not provide a greater return. Leaving aside such savings, you could simply say that, as though imposing a tax on them, every Government employee is to pay a head tax of Rs.15. Likewise, simply deducting Rs.15 is not acceptable.
+for twenty-five years, he receives Rs.20,948. Will people prefer that *pala-pazham*, or this *kala-pazham*? I ask the Finance Minister to think about it. That is money one pays if one wishes; this is money you compulsorily take. To put it another way, instead of the same Rs.15, if a person pays Rs.5 a month for thirty years, he can receive Rs.12,000 at the end. Paying Rs.5 a month for thirty years yields Rs.12,000. Paying Rs.15 a month for twenty-five years yields Rs.20,000. Therefore this does not provide a greater return. Leaving aside such savings, you could simply say that, as though imposing a tax on them, every Government employee is to pay a head tax of Rs.15. Likewise, simply deducting Rs.15 is not acceptable.
 
 If we calculate at Rs.15, you will receive approximately Rs.13 crore in a year. I looked to see whether that amount appeared anywhere in the accounts. It does not seem to. From that I understood that, since you have not brought that Rs.13 crore into the receipts and have not mentioned it, you will abandon it. Otherwise you would have entered it as receipts and shown the Rs.13 crore. Thus you propose to collect Rs.13 crore from Government employees in one year. There are excellent schemes—schemes more profitable than this—so this should be dropped. If those responsible for the Government give evidence saying, “We have accounted for the Rs.13 crore, so we shall retain it,” there are officials capable of supplying plenty of such evidence. But do not argue, by producing such evidence, “We have shown accounts for Rs.13 crore, and therefore—
 
@@ -289,7 +289,7 @@ more than 4,000 buses were nationalised during Kazhagam rule. The buses of large
 
 ### Source page 350
 
-a crop-insurance scheme would be implemented to protect the welfare of farmers. The Kazhagam's election manifesto also announced a crop-insurance scheme to protect farmers' welfare... It was also stated that the scheme would help farmers avoid the burden of debt. Now, promises made at election time are one thing, and responsibilities and circumstances after coming here and taking these seats are another. Now it is realised that all this must be done by the Central Government, and today it is stated that the Central Government must bring in a scheme for it.
+a crop-insurance scheme would be implemented to protect the welfare of farmers. The party's election manifesto also announced a crop-insurance scheme to protect farmers' welfare... It was also stated that the scheme would help farmers avoid the burden of debt. Now, promises made at election time are one thing, and responsibilities and circumstances after coming here and taking these seats are another. Now it is realised that all this must be done by the Central Government, and today it is stated that the Central Government must bring in a scheme for it.
 
 Our Chief Minister had already announced as his party's policy that the daily wages of agricultural workers would be replaced by a monthly salary. I pointed this out even when I spoke on the Governor's Address. In this financial statement I searched and searched to see what arrangements had been made to replace agricultural workers' daily wages with a monthly salary. I could not find them. It is said that a sugar mill will be established. During the previous Kazhagam Government an important decision had been taken: any sugar mills established thereafter would be in the public sector and not in the private sector. I want this one too to be established in that manner, and I believe that it will be.
 
@@ -297,7 +297,7 @@ The padi-rice scheme is being debated in this House. Our Chief Minister said he 
 
 ### Source page 351
 
-and in a radio speech, it was said that when Anna assumed office he promised poor people one padi of rice for one rupee. Officials showed the Government's budget account and said it would create an annual deficit of Rs.8 crore. Anna said that one must find a way to raise the eight crore rupees rather than strike at the stomachs of the poor, and in the first stage he implemented the one-rupee-one-padi rice scheme.
+and in a radio speech, Anna had said, “When we come to office, we will give the poor one padi of rice for one rupee.” Officials showed the Government's budget account and said it would create an annual deficit of Rs.8 crore. Anna said that one must find a way to raise the eight crore rupees rather than strike at the stomachs of the poor, and in the first stage he implemented the one-rupee-one-padi rice scheme.
 
 In that speech it was stated, “To implement schemes of this kind, those in power need not only intelligence but also a heart that shows compassion to suffering people.” The Chief Minister argued then that Anna would be remembered by the epithet, “Anna who brought the padi-rice scheme.” I do not question the intelligence of this Cabinet. It contains people richly endowed with intelligence. Though there is already plenty of intelligence, it is said that, in order to obtain even more, a “brain trust” is to be established. So I do not doubt your intelligence. There is plenty of it; I praise it. But I repeatedly ask these rulers: as you said at election time, bring the padi-rice scheme with a compassionate heart.
 
@@ -329,7 +329,7 @@ and for no other reason.
 
 At the same Vaniyambadi meeting, during the Assembly election, our Chief Minister said that guarantees such as job security and fixed working hours would be provided to cart-pullers, load carriers, stone breakers and lorry drivers; the speech was published in the Anna newspaper on 29 May 1977. That too finds no place here.
 
-Then, at election time, they announced that they would repeal the Criminal Tribes Act. But that does not find a place in this financial statement. So when are you going to repeal the Criminal Tribes Act? What is the reason for not repealing it? Why does it not find a place in this statement? I wish to know. I trust the Finance Minister will explain this.
+Then, at election time, they announced that they would repeal the law on hereditary criminality. But that does not find a place in this financial statement. So when are you going to repeal the law on hereditary criminality? What is the reason for not repealing it? Why does it not find a place in this statement? I wish to know. I trust the Finance Minister will explain this.
 
 When the Professor raised a question in this House about the scheme of giving loans through post offices, the Chief Minister replied in this House that he had asked only that a place or facility be provided for giving loans. But when the Chief Minister spoke in the Upper House, he said, as I understand it, that he had asked the Central Government to allot such a section in post offices and that he should not be pressed further on the matter. Perhaps he discussed it during his present visit to Delhi. Accordingly, I hope such loan-disbursing sections will soon be established in post offices.
 
@@ -337,4 +337,4 @@ I wish to say one thing generally. As far as Central assistance is concerned, th
 
 ### Source page 355
 
-has not received the assistance and rights that are justly due to it. Members of the ruling party in this House, we who sit in the Opposition, and even some parties friendly to the ruling party have all not failed to say so. In obtaining such Central assistance, I wish to state that the Dravida Munnetra Kazhagam is ready to cooperate with the State Government in every way. I convey my thanks to our Hon. Finance Minister Manoharan, who placed this maiden budget before the House—not to the budget he presented, but to him. With that, I take my leave.
+has not received the assistance and rights that are justly due to it. Members of the ruling party in this House, we who sit in the Opposition, and even some parties friendly to the ruling party have all said so. In obtaining such Central assistance, I wish to state that the Dravida Munnetra Kazhagam is ready to cooperate with the State Government in every way. I convey my thanks to our Hon. Finance Minister Manoharan, who placed this maiden budget before the House—not to the budget he presented, but to him. With that, I take my leave.
