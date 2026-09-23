@@ -65,7 +65,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 13 | `14.03.1974` | 1974-03-14 | 231–262 | 230–261 | `1974-03-14-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 14 | `10.03.1975` | 1975-03-10 | 263–319 | 262–318 | `1975-03-10-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 15 | `03.08.1977` | 1977-08-03 | 320–355 | 319–354 | `1977-08-03-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
-| 16 | `1.3.1978` | 1978-03-01 | 356–388 | 355–387 | `1978-03-01-financial-statement-debate`; **Gate C IN PROGRESS / Batch 1 COMPLETE / scans 356–365 / 10 of 33 / Tamil NOT VERIFIED** |
+| 16 | `1.3.1978` | 1978-03-01 | 356–388 | 355–387 | `1978-03-01-financial-statement-debate`; **Gate C IN PROGRESS / Batches 1–2 COMPLETE / scans 356–375 / 20 of 33 / Tamil NOT VERIFIED** |
 | 17 | `22 & 23.3.1979` | **multi-date source unit: 1979-03-22 and 1979-03-23** | 389–481 | 388–480 | **canonicalization HOLD** — do not force to one date until internal date-boundary evidence/policy is resolved |
 | 18 | `09.07.1980` | 1980-07-09 | 482–510 | 481–509 | `1980-07-09-financial-statement-debate` |
 | 19 | `06.03.1982` | 1982-03-06 | 511–545 | 510–544 | `1982-03-06-financial-statement-debate` |
@@ -122,7 +122,7 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–15 COMPLETE; Speech 16 IN PROGRESS / 10 of 33; speeches 17–19 not started**
+- Gate C — **Speeches 1–15 COMPLETE; Speech 16 IN PROGRESS / 20 of 33; speeches 17–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–15**
 - Gate D — **Speeches 1–15 PASS / COMPLETE**
 - Gate E — **Speeches 1–15 PASS / COMPLETE / Tamil VERIFIED; speeches 16–19 not started**
@@ -341,8 +341,8 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - Gate-H wording changes — **0 Tamil / 0 English**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 16 — **Gate C Batch 1 COMPLETE / scans 356–365 / 10 of 33 / Tamil NOT VERIFIED**
+- Speech 16 — **Gate C Batches 1–2 COMPLETE / scans 356–375 / 20 of 33 / Tamil NOT VERIFIED**
 
 ## Exact continuation
 
-Continue **Speech 16 Gate C Batch 2 — scans 366–375 / printed pp.365–374 / exactly 10 pages**. Boundaries **355→356 / 388→389 PASS**; controlling split coverage **33/33 complete**.
+Continue **Speech 16 Gate C Batch 3 — scans 376–385 / printed pp.375–384 / exactly 10 pages**. Boundaries **355→356 / 388→389 PASS**; controlling split coverage **33/33 complete**.
