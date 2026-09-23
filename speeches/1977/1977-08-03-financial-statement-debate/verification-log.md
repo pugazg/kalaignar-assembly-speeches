@@ -305,13 +305,61 @@ The **350→351** split was checked directly: scan 350 ends `ஆனால் அ
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
 - Gate E — **PASS / COMPLETE — 36 of 36**
-- Gate F — **READY / NOT STARTED**
-- Gate G — **NOT STARTED**
-- Gate H — **NOT STARTED / NOT RELEASED**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate F — **COMPLETE — 36 of 36**
+- Gate G — **PASS / COMPLETE — 36 of 36 / 6 refinements**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
 - Speech 16 — **NOT STARTED**
+
+## Gate F closure
+
+**COMPLETE — Batches 1–2 / 36 of 36 pages.**
+
+- Batch 1 — **320–344 / 25 pages**
+- Batch 2 — **345–355 / 11 pages**
+- source authority — **Gate-E-verified Tamil only**
+- English sections — **320→355 / 36 / exactly once / ordered**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- English after Gate F — **TRANSLATED / NOT YET VERIFIED AGAINST TAMIL**
+
+## Gate G closure
+
+**PASS / COMPLETE — Batches 1–2 / 36 of 36 pages.**
+
+- reviewed scans — **320–355 / 36**
+- Batch 1 — **320–344 / 25 pages / 1 refinement**
+- Batch 2 — **345–355 / 11 pages / 5 refinements**
+- cumulative refinements — **6**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- outside English / other-witness wording imported — **0**
+- English sections — **320→355 / 36 / exactly once / ordered**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+
+Detailed refinements are recorded in `translation-review.md`.
+
+## Gate H closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- canonical bilingual `transcript.md` — **COMPLETE**
+- verified Tamil markers — **320→355 / 36 / exactly once / ordered**
+- verified English sections — **320→355 / 36 / exactly once / ordered**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate-E corrections — **53 entries / 53 occurrences / 0 unresolved**
+- Gate-G refinements — **6 / 0 blockers**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- hard boundaries — **319→320 PASS / 355→356 PASS**
+- split continuations — **325→326 PASS / 350→351 PASS**
+- `translation.md` — **retired pointer**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- release — **RELEASED / CLOSED**
 
 ## Exact next activity
 
-Begin **Gate F — English translation from the Gate-E-verified Tamil only**.
-
-Preserve Kalaignar's argumentative sequence, repetitions, direct address, humour/irony, metaphors, parliamentary interventions, figures, page boundaries and source-printed English. Do not alter the verified Tamil. Do not begin Gate G, Gate H or Speech 16 in the same activity.
+Begin **Speech 16 / 1.3.1978 source-boundary + Gate-C setup — scans 356–388 / printed pp.355–387 / 33 pages**. Respect the **10-source-page Gate-C iteration rule** once transcription begins.
