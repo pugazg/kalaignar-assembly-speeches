@@ -37,8 +37,8 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - source markers present — **356→388 / 33 / exactly once / ordered**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- Gate C.5 — **READY / NOT STARTED**
-- Gate D — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED across this PDF — 0 historical-glyph corrections / 0 unresolved**
+- Gate D — **PASS / COMPLETE — 33/33 structurally audited / 0 completeness corrections**
 - Gate E — **NOT STARTED**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
@@ -53,8 +53,30 @@ Source-visible oddities retained in first pass include scan 362 `183,85`, scan 3
 - Gate E — **10 source pages per iteration**
 - only a final remainder may contain fewer than 10 pages.
 
+## Gate C.5 result
+
+**N/A / CLOSED across this PDF**, per source-level applicability decision.
+
+- historical-glyph corrections — **0**
+- unresolved historical-glyph readings — **0**
+- Tamil wording changed at Gate C.5 — **0**
+
+## Gate D result
+
+**PASS / COMPLETE — 33/33 structurally audited.**
+
+- source-page markers — **356→388 / exactly once / ordered**
+- missing / duplicate / empty pages — **0 / 0 / 0**
+- boundaries **355→356 / 388→389** — **PASS**
+- split continuation **375→376** — **PASS**
+- source-printed English correspondence — **preserved**
+- speaker labels/intervention — **preserved**
+- final scan 388 close through `வணக்கம்.` — **preserved**
+- Gate-D completeness corrections — **0**
+- Tamil remains **NOT VERIFIED / verified_against_scan=false**
+
 ## Exact next activity
 
-**Gate C.5 applicability review.**
+**Gate E Batch 1 — scans 356–365 / printed pp.355–364 / exactly 10 pages.**
 
-Gate C first-pass transcription is complete at **33/33 pages**. Tamil remains **NOT VERIFIED / verified_against_scan=false**. Do not begin Gate D, Gate E, Gate F, Gate G, Gate H or Speech 17 in the Gate-C.5 activity unless the workflow explicitly permits the normal transition after closure.
+Do not begin Gate F, Gate G, Gate H or Speech 17.
