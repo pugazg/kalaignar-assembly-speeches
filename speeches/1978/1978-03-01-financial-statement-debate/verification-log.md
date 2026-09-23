@@ -188,16 +188,43 @@ Gate-E Batch-1 correction ledger:
 10. **scan 365 / printed p.364** — `அவர்கள் கவனத்திற்கு கொண்டு வந்து` → `அவர்கள் கவனத்திற்குக் கொண்டு வந்து`
 11. **scan 365 / printed p.364** — `முந்தைய ஆட்சியில் நடைபெற்றிருக்கின்றன` → `முந்தைய ஆட்சியில் நடைபெற்று இருக்கின்றன`
 
+## Gate E — Batch 2 / scans 366–375
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 pages; cumulative 20 of 33.**
+
+Coverage:
+
+- verified scans — **366–375**
+- verified printed pages — **365–374**
+- verified pages — **10/10 in batch; cumulative 20/33**
+- split/local coverage — **part015 local 16–25**
+- source markers in batch — **366→375 / 10 / exactly once / ordered**
+- Gate-E Batch-2 correction ledger — **1 entry / 1 occurrence**
+- Batch-2 affected scans — **1 — 370**
+- cumulative Gate-E corrections — **12 entries / 12 occurrences**
+- cumulative affected scans — **7**
+- unresolved readings — **0**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- scans **376–388** modified in this activity — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+
+Gate-E Batch-2 correction ledger:
+
+1. **scan 370 / printed p.369** — `140 கோடி ரூபாய் ஆண்டு ஒன்றுக்கு நமக்கு இழப்பு ஏற்படுகிறது. அதை மத்திய அரசாங்கம்` → `140 கோடி ரூபாய் ஆண்டு ஒன்றுக்கு நமக்கு இழப்பு ஏற்படுகிறது, அதை மத்திய அரசாங்கம்`
+   - the rendered source visibly uses a comma after `ஏற்படுகிறது`, not a full stop.
+
+No other source-backed wording or punctuation correction was found in scans 366–375. Source oddities, printed English, quoted material, and existing spacing were retained.
+
 ## Downstream state
 
 - Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS — 10 of 33**
+- Gate E — **IN PROGRESS — 20 of 33**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-**Gate E Batch 2 — scans 366–375 / printed pp.365–374 / exactly 10 pages.**
+**Gate E Batch 3 — scans 376–385 / printed pp.375–384 / exactly 10 pages.**
