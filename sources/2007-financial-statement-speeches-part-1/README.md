@@ -503,7 +503,7 @@ Gate C.5 closure alone did not constitute Tamil verification; Gate E is now comp
 - root dated speech table — **indexed**
 - release — **RELEASED / CLOSED**
 
-## Speech 15 Gate-E state
+## Speech 15 Gate-E closure
 
 Working entry:
 
@@ -511,43 +511,28 @@ Working entry:
 
 - source label/date — **உரை : 15 / 03.08.1977**
 - mapped unit — **scans 320–355 / printed pp.319–354 / 36 pages**
-- start boundary **319→320** — **PASS / visually reconfirmed**
-- end boundary **355→356** — **PASS / visually reconfirmed**
+- boundaries **319→320 / 355→356** — **PASS**
 - source coverage — **36/36 / no gap / no overlap**
-- split transitions **325→326 / 350→351** — **PASS / visually continuous**
+- split transitions **325→326 / 350→351** — **PASS**
 - Gate C — **COMPLETE / 36 of 36 first-pass**
-- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
-- Gate D — **PASS / COMPLETE — 36/36 / 0 completeness corrections**
-- Gate E — **IN PROGRESS**
-- Gate E Batch 1 — **PASS / COMPLETE — scans 320–329 / 10 pages / 19 corrections**
-- Gate E Batch 2 — **PASS / COMPLETE — scans 330–339 / 10 pages / 24 corrections after direct-pixel reconciliation**
-- Gate E Batch 3 — **PASS / COMPLETE — scans 340–349 / 10 pages / 8 corrections**
-- cumulative Gate-E coverage — **30 of 36**
-- cumulative correction ledger — **51 entries / 51 occurrences**
-- cumulative affected scans — **24**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **PASS / COMPLETE — 36 of 36**
+- Gate-E Batch 1 — **320–329 / PASS / 19 corrections**
+- Gate-E Batch 2 — **330–339 / PASS / 24 corrections after direct-pixel reconciliation**
+- Gate-E Batch 3 — **340–349 / PASS / 8 corrections**
+- Gate-E Final Batch 4 — **350–355 / PASS / 2 corrections**
+- cumulative Gate-E corrections — **53 entries / 53 occurrences**
+- cumulative affected scans — **26**
 - unresolved Gate-E readings — **0**
-- scans **350–355** body text modified in Batch 3 — **0**
-- Tamil — **NOT VERIFIED / verified_against_scan=false**
-- Gate F / English — **BLOCKED**
 - outside wording imported — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate F / English — **READY / NOT STARTED**
+- Gate G — **NOT STARTED**
+- Gate H — **NOT STARTED / NOT RELEASED**
 
-Batch-2 reconciliation added five source-backed fixes on scans **332, 336, 338 and 339** after enlarged controlling-pixel recheck. The verification log is authoritative for the full 24-entry Batch-2 ledger.
-
-## Fixed Gate-C / Gate-E rule
-
-Repository workflow fixes:
-
-- **Gate C — 10 source pages per iteration**
-- **Gate E — 10 source pages per iteration**
-- only the final remainder may contain fewer than 10 pages;
-- exceeding 10 pages requires explicit user override.
-
-Speech-15 Gate-E cadence: **320–329 PASS / 330–339 PASS / 340–349 PASS / 350–355 NEXT final remainder**.
-
-## Gate E Batch 3 result
-
-**PASS / COMPLETE.** All ten source pages in scans **340–349** were strictly compared against rendered controlling pixels. The Batch-3 source-backed ledger contains **8 corrections / 8 occurrences**, with **0 unresolved** and **0 outside wording imported**. Cumulative Gate-E coverage is **30/36** with **51 corrections**. Tamil remains **NOT VERIFIED** until all 36 pages complete Gate E.
+Final Batch 4 directly verified the **350→351** split and the scan-355 close through `விடைபெறுகிறேன்.`. The two final source-backed corrections are scan 350 `செயல் படுத்தப்படும்` and scan 351 `குறிப்பிட்டதாக`.
 
 ## Exact next activity
 
-Perform **Speech 15 Gate E FINAL Batch 4 — scans 350–355 / printed pp.349–354 / 6-page final remainder**. Use rendered controlling pixels only and record every source-backed correction. Batch 4 spans **part014 local 25 = scan 350** and **part015 local 1–5 = scans 351–355**; verify the **350→351** continuation. Do not begin Gate F, Gate G, Gate H or Speech 16.
+Begin **Speech 15 Gate F — English translation from the verified Tamil only**. Preserve source-printed English, figures, page boundaries, interventions and Kalaignar's parliamentary voice. Do not alter verified Tamil; do not begin Gate G, Gate H or Speech 16 in the same activity.
