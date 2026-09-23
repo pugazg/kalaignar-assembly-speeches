@@ -786,7 +786,7 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - Gate-H wording changes — **0 Tamil / 0 English**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 16 — **NOT STARTED / NEXT**
+- Speech 16 — **Gate C IN PROGRESS / Batch 1 COMPLETE / 10 of 33 / Tamil NOT VERIFIED**
 
 ## Speech 16 active Gate-C state
 
