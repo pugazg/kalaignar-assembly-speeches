@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 16 Gate C Batch 3 — scans 376–385
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 16 Gate C Final Batch 4 — scans 386–388
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -28,8 +28,9 @@ Working entry:
 - part016 local **1–13 = scans 376–388 / 13 pages**
 - Gate C Batch 1 — **COMPLETE / scans 356–365 / 10 pages**
 - Gate C Batch 2 — **COMPLETE / scans 366–375 / 10 pages**
-- cumulative Gate C — **20/33**
-- source markers — **356→375 / 20 / exactly once / ordered**
+- Gate C Batch 3 — **COMPLETE / scans 376–385 / 10 pages**
+- cumulative Gate C — **30/33**
+- source markers — **356→385 / 30 / exactly once / ordered**
 - first-pass unresolved readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - Gate C.5 — **NOT STARTED**
@@ -41,22 +42,22 @@ Working entry:
 - Speech 17 — **NOT STARTED**
 - outside wording imported — **0**
 
-Source-visible first-pass forms intentionally retained include scan 362 `183,85`, scan 363 `கட்டப்பட்ட விருக்கின்றன`, scan 369 `(avoid) ‘அவாய்ட்’`, scan 372 `போட்டாபோட்டி காட்டா குஸ்தி`, and scan 375 `பிரிவினை முலாம் பூசாதீர்கள்` / `தரங்கெட்ட அரசியல்வாதிகள்`.
+Source-visible first-pass forms intentionally retained include scan 377 `குளுரைத்துச்`, scan 381 `ஒரு டிக்கெட்டூடத் திருப்பித் தரக்கூடாதெனவும்`, scan 384 source-printed TWAD Board correspondence, and scan 385 the printed dates `10.11.1977` / `7.12.1977`.
 
 ## Exact next activity
 
-Perform **Speech 16 Gate C Batch 3 — scans 376–385 / printed pp.375–384 / exactly 10 pages**.
+Perform **Speech 16 Gate C Final Batch 4 — scans 386–388 / printed pp.385–387 / final 3 pages**.
 
 Requirements:
 
-1. use only rendered controlling anthology pixels from part016 local pages **1–10**;
-2. transcribe all ten pages in source order;
+1. use only rendered controlling anthology pixels from part016 local pages **11–13**;
+2. transcribe all three final pages in source order;
 3. preserve source wording, spelling, punctuation, numerals, dates, percentages, money/units, headings, speaker labels/interventions, source-printed English and visible repetition;
-4. mark source-page boundaries **376→385**;
+4. mark source-page boundaries **386→388**;
 5. import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other witnesses;
 6. record unclear readings explicitly rather than guessing;
-7. do not modify scans **386–388** in this activity;
-8. keep Tamil **NOT VERIFIED / verified_against_scan=false**;
-9. synchronize Speech-16 and anthology control documents after the batch;
-10. set exact next activity to **Gate C Final Batch 4 — scans 386–388 / final 3 pages** if Batch 3 completes;
-11. do not begin Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 17.
+7. confirm the scan-388 close through `வணக்கம்.` and the source ornament;
+8. keep Tamil **NOT VERIFIED / verified_against_scan=false** after Gate C closure;
+9. synchronize Speech-16 and anthology control documents;
+10. if Gate C completes, set exact next activity to **Gate C.5 applicability review**;
+11. do not begin Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 17 in this same activity.
