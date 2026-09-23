@@ -99,11 +99,11 @@
     "current_gate_d": "COMPLETE / 57 pages / 56 transitions / 0 corrections",
     "next_gate_e_batch": null,
     "current_gate_e_batch": "313-319 / 7 pages FINAL / COMPLETE / 2 corrections",
-    "next_activity": "Gate G Batch 2 scans 288-312",
+    "next_activity": "Gate H release / closure audit",
     "current_gate_f_batch": "313-319 / 7 pages FINAL / COMPLETE",
     "next_gate_f_batch": null,
-    "current_gate_g_batch": "263-287 / 25 pages COMPLETE / 6 refinements",
-    "next_gate_g_batch": "288-312 / 25 pages"
+    "current_gate_g_batch": "313-319 / 7 pages FINAL / COMPLETE / 5 refinements",
+    "next_gate_g_batch": null
   },
   "transcription": {
     "language": "Tamil",
@@ -184,13 +184,13 @@
   },
   "translation": {
     "language": "English",
-    "status": "gate-g-in-progress",
+    "status": "verified",
     "gate_f_status": "complete",
-    "gate_g_status": "in-progress",
-    "verified_against_tamil": false,
+    "gate_g_status": "pass-complete",
+    "verified_against_tamil": true,
     "block_reason": null,
     "source_text": "Gate-E-verified Tamil in transcript.md",
-    "next_gate": "Gate G Batch 2 scans 288-312",
+    "next_gate": "Gate H release / closure audit",
     "translated_scans": "263-319",
     "translated_printed_pages": "262-318",
     "translated_page_count": 57,
@@ -216,24 +216,25 @@
       "source_page_markers_preserved": true,
       "note": "Complete first-pass English translation from Gate-E-verified Tamil only; Gate G fidelity review remains pending."
     },
-    "gate_g_reviewed_scans": "263-287",
-    "gate_g_reviewed_page_count": 25,
-    "gate_g_refinement_count": 6,
+    "gate_g_reviewed_scans": "263-319",
+    "gate_g_reviewed_page_count": 57,
+    "gate_g_refinement_count": 23,
     "gate_g_blocking_issue_count": 0,
     "gate_g_verified_tamil_changes": 0,
     "gate_g_source_printed_english_changes": 0,
     "gate_g_outside_english_imported": false,
     "gate_g": {
-      "status": "in-progress",
-      "reviewed_source_pages": "263-287",
-      "reviewed_page_count": 25,
-      "refinement_count": 6,
+      "status": "pass-complete",
+      "reviewed_source_pages": "263-319",
+      "reviewed_page_count": 57,
+      "refinement_count": 23,
       "blocking_issue_count": 0,
       "verified_tamil_changes": 0,
       "source_printed_english_changes": 0,
       "outside_english_imported": false,
       "source_page_markers_preserved": true,
-      "next_batch": "288-312 / 25 pages"
+      "verified_against_tamil": true,
+      "note": "English fidelity and voice review complete against Gate-E-verified Tamil; source-printed English preserved verbatim."
     }
   },
   "release": {
