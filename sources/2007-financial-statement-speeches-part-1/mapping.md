@@ -341,8 +341,8 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - Gate-H wording changes — **0 Tamil / 0 English**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 16 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Tamil NOT VERIFIED / Gate E READY**
+- Speech 16 — **Gate E IN PROGRESS / Batch 1 PASS / scans 356–365 / 10 of 33 / 11 corrections / Tamil NOT VERIFIED**
 
 ## Exact continuation
 
-Continue **Speech 16 Gate E Batch 1 — scans 356–365 / printed pp.355–364 / exactly 10 pages**. Gate C.5 is **N/A / CLOSED** and Gate D is **PASS / COMPLETE**; Tamil remains **NOT VERIFIED**.
+Continue **Speech 16 Gate E Batch 2 — scans 366–375 / printed pp.365–374 / exactly 10 pages**. Batch 1 is **PASS / 10 of 33 / 11 corrections / 0 unresolved**; Tamil remains **NOT VERIFIED**.
