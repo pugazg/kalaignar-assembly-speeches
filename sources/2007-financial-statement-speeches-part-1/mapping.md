@@ -334,7 +334,7 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE — 36/36 / 0 completeness corrections**
 - Gate E — **IN PROGRESS / Batch 1 PASS / 10 of 36**
-- Gate-E Batch-1 corrections — **18 entries / 18 occurrences**
+- Gate-E Batch-1 corrections — **19 entries / 19 occurrences**
 - Batch-1 affected scans — **10 / 10**
 - Gate-E unresolved — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
@@ -349,7 +349,7 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - scans — **320–329**
 - printed pages — **319–328**
 - source pages verified — **10**
-- corrections — **18 / 18 occurrences**
+- corrections — **19 / 19 occurrences**
 - unresolved readings — **0**
 - split continuation **325→326** — **PASS**
 - source separation — **PASS / outside wording 0**

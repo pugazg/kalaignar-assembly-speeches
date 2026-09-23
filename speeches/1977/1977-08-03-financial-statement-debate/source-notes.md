@@ -125,7 +125,7 @@ The controlling publication is a **May 2007 modern-typeset anthology**. Enlarged
 
 **IN PROGRESS — Batch 1 PASS / COMPLETE — scans 320–329 / printed pp.319–328 / 10 of 36 pages.**
 
-- correction ledger — **18 entries / 18 occurrences**
+- correction ledger — **19 entries / 19 occurrences**
 - affected scans — **10**
 - unresolved readings — **0**
 - source separation — **PASS / outside wording imported 0**
