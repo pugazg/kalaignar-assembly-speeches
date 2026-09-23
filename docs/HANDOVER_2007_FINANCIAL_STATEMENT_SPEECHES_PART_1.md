@@ -197,7 +197,7 @@ Canonical working entry:
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - Gate C.5 — **provisionally N/A** for modern 2007 typesetting
 - Gate D — **NOT STARTED / next**
-- Gate E — **NOT STARTED**
+- Gate E — **READY / NOT STARTED**
 - English — **Speech 1 verified/released; Speech 2 NOT STARTED / Gate F next**
 
 Gate C preserved the C. Subramaniam intervention, quoted material, all printed figures, and every page-spanning continuation through the scan-33 close.
@@ -774,7 +774,7 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - outside wording imported — **0**
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
-- Gate D — **READY / NOT STARTED**
+- Gate D — **PASS / COMPLETE — 36/36 / 0 completeness corrections**
 - Gate E — **NOT STARTED**
 - Gate F — **BLOCKED**
 
@@ -807,17 +807,37 @@ Speech-15 Gate-E cadence when reached:
 - Tamil — **still NOT VERIFIED / verified_against_scan=false**
 - Gate D — **READY / NOT STARTED**
 
-## Exact next activity — Speech 15 Gate D completeness audit
+## Gate D completeness audit — PASS / COMPLETE
 
-Audit **scans 320–355 / printed pp.319–354 / 36 pages** for structural completeness.
+- source-page markers — **320→355 / 36 / exactly once / ordered**
+- missing pages — **0**
+- duplicate markers — **0**
+- empty canonical page sections — **0**
+- start boundary **319→320** — **PASS**
+- end boundary **355→356** — **PASS**
+- split continuation **325→326** — **PASS**
+- split continuation **350→351** — **PASS**
+- printed speaker/intervention pages — **326, 335, 343, 349 / represented**
+- first source page — **aligned to Speech-15 title/date**
+- final source page — **aligned through `விடைபெறுகிறேன்.`**
+- Gate-D completeness corrections — **0**
+- unresolved first-pass readings — **0 currently flagged**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- Gate E — **READY / NOT STARTED**
 
-Confirm:
+## Exact next activity — Speech 15 Gate E Batch 1
 
-- source-page markers **320→355 / 36 / exactly once / ordered**;
-- no page omission or duplication;
-- locked boundaries **319→320 / 355→356** remain correct;
-- page-spanning continuations are represented across split transitions;
-- all printed speaker labels/interventions are represented;
-- unresolved first-pass readings remain explicitly recorded.
+Strictly verify **scans 320–329 / printed pp.319–328 / exactly 10 pages** against rendered controlling anthology pixels.
 
-Do not mark Tamil verified. After Gate D passes, Gate E begins with the fixed cadence **320–329 / 330–339 / 340–349 / 350–355**.
+Check every word/character, names/initials, numerals, dates, percentages, money/units, headings, speaker labels, source-printed English, punctuation where legible, and omissions/repetitions across page transitions. Record every source-backed correction in the Gate-E ledger. Preserve source oddities rather than normalizing them.
+
+After Batch 1, keep Tamil **NOT VERIFIED / verified_against_scan=false** because scans 330–355 remain.
+
+Fixed Gate-E cadence:
+
+- Batch 1 — **320–329**
+- Batch 2 — **330–339**
+- Batch 3 — **340–349**
+- Final Batch 4 — **350–355**
+
+Do not begin Gate F, Gate G, Gate H or Speech 16.
