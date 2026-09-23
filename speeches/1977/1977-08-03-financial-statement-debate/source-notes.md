@@ -123,23 +123,30 @@ The controlling publication is a **May 2007 modern-typeset anthology**. Enlarged
 
 ## Gate E state
 
-**IN PROGRESS — Batches 1–3 PASS / COMPLETE — scans 320–349 / printed pp.319–348 / 30 of 36 pages.**
+**PASS / COMPLETE — scans 320–355 / printed pp.319–354 / 36 of 36 pages source-verified.**
 
 - Batch-1 correction ledger — **19 entries / 19 occurrences**
 - Batch-2 correction ledger — **24 entries / 24 occurrences after direct-pixel reconciliation**
 - Batch-3 correction ledger — **8 entries / 8 occurrences**
-- cumulative correction ledger — **51 entries / 51 occurrences**
-- Batch-3 affected scans — **5**
-- cumulative affected scans — **24**
+- Final Batch-4 correction ledger — **2 entries / 2 occurrences**
+- cumulative correction ledger — **53 entries / 53 occurrences**
+- cumulative affected scans — **26**
 - unresolved readings — **0**
 - source separation — **PASS / outside wording imported 0**
-- scans **350–355** body text modified in Batch 3 — **0**
-- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- split continuation **350→351** — **PASS / directly verified**
+- scan 355 close through `விடைபெறுகிறேன்.` and source ornament — **PASS**
+- scan 356 / Speech 16 modified — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
 
-Batch-2 reconciliation added five source-backed fixes on scans **332, 336, 338 and 339**. See `verification-log.md` for the complete page/scan ledger.
+Final Batch-4 source-backed corrections:
+
+1. scan 350 / printed p.349 — `செயல்படுத்தப்படும்` → `செயல் படுத்தப்படும்`
+2. scan 351 / printed p.350 — `குறிப்பிடுவதாக` → `குறிப்பிட்டதாக`
+
+See `verification-log.md` for the complete page/scan ledger.
 
 ## Exact next
 
-Gate E FINAL Batch 4 — **scans 350–355 / printed pp.349–354 / 6-page final remainder**.
+**Gate F — English translation from Gate-E-verified Tamil only.**
 
-Controlling split: **part014 local 25 = scan 350; part015 local 1–5 = scans 351–355**. Verify the **350→351** continuation. Do not begin Gate F, Gate G, Gate H or Speech 16.
+Do not alter the verified Tamil and do not begin Gate G, Gate H or Speech 16 in the same activity.
