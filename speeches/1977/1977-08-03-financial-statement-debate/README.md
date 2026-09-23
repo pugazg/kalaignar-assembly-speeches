@@ -53,7 +53,7 @@ Rendered pixels of the three controlling 2007 anthology splits above are the sol
 - Speech 14 remains **RELEASED / CLOSED** and must not be reopened merely to advance Speech 15;
 - Speech 16 is outside this unit.
 
-No Speech-15 body wording has been transcribed in this setup activity.
+Speech-15 Gate C first-pass is complete. Gate E Batch 1 has now been strictly source-verified for scans 320–329 only.
 
 ## Gate state
 
@@ -62,7 +62,7 @@ No Speech-15 body wording has been transcribed in this setup activity.
 - first-pass unresolved readings — **0 currently flagged**
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 36/36 structurally audited / 0 completeness corrections**
-- Gate E — **READY / NOT STARTED**
+- Gate E — **IN PROGRESS / Batch 1 PASS / 10 of 36 pages**
 - Tamil — **NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate F / English — **BLOCKED**
@@ -83,10 +83,10 @@ Per explicit user instruction, the repository workflow now uses:
 
 This fixed rule supersedes the earlier Speech-15 whole-speech exception for Gates C and E. Speech 15's Gate C was already complete on live `main` before this rule was locked; the rule controls subsequent Gate-E work and future Gate-C/Gate-E iterations.
 
-For Speech 15, Gate E will therefore run as:
+For Speech 15, Gate E runs as:
 
-- Batch 1 — **scans 320–329 / 10 pages**
-- Batch 2 — **scans 330–339 / 10 pages**
+- Batch 1 — **scans 320–329 / 10 pages — PASS / COMPLETE**
+- Batch 2 — **scans 330–339 / 10 pages — NEXT**
 - Batch 3 — **scans 340–349 / 10 pages**
 - Final Batch 4 — **scans 350–355 / 6 pages**
 
@@ -121,10 +121,25 @@ This Gate-C.5 decision does **not** verify the Tamil body. Word-for-word source 
 - Gate-D completeness corrections — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 
+## Gate E Batch 1 result
+
+**PASS / COMPLETE — scans 320–329 / printed pp.319–328 / exactly 10 pages.**
+
+- verified pages — **10/10 in batch; cumulative 10/36**
+- corrections — **18 entries / 18 occurrences**
+- affected scans — **10/10**
+- unresolved readings — **0**
+- split continuation **325→326** — **PASS / preserved**
+- outside wording imported — **0**
+- scans **330–355** body text modified — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+
+The full correction ledger and page/scan provenance are recorded in `verification-log.md`. Source-visible oddities were retained rather than normalized.
+
 ## Exact next activity
 
-Perform **Speech 15 Gate E Batch 1 — scans 320–329 / printed pp.319–328 / exactly 10 pages**.
+Perform **Speech 15 Gate E Batch 2 — scans 330–339 / printed pp.329–338 / exactly 10 pages**.
 
-Strictly verify against rendered controlling anthology pixels only. Record every source-backed correction. Preserve source oddities rather than normalizing. Do not mark Tamil verified until all four Gate-E batches complete.
+Strictly verify against rendered controlling anthology pixels only. Record every source-backed correction. Preserve source oddities rather than normalizing. Do not mark Tamil verified until all four Gate-E batches complete. Do not begin Gate F, Gate G, Gate H or Speech 16.
 
-Fixed Gate-E cadence: **320–329 / 330–339 / 340–349 / 350–355**.
+Fixed Gate-E cadence: **320–329 PASS / 330–339 NEXT / 340–349 / 350–355**.
