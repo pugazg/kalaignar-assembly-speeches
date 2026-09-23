@@ -318,9 +318,9 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - source-printed English — **preserved verbatim**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 15 — **NOT STARTED**
+- Speech 15 — **Gate E IN PROGRESS / Batch 1 PASS / 10 of 36**
 
-## Speech 15 source-boundary + Gate-C state
+## Speech 15 Gate-E state
 
 - working entry — `speeches/1977/1977-08-03-financial-statement-debate/`
 - source label/date — `உரை : 15 / 03.08.1977`
@@ -331,27 +331,30 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - split transitions **325→326 / 350→351** — **PASS / visually continuous**
 - Gate C — **COMPLETE / 36 of 36 first-pass**
 - source-page markers — **320→355 / 36 / exactly once / ordered**
-- unresolved first-pass readings — **0 currently flagged**
-- Tamil — **NOT VERIFIED / verified_against_scan=false**
-- outside wording imported — **0**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE — 36/36 / 0 completeness corrections**
-- Gate E — **READY / NOT STARTED**
+- Gate E — **IN PROGRESS / Batch 1 PASS / 10 of 36**
+- Gate-E Batch-1 corrections — **18 entries / 18 occurrences**
+- Batch-1 affected scans — **10 / 10**
+- Gate-E unresolved — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- outside wording imported — **0**
+- scans **330–355** body text modified in Batch 1 — **0**
 - fixed iteration rule — **Gate C = 10 source pages / Gate E = 10 source pages; final remainder may be fewer than 10**
-- earlier whole-speech exception — **SUPERSEDED for Gates C and E**
-- planned Gate-E batches — **320–329 / 330–339 / 340–349 / 350–355**
+- Gate-E cadence — **320–329 PASS / 330–339 NEXT / 340–349 / 350–355**
 
-## Gate D result
+## Gate E Batch 1 result
 
 - status — **PASS / COMPLETE**
-- markers — **320→355 / 36 / exactly once / ordered**
-- missing / duplicate / empty page sections — **0 / 0 / 0**
-- boundaries **319→320 / 355→356** — **PASS**
-- split continuations **325→326 / 350→351** — **PASS**
-- intervention pages **326 / 335 / 343 / 349** — **represented**
-- completeness corrections — **0**
+- scans — **320–329**
+- printed pages — **319–328**
+- source pages verified — **10**
+- corrections — **18 / 18 occurrences**
+- unresolved readings — **0**
+- split continuation **325→326** — **PASS**
+- source separation — **PASS / outside wording 0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 
 ## Exact continuation
 
-Perform **Speech 15 Gate E Batch 1 — scans 320–329 / printed pp.319–328 / exactly 10 pages**. Record every source-backed correction and keep Tamil unverified until all four Gate-E batches complete.
+Perform **Speech 15 Gate E Batch 2 — scans 330–339 / printed pp.329–338 / exactly 10 pages**. Record every source-backed correction and keep Tamil unverified until all four Gate-E batches complete. Do not begin Gate F, Gate G, Gate H or Speech 16.
