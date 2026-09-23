@@ -335,12 +335,23 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - outside wording imported — **0**
 - Gate C.5 — **N/A / CLOSED**
-- Gate D — **READY / NOT STARTED**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 36/36 / 0 completeness corrections**
+- Gate E — **READY / NOT STARTED**
 - fixed iteration rule — **Gate C = 10 source pages / Gate E = 10 source pages; final remainder may be fewer than 10**
 - earlier whole-speech exception — **SUPERSEDED for Gates C and E**
 - planned Gate-E batches — **320–329 / 330–339 / 340–349 / 350–355**
 
+## Gate D result
+
+- status — **PASS / COMPLETE**
+- markers — **320→355 / 36 / exactly once / ordered**
+- missing / duplicate / empty page sections — **0 / 0 / 0**
+- boundaries **319→320 / 355→356** — **PASS**
+- split continuations **325→326 / 350→351** — **PASS**
+- intervention pages **326 / 335 / 343 / 349** — **represented**
+- completeness corrections — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+
 ## Exact continuation
 
-Perform **Speech 15 Gate D completeness audit — scans 320–355 / 36 pages**. Gate C.5 is **N/A / CLOSED** for this modern 2007 typeset witness after representative direct-pixel review at scans 320, 326, 335, 345 and 355. Do not mark Tamil verified. After Gate D passes, begin Gate E with the fixed 10-page cadence **320–329 / 330–339 / 340–349 / 350–355**.
+Perform **Speech 15 Gate E Batch 1 — scans 320–329 / printed pp.319–328 / exactly 10 pages**. Record every source-backed correction and keep Tamil unverified until all four Gate-E batches complete.
