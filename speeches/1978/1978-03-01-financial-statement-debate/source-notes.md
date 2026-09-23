@@ -103,6 +103,31 @@ Conservative first-pass preservation includes scan 386 the printed `(ஒப்�
 - outside wording imported — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 
+## Gate C.5
+
+**N/A / CLOSED across this PDF.**
+
+- historical-glyph corrections — **0**
+- unresolved — **0**
+- source wording changed — **0**
+
+## Gate D structural audit
+
+**PASS / COMPLETE — 33/33 pages.**
+
+- markers — **356→388 / exactly once / ordered**
+- missing markers — **0**
+- duplicate markers — **0**
+- empty page bodies — **0**
+- incoming boundary **355→356** — **PASS**
+- outgoing boundary **388→389** — **PASS**
+- part015→part016 continuation **375→376** — **PASS**
+- source-printed English on scans 368 and 384 — **preserved**
+- speaker labels/intervention structure — **preserved**
+- final scan 388 close through `வணக்கம்.` and source ornament — **preserved**
+- completeness corrections — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+
 ## Exact next
 
-**Gate C.5 applicability review.**
+**Gate E Batch 1 — scans 356–365 / exactly 10 pages.**
