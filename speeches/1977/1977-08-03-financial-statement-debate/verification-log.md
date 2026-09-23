@@ -133,7 +133,7 @@ Coverage:
 - split/local coverage — **part013 local 20–25 = scans 320–325; part014 local 1–4 = scans 326–329**
 - source markers in batch — **320→329 / 10 / exactly once / ordered**
 - split continuation **325→326** — **PASS / source continuation preserved**
-- Gate-E correction ledger — **18 entries / 18 occurrences**
+- Gate-E correction ledger — **19 entries / 19 occurrences**
 - affected scans — **10 / 10 — 320–329**
 - unresolved readings — **0**
 - source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
@@ -160,8 +160,10 @@ Gate-E correction ledger:
 16. **scan 329 / printed p.328** — `1976-77இல்` → `1976-77ல்` in the `24.18 லட்சமும்` sentence
 17. **scan 329 / printed p.328** — `அதன் தொடர்ச்சியாக` → `அதன் தொடர்பாக`
 18. **scan 329 / printed p.328** — `குடகனாறு திட்டம்` → `குடகனாறுத் திட்டம்`
+19. **scan 324 / printed p.323** — `வருவாய்க் கணக்கில் வருவாய்கள் 575.63` → `வருவாய்க் கணக்கி வருவாய்கள் 575.63`
+   - direct rendered-pixel recheck confirms the source visibly ends the word at `கணக்கி`; this apparent printer's error is preserved exactly rather than normalized to `கணக்கில்`.
 
-Source-visible oddities retained where supported by the controlling pixels include scan-320 `தலைவரவர்களே`, scan-323 `வரவு.செலவுத்`, scan-325 `137 கோடி` and later `5.37 கோடி`, scan-326 `எதிர் பார்க்கப்பட்டது`, scan-328 `அறிவிக்கப் பட்டன`, and scan-329 `1975-75லும்` / `செலவழித்தக் காரணத்தால்`. No normalization was applied.
+Source-visible oddities retained where supported by the controlling pixels include scan-320 `தலைவரவர்களே`, scan-323 `வரவு.செலவுத்`, scan-324 `வருவாய்க் கணக்கி`, scan-325 `137 கோடி` and later `5.37 கோடி`, scan-326 `எதிர் பார்க்கப்பட்டது`, scan-328 `அறிவிக்கப் பட்டன`, and scan-329 `1975-75லும்` / `செலவழித்தக் காரணத்தால்`. No normalization was applied.
 
 **Gate E remains IN PROGRESS — 10 of 36 pages verified. Tamil remains NOT VERIFIED / verified_against_scan=false.**
 

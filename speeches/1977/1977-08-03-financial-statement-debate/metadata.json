@@ -177,8 +177,8 @@
     "gate_e_verified_page_count": 10,
     "gate_e_total_page_count": 36,
     "gate_e_batch_1_status": "pass-complete",
-    "gate_e_batch_1_corrections": 18,
-    "gate_e_batch_1_correction_occurrences": 18,
+    "gate_e_batch_1_corrections": 19,
+    "gate_e_batch_1_correction_occurrences": 19,
     "gate_e_batch_1_affected_scans": 10,
     "gate_e_unresolved": 0
   },
