@@ -116,19 +116,39 @@ Conservative first-pass preservation includes scan 386 the printed `(ஒப்�
 
 ## Gate E Batch 1
 
-**PASS / COMPLETE — scans 356–365 / printed pp.355–364 / exactly 10 pages.**
+**PASS / COMPLETE — scans 356–365 / printed pp.355–364 / 10 pages.**
 
-- controlling local pages — **part015 local 6–15**
+- corrections — **11**
+- affected scans — **6**
+- unresolved — **0**
+
+## Gate E Batch 2
+
+**PASS / COMPLETE — scans 366–375 / printed pp.365–374 / exactly 10 pages.**
+
+- controlling local pages — **part015 local 16–25**
 - source authority — **rendered controlling pixels only**
-- correction ledger — **11 entries / 11 occurrences**
-- affected scans — **6 — 356, 357, 360, 362, 363, 365**
+- correction ledger — **1 entry / 1 occurrence**
+- affected scan — **370**
 - unresolved readings — **0**
-- scans 366–388 modified — **0**
+- scans 376–388 modified — **0**
 - outside wording imported — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 
-Source-visible oddities retained include scan 357 `காட்டி யிருக்கிறோம்`, scan 362 numeric `183,85`, and scan 363 `கட்டப்பட்ட விருக்கின்றன`.
+Source-backed Batch-2 correction:
+
+1. scan 370 / printed p.369 — `இழப்பு ஏற்படுகிறது. அதை` → `இழப்பு ஏற்படுகிறது, அதை`
+
+Source-visible oddities and wording on scans 366–375 were otherwise retained.
+
+## Gate E cumulative state
+
+- verified scans — **356–375 / 20 of 33**
+- cumulative corrections — **12 entries / 12 occurrences**
+- cumulative affected scans — **7**
+- unresolved — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
 
 ## Exact next
 
-**Gate E Batch 2 — scans 366–375 / exactly 10 pages.**
+**Gate E Batch 3 — scans 376–385 / exactly 10 pages.**
