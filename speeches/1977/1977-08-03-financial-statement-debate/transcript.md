@@ -2,7 +2,7 @@
 
 ## உரை : 15 — நாள் : 03.08.1977
 
-> **Tamil gate state:** Gate C **COMPLETE — scans 320–355 / printed pp.319–354 / 36 of 36 pages first-pass transcribed**. Gate C.5 **N/A / CLOSED**: the May 2007 controlling witness uses modern post-reform Tamil typesetting; representative direct-pixel checks at scans **320, 326, 335, 345 and 355** showed no historical-glyph condition requiring a separate audit. Gate D is **READY / NOT STARTED**. Tamil remains **NOT VERIFIED** with `verified_against_scan=false`; **0 first-pass unresolved readings** and **0 Gate-C.5 historical-glyph corrections** are recorded. Source-page markers **320→355** are present exactly once and ordered. Outside wording imported: **0**. **Repository rule: Gate C and Gate E use 10 source pages per iteration; only a final remainder may be fewer than 10.**
+> **Tamil gate state:** Gate C **COMPLETE — scans 320–355 / 36 of 36 first-pass**. Gate C.5 **N/A / CLOSED**. Gate D **PASS / COMPLETE — 36/36 structurally audited**, with source-page markers **320→355 exactly once and ordered**, **0 missing / 0 duplicate / 0 empty pages**, locked boundaries **319→320 / 355→356 PASS**, split continuations **325→326 / 350→351 PASS**, printed intervention pages **326, 335, 343, 349 represented**, and **0 Gate-D completeness corrections**. Tamil remains **NOT VERIFIED** with `verified_against_scan=false`; Gate E is **READY / NOT STARTED**. **Fixed Gate-E cadence: 10 source pages per iteration; final remainder may be fewer than 10.**
 
 <!-- source-page: 320 -->
 
