@@ -786,7 +786,7 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - Gate-H wording changes — **0 Tamil / 0 English**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 16 — **Gate C IN PROGRESS / Batches 1–2 COMPLETE / 20 of 33 / Tamil NOT VERIFIED**
+- Speech 16 — **Gate C IN PROGRESS / Batches 1–3 COMPLETE / 30 of 33 / Tamil NOT VERIFIED**
 
 ## Speech 16 active Gate-C state
 
@@ -803,15 +803,16 @@ Canonical entry:
 - source coverage — **33/33 COMPLETE / no gap / no overlap**
 - Gate C Batch 1 — **COMPLETE / scans 356–365 / 10 pages**
 - Gate C Batch 2 — **COMPLETE / scans 366–375 / 10 pages**
-- marker sequence — **356→375 / 20 / exactly once / ordered**
+- Gate C Batch 3 — **COMPLETE / scans 376–385 / 10 pages**
+- marker sequence — **356→385 / 30 / exactly once / ordered**
 - unresolved first-pass readings — **0**
-- source-visible oddities retained — scan 362 `183,85`; scan 363 `கட்டப்பட்ட விருக்கின்றன`; scan 369 `(avoid) ‘அவாய்ட்’`; scan 372 `போட்டாபோட்டி காட்டா குஸ்தி`; scan 375 `தரங்கெட்ட அரசியல்வாதிகள்`
+- source-printed English correspondence on scan 384 — **preserved**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - Gate C.5 / D / E / F / G / H — **NOT STARTED**
 - Speech 17 — **NOT STARTED**
 
-## Exact next activity — Speech 16 Gate C Batch 3
+## Exact next activity — Speech 16 Gate C Final Batch 4
 
-Process **scans 376–385 / printed pp.375–384 / exactly 10 source pages** from part016 local pages **1–10**.
+Process **scans 386–388 / printed pp.385–387 / final 3 source pages** from part016 local pages **11–13**.
 
-Use only rendered controlling anthology pixels. Preserve source wording, punctuation, numerals, printed English, labels and visible repetition. Do not exceed 10 Gate-C pages and do not begin downstream gates in the same activity.
+Use only rendered controlling anthology pixels. Preserve source wording, punctuation, numerals, printed English, labels and visible repetition. Do not begin Gate C.5 or any downstream gate in the same activity.
