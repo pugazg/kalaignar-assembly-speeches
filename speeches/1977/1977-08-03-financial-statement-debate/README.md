@@ -60,8 +60,8 @@ No Speech-15 body wording has been transcribed in this setup activity.
 - Gate C — **COMPLETE / 36 of 36 first-pass transcribed**
 - source-page markers — **320→355 / 36 / exactly once / ordered**
 - first-pass unresolved readings — **0 currently flagged**
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting; 0 historical-glyph corrections / 0 unresolved**
+- Gate D — **READY / NOT STARTED**
 - Gate E — **NOT STARTED**
 - Tamil — **NOT VERIFIED**
 - `verified_against_scan=false`
@@ -90,6 +90,23 @@ For Speech 15, Gate E will therefore run as:
 - Batch 3 — **scans 340–349 / 10 pages**
 - Final Batch 4 — **scans 350–355 / 6 pages**
 
+## Gate C.5 applicability result
+
+**N/A / CLOSED.**
+
+Basis:
+
+- controlling edition — **May 2007 modern typeset anthology**;
+- direct enlarged source-pixel review performed at representative coverage points **320, 326, 335, 345 and 355**;
+- the known reform-sensitive families from the repository guide were considered: `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- inspected pages show modern post-reform Tamil glyph construction rather than legacy metal-type identities requiring decoding;
+- historical-glyph corrections — **0**;
+- unresolved historical-glyph readings — **0**.
+
+This Gate-C.5 decision does **not** verify the Tamil body. Word-for-word source fidelity remains Gate E.
+
 ## Exact next activity
 
-Perform **Speech 15 Gate C.5 applicability determination** for scans **320–355**. Do not begin Gate E until Gate C.5 is PASS/N/A and Gate D is complete. Preserve the new fixed 10-page cadence when Gate E begins.
+Perform **Speech 15 Gate D completeness audit — scans 320–355 / printed pp.319–354 / all 36 pages**.
+
+Gate D must confirm all 36 source-page markers are present exactly once and ordered, locked boundaries remain correct, page-spanning continuations are represented, speaker labels/interventions are present, and no page is duplicated or omitted. Do not mark Tamil verified. After Gate D passes, Gate E must use the fixed 10-page cadence: **320–329 / 330–339 / 340–349 / 350–355**.
