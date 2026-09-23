@@ -107,6 +107,20 @@ The controlling publication is a **May 2007 modern-typeset anthology**. Enlarged
 - unresolved historical-glyph readings — **0**
 - Tamil verification state — **unchanged / NOT VERIFIED**
 
+## Gate D completeness audit
+
+**PASS / COMPLETE — 36/36 pages structurally represented.**
+
+- markers — **320→355 / exactly once / ordered**
+- gaps — **0**
+- duplicate markers — **0**
+- empty sections — **0**
+- start/end boundaries — **PASS**
+- split continuations **325→326 / 350→351** — **represented**
+- intervention pages **326 / 335 / 343 / 349** — **represented**
+- completeness corrections — **0**
+- Tamil remains **NOT VERIFIED**
+
 ## Exact next
 
-Gate D completeness audit for **scans 320–355 / 36 pages**.
+Gate E Batch 1 — **scans 320–329 / exactly 10 pages**.
