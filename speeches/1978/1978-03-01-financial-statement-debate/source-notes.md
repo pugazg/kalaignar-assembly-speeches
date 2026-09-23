@@ -74,6 +74,35 @@ Conservative first-pass preservation includes source-visible forms such as scan 
 
 Conservative first-pass preservation includes source-visible forms such as scan 377 `குளுரைத்துச்`, scan 381 `ஒரு டிக்கெட்டூடத் திருப்பித் தரக்கூடாதெனவும்`, scan 383 the party-member wording in the village-committee order, and scan 385 the printed dates `10.11.1977` / `7.12.1977` without chronological normalization.
 
+## Gate C Final Batch 4
+
+**COMPLETE — scans 386–388 / printed pp.385–387 / final 3 pages.**
+
+- controlling local pages — **part016 local 11–13**
+- markers — **386→388 / exactly once / ordered**
+- cumulative Gate-C coverage — **356→388 / 33 of 33 pages**
+- unresolved readings — **0 currently flagged**
+- transcription source — **rendered pixels only**
+- scan 388 close through `வணக்கம்.` and source ornament — **PASS / first-pass boundary close preserved**
+- outside wording imported — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Speech 17 modified — **0**
+
+Conservative first-pass preservation includes scan 386 the printed `(ஒப்பம்.) / ஆணையாளர்.` close of the preceding office memorandum; scan 386 `சீப் மினிஸ்டர்ஸ் கப்`; scan 387 `போட்டோக்கள்` and `செக்யூரிட்டி ஆபீசர்`; and the final scan-388 wording through `அமைகிறேன், வணக்கம்.`.
+
+## Gate C closure
+
+**COMPLETE — scans 356–388 / printed pp.355–387 / 33 of 33 pages.**
+
+- Batch 1 — **356–365 / 10 pages**
+- Batch 2 — **366–375 / 10 pages**
+- Batch 3 — **376–385 / 10 pages**
+- Final Batch 4 — **386–388 / 3 pages**
+- marker sequence — **356→388 / 33 / exactly once / ordered**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+
 ## Exact next
 
-**Gate C Final Batch 4 — scans 386–388 / final 3 pages.**
+**Gate C.5 applicability review.**
