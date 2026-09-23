@@ -42,6 +42,22 @@ Therefore **355→356 PASS** and **388→389 PASS**.
 
 Conservative first-pass preservation includes source-visible `183,85` on scan 362 and `கட்டப்பட்ட விருக்கின்றன` on scan 363; neither was silently normalized.
 
+## Gate C Batch 2
+
+**COMPLETE — scans 366–375 / printed pp.365–374 / exactly 10 pages.**
+
+- controlling local pages — **part015 local 16–25**
+- markers — **366→375 / exactly once / ordered**
+- cumulative Gate-C coverage — **356→375 / 20 of 33 pages**
+- unresolved readings — **0 currently flagged**
+- transcription source — **rendered pixels only**
+- source-printed English on scan 368 — **preserved**
+- outside wording imported — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- pages 376–388 modified — **0**
+
+Conservative first-pass preservation includes source-visible forms such as scan 366 `அல்ல மற்றும் உள்ள கட்சியின் தலைவர்களும்`, scan 369 `(avoid) ‘அவாய்ட்’`, scan 372 `போட்டாபோட்டி காட்டா குஸ்தி`, and scan 375 `பிரிவினை முலாம் பூசாதீர்கள்` / `தரங்கெட்ட அரசியல்வாதிகள்`.
+
 ## Exact next
 
-**Gate C Batch 2 — scans 366–375 / exactly 10 pages.**
+**Gate C Batch 3 — scans 376–385 / exactly 10 pages.**
