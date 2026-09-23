@@ -62,9 +62,38 @@ Source-visible forms retained without normalization include:
 - scan **374** — `நாங்கள் விரும்புவது மாநில சுயாட்சியல்ல. மக்கள் சுயாட்சி`
 - scan **375** — `பிரிவினை முலாம் பூசாதீர்கள்` / `தரங்கெட்ட அரசியல்வாதிகள்`
 
+## Gate C — Batch 3 / scans 376–385
+
+**COMPLETE / FIRST-PASS TRANSCRIPTION — 10 pages.**
+
+- global scans — **376–385**
+- printed pages — **375–384**
+- split/local pages — **part016 local 1–10**
+- marker sequence — **376→385 / 10 / exactly once / ordered**
+- cumulative marker sequence — **356→385 / 30 / exactly once / ordered**
+- unresolved first-pass readings — **0**
+- source-pixel authority — **PASS**
+- source-printed English correspondence on scan 384 — **preserved**
+- OCR/web/Official Reports/alternate anthology/released-speech wording imported — **0**
+- scans 386–388 modified — **0**
+- verified-against-scan state — **false**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+
+Source-visible forms retained without normalization include:
+
+- scan **376** — bracketed aside `[இது அவருக்கே (நண்பர் மனோகரனுக்கு) உரித்தான வார்த்தைகள்]`
+- scan **377** — `குளுரைத்துச்`
+- scan **379** — `மீண்டும் ஆலாபனங்களை ஆரம்பிக்கிறோம்`
+- scan **380** — Salem municipal circular wording, dates and reference numbers
+- scan **381** — `ஒரு டிக்கெட்டூடத் திருப்பித் தரக்கூடாதெனவும்`
+- scan **382** — transfer-order references `12354/77சி. 1` / `15218/77 இ.`
+- scan **383** — village-committee order requiring an A.I.A.D.M.K. member
+- scan **384** — source-printed English `TWAD Board/EWS SUB-DIVISION` correspondence
+- scan **385** — printed dates `10.11.1977` and `7.12.1977` retained as source-visible
+
 ## Downstream state
 
-- Gate C — **20/33 complete**
+- Gate C — **30/33 complete**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
@@ -74,4 +103,4 @@ Source-visible forms retained without normalization include:
 
 ## Exact next activity
 
-**Gate C Batch 3 — scans 376–385 / printed pp.375–384 / exactly 10 pages.**
+**Gate C Final Batch 4 — scans 386–388 / printed pp.385–387 / final 3 pages.**
