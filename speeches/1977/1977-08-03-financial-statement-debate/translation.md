@@ -2,7 +2,7 @@
 
 ## உரை : 15 / 03.08.1977
 
-**Gate F status: IN PROGRESS — Batch 1 / scans 320–344 / 25 of 36 pages translated.**
+**Gate F status: COMPLETE — Batches 1–2 / scans 320–355 / 36 of 36 pages translated.**
 
 Translation authority: the Gate-E-verified Tamil in `transcript.md` only. English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL** until Gate G.
 
@@ -243,3 +243,98 @@ The question of entertainment tax has already been debated many times in this Ho
 People in that field are now pointing out that the tax reduction made here has not brought much benefit. I hope that, if not today, the Government will explain in the forthcoming grant debates what happened to that committee's report and what decision this Government proposes to take on it.
 
 An interim relief of ten rupees has been given to Government employees, but it has been said that this is only for those drawing a monthly salary above Rs.200, and that those drawing less than Rs.200 will not receive the ten rupees. That is not a position consistent with socialism—
+
+
+### Source page 345
+
+I am duty-bound to insist. Therefore, those drawing less than Rs.200—the last-grade employees, our friends in the police, road-work maistries and others—about three and a half lakh people in all, are affected by this. I therefore request that this ten-rupee interim relief be extended to everyone. It is customary to announce some concessions while replying. I hope that such an announcement will be made today. I am confident that, by making such an announcement today, the Finance Minister will certainly carry away the credit; with that satisfaction and full confidence, I am duty-bound to place this request.
+
+Next, there is the scheme under which Rs.15 is to be deducted from salary and, after twenty-five years, Rs.10,000 is to be paid to Government employees. Those in the ruling party should not be offended; those who conceived this scheme should not be offended either. I state here that it is a scheme that should be abandoned immediately. You give ten rupees to those whose salary is above Rs.200, and from them too you deduct Rs.15. From the three and a half lakh persons who are not given that ten rupees, you also deduct Rs.15. Thus those who do not even receive the ten rupees are affected and put to hardship. Many members have already presented calculations concerning this.
+
+There is a savings scheme in the Tamil Nadu State Co-operative Bank. Under that scheme, if a person pays Rs.15 a month—
+
+### Source page 346
+
+for twenty-five years, he receives Rs.20,948. Will people prefer that jackfruit, or this kalap fruit? I ask the Finance Minister to think about it. That is money one pays if one wishes; this is money you compulsorily take. To put it another way, instead of the same Rs.15, if a person pays Rs.5 a month for thirty years, he can receive Rs.12,000 at the end. Paying Rs.5 a month for thirty years yields Rs.12,000. Paying Rs.15 a month for twenty-five years yields Rs.20,000. Therefore this does not provide a greater return. Leaving aside such savings, you could simply say that, as though imposing a tax on them, every Government employee is to pay a head tax of Rs.15. Likewise, simply deducting Rs.15 is not acceptable.
+
+If we calculate at Rs.15, you will receive approximately Rs.13 crore in a year. I looked to see whether that amount appeared anywhere in the accounts. It does not seem to. From that I understood that, since you have not brought that Rs.13 crore into the receipts and have not mentioned it, you will abandon it. Otherwise you would have entered it as receipts and shown the Rs.13 crore. Thus you propose to collect Rs.13 crore from Government employees in one year. There are excellent schemes—schemes more profitable than this—so this should be dropped. If those responsible for the Government give evidence saying, “We have accounted for the Rs.13 crore, so we shall retain it,” there are officials capable of supplying plenty of such evidence. But do not argue, by producing such evidence, “We have shown accounts for Rs.13 crore, and therefore—
+
+### Source page 347
+
+we shall use that Rs.13 crore.” Do not strike Government employees in the stomach. I strongly urge you to abandon this scheme of deducting Rs.15.
+
+Next, the Governor's Address stated that this Government would open fair-price shops in 16,000 revenue villages. This very important scheme mentioned in the Governor's Address does not appear in the financial statement. Nor is it known whether funds have been allotted for it. In more than 9,000 of these 16,000 villages, rice, sugar and wheat are already supplied. If, in addition, provisions such as salt, tamarind and chilli are to be made available at fair prices, and if the calculation is one shop for every revenue village, take Chennai for example: if the hundred shops in Chennai are treated as being within one revenue village, they would count as only one shop. On that basis, more than another thousand would have to be added to the 16,000 revenue villages. If we include that too and provide these shops for 17,000 villages, even on the lowest calculation it would cost at least Rs.10 crore. If funds have been allotted for this, I am eager to know why it has not been stated in the financial statement. Everything stated in the Governor's Address should be reflected in the financial statement.
+
+For the Tamil people, Tamil culture and Tamil, you have set out in detail in this financial statement the various things that will be done—
+
+### Source page 348
+
+and said what all you propose to do. I ask with concern only because this major issue too could have been mentioned in the statement; not for any other reason.
+
+I request that the Finance Minister state here when those fair-price shops will be opened and what allocations have been made for them.
+
+As far as this financial statement is concerned, my argument is that no new policy has been stated. No one in this House can have forgotten that some party leaders who spoke from the Opposition benches expressed the same view.
+
+None of the assurances given at election time regarding land reform finds a place here. Even our Marxist party leader Mr Sankarayya said that members of the Dravida Munnetra Kazhagam had not strongly pressed here the various schemes of nationalisation, and that he expected at least the Leader of the Opposition speaking the next day to speak about them. Whether we speak or not, I think our friend Sankarayya will recognise that, as far as the Dravida Munnetra Kazhagam is concerned, it remains strongly committed to the policy of nationalisation.
+
+It is for that reason that we had already resolved in this House that the aluminium factory should be nationalised. But the approval of the Central Government has not yet been obtained for it. Likewise, of nearly 10,000 buses—
+
+### Source page 349
+
+more than 4,000 buses were nationalised during Kazhagam rule. The buses of large companies such as T.V.S. and Raman & Raman were then taken into public ownership and organised into various corporations and boards, and today they are rendering good service. I therefore wish to tell the House that we have not retreated in the slightest from the policy of nationalisation.
+
+**Mr R. Umanath:** When the Hon. Leader of the Opposition speaks, he refers to what was done earlier in selectively nationalising certain industries and factories. I agree with that. What Mr Sankarayya referred to was the nationalisation of the seventy-five families, the big business houses. He asked whether all of them would be nationalised.
+
+**Kalaignar M. Karunanidhi:** Anna spoke about that too when he was Leader of the Opposition here. Therefore I wish to tell our comrades of the Marxist Communist Party that we will not retreat in the slightest from that policy. I cannot avoid pointing out that many matters set out in the election manifesto as matters of policy are absent from this financial statement. Before the Assembly election, our Chief Minister said at many meetings that a crop-insurance scheme would be implemented to protect the welfare of farmers. Words to that effect are also in the election manifesto. In the speech he made in Palani, published in their Anna newspaper on 24 May, it was said that as soon as the A.I.A.D.M.K. Government was formed—
+
+### Source page 350
+
+a crop-insurance scheme would be implemented to protect the welfare of farmers. The Kazhagam's election manifesto also announced a crop-insurance scheme to protect farmers' welfare... It was also stated that the scheme would help farmers avoid the burden of debt. Now, promises made at election time are one thing, and responsibilities and circumstances after coming here and taking these seats are another. Now it is realised that all this must be done by the Central Government, and today it is stated that the Central Government must bring in a scheme for it.
+
+Our Chief Minister had already announced as his party's policy that the daily wages of agricultural workers would be replaced by a monthly salary. I pointed this out even when I spoke on the Governor's Address. In this financial statement I searched and searched to see what arrangements had been made to replace agricultural workers' daily wages with a monthly salary. I could not find them. It is said that a sugar mill will be established. During the previous Kazhagam Government an important decision had been taken: any sugar mills established thereafter would be in the public sector and not in the private sector. I want this one too to be established in that manner, and I believe that it will be.
+
+The padi-rice scheme is being debated in this House. Our Chief Minister said he would give a reply on a certain date, explained here all the difficulties involved, and finally said there would be no padi rice. But in the election proclamation he had announced—
+
+### Source page 351
+
+and in a radio speech, it was said that when Anna assumed office he promised poor people one padi of rice for one rupee. Officials showed the Government's budget account and said it would create an annual deficit of Rs.8 crore. Anna said that one must find a way to raise the eight crore rupees rather than strike at the stomachs of the poor, and in the first stage he implemented the one-rupee-one-padi rice scheme.
+
+In that speech it was stated, “To implement schemes of this kind, those in power need not only intelligence but also a heart that shows compassion to suffering people.” The Chief Minister argued then that Anna would be remembered by the epithet, “Anna who brought the padi-rice scheme.” I do not question the intelligence of this Cabinet. It contains people richly endowed with intelligence. Though there is already plenty of intelligence, it is said that, in order to obtain even more, a “brain trust” is to be established. So I do not doubt your intelligence. There is plenty of it; I praise it. But I repeatedly ask these rulers: as you said at election time, bring the padi-rice scheme with a compassionate heart.
+
+The election manifesto says electricity charges for houses and for agriculture will be reduced. It was also said in election campaign meetings. Do you now at least realise that these too, like padi rice, were election promises made without examining the circumstances under which they could be given—
+
+### Source page 352
+
+or are you going to reduce something? I do not understand, because the financial statement has not highlighted anything about it.
+
+The Kazhagam Government was earlier accused over the rise in prices. After coming here and taking these seats, you may have realised that the Central Government was responsible. When the two parties were together, it was said that the Central Government was responsible for the rise in prices; after the split, today's ruling party, then in the Opposition, found itself compelled to say that the Munnetra Kazhagam Government was responsible. Now all of us have come to understand the great truth that the Central Government is in the position of having to reduce prices.
+
+A ruling-party member took a phrase in the financial statement in which the Finance Minister said, “Though the price situation had remained steady for some time,” and offered an explanation: “Do you know what that ‘some time’ was? It was the Emergency, the period of crisis. Only then were prices stable.”
+
+But it is not I who says prices were not stable during that period. Mr C. Subramaniam, who was Finance Minister then, himself pointed it out. He admitted that, compared with the position in March 1976, prices had in fact risen by 15.5 per cent. Mr C. Subramaniam said that because of this price rise India had again reached an inflationary situation and that an inflationary trend had arisen in the economy. This was reported in the Statesman on—
+
+### Source page 353
+
+3 March 1977. Therefore we must understand that during the Emergency prices rose by 15.5 per cent.
+
+They said, “We are going to implement many revolutionary schemes.” Some members who spoke here said from this side that there was no revolution and no novelty in this, while from the other side it was asked what revolution and novelty were wanted. I do not wish to enter into that. At this final stage of the debate, when the Finance Minister is to reply, I do not wish to use all those words about whether this contains revolution or novelty.
+
+But during the Assembly election, the Chief Minister made a speech at Vaniyambadi that was published in the Anna newspaper on 29 July 1977. He said there: “We have prepared many revolutionary schemes. We did not publish all those schemes in the election manifesto. We did not publish them because we did not wish to reveal them then. After we come to power, we will implement those schemes and show them....” Perhaps, because they were budget secrets, they were not disclosed then. You did not disclose those schemes in your election manifesto. You did not disclose them in the Governor's Address. You have not disclosed them in the financial statement either. So I wish to ask: when are you going to disclose them?
+
+If I ask this, he may perhaps answer, “I will disclose them when time compels me.” Therefore, I have pointed all this out only because at least some part of the promises made at election time should find a place in this financial statement—
+
+### Source page 354
+
+and for no other reason.
+
+At the same Vaniyambadi meeting, during the Assembly election, our Chief Minister said that guarantees such as job security and fixed working hours would be provided to cart-pullers, load carriers, stone breakers and lorry drivers; the speech was published in the Anna newspaper on 29 May 1977. That too finds no place here.
+
+Then, at election time, they announced that they would repeal the Criminal Tribes Act. But that does not find a place in this financial statement. So when are you going to repeal the Criminal Tribes Act? What is the reason for not repealing it? Why does it not find a place in this statement? I wish to know. I trust the Finance Minister will explain this.
+
+When the Professor raised a question in this House about the scheme of giving loans through post offices, the Chief Minister replied in this House that he had asked only that a place or facility be provided for giving loans. But when the Chief Minister spoke in the Upper House, he said, as I understand it, that he had asked the Central Government to allot such a section in post offices and that he should not be pressed further on the matter. Perhaps he discussed it during his present visit to Delhi. Accordingly, I hope such loan-disbursing sections will soon be established in post offices.
+
+I wish to say one thing generally. As far as Central assistance is concerned, the State Government—
+
+### Source page 355
+
+has not received the assistance and rights that are justly due to it. Members of the ruling party in this House, we who sit in the Opposition, and even some parties friendly to the ruling party have all not failed to say so. In obtaining such Central assistance, I wish to state that the Dravida Munnetra Kazhagam is ready to cooperate with the State Government in every way. I convey my thanks to our Hon. Finance Minister Manoharan, who placed this maiden budget before the House—not to the budget he presented, but to him. With that, I take my leave.
