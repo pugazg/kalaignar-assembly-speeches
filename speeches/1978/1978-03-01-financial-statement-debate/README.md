@@ -72,19 +72,25 @@ Source-visible oddities retained in first pass include scan 362 `183,85`, scan 3
 
 ## Gate E state
 
-**IN PROGRESS — Batch 1 PASS / scans 356–365 / printed pp.355–364 / 10 of 33.**
+**IN PROGRESS — Batches 1–2 PASS / scans 356–375 / printed pp.355–374 / 20 of 33.**
 
-- Batch-1 corrections — **11 entries / 11 occurrences**
-- Batch-1 affected scans — **6 — 356, 357, 360, 362, 363, 365**
+- Batch 1 — **356–365 / 10 pages / 11 corrections**
+- Batch 2 — **366–375 / 10 pages / 1 correction**
+- cumulative corrections — **12 entries / 12 occurrences**
+- cumulative affected scans — **7 — 356, 357, 360, 362, 363, 365, 370**
 - unresolved Gate-E readings — **0**
-- scans 366–388 modified during Batch 1 — **0**
+- scans 376–388 modified during Batch 2 — **0**
 - outside wording imported — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 
-See `verification-log.md` for the correction ledger.
+Batch-2 source correction:
+
+- scan 370 / printed p.369 — `ஏற்படுகிறது.` → `ஏற்படுகிறது,` before `அதை மத்திய அரசாங்கம்`.
+
+See `verification-log.md` for the full correction ledger.
 
 ## Exact next activity
 
-**Gate E Batch 2 — scans 366–375 / printed pp.365–374 / exactly 10 pages.**
+**Gate E Batch 3 — scans 376–385 / printed pp.375–384 / exactly 10 pages.**
 
 Do not exceed 10 source pages. Do not begin Gate F, Gate G, Gate H or Speech 17.
