@@ -100,4 +100,3 @@ Batch 2:
 
 Begin **Speech 16 / 1.3.1978 source-boundary + Gate-C setup — scans 356–388 / printed pp.355–387 / 33 pages**. Respect the fixed Gate-C rule of **10 source pages per iteration** once transcription begins. Do not reopen Speech 15 unless a separate source-backed defect is discovered.
 
-Gate H may now merge the Gate-G-verified English after the untouched verified Tamil in canonical `transcript.md`, validate both 36-page sequences, synchronize indexes/status/control documents, retire the working translation file to a pointer, and release Speech 15.
