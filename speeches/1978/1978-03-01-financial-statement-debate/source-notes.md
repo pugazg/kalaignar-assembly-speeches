@@ -58,6 +58,22 @@ Conservative first-pass preservation includes source-visible `183,85` on scan 36
 
 Conservative first-pass preservation includes source-visible forms such as scan 366 `அல்ல மற்றும் உள்ள கட்சியின் தலைவர்களும்`, scan 369 `(avoid) ‘அவாய்ட்’`, scan 372 `போட்டாபோட்டி காட்டா குஸ்தி`, and scan 375 `பிரிவினை முலாம் பூசாதீர்கள்` / `தரங்கெட்ட அரசியல்வாதிகள்`.
 
+## Gate C Batch 3
+
+**COMPLETE — scans 376–385 / printed pp.375–384 / exactly 10 pages.**
+
+- controlling local pages — **part016 local 1–10**
+- markers — **376→385 / exactly once / ordered**
+- cumulative Gate-C coverage — **356→385 / 30 of 33 pages**
+- unresolved readings — **0 currently flagged**
+- transcription source — **rendered pixels only**
+- source-printed English correspondence on scan 384 — **preserved**
+- outside wording imported — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- pages 386–388 modified — **0**
+
+Conservative first-pass preservation includes source-visible forms such as scan 377 `குளுரைத்துச்`, scan 381 `ஒரு டிக்கெட்டூடத் திருப்பித் தரக்கூடாதெனவும்`, scan 383 the party-member wording in the village-committee order, and scan 385 the printed dates `10.11.1977` / `7.12.1977` without chronological normalization.
+
 ## Exact next
 
-**Gate C Batch 3 — scans 376–385 / exactly 10 pages.**
+**Gate C Final Batch 4 — scans 386–388 / final 3 pages.**
