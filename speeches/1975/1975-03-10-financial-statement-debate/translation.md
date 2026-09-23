@@ -1,6 +1,6 @@
 # English translation — Speech 14 / 10.03.1975
 
-> **English gate state:** Gate F **COMPLETE — 57/57 translated**. Gate G **IN PROGRESS — Batch 1 scans 263–287 / 25 of 57 reviewed**, with **6 English refinements**, **0 blockers**, **0 Tamil changes**, and source-printed English preserved verbatim. English remains **NOT YET VERIFIED AGAINST TAMIL** with `verified_against_tamil=false` until Gate G completes all 57 pages. No translation wording is imported from web sources, Official Reports, alternate anthologies, released speeches or another witness.
+> **English gate state:** Gate F **COMPLETE — 57/57 translated**. Gate G **PASS / COMPLETE — scans 263–319 / 57 of 57 reviewed**, with **23 cumulative English refinements**, **0 blockers**, **0 Tamil changes**, and source-printed English preserved verbatim. English is **VERIFIED AGAINST TAMIL** with `verified_against_tamil=true`. No translation wording is imported from web sources, Official Reports, alternate anthologies, released speeches or another witness.
 
 ### Source page 263
 
@@ -308,7 +308,7 @@ From this, what we said was not that the Central Government should not have the 
 
 Next, certain shortcomings and accusations have been stated here. It is my great responsibility to answer them. When our friend Mr A.R. Marimuthu spoke, he said that water is not now flowing in the canals of the Parambikulam-Aliyar scheme; that the budget states that it is planned to provide irrigation to an additional 89,000 acres this year; and that there should be no wasteful investment in this.
 
-I wish to state that this is not really an acceptable view; it is a dangerous view. For he spoke as though there were no water at all in Parambikulam-Aliyar and as though extending irrigation to 89,000 acres were a dangerous undertaking. The fact is that the scheme is designed to provide water to 2.5 lakh acres each year. After the Parambikulam-Aliyar agreement had been reached, certain bitter feelings arose in between and a situation developed in which it remained unfinished. After our Government came to office, when Mr E.M.S. was Chief Minister there, and later after Mr Achutha Menon assumed responsibility as Chief Minister there, I and our Ministers met them frequently and held discussions. As a result, a satisfactory conclusion was reached on the Parambikulam-Aliyar agreement.
+I wish to state that this is not really an acceptable view; it is a dangerous view. For he spoke as though there were no water at all in Parambikulam-Aliyar and as though extending irrigation to 89,000 acres were a dangerous undertaking. The fact is that the scheme is designed to provide water to 2.5 lakh acres each year. After the Parambikulam-Aliyar agreement had been reached, some bitterness arose and the matter remained unresolved. After our Government came to office, when Mr E.M.S. was Chief Minister there, and later after Mr Achutha Menon assumed responsibility as Chief Minister there, I and our Ministers met them frequently and held discussions. As a result, a satisfactory conclusion was reached on the Parambikulam-Aliyar agreement.
 
 Under that agreement, the water due to us is 30 T.M.C.—that is, 30,000 million cubic feet of water should come to us.
 
@@ -316,7 +316,7 @@ Under that agreement, the water due to us is 30 T.M.C.—that is, 30,000 million
 
 Of this, we are presently receiving 16.5 T.M.C. Arrangements have been made for a further 9 T.M.C. to come. Of that, seven T.M.C. will be available even now, and as things proceed another two T.M.C. will come to us. It is with that seven T.M.C. of water that we have planned to provide irrigation to 89,000 acres in the taluks of Pollachi, Palladam, Udumalpet and Dharapuram. Water will be supplied alternately at the rate of 45,000 acres a year. It has even been said that supplying water alternately in this manner is good; there is also a view that otherwise those lands too would become barren. Even apart from such a view, we have proceeded on the basis that, with the water available to us, releasing it alternately for irrigation is the best course. Therefore, the argument that there is no proper scheme cannot be accepted.
 
-Our friend Marimuthu mentioned another matter too. You should not be upset that I am speaking for a long time. I have to speak because the Opposition leaders and Hon. Members have placed before us several good ideas and valuable explanations during this debate. Mr Marimuthu mentioned another point. He was reported as saying that 1 crore 40 lakh acres of land remained uncultivated, and that the Government should take immediate action to bring them under cultivation.
+Our friend Marimuthu mentioned another matter too. You should not mind my speaking at length. I have to speak because the Opposition leaders and Hon. Members have placed before us several good ideas and valuable explanations during this debate. Mr Marimuthu mentioned another point. He was reported as saying that 1 crore 40 lakh acres of land remained uncultivated, and that the Government should take immediate action to bring them under cultivation.
 
 **Mr A.R. Marimuthu:** That has been reported wrongly. What I said was that the total cultivable land is 1 crore 40 lakh acres.
 
@@ -342,7 +342,7 @@ Keeping in view the present food situation, the need to increase production furt
 
 **Mr A.R. Marimuthu:** The Government can bring a new Bill and pass it.
 
-**Mr S. Vadivel:** In view of the emergency, why not issue an emergency order? Why not take everything through legislation?
+**Mr S. Vadivel:** In view of the emergency, why not issue an emergency order? Why not take all such lands over by legislation?
 
 **Hon. Kalaignar M. Karunanidhi:** Even because of this year's drought, land may have been left fallow like that. On that basis, it would not be proper to enact a law this year and take all such lands. If they have deliberately kept them uncultivated, I will only state that the Government will consider what law may be enacted in regard to them.
 
@@ -352,7 +352,7 @@ Our friend Durai Govindarajan, who spoke on behalf of the A.D.M.K., expressed a 
 
 puts forward as its argument. On that basis they have been saying that we should reduce the water we use. This argument is completely wrong.
 
-In stretches where water cannot be used, where there are no ayacuts, within the last ten or twenty miles where the Cauvery reaches Kaveripoompattinam and joins the sea, if rain falls there may be no one who can make use of that water. Some water may perhaps go waste in that way, but it is wrong to say that 50 per cent of the water normally goes waste. He should correct that statement. I request our friend not to carry such propaganda even outside. I wish to state here that we waste no water; every drop is used for the ayacuts without wasting even a single drop.
+In stretches where water cannot be used, where there are no ayacuts, within the last ten or twenty miles where the Cauvery reaches Kaveripoompattinam and joins the sea, if rain falls there may be no one who can make use of that water. Some water may perhaps go waste in that way, but it is wrong to say that 50 per cent of the water normally goes waste. He should correct that statement. I request our friend not to spread such propaganda outside either. I wish to state here that we waste no water; every drop is used for the ayacuts without wasting even a single drop.
 
 Our friend Vadivel said that we must find out why Tamil Nadu suffers a 20 per cent electricity loss on a scale found nowhere else in the world. I agree that this 20 per cent should be reduced further; it should be reduced. But it cannot be said to be on a scale found nowhere else in the world. Though there is no time to examine the whole world, if we look at India, according to the 1971-72 statistics, in Andhra Pradesh the length of electricity lines is 1,06,590 kilometres. There, the transmission loss—that is, the electrical loss—is 26.84 per cent. In Haryana, the total length of electricity lines is 66,695 kilometres. There, the electrical loss is 28.52 per cent. In Punjab, the length of electricity lines is 53,536 kilometres. There, the electrical loss is 24.19 per cent. In Rajasthan, the electricity
 
@@ -368,7 +368,7 @@ There the loss is 17.29 per cent. In Karnataka, the length is 1,47,266 kilometre
 
 ### Source page 296
 
-Elder Manali, Mr Hande, and the leaders of our allied parties—the Muslim League and the Forward Bloc—all said that our demands have not been pressed properly and should be pressed still more strongly before the Central Government and the Planning Commission. We have been pressing them before the Central Planning Commission and the Central Government.
+Elder Manali, Mr Hande, and the leaders of our allied parties—the Muslim League and the Forward Bloc—all said that our demands have not been pressed properly and should be pressed still more strongly before the Central Government and the Planning Commission. We have been pressing these demands before the Central Planning Commission and the Central Government.
 
 When we held discussions with the Planning Commission on the 1975-76 Plan, we pressed for Rs.20 crore for drought relief as a non-Plan amount. Not only that, taking into account the loss of revenue caused by cancellation of land tax, postponement of loans and similar measures in order to meet the deficit we face in 1975-76, we have also pressed the Central Government to give us an additional Rs.15 crore in financial assistance.
 
@@ -380,7 +380,7 @@ Mr Venkatasamy, who spoke on behalf of the Swatantra Party, complained here that
 
 ### Source page 297
 
-The Kalpakkam atomic-power project, planned to generate 470 megawatts, is in a position to begin its first generation of 238 megawatts only in 1977-78. We must not forget that. The work on the second Neyveli lignite mine, which would make possible the generation of 1,000 megawatts of power, has still not been approved by the Central Planning Commission. We have repeatedly raised this with the Planning Commission and the Central Government. In this great House too we have repeatedly spoken about work on the second Neyveli mine. Members of all parties have pressed for it.
+The Kalpakkam atomic-power project, planned to generate 470 megawatts, is in a position to begin generating its first 238 megawatts only in 1977-78. We must not forget that. The work on the second Neyveli lignite mine, which would make possible the generation of 1,000 megawatts of power, has still not been approved by the Central Planning Commission. We have repeatedly raised this with the Planning Commission and the Central Government. In this great House too we have repeatedly spoken about work on the second Neyveli mine. Members of all parties have pressed for it.
 
 When I was recently in Delhi, the matter was discussed with the Central Finance Minister. To go further: a letter to the Prime Minister on 15.11.1973; another letter to the Prime Minister on 19.11.1973; a letter to the Prime Minister on 9.2.1974; a letter to the Planning Minister on 9.2.1974; a letter to the Finance Minister on 16.8.1974; and pressure in person on many occasions. Even after our repeatedly pressing the matter in this manner, we cannot forget that an adverse situation has arisen in which less has been allotted to Neyveli this year than had already been allotted earlier.
 
@@ -392,7 +392,7 @@ reduced to Rs.15 crore; we cannot refrain from pointing that out.
 
 Apart from these, from 1968 to 1974 we have been making demands to the Central Government and struggling for schemes capable of yielding 535 megawatts of power through the Cholathipuzha, Palar, Upper Amaravathi, Shanmuganadhi, Upper Tamiraparani, Lower Mettur and Manimuthar hydroelectric projects. We have not obtained them. The Mettur thermal-power scheme is a scheme capable of yielding 330 megawatts. We have been pressing for it since 1972. We have not obtained that either.
 
-Mr Veerapandi Arumugam spoke with great feeling about the Salem steel plant. The Prime Minister held its foundation-stone ceremony with great ceremony in 1972. Even in Anna's time, all parties joined together and observed an Uprising Day for the Salem steel-plant scheme. Later, when I assumed responsibility as Chief Minister, the Salem steel-plant scheme was announced while we were in Delhi. All the Members of Parliament who had gone there went together and congratulated the Prime Minister. She came for the foundation-stone ceremony. It was then announced that the scheme, begun in 1972, would be completed in 1976. What has happened?
+Mr Veerapandi Arumugam spoke with great feeling about the Salem steel plant. The Prime Minister held its foundation-stone ceremony with great fanfare in 1972. Even in Anna's time, all parties joined together and observed an Uprising Day for the Salem steel-plant scheme. Later, when I assumed responsibility as Chief Minister, the Salem steel-plant scheme was announced while we were in Delhi. All the Members of Parliament who had gone there went together and congratulated the Prime Minister. She came for the foundation-stone ceremony. It was then announced that the scheme, begun in 1972, would be completed in 1976. What has happened?
 
 The total cost of this scheme has been estimated at Rs.518 crore. It was calculated that Rs.120 crore would be required to begin work on the first stage. Although the Central Government had allotted Rs.15 crore for this in the 1974-75 financial year, only Rs.3 crore reached the Salem scheme. We must not forget that. When we consider that not more than Rs.3 crore has been provided this year either,
 
@@ -410,7 +410,7 @@ In 1972, when the foundation-stone ceremony for the Tirunelveli-Kanyakumari rail
 
 and the political importance it carried are well known to all the people of Tamil Nadu. Just as two rails are laid for a railway, the two parties remain like two rails; but the railway line itself has not been laid. It ended with that ceremony at Kanyakumari.
 
-All of us, without party distinction, have argued for the need for the Kanyakumari railway line. They expressed confidence that it would be laid. But why was the Rs.5½ crore allotted to the southern region taken away to Bihar? What necessity arose in Bihar? There are many other necessities there. I ask that we consider whether it was we who were found to be the easy ones to take from.
+All of us, without party distinction, have argued for the need for the Kanyakumari railway line. They expressed confidence that it would be laid. But why was the Rs.5½ crore allotted to the southern region taken away to Bihar? What necessity arose in Bihar? There are many other necessities there. I ask that we consider whether we alone were found to be easy targets.
 
 How many of our representations to the Central Government are lying pending? However strongly we press them, we remain troubled because we do not get what we ask for.
 
@@ -434,13 +434,13 @@ After that, the limit fixed for a family at forty standard acres was reduced to 
 
 A law was brought in 1972 providing that if landowners transferred their land to another person in a manner contrary to law, the land so transferred would be added to their ceiling holding for calculation.
 
-Today many people are able to go to the courts against all these laws. For two or three years we have been asking that these be included in the Ninth Schedule. If they are so included, whoever goes to court and whatever adverse judgment may be given against these laws, it cannot touch these laws. Therefore, in accordance with what Article 31B of the Constitution says, we asked on 11.3.74, 4.11.74, 16.11.74 and recently on 23.11.74 that these laws be included in the Ninth Schedule. Despite our repeatedly asking in this way, even now this socialist scheme—this law—
+Today many people are able to go to the courts against all these laws. For two or three years we have been asking that these be included in the Ninth Schedule. If they are so included, whoever goes to court, no adverse judgment against these laws can affect them. Therefore, in accordance with what Article 31B of the Constitution says, we asked on 11.3.74, 4.11.74, 16.11.74 and recently on 23.11.74 that these laws be included in the Ninth Schedule. Despite our repeatedly asking in this way, even now this socialist scheme—this law—
 
 ### Source page 302
 
 and even our request that it be protected have not to this day been incorporated by the Central Government in the Constitution in the required manner.
 
-**Mr K.D.K. Thangamani:** In connection with tenant farmers, as soon as drought occurred we issued two orders. Revenue Courts were cancelled, and Rent Courts were cancelled. The cancellation of the Revenue Court was to some extent beneficial to tenant farmers. After the Rent Court was cancelled, if one says that rent should be reduced because there was no proper production, what is to be done, and where is one to go? If they demand the return of the rent paddy, no one is in a position to agree. Has the Government issued a separate order or directive for this?
+**Mr K.D.K. Thangamani:** In connection with tenant farmers, as soon as drought occurred we issued two orders. Revenue Courts were cancelled, and Rent Courts were cancelled. The cancellation of the Revenue Court was to some extent beneficial to tenant farmers. After the Rent Court was cancelled, if one says that rent should be reduced because there was no proper production, what is to be done, and where is one to go? If the rent paddy is demanded back, no one is in a position to comply. Has the Government issued a separate order or directive for this?
 
 **Hon. Kalaignar M. Karunanidhi:** That is a separate issue. The Government will attend to it. (Mr S. Vadivel interrupted.) It is not connected with what I am speaking about. The complication in it will be examined separately and attended to.
 
@@ -452,7 +452,7 @@ In 1973-74, a scheme was announced for workers to participate in the investment 
 
 that they should be given their share out of the total profit, and that the Companies Act should then be amended accordingly in relation to income tax.
 
-A reply came. In that reply, received in July 1974, it was said only that “the Central Government is considering this scheme with great interest; a decision will be taken soon.” There is interest; it is said that attention is being given. But to this day, for this socialist scheme—even after we have explained it in person many times—they are still hesitating to make the amendment that would enable this law for the workers, this law for a good purpose, to rise and function. That is why I wished to mention it today.
+A reply came. In that reply, received in July 1974, it was said only that “the Central Government is considering this scheme with great interest; a decision will be taken soon.” There is interest; it is said that attention is being given. But to this day, for this socialist scheme—even after we have explained it in person many times—they are still hesitating to make the amendment needed to put this law for workers—this law for a good purpose—into operation. That is why I wished to mention it today.
 
 In the 1973-74 financial year's budget we announced that the MALCO aluminium factory should be nationalised. Later, the draft was sent to the Central Government on 27.2.73. Following that, we wrote to the Home Department on 28.2.73. Then on 2.3.73 a reply came acknowledging receipt of the letter. After that we held discussions on this with the late Mr Mohan Kumaramangalam. We again reminded the Prime Minister by letter on 30.07.73. So far, the approval we sought for the draft law sent in connection with taking over the MALCO factory has not been received. I wish to state that there has been no further reply.
 
@@ -480,7 +480,7 @@ This great House is well aware that we have granted several concessions even in 
 
 To mention them in this connection: we granted exemption from collection of land tax. We postponed agricultural loans and granted concessions in repayment of short-term cooperative loans. We gave a grant of Rs.1,000 for purchasing oil pump sets. Various drought-relief works have been undertaken widely throughout the State, including Kanyakumari district. These are measures taken by way of relief for the farming people.
 
-As a result of the drought, I now wish to make some new announcements. Recognising the difficulties in obtaining cooperative loans because of the drought, representations have come to me from various parts of the State asking that takavi loans be given for deepening wells. Members of the Legislature from the ruling party and allied parties have pressed this upon me. They came as delegations and told me. Farming people from various areas have placed this demand: that takavi loans be given for deepening wells in different parts of the State. Recognising the necessity of this demand, the Government has decided to provide takavi loans of at least Rs.500 and up to Rs.2,000 for deepening wells. I am happy to state this. I am also very happy to inform the House that, as a first stage, the Government has allotted Rs.5 crore for this purpose.
+As a result of the drought, I now wish to make some new announcements. Recognising the difficulties in obtaining cooperative loans because of the drought, representations have come to me from various parts of the State asking that takavi loans be given for deepening wells. Members of the Legislature from the ruling party and allied parties have pressed this upon me. They came in delegations and represented this to me. Farming people from various areas have placed this demand: that takavi loans be given for deepening wells in different parts of the State. Recognising the necessity of this demand, the Government has decided to provide takavi loans of at least Rs.500 and up to Rs.2,000 for deepening wells. I am happy to state this. I am also very happy to inform the House that, as a first stage, the Government has allotted Rs.5 crore for this purpose.
 
 As the second announcement, the recommendation of the Dearness Allowance Committee states that, when dearness allowance is given hereafter,
 
@@ -544,7 +544,7 @@ In the concluding part of the budget, attention was drawn to the fact that a few
 
 Taking that into account, I very gladly welcome the fact that all those who spoke spent a large part of their time speaking about State autonomy.
 
-Some people even asked questions such as, “What connection do you have with Jayaprakash Narayan? Can you join with him?” The dispute between Mrs Indira Gandhi and Jayaprakash Narayan has arisen now; Jayaprakash's agitation in the State of Bihar began now; but as early as 1972 Jayaprakash Narayan wrote an article in a distinguished journal called *People's Action*. Jayaprakash Narayan, Vinoba Bhave and others have all written in it. As early as 1972 Jayaprakash said: “Do not clash with Sheikh Abdullah; call him and talk,” and gave such advice to the Central Government. He further states in that article:
+Some people even asked questions such as, “What connection do you have with Jayaprakash Narayan? Can you join with him?” The dispute between Mrs Indira Gandhi and Jayaprakash Narayan has arisen now; Jayaprakash's agitation in Bihar has begun only now; but as early as 1972 Jayaprakash Narayan wrote an article in a distinguished journal called *People's Action*. Jayaprakash Narayan, Vinoba Bhave and others have all written in it. As early as 1972 Jayaprakash said: “Do not clash with Sheikh Abdullah; call him and talk,” and gave such advice to the Central Government. He further states in that article:
 
 > The only question that may still be considered to be rel-
 > evant is that of the quantum of autonomy that Jammu and Kash-
@@ -575,7 +575,7 @@ Then he says:
 > autonomy to the states in view of the vastness of our population
 > and diversity of our problems.
 
-What more reason do you think I must give you for how a connection arose between Jayaprakash Narayan and us? All the States in India have problems of this kind. They must be discussed and resolved. They must be brought to the forum of discussion. As early as 1972 Jayaprakash pointed out that there was no separatism in the demand for State autonomy put forward by the Dravida Munnetra Kazhagam, that it did not in any way harm Indian unity, and that the leader of that party had said so at a public meeting in Thanjavur. He asked that they be prepared for talks.
+What more evidence do you think I need to give you of the connection between Jayaprakash Narayan and us? All the States in India have problems of this kind. They must be discussed and resolved. They must be brought to the forum of discussion. As early as 1972 Jayaprakash pointed out that there was no separatism in the demand for State autonomy put forward by the Dravida Munnetra Kazhagam, that it did not in any way harm Indian unity, and that the leader of that party had said so at a public meeting in Thanjavur. He asked that they be prepared for talks.
 
 One thing he said in 1972 has now been heeded. Let us hope the rest too will be heeded later. If, instead of confronting Sheikh Abdullah with military force, instead of taking him to the glaciers and imprisoning him there as Mr Sezhiyan pointed out in Parliament, and instead of keeping him in prison for thirteen years, the matter had been resolved through talks, the Kashmir problem would have been settled long ago. In the same way, we happily speak of Mother India from Kashmir to Kanyakumari. But when we ask that the States be given greater powers and the character of autonomy, they say Kashmir is separate. From Kanyakumari to Kashmir—
 
@@ -610,9 +610,9 @@ The present Constitution should be thrown out and a new Constitution created. If
 
 This was the speech delivered in Parliament on March 21 by another dear friend of mine, Mr Manoharan.
 
-State autonomy is not a demand that we are making anew. Anna himself said it. Even when he was in the Opposition, Anna asked, why do you carry a kavadi to Delhi? Its very meaning was: why should the power to accomplish there not be here with us? That is why State autonomy is something Anna himself spoke of. This was spoken by Revolutionary Actor M.G.R. at the Tamburi conference.
+State autonomy is not a demand that we are making anew. Anna himself said it. Even when he was in the Opposition, Anna asked, why do you carry a kavadi to Delhi? The point was: why should we not have here the power to accomplish what we go there to seek? That is why State autonomy is something Anna himself spoke of. This was spoken by Revolutionary Actor M.G.R. at the Tamburi conference.
 
-Now we have seen another new voice in the newspapers. A Member of Parliament in Punjab, Gurucharan Singh Dhara, has said that all States should be given powers as Jammu and Kashmir has been given; that all States should be granted full autonomy; and that, as Tamil Nadu Chief Minister Mr Karunanidhi has been saying, all powers other than foreign affairs. defence and communications should be given to the States. This view has been expressed by the Akali Dal leader.
+Now we have seen another new voice in the newspapers. A Member of Parliament in Punjab, Gurucharan Singh Dhara, has said that all States should be given powers as Jammu and Kashmir has been given; that all States should be granted full autonomy; and that, as Tamil Nadu Chief Minister Mr Karunanidhi has been saying, all powers other than foreign affairs, defence and communications should be given to the States. This view has been expressed by the Akali Dal leader.
 
 In 1942 the Communist Party of India adopted a resolution.
 
@@ -653,5 +653,5 @@ I convey my thanks in advance, as a token of that.
 
 But I was not here when Mr Manali spoke. Though I was not here, I read his speech. He said that Elder Manali, in his speech, brought out the understanding that ideals cannot be won without struggle. Those are the very impressions I received when I met Sheikh Abdullah at my home and when I met Jayaprakash Narayan in Delhi. What I discussed with them is another matter. But the impression I received was this: “Whoever is prepared to make sacrifices can certainly succeed in their ideals.”
 
-Then they invite us, saying: if so, come out by giving up office. The haste behind that invitation is that they have already decided who will become which Minister. So they are looking to come and sit here immediately. If anyone thinks that if Karunanidhi, Navalar, Professor and the others leave office, the remaining 160 will sit here and they can run the Government with them, that is a daydream. If the D.M. Kazhagam gives up office and enters a struggle, it means that all of them enter the struggle. The time for that will come. At that time, with the memory and spirit of that struggle, we will work tirelessly in Anna's path to secure State autonomy; I state that we will work, and with that I conclude my speech. Vanakkam.
+Then they invite us, saying: if so, come out by giving up office. The haste behind that invitation is that they have already decided who is to become which Minister. So they are looking to come and sit here immediately. If anyone thinks that if Karunanidhi, Navalar, Professor and the others leave office, the remaining 160 will sit here and they can run the Government with them, that is a daydream. If the D.M. Kazhagam gives up office and enters a struggle, it means that all of them enter the struggle. The time for that will come. At that time, with the memory and spirit of that struggle, we will work tirelessly in Anna's path to secure State autonomy; I state that we will work, and with that I conclude my speech. Vanakkam.
 
