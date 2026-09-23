@@ -95,14 +95,14 @@ Treat this 2007 anthology as its own witness.
 - Gate C — **Speeches 1–15 COMPLETE; speeches 16–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–15**
 - Gate D — **PASS / COMPLETE for Speeches 1–15**
-- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–14; Speech 15 IN PROGRESS / Batches 1–3 PASS / 30 of 36**
-- Gate F — **COMPLETE for Speeches 1–14; Speech 15 BLOCKED**
-- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–14; Speech 15 NOT STARTED**
-- Gate H — **Speeches 1–14 PASS / COMPLETE — RELEASED / CLOSED; Speech 15 NOT RELEASED**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–15; speeches 16–19 not started**
+- Gate F — **COMPLETE for Speeches 1–15; speeches 16–19 not started**
+- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–15; speeches 16–19 not started**
+- Gate H — **Speeches 1–15 PASS / COMPLETE — RELEASED / CLOSED; speeches 16–19 not started**
 - Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
-- Speech 15 — **Gate C COMPLETE / Gate C.5 CLOSED / Gate D PASS / Gate E Batches 1–3 PASS / 30 of 36 / Tamil NOT VERIFIED**
+- Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 - speeches 16–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
@@ -695,7 +695,7 @@ Downstream:
 - `translation.md` — **retired pointer**
 - `data/speeches.json` / root dated table — **indexed**
 - Gate-H wording changes — **0 Tamil / 0 English**
-- Speech 15 — **Gate E IN PROGRESS / Batches 1–3 PASS / 30 of 36**
+- Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Gate F closure — Batches 1–3 COMPLETE
 
@@ -737,7 +737,7 @@ Downstream:
 - Tamil — **VERIFIED / verified_against_scan=true**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - Gate H — **READY / NOT STARTED**
-- Speech 15 — **Gate E IN PROGRESS / Batches 1–3 PASS / 30 of 36**
+- Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED**
 
 Batch-2 refinements are recorded in `translation-review.md` on pages **290, 291, 293, 294, 296, 297, 298, 300, 301, 302, 303, 306**.
 
