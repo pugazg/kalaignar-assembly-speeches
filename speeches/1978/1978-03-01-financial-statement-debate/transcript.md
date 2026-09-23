@@ -2,7 +2,7 @@
 
 ## உரை : 16 — நாள் : 1.3.1978
 
-> **Tamil gate state:** Gate C **COMPLETE — scans 356–388 / 33 of 33 first-pass**. Tamil is **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`. Boundaries **355→356 / 388→389 PASS**. Final scan 388 closes through `வணக்கம்.` and the source ornament. Exact next: **Gate C.5 applicability review**.
+> **Tamil gate state:** Gate C **COMPLETE — scans 356–388 / 33 of 33 first-pass**. Gate C.5 **N/A / CLOSED across this PDF — 0 historical-glyph corrections / 0 unresolved**. Gate D **PASS / COMPLETE — 33/33 structurally audited**, with source-page markers **356→388 exactly once and ordered**, **0 missing / 0 duplicate / 0 empty pages**, locked boundaries **355→356 / 388→389 PASS**, split continuation **375→376 PASS**, source-printed English preserved, final scan 388 close through `வணக்கம்.` preserved, and **0 Gate-D completeness corrections**. Tamil remains **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`. Exact next: **Gate E Batch 1 — scans 356–365 / exactly 10 pages**.
 
 <!-- source-page: 356 -->
 
