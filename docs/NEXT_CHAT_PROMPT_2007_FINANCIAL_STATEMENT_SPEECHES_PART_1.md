@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 15 Gate E Batch 2 — scans 330–339
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 15 Gate E Batch 3 — scans 340–349
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -31,29 +31,31 @@ Working entry:
 - printed intervention pages **326 / 335 / 343 / 349** — **represented**
 - Gate-D completeness corrections — **0**
 - Gate E — **IN PROGRESS**
-- Gate E Batch 1 — **PASS / COMPLETE — scans 320–329 / 10 of 36 pages**
-- Batch-1 corrections — **19 entries / 19 occurrences**
-- Batch-1 affected scans — **10 / 10**
-- Gate-E unresolved readings — **0**
+- Gate E Batch 1 — **PASS / COMPLETE — scans 320–329 / 10 pages / 19 corrections**
+- Gate E Batch 2 — **PASS / COMPLETE — scans 330–339 / 10 pages / 19 corrections**
+- cumulative Gate-E verified pages — **20 / 36**
+- cumulative Gate-E corrections — **38 entries / 38 occurrences**
+- cumulative affected scans — **18**
+- cumulative Gate-E unresolved — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - outside wording imported — **0**
-- scans **330–355** body text modified during Batch 1 — **0**
+- scans **340–355** body text modified during Batch 2 — **0**
 - Gate F — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 16 — **NOT STARTED**
 
-## Controlling split for Batch 2
+## Controlling split for Batch 3
 
-Batch 2 is wholly inside:
+Batch 3 is wholly inside:
 
-- part014 local pages **5–14 = scans 330–339 / printed pp.329–338**
+- part014 local pages **15–24 = scans 340–349 / printed pp.339–348**
 
 Total — **10 pages exactly**.
 
 ## Exact next activity
 
-Perform **Speech 15 Gate E Batch 2 — scans 330–339 / printed pp.329–338 / exactly 10 pages**.
+Perform **Speech 15 Gate E Batch 3 — scans 340–349 / printed pp.339–348 / exactly 10 pages**.
 
 Requirements:
 
@@ -63,8 +65,8 @@ Requirements:
 4. preserve source oddities and apparent printer's errors if the pixels support them;
 5. record every source-backed correction in `verification-log.md` with page/scan provenance;
 6. import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other witnesses;
-7. do not modify pages 340–355 in this activity;
-8. keep Tamil **NOT VERIFIED / verified_against_scan=false** after Batch 2;
+7. do not modify pages 350–355 in this activity;
+8. keep Tamil **NOT VERIFIED / verified_against_scan=false** after Batch 3;
 9. synchronize Speech-15 and anthology control documents after the 10-page batch;
-10. set exact next activity to **Gate E Batch 3 — scans 340–349 / exactly 10 pages** if Batch 2 passes;
+10. set exact next activity to **Gate E FINAL Batch 4 — scans 350–355 / 6-page final remainder** if Batch 3 passes;
 11. do not begin Gate F, Gate G, Gate H or Speech 16.

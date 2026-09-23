@@ -695,7 +695,7 @@ Downstream:
 - `translation.md` — **retired pointer**
 - `data/speeches.json` / root dated table — **indexed**
 - Gate-H wording changes — **0 Tamil / 0 English**
-- Speech 15 — **Gate E IN PROGRESS / Batch 1 PASS / 10 of 36**
+- Speech 15 — **Gate E IN PROGRESS / Batches 1–2 PASS / 20 of 36**
 
 ## Gate F closure — Batches 1–3 COMPLETE
 
@@ -737,7 +737,7 @@ Downstream:
 - Tamil — **VERIFIED / verified_against_scan=true**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - Gate H — **READY / NOT STARTED**
-- Speech 15 — **Gate E IN PROGRESS / Batch 1 PASS / 10 of 36**
+- Speech 15 — **Gate E IN PROGRESS / Batches 1–2 PASS / 20 of 36**
 
 Batch-2 refinements are recorded in `translation-review.md` on pages **290, 291, 293, 294, 296, 297, 298, 300, 301, 302, 303, 306**.
 
@@ -762,7 +762,7 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - root dated speech table — **indexed**
 - release — **RELEASED / CLOSED**
 
-## Speech 15 Gate-E state — Batch 1 PASS / 10 of 36
+## Speech 15 Gate-E state — Batches 1–2 PASS / 20 of 36
 
 - working entry — `speeches/1977/1977-08-03-financial-statement-debate/`
 - source label/date — **உரை : 15 / 03.08.1977**
@@ -773,12 +773,13 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
 - Gate D — **PASS / COMPLETE — 36/36 / 0 completeness corrections**
 - Gate E — **IN PROGRESS**
-- Gate E Batch 1 — **PASS / COMPLETE — scans 320–329 / printed pp.319–328 / 10 pages**
-- Batch-1 corrections — **19 entries / 19 occurrences**
-- Batch-1 affected scans — **10 / 10**
+- Gate E Batch 1 — **PASS / COMPLETE — scans 320–329 / printed pp.319–328 / 10 pages / 19 corrections**
+- Gate E Batch 2 — **PASS / COMPLETE — scans 330–339 / printed pp.329–338 / 10 pages / 19 corrections**
+- cumulative Gate-E verification — **20 of 36 pages**
+- cumulative Gate-E corrections — **38 entries / 38 occurrences**
+- cumulative affected scans — **18**
 - Gate-E unresolved readings — **0**
-- split continuation **325→326** — **PASS / preserved**
-- scans **330–355** body text modified in Batch 1 — **0**
+- scans **340–355** body text modified in Batch 2 — **0**
 - outside wording imported — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - Gate F — **BLOCKED**
@@ -798,9 +799,9 @@ Per explicit user instruction, this is the controlling default in `docs/ARCHIVAL
 Speech-15 Gate-E cadence:
 
 - Batch 1 — **320–329 — PASS / COMPLETE**
-- Batch 2 — **330–339 — NEXT**
-- Batch 3 — **340–349**
-- Final Batch 4 — **350–355**
+- Batch 2 — **330–339 — PASS / COMPLETE**
+- Batch 3 — **340–349 — NEXT**
+- Final Batch 4 — **350–355 — final remainder**
 
 ## Gate C.5 applicability — N/A / CLOSED
 
@@ -823,23 +824,23 @@ Speech-15 Gate-E cadence:
 - printed speaker/intervention pages — **326, 335, 343, 349 / represented**
 - Gate-D completeness corrections — **0**
 
-## Gate E Batch 1 result
+## Gate E Batch 2 result
 
-**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — scans 320–329 / 10 of 36 pages.**
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — scans 330–339 / cumulative 20 of 36 pages.**
 
-The complete correction ledger is in the Speech-15 `verification-log.md`:
-
-- corrections — **19 entries / 19 occurrences**
-- affected scans — **10**
+- Batch-2 corrections — **19 entries / 19 occurrences**
+- cumulative corrections — **38 entries / 38 occurrences**
+- Batch-2 affected scans — **8**
+- cumulative affected scans — **18**
 - unresolved — **0**
 - source-visible oddities preserved — **YES**
 - OCR/web/Official Reports/alternate-anthology/released-speech wording imported — **0**
 - Tamil remains **NOT VERIFIED / verified_against_scan=false**
 
-## Exact next activity — Speech 15 Gate E Batch 2
+## Exact next activity — Speech 15 Gate E Batch 3
 
-Strictly verify **scans 330–339 / printed pp.329–338 / exactly 10 pages** against rendered controlling anthology pixels.
+Strictly verify **scans 340–349 / printed pp.339–348 / exactly 10 pages** against rendered controlling anthology pixels.
 
 Check every word/character, names/initials, numerals, dates, percentages, money/units, headings, speaker labels, source-printed English, punctuation where legible, and omissions/repetitions across page transitions. Record every source-backed correction in the Gate-E ledger. Preserve source oddities rather than normalizing them.
 
-After Batch 2, keep Tamil **NOT VERIFIED / verified_against_scan=false** because scans 340–355 remain. Do not begin Gate F, Gate G, Gate H or Speech 16.
+After Batch 3, keep Tamil **NOT VERIFIED / verified_against_scan=false** because scans 350–355 remain. Do not begin Gate F, Gate G, Gate H or Speech 16.

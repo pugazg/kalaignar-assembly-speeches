@@ -519,11 +519,13 @@ Working entry:
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
 - Gate D — **PASS / COMPLETE — 36/36 / 0 completeness corrections**
 - Gate E — **IN PROGRESS**
-- Gate E Batch 1 — **PASS / COMPLETE — scans 320–329 / 10 of 36**
-- Batch-1 correction ledger — **19 entries / 19 occurrences**
-- affected scans — **10**
+- Gate E Batch 1 — **PASS / COMPLETE — scans 320–329 / 10 pages / 19 corrections**
+- Gate E Batch 2 — **PASS / COMPLETE — scans 330–339 / 10 pages / 19 corrections**
+- cumulative Gate-E coverage — **20 of 36**
+- cumulative correction ledger — **38 entries / 38 occurrences**
+- cumulative affected scans — **18**
 - unresolved Gate-E readings — **0**
-- scans **330–355** body text modified in Batch 1 — **0**
+- scans **340–355** body text modified in Batch 2 — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - Gate F / English — **BLOCKED**
 - outside wording imported — **0**
@@ -537,12 +539,12 @@ Repository workflow fixes:
 - only the final remainder may contain fewer than 10 pages;
 - exceeding 10 pages requires explicit user override.
 
-Speech-15 Gate-E cadence: **320–329 PASS / 330–339 NEXT / 340–349 / 350–355**.
+Speech-15 Gate-E cadence: **320–329 PASS / 330–339 PASS / 340–349 NEXT / 350–355 final remainder**.
 
-## Gate E Batch 1 result
+## Gate E Batch 2 result
 
-**PASS / COMPLETE.** All ten source pages in scans **320–329** were strictly compared against rendered controlling pixels. The source-backed ledger contains **19 corrections / 19 occurrences**, with **0 unresolved** and **0 outside wording imported**. Tamil remains **NOT VERIFIED** until all 36 pages complete Gate E.
+**PASS / COMPLETE.** All ten source pages in scans **330–339** were strictly compared against rendered controlling pixels. The Batch-2 source-backed ledger contains **19 corrections / 19 occurrences**, with **0 unresolved** and **0 outside wording imported**. Cumulative Gate-E coverage is **20/36** with **38 corrections**. Tamil remains **NOT VERIFIED** until all 36 pages complete Gate E.
 
 ## Exact next activity
 
-Perform **Speech 15 Gate E Batch 2 — scans 330–339 / printed pp.329–338 / exactly 10 pages**. Use rendered controlling pixels only and record every source-backed correction. Do not mark Tamil verified until Gate E completes all 36 pages. Do not begin Gate F, Gate G, Gate H or Speech 16.
+Perform **Speech 15 Gate E Batch 3 — scans 340–349 / printed pp.339–348 / exactly 10 pages**. Use rendered controlling pixels only and record every source-backed correction. Do not modify scans 350–355 and do not mark Tamil verified until Gate E completes all 36 pages. Do not begin Gate F, Gate G, Gate H or Speech 16.

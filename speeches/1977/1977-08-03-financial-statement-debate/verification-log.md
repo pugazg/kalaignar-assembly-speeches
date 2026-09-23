@@ -167,24 +167,74 @@ Source-visible oddities retained where supported by the controlling pixels inclu
 
 **Gate E remains IN PROGRESS — 10 of 36 pages verified. Tamil remains NOT VERIFIED / verified_against_scan=false.**
 
+## Gate E — Batch 2 / scans 330–339
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 pages; cumulative 20 of 36.**
+
+Coverage:
+
+- verified scans — **330–339**
+- verified printed pages — **329–338**
+- verified pages — **10/10 in batch; cumulative 20/36**
+- split/local coverage — **part014 local 5–14 = scans 330–339**
+- source markers in batch — **330→339 / 10 / exactly once / ordered**
+- Gate-E Batch-2 correction ledger — **19 entries / 19 occurrences**
+- Batch-2 affected scans — **8 — 330, 331, 332, 334, 335, 336, 337, 338**
+- cumulative Gate-E corrections — **38 entries / 38 occurrences**
+- cumulative affected scans — **18 / 20 verified scans**
+- unresolved readings — **0**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- pages **340–355** modified in this activity — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+
+Gate-E Batch-2 correction ledger:
+
+1. **scan 330 / printed p.329** — `திட்டம் போன்ற திட்டங்களை` → `திட்டம் போன்றத் திட்டங்களை`
+2. **scan 330 / printed p.329** — `என்கிற குற்றச்சாட்டை` → `என்கிற குற்றச் சாட்டை`
+3. **scan 330 / printed p.329** — `89,000 ஏக்கராவிற்கு பகிர்ந்து` → `89,000 ஏக்கராவிற்குப் பகிர்ந்து`
+4. **scan 331 / printed p.330** — `நிறுத்தி வைக்கப்பட்டுவிட்டன` → `நிறுத்தி வைக்கப் பட்டுவிட்டன`
+5. **scan 331 / printed p.330** — `எள்ளளவும் பின்தங்கியிருக்கவில்லை` → `எள்ளளவும் பின் தங்கியிருக்கவில்லை`
+6. **scan 331 / printed p.330** — `எடுத்துக் காட்டுவதற்காகத்தான்` → `எடுத்துக் காட்டுவதற்காகத் தான்`
+7. **scan 332 / printed p.331** — `ஒதுக்கியிருப்பதாக குறிப்புகளில்` → `ஒதுக்கியிருப்பதாகக் குறிப்புகளில்`
+8. **scan 332 / printed p.331** — `அவதிப்பட்டது` → `அவஸ்தைப்பட்டது`
+9. **scan 332 / printed p.331** — `பொருத்துக்கொள்ள இயலாது` → `பொறுத்துக்கொள்ள இயலாது`
+10. **scan 334 / printed p.333** — `தமிழ்நாட்டில் அப்படி செய்யப்படாத பெருமை` → `தமிழ்நாட்டில் அப்படி செய்யப் பட்டதாக பெருமை`
+11. **scan 334 / printed p.333** — `1967 ஆம் ஆண்டிலேயே` → `1967ஆம் ஆண்டிலேயே`
+12. **scan 335 / printed p.334** — `நிதிநிலை அறிக்கை தயாரிக்கப்படுகிறது.` → `நிதிநிலை அறிக்கை தயாரிக்கப் படுகிறது.`
+13. **scan 335 / printed p.334** — `புள்ளிவிவரங்களை வைத்துத்தான் அரசாங்க அறிக்கை வெளியிடுகிறது.` → `புள்ளிவிவரங்களை வைத்துத்தான் அரசாங்க அறிக்கை வெளிவருகிறது.`
+14. **scan 335 / printed p.334** — `நாற்பதாயிரம் வீடுகள் கட்டித் தரப்பட்டன என்கிற புள்ளி விவரத்தையும் உங்களுக்கு அளித்த அதே அதிகாரிகள்தான்` → `நாற்பதாயிரம் வீடுகள் கட்டித் தரப்பட்டன என்கிற புள்ளிவிவரங்களை எங்களுக்கு அளித்த அதே அதிகாரிகள்தான்`
+15. **scan 336 / printed p.335** — `மிச்சமுள்ள இரண்டு ஆண்டுகளுக்குச்` → `மிச்சமுள்ள இரண்டாண்டுகளுக்குச்`
+16. **scan 336 / printed p.335** — `எடுத்துக்காட்டுவதற்காகத்தான்` → `எடுத்துக்காட்டு வதற்காகத் தான்`
+17. **scan 337 / printed p.336** — `குடிநீர் வசதிக்காகச் செலவழிக்கப்பட்ட தொகை 80 கோடி ரூபாய்.` → `குடிநீர் வசதிக்காகச் செலவழிக்கப் பட்ட தொகை 80 கோடி ரூபாய்.`
+18. **scan 338 / printed p.337** — `கருத்தனேந்தல்` → `கருத்தநேந்தல்`
+19. **scan 338 / printed p.337** — `தேவெந்திரநல்லூர்` → `தேவேந்திரநல்லூர்`
+
+Source-visible oddities and awkward constructions supported by the rendered pixels were retained rather than normalized. These include scan 331 `கேளவரப் பள்ளி`, scan 332 `அவஸ்தைப்பட்டது`, scan 335 `4,000 ஆயிரம் ரூபாய்`, scan 336 `ஒதுக்கப்பட்ட வேண்டும்`, and scan 339 `நடைபெறாதாகச் செய்திகள் வெளி வராத காரணத்தால்`.
+
+**Gate E remains IN PROGRESS — 20 of 36 pages verified. Tamil remains NOT VERIFIED / verified_against_scan=false.**
+
 ## Downstream gate state
 
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS / Batch 1 PASS / 10 of 36 pages**
+- Gate E — **IN PROGRESS / Batches 1–2 PASS / 20 of 36 pages**
+- Gate-E cumulative corrections — **38 entries / 38 occurrences**
+- Gate-E unresolved readings — **0**
 - Gate F — **BLOCKED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-Perform **Gate E Batch 2 — scans 330–339 / printed pp.329–338 / exactly 10 pages**.
+Perform **Gate E Batch 3 — scans 340–349 / printed pp.339–348 / exactly 10 pages**.
 
-Use only rendered controlling anthology pixels. Strictly verify every word/character, names/initials, numerals/dates/percentages/money/units, embedded English, headings, speaker labels, punctuation where legible, and omissions/repetitions across page transitions. Record every source-backed correction in the Gate-E ledger. Keep `verified_against_scan=false` until all 36 pages complete Gate E.
+Use only rendered controlling anthology pixels. Strictly verify every word/character, names/initials, numerals/dates/percentages/money/units, embedded English, headings, speaker labels/interventions, punctuation where legible, and omissions/repetitions across page transitions. Record every source-backed correction in the Gate-E ledger. Do not modify scans 350–355 in Batch 3. Keep `verified_against_scan=false` until all 36 pages complete Gate E.
 
 Fixed Speech-15 Gate-E cadence:
 
 - Batch 1 — **320–329 / 10 pages — PASS / COMPLETE**
-- Batch 2 — **330–339 / 10 pages — NEXT**
-- Batch 3 — **340–349 / 10 pages**
+- Batch 2 — **330–339 / 10 pages — PASS / COMPLETE**
+- Batch 3 — **340–349 / 10 pages — NEXT**
 - Final Batch 4 — **350–355 / 6 pages**
+
+Do not begin Gate F, Gate G, Gate H or Speech 16.

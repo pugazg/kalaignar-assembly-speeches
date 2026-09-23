@@ -93,8 +93,8 @@ This supersedes the earlier Speech-15 whole-speech exception for Gates C and E. 
 Speech-15 Gate-E cadence:
 
 - **320–329 — PASS / COMPLETE**
-- **330–339 — NEXT**
-- **340–349**
+- **330–339 — PASS / COMPLETE**
+- **340–349 — NEXT**
 - **350–355** final remainder
 
 ## Gate C.5 applicability
@@ -123,17 +123,20 @@ The controlling publication is a **May 2007 modern-typeset anthology**. Enlarged
 
 ## Gate E state
 
-**IN PROGRESS — Batch 1 PASS / COMPLETE — scans 320–329 / printed pp.319–328 / 10 of 36 pages.**
+**IN PROGRESS — Batches 1–2 PASS / COMPLETE — scans 320–339 / printed pp.319–338 / 20 of 36 pages.**
 
-- correction ledger — **19 entries / 19 occurrences**
-- affected scans — **10**
+- Batch-1 correction ledger — **19 entries / 19 occurrences**
+- Batch-2 correction ledger — **19 entries / 19 occurrences**
+- cumulative correction ledger — **38 entries / 38 occurrences**
+- Batch-2 affected scans — **8**
+- cumulative affected scans — **18**
 - unresolved readings — **0**
 - source separation — **PASS / outside wording imported 0**
-- scans **330–355** body text modified — **0**
+- scans **340–355** body text modified in Batch 2 — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 
 See `verification-log.md` for the complete source-backed correction ledger.
 
 ## Exact next
 
-Gate E Batch 2 — **scans 330–339 / printed pp.329–338 / exactly 10 pages**.
+Gate E Batch 3 — **scans 340–349 / printed pp.339–348 / exactly 10 pages**.
