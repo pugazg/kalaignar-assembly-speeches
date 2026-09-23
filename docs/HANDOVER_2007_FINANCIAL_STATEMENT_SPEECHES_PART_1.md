@@ -92,17 +92,18 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–14 COMPLETE; speeches 15–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–14 — modern 2007 typesetting**
-- Gate D — **PASS / COMPLETE for Speeches 1–14**
-- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–14**
-- Gate F — **COMPLETE for Speeches 1–14**
-- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–14**
-- Gate H — **Speeches 1–14 PASS / COMPLETE — RELEASED / CLOSED**
+- Gate C — **Speeches 1–14 COMPLETE; Speech 15 READY / NOT STARTED; speeches 16–19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–14; Speech 15 NOT STARTED**
+- Gate D — **PASS / COMPLETE for Speeches 1–14; Speech 15 NOT STARTED**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–14; Speech 15 NOT STARTED**
+- Gate F — **COMPLETE for Speeches 1–14; Speech 15 BLOCKED**
+- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–14; Speech 15 NOT STARTED**
+- Gate H — **Speeches 1–14 PASS / COMPLETE — RELEASED / CLOSED; Speech 15 NOT RELEASED**
 - Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
-- speeches 15–19 — **NOT STARTED**
+- Speech 15 — **SOURCE-BOUNDARY + GATE-C SETUP PASS / 36-page source unit locked**
+- speeches 16–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
 
@@ -761,11 +762,36 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - root dated speech table — **indexed**
 - release — **RELEASED / CLOSED**
 
-## Exact next activity — Speech 15 source-boundary + Gate-C setup
+## Speech 15 source-boundary + Gate-C setup — PASS / COMPLETE
 
-Begin **Speech 15 / 03.08.1977 — scans 320–355 / printed pp.319–354 / 36 pages**.
+- working entry — `speeches/1977/1977-08-03-financial-statement-debate/`
+- source label/date — **உரை : 15 / 03.08.1977**
+- scans — **320–355 / printed pp.319–354 / 36 pages**
+- incoming boundary **319→320** — **PASS / visually reconfirmed**
+- outgoing boundary **355→356** — **PASS / visually reconfirmed**
+- scan 320 — **`உரை : 15 / நாள் : 03.08.1977`**
+- scan 355 — **final page / `விடைபெறுகிறேன்.` / source ornament**
+- scan 356 — **`உரை : 16 / நாள் : 1.3.1978` / excluded**
+- part013 local **20–25 = scans 320–325** / SHA-256 `26f0a480bf6c7b6f3f8638aadc77d0528f15b61def73937fad1627060f31c61b`
+- part014 local **1–25 = scans 326–350** / SHA-256 `6caec9d63d871d69f636b35aa3297345bab9e064c7e74e2f9f1bc13f1a29311e`
+- part015 local **1–5 = scans 351–355** / SHA-256 `cc81c3d6e9496012e10a39f2a0ad3666d522f9a7b2b58f25f484a7f5a3682344`
+- split transitions **325→326 / 350→351** — **PASS / visually continuous**
+- coverage — **36/36 / no gap / no overlap**
+- Gate C — **READY / NOT STARTED**
+- Tamil — **NOT TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- outside wording imported — **0**
+- Speech-14 10-page override — **NOT inherited**
+- whole-speech exception — **ACTIVE / 36-page unit**
 
-- hard incoming boundary — **319→320**, already mapped as Speech 14 close → Speech 15 start;
-- hard outgoing boundary — **355→356**, mapped as Speech 15 close → Speech 16 start;
-- do not reopen Speech 14 unless a separate source-backed defect is discovered;
-- do not begin downstream verification/translation gates before Speech 15 source-boundary and Gate-C setup are established.
+## Exact next activity — Speech 15 Gate C first-pass transcription
+
+Process **all scans 320–355 / printed pp.319–354 / 36 pages as one intact speech unit**.
+
+Requirements:
+
+- source authority — rendered pixels of the controlling anthology splits only;
+- preserve source spelling, punctuation, numerals, speaker labels/interventions, source-printed English and visible repetition;
+- add source-page markers **320→355** exactly once and in order;
+- do not import wording from OCR, web, Official Reports, alternate anthologies, released speeches or another witness;
+- Gate C is first pass only: keep Tamil **NOT VERIFIED / verified_against_scan=false**;
+- do not reopen Speech 14.
