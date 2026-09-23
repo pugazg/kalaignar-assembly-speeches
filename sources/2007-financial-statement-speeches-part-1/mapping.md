@@ -125,10 +125,10 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate C — **Speeches 1–15 COMPLETE; speeches 16–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–15**
 - Gate D — **Speeches 1–15 PASS / COMPLETE**
-- Gate E — **Speeches 1–14 PASS / COMPLETE / Tamil VERIFIED; Speech 15 IN PROGRESS / Batches 1–2 PASS / 20 of 36**
-- Gate F — **Speeches 1–14 COMPLETE; Speech 15 BLOCKED**
-- Gate G — **Speeches 1–14 PASS / COMPLETE / English VERIFIED; Speech 15 NOT STARTED**
-- Gate H — **Speeches 1–14 PASS / COMPLETE — RELEASED / CLOSED; Speech 15 NOT RELEASED; speeches 16–19 not started**
+- Gate E — **Speeches 1–15 PASS / COMPLETE / Tamil VERIFIED; speeches 16–19 not started**
+- Gate F — **Speeches 1–15 COMPLETE; speeches 16–19 not started**
+- Gate G — **Speeches 1–15 PASS / COMPLETE / English VERIFIED; speeches 16–19 not started**
+- Gate H — **Speeches 1–15 PASS / COMPLETE — RELEASED / CLOSED; speeches 16–19 not started**
 - Speech 13 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED / RELEASED-CLOSED / 7 Gate-G refinements / 0 blockers / 0 Gate-H wording changes**
 
 ## Gate-H boundary / release check for Speeches 4–5
@@ -318,7 +318,7 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - source-printed English — **preserved verbatim**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 15 — **Gate E IN PROGRESS / Batches 1–3 PASS / 30 of 36**
+- Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED**
 
 ## Speech 15 Gate-H closure
 
