@@ -69,8 +69,29 @@ This user-directed cadence supersedes the earlier whole-speech batching rule for
 - Gate F / English — **COMPLETE — scans 263–319 / 57 of 57 translated / 0 blockers**
 - Gate G — **PASS / COMPLETE — scans 263–319 / 57 of 57 reviewed / 23 cumulative refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- release — **NOT RELEASED**
+- Gate H / release — **PASS / COMPLETE — RELEASED / CLOSED**
+
+## Gate H result
+
+- canonical bilingual `transcript.md` — **COMPLETE**
+- Tamil markers **263→319** — **57/57 / exactly once / ordered**
+- English source-page sections **263→319** — **57/57 / exactly once / ordered**
+- `translation.md` — **retired to released pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- source-printed English — **preserved verbatim**
+- hard boundaries **262→263 / 319→320** — **preserved**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- release — **RELEASED / CLOSED**
+
+## Files
+
+- `transcript.md` — canonical bilingual verified Tamil + verified English
+- `translation.md` — released pointer to canonical English in `transcript.md`
+- `translation-review.md` — Gate-F/G audit and Gate-H release closure
+- `metadata.json` — machine-readable final/release state
+- `verification-log.md` — detailed Tamil verification plus downstream gate closure
 
 ## Exact next activity
 
-Proceed with **Speech 14 Gate H release / closure audit**. Confirm final bilingual structure, 57/57 Tamil and English coverage, verification flags, source-printed-English preservation, control-document consistency, canonical/index treatment and release readiness. Do not alter verified Tamil or English unless a separate source-backed defect is discovered, and do not begin Speech 15 in the same activity unless separately instructed.
+Begin **Speech 15 / 03.08.1977 source-boundary + Gate-C setup — scans 320–355 / printed pp.319–354 / 36 pages**. Do not reopen Speech 14 unless a source-backed defect is discovered.
