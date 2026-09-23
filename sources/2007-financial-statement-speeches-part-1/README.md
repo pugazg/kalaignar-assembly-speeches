@@ -482,11 +482,27 @@ Working entry:
 - Gate E — **PASS / COMPLETE — scans 263–319 / 57 of 57 / 32 corrections / 0 unresolved**
 - Gate F / English — **COMPLETE — scans 263–319 / 57 of 57 translated / 0 blockers**
 - Gate G — **PASS / COMPLETE — scans 263–319 / 57 of 57 reviewed / 23 cumulative refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes / verified_against_tamil=true**
-- release — **NOT RELEASED**
+- Gate H / release — **PASS / COMPLETE — RELEASED / CLOSED**
 - outside wording imported — **0**
 
 Gate C.5 closure alone did not constitute Tamil verification; Gate E is now complete and Tamil is verified against the controlling anthology pixels.
 
+## Speech 14 Gate-H closure
+
+- canonical bilingual `transcript.md` — **COMPLETE**
+- Tamil source pages **263→319** — **57/57 / exactly once / ordered**
+- English source pages **263→319** — **57/57 / exactly once / ordered**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate-E corrections — **32**
+- Gate-G refinements — **23**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- source-printed English — **preserved verbatim**
+- `translation.md` — **retired pointer**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- release — **RELEASED / CLOSED**
+
 ## Exact next activity
 
-Proceed with **Speech 14 Gate H release / closure audit**. Confirm final bilingual 57/57 coverage, verification flags, source-printed-English preservation, control-document consistency, canonical/index treatment and release readiness. Do not alter verified Tamil or English unless a separate source-backed defect is discovered.
+Begin **Speech 15 / 03.08.1977 source-boundary + Gate-C setup — scans 320–355 / printed pp.319–354 / 36 pages**. Do not reopen Speech 14 unless a source-backed defect is discovered.
