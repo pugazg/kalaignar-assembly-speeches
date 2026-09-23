@@ -173,9 +173,11 @@ Use bounded batches for long PDFs and record the exact continuation point after 
 
 Work speech by speech, preferably in chronological/source order unless the project specifies otherwise.
 
-For long speeches, use bounded batches. At the end of every batch record source pages completed, first/last words or a safe continuation marker, whether the speech is partial or complete, unresolved readings and current Git commit if work was pushed.
+**Fixed iteration rule:** process **10 source pages per Gate-C iteration**. If fewer than 10 pages remain at the end of the current speech, process only that final remainder. Do not exceed 10 source pages in one Gate-C iteration unless the user explicitly overrides the rule.
 
-Do not start a second speech merely to fill a batch size. Preserve natural speech boundaries. Do not reconstruct page continuations from memory or outside knowledge.
+At the end of every batch record source pages completed, first/last words or a safe continuation marker, whether the speech is partial or complete, unresolved readings and current Git commit if work was pushed.
+
+Do not start a second speech merely to fill the 10-page batch. Preserve natural speech boundaries. Do not reconstruct page continuations from memory or outside knowledge.
 
 ### Gate C.5 — historical Tamil glyph audit
 
@@ -211,6 +213,8 @@ After Gate C.5 has passed (or been explicitly recorded N/A), confirm every mappe
 ### Gate E — Tamil source-fidelity verification
 
 Perform a stricter visual audit against the scan, page by page. Check words/characters, names/initials, numerals/dates/percentages/money/units, embedded English, headings, speaker labels, punctuation where legible, and omissions/repetitions across page transitions.
+
+**Fixed iteration rule:** process **10 source pages per Gate-E iteration**. If fewer than 10 pages remain at the end of the current speech, process only that final remainder. Do not exceed 10 source pages in one Gate-E iteration unless the user explicitly overrides the rule.
 
 Apply corrections to the canonical transcript and document them in `verification-log.md`. Only after this gate may Tamil be marked `verified`.
 
