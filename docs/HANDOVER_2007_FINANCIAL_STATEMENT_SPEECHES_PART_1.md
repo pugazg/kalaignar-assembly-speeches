@@ -773,8 +773,8 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - Gate C — **COMPLETE**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 - outside wording imported — **0**
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
+- Gate D — **READY / NOT STARTED**
 - Gate E — **NOT STARTED**
 - Gate F — **BLOCKED**
 
@@ -796,11 +796,28 @@ Speech-15 Gate-E cadence when reached:
 - Batch 3 — **340–349**
 - Final Batch 4 — **350–355**
 
-## Exact next activity — Speech 15 Gate C.5 applicability determination
+## Gate C.5 applicability — N/A / CLOSED
 
-Review **scans 320–355** to determine whether a separate historical-glyph audit is required for this modern 2007 typeset witness.
+- source edition — **May 2007 modern-typeset anthology**
+- representative direct-pixel scans checked — **320, 326, 335, 345, 355**
+- known reform-sensitive families considered — `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+- observed typeforms — **modern post-reform Tamil**
+- historical-glyph corrections — **0**
+- unresolved historical-glyph readings — **0**
+- Tamil — **still NOT VERIFIED / verified_against_scan=false**
+- Gate D — **READY / NOT STARTED**
 
-- if no historical-glyph condition applies, record Gate C.5 **N/A / CLOSED** with evidence;
-- do not begin Gate E until Gate C.5 is PASS/N/A and Gate D is complete;
-- when Gate E begins, enforce the fixed 10-page cadence;
-- do not reopen Speech 14.
+## Exact next activity — Speech 15 Gate D completeness audit
+
+Audit **scans 320–355 / printed pp.319–354 / 36 pages** for structural completeness.
+
+Confirm:
+
+- source-page markers **320→355 / 36 / exactly once / ordered**;
+- no page omission or duplication;
+- locked boundaries **319→320 / 355→356** remain correct;
+- page-spanning continuations are represented across split transitions;
+- all printed speaker labels/interventions are represented;
+- unresolved first-pass readings remain explicitly recorded.
+
+Do not mark Tamil verified. After Gate D passes, Gate E begins with the fixed cadence **320–329 / 330–339 / 340–349 / 350–355**.
