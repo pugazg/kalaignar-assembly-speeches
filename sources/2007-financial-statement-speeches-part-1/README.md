@@ -503,6 +503,29 @@ Gate C.5 closure alone did not constitute Tamil verification; Gate E is now comp
 - root dated speech table — **indexed**
 - release — **RELEASED / CLOSED**
 
+## Speech 15 source-boundary + Gate-C setup
+
+Working entry:
+
+[../../speeches/1977/1977-08-03-financial-statement-debate/](../../speeches/1977/1977-08-03-financial-statement-debate/)
+
+- source label/date — **உரை : 15 / 03.08.1977**
+- mapped unit — **scans 320–355 / printed pp.319–354 / 36 pages**
+- start boundary **319→320** — **PASS / visually reconfirmed**
+- end boundary **355→356** — **PASS / visually reconfirmed**
+- scan 320 — **Speech-15 title/date page**
+- scan 355 — **final Speech-15 page / `விடைபெறுகிறேன்.` / source ornament**
+- scan 356 — **Speech 16 / `1.3.1978` / excluded**
+- controlling coverage — **part013 local 20–25; part014 local 1–25; part015 local 1–5**
+- source coverage — **36/36 / no gap / no overlap**
+- split transitions **325→326 / 350→351** — **visually continuous**
+- Gate C — **READY / NOT STARTED**
+- Tamil — **NOT TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Gate F / English — **BLOCKED**
+- outside wording imported — **0**
+- whole-speech exception — **ACTIVE / 36-page unit**
+
 ## Exact next activity
 
-Begin **Speech 15 / 03.08.1977 source-boundary + Gate-C setup — scans 320–355 / printed pp.319–354 / 36 pages**. Do not reopen Speech 14 unless a source-backed defect is discovered.
+Perform **Speech 15 Gate C first-pass Tamil transcription — scans 320–355 / printed pp.319–354 / all 36 pages as one intact speech unit**. Use rendered controlling anthology pixels only. Preserve source wording, punctuation, numerals, speaker labels/interventions, source-printed English and visible repetition. Do not reopen Speech 14.
