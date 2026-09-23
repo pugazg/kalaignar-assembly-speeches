@@ -542,14 +542,17 @@ Working entry:
 - controlling coverage — **part015 local 6–25 + part016 local 1–13 / 33 of 33 / no gap / no overlap**
 - Gate C Batch 1 — **COMPLETE / scans 356–365 / 10 pages**
 - Gate C Batch 2 — **COMPLETE / scans 366–375 / 10 pages**
-- cumulative Gate C — **20 of 33**
+- Gate C Batch 3 — **COMPLETE / scans 376–385 / 10 pages**
+- cumulative Gate C — **30 of 33**
+- source markers — **356→385 / 30 / exactly once / ordered**
 - first-pass unresolved readings — **0**
+- source-printed English correspondence on scan 384 — **preserved**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - Gate C.5 onward — **NOT STARTED**
 - outside wording imported — **0**
 
 ## Exact next activity
 
-**Speech 16 Gate C Batch 3 — scans 376–385 / printed pp.375–384 / exactly 10 pages.**
+**Speech 16 Gate C Final Batch 4 — scans 386–388 / printed pp.385–387 / final 3 pages.**
 
 Do not begin Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 17.
