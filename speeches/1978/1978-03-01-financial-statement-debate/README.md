@@ -55,11 +55,10 @@ Source-visible oddities retained in first pass include scan 362 `183,85`, scan 3
 
 ## Gate C.5 result
 
-**N/A / CLOSED across this PDF**, per source-level applicability decision.
+**N/A / CLOSED across this PDF.**
 
 - historical-glyph corrections — **0**
 - unresolved historical-glyph readings — **0**
-- Tamil wording changed at Gate C.5 — **0**
 
 ## Gate D result
 
@@ -69,14 +68,23 @@ Source-visible oddities retained in first pass include scan 362 `183,85`, scan 3
 - missing / duplicate / empty pages — **0 / 0 / 0**
 - boundaries **355→356 / 388→389** — **PASS**
 - split continuation **375→376** — **PASS**
-- source-printed English correspondence — **preserved**
-- speaker labels/intervention — **preserved**
-- final scan 388 close through `வணக்கம்.` — **preserved**
 - Gate-D completeness corrections — **0**
-- Tamil remains **NOT VERIFIED / verified_against_scan=false**
+
+## Gate E state
+
+**IN PROGRESS — Batch 1 PASS / scans 356–365 / printed pp.355–364 / 10 of 33.**
+
+- Batch-1 corrections — **11 entries / 11 occurrences**
+- Batch-1 affected scans — **6 — 356, 357, 360, 362, 363, 365**
+- unresolved Gate-E readings — **0**
+- scans 366–388 modified during Batch 1 — **0**
+- outside wording imported — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+
+See `verification-log.md` for the correction ledger.
 
 ## Exact next activity
 
-**Gate E Batch 1 — scans 356–365 / printed pp.355–364 / exactly 10 pages.**
+**Gate E Batch 2 — scans 366–375 / printed pp.365–374 / exactly 10 pages.**
 
-Do not begin Gate F, Gate G, Gate H or Speech 17.
+Do not exceed 10 source pages. Do not begin Gate F, Gate G, Gate H or Speech 17.
