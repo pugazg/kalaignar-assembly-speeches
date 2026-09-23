@@ -92,7 +92,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–15 COMPLETE; Speech 16 IN PROGRESS / Batches 1–3 COMPLETE / 30 of 33; speeches 17–19 not started**
+- Gate C — **Speeches 1–16 COMPLETE; speeches 17–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–15**
 - Gate D — **PASS / COMPLETE for Speeches 1–15**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–15; speeches 16–19 not started**
@@ -103,7 +103,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
-- Speech 16 — **Gate C IN PROGRESS / 30 of 33 / Tamil NOT VERIFIED**
+- Speech 16 — **Gate C COMPLETE / 33 of 33 / Tamil NOT VERIFIED / Gate C.5 READY**
 - speeches 17–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
@@ -788,7 +788,7 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - root dated speech table — **indexed**
 - Speech 16 — **Gate C IN PROGRESS / Batches 1–3 COMPLETE / 30 of 33 / Tamil NOT VERIFIED**
 
-## Speech 16 active Gate-C state
+## Speech 16 Gate-C closure
 
 Canonical entry:
 
@@ -798,21 +798,20 @@ Canonical entry:
 - scans — **356–388 / printed pp.355–387 / 33 pages**
 - incoming boundary **355→356** — **PASS / visually reconfirmed**
 - outgoing boundary **388→389** — **PASS / visually reconfirmed**
-- part015 local **6–25 = scans 356–375** — SHA-256 `cc81c3d6e9496012e10a39f2a0ad3666d522f9a7b2b58f25f484a7f5a3682344`
-- part016 local **1–13 = scans 376–388** — SHA-256 `cc1067f556825a36fd7558316df12ed09ca92e498374e9b23d1ebb7a2aa28e47`
 - source coverage — **33/33 COMPLETE / no gap / no overlap**
-- Gate C Batch 1 — **COMPLETE / scans 356–365 / 10 pages**
-- Gate C Batch 2 — **COMPLETE / scans 366–375 / 10 pages**
-- Gate C Batch 3 — **COMPLETE / scans 376–385 / 10 pages**
-- marker sequence — **356→385 / 30 / exactly once / ordered**
-- unresolved first-pass readings — **0**
-- source-printed English correspondence on scan 384 — **preserved**
+- Gate C Batch 1 — **356–365 / 10 pages / COMPLETE**
+- Gate C Batch 2 — **366–375 / 10 pages / COMPLETE**
+- Gate C Batch 3 — **376–385 / 10 pages / COMPLETE**
+- Gate C Final Batch 4 — **386–388 / 3 pages / COMPLETE**
+- marker sequence — **356→388 / 33 / exactly once / ordered**
+- first-pass unresolved readings — **0**
+- scan 388 final close through `வணக்கம்.` and source ornament — **PASS**
+- source-printed English on scans 368 and 384 — **preserved**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- Gate C.5 / D / E / F / G / H — **NOT STARTED**
+- Gate C.5 — **READY / NOT STARTED**
+- Gate D / E / F / G / H — **NOT STARTED**
 - Speech 17 — **NOT STARTED**
 
-## Exact next activity — Speech 16 Gate C Final Batch 4
+## Exact next activity — Speech 16 Gate C.5 applicability review
 
-Process **scans 386–388 / printed pp.385–387 / final 3 source pages** from part016 local pages **11–13**.
-
-Use only rendered controlling anthology pixels. Preserve source wording, punctuation, numerals, printed English, labels and visible repetition. Do not begin Gate C.5 or any downstream gate in the same activity.
+Determine whether historical-glyph review is applicable to this modern 2007 typeset source, record the result, and then advance according to the workflow. Do not alter Gate-C wording merely for stylistic normalization.
