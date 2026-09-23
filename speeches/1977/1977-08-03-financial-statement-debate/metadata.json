@@ -89,10 +89,14 @@
   },
   "execution": {
     "normal_activity_page_limit": 25,
-    "whole_speech_exception_applies": true,
-    "whole_speech_exception_note": "Speech 15 is 36 pages. Existing repository policy permits a single speech longer than 25 pages to be processed intact rather than split merely to satisfy the normal activity limit.",
+    "whole_speech_exception_applies": false,
+    "whole_speech_exception_note": "Superseded for Gates C and E by the user's fixed 10-source-page iteration rule. Other gates may still follow their normal workflow.",
     "inherited_speech14_batch_override": false,
-    "next_activity": "Gate C first-pass Tamil transcription scans 320-355 / all 36 pages"
+    "next_activity": "Gate C.5 applicability determination for scans 320-355",
+    "gate_c_iteration_page_limit": 10,
+    "gate_e_iteration_page_limit": 10,
+    "gate_c_gate_e_fixed_cadence": true,
+    "final_remainder_may_be_under_10": true
   },
   "transcription": {
     "language": "Tamil",
@@ -105,14 +109,14 @@
     "preserve_printed_english": true,
     "preserve_source_visible_repetition": true,
     "page_boundaries_marked": true,
-    "status": "not-started",
-    "gate_c_status": "ready-not-started",
-    "completed_scan_pages": null,
-    "completed_printed_pages": null,
-    "completed_page_count": 0,
+    "status": "first-pass-complete",
+    "gate_c_status": "complete",
+    "completed_scan_pages": "320-355",
+    "completed_printed_pages": "319-354",
+    "completed_page_count": 36,
     "total_page_count": 36,
-    "marker_count": 0,
-    "marker_range": null,
+    "marker_count": 36,
+    "marker_range": "320-355",
     "unresolved_readings": [],
     "unresolved_reading_count": 0,
     "completeness_audit_passed": false,
@@ -121,7 +125,10 @@
     "gate_d_status": "not-started",
     "gate_e_status": "not-started",
     "outside_wording_imported": false,
-    "next_gate": "Gate C first-pass transcription scans 320-355"
+    "next_gate": "Gate C.5 applicability determination",
+    "gate_c_iteration_page_limit": 10,
+    "gate_e_iteration_page_limit": 10,
+    "fixed_iteration_rule": "Gate C and Gate E use 10 source pages per iteration; final remainder may be fewer than 10."
   },
   "translation": {
     "language": "English",
