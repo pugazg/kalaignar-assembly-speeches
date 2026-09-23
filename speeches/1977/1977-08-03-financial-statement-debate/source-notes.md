@@ -97,6 +97,16 @@ Planned Speech-15 Gate-E batches:
 - **340–349**
 - **350–355** final remainder
 
+## Gate C.5 applicability
+
+**N/A / CLOSED.**
+
+The controlling publication is a **May 2007 modern-typeset anthology**. Enlarged source-pixel checks at representative scans **320, 326, 335, 345 and 355** show modern post-reform Tamil glyph construction. The repository's known reform-sensitive families — `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` — do not present as legacy metal-type identities requiring separate historical decoding in this witness.
+
+- historical-glyph corrections — **0**
+- unresolved historical-glyph readings — **0**
+- Tamil verification state — **unchanged / NOT VERIFIED**
+
 ## Exact next
 
-Gate C.5 applicability determination for **scans 320–355**.
+Gate D completeness audit for **scans 320–355 / 36 pages**.
