@@ -519,8 +519,8 @@ Working entry:
 - markers — **320→355 / 36 / exactly once / ordered**
 - unresolved first-pass readings — **0 currently flagged**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting**
+- Gate D — **READY / NOT STARTED**
 - Gate E — **NOT STARTED**
 - Gate F / English — **BLOCKED**
 - outside wording imported — **0**
@@ -540,4 +540,4 @@ Planned Speech-15 Gate-E cadence: **320–329 / 330–339 / 340–349 / 350–35
 
 ## Exact next activity
 
-Perform **Speech 15 Gate C.5 applicability determination — scans 320–355**. Keep Tamil unverified. Do not begin Gate E until Gate C.5 is PASS/N/A and Gate D is complete.
+Perform **Speech 15 Gate D completeness audit — scans 320–355 / 36 pages**. Gate C.5 is **N/A / CLOSED** after representative direct-pixel review confirmed modern post-reform Tamil typesetting with **0 historical-glyph corrections / 0 unresolved**. Keep Tamil unverified. After Gate D passes, Gate E begins at **320–329 / exactly 10 pages**.
