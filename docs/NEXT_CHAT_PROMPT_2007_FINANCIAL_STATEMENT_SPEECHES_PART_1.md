@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 16 source-boundary + Gate-C setup
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 16 Gate C Batch 2 — scans 366–375
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -6,53 +6,56 @@ Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE
 
 Speeches **1–15 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Do not reopen them unless a separate source-backed defect is discovered.
 
-Speech 15 / 03.08.1977 final state:
-
-- scans — **320–355 / printed pp.319–354 / 36 pages**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate-E corrections — **53 entries / 53 occurrences / 0 unresolved**
-- Gate F — **COMPLETE / 36 of 36**
-- Gate G — **PASS / COMPLETE / 36 of 36 / 6 refinements / 0 blockers / 0 Tamil changes**
-- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
-- canonical bilingual transcript — **COMPLETE**
-- Gate-H wording changes — **0 Tamil / 0 English**
-- indexed — **YES**
-
 ## Fixed repository iteration rule
 
 - **Gate C — 10 source pages per iteration**
 - **Gate E — 10 source pages per iteration**
 - only the final remainder may contain fewer than 10 pages;
-- do not exceed 10 source pages in Gate C or Gate E unless the user explicitly overrides the rule.
+- do not exceed 10 source pages in Gate C or Gate E unless explicitly overridden.
 
-## Speech 16 locked mapping
+## Speech 16 active state
+
+Working entry:
+
+`speeches/1978/1978-03-01-financial-statement-debate/`
 
 - source label/date — **உரை : 16 / 1.3.1978**
-- canonical date — **1978-03-01**
-- canonical path — `speeches/1978/1978-03-01-financial-statement-debate/`
-- mapped scans — **356–388**
-- printed pages — **355–387**
-- mapped page count — **33**
-- incoming boundary — **355→356**
-- outgoing boundary — **388→389**
-- Speech 17 begins at scan **389**
-- current state — **NOT STARTED**
+- mapped unit — **scans 356–388 / printed pp.355–387 / 33 pages**
+- incoming boundary **355→356** — **PASS / visually reconfirmed**
+- outgoing boundary **388→389** — **PASS / visually reconfirmed**
+- controlling split coverage — **33/33 COMPLETE**
+- part015 local **6–25 = scans 356–375 / 20 pages**
+- part016 local **1–13 = scans 376–388 / 13 pages**
+- Gate C Batch 1 — **COMPLETE / scans 356–365 / 10 pages**
+- cumulative Gate C — **10/33**
+- source markers — **356→365 / exactly once / ordered**
+- first-pass unresolved readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Gate C.5 — **NOT STARTED**
+- Gate D — **NOT STARTED**
+- Gate E — **NOT STARTED**
+- Gate F — **NOT STARTED**
+- Gate G — **NOT STARTED**
+- Gate H — **NOT STARTED / NOT RELEASED**
+- Speech 17 — **NOT STARTED**
+- outside wording imported — **0**
+
+Source-visible Batch-1 oddities intentionally retained include scan 362 `183,85` and scan 363 `கட்டப்பட்ட விருக்கின்றன`.
 
 ## Exact next activity
 
-Perform **Speech 16 source-boundary + Gate-C setup**.
+Perform **Speech 16 Gate C Batch 2 — scans 366–375 / printed pp.365–374 / exactly 10 pages**.
 
 Requirements:
 
-1. refetch live `main` before editing;
-2. use only rendered controlling anthology pixels for source wording;
-3. reconfirm **355→356** and **388→389** visually;
-4. establish which split PDFs/local pages cover scans **356–388** and record filename, byte size and SHA-256 when available;
-5. create or reuse `speeches/1978/1978-03-01-financial-statement-debate/` with source notes, metadata, README, transcript and verification log;
-6. preserve source spelling, punctuation, numerals, headings, speaker labels/interventions, printed English and visible repetition;
-7. import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other witnesses;
-8. keep Tamil **NOT VERIFIED / verified_against_scan=false** during Gate C;
-9. once transcription begins, process **Gate C Batch 1 — scans 356–365 / exactly 10 pages**;
-10. do not exceed 10 Gate-C pages in this iteration;
-11. do not begin Gate E, Gate F, Gate G, Gate H or Speech 17.
+1. use only rendered controlling anthology pixels from part015 local pages **16–25**;
+2. transcribe all ten pages in source order;
+3. preserve source wording, spelling, punctuation, numerals, dates, percentages, money/units, headings, speaker labels/interventions, source-printed English and visible repetition;
+4. mark source-page boundaries **366→375**;
+5. import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other witnesses;
+6. record unclear readings explicitly rather than guessing;
+7. do not modify scans **376–388** in this activity;
+8. keep Tamil **NOT VERIFIED / verified_against_scan=false**;
+9. synchronize Speech-16 and anthology control documents after the batch;
+10. set exact next activity to **Gate C Batch 3 — scans 376–385 / exactly 10 pages** if Batch 2 completes;
+11. do not begin Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 17.
