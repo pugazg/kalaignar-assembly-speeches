@@ -687,7 +687,7 @@ Gate-E final Batch 6:
 Downstream:
 
 - Gate F / English — **COMPLETE — scans 263–319 / 57 of 57 translated / 0 blockers / verified_against_tamil=false**
-- Gate G — **IN PROGRESS — Batch 1 scans 263–287 / 25 of 57 reviewed / 6 refinements / 0 blockers / 0 Tamil changes / verified_against_tamil=false**
+- Gate G — **PASS / COMPLETE — scans 263–319 / 57 of 57 reviewed / 23 cumulative refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes / verified_against_tamil=true**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 15 — **NOT STARTED**
 
@@ -713,34 +713,44 @@ Downstream:
 - working file — `translation.md`
 - review ledger — `translation-review.md`
 
-## Gate G Batch 1 durable state
+## Gate G closure — COMPLETE / 57 of 57
 
-- reviewed scans — **263–287 / 25 of 57**
-- status — **PASS / COMPLETE**
-- English refinements — **6**
+- fidelity authority — **Gate-E-verified Tamil only**
+- reviewed scans — **263–319 / printed pp.262–318 / 57 pages**
+- Batch 1 — **263–287 / 25 pages / PASS / 6 refinements**
+- Batch 2 — **288–312 / 25 pages / PASS / 12 refinements**
+- Final Batch 3 — **313–319 / 7 pages / PASS / 5 refinements**
+- cumulative English refinements — **23**
 - blocking fidelity issues — **0**
 - verified-Tamil changes — **0**
-- source-printed English changes — **0**
+- source-printed-English changes — **0**
 - outside English / other-witness wording imported — **0**
-- source-page sequence — **263→287 / complete / ordered**
-- source-printed English on scans **264, 281, 282** — **verified verbatim**
-- English — **NOT YET VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
+- source-page sequence — **263→319 / 57 sections / exactly once / ordered**
+- source-printed English — **verified verbatim throughout**
+- final scan 319 close — **verified through `Vanakkam.`**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **READY / NOT STARTED**
+- Speech 15 — **NOT STARTED**
 
-Batch-1 refinements are recorded in `translation-review.md`; they affect pages **263, 264, 274, 279, 280, 283**.
+Batch-2 refinements are recorded in `translation-review.md` on pages **290, 291, 293, 294, 296, 297, 298, 300, 301, 302, 303, 306**.
 
-## Exact next activity — Speech 14 Gate G Batch 2
+Final-Batch refinements are recorded in `translation-review.md` on pages **313, 314, 317, 319**; page **317** has two separate refinements.
 
-Review **scans 288–312 / exactly 25 pages** of Gate-F English against the corresponding Gate-E-verified Tamil.
+## Exact next activity — Speech 14 Gate H release / closure audit
 
-Requirements:
+Confirm:
 
-- fidelity authority — **Gate-E-verified Tamil only**;
-- review meaning fidelity, omissions/additions, figures, dates, percentages, speaker/intervention structure, page continuity and English voice;
-- preserve source-printed English verbatim;
-- make **0 Tamil changes**;
-- record every English refinement in the Gate-G ledger;
-- keep `verified_against_tamil=false` until Gate G completes all 57 pages;
-- do not process more than **25 pages** in this activity;
-- if Batch 2 passes, set next activity to **Gate G FINAL Batch 3 — scans 313–319 / 7 pages**;
-- do not begin Gate H or Speech 15.
+- Tamil source-page coverage — **263→319 / 57/57 / ordered**
+- English source-page coverage — **263→319 / 57/57 / ordered**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- source-printed English — **preserved verbatim**
+- Gate-E corrections — **32 entries / 32 occurrences**
+- Gate-G refinements — **23**
+- unresolved Tamil readings — **0**
+- Gate-G blockers — **0**
+- bilingual control-document consistency
+- canonical/index treatment and release readiness
+
+Do not alter verified Tamil or verified English unless a separate source-backed defect is discovered. Do not begin Speech 15 in the same activity unless separately instructed.
