@@ -85,8 +85,80 @@ Batch 1 result:
 - verified-Tamil changes — **0**;
 - outside-witness wording imported — **0**.
 
+## Gate G — Batch 2 / scans 288–312
+
+**PASS / COMPLETE — 25 additional pages; cumulative 50 of 57 reviewed.**
+
+Batch 2 result:
+
+- reviewed source pages — **288–312 / 25 pages**
+- English refinements — **12**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed English changes — **0**
+- outside English / other-witness wording imported — **0**
+- source-page sequence — **288→312 / complete / ordered**
+- source-printed English on scans **288–289** — **verified verbatim**
+- source-printed inline English on scan **308** — `Tamil Nadu Goods Transport Organisation` — **preserved**
+
+### Gate-G Batch-2 refinement ledger
+
+1. **page 290** — `certain bitter feelings arose in between and a situation developed in which it remained unfinished` → `some bitterness arose and the matter remained unresolved`.
+2. **page 291** — `You should not be upset that I am speaking for a long time.` → `You should not mind my speaking at length.`
+3. **page 293** — `Why not take everything through legislation?` → `Why not take all such lands over by legislation?`
+4. **page 294** — `not to carry such propaganda even outside` → `not to spread such propaganda outside either`.
+5. **page 296** — `We have been pressing them before...` → `We have been pressing these demands before...`
+6. **page 297** — `begin its first generation of 238 megawatts` → `begin generating its first 238 megawatts`.
+7. **page 298** — `held its foundation-stone ceremony with great ceremony` → `held its foundation-stone ceremony with great fanfare`.
+8. **page 300** — `whether it was we who were found to be the easy ones to take from` → `whether we alone were found to be easy targets`.
+9. **page 301** — recast the Ninth-Schedule sentence so that an adverse judgment `cannot affect` the protected laws, removing the awkward repeated `these laws` construction.
+10. **page 302** — `If they demand the return of the rent paddy, no one is in a position to agree.` → `If the rent paddy is demanded back, no one is in a position to comply.`
+11. **page 303** — `to rise and function` → `into operation` in the sentence on the amendment needed to make the workers' law operative.
+12. **page 306** — `They came as delegations and told me.` → `They came in delegations and represented this to me.`
+
+## Gate G — FINAL Batch 3 / scans 313–319
+
+**PASS / COMPLETE — 7 additional pages; cumulative 57 of 57 reviewed.**
+
+Final Batch 3 result:
+
+- reviewed source pages — **313–319 / 7 pages**
+- English refinements — **5**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed English changes — **0**
+- outside English / other-witness wording imported — **0**
+- source-page sequence — **313→319 / complete / ordered**
+- source-printed English on scans **313–314, 316–318** — **verified verbatim**
+- final close on scan **319** — **verified through `Vanakkam.`**
+
+### Gate-G Final-Batch refinement ledger
+
+1. **page 313** — `Jayaprakash's agitation in the State of Bihar began now` → `Jayaprakash's agitation in Bihar has begun only now`.
+2. **page 314** — `What more reason do you think I must give you for how a connection arose...` → `What more evidence do you think I need to give you of the connection...`
+3. **page 317** — `why should the power to accomplish there not be here with us?` → `why should we not have here the power to accomplish what we go there to seek?`
+4. **page 317** — prose punctuation `foreign affairs. defence and communications` → `foreign affairs, defence and communications`; this is translated Tamil prose, not source-printed English.
+5. **page 319** — `who will become which Minister` → `who is to become which Minister`.
+
+## Gate G closure
+
+**PASS / COMPLETE — 57/57 pages.**
+
+- reviewed source pages — **263–319 / 57 of 57**
+- total Gate-G refinements — **23**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed English changes — **0**
+- outside English / other-witness wording imported — **0**
+- source-page sequence — **263→319 / 57 sections / exactly once / ordered**
+- source-printed English — **verified verbatim throughout**
+- Tamil — **VERIFIED / `verified_against_scan=true`**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+- Gate H — **READY / NOT STARTED**
+
 ## Exact next activity
 
-Proceed with **Gate G Batch 2 — scans 288–312 / exactly 25 pages**.
+Proceed with **Speech 14 Gate H release / closure audit**.
 
-Review the Gate-F English against the corresponding Gate-E-verified Tamil only. Check meaning fidelity, omissions/additions, speaker/intervention structure, figures/dates/percentages, source-page continuity and English voice. Preserve source-printed English verbatim and make **0 Tamil changes**. Record every English refinement in the Gate-G ledger. Keep `verified_against_tamil=false` until all 57 pages complete Gate G. Do not process more than 25 pages in this activity, and do not begin Gate H or Speech 15.
+Gate H should confirm the final bilingual structure, 57/57 Tamil and English source-page coverage, Tamil and English verification flags, source-printed-English preservation, control-document consistency, canonical/index treatment, and release readiness. Do not alter verified Tamil or verified English unless a separate source-backed defect is discovered. Do not begin Speech 15 in the same activity unless separately instructed.
