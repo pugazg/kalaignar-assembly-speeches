@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 16 Gate C.5 applicability review
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 16 Gate E Batch 1 — scans 356–365
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -21,42 +21,37 @@ Working entry:
 
 - source label/date — **உரை : 16 / 1.3.1978**
 - mapped unit — **scans 356–388 / printed pp.355–387 / 33 pages**
-- incoming boundary **355→356** — **PASS / visually reconfirmed**
-- outgoing boundary **388→389** — **PASS / visually reconfirmed**
-- controlling split coverage — **33/33 COMPLETE**
-- Gate C Batch 1 — **356–365 / 10 pages / COMPLETE**
-- Gate C Batch 2 — **366–375 / 10 pages / COMPLETE**
-- Gate C Batch 3 — **376–385 / 10 pages / COMPLETE**
-- Gate C Final Batch 4 — **386–388 / 3 pages / COMPLETE**
+- boundaries **355→356 / 388→389** — **PASS**
 - Gate C — **COMPLETE / 33 of 33**
-- source markers — **356→388 / 33 / exactly once / ordered**
-- first-pass unresolved readings — **0**
-- final scan 388 close through `வணக்கம்.` and source ornament — **PASS**
+- Gate C.5 — **N/A / CLOSED across this PDF / 0 historical-glyph corrections / 0 unresolved**
+- Gate D — **PASS / COMPLETE / 33 of 33**
+- source markers — **356→388 / exactly once / ordered**
+- missing / duplicate / empty pages — **0 / 0 / 0**
+- split continuation **375→376** — **PASS**
+- source-printed English — **preserved**
+- final scan 388 close through `வணக்கம்.` and source ornament — **preserved**
+- Gate-D completeness corrections — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- Gate C.5 — **READY / NOT STARTED**
-- Gate D — **NOT STARTED**
-- Gate E — **NOT STARTED**
+- Gate E — **READY / NOT STARTED**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 17 — **NOT STARTED**
-- outside wording imported — **0**
-
-Source-visible first-pass forms remain preserved; do not normalize them merely for style.
 
 ## Exact next activity
 
-Perform **Speech 16 Gate C.5 applicability review**.
+Perform **Speech 16 Gate E Batch 1 — scans 356–365 / printed pp.355–364 / exactly 10 pages**.
 
 Requirements:
 
-1. refetch live `main`;
-2. determine whether historical-glyph review is applicable to this May-2007 modern-typeset source;
-3. use rendered controlling source pixels and the repository historical-glyph guide as the authority for the applicability decision;
-4. do not silently normalize source spelling, punctuation or spacing;
-5. if Gate C.5 is N/A, record **N/A / CLOSED** with the reason and **0 historical-glyph corrections / 0 unresolved**;
-6. if applicable, perform the required review and log only source-backed corrections;
-7. keep Tamil **NOT VERIFIED / verified_against_scan=false** until Gate E is complete;
-8. synchronize Speech-16 and anthology control documents;
-9. if Gate C.5 closes, set exact next activity to **Gate D structural audit**;
-10. do not begin Gate E, Gate F, Gate G, Gate H or Speech 17 in the same activity.
+1. use only rendered controlling anthology pixels;
+2. compare the existing Tamil strictly against source pixels, page by page;
+3. check wording, spelling, punctuation, numerals, dates, percentages, money/units, names/initials, headings, speaker labels/interventions, source-printed English, spacing that is visibly meaningful, and visible repetition;
+4. preserve source oddities and printer errors;
+5. log every source-backed correction;
+6. import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other witnesses;
+7. do not modify scans **366–388**;
+8. keep Tamil **NOT VERIFIED / verified_against_scan=false** until Gate E completes all 33 pages;
+9. synchronize Speech-16 and anthology control documents after the batch;
+10. if Batch 1 passes, set exact next to **Gate E Batch 2 — scans 366–375 / exactly 10 pages**;
+11. do not begin Gate F, Gate G, Gate H or Speech 17.
