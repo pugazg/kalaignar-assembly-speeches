@@ -1,56 +1,49 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 14 Gate H release / closure audit
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 15 source-boundary + Gate-C setup
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Durable release state
 
-Speeches **1–13 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Do not reopen them unless a separate source-backed defect is discovered.
+Speeches **1–14 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Do not reopen them unless a separate source-backed defect is discovered.
 
-## Speech 14 current state
+Speech 14 / `10.03.1975` final state:
 
-Working entry:
-
-`speeches/1975/1975-03-10-financial-statement-debate/`
-
-- source label/date — `உரை : 14 / 10.03.1975`
-- mapped unit — **scans 263–319 / printed pp.262–318 / 57 pages**
-- Tamil Gates C–E — **COMPLETE / VERIFIED**
+- working entry — `speeches/1975/1975-03-10-financial-statement-debate/`
+- scans — **263–319 / printed pp.262–318 / 57 pages**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- Gate-E corrections — **32 entries / 32 occurrences**
-- unresolved Tamil readings — **0**
-- Gate F — **COMPLETE / 57 of 57**
-- Gate G — **PASS / COMPLETE / 57 of 57**
-- Gate G Batch 1 — **263–287 / 25 pages / 6 refinements**
-- Gate G Batch 2 — **288–312 / 25 pages / 12 refinements**
-- Gate G Final Batch 3 — **313–319 / 7 pages / 5 refinements**
-- cumulative Gate-G refinements — **23**
-- Gate-G blockers — **0**
-- verified-Tamil changes during Gate G — **0**
-- source-printed-English changes — **0**
-- outside English imported — **0**
-- English source-page sequence — **263→319 / 57 sections / exactly once / ordered**
-- source-printed English — **verified verbatim throughout**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **READY / NOT STARTED**
+- Gate E — **32 corrections / 0 unresolved**
+- Gate G — **23 refinements / 0 blockers / 0 Tamil changes**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+- canonical bilingual transcript — **COMPLETE**
+- `translation.md` — **retired pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- `data/speeches.json` and root dated table — **indexed**
+
+## Speech 15 mapped unit
+
+- source label/date — `உரை : 15 / 03.08.1977`
+- global scans — **320–355**
+- printed pages — **319–354**
+- page count — **36**
+- incoming boundary — **319→320** — mapped as Speech 14 close → Speech 15 start
+- outgoing boundary — **355→356** — mapped as Speech 15 close → Speech 16 start
+- proposed working entry — `speeches/1977/1977-08-03-financial-statement-debate/`
 - Speech 15 — **NOT STARTED**
 
 ## Exact next activity
 
-Perform **Speech 14 Gate H release / closure audit**.
+Perform **Speech 15 source-boundary + Gate-C setup** for the full mapped unit **scans 320–355 / printed pp.319–354 / 36 pages**.
 
 Requirements:
 
-1. confirm Tamil source-page coverage **263→319 / 57/57 / exactly once / ordered**;
-2. confirm English source-page coverage **263→319 / 57/57 / exactly once / ordered**;
-3. confirm hard boundaries **262→263 / 319→320** remain PASS;
-4. confirm Tamil `verified_against_scan=true`;
-5. confirm English `verified_against_tamil=true`;
-6. confirm Gate-E correction ledger totals **32 entries / 32 occurrences** and unresolved Tamil readings **0**;
-7. confirm Gate-G refinement total **23**, blockers **0**, Tamil changes **0**, source-printed-English changes **0**;
-8. confirm source-printed English remains verbatim;
-9. confirm final Tamil close through `வணக்கம்.` and final English close through `Vanakkam.`;
-10. audit bilingual structure and control-document consistency;
-11. determine canonical/index treatment consistent with prior released anthology speeches;
-12. if all checks pass, perform the repository's normal Gate-H release/closure synchronization;
-13. do not alter verified Tamil or English unless a separate source-backed defect is discovered;
-14. do not begin Speech 15 in the same activity unless separately instructed.
+1. inspect live `main` and the anthology source inventory first;
+2. establish the exact controlling split-file coverage for scans **320–355** and record file names, local-page mappings, sizes and SHA-256 values from the available source files;
+3. directly inspect the hard boundaries **319→320** and **355→356** from source pixels;
+4. confirm scan 320 begins `உரை : 15 / நாள் : 03.08.1977`;
+5. confirm scan 355 is the final Speech-15 page and scan 356 begins Speech 16 / `1.3.1978`;
+6. create or synchronize the Speech-15 working entry, source notes, metadata, README, verification log and control documents;
+7. use only rendered controlling anthology pixels; no OCR/web/Official Report/alternate-anthology/other-witness wording may supply the text;
+8. do not reopen Speech 14;
+9. do not begin downstream verification/translation gates before the Speech-15 source unit and Gate-C controls are established;
+10. follow the live repository batching rules unless the user gives a new Speech-15 cadence.
