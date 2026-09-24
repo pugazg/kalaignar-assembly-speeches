@@ -103,7 +103,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
-- Speech 16 — **Gate E IN PROGRESS / Batches 1–3 PASS / 30 of 33 / 22 corrections / Tamil NOT VERIFIED**
+- Speech 16 — **Gate E PASS / COMPLETE / 33 of 33 / 24 corrections / Tamil VERIFIED / Gate F READY**
 - speeches 17–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
@@ -799,18 +799,16 @@ Canonical entry:
 - Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E Batch 1 — **PASS / scans 356–365 / 11 corrections**
-- Gate E Batch 2 — **PASS / scans 366–375 / 1 correction**
-- Gate E Batch 3 — **PASS / scans 376–385 / 10 corrections**
-- cumulative Gate E — **30/33 / 22 corrections**
-- cumulative affected scans — **12**
+- Gate E — **PASS / COMPLETE / 33 of 33**
+- Gate-E corrections — **24 entries / 24 occurrences**
+- cumulative affected scans — **14**
 - unresolved — **0**
-- scans 386–388 changed by Batch 3 — **0**
-- source-printed English on scan 384 — **preserved**
-- Tamil — **NOT VERIFIED / verified_against_scan=false**
-- Gate F / G / H — **NOT STARTED**
+- final close through `வணக்கம்.` and source ornament — **PASS**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate F — **READY / NOT STARTED**
+- Gate G / H — **NOT STARTED**
 - Speech 17 — **NOT STARTED**
 
-## Exact next activity — Speech 16 Gate E Final Batch 4
+## Exact next activity — Speech 16 Gate F
 
-Process **scans 386–388 / printed pp.385–387 / final 3 source pages** from part016 local pages **11–13**. Use only rendered controlling anthology pixels. Confirm the final close through `வணக்கம்.` and source ornament. Log every source-backed correction. Do not begin Gate F/G/H or Speech 17 in the same activity.
+Begin **English translation from the Gate-E-verified Tamil only**. Do not alter verified Tamil. Preserve page boundaries, speaker labels/interventions, figures, printed English and source-bound wording. Do not begin Gate G/H or Speech 17 in the same activity.
