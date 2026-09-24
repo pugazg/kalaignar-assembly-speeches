@@ -118,6 +118,22 @@ Conservative first-pass preservation includes scan-409 `5.1.73`, scan-416 `ப�
 
 Conservative first-pass preservation includes scan-419 `ஜார்ஜ் பெர்னான்ட்ஸ்`, scan-420 `எ2/36745/76`, and scan-427 `நாலரை ரூபாய் ஆராதி`.
 
+## Gate C Batch 5
+
+**COMPLETE — scans 429–438 / printed pp.428–437 / exactly 10 pages.**
+
+- controlling local pages — **part018 local 4–13**
+- markers — **429→438 / exactly once / ordered**
+- cumulative markers — **389→438 / 50/50 / exactly once / ordered**
+- unresolved readings — **0 currently flagged**
+- transcription source — **rendered pixels only**
+- source footnote on scan **435** — **preserved**
+- outside wording imported — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- pages 439–481 modified — **0**
+
+Conservative first-pass preservation includes scan-431 `மிஸ்ஸி`, scan-432 `கேட்டபதிலிருந்து` / `அனுப்பு வதற்கு`, scan-436 `அப்பொழுதி லிருந்தே`, scan-437 `தெரியப் படுத்தி விட்டேன்`, and scan-438 `குற்றங்களே`.
+
 ## Exact next
 
-**Gate C Batch 5 — scans 429–438 / exactly 10 pages.**
+**Gate C Batch 6 — scans 439–448 / exactly 10 pages.**

@@ -53,9 +53,9 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 
 ## Gate state
 
-- Gate C — **IN PROGRESS — Batch 4 COMPLETE / scans 389–428 / 40 of 93**
+- Gate C — **IN PROGRESS — Batch 5 COMPLETE / scans 389–438 / 50 of 93**
 - first-pass unresolved readings — **0**
-- source markers present — **389→428 / 40 / exactly once / ordered**
+- source markers present — **389→438 / 50 / exactly once / ordered**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate C.5 — **NOT STARTED**
@@ -66,7 +66,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate H — **NOT STARTED / NOT RELEASED**
 - outside wording imported — **0**
 
-Source-visible first-pass forms retained rather than normalized include scan 389 **`196667ஆம்`**, scan 395 **`ஏட்டுச் சித்திரங்களாக`**, scan 398 **`அன்னியில்`**, scan 400 **`18ந்தேதி`**, scan 402 **`மூன்றாவது புதிய குழுவின்`**, scan 407 **`செளந்திரராசன்`**, scan 409 **`5.1.73`**, scan 416 **`ப்ரூஃப் லிட்டர்`**, scan 417 **`அன்ரெஸ்டிரிக்டட்` / `காம்பனண்ட்ஸ் பென்சாயின்` / `சோப் எலிமென்ட்`**, scan 419 **`ஜார்ஜ் பெர்னான்ட்ஸ்`**, and scan 427 **`நாலரை ரூபாய் ஆராதி`**. Source-printed English on scans 404, 411, 425 and 426 is preserved.
+Source-visible first-pass forms retained rather than normalized include scan 389 **`196667ஆம்`**, scan 395 **`ஏட்டுச் சித்திரங்களாக`**, scan 398 **`அன்னியில்`**, scan 400 **`18ந்தேதி`**, scan 402 **`மூன்றாவது புதிய குழுவின்`**, scan 407 **`செளந்திரராசன்`**, scan 409 **`5.1.73`**, scan 416 **`ப்ரூஃப் லிட்டர்`**, scan 417 **`அன்ரெஸ்டிரிக்டட்` / `காம்பனண்ட்ஸ் பென்சாயின்` / `சோப் எலிமென்ட்`**, scan 419 **`ஜார்ஜ் பெர்னான்ட்ஸ்`**, scan 427 **`நாலரை ரூபாய் ஆராதி`**, scan 431 **`மிஸ்ஸி`**, scan 432 **`கேட்டபதிலிருந்து` / `அனுப்பு வதற்கு`**, scan 436 **`அப்பொழுதி லிருந்தே`**, scan 437 **`தெரியப் படுத்தி விட்டேன்`**, and scan 438 **`குற்றங்களே`**. The source footnote on scan 435 is preserved; source-printed English on scans 404, 411, 425 and 426 remains preserved.
 
 ## Fixed Gate-C / Gate-E iteration rule
 
@@ -76,6 +76,6 @@ Source-visible first-pass forms retained rather than normalized include scan 389
 
 ## Exact next activity
 
-**Gate C Batch 5 — scans 429–438 / printed pp.428–437 / exactly 10 pages.**
+**Gate C Batch 6 — scans 439–448 / printed pp.438–447 / exactly 10 pages.**
 
-Do not begin Batch 6, Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 18.
+Do not begin Batch 7, Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 18.
