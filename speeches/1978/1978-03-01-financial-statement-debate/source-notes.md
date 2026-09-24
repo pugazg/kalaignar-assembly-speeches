@@ -180,8 +180,22 @@ Final corrections:
 - source-printed English on scans **368 and 384** — **preserved verbatim**
 - refinement ledger — `translation-review.md`
 
+## Gate H
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- canonical bilingual `transcript.md` — **complete**
+- verified Tamil source-page markers — **356→388 / 33/33 / exactly once / ordered**
+- verified English source-page sections — **356→388 / 33/33 / exactly once / ordered**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- hard boundaries **355→356 / 388→389** — **preserved**
+- split continuation **375→376** — **preserved**
+- `translation.md` — **retired release pointer**
+- indexed unique date — **1978-03-01**
+- release — **RELEASED / CLOSED**
+
 ## Exact next
 
-**Gate H — canonical bilingual merge / release closure.**
+**Speech 17 source-boundary + Gate-C setup — scans 389–481 / printed pp.388–480 / `22 & 23.3.1979`.**
 
-Gate H is **READY / NOT STARTED**. Speech 17 is **NOT STARTED**.
+Speech 17 is a **multi-date source unit**. Resolve internal date-boundary evidence/policy before assigning one canonical date. Gate C remains **NOT STARTED** for Speech 17.

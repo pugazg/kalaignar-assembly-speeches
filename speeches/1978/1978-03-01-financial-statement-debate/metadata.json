@@ -81,7 +81,7 @@
     "final_remainder_may_be_under_10": true,
     "current_gate_c_batch": "386-388 / 3 pages FINAL / COMPLETE",
     "next_gate_c_batch": null,
-    "next_activity": "Gate H canonical bilingual merge / release closure",
+    "next_activity": "Speech 17 source-boundary + Gate-C setup scans 389-481 / printed pp.388-480 / multi-date source unit 22 & 23.3.1979",
     "current_gate_g_batch": "356-388 / 33 pages / COMPLETE / 9 refinements",
     "next_gate_g_batch": null
   },
@@ -159,7 +159,7 @@
     "gate_g_status": "pass-complete",
     "verified_against_tamil": true,
     "source_text": "Gate-E-verified Tamil in transcript.md",
-    "next_gate": "Gate H canonical bilingual merge / release closure",
+    "next_gate": null,
     "translated_scans": "356-388",
     "translated_printed_pages": "355-387",
     "translated_page_count": 33,
@@ -210,14 +210,22 @@
       "source_page_markers_preserved": true,
       "verified_against_tamil": true,
       "note": "English fidelity and voice review complete against Gate-E-verified Tamil only; no outside witness supplied wording."
-    }
+    },
+    "placement": "canonical in transcript.md; translation.md retired to pointer",
+    "canonical_merged": true,
+    "translation_working_copy_retired": true,
+    "gate_h_status": "pass-complete"
   },
   "release": {
-    "status": "not-released",
-    "released": false,
-    "release_ready": false,
-    "indexed": false,
-    "gate_h_status": "ready-not-started",
-    "canonical_bilingual_transcript": false
+    "status": "released",
+    "released": true,
+    "release_ready": true,
+    "indexed": true,
+    "gate_h_status": "pass-complete",
+    "canonical_bilingual_transcript": true,
+    "translation_working_copy_retired": true,
+    "gate_h_wording_changes_tamil": 0,
+    "gate_h_wording_changes_english": 0,
+    "release_note": "Speech 16 Gate H PASS / COMPLETE. Canonical bilingual transcript released; translation.md retired to pointer; no verified Tamil or English wording changed during Gate H. Unique date 1978-03-01 is indexed."
   }
 }

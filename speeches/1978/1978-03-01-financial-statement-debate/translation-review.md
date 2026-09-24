@@ -80,10 +80,26 @@ Review authority: the final Gate-E-verified Tamil in `transcript.md` only.
 
 ## Gate H — canonical bilingual merge / release closure
 
-**Status: READY / NOT STARTED**
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- verified Tamil source-page markers **356→388** — **33/33 / exactly once / ordered**
+- Gate-G-verified English source-page sections **356→388** — **33/33 / exactly once / ordered**
+- canonical `transcript.md` — **complete verified Tamil followed by verified English**
+- `translation.md` — **retired to the standard released pointer**
+- Gate-E totals — **24 correction entries / 24 occurrences / 0 unresolved readings**
+- Gate-G totals — **9 refinements / 0 blockers / 0 Tamil changes**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- hard boundaries **355→356 / 388→389** — **preserved**
+- split continuation **375→376** — **preserved**
+- source-printed English on scans **368 and 384** — **preserved verbatim**
+- final Tamil close — **`வணக்கம்.`**
+- final English close — **`Vanakkam.`**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- release disposition — **Speech 16 RELEASED / CLOSED**
 
 ## Exact next activity
 
-Perform **Speech 16 Gate H — canonical bilingual merge / release closure**.
+Begin **Speech 17 source-boundary + Gate-C setup — scans 389–481 / printed pp.388–480 / source date label `22 & 23.3.1979`**.
 
-Do not begin Speech 17 in the same activity.
+Speech 17 remains a **multi-date source unit**. Do not force it to one canonical date before internal date-boundary evidence/policy is resolved. Respect the fixed Gate-C rule of **10 source pages per iteration** once transcription begins. Do not begin Speech 17 in this same activity.

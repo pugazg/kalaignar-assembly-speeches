@@ -95,16 +95,17 @@ Treat this 2007 anthology as its own witness.
 - Gate C — **Speeches 1–16 COMPLETE; speeches 17–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–16**
 - Gate D — **PASS / COMPLETE for Speeches 1–16**
-- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–15; speeches 16–19 not started**
-- Gate F — **COMPLETE for Speeches 1–15; speeches 16–19 not started**
-- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–15; speeches 16–19 not started**
-- Gate H — **Speeches 1–15 PASS / COMPLETE — RELEASED / CLOSED; speeches 16–19 not started**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–16; speeches 17–19 not started**
+- Gate F — **COMPLETE for Speeches 1–16; speeches 17–19 not started**
+- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–16; speeches 17–19 not started**
+- Gate H — **Speeches 1–16 PASS / COMPLETE — RELEASED / CLOSED; speeches 17–19 not started**
 - Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
-- Speech 16 — **Gate F COMPLETE / 33 of 33 / English TRANSLATED-NOT-VERIFIED / Gate G READY**
-- speeches 17–19 — **NOT STARTED**
+- Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
+- Speech 17 — **NOT STARTED / multi-date source unit / canonicalization HOLD**
+- speeches 18–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
 
@@ -788,7 +789,7 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - root dated speech table — **indexed**
 - Speech 16 — **Gate G PASS / COMPLETE / 33 of 33 / 9 refinements / English VERIFIED AGAINST TAMIL / Gate H READY**
 
-## Speech 16 current state
+## Speech 16 durable release state
 
 Canonical entry:
 
@@ -796,37 +797,32 @@ Canonical entry:
 
 - source label/date — **உரை : 16 / 1.3.1978**
 - scans — **356–388 / printed pp.355–387 / 33 pages**
+- hard boundaries **355→356 / 388→389** — **PASS**
+- split continuation **375→376** — **PASS**
 - Gates C–E — **COMPLETE / Tamil VERIFIED**
-- Gate E — **24 corrections / 0 unresolved**
-- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate-E corrections — **24 / 0 unresolved**
 - Gate F — **COMPLETE / 33 of 33**
-- Gate-F batches — **356–375 / 20 pages; 376–388 / 13 pages**
-- English source-page sections — **356→388 / exactly once / ordered**
-- Gate G — **PASS / COMPLETE / 33 of 33**
-- Gate-G refinements — **9**
-- Gate-G blockers — **0**
-- verified-Tamil changes — **0**
-- source-printed-English changes — **0**
-- outside English imported — **0**
+- Gate G — **PASS / COMPLETE / 33 of 33 / 9 refinements / 0 blockers / 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **READY / NOT STARTED / NOT RELEASED**
-- Speech 17 — **NOT STARTED**
-
-## Gate G closure — Speech 16
-
-- review authority — **Gate-E-verified Tamil only**
-- reviewed scans — **356–388 / printed pp.355–387 / 33 pages**
-- source-page sequence — **356→388 / 33 / exactly once / ordered**
-- refinements — **9**
-- blockers — **0**
-- verified-Tamil changes — **0**
-- source-printed-English changes — **0**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired release pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
 - source-printed English on scans **368 and 384** — **preserved verbatim**
-- outside wording imported from web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
-- detailed refinement ledger — `speeches/1978/1978-03-01-financial-statement-debate/translation-review.md`
+- `data/speeches.json` / root dated table — **indexed**
+- outside wording imported — **0**
 
-## Exact next activity — Speech 16 Gate H
+## Speech 17 current state
 
-Perform **canonical bilingual merge / release closure** using only the already verified Tamil and Gate-G-verified English.
+- source label/date — **உரை : 17 / 22 & 23.3.1979**
+- scans — **389–481 / printed pp.388–480 / 93 pages**
+- source-date status — **multi-date source unit: 1979-03-22 and 1979-03-23**
+- canonicalization — **HOLD: do not force one date before internal date-boundary evidence/policy is resolved**
+- Gate C — **NOT STARTED**
+- Gates C.5–H — **NOT STARTED**
 
-Do not begin Speech 17 in the same activity.
+## Exact next activity — Speech 17 source-boundary + Gate-C setup
+
+Reconfirm the **388→389** incoming boundary and the **481→482** outgoing boundary from the controlling anthology, then determine the internal evidence for the two printed dates **22 & 23.3.1979** before choosing any canonical date treatment.
+
+Once Gate C transcription begins, process **10 source pages per iteration**; only the final remainder may contain fewer than 10 pages. Do not import wording from OCR, web, Official Reports, alternate anthologies or other witnesses.

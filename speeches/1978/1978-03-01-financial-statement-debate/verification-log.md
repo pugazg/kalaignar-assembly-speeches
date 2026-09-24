@@ -339,6 +339,39 @@ Gate-E Final Batch-4 correction ledger:
 - Gate H — **READY / NOT STARTED / NOT RELEASED**
 - Speech 17 — **NOT STARTED**
 
+## Gate H closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- verified Tamil source-page markers — **356→388 / 33/33 / exactly once / ordered**
+- Gate-G-verified English source-page sections — **356→388 / 33/33 / exactly once / ordered**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired release pointer**
+- Gate-E correction total — **24 entries / 24 occurrences / 0 unresolved**
+- Gate-G refinement total — **9 / 0 blockers / 0 Tamil changes**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- hard boundaries **355→356 / 388→389** — **PASS / preserved**
+- split continuation **375→376** — **PASS / preserved**
+- source-printed English on scans **368 and 384** — **preserved verbatim**
+- final Tamil / English closes — **`வணக்கம்.` / `Vanakkam.`**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- release disposition — **Speech 16 RELEASED / CLOSED**
+
+## Downstream state
+
+- Gate C — **COMPLETE for Speeches 1–16; Speech 17 NOT STARTED**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–16**
+- Gate D — **PASS / COMPLETE for Speeches 1–16**
+- Gate E — **PASS / COMPLETE for Speeches 1–16**
+- Gate F — **COMPLETE for Speeches 1–16**
+- Gate G — **PASS / COMPLETE for Speeches 1–16**
+- Gate H — **PASS / COMPLETE for Speeches 1–16**
+- Speech 16 — **RELEASED / CLOSED**
+- Speech 17 — **NOT STARTED**
+
 ## Exact next activity
 
-Begin **Gate H — canonical bilingual merge / release closure**.
+Begin **Speech 17 source-boundary + Gate-C setup — scans 389–481 / printed pp.388–480 / source date label `22 & 23.3.1979`**.
+
+Treat Speech 17 as a **multi-date source unit** until internal date-boundary evidence/policy is resolved. Do not begin transcription in this Gate-H activity.

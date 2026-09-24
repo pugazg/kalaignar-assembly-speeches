@@ -65,7 +65,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 13 | `14.03.1974` | 1974-03-14 | 231–262 | 230–261 | `1974-03-14-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 14 | `10.03.1975` | 1975-03-10 | 263–319 | 262–318 | `1975-03-10-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 15 | `03.08.1977` | 1977-08-03 | 320–355 | 319–354 | `1977-08-03-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
-| 16 | `1.3.1978` | 1978-03-01 | 356–388 | 355–387 | `1978-03-01-financial-statement-debate`; **Gate C IN PROGRESS / Batches 1–2 COMPLETE / scans 356–375 / 20 of 33 / Tamil NOT VERIFIED** |
+| 16 | `1.3.1978` | 1978-03-01 | 356–388 | 355–387 | `1978-03-01-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 17 | `22 & 23.3.1979` | **multi-date source unit: 1979-03-22 and 1979-03-23** | 389–481 | 388–480 | **canonicalization HOLD** — do not force to one date until internal date-boundary evidence/policy is resolved |
 | 18 | `09.07.1980` | 1980-07-09 | 482–510 | 481–509 | `1980-07-09-financial-statement-debate` |
 | 19 | `06.03.1982` | 1982-03-06 | 511–545 | 510–544 | `1982-03-06-financial-statement-debate` |
@@ -341,8 +341,9 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - Gate-H wording changes — **0 Tamil / 0 English**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 16 — **Gate G PASS / COMPLETE / 33 of 33 / 9 refinements / 0 blockers / English VERIFIED AGAINST TAMIL / Gate H READY**
+- Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / canonical bilingual complete / indexed**
+- Speech 17 — **NOT STARTED / multi-date source unit / canonicalization HOLD**
 
 ## Exact continuation
 
-Continue **Speech 16 Gate H — canonical bilingual merge / release closure**. Tamil is **VERIFIED / verified_against_scan=true** and English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**. Do not begin Speech 17 in the same activity.
+Begin **Speech 17 source-boundary + Gate-C setup — scans 389–481 / printed pp.388–480 / `22 & 23.3.1979`**. Resolve internal date-boundary evidence/policy before assigning one canonical date; then respect the fixed Gate-C cadence of **10 source pages per iteration**.

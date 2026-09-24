@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches **1–13 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 12 / 07.03.1973 is preserved at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent released parallel witness** to the separately released `1973-03-07-financial-statement-reply`. Its canonical bilingual transcript is complete; Gate H made **0 Tamil / 0 English wording changes**. To avoid a second canonical same-date entry, `data/speeches.json` and the root dated speech table intentionally retain only the existing `1973-03-07-financial-statement-reply` index record; the anthology witness remains discoverable through this source package and repository status sections.
+Speeches **1–16 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 12 / 07.03.1973 is preserved at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent released parallel witness** to the separately released `1973-03-07-financial-statement-reply`. Its canonical bilingual transcript is complete; Gate H made **0 Tamil / 0 English wording changes**. To avoid a second canonical same-date entry, `data/speeches.json` and the root dated speech table intentionally retain only the existing `1973-03-07-financial-statement-reply` index record; the anthology witness remains discoverable through this source package and repository status sections.
 
 ## Whole-speech batching policy
 
@@ -530,7 +530,7 @@ Working entry:
 - root dated speech table — **indexed**
 - outside wording imported — **0**
 
-## Speech 16 current state
+## Speech 16 Gate-H closure
 
 Working entry:
 
@@ -538,25 +538,29 @@ Working entry:
 
 - source label/date — **உரை : 16 / 1.3.1978**
 - mapped unit — **scans 356–388 / printed pp.355–387 / 33 pages**
-- Gate C — **COMPLETE**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE**
-- Gate E — **PASS / COMPLETE / 33 of 33**
-- Tamil — **VERIFIED / verified_against_scan=true**
+- Gates C–E — **COMPLETE / Tamil VERIFIED**
 - Gate F — **COMPLETE / 33 of 33**
-- English source-page sections — **356→388 / exactly once / ordered**
+- Gate G — **PASS / COMPLETE / 33 of 33 / 9 refinements / 0 blockers / 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate-F blockers — **0**
-- Gate-G refinements — **9**
-- Gate-G blockers — **0**
-- verified-Tamil changes — **0**
-- source-printed-English changes — **0**
-- outside English imported — **0**
-- Gate G — **PASS / COMPLETE / 33 of 33**
-- Gate H — **READY / NOT STARTED / NOT RELEASED**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired pointer**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- source-page coverage — **Tamil 356→388 / English 356→388 / 33 each / exactly once / ordered**
+- boundaries **355→356 / 388→389** — **PASS**
+- split continuation **375→376** — **PASS**
+- `data/speeches.json` / root dated table — **indexed**
+- outside wording imported — **0**
+
+## Speech 17 current state
+
+- source label/date — **உரை : 17 / 22 & 23.3.1979**
+- mapped unit — **scans 389–481 / printed pp.388–480 / 93 pages**
+- date status — **multi-date source unit: 1979-03-22 and 1979-03-23**
+- canonicalization — **HOLD pending internal date-boundary evidence/policy**
+- Gate C — **NOT STARTED**
+- Gates C.5–H — **NOT STARTED**
 
 ## Exact next activity
 
-Begin **Speech 16 Gate H — canonical bilingual merge / release closure**.
-
-Do not alter verified Tamil or Gate-G-verified English merely for polishing. Do not begin Speech 17 in the same activity.
+Begin **Speech 17 source-boundary + Gate-C setup**. Do not force the multi-date unit to one canonical date. Respect the fixed Gate-C cadence of **10 source pages per iteration** once transcription begins.

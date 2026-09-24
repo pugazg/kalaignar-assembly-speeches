@@ -42,7 +42,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate E — **NOT STARTED**
 - Gate F — **NOT STARTED**
 - Gate G — **PASS / COMPLETE — 33/33 reviewed / 9 refinements / 0 blockers / 0 Tamil changes**
-- Gate H — **READY / NOT STARTED / NOT RELEASED**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
 - outside wording imported — **0**
 
 Source-visible oddities retained in first pass include scan 362 `183,85`, scan 363 `கட்டப்பட்ட விருக்கின்றன`, scan 366 `அல்ல மற்றும் உள்ள கட்சியின் தலைவர்களும்`, scan 372 `போட்டாபோட்டி காட்டா குஸ்தி`, scan 375 `தரங்கெட்ட அரசியல்வாதிகள்`, scan 377 `குளுரைத்துச்`, scan 381 `ஒரு டிக்கெட்டூடத் திருப்பித் தரக்கூடாதெனவும்`, scan 384 source-printed English correspondence, and scan 387 `போட்டோக்கள்` / `செக்யூரிட்டி ஆபீசர்`.
@@ -107,7 +107,9 @@ Final Batch-4 corrections:
 - English — **VERIFIED AGAINST TAMIL**
 - `verified_against_tamil=true`
 
-Working translation: [`translation.md`](./translation.md)
+Canonical bilingual transcript: [`transcript.md`](./transcript.md)
+
+Released translation pointer: [`translation.md`](./translation.md)
 
 ## Gate G closure
 
@@ -124,8 +126,24 @@ Working translation: [`translation.md`](./translation.md)
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - refinement ledger — [`translation-review.md`](./translation-review.md)
 
+## Gate H closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- canonical bilingual `transcript.md` — **COMPLETE**
+- Tamil source-page markers — **356→388 / 33/33 / exactly once / ordered**
+- English source-page sections — **356→388 / 33/33 / exactly once / ordered**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- hard boundaries **355→356 / 388→389** — **PASS / preserved**
+- split continuation **375→376** — **preserved**
+- final Tamil close — **`வணக்கம்.`**
+- final English close — **`Vanakkam.`**
+- `translation.md` — **retired release pointer**
+- `data/speeches.json` / root dated table — **indexed**
+- release — **RELEASED / CLOSED**
+
 ## Exact next activity
 
-Begin **Gate H — canonical bilingual merge / release closure**.
+Begin **Speech 17 source-boundary + Gate-C setup — scans 389–481 / printed pp.388–480 / source date label `22 & 23.3.1979`**.
 
-Gate H has **not** been started in this activity. Do not begin Speech 17 in the same activity.
+Speech 17 remains a **multi-date source unit**. Do not force one canonical date before resolving internal date-boundary evidence/policy. Respect the fixed Gate-C cadence of **10 source pages per iteration**. Do not begin Speech 17 in this same activity.
