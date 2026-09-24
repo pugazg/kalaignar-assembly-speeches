@@ -122,9 +122,9 @@
     "gate_c_iteration_page_limit": 10,
     "gate_e_iteration_page_limit": 10,
     "final_remainder_may_be_under_10": true,
-    "current_gate_c_batch": "409-418 / 10 pages / COMPLETE",
-    "next_gate_c_batch": "419-428 / 10 pages",
-    "next_activity": "Gate C Batch 4 scans 419-428 / exactly 10 pages"
+    "current_gate_c_batch": "419-428 / 10 pages / COMPLETE",
+    "next_gate_c_batch": "429-438 / 10 pages",
+    "next_activity": "Gate C Batch 5 scans 429-438 / exactly 10 pages"
   },
   "transcription": {
     "language": "Tamil",
@@ -139,17 +139,17 @@
     "page_boundaries_marked": true,
     "status": "transcribed-in-progress",
     "gate_c_status": "in-progress",
-    "completed_scan_pages": "389-418",
-    "completed_printed_pages": "388-417",
-    "completed_page_count": 30,
+    "completed_scan_pages": "389-428",
+    "completed_printed_pages": "388-427",
+    "completed_page_count": 40,
     "total_page_count": 93,
-    "marker_count": 30,
-    "marker_range": "389-418",
+    "marker_count": 40,
+    "marker_range": "389-428",
     "unresolved_readings": [],
     "unresolved_reading_count": 0,
     "verified_against_scan": false,
     "outside_wording_imported": false,
-    "next_gate": "Gate C Batch 4"
+    "next_gate": "Gate C Batch 5"
   },
   "translation": {
     "language": "English",

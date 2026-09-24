@@ -101,6 +101,23 @@ Conservative first-pass preservation includes scan-400 `18ந்தேதி`, s
 
 Conservative first-pass preservation includes scan-409 `5.1.73`, scan-416 `ப்ரூஃப் லிட்டர்`, and scan-417 `அன்ரெஸ்டிரிக்டட்`, `காம்பனண்ட்ஸ் பென்சாயின்`, `சோப் எலிமென்ட்`.
 
+## Gate C Batch 4
+
+**COMPLETE — scans 419–428 / printed pp.418–427 / exactly 10 pages.**
+
+- controlling local pages — **part017 local 19–25 + part018 local 1–3**
+- split transition **425→426** — **PASS / continuous**
+- markers — **419→428 / exactly once / ordered**
+- cumulative markers — **389→428 / 40/40 / exactly once / ordered**
+- unresolved readings — **0 currently flagged**
+- transcription source — **rendered pixels only**
+- source-printed English on scans **425–426** — **preserved**
+- outside wording imported — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- pages 429–481 modified — **0**
+
+Conservative first-pass preservation includes scan-419 `ஜார்ஜ் பெர்னான்ட்ஸ்`, scan-420 `எ2/36745/76`, and scan-427 `நாலரை ரூபாய் ஆராதி`.
+
 ## Exact next
 
-**Gate C Batch 4 — scans 419–428 / exactly 10 pages.**
+**Gate C Batch 5 — scans 429–438 / exactly 10 pages.**

@@ -77,9 +77,30 @@ Checks:
 
 Source-visible forms intentionally retained for later Gate-E fidelity verification include scan 409 `5.1.73`, scan 416 `ப்ரூஃப் லிட்டர்`, and scan 417 `அன்ரெஸ்டிரிக்டட்`, `காம்பனண்ட்ஸ் பென்சாயின்`, `சோப் எலிமென்ட்`.
 
+## Gate C Batch 4
+
+**COMPLETE — scans 419–428 / 10 pages; cumulative 40 of 93.**
+
+Checks:
+
+- source-page markers **419→428** — **10/10 / exactly once / ordered**
+- cumulative source-page markers **389→428** — **40/40 / exactly once / ordered**
+- controlling source — **part017 local 19–25 + part018 local 1–3**
+- split transition **425→426** — **PASS / continuous**
+- first-pass unresolved readings — **0**
+- source-printed English on scans **425–426** — **preserved**
+- outside wording imported — **0**
+- OCR wording imported — **0**
+- web wording imported — **0**
+- Official Report / alternate anthology wording imported — **0**
+- verified against scan — **false; Gate C is first-pass transcription, not verification**
+- scans 429–481 — **untouched**
+
+Source-visible forms intentionally retained for later Gate-E fidelity verification include scan 419 `ஜார்ஜ் பெர்னான்ட்ஸ்`, scan 420 `எ2/36745/76`, and scan 427 `நாலரை ரூபாய் ஆராதி`.
+
 ## Downstream state
 
-- Gate C — **IN PROGRESS / 30 of 93**
+- Gate C — **IN PROGRESS / 40 of 93**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
@@ -90,4 +111,4 @@ Source-visible forms intentionally retained for later Gate-E fidelity verificati
 
 ## Exact next activity
 
-**Speech 17 Gate C Batch 4 — scans 419–428 / printed pp.418–427 / exactly 10 pages.**
+**Speech 17 Gate C Batch 5 — scans 429–438 / printed pp.428–437 / exactly 10 pages.**
