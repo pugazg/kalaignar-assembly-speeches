@@ -167,6 +167,22 @@ Conservative first-pass preservation includes scan-444 `1.3.79ம்`, scan-445 
 
 Conservative first-pass preservation includes scan-453 `கோசிஜீனைப்` / `சித்தாந்தந்தான்`, scan-454 `நம்பிக் கொடுத்தேன்`, scan-455 `நாட்டுடைமையாக்கப்பட்டதா`, and scan-458 `தாமம் தலை கோடிக்குச் செல்லும்`.
 
+## Gate C Batch 8
+
+**COMPLETE — scans 459–468 / printed pp.458–467 / exactly 10 pages.**
+
+- controlling local pages — **part019 local 9–18**
+- markers — **459→468 / exactly once / ordered**
+- cumulative markers — **389→468 / 80/80 / exactly once / ordered**
+- unresolved readings — **0 currently flagged**
+- transcription source — **rendered pixels only**
+- source-printed English blocks on scans **459–460** — **preserved**
+- outside wording imported — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- pages 469–481 modified — **0**
+
+Conservative first-pass preservation includes scan-462 `1979-89இல் 137 லட்சம்`, scan-465 `எ.ஆர்.டி.சி.`, scan-467 `பீஸ்பிலிட்டி ரிப்போர்ட்`, and scan-468 `சொன்ன தெல்லாம்`.
+
 ## Exact next
 
-**Gate C Batch 8 — scans 459–468 / exactly 10 pages.**
+**Gate C Batch 9 — scans 469–478 / exactly 10 pages.**

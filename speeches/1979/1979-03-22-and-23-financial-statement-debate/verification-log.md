@@ -159,9 +159,29 @@ Checks:
 
 Source-visible forms intentionally retained for later Gate-E fidelity verification include scan 453 `கோசிஜீனைப்` / `சித்தாந்தந்தான்`, scan 454 `நம்பிக் கொடுத்தேன்`, scan 455 `நாட்டுடைமையாக்கப்பட்டதா`, and scan 458 `தாமம் தலை கோடிக்குச் செல்லும்`.
 
+## Gate C Batch 8
+
+**COMPLETE — scans 459–468 / 10 pages; cumulative 80 of 93.**
+
+Checks:
+
+- source-page markers **459→468** — **10/10 / exactly once / ordered**
+- cumulative source-page markers **389→468** — **80/80 / exactly once / ordered**
+- controlling source — **part019 local 9–18**
+- first-pass unresolved readings — **0**
+- source-printed English blocks on scans **459–460** — **preserved**
+- outside wording imported — **0**
+- OCR wording imported — **0**
+- web wording imported — **0**
+- Official Report / alternate anthology wording imported — **0**
+- verified against scan — **false; Gate C is first-pass transcription, not verification**
+- scans 469–481 — **untouched**
+
+Source-visible forms intentionally retained for later Gate-E fidelity verification include scan 462 `1979-89இல் 137 லட்சம்`, scan 465 `எ.ஆர்.டி.சி.`, scan 467 `பீஸ்பிலிட்டி ரிப்போர்ட்`, and scan 468 `சொன்ன தெல்லாம்`.
+
 ## Downstream state
 
-- Gate C — **IN PROGRESS / 70 of 93**
+- Gate C — **IN PROGRESS / 80 of 93**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
@@ -172,4 +192,4 @@ Source-visible forms intentionally retained for later Gate-E fidelity verificati
 
 ## Exact next activity
 
-**Speech 17 Gate C Batch 8 — scans 459–468 / printed pp.458–467 / exactly 10 pages.**
+**Speech 17 Gate C Batch 9 — scans 469–478 / printed pp.468–477 / exactly 10 pages.**
