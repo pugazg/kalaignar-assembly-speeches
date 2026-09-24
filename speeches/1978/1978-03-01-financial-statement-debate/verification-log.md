@@ -215,16 +215,52 @@ Gate-E Batch-2 correction ledger:
 
 No other source-backed wording or punctuation correction was found in scans 366–375. Source oddities, printed English, quoted material, and existing spacing were retained.
 
+## Gate E — Batch 3 / scans 376–385
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 pages; cumulative 30 of 33.**
+
+Coverage:
+
+- verified scans — **376–385**
+- verified printed pages — **375–384**
+- verified pages — **10/10 in batch; cumulative 30/33**
+- split/local coverage — **part016 local 1–10**
+- source markers in batch — **376→385 / 10 / exactly once / ordered**
+- Gate-E Batch-3 correction ledger — **10 entries / 10 occurrences**
+- Batch-3 affected scans — **5 — 377, 379, 380, 381, 382**
+- cumulative Gate-E corrections — **22 entries / 22 occurrences**
+- cumulative affected scans — **12**
+- unresolved readings — **0**
+- source-printed English correspondence on scan 384 — **preserved**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- scans **386–388** modified in this activity — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+
+Gate-E Batch-3 correction ledger:
+
+1. **scan 377 / printed p.376** — `அவர்கள் ஆளும் கட்சி: நாங்கள் எதிர்க்கட்சி,` → `அவர்கள் ஆளும் கட்சி; நாங்கள் எதிர்க்கட்சி,`
+2. **scan 377 / printed p.376** — `நண்பர் எட்டமண்ட் போன்றவர்கள்` → `நண்பர் எட்மண்ட் போன்றவர்கள்`
+3. **scan 377 / printed p.376** — `முதலில் நான் சில விவரங்களை` → `முதலிலே நான் சில விவரங்களை`
+4. **scan 379 / printed p.378** — `நான் இந்த அரசைக் கேட்டுக் கொள்ளவதெல்லாம்` → `நான் இந்த அரசைக் கேட்டுக் கொள்வதெல்லாம்`
+5. **scan 379 / printed p.378** — `நண்பர் ஜேம்ஸ் அவர்கள் கூட்டப் பேசினார்கள்.` → `நண்பர் ஜேம்ஸ் அவர்கள் கூடப் பேசினார்கள்.`
+6. **scan 380 / printed p.379** — `யாரும் அதிகாரிகள் கவலைப்படவேண்டாம்;` → `யாரும் அதிகாரிகள் கவலைப்பட்டவேண்டாம்;`
+7. **scan 380 / printed p.379** — `ஒரு டிக்கெட் கூட விற்காமல்` → `ஒரு டிக்கட் கூட விற்காமல்`
+8. **scan 381 / printed p.380** — `விற்பனை செய்ய இயலவில்லை என ஒரு டிக்கெட்டூடத்` → `விற்பனை செய்ய இயலவில்லை யென ஒரு டிக்கெட்டூடத்`
+9. **scan 381 / printed p.380** — `ஒரு டிக்கெட் கூடத் திருப்பித் தரக்கூடாது` → `ஒரு டிக்கெட்டூடத் திருப்பித் தரக்கூடாது`
+10. **scan 382 / printed p.381** — `கட்சிக் கண்ணோட்டத்தோடு எந்தக் காரியமும் நடைபெறுவதில்லை` → `கட்சிக் கண்ணோட்டத்தோடு எந்த காரியமும் நடைபெறுவதில்லை`
+
+Source-visible oddities and source-printed English were otherwise retained without normalization.
+
 ## Downstream state
 
 - Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS — 20 of 33**
+- Gate E — **IN PROGRESS — 30 of 33**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-**Gate E Batch 3 — scans 376–385 / printed pp.375–384 / exactly 10 pages.**
+**Gate E Final Batch 4 — scans 386–388 / printed pp.385–387 / final 3 pages.**
