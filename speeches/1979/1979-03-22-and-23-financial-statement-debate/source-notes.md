@@ -85,6 +85,22 @@ Conservative first-pass preservation includes source-visible scan-389 `196667ஆ
 
 Conservative first-pass preservation includes scan-400 `18ந்தேதி`, scan-402 `மூன்றாவது புதிய குழுவின்`, the scan-404 printed English proceedings block, and scan-407 speaker-name form `செளந்திரராசன்`.
 
+## Gate C Batch 3
+
+**COMPLETE — scans 409–418 / printed pp.408–417 / exactly 10 pages.**
+
+- controlling local pages — **part017 local 9–18**
+- markers — **409→418 / exactly once / ordered**
+- cumulative markers — **389→418 / 30/30 / exactly once / ordered**
+- unresolved readings — **0 currently flagged**
+- transcription source — **rendered pixels only**
+- source-printed English on scan 411 — **preserved**
+- outside wording imported — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- pages 419–481 modified — **0**
+
+Conservative first-pass preservation includes scan-409 `5.1.73`, scan-416 `ப்ரூஃப் லிட்டர்`, and scan-417 `அன்ரெஸ்டிரிக்டட்`, `காம்பனண்ட்ஸ் பென்சாயின்`, `சோப் எலிமென்ட்`.
+
 ## Exact next
 
-**Gate C Batch 3 — scans 409–418 / exactly 10 pages.**
+**Gate C Batch 4 — scans 419–428 / exactly 10 pages.**

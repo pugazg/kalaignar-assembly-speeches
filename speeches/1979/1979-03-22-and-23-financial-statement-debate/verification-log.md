@@ -57,9 +57,29 @@ Checks:
 
 Source-visible forms intentionally retained for later Gate-E fidelity verification include scan 400 `18ந்தேதி`, scan 402 `மூன்றாவது புதிய குழுவின்`, and scan 407 `செளந்திரராசன்`.
 
+## Gate C Batch 3
+
+**COMPLETE — scans 409–418 / 10 pages; cumulative 30 of 93.**
+
+Checks:
+
+- source-page markers **409→418** — **10/10 / exactly once / ordered**
+- cumulative source-page markers **389→418** — **30/30 / exactly once / ordered**
+- controlling source — **part017 local 9–18**
+- first-pass unresolved readings — **0**
+- source-printed English on scan 411 — **preserved**
+- outside wording imported — **0**
+- OCR wording imported — **0**
+- web wording imported — **0**
+- Official Report / alternate anthology wording imported — **0**
+- verified against scan — **false; Gate C is first-pass transcription, not verification**
+- scans 419–481 — **untouched**
+
+Source-visible forms intentionally retained for later Gate-E fidelity verification include scan 409 `5.1.73`, scan 416 `ப்ரூஃப் லிட்டர்`, and scan 417 `அன்ரெஸ்டிரிக்டட்`, `காம்பனண்ட்ஸ் பென்சாயின்`, `சோப் எலிமென்ட்`.
+
 ## Downstream state
 
-- Gate C — **IN PROGRESS / 20 of 93**
+- Gate C — **IN PROGRESS / 30 of 93**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
@@ -70,4 +90,4 @@ Source-visible forms intentionally retained for later Gate-E fidelity verificati
 
 ## Exact next activity
 
-**Speech 17 Gate C Batch 3 — scans 409–418 / printed pp.408–417 / exactly 10 pages.**
+**Speech 17 Gate C Batch 4 — scans 419–428 / printed pp.418–427 / exactly 10 pages.**

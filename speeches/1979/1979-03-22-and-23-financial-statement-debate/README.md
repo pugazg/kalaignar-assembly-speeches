@@ -53,9 +53,9 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 
 ## Gate state
 
-- Gate C — **IN PROGRESS — Batch 2 COMPLETE / scans 389–408 / 20 of 93**
+- Gate C — **IN PROGRESS — Batch 3 COMPLETE / scans 389–418 / 30 of 93**
 - first-pass unresolved readings — **0**
-- source markers present — **389→408 / 20 / exactly once / ordered**
+- source markers present — **389→418 / 30 / exactly once / ordered**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate C.5 — **NOT STARTED**
@@ -66,7 +66,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate H — **NOT STARTED / NOT RELEASED**
 - outside wording imported — **0**
 
-Source-visible first-pass forms retained rather than normalized include scan 389 **`196667ஆம்`**, scan 395 **`ஏட்டுச் சித்திரங்களாக`**, scan 398 **`அன்னியில்`**, scan 400 **`18ந்தேதி`**, scan 402 **`மூன்றாவது புதிய குழுவின்`**, and the source-printed English proceedings block on scan 404. The source also prints the speaker-name form **`செளந்திரராசன்`** on scan 407; it is retained as printed.
+Source-visible first-pass forms retained rather than normalized include scan 389 **`196667ஆம்`**, scan 395 **`ஏட்டுச் சித்திரங்களாக`**, scan 398 **`அன்னியில்`**, scan 400 **`18ந்தேதி`**, scan 402 **`மூன்றாவது புதிய குழுவின்`**, scan 407 **`செளந்திரராசன்`**, scan 409 **`5.1.73`**, scan 416 **`ப்ரூஃப் லிட்டர்`**, and scan 417 **`அன்ரெஸ்டிரிக்டட்` / `காம்பனண்ட்ஸ் பென்சாயின்` / `சோப் எலிமென்ட்`**. Source-printed English on scans 404 and 411 is preserved.
 
 ## Fixed Gate-C / Gate-E iteration rule
 
@@ -76,6 +76,6 @@ Source-visible first-pass forms retained rather than normalized include scan 389
 
 ## Exact next activity
 
-**Gate C Batch 3 — scans 409–418 / printed pp.408–417 / exactly 10 pages.**
+**Gate C Batch 4 — scans 419–428 / printed pp.418–427 / exactly 10 pages.**
 
-Do not begin Batch 4, Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 18.
+Do not begin Batch 5, Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 18.
