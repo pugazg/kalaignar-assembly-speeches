@@ -125,10 +125,10 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate C — **Speeches 1–16 COMPLETE; speeches 17–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–16**
 - Gate D — **Speeches 1–16 PASS / COMPLETE**
-- Gate E — **Speeches 1–15 PASS / COMPLETE / Tamil VERIFIED; speeches 16–19 not started**
-- Gate F — **Speeches 1–15 COMPLETE; speeches 16–19 not started**
-- Gate G — **Speeches 1–15 PASS / COMPLETE / English VERIFIED; speeches 16–19 not started**
-- Gate H — **Speeches 1–15 PASS / COMPLETE — RELEASED / CLOSED; speeches 16–19 not started**
+- Gate E — **Speeches 1–16 PASS / COMPLETE / Tamil VERIFIED; speeches 17–19 not started**
+- Gate F — **Speeches 1–16 COMPLETE; speeches 17–19 not started**
+- Gate G — **Speeches 1–16 PASS / COMPLETE / English VERIFIED; speeches 17–19 not started**
+- Gate H — **Speeches 1–16 PASS / COMPLETE — RELEASED / CLOSED; speeches 17–19 not started**
 - Speech 13 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED / RELEASED-CLOSED / 7 Gate-G refinements / 0 blockers / 0 Gate-H wording changes**
 
 ## Gate-H boundary / release check for Speeches 4–5

@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 9 / 29.3.1971 = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 9 closed with **4 Gate-E corrections / 11 Gate-G refinements / 0 blockers / 0 Tamil changes / 0 Gate-H wording changes** and remains an independent parallel witness to `நமது நிலை`. Speeches 1–9 are now released. Speech 10 / 29.6.71 has **Gate C COMPLETE across all 35 pages**; Tamil is **TRANSCRIBED / NOT VERIFIED** with `verified_against_scan=false`.
+Latest released unit: Speech 16 / 1.3.1978 = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–16 are released**. Speech 17 / `22 & 23.3.1979` is **NOT STARTED** and remains a **multi-date source unit** pending source-bound date-policy resolution.
 
 ## Existing-source overlaps
 
@@ -787,7 +787,7 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - Gate-H wording changes — **0 Tamil / 0 English**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 16 — **Gate G PASS / COMPLETE / 33 of 33 / 9 refinements / English VERIFIED AGAINST TAMIL / Gate H READY**
+- Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 
 ## Speech 16 durable release state
 
