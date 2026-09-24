@@ -103,7 +103,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
-- Speech 16 — **Gate E PASS / COMPLETE / 33 of 33 / 24 corrections / Tamil VERIFIED / Gate F READY**
+- Speech 16 — **Gate F COMPLETE / 33 of 33 / English TRANSLATED-NOT-VERIFIED / Gate G READY**
 - speeches 17–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
@@ -796,19 +796,19 @@ Canonical entry:
 
 - source label/date — **உரை : 16 / 1.3.1978**
 - scans — **356–388 / printed pp.355–387 / 33 pages**
-- Gate C — **COMPLETE**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE**
-- Gate E — **PASS / COMPLETE / 33 of 33**
-- Gate-E corrections — **24 entries / 24 occurrences**
-- cumulative affected scans — **14**
-- unresolved — **0**
-- final close through `வணக்கம்.` and source ornament — **PASS**
-- Tamil — **VERIFIED / verified_against_scan=true**
-- Gate F — **READY / NOT STARTED**
-- Gate G / H — **NOT STARTED**
+- Gates C–E — **COMPLETE / Tamil VERIFIED**
+- Gate E — **24 corrections / 0 unresolved**
+- Gate F — **COMPLETE / 33 of 33**
+- Gate-F batches — **356–375 / 20 pages; 376–388 / 13 pages**
+- English source-page sections — **356→388 / exactly once / ordered**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- Gate G — **READY / NOT STARTED**
+- Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 17 — **NOT STARTED**
 
-## Exact next activity — Speech 16 Gate F
+## Exact next activity — Speech 16 Gate G
 
-Begin **English translation from the Gate-E-verified Tamil only**. Do not alter verified Tamil. Preserve page boundaries, speaker labels/interventions, figures, printed English and source-bound wording. Do not begin Gate G/H or Speech 17 in the same activity.
+Review all **33 English source-page sections 356–388** against the verified Tamil for fidelity, parliamentary voice, rhetorical structure, repetitions, figures, names/initials, speaker labels/interventions and source-printed English. Record refinements and blockers. Do not alter verified Tamil. Do not begin Gate H or Speech 17 in the same activity.
