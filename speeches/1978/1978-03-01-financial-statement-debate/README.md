@@ -41,8 +41,8 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate D — **PASS / COMPLETE — 33/33 structurally audited / 0 completeness corrections**
 - Gate E — **NOT STARTED**
 - Gate F — **NOT STARTED**
-- Gate G — **NOT STARTED**
-- Gate H — **NOT STARTED / NOT RELEASED**
+- Gate G — **PASS / COMPLETE — 33/33 reviewed / 9 refinements / 0 blockers / 0 Tamil changes**
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
 - outside wording imported — **0**
 
 Source-visible oddities retained in first pass include scan 362 `183,85`, scan 363 `கட்டப்பட்ட விருக்கின்றன`, scan 366 `அல்ல மற்றும் உள்ள கட்சியின் தலைவர்களும்`, scan 372 `போட்டாபோட்டி காட்டா குஸ்தி`, scan 375 `தரங்கெட்ட அரசியல்வாதிகள்`, scan 377 `குளுரைத்துச்`, scan 381 `ஒரு டிக்கெட்டூடத் திருப்பித் தரக்கூடாதெனவும்`, scan 384 source-printed English correspondence, and scan 387 `போட்டோக்கள்` / `செக்யூரிட்டி ஆபீசர்`.
@@ -104,13 +104,28 @@ Final Batch-4 corrections:
 - source-page boundaries — **preserved**
 - source-printed English on scans 368 and 384 — **preserved**
 - speaker labels/intervention — **preserved**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
 
 Working translation: [`translation.md`](./translation.md)
 
+## Gate G closure
+
+**PASS / COMPLETE — scans 356–388 / printed pp.355–387 / 33 of 33 English sections reviewed against verified Tamil.**
+
+- refinements — **9**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- outside English / outside-witness wording imported — **0**
+- English source-page sections — **356→388 / 33 / exactly once / ordered**
+- source page boundaries — **preserved**
+- source-printed English on scans **368 and 384** — **preserved verbatim**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- refinement ledger — [`translation-review.md`](./translation-review.md)
+
 ## Exact next activity
 
-Begin **Gate G — English fidelity and voice review against the verified Tamil**.
+Begin **Gate H — canonical bilingual merge / release closure**.
 
-Do not alter verified Tamil. Do not begin Gate H or Speech 17 in the same activity.
+Gate H has **not** been started in this activity. Do not begin Speech 17 in the same activity.

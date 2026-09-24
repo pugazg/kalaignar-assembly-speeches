@@ -36,6 +36,54 @@ Gate F used no web, Official Reports, alternate anthologies, released speeches o
 
 ## Gate G — English fidelity and voice review
 
-**Status: READY / NOT STARTED**
+**Status: PASS / COMPLETE — 33 of 33 pages reviewed**
 
 Review authority: the final Gate-E-verified Tamil in `transcript.md` only.
+
+- reviewed scans — **356–388 / printed pp.355–387 / 33 pages**
+- source-page sequence — **356→388 / complete / exactly once / ordered**
+- refinements — **9**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- outside English / outside-witness wording imported — **0**
+
+### Gate-G refinement ledger
+
+1. **scan 357** — `I do not think all of them said this deliberately.` → `I do not think they spoke this way deliberately.`, removing an English scope word (`all`) not supplied by the verified Tamil while retaining the contrast that follows between members who understood and those who did not.
+2. **scan 363** — `another 3,044 huts were to be constructed` → `another 3,044 huts had been constructed`, keeping the English aligned with the source-bound completed-construction sequence that immediately totals **21 thousand dwelling units**; the verified Tamil itself remains untouched.
+3. **scan 364** — `the thousands of scattered villages and coastal settlements` → `the thousands of scattered villages and town fringes`, keeping `பட்டினக் கரைகளிலும்` tied to the source wording rather than introducing a coastal sense.
+4. **scan 368** — `A.P.T.` → `A.B.T.`, matching the source-visible Tamil initials `ஏ.பி.டி.`; no outside company-name wording was imported.
+5. **scan 370** — `as compensation` → `as compensation, as recompense`, preserving the source's deliberate paired repetition `நஷ்டஈடாக, இழப்பீடாக`.
+6. **scan 374** — `driving in a peg and hammering in a nail` → `driving in a wedge and hammering home a nail`, preserving the paired image `ஆப்பு ... ஆணி` more closely.
+7. **scan 376** — `[These are words that apply to him too—to friend Manoharan.]` → `[These are his own words—friend Manoharan’s.]`, preserving the bracketed speaker aside as an attribution of the quoted wording rather than an application of it.
+8. **scan 382** — restored the source clause omitted in Gate F: `Thus, because someone was not to an MLA's liking, it is explicitly stated that the transfer was made on the MLA's recommendation.`
+9. **scan 387** — `not even a cinema theatre belonging to the Chief Minister's own field` → `not even a cinema theatre in the Chief Minister's own field`, preserving the source's direct rhetorical contrast without implying ownership.
+
+### Gate-G closure checks
+
+- all **33/33** English source-page sections reviewed against the corresponding verified Tamil
+- English source-page sections — **356→388 / 33 / exactly once / ordered**
+- page-boundary continuations — **PASS**
+- parliamentary voice / direct address / rhetorical sequence — **PASS**
+- humour / irony / repetitions — **PASS after the refinements above**
+- figures, dates, amounts and numerals — **PASS**
+- names / initials — **PASS after scan 368 refinement**
+- speaker labels / intervention — **PASS**
+- source-bound oddities and claims — **preserved; not silently regularised**
+- source-printed English on scans **368 and 384** — **preserved verbatim**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- outside wording imported from web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+
+## Gate H — canonical bilingual merge / release closure
+
+**Status: READY / NOT STARTED**
+
+## Exact next activity
+
+Perform **Speech 16 Gate H — canonical bilingual merge / release closure**.
+
+Do not begin Speech 17 in the same activity.

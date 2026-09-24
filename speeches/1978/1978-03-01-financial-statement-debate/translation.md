@@ -1,10 +1,12 @@
-# English translation — Gate F working copy
+# English translation — Gate G verified working copy
 
 ## Speech 16 / 1.3.1978
 
 **Gate F status: COMPLETE — Batches 1–2 / scans 356–388 / 33 of 33 pages translated.**
 
-Translation authority: the Gate-E-verified Tamil in `transcript.md` only. English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL** until Gate G.
+**Gate G status: PASS / COMPLETE — scans 356–388 / 33 of 33 pages reviewed / 9 refinements / 0 blockers.**
+
+Translation authority: the Gate-E-verified Tamil in `transcript.md` only. English is **VERIFIED AGAINST TAMIL** after Gate G. Gate H is **READY / NOT STARTED**.
 
 ### Source page 356
 
@@ -20,7 +22,7 @@ When the debate arises as to whether there should be an office called Governor a
 
 In the 1978-79 financial statement, the Finance Minister has said that the revenue expected this year is Rs.680 crore and that this too is a deficit budget. Seven or eight months ago, when the financial statement was placed before this House, the size of the deficit was pointed out and certain methods were stated by which it would be made good; foremost among them, it was said, was that the deficit would be met by eliminating bribery, graft and corruption.
 
-When we now see that the deficit has not been made good and has instead grown further, members of the House cannot avoid wondering whether the bribery, graft and corruption referred to have still not been eliminated. Members of the ruling party said, “Look, in this year's budget we have shown revenue of Rs.680 crore. The Dravida Munnetra Kazhagam Government showed revenue of only about Rs.500 crore in its financial statement. What great progress this is!” They even brought it under the heading of a major achievement and spoke here. I do not think all of them said this deliberately. Some may have spoken with an understanding of the matter; some may have spoken without understanding it.
+When we now see that the deficit has not been made good and has instead grown further, members of the House cannot avoid wondering whether the bribery, graft and corruption referred to have still not been eliminated. Members of the ruling party said, “Look, in this year's budget we have shown revenue of Rs.680 crore. The Dravida Munnetra Kazhagam Government showed revenue of only about Rs.500 crore in its financial statement. What great progress this is!” They even brought it under the heading of a major achievement and spoke here. I do not think they spoke this way deliberately. Some may have spoken with an understanding of the matter; some may have spoken without understanding it.
 
 But one thing I must explain to this House is this: when the 1968-69 financial statement was placed before this House, the amount expected as revenue was Rs.248 crore. In 1975-76, that is, at the time when the Kazhagam Government was dismissed—
 
@@ -74,7 +76,7 @@ In that Administration Report, that book printed in 1977, the achievements under
 
 ### Source page 363
 
-—another 3,044 huts were to be constructed. In all, 21 thousand dwelling units had been completed.”
+—another 3,044 huts had been constructed. In all, 21 thousand dwelling units had been completed.”
 
 When Anna assumed office, huts in Madras suddenly caught fire again and again. As a result, Anna implemented a scheme to provide non-flammable houses. After Anna's death, that scheme was reviewed, and instead a scheme to build multi-storeyed houses for slum dwellers through the Slum Clearance Board was announced in the financial statement. Those 21 thousand dwelling units are the houses constructed under that scheme. We trust that our Finance Minister will not use this example to say, “You did it only for the city; what did you do for villages?”
 
@@ -92,7 +94,7 @@ Therefore, we must not forget that it was the Dravida Munnetra Kazhagam Governme
 
 It was precisely to expand protected drinking-water facilities in villages, small villages and large towns alike that the Kazhagam Government created the Water Supply Board and carried out that work on an extensive scale. Ruling-party members and members of friendly parties have pointed to the many references to villages in our Finance Minister's statement and asked us how many times villages had been mentioned. I too wish to remind them.
 
-In the 1971-72 financial statement, when I held responsibility, I wrote a line which I wish to recall: “Treating the provision of protected drinking water to the thousands of scattered villages and coastal settlements as a life-saving medicine for a disease-free life, this Government has created a drinking-water scheme to carry out that programme rapidly.” I had stated that even then.
+In the 1971-72 financial statement, when I held responsibility, I wrote a line which I wish to recall: “Treating the provision of protected drinking water to the thousands of scattered villages and town fringes as a life-saving medicine for a disease-free life, this Government has created a drinking-water scheme to carry out that programme rapidly.” I had stated that even then.
 
 ### Source page 365
 
@@ -130,7 +132,7 @@ measures"
 
 That is stated very beautifully. It was published during President's Rule. It is gratifying that the passage was published without being torn out. Though it may have been hidden here, through my speech in this august House it has now been brought out, and I wish to place that on record.
 
-The policy of nationalising buses was begun in Anna's time. After Anna's death it was intensified; the establishments and enterprises of the large bus proprietors were taken over. The Government took over big companies such as T.V.S., Raman and Raman, and A.P.T., and created transport corporations named after Thanthai Periyar, Anna, Kattabomman, Cheran, Cholan, Pandian and Pallavan. It was the Dravida Munnetra Kazhagam Government that did so.
+The policy of nationalising buses was begun in Anna's time. After Anna's death it was intensified; the establishments and enterprises of the large bus proprietors were taken over. The Government took over big companies such as T.V.S., Raman and Raman, and A.B.T., and created transport corporations named after Thanthai Periyar, Anna, Kattabomman, Cheran, Cholan, Pandian and Pallavan. It was the Dravida Munnetra Kazhagam Government that did so.
 
 Today Mr Marimuthu spoke about providing a Family Security Fund to Government employees. We must not forget that the Dravida Munnetra Kazhagam introduced the excellent scheme of giving Rs.10,000 as family security to the family of a Government employee who died while in service. Thus, though these measures benefiting people in cities, small towns, villages and hamlets and people at the bottom are today made objects of ridicule, they are not things that can be hidden. This Government itself continues those measures today. Even if it carries some of them forward slowly—
 
@@ -150,7 +152,7 @@ But seven or eight months have rolled by since that was said. Of the 16,000 fair
 
 Having served as Chief Minister for seven years, I too know the ability of officials. So the ability of the officials and the verbal dexterity of the Finance Minister have combined into a sentence that very cleverly draws a curtain over that figure of 16,000. For hiding it so cleverly, perhaps we should offer our congratulations; but when I ask where the 16,000 fair-price shops are, I find myself unable to congratulate you.
 
-When the Finance Minister refers in his statement to the financial resources of our State, he has pressed the demand that because prohibition is being implemented today, we lose Rs.140 crore a year and the Central Government should provide that amount. This is not a demand of today or yesterday. It has been pressed since the time when Arignar Anna held office as Chief Minister and continues to be pressed now. The demand that Rs.140 crore should be given as compensation to a State implementing prohibition is a just one. On that demand the Dravida Munnetra Kazhagam too is prepared to lend its voice in support of this Government—
+When the Finance Minister refers in his statement to the financial resources of our State, he has pressed the demand that because prohibition is being implemented today, we lose Rs.140 crore a year and the Central Government should provide that amount. This is not a demand of today or yesterday. It has been pressed since the time when Arignar Anna held office as Chief Minister and continues to be pressed now. The demand that Rs.140 crore should be given as compensation, as recompense, to a State implementing prohibition is a just one. On that demand the Dravida Munnetra Kazhagam too is prepared to lend its voice in support of this Government—
 
 ### Source page 371
 
@@ -182,7 +184,7 @@ Mr Marimuthu, leader of the Congress party, said that they did not support State
 
 Our friend M.G.R., who is now Chief Minister, said in many meetings when he was in the Opposition: “What we want is not State autonomy; it is people's autonomy.” We did not understand what that meant. I think he will make us understand when the time comes.
 
-But to those who say that the Dravida Munnetra Kazhagam's demand for State autonomy was indirectly separatist in spirit, I wish to read an article written, as though driving in a peg and hammering in a nail, by my dear friend Manoharan in his mellifluous Tamil. It was written in the *Thennagam* newspaper and published under the title “Political Waves.” I remember that I published it. What was that article, and what did he write in it?
+But to those who say that the Dravida Munnetra Kazhagam's demand for State autonomy was indirectly separatist in spirit, I wish to read an article written, as though driving in a wedge and hammering home a nail, by my dear friend Manoharan in his mellifluous Tamil. It was written in the *Thennagam* newspaper and published under the title “Political Waves.” I remember that I published it. What was that article, and what did he write in it?
 
 “Most of the speakers at the D.M.K. district conference held at Rajapalayam stressed the demand for State autonomy. Certain newspapers have carried malicious propaganda that they said that, if this demand were not accepted, they would revive the old objective, ‘Dravida Nadu for Dravidians.’ (If anyone says such a thing today, the verdict of today's Finance Minister, given then, is that it is malicious propaganda....)
 
@@ -199,7 +201,7 @@ But to those who say that the Dravida Munnetra Kazhagam's demand for State auton
 
 ### Source page 376
 
-[These are words that apply to him too—to friend Manoharan.] “People confused in thought and practitioners of sophistry have begun to form a united front. Some of the very all-India parties which in the past said, ‘We will fight for State autonomy; we will carry on the struggle tirelessly so long as there is a drop of blood in our bodies,’ are now wavering and giving contradictory, conflicting explanations from State to State on the policy of autonomy.” After saying all this, he wrote: “If, even after so clear an explanation, anyone hesitates to accept the truth, I consider it a symptom of a kind of illness.”
+[These are his own words—friend Manoharan’s.] “People confused in thought and practitioners of sophistry have begun to form a united front. Some of the very all-India parties which in the past said, ‘We will fight for State autonomy; we will carry on the struggle tirelessly so long as there is a drop of blood in our bodies,’ are now wavering and giving contradictory, conflicting explanations from State to State on the policy of autonomy.” After saying all this, he wrote: “If, even after so clear an explanation, anyone hesitates to accept the truth, I consider it a symptom of a kind of illness.”
 
 These are the electric words of our Finance Minister Manoharan, whom I admire. I have only cited here what he wrote in the *Thennagam* newspaper at that time. I may have praised him then and changed today. Likewise, he may have praised me then and changed today. Likewise, today I may attack him on a platform and he may attack me on platforms. That is a different kind of matter. But what I cannot understand is why, after my dear friend Finance Minister Manoharan placed such firm and forceful views then on a policy that he and I had accepted together, there should now be a departure from that path.
 
@@ -271,7 +273,7 @@ Proceedings of the Commissioner, Bargur Panchayat Union. Present: Mr R. Devaraja
 
 Order: In accordance with the order of the District Educational Officer cited in the reference, transfers are ordered as follows. They should be relieved immediately and join the new schools. The headmasters concerned should immediately submit reports of relief and joining. Teacher: Periya Thambi, Secondary Grade Assistant Teacher, Karadikollapatti; school to which transferred: Panchayat Union Elementary School, K. Pudur. In place of serial No.2, teacher A. Sivanandam, Secondary Grade Teacher, K. Pudur; school to which transferred: Panchayat Union Elementary School, Karadikollapatti. In place of serial No.1. Signed, Devarajan.
 
-Thus it is explicitly stated that the transfer was made on an MLA's recommendation. I have a copy of this with me. If you require it, if you wish to conduct an inquiry, I am ready to give you a copy of the letter. It is repeatedly said, and loudly proclaimed, that no action is taken with a party outlook.
+Thus, because someone was not to an MLA's liking, it is explicitly stated that the transfer was made on the MLA's recommendation. I have a copy of this with me. If you require it, if you wish to conduct an inquiry, I am ready to give you a copy of the letter. It is repeatedly said, and loudly proclaimed, that no action is taken with a party outlook.
 
 An order was issued to constitute a people's committee. G.O. No.3-1025/78, dated 28-1-1978, Aravakurichi Panchayat Union. From M. Chidambaram, D.S.C., Commissioner, Panchayat Union, Aravakurichi—
 
@@ -363,7 +365,7 @@ I read—or heard—that the Chief Minister had issued a strict order that if Mi
 
 ### Source page 387
 
-—and I was genuinely pleased. This is not even a cinema theatre; not even a cinema theatre belonging to the Chief Minister's own field. A Minister's mother goes to the horse races, which the Chief Minister, I and Perarignar Anna all dislike; and she goes in a Government car. There are photographs. I shall give them to the Finance Minister. Giving these does not mean there are no other photographs. I therefore give these photographs to the Finance Minister. The number of the car is there. I give that photograph. This photograph—she goes and buys a ticket; I give that too. This one—she gets out of the car; I give that too. This one—she goes to the place where tickets are bought; I give that too. A security officer goes with her; I give that too. I give all these photographs.
+—and I was genuinely pleased. This is not even a cinema theatre—not even a cinema theatre in the Chief Minister's own field. A Minister's mother goes to the horse races, which the Chief Minister, I and Perarignar Anna all dislike; and she goes in a Government car. There are photographs. I shall give them to the Finance Minister. Giving these does not mean there are no other photographs. I therefore give these photographs to the Finance Minister. The number of the car is there. I give that photograph. This photograph—she goes and buys a ticket; I give that too. This one—she gets out of the car; I give that too. This one—she goes to the place where tickets are bought; I give that too. A security officer goes with her; I give that too. I give all these photographs.
 
 **Hon. Mr K. Manoharan:** I am pleased that, despite having so much work, the Leader of the Opposition takes an interest in this too.
 

@@ -305,8 +305,27 @@ Gate-E Final Batch-4 correction ledger:
 - blocking translation questions — **0**
 - verified-Tamil changes — **0**
 - outside English / outside-witness wording imported — **0**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+
+## Gate G closure
+
+**PASS / COMPLETE — scans 356–388 / printed pp.355–387 / 33 of 33 English sections reviewed.**
+
+- review authority — **Gate-E-verified Tamil only**
+- English source-page sections — **356→388 / 33 / exactly once / ordered**
+- refinements — **9**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- outside English / outside-witness wording imported — **0**
+- page-boundary continuations — **PASS**
+- speaker labels / intervention — **PASS**
+- figures, dates, amounts and numerals — **PASS**
+- source-visible repetition / humour / irony / direct address — **PASS after recorded refinements**
+- source-printed English on scans **368 and 384** — **preserved verbatim**
+- refinement ledger — **translation-review.md**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 
 ## Downstream state
 
@@ -316,10 +335,10 @@ Gate-E Final Batch-4 correction ledger:
 - Gate E — **PASS / COMPLETE**
 - Tamil — **VERIFIED / verified_against_scan=true**
 - Gate F — **COMPLETE / 33 of 33**
-- Gate G — **READY / NOT STARTED**
-- Gate H — **NOT STARTED / NOT RELEASED**
+- Gate G — **PASS / COMPLETE / 33 of 33 / 9 refinements / 0 blockers / 0 Tamil changes**
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
 - Speech 17 — **NOT STARTED**
 
 ## Exact next activity
 
-Begin **Gate G — English fidelity and voice review against the Gate-E-verified Tamil**.
+Begin **Gate H — canonical bilingual merge / release closure**.

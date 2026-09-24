@@ -786,7 +786,7 @@ Final-Batch refinements are recorded in `translation-review.md` on pages **313, 
 - Gate-H wording changes — **0 Tamil / 0 English**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 16 — **Gate C COMPLETE / 33 of 33 / Tamil NOT VERIFIED / Gate C.5 READY**
+- Speech 16 — **Gate G PASS / COMPLETE / 33 of 33 / 9 refinements / English VERIFIED AGAINST TAMIL / Gate H READY**
 
 ## Speech 16 current state
 
@@ -798,17 +798,35 @@ Canonical entry:
 - scans — **356–388 / printed pp.355–387 / 33 pages**
 - Gates C–E — **COMPLETE / Tamil VERIFIED**
 - Gate E — **24 corrections / 0 unresolved**
+- Tamil — **VERIFIED / verified_against_scan=true**
 - Gate F — **COMPLETE / 33 of 33**
 - Gate-F batches — **356–375 / 20 pages; 376–388 / 13 pages**
 - English source-page sections — **356→388 / exactly once / ordered**
-- blocking translation questions — **0**
+- Gate G — **PASS / COMPLETE / 33 of 33**
+- Gate-G refinements — **9**
+- Gate-G blockers — **0**
 - verified-Tamil changes — **0**
+- source-printed-English changes — **0**
 - outside English imported — **0**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
-- Gate G — **READY / NOT STARTED**
-- Gate H — **NOT STARTED / NOT RELEASED**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
 - Speech 17 — **NOT STARTED**
 
-## Exact next activity — Speech 16 Gate G
+## Gate G closure — Speech 16
 
-Review all **33 English source-page sections 356–388** against the verified Tamil for fidelity, parliamentary voice, rhetorical structure, repetitions, figures, names/initials, speaker labels/interventions and source-printed English. Record refinements and blockers. Do not alter verified Tamil. Do not begin Gate H or Speech 17 in the same activity.
+- review authority — **Gate-E-verified Tamil only**
+- reviewed scans — **356–388 / printed pp.355–387 / 33 pages**
+- source-page sequence — **356→388 / 33 / exactly once / ordered**
+- refinements — **9**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- source-printed English on scans **368 and 384** — **preserved verbatim**
+- outside wording imported from web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- detailed refinement ledger — `speeches/1978/1978-03-01-financial-statement-debate/translation-review.md`
+
+## Exact next activity — Speech 16 Gate H
+
+Perform **canonical bilingual merge / release closure** using only the already verified Tamil and Gate-G-verified English.
+
+Do not begin Speech 17 in the same activity.

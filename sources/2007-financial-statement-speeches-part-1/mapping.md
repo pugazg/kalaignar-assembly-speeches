@@ -341,8 +341,8 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - Gate-H wording changes — **0 Tamil / 0 English**
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
-- Speech 16 — **Gate F COMPLETE / 33 of 33 / English TRANSLATED-NOT-VERIFIED / Gate G READY**
+- Speech 16 — **Gate G PASS / COMPLETE / 33 of 33 / 9 refinements / 0 blockers / English VERIFIED AGAINST TAMIL / Gate H READY**
 
 ## Exact continuation
 
-Continue **Speech 16 Gate G — English fidelity and voice review against verified Tamil**. Gate F is **COMPLETE / 33 of 33 / 0 blockers / 0 Tamil changes**; English is **NOT YET VERIFIED AGAINST TAMIL**.
+Continue **Speech 16 Gate H — canonical bilingual merge / release closure**. Tamil is **VERIFIED / verified_against_scan=true** and English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**. Do not begin Speech 17 in the same activity.

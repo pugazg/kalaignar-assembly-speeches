@@ -163,9 +163,25 @@ Final corrections:
 - blocking questions — **0**
 - verified-Tamil changes — **0**
 - outside English imported — **0**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+
+## Gate G
+
+**PASS / COMPLETE — 33/33 English source-page sections reviewed.**
+
+- reviewed scans — **356–388**
+- refinements — **9**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-page boundaries — **preserved**
+- source-printed English on scans **368 and 384** — **preserved verbatim**
+- refinement ledger — `translation-review.md`
 
 ## Exact next
 
-**Gate G — English fidelity and voice review against verified Tamil.**
+**Gate H — canonical bilingual merge / release closure.**
+
+Gate H is **READY / NOT STARTED**. Speech 17 is **NOT STARTED**.

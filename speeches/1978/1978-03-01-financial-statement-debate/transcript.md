@@ -2,7 +2,7 @@
 
 ## உரை : 16 — நாள் : 1.3.1978
 
-> **Gate state:** Gates C–E are **COMPLETE**; Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **COMPLETE — scans 356–388 / 33 of 33 English source-page sections translated / 0 blockers / 0 Tamil changes**. English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL** with `verified_against_tamil=false`. Gate G is **READY / NOT STARTED**. Gate H is **NOT STARTED / NOT RELEASED**. Exact next: **Gate G — English fidelity and voice review against verified Tamil**.
+> **Gate state:** Gates C–E are **COMPLETE**; Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **COMPLETE — scans 356–388 / 33 of 33 English source-page sections translated / 0 blockers / 0 Tamil changes**. Gate G is **PASS / COMPLETE — scans 356–388 / 33 of 33 reviewed / 9 refinements / 0 blockers / 0 Tamil changes**. English is **VERIFIED AGAINST TAMIL** with `verified_against_tamil=true`. Gate H is **READY / NOT STARTED / NOT RELEASED**. Exact next: **Gate H — canonical bilingual merge / release closure**.
 
 <!-- source-page: 356 -->
 

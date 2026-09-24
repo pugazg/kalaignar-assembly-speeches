@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 16 Gate G review
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 16 Gate H canonical bilingual merge / release closure
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,31 +18,31 @@ Working entry:
 - Tamil — **VERIFIED / verified_against_scan=true**
 - Gate-E corrections — **24 / 0 unresolved**
 - Gate F — **COMPLETE / 33 of 33**
-- Gate-F Batch 1 — **356–375 / 20 pages**
-- Gate-F Batch 2 — **376–388 / 13 pages**
-- English sections — **356→388 / 33 / exactly once / ordered**
-- blocking translation questions — **0**
+- English source-page sections — **356→388 / 33 / exactly once / ordered**
+- Gate G — **PASS / COMPLETE / 33 of 33**
+- Gate-G refinements — **9**
+- Gate-G blockers — **0**
 - verified-Tamil changes — **0**
+- source-printed-English changes — **0**
 - outside English imported — **0**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
-- `verified_against_tamil=false`
-- Gate G — **READY / NOT STARTED**
-- Gate H — **NOT STARTED / NOT RELEASED**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
 - Speech 17 — **NOT STARTED**
 
 ## Exact next activity
 
-Perform **Speech 16 Gate G — English fidelity and voice review against the Gate-E-verified Tamil**.
+Perform **Speech 16 Gate H — canonical bilingual merge / release closure**.
 
 Requirements:
 
-1. review all 33 English sections against their corresponding verified Tamil source-page sections;
-2. do not alter verified Tamil;
-3. refine only where needed for fidelity, voice, rhetorical sequence, direct address, humour/irony, repetitions, figures, names/initials, speaker labels/interventions, source-bound wording and source-printed English;
-4. preserve page boundaries 356→388;
-5. record every Gate-G refinement and any blocker;
-6. import no wording from web, Official Reports, alternate anthologies, released speeches or other witnesses;
-7. keep Gate H NOT STARTED until Gate G passes;
-8. synchronize Speech-16 and anthology controls after the review;
-9. if Gate G passes, set English **VERIFIED AGAINST TAMIL / verified_against_tamil=true** and advance exact next to **Gate H canonical bilingual merge / release closure**;
-10. do not begin Gate H or Speech 17 in this same activity.
+1. merge the already verified Tamil and Gate-G-verified English into the canonical bilingual `transcript.md`;
+2. preserve Tamil source-page markers **356→388** and English source-page sections **356→388**, each exactly once and ordered;
+3. do not alter verified Tamil or Gate-G-verified English merely for polishing;
+4. preserve source-page boundaries, speaker labels/intervention, figures, repetitions, source-bound oddities and source-printed English;
+5. retire `translation.md` to the standard released pointer only after the canonical bilingual record passes;
+6. record any Gate-H wording change explicitly; expected wording changes are **0 Tamil / 0 English**;
+7. synchronize Speech-16 controls, anthology controls, root dated speech table and `data/speeches.json` if the unique-date indexing checks pass;
+8. set Speech 16 **RELEASED / CLOSED** only after all Gate-H checks pass;
+9. advance exact next to **Speech 17 source-boundary + Gate-C setup** only after Speech 16 release closure;
+10. do not begin Speech 17 in the same activity.

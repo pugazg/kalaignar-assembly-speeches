@@ -81,7 +81,9 @@
     "final_remainder_may_be_under_10": true,
     "current_gate_c_batch": "386-388 / 3 pages FINAL / COMPLETE",
     "next_gate_c_batch": null,
-    "next_activity": "Gate G English fidelity and voice review against verified Tamil"
+    "next_activity": "Gate H canonical bilingual merge / release closure",
+    "current_gate_g_batch": "356-388 / 33 pages / COMPLETE / 9 refinements",
+    "next_gate_g_batch": null
   },
   "transcription": {
     "language": "Tamil",
@@ -152,12 +154,12 @@
   },
   "translation": {
     "language": "English",
-    "status": "translated-not-verified",
+    "status": "verified",
     "gate_f_status": "complete",
-    "gate_g_status": "ready-not-started",
-    "verified_against_tamil": false,
+    "gate_g_status": "pass-complete",
+    "verified_against_tamil": true,
     "source_text": "Gate-E-verified Tamil in transcript.md",
-    "next_gate": "Gate G English fidelity and voice review",
+    "next_gate": "Gate H canonical bilingual merge / release closure",
     "translated_scans": "356-388",
     "translated_printed_pages": "355-387",
     "translated_page_count": 33,
@@ -184,6 +186,30 @@
       "outside_english_imported": false,
       "source_printed_english_preserved": true,
       "source_page_markers_preserved": true
+    },
+    "gate_g_reviewed_scans": "356-388",
+    "gate_g_reviewed_page_count": 33,
+    "gate_g_refinement_count": 9,
+    "gate_g_blocking_issue_count": 0,
+    "gate_g_verified_tamil_changes": 0,
+    "gate_g_source_printed_english_changes": 0,
+    "gate_g_outside_english_imported": false,
+    "gate_g": {
+      "status": "pass-complete",
+      "reviewed_source_pages": "356-388",
+      "reviewed_page_count": 33,
+      "batch_count": 1,
+      "batches": [
+        "356-388 / 33 pages / 9 refinements"
+      ],
+      "refinement_count": 9,
+      "blocking_issue_count": 0,
+      "verified_tamil_changes": 0,
+      "source_printed_english_changes": 0,
+      "outside_english_imported": false,
+      "source_page_markers_preserved": true,
+      "verified_against_tamil": true,
+      "note": "English fidelity and voice review complete against Gate-E-verified Tamil only; no outside witness supplied wording."
     }
   },
   "release": {
@@ -191,7 +217,7 @@
     "released": false,
     "release_ready": false,
     "indexed": false,
-    "gate_h_status": "not-started",
+    "gate_h_status": "ready-not-started",
     "canonical_bilingual_transcript": false
   }
 }
