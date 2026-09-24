@@ -53,9 +53,9 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 
 ## Gate state
 
-- Gate C — **IN PROGRESS — Batch 1 COMPLETE / scans 389–398 / 10 of 93**
+- Gate C — **IN PROGRESS — Batch 2 COMPLETE / scans 389–408 / 20 of 93**
 - first-pass unresolved readings — **0**
-- source markers present — **389→398 / 10 / exactly once / ordered**
+- source markers present — **389→408 / 20 / exactly once / ordered**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate C.5 — **NOT STARTED**
@@ -66,7 +66,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate H — **NOT STARTED / NOT RELEASED**
 - outside wording imported — **0**
 
-Source-visible first-pass forms retained rather than normalized include scan 389 **`196667ஆம்`**, scan 395 **`ஏட்டுச் சித்திரங்களாக`**, and scan 398 **`அன்னியில்`**.
+Source-visible first-pass forms retained rather than normalized include scan 389 **`196667ஆம்`**, scan 395 **`ஏட்டுச் சித்திரங்களாக`**, scan 398 **`அன்னியில்`**, scan 400 **`18ந்தேதி`**, scan 402 **`மூன்றாவது புதிய குழுவின்`**, and the source-printed English proceedings block on scan 404. The source also prints the speaker-name form **`செளந்திரராசன்`** on scan 407; it is retained as printed.
 
 ## Fixed Gate-C / Gate-E iteration rule
 
@@ -76,6 +76,6 @@ Source-visible first-pass forms retained rather than normalized include scan 389
 
 ## Exact next activity
 
-**Gate C Batch 2 — scans 399–408 / printed pp.398–407 / exactly 10 pages.**
+**Gate C Batch 3 — scans 409–418 / printed pp.408–417 / exactly 10 pages.**
 
-Do not begin Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 18.
+Do not begin Batch 4, Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 18.

@@ -37,9 +37,29 @@ Source-visible forms intentionally retained for later Gate-E fidelity verificati
 - scan 395 — `ஏட்டுச் சித்திரங்களாக`
 - scan 398 — `அன்னியில்`
 
+## Gate C Batch 2
+
+**COMPLETE — scans 399–408 / 10 pages; cumulative 20 of 93.**
+
+Checks:
+
+- source-page markers **399→408** — **10/10 / exactly once / ordered**
+- cumulative source-page markers **389→408** — **20/20 / exactly once / ordered**
+- controlling source — **part016 local 24–25 + part017 local 1–8**
+- first-pass unresolved readings — **0**
+- source-printed English on scan 404 — **preserved**
+- outside wording imported — **0**
+- OCR wording imported — **0**
+- web wording imported — **0**
+- Official Report / alternate anthology wording imported — **0**
+- verified against scan — **false; Gate C is first-pass transcription, not verification**
+- scans 409–481 — **untouched**
+
+Source-visible forms intentionally retained for later Gate-E fidelity verification include scan 400 `18ந்தேதி`, scan 402 `மூன்றாவது புதிய குழுவின்`, and scan 407 `செளந்திரராசன்`.
+
 ## Downstream state
 
-- Gate C — **IN PROGRESS / 10 of 93**
+- Gate C — **IN PROGRESS / 20 of 93**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
@@ -50,4 +70,4 @@ Source-visible forms intentionally retained for later Gate-E fidelity verificati
 
 ## Exact next activity
 
-**Speech 17 Gate C Batch 2 — scans 399–408 / printed pp.398–407 / exactly 10 pages.**
+**Speech 17 Gate C Batch 3 — scans 409–418 / printed pp.408–417 / exactly 10 pages.**

@@ -69,6 +69,22 @@ The printed combined heading controls. No internal date boundary is inferred fro
 
 Conservative first-pass preservation includes source-visible scan-389 `196667ஆம்`, scan-395 `ஏட்டுச் சித்திரங்களாக`, and scan-398 `அன்னியில்`; none was silently normalized.
 
+## Gate C Batch 2
+
+**COMPLETE — scans 399–408 / printed pp.398–407 / exactly 10 pages.**
+
+- controlling local pages — **part016 local 24–25 + part017 local 1–8**
+- markers — **399→408 / exactly once / ordered**
+- cumulative markers — **389→408 / 20/20 / exactly once / ordered**
+- unresolved readings — **0 currently flagged**
+- transcription source — **rendered pixels only**
+- source-printed English on scan 404 — **preserved**
+- outside wording imported — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- pages 409–481 modified — **0**
+
+Conservative first-pass preservation includes scan-400 `18ந்தேதி`, scan-402 `மூன்றாவது புதிய குழுவின்`, the scan-404 printed English proceedings block, and scan-407 speaker-name form `செளந்திரராசன்`.
+
 ## Exact next
 
-**Gate C Batch 2 — scans 399–408 / exactly 10 pages.**
+**Gate C Batch 3 — scans 409–418 / exactly 10 pages.**
