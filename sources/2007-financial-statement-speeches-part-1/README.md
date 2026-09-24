@@ -541,18 +541,17 @@ Working entry:
 - Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E Batch 1 — **PASS / 356–365 / 11 corrections**
-- Gate E Batch 2 — **PASS / 366–375 / 1 correction**
-- Gate E Batch 3 — **PASS / 376–385 / 10 corrections**
-- cumulative Gate E — **30 of 33 / 22 corrections**
-- cumulative affected scans — **12**
-- unresolved Gate-E readings — **0**
-- Tamil — **NOT VERIFIED / verified_against_scan=false**
-- Gate F / G / H — **NOT STARTED**
+- Gate E — **PASS / COMPLETE / 33 of 33**
+- Gate-E corrections — **24 entries / 24 occurrences**
+- affected scans — **14**
+- unresolved — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate F — **READY / NOT STARTED**
+- Gate G / H — **NOT STARTED**
 - outside wording imported — **0**
 
 ## Exact next activity
 
-**Speech 16 Gate E Final Batch 4 — scans 386–388 / printed pp.385–387 / final 3 pages.**
+Begin **Speech 16 Gate F — English translation from verified Tamil only**.
 
-Do not begin Gate F, Gate G, Gate H or Speech 17.
+Do not alter verified Tamil. Do not begin Gate G, Gate H or Speech 17 in the same activity.
