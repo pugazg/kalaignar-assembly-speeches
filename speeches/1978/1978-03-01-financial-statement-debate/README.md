@@ -70,25 +70,28 @@ Source-visible oddities retained in first pass include scan 362 `183,85`, scan 3
 - split continuation **375→376** — **PASS**
 - Gate-D completeness corrections — **0**
 
-## Gate E state
+## Gate E closure
 
-**IN PROGRESS — Batches 1–3 PASS / scans 356–385 / printed pp.355–384 / 30 of 33.**
+**PASS / COMPLETE — scans 356–388 / printed pp.355–387 / 33 of 33 source-verified.**
 
 - Batch 1 — **356–365 / 10 pages / 11 corrections**
 - Batch 2 — **366–375 / 10 pages / 1 correction**
 - Batch 3 — **376–385 / 10 pages / 10 corrections**
-- cumulative corrections — **22 entries / 22 occurrences**
-- cumulative affected scans — **12**
-- Batch-3 affected scans — **5 — 377, 379, 380, 381, 382**
+- Final Batch 4 — **386–388 / 3 pages / 2 corrections**
+- cumulative corrections — **24 entries / 24 occurrences**
+- cumulative affected scans — **14 / 33**
 - unresolved Gate-E readings — **0**
-- scans 386–388 modified during Batch 3 — **0**
+- final scan 388 close through `வணக்கம்.` and source ornament — **PASS**
 - outside wording imported — **0**
-- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- Tamil — **VERIFIED / verified_against_scan=true**
 
-See `verification-log.md` for the correction ledger.
+Final Batch-4 corrections:
+
+1. scan 386 — `நீங்கள் ஏன் வர வேண்டும்.` → `நீங்கள் ஏன் வரவேண்டும்.`
+2. scan 387 — `நாங்கள் செய்ய வேண்டாமா?` → `நாங்கள் செய்யவேண்டாமா?`
 
 ## Exact next activity
 
-**Gate E Final Batch 4 — scans 386–388 / printed pp.385–387 / final 3 pages.**
+Begin **Gate F — English translation from the verified Tamil only**.
 
-Do not begin Gate F, Gate G, Gate H or Speech 17.
+Do not alter verified Tamil. Do not begin Gate G, Gate H or Speech 17 in the same activity.
