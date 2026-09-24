@@ -90,8 +90,27 @@ Final Batch-4 corrections:
 1. scan 386 — `நீங்கள் ஏன் வர வேண்டும்.` → `நீங்கள் ஏன் வரவேண்டும்.`
 2. scan 387 — `நாங்கள் செய்ய வேண்டாமா?` → `நாங்கள் செய்யவேண்டாமா?`
 
+## Gate F result
+
+**COMPLETE — scans 356–388 / 33 of 33 pages translated.**
+
+- Batch 1 — **356–375 / 20 pages**
+- Batch 2 — **376–388 / 13 pages**
+- English source-page sections — **356→388 / 33 / exactly once / ordered**
+- translation authority — **Gate-E-verified Tamil only**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-page boundaries — **preserved**
+- source-printed English on scans 368 and 384 — **preserved**
+- speaker labels/intervention — **preserved**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+
+Working translation: [`translation.md`](./translation.md)
+
 ## Exact next activity
 
-Begin **Gate F — English translation from the verified Tamil only**.
+Begin **Gate G — English fidelity and voice review against the verified Tamil**.
 
-Do not alter verified Tamil. Do not begin Gate G, Gate H or Speech 17 in the same activity.
+Do not alter verified Tamil. Do not begin Gate H or Speech 17 in the same activity.
