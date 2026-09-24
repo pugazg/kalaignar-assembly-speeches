@@ -116,36 +116,41 @@ Conservative first-pass preservation includes scan 386 the printed `(ஒப்�
 
 ## Gate E Batch 1
 
-**PASS / COMPLETE — scans 356–365 / 10 pages / 11 corrections.**
+**PASS — scans 356–365 / 11 corrections.**
 
 ## Gate E Batch 2
 
-**PASS / COMPLETE — scans 366–375 / 10 pages / 1 correction.**
+**PASS — scans 366–375 / 1 correction.**
 
 ## Gate E Batch 3
 
-**PASS / COMPLETE — scans 376–385 / printed pp.375–384 / exactly 10 pages.**
+**PASS — scans 376–385 / 10 corrections.**
 
-- controlling local pages — **part016 local 1–10**
-- source authority — **rendered controlling pixels only**
-- correction ledger — **10 entries / 10 occurrences**
-- affected scans — **5 — 377, 379, 380, 381, 382**
+## Gate E Final Batch 4
+
+**PASS / COMPLETE — scans 386–388 / printed pp.385–387 / final 3 pages.**
+
+- controlling local pages — **part016 local 11–13**
+- corrections — **2 entries / 2 occurrences**
+- affected scans — **386, 387**
 - unresolved readings — **0**
-- scans 386–388 modified — **0**
-- source-printed English on scan 384 — **preserved**
+- final close through `வணக்கம்.` and source ornament — **PASS**
 - outside wording imported — **0**
-- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- Tamil — **VERIFIED / verified_against_scan=true**
 
-Batch-3 corrections include source punctuation on scan 377, `எட்மண்ட்` / `முதலிலே` on scan 377, `கேட்டுக் கொள்வதெல்லாம்` / `கூடப் பேசினார்கள்` on scan 379, source forms `கவலைப்பட்டவேண்டாம்` and `டிக்கட்` on scan 380, `இயலவில்லை யென` / `டிக்கெட்டூடத்` on scan 381, and `எந்த காரியமும்` on scan 382.
+Final corrections:
 
-## Gate E cumulative state
+1. scan 386 — `வர வேண்டும்` → `வரவேண்டும்`
+2. scan 387 — `செய்ய வேண்டாமா` → `செய்யவேண்டாமா`
 
-- verified scans — **356–385 / 30 of 33**
-- cumulative corrections — **22 entries / 22 occurrences**
-- cumulative affected scans — **12**
+## Gate E closure
+
+- verified scans — **356–388 / 33 of 33**
+- cumulative corrections — **24**
+- cumulative affected scans — **14**
 - unresolved — **0**
-- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- Tamil — **VERIFIED**
 
 ## Exact next
 
-**Gate E Final Batch 4 — scans 386–388 / final 3 pages.**
+**Gate F — English translation from verified Tamil only.**
