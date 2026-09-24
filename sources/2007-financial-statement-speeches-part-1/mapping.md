@@ -66,7 +66,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 14 | `10.03.1975` | 1975-03-10 | 263–319 | 262–318 | `1975-03-10-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 15 | `03.08.1977` | 1977-08-03 | 320–355 | 319–354 | `1977-08-03-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 16 | `1.3.1978` | 1978-03-01 | 356–388 | 355–387 | `1978-03-01-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
-| 17 | `22 & 23.3.1979` | **multi-date source unit: 1979-03-22 and 1979-03-23** | 389–481 | 388–480 | **canonicalization HOLD** — do not force to one date until internal date-boundary evidence/policy is resolved |
+| 17 | `22 & 23.3.1979` | **multi-date source unit: 1979-03-22 and 1979-03-23; no explicit internal date divider found** | 389–481 | 388–480 | `1979-03-22-and-23-financial-statement-debate`; **Gate C IN PROGRESS / Batch 1 COMPLETE / scans 389–398 / 10 of 93 / Tamil NOT VERIFIED; no single canonical date assigned** |
 | 18 | `09.07.1980` | 1980-07-09 | 482–510 | 481–509 | `1980-07-09-financial-statement-debate` |
 | 19 | `06.03.1982` | 1982-03-06 | 511–545 | 510–544 | `1982-03-06-financial-statement-debate` |
 
@@ -122,7 +122,7 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–16 COMPLETE; speeches 17–19 not started**
+- Gate C — **Speeches 1–16 COMPLETE; Speech 17 IN PROGRESS / 10 of 93; speeches 18–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–16**
 - Gate D — **Speeches 1–16 PASS / COMPLETE**
 - Gate E — **Speeches 1–16 PASS / COMPLETE / Tamil VERIFIED; speeches 17–19 not started**
@@ -342,8 +342,8 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / canonical bilingual complete / indexed**
-- Speech 17 — **NOT STARTED / multi-date source unit / canonicalization HOLD**
+- Speech 17 — **Gate C IN PROGRESS / Batch 1 COMPLETE / 10 of 93 / multi-date source unit / no single canonical date assigned**
 
 ## Exact continuation
 
-Begin **Speech 17 source-boundary + Gate-C setup — scans 389–481 / printed pp.388–480 / `22 & 23.3.1979`**. Resolve internal date-boundary evidence/policy before assigning one canonical date; then respect the fixed Gate-C cadence of **10 source pages per iteration**.
+Continue **Speech 17 Gate C Batch 2 — scans 399–408 / printed pp.398–407 / exactly 10 pages**. The complete 389–481 visual review found no explicit internal date divider; preserve the one-unit multi-date policy and do not assign a single canonical date.

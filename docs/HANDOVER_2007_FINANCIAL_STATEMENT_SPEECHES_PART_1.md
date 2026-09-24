@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 16 / 1.3.1978 = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–16 are released**. Speech 17 / `22 & 23.3.1979` is **NOT STARTED** and remains a **multi-date source unit** pending source-bound date-policy resolution.
+Latest released unit: Speech 16 / 1.3.1978 = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–16 are released**. Speech 17 / `22 & 23.3.1979` is active: source boundaries and multi-date policy are locked; Gate C Batch 1 is **COMPLETE / scans 389–398 / 10 of 93**.
 
 ## Existing-source overlaps
 
@@ -92,7 +92,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–16 COMPLETE; speeches 17–19 not started**
+- Gate C — **Speeches 1–16 COMPLETE; Speech 17 IN PROGRESS / 10 of 93; speeches 18–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–16**
 - Gate D — **PASS / COMPLETE for Speeches 1–16**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–16; speeches 17–19 not started**
@@ -104,7 +104,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
-- Speech 17 — **NOT STARTED / multi-date source unit / canonicalization HOLD**
+- Speech 17 — **Gate C IN PROGRESS / Batch 1 COMPLETE / scans 389–398 / 10 of 93 / multi-date source unit / no single canonical date assigned**
 - speeches 18–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
@@ -812,17 +812,31 @@ Canonical entry:
 - `data/speeches.json` / root dated table — **indexed**
 - outside wording imported — **0**
 
-## Speech 17 current state
+## Speech 17 active state
+
+Working entry:
+
+`speeches/1979/1979-03-22-and-23-financial-statement-debate/`
 
 - source label/date — **உரை : 17 / 22 & 23.3.1979**
 - scans — **389–481 / printed pp.388–480 / 93 pages**
-- source-date status — **multi-date source unit: 1979-03-22 and 1979-03-23**
-- canonicalization — **HOLD: do not force one date before internal date-boundary evidence/policy is resolved**
-- Gate C — **NOT STARTED**
+- incoming boundary **388→389 — PASS**
+- outgoing boundary **481→482 — PASS**
+- full-range internal date-divider review — **COMPLETE / no explicit divider found**
+- source-date treatment — **one continuous multi-date unit**
+- canonical single date — **NOT ASSIGNED**
+- page-level 22/23 March split — **NOT ASSIGNED**
+- Gate C Batch 1 — **COMPLETE / scans 389–398 / 10 pages**
+- markers — **389→398 / exactly once / ordered**
+- unresolved first-pass readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- source-visible forms retained — **scan 389 `196667ஆம்`; scan 395 `ஏட்டுச் சித்திரங்களாக`; scan 398 `அன்னியில்`**
 - Gates C.5–H — **NOT STARTED**
+- Speech 18 — **NOT STARTED**
+- outside wording imported — **0**
 
-## Exact next activity — Speech 17 source-boundary + Gate-C setup
+## Exact next activity — Speech 17 Gate C Batch 2
 
-Reconfirm the **388→389** incoming boundary and the **481→482** outgoing boundary from the controlling anthology, then determine the internal evidence for the two printed dates **22 & 23.3.1979** before choosing any canonical date treatment.
+Process **scans 399–408 / printed pp.398–407 / exactly 10 pages** from the controlling anthology pixels only.
 
-Once Gate C transcription begins, process **10 source pages per iteration**; only the final remainder may contain fewer than 10 pages. Do not import wording from OCR, web, Official Reports, alternate anthologies or other witnesses.
+Preserve the fixed Gate-C cadence of **10 source pages per iteration**. Keep the multi-date source-unit policy unchanged unless an explicit source marker is discovered. Do not import wording from OCR, web, Official Reports, alternate anthologies, released speeches or other witnesses. Do not begin Batch 3, Gate C.5 or Speech 18 in the same activity.

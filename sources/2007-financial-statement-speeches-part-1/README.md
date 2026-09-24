@@ -552,15 +552,29 @@ Working entry:
 - `data/speeches.json` / root dated table — **indexed**
 - outside wording imported — **0**
 
-## Speech 17 current state
+## Speech 17 active state
+
+Working entry:
+
+[`../../speeches/1979/1979-03-22-and-23-financial-statement-debate/`](../../speeches/1979/1979-03-22-and-23-financial-statement-debate/)
 
 - source label/date — **உரை : 17 / 22 & 23.3.1979**
 - mapped unit — **scans 389–481 / printed pp.388–480 / 93 pages**
-- date status — **multi-date source unit: 1979-03-22 and 1979-03-23**
-- canonicalization — **HOLD pending internal date-boundary evidence/policy**
-- Gate C — **NOT STARTED**
+- incoming boundary **388→389 — PASS**
+- outgoing boundary **481→482 — PASS**
+- source date status — **one continuous multi-date source unit**
+- complete visual date-divider review — **no explicit internal divider found**
+- canonical single date — **NOT ASSIGNED**
+- page-level date split — **NOT ASSIGNED**
+- Gate C — **IN PROGRESS / Batch 1 COMPLETE / scans 389–398 / 10 of 93**
+- source markers — **389→398 / exactly once / ordered**
+- unresolved first-pass readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - Gates C.5–H — **NOT STARTED**
+- outside wording imported — **0**
 
 ## Exact next activity
 
-Begin **Speech 17 source-boundary + Gate-C setup**. Do not force the multi-date unit to one canonical date. Respect the fixed Gate-C cadence of **10 source pages per iteration** once transcription begins.
+**Speech 17 Gate C Batch 2 — scans 399–408 / printed pp.398–407 / exactly 10 pages.**
+
+Do not begin Batch 3, Gate C.5 or Speech 18 in the same activity.

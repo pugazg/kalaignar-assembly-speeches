@@ -1,0 +1,169 @@
+{
+  "id": "1979-03-22-and-23-financial-statement-debate",
+  "date": null,
+  "dates": [
+    "1979-03-22",
+    "1979-03-23"
+  ],
+  "year": 1979,
+  "date_status": "multi-date-source-unit",
+  "date_policy": {
+    "printed_label": "22 & 23.3.1979",
+    "canonical_single_date": null,
+    "explicit_internal_date_divider_found": false,
+    "internal_page_date_mapping": null,
+    "source_review_scope": "global scans 389-481 / 93 pages",
+    "note": "The anthology prints one continuous Speech 17 unit with the combined date label 22 & 23.3.1979. Full visual review found no explicit internal divider assigning pages to 22 March versus 23 March; no split or single-date canonicalization is invented."
+  },
+  "speaker": {
+    "name_ta": "மு. கருணாநிதி",
+    "name_en": "M. Karunanidhi",
+    "source_label_ta": "கலைஞர் மு. கருணாநிதி",
+    "role_ta": null,
+    "role_en": null,
+    "role_note": "The source supplies the speaker label; no historical office or role is inferred from outside knowledge."
+  },
+  "legislature": {
+    "source_context_ta": "சட்டமன்ற உரை",
+    "source_context_en": "Legislative Assembly speech"
+  },
+  "speech": {
+    "source_label_ta": "உரை : 17",
+    "printed_date": "22 & 23.3.1979",
+    "archive_subject_slug": "financial-statement-debate",
+    "archive_title_note": "Neutral archival subject label derived from the anthology title; not asserted to be an official printed legislative event title."
+  },
+  "source": {
+    "publication_title_ta": "நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)",
+    "edition_ta": "முதற்பதிப்பு",
+    "publication_date": "2007-05",
+    "publication_date_printed_ta": "மே, 2007",
+    "publisher_ta": "தமிழ்க்கனி பதிப்பகம்",
+    "publisher_location_ta": "சென்னை - 600 004",
+    "controlling_full_scan_filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf",
+    "controlling_full_scan_total_pages": 546,
+    "controlling_full_scan_file_size_bytes": 393027493,
+    "controlling_full_scan_sha256": "e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932",
+    "speech_scan_pages": "389-481",
+    "speech_printed_pages": "388-480",
+    "speech_page_count": 93,
+    "scan_printed_page_relationship": "printed page = global scan page - 1",
+    "start_boundary": "388->389 PASS / visually reconfirmed",
+    "end_boundary": "481->482 PASS / visually reconfirmed",
+    "source_unit_mapped_complete": true,
+    "source_authority": "rendered scan pixels",
+    "usable_text_layer": false,
+    "working_splits_available": [
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_016_pages_376-400.pdf",
+        "page_count": 25,
+        "file_size_bytes": 17971604,
+        "sha256": "cc1067f556825a36fd7558316df12ed09ca92e498374e9b23d1ebb7a2aa28e47",
+        "local_pages": "14-25",
+        "global_scans": "389-400",
+        "printed_pages": "388-399",
+        "speech_page_count": 12,
+        "boundary_witness": "local page 13 = global scan 388 / Speech 16 close / excluded"
+      },
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_017_pages_401-425.pdf",
+        "page_count": 25,
+        "file_size_bytes": 18221344,
+        "sha256": "c9be4f46ad5e7c17058cd4154f8558a5b2e0d978594f670100e9c7f16b9fc7ef",
+        "local_pages": "1-25",
+        "global_scans": "401-425",
+        "printed_pages": "400-424",
+        "speech_page_count": 25
+      },
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_018_pages_426-450.pdf",
+        "page_count": 25,
+        "file_size_bytes": 18041251,
+        "sha256": "0aefffda2f3840bc5f8c89ed7c36eef3cf40a01d22eba710fd0a20cc0ec40fd6",
+        "local_pages": "1-25",
+        "global_scans": "426-450",
+        "printed_pages": "425-449",
+        "speech_page_count": 25
+      },
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_019_pages_451-475.pdf",
+        "page_count": 25,
+        "file_size_bytes": 18673330,
+        "sha256": "f7c4dd6edf1de8cdaa9e95d0ab575813d0c4c065f8f7d0a06317f6d0b26299a6",
+        "local_pages": "1-25",
+        "global_scans": "451-475",
+        "printed_pages": "450-474",
+        "speech_page_count": 25
+      },
+      {
+        "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_020_pages_476-500.pdf",
+        "page_count": 25,
+        "file_size_bytes": 18623915,
+        "sha256": "74d09c34f8ee6293e91895dbcc20fe651c314fe8f89f3241585e290a8674e1df",
+        "local_pages": "1-6",
+        "global_scans": "476-481",
+        "printed_pages": "475-480",
+        "speech_page_count": 6,
+        "boundary_witness": "local page 7 = global scan 482 / Speech 18 start / excluded"
+      }
+    ],
+    "final_page_close": "scan 481 / printed page 480 closes Speech 17 with source ornament"
+  },
+  "source_separation": {
+    "other_witness_wording_allowed": false,
+    "released_material_wording_imported": false,
+    "ocr_wording_imported": false,
+    "web_wording_imported": false,
+    "official_report_wording_imported": false,
+    "alternate_anthology_wording_imported": false,
+    "safeguard": "Speech 17 transcription and verification use only controlling 2007 anthology pixels. Outside sources may not supply, repair or normalize wording."
+  },
+  "execution": {
+    "gate_c_iteration_page_limit": 10,
+    "gate_e_iteration_page_limit": 10,
+    "final_remainder_may_be_under_10": true,
+    "current_gate_c_batch": "389-398 / 10 pages / COMPLETE",
+    "next_gate_c_batch": "399-408 / 10 pages",
+    "next_activity": "Gate C Batch 2 scans 399-408 / exactly 10 pages"
+  },
+  "transcription": {
+    "language": "Tamil",
+    "method": "manual Gate C first-pass transcription from rendered pixels of the controlling 2007 anthology only",
+    "preserve_source_spelling": true,
+    "preserve_source_punctuation": true,
+    "preserve_source_numerals": true,
+    "preserve_headings": true,
+    "preserve_speaker_labels_and_interventions": true,
+    "preserve_printed_english": true,
+    "preserve_source_visible_repetition": true,
+    "page_boundaries_marked": true,
+    "status": "transcribed-in-progress",
+    "gate_c_status": "in-progress",
+    "completed_scan_pages": "389-398",
+    "completed_printed_pages": "388-397",
+    "completed_page_count": 10,
+    "total_page_count": 93,
+    "marker_count": 10,
+    "marker_range": "389-398",
+    "unresolved_readings": [],
+    "unresolved_reading_count": 0,
+    "verified_against_scan": false,
+    "outside_wording_imported": false,
+    "next_gate": "Gate C Batch 2"
+  },
+  "translation": {
+    "language": "English",
+    "status": "not-started",
+    "gate_f_status": "not-started",
+    "gate_g_status": "not-started",
+    "verified_against_tamil": false
+  },
+  "release": {
+    "status": "not-released",
+    "released": false,
+    "release_ready": false,
+    "indexed": false,
+    "gate_h_status": "not-started",
+    "canonical_bilingual_transcript": false
+  }
+}
