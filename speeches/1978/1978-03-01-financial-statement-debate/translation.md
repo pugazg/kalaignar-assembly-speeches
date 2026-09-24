@@ -2,7 +2,7 @@
 
 ## Speech 16 / 1.3.1978
 
-**Gate F status: IN PROGRESS — Batch 1 / scans 356–375 / 20 of 33 pages translated.**
+**Gate F status: COMPLETE — Batches 1–2 / scans 356–388 / 33 of 33 pages translated.**
 
 Translation authority: the Gate-E-verified Tamil in `transcript.md` only. English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL** until Gate G.
 
@@ -196,3 +196,179 @@ But to those who say that the Dravida Munnetra Kazhagam's demand for State auton
 
 “State autonomy is not an issue confined to a particular State. After the outlook of the Dravida Munnetra Kazhagam, a State party, has risen and sharpened to an all-India level, we are duty-bound to stress that we will not take the irresponsible attitude, ‘Let us ask autonomy for ourselves; what does it matter whether others come with us or not?’ Reports are coming that efforts are being made to isolate the Dravida Munnetra Kazhagam on the issue of State autonomy and thereby remove it from office. Blind men of opinion and political clowns—
 
+
+### Source page 376
+
+[These are words that apply to him too—to friend Manoharan.] “People confused in thought and practitioners of sophistry have begun to form a united front. Some of the very all-India parties which in the past said, ‘We will fight for State autonomy; we will carry on the struggle tirelessly so long as there is a drop of blood in our bodies,’ are now wavering and giving contradictory, conflicting explanations from State to State on the policy of autonomy.” After saying all this, he wrote: “If, even after so clear an explanation, anyone hesitates to accept the truth, I consider it a symptom of a kind of illness.”
+
+These are the electric words of our Finance Minister Manoharan, whom I admire. I have only cited here what he wrote in the *Thennagam* newspaper at that time. I may have praised him then and changed today. Likewise, he may have praised me then and changed today. Likewise, today I may attack him on a platform and he may attack me on platforms. That is a different kind of matter. But what I cannot understand is why, after my dear friend Finance Minister Manoharan placed such firm and forceful views then on a policy that he and I had accepted together, there should now be a departure from that path.
+
+That is why, on the issue of State autonomy, I will not ask today's Government to strengthen the view of the Dravida Munnetra Kazhagam—
+
+### Source page 377
+
+—that would not be proper. They are the ruling party; we are the Opposition. If you too join Jyoti Basu, Sheikh Abdullah, the Marxist Communist Party and Badal and raise your voice, I wish only to declare in this august House that the Dravida Munnetra Kazhagam will not hesitate to embrace you and stand by you.
+
+When the State Autonomy Resolution came up, because you were then not in office, friends such as Edmund spoke against State autonomy. I intervened and asked, “If you come to power, will you accept it?” They said, “We shall see.” You have now come to power. I ask all of you, at least now, to accept this policy of State autonomy.
+
+In this budget debate, after first presenting some details and then discussing Centre-State relations, I had intended not to go into certain other matters here. But my friend Raghavanandam provoked me into speaking about them when answering some questions this morning. I had notes with me, but I had still intended not to speak. Yet this morning, while replying to a question, the Minister unnecessarily accused Mr P.U. Shanmugam and Mr Mannai Narayanasamy of having acted very improperly in the Slum Clearance Board. He treated it as a grave fault that P.U.S. had recommended that some municipal worker in Coimbatore be allotted a house by the Slum Clearance Board—
+
+### Source page 378
+
+—and P.U.S. denied it here; explanations were given.
+
+All I ask is this: instead of telling us the achievements of this Government in Tamil Nadu during the past seven months, you spend more time talking about the former Dravida Munnetra Kazhagam Government.
+
+I say one more thing. Ministers should not keep issuing challenges; that is not good either. Those in the Opposition may sometimes speak rather sharply. But it is not good for Ministers holding responsibility repeatedly to issue challenges and then for Opposition members to issue counter-challenges. There are a few more Ministers too. The Leader of the House and the Chief Minister will know from press reports what they say on public platforms. So I do not wish now to go into all those explanations. But after beginning to govern for seven months, you keep speaking every day about past corruption, complaints and Sarkaria.
+
+If I am to answer you in Indira Gandhi's language, Mrs Indira Gandhi, speaking at the Tiruchi conference, said: “So long as they are with me they are all corrupt men; once they go to their party, they become holy men.” What I said last year, Mrs Indira Gandhi says this year. Last year it was Sarkaria for me; this year it is Shah for her. As commissions keep changing in this way, attitudes too keep changing. So long as they are in the Dravida Munnetra Kazhagam, they are corrupt people and persons to be investigated. Once they go from here to there—
+
+### Source page 379
+
+—they become good men, noble men, Buddhas.
+
+Fifty-four allegations were made concerning the Dravida Munnetra Kazhagam Government. The first part of the report has dealt with twenty-eight allegations. The remaining part is said to be coming shortly. Ministers speak about it every day. Fortunately, because the Assembly is now in session, they have no opportunity and therefore are not speaking outside; they speak as though, once this is over, they will begin the *alapana* again. What I ask this Government is this: Sarkaria has announced his report on twenty-eight allegations. What are you going to do about the remaining allegations? Have you yourselves abandoned them? Is there no substance in those twenty-eight allegations? Are you going to announce publicly that you gave them deliberately? Or are you yourselves going to appoint a commission and inquire into them? You who gave the allegations to that commission—are you prepared to give statements? The country is expecting answers from you to all these questions.
+
+Not only that. Friend James also spoke. When you accuse others and point out the faults of the previous Government, have you properly used the opportunity you received to correct them? No.
+
+As Mr James said, a “Star Night” programme was conducted for the cyclone relief fund. I am not saying it should not have been held. But how was the money collected? Money should certainly be given to the affected people. The public have contributed more than four crore rupees. Of that, perhaps two crore rupees—
+
+### Source page 380
+
+—or one and a half crore rupees has been received. But what was the method of collection? The Chief Minister, speaking at Madurai or at some other function, is reported to have said: “If anyone says that officials committed mistakes in collecting this fund, no official need worry about it; I myself take responsibility.” The Chief Minister has spoken to that extent. Let me read one document.
+
+“Municipal Office, Salem.
+
+Circular No. C.11-4280/78.
+
+Date: 4.2.1978.
+
+Subject: Star Night — Cyclone and Flood Relief Fund — collection of donations — regarding.
+
+Reference: This office circular No. C.11-4280/78 dated 27.1.1978.
+
+For conducting the ‘Star Night’ programme and collecting funds for the Cyclone and Flood Relief Fund, donation tickets were distributed to each section on 31.1.1978 with targets fixed.
+
+Though one week has passed since the tickets were distributed, it is regrettable that no section has collected even 10% of the prescribed target. The District Collector has stated that not even a single ticket should be returned unsold. Just as other Government departments are showing vigour in collections, the Municipality too should show vigour. Therefore all section heads are requested to give the necessary instructions to the employees concerned and ensure that all the tickets issued are sold.
+
+Further, as 11 and 12-2-1978 are both holidays, by 10-2-1978 the amount collected from sales should be remitted—
+
+### Source page 381
+
+—and it is also informed that not even one ticket should be returned on the ground that it could not be sold.”
+
+Is this not compulsion? It has been sent to all section heads and other officials saying not even one ticket should be returned. To whom will they give the unsold tickets? If nobody buys them, will they not have to put up the money themselves? Is this not pressure? Does the Chief Minister take responsibility for this?
+
+Here is another one: a donation slip printed at Gobi Press, Coimbatore. It says “Tamil Nadu Government Chief Minister's Cyclone Relief Fund.” The donation slip has no number. It has no signature. It is a ten-rupee slip. Could corruption have taken place in this or not? Should this be investigated or not?
+
+Here is one more. It is printed “Personal Assistant to the District Collector,” but a receipt has been issued without a signature. Could corruption have taken place in this or not? I have read out the report from the Salem Municipal Office. I have a copy of that report. If necessary, I am ready to give it to the Government.
+
+Minister Raghavanandam cited here as a great offence the recommendation made for one municipal worker. The Chief Minister, Finance Minister and other Ministers proudly say that ruling-party MLAs do not interfere in anything. But I wish to say one thing.
+
+### Source page 382
+
+Proceedings of the Commissioner, Bargur Panchayat Union. Present: Mr R. Devarajan. R.C. No.12354/77 C.1, dated 4-1-1978. Subject: Education — Elementary Education — transfer ordered on the recommendation of Bargur Assembly Constituency MLA S.G. Arumugam. Reference: District Educational Officer R.C. No.15218/77 E., dated 20-12-1977.
+
+Order: In accordance with the order of the District Educational Officer cited in the reference, transfers are ordered as follows. They should be relieved immediately and join the new schools. The headmasters concerned should immediately submit reports of relief and joining. Teacher: Periya Thambi, Secondary Grade Assistant Teacher, Karadikollapatti; school to which transferred: Panchayat Union Elementary School, K. Pudur. In place of serial No.2, teacher A. Sivanandam, Secondary Grade Teacher, K. Pudur; school to which transferred: Panchayat Union Elementary School, Karadikollapatti. In place of serial No.1. Signed, Devarajan.
+
+Thus it is explicitly stated that the transfer was made on an MLA's recommendation. I have a copy of this with me. If you require it, if you wish to conduct an inquiry, I am ready to give you a copy of the letter. It is repeatedly said, and loudly proclaimed, that no action is taken with a party outlook.
+
+An order was issued to constitute a people's committee. G.O. No.3-1025/78, dated 28-1-1978, Aravakurichi Panchayat Union. From M. Chidambaram, D.S.C., Commissioner, Panchayat Union, Aravakurichi—
+
+### Source page 383
+
+—to: all Panchayat Presidents. Subject: Committee — regarding constitution at Panchayat level — list of A.I.A.D.M.K. members sent for inclusion in the committee. Information: By this office letter of the same number dated 25-1-1978, you were requested to constitute a people's committee in your Panchayat and send the list of members. In the committee so constituted, the person responsible for your Panchayat named in the enclosed list is to be necessarily included as a member on behalf of the A.I.A.D.M.K. party. Signed, M. Chidambaram. Copy to the village assistants concerned. Is this party interference or not?
+
+The order did not say: “Form a committee and include people from all parties.” It says that one person belonging to the All India Anna D.M.K. must be included. Is this party interference or not? The Chief Minister says, “Officials, do not worry. I am here. Why fear when I am here?” He has given them that assurance.
+
+Similarly, in a very severe and coercive instruction issued for the family-planning programme, it is stated that each person must bring so many people, and that severe action will be taken against those concerned if they fail.
+
+One *gram sevak* must bring fifteen people. Is that an ordinary matter? One medical woman worker must bring twenty-seven. One ayah must bring twenty-seven people. Each *gram sevaki* must bring fifteen people. Each *bal sevaki* must bring two people for family planning. Because of this—
+
+### Source page 384
+
+—coercion, reports have even appeared in the newspapers that some mentally ill persons and mentally ill young men were subjected to family planning procedures and are in a dangerous condition. Even if it is said on behalf of the Government that these are mistakes occurring at the level of officials, I wish to point out that the Government too bears responsibility for them.
+
+People who say they dislike the naming of places after living persons, and that all such names given to towns and villages should be removed—
+
+I shall read a communication.
+
+From
+
+K.T.Vaidyalingam
+
+Assistant Executive Engineer,
+
+TWAD Board/EWS SUB-DIVISION
+
+Tiruchengodu
+
+TO THE COMMISSIONER
+
+PALLIPALAYAM.
+
+Sub : HONOURABLE MINISTER FOR LABOUR - INSPECTION
+
+OF Tiruchengode, Salem II and Mettur Constituencies on
+
+16th and 17th December 1977 - instruction issued to pro-
+
+vide water supply for the newly formed colony
+
+Raghavananda Nagar, in Alampalayam Panchayat.
+
+You may ask, “What is wrong with supplying water to a colony?” Do you know the reason?
+
+To provide water for the newly formed colony
+
+(Raghavananda Nagar, Alampalayam Panchayat).
+
+Once it was named “Raghavananda Nagar,” the Minister himself immediately took notice and the drinking-water scheme—
+
+### Source page 385
+
+—is attended to immediately. Those who claim to have no fascination for names act in this manner.
+
+The Finance Minister himself said that there was nothing wrong if officials collected funds with a little pressure for a good cause—for Government work—but that this should not be done for party work. He said this to reporters in Tiruchi. In that very same Tiruchi, while speaking on the no-confidence motion, I pointed out in this august House the allegation that a Minister himself went to several places, met traders and compulsorily collected funds for a party fund-raising programme.
+
+Here is another thing. Do you know what action is taken if one does not buy the *Anna* newspaper? I shall read that too; listen.
+
+Panchayat Union Office
+
+Kattadi.
+
+Date: 10.11.1977
+
+Memo.
+
+Subject: Social Welfare — *Anna* daily — supply to Social Education Centres — calling for an explanation for failure to receive the said daily.
+
+Reference: Letter of the Administrative Manager, *Anna* daily, Madras, dated 7.12.1977.
+
+The Administrative Manager has stated in the letter cited above that the headmaster of the Sevur Union School returned the *Anna* daily sent to the Sevur Social Education Centre. It is informed that, if an explanation for returning the *Anna* daily is not sent within three days of receipt of this memorandum—
+
+### Source page 386
+
+—further disciplinary action will be taken.
+
+(Signed.)
+
+Commissioner.
+
+You may ask in one line, “Did you not do all this too?” But you said you came to change all this; the question is, why did you not change it? If you are going to continue doing the same things, we ourselves could have remained—why should you come? You spoke like paragons of virtue and said that not even a mustard-seed-sized mistake would occur under your rule. I have placed accusation after accusation before you in this manner.
+
+One more thing. I will say it without naming the Minister. The Chief Minister too went to the racecourse two days ago. It is customary for the Chief Minister to attend the function called the Chief Minister's Cup; our Chief Minister went, and I read the speech he delivered there. He spoke there about corruption taking place there. Unlike the Chief Minister going to the horse races, or the Finance Minister going one day if invited, or the Governor going, a Minister's mother goes there on every race day. You may ask, “Can the Minister's mother be controlled? How can she be stopped?” But what does the Minister's mother travel in? She goes in a Government car.
+
+I read—or heard—that the Chief Minister had issued a strict order that if Ministers' cars were found standing outside cinema theatres, party workers should push those cars away and leave them at the Ministers' houses—
+
+### Source page 387
+
+—and I was genuinely pleased. This is not even a cinema theatre; not even a cinema theatre belonging to the Chief Minister's own field. A Minister's mother goes to the horse races, which the Chief Minister, I and Perarignar Anna all dislike; and she goes in a Government car. There are photographs. I shall give them to the Finance Minister. Giving these does not mean there are no other photographs. I therefore give these photographs to the Finance Minister. The number of the car is there. I give that photograph. This photograph—she goes and buys a ticket; I give that too. This one—she gets out of the car; I give that too. This one—she goes to the place where tickets are bought; I give that too. A security officer goes with her; I give that too. I give all these photographs.
+
+**Hon. Mr K. Manoharan:** I am pleased that, despite having so much work, the Leader of the Opposition takes an interest in this too.
+
+**Kalaignar M. Karunanidhi:** These days this will be the Leader of the Opposition's work. After all, should we not do what you did? I have given you all this evidence. I trust that when you reply, you will give me an explanation regarding these matters. Do not imagine that, by saying yours is the rule of the Buddha and the rule of noble men, and by repeatedly complaining that Kazhagam rule was corrupt rule, corrupt rule, you can carry on for five years. In your financial statement, only if there are good schemes, schemes that sustain people, schemes that advance people—
+
+### Source page 388
+
+—schemes that genuinely advance the Scheduled Castes and backward classes, will you be able to continue to retain influence among the people. I say that this financial statement is not of a standard that provides such things. With that, I conclude here. Vanakkam.
