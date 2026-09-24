@@ -53,9 +53,9 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 
 ## Gate state
 
-- Gate C — **IN PROGRESS — Batch 6 COMPLETE / scans 389–448 / 60 of 93**
+- Gate C — **IN PROGRESS — Batch 7 COMPLETE / scans 389–458 / 70 of 93**
 - first-pass unresolved readings — **0**
-- source markers present — **389→448 / 60 / exactly once / ordered**
+- source markers present — **389→458 / 70 / exactly once / ordered**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate C.5 — **NOT STARTED**
@@ -66,7 +66,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate H — **NOT STARTED / NOT RELEASED**
 - outside wording imported — **0**
 
-Source-visible first-pass forms retained rather than normalized include scan 389 **`196667ஆம்`**, scan 395 **`ஏட்டுச் சித்திரங்களாக`**, scan 398 **`அன்னியில்`**, scan 400 **`18ந்தேதி`**, scan 402 **`மூன்றாவது புதிய குழுவின்`**, scan 407 **`செளந்திரராசன்`**, scan 409 **`5.1.73`**, scan 416 **`ப்ரூஃப் லிட்டர்`**, scan 417 **`அன்ரெஸ்டிரிக்டட்` / `காம்பனண்ட்ஸ் பென்சாயின்` / `சோப் எலிமென்ட்`**, scan 419 **`ஜார்ஜ் பெர்னான்ட்ஸ்`**, scan 427 **`நாலரை ரூபாய் ஆராதி`**, scan 431 **`மிஸ்ஸி`**, scan 432 **`கேட்டபதிலிருந்து` / `அனுப்பு வதற்கு`**, scan 436 **`அப்பொழுதி லிருந்தே`**, scan 437 **`தெரியப் படுத்தி விட்டேன்`**, scan 438 **`குற்றங்களே`**, scan 444 **`1.3.79ம்`**, scan 445 **`1-30`**, scan 446 **`தெங்கைகொண்டான்`**, scan 447 **`வைக்கப்பட்ட வேண்டுமென்று`**, and scan 448 **`ஆட்சேபணை சங்கராச்சாரியாரால்கூட அல்ல`**. The source footnote on scan 435 is preserved; source-printed English on scans 404, 411, 425 and 426 remains preserved.
+Source-visible first-pass forms retained rather than normalized include scan 389 **`196667ஆம்`**, scan 395 **`ஏட்டுச் சித்திரங்களாக`**, scan 398 **`அன்னியில்`**, scan 400 **`18ந்தேதி`**, scan 402 **`மூன்றாவது புதிய குழுவின்`**, scan 407 **`செளந்திரராசன்`**, scan 409 **`5.1.73`**, scan 416 **`ப்ரூஃப் லிட்டர்`**, scan 417 **`அன்ரெஸ்டிரிக்டட்` / `காம்பனண்ட்ஸ் பென்சாயின்` / `சோப் எலிமென்ட்`**, scan 419 **`ஜார்ஜ் பெர்னான்ட்ஸ்`**, scan 427 **`நாலரை ரூபாய் ஆராதி`**, scan 431 **`மிஸ்ஸி`**, scan 432 **`கேட்டபதிலிருந்து` / `அனுப்பு வதற்கு`**, scan 436 **`அப்பொழுதி லிருந்தே`**, scan 437 **`தெரியப் படுத்தி விட்டேன்`**, scan 438 **`குற்றங்களே`**, scan 444 **`1.3.79ம்`**, scan 445 **`1-30`**, scan 446 **`தெங்கைகொண்டான்`**, scan 447 **`வைக்கப்பட்ட வேண்டுமென்று`**, scan 448 **`ஆட்சேபணை சங்கராச்சாரியாரால்கூட அல்ல`**, scan 453 **`கோசிஜீனைப்` / `சித்தாந்தந்தான்`**, scan 454 **`நம்பிக் கொடுத்தேன்`**, scan 455 **`நாட்டுடைமையாக்கப்பட்டதா`**, and scan 458 **`தாமம் தலை கோடிக்குச் செல்லும்`**. The source footnote on scan 435 is preserved; source-printed English on scans 404, 411, 425 and 426 and embedded English `Ivory tower` / `down to earth approach` on scans 457–458 are preserved.
 
 ## Fixed Gate-C / Gate-E iteration rule
 
@@ -76,6 +76,6 @@ Source-visible first-pass forms retained rather than normalized include scan 389
 
 ## Exact next activity
 
-**Gate C Batch 7 — scans 449–458 / printed pp.448–457 / exactly 10 pages.**
+**Gate C Batch 8 — scans 459–468 / printed pp.458–467 / exactly 10 pages.**
 
-Do not begin Batch 8, Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 18.
+Do not begin Batch 9, Gate C.5, Gate D, Gate E, Gate F, Gate G, Gate H or Speech 18.

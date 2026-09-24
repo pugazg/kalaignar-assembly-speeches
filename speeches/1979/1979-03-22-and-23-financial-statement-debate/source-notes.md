@@ -150,6 +150,23 @@ Conservative first-pass preservation includes scan-431 `மிஸ்ஸி`, sca
 
 Conservative first-pass preservation includes scan-444 `1.3.79ம்`, scan-445 `1-30`, scan-446 `தெங்கைகொண்டான்`, scan-447 `வைக்கப்பட்ட வேண்டுமென்று`, and scan-448 `ஆட்சேபணை சங்கராச்சாரியாரால்கூட அல்ல`.
 
+## Gate C Batch 7
+
+**COMPLETE — scans 449–458 / printed pp.448–457 / exactly 10 pages.**
+
+- controlling local pages — **part018 local 24–25 + part019 local 1–8**
+- split transition **450→451** — **PASS / continuous**
+- markers — **449→458 / exactly once / ordered**
+- cumulative markers — **389→458 / 70/70 / exactly once / ordered**
+- unresolved readings — **0 currently flagged**
+- transcription source — **rendered pixels only**
+- embedded source English `Ivory tower` / `down to earth approach` on scans **457–458** — **preserved**
+- outside wording imported — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- pages 459–481 modified — **0**
+
+Conservative first-pass preservation includes scan-453 `கோசிஜீனைப்` / `சித்தாந்தந்தான்`, scan-454 `நம்பிக் கொடுத்தேன்`, scan-455 `நாட்டுடைமையாக்கப்பட்டதா`, and scan-458 `தாமம் தலை கோடிக்குச் செல்லும்`.
+
 ## Exact next
 
-**Gate C Batch 7 — scans 449–458 / exactly 10 pages.**
+**Gate C Batch 8 — scans 459–468 / exactly 10 pages.**
