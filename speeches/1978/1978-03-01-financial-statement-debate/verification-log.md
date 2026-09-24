@@ -289,16 +289,37 @@ Gate-E Final Batch-4 correction ledger:
 - unresolved — **0**
 - Tamil — **VERIFIED / verified_against_scan=true**
 
+## Gate F closure
+
+**COMPLETE — Batches 1–2 / 33 of 33 pages.**
+
+- Batch 1 — **356–375 / 20 pages**
+- Batch 2 — **376–388 / 13 pages**
+- translation authority — **Gate-E-verified Tamil only**
+- English source-page sections — **356→388 / 33 / exactly once / ordered**
+- source-page boundaries — **preserved**
+- speaker labels/intervention — **preserved**
+- figures, numerals, dates and amounts — **preserved from verified Tamil**
+- source-printed English on scans 368 and 384 — **preserved**
+- source-visible repetitions and source-bound oddities/claims — **not silently corrected**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+
 ## Downstream state
 
 - Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
 - Gate E — **PASS / COMPLETE**
-- Gate F — **READY / NOT STARTED**
-- Gate G — **NOT STARTED**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate F — **COMPLETE / 33 of 33**
+- Gate G — **READY / NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
+- Speech 17 — **NOT STARTED**
 
 ## Exact next activity
 
-Begin **Gate F — English translation from the Gate-E-verified Tamil only**.
+Begin **Gate G — English fidelity and voice review against the Gate-E-verified Tamil**.
