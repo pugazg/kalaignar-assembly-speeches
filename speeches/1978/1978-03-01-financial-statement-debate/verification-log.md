@@ -251,16 +251,54 @@ Gate-E Batch-3 correction ledger:
 
 Source-visible oddities and source-printed English were otherwise retained without normalization.
 
+## Gate E — Final Batch 4 / scans 386–388
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — final 3 pages; cumulative 33 of 33.**
+
+Coverage:
+
+- verified scans — **386–388**
+- verified printed pages — **385–387**
+- verified pages — **3/3 in final batch; cumulative 33/33**
+- split/local coverage — **part016 local 11–13**
+- source markers in batch — **386→388 / 3 / exactly once / ordered**
+- Batch-4 correction ledger — **2 entries / 2 occurrences**
+- Batch-4 affected scans — **2 — 386, 387**
+- cumulative Gate-E corrections — **24 entries / 24 occurrences**
+- cumulative affected scans — **14 / 33**
+- unresolved readings — **0**
+- scan 388 close through `வணக்கம்.` and source ornament — **PASS**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
+
+Gate-E Final Batch-4 correction ledger:
+
+1. **scan 386 / printed p.385** — `நீங்கள் ஏன் வர வேண்டும்.` → `நீங்கள் ஏன் வரவேண்டும்.`
+2. **scan 387 / printed p.386** — `நாங்கள் செய்ய வேண்டாமா?` → `நாங்கள் செய்யவேண்டாமா?`
+
+## Gate E closure
+
+**PASS / COMPLETE — scans 356–388 / printed pp.355–387 / 33 of 33 pages source-verified.**
+
+- Batch 1 — **356–365 / 11 corrections**
+- Batch 2 — **366–375 / 1 correction**
+- Batch 3 — **376–385 / 10 corrections**
+- Final Batch 4 — **386–388 / 2 corrections**
+- cumulative corrections — **24 entries / 24 occurrences**
+- cumulative affected scans — **14 / 33**
+- unresolved — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
+
 ## Downstream state
 
 - Gate C — **COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS — 30 of 33**
-- Gate F — **NOT STARTED**
+- Gate E — **PASS / COMPLETE**
+- Gate F — **READY / NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-**Gate E Final Batch 4 — scans 386–388 / printed pp.385–387 / final 3 pages.**
+Begin **Gate F — English translation from the Gate-E-verified Tamil only**.
