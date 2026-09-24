@@ -179,9 +179,31 @@ Checks:
 
 Source-visible forms intentionally retained for later Gate-E fidelity verification include scan 462 `1979-89இல் 137 லட்சம்`, scan 465 `எ.ஆர்.டி.சி.`, scan 467 `பீஸ்பிலிட்டி ரிப்போர்ட்`, and scan 468 `சொன்ன தெல்லாம்`.
 
+## Gate C Batch 9
+
+**COMPLETE — scans 469–478 / 10 pages; cumulative 90 of 93.**
+
+Checks:
+
+- source-page markers **469→478** — **10/10 / exactly once / ordered**
+- cumulative source-page markers **389→478** — **90/90 / exactly once / ordered**
+- controlling source — **part019 local 19–25 + part020 local 1–3**
+- split transition **475→476** — **PASS / continuous**
+- first-pass unresolved readings — **0**
+- source-printed English `They are stopped.` on scan **474** — **preserved**
+- source procedural/header material on scan **477** — **preserved**
+- outside wording imported — **0**
+- OCR wording imported — **0**
+- web wording imported — **0**
+- Official Report / alternate anthology wording imported — **0**
+- verified against scan — **false; Gate C is first-pass transcription, not verification**
+- scans 479–481 — **untouched**
+
+Source-visible forms intentionally retained for later Gate-E fidelity verification include scan 470 `கட்டிக்கழிக்கவில்லை`, scan 471 `அமைச்சராக இருக்கின்ற திரு. செளந்திரராஜன் அவர்கள் பெற்றவர்கள்`, scan 477 `சாது மிரண்டால் காடு தாங்காது`, and scan 478 `120 அடிக்கு மேலாக`.
+
 ## Downstream state
 
-- Gate C — **IN PROGRESS / 80 of 93**
+- Gate C — **IN PROGRESS / 90 of 93**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
@@ -192,4 +214,4 @@ Source-visible forms intentionally retained for later Gate-E fidelity verificati
 
 ## Exact next activity
 
-**Speech 17 Gate C Batch 9 — scans 469–478 / printed pp.468–477 / exactly 10 pages.**
+**Speech 17 Gate C final remainder — scans 479–481 / printed pp.478–480 / exactly 3 pages.**

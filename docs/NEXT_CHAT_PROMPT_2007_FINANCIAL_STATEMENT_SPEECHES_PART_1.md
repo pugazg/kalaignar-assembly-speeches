@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate C Batch 9 — scans 469–478
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate C final remainder — scans 479–481
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -21,26 +21,27 @@ Source:
 
 Gate state:
 
-- Gate C Batches 1–8 — **COMPLETE / scans 389–468 / 80 pages**
-- cumulative markers — **389→468 / 80 / exactly once / ordered**
+- Gate C Batches 1–9 — **COMPLETE / scans 389–478 / 90 pages**
+- cumulative markers — **389→478 / 90 / exactly once / ordered**
+- Batch-9 split transition **475→476 — PASS / continuous**
 - unresolved first-pass readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- source-printed English on scans 459–460 — **preserved**
+- source English `They are stopped.` on scan 474 — **preserved**
 - Gates C.5–H — **NOT STARTED**
 - outside wording imported — **0**
 
 ## Exact next activity
 
-Perform **Speech 17 Gate C Batch 9 — scans 469–478 / printed pp.468–477 / exactly 10 pages**.
+Perform the permitted **Gate C final remainder — scans 479–481 / printed pp.478–480 / exactly 3 pages**.
 
 Requirements:
 
-1. use only rendered pixels of the controlling anthology splits as textual authority;
+1. use only rendered pixels of the controlling anthology as textual authority;
 2. preserve source spelling, punctuation, numerals, speaker labels/interventions, repetition, footnotes and printed English;
-3. import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other outside witnesses;
-4. append source-page markers **469→478**, exactly once and in order;
-5. do not alter Batches 1–8 wording merely for stylistic polishing;
-6. keep the multi-date policy unchanged unless an explicit source marker is discovered;
-7. update Speech-17 controls and anthology controls after the batch;
-8. exact next after success: **Gate C final remainder — scans 479–481 / exactly 3 pages**;
-9. do not begin the final remainder, Gate C.5 or Speech 18 in the same activity.
+3. append source-page markers **479→481**, exactly once and in order;
+4. do not alter Batches 1–9 wording merely for stylistic polishing;
+5. confirm scan 481 source close and the already-locked 481→482 Speech-18 boundary;
+6. after success, mark Gate C **COMPLETE / 93 of 93 / Tamil TRANSCRIBED-NOT-VERIFIED**;
+7. synchronize Speech-17 and anthology controls;
+8. exact next after Gate-C closure: **Gate C.5 applicability check / Gate D setup**, following live repository policy;
+9. do not begin Gate C.5, Gate D or Speech 18 in the same activity.

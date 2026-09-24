@@ -183,6 +183,24 @@ Conservative first-pass preservation includes scan-453 `கோசிஜீனை
 
 Conservative first-pass preservation includes scan-462 `1979-89இல் 137 லட்சம்`, scan-465 `எ.ஆர்.டி.சி.`, scan-467 `பீஸ்பிலிட்டி ரிப்போர்ட்`, and scan-468 `சொன்ன தெல்லாம்`.
 
+## Gate C Batch 9
+
+**COMPLETE — scans 469–478 / printed pp.468–477 / exactly 10 pages.**
+
+- controlling local pages — **part019 local 19–25 + part020 local 1–3**
+- split transition **475→476** — **PASS / continuous**
+- markers — **469→478 / exactly once / ordered**
+- cumulative markers — **389→478 / 90/90 / exactly once / ordered**
+- unresolved readings — **0 currently flagged**
+- transcription source — **rendered pixels only**
+- source-printed English `They are stopped.` on scan **474** — **preserved**
+- source printed procedural/header material on scan **477** — **preserved**
+- outside wording imported — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- pages 479–481 modified — **0**
+
+Conservative first-pass preservation includes scan-470 `கட்டிக்கழிக்கவில்லை`, scan-471 `அமைச்சராக இருக்கின்ற திரு. செளந்திரராஜன் அவர்கள் பெற்றவர்கள்`, scan-477 `சாது மிரண்டால் காடு தாங்காது`, and scan-478 `120 அடிக்கு மேலாக`.
+
 ## Exact next
 
-**Gate C Batch 9 — scans 469–478 / exactly 10 pages.**
+**Gate C final remainder — scans 479–481 / exactly 3 pages.**
