@@ -116,39 +116,36 @@ Conservative first-pass preservation includes scan 386 the printed `(ஒப்�
 
 ## Gate E Batch 1
 
-**PASS / COMPLETE — scans 356–365 / printed pp.355–364 / 10 pages.**
-
-- corrections — **11**
-- affected scans — **6**
-- unresolved — **0**
+**PASS / COMPLETE — scans 356–365 / 10 pages / 11 corrections.**
 
 ## Gate E Batch 2
 
-**PASS / COMPLETE — scans 366–375 / printed pp.365–374 / exactly 10 pages.**
+**PASS / COMPLETE — scans 366–375 / 10 pages / 1 correction.**
 
-- controlling local pages — **part015 local 16–25**
+## Gate E Batch 3
+
+**PASS / COMPLETE — scans 376–385 / printed pp.375–384 / exactly 10 pages.**
+
+- controlling local pages — **part016 local 1–10**
 - source authority — **rendered controlling pixels only**
-- correction ledger — **1 entry / 1 occurrence**
-- affected scan — **370**
+- correction ledger — **10 entries / 10 occurrences**
+- affected scans — **5 — 377, 379, 380, 381, 382**
 - unresolved readings — **0**
-- scans 376–388 modified — **0**
+- scans 386–388 modified — **0**
+- source-printed English on scan 384 — **preserved**
 - outside wording imported — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 
-Source-backed Batch-2 correction:
-
-1. scan 370 / printed p.369 — `இழப்பு ஏற்படுகிறது. அதை` → `இழப்பு ஏற்படுகிறது, அதை`
-
-Source-visible oddities and wording on scans 366–375 were otherwise retained.
+Batch-3 corrections include source punctuation on scan 377, `எட்மண்ட்` / `முதலிலே` on scan 377, `கேட்டுக் கொள்வதெல்லாம்` / `கூடப் பேசினார்கள்` on scan 379, source forms `கவலைப்பட்டவேண்டாம்` and `டிக்கட்` on scan 380, `இயலவில்லை யென` / `டிக்கெட்டூடத்` on scan 381, and `எந்த காரியமும்` on scan 382.
 
 ## Gate E cumulative state
 
-- verified scans — **356–375 / 20 of 33**
-- cumulative corrections — **12 entries / 12 occurrences**
-- cumulative affected scans — **7**
+- verified scans — **356–385 / 30 of 33**
+- cumulative corrections — **22 entries / 22 occurrences**
+- cumulative affected scans — **12**
 - unresolved — **0**
 - Tamil — **NOT VERIFIED / verified_against_scan=false**
 
 ## Exact next
 
-**Gate E Batch 3 — scans 376–385 / exactly 10 pages.**
+**Gate E Final Batch 4 — scans 386–388 / final 3 pages.**
