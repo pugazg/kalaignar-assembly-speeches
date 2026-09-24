@@ -151,6 +151,21 @@ Final corrections:
 - unresolved — **0**
 - Tamil — **VERIFIED**
 
+## Gate F
+
+**COMPLETE — 33/33 English source-page sections.**
+
+- Batch 1 — **356–375 / 20 pages**
+- Batch 2 — **376–388 / 13 pages**
+- marker sequence — **356→388 / exactly once / ordered**
+- source authority — **verified Tamil only**
+- source-printed English — **preserved**
+- blocking questions — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+
 ## Exact next
 
-**Gate F — English translation from verified Tamil only.**
+**Gate G — English fidelity and voice review against verified Tamil.**
