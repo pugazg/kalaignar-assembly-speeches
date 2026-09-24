@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate C Batch 6 — scans 439–448
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate C Batch 7 — scans 449–458
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -25,8 +25,8 @@ Source:
 
 Gate state:
 
-- Gate C Batches 1–5 — **COMPLETE / scans 389–438 / 50 pages**
-- cumulative markers — **389→438 / 50 / exactly once / ordered**
+- Gate C Batches 1–6 — **COMPLETE / scans 389–448 / 60 pages**
+- cumulative markers — **389→448 / 60 / exactly once / ordered**
 - unresolved first-pass readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - source footnote on scan 435 — **preserved**
@@ -36,16 +36,16 @@ Gate state:
 
 ## Exact next activity
 
-Perform **Speech 17 Gate C Batch 6 — scans 439–448 / printed pp.438–447 / exactly 10 pages**.
+Perform **Speech 17 Gate C Batch 7 — scans 449–458 / printed pp.448–457 / exactly 10 pages**.
 
 Requirements:
 
 1. use only rendered pixels of the controlling anthology splits as textual authority;
 2. preserve source spelling, punctuation, numerals, speaker labels/interventions, repetition, footnotes and printed English;
 3. import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other outside witnesses;
-4. append source-page markers **439→448**, exactly once and in order;
-5. do not alter Batches 1–5 wording merely for stylistic polishing;
+4. append source-page markers **449→458**, exactly once and in order;
+5. do not alter Batches 1–6 wording merely for stylistic polishing;
 6. keep the multi-date policy unchanged unless an explicit source marker is discovered;
 7. update Speech-17 controls and anthology controls after the batch;
-8. exact next after success: **Gate C Batch 7 — scans 449–458 / exactly 10 pages**;
-9. do not begin Batch 7, Gate C.5 or Speech 18 in the same activity.
+8. exact next after success: **Gate C Batch 8 — scans 459–468 / exactly 10 pages**;
+9. do not begin Batch 8, Gate C.5 or Speech 18 in the same activity.

@@ -118,9 +118,29 @@ Checks:
 
 Source-visible forms intentionally retained for later Gate-E fidelity verification include scan 431 `மிஸ்ஸி`, scan 432 `கேட்டபதிலிருந்து` / `அனுப்பு வதற்கு`, scan 436 `அப்பொழுதி லிருந்தே`, scan 437 `தெரியப் படுத்தி விட்டேன்`, and scan 438 `குற்றங்களே`.
 
+## Gate C Batch 6
+
+**COMPLETE — scans 439–448 / 10 pages; cumulative 60 of 93.**
+
+Checks:
+
+- source-page markers **439→448** — **10/10 / exactly once / ordered**
+- cumulative source-page markers **389→448** — **60/60 / exactly once / ordered**
+- controlling source — **part018 local 14–23**
+- first-pass unresolved readings — **0**
+- parenthetical / interruption material — **preserved**
+- outside wording imported — **0**
+- OCR wording imported — **0**
+- web wording imported — **0**
+- Official Report / alternate anthology wording imported — **0**
+- verified against scan — **false; Gate C is first-pass transcription, not verification**
+- scans 449–481 — **untouched**
+
+Source-visible forms intentionally retained for later Gate-E fidelity verification include scan 444 `1.3.79ம்`, scan 445 `1-30`, scan 446 `தெங்கைகொண்டான்`, scan 447 `வைக்கப்பட்ட வேண்டுமென்று`, and scan 448 `ஆட்சேபணை சங்கராச்சாரியாரால்கூட அல்ல`.
+
 ## Downstream state
 
-- Gate C — **IN PROGRESS / 50 of 93**
+- Gate C — **IN PROGRESS / 60 of 93**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
@@ -131,4 +151,4 @@ Source-visible forms intentionally retained for later Gate-E fidelity verificati
 
 ## Exact next activity
 
-**Speech 17 Gate C Batch 6 — scans 439–448 / printed pp.438–447 / exactly 10 pages.**
+**Speech 17 Gate C Batch 7 — scans 449–458 / printed pp.448–457 / exactly 10 pages.**

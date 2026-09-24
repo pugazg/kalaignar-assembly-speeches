@@ -134,6 +134,22 @@ Conservative first-pass preservation includes scan-419 `ஜார்ஜ் ப�
 
 Conservative first-pass preservation includes scan-431 `மிஸ்ஸி`, scan-432 `கேட்டபதிலிருந்து` / `அனுப்பு வதற்கு`, scan-436 `அப்பொழுதி லிருந்தே`, scan-437 `தெரியப் படுத்தி விட்டேன்`, and scan-438 `குற்றங்களே`.
 
+## Gate C Batch 6
+
+**COMPLETE — scans 439–448 / printed pp.438–447 / exactly 10 pages.**
+
+- controlling local pages — **part018 local 14–23**
+- markers — **439→448 / exactly once / ordered**
+- cumulative markers — **389→448 / 60/60 / exactly once / ordered**
+- unresolved readings — **0 currently flagged**
+- transcription source — **rendered pixels only**
+- source-visible parenthetical / interruption material — **preserved**
+- outside wording imported — **0**
+- Tamil — **NOT VERIFIED / verified_against_scan=false**
+- pages 449–481 modified — **0**
+
+Conservative first-pass preservation includes scan-444 `1.3.79ம்`, scan-445 `1-30`, scan-446 `தெங்கைகொண்டான்`, scan-447 `வைக்கப்பட்ட வேண்டுமென்று`, and scan-448 `ஆட்சேபணை சங்கராச்சாரியாரால்கூட அல்ல`.
+
 ## Exact next
 
-**Gate C Batch 6 — scans 439–448 / exactly 10 pages.**
+**Gate C Batch 7 — scans 449–458 / exactly 10 pages.**
