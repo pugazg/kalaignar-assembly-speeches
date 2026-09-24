@@ -542,16 +542,18 @@ Working entry:
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
 - Gate E — **PASS / COMPLETE / 33 of 33**
-- Gate-E corrections — **24 entries / 24 occurrences**
-- affected scans — **14**
-- unresolved — **0**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- Gate F — **READY / NOT STARTED**
-- Gate G / H — **NOT STARTED**
-- outside wording imported — **0**
+- Gate F — **COMPLETE / 33 of 33**
+- English source-page sections — **356→388 / exactly once / ordered**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- Gate-F blockers — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- Gate G — **READY / NOT STARTED**
+- Gate H — **NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-Begin **Speech 16 Gate F — English translation from verified Tamil only**.
+Begin **Speech 16 Gate G — English fidelity and voice review against verified Tamil**.
 
-Do not alter verified Tamil. Do not begin Gate G, Gate H or Speech 17 in the same activity.
+Do not alter verified Tamil. Do not begin Gate H or Speech 17 in the same activity.
