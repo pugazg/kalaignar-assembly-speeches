@@ -60,7 +60,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - `verified_against_scan=false`
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batches 1–2 COMPLETE / scans 389–408 / 20 of 93 verified / 2 corrections / 0 unresolved**
+- Gate E — **IN PROGRESS — Batches 1–3 COMPLETE / scans 389–418 / 30 of 93 verified / 6 corrections / 0 unresolved**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -148,8 +148,28 @@ No other source-backed wording or punctuation correction was found in scans 389�
 
 No other source-backed wording or punctuation correction was found in scans 399–408.
 
+## Gate E Batch 3 result
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — scans 409–418 / 10 pages; cumulative 30 of 93.**
+
+- Batch-3 corrections — **4 entries / 4 occurrences**
+- affected scans — **409, 412, 415, 418**
+- corrections:
+  - scan 409 — `செய்யப்பட்ட` → `செய்யப் பட்ட`
+  - scan 412 — `பிப்ரவரி திங்கள்` → `பிப்ரவரித் திங்கள்`
+  - scan 415 — `சொல்லுவதும்` → `சொல்வதும்`
+  - scan 418 — `லிட்டரிலிருந்து` → `லிட்டரி லிருந்து`
+- cumulative Gate-E corrections — **6 entries / 6 occurrences**
+- cumulative affected scans — **6 — scans 396, 399, 409, 412, 415, 418**
+- unresolved — **0**
+- source-printed English on scan 411 — **preserved**
+- scans 419–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+No other source-backed wording or punctuation correction was found in scans 409–418. Source-visible scan-409 `5.1.73`, scan-416 `ப்ரூஃப் லிட்டர்`, and scan-417 `அன்ரெஸ்டிரிக்டட்` / `காம்பனண்ட்ஸ் பென்சாயின்` / `சோப் எலிமென்ட்` were retained.
+
 ## Exact next activity
 
-**Gate E Batch 3 — scans 409–418 / printed pp.408–417 / exactly 10 pages.**
+**Gate E Batch 4 — scans 419–428 / printed pp.418–427 / exactly 10 pages.**
 
-Do not begin Batch 4, Gate F or Speech 18 in the same activity.
+Do not begin Batch 5, Gate F or Speech 18 in the same activity.

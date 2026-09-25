@@ -323,12 +323,46 @@ Gate-E Batch-2 correction ledger:
 
 No other source-backed wording or punctuation correction was found in scans 399–408. Source-visible scan-400 `18ந்தேதி`, scan-402 `மூன்றாவது புதிய குழுவின்`, scan-407 `செளந்திரராசன்`, and the scan-404 printed English proceedings block were retained without normalization.
 
+## Gate E — Batch 3 / scans 409–418
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 pages; cumulative 30 of 93.**
+
+Coverage:
+
+- verified scans — **409–418**
+- verified printed pages — **408–417**
+- verified pages — **10/10 in batch; cumulative 30/93**
+- split/local coverage — **part017 local 9–18**
+- source markers in batch — **409→418 / 10 / exactly once / ordered**
+- Gate-E Batch-3 correction ledger — **4 entries / 4 occurrences**
+- Batch-3 affected scans — **4 — scans 409, 412, 415, 418**
+- cumulative Gate-E corrections — **6 entries / 6 occurrences**
+- cumulative affected scans — **6 — scans 396, 399, 409, 412, 415, 418**
+- unresolved readings — **0**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- source-printed English on scan 411 — **preserved verbatim**
+- scans **419–481** modified in this activity — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Gate-E Batch-3 correction ledger:
+
+1. **scan 409 / printed p.408** — `ஆளும் கட்சிக்காரர்களுக்குச் செய்யப்பட்ட சலுகை அல்லவா` → `ஆளும் கட்சிக்காரர்களுக்குச் செய்யப் பட்ட சலுகை அல்லவா`
+   - the rendered source visibly prints `செய்யப் பட்ட`.
+2. **scan 412 / printed p.411** — `1979ஆம் ஆண்டு பிப்ரவரி திங்கள் 8ஆம் நாளில்` → `1979ஆம் ஆண்டு பிப்ரவரித் திங்கள் 8ஆம் நாளில்`
+   - the rendered source prints the sandhi form `பிப்ரவரித் திங்கள்`.
+3. **scan 415 / printed p.414** — `சபையிலே சொல்லுவதும் அவருக்கு அழகு அல்ல` → `சபையிலே சொல்வதும் அவருக்கு அழகு அல்ல`
+   - the rendered source prints `சொல்வதும்`.
+4. **scan 418 / printed p.417** — `40,000 லிட்டரிலிருந்து 1 இலட்சம் லிட்டராக` → `40,000 லிட்டரி லிருந்து 1 இலட்சம் லிட்டராக`
+   - the rendered source visibly separates `லிட்டரி லிருந்து`.
+
+No other source-backed wording or punctuation correction was found in scans 409–418. Source-visible scan-409 `5.1.73`, scan-416 `ப்ரூஃப் லிட்டர்`, scan-417 `அன்ரெஸ்டிரிக்டட்` / `காம்பனண்ட்ஸ் பென்சாயின்` / `சோப் எலிமென்ட்`, and the scan-411 printed English block were retained without normalization.
+
 ## Downstream state
 
 - Gate C — **COMPLETE / 93 of 93**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS / 20 of 93 verified**
+- Gate E — **IN PROGRESS / 30 of 93 verified**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -336,4 +370,4 @@ No other source-backed wording or punctuation correction was found in scans 399�
 
 ## Exact next activity
 
-**Speech 17 Gate E Batch 3 — scans 409–418 / printed pp.408–417 / exactly 10 pages.**
+**Speech 17 Gate E Batch 4 — scans 419–428 / printed pp.418–427 / exactly 10 pages.**

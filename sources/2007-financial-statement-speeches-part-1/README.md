@@ -572,7 +572,7 @@ Working entry:
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS / Batches 1–2 COMPLETE / scans 389–408 / 20 of 93 / 2 corrections / 0 unresolved**
+- Gate E — **IN PROGRESS / Batches 1–3 COMPLETE / scans 389–418 / 30 of 93 / 6 corrections / 0 unresolved**
 - Gates F–H — **NOT STARTED**
 - outside wording imported — **0**
 
@@ -616,8 +616,26 @@ Markers, boundaries, four working-split continuations, speaker interventions, qu
 - scans 409–481 modified — **0**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 
+## Speech 17 Gate E Batch 3
+
+**PASS / COMPLETE — scans 409–418 / 30 of 93 cumulative verified.**
+
+- correction ledger — **4 entries / 4 occurrences in Batch 3**
+- affected scans — **409, 412, 415, 418**
+- corrections:
+  - scan 409 — `செய்யப்பட்ட` → `செய்யப் பட்ட`
+  - scan 412 — `பிப்ரவரி திங்கள்` → `பிப்ரவரித் திங்கள்`
+  - scan 415 — `சொல்லுவதும்` → `சொல்வதும்`
+  - scan 418 — `லிட்டரிலிருந்து` → `லிட்டரி லிருந்து`
+- cumulative Gate-E corrections — **6 entries / 6 occurrences**
+- cumulative affected scans — **6 — scans 396, 399, 409, 412, 415, 418**
+- unresolved — **0**
+- source-printed English on scan 411 — **preserved**
+- scans 419–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
 ## Exact next activity
 
-**Speech 17 Gate E Batch 3 — scans 409–418 / printed pp.408–417 / exactly 10 pages.**
+**Speech 17 Gate E Batch 4 — scans 419–428 / printed pp.418–427 / exactly 10 pages.**
 
-Do not begin Batch 4, Gate F or Speech 18 in the same activity.
+Do not begin Batch 5, Gate F or Speech 18 in the same activity.

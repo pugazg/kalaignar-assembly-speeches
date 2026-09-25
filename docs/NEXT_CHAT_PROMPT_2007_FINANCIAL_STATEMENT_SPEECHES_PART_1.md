@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate E Batch 3 — scans 409–418
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate E Batch 4 — scans 419–428
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -26,10 +26,10 @@ Gate state:
 - Gate C — **COMPLETE / 93 of 93 first-pass**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 93 of 93 / 92 of 92 internal transitions / 0 completeness corrections**
-- Gate E Batches 1–2 — **PASS / COMPLETE through scans 399–408 / 20 pages**
-- Gate-E cumulative verified pages — **20 of 93**
-- Gate-E cumulative corrections — **2 entries / 2 occurrences**
-- Gate-E cumulative affected scans — **2**
+- Gate E Batches 1–3 — **PASS / COMPLETE through scans 409–418 / 30 pages**
+- Gate-E cumulative verified pages — **30 of 93**
+- Gate-E cumulative corrections — **6 entries / 6 occurrences**
+- Gate-E cumulative affected scans — **6**
 - unresolved Gate-E readings — **0**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - Gates F–H — **NOT STARTED**
@@ -40,6 +40,10 @@ Gate-E corrections to date:
 
 - scan 396 — `வேலையில்லாத` → `வேலை யில்லாத`
 - scan 399 — `அதைப்போல` → `அதைப்போல்`
+- scan 409 — `செய்யப்பட்ட` → `செய்யப் பட்ட`
+- scan 412 — `பிப்ரவரி திங்கள்` → `பிப்ரவரித் திங்கள்`
+- scan 415 — `சொல்லுவதும்` → `சொல்வதும்`
+- scan 418 — `லிட்டரிலிருந்து` → `லிட்டரி லிருந்து`
 
 ## Fixed Gate-E iteration rule
 
@@ -48,17 +52,17 @@ Gate-E corrections to date:
 
 ## Exact next activity
 
-Perform **Speech 17 Gate E Batch 3 — scans 409–418 / printed pp.408–417 / exactly 10 pages**.
+Perform **Speech 17 Gate E Batch 4 — scans 419–428 / printed pp.418–427 / exactly 10 pages**.
 
 Requirements:
 
 1. compare the current Tamil transcription directly against rendered pixels of the controlling anthology only;
-2. apply every source-supported fidelity correction found in scans **409–418**;
+2. apply every source-supported fidelity correction found in scans **419–428**;
 3. preserve source spelling, punctuation, numerals, speaker labels/interventions, repetition and source-printed English;
 4. record every correction with scan number and before→after wording;
 5. import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other outside witnesses;
 6. keep the multi-date source-unit policy unchanged and do not invent a page-level date split;
-7. leave scans **419–481** unchanged in this activity;
+7. leave scans **429–481** unchanged in this activity;
 8. after success, synchronize Speech-17 and anthology controls;
-9. exact next: **Gate E Batch 4 — scans 419–428 / exactly 10 pages**;
-10. do not begin Batch 4, Gate F or Speech 18 in the same activity.
+9. exact next: **Gate E Batch 5 — scans 429–438 / exactly 10 pages**;
+10. do not begin Batch 5, Gate F or Speech 18 in the same activity.

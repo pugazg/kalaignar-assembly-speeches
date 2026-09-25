@@ -305,6 +305,35 @@ No other source-backed wording or punctuation correction was found in scans 399�
 
 Gate E remains **IN PROGRESS**.
 
+## Gate E — Batch 3 / scans 409–418
+
+**PASS / COMPLETE — 10 pages; cumulative 30 of 93.**
+
+- verified scans — **409–418**
+- verified printed pages — **408–417**
+- controlling local pages — **part017 local 9–18**
+- markers — **409→418 / exactly once / ordered**
+- source-fidelity corrections — **4 entries / 4 occurrences**
+- affected scans — **4 — scans 409, 412, 415, 418**
+- cumulative Gate-E corrections — **6 entries / 6 occurrences**
+- cumulative affected scans — **6 — scans 396, 399, 409, 412, 415, 418**
+- unresolved readings — **0**
+- source-printed English on scan 411 — **preserved**
+- outside wording imported — **0**
+- scans 419–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Corrections:
+
+- scan 409 / printed p.408 — `செய்யப்பட்ட சலுகை` → `செய்யப் பட்ட சலுகை`
+- scan 412 / printed p.411 — `1979ஆம் ஆண்டு பிப்ரவரி திங்கள் 8ஆம் நாளில்` → `1979ஆம் ஆண்டு பிப்ரவரித் திங்கள் 8ஆம் நாளில்`
+- scan 415 / printed p.414 — `சபையிலே சொல்லுவதும் அவருக்கு அழகு அல்ல` → `சபையிலே சொல்வதும் அவருக்கு அழகு அல்ல`
+- scan 418 / printed p.417 — `40,000 லிட்டரிலிருந்து 1 இலட்சம் லிட்டராக` → `40,000 லிட்டரி லிருந்து 1 இலட்சம் லிட்டராக`
+
+No other source-backed wording or punctuation correction was found in scans 409–418. Source-visible scan-409 `5.1.73`, scan-416 `ப்ரூஃப் லிட்டர்`, scan-417 `அன்ரெஸ்டிரிக்டட்` / `காம்பனண்ட்ஸ் பென்சாயின்` / `சோப் எலிமென்ட்`, and the scan-411 source-printed English block were retained.
+
+Gate E remains **IN PROGRESS**.
+
 ## Exact next
 
-**Gate E Batch 3 — scans 409–418 / exactly 10 pages.**
+**Gate E Batch 4 — scans 419–428 / exactly 10 pages.**
