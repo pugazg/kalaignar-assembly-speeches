@@ -201,9 +201,40 @@ Checks:
 
 Source-visible forms intentionally retained for later Gate-E fidelity verification include scan 470 `கட்டிக்கழிக்கவில்லை`, scan 471 `அமைச்சராக இருக்கின்ற திரு. செளந்திரராஜன் அவர்கள் பெற்றவர்கள்`, scan 477 `சாது மிரண்டால் காடு தாங்காது`, and scan 478 `120 அடிக்கு மேலாக`.
 
+## Gate C final remainder
+
+**COMPLETE — scans 479–481 / 3 pages; cumulative 93 of 93.**
+
+Checks:
+
+- source-page markers **479→481** — **3/3 / exactly once / ordered**
+- cumulative source-page markers **389→481** — **93/93 / exactly once / ordered**
+- controlling source — **part020 local 4–6**
+- final scan 481 source ornament — **preserved**
+- boundary **481→482** — **PASS / scan 482 is Speech 18 start / excluded**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- OCR wording imported — **0**
+- web wording imported — **0**
+- Official Report / alternate anthology wording imported — **0**
+- verified against scan — **false; Gate C is first-pass transcription, not verification**
+
+Source-visible forms intentionally retained for later Gate-E fidelity verification include scan 479 `கல்நாட்டு விழாச் செய்து` / `நிறைவேற்று வதற்கு`, scan 480 `பார்சல் சேலஞ்சாக` / `பேரணாம்பேடு`, and scan 481 `1-1-58க்குள்`.
+
+## Gate C closure
+
+**PASS / COMPLETE — 93/93 first-pass pages.**
+
+- scans — **389–481**
+- printed pages — **388–480**
+- source markers — **93/93 / exactly once / ordered**
+- unresolved readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Speech 18 content — **0**
+
 ## Downstream state
 
-- Gate C — **IN PROGRESS / 90 of 93**
+- Gate C — **COMPLETE / 93 of 93**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
@@ -214,4 +245,4 @@ Source-visible forms intentionally retained for later Gate-E fidelity verificati
 
 ## Exact next activity
 
-**Speech 17 Gate C final remainder — scans 479–481 / printed pp.478–480 / exactly 3 pages.**
+**Speech 17 Gate C.5 applicability check / Gate D setup.**

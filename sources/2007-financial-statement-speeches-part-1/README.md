@@ -566,8 +566,8 @@ Working entry:
 - complete visual date-divider review — **no explicit internal divider found**
 - canonical single date — **NOT ASSIGNED**
 - page-level date split — **NOT ASSIGNED**
-- Gate C — **IN PROGRESS / Batch 9 COMPLETE / scans 389–478 / 90 of 93**
-- source markers — **389→478 / 90 / exactly once / ordered**
+- Gate C — **COMPLETE / scans 389–481 / 93 of 93 first-pass**
+- source markers — **389→481 / 93 / exactly once / ordered**
 - unresolved first-pass readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - Gates C.5–H — **NOT STARTED**
@@ -575,6 +575,6 @@ Working entry:
 
 ## Exact next activity
 
-**Speech 17 Gate C final remainder — scans 479–481 / printed pp.478–480 / exactly 3 pages.**
+**Speech 17 Gate C.5 applicability check / Gate D setup.**
 
-Do not begin Gate C.5 or Speech 18 in the same activity.
+Do not begin Gate C.5, Gate D or Speech 18 in the same activity as this Gate-C closure.

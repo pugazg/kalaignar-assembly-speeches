@@ -201,6 +201,33 @@ Conservative first-pass preservation includes scan-462 `1979-89இல் 137 ல
 
 Conservative first-pass preservation includes scan-470 `கட்டிக்கழிக்கவில்லை`, scan-471 `அமைச்சராக இருக்கின்ற திரு. செளந்திரராஜன் அவர்கள் பெற்றவர்கள்`, scan-477 `சாது மிரண்டால் காடு தாங்காது`, and scan-478 `120 அடிக்கு மேலாக`.
 
+## Gate C final remainder
+
+**COMPLETE — scans 479–481 / printed pp.478–480 / exactly 3 pages.**
+
+- controlling local pages — **part020 local 4–6**
+- markers — **479→481 / exactly once / ordered**
+- cumulative markers — **389→481 / 93/93 / exactly once / ordered**
+- unresolved readings — **0 currently flagged**
+- transcription source — **rendered pixels only**
+- scan 481 source ornament — **preserved / Speech 17 close**
+- boundary witness scan 482 / part020 local 7 — **Speech 18 start / excluded / PASS**
+- outside wording imported — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+
+Conservative first-pass preservation includes scan-479 `கல்நாட்டு விழாச் செய்து` / `நிறைவேற்று வதற்கு`, scan-480 `பார்சல் சேலஞ்சாக` / `பேரணாம்பேடு`, and scan-481 `1-1-58க்குள்`.
+
+## Gate C closure
+
+- status — **COMPLETE / 93 of 93**
+- scans — **389–481**
+- printed pages — **388–480**
+- source markers — **93/93 / exactly once / ordered**
+- unresolved first-pass readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- `verified_against_scan=false`
+- Speech 18 content imported — **0**
+
 ## Exact next
 
-**Gate C final remainder — scans 479–481 / exactly 3 pages.**
+**Gate C.5 applicability check / Gate D setup.**
