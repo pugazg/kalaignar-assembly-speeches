@@ -569,10 +569,10 @@ Working entry:
 - Gate C — **COMPLETE / scans 389–481 / 93 of 93 first-pass**
 - source markers — **389→481 / 93 / exactly once / ordered**
 - unresolved first-pass readings — **0**
-- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS / Batch 1 COMPLETE / scans 389–398 / 10 of 93 / 1 correction / 0 unresolved**
+- Gate E — **IN PROGRESS / Batches 1–2 COMPLETE / scans 389–408 / 20 of 93 / 2 corrections / 0 unresolved**
 - Gates F–H — **NOT STARTED**
 - outside wording imported — **0**
 
@@ -603,8 +603,21 @@ Markers, boundaries, four working-split continuations, speaker interventions, qu
 - scans 399–481 modified — **0**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 
+## Speech 17 Gate E Batch 2
+
+**PASS / COMPLETE — scans 399–408 / 20 of 93 cumulative verified.**
+
+- correction ledger — **1 entry / 1 occurrence in Batch 2**
+- affected scan — **399**
+- correction — `அதைப்போல` → `அதைப்போல்`
+- cumulative Gate-E corrections — **2 entries / 2 occurrences**
+- cumulative affected scans — **2 — scans 396, 399**
+- unresolved — **0**
+- scans 409–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
 ## Exact next activity
 
-**Speech 17 Gate E Batch 2 — scans 399–408 / printed pp.398–407 / exactly 10 pages.**
+**Speech 17 Gate E Batch 3 — scans 409–418 / printed pp.408–417 / exactly 10 pages.**
 
-Do not begin Batch 3, Gate F or Speech 18 in the same activity.
+Do not begin Batch 4, Gate F or Speech 18 in the same activity.

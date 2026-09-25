@@ -279,6 +279,32 @@ Correction:
 
 Gate E remains **IN PROGRESS**.
 
+## Gate E — Batch 2 / scans 399–408
+
+**PASS / COMPLETE — 10 pages; cumulative 20 of 93.**
+
+- verified scans — **399–408**
+- verified printed pages — **398–407**
+- controlling local pages — **part016 local 24–25 + part017 local 1–8**
+- markers — **399→408 / exactly once / ordered**
+- source-fidelity corrections — **1 entry / 1 occurrence**
+- affected scan — **399**
+- cumulative Gate-E corrections — **2 entries / 2 occurrences**
+- cumulative affected scans — **2 — scans 396, 399**
+- unresolved readings — **0**
+- source-printed English on scan 404 — **preserved**
+- outside wording imported — **0**
+- scans 409–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Correction:
+
+- scan 399 / printed p.398 — `அதைப்போல` → `அதைப்போல்` in `மண்ணுக்குள் போய்விட்டதே அதைப்போல் இந்தத் திட்டம்`, matching the rendered source.
+
+No other source-backed wording or punctuation correction was found in scans 399–408. Source-visible scan-400 `18ந்தேதி`, scan-402 `மூன்றாவது புதிய குழுவின்`, scan-407 `செளந்திரராசன்`, and the scan-404 printed English proceedings block were retained.
+
+Gate E remains **IN PROGRESS**.
+
 ## Exact next
 
-**Gate E Batch 2 — scans 399–408 / exactly 10 pages.**
+**Gate E Batch 3 — scans 409–418 / exactly 10 pages.**

@@ -56,11 +56,11 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate C — **COMPLETE — scans 389–481 / 93 of 93 first-pass**
 - first-pass unresolved readings — **0**
 - source markers present — **389→481 / 93 / exactly once / ordered**
-- Tamil — **TRANSCRIBED / NOT VERIFIED**
+- Tamil — **PARTIALLY VERIFIED**
 - `verified_against_scan=false`
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batch 1 COMPLETE / scans 389–398 / 10 of 93 verified / 1 correction / 0 unresolved**
+- Gate E — **IN PROGRESS — Batches 1–2 COMPLETE / scans 389–408 / 20 of 93 verified / 2 corrections / 0 unresolved**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -132,8 +132,24 @@ Correction ledger:
 
 No other source-backed wording or punctuation correction was found in scans 389–398. Source oddities, figures, punctuation and existing source-visible forms were otherwise retained.
 
+## Gate E Batch 2 result
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — scans 399–408 / 10 pages; cumulative 20 of 93.**
+
+- Batch-2 corrections — **1 entry / 1 occurrence**
+- affected scan — **399**
+- correction — `அதைப்போல` → `அதைப்போல்`
+- cumulative Gate-E corrections — **2 entries / 2 occurrences**
+- cumulative affected scans — **2 — scans 396, 399**
+- unresolved — **0**
+- source-printed English on scan 404 — **preserved**
+- scans 409–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+No other source-backed wording or punctuation correction was found in scans 399–408.
+
 ## Exact next activity
 
-**Gate E Batch 2 — scans 399–408 / printed pp.398–407 / exactly 10 pages.**
+**Gate E Batch 3 — scans 409–418 / printed pp.408–417 / exactly 10 pages.**
 
-Do not begin Batch 3, Gate F or Speech 18 in the same activity.
+Do not begin Batch 4, Gate F or Speech 18 in the same activity.

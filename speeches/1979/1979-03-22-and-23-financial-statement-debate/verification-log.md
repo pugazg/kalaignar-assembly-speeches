@@ -295,12 +295,40 @@ Gate-E Batch-1 correction ledger:
 
 No other source-backed wording or punctuation correction was found in scans 389–398.
 
+## Gate E — Batch 2 / scans 399–408
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 pages; cumulative 20 of 93.**
+
+Coverage:
+
+- verified scans — **399–408**
+- verified printed pages — **398–407**
+- verified pages — **10/10 in batch; cumulative 20/93**
+- split/local coverage — **part016 local 24–25 + part017 local 1–8**
+- source markers in batch — **399→408 / 10 / exactly once / ordered**
+- Gate-E Batch-2 correction ledger — **1 entry / 1 occurrence**
+- Batch-2 affected scans — **1 — 399**
+- cumulative Gate-E corrections — **2 entries / 2 occurrences**
+- cumulative affected scans — **2 — scans 396, 399**
+- unresolved readings — **0**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- source-printed English on scan 404 — **preserved verbatim**
+- scans **409–481** modified in this activity — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Gate-E Batch-2 correction ledger:
+
+1. **scan 399 / printed p.398** — `மண்ணுக்குள் போய்விட்டதே அதைப்போல இந்தத் திட்டம்` → `மண்ணுக்குள் போய்விட்டதே அதைப்போல் இந்தத் திட்டம்`
+   - the rendered source visibly prints `அதைப்போல்`.
+
+No other source-backed wording or punctuation correction was found in scans 399–408. Source-visible scan-400 `18ந்தேதி`, scan-402 `மூன்றாவது புதிய குழுவின்`, scan-407 `செளந்திரராசன்`, and the scan-404 printed English proceedings block were retained without normalization.
+
 ## Downstream state
 
 - Gate C — **COMPLETE / 93 of 93**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS / 10 of 93 verified**
+- Gate E — **IN PROGRESS / 20 of 93 verified**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -308,4 +336,4 @@ No other source-backed wording or punctuation correction was found in scans 389�
 
 ## Exact next activity
 
-**Speech 17 Gate E Batch 2 — scans 399–408 / printed pp.398–407 / exactly 10 pages.**
+**Speech 17 Gate E Batch 3 — scans 409–418 / printed pp.408–417 / exactly 10 pages.**
