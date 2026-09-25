@@ -571,8 +571,9 @@ Working entry:
 - unresolved first-pass readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
-- Gate D — **READY / NOT STARTED**
-- Gates E–H — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 transitions / 0 completeness corrections**
+- Gate E — **READY / NOT STARTED**
+- Gates F–H — **NOT STARTED**
 - outside wording imported — **0**
 
 ## Speech 17 Gate C.5 result
@@ -585,8 +586,14 @@ The anthology is modern 2007 typesetting. No page-specific legacy typeform anoma
 - unresolved historical-glyph readings — **0**
 - Tamil wording changes — **0**
 
+## Speech 17 Gate D result
+
+**PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections.**
+
+Markers, boundaries, four working-split continuations, speaker interventions, quotations, figures, source-printed English, source-visible repetition, the scan-435 footnote and scan-481 close all passed structural audit. Tamil remains **TRANSCRIBED / NOT VERIFIED**.
+
 ## Exact next activity
 
-**Speech 17 Gate D structural audit — scans 389–481 / 93 pages.**
+**Speech 17 Gate E Batch 1 — scans 389–398 / printed pp.388–397 / exactly 10 pages.**
 
-Do not begin Gate E or Speech 18 in the same activity.
+Do not begin Batch 2 or Speech 18 in the same activity.

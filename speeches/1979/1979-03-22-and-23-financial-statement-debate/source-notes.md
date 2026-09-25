@@ -240,8 +240,26 @@ Conservative first-pass preservation includes scan-479 `கல்நாட்ட
 - unresolved historical-glyph readings — **0**
 - Tamil wording changes — **0**
 
-Gate D is **READY / NOT STARTED**.
+## Gate D structural audit
+
+**PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections.**
+
+- marker range — **389→481 / exactly once / ordered**
+- missing / duplicate / empty sections — **0 / 0 / 0**
+- hard boundaries — **388→389 PASS / 481→482 PASS**
+- split continuations — **400→401 PASS / 425→426 PASS / 450→451 PASS / 475→476 PASS**
+- speaker labels / interventions — **represented**
+- quotations / figures / source-visible repetition — **represented**
+- source-printed English — **represented on scans 404, 411, 425, 426, 459, 460, 474**
+- embedded English **Ivory tower / down to earth approach** — **represented on scans 457–458**
+- scan-435 source footnote — **represented**
+- scan-481 source close — **PASS**
+- completeness corrections — **0**
+- Tamil wording changes — **0**
+- Tamil state — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+
+Gate E is **READY / NOT STARTED**.
 
 ## Exact next
 
-**Gate D structural audit — scans 389–481 / 93 pages.**
+**Gate E Batch 1 — scans 389–398 / exactly 10 pages.**

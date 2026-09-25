@@ -59,8 +59,8 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
-- Gate D — **READY / NOT STARTED**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**
+- Gate E — **READY / NOT STARTED**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -85,8 +85,28 @@ The controlling witness is the **modern 2007 typesetting**. The anthology-level 
 - Tamil wording changes — **0**
 - multi-date source-unit policy — **unchanged**
 
+## Gate D result
+
+**PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections.**
+
+Structural audit against the controlling anthology pixels confirmed:
+
+- source markers **389→481** — **93/93 / exactly once / ordered**
+- missing / duplicate / empty source sections — **0 / 0 / 0**
+- hard boundaries **388→389 / 481→482** — **PASS**
+- split continuations **400→401 / 425→426 / 450→451 / 475→476** — **PASS**
+- speaker labels / interventions — **represented**
+- quotations / figures / source-visible repetition — **represented**
+- source-printed English on scans **404, 411, 425, 426, 459, 460, 474** — **represented**
+- embedded English on scans **457–458** — **represented**
+- scan-435 source footnote — **represented**
+- scan-481 close / source ornament — **confirmed**
+- Tamil wording changes at Gate D — **0**
+
+Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**.
+
 ## Exact next activity
 
-**Gate D structural audit — scans 389–481 / 93 pages.**
+**Gate E Batch 1 — scans 389–398 / printed pp.388–397 / exactly 10 pages.**
 
-Audit structural completeness only. Do not perform Gate-E wording verification, and do not begin Speech 18 in the same activity.
+Do not begin Batch 2 or Speech 18 in the same activity.

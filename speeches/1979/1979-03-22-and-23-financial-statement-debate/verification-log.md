@@ -244,14 +244,36 @@ Source-visible forms intentionally retained for later Gate-E fidelity verificati
 - source markers — **unchanged / 389→481 / 93/93**
 - multi-date source policy — **unchanged**
 
+## Gate D
+
+**PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections.**
+
+Checks:
+
+- source-page markers **389→481** — **93/93 / exactly once / ordered**
+- missing pages — **0**
+- duplicate pages — **0**
+- empty page sections — **0**
+- hard boundaries **388→389 / 481→482** — **PASS**
+- working-split continuations **400→401 / 425→426 / 450→451 / 475→476** — **PASS**
+- speaker labels / interventions — **represented**
+- quotations / figures / repetition — **structurally represented**
+- source-printed English scans **404 / 411 / 425 / 426 / 459 / 460 / 474** — **represented**
+- embedded English scans **457–458** — **represented**
+- scan-435 footnote — **represented**
+- scan-481 source close / ornament — **PASS**
+- completeness corrections — **0**
+- Tamil wording changes — **0**
+- outside wording imported — **0**
+
+Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**.
+
 ## Downstream state
 
 - Gate C — **COMPLETE / 93 of 93**
 - Gate C.5 — **N/A / CLOSED**
-- Gate D — **READY / NOT STARTED**
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
-- Gate E — **NOT STARTED**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **READY / NOT STARTED**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -259,4 +281,4 @@ Source-visible forms intentionally retained for later Gate-E fidelity verificati
 
 ## Exact next activity
 
-**Speech 17 Gate D structural audit — scans 389–481 / 93 pages.**
+**Speech 17 Gate E Batch 1 — scans 389–398 / printed pp.388–397 / exactly 10 pages.**

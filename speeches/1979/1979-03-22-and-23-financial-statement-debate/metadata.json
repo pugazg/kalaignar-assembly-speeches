@@ -124,7 +124,7 @@
     "final_remainder_may_be_under_10": true,
     "current_gate_c_batch": "479-481 / 3 pages FINAL / COMPLETE",
     "next_gate_c_batch": null,
-    "next_activity": "Gate D structural audit scans 389-481 / 93 pages"
+    "next_activity": "Gate E Batch 1 scans 389-398 / exactly 10 pages"
   },
   "transcription": {
     "language": "Tamil",
@@ -149,14 +149,32 @@
     "unresolved_reading_count": 0,
     "verified_against_scan": false,
     "outside_wording_imported": false,
-    "next_gate": "Gate D structural audit",
+    "next_gate": "Gate E Batch 1",
     "gate_c_batches_completed": 10,
     "last_completed_batch": "479-481 / 3 pages FINAL",
     "gate_c5_status": "n-a-closed",
     "gate_c5_applicability": "not-applicable-across-pdf",
     "gate_c5_historical_glyph_corrections": 0,
     "gate_c5_unresolved": 0,
-    "gate_d_status": "ready-not-started"
+    "gate_d_status": "pass-complete",
+    "gate_d_structural_page_count": 93,
+    "gate_d_marker_range": "389-481",
+    "gate_d_internal_transition_count": 92,
+    "gate_d_internal_transition_pass_count": 92,
+    "gate_d_missing_pages": 0,
+    "gate_d_duplicate_pages": 0,
+    "gate_d_empty_pages": 0,
+    "gate_d_boundary_start": "388->389 PASS",
+    "gate_d_boundary_end": "481->482 PASS",
+    "gate_d_split_continuations": [
+      "400->401 PASS",
+      "425->426 PASS",
+      "450->451 PASS",
+      "475->476 PASS"
+    ],
+    "gate_d_completeness_corrections": 0,
+    "gate_d_tamil_wording_changes": 0,
+    "gate_e_status": "ready-not-started"
   },
   "translation": {
     "language": "English",
