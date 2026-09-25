@@ -369,6 +369,34 @@ No other source-backed wording or punctuation correction was found in scans 419�
 
 Gate E remains **IN PROGRESS**.
 
+## Gate E — Batch 5 / scans 429–438
+
+**PASS / COMPLETE — 10 pages; cumulative 50 of 93.**
+
+- verified scans — **429–438**
+- verified printed pages — **428–437**
+- controlling local pages — **part018 local 4–13**
+- markers — **429→438 / exactly once / ordered**
+- source-fidelity corrections — **3 entries / 3 occurrences**
+- affected scans — **2 — scans 430, 432**
+- cumulative Gate-E corrections — **18 entries / 18 occurrences**
+- cumulative affected scans — **14 — scans 396, 399, 409, 412, 415, 418, 419, 420, 422, 423, 425, 427, 430, 432**
+- unresolved readings — **0**
+- scan-435 source footnote — **preserved**
+- outside wording imported — **0**
+- scans 439–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Corrections:
+
+1. scan 430 / printed p.429 — `முதலமைச்சர் என்கிற ரீதியில் அல்ல,` → `முதலமைச்சர் என்கிற ரீதியில் அல்ல.`
+2. scan 430 / printed p.429 — `என்பதில் தான் நான் ஈடுபட்டு கொண்டிருக்கிறேன்` → `என்பதில் தான் நான் ஈடுபட்டுக் கொண்டிருக்கிறேன்`
+3. scan 432 / printed p.431 — `அவர்கள் இந்தக் கேள்வியைக் கேட்டபதிலிருந்து ஒரு பதிலை` → `அவர்கள் இந்தக் கேள்வியைக் கேட்டதிலிருந்து ஒரு பதிலை`
+
+No other source-backed wording or punctuation correction was found in scans 429–438. Source-visible scan-431 `மிஸ்ஸி`, scan-432 `அனுப்பு வதற்கு`, scan-436 `அப்பொழுதி லிருந்தே`, scan-437 `தெரியப் படுத்தி விட்டேன்`, scan-438 `குற்றங்களே`, and the scan-435 source footnote were retained.
+
+Gate E remains **IN PROGRESS**.
+
 ## Exact next
 
-**Gate E Batch 5 — scans 429–438 / exactly 10 pages.**
+**Gate E Batch 6 — scans 439–448 / exactly 10 pages.**

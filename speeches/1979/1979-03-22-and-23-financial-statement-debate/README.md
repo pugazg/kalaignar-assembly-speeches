@@ -60,7 +60,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - `verified_against_scan=false`
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batches 1–4 COMPLETE / scans 389–428 / 40 of 93 verified / 15 corrections / 0 unresolved**
+- Gate E — **IN PROGRESS — Batches 1–5 COMPLETE / scans 389–438 / 50 of 93 verified / 18 corrections / 0 unresolved**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -184,8 +184,23 @@ No other source-backed wording or punctuation correction was found in scans 409�
 
 No other source-backed wording or punctuation correction was found in scans 419–428. Source-visible scan-419 `ஜார்ஜ் பெர்னான்ட்ஸ்`, scan-420 `எ2/36745/76`, scan-427 `நாலரை ரூபாய் ஆராதி`, and the source-printed English on scans 425–426 were retained.
 
+## Gate E Batch 5 result
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — scans 429–438 / 10 pages; cumulative 50 of 93.**
+
+- Batch-5 corrections — **3 entries / 3 occurrences**
+- affected scans — **2 — scans 430, 432**
+- cumulative Gate-E corrections — **18 entries / 18 occurrences**
+- cumulative affected scans — **14 — scans 396, 399, 409, 412, 415, 418, 419, 420, 422, 423, 425, 427, 430, 432**
+- unresolved — **0**
+- scan-435 source footnote — **preserved**
+- scans 439–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+No other source-backed wording or punctuation correction was found in scans 429–438. Source-visible scan-431 `மிஸ்ஸி`, scan-432 `அனுப்பு வதற்கு`, scan-436 `அப்பொழுதி லிருந்தே`, scan-437 `தெரியப் படுத்தி விட்டேன்`, and scan-438 `குற்றங்களே` were retained.
+
 ## Exact next activity
 
-**Gate E Batch 5 — scans 429–438 / printed pp.428–437 / exactly 10 pages.**
+**Gate E Batch 6 — scans 439–448 / printed pp.438–447 / exactly 10 pages.**
 
-Do not begin Batch 6, Gate F or Speech 18 in the same activity.
+Do not begin Batch 7, Gate F or Speech 18 in the same activity.

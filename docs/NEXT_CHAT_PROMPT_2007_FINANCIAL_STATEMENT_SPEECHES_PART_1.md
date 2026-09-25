@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate E Batch 5 — scans 429–438
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate E Batch 6 — scans 439–448
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -26,27 +26,21 @@ Gate state:
 - Gate C — **COMPLETE / 93 of 93 first-pass**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 93 of 93 / 92 of 92 internal transitions / 0 completeness corrections**
-- Gate E Batches 1–4 — **PASS / COMPLETE through scans 419–428 / 40 pages**
-- Gate-E cumulative verified pages — **40 of 93**
-- Gate-E cumulative corrections — **15 entries / 15 occurrences**
-- Gate-E cumulative affected scans — **12**
+- Gate E Batches 1–5 — **PASS / COMPLETE through scans 429–438 / 50 pages**
+- Gate-E cumulative verified pages — **50 of 93**
+- Gate-E cumulative corrections — **18 entries / 18 occurrences**
+- Gate-E cumulative affected scans — **14**
 - unresolved Gate-E readings — **0**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - Gates F–H — **NOT STARTED**
 - Speech 18 — **NOT STARTED**
 - outside wording imported — **0**
 
-Gate-E Batch-4 corrections:
+Gate-E Batch-5 corrections:
 
-- scan 419 — `என்று கேட்டுக்கொள்கிறேன்.` → `என்று கேட்கிறேன்.`
-- scan 419 — `கொடுத்தவில்லை` → `கொடுக்கவில்லை`
-- scan 419 — `26-5-1976` → `26 - 5. - 1976`
-- scan 420 — `முதலமைச்சராக இருந்தபோது` → `முதலமைச்சர் ஆக இருந்தபோது`
-- scan 422 — `விசாரணைக்கு வந்தபோது` → `விசாரணைக்கு வந்த போது`
-- scan 423 — `குறிப்பிட்ட விரும்புகிறேன்` → `குறிப்பிட விரும்புகிறேன்`
-- scan 425 — `தலைமைச் செயலத் உள்துறைக்` → `தலைமைச் செயலக உள்துறைக்`
-- scan 425 — `P.S Crime No.708/77-I.P.C.` → `P.S.Crime No.708/77-I.P.C.`
-- scan 427 — `செயல்படுகிறது....` → `செயல்படுகிறது...`
+- scan 430 — `முதலமைச்சர் என்கிற ரீதியில் அல்ல,` → `முதலமைச்சர் என்கிற ரீதியில் அல்ல.`
+- scan 430 — `ஈடுபட்டு கொண்டிருக்கிறேன்` → `ஈடுபட்டுக் கொண்டிருக்கிறேன்`
+- scan 432 — `கேட்டபதிலிருந்து` → `கேட்டதிலிருந்து`
 
 ## Fixed Gate-E iteration rule
 
@@ -55,17 +49,17 @@ Gate-E Batch-4 corrections:
 
 ## Exact next activity
 
-Perform **Speech 17 Gate E Batch 5 — scans 429–438 / printed pp.428–437 / exactly 10 pages**.
+Perform **Speech 17 Gate E Batch 6 — scans 439–448 / printed pp.438–447 / exactly 10 pages**.
 
 Requirements:
 
 1. compare the current Tamil transcription directly against rendered pixels of the controlling anthology only;
-2. apply every source-supported fidelity correction found in scans **429–438**;
+2. apply every source-supported fidelity correction found in scans **439–448**;
 3. preserve source spelling, punctuation, numerals, speaker labels/interventions, repetition and source-printed English;
 4. record every correction with scan number and before→after wording;
 5. import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other outside witnesses;
 6. keep the multi-date source-unit policy unchanged and do not invent a page-level date split;
-7. leave scans **439–481** unchanged in this activity;
+7. leave scans **449–481** unchanged in this activity;
 8. after success, synchronize Speech-17 and anthology controls;
-9. exact next: **Gate E Batch 6 — scans 439–448 / exactly 10 pages**;
-10. do not begin Batch 6, Gate F or Speech 18 in the same activity.
+9. exact next: **Gate E Batch 7 — scans 449–458 / exactly 10 pages**;
+10. do not begin Batch 7, Gate F or Speech 18 in the same activity.

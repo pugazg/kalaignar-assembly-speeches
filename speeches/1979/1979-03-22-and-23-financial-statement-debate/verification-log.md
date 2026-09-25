@@ -402,12 +402,44 @@ Gate-E Batch-4 correction ledger:
 
 No other source-backed wording or punctuation correction was found in scans 419–428. Source-visible scan-419 `ஜார்ஜ் பெர்னான்ட்ஸ்`, scan-420 `எ2/36745/76`, scan-427 `நாலரை ரூபாய் ஆராதி`, and the source-printed English on scans 425–426 were retained without normalization.
 
+## Gate E — Batch 5 / scans 429–438
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 pages; cumulative 50 of 93.**
+
+Coverage:
+
+- verified scans — **429–438**
+- verified printed pages — **428–437**
+- verified pages — **10/10 in batch; cumulative 50/93**
+- split/local coverage — **part018 local 4–13**
+- source markers in batch — **429→438 / 10 / exactly once / ordered**
+- Gate-E Batch-5 correction ledger — **3 entries / 3 occurrences**
+- Batch-5 affected scans — **2 — scans 430, 432**
+- cumulative Gate-E corrections — **18 entries / 18 occurrences**
+- cumulative affected scans — **14 — scans 396, 399, 409, 412, 415, 418, 419, 420, 422, 423, 425, 427, 430, 432**
+- unresolved readings — **0**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- scan-435 source footnote — **preserved**
+- scans **439–481** modified in this activity — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Gate-E Batch-5 correction ledger:
+
+1. **scan 430 / printed p.429** — `முதலமைச்சர் என்கிற ரீதியில் அல்ல,` → `முதலமைச்சர் என்கிற ரீதியில் அல்ல.`
+   - the source ends the sentence with a full stop.
+2. **scan 430 / printed p.429** — `என்பதில் தான் நான் ஈடுபட்டு கொண்டிருக்கிறேன்` → `என்பதில் தான் நான் ஈடுபட்டுக் கொண்டிருக்கிறேன்`
+   - the source prints `ஈடுபட்டுக்`.
+3. **scan 432 / printed p.431** — `அவர்கள் இந்தக் கேள்வியைக் கேட்டபதிலிருந்து ஒரு பதிலை` → `அவர்கள் இந்தக் கேள்வியைக் கேட்டதிலிருந்து ஒரு பதிலை`
+   - the source prints `கேட்டதிலிருந்து`.
+
+No other source-backed wording or punctuation correction was found in scans 429–438. Source-visible scan-431 `மிஸ்ஸி`, scan-432 `அனுப்பு வதற்கு`, scan-436 `அப்பொழுதி லிருந்தே`, scan-437 `தெரியப் படுத்தி விட்டேன்`, scan-438 `குற்றங்களே`, and the scan-435 source footnote were retained without normalization.
+
 ## Downstream state
 
 - Gate C — **COMPLETE / 93 of 93**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS / 40 of 93 verified**
+- Gate E — **IN PROGRESS / 50 of 93 verified**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -415,4 +447,4 @@ No other source-backed wording or punctuation correction was found in scans 419�
 
 ## Exact next activity
 
-**Speech 17 Gate E Batch 5 — scans 429–438 / printed pp.428–437 / exactly 10 pages.**
+**Speech 17 Gate E Batch 6 — scans 439–448 / printed pp.438–447 / exactly 10 pages.**
