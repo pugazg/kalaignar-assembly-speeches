@@ -334,6 +334,41 @@ No other source-backed wording or punctuation correction was found in scans 409�
 
 Gate E remains **IN PROGRESS**.
 
+## Gate E — Batch 4 / scans 419–428
+
+**PASS / COMPLETE — 10 pages; cumulative 40 of 93.**
+
+- verified scans — **419–428**
+- verified printed pages — **418–427**
+- controlling local pages — **part017 local 19–25 + part018 local 1–3**
+- split continuation **425→426** — **PASS / unchanged**
+- markers — **419→428 / exactly once / ordered**
+- source-fidelity corrections — **9 entries / 9 occurrences**
+- affected scans — **6 — scans 419, 420, 422, 423, 425, 427**
+- cumulative Gate-E corrections — **15 entries / 15 occurrences**
+- cumulative affected scans — **12 — scans 396, 399, 409, 412, 415, 418, 419, 420, 422, 423, 425, 427**
+- unresolved readings — **0**
+- source-printed English on scans 425–426 — **preserved verbatim**
+- outside wording imported — **0**
+- scans 429–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Corrections:
+
+1. scan 419 / printed p.418 — `என்ன நியாயம் என்று முதலமைச்சர் அவர்கள் எண்ணிப் பார்க்கவேண்டும் என்று கேட்டுக்கொள்கிறேன்.` → `என்ன நியாயம் என்று முதலமைச்சர் அவர்கள் எண்ணிப் பார்க்கவேண்டும் என்று கேட்கிறேன்.`
+2. scan 419 / printed p.418 — `ஆனால் 73ல் கொடுத்தவில்லை.` → `ஆனால் 73ல் கொடுக்கவில்லை.`
+3. scan 419 / printed p.418 — `26-5-1976 அன்று` → `26 - 5. - 1976 அன்று`
+4. scan 420 / printed p.419 — `அறிஞர் அண்ணா அவர்கள் முதலமைச்சராக இருந்தபோது` → `அறிஞர் அண்ணா அவர்கள் முதலமைச்சர் ஆக இருந்தபோது`
+5. scan 422 / printed p.421 — `அந்த மனு விசாரணைக்கு வந்தபோது அந்த விசாரணையில்` → `அந்த மனு விசாரணைக்கு வந்த போது அந்த விசாரணையில்`
+6. scan 423 / printed p.422 — `என்றாலும் ஒன்றை நான் குறிப்பிட்ட விரும்புகிறேன்.` → `என்றாலும் ஒன்றை நான் குறிப்பிட விரும்புகிறேன்.`
+7. scan 425 / printed p.424 — `தலைமைச் செயலத் உள்துறைக் துணைச் செயலாளருக்கு` → `தலைமைச் செயலக உள்துறைக் துணைச் செயலாளருக்கு`
+8. scan 425 / printed p.424 — `P.S Crime No.708/77-I.P.C.` → `P.S.Crime No.708/77-I.P.C.`
+9. scan 427 / printed p.426 — `இந்த அரசு எப்படி செயல்படுகிறது....` → `இந்த அரசு எப்படி செயல்படுகிறது...`
+
+No other source-backed wording or punctuation correction was found in scans 419–428. Source-visible scan-419 `ஜார்ஜ் பெர்னான்ட்ஸ்`, scan-420 `எ2/36745/76`, scan-427 `நாலரை ரூபாய் ஆராதி`, and the source-printed English on scans 425–426 were retained.
+
+Gate E remains **IN PROGRESS**.
+
 ## Exact next
 
-**Gate E Batch 4 — scans 419–428 / exactly 10 pages.**
+**Gate E Batch 5 — scans 429–438 / exactly 10 pages.**

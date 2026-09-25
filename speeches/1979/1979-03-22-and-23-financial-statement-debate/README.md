@@ -60,7 +60,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - `verified_against_scan=false`
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batches 1–3 COMPLETE / scans 389–418 / 30 of 93 verified / 6 corrections / 0 unresolved**
+- Gate E — **IN PROGRESS — Batches 1–4 COMPLETE / scans 389–428 / 40 of 93 verified / 15 corrections / 0 unresolved**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -168,8 +168,24 @@ No other source-backed wording or punctuation correction was found in scans 399�
 
 No other source-backed wording or punctuation correction was found in scans 409–418. Source-visible scan-409 `5.1.73`, scan-416 `ப்ரூஃப் லிட்டர்`, and scan-417 `அன்ரெஸ்டிரிக்டட்` / `காம்பனண்ட்ஸ் பென்சாயின்` / `சோப் எலிமென்ட்` were retained.
 
+## Gate E Batch 4 result
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — scans 419–428 / 10 pages; cumulative 40 of 93.**
+
+- Batch-4 corrections — **9 entries / 9 occurrences**
+- affected scans — **6 — scans 419, 420, 422, 423, 425, 427**
+- cumulative Gate-E corrections — **15 entries / 15 occurrences**
+- cumulative affected scans — **12 — scans 396, 399, 409, 412, 415, 418, 419, 420, 422, 423, 425, 427**
+- unresolved — **0**
+- source-printed English on scans 425–426 — **preserved verbatim**
+- split continuation 425→426 — **PASS / unchanged**
+- scans 429–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+No other source-backed wording or punctuation correction was found in scans 419–428. Source-visible scan-419 `ஜார்ஜ் பெர்னான்ட்ஸ்`, scan-420 `எ2/36745/76`, scan-427 `நாலரை ரூபாய் ஆராதி`, and the source-printed English on scans 425–426 were retained.
+
 ## Exact next activity
 
-**Gate E Batch 4 — scans 419–428 / printed pp.418–427 / exactly 10 pages.**
+**Gate E Batch 5 — scans 429–438 / printed pp.428–437 / exactly 10 pages.**
 
-Do not begin Batch 5, Gate F or Speech 18 in the same activity.
+Do not begin Batch 6, Gate F or Speech 18 in the same activity.

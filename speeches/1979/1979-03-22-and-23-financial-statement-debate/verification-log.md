@@ -357,12 +357,57 @@ Gate-E Batch-3 correction ledger:
 
 No other source-backed wording or punctuation correction was found in scans 409–418. Source-visible scan-409 `5.1.73`, scan-416 `ப்ரூஃப் லிட்டர்`, scan-417 `அன்ரெஸ்டிரிக்டட்` / `காம்பனண்ட்ஸ் பென்சாயின்` / `சோப் எலிமென்ட்`, and the scan-411 printed English block were retained without normalization.
 
+## Gate E — Batch 4 / scans 419–428
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 pages; cumulative 40 of 93.**
+
+Coverage:
+
+- verified scans — **419–428**
+- verified printed pages — **418–427**
+- verified pages — **10/10 in batch; cumulative 40/93**
+- split/local coverage — **part017 local 19–25 + part018 local 1–3**
+- split continuation **425→426** — **PASS / unchanged**
+- source markers in batch — **419→428 / 10 / exactly once / ordered**
+- Gate-E Batch-4 correction ledger — **9 entries / 9 occurrences**
+- Batch-4 affected scans — **6 — scans 419, 420, 422, 423, 425, 427**
+- cumulative Gate-E corrections — **15 entries / 15 occurrences**
+- cumulative affected scans — **12 — scans 396, 399, 409, 412, 415, 418, 419, 420, 422, 423, 425, 427**
+- unresolved readings — **0**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- source-printed English on scans 425–426 — **preserved verbatim**
+- scans **429–481** modified in this activity — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Gate-E Batch-4 correction ledger:
+
+1. **scan 419 / printed p.418** — `என்ன நியாயம் என்று முதலமைச்சர் அவர்கள் எண்ணிப் பார்க்கவேண்டும் என்று கேட்டுக்கொள்கிறேன்.` → `என்ன நியாயம் என்று முதலமைச்சர் அவர்கள் எண்ணிப் பார்க்கவேண்டும் என்று கேட்கிறேன்.`
+   - the source prints `கேட்கிறேன்`.
+2. **scan 419 / printed p.418** — `ஆனால் 73ல் கொடுத்தவில்லை.` → `ஆனால் 73ல் கொடுக்கவில்லை.`
+   - the source prints `கொடுக்கவில்லை`.
+3. **scan 419 / printed p.418** — `26-5-1976 அன்று` → `26 - 5. - 1976 அன்று`
+   - the source-visible punctuation and spacing are retained.
+4. **scan 420 / printed p.419** — `அறிஞர் அண்ணா அவர்கள் முதலமைச்சராக இருந்தபோது` → `அறிஞர் அண்ணா அவர்கள் முதலமைச்சர் ஆக இருந்தபோது`
+   - the source visibly separates `முதலமைச்சர் ஆக`.
+5. **scan 422 / printed p.421** — `அந்த மனு விசாரணைக்கு வந்தபோது அந்த விசாரணையில்` → `அந்த மனு விசாரணைக்கு வந்த போது அந்த விசாரணையில்`
+   - the source visibly separates `வந்த போது`.
+6. **scan 423 / printed p.422** — `என்றாலும் ஒன்றை நான் குறிப்பிட்ட விரும்புகிறேன்.` → `என்றாலும் ஒன்றை நான் குறிப்பிட விரும்புகிறேன்.`
+   - the source prints `குறிப்பிட`.
+7. **scan 425 / printed p.424** — `தலைமைச் செயலத் உள்துறைக் துணைச் செயலாளருக்கு` → `தலைமைச் செயலக உள்துறைக் துணைச் செயலாளருக்கு`
+   - the source prints `தலைமைச் செயலக`.
+8. **scan 425 / printed p.424** — `P.S Crime No.708/77-I.P.C.` → `P.S.Crime No.708/77-I.P.C.`
+   - the source-printed English has no space after `P.S.`.
+9. **scan 427 / printed p.426** — `இந்த அரசு எப்படி செயல்படுகிறது....` → `இந்த அரசு எப்படி செயல்படுகிறது...`
+   - the source prints three dots.
+
+No other source-backed wording or punctuation correction was found in scans 419–428. Source-visible scan-419 `ஜார்ஜ் பெர்னான்ட்ஸ்`, scan-420 `எ2/36745/76`, scan-427 `நாலரை ரூபாய் ஆராதி`, and the source-printed English on scans 425–426 were retained without normalization.
+
 ## Downstream state
 
 - Gate C — **COMPLETE / 93 of 93**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS / 30 of 93 verified**
+- Gate E — **IN PROGRESS / 40 of 93 verified**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -370,4 +415,4 @@ No other source-backed wording or punctuation correction was found in scans 409�
 
 ## Exact next activity
 
-**Speech 17 Gate E Batch 4 — scans 419–428 / printed pp.418–427 / exactly 10 pages.**
+**Speech 17 Gate E Batch 5 — scans 429–438 / printed pp.428–437 / exactly 10 pages.**
