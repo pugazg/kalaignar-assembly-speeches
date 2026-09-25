@@ -572,7 +572,7 @@ Working entry:
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 transitions / 0 completeness corrections**
-- Gate E — **READY / NOT STARTED**
+- Gate E — **IN PROGRESS / Batch 1 COMPLETE / scans 389–398 / 10 of 93 / 1 correction / 0 unresolved**
 - Gates F–H — **NOT STARTED**
 - outside wording imported — **0**
 
@@ -592,8 +592,19 @@ The anthology is modern 2007 typesetting. No page-specific legacy typeform anoma
 
 Markers, boundaries, four working-split continuations, speaker interventions, quotations, figures, source-printed English, source-visible repetition, the scan-435 footnote and scan-481 close all passed structural audit. Tamil remains **TRANSCRIBED / NOT VERIFIED**.
 
+## Speech 17 Gate E Batch 1
+
+**PASS / COMPLETE — scans 389–398 / 10 of 93 verified.**
+
+- correction ledger — **1 entry / 1 occurrence**
+- affected scan — **396**
+- correction — `வேலையில்லாத` → `வேலை யில்லாத`
+- unresolved — **0**
+- scans 399–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
 ## Exact next activity
 
-**Speech 17 Gate E Batch 1 — scans 389–398 / printed pp.388–397 / exactly 10 pages.**
+**Speech 17 Gate E Batch 2 — scans 399–408 / printed pp.398–407 / exactly 10 pages.**
 
-Do not begin Batch 2 or Speech 18 in the same activity.
+Do not begin Batch 3, Gate F or Speech 18 in the same activity.

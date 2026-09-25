@@ -258,8 +258,27 @@ Conservative first-pass preservation includes scan-479 `கல்நாட்ட
 - Tamil wording changes — **0**
 - Tamil state — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 
-Gate E is **READY / NOT STARTED**.
+## Gate E — Batch 1 / scans 389–398
+
+**PASS / COMPLETE — 10 pages; cumulative 10 of 93.**
+
+- verified scans — **389–398**
+- verified printed pages — **388–397**
+- controlling local pages — **part016 local 14–23**
+- markers — **389→398 / exactly once / ordered**
+- source-fidelity corrections — **1 entry / 1 occurrence**
+- affected scans — **1 — 396**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- scans 399–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Correction:
+
+- scan 396 / printed p.395 — `வேலையில்லாத` → `வேலை யில்லாத` in the quoted employment-scheme wording, matching the rendered source-visible spacing.
+
+Gate E remains **IN PROGRESS**.
 
 ## Exact next
 
-**Gate E Batch 1 — scans 389–398 / exactly 10 pages.**
+**Gate E Batch 2 — scans 399–408 / exactly 10 pages.**

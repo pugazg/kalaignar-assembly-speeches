@@ -60,7 +60,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - `verified_against_scan=false`
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**
-- Gate E — **READY / NOT STARTED**
+- Gate E — **IN PROGRESS — Batch 1 COMPLETE / scans 389–398 / 10 of 93 verified / 1 correction / 0 unresolved**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -105,8 +105,35 @@ Structural audit against the controlling anthology pixels confirmed:
 
 Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**.
 
+## Gate E — Batch 1 / scans 389–398
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 pages; cumulative 10 of 93.**
+
+Coverage:
+
+- verified scans — **389–398**
+- verified printed pages — **388–397**
+- verified pages — **10/10 in batch; cumulative 10/93**
+- split/local coverage — **part016 local 14–23**
+- source markers in batch — **389→398 / 10 / exactly once / ordered**
+- Gate-E Batch-1 correction ledger — **1 entry / 1 occurrence**
+- Batch-1 affected scans — **1 — 396**
+- cumulative Gate-E corrections — **1 entry / 1 occurrence**
+- cumulative affected scans — **1**
+- unresolved readings — **0**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- scans **399–481** modified in this activity — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Correction ledger:
+
+1. **scan 396 / printed p.395** — `படித்த, படிக்காத, வேலையில்லாத அனைவருக்கும் வேலை வாய்ப்பு` → `படித்த, படிக்காத, வேலை யில்லாத அனைவருக்கும் வேலை வாய்ப்பு`
+   - the rendered source visibly prints `வேலை யில்லாத` as two source-visible word units.
+
+No other source-backed wording or punctuation correction was found in scans 389–398. Source oddities, figures, punctuation and existing source-visible forms were otherwise retained.
+
 ## Exact next activity
 
-**Gate E Batch 1 — scans 389–398 / printed pp.388–397 / exactly 10 pages.**
+**Gate E Batch 2 — scans 399–408 / printed pp.398–407 / exactly 10 pages.**
 
-Do not begin Batch 2 or Speech 18 in the same activity.
+Do not begin Batch 3, Gate F or Speech 18 in the same activity.

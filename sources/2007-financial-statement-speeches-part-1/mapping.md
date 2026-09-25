@@ -342,8 +342,8 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / canonical bilingual complete / indexed**
-- Speech 17 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / 93 of 93 / 0 completeness corrections / Tamil TRANSCRIBED-NOT-VERIFIED / multi-date source unit / no single canonical date assigned**
+- Speech 17 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E IN PROGRESS 10 of 93 / 1 correction / 0 unresolved / Tamil PARTIALLY-VERIFIED / multi-date source unit / no single canonical date assigned**
 
 ## Exact continuation
 
-Continue **Speech 17 Gate E Batch 1 — scans 389–398 / printed pp.388–397 / exactly 10 pages**. Preserve the one-unit multi-date policy and do not assign a single canonical date.
+Continue **Speech 17 Gate E Batch 2 — scans 399–408 / printed pp.398–407 / exactly 10 pages**. Preserve the one-unit multi-date policy and do not assign a single canonical date.
