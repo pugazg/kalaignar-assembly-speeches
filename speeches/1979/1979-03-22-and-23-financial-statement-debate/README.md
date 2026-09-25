@@ -58,8 +58,8 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - source markers present — **389→481 / 93 / exactly once / ordered**
 - Tamil — **TRANSCRIBED / NOT VERIFIED**
 - `verified_against_scan=false`
-- Gate C.5 — **NOT STARTED**
-- Gate D — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
+- Gate D — **READY / NOT STARTED**
 - Gate E — **NOT STARTED**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
@@ -74,8 +74,19 @@ Source-visible first-pass forms retained rather than normalized include scan 389
 - Gate E — **10 source pages per iteration**
 - only a final remainder may contain fewer than 10 pages.
 
+## Gate C.5 result
+
+**N/A / CLOSED across Speech 17.**
+
+The controlling witness is the **modern 2007 typesetting**. The anthology-level policy treats historical-glyph review as provisionally N/A unless an actual page-specific legacy typeform anomaly is encountered. Gate C reviewed scans **389–481 / 93 pages** with **0 unresolved first-pass readings**, and no legacy-glyph anomaly requiring Gate C.5 correction was encountered.
+
+- historical-glyph corrections — **0**
+- unresolved historical-glyph readings — **0**
+- Tamil wording changes — **0**
+- multi-date source-unit policy — **unchanged**
+
 ## Exact next activity
 
-**Gate C.5 applicability check / Gate D setup.**
+**Gate D structural audit — scans 389–481 / 93 pages.**
 
-Do not begin Gate C.5, Gate D or Speech 18 in the same activity as this Gate-C closure.
+Audit structural completeness only. Do not perform Gate-E wording verification, and do not begin Speech 18 in the same activity.

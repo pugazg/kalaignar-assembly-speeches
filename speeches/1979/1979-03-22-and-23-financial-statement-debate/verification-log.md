@@ -232,9 +232,23 @@ Source-visible forms intentionally retained for later Gate-E fidelity verificati
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - Speech 18 content — **0**
 
+## Gate C.5
+
+**N/A / CLOSED across Speech 17.**
+
+- source edition — **modern 2007 typesetting**
+- page-specific legacy typeform anomaly encountered during Gate C — **none**
+- historical-glyph corrections — **0**
+- unresolved historical-glyph readings — **0**
+- Tamil wording changes — **0**
+- source markers — **unchanged / 389→481 / 93/93**
+- multi-date source policy — **unchanged**
+
 ## Downstream state
 
 - Gate C — **COMPLETE / 93 of 93**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **READY / NOT STARTED**
 - Gate C.5 — **NOT STARTED**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
@@ -245,4 +259,4 @@ Source-visible forms intentionally retained for later Gate-E fidelity verificati
 
 ## Exact next activity
 
-**Speech 17 Gate C.5 applicability check / Gate D setup.**
+**Speech 17 Gate D structural audit — scans 389–481 / 93 pages.**

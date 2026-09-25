@@ -2,7 +2,7 @@
 
 ## உரை : 17 — 22 & 23.3.1979
 
-> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. The source prints the speech as one **multi-date unit** (`22 & 23.3.1979`); a full visual review of scans 389–481 found **no explicit internal date divider**, so no page-level split or single canonical date is assigned. Tamil is **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**. Gate C.5 and Gates D–H are **NOT STARTED**. Exact next: **Gate C.5 applicability check / Gate D setup**.
+> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**. The source prints the speech as one **multi-date unit** (`22 & 23.3.1979`); no page-level split or single canonical date is assigned. Tamil is **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**. Gate D is **READY / NOT STARTED**; Gates E–H are **NOT STARTED**. Exact next: **Gate D structural audit — scans 389–481 / 93 pages**.
 
 <!-- source-page: 389 -->
 

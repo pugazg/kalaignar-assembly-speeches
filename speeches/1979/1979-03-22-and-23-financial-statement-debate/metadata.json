@@ -124,7 +124,7 @@
     "final_remainder_may_be_under_10": true,
     "current_gate_c_batch": "479-481 / 3 pages FINAL / COMPLETE",
     "next_gate_c_batch": null,
-    "next_activity": "Gate C.5 applicability check / Gate D setup"
+    "next_activity": "Gate D structural audit scans 389-481 / 93 pages"
   },
   "transcription": {
     "language": "Tamil",
@@ -149,9 +149,14 @@
     "unresolved_reading_count": 0,
     "verified_against_scan": false,
     "outside_wording_imported": false,
-    "next_gate": "Gate C.5 applicability check / Gate D setup",
+    "next_gate": "Gate D structural audit",
     "gate_c_batches_completed": 10,
-    "last_completed_batch": "479-481 / 3 pages FINAL"
+    "last_completed_batch": "479-481 / 3 pages FINAL",
+    "gate_c5_status": "n-a-closed",
+    "gate_c5_applicability": "not-applicable-across-pdf",
+    "gate_c5_historical_glyph_corrections": 0,
+    "gate_c5_unresolved": 0,
+    "gate_d_status": "ready-not-started"
   },
   "translation": {
     "language": "English",

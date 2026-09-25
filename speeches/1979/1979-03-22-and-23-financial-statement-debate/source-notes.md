@@ -228,6 +228,20 @@ Conservative first-pass preservation includes scan-479 `கல்நாட்ட
 - `verified_against_scan=false`
 - Speech 18 content imported — **0**
 
+## Gate C.5 applicability
+
+**N/A / CLOSED across Speech 17.**
+
+- controlling edition — **modern May 2007 typesetting**
+- anthology policy — historical-glyph review is N/A unless a page-specific legacy typeform anomaly is encountered
+- Gate-C range reviewed — **389–481 / 93 pages**
+- legacy-glyph anomalies encountered — **0**
+- historical-glyph corrections — **0**
+- unresolved historical-glyph readings — **0**
+- Tamil wording changes — **0**
+
+Gate D is **READY / NOT STARTED**.
+
 ## Exact next
 
-**Gate C.5 applicability check / Gate D setup.**
+**Gate D structural audit — scans 389–481 / 93 pages.**

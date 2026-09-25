@@ -570,11 +570,23 @@ Working entry:
 - source markers — **389→481 / 93 / exactly once / ordered**
 - unresolved first-pass readings — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- Gates C.5–H — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
+- Gate D — **READY / NOT STARTED**
+- Gates E–H — **NOT STARTED**
 - outside wording imported — **0**
+
+## Speech 17 Gate C.5 result
+
+**N/A / CLOSED.**
+
+The anthology is modern 2007 typesetting. No page-specific legacy typeform anomaly was encountered across Speech 17 scans **389–481** during Gate C.
+
+- historical-glyph corrections — **0**
+- unresolved historical-glyph readings — **0**
+- Tamil wording changes — **0**
 
 ## Exact next activity
 
-**Speech 17 Gate C.5 applicability check / Gate D setup.**
+**Speech 17 Gate D structural audit — scans 389–481 / 93 pages.**
 
-Do not begin Gate C.5, Gate D or Speech 18 in the same activity as this Gate-C closure.
+Do not begin Gate E or Speech 18 in the same activity.
