@@ -611,13 +611,13 @@ No source-backed wording or punctuation correction was required in scans 479–4
 - Gate D — **PASS / COMPLETE**
 - Gate E — **PASS / COMPLETE / 93 of 93 verified**
 - Gate F — **COMPLETE / 93 of 93 translated / 0 blockers / 0 Tamil changes**
-- Gate G — **NOT STARTED**
+- Gate G — **IN PROGRESS / Batch 1 PASS-COMPLETE / scans 389–418 / 30 of 93 reviewed / 12 refinements / 0 blockers / 0 Tamil changes**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 18 — **NOT STARTED**
 
 ## Exact next activity
 
-**Speech 17 Gate G Batch 1 — scans 389–418 / exactly 30 English source-page sections. Review only against Gate-E-verified Tamil; make 0 Tamil changes and do not begin Batch 2, Gate H or Speech 18.**
+**Speech 17 Gate G Batch 2 — scans 419–448 / exactly 30 English source-page sections. Review only against Gate-E-verified Tamil; make 0 Tamil changes and do not begin Batch 3, Gate H or Speech 18.**
 
 
 ## Gate F — Batch 1 / scans 389–418
@@ -657,4 +657,29 @@ Exact next: **Gate F Batch 2 — scans 419–448 / exactly 30 pages**.
 - Gate G — **NOT STARTED**
 - English — **TRANSLATED / verified_against_tamil=false**
 
-Exact next: **Gate G Batch 1 — scans 389–418 / exactly 30 pages**.
+Gate G Batch 1 is now **PASS / COMPLETE — scans 389–418 / 30 pages / 12 refinements / 0 blockers / 0 Tamil changes**.
+
+
+## Gate G — Batch 1 / scans 389–418
+
+**PASS / COMPLETE — 30 of 93 English source-page sections reviewed.**
+
+- review authority — **Gate-E-verified Tamil only**
+- reviewed scans — **389–418 / printed pp.388–417 / exactly 30 pages**
+- refinements — **12**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- source-printed English on scans **404 and 411** — **preserved verbatim**
+- source-page boundaries / speaker labels / interventions / figures / repetitions — **preserved**
+- English scans **419–481** modified in this activity — **0**
+- outside English / web / Official Reports / alternate anthologies / released-speech wording imported — **0**
+- detailed before→after ledger — **`translation-review.md`**
+- overall English — **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**
+
+### Gate-G Batch-1 disposition
+
+- Batch 1 result — **PASS / COMPLETE**
+- English verification status — **partial only; verified_against_tamil=false until all 93 pages complete Gate G**
+- exact next — **Gate G Batch 2 — scans 419–448 / exactly 30 pages**
+- do not begin — **Batch 3 / Gate H / Speech 18**
