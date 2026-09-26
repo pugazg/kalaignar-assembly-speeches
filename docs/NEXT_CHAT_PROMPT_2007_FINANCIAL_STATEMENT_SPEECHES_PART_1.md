@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate E Batch 9 — scans 469–478
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate E Batch 10 FINAL — scans 479–481
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -26,22 +26,20 @@ Gate state:
 - Gate C — **COMPLETE / 93 of 93 first-pass**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 93 of 93 / 92 of 92 internal transitions / 0 completeness corrections**
-- Gate E Batches 1–8 — **PASS / COMPLETE through scans 459–468 / 80 pages**
-- Gate-E cumulative verified pages — **80 of 93**
-- Gate-E cumulative corrections — **35 entries / 35 occurrences**
-- Gate-E cumulative affected scans — **27**
+- Gate E Batches 1–9 — **PASS / COMPLETE through scans 469–478 / 90 pages**
+- Gate-E cumulative verified pages — **90 of 93**
+- Gate-E cumulative corrections — **37 entries / 37 occurrences**
+- Gate-E cumulative affected scans — **29**
 - unresolved Gate-E readings — **0**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - Gates F–H — **NOT STARTED**
 - Speech 18 — **NOT STARTED**
 - outside wording imported — **0**
 
-Gate-E Batch-8 corrections:
+Gate-E Batch-9 corrections:
 
-- scan 459 — `என்பதைத் தீவிரமாக நாம்` → `என்பதை தீவிரமாக நாம்`
-- scan 463 — `நகர்ப்புற வளர்ச்சி நிதியில்` → `நகர்புற வளர்ச்சி நிதியில்`
-- scan 465 — `செயல்படுத்திக் கொண்டிருக்கிறது` → `செயல்படுத்துக் கொண்டிருக்கிறது`
-- scan 468 — `கேட்டு விட்டு அவர்கள் பதில் சொல்லலாம்` → `கேட்டுவிட்டு அவர்கள் பதில் சொல்லலாம்`
+- scan 476 — `ஏற்பட்டதுவதை புறக்கணித்து` → `ஏற்படுத்துவதை புறக்கணித்து`
+- scan 478 — `ஏதோ ராகவன், இருப்பவன் என்பவர்கள்` → `ஏதோ ராகவன். இருப்பவன் என்பவர்கள்`
 
 ## Fixed Gate-E iteration rule
 
@@ -50,19 +48,18 @@ Gate-E Batch-8 corrections:
 
 ## Exact next activity
 
-Perform **Speech 17 Gate E Batch 9 — scans 469–478 / printed pp.468–477 / exactly 10 pages**.
+Perform **Speech 17 Gate E Batch 10 FINAL — scans 479–481 / printed pp.478–480 / exactly 3 pages**.
 
 Requirements:
 
 1. compare the current Tamil transcription directly against rendered pixels of the controlling anthology only;
-2. apply every source-supported fidelity correction found in scans **469–478**;
+2. apply every source-supported fidelity correction found in scans **479–481**;
 3. preserve source spelling, punctuation, numerals, speaker labels/interventions, repetition and source-printed English;
 4. record every correction with scan number and before→after wording;
 5. import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other outside witnesses;
 6. keep the multi-date source-unit policy unchanged and do not invent a page-level date split;
-7. preserve source-printed English on scan **474**;
-8. preserve and verify the working-split continuation **475→476**;
-9. leave scans **479–481** unchanged in this activity;
-10. after success, synchronize Speech-17 and anthology controls;
-11. exact next: **Gate E Batch 10 FINAL — scans 479–481 / exactly 3 pages**;
-12. do not begin Batch 10, Gate F or Speech 18 in the same activity.
+7. preserve the source close ornament on scan **481**;
+8. verify hard boundary **481→482 — PASS** and do not import any Speech-18 wording;
+9. after success, synchronize Speech-17 and anthology controls;
+10. if all 93 pages are verified with 0 unresolved, close Gate E and set exact next to **Gate F**;
+11. do not begin Gate F or Speech 18 in the same activity.

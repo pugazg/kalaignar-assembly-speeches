@@ -538,12 +538,43 @@ Gate-E Batch-8 correction ledger:
 
 No other source-backed wording or punctuation correction was found in scans 459–468. Source-visible scan-462 `1979-89இல் 137 லட்சம்`, scan-465 `எ.ஆர்.டி.சி.`, scan-467 `பீஸ்பிலிட்டி ரிப்போர்ட்`, scan-468 `சொன்ன தெல்லாம்`, and all source-printed English on scans 459–460 were retained without normalization.
 
+## Gate E — Batch 9 / scans 469–478
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 pages; cumulative 90 of 93.**
+
+Coverage:
+
+- verified scans — **469–478**
+- verified printed pages — **468–477**
+- verified pages — **10/10 in batch; cumulative 90/93**
+- split/local coverage — **part019 local 19–25 + part020 local 1–3**
+- working-split continuation **475→476 — PASS / unchanged**
+- source markers in batch — **469→478 / 10 / exactly once / ordered**
+- Gate-E Batch-9 correction ledger — **2 entries / 2 occurrences**
+- Batch-9 affected scans — **2 — scans 476, 478**
+- cumulative Gate-E corrections — **37 entries / 37 occurrences**
+- cumulative affected scans — **29**
+- unresolved readings — **0**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- source-printed English `They are stopped.` on scan **474** — **preserved verbatim**
+- scans **479–481** modified in this activity — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Gate-E Batch-9 correction ledger:
+
+1. **scan 476 / printed p.475** — `முறையில் ஏற்பட்டதுவதை புறக்கணித்து டெல்லியில்` → `முறையில் ஏற்படுத்துவதை புறக்கணித்து டெல்லியில்`
+   - the rendered source prints `ஏற்படுத்துவதை`.
+2. **scan 478 / printed p.477** — `ஏதோ ராகவன், இருப்பவன் என்பவர்கள்` → `ஏதோ ராகவன். இருப்பவன் என்பவர்கள்`
+   - the rendered source prints a full stop after `ராகவன்`.
+
+No other source-backed wording or punctuation correction was found in scans 469–478. Source-visible scan-470 `கட்டிக்கழிக்கவில்லை`, scan-471 `அமைச்சராக இருக்கின்ற திரு. செளந்திரராஜன் அவர்கள் பெற்றவர்கள்`, scan-477 `சாது மிரண்டால் காடு தாங்காது`, and scan-478 `120 அடிக்கு மேலாக` were retained without normalization.
+
 ## Downstream state
 
 - Gate C — **COMPLETE / 93 of 93**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS / 80 of 93 verified**
+- Gate E — **IN PROGRESS / 90 of 93 verified**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -551,4 +582,4 @@ No other source-backed wording or punctuation correction was found in scans 459�
 
 ## Exact next activity
 
-**Speech 17 Gate E Batch 9 — scans 469–478 / printed pp.468–477 / exactly 10 pages. Preserve source-printed English on scan 474 and split continuation 475→476.**
+**Speech 17 Gate E Batch 10 FINAL — scans 479–481 / printed pp.478–480 / exactly 3 pages. Preserve the scan-481 source close ornament and hard boundary 481→482.**

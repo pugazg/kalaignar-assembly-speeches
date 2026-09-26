@@ -489,8 +489,36 @@ No other source-backed wording or punctuation correction was found in scans 459�
 
 Gate E remains **IN PROGRESS**.
 
+## Gate E — Batch 9 / scans 469–478
+
+**PASS / COMPLETE — 10 pages; cumulative 90 of 93.**
+
+- verified scans — **469–478**
+- verified printed pages — **468–477**
+- controlling local pages — **part019 local 19–25 + part020 local 1–3**
+- split continuation **475→476 — PASS / unchanged**
+- markers — **469→478 / exactly once / ordered**
+- source-fidelity corrections — **2 entries / 2 occurrences**
+- affected scans — **2 — scans 476, 478**
+- cumulative Gate-E corrections — **37 entries / 37 occurrences**
+- cumulative affected scans — **29**
+- unresolved readings — **0**
+- source-printed English `They are stopped.` on scan 474 — **preserved verbatim**
+- outside wording imported — **0**
+- scans 479–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Corrections:
+
+1. scan 476 / printed p.475 — `முறையில் ஏற்பட்டதுவதை புறக்கணித்து டெல்லியில்` → `முறையில் ஏற்படுத்துவதை புறக்கணித்து டெல்லியில்`
+2. scan 478 / printed p.477 — `ஏதோ ராகவன், இருப்பவன் என்பவர்கள்` → `ஏதோ ராகவன். இருப்பவன் என்பவர்கள்`
+
+No other source-backed wording or punctuation correction was found in scans 469–478. Source-visible scan-470 `கட்டிக்கழிக்கவில்லை`, scan-471 `அமைச்சராக இருக்கின்ற திரு. செளந்திரராஜன் அவர்கள் பெற்றவர்கள்`, scan-474 `They are stopped.`, scan-477 `சாது மிரண்டால் காடு தாங்காது`, and scan-478 `120 அடிக்கு மேலாக` were retained.
+
+Gate E remains **IN PROGRESS**.
+
 ## Exact next
 
-**Gate E Batch 9 — scans 469–478 / exactly 10 pages.**
+**Gate E Batch 10 FINAL — scans 479–481 / exactly 3 pages.**
 
-Preserve source-printed English on scan **474** and working-split continuation **475→476**.
+Preserve the scan-481 source close ornament and hard boundary **481→482 — PASS**.

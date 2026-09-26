@@ -125,7 +125,7 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate C — **Speeches 1–17 COMPLETE; speeches 18–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–17**
 - Gate D — **Speeches 1–17 PASS / COMPLETE**
-- Gate E — **Speeches 1–16 PASS / COMPLETE / Tamil VERIFIED; Speech 17 IN PROGRESS / 80 of 93 verified; speeches 18–19 not started**
+- Gate E — **Speeches 1–16 PASS / COMPLETE / Tamil VERIFIED; Speech 17 IN PROGRESS / 90 of 93 verified; speeches 18–19 not started**
 - Gate F — **Speeches 1–16 COMPLETE; speeches 17–19 not started**
 - Gate G — **Speeches 1–16 PASS / COMPLETE / English VERIFIED; speeches 17–19 not started**
 - Gate H — **Speeches 1–16 PASS / COMPLETE — RELEASED / CLOSED; speeches 17–19 not started**
@@ -342,8 +342,8 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / canonical bilingual complete / indexed**
-- Speech 17 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E IN PROGRESS 80 of 93 / 35 corrections / 0 unresolved / Tamil PARTIALLY-VERIFIED / multi-date source unit / no single canonical date assigned**
+- Speech 17 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E IN PROGRESS 90 of 93 / 37 corrections / 0 unresolved / Tamil PARTIALLY-VERIFIED / multi-date source unit / no single canonical date assigned**
 
 ## Exact continuation
 
-Continue **Speech 17 Gate E Batch 9 — scans 469–478 / printed pp.468–477 / exactly 10 pages**. Preserve source-printed English on scan **474**, split continuation **475→476**, the one-unit multi-date policy, and do not assign a single canonical date.
+Continue **Speech 17 Gate E Batch 10 FINAL — scans 479–481 / printed pp.478–480 / exactly 3 pages**. Preserve the scan-481 source close ornament, hard boundary **481→482**, the one-unit multi-date policy, and do not assign a single canonical date.

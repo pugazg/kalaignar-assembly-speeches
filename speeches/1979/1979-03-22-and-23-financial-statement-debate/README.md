@@ -60,7 +60,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - `verified_against_scan=false`
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batches 1–8 COMPLETE / scans 389–468 / 80 of 93 verified / 35 corrections / 0 unresolved**
+- Gate E — **IN PROGRESS — Batches 1–9 COMPLETE / scans 389–478 / 90 of 93 verified / 37 corrections / 0 unresolved**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -244,8 +244,24 @@ No other source-backed wording or punctuation correction was found in scans 449�
 
 No other source-backed wording or punctuation correction was found in scans 459–468. Source-visible scan-462 `1979-89இல் 137 லட்சம்`, scan-465 `எ.ஆர்.டி.சி.`, scan-467 `பீஸ்பிலிட்டி ரிப்போர்ட்`, and scan-468 `சொன்ன தெல்லாம்` were retained.
 
+## Gate E Batch 9 result
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — scans 469–478 / 10 pages; cumulative 90 of 93.**
+
+- Batch-9 corrections — **2 entries / 2 occurrences**
+- affected scans — **2 — scans 476, 478**
+- split continuation **475→476 — PASS / unchanged**
+- cumulative Gate-E corrections — **37 entries / 37 occurrences**
+- cumulative affected scans — **29**
+- unresolved — **0**
+- source-printed English `They are stopped.` on scan 474 — **preserved verbatim**
+- scans 479–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+No other source-backed wording or punctuation correction was found in scans 469–478. Source-visible scan-470 `கட்டிக்கழிக்கவில்லை`, scan-471 `அமைச்சராக இருக்கின்ற திரு. செளந்திரராஜன் அவர்கள் பெற்றவர்கள்`, scan-477 `சாது மிரண்டால் காடு தாங்காது`, and scan-478 `120 அடிக்கு மேலாக` were retained.
+
 ## Exact next activity
 
-**Gate E Batch 9 — scans 469–478 / printed pp.468–477 / exactly 10 pages.**
+**Gate E Batch 10 FINAL — scans 479–481 / printed pp.478–480 / exactly 3 pages.**
 
-Preserve source-printed English on scan **474** and split continuation **475→476**. Do not begin Batch 10, Gate F or Speech 18 in the same activity.
+Preserve the scan-481 source close ornament and hard boundary **481→482**. Do not begin Gate F or Speech 18 in the same activity.
