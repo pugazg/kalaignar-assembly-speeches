@@ -20,18 +20,18 @@ Translation authority: the final Gate-E-verified Tamil in `transcript.md` only.
 
 ## Gate G — English fidelity and voice review
 
-**Status: IN PROGRESS — Batches 1–3 PASS / COMPLETE — 90 of 93 pages reviewed**
+**Status: PASS / COMPLETE — 93 of 93 pages reviewed**
 
 Review authority: the final Gate-E-verified Tamil in `transcript.md` only.
 
-- reviewed scans — **389–478 / printed pp.388–477 / 90 pages**
-- refinements — **38 cumulative — Batch 1: 12 / Batch 2: 16 / Batch 3: 10**
+- reviewed scans — **389–481 / printed pp.388–480 / 93 pages**
+- refinements — **43 cumulative — Batch 1: 12 / Batch 2: 16 / Batch 3: 10 / FINAL remainder: 5**
 - blockers — **0**
 - verified-Tamil changes — **0**
 - source-printed-English changes — **0**
 - outside English / outside-witness wording imported — **0**
-- English scans **479–481** changed through Gate-G Batch 3 — **0**
-- overall `verified_against_tamil=false` until the remaining Gate-G batches are complete
+- all English source-page sections **389→481** reviewed — **93/93 / exactly once / ordered**
+- overall `verified_against_tamil=true`
 
 ### Gate-G Batch-1 refinement ledger
 
@@ -132,6 +132,42 @@ Review authority: the final Gate-E-verified Tamil in `transcript.md` only.
 - English — **PARTIALLY GATE-G-REVIEWED**
 - `verified_against_tamil=false`
 
+### Gate-G FINAL remainder refinement ledger
+
+1. **scan 479** — `If petitions were submitted, everyone cannot join together and submit one.` → `If petitions are to be submitted, not everyone can join together to submit them.`, preserving the point that only a small number of responsible people would submit petitions while removing the unidiomatic construction.
+2. **scan 480** — `religious animosities and communal disturbances` → `religious animosities and communal riots`, rendering `இனக் கலவரங்கள்` more directly while preserving the speaker's warning.
+3. **scans 480→481** — restored the Deputy Speaker's continuation to the source-page boundary: scan 480 now ends `Finish the issue quickly. On that—`; scan 481 begins `—the Minister has to reply. It must be finished by 1-1-58...`. The source-visible `1-1-58` is preserved without normalization.
+4. **scan 481** — `I thank this Government for acting with respect for that feeling of the public.` → `I thank this Government for acting in deference to that public sentiment.`, preserving the acknowledgement in natural parliamentary English.
+5. **scan 481** — `this Government is duty-bound to think a little about the conditions now prevailing in the country.` → `this Government is duty-bound to reflect on the conditions now prevailing in the country.`, retaining the same appeal in idiomatic English.
+
+### Gate-G FINAL remainder checks
+
+- scans **479–481 / exactly 3 pages** reviewed against Gate-E-verified Tamil
+- pre-existing **478→479** continuation — **PASS / preserved**
+- **480→481** source-page continuation — **restored / PASS**
+- scan **481** terminal source close / ornament — **PASS / preserved**
+- hard boundary **481→482** — **PASS / scan 482 is Speech 18 start / excluded**
+- source-visible scan-479 `கல்நாட்டு விழாச் செய்து` / `நிறைவேற்று வதற்கு`, scan-480 `பார்சல் சேலஞ்சாக` / `பேரணாம்பேடு`, and scan-481 `1-1-58க்குள்` — **not normalized**
+- figures, names, speaker labels and interventions — **PASS**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- English scans **389–478** changes in FINAL remainder activity — **0**
+- outside wording imported from web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+
+### Gate-G closure
+
+**PASS / COMPLETE — 93/93 English source-page sections reviewed against verified Tamil.**
+
+- source pages — **389→481 / 93 / exactly once / ordered**
+- total refinements — **43**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- outside English imported — **0**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
+
 ## Exact next activity
 
-Perform **Gate G FINAL remainder — scans 479–481 / printed pp.478–480 / exactly 3 pages**. Review maintained English only against Gate-E-verified Tamil. Do not alter verified Tamil, and do not begin Gate H or Speech 18.
+Perform **Speech 17 Gate H archival/release audit**. Audit the Gate-E-verified Tamil and Gate-G-verified English as the canonical bilingual pair, preserve the multi-date source-unit policy and 481→482 boundary, and do not begin Speech 18.
