@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 18 Gate C Batch 2 — scans 492–501
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 18 Gate C Batch 3 FINAL — scans 502–510
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -25,56 +25,45 @@ Source:
 - outgoing boundary **510→511 — PASS**
 - scan 511 — **Speech 19 / உரை : 19 / 06.03.1982 start / excluded**
 
-Controlling working splits:
+Controlling working split for the final batch:
 
-1. `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_020_pages_476-500.pdf`
-   - bytes — **18,623,915**
-   - SHA-256 — `74d09c34f8ee6293e91895dbcc20fe651c314fe8f89f3241585e290a8674e1df`
-   - Speech-18 coverage — **local 7–25 / global scans 482–500 / 19 pages**
+`TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_021_pages_501-525.pdf`
 
-2. `TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_021_pages_501-525.pdf`
-   - bytes — **18,938,935**
-   - SHA-256 — `d32d5b4559b68d81675d80e9bb535e1a0e8eaf6861a6eb037ffb357fad5c92c2`
-   - Speech-18 coverage — **local 1–10 / global scans 501–510 / 10 pages**
-   - local 11 / scan 511 — **Speech 19 start / excluded**
+- bytes — **18,938,935**
+- SHA-256 — `d32d5b4559b68d81675d80e9bb535e1a0e8eaf6861a6eb037ffb357fad5c92c2`
+- Speech-18 coverage — **local 1–10 / global scans 501–510 / 10 pages**
+- Batch-2 used local page **1 / scan 501**
+- FINAL Batch 3 uses local pages **2–10 / scans 502–510**
+- local page 11 / scan 511 — **Speech 19 start / excluded**
 
-The supplied `part_022_pages_526-546.pdf` is downstream of Speech 18 and remains outside the active source range.
+The supplied `part_022_pages_526-546.pdf` is downstream of Speech 18 and is not needed for this Gate-C batch.
 
 ## Current Gate-C state
 
 - source intake — **COMPLETE**
 - Gate-C setup — **COMPLETE**
 - Gate C — **IN PROGRESS**
-- Batch 1 — **COMPLETE / scans 482–491 / printed pp.481–490 / 10 pages**
-- cumulative first-pass — **10 of 29**
-- source-page markers — **482→491 / 10 / exactly once / ordered**
+- Batch 1 — **COMPLETE / scans 482–491 / 10 pages**
+- Batch 2 — **COMPLETE / scans 492–501 / 10 pages**
+- cumulative first-pass — **20 of 29**
+- source-page markers — **482→501 / 20 / exactly once / ordered**
 - first-pass unresolved readings — **0**
 - Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 - Gates D–H — **NOT STARTED**
 - Speech 19 — **NOT STARTED**
 
-Batch-1 source-visible first-pass forms retained without normalization include:
+Batch-2 continuity / source-visible forms to preserve:
 
-- scan 482 — `மாண்புமிகு பேரவைத் தலைவரவர்களே`, `“பொய்மான் காடு”`
-- scan 485 — `982.66 கோடிய ரூபாயும்`
-- scan 488 — `ஒலவக்கோடு`, `பற்றாக் குறையை`
-- scans 488→489 — `கங்கை -` → `காவிரி இணைப்புத் திட்டம்...`
-- scan 489 — `திட்டங்களை..`
-- scan 491 — `குவாலிபிகேஷன்`
-- scan 491 ends mid-sentence after `கைம்பெண்கள் உதவித்தொகை பெறுவோர்,`; its continuation belongs to scan 492 and was not imported into Batch 1.
-
-## Fixed Gate-C cadence
-
-- Batch 1 — **482–491 / 10 pages / COMPLETE**
-- Batch 2 — **492–501 / 10 pages / NEXT**
-- Batch 3 FINAL — **502–510 / 9 pages**
-
-Batch 2 crosses the supplied split boundary:
-
-- scans **492–500** = part020 local **17–25**
-- scan **501** = part021 local **1**
-- preserve the source continuation across **500→501**
+- scan **491→492** continuation — **PASS**
+- working-split transition **500→501** — **PASS**
+- scan 493 — `61.80 பைசா` / `71.30 பைசா`
+- scan 494 — `4 இரண்டு 2 எட்டு ரூபாய்`
+- scan 497 — `கட்சியல்ல - கம்யூனிஸ்ட் விவசாய சங்கம்`
+- scan 499 — `குறிப்பிட்டிருக்கிறோம்`
+- scan 500 — `“ரைட் ஆஃப்”`
+- scan 501 — printed English `"5 acres owning"`
+- scan 501 ends mid-sentence after `சொல்லி விட்டு மறுநாள் நிருபர்களைச் சந்திக்கிற நேரத்தில்`; its continuation belongs to scan 502.
 
 ## Source authority
 
@@ -86,20 +75,21 @@ Preserve source spelling, punctuation, numerals, repetitions, speaker labels/int
 
 ## Exact next activity
 
-Perform **Speech 18 Gate C Batch 2 — scans 492–501 / exactly 10 pages**.
+Perform **Speech 18 Gate C Batch 3 FINAL — scans 502–510 / exactly 9 pages**.
 
 Requirements:
 
-1. transcribe scans **492–501** manually from the rendered source pages;
-2. create exactly one `<!-- source-page: N -->` marker for each scan **492→501**;
-3. continue scan 491 into scan 492 exactly as supported by the source;
-4. preserve the working-split transition and any textual continuation across **500→501**;
-5. preserve source spellings, punctuation, figures, repetitions, speaker labels/interventions and printed English;
-6. record uncertain readings conservatively rather than silently normalizing them;
-7. import **0 outside wording**;
-8. leave the existing scans **482–491** unchanged;
-9. leave scans **502–510** untouched;
-10. after success, Gate C should be **20/29 first-pass** and Tamil must remain **NOT VERIFIED / verified_against_scan=false**;
-11. synchronize Speech-18 and anthology controls;
-12. exact next after Batch 2: **Gate C Batch 3 FINAL — scans 502–510 / exactly 9 pages**;
-13. do not begin the final batch in the same activity.
+1. transcribe scans **502–510** manually from part021 local pages **2–10**;
+2. create exactly one `<!-- source-page: N -->` marker for each scan **502→510**;
+3. continue scan 501 into scan 502 exactly as supported by the source;
+4. preserve all source spellings, punctuation, figures, repetitions, speaker labels/interventions and printed English;
+5. preserve scan **510** source close / ornament;
+6. reconfirm hard boundary **510→511 — PASS** and ensure no Speech-19 wording enters Speech 18;
+7. record uncertain readings conservatively rather than silently normalizing them;
+8. import **0 outside wording**;
+9. leave existing scans **482–501** unchanged;
+10. after success, Gate C should be **COMPLETE / 29 of 29 first-pass** and Tamil should become **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**;
+11. evaluate Gate C.5 for closure only from the completed Speech-18 pages; this modern 2007 typesetting is provisionally N/A unless an actual page-specific legacy typeform anomaly is present;
+12. synchronize Speech-18 and anthology controls;
+13. exact next after successful Gate-C closure: **Speech 18 Gate C.5 disposition / Gate D completeness audit**;
+14. do not begin Gate D or Speech 19 in the same activity.
