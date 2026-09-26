@@ -79,14 +79,14 @@
   "execution": {
     "gate_c_iteration_page_limit": 10,
     "final_remainder_may_be_under_10": true,
-    "current_gate_c_batch": null,
-    "next_gate_c_batch": "482-491 / exactly 10 pages",
+    "current_gate_c_batch": "482-491 / 10 pages / COMPLETE",
+    "next_gate_c_batch": "492-501 / exactly 10 pages",
     "planned_gate_c_batches": [
       "482-491 / 10 pages",
       "492-501 / 10 pages",
       "502-510 / 9 pages FINAL"
     ],
-    "next_activity": "Gate C Batch 1 scans 482-491 / exactly 10 pages"
+    "next_activity": "Gate C Batch 2 scans 492-501 / exactly 10 pages"
   },
   "transcription": {
     "language": "Tamil",
@@ -99,19 +99,21 @@
     "preserve_printed_english": true,
     "preserve_source_visible_repetition": true,
     "page_boundaries_marked": true,
-    "status": "not-transcribed",
-    "gate_c_status": "not-started",
-    "completed_scan_pages": null,
-    "completed_printed_pages": null,
-    "completed_page_count": 0,
+    "status": "partially-transcribed",
+    "gate_c_status": "in-progress",
+    "completed_scan_pages": "482-491",
+    "completed_printed_pages": "481-490",
+    "completed_page_count": 10,
     "total_page_count": 29,
-    "marker_count": 0,
-    "marker_range": null,
+    "marker_count": 10,
+    "marker_range": "482-491",
     "unresolved_readings": [],
     "unresolved_reading_count": 0,
     "verified_against_scan": false,
     "outside_wording_imported": false,
-    "next_gate": "Gate C Batch 1"
+    "next_gate": "Gate C Batch 2",
+    "gate_c_batches_completed": 1,
+    "last_completed_batch": "482-491 / 10 pages"
   },
   "translation": {
     "language": "English",
