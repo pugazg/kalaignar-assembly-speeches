@@ -82,8 +82,28 @@ Gate C.5 remains **provisionally N/A** because the anthology is modern 2007 type
 
 Source-visible first-pass forms retained rather than normalized include scan 482 `மாண்புமிகு பேரவைத் தலைவரவர்களே` and `“பொய்மான் காடு”`; scan 485 `982.66 கோடிய ரூபாயும்`; scan 488 `ஒலவக்கோடு` and `பற்றாக் குறையை`; scan 489 `திட்டங்களை..`; scan 491 `குவாலிபிகேஷன்`.
 
+## Gate C — Batch 2 / scans 492–501
+
+**PASS / COMPLETE — scans 492–501 / printed pp.491–500 / exactly 10 pages; cumulative 20 of 29 first-pass transcribed.**
+
+- source-page markers — **492→501 / 10 / exactly once / ordered**
+- cumulative source-page markers — **482→501 / 20 / exactly once / ordered**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- scan **491→492** continuation — **preserved**
+- working-split transition **500→501** — **PASS / preserved**
+- scan **501** — **ends mid-sentence; continuation belongs to scan 502 and was not transcribed in this activity**
+- scans **482–491** modified in Batch 2 — **0**
+- scans **502–510** modified — **0**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+
+Source-visible first-pass forms retained rather than normalized include scan 493 `61.80 பைசா` / `71.30 பைசா`; scan 494 `4 இரண்டு 2 எட்டு ரூபாய்`; scan 497 `கட்சியல்ல - கம்யூனிஸ்ட் விவசாய சங்கம்`; scan 499 `குறிப்பிட்டிருக்கிறோம்`; scan 500 `“ரைட் ஆஃப்”`; and scan 501 printed English `"5 acres owning"`.
+
 ## Exact next
 
-**Gate C Batch 2 — scans 492–501 / exactly 10 pages.**
+**Gate C Batch 3 FINAL — scans 502–510 / exactly 9 pages.**
 
 Batch 2 crosses the working-split boundary: **492–500 = part020 local 17–25; 501 = part021 local 1**. Preserve any source continuation across **500→501** and do not begin scans 502–510 in the same activity.
+
+Final Gate-C batch = **part021 local 2–10 / scans 502–510**. Preserve the scan **501→502** continuation and the terminal hard boundary **510→511**; scan 511 is Speech 19 and must remain excluded.
