@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 17 / `22 & 23.3.1979` = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–17 are released**. Speech 18 / `09.07.1980` Gate C is **IN PROGRESS**: Batches 1–2 scans **482–501 / 20 pages COMPLETE**, cumulative **20/29 first-pass**, Tamil **PARTIALLY TRANSCRIBED / NOT VERIFIED**.
+Latest released unit: Speech 17 / `22 & 23.3.1979` = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–17 are released**. Speech 18 / `09.07.1980` Gate C is now **PASS / COMPLETE — scans 482–510 / 29 of 29 first-pass**, Tamil **TRANSCRIBED / NOT VERIFIED**; Gate C.5 is provisionally N/A pending explicit disposition.
 
 ## Existing-source overlaps
 
@@ -92,7 +92,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–17 COMPLETE; Speech 18 IN PROGRESS / Batches 1–2 COMPLETE / 20 of 29 first-pass; Speech 19 not started**
+- Gate C — **Speeches 1–18 COMPLETE; Speech 18 29 of 29 first-pass / Tamil NOT VERIFIED; Speech 19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–17; Speech 18 provisionally N/A / not closed**
 - Gate D — **PASS / COMPLETE for Speeches 1–17**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–17; speeches 18–19 not started**
@@ -1193,6 +1193,19 @@ Source-visible final-batch forms retained without normalization include scan 479
 - scans **502–510** changed in Batch 2 — **0**
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 
-## Exact next activity — Speech 18 Gate C Batch 3 FINAL
+## Speech 18 Gate C FINAL result
 
-Transcribe **scans 502–510 / printed pp.501–509 / exactly 9 pages** from **part021 local pages 2–10** only. Preserve the scan **501→502** continuation, the scan-510 close, and the hard boundary **510→511**. Do not begin Speech 19.
+**PASS / COMPLETE — scans 502–510 / exactly 9 pages; cumulative 29 of 29 first-pass transcribed.**
+
+- source-page markers — **482→510 / 29 / exactly once / ordered**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- **501→502** continuation — **PASS**
+- scan **510** close / ornament — **PASS**
+- hard boundary **510→511** — **PASS / Speech 19 excluded**
+- Gate C.5 — **PROVISIONALLY N/A / explicit disposition next; no legacy-type anomaly observed during Gate C**
+
+## Exact next activity — Speech 18 Gate C.5 disposition / Gate D completeness audit
+
+Review the completed **29/29** first-pass transcript for Gate C.5 disposition and structural completeness. If no legacy-type anomaly is present, close Gate C.5 as N/A; audit **29 page sections / 28 internal transitions**, plus hard boundaries **481→482 / 510→511**. Do not begin Gate E or Speech 19.
