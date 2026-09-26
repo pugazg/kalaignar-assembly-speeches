@@ -848,8 +848,30 @@ Source-visible final-batch forms retained without normalization:
 - root dated table / `data/speeches.json` — **unchanged intentionally**
 - release — **RELEASED / CLOSED**
 
+## Speech 18 source intake + Gate C setup
+
+**PASS / COMPLETE — setup only; transcription not started.**
+
+- working entry — `speeches/1980/1980-07-09-financial-statement-debate/`
+- source label/date — **உரை : 18 / 09.07.1980**
+- canonical date — **1980-07-09**
+- scans — **482–510 / printed pp.481–509 / 29 pages**
+- incoming boundary **481→482** — **PASS**
+- outgoing boundary **510→511** — **PASS**
+- part020 Speech-18 coverage — **local 7–25 / scans 482–500 / 19 pages**
+- part021 Speech-18 coverage — **local 1–10 / scans 501–510 / 10 pages**
+- part020 SHA-256 — `74d09c34f8ee6293e91895dbcc20fe651c314fe8f89f3241585e290a8674e1df`
+- part021 SHA-256 — `d32d5b4559b68d81675d80e9bb535e1a0e8eaf6861a6eb037ffb357fad5c92c2`
+- scan 511 / part021 local 11 — **Speech 19 / உரை : 19 / 06.03.1982 start / excluded**
+- Tamil — **NOT TRANSCRIBED / verified_against_scan=false**
+- Gate C — **SETUP COMPLETE / NOT STARTED**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+- Gates D–H — **NOT STARTED**
+- planned Gate-C batches — **482–491 / 492–501 / 502–510 FINAL**
+- outside wording imported — **0**
+
 ## Exact next activity
 
-**Speech 18 source intake / Gate C setup — scans 482–510 / printed pp.481–509 / உரை : 18 / 09.07.1980.**
+**Speech 18 Gate C Batch 1 — scans 482–491 / printed pp.481–490 / exactly 10 pages.**
 
-Speech 17 is RELEASED / CLOSED and frozen. Do not reopen it without a separate source-backed defect.
+Transcribe from the controlling 2007 anthology pixels only. Do not begin Batch 2 in the same activity.
