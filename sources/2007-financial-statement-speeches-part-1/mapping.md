@@ -126,8 +126,8 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–17**
 - Gate D — **Speeches 1–17 PASS / COMPLETE**
 - Gate E — **Speeches 1–17 PASS / COMPLETE / Tamil VERIFIED; speeches 18–19 not started**
-- Gate F — **Speeches 1–16 COMPLETE; speeches 17–19 not started**
-- Gate G — **Speeches 1–16 PASS / COMPLETE / English VERIFIED; speeches 17–19 not started**
+- Gate F — **Speeches 1–17 COMPLETE; speeches 18–19 not started**
+- Gate G — **Speeches 1–16 PASS / COMPLETE / English VERIFIED; Speech 17 IN PROGRESS — Batch 1 PASS-COMPLETE / 30 of 93 reviewed / 12 refinements; speeches 18–19 not started**
 - Gate H — **Speeches 1–16 PASS / COMPLETE — RELEASED / CLOSED; speeches 17–19 not started**
 - Speech 13 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED / RELEASED-CLOSED / 7 Gate-G refinements / 0 blockers / 0 Gate-H wording changes**
 
@@ -342,8 +342,8 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / canonical bilingual complete / indexed**
-- Speech 17 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E PASS-COMPLETE 93 of 93 / 37 corrections / 0 unresolved / Tamil VERIFIED / Gate F COMPLETE 93 of 93 / 0 blockers / 0 Tamil changes / Gate G NOT STARTED / English TRANSLATED-AWAITING-REVIEW / multi-date source unit / no single canonical date assigned**
+- Speech 17 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E PASS-COMPLETE 93 of 93 / 37 corrections / 0 unresolved / Tamil VERIFIED / Gate F COMPLETE 93 of 93 / 0 blockers / 0 Tamil changes / Gate G IN PROGRESS / Batch 1 PASS-COMPLETE 30 of 93 / 12 refinements / English PARTIALLY-GATE-G-REVIEWED / multi-date source unit / no single canonical date assigned**
 
 ## Exact continuation
 
-Continue **Speech 17 Gate G Batch 1 — scans 389–418 / exactly 30 English source-page sections**. Review only against Gate-E-verified Tamil; preserve source-printed English, make 0 Tamil changes, preserve the one-unit multi-date policy, and do not assign a single canonical date.
+Continue **Speech 17 Gate G Batch 2 — scans 419–448 / exactly 30 English source-page sections**. Review only against Gate-E-verified Tamil; preserve source-printed English, make 0 Tamil changes, preserve the one-unit multi-date policy, and do not assign a single canonical date. Do not begin Batch 3, Gate H or Speech 18.
