@@ -2,7 +2,7 @@
 
 ## உரை : 17 — 22 & 23.3.1979
 
-> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**. Gate E is **IN PROGRESS — Batches 1–9 COMPLETE / scans 389–478 / 90 of 93 verified / 37 corrections / 0 unresolved**. The source remains one **multi-date unit** (`22 & 23.3.1979`) with no invented internal date split or single canonical date. Tamil is **PARTIALLY VERIFIED / verified_against_scan=false**. Gates F–H are **NOT STARTED**. Exact next: **Gate E Batch 10 FINAL — scans 479–481 / exactly 3 pages**.
+> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**. Gate E is **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**. The source remains one **multi-date unit** (`22 & 23.3.1979`) with no invented internal date split or single canonical date. Tamil is **VERIFIED / verified_against_scan=true**. Gates F–H are **NOT STARTED**. Exact next: **Gate F Batch 1 — scans 389–408 / exactly 20 pages**.
 
 <!-- source-page: 389 -->
 

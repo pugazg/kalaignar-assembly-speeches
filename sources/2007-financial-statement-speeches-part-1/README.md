@@ -569,10 +569,10 @@ Working entry:
 - Gate C — **COMPLETE / scans 389–481 / 93 of 93 first-pass**
 - source markers — **389→481 / 93 / exactly once / ordered**
 - unresolved first-pass readings — **0**
-- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- Tamil — **VERIFIED / verified_against_scan=true**
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS / Batches 1–9 COMPLETE / scans 389–478 / 90 of 93 / 37 corrections / 0 unresolved**
+- Gate E — **PASS / COMPLETE / scans 389–481 / 93 of 93 / 37 corrections / 0 unresolved**
 - Gates F–H — **NOT STARTED**
 - outside wording imported — **0**
 
@@ -726,8 +726,29 @@ Corrections are recorded in the speech verification log.
 
 Corrections are recorded in the speech verification log.
 
+## Speech 17 Gate E Batch 10 FINAL
+
+**PASS / COMPLETE — scans 479–481 / cumulative 93 of 93 verified. Gate E CLOSED.**
+
+- correction ledger — **0 entries / 0 occurrences in Batch 10**
+- Batch-10 affected scans — **0**
+- cumulative Gate-E corrections — **37 entries / 37 occurrences**
+- cumulative affected scans — **29**
+- unresolved — **0**
+- scan-481 source close ornament — **PASS / preserved**
+- hard boundary **481→482 — PASS**
+- Speech-18 wording imported — **0**
+- outside wording imported — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
+
+Source-visible final-batch forms retained without normalization:
+
+- scan 479 — `கல்நாட்டு விழாச் செய்து` / `நிறைவேற்று வதற்கு`
+- scan 480 — `பார்சல் சேலஞ்சாக` / `பேரணாம்பேடு`
+- scan 481 — `1-1-58க்குள்`
+
 ## Exact next activity
 
-**Speech 17 Gate E Batch 10 FINAL — scans 479–481 / printed pp.478–480 / exactly 3 pages.**
+**Speech 17 Gate F Batch 1 — scans 389–408 / exactly 20 pages.**
 
-Preserve the scan-481 source close ornament and hard boundary **481→482**. Do not begin Gate F or Speech 18 in the same activity.
+Translate only from Gate-E-verified Tamil, preserve page boundaries and source-printed English, and do not alter verified Tamil or begin Speech 18.

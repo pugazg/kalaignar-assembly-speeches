@@ -569,12 +569,47 @@ Gate-E Batch-9 correction ledger:
 
 No other source-backed wording or punctuation correction was found in scans 469–478. Source-visible scan-470 `கட்டிக்கழிக்கவில்லை`, scan-471 `அமைச்சராக இருக்கின்ற திரு. செளந்திரராஜன் அவர்கள் பெற்றவர்கள்`, scan-477 `சாது மிரண்டால் காடு தாங்காது`, and scan-478 `120 அடிக்கு மேலாக` were retained without normalization.
 
+## Gate E — Batch 10 FINAL / scans 479–481
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 3 pages; cumulative 93 of 93.**
+
+Coverage:
+
+- verified scans — **479–481**
+- verified printed pages — **478–480**
+- verified pages — **3/3 in batch; cumulative 93/93**
+- split/local coverage — **part020 local 4–6**
+- source markers in batch — **479→481 / 3 / exactly once / ordered**
+- Gate-E Batch-10 correction ledger — **0 entries / 0 occurrences**
+- Batch-10 affected scans — **0**
+- cumulative Gate-E corrections — **37 entries / 37 occurrences**
+- cumulative affected scans — **29**
+- unresolved readings — **0**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- scan-481 source close ornament — **PASS / preserved**
+- hard boundary **481→482 — PASS**
+- scan 482 begins Speech 18 and is excluded
+- Speech-18 wording imported — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
+
+No source-backed wording or punctuation correction was required in scans 479–481. Source-visible scan 479 `கல்நாட்டு விழாச் செய்து` / `நிறைவேற்று வதற்கு`, scan 480 `பார்சல் சேலஞ்சாக` / `பேரணாம்பேடு`, and scan 481 `1-1-58க்குள்` were retained without normalization.
+
+## Gate E closure
+
+**PASS / COMPLETE — 93/93 source pages verified.**
+
+- cumulative corrections — **37 entries / 37 occurrences**
+- cumulative affected scans — **29**
+- unresolved — **0**
+- outside wording imported — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
+
 ## Downstream state
 
 - Gate C — **COMPLETE / 93 of 93**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS / 90 of 93 verified**
+- Gate E — **PASS / COMPLETE / 93 of 93 verified**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -582,4 +617,4 @@ No other source-backed wording or punctuation correction was found in scans 469�
 
 ## Exact next activity
 
-**Speech 17 Gate E Batch 10 FINAL — scans 479–481 / printed pp.478–480 / exactly 3 pages. Preserve the scan-481 source close ornament and hard boundary 481→482.**
+**Speech 17 Gate F Batch 1 — scans 389–408 / exactly 20 verified-Tamil source pages. Translate only from Gate-E-verified Tamil; do not alter Tamil or begin Speech 18.**

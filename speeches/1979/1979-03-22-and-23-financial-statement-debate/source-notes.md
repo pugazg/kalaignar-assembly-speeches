@@ -515,10 +515,50 @@ Corrections:
 
 No other source-backed wording or punctuation correction was found in scans 469–478. Source-visible scan-470 `கட்டிக்கழிக்கவில்லை`, scan-471 `அமைச்சராக இருக்கின்ற திரு. செளந்திரராஜன் அவர்கள் பெற்றவர்கள்`, scan-474 `They are stopped.`, scan-477 `சாது மிரண்டால் காடு தாங்காது`, and scan-478 `120 அடிக்கு மேலாக` were retained.
 
-Gate E remains **IN PROGRESS**.
+## Gate E — Batch 10 FINAL / scans 479–481
+
+**PASS / COMPLETE — 3 pages; cumulative 93 of 93. Gate E CLOSED.**
+
+- verified scans — **479–481**
+- verified printed pages — **478–480**
+- controlling local pages — **part020 local 4–6**
+- markers — **479→481 / exactly once / ordered**
+- source-fidelity corrections — **0**
+- affected scans — **0**
+- cumulative Gate-E corrections — **37 entries / 37 occurrences**
+- cumulative affected scans — **29**
+- unresolved readings — **0**
+- scan-481 source close ornament — **PASS / preserved**
+- hard boundary **481→482 — PASS**
+- scan 482 begins **உரை : 18 / 09.07.1980** and is excluded
+- Speech-18 wording imported — **0**
+- outside wording imported — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
+
+No source-backed wording or punctuation correction was required in scans 479–481. Source-visible final-batch forms retained without normalization:
+
+- scan 479 — `கல்நாட்டு விழாச் செய்து` / `நிறைவேற்று வதற்கு`
+- scan 480 — `பார்சல் சேலஞ்சாக` / `பேரணாம்பேடு`
+- scan 481 — `1-1-58க்குள்`
+
+## Gate E closure
+
+**PASS / COMPLETE — scans 389–481 / printed pp.388–480 / 93 of 93 source-verified.**
+
+- batches — **10**
+- cumulative corrections — **37 entries / 37 occurrences**
+- cumulative affected scans — **29**
+- unresolved — **0**
+- hard boundaries **388→389 / 481→482 — PASS**
+- split continuations **400→401 / 425→426 / 450→451 / 475→476 — PASS**
+- source-printed English and embedded English — **preserved**
+- scan-435 source footnote — **preserved**
+- scan-481 source close ornament — **preserved**
+- outside wording imported — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
 
 ## Exact next
 
-**Gate E Batch 10 FINAL — scans 479–481 / exactly 3 pages.**
+**Gate F Batch 1 — scans 389–408 / exactly 20 pages.**
 
-Preserve the scan-481 source close ornament and hard boundary **481→482 — PASS**.
+Translation authority is the Gate-E-verified Tamil only. Do not alter verified Tamil or begin Speech 18.
