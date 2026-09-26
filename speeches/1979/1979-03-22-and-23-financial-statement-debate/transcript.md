@@ -2,7 +2,7 @@
 
 ## உரை : 17 — 22 & 23.3.1979
 
-> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**. Gate E is **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**. The source remains one **multi-date unit** (`22 & 23.3.1979`) with no invented internal date split or single canonical date. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **IN PROGRESS — Batches 1–2 COMPLETE / scans 389–448 / 60 of 93 translated / 0 blockers / 0 Tamil changes**. Gates G–H are **NOT STARTED**. Exact next: **Gate F Batch 3 — scans 449–478 / exactly 30 pages**.
+> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**. Gate E is **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**. The source remains one **multi-date unit** (`22 & 23.3.1979`) with no invented internal date split or single canonical date. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **IN PROGRESS — Batches 1–3 COMPLETE / scans 389–478 / 90 of 93 translated / 0 blockers / 0 Tamil changes**. Gates G–H are **NOT STARTED**. Exact next: **Gate F Batch 4 FINAL — scans 479–481 / exactly 3 pages**.
 
 <!-- source-page: 389 -->
 
@@ -1622,3 +1622,319 @@ Even during the Kazhagam Government, when I was Chief Minister, statues of Periy
 I say this only by way of explanation—not because the statue must be placed directly opposite Sankarachariar's mutt. I say this to explain that there is a difference of 120 or 150 feet between the proposed statue site and the mutt.
 
 Next, when I spoke yesterday about the problems of farmers, I pointed out their various hardships, such as the procurement price. Because of power cuts—
+
+
+### Source page 449
+
+The farmers' agitation that has arisen is based on demands that the Government come forward to withdraw taxes already imposed; to provide assistance and credit facilities by distinguishing among poor farmers, middle farmers and somewhat better-off farmers; to cancel existing debts; and to reduce interest drastically. Farmers are fighting today on these issues. In particular, news from Salem says that Balasubramaniam there—he is not a member of the Dravida Munnetra Kazhagam. In fact, none of the leaders conducting the farmers' agitations belongs to the Dravida Munnetra Kazhagam. But whoever conducts any agitation, we are accused of the Dravida Munnetra Kazhagam having instigated it. I am not concerned about that.
+
+Our friend Balasubramaniam has been on a fast for the last six or seven days in front of the Salem District Collector's office. Reports say that his condition is very serious. I am duty-bound to ask whether it is proper for the Government to remain silent about this.
+
+Next, when irregularities and allegations are mentioned, even yesterday the Chief Minister threw down a challenge that if these were proved he was prepared to resign. He said that he derived no benefit of any kind from taking the land for Sathya Studios. Why, without any benefit at all, did they pay Rs.9,000 and take it for a period of twenty years? These are matters that must be considered. If all those files are put up for inquiry, the country will know whether or not he—
+
+### Source page 450
+
+—benefited from taking that land. I am duty-bound to point that out here.
+
+In the first part of my speech yesterday, as Leader of the Opposition, I set out the various deficiencies I saw in the financial statement presented by our Finance Minister. I told our Finance Minister this in a spirit of confidence. It was not because everything had to be condemned. I know that our Finance Minister will ask whether good things should not also be praised. At the very time this financial statement was released, I told reporters—and I recall that some ruling-party members also referred to it here—that, apart from somewhat increasing the funds for schemes already introduced by the Dravida Munnetra Kazhagam Government for social welfare and protected drinking-water schemes, there were no revolutionary schemes.
+
+In this statement our Finance Minister has written: “No one can deceive anyone by assuming that the people at the farthest end, who year after year have met disappointment amid expectations, will continue to remain patient....” This is precisely what I am compelled to repeat. When we look at the conditions in Tamil Nadu, the Opposition parties are in an unavoidable position of having to give this same advice to the Government. Because a situation has arisen in which large sections of the majority of the people are affected, we see in the country that different sections—farmers, students, workers, even lawyers and doctors—are forced to enter into various agitations.
+
+### Source page 451
+
+Students are being attacked in many places. All these matters have been brought before this House as adjournment motions on behalf of the Munnetra Kazhagam and other parties.
+
+Has this Government agreed, in respect of even one such attack, to order a judicial inquiry? No. When the Dravida Munnetra Kazhagam was in Government, today's Finance Minister, my dear friend Manoharan, rushed to Clive Hostel to see the incident there. He met all the students. They issued a statement that students had been beaten until blood was dripping. The Opposition parties raised the matter in the Assembly. We did not stubbornly insist on our own version. After reading the information that had reached us, we announced that because allegations were being made beyond that information, a judicial inquiry would be held. A judicial inquiry was accordingly held, and I have already pointed out that the judge delivered a finding to the extent that officials had committed wrongdoing.
+
+Therefore, students are being attacked to the point of suffering bleeding injuries and broken heads. Police are entering hostels and colleges and attacking students. I am duty-bound to say that this situation can be stopped at some stage only if you arrange a judicial inquiry.
+
+When our Chief Minister was abroad, the Finance Minister gave an assurance to me and the other Opposition leaders. On the Prohibition Emergency Law, I and the other Opposition leaders put forward our views—
+
+### Source page 452
+
+—that this was a very harsh law; that laws like this had not been enacted even in barbaric times; that in this civilized age it was not proper to enact such a law or make it so severe that even bail could not be granted. Everyone wants prohibition to be implemented. There is no difference on that principle. But in India, even Prime Minister Morarji Desai, who holds very strong views on prohibition, has neither dared nor found it practicable to enforce prohibition throughout India on one single day.
+
+Around us, whether it is Pondicherry nearby, Bangalore close by, Andhra State on one side, or Kerala State on another, liquor circulates freely without being subject to a policy of prohibition. At a time when an opinion prevails that this policy cannot succeed in Tamil Nadu under such conditions, we said that the Government should have tried, to some extent, to reform people through propaganda and through the existing law, rather than resorting to such an emergency law.
+
+At that time the Finance Minister said and issued a statement that the Chief Minister was abroad and that statements being made then were confusing the issue. He asked me and the other party leaders to remain patient, promising that the matter could be debated in the Assembly and amended to the appropriate extent. Perhaps because he feared having to keep that promise—
+
+### Source page 453
+
+—when the Bill was passed, the Hon. Finance Minister did not come to the House. (Interruption.) He says there was some reason, that he had gone to see “Kosijini.” The Chief Minister may have gone there without speaking here that day about the Prohibition law; in any case, he has said that he went. If, because an assurance had been given to Opposition leaders, the Finance Minister had said, “Take it up on another day,” perhaps through his grace the poor and ordinary people of this country might have been spared a situation in which such a cruel law was imposed on them.
+
+Today liquor is flowing like a river throughout India. It is flowing like a river in Tamil Nadu too. Who all are involved in it and connected with it has already been discussed here again and again until the issue is exhausted. I do not wish to repeat it.
+
+So it is a good doctrine. But if we proceed according to the Finance Minister's policy, it has today become a worm-eaten doctrine. One must consider that a highly severe emergency law, or a law made harsher by passing an emergency law, will not succeed in protecting a worm-eaten doctrine.
+
+You have announced so many schemes. In my speech yesterday itself, and when I spoke on the no-confidence motion, I pointed out that none of the announced schemes had been implemented. Even on the Prohibition law, what did the Chief Minister say? When speaking outside, he said that he had a list of who all the illicit-liquor traders were—
+
+### Source page 454
+
+—and when friends asked during the no-confidence motion what had become of that list, he said he had trustingly given the list of names to the officials and that they had disclosed it to those persons. Now he has said that he has a list of which industrialists are stealing electricity. Later, he may give that list to officials and say that the secret was leaked.
+
+Therefore, if there is real concern and interest in the Prohibition law, I request that it be implemented in a non-partisan manner, with that outlook, by reducing the law's severity and securing the cooperation of all parties. I ask that this law, under which poor and ordinary people suffer greatly while it may be used to threaten or take revenge on Opposition members, be reconsidered. On behalf of the Opposition parties, I am duty-bound to point out in this august House that you have plenty of time to do so.
+
+It was Perarignar Anna's policy that horse racing should be abolished. Anna wrote it in his own hand in the election manifesto. After the Dravida Munnetra Kazhagam came to power, the Kazhagam Government passed a resolution that horse racing should be abolished. There was already a law abolishing horse racing. That law had been kept in suspension. Through the resolution we removed that suspension and set the law in motion. The owners of the racecourse or that group went to the Supreme Court. The case has simply been sleeping there. Instead of showing urgency and interest in reviving that case—
+
+### Source page 455
+
+—and abolishing horse racing, the Chief Minister announced, “I am going to nationalise it.” A year has passed. Has it been nationalised? Have efforts been made for it? No. Announcements come in abundance. They appear revolutionary, and then it has become the practice of this Government to leave them pending.
+
+During the administration of Perunthalaivar Kamaraj, the Anna administration that followed, and the seven years of Dravida Munnetra Kazhagam rule thereafter—during a total of nine years of Kazhagam rule—apart from somewhat larger allocations being made, as revenue rose, to schemes that had already been allotted funds, implemented, or announced for implementation, many schemes have been abandoned altogether: schemes such as the Slum Clearance Board, free housing for Scheduled Caste people, free housing for fishermen, and other revolutionary social-welfare schemes.
+
+The Finance Minister said, “Those in the ivory palace must come down to the verandah. Only then will the true picture of the schemes being drawn up become visible.” The verandah too is part of the ivory palace. Even if one looks from the verandah of the ivory palace, one cannot see the true picture of the schemes being drawn up. Therefore I tell him that only by coming a little outside that verandah can one see the true picture of Tamil Nadu.
+
+Rather than merely giving my own criticism here, I wish to quote just one passage spoken in Madurai by Basavalingappa, a Minister of a party very closely associated with them, the Indian Congress party, which is governing Karnataka State.
+
+### Source page 456
+
+“Anna Dravida Munnetra Kazhagam is not a fort built on policy and principle. For the past one and a half years it has remained awake without fulfilling the promises made to the poor common people. There is no measure of relief in the Budget they have presented. It does not appear that any step has been taken to advance the backward sections. I even doubt whether they have any intention of advancing them. They have not fulfilled the promises they gave. Nothing has been allotted in the Budget either. The people of Tamil Nadu can no longer be deceived.”
+
+I quote here what Basavalingappa said. If I say it, you may become angry, so I quote what your friend, Karnataka State Minister Basavalingappa, said, and with that I state my view of this financial statement and sit down.
+
+**Hon. Thiru. K. Manoharan:** Hon. Speaker, leaders belonging to various parties and Hon. Members have expressed their views on the financial statement that I have presented before this House for the third time. I do not wish to speak as long as the Leader of the Opposition. I wish to shape my speech particularly as a reply to some of the questions raised and as an explanation of them.
+
+At the very end of his speech, our Leader of the Opposition referred to the words I placed at the end of my financial statement and gave an explanation in his own characteristic way. I am happy. Many members touched upon these passages. I am very happy that this section has captured their minds to that extent. But please do not be upset when I point out that the explanations given did not correspond to the purpose with which I made those observations.
+
+### Source page 457
+
+“Those in the ivory palace must come down to the verandah. Only then will the true picture of the schemes being drawn up become visible. This financial statement placed before this House for the consideration of Hon. Members, for constructive criticism and useful suggestions, is a photograph of that true condition.” This is the final passage I wrote in the financial statement.
+
+Some mocked that the Finance Minister had written this financial statement while sitting in an ivory palace. I am not concerned about that. I say with my head held high that I did write the financial statement from an ivory palace. The difference between the ivory palace they mean and the ivory palace I mean is this. Their ivory palace is the “Ivory tower.” The ivory palace I mean is “the palace the people gave me”; I wrote from there.
+
+I also wish to clarify one more thing. When I say “ivory palace,” I refer to a term used in English for remaining in an imaginary place without coming down to real conditions. Ivory tower. I said that approach should not be adopted. When I say “verandah,” what I mean is down to earth approach, based on real basic needs—
+
+### Source page 458
+
+—not the idea suggested by the Leader of the Opposition that there should be no verandah at all and that one must come to the street corner. I wish to point that out. It is not that he does not know this. I think he said it deliberately just to try saying such a thing.
+
+**Kalaignar M. Karunanidhi:** Mr Speaker, the Finance Minister said, “the palace the people gave me.” I accept that. Calling it the palace given by the people is wordplay. I welcome it; I appreciate it. You say you are drawing up schemes from the palace the people gave you. Then why do you come to the verandah?
+
+**Hon. Thiru. K. Manoharan:** I say again: please retain the truth I refer to as down to earth approach. I have said it including the ruling party. From that, I request the Leader of the Opposition to understand my courage.
+
+“If I write with such boldness from within a ruling party that no one can deceive anyone by assuming that the people at the farthest end, who year after year meet disappointment amid expectations, will continue to remain patient,” it means the Government understands the real situation to this extent. There is a limit to patience. This Government works with the understanding that if the people cross that limit, the garland will go to the top of the head. I ask the Leader of the Opposition on this occasion to understand that this was written with that awareness.
+
+### Source page 459
+
+At this point, in order to use this occasion, I wish to cite one piece of supporting evidence. We should not act with our eyes closed; we must pay close attention to how the people judge us; and we must remember how disastrous the consequences can become if we disappear from the people's sight. I sincerely hope the Opposition leaders—the present Opposition leaders—will agree that if they had been Finance Minister, I do not believe they would have written with this degree of courage. It was written to that extent.
+
+I will say one more thing. I will tell you later who said this.
+
+"Economic equality is the master key to non-violent indepen-
+dence. A non-violent system of Government is clearly an impossibil-
+ity, as long as the wide gulf between the rich and the hungry millions
+presists. The Contrast between the palaces of New Delhi and the
+miserable hovels of the poor, labouring class cannot last one day in
+a free India in which the poor will enjoy the same power as the
+richest in the land. A violent and bloody revolution is a certainty one
+day, unless there is a voluntary abdication of riches and the power
+that riches give and sharing them for the common good."
+
+I do not wish to give you a translation of this. You know it yourselves. I wish on this occasion to point out that the person who expressed the idea that unless the gulf between the very rich and the utterly poor is narrowed, the great gates will inevitably open to a flood of revolution, was the greatly revered Gandhiji, who became immortal as the embodiment of peace.
+
+### Source page 460
+
+Likewise, I wish to place one more thing before you. It is a conversation between a journalist and a distinguished person. This is the relevant part:
+
+"The Budget which represents a departure in presentation
+has given prominence to a large number of schemes rather than
+the conventional elaboration of the finance intricacies - designed,
+as Mr. Manoharan explained, to increase employment opportuni-
+ties for the poor people in the rural areas and for increasing and
+expanding the educational and medical facilities."
+
+The reason I cite here this view written by the Economic Times is that, when that Bombay newspaper writes this, I regret that our greatly respected Leader of the Opposition, who once worked shoulder to shoulder with me, does not have the heart to offer praise to that extent. Likewise, here is what another newspaper that he praises today, the Indian Express, wrote:
+
+The Finance Minister Mr.Manoharan last Saturday presented
+the Budget. "His speech contains a number of proposals aimed at
+achieving the objective he has set-forth. By themselves they are
+small items, but cumulatively they represent a sound impetus rural
+industrialisation."
+
+I will stop with the fact that the Indian Express wrote this. The Hindu has expressed its goodwill; it has written very clearly. If I speak about the Mail, the Leader of the Opposition will become angry. So without going into it, I will merely state the headline: "SENSIBLE BUDGET". I do not wish to say anything beyond that. A newspaper our Leader of the Opposition always trusts, and which we know he often brings forward as evidence—
+
+### Source page 461
+
+—it would be appropriate for me to read what Dinamani has written. This is what that paper wrote: in the section on “public welfare or relief from hardship,” the preliminary ideas concerning “development of employment” and “assistance” to the unemployed deserve attention. But their benefits can be assessed only after they have been implemented without “misuse.”
+
+One should not rush ahead prematurely like cashew nuts. Still, this is the opinion in Dinamani.
+
+“These are arrangements worth considering. On the whole, it is welcome that this Budget may be described as one that leaves little room for complaint, a mild Budget.” This is what Dinamani wrote in its own way. Many other newspapers too have written in praise. Those with hearts to praise have praised. Nobody thinks there should be no praise. Some praise inwardly; they are a little shy to say it outside. Our Leader of the Opposition happens to be one of them.
+
+I am now duty-bound to answer some of the issues the Leader of the Opposition mentioned. When he spoke yesterday, he discussed all these allocations. He pointed out that when he was in Government the Budget was Rs.575 crore, and that even after the present Government's Budget had come near Rs.820 crore and then reached Rs.840 crore, large allocations had not been made. He mentioned this item by item. I wish humbly to respond. I have notes here for that purpose, and I sincerely hope he will obtain clarification from those notes.
+
+### Source page 462
+
+When he referred to minor irrigation, he said that when they were in office the capital expenditure allotted for it was Rs.89 lakh, but that this Government, despite having so much more money, had not allotted even that much. As Finance Minister, I am duty-bound to deny that fairly. I must remind him that the amount allotted for this in 1980 is Rs.137 lakh.
+
+**Kalaignar M. Karunanidhi:** Mr Speaker, I am reading only from the book you have given. In the annexure to the 1975-76 budget statement, on page 20, under line 306, the heading “Minor Irrigation” shows Rs.419 lakh in 1975-76—that is Rs.4 crore 19 lakh under the Kazhagam Government. Now, for 1979-80, the allocation for minor irrigation is Rs.3 crore 46 lakh. That is what I said.
+
+**Hon. Thiru. K. Manoharan:** I wish to point out to the Leader of the Opposition that capital expenditure was Rs.89 lakh in 1975-76 and Rs.137 lakh in 1979-89.
+
+**Kalaignar M. Karunanidhi:** On a revenue basis, revenue expenditure is what must mainly be taken into account. What the Hon. Finance Minister is giving is the capital account. We must see what appears in the revenue account.
+
+**Hon. Thiru. K. Manoharan:** I will calculate it under the revenue account too and tell you. Since this—
+
+### Source page 463
+
+—Government came to office, more has been spent. He read statistics showing the amount spent on irrigation. I too looked at those statistics. Apart from what is stated as capital expenditure, if one looks a little further under the other revenue heads, I am duty-bound to state here that the amount allotted is certainly higher than in 1975. For irrigation expenditure in Tamil Nadu, the figure for 1975-76 was Rs.17.67 crore, while for 1979-80 the capital expenditure is Rs.29.42 crore. What is referred to as lower is the allocation for maintenance expenditure, not capital expenditure for new irrigation. If necessary, there is provision to increase maintenance expenditure in the revised estimate.
+
+Then he spoke about housing. He said the figure for 1975-76 was Rs.5.22 crore, but that under your Government it was not that much. I draw his attention to the fact that this Government has allotted Rs.8.73 crore for 1979-80.
+
+The amount allotted to fishermen in 1975-76 was Rs.0.80 crore. I remind him that this Government has allotted Rs.1 crore. Thus, in total, the amount allotted in 1975-76 for housing (general) and fishermen was Rs.6.02 crore; in 1979-80 it is Rs.9.73 crore. These are the expenditure figures.
+
+Under the accounting method, because the Government deducts back Rs.4.80 crore from the Urban Development Fund, the expenditure is recorded lower under that head as net expenditure. In reality there is no reduction in the expenditure; there has been a substantial increase.
+
+### Source page 464
+
+After that, he spoke here about road and water transport. In 1975-76, Rs.5.25 crore was spent under road transport as funds to be reimbursed to the undertakings. Thereafter the transport undertakings have been spending directly. The remaining Rs.1.29 crore under that head was spent on Motor Vehicles Maintenance Organisations. That amount was spent on maintenance of Government cars.
+
+**Kalaignar M. Karunanidhi:** Forgive me for interrupting. I interrupt only so that the House may receive clarification. Please forgive me. What I referred to as road transport and water transport is not the same as the transport expenditure referred to by the Finance Minister. Road and water transport concerns roads and transport by boats and ships. In the revenue account too, it was Rs.6.81 lakh in 1975-76 and Rs.2.83 lakh in 1979-80. The figures I gave yesterday are in the revenue account. Today he is speaking only about the capital account.
+
+**Hon. Thiru. K. Manoharan:** The Hon. Leader of the Opposition has risen before I could finish. Under that head, only Rs.1.30 crore was spent on maintenance in 1975-76. In 1979-80, expenditure relating to the Motor Vehicles Maintenance Organisation, Rs.2.68, would be recorded under that account head as “other administrative expenses.” Rs.1.54 crore has been allotted for this. Other expenditure is being incurred directly by the transport undertakings. I convey that point to our Leader of the Opposition.
+
+### Source page 465
+
+Next, Thiru Swamidas said that there are already 200 boats in that department and that they are being kept there instead of being given to fishing workers. The scheme to provide boats to fishermen is being implemented through A.R.D.C. and through banks. For various reasons, it could not be provided through A.R.D.C. this year....
+
+**Thiru. Koothakudi S. Shanmugam:** Mr Speaker, point of order....
+
+**Kalaignar M. Karunanidhi:** Mr Speaker, the bill shown here by the Finance Minister bears the name Dr K. Samarasam. Is this about Samarasam purchasing bicycles, or about his selling them? Because “Rs.” is written there, no other person's name is shown, and it is for Rs.2,000. It says Samarasam, Kaveripattinam. Is that his company, or did he buy them and then sell them to somebody else?
+
+**Dr K. Samarasam:** Mr Speaker, the Leader of the Opposition has raised a doubt here. I am duty-bound to explain. Hon. Member Subbu asked whether a bicycle could be had for Rs.400 and said that anyone claiming it could should go and tell it to somebody who wears flowers in his ears. When I went to my town that day, I asked at the local shop what bicycles were available at what prices. The prices I was given at a sales shop in a village were quotations. If one were to buy in bulk, directly from the company, they could be bought at an even lower price. I wish to inform Dr Kalaignar of that.
+
+### Source page 466
+
+**Kalaignar M. Karunanidhi:** Mr Speaker, when the Finance Minister showed it here, he called it a bill. That is why I asked whether it was a bill for what you bought or for what you sold. It is made out for around Rs.2,000 for five or six bicycles. So I asked whether you run a bicycle shop, or whether you buy and resell them.
+
+**Dr K. Samarasam:** Mr Speaker, it is very clear there. They have sent a quotation. I am not buying and selling. I am not selling, and I do not run a shop.
+
+**Kalaignar M. Karunanidhi:** You say it is not a bill but a quotation. But when the Finance Minister spoke, he kept saying “bill, bill.” You, however, say it is a quotation.
+
+**Thiru. Koothakudi S. Shanmugam:** Mr Speaker, when anyone rises on a point of order, according to procedure you should first allow him to raise it. But you did not permit that. I rose first and asked, but you did not allow me. I request that hereafter you follow that procedure. The Finance Minister announced a rubber factory here. A rubber factory was already started in our district and remains half-finished. What is its position?
+
+**Hon. Thiru. K. Manoharan:** I will tell you about it. You know how that rubber factory was started. You know what became of it, and on what basis it was started. You also know what condition those running it have now come to. You know too that raw materials for a rubber factory are not available there. Therefore—
+
+### Source page 467
+
+—after it was stated very clearly that there was no feasibility report showing that a rubber factory could be run there, we selected the rubber-growing district of Thiru James. To start a factory, one must take into account whether raw materials are available there, whether the area is suitable, and whether there is sufficient water. The rubber available in Kanyakumari district is quality rubber; rubber of that standard is not available in any other area. There is abundant water there—one point. Another....
+
+**Kalaignar M. Karunanidhi:** Mr Speaker, they said evidence was needed. Set up a commission of inquiry to investigate it. I am prepared to place before that judge the witnesses and evidence, the details of how they were caught red-handed, what happened afterwards, how they were suspended and then reinstated.
+
+**Hon. Thiru. K. Manoharan:** There has been no answer to the question I asked. (Interruption.) I say there has been no answer. They....
+
+**Kalaignar M. Karunanidhi:** Mr Speaker, at the first Budget session I spoke about corruption in yarn distribution at Kumarapalayam. I gave the evidence to the Chief Minister. They said action would be taken. I do not know where that evidence went. Therefore allow a judicial inquiry; I will present the witnesses before them.
+
+### Source page 468
+
+**Hon. Thiru. M.G. Ramachandran:** Mr Speaker, I wish to state that the notes given to the Chief Minister are being attended to in the proper place and in the proper manner. But on this matter I ask: who received this Rs.25,000? The Minister has said that if it is proved that he received it, he is prepared to resign not only from the office of Minister but even from his seat as a Member of the Legislative Assembly. If the Leader of the Opposition is unable to prove the allegation, what is he going to do?
+
+**Kalaignar M. Karunanidhi:** We know very well the measure of responsibility with which you behaved in judicial inquiries. When the complaint was given to the President, you said, “I take responsibility for everything.” But when you gave evidence before the Sarkaria Commission, you said, “I am not responsible for all that; lawyer Kannan of Salem is responsible; he must be asked.” We know all that very well. Therefore arrange an inquiry by a judge into this issue. I am prepared to prove it there.
+
+**Hon. Thiru. M.G. Ramachandran:** I now see how attached he is to his M.L.A. seat. (Ruling-party members create an uproar.) I am very happy about that. (Interruption.) He may answer after listening to what I say.
+
+What was said before the Sarkaria Commission was also stated when the complaint was given to the President—that is apparent from speeches made on public platforms. My speeches have appeared in the newspapers.
+
+### Source page 469
+
+If necessary, I can show what appeared in the newspapers. I state again that it was clearly published that whoever had agreed to particular matters would take responsibility for them. While speaking, the Leader of the Opposition said he knows all about my character. I will look at my own character in the mirror; let him look at his.
+
+**Kalaignar M. Karunanidhi:** In the complaint submitted to the President, our present Chief Minister, signing then as M.G. Ramachandran, stated, “I myself take responsibility for everything.” It says there that he himself takes responsibility. But when he gave evidence before the Sarkaria Commission, he said, “I am not responsible for all that; Salem Kannan is responsible. He must be asked.”
+
+He said how much desire I have for an M.L.A. seat. But I wish to remind him of one thing. The person who said this very Assembly was dead used to sign from outside once every two or three months so that he would not lose his seat, and without fail collected his salary. (Uproar from the Opposition.) This House knows it, and the people know it. (Noise and confusion.)
+
+**Hon. Thiru. M.G. Ramachandran:** Mr Speaker, the Leader of the Opposition in a proper manner.... (Noise and confusion.)
+
+**Hon. Deputy Speaker:** Members on the Opposition side should not speak like this. (Interruption.) They thumped there; they shouted here. If that is acceptable, if Opposition members may do that, let them freely do so and keep doing it.
+
+### Source page 470
+
+**Hon. Thiru. M.G. Ramachandran:** In the complaint I submitted, I set out certain allegations. I have not yet abandoned them. If those who come forward to testify about them are unable to prove the charges, then I certainly do not need this office. I have not retreated from that position.
+
+What I wish to say here is: what is the conclusion to this issue? They ask for a judicial inquiry. There is an allegation against an Hon. Minister. It has appeared in the newspapers, and he says that if it is not disproved—if it is proved—he is prepared to resign, even to resign his seat as a Member of the Legislative Assembly. But when we ask whether the person who made such a serious accusation, if unable to prove it, will resign and give up his Assembly seat, I say this too.
+
+The Hon. Leader of the Opposition said that I declared this Assembly dead but merely kept drawing money. I have explained many times the basis on which I said the Assembly was dead. At a time when there were two leaders, I stated clearly that the Assembly was not functioning according to the proper norms belonging to a Legislative Assembly.
+
+At that time I was receiving my salary. Later, in the belief that this Assembly would come back to life, I went to court. In the end, the Government itself was dismissed, and the salary I had been receiving also stopped. I wish to state that.
+
+I say one more thing. If I have now come here and taken this seat, it is because—
+
+### Source page 471
+
+—we do not have the cowardice to turn away and say, “I cannot,” when the people themselves come forward and give support, saying, “You yourselves do what you tell us should be done in a democracy.” We are not prepared to do that. Therefore I have accepted office and am sitting here.
+
+Again, with restraint, respect and humility, I say that this M.G.R. has no desire for such offices. I resigned even the M.L.C. post I had earlier. Many people asked me about it at that time. I then gave my reasons for saying I did not want it. The good Karunanidhi of those days certainly knows all of them. But today, with the intention of somehow placing blame on this Government, such things are being said. He knows what I told Anna that day when I refused the M.L.C. post. Through these debates now taking place, the truth that the people of the country ought to know must become known.
+
+The question asked here by the Hon. Leader of the Opposition has been printed and published in large bold letters. This Government accepts responsibility for it. This Government will not retreat from an inquiry. We are not prepared to retreat. We are prepared to appoint a judge to conduct a judicial inquiry. If it is proved that Minister Thiru Soundararajan received that sum of Rs.25,000, he is prepared to resign his ministerial office and also his seat as a Member of the Legislative Assembly. But I wish to know whether the person responsible for placing this allegation upon him, who sits here asking the question, is prepared to resign his own post if he cannot prove that Thiru Soundararajan received the money.
+
+### Source page 472
+
+**Kalaignar M. Karunanidhi:** Mr Speaker, it is through the irregularities arising in a matter—that is, if those irregularities are proved—that it becomes known that something occurred in it.
+
+How many accusations did the present Chief Minister make against me? It does not appear from the Sarkaria Commission report that those accusations were proved. Yet the Hon. Chief Minister who made those unproved accusations did not resign his M.L.A. seat. Even after the Sarkaria Commission report came, he did not resign. I do not know whether, because my being here as Leader of the Opposition causes him great discomfort, he now wants me to resign my post.
+
+Therefore a judge should be appointed to inquire into the allegations now being made. There are many more matters. Further, when the All India Anna Dravida Munnetra Kazhagam was in Opposition, they said even then that a judge should be appointed to inquire into allegations they made, and that the judge should be from another State. Are they now prepared to appoint a judge from another State in the same way to inquire into these allegations? If such an inquiry is constituted, we are prepared to provide the evidence.
+
+**Hon. Thiru. M.G. Ramachandran:** Mr Speaker, Hon. Members should not mistakenly think that I am wasting time.
+
+When circumstances compelled me to place the matter that was sent to the Sarkaria Commission—
+
+### Source page 473
+
+—I did not make any such declaration. I have no objection to Kalaignar Karunanidhi being here. During an election, it is of course democratic for Opposition parties to seek to prevent the other side from coming to power. But when people who know the details and who have previously held office come to the Assembly, not only is democracy protected; the explanations derived from their experience can be beneficial, and the questions they ask can be useful. I have no difference of opinion on that.
+
+But it is not right to accuse me of not resigning office at the time he refers to. The situation then was different; today's situation is different.
+
+Many accusations were made then. They were not all rejected. It was said that some of them could be investigated. That is the position. That is, we asked that the allegations submitted by me and by the C.B.I. be investigated fully and properly.
+
+If this question—“Are you prepared to resign?”—had been asked then, I would have been glad. The Leader of the Opposition, Dr Kalaignar, at that time, before we came to office, asked at public meetings whether we were prepared to come and debate. We had said that if such things were held, incidents like accidents might occur.
+
+Far from objecting to his sitting here, no one could be happier than I am. Here there is an opportunity to speak face to face. I have no fear about this, nothing here to accept, and I am not shaken by it.
+
+### Source page 474
+
+Even if they sit here and keep speaking like this for as many years as they wish, I too will be happy for all those years. Your coming here is not a hindrance to us; it is a help. I said this only because coming here and speaking face to face is much better than speaking from a public platform.
+
+**Thiru. K. Subbu:** What the Chief Minister says is correct. It is fair to say that those who make an accusation must accept responsibility and, if they are wrong, accept the punishment for it. It was on that very basis that a law was enacted saying that when allegations are made against those in public life, they must be proved, and if not, the person making the allegation too should be punished. After repealing such a law, what right do they now have to “challenge” someone to say whether he is prepared to accept punishment for making an allegation? They are stopped. Having repealed the law that existed, they have no right at all to ask this question. I bring that to your attention.
+
+**Hon. Thiru. M.G. Ramachandran:** Our friend Subbu is a good lawyer, and I commend him for that. But one must consider the situation there: nobody is being placed before a court as part of a judicial inquiry. Whatever evidence there may be for a judicial inquiry cannot simply be stated here in the same way as before the Sarkaria Commission; one may say that this is information given by the people. The position now is that we are offering a judicial inquiry. Even if a judge has to be brought from another State, we are prepared for that too.
+
+### Source page 475
+
+But after an allegation is made against a Minister and publicised in all the newspapers, someone must take responsibility and, if there is truth in it, action must be taken in the interests of the country. At the same time, you too must arrive at a decision. When you say I must take action on this, it means this Government must take action; when I say this Government, it means this august House takes action. If that happens, it means this Assembly gives such a judgment.
+
+So, if you wish to combine this and give it life—or, after the days when it was said for so many years that a judge had to be there for that purpose have ended, and after that has been abandoned, we have now come to a position where we can go directly to court. We are not prepared to refuse a judicial inquiry either. When an accusation is made against a Minister and publicised, and he accepts responsibility for it, how can it be proper for others to say they cannot accept responsibility and remain in a position of saying, “I will make allegations”?
+
+I say again: Hon. Minister Soundararajan is even now prepared to resign if it is proved that he received Rs.25,000—both his seat as a Member of the Legislative Assembly and his ministerial office. I am only asking what the others are going to do.
+
+**Kalaignar M. Karunanidhi:** Mr Speaker, Special Courts are now being constituted. I am prepared to make many more allegations against Minister Soundararajan. I have a charge-sheet containing allegations against the Chief Minister and another five or six Ministers—
+
+### Source page 476
+
+—as well. Obtain the permission of the Supreme Court and constitute a Special Court. Appoint a judge from another State. I will place all these allegations there. If they are not proved there, I am prepared to resign.
+
+**Hon. Deputy Speaker:** The issues are continuing to go off in all directions.
+
+**Hon. Thiru. M.G. Ramachandran:** While saying that I have no objection to this, I would point out that, regarding the setting up of Special Courts in a manner that victimises certain important individuals, we expressed our objection in Delhi and voted there against the Janata side. We voted that such courts should not be created for particular individuals. Therefore, everything they intend to submit can certainly be given collectively to Prime Minister Morarji Desai or to the President.
+
+It can be given to the Prime Minister; he will take action. It can be given to the President; he too will take action. If there is evidence, they may even dismiss us. Therefore I request that they immediately write out these matters and send them, with evidence, to Prime Minister Morarji Desai.
+
+**Hon. Deputy Speaker:** An announcement to the House. (Thiru J. James and two Opposition leaders attempted to speak.) James, no. It is late. I cannot permit it. If this keeps growing like this, what will happen to the other business of the House? Please forgive me. I cannot permit it.
+
+### Source page 477
+
+The following message has been received from the Governor regarding the moving in the Assembly of demands for supplementary grants for the year 1978-79:—
+
+Earlier, we came here having received the votes of crores of Hindus. What does it mean if, in a manner that hurts their feelings, you say, “We will certainly erect Periyar's statue opposite Sankarachariar's place; do what you can”? If, instead of Hindus, someone had spoken of erecting a statue in this manner in front of an Islamic place of worship or a church, saying, “We will certainly put it there,” what would have happened? Hindus may be poor. But to think they are cowards, to oppose Hinduism, ridicule it and belittle it—such things keep happening here repeatedly, and I say this with great pain.
+
+Now, in facing this challenge, I wish to say that though these Hindus may be poor, they are not cowards, and that people such as Kandasamy are ready to oppose it and meet it. (Some members applauded....) Please do not applaud and create an uproar. I say this on behalf of Hindus. I say it to Dr Kalaignar and to those with him. Do not draw us into a quarrel. They say, “If a gentle man is driven to fury, the forest cannot bear it”; likewise....
+
+**Kalaignar M. Karunanidhi:** Kandasamy, leader of the National Forward Bloc, twists the matter as though we are saying Periyar's statue must be erected against Sankarachariar. When the Dravida Munnetra Kazhagam Government was in office, Dravidar Kazhagam comrades sought permission. Permission was granted. There was no challenge that the statue must be erected against Sankarachariar's mutt—
+
+### Source page 478
+
+—and nowhere else. There is a difference of more than 120 feet between the place where Sankarachariar's mutt stands and the place where Periyar's statue is sought. The road where Sankarachariar's mutt stands is different from the road where the statue is requested. The requested site is at the junction of Ther Veedhi and another street. Therefore I draw Kandasamy's attention to the fact that this is not a request to erect a statue against Sankarachariar.
+
+Further, although Periyar opposed religious superstitious customs, and although he did not accept that he was a Hindu, a Muslim or a Christian, he remained within the Hindu religion until the end. Even so, rationalists have the right to oppose superstitions and theistic doctrines within Hinduism. Even Sankarachariar would certainly have no objection to erecting a statue of Periyar, who was such a rationalist. Some persons—Raghavan, Irupavan, or persons of that sort—signed objections under President's Rule. The Commissioner and Collector then in office issued an order refusing permission. It was only when we spoke yesterday about reconsidering that order that the issue grew large.
+
+People of the Mukkulathor community in Madurai district conducted an agitation demanding that Madurai University be named after Perunthalaivar Kamaraj. Even then, when Kamaraj was honoured by naming Madurai University after him, it was said that similar manoeuvres arose in opposition. Therefore, in the matter of erecting Periyar's statue, by giving special emphasis to the word “Hindus”—
