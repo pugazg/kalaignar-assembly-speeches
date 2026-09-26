@@ -97,14 +97,14 @@ Treat this 2007 anthology as its own witness.
 - Gate D — **PASS / COMPLETE for Speeches 1–17**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–17; speeches 18–19 not started**
 - Gate F — **COMPLETE for Speeches 1–17; speeches 18–19 not started**
-- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–16; Speech 17 IN PROGRESS with Batches 1–2 PASS-COMPLETE / 60 of 93 reviewed / 28 cumulative refinements / 0 blockers / 0 Tamil changes; speeches 18–19 not started**
+- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–16; Speech 17 IN PROGRESS with Batches 1–3 PASS-COMPLETE / 90 of 93 reviewed / 38 cumulative refinements / 0 blockers / 0 Tamil changes; speeches 18–19 not started**
 - Gate H — **Speeches 1–16 PASS / COMPLETE — RELEASED / CLOSED; speeches 17–19 not started**
 - Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
-- Speech 17 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E PASS-COMPLETE 93 of 93 / 37 corrections / 0 unresolved / Tamil VERIFIED / Gate F COMPLETE 93 of 93 / Gate G IN PROGRESS Batches 1–2 PASS-COMPLETE 60 of 93 / 28 cumulative refinements / 0 blockers / 0 Tamil changes / English PARTIALLY-GATE-G-REVIEWED / multi-date source unit / no single canonical date assigned**
+- Speech 17 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E PASS-COMPLETE 93 of 93 / 37 corrections / 0 unresolved / Tamil VERIFIED / Gate F COMPLETE 93 of 93 / Gate G IN PROGRESS Batches 1–3 PASS-COMPLETE 90 of 93 / 38 cumulative refinements / 0 blockers / 0 Tamil changes / English PARTIALLY-GATE-G-REVIEWED / multi-date source unit / no single canonical date assigned**
 - speeches 18–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
@@ -1098,6 +1098,21 @@ Source-visible final-batch forms retained without normalization include scan 479
 - outside English imported — **0**
 - English — **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**
 
-## Exact next activity — Speech 17 Gate G Batch 3
+## Speech 17 Gate G Batch 3 result
 
-Review **scans 449–478 / exactly 30 English source-page sections** against the Gate-E-verified Tamil only. Refine English fidelity and voice where needed, record every refinement, preserve source-printed English, make **0 Tamil changes**, and import **0 outside wording**. Do not begin the final remainder, Gate H or Speech 18.
+**PASS / COMPLETE — scans 449–478 / exactly 30 pages; cumulative 90 of 93 reviewed.**
+
+- Batch-3 refinements — **10**
+- cumulative refinements — **38**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- source-printed English scans **459, 460 and 474** — **preserved verbatim**
+- embedded English `Ivory tower` / `down to earth approach` — **preserved**
+- English scans **389–448 / 479–481** changed in Batch 3 — **0**
+- outside English imported — **0**
+- English — **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**
+
+## Exact next activity — Speech 17 Gate G FINAL remainder
+
+Review **scans 479–481 / exactly 3 English source-page sections** against the Gate-E-verified Tamil only. Refine English fidelity and voice where needed, record every refinement, preserve source-printed English, make **0 Tamil changes**, and import **0 outside wording**. Do not begin Gate H or Speech 18.
