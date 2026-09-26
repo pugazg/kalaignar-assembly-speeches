@@ -574,7 +574,7 @@ Working entry:
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / scans 389–481 / 93 of 93 / 37 corrections / 0 unresolved**
 - Gate F — **COMPLETE / scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**
-- Gate G — **IN PROGRESS / Batches 1–2 PASS-COMPLETE / scans 389–448 / 60 of 93 reviewed / 28 cumulative refinements / 0 blockers / 0 Tamil changes**
+- Gate G — **IN PROGRESS / Batches 1–3 PASS-COMPLETE / scans 389–478 / 90 of 93 reviewed / 38 cumulative refinements / 0 blockers / 0 Tamil changes**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - outside wording imported — **0**
 
@@ -802,8 +802,23 @@ Source-visible final-batch forms retained without normalization:
 - outside English imported — **0**
 - English — **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**
 
+## Speech 17 Gate G Batch 3 result
+
+**PASS / COMPLETE — scans 449–478 / exactly 30 pages; cumulative 90 of 93 reviewed.**
+
+- Batch-3 refinements — **10**
+- cumulative refinements — **38**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- source-printed English scans **459, 460 and 474** — **preserved verbatim**
+- embedded English `Ivory tower` / `down to earth approach` — **preserved**
+- English scans **389–448 / 479–481** changed in Batch 3 — **0**
+- outside English imported — **0**
+- English — **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**
+
 ## Exact next activity
 
-**Speech 17 Gate G Batch 3 — scans 449–478 / printed pp.448–477 / exactly 30 pages.**
+**Speech 17 Gate G FINAL remainder — scans 479–481 / printed pp.478–480 / exactly 3 pages.**
 
-Review English only against Gate-E-verified Tamil. Do not alter Tamil or begin the final remainder, Gate H or Speech 18.
+Review English only against Gate-E-verified Tamil. Do not alter Tamil or begin Gate H or Speech 18.
