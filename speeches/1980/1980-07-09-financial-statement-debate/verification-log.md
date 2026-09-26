@@ -136,3 +136,50 @@ Source-visible first-pass forms retained rather than normalized include scan 502
 - Gate C.5 — **PROVISIONALLY N/A / explicit disposition next**
 - exact next — **Gate C.5 disposition / Gate D completeness audit**
 - do not begin — **Gate E / Speech 19**
+
+
+## Gate C.5 disposition
+
+**N/A / CLOSED — modern 2007 typesetting across Speech 18.**
+
+- inspected scans — **482–510 / 29 pages**
+- page-specific legacy typeform anomaly — **none**
+- historical-glyph corrections — **0**
+- unresolved historical-glyph readings — **0**
+- Tamil wording changes — **0**
+- source-page markers — **unchanged / 482→510 / 29/29**
+
+## Gate D completeness audit
+
+**PASS / COMPLETE — 29/29 pages / 28/28 internal transitions / 0 completeness corrections.**
+
+Checks:
+
+- source-page markers **482→510** — **29/29 / exactly once / ordered**
+- missing pages — **0**
+- duplicate pages — **0**
+- empty page sections — **0**
+- hard boundaries **481→482 / 510→511** — **PASS**
+- working-split transition **500→501** — **PASS**
+- explicit page-spanning continuations **488→489 / 491→492 / 500→501 / 501→502** — **PASS**
+- other mid-sentence continuations reviewed — **PASS**
+- source paragraph-break transitions **485→486 / 487→488 / 489→490 / 494→495 / 505→506** — **PASS**
+- all **28/28** internal page transitions — **structurally continuous**
+- source heading / speaker label — **represented**
+- quotations / figures / repetitions — **structurally represented**
+- printed English `Minimum Level of Consumption`, `"5 acres owning"`, `(Contractor)` — **represented**
+- scan **510** source close / ornament — **PASS**
+- Speech-19 wording / scan-511 marker — **0 / excluded**
+- completeness corrections — **0**
+- Tamil wording changes — **0**
+- outside wording imported — **0**
+
+Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**. Gate D is a completeness audit, not source-fidelity verification.
+
+## Gate-D disposition
+
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE**
+- Tamil verification state — **NOT VERIFIED / verified_against_scan=false**
+- exact next — **Gate E Batch 1 / scans 482–491 / exactly 10 pages**
+- do not begin — **Gate E Batch 2 / Speech 19**
