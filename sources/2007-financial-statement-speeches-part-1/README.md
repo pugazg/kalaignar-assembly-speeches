@@ -897,8 +897,21 @@ Source-visible final-batch forms retained without normalization:
 - scans **502–510** changed in Batch 2 — **0**
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 
+## Speech 18 Gate C FINAL result
+
+**PASS / COMPLETE — scans 502–510 / exactly 9 pages; cumulative 29 of 29 first-pass transcribed.**
+
+- source-page markers — **482→510 / 29 / exactly once / ordered**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- **501→502** continuation — **PASS**
+- scan **510** close / ornament — **PASS**
+- hard boundary **510→511** — **PASS / Speech 19 excluded**
+- Gate C.5 — **PROVISIONALLY N/A / explicit disposition next; no legacy-type anomaly observed during Gate C**
+
 ## Exact next activity
 
-**Speech 18 Gate C Batch 3 FINAL — scans 502–510 / printed pp.501–509 / exactly 9 pages.**
+**Speech 18 Gate C.5 disposition / Gate D completeness audit.**
 
-Use part021 local pages 2–10 only. Preserve the scan-501→502 continuation, the scan-510 close, and hard boundary 510→511. Do not begin Speech 19.
+Gate C is complete 29/29. Close Gate C.5 only if the completed pages confirm N/A, then audit all 29 page sections and 28 internal transitions for completeness. Do not begin Gate E or Speech 19.
