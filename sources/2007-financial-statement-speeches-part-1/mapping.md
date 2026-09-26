@@ -122,12 +122,12 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–17 COMPLETE; speeches 18–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–17**
+- Gate C — **Speeches 1–17 COMPLETE; Speech 18 SETUP COMPLETE / transcription NOT STARTED; Speech 19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–17; Speech 18 provisionally N/A / not closed**
 - Gate D — **Speeches 1–17 PASS / COMPLETE**
 - Gate E — **Speeches 1–17 PASS / COMPLETE / Tamil VERIFIED; speeches 18–19 not started**
 - Gate F — **Speeches 1–17 COMPLETE; speeches 18–19 not started**
-- Gate G — **Speeches 1–17 PASS / COMPLETE / English VERIFIED; Speech 17 totals 93 of 93 reviewed / 43 cumulative refinements; speeches 18–19 not started**
+- Gate G — **Speeches 1–17 PASS / COMPLETE / English VERIFIED; speeches 18–19 not started**
 - Gate H — **Speeches 1–17 PASS / COMPLETE — RELEASED / CLOSED; speeches 18–19 not started**
 - Speech 13 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED / RELEASED-CLOSED / 7 Gate-G refinements / 0 blockers / 0 Gate-H wording changes**
 
@@ -346,4 +346,17 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 
 ## Exact continuation
 
-Continue **Speech 18 source intake / Gate C setup — scans 482–510 / printed pp.481–509 / உரை : 18 / 09.07.1980**. Speech 17 is RELEASED / CLOSED and must remain frozen unless a separate source-backed defect is discovered.
+Continue **Speech 18 Gate C Batch 1 — scans 482–491 / printed pp.481–490 / exactly 10 pages**. Use only the controlling 2007 anthology pixels and do not begin Batch 2 in the same activity.
+
+
+## Speech 18 setup state
+
+- working entry — `speeches/1980/1980-07-09-financial-statement-debate/`
+- source label/date — **உரை : 18 / 09.07.1980**
+- scans — **482–510 / 29 pages**
+- boundaries **481→482 / 510→511 — PASS**
+- split coverage — **part020 local 7–25 + part021 local 1–10**
+- Gate C — **SETUP COMPLETE / 0 of 29 transcribed**
+- Tamil — **NOT TRANSCRIBED / verified_against_scan=false**
+- planned batches — **482–491 / 492–501 / 502–510 FINAL**
+- exact next — **Gate C Batch 1 / scans 482–491 / exactly 10 pages**
