@@ -2,7 +2,7 @@
 
 ## உரை : 17 — 22 & 23.3.1979
 
-> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**. Gate E is **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**. The source remains one **multi-date unit** (`22 & 23.3.1979`) with no invented internal date split or single canonical date. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **COMPLETE — scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**. Gate G is **IN PROGRESS — Batches 1–2 PASS / COMPLETE / scans 389–448 / 60 of 93 reviewed / 28 cumulative refinements / 0 blockers / 0 Tamil changes**; Gate H is **NOT STARTED / NOT RELEASED**. Overall English remains **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**. Exact next: **Gate G Batch 3 — scans 449–478 / exactly 30 pages**.
+> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**. Gate E is **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**. The source remains one **multi-date unit** (`22 & 23.3.1979`) with no invented internal date split or single canonical date. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **COMPLETE — scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**. Gate G is **IN PROGRESS — Batches 1–3 PASS / COMPLETE / scans 389–478 / 90 of 93 reviewed / 37 cumulative refinements / 0 blockers / 0 Tamil changes**; Gate H is **NOT STARTED / NOT RELEASED**. Overall English remains **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**. Exact next: **Gate G FINAL remainder — scans 479–481 / exactly 3 pages**.
 
 <!-- source-page: 389 -->
 
@@ -967,7 +967,7 @@ industrialisation."
 
 # English translation
 
-> **Gate-G review state:** Gate F is **COMPLETE — scans 389–481 / 93 of 93 translated**. Gate G Batches 1–2 are **PASS / COMPLETE — scans 389–448 / 60 of 93 reviewed / 28 cumulative refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes**. English scans **449–481 are unchanged from Gate F**. Overall English remains **PARTIALLY REVIEWED / verified_against_tamil=false**. Outside English / outside-witness wording imported: **0**. Exact next: **Gate G Batch 3 — scans 449–478 / exactly 30 pages**.
+> **Gate-G review state:** Gate F is **COMPLETE — scans 389–481 / 93 of 93 translated**. Gate G Batches 1–3 are **PASS / COMPLETE — scans 389–478 / 90 of 93 reviewed / 37 cumulative refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes**. English scans **479–481 are unchanged from Gate F**. Overall English remains **PARTIALLY REVIEWED / verified_against_tamil=false**. Outside English / outside-witness wording imported: **0**. Exact next: **Gate G FINAL remainder — scans 479–481 / exactly 3 pages**.
 
 ### Source page 389
 
@@ -1698,9 +1698,11 @@ I quote here what Basavalingappa said. If I say it, you may become angry, so I q
 
 **Hon. Thiru. K. Manoharan:** Hon. Speaker, leaders belonging to various parties and Hon. Members have expressed their views on the financial statement that I have presented before this House for the third time. I do not wish to speak as long as the Leader of the Opposition. I wish to shape my speech particularly as a reply to some of the questions raised and as an explanation of them.
 
-At the very end of his speech, our Leader of the Opposition referred to the words I placed at the end of my financial statement and gave an explanation in his own characteristic way. I am happy. Many members touched upon these passages. I am very happy that this section has captured their minds to that extent. But please do not be upset when I point out that the explanations given did not correspond to the purpose with which I made those observations.
+At the very end of his speech, our Leader of the Opposition referred to the words I placed at the end of my financial—
 
 ### Source page 457
+
+—statement and gave an explanation in his own characteristic way. I am happy. Many members touched upon these passages. I am very happy that this section has captured their minds to that extent. But please do not be upset when I point out that the explanations given did not correspond to the purpose with which I made those observations.
 
 “Those in the ivory palace must come down to the verandah. Only then will the true picture of the schemes being drawn up become visible. This financial statement placed before this House for the consideration of Hon. Members, for constructive criticism and useful suggestions, is a photograph of that true condition.” This is the final passage I wrote in the financial statement.
 
@@ -1714,13 +1716,13 @@ I also wish to clarify one more thing. When I say “ivory palace,” I refer to
 
 **Kalaignar M. Karunanidhi:** Mr Speaker, the Finance Minister said, “the palace the people gave me.” I accept that. Calling it the palace given by the people is wordplay. I welcome it; I appreciate it. You say you are drawing up schemes from the palace the people gave you. Then why do you come to the verandah?
 
-**Hon. Thiru. K. Manoharan:** I say again: please retain the truth I refer to as down to earth approach. I have said it including the ruling party. From that, I request the Leader of the Opposition to understand my courage.
+**Hon. Thiru. K. Manoharan:** I say again: please keep in mind what I mean by down to earth approach. I have said it including the ruling party. From that, I request the Leader of the Opposition to understand my courage.
 
 “If I write with such boldness from within a ruling party that no one can deceive anyone by assuming that the people at the farthest end, who year after year meet disappointment amid expectations, will continue to remain patient,” it means the Government understands the real situation to this extent. There is a limit to patience. This Government works with the understanding that if the people cross that limit, the garland will go to the top of the head. I ask the Leader of the Opposition on this occasion to understand that this was written with that awareness.
 
 ### Source page 459
 
-At this point, in order to use this occasion, I wish to cite one piece of supporting evidence. We should not act with our eyes closed; we must pay close attention to how the people judge us; and we must remember how disastrous the consequences can become if we disappear from the people's sight. I sincerely hope the Opposition leaders—the present Opposition leaders—will agree that if they had been Finance Minister, I do not believe they would have written with this degree of courage. It was written to that extent.
+At this point, taking this opportunity, I wish to cite one piece of supporting evidence. We should not act with our eyes closed; we must pay close attention to how the people judge us; and we must remember how disastrous the consequences can become if we disappear from the people's sight. I sincerely hope the Opposition leaders—the present Opposition leaders—will agree that if they had been Finance Minister, I do not believe they would have written with this degree of courage. It was written to that extent.
 
 I will say one more thing. I will tell you later who said this.
 
@@ -1769,7 +1771,7 @@ I am now duty-bound to answer some of the issues the Leader of the Opposition me
 
 ### Source page 462
 
-When he referred to minor irrigation, he said that when they were in office the capital expenditure allotted for it was Rs.89 lakh, but that this Government, despite having so much more money, had not allotted even that much. As Finance Minister, I am duty-bound to deny that fairly. I must remind him that the amount allotted for this in 1980 is Rs.137 lakh.
+When he referred to minor irrigation, he said that when they were in office the capital expenditure allotted for it was Rs.89 lakh, but that this Government, despite having so much more money, had not allotted even that much. As Finance Minister, I am duty-bound, in fairness, to deny that. I must remind him that the amount allotted for this in 1980 is Rs.137 lakh.
 
 **Kalaignar M. Karunanidhi:** Mr Speaker, I am reading only from the book you have given. In the annexure to the 1975-76 budget statement, on page 20, under line 306, the heading “Minor Irrigation” shows Rs.419 lakh in 1975-76—that is Rs.4 crore 19 lakh under the Kazhagam Government. Now, for 1979-80, the allocation for minor irrigation is Rs.3 crore 46 lakh. That is what I said.
 
@@ -1781,7 +1783,7 @@ When he referred to minor irrigation, he said that when they were in office the 
 
 ### Source page 463
 
-—Government came to office, more has been spent. He read statistics showing the amount spent on irrigation. I too looked at those statistics. Apart from what is stated as capital expenditure, if one looks a little further under the other revenue heads, I am duty-bound to state here that the amount allotted is certainly higher than in 1975. For irrigation expenditure in Tamil Nadu, the figure for 1975-76 was Rs.17.67 crore, while for 1979-80 the capital expenditure is Rs.29.42 crore. What is referred to as lower is the allocation for maintenance expenditure, not capital expenditure for new irrigation. If necessary, there is provision to increase maintenance expenditure in the revised estimate.
+—Government came to office, more has been spent. He read statistics showing the amount spent on irrigation. I too looked at those statistics. If one looks beyond the figure stated as capital expenditure and further down under the revenue heads, I am duty-bound to state here that the amount allotted is certainly higher than in 1975. For irrigation expenditure in Tamil Nadu, the figure for 1975-76 was Rs.17.67 crore, while for 1979-80 the capital expenditure is Rs.29.42 crore. What is referred to as lower is the allocation for maintenance expenditure, not capital expenditure for new irrigation. If necessary, there is provision to increase maintenance expenditure in the revised estimate.
 
 Then he spoke about housing. He said the figure for 1975-76 was Rs.5.22 crore, but that under your Government it was not that much. I draw his attention to the fact that this Government has allotted Rs.8.73 crore for 1979-80.
 
@@ -1827,13 +1829,15 @@ Next, Thiru Swamidas said that there are already 200 boats in that department an
 
 **Hon. Thiru. K. Manoharan:** There has been no answer to the question I asked. (Interruption.) I say there has been no answer. They....
 
-**Kalaignar M. Karunanidhi:** Mr Speaker, at the first Budget session I spoke about corruption in yarn distribution at Kumarapalayam. I gave the evidence to the Chief Minister. They said action would be taken. I do not know where that evidence went. Therefore allow a judicial inquiry; I will present the witnesses before them.
+**Kalaignar M. Karunanidhi:** Mr Speaker, at the first Budget session I spoke about corruption in yarn distribution at Kumarapalayam. I gave the evidence to the Chief Minister. They said action—
 
 ### Source page 468
 
+—would be taken. I do not know where that evidence went. Therefore allow a judicial inquiry; I will present the witnesses before them.
+
 **Hon. Thiru. M.G. Ramachandran:** Mr Speaker, I wish to state that the notes given to the Chief Minister are being attended to in the proper place and in the proper manner. But on this matter I ask: who received this Rs.25,000? The Minister has said that if it is proved that he received it, he is prepared to resign not only from the office of Minister but even from his seat as a Member of the Legislative Assembly. If the Leader of the Opposition is unable to prove the allegation, what is he going to do?
 
-**Kalaignar M. Karunanidhi:** We know very well the measure of responsibility with which you behaved in judicial inquiries. When the complaint was given to the President, you said, “I take responsibility for everything.” But when you gave evidence before the Sarkaria Commission, you said, “I am not responsible for all that; lawyer Kannan of Salem is responsible; he must be asked.” We know all that very well. Therefore arrange an inquiry by a judge into this issue. I am prepared to prove it there.
+**Kalaignar M. Karunanidhi:** We know very well the kind of responsibility you showed in judicial inquiries. When the complaint was given to the President, you said, “I take responsibility for everything.” But when you gave evidence before the Sarkaria Commission, you said, “I am not responsible for all that; lawyer Kannan of Salem is responsible; he must be asked.” We know all that very well. Therefore arrange an inquiry by a judge into this issue. I am prepared to prove it there.
 
 **Hon. Thiru. M.G. Ramachandran:** I now see how attached he is to his M.L.A. seat. (Ruling-party members create an uproar.) I am very happy about that. (Interruption.) He may answer after listening to what I say.
 
@@ -1861,11 +1865,11 @@ The Hon. Leader of the Opposition said that I declared this Assembly dead but me
 
 At that time I was receiving my salary. Later, in the belief that this Assembly would come back to life, I went to court. In the end, the Government itself was dismissed, and the salary I had been receiving also stopped. I wish to state that.
 
-I say one more thing. If I have now come here and taken this seat, it is because—
+I say one more thing. If I have now come here and taken this seat, it is because when the people themselves come forward and give support, saying, “You yourselves do what you tell us should be done in a democracy”—
 
 ### Source page 471
 
-—we do not have the cowardice to turn away and say, “I cannot,” when the people themselves come forward and give support, saying, “You yourselves do what you tell us should be done in a democracy.” We are not prepared to do that. Therefore I have accepted office and am sitting here.
+—we do not have the cowardice to turn away and say, “I cannot.” We are not prepared to do that. Therefore I have accepted office and am sitting here.
 
 Again, with restraint, respect and humility, I say that this M.G.R. has no desire for such offices. I resigned even the M.L.C. post I had earlier. Many people asked me about it at that time. I then gave my reasons for saying I did not want it. The good Karunanidhi of those days certainly knows all of them. But today, with the intention of somehow placing blame on this Government, such things are being said. He knows what I told Anna that day when I refused the M.L.C. post. Through these debates now taking place, the truth that the people of the country ought to know must become known.
 
@@ -1873,7 +1877,7 @@ The question asked here by the Hon. Leader of the Opposition has been printed an
 
 ### Source page 472
 
-**Kalaignar M. Karunanidhi:** Mr Speaker, it is through the irregularities arising in a matter—that is, if those irregularities are proved—that it becomes known that something occurred in it.
+**Kalaignar M. Karunanidhi:** Mr Speaker, it is by examining the irregularities in a matter—that is, if those irregularities are proved—that we know something happened in it.
 
 How many accusations did the present Chief Minister make against me? It does not appear from the Sarkaria Commission report that those accusations were proved. Yet the Hon. Chief Minister who made those unproved accusations did not resign his M.L.A. seat. Even after the Sarkaria Commission report came, he did not resign. I do not know whether, because my being here as Leader of the Opposition causes him great discomfort, he now wants me to resign my post.
 
@@ -1893,7 +1897,7 @@ Many accusations were made then. They were not all rejected. It was said that so
 
 If this question—“Are you prepared to resign?”—had been asked then, I would have been glad. The Leader of the Opposition, Dr Kalaignar, at that time, before we came to office, asked at public meetings whether we were prepared to come and debate. We had said that if such things were held, incidents like accidents might occur.
 
-Far from objecting to his sitting here, no one could be happier than I am. Here there is an opportunity to speak face to face. I have no fear about this, nothing here to accept, and I am not shaken by it.
+Far from objecting to his sitting here, no one could be happier than I am. Here there is an opportunity to speak face to face. I have no fear about this, nothing here for me to concede, and I am not shaken by it.
 
 ### Source page 474
 
