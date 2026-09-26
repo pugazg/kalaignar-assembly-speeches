@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate G Batch 3 — scans 449–478
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate G FINAL remainder — scans 479–481
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -34,15 +34,17 @@ Gate state:
 - Gate-F verified-Tamil changes — **0**
 - Gate-F outside English imported — **0**
 - Gate G — **IN PROGRESS**
-- Gate-G Batch 1 — **PASS / COMPLETE / scans 389–418 / 30 of 93 reviewed / 12 refinements**
-- Gate-G Batch 2 — **PASS / COMPLETE / scans 419–448 / cumulative 60 of 93 reviewed / 16 refinements in Batch 2**
-- cumulative Gate-G refinements — **28**
+- Gate-G Batch 1 — **PASS / COMPLETE / scans 389–418 / 30 pages / 12 refinements**
+- Gate-G Batch 2 — **PASS / COMPLETE / scans 419–448 / 30 pages / 16 refinements**
+- Gate-G Batch 3 — **PASS / COMPLETE / scans 449–478 / 30 pages / 10 refinements**
+- cumulative Gate-G review — **389–478 / 90 of 93 pages**
+- cumulative Gate-G refinements — **38**
 - Gate-G blockers — **0**
 - Gate-G verified-Tamil changes — **0**
 - Gate-G source-printed-English changes — **0**
-- source-printed English on scans **425 and 426** — **preserved verbatim**
-- scan **435** source footnote — **preserved**
-- English scans 449–481 changed during Batches 1–2 — **0**
+- source-printed English on scans **459, 460 and 474** — **preserved verbatim**
+- embedded English `Ivory tower` / `down to earth approach` on scans **457–458** — **preserved**
+- English scans **479–481** — **unchanged from Gate F**
 - English — **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 18 — **NOT STARTED**
@@ -50,9 +52,10 @@ Gate state:
 ## Gate-G authority
 
 - review English only against the **Gate-E-verified Tamil**;
-- preserve source-page boundaries;
+- preserve source-page boundaries and the terminal speech boundary;
 - preserve speaker labels/interventions, figures, repetitions and source structure;
-- preserve source-printed English verbatim;
+- preserve any source-printed English verbatim;
+- preserve source-bound oddities rather than silently normalizing them;
 - do not alter verified Tamil;
 - import no English wording from web, Official Reports, alternate anthologies, released speeches or other outside witnesses.
 
@@ -64,16 +67,17 @@ Gate state:
 
 ## Exact next activity
 
-Perform **Speech 17 Gate G Batch 3 — scans 449–478 / exactly 30 pages**.
+Perform **Speech 17 Gate G FINAL remainder — scans 479–481 / exactly 3 pages**.
 
 Requirements:
 
-1. review the maintained English for scans **449–478** against the verified Tamil only;
+1. review the maintained English for scans **479–481** against the verified Tamil only;
 2. apply every needed English fidelity / voice refinement;
 3. record every refinement with scan number and before→after wording;
-4. preserve source-printed English on scans **459, 460 and 474**, embedded English `Ivory tower` / `down to earth approach` on scans **457–458**, and all source structure;
-5. make **0 verified-Tamil changes**;
-6. leave English scans **389–448** and **479–481** unchanged in this activity;
-7. synchronize Speech-17 and anthology controls after success;
-8. exact next after Batch 3: **Gate G final remainder — scans 479–481 / exactly 3 pages**;
-9. do not begin the final remainder, Gate H or Speech 18 in the same activity.
+4. preserve the **478→479 continuation** and **481→482 terminal boundary** exactly as supported by the source;
+5. preserve all speaker labels/interventions, figures, source structure, and any source-printed English;
+6. make **0 verified-Tamil changes**;
+7. leave English scans **389–478** unchanged in this activity;
+8. after successful review, close Gate G only if all **93/93** English source pages are verified against Tamil, set `verified_against_tamil=true`, and synchronize Speech-17 plus anthology/root controls;
+9. exact next after Gate-G closure: **Speech 17 Gate H archival/release audit**;
+10. do not begin Gate H or Speech 18 in the same activity.
