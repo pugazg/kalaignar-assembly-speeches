@@ -168,6 +168,27 @@ Review authority: the final Gate-E-verified Tamil in `transcript.md` only.
 - `verified_against_tamil=true`
 - Gate H — **READY / NOT STARTED / NOT RELEASED**
 
+## Gate H closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- canonical bilingual `transcript.md` — **COMPLETE**
+- verified Tamil source-page markers — **389→481 / 93/93 / exactly once / ordered**
+- Gate-G-verified English source-page sections — **389→481 / 93/93 / exactly once / ordered**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate-E totals — **37 corrections / 37 occurrences / 0 unresolved**
+- Gate-G totals — **43 refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- continuations **478→479 / 480→481** — **PASS / preserved**
+- scan **481** source close / ornament — **PASS / preserved**
+- hard boundary **481→482** — **PASS / Speech 18 excluded**
+- Speech-18 content in Speech-17 record — **0**
+- `translation.md` — **retired to standard released pointer**
+- multi-date source-unit policy — **PRESERVED / `22 & 23.3.1979` / no internal split / no single canonical date**
+- `data/speeches.json` / root dated speech table — **UNCHANGED INTENTIONALLY / no invented single-date entry**
+- release — **RELEASED / CLOSED**
+
 ## Exact next activity
 
-Perform **Speech 17 Gate H archival/release audit**. Audit the Gate-E-verified Tamil and Gate-G-verified English as the canonical bilingual pair, preserve the multi-date source-unit policy and 481→482 boundary, and do not begin Speech 18.
+Begin **Speech 18 source intake / Gate C setup — scans 482–510 / printed pp.481–509 / உரை : 18 / 09.07.1980**. Speech 17 is RELEASED / CLOSED and must remain frozen unless a separate source-backed defect is discovered.
