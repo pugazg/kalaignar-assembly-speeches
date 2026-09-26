@@ -92,3 +92,47 @@ Source-visible first-pass forms retained rather than normalized include scan 493
 - Tamil verification state — **NOT VERIFIED / verified_against_scan=false**
 - exact next — **Gate C Batch 3 FINAL / scans 502–510 / exactly 9 pages**
 - do not begin — **Speech 19**
+
+
+## Gate C — Batch 3 FINAL / scans 502–510
+
+**PASS / COMPLETE — scans 502–510 / printed pp.501–509 / exactly 9 pages; cumulative 29 of 29 first-pass transcribed.**
+
+- source-page markers — **502→510 / 9 / exactly once / ordered**
+- cumulative source-page markers — **482→510 / 29 / exactly once / ordered**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- scan **501→502** continuation — **PASS / preserved**
+- scan **510** source close / ornament — **PASS / preserved**
+- hard boundary **510→511** — **PASS / scan 511 is Speech 19 start / excluded**
+- Speech-19 wording imported — **0**
+- scans **482–501** modified in FINAL Batch 3 — **0**
+- Gate C.5 — **PROVISIONALLY N/A / pending explicit disposition**
+- page-specific legacy-type anomaly observed during completed Gate C — **none**
+
+Source-visible first-pass forms retained rather than normalized include scan 502 `30 இலட்சம் ரூபாய் உபரி விழுந்ததாக`; scan 503 `வசனம்` / `கவர்னர் ஆட்சியிலே`; scan 505 `55,584 டன்` / `64,430 டன்` / `73,000 டன்`; scan 506 printed English `(Contractor)`; scans 507–508 the printed assurance-count series; scan 509 `ஸ்டே`; and scan 510 `1½ கோடி` / `மதமதப்பு`.
+
+## Gate C closure
+
+**PASS / COMPLETE — Speech 18 scans 482–510 / 29 of 29 first-pass pages.**
+
+- printed pages — **481–509**
+- source markers — **29/29 / exactly once / ordered**
+- unresolved first-pass readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- outside wording imported — **0**
+- Speech 19 content — **0**
+
+## FINAL Batch-3 disposition
+
+- Gate C — **PASS / COMPLETE / 29 of 29 first-pass**
+- markers — **482–510 exactly once / ordered**
+- unresolved first-pass readings — **0**
+- outside wording imported — **0**
+- Tamil verification state — **NOT VERIFIED / verified_against_scan=false**
+- scan **501→502** — **PASS**
+- boundary **510→511** — **PASS / Speech 19 excluded**
+- Gate C.5 — **PROVISIONALLY N/A / explicit disposition next**
+- exact next — **Gate C.5 disposition / Gate D completeness audit**
+- do not begin — **Gate E / Speech 19**
