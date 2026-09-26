@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 16 / 1.3.1978 = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–16 are released**. Speech 17 / `22 & 23.3.1979` is active: source boundaries and multi-date policy are locked; Gate C is **COMPLETE / scans 389–481 / 93 of 93 first-pass**.
+Latest released unit: Speech 17 / `22 & 23.3.1979` = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–17 are released**. Speech 17 remains one source-preserved multi-date unit with no internal date split and no single canonical date; it is intentionally absent from the single-date root/data indexes. Speech 18 / `09.07.1980` is next and has not started.
 
 ## Existing-source overlaps
 
@@ -98,13 +98,13 @@ Treat this 2007 anthology as its own witness.
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–17; speeches 18–19 not started**
 - Gate F — **COMPLETE for Speeches 1–17; speeches 18–19 not started**
 - Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–17; Speech 17 completed 93 of 93 / 43 cumulative refinements / 0 blockers / 0 Tamil changes; speeches 18–19 not started**
-- Gate H — **Speeches 1–16 PASS / COMPLETE — RELEASED / CLOSED; speeches 17–19 not started**
+- Gate H — **Speeches 1–17 PASS / COMPLETE — RELEASED / CLOSED; speeches 18–19 not started**
 - Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
-- Speech 17 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E PASS-COMPLETE 93 of 93 / 37 corrections / 0 unresolved / Tamil VERIFIED / Gate F COMPLETE 93 of 93 / Gate G PASS-COMPLETE 93 of 93 / 43 cumulative refinements / 0 blockers / 0 Tamil changes / English VERIFIED AGAINST TAMIL / Gate H READY-NOT-STARTED / multi-date source unit / no single canonical date assigned**
+- Speech 17 — **Gate C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 37 Gate-E corrections / 43 Gate-G refinements / 0 blockers / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / canonical bilingual complete / multi-date source unit / no single canonical date / single-date indexes intentionally unchanged**
 - speeches 18–19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
@@ -812,7 +812,7 @@ Canonical entry:
 - `data/speeches.json` / root dated table — **indexed**
 - outside wording imported — **0**
 
-## Speech 17 active state
+## Speech 17 released state
 
 Working entry:
 
@@ -1128,6 +1128,22 @@ Source-visible final-batch forms retained without normalization include scan 479
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - Gate H — **READY / NOT STARTED / NOT RELEASED**
 
-## Exact next activity — Speech 17 Gate H archival/release audit
+## Speech 17 Gate H closure
 
-Audit **93/93 Gate-E-verified Tamil source-page sections** and **93/93 Gate-G-verified English source-page sections** as the canonical bilingual pair. Preserve all source-page boundaries, the multi-date source-unit policy, the scan-481 close, and the **481→482** Speech-18 boundary. Make no wording change unless a separate source-backed defect is discovered. Do not begin Speech 18.
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- canonical bilingual transcript — **COMPLETE**
+- Tamil — **VERIFIED / 93/93 / verified_against_scan=true**
+- English — **VERIFIED AGAINST TAMIL / 93/93 / verified_against_tamil=true**
+- Gate-E corrections — **37 / 0 unresolved**
+- Gate-G refinements — **43 / 0 blockers / 0 Tamil changes / 0 source-printed-English changes**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- `translation.md` — **retired release pointer**
+- multi-date policy — **preserved: `22 & 23.3.1979`; no internal split; no single canonical date**
+- **481→482** — **PASS / Speech 18 excluded**
+- root dated table / `data/speeches.json` — **unchanged intentionally**
+- release — **RELEASED / CLOSED**
+
+## Exact next activity — Speech 18 source intake / Gate C setup
+
+Begin **scans 482–510 / printed pp.481–509 / உரை : 18 / 09.07.1980**. Speech 17 is RELEASED / CLOSED and frozen; do not reopen it without a separate source-backed defect.
