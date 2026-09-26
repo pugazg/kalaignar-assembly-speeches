@@ -62,7 +62,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**
 - Gate F — **COMPLETE — scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**
-- Gate G — **IN PROGRESS — Batches 1–2 PASS / COMPLETE / scans 389–448 / 60 of 93 reviewed / 28 cumulative refinements / 0 blockers / 0 Tamil changes**
+- Gate G — **IN PROGRESS — Batches 1–3 PASS / COMPLETE / scans 389–478 / 90 of 93 reviewed / 38 cumulative refinements / 0 blockers / 0 Tamil changes**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - outside wording imported — **0**
 
@@ -293,7 +293,7 @@ No source-backed wording or punctuation correction was required in scans 479–4
 - verified-Tamil changes — **0**
 - outside English / outside-witness wording imported — **0**
 - Tamil — **VERIFIED / unchanged**
-- English — **PARTIALLY GATE-G-REVIEWED / scans 389–448 reviewed / scans 449–481 unchanged from Gate F / verified_against_tamil=false**
+- English — **PARTIALLY GATE-G-REVIEWED / scans 389–478 reviewed / scans 479–481 unchanged from Gate F / verified_against_tamil=false**
 
 ## Gate G — Batch 1 / scans 389–418
 
@@ -333,6 +333,27 @@ No source-backed wording or punctuation correction was required in scans 479–4
 - cumulative review — **389–448 / 60 of 93**
 - overall English — **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**
 
+## Gate G — Batch 3 / scans 449–478
+
+**PASS / COMPLETE — 30 pages in Batch 3; cumulative 90 of 93 English source-page sections reviewed.**
+
+- review authority — **Gate-E-verified Tamil only**
+- reviewed scans — **449–478 / printed pp.448–477 / exactly 30 pages**
+- Batch-3 refinements — **10**
+- cumulative Gate-G refinements — **38**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- source-printed English on scans **459, 460 and 474** — **preserved verbatim**
+- embedded English `Ivory tower` / `down to earth approach` on scans **457–458** — **preserved**
+- source-page continuations **456→457 / 467→468 / 470→471** — **restored / PASS**
+- English scans **389–448** modified in Batch 3 — **0**
+- English scans **479–481** modified in Batch 3 — **0**
+- outside English / web / Official Reports / alternate anthologies / released-speech wording imported — **0**
+- detailed before→after ledger — **`translation-review.md`**
+- cumulative review — **389–478 / 90 of 93**
+- overall English — **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**
+
 ## Fixed English-work iteration rule
 
 - Gate F — **30 source pages per iteration**
@@ -341,6 +362,6 @@ No source-backed wording or punctuation correction was required in scans 479–4
 
 ## Exact next activity
 
-**Gate G Batch 3 — scans 449–478 / printed pp.448–477 / exactly 30 pages.**
+**Gate G FINAL remainder — scans 479–481 / printed pp.478–480 / exactly 3 pages.**
 
-Review English only against the Gate-E-verified Tamil. Record all refinements; do not alter verified Tamil or begin the final remainder, Gate H or Speech 18.
+Review English only against the Gate-E-verified Tamil. Record all refinements; do not alter verified Tamil or begin Gate H or Speech 18.
