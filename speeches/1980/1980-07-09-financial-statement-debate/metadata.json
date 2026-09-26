@@ -86,7 +86,15 @@
       "492-501 / 10 pages",
       "502-510 / 9 pages FINAL"
     ],
-    "next_activity": "Gate C.5 disposition / Gate D completeness audit"
+    "next_activity": "Gate E Batch 1 scans 482-491 / exactly 10 pages",
+    "gate_e_iteration_page_limit": 10,
+    "current_gate_e_batch": null,
+    "next_gate_e_batch": "482-491 / exactly 10 pages",
+    "planned_gate_e_batches": [
+      "482-491 / 10 pages",
+      "492-501 / 10 pages",
+      "502-510 / 9 pages FINAL"
+    ]
   },
   "transcription": {
     "language": "Tamil",
@@ -111,11 +119,40 @@
     "unresolved_reading_count": 0,
     "verified_against_scan": false,
     "outside_wording_imported": false,
-    "next_gate": "Gate C.5 disposition / Gate D completeness audit",
+    "next_gate": "Gate E Batch 1",
     "gate_c_batches_completed": 3,
     "last_completed_batch": "502-510 / 9 pages FINAL",
-    "gate_c5_status": "provisionally-n-a-pending-explicit-disposition",
-    "gate_c5_legacy_typeform_anomaly_observed": false
+    "gate_c5_status": "n-a-closed",
+    "gate_c5_legacy_typeform_anomaly_observed": false,
+    "gate_c5_applicability": "not-applicable-across-speech",
+    "gate_c5_historical_glyph_corrections": 0,
+    "gate_c5_unresolved": 0,
+    "gate_d_status": "pass-complete",
+    "gate_d_structural_page_count": 29,
+    "gate_d_marker_range": "482-510",
+    "gate_d_internal_transition_count": 28,
+    "gate_d_internal_transition_pass_count": 28,
+    "gate_d_missing_pages": 0,
+    "gate_d_duplicate_pages": 0,
+    "gate_d_empty_pages": 0,
+    "gate_d_boundary_start": "481->482 PASS",
+    "gate_d_boundary_end": "510->511 PASS / scan 511 Speech 19 start excluded",
+    "gate_d_split_continuations": [
+      "488->489 PASS",
+      "491->492 PASS",
+      "500->501 PASS",
+      "501->502 PASS"
+    ],
+    "gate_d_new_paragraph_transitions": [
+      "485->486 PASS / source paragraph break",
+      "487->488 PASS / source paragraph break",
+      "489->490 PASS / source paragraph break",
+      "494->495 PASS / source paragraph break",
+      "505->506 PASS / source paragraph break"
+    ],
+    "gate_d_completeness_corrections": 0,
+    "gate_d_tamil_wording_changes": 0,
+    "gate_e_status": "not-started"
   },
   "translation": {
     "language": "English",
