@@ -2,7 +2,7 @@
 
 ## உரை : 17 — 22 & 23.3.1979
 
-> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**. Gate E is **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**. The source remains one **multi-date unit** (`22 & 23.3.1979`) with no invented internal date split or single canonical date. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **COMPLETE — scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**. Gate G is **PASS / COMPLETE — scans 389–481 / 93 of 93 reviewed / 43 cumulative refinements / 0 blockers / 0 Tamil changes / verified_against_tamil=true**. Gate H is **READY / NOT STARTED / NOT RELEASED**. Exact next: **Speech 17 Gate H archival/release audit**.
+> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**. Gate E is **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**. The source remains one **multi-date unit** (`22 & 23.3.1979`) with no invented internal date split or single canonical date. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **COMPLETE — scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**. Gate G is **PASS / COMPLETE — scans 389–481 / 93 of 93 reviewed / 43 cumulative refinements / 0 blockers / 0 Tamil changes / verified_against_tamil=true**. Gate H is **PASS / COMPLETE — RELEASED / CLOSED / 0 Tamil wording changes / 0 English wording changes**. Canonical bilingual transcript: **COMPLETE**. Exact next: **Speech 18 source intake / Gate C setup — scans 482–510 / printed pp.481–509 / உரை : 18 / 09.07.1980**.
 
 <!-- source-page: 389 -->
 
@@ -967,7 +967,7 @@ industrialisation."
 
 # English translation
 
-> **Gate-G review state:** Gate F is **COMPLETE — scans 389–481 / 93 of 93 translated**. Gate G is **PASS / COMPLETE — scans 389–481 / 93 of 93 reviewed / 43 cumulative refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes**. English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**. Outside English / outside-witness wording imported: **0**. Exact next: **Speech 17 Gate H archival/release audit**.
+> **Gate-G review state:** Gate F is **COMPLETE — scans 389–481 / 93 of 93 translated**. Gate G is **PASS / COMPLETE — scans 389–481 / 93 of 93 reviewed / 43 cumulative refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes**. English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**. Gate H release audit is **PASS / COMPLETE — RELEASED / CLOSED** with **0 English wording changes**. Outside English / outside-witness wording imported: **0**.
 
 ### Source page 389
 
