@@ -20,17 +20,17 @@ Translation authority: the final Gate-E-verified Tamil in `transcript.md` only.
 
 ## Gate G — English fidelity and voice review
 
-**Status: IN PROGRESS — Batches 1–2 PASS / COMPLETE — 60 of 93 pages reviewed**
+**Status: IN PROGRESS — Batches 1–3 PASS / COMPLETE — 90 of 93 pages reviewed**
 
 Review authority: the final Gate-E-verified Tamil in `transcript.md` only.
 
-- reviewed scans — **389–448 / printed pp.388–447 / 60 pages**
-- refinements — **28 cumulative — Batch 1: 12 / Batch 2: 16**
+- reviewed scans — **389–478 / printed pp.388–477 / 90 pages**
+- refinements — **37 cumulative — Batch 1: 12 / Batch 2: 16 / Batch 3: 9**
 - blockers — **0**
 - verified-Tamil changes — **0**
 - source-printed-English changes — **0**
 - outside English / outside-witness wording imported — **0**
-- English scans **449–481** changed through Gate-G Batch 2 — **0**
+- English scans **479–481** changed through Gate-G Batch 3 — **0**
 - overall `verified_against_tamil=false` until the remaining Gate-G batches are complete
 
 ### Gate-G Batch-1 refinement ledger
@@ -101,6 +101,36 @@ Review authority: the final Gate-E-verified Tamil in `transcript.md` only.
 - English — **PARTIALLY GATE-G-REVIEWED**
 - `verified_against_tamil=false`
 
+### Gate-G Batch-3 refinement ledger
+
+1. **scans 456→457** — moved the continuation beginning `statement and gave an explanation...` from scan 456 to scan 457 so the English follows the verified Tamil source-page boundary at `நிதிநிலை / அறிக்கையிலே`.
+2. **scan 458** — `please retain the truth I refer to as down to earth approach` → `please keep in mind what I mean by down to earth approach`, preserving the source's embedded English phrase while restoring natural parliamentary English.
+3. **scan 459** — `At this point, in order to use this occasion` → `At this point, taking this opportunity`, preserving the speaker's transition in idiomatic English.
+4. **scan 462** — `As Finance Minister, I am duty-bound to deny that fairly` → `As Finance Minister, I am duty-bound, in fairness, to deny that`, retaining the same rebuttal while repairing the English syntax.
+5. **scan 463** — `Apart from what is stated as capital expenditure, if one looks a little further under the other revenue heads` → `If one looks beyond the figure stated as capital expenditure and further down under the revenue heads`, preserving the accounting comparison in clearer English.
+6. **scans 467→468** — moved `would be taken. I do not know where that evidence went. Therefore allow a judicial inquiry...` to scan 468 so the English follows the verified Tamil boundary at `நடவடிக்கை / எடுப்பதாகச் சொன்னார்கள்`.
+7. **scan 468** — `We know very well the measure of responsibility with which you behaved in judicial inquiries` → `We know very well the kind of responsibility you showed in judicial inquiries`, preserving the critical tone without the literal calque.
+8. **scans 470→471** — moved the phrase about the people coming forward and giving support, including the quoted appeal, to the end of scan 470 so the English follows the verified Tamil boundary at `ஆதரவு / தந்தபோது`.
+9. **scan 472** — `it is through the irregularities arising in a matter ... that it becomes known that something occurred in it` → `it is by examining the irregularities in a matter ... that we know something happened in it`, preserving the conditional argument in clearer English.
+
+### Gate-G Batch-3 checks
+
+- all **30/30** English source-page sections **449→478** reviewed against the corresponding Gate-E-verified Tamil
+- source-page continuations **456→457 / 467→468 / 470→471** — **restored / PASS**
+- pre-existing continuations **449→450 / 457→458 / 478→479** — **PASS / preserved**
+- source-printed English on scans **459, 460 and 474** — **preserved verbatim**
+- embedded English `Ivory tower` / `down to earth approach` on scans **457–458** — **preserved**
+- figures, dates, amounts, names and speaker labels/interventions — **PASS / unchanged except the English refinements listed above**
+- source-bound oddities and printed typographical forms — **preserved; not silently corrected**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- English scans **389–448** changes in Batch 3 — **0**
+- English scans **479–481** changes in Batch 3 — **0**
+- outside wording imported from web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- cumulative Gate-G review — **90/93 pages / 37 refinements**
+- English — **PARTIALLY GATE-G-REVIEWED**
+- `verified_against_tamil=false`
+
 ## Exact next activity
 
-Perform **Gate G Batch 3 — scans 449–478 / printed pp.448–477 / exactly 30 pages**. Review maintained English only against Gate-E-verified Tamil. Do not alter verified Tamil, and do not begin the final remainder, Gate H or Speech 18.
+Perform **Gate G FINAL remainder — scans 479–481 / printed pp.478–480 / exactly 3 pages**. Review maintained English only against Gate-E-verified Tamil. Do not alter verified Tamil, and do not begin Gate H or Speech 18.
