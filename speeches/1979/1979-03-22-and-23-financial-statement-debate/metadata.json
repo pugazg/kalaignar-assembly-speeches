@@ -124,13 +124,15 @@
     "final_remainder_may_be_under_10": true,
     "current_gate_c_batch": "479-481 / 3 pages FINAL / COMPLETE",
     "next_gate_c_batch": null,
-    "next_activity": "Gate G Batch 1 scans 389-418 / exactly 30 pages",
+    "next_activity": "Gate G Batch 2 scans 419-448 / exactly 30 pages",
     "gate_f_iteration_page_limit": 30,
     "gate_f_final_remainder_may_be_under_limit": true,
     "current_gate_f_batch": "479-481 / 3 pages FINAL / COMPLETE",
     "next_gate_f_batch": null,
     "gate_g_iteration_page_limit": 30,
-    "gate_g_final_remainder_may_be_under_limit": true
+    "gate_g_final_remainder_may_be_under_limit": true,
+    "current_gate_g_batch": "389-418 / 30 pages / PASS-COMPLETE / 12 refinements",
+    "next_gate_g_batch": "419-448 / 30 pages"
   },
   "transcription": {
     "language": "Tamil",
@@ -155,7 +157,7 @@
     "unresolved_reading_count": 0,
     "verified_against_scan": true,
     "outside_wording_imported": false,
-    "next_gate": "Gate G Batch 1",
+    "next_gate": "Gate G Batch 2",
     "gate_c_batches_completed": 10,
     "last_completed_batch": "479-481 / 3 pages FINAL",
     "gate_c5_status": "n-a-closed",
@@ -231,12 +233,12 @@
   },
   "translation": {
     "language": "English",
-    "status": "translated-awaiting-review",
+    "status": "gate-g-in-progress",
     "gate_f_status": "complete",
-    "gate_g_status": "not-started",
+    "gate_g_status": "in-progress",
     "verified_against_tamil": false,
     "source_text": "Gate-E-verified Tamil in transcript.md",
-    "next_gate": "Gate G Batch 1",
+    "next_gate": "Gate G Batch 2",
     "translated_scans": "389-481",
     "translated_printed_pages": "388-480",
     "translated_page_count": 93,
@@ -266,6 +268,30 @@
       "outside_english_imported": false,
       "source_printed_english_preserved": true,
       "source_page_markers_preserved": true
+    },
+    "gate_g_reviewed_scans": "389-418",
+    "gate_g_reviewed_page_count": 30,
+    "gate_g_refinement_count": 12,
+    "gate_g_blocking_issue_count": 0,
+    "gate_g_verified_tamil_changes": 0,
+    "gate_g_source_printed_english_changes": 0,
+    "gate_g_outside_english_imported": false,
+    "gate_g": {
+      "status": "in-progress",
+      "reviewed_source_pages": "389-418",
+      "reviewed_page_count": 30,
+      "batch_count": 1,
+      "batches": [
+        "389-418 / 30 pages / 12 refinements"
+      ],
+      "refinement_count": 12,
+      "blocking_issue_count": 0,
+      "verified_tamil_changes": 0,
+      "source_printed_english_changes": 0,
+      "outside_english_imported": false,
+      "source_page_markers_preserved": true,
+      "verified_against_tamil": false,
+      "note": "Gate G Batch 1 reviewed only against Gate-E-verified Tamil. English scans 419-481 remain unchanged from Gate F; full-English verification awaits remaining Gate G batches."
     }
   },
   "release": {
