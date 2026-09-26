@@ -574,8 +574,8 @@ Working entry:
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / scans 389–481 / 93 of 93 / 37 corrections / 0 unresolved**
 - Gate F — **COMPLETE / scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**
-- Gate G — **IN PROGRESS / Batches 1–3 PASS-COMPLETE / scans 389–478 / 90 of 93 reviewed / 38 cumulative refinements / 0 blockers / 0 Tamil changes**
-- Gate H — **NOT STARTED / NOT RELEASED**
+- Gate G — **PASS / COMPLETE / scans 389–481 / 93 of 93 reviewed / 43 cumulative refinements / 0 blockers / 0 Tamil changes / verified_against_tamil=true**
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
 - outside wording imported — **0**
 
 ## Speech 17 Gate C.5 result
@@ -762,7 +762,7 @@ Source-visible final-batch forms retained without normalization:
 - verified-Tamil changes — **0**
 - outside English / outside-witness wording imported — **0**
 - source-printed English — **preserved**
-- English — **TRANSLATED / awaiting Gate G / verified_against_tamil=false**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 
 ## Fixed English-work iteration rule
 
@@ -817,8 +817,23 @@ Source-visible final-batch forms retained without normalization:
 - outside English imported — **0**
 - English — **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**
 
+## Speech 17 Gate G closure
+
+**PASS / COMPLETE — scans 389–481 / 93 of 93 reviewed against verified Tamil.**
+
+- FINAL remainder — **479–481 / exactly 3 pages / 5 refinements**
+- cumulative Gate-G refinements — **43**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- 478→479 continuation — **preserved**
+- 480→481 continuation — **restored / PASS**
+- 481→482 boundary — **PASS / Speech 18 excluded**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
+
 ## Exact next activity
 
-**Speech 17 Gate G FINAL remainder — scans 479–481 / printed pp.478–480 / exactly 3 pages.**
+**Speech 17 Gate H archival/release audit.**
 
-Review English only against Gate-E-verified Tamil. Do not alter Tamil or begin Gate H or Speech 18.
+Audit the verified Tamil and verified English as the canonical bilingual pair, preserve the one-unit multi-date policy and 481→482 boundary, and do not begin Speech 18.
