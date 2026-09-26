@@ -2,7 +2,7 @@
 
 ## உரை : 17 — 22 & 23.3.1979
 
-> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**. Gate E is **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**. The source remains one **multi-date unit** (`22 & 23.3.1979`) with no invented internal date split or single canonical date. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **COMPLETE — scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**. Gate G is **IN PROGRESS — Batch 1 PASS / COMPLETE / scans 389–418 / 30 of 93 reviewed / 12 refinements / 0 blockers / 0 Tamil changes**; Gate H is **NOT STARTED / NOT RELEASED**. Overall English remains **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**. Exact next: **Gate G Batch 2 — scans 419–448 / exactly 30 pages**.
+> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**. Gate E is **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**. The source remains one **multi-date unit** (`22 & 23.3.1979`) with no invented internal date split or single canonical date. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **COMPLETE — scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**. Gate G is **IN PROGRESS — Batches 1–2 PASS / COMPLETE / scans 389–448 / 60 of 93 reviewed / 28 cumulative refinements / 0 blockers / 0 Tamil changes**; Gate H is **NOT STARTED / NOT RELEASED**. Overall English remains **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**. Exact next: **Gate G Batch 3 — scans 449–478 / exactly 30 pages**.
 
 <!-- source-page: 389 -->
 
@@ -967,7 +967,7 @@ industrialisation."
 
 # English translation
 
-> **Gate-G review state:** Gate F is **COMPLETE — scans 389–481 / 93 of 93 translated**. Gate G Batch 1 is **PASS / COMPLETE — scans 389–418 / 30 of 93 reviewed / 12 refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes**. English scans **419–481 are unchanged from Gate F**. Overall English remains **PARTIALLY REVIEWED / verified_against_tamil=false**. Outside English / outside-witness wording imported: **0**. Exact next: **Gate G Batch 2 — scans 419–448 / exactly 30 pages**.
+> **Gate-G review state:** Gate F is **COMPLETE — scans 389–481 / 93 of 93 translated**. Gate G Batches 1–2 are **PASS / COMPLETE — scans 389–448 / 60 of 93 reviewed / 28 cumulative refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes**. English scans **449–481 are unchanged from Gate F**. Overall English remains **PARTIALLY REVIEWED / verified_against_tamil=false**. Outside English / outside-witness wording imported: **0**. Exact next: **Gate G Batch 3 — scans 449–478 / exactly 30 pages**.
 
 ### Source page 389
 
@@ -1285,7 +1285,7 @@ The very first basis on which a corruption allegation was made against the Dravi
 
 ### Source page 420
 
-—handed it over to the Housing Board. At the time the land was surrendered, Rs.1,26,350 in lease arrears for the period of occupation remained unpaid. It has not been paid even to this day. A petition was submitted saying that the lease amount was excessive and should be reduced. This petition was taken to arbitration, and N.C. Raghavachari appeared on behalf of Sathya Studios. By then M.G.R. had become Chief Minister. The rule is that whenever a matter is before arbitration, further action must be continued once every three months. Contrary to that rule, the relevant file has been locked in a locker in the District Collector's office—thrown into a well, as it were. Even the file number is A2/36745/76.
+—handed it over to the Housing Board. At the time the land was surrendered, Rs.1,26,350 in lease arrears for the period of occupation remained unpaid. It has not been paid even to this day. A petition was submitted saying that the lease amount was excessive and should be reduced. This petition was taken to arbitration, and N.C. Raghavachari appeared on behalf of Sathya Studios. By then M.G.R. had become Chief Minister. The rule is that whenever a matter is before arbitration, follow-up action must be taken once every three months. Contrary to that rule, the relevant file has been locked in a locker in the District Collector's office—thrown into a well, as it were. Even the file number is A2/36745/76.
 
 **Hon. Thiru. M.G. Ramachandran:** Mr Speaker, when Arignar Anna was Chief Minister of Tamil Nadu, the unused land lying behind Sathya Studios....
 
@@ -1301,9 +1301,11 @@ Hon. Speaker, when the D.M.K. was in Government, when the late Anna was Chief Mi
 
 Why did the studio owners take that land and ask for it? Nearby there is a place where nagaswaram is taught and a place where singing is taught. If those activities were continuously brought into that place, filming could not take place there.
 
-Therefore, whether or not there was any direct benefit from obtaining the land, the steps were taken so that the studio would be protected from other disturbances and the workers would be protected. Once the rent was increased and the matter went to court, it has been awaiting a decision without any profit motive. As far as I am concerned, I say this again and again. I repeat: if the Leader of the Opposition sitting here proves that I took or used that land for my own profit, I am prepared to resign from the office of Chief Minister. (Commotion) (Applause.) If it is proved that at any time Thiru M.G. Ramachandran used it to make a profit, I again say that I will resign from the office of Chief Minister.
+Therefore, whether or not there was any direct benefit from obtaining the land, the steps were taken so that the studio would be protected from other disturbances and the workers would be protected. Once the rent was increased and the matter went to court, it has been awaiting a decision without any profit motive. As far as I am concerned, I say this again and again. I repeat: if the Leader of the Opposition sitting here proves that I took or used that land for my own profit, I am prepared to resign from the office of Chief Minister. (Commotion) (Applause.) If it is proved that at any time Thiru M.G. Ramachandran used it to make a profit, I repeat—
 
 ### Source page 422
+
+—that I will resign from the office of Chief Minister.
 
 One must consider whether it is fair to speak as though it was obtained by deceiving the people or the Government, or as though the rent due was simply not being paid. When lease rent that had been a little over Rs.9,000 a year is raised to more than Rs.1 lakh and payment is demanded, what other course is there except to go to court? Even there, when they were unable properly to cooperate, it is said that they returned the land. Therefore I wish to state that it is not right to publish such old allegations—allegations contrary to fact and not in accordance with fairness—merely to vent anger.
 
@@ -1315,7 +1317,7 @@ One must consider whether it is fair to speak as though it was obtained by decei
 
 **Hon. Thiru. M.G. Ramachandran:** The Hon. Leader of the Opposition says that arbitration was held and nobody appeared. It would be helpful if he states in which year that was.
 
-**Thiru. K. Kandasamy:** Point of clarification, sir. I rose at the outset. When the Hon. Kalaignar spoke, he said that liquor and ginger were being brewed there, that regular payments were being made to police officers in Madurai—the D.S.P. and Circle Inspector—and that there was a big person close to the Chief Minister. Since I am from Madurai, I request that he explain that.
+**Thiru. K. Kandasamy:** Point of clarification, sir. I rose at the outset. When the Hon. Kalaignar spoke, he said that liquor and ginger were being brewed there, that regular payments were being made to police officers in Madurai—the D.S.P. and Circle Inspector—and that there was an influential person close to the Chief Minister. Since I am from Madurai, I request that he explain that.
 
 He also said that when he himself was Chief Minister, an order giving land to the present Chief Minister for Sathya Studios was issued after obtaining the signatures of three Ministers on the same day. He should also explain whether that was not a concession.
 
@@ -1350,7 +1352,7 @@ Dear Thiru Eswara Sastry,
 
         Ref :    D.O.R.C.1592/44 Courts-I/77-3 Home dated 20.11.78.
 
-Ravi Arumugam, Superintendent of Police, replies to the D.O. letter written from here. He writes to the Deputy Secretary, Home Department, saying that some obstacles have arisen in preventing the case from proceeding quickly, but that steps will nevertheless be taken soon. In the copy, the same Ravi Arumugam notes:
+Ravi Arumugam, Superintendent of Police, replies to the D.O. letter written from here. He writes to the Deputy Secretary, Home Department, saying that some obstacles have arisen that have delayed the case, but that steps will nevertheless be taken soon. In the copy, the same Ravi Arumugam notes:
 
 Copy to the Inspector of Police.
 
@@ -1377,7 +1379,7 @@ What does it mean if they write like this? This itself is interference with the 
 
 I therefore wish merely to underline this example to show the extent to which authority has been misused. During this Assembly session, various problems in Tamil Nadu have been debated here.
 
-The news that grows day by day is sufficient evidence of the extent to which the people of Tamil Nadu have risen up, lost confidence in this Government's course, and become dissatisfied.
+The reports mounting day by day are sufficient evidence of the extent to which the people of Tamil Nadu have risen up, lost confidence in this Government's course, and become dissatisfied.
 
 In the Simco Meter matter, the way this Government behaved, and how in the end a major agitation took place and unprecedented incidents occurred even in the Assembly—
 
@@ -1393,9 +1395,11 @@ In the Simco Meter matter, the way this Government behaved, and how in the end a
 
 **Kalaignar M. Karunanidhi:** Mr Speaker, I thank Thiru Umanath for taking over my task.
 
-Likewise, this House has debated how the Government acted in a manner that weakened the spirit of struggle and unity among the workers of the Avadi cycle factory.
+Likewise, at the Avadi cycle factory, the workers' spirit of struggle, their—
 
 ### Source page 428
+
+—unity, and the way the Government acted to weaken both, have been debated in this House.
 
 The country knows the extent to which the police exceeded their limits and behaved brutally during the strike by L.G.B. bus workers at Karur.
 
@@ -1405,7 +1409,7 @@ Every day we receive news that the voice of farmers is rising and bursting forth
 
 In the lawyers' agitation, their simple demand is: you suspended a police officer for arresting a supporting actress; should you not suspend the police officer who beat a lawyer? The Government refuses even to heed that moving demand, remains obstinate, and at the same time remains obstinate in saying it is not prepared for a judicial inquiry. I wish to level here the charge that this Government is today creating the conditions for law, order and peace to deteriorate in Tamil Nadu.
 
-Even today, more than about three thousand Dravidar Kazhagam comrades marched toward the Fort and engaged in a blockade. Dravidar Kazhagam General Secretary Thiru Veeramani and more than fifty others, men and women, have been arrested today. Why did they engage in that blockade—
+Even today, some three thousand or more Dravidar Kazhagam comrades marched toward the Fort and engaged in a blockade. Dravidar Kazhagam General Secretary Thiru Veeramani and more than fifty others, men and women, have been arrested today. Why did they engage in that blockade—
 
 ### Source page 429
 
@@ -1437,13 +1441,13 @@ On 13-02-1979, a woman named Missy was arrested in a liquor case and kept in pol
 
 **Thiru. Koothakudi S. Shanmugam:** Mr Speaker, the Chief Minister is speaking about the incident between the lawyer and the police officer. In doing so, he said he was considering an inquiry. What I asked was why there is delay. Will he announce it quickly?
 
-**Hon. Thiru. M.G. Ramachandran:** Mr Speaker, I wish to say here that the Hon. Member Shanmugam always helps me by asking questions and gives me an opportunity to answer. By asking this question, he enables this House to obtain an answer from me. The lawyers maintained, and continue to maintain, that only if there is a suspension can we discuss the matter. Since they have not given that up, the issue has changed into one in which both have been made accused. Charges have been made against both. Since both have lodged complaints, the Government too has a duty to treat them on an equal footing. Officials have the authority to carry out and implement the Government's work.
+**Hon. Thiru. M.G. Ramachandran:** Mr Speaker, I wish to say here that the Hon. Member Shanmugam always helps me by asking questions and gives me an opportunity to answer. By asking this question, he enables this House to obtain an answer from me. The lawyers maintained, and continue to maintain, that only if there is a suspension can we discuss the matter. Since they have not given that up, the issue has now become one in which both are accused. Charges have been made against both. Since both have lodged complaints, the Government too has a duty to treat them on an equal footing. Officials have the authority to carry out and implement the Government's work.
 
-If the matter is to go to court, it can go very easily. I wish, as the present Chief Minister, to say one thing to the former Chief Minister and present Leader of the Opposition. He knows this matter very well and knows the procedure. There are complaints against both. Both have made complaints. Therefore there is justification and authority to send such a matter to the Magistrate. Even so, it has been held back in order to call both sides, speak to them, and especially ensure that matters are handled properly in the administration.
+If the matter is to go to court, it can go very easily. I wish, as the present Chief Minister, to say one thing to the former Chief Minister and present Leader of the Opposition. He knows this matter very well and knows the procedure. There are complaints against both. Both have made complaints. Therefore there is justification and authority to send such a matter to the Magistrate. Even so, it has been held back so that both sides can be called and spoken to, particularly so that in the administration—
 
 ### Source page 433
 
-I am not saying that there is no justice in the lawyers' demand. But I have said that we will consider this by treating both sides equally. I have not said either that the lawyers committed an offence or that those belonging to the police department committed an offence. What I say must be properly understood. Both struck one another, both lodged complaints, and both went to hospital. It is in that situation that this Government has to perform its duty.
+—matters are handled properly. I am not saying that there is no justice in the lawyers' demand. But I have said that we will consider this by treating both sides equally. I have not said either that the lawyers committed an offence or that those belonging to the police department committed an offence. What I say must be properly understood. Both struck one another, both lodged complaints, and both went to hospital. It is in that situation that this Government has to perform its duty.
 
 Although this Government has no objection to appointing a judge, one side asks for suspension, while on the other side the lawyer has filed a separate complaint....
 
@@ -1477,7 +1481,7 @@ The Chief Minister said that the police have begun to think about whether they s
 
 **Hon. Thiru. M.G. Ramachandran:** Mr Speaker, the Leader of the Opposition said that there is a situation in which people can be intimidated by the ruling party. The allegation that people are threatened by the ruling party is one that is always made. Everyone will be ready to say they have come with evidence. Sometimes a practice develops of blaming the entire party merely because someone somewhere has done something. I do not know what the Leader of the Opposition has in mind. He referred to Kinathukadavu or Teynampet, or said there were stabbings, assaults and people being tied up. He speaks as though it has existed from that time itself. From this it appears that the Opposition leaders have been trying from that time itself to make such an issue of it. Anyway, the information reached me only now. There was a pamphlet. If it is merely an aspiration, let it be so; I have no objection. But I mentioned it because generally it is not good for the country.
 
-**Kalaignar M. Karunanidhi:** Mr Speaker, when the Chief Minister came in quickly, the issue I was speaking about was even more urgent. I said that Dravidar Kazhagam members had engaged in a blockade and that its General Secretary Veeramani and more than fifty others, men and women, had been arrested today. They have explained the reason for their blockade; I mentioned that here too. The rationalist sun whom all our tongues praise as Thanthai Periyar, and his family, are being written about in a reckless manner by a person who is the Government's poet. Not only—
+**Kalaignar M. Karunanidhi:** Mr Speaker, when the Chief Minister came in quickly, the issue I was speaking about was even more urgent. I said that Dravidar Kazhagam members had engaged in a blockade and that its General Secretary Veeramani and more than fifty others, men and women, had been arrested today. They have explained the reason for their blockade; I mentioned that here too. A person who is the Government's poet writes recklessly about the rationalist sun whom every tongue hails as Thanthai Periyar, and about his family. Not only—
 
 ### Source page 437
 
@@ -1511,7 +1515,7 @@ Another matter: Periyar's centenary is being celebrated. In Kanchipuram, the Dra
 
 **Hon. Thiru. M.G. Ramachandran:** Mr Speaker, I thank the Leader of the Opposition for giving me a good opportunity to explain.
 
-(The Hon. Deputy Speaker took the Chair.) The place they asked for is near a mutt, a place of religious belief like a temple. Because it is opposite places such as a temple and mutt and could cause disturbance to them, the matter was considered under the previous municipal administration and it was refused as not possible. After I came to office, I considered the complaint and sought views on what people had to say. It was not merely a suggestion conveyed to me generally. Once, when I went to Kanchipuram and saw the place—
+(The Hon. Deputy Speaker took the Chair.) The place they asked for is opposite a mutt, a place of religious belief like a temple. Because it is opposite places such as a temple and mutt and could cause disturbance to them, the matter was considered under the previous municipal administration and it was refused as not possible. After I came to office, I considered the complaint and sought views on what people had to say. It was not merely a suggestion conveyed to me generally. Once, when I went to Kanchipuram and saw the place—
 
 ### Source page 440
 
@@ -1519,11 +1523,11 @@ Another matter: Periyar's centenary is being celebrated. In Kanchipuram, the Dra
 
 **Kalaignar M. Karunanidhi:** If the Sankarachariar's mutt is there, I do not understand why Periyar's statue should not stand outside that mutt.
 
-**Hon. Thiru. M.G. Ramachandran:** Because the country needs peace, this Government must be common to everyone. There may be believers and non-believers. It is the duty of this Government to give each person confidence and security in their beliefs. To prevent disputes from arising there, I changed the earlier order saying the statue should not be erected and ordered that, wherever another place is sought, a convenient site should be arranged in a way useful to the public.
+**Hon. Thiru. M.G. Ramachandran:** Because the country needs peace, this Government must be impartial toward everyone. There may be believers and non-believers. It is the duty of this Government to give each person confidence and security in their beliefs. To prevent disputes from arising there, I changed the earlier order saying the statue should not be erected and ordered that, wherever another place is sought, a convenient site should be arranged in a way useful to the public.
 
 **Kalaignar M. Karunanidhi:** I expected the Chief Minister to say perhaps it was not permitted because the place would obstruct traffic. But to say the place was not given specifically for Sankarachariar....
 
-**Hon. Thiru. M.G. Ramachandran:** If it was not given specifically because of Sankarachariar, I am one who will say so boldly. I went and met him personally, spoke with him directly, and exchanged views. I am happy to tell this august House that he lives to such an extent as an ascetic, truly as an example of an ascetic. But this was not separated out as being for him, or for that mutt, or merely because of spatial congestion—
+**Hon. Thiru. M.G. Ramachandran:** If it was not given specifically because of Sankarachariar, I am one who will say so boldly. I went and met him personally, spoke with him directly, and exchanged views. I am happy to tell this august House that he lives as a true ascetic, as an example of what an ascetic should be. But this was not separated out as being for him, or for that mutt, or merely because of spatial congestion—
 
 ### Source page 441
 
@@ -1549,7 +1553,7 @@ Another matter: Periyar's centenary is being celebrated. In Kanchipuram, the Dra
 
 **Hon. Deputy Speaker:** Please sit down, Duraimurugan. All members please sit down. The Leader of the Opposition is asking a question and the Chief Minister is answering. Please sit down.
 
-**Thiru. Duraimurugan:** Sir, I am saying it including you. They say they will break Periyar's statue....
+**Thiru. Duraimurugan:** Sir, I mean you too. They say they will break Periyar's statue....
 
 **Hon. Deputy Speaker:** Nobody here said that Periyar's statue would be broken. In order to preserve public peace, considering the consequences that may follow....
 
@@ -1563,7 +1567,7 @@ Another matter: Periyar's centenary is being celebrated. In Kanchipuram, the Dra
 
 **Hon. Deputy Speaker:** Please sit down. Let them finish speaking.
 
-**Hon. Thiru. M.G. Ramachandran:** Mr Deputy Speaker, what was said was, “We will defeat the attempt.” But this issue is going somewhere else altogether. This is not an issue to be raised in the Legislative Assembly. The respective parties should present their policies before the people's forum. I ask that the Legislative Assembly not be turned into a people's forum. We should not cause an issue that may create a situation in which killings occur in the country; we should not become the reason for that. It was with public welfare in mind that the place was refused. As far as this Government is concerned, whoever's statue it may be, let it be erected elsewhere if they wish. I do not know when the position arose that it must be erected only at that same place—whether here or earlier. They said permission was refused. That is not correct; in the public interest, we are prepared to give permission to erect it at another place. Therefore I request that many issues not be created and that we do not become responsible for loss of peace and a dangerous situation in the country.
+**Hon. Thiru. M.G. Ramachandran:** Mr Deputy Speaker, what was said was, “We will defeat the attempt.” But this issue is going somewhere else altogether. This is not an issue to be raised in the Legislative Assembly. The respective parties should present their policies before the people's forum. I ask that the Legislative Assembly not be turned into a people's forum. We should not create an issue that could lead to killings in the country, nor should we become the cause of such a situation. It was with public welfare in mind that the place was refused. As far as this Government is concerned, whoever's statue it may be, let it be erected elsewhere if they wish. I do not know when the position arose that it must be erected only at that same place—whether here or earlier. They said permission was refused. That is not correct; in the public interest, we are prepared to give permission to erect it at another place. Therefore I request that many issues not be created and that we do not become responsible for loss of peace and a dangerous situation in the country.
 
 ### Source page 444
 
@@ -1601,7 +1605,7 @@ Yesterday, when the debates in the House were moving at great speed, the Deputy 
 
 Yesterday, during my speech on the financial statement, the Periyar-statue issue became somewhat heated. In 1974, the Kanchipuram Municipal Council gave permission to the Dravidar Kazhagam to erect Periyar's statue at the place they had requested. The Dravidar Kazhagam friends in Kanchipuram also received a receipt for having paid all the required amounts, including maintenance charges.
 
-After that, under the Emergency administration, it was said that a petition from two or three people—not Sankarachariar—namely Ellappan, Ganapathi and Ramanathan, was placed before the council. There was no council then. The Municipal Council had been dissolved and Kanchipuram Municipality was under a Special Officer. In that period there was a resolution dated 27-08-1976: Kanchipuram Municipal Council Resolution No.310, copy—under Resolution No.459 dated 30-09-1974 the Council had approved erection of a statue of Thanthai Periyar near Thengaikondan Mandapam at Town Survey No.1865. The petition of Thiruvalargal C.K. Ellappan, M. Ganapathi and N. Ramanathan objecting to the erection of the statue had been placed before the council for consideration and decision. The said letter had been sent by the District Collector on 05-08-1976, No.2566-74. “Since there is an objection, no further action is necessary on the earlier resolution.” P. Subramanian, Special Officer. Thus, as one of the excesses and abuses committed during the Emergency period, the site first approved for erecting Periyar's statue had its permission cancelled.
+After that, under the Emergency administration, it was said that a petition from two or three people—not Sankarachariar—namely Ellappan, Ganapathi and Ramanathan, was placed before the council. There was no council then. The Municipal Council had been dissolved and Kanchipuram Municipality was under a Special Officer. In that period there was a resolution dated 27-08-1976: Kanchipuram Municipal Council Resolution No.310, copy—under Resolution No.459 dated 30-09-1974 the Council had approved erection of a statue of Thanthai Periyar near Thengaikondan Mandapam at Town Survey No.1865. The petition of Thiruvalargal C.K. Ellappan, M. Ganapathi and N. Ramanathan objecting to the erection of the statue had been placed before the council for consideration and decision. The said letter had been sent by the District Collector on 05-08-1976, No.2566-74. “Since there is an objection, no further action is necessary on the earlier resolution.” P. Subramanian, Special Officer. Thus, as one of the excesses and abuses committed during the Emergency period, the earlier permission for the site approved for erecting Periyar's statue was cancelled.
 
 ### Source page 447
 
