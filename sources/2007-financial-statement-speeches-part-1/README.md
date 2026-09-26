@@ -910,8 +910,24 @@ Source-visible final-batch forms retained without normalization:
 - hard boundary **510→511** — **PASS / Speech 19 excluded**
 - Gate C.5 — **PROVISIONALLY N/A / explicit disposition next; no legacy-type anomaly observed during Gate C**
 
+## Speech 18 Gate C.5 + Gate D result
+
+**PASS / COMPLETE.**
+
+- Gate C.5 — **N/A / CLOSED / modern 2007 typesetting**
+- historical-glyph corrections — **0**
+- Gate D — **PASS / COMPLETE / 29/29 pages / 28/28 internal transitions**
+- missing / duplicate / empty page sections — **0 / 0 / 0**
+- hard boundaries **481→482 / 510→511 — PASS**
+- working-split transition **500→501 — PASS**
+- key continuations **488→489 / 491→492 / 500→501 / 501→502 — PASS**
+- completeness corrections — **0**
+- Tamil wording changes — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- exact next — **Gate E Batch 1 / scans 482–491 / exactly 10 pages**
+
 ## Exact next activity
 
-**Speech 18 Gate C.5 disposition / Gate D completeness audit.**
+**Speech 18 Gate E Batch 1 — scans 482–491 / printed pp.481–490 / exactly 10 pages.**
 
-Gate C is complete 29/29. Close Gate C.5 only if the completed pages confirm N/A, then audit all 29 page sections and 28 internal transitions for completeness. Do not begin Gate E or Speech 19.
+Strictly verify the Tamil against the controlling anthology pixels, record all source-fidelity corrections, leave scans 492–510 untouched, and do not begin Batch 2 or Speech 19.
