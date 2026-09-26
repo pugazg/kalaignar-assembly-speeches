@@ -124,7 +124,7 @@
     "final_remainder_may_be_under_10": true,
     "current_gate_c_batch": "479-481 / 3 pages FINAL / COMPLETE",
     "next_gate_c_batch": null,
-    "next_activity": "Speech 17 Gate H archival/release audit",
+    "next_activity": "Speech 18 source intake / Gate C setup scans 482-510 / printed pp.481-509 / உரை : 18 / 09.07.1980",
     "gate_f_iteration_page_limit": 30,
     "gate_f_final_remainder_may_be_under_limit": true,
     "current_gate_f_batch": "479-481 / 3 pages FINAL / COMPLETE",
@@ -157,7 +157,7 @@
     "unresolved_reading_count": 0,
     "verified_against_scan": true,
     "outside_wording_imported": false,
-    "next_gate": "Gate H archival/release audit",
+    "next_gate": null,
     "gate_c_batches_completed": 10,
     "last_completed_batch": "479-481 / 3 pages FINAL",
     "gate_c5_status": "n-a-closed",
@@ -238,7 +238,7 @@
     "gate_g_status": "pass-complete",
     "verified_against_tamil": true,
     "source_text": "Gate-E-verified Tamil in transcript.md",
-    "next_gate": "Gate H archival/release audit",
+    "next_gate": null,
     "translated_scans": "389-481",
     "translated_printed_pages": "388-480",
     "translated_page_count": 93,
@@ -297,14 +297,23 @@
       "terminal_boundary": "481->482 PASS / scan 482 Speech 18 start excluded",
       "verified_against_tamil": true,
       "note": "Gate G reviewed all 93 English source-page sections only against Gate-E-verified Tamil. Final remainder 479-481 completed with 5 refinements; verified_against_tamil=true. Gate H is next and has not started."
-    }
+    },
+    "placement": "canonical in transcript.md; translation.md retired to pointer",
+    "canonical_merged": true,
+    "translation_working_copy_retired": true,
+    "gate_h_status": "pass-complete"
   },
   "release": {
-    "status": "not-released",
-    "released": false,
-    "release_ready": false,
+    "status": "released",
+    "released": true,
+    "release_ready": true,
     "indexed": false,
-    "gate_h_status": "ready-not-started",
-    "canonical_bilingual_transcript": false
+    "index_policy": "not added to single-date root/data index because the source unit has two printed dates and no explicit internal date divider; no single canonical date is invented",
+    "gate_h_status": "pass-complete",
+    "canonical_bilingual_transcript": true,
+    "translation_working_copy_retired": true,
+    "gate_h_wording_changes_tamil": 0,
+    "gate_h_wording_changes_english": 0,
+    "release_note": "Speech 17 Gate H PASS / COMPLETE. Canonical bilingual transcript released; translation.md retired to pointer; no verified Tamil or English wording changed during Gate H. Multi-date source-unit policy retained, so data/speeches.json and the root dated speech table remain unchanged intentionally."
   }
 }
