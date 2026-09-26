@@ -2,7 +2,7 @@
 
 ## உரை : 17 — 22 & 23.3.1979
 
-> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**. Gate E is **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**. The source remains one **multi-date unit** (`22 & 23.3.1979`) with no invented internal date split or single canonical date. Tamil is **VERIFIED / verified_against_scan=true**. Gates F–H are **NOT STARTED**. Exact next: **Gate F Batch 1 — scans 389–408 / exactly 20 pages**.
+> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**. Gate E is **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**. The source remains one **multi-date unit** (`22 & 23.3.1979`) with no invented internal date split or single canonical date. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **IN PROGRESS — Batch 1 COMPLETE / scans 389–418 / 30 of 93 translated / 0 blockers / 0 Tamil changes**. Gates G–H are **NOT STARTED**. Exact next: **Gate F Batch 2 — scans 419–448 / exactly 30 pages**.
 
 <!-- source-page: 389 -->
 
@@ -963,3 +963,313 @@ industrialisation."
 
 **திரு. ஜே. ஜேம்ஸ்:** துணைத் தலைவர் அவர்களே, மாண்புமிகு நிதியமைச்சர் அவர்கள் இறுதித் துணை மானியக் கோரிக்கையில் 192 கோடி ரூபாய்க்கான அறிக்கையைச் சமர்ப்பித்திருக்கிறார்கள். இந்தச் சந்தர்ப்பத்தில் இந்த அரசின் கவனத்திற்கு ஒரு சில கருத்துக்களைக் கூற விரும்புகிறேன். இந்த அளவுக்கு மானியக் கோரிக்கை கேட்கின்றபோது, நாட்டில் இப்போது இருக்கின்ற நிலைமைகளைப் பற்றி இந்த அரசு சற்றுச் சிந்திக்கக் கடமைப்பட்டிருக்கிறது. பல்வேறு பிரச்சினைகள், சிறு அளவில் ஆரம்பித்து, அவைகள் ஆரம்பத்திலேயே தீர்க்கப்படாமல் இருந்த காரணத்தினால், பெரிய பிரச்சினைகளாக இன்று மாறியிருக்கிறது, உருவெடுத்திருக்கிறது என்பதை இந்த அரசின் கவனத்திற்கு நான் கொண்டுவர கடமைப்பட்டிருக்கிறேன்.
 
+
+
+# English translation
+
+> **Gate-F working English:** translated only from the final Gate-E-verified Tamil. Batch 1 is **COMPLETE — scans 389–418 / 30 of 93 pages**. Source-page sections are preserved one-for-one. Verified Tamil changes: **0**. Blocking translation questions: **0**. Outside English / outside-witness wording imported: **0**.
+
+### Source page 389
+
+Speech: 17                                              22 & 23.3.1979
+
+**Kalaignar M. Karunanidhi:** Mr Speaker, I am duty-bound to present, on behalf of the Dravida Munnetra Kazhagam, my views on the financial statement placed before this House by the Hon. Finance Minister.
+
+If we look closely at forty years of the financial history of Tamil Nadu, this statement enables us to understand the extent to which we have grown on the revenue side. When Tamil Nadu, parts of Andhra and Karnataka, and parts of Kerala together formed the composite Madras State, the financial statement for 1938-39 showed revenue of Rs.16.13 crore and expenditure of Rs.16.10 crore, with a surplus budget of Rs.3 lakh. I think it is useful to look back once at that financial history of 1938 and at how it has grown over the forty years since then. Later, when the administration of the elder statesman Bhaktavatsalam came to an end in 196667, the revenue for 1966-67 was Rs.194.55 crore, expenditure was Rs.201.43 crore, and the revenue account showed a deficit of Rs.6.78 crore.
+
+In 1967-68, when Perarignar Anna became Chief Minister, revenue was Rs.233.39 crore and expenditure was Rs.233.33 crore.
+
+### Source page 390
+
+A surplus of Rs.6 lakh was reported. Because revenue grew thereafter, I do not wish to go through every single year here. Before the Kazhagam Government was dismissed, in 1975-76, revenue was Rs.563.36 crore and expenditure Rs.557.9 crore. A surplus of Rs.5.44 crore was announced, making it a surplus budget. In 1978-79, under the present Government, revenue was Rs.680.08 crore and expenditure Rs.726.76 crore, and a revenue deficit of Rs.46.68 crore was announced. According to the statement placed here by our Finance Minister for this year, 79.80, revenue has risen to Rs.849.83 crore. We must not forget that last year's revenue was only Rs.680.08 crore.
+
+The Congress leader Marimuthu, who spoke here before me, and my friend Alagarsamy pointed out the reason why revenue has suddenly risen this year from Rs.680 crore to about Rs.849 crore. Last year, Tamil Nadu received only Rs.145.75 crore as its share of taxes distributed by the Central Government. This year, as a result of the Central Government accepting the recommendations of the Seventh Finance Commission, our tax share has risen to Rs.264.80 crore. Thus, compared with last year, we are receiving about Rs.119.05 crore more this year because of the Seventh Finance Commission's recommendation, because the Central Government accepted it, and because of the concessions made in distributing Central tax revenues among the various States.
+
+### Source page 391
+
+We have received that additional amount through tax devolution.
+
+Even though revenue has increased on many fronts to this extent, and even though proclamations are repeatedly made that this Government works for the rural people, in a situation where revenue has risen so much, if we ask whether larger amounts have been allotted to schemes for rural employment and amenities—as Alagarsamy and Marimuthu, who spoke before me, pointed out—the answer is no.
+
+I want to make one comparison. In 1975-76, when the Kazhagam Government was in office and revenue was Rs.563 crore, the amount allotted for minor irrigation schemes was Rs.4.19 crore. But this year, when revenue has risen to Rs.849 crore, only Rs.3.46 crore has been allotted for minor irrigation. I am duty-bound to point this out. Cutting the provision for minor irrigation by more than a crore of rupees does not sit well with a Cabinet which says, “We always keep the rural people in our hearts and have taken a pledge to work only for them.”
+
+For very important schemes such as irrigation, waterways, drainage and flood control, the Kazhagam Government spent Rs.19.09 crore in 1975-76, when revenue was Rs.563 crore. But this year, when revenue is announced as Rs.849 crore, only Rs.18.70 crore has been allotted under this head. As the Opposition, we are duty-bound to place this on record here.
+
+### Source page 392
+
+Under the head of roads and water transport, against an allocation of Rs.6.81 crore in 1975-76, only Rs.2.83 crore has been allotted this year. We have repeatedly stressed how necessary road maintenance and the creation of new link roads are for rural people, and have repeatedly pointed out how the earlier Kazhagam Government acted with that understanding. Yet the allocation, which was about Rs.6.80 crore in 1975-76, has been reduced this year to Rs.2.83 crore for roads and water transport. That is regrettable. When we travel today, we see many village roads full of pits and hollows. They are not being maintained. Roads damaged by floods have not been repaired. Anyone travelling on them can see this directly, and rural people who suffer every day feel this hardship.
+
+Even under housing, Rs.6.02 crore was allotted in 1975-76. But this year, when revenue is very high—nearly Rs.850 crore—only Rs.3.86 crore has been allotted for housing in this financial statement.
+
+Under the head covering Scheduled Castes, tribal people and others, when revenue under the Kazhagam Government was Rs.563 crore, in 1975-76, Rs.19.38 crore was allotted for their welfare. But now, when revenue is Rs.849 crore, only Rs.18.46 crore has been allotted for the welfare of Scheduled Castes and tribal people. I regretfully feel duty-bound to condemn this here.
+
+### Source page 393
+
+Under the Kazhagam Government, it was not merely the roughly Rs.19 crore I have already mentioned that was allotted for tribal and Scheduled Caste people. As leaders of other parties who spoke before me pointed out, a separate scheme providing houses free of cost to Scheduled Caste people, costing roughly Rs.13 crore, was implemented outside that Rs.19 crore. It is very necessary for me to point this out here.
+
+As for the welfare of backward classes: when revenue was Rs.563 crore in 1975-76, Rs.5.71 crore was allotted. This year Rs.7.04 crore has been allotted. This cannot be regarded as a very large increase. Rs.1.35 lakh more has been allotted.
+
+But if we compare the proportion represented by Rs.5.71 crore for backward-class welfare out of revenue of Rs.563 crore with the present proportion of Rs.7 crore out of Rs.849 crore, it can be seen that the Kazhagam Government allotted 1.02 per cent. The present allocation is only 0.82 per cent. On behalf of the backward classes, I must raise this deficiency in this House and draw the Finance Minister's attention to the need to address it.
+
+Last year this Government allotted Rs.6.10 lakh for rehabilitation of the disabled. That was last year. If we ask what has been allotted this year, this book presents the sad position that nothing at all has been allotted.
+
+For rehabilitation of the blind, Rs.1.36 lakh was allotted last year. This year only Rs.41,000 has been allotted.
+
+### Source page 394
+
+Last year Rs.16.80 lakh was allotted at Muttukadu for modern training for persons with disabilities and for producing training materials. This year nothing has been allotted for it. I do not know why such important social-welfare schemes introduced under the Kazhagam Government have been neglected in this financial statement. I request the Finance Minister to take note of the deficiencies I have pointed out, come forward to remove them, and give explanations in his reply.
+
+Even after revenue, which was Rs.609.08 crore in 1978-79, became Rs.849.83 crore—an increase of Rs.169.75 crore—not only have funds not been allotted to the important schemes I mentioned, but this Government has imposed taxes in the financial statement amounting to nearly Rs.2 crore in ways that affect the people, particularly the poor and ordinary people, as all the Opposition leaders have pointed out. Coconut has been taxed. I recall that when the Dravida Kazhagam Government assumed office, after Anna died and I took over that responsibility, Thiru M.G. Ramachandran, who is Chief Minister today and was then a Kazhagam member in this House, repeatedly brought representations to us on behalf of coconut traders. Manickam, the president of their traders' association, was a close friend of the present Chief Minister. The person who is Chief Minister today asked whether taxing coconut was not cruel and whether it would not hurt the poor and ordinary people. On his—
+
+### Source page 395
+
+—recommendation, the tax then imposed on coconut was removed. I wish to point that out. I hope that, remembering at least that old incident, our Finance Minister will certainly remove the present tax on coconut.
+
+When the present Chief Minister was then a Member of the Legislative Assembly, we accepted his recommendations. Those in the ruling party today may not have said this openly, but they would at least have said it privately. Other Opposition leaders have also spoken about it. Therefore I expect the Hon. Finance Minister to accept these recommendations, recognize that this tax affects the poor and ordinary people, remove it immediately, and make the announcement today itself.
+
+Likewise, a tax has been imposed on hand-made matches. They have said that small industrialists whose annual production does not exceed Rs.25,000 will be exempted. This is nothing but a trick that will not work in practice. These small industrialists do not have sales below Rs.25,000. By hurting those industrialists, you will throw many workers who make matches by hand out of work. Amid the pleasant but merely paper-picture announcements you now make about providing employment, you are creating newly unemployed people. Therefore, on behalf of the Dravida Munnetra Kazhagam, I am duty-bound to insist that in your reply you announce that this tax has been withdrawn.
+
+### Source page 396
+
+This financial statement contains an attractive announcement which members of the ruling party have praised as wonderful and revolutionary, and which many people have been looking forward to. Marimuthu, who spoke before me, asked how you were going to implement it, explained that he knew no further details, and left the issue at the point of asking you yourselves to explain it. That is the Guaranteed Employment Scheme. If I read exactly the words stated in this speech:
+
+For the purpose of providing employment to all educated, uneducated and unemployed persons, a “Guaranteed Employment Scheme” will be implemented. Under this scheme, all persons above eighteen years of age in rural areas who are without employment may register their names seeking work. Generally, works will be undertaken with a view to providing them employment within their own district. These works will be executed without contractors, under the direct supervision of Government departments. The wages of rural people working under these schemes will be paid once a week on the basis of the amount of work completed each day. Under this arrangement each person will receive about three rupees a day, together with rice and wheat. On days on which no work is provided, each will be given one rupee or its equivalent in rice or wheat.
+
+This is a revolutionary announcement found in the Finance Minister's statement. The newspapers have carried this news in banner headlines: everyone in Tamil Nadu will be given work; those without work will get one rupee a day—
+
+### Source page 397
+
+—together with food grains. Believing this, the newspapers too have published the news prominently. Let us do one calculation. There are 374 Panchayat Unions in Tamil Nadu. When Marxist party leader Sankarayya spoke, he said that those over eighteen who register for this employment cannot be expected to come to the district level to register; arrangements should be made for registration at the Panchayat Union level. I assume he too expects the scheme to be implemented.
+
+Even if registration is at Panchayat Union level, there will be at least 5,000 unemployed people within each Union area. You may say that is too high. If the Finance Minister promises that out of those 5,000 we will give work to 2,500, I will reduce my figure to 2,500. If we calculate 2,500 per Panchayat Union across 374 Panchayat Unions, the total number of unemployed comes to nearly ten lakh—even on my reduced calculation. If work is given to 2,500 out of 5,000, another 2,500 remain without work. Whether you are actually going to give work to those 2,500 is a separate issue. I ask this: you say that even when there is no work, you will give one rupee a day. If ten lakh people are to receive one rupee a day, how much will that come to in a month? Nearly Rs.3 crore. It will require Rs.36 crore a year. I too turned every page of the financial statement you have given us, without skipping one, page after page. In those figures—
+
+### Source page 398
+
+—I could not find where Rs.36 crore has been allotted for this purpose. Under no head have you stated how much money has been allotted for this employment scheme.
+
+Perhaps the Finance Minister may reply that these people will be engaged in all the schemes carried out in rural areas and paid this wage. If that is the answer, then when the sums allotted to rural employment schemes are less than half, and in some areas less than one-fourth, of what was allotted in 1975-76, I do not understand how you are going to provide new work to them in addition to those already working in those areas. The Finance Minister has therefore very carefully added a fine sentence at the end of this announcement, perhaps thinking that it will allow him later to deceive us all. The sentence is: “It is proposed to provide suitable training to administrative officers for this new scheme.”
+
+We are going to buy a horse; for now we have bought the whip. It is like saying that once the horse is bought, the whip will be used. Without announcing how much money has been allotted, without even placing a note about it in the large books given to us, they have said that suitable training is proposed for administrative officers to implement this scheme. Thus, with great skill and care, the Finance Minister has revealed through that sentence that the scheme itself will come only after the training programme is completed.
+
+### Source page 399
+
+Our fear is that this scheme should not go the way of the vegetable scheme implemented in Madras. We were told that vegetables would come to every house; no one would have to go to the market; they would come looking for the house in three-wheeled vehicles; they would go to all 150 divisions; because so many three-wheelers would be needed, a factory would be established to make them; young people would get jobs in that factory; tools would have to be made for those workers; industries making those tools would come up in rural areas; and therefore rural people would get employment. But in the end, when it could not be implemented, the vegetable scheme that was to seek out every house went into the ground. Our concern is that this scheme should not go the same way. We would be doubly happy if employment is provided. But it should not become like the vegetable scheme.
+
+Last year it was announced that 16,000 fair-price shops would be opened in villages. Now it is said that 13,000 shops have been opened. When I spoke last time on the no-confidence motion, I pointed out many details. There is a difference like that between a mountain and a pit between the prices in private shops and the prices in shops called fair-price shops. I placed before this House several examples showing lower prices in private shops and unfair prices in fair-price shops. I now want to give a new detail about these fair-price shops.
+
+In Karipatti village in Salem district, there is a fair-price shop. On 18 January 1979 they purchase goods for the fair-price—
+
+### Source page 400
+
+—shop for 383.85. They purchase them on the 18th and begin business on the 20th. Sales on the first day are Rs.4 and 17 paise. On 30 January 1979, sales are not Rs.82; they are 82 paise. I have the daily sales list with me, but time is short. I wish to bring to your attention that the total sales in the Karipatti fair-price shop during the first month were Rs.42.19. Even if we assume a profit of about ten per cent, the shop earns only about Rs.4 in a month.
+
+There are some other places. At Karumapuram in Salem district there is a shop with monthly sales of Rs.248.18. In Ammananthangal in Walajah taluk, North Arcot district, monthly sales are Rs.154.34. At Chennasamuthiram, total sales are Rs.290.55. Even if we take this higher figure of Rs.290 and assume ten per cent profit, the shop earns only Rs.29 or Rs.30 a month. But the person put there to conduct the business has to be paid a salary of Rs.100 a month. That is what you are paying. How long are you going to run the fair-price shops? At Rs.100 per person for 13,000 shops, nearly Rs.1½ crore will have to be paid in salaries to those working in the shops. Not only that: money must also be spent on transport when going to procure goods, and rent must be paid for the premises.
+
+### Source page 401
+
+Can you sustain all this? When you announced that you were going to open fair-price shops, this is precisely what we asked in the Assembly: is this something that can actually be done? We did not say it should not be done. We asked whether you had thought carefully about whether it could be done. The Chief Minister said they were doing it after consulting all the officials. But today it is being done for no reason other than that you boastfully announced it.
+
+Let your fair-price shops remain. Today farmers are suffering because they do not get a fair, remunerative price for what they produce. What action has this Government taken to remove their distress? Farmers are asking for Rs.120 per quintal. Speaking yesterday on behalf of the Marxist Communist Party, Thiru Sankarayya said, “If not Rs.120 per quintal, at least give Rs.100.” I ask the same. Is the Government prepared at least to give the Rs.85 per quintal fixed by the Central Government? Today, in Thanjavur district, farmers can sell a quintal only for Rs.70. Even at that price, they are struggling because there is no one to buy the paddy. In particular, there is now a situation in the Thanjavur region where there are no buyers even for the paddy variety called Rajarajan. Whenever farmers, during the period of the Munnetra Kazhagam Government, doubted whether they would receive a fair and remunerative price for the goods they produced—especially the essential commodity paddy—we, before they even began cultivation—
+
+### Source page 402
+
+—either I or the Food Minister, called the farmers together and gave them an assurance: begin cultivation in your fields without worry; we will see that the price does not fall; we will give you a remunerative price; if a situation arises in which that cannot be done, we are prepared to provide a supporting price from the Government. On the strength of that confidence given to the farmers, during the Kazhagam Government they engaged in agriculture and food production with great confidence.
+
+But today the Civil Supplies Corporation is not prepared to procure even at the Central Government's fixed rate of Rs.85 per quintal. Why? Is there no money? What other reason is there? If the Reserve Bank says money will be provided only when Rs.85 per quintal is fixed, why should you not take even that money and show concern for removing the distress of the great farming community, who are now in the position of orphans saying, “Take it at any price”?
+
+Next, Government employees have been discussed here. Whether or not this Government does good for Government employees, it has shown in the Government Employees' Association and the N.G.O. Union the same zeal it shows in breaking trade unions: it creates a rival association and recognizes it. But the Government has not shown the same concern to appoint a commission to remove the anomalies arising from the recommendations of the third new committee. As a result, members of the N.G.O. association have, from today, begun agitations such as fasting.
+
+### Source page 403
+
+Why, even after the recommendations of the Third Pay Commission were implemented, has no committee been appointed all this time to remove the anomalies in them? I am duty-bound to ask.
+
+Next, in this financial statement our Hon. Finance Minister has not mentioned corruption anywhere. The word “corruption” is not in the financial statement. That sentence is not there. The fact that the word has not been mentioned does not mean that corruption has been completely eradicated during these two years of rule. I think it has not been discussed in the financial statement because the Government realizes that it is not qualified to say so. When I spoke on the no-confidence motion I placed before this august House six or seven examples of irregularities and corruption. This House and the country know well that the Hon. Chief Minister, in his long reply to that motion, gave no answer to any of them. I do not wish to repeat those allegations. I am duty-bound to place before this House new allegations, showing how such matters have occurred from a very small scale up to a large scale.
+
+At the Government Press, an order is issued on 8 January this year suspending a woman from service. Order No.3428 D.E. 12/79, dated 8 January 1979. She is thus suspended on 8 January 1979. The curious and painful part is that—
+
+### Source page 404
+
+—the very next day, the 9th, an order is issued taking the woman back into service. I have that order. It reads:
+
+C.P.No.3428/TE/12/79                 Office of the Works Manager,
+dated 9.1.1979.                      Government Central Press,
+                                     Madras.
+
+PROCEEDINGS
+
+Sub : ESTABLISHMENT - Government Central Press. Madras
+Time and Gate Section - Thirumathi Jayalakshmi - Suspension
+from service - Orders revoked.
+
+REFERENCE - Proceedings of the Works Manager Government
+Central Press, Madras No. C.P.3428/TE/12/79, dated 8.1.79.
+
+Pending charges to be levelled against Tmt. V. Jayalakshmi,
+Junior Time Keeper, Government Central Press, Madras, orders
+passed in the Proceedings cited suspending her from service is
+revoked with immediate effect.
+
+That is what it says. What was the reason for this irregularity? What happened in between? If a woman was suspended on the 8th and, on the very next day, the 9th, that suspension was cancelled and she was taken back into service, why did this one-day drama take place? Such things are not unusual under this Government. Earlier, at Chinnalapatti in Madurai district, a doctor named Uthamaputhiran—Doctor Uthamaputhiran—under this Uthamaputhiran Government, the Hon. Minister for Public Health himself....
+
+**Hon. Thiru. P. Soundarapandian:** The Hon. Leader of the Opposition has asked how this one-day drama occurred at the Government Press, where a woman was suspended on the first day and restored to service the next day.
+
+### Source page 405
+
+What happened was this. The woman went to work. The Works Manager there told her not to report for work. She asked why. He said that if she was told not to come to work, she should not come, and immediately wrote out and gave her a suspension order.
+
+The Hon. Leader of the Opposition is very experienced. Administrative responsibility rests with the Director. If that lady had committed any fault, the Works Manager should have written to the Director, obtained an explanation, and the Director should have issued the order. Instead, the Works Manager himself assumed the Director's authority and issued the order. When it came to the Director's attention and an explanation was sought, no satisfactory explanation was given. Therefore the lady was reinstated. That is what happened. I am duty-bound to state here that there was no administrative breakdown.
+
+**Kalaignar M. Karunanidhi:** Mr Speaker, if that is so, why was action not taken against the Works Manager? What action has been taken?
+
+**Hon. Thiru. P. Soundarapandian:** Mr Speaker, this Government has sought an explanation from the Director. Once it is received, action will certainly be taken.
+
+**Kalaignar M. Karunanidhi:** Because this issue has been raised, the public has now come to know the truth, and the Minister has announced here that an explanation has been sought from the Director so that action may be taken against the Works Manager. I thank him for that. All right, that has been answered.
+
+### Source page 406
+
+Let us come to what I mentioned happened at Chinnalapatti. At Chinnalapatti, a doctor named Uthamaputhiran was caught red-handed while taking away medicines. Not by an ordinary Works Manager. He was caught by our Hon. Minister for Public Health himself. He was suspended on the spot. Why was that man, after being suspended, taken back into service within ten days without any inquiry?
+
+**Hon. Thiru. Tiruchi R. Soundararajan:** Hon. Speaker, the Leader of the Opposition raised this last time. Afterwards, when I asked the Director of Public Health, who is in charge of the hospital administration, I was informed that he had been suspended and action initiated, and that he was reinstated not within ten days but after two months. He admitted his fault—that he had taken the medicine, without prior permission, to a function held for school students—and, after admitting that mistake, he was reinstated. That is what the D.D.P.H. informed me.
+
+**Kalaignar M. Karunanidhi:** I deny that. My allegation is that money changed hands in between. If the Chief Minister orders an inquiry, I am prepared to prove this with proper evidence. When he was caught red-handed with the medicine, could he not have given this explanation to the Minister then itself—that he was taking it for school students and therefore was not stealing it? Why could he not have told the Minister this at the time?
+
+### Source page 407
+
+**Hon. Thiru. Tiruchi R. Soundararajan:** Hon. Speaker, this explanation was not given at that time. The D.D.P.H. conducted an inquiry with the management of the school where a function had been held at Chinnalapatti and sent a note saying it had been taken there. Those notes exist. If necessary, I am prepared to produce them.
+
+**Kalaignar M. Karunanidhi:** Then why should a Minister have acted in such haste? Why was the doctor who was caught red-handed not asked for the details then and there?
+
+**Hon. Thiru. Tiruchi R. Soundararajan:** Mr Speaker, I did ask the doctor who was caught red-handed for an explanation. The doctor could not give a proper explanation. I also asked the pharmacist. He too could not give an explanation. Since medicine that ought to have remained in the hospital had been taken outside and was found in his bag, this situation arose.
+
+**Thiru. M. Karunanidhi:** The doctor could not give the correct explanation. Why? A person who could not give the explanation then—why did he give it later? If so, the Minister acted hastily; at least the Minister should be punished.
+
+**Hon. Thiru. Tiruchi R. Soundararajan:** I did not say he gave no explanation. There was no immediate means of verifying whether the explanation he gave was correct. It became clear after the later inquiry.
+
+**Kalaignar M. Karunanidhi:** As much as Rs.25,000 changed hands and he was taken back into service—
+
+### Source page 408
+
+—again. If the Chief Minister orders an inquiry, I am prepared to provide details through persons in whom the Chief Minister has confidence.
+
+Next, when I spoke in this Assembly last year, the Member for Saidapet, Purushothaman, gave details about ruling-party people engaging in encroachments and taking over even Government-owned land. Panruti Ramachandran, who was then Public Works Minister and is now our Electricity Board Minister, asked Purushothaman to provide the particulars. Purushothaman did so, and the details are recorded in the Assembly proceedings.
+
+On 5.1.1978 he spoke in this House about Balakrishnan, a ruling-party man, encroaching on Government land worth Rs.1 lakh at the junction of Jones Road and Anna Salai opposite the Government Training College at Saidapet; about the Government taking no action; and about a signboard reading “Anna Hospital” being put up there. Photographs were also shown here. I wish to show those photographs once again to the attention of our Finance Minister and to the Electricity Minister who gave the explanation then. (Showing a photograph.) This is the photograph. A shed has been put up with the name “Anna Hospital, place for preparing herbal medicines.” It is Government land. They have encroached on that place, worth Rs.1 lakh. An encroachment on Anna Salai. Not only that. An officer—
+
+### Source page 409
+
+—has also given permission. The officer has permitted them to remain there until the road is widened. I wish to point out whether such an encroachment is not an irregularity and whether this is not a concession made to ruling-party people.
+
+**Hon. Thiru. R.M. Veerappan:** Mr Speaker, they have shown a photograph saying there is an encroachment there. There may be an encroachment. But I do not know on what basis the Hon. Leader of the Opposition says that the person is a ruling-party man. I also wish to inform the Hon. Leader of the Opposition that many members of the ruling party themselves have complained that some people are making such encroachments.
+
+**Kalaignar M. Karunanidhi:** Then no better evidence is needed of the tortoise-like speed of this Government. Even after ruling-party members have made such complaints, this issue raised on 5.1.73 has still not been settled. If you say that the encroacher Balakrishnan is not from the ruling party, I accept that. Whoever he may be, he has put up a shed on Government land worth Rs.1 lakh and is running it under the name “Anna Hospital Herbal Farm.” My dear ministerial friend Veerappan can even today—not far away, on Anna Salai—go on foot and see the place. If, after that, action is taken at least now to remove the encroachment, I will be very happy.
+
+### Source page 410
+
+This is not the only encroachment. Shops are being built around our High Court in the name of pavement shops. If one goes there and inquires, it can easily be learned that those building the shops are ruling-party people. Hundreds of shops have been built. Temporary shops have been set up around the court; collections are made from the ordinary traders doing business there; and I wish to place before this House the allegation that some ruling-party people divide among themselves many thousands of rupees every month.
+
+If the Government asks me in return whether ordinary traders should not earn their livelihood there and whether their livelihood should be destroyed, I would say this: if the Government considers that those shops may remain, why not have the small shops built by the Government itself, with the Government or the Corporation collecting the proper rent? Why has that not been done? There are photographs of those shops too. Even if I show these photographs, they may say the people concerned are not from the ruling party. (The Leader of the Opposition showed some photographs.) These are photographs of the shops built around the court. On one side there is a large board carrying pictures of Anna and the Chief Minister and reading “Anna Small-Shop Traders' Development Association, High Court Front,” and that association of small traders is collecting the money. I do not think my dear friend Minister Veerappan will differ with me on this, because even his own comrades in the ruling party in Madras may have given him this complaint. I am merely bringing to the Government's attention that such encroachments are being made at many—
+
+### Source page 411
+
+—places in Madras city.
+
+Here is another piece of evidence of how irregularities occur. On 30-07-1978, on the letterhead of the All India Anna D.M.K. Inaippu Kaviya Kalai Manram, M.G.R. Public Welfare Manram, Suryanarayana Chetty Street, Madras-81, a person named K. Dhanapal sent a letter to the Chief Minister's Special Officer (Chief Minister's Cell). On that letter the Special Officer, Chief Minister's Cell, stamped:
+
+"Forwarded to the Chairman, Tamil Nadu Slum Clearance
+Board, Madras, for necessary action."
+
+Special Officer,
+Chief Minister’s Cell,
+Fort St.George, Madras -9.
+
+With that endorsement, the letter is sent to the Chairman of the Slum Clearance Board for “necessary action.” Do you know what the request in the letter is? Because of the rains, 2,000 people had temporarily been accommodated in Housing Board houses. After seeing a statement issued in the press on 30.07.78 by the Chairman of the Slum Clearance Board saying that those two thousand families would be removed, the residents of the fishermen's housing colony in Poondi Thangammal Street who had been housed there because of the rain became greatly alarmed and were widely discussing the matter. The letter therefore asks the Chief Minister, even though the place does not belong to them, please not to remove them from those houses now. Not only that. At the end it asks that they not be removed until the forthcoming Madras Corporation election—
+
+### Source page 412
+
+—and says, in effect: show mercy, permit them to be removed after the Madras Corporation election, and thereafter do whatever the law requires; humbly touching your feet, I pray for this. Yours affectionately, K. Dhanapal. This letter is sent for “necessary action.” I wish to point out that when a secretary belonging to the ruling party makes a request that the people may be removed only after their votes have been obtained in the Madras Corporation election, it is forwarded “for necessary action.”
+
+Here is another letter, about a person who serves in this House as Parliamentary Secretary to one of our Ministers. E. Subramaniam, secretary of the Manachanallur Puratchi Thalaivar M.G.R. Manram, Tiruchi district, wrote on 8 February 1979 to Thiru Soundararajan, secretary of the International M.G.R. Manram and Minister for Public Health. The letter says that Musiriputhan, Member of the Legislative Assembly for Musiri, is collecting funds from the rice-mill owners of Manachanallur, saying that a daily newspaper called “Makkal Thilagam” is to be started for the Kazhagam.
+
+I have explained it in detail in the petition.
+
+Yours,
+E. Subramaniam.
+
+What does the enclosed petition say?
+
+“To the General Secretary,
+
+Greetings. Our Hon. Musiriputhan, president of our International M.G.R. Manram and Member of the Legislative Assembly for the Musiri constituency—
+
+### Source page 413
+
+—has said, on behalf of the headquarters Kazhagam, that a daily newspaper called ‘Makkal Thilagam’ is to be started, and he is collecting funds for it from the rice-mill owners and rice traders here. A plan has been made to collect amounts from Rs.1,000 to Rs.5,000, and Musiriputhan has appointed the following persons to make the collections:
+
+1. P.S. Thanakkodi Chettiar, Ashoka Rice Mill.
+2. P.N. Arumugam, Dandapani Rice Mill.
+3. S. Arumugam Chettiar, Jagadambika Rice Mill.
+4. K.R. Vaithiyalingam Pillai, Balasubramaniam Rice Mill.
+5. T.P.K. Natesan Chettiar, Jayalakshmi Rice Mill.
+
+The persons named above are making collections. We wish to know whether this is true, because so far no information on this has come either from the headquarters Kazhagam or through you.
+
+1. Is the headquarters Kazhagam starting a daily newspaper under the name ‘Makkal Thilagam’? 2. As General Secretary, why have you not issued a statement that a newspaper is to be started under the name ‘Makkal Thilagam’?
+
+I very humbly request that you immediately issue a statement giving the truth about the ‘Makkal Thilagam’ newspaper and explain it to the public and to the Kazhagam members.
+
+Yours,
+E. Subramaniam,
+Secretary, M.G.R. Manram,
+Manachanallur.”
+
+### Source page 414
+
+I do not know whether such a letter was received or not. I think he is rising to say something. Please let him speak.
+
+**Hon. Thiru. Tiruchi R. Soundararajan:** Hon. Speaker, I do not remember receiving such a letter.
+
+**Kalaignar M. Karunanidhi:** The Minister says he does not remember receiving it. Here is the letter. M.G.R. Manram, Manachanallur, Lalgudi taluk, Tiruchi district. This letter bears the stamp: “Minister for Health, 12th February 1979, Government of Tamil Nadu.” It bears the office stamp of the Minister for Public Health.
+
+**Hon. Thiru. S. Ramachandran:** Mr Speaker, the letter bearing that stamp has gone directly to the Leader of the Opposition. Since that itself is a matter requiring inquiry, we must inquire into it. I would also humbly ask the Leader of the Opposition one thing. When he spoke about the Slum Clearance Board, he referred to petitions. We receive numerous petitions. When petitions come, it is normal practice to mark them to the concerned officials as “forwarded,” “for consideration,” “for disposal,” or “for necessary action.” He knows this very well. Such an endorsement does not mean that we take responsibility for the incidents stated in them and issue orders. I request that he explain that too.
+
+**Kalaignar M. Karunanidhi:** I mentioned it only to show that those in the ruling party have the attitude that the people may be removed after the Corporation election, and nothing more. They said one other thing.
+
+### Source page 415
+
+**Hon. Thiru. R.M. Veerappan:** Mr Speaker, perhaps because of earlier habits, there may be people here too who retain that feeling.
+
+**Kalaignar M. Karunanidhi:** We never had your habits. Those are all your habits.
+
+Mr Speaker, I am duty-bound to respond to what our Panruti Ramachandran said. He said it should be inquired into. Let there be an inquiry into how the letter came to me. What I say is this: the Manachanallur M.G.R. Manram secretary Subramaniam—not anyone else, not a member of the Dravida Munnetra Kazhagam—has made the allegation that Musiriputhan is collecting money there from rice-mill owners in the name of a newspaper. I showed this letter only as evidence of that allegation.
+
+**Thiru. P. Musiriputhan:** (Parliamentary Secretary to the Minister)
+
+The Hon. Leader of the Opposition has read a letter. According to the letter he read, no such effort has been undertaken on behalf of the International M.G.R. Manram. According to their own letter, none of those who went to collect money are our members. I wish to state that now. Further, it does not become him to bring into the House, unnecessarily, such material involving the printing and writing of letters of this kind and speak about it. None of the persons mentioned in this letter—
+
+### Source page 416
+
+—are comrades of our Kazhagam. As far as our Manram is concerned, there is no proposal to run any such newspaper. Not only that: if he has any official receipt connected with any such attempt having been made by us, I ask him to produce it.
+
+**Kalaignar M. Karunanidhi:** Mr Speaker, all I read out here was a letter written by a secretary of an M.G.R. Manram belonging to the All India Anna Dravida Munnetra Kazhagam. I merely read what people of the ruling party themselves wrote complaining about him, saying there had been irregular conduct and that money was being collected in this manner.
+
+**Thiru. P. Musiriputhan:** I also wish to bring to the attention of the House that the Leader of the Opposition has read a similar letter against the Hon. Minister for Harijan Welfare.
+
+**Kalaignar M. Karunanidhi:** All that is in the proceedings of the House. Read it again and you will know.
+
+Next, there is a company in Madurai called “Solar Pharmaceuticals Industries.” Its annual spirit quota is fixed at 40,000 proof litres. In 1977-78, the additional ad hoc quota it has obtained so far is 80,000 proof litres. The annual quota itself is only 40,000 proof litres, but the additional ad hoc quota obtained in 1977-78 is 80,000 proof litres. Making that twice the annual quota is the first corruption. Thus, out of a total quota of 1,20,000 proof litres, 75,000 proof litres have so far been drawn. Of that, only 25,000 litres have actually been used for medicine, leaving 50,000—
+
+### Source page 417
+
+—litres from which ginger has been illicitly manufactured. In other words, products have been made and released under the names of “unrestricted medicines,” “components benzoin,” and “soap element.” The purpose of doing this is this: the duty on one bottle of ginger is about Rs.5. I am giving this example to show the Finance Minister how much financial loss results and how we are being cheated. If it is labelled as benzoin ginger, the duty is Rs.2. Thus the company gains Rs.3 per bottle and the Government loses Rs.3 per bottle. The Government loses more than Rs.4 lakh a year. This is the second corruption.
+
+By manufacturing bottles of ginger, they are turning the Nellai, Madurai and Mugavai districts into a liquor jungle today. This is the third allegation. One may ask whether Government officials do not notice this or take action. A Deputy Commissioner comes to inspect. When he comes, he arrives in the car belonging to Raghavan, the owner of the company. If he comes in the owner's own car to conduct an inquiry, how can he discover the wrongs there? There is a D.S.P. whose daily expenses are looked after by the company. There is a Senior Drug Inspector to whom the company pays a fixed sum every month. In addition, his son—the Drug Inspector's son—has been given a job in Lakshmi Chit Funds. The owner of Solar Pharmaceuticals Industries is this Raghavan, and Lakshmi Chit Funds too is his company. Thus the Senior Drug Inspector's son has been given employment in that company. A Government servant appointed by the Government receives every month the—
+
+### Source page 418
+
+—bribe paid by the company. I have received information that the Deputy Commissioner has now recommended raising the annual quota from 40,000 litres to one lakh litres.
+
+They say that with the lakhs of rupees accumulated in this manner, the proprietor has constructed a new building on the Palanganatham bypass road. He is saying that our Chief Minister will inaugurate it. I do not know whether the Chief Minister will go there or not, but they are announcing that the Chief Minister is going to perform the opening ceremony.
+
+This is a major corruption carried on in the name of ginger. They have obtained nearly 80,000 litres in excess, though permission was for only 40,000 litres, and the company people have taken 80,000 extra litres and are turning two or three districts into a liquor jungle. In such a situation, however rigorously you enforce the Prohibition law, will it succeed? We must think about that. I request the Chief Minister to find out who all the very important people are who stand behind that proprietor.
+
+They say that those in the Dravida Munnetra Kazhagam were proved guilty in the Sarkaria inquiry. Even yesterday our Chief Minister said so. The Hon. Chief Minister has asked reporters whether a Minister in Parliament at Delhi may frequently meet Karunanidhi, who, he says, has been proved guilty in the Sarkaria inquiry.

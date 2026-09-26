@@ -557,8 +557,28 @@ No source-backed wording or punctuation correction was required in scans 479–4
 - outside wording imported — **0**
 - Tamil — **VERIFIED / verified_against_scan=true**
 
+## Gate F — Batch 1 / scans 389–418
+
+**COMPLETE — 30 pages; cumulative 30 of 93 translated.**
+
+- Gate-F cadence — **30 source pages per iteration**
+- translated scans — **389–418**
+- translated printed pages — **388–417**
+- English source-page sections — **30 / exactly once / ordered**
+- source-printed English on scans **404 and 411** — **preserved verbatim**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- page boundaries / speaker interventions — **preserved**
+- scans 419–481 translated — **0**
+
+## Fixed Gate-F iteration rule
+
+- **30 source pages per iteration**
+- only the final remainder may contain fewer than 30 pages.
+
 ## Exact next
 
-**Gate F Batch 1 — scans 389–408 / exactly 20 pages.**
+**Gate F Batch 2 — scans 419–448 / exactly 30 pages.**
 
-Translation authority is the Gate-E-verified Tamil only. Do not alter verified Tamil or begin Speech 18.
+Translation authority remains the Gate-E-verified Tamil only. Do not alter verified Tamil or begin Batch 3, Gate G, Gate H or Speech 18.

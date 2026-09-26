@@ -573,7 +573,8 @@ Working entry:
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / scans 389–481 / 93 of 93 / 37 corrections / 0 unresolved**
-- Gates F–H — **NOT STARTED**
+- Gate F — **IN PROGRESS / Batch 1 COMPLETE / scans 389–418 / 30 of 93 translated / 0 blockers / 0 Tamil changes**
+- Gates G–H — **NOT STARTED**
 - outside wording imported — **0**
 
 ## Speech 17 Gate C.5 result
@@ -747,8 +748,25 @@ Source-visible final-batch forms retained without normalization:
 - scan 480 — `பார்சல் சேலஞ்சாக` / `பேரணாம்பேடு`
 - scan 481 — `1-1-58க்குள்`
 
+## Speech 17 Gate F Batch 1
+
+**COMPLETE — scans 389–418 / 30 of 93 translated.**
+
+- Gate-F cadence — **30 source pages per iteration**
+- English source-page sections — **389–418 / 30 / exactly once / ordered**
+- source-printed English on scans **404 and 411** — **preserved verbatim**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- scans 419–481 translated — **0**
+
+## Fixed Gate-F iteration rule
+
+- **30 source pages per iteration**
+- only the final remainder may contain fewer than 30 pages.
+
 ## Exact next activity
 
-**Speech 17 Gate F Batch 1 — scans 389–408 / exactly 20 pages.**
+**Speech 17 Gate F Batch 2 — scans 419–448 / printed pp.418–447 / exactly 30 pages.**
 
-Translate only from Gate-E-verified Tamil, preserve page boundaries and source-printed English, and do not alter verified Tamil or begin Speech 18.
+Translate only from Gate-E-verified Tamil. Do not begin Batch 3, Gate G, Gate H or Speech 18.

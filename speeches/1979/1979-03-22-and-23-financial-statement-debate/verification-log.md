@@ -610,11 +610,30 @@ No source-backed wording or punctuation correction was required in scans 479–4
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
 - Gate E — **PASS / COMPLETE / 93 of 93 verified**
-- Gate F — **NOT STARTED**
+- Gate F — **IN PROGRESS / Batch 1 COMPLETE / 30 of 93 translated / 0 blockers / 0 Tamil changes**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 18 — **NOT STARTED**
 
 ## Exact next activity
 
-**Speech 17 Gate F Batch 1 — scans 389–408 / exactly 20 verified-Tamil source pages. Translate only from Gate-E-verified Tamil; do not alter Tamil or begin Speech 18.**
+**Speech 17 Gate F Batch 2 — scans 419–448 / exactly 30 verified-Tamil source pages. Gate-F cadence is 30 pages per iteration. Translate only from Gate-E-verified Tamil; do not alter Tamil or begin Batch 3, Gate G, Gate H or Speech 18.**
+
+
+## Gate F — Batch 1 / scans 389–418
+
+**COMPLETE — 30 of 93 verified-Tamil source pages translated.**
+
+- fixed Gate-F cadence — **30 source pages per iteration**
+- translated scans — **389–418**
+- translated printed pages — **388–417**
+- English source-page sections — **30 / exactly once / ordered**
+- translation authority — **Gate-E-verified Tamil only**
+- source-printed English on scans **404 and 411** — **preserved verbatim**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / web / Official Reports / alternate anthologies / released-speech wording imported — **0**
+- scans **419–481** translated in this activity — **0**
+- Gate G — **NOT STARTED**
+
+Exact next: **Gate F Batch 2 — scans 419–448 / exactly 30 pages**.

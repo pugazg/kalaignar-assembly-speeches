@@ -124,7 +124,11 @@
     "final_remainder_may_be_under_10": true,
     "current_gate_c_batch": "479-481 / 3 pages FINAL / COMPLETE",
     "next_gate_c_batch": null,
-    "next_activity": "Gate F Batch 1 scans 389-408 / exactly 20 pages"
+    "next_activity": "Gate F Batch 2 scans 419-448 / exactly 30 pages",
+    "gate_f_iteration_page_limit": 30,
+    "gate_f_final_remainder_may_be_under_limit": true,
+    "current_gate_f_batch": "389-418 / 30 pages / COMPLETE",
+    "next_gate_f_batch": "419-448 / 30 pages"
   },
   "transcription": {
     "language": "Tamil",
@@ -149,7 +153,7 @@
     "unresolved_reading_count": 0,
     "verified_against_scan": true,
     "outside_wording_imported": false,
-    "next_gate": "Gate F Batch 1",
+    "next_gate": "Gate F Batch 2",
     "gate_c_batches_completed": 10,
     "last_completed_batch": "479-481 / 3 pages FINAL",
     "gate_c5_status": "n-a-closed",
@@ -225,10 +229,39 @@
   },
   "translation": {
     "language": "English",
-    "status": "not-started",
-    "gate_f_status": "not-started",
+    "status": "in-progress",
+    "gate_f_status": "in-progress",
     "gate_g_status": "not-started",
-    "verified_against_tamil": false
+    "verified_against_tamil": false,
+    "source_text": "Gate-E-verified Tamil in transcript.md",
+    "next_gate": "Gate F Batch 2",
+    "translated_scans": "389-418",
+    "translated_printed_pages": "388-417",
+    "translated_page_count": 30,
+    "total_page_count": 93,
+    "source_page_marker_count": 30,
+    "source_page_marker_range": "389-418",
+    "blocking_question_count": 0,
+    "verified_tamil_changes": 0,
+    "outside_english_imported": false,
+    "source_printed_english_preserved": true,
+    "page_boundaries_preserved": true,
+    "gate_f": {
+      "status": "in-progress",
+      "source_pages": "389-418",
+      "page_count": 30,
+      "batch_count": 1,
+      "batches": [
+        "389-418 / 30 pages"
+      ],
+      "iteration_page_limit": 30,
+      "blocking_question_count": 0,
+      "verified_tamil_changes": 0,
+      "verified_against_tamil": false,
+      "outside_english_imported": false,
+      "source_printed_english_preserved": true,
+      "source_page_markers_preserved": true
+    }
   },
   "release": {
     "status": "not-released",
