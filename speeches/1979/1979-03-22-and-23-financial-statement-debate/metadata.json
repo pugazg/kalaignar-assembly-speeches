@@ -124,15 +124,15 @@
     "final_remainder_may_be_under_10": true,
     "current_gate_c_batch": "479-481 / 3 pages FINAL / COMPLETE",
     "next_gate_c_batch": null,
-    "next_activity": "Gate G FINAL remainder scans 479-481 / exactly 3 pages",
+    "next_activity": "Speech 17 Gate H archival/release audit",
     "gate_f_iteration_page_limit": 30,
     "gate_f_final_remainder_may_be_under_limit": true,
     "current_gate_f_batch": "479-481 / 3 pages FINAL / COMPLETE",
     "next_gate_f_batch": null,
     "gate_g_iteration_page_limit": 30,
     "gate_g_final_remainder_may_be_under_limit": true,
-    "current_gate_g_batch": "449-478 / 30 pages / PASS-COMPLETE / 10 refinements",
-    "next_gate_g_batch": "479-481 / FINAL remainder / exactly 3 pages"
+    "current_gate_g_batch": "479-481 / 3 pages FINAL / PASS-COMPLETE / 5 refinements",
+    "next_gate_g_batch": null
   },
   "transcription": {
     "language": "Tamil",
@@ -157,7 +157,7 @@
     "unresolved_reading_count": 0,
     "verified_against_scan": true,
     "outside_wording_imported": false,
-    "next_gate": "Gate G FINAL remainder",
+    "next_gate": "Gate H archival/release audit",
     "gate_c_batches_completed": 10,
     "last_completed_batch": "479-481 / 3 pages FINAL",
     "gate_c5_status": "n-a-closed",
@@ -233,12 +233,12 @@
   },
   "translation": {
     "language": "English",
-    "status": "gate-g-in-progress",
+    "status": "verified",
     "gate_f_status": "complete",
-    "gate_g_status": "in-progress",
-    "verified_against_tamil": false,
+    "gate_g_status": "pass-complete",
+    "verified_against_tamil": true,
     "source_text": "Gate-E-verified Tamil in transcript.md",
-    "next_gate": "Gate G FINAL remainder",
+    "next_gate": "Gate H archival/release audit",
     "translated_scans": "389-481",
     "translated_printed_pages": "388-480",
     "translated_page_count": 93,
@@ -269,31 +269,34 @@
       "source_printed_english_preserved": true,
       "source_page_markers_preserved": true
     },
-    "gate_g_reviewed_scans": "389-478",
-    "gate_g_reviewed_page_count": 90,
-    "gate_g_refinement_count": 38,
+    "gate_g_reviewed_scans": "389-481",
+    "gate_g_reviewed_page_count": 93,
+    "gate_g_refinement_count": 43,
     "gate_g_blocking_issue_count": 0,
     "gate_g_verified_tamil_changes": 0,
     "gate_g_source_printed_english_changes": 0,
     "gate_g_outside_english_imported": false,
     "gate_g": {
-      "status": "in-progress",
-      "reviewed_source_pages": "389-478",
-      "reviewed_page_count": 90,
-      "batch_count": 3,
+      "status": "pass-complete",
+      "reviewed_source_pages": "389-481",
+      "reviewed_page_count": 93,
+      "batch_count": 4,
       "batches": [
         "389-418 / 30 pages / 12 refinements",
         "419-448 / 30 pages / 16 refinements",
-        "449-478 / 30 pages / 10 refinements"
+        "449-478 / 30 pages / 10 refinements",
+        "479-481 / 3 pages FINAL / 5 refinements"
       ],
-      "refinement_count": 38,
+      "refinement_count": 43,
       "blocking_issue_count": 0,
       "verified_tamil_changes": 0,
       "source_printed_english_changes": 0,
       "outside_english_imported": false,
       "source_page_markers_preserved": true,
-      "verified_against_tamil": false,
-      "note": "Gate G Batches 1-3 reviewed only against Gate-E-verified Tamil. English scans 479-481 remain unchanged from Gate F; full-English verification awaits the final Gate G remainder."
+      "page_boundaries_preserved": true,
+      "terminal_boundary": "481->482 PASS / scan 482 Speech 18 start excluded",
+      "verified_against_tamil": true,
+      "note": "Gate G reviewed all 93 English source-page sections only against Gate-E-verified Tamil. Final remainder 479-481 completed with 5 refinements; verified_against_tamil=true. Gate H is next and has not started."
     }
   },
   "release": {
@@ -301,7 +304,7 @@
     "released": false,
     "release_ready": false,
     "indexed": false,
-    "gate_h_status": "not-started",
+    "gate_h_status": "ready-not-started",
     "canonical_bilingual_transcript": false
   }
 }
