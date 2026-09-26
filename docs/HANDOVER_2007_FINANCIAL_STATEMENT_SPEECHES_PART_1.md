@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 17 / `22 & 23.3.1979` = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–17 are released**. Speech 18 / `09.07.1980` source intake + Gate-C setup is now **COMPLETE** for scans **482–510 / 29 pages**; Tamil transcription has **not started**.
+Latest released unit: Speech 17 / `22 & 23.3.1979` = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–17 are released**. Speech 18 / `09.07.1980` Gate C is **IN PROGRESS**: Batch 1 scans **482–491 / 10 pages COMPLETE**, cumulative **10/29 first-pass**, Tamil **PARTIALLY TRANSCRIBED / NOT VERIFIED**.
 
 ## Existing-source overlaps
 
@@ -92,7 +92,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–17 COMPLETE; Speech 18 SETUP COMPLETE / 0 of 29 transcribed; Speech 19 not started**
+- Gate C — **Speeches 1–17 COMPLETE; Speech 18 IN PROGRESS / Batch 1 COMPLETE / 10 of 29 first-pass; Speech 19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–17; Speech 18 provisionally N/A / not closed**
 - Gate D — **PASS / COMPLETE for Speeches 1–17**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–17; speeches 18–19 not started**
@@ -1166,6 +1166,19 @@ Source-visible final-batch forms retained without normalization include scan 479
 - planned Gate-C batches — **482–491 / 492–501 / 502–510 FINAL**
 - outside wording imported — **0**
 
-## Exact next activity — Speech 18 Gate C Batch 1
+## Speech 18 Gate C Batch 1 result
 
-Transcribe **scans 482–491 / printed pp.481–490 / exactly 10 pages** from the controlling 2007 anthology pixels only. Preserve source spelling, punctuation, numerals, repetitions, speaker labels/interventions, printed English and page boundaries. Do not begin Batch 2.
+**PASS / COMPLETE — scans 482–491 / exactly 10 pages; cumulative 10 of 29 first-pass transcribed.**
+
+- source-page markers — **482→491 / exactly once / ordered**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- scan **488→489** continuation — **preserved**
+- scan **491** remains open into scan 492; no Batch-2 wording imported
+- scans **492–510** changed in Batch 1 — **0**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+
+## Exact next activity — Speech 18 Gate C Batch 2
+
+Transcribe **scans 492–501 / printed pp.491–500 / exactly 10 pages** from the controlling 2007 anthology pixels only. This batch crosses the working split boundary: **492–500 = part020 local 17–25; 501 = part021 local 1**. Preserve any continuation across 500→501 and do not begin the final batch.
