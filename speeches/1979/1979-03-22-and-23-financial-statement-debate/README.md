@@ -62,7 +62,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**
 - Gate F — **COMPLETE — scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**
-- Gate G — **NOT STARTED**
+- Gate G — **IN PROGRESS — Batch 1 PASS / COMPLETE / scans 389–418 / 30 of 93 reviewed / 12 refinements / 0 blockers / 0 Tamil changes**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - outside wording imported — **0**
 
@@ -293,7 +293,24 @@ No source-backed wording or punctuation correction was required in scans 479–4
 - verified-Tamil changes — **0**
 - outside English / outside-witness wording imported — **0**
 - Tamil — **VERIFIED / unchanged**
-- English — **TRANSLATED / awaiting Gate G / verified_against_tamil=false**
+- English — **PARTIALLY GATE-G-REVIEWED / scans 389–418 reviewed / scans 419–481 unchanged from Gate F / verified_against_tamil=false**
+
+## Gate G — Batch 1 / scans 389–418
+
+**PASS / COMPLETE — 30 of 93 English source-page sections reviewed.**
+
+- review authority — **Gate-E-verified Tamil only**
+- reviewed scans — **389–418 / printed pp.388–417 / exactly 30 pages**
+- refinements — **12**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- source-printed English on scans **404 and 411** — **preserved verbatim**
+- source-page boundaries / speaker labels / interventions / figures / repetitions — **preserved**
+- English scans **419–481** modified in this activity — **0**
+- outside English / web / Official Reports / alternate anthologies / released-speech wording imported — **0**
+- detailed before→after ledger — **`translation-review.md`**
+- overall English — **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**
 
 ## Fixed English-work iteration rule
 
@@ -303,6 +320,6 @@ No source-backed wording or punctuation correction was required in scans 479–4
 
 ## Exact next activity
 
-**Gate G Batch 1 — scans 389–418 / printed pp.388–417 / exactly 30 pages.**
+**Gate G Batch 2 — scans 419–448 / printed pp.418–447 / exactly 30 pages.**
 
-Review English only against the Gate-E-verified Tamil. Record all refinements; do not alter verified Tamil or begin Batch 2, Gate H or Speech 18.
+Review English only against the Gate-E-verified Tamil. Record all refinements; do not alter verified Tamil or begin Batch 3, Gate H or Speech 18.
