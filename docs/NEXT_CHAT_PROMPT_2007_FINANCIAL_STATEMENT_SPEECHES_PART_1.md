@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 18 Gate C.5 disposition + Gate D completeness audit
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 18 Gate E Batch 1 — scans 482–491
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -30,64 +30,62 @@ Controlling splits:
 - part020 — Speech-18 local **7–25 / scans 482–500**
 - part021 — Speech-18 local **1–10 / scans 501–510**
 - working-split transition **500→501 — PASS**
-- final continuation **501→502 — PASS**
-- scan 510 source close / ornament — **PASS**
 
-## Gate-C durable state
+## Gate C / C.5 / D durable state
 
-- Gate C — **PASS / COMPLETE**
-- Batch 1 — **482–491 / 10 pages / COMPLETE**
-- Batch 2 — **492–501 / 10 pages / COMPLETE**
-- Batch 3 FINAL — **502–510 / 9 pages / COMPLETE**
-- cumulative first-pass — **29 of 29**
+- Gate C — **PASS / COMPLETE / 29 of 29 first-pass**
 - source-page markers — **482→510 / 29 / exactly once / ordered**
 - first-pass unresolved readings — **0**
-- outside wording imported — **0**
+- Gate C.5 — **N/A / CLOSED**
+- Gate C.5 historical-glyph corrections — **0**
+- Gate C.5 unresolved — **0**
+- Gate D — **PASS / COMPLETE**
+- Gate-D page sections — **29/29**
+- Gate-D internal transitions — **28/28 PASS**
+- Gate-D missing / duplicate / empty sections — **0 / 0 / 0**
+- Gate-D completeness corrections — **0**
+- Gate-D Tamil wording changes — **0**
+- hard boundaries **481→482 / 510→511 — PASS**
+- key continuations **488→489 / 491→492 / 500→501 / 501→502 — PASS**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- Speech-19 wording in Speech-18 record — **0**
-- Gate C.5 — **PROVISIONALLY N/A / pending explicit disposition**
-- page-specific legacy typeform anomaly observed during Gate C — **none**
-- Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
 - Gates F–H — **NOT STARTED**
 - Speech 19 — **NOT STARTED**
 
-Source-visible first-pass forms retained without normalization include:
+Gate D confirmed structural representation of the source heading/speaker label, quotations, figures, repetitions, printed English including `Minimum Level of Consumption`, `"5 acres owning"` and `(Contractor)`, and scan-510 source close.
 
-- scan 482 — `மாண்புமிகு பேரவைத் தலைவரவர்களே`
-- scan 493 — `61.80 பைசா` / `71.30 பைசா`
-- scan 494 — `4 இரண்டு 2 எட்டு ரூபாய்`
-- scan 501 — printed English `"5 acres owning"`
-- scan 502 — `30 இலட்சம் ரூபாய் உபரி விழுந்ததாக`
-- scan 505 — `55,584 டன்` / `64,430 டன்` / `73,000 டன்`
-- scan 506 — printed English `(Contractor)`
-- scans 507–508 — source assurance-count series
-- scan 509 — `ஸ்டே`
-- scan 510 — `1½ கோடி` / `மதமதப்பு`
+## Gate-E fixed cadence
+
+- Batch 1 — **482–491 / printed pp.481–490 / 10 pages**
+- Batch 2 — **492–501 / printed pp.491–500 / 10 pages**
+- Batch 3 FINAL — **502–510 / printed pp.501–509 / 9 pages**
+
+Gate E is strict source-fidelity verification. Gate-D completeness does **not** make the Tamil verified.
 
 ## Source authority
 
-Use only the controlling **2007 anthology pixels** and the existing first-pass transcript.
+Use only the controlling **2007 anthology pixels** for source-fidelity decisions.
 
-Do not import wording from web sources, Official Reports, alternate anthologies, released speeches, other witnesses, or OCR output as a substitute for source reading.
+Do not import wording from web sources, Official Reports, alternate anthologies, released speeches, other witnesses, or OCR output used as a substitute for reading the rendered source.
+
+Preserve source spelling, punctuation, numerals, repetitions, speaker labels/interventions, printed English and source-page boundaries unless the controlling pixels prove the first-pass transcript wrong.
 
 ## Exact next activity
 
-Perform **Speech 18 Gate C.5 disposition + Gate D completeness audit**.
+Perform **Speech 18 Gate E Batch 1 — scans 482–491 / exactly 10 pages**.
 
 Requirements:
 
-1. inspect the completed scans **482–510 / 29 pages** for any actual legacy-typeform issue;
-2. if none is present, close Gate C.5 as **N/A / CLOSED** with **0 historical-glyph corrections / 0 unresolved**;
-3. audit all **29/29** Tamil source-page sections for completeness;
-4. verify exactly **29 ordered markers / 482→510 / no missing / no duplicate / no empty page section**;
-5. verify all **28 internal page transitions** are structurally continuous;
-6. explicitly verify continuations **488→489 / 491→492 / 500→501 / 501→502** and any other visible page-spanning continuation;
-7. reconfirm hard boundaries **481→482 / 510→511 — PASS**;
-8. confirm scan 511 / Speech 19 content remains excluded;
-9. verify speaker labels/interventions, quotations, figures, printed English, repetitions and scan-510 source close are structurally represented;
-10. make **0 Tamil wording changes** unless a separate source-backed completeness defect is discovered and explicitly recorded;
-11. keep Tamil **NOT VERIFIED / verified_against_scan=false** after Gate D; Gate D is completeness, not source-fidelity verification;
-12. synchronize Speech-18 and anthology controls;
-13. if Gate D passes, exact next: **Speech 18 Gate E Batch 1 — scans 482–491 / exactly 10 pages**;
-14. do not begin Gate E or Speech 19 in the same activity.
+1. strictly compare scans **482–491** against the controlling anthology pixels;
+2. verify exactly **10/10** source-page sections;
+3. apply every source-fidelity correction proven by the pixels;
+4. record a correction ledger with scan number, before→after wording and occurrence count;
+5. preserve genuine source-visible oddities rather than normalizing them;
+6. preserve source heading/date, speaker label, figures, quotations, repetitions and page-spanning continuations;
+7. specifically preserve/verify the **488→489** continuation and **491** terminal continuation into scan 492;
+8. import **0 outside wording**;
+9. leave scans **492–510** unchanged;
+10. after Batch 1, Tamil remains **PARTIALLY VERIFIED / verified_against_scan=false** unless the full 29-page Gate E is complete;
+11. synchronize Speech-18 and anthology controls;
+12. exact next after Batch 1: **Gate E Batch 2 — scans 492–501 / exactly 10 pages**;
+13. do not begin Batch 2 or Speech 19 in the same activity.
