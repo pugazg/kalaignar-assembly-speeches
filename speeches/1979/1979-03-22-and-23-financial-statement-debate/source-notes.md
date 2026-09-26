@@ -573,7 +573,7 @@ No source-backed wording or punctuation correction was required in scans 479–4
 - verified-Tamil changes — **0**
 - outside English / web / Official Reports / alternate anthologies / released-speech wording imported — **0**
 - Tamil — **VERIFIED / unchanged**
-- English — **PARTIALLY GATE-G-REVIEWED / scans 389–478 reviewed / scans 479–481 unchanged from Gate F / verified_against_tamil=false**
+- English — **VERIFIED AGAINST TAMIL / scans 389–481 reviewed / verified_against_tamil=true**
 
 ## Gate G — Batch 1 / scans 389–418
 
@@ -634,6 +634,28 @@ No source-backed wording or punctuation correction was required in scans 479–4
 - cumulative review — **389–478 / 90 of 93**
 - overall English — **PARTIALLY GATE-G-REVIEWED / verified_against_tamil=false**
 
+## Gate G — FINAL remainder / scans 479–481
+
+**PASS / COMPLETE — 3 pages; cumulative 93 of 93 English source-page sections reviewed. Gate G CLOSED.**
+
+- review authority — **Gate-E-verified Tamil only**
+- reviewed scans — **479–481 / printed pp.478–480 / exactly 3 pages**
+- FINAL-remainder refinements — **5**
+- cumulative Gate-G refinements — **43**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- pre-existing **478→479** continuation — **PASS / preserved**
+- **480→481** continuation — **restored / PASS**
+- scan **481** source close / ornament — **PASS / preserved**
+- hard boundary **481→482** — **PASS / Speech 18 excluded**
+- source-visible scan-481 `1-1-58க்குள்` — **preserved without normalization**
+- English scans **389–478** modified in this activity — **0**
+- outside English / web / Official Reports / alternate anthologies / released-speech wording imported — **0**
+- cumulative review — **389–481 / 93 of 93**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
+
 ## Fixed English-work iteration rule
 
 - Gate F — **30 source pages per iteration**
@@ -642,6 +664,6 @@ No source-backed wording or punctuation correction was required in scans 479–4
 
 ## Exact next
 
-**Gate G FINAL remainder — scans 479–481 / exactly 3 pages.**
+**Speech 17 Gate H archival/release audit.**
 
-Review maintained English only against Gate-E-verified Tamil. Do not alter Tamil or begin Gate H or Speech 18.
+Audit the verified Tamil and verified English as the canonical bilingual pair. Preserve the one-unit multi-date policy and 481→482 boundary. Do not begin Speech 18.
