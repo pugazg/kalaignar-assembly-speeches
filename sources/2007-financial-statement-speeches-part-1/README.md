@@ -572,7 +572,7 @@ Working entry:
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS / Batches 1–7 COMPLETE / scans 389–458 / 70 of 93 / 31 corrections / 0 unresolved**
+- Gate E — **IN PROGRESS / Batches 1–8 COMPLETE / scans 389–468 / 80 of 93 / 35 corrections / 0 unresolved**
 - Gates F–H — **NOT STARTED**
 - outside wording imported — **0**
 
@@ -695,8 +695,23 @@ Corrections, including the scan-442→443 source-page relocation, are recorded i
 
 Corrections are recorded in the speech verification log.
 
+## Speech 17 Gate E Batch 8
+
+**PASS / COMPLETE — scans 459–468 / 80 of 93 cumulative verified.**
+
+- correction ledger — **4 entries / 4 occurrences in Batch 8**
+- affected scans — **4 — scans 459, 463, 465, 468**
+- cumulative Gate-E corrections — **35 entries / 35 occurrences**
+- cumulative affected scans — **27**
+- unresolved — **0**
+- source-printed English on scans **459–460** — **preserved verbatim**
+- scans 469–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Corrections are recorded in the speech verification log.
+
 ## Exact next activity
 
-**Speech 17 Gate E Batch 8 — scans 459–468 / printed pp.458–467 / exactly 10 pages.**
+**Speech 17 Gate E Batch 9 — scans 469–478 / printed pp.468–477 / exactly 10 pages.**
 
-Preserve source-printed English on scans **459–460**. Do not begin Batch 9, Gate F or Speech 18 in the same activity.
+Preserve source-printed English on scan **474** and split continuation **475→476**. Do not begin Batch 10, Gate F or Speech 18 in the same activity.

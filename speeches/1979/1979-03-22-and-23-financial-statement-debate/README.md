@@ -60,7 +60,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - `verified_against_scan=false`
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batches 1–7 COMPLETE / scans 389–458 / 70 of 93 verified / 31 corrections / 0 unresolved**
+- Gate E — **IN PROGRESS — Batches 1–8 COMPLETE / scans 389–468 / 80 of 93 verified / 35 corrections / 0 unresolved**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -229,8 +229,23 @@ No outside wording was imported. Source-visible scan-444 `1.3.79ம்`, scan-44
 
 No other source-backed wording or punctuation correction was found in scans 449–458. Source-visible scan-453 `கோசிஜீனைப்` / `சித்தாந்தந்தான்`, scan-454 `நம்பிக் கொடுத்தேன்`, scan-455 `நாட்டுடைமையாக்கப்பட்டதா`, and scan-458 `தாமம் தலை கோடிக்குச் செல்லும்` were retained.
 
+## Gate E Batch 8 result
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — scans 459–468 / 10 pages; cumulative 80 of 93.**
+
+- Batch-8 corrections — **4 entries / 4 occurrences**
+- affected scans — **4 — scans 459, 463, 465, 468**
+- cumulative Gate-E corrections — **35 entries / 35 occurrences**
+- cumulative affected scans — **27**
+- unresolved — **0**
+- source-printed English on scans 459–460 — **preserved verbatim**
+- scans 469–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+No other source-backed wording or punctuation correction was found in scans 459–468. Source-visible scan-462 `1979-89இல் 137 லட்சம்`, scan-465 `எ.ஆர்.டி.சி.`, scan-467 `பீஸ்பிலிட்டி ரிப்போர்ட்`, and scan-468 `சொன்ன தெல்லாம்` were retained.
+
 ## Exact next activity
 
-**Gate E Batch 8 — scans 459–468 / printed pp.458–467 / exactly 10 pages.**
+**Gate E Batch 9 — scans 469–478 / printed pp.468–477 / exactly 10 pages.**
 
-Preserve source-printed English on scans **459–460**. Do not begin Batch 9, Gate F or Speech 18 in the same activity.
+Preserve source-printed English on scan **474** and split continuation **475→476**. Do not begin Batch 10, Gate F or Speech 18 in the same activity.

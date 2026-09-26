@@ -504,12 +504,46 @@ Gate-E Batch-7 correction ledger:
 
 No other source-backed wording or punctuation correction was found in scans 449–458. Source-visible scan-453 `கோசிஜீனைப்` / `சித்தாந்தந்தான்`, scan-454 `நம்பிக் கொடுத்தேன்`, scan-455 `நாட்டுடைமையாக்கப்பட்டதா`, scan-458 `தாமம் தலை கோடிக்குச் செல்லும்`, and the embedded English on scans 457–458 were retained without normalization.
 
+## Gate E — Batch 8 / scans 459–468
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 pages; cumulative 80 of 93.**
+
+Coverage:
+
+- verified scans — **459–468**
+- verified printed pages — **458–467**
+- verified pages — **10/10 in batch; cumulative 80/93**
+- split/local coverage — **part019 local 9–18**
+- source markers in batch — **459→468 / 10 / exactly once / ordered**
+- Gate-E Batch-8 correction ledger — **4 entries / 4 occurrences**
+- Batch-8 affected scans — **4 — scans 459, 463, 465, 468**
+- cumulative Gate-E corrections — **35 entries / 35 occurrences**
+- cumulative affected scans — **27**
+- unresolved readings — **0**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- source-printed English on scans **459–460** — **preserved verbatim**
+- scans **469–481** modified in this activity — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Gate-E Batch-8 correction ledger:
+
+1. **scan 459 / printed p.458** — `என்பதைத் தீவிரமாக நாம்` → `என்பதை தீவிரமாக நாம்`
+   - the rendered source has no `த்` after `என்பதை`.
+2. **scan 463 / printed p.462** — `அரசு நகர்ப்புற வளர்ச்சி நிதியில் இருந்து` → `அரசு நகர்புற வளர்ச்சி நிதியில் இருந்து`
+   - the rendered source prints `நகர்புற`.
+3. **scan 465 / printed p.464** — `வங்கிகள் மூலமாக செயல்படுத்திக் கொண்டிருக்கிறது` → `வங்கிகள் மூலமாக செயல்படுத்துக் கொண்டிருக்கிறது`
+   - the rendered source prints `செயல்படுத்துக்`.
+4. **scan 468 / printed p.467** — `நான் சொல்வதைக் கேட்டு விட்டு அவர்கள் பதில் சொல்லலாம்.` → `நான் சொல்வதைக் கேட்டுவிட்டு அவர்கள் பதில் சொல்லலாம்.`
+   - the rendered source prints joined `கேட்டுவிட்டு`.
+
+No other source-backed wording or punctuation correction was found in scans 459–468. Source-visible scan-462 `1979-89இல் 137 லட்சம்`, scan-465 `எ.ஆர்.டி.சி.`, scan-467 `பீஸ்பிலிட்டி ரிப்போர்ட்`, scan-468 `சொன்ன தெல்லாம்`, and all source-printed English on scans 459–460 were retained without normalization.
+
 ## Downstream state
 
 - Gate C — **COMPLETE / 93 of 93**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS / 70 of 93 verified**
+- Gate E — **IN PROGRESS / 80 of 93 verified**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -517,4 +551,4 @@ No other source-backed wording or punctuation correction was found in scans 449�
 
 ## Exact next activity
 
-**Speech 17 Gate E Batch 8 — scans 459–468 / printed pp.458–467 / exactly 10 pages. Preserve source-printed English on scans 459–460.**
+**Speech 17 Gate E Batch 9 — scans 469–478 / printed pp.468–477 / exactly 10 pages. Preserve source-printed English on scan 474 and split continuation 475→476.**

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate E Batch 8 — scans 459–468
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate E Batch 9 — scans 469–478
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -26,23 +26,22 @@ Gate state:
 - Gate C — **COMPLETE / 93 of 93 first-pass**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 93 of 93 / 92 of 92 internal transitions / 0 completeness corrections**
-- Gate E Batches 1–7 — **PASS / COMPLETE through scans 449–458 / 70 pages**
-- Gate-E cumulative verified pages — **70 of 93**
-- Gate-E cumulative corrections — **31 entries / 31 occurrences**
-- Gate-E cumulative affected scans — **23**
+- Gate E Batches 1–8 — **PASS / COMPLETE through scans 459–468 / 80 pages**
+- Gate-E cumulative verified pages — **80 of 93**
+- Gate-E cumulative corrections — **35 entries / 35 occurrences**
+- Gate-E cumulative affected scans — **27**
 - unresolved Gate-E readings — **0**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - Gates F–H — **NOT STARTED**
 - Speech 18 — **NOT STARTED**
 - outside wording imported — **0**
 
-Gate-E Batch-7 corrections:
+Gate-E Batch-8 corrections:
 
-- scan 449 — `ஏற்கனவே போடப்பட்ட வரிகளை` → `ஏற்கனவே போட்டப்பட்ட வரிகளை`
-- scan 451 — `கிளைவ் ஆஸ்டலில் நடந்துபெற்ற சம்பவத்தைக் காண` → `கிளைவ் ஆஸ்டலில் நடைபெற்ற சம்பவத்தைக் காண`
-- scan 452 — `மதுவிலக்கு நிறைவேற்றப் பெற வேண்டும்` → `மது விலக்கு நிறைவேற்றப் பெற வேண்டும்`
-- scan 458 — `இது அவருக்குத் தெரியாத்தல்ல` → `இது அவருக்குத் தெரியாததல்ல`
-- scan 458 — `கடை கோடியிலிருக்கும் மக்கள்` → `கடை கோடியில் இருக்கும் மக்கள்`
+- scan 459 — `என்பதைத் தீவிரமாக நாம்` → `என்பதை தீவிரமாக நாம்`
+- scan 463 — `நகர்ப்புற வளர்ச்சி நிதியில்` → `நகர்புற வளர்ச்சி நிதியில்`
+- scan 465 — `செயல்படுத்திக் கொண்டிருக்கிறது` → `செயல்படுத்துக் கொண்டிருக்கிறது`
+- scan 468 — `கேட்டு விட்டு அவர்கள் பதில் சொல்லலாம்` → `கேட்டுவிட்டு அவர்கள் பதில் சொல்லலாம்`
 
 ## Fixed Gate-E iteration rule
 
@@ -51,18 +50,19 @@ Gate-E Batch-7 corrections:
 
 ## Exact next activity
 
-Perform **Speech 17 Gate E Batch 8 — scans 459–468 / printed pp.458–467 / exactly 10 pages**.
+Perform **Speech 17 Gate E Batch 9 — scans 469–478 / printed pp.468–477 / exactly 10 pages**.
 
 Requirements:
 
 1. compare the current Tamil transcription directly against rendered pixels of the controlling anthology only;
-2. apply every source-supported fidelity correction found in scans **459–468**;
+2. apply every source-supported fidelity correction found in scans **469–478**;
 3. preserve source spelling, punctuation, numerals, speaker labels/interventions, repetition and source-printed English;
 4. record every correction with scan number and before→after wording;
 5. import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other outside witnesses;
 6. keep the multi-date source-unit policy unchanged and do not invent a page-level date split;
-7. preserve source-printed English on scans **459–460**;
-8. leave scans **469–481** unchanged in this activity;
-9. after success, synchronize Speech-17 and anthology controls;
-10. exact next: **Gate E Batch 9 — scans 469–478 / exactly 10 pages**, preserving split continuation **475→476**;
-11. do not begin Batch 9, Gate F or Speech 18 in the same activity.
+7. preserve source-printed English on scan **474**;
+8. preserve and verify the working-split continuation **475→476**;
+9. leave scans **479–481** unchanged in this activity;
+10. after success, synchronize Speech-17 and anthology controls;
+11. exact next: **Gate E Batch 10 FINAL — scans 479–481 / exactly 3 pages**;
+12. do not begin Batch 10, Gate F or Speech 18 in the same activity.

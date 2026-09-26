@@ -95,7 +95,7 @@ Treat this 2007 anthology as its own witness.
 - Gate C — **Speeches 1–17 COMPLETE; speeches 18–19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–17**
 - Gate D — **PASS / COMPLETE for Speeches 1–17**
-- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–16; Speech 17 IN PROGRESS / 70 of 93 verified; speeches 18–19 not started**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–16; Speech 17 IN PROGRESS / 80 of 93 verified; speeches 18–19 not started**
 - Gate F — **COMPLETE for Speeches 1–16; speeches 17–19 not started**
 - Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–16; speeches 17–19 not started**
 - Gate H — **Speeches 1–16 PASS / COMPLETE — RELEASED / CLOSED; speeches 17–19 not started**
@@ -844,7 +844,7 @@ Working entry:
 - source-visible forms retained — **scan 389 `196667ஆம்`; scan 395 `ஏட்டுச் சித்திரங்களாக`; scan 398 `அன்னியில்`; scan 400 `18ந்தேதி`; scan 402 `மூன்றாவது புதிய குழுவின்`; scan 407 `செளந்திரராசன்`; scan 409 `5.1.73`; scan 416 `ப்ரூஃப் லிட்டர்`; scan 417 `அன்ரெஸ்டிரிக்டட்` / `காம்பனண்ட்ஸ் பென்சாயின்` / `சோப் எலிமென்ட்`; scan 419 `ஜார்ஜ் பெர்னான்ட்ஸ்`; scan 420 `எ2/36745/76`; scan 427 `நாலரை ரூபாய் ஆராதி`; scan 431 `மிஸ்ஸி`; scan 432 `அனுப்பு வதற்கு`; scan 436 `அப்பொழுதி லிருந்தே`; scan 437 `தெரியப் படுத்தி விட்டேன்`; scan 438 `குற்றங்களே`; scan 444 `1.3.79ம்`; scan 445 `1-30`; scan 446 `தெங்கைகொண்டான்`;  scan 448 `ஆட்சேபணை சங்கராச்சாரியாரால்கூட அல்ல`; scan 453 `கோசிஜீனைப்` / `சித்தாந்தந்தான்`; scan 454 `நம்பிக் கொடுத்தேன்`; scan 455 `நாட்டுடைமையாக்கப்பட்டதா`; scan 458 `தாமம் தலை கோடிக்குச் செல்லும்`; scan 435 source footnote preserved; scans 404, 411, 425 and 426 source-printed English preserved; scans 457–458 embedded English `Ivory tower` / `down to earth approach` preserved**
 - Gate C.5 — **N/A / CLOSED / 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE / 93/93 pages / 92/92 transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS / Batches 1–7 COMPLETE / scans 389–458 / 70 of 93 / 31 corrections / 0 unresolved**
+- Gate E — **IN PROGRESS / Batches 1–8 COMPLETE / scans 389–468 / 80 of 93 / 35 corrections / 0 unresolved**
 - Gates F–H — **NOT STARTED**
 - Speech 18 — **NOT STARTED**
 - outside wording imported — **0**
@@ -989,6 +989,24 @@ Hard boundaries **388→389 / 481→482** and working-split continuations **400�
 - scans 459–481 changed — **0**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 
-## Exact next activity — Speech 17 Gate E Batch 8
+## Speech 17 Gate E Batch 8 result
 
-Verify **scans 459–468 / printed pp.458–467 / exactly 10 pages** against the controlling anthology pixels. Apply only source-supported fidelity corrections, record every correction, and keep the multi-date policy unchanged. Do not begin Batch 9, Gate F or Speech 18.
+**PASS / COMPLETE — scans 459–468 / 80 of 93 cumulative verified.**
+
+- Batch-8 source-fidelity corrections — **4 entries / 4 occurrences**
+- affected scans — **4 — scans 459, 463, 465, 468**
+- corrections:
+  - scan 459 — `என்பதைத் தீவிரமாக நாம்` → `என்பதை தீவிரமாக நாம்`
+  - scan 463 — `நகர்ப்புற வளர்ச்சி நிதியில்` → `நகர்புற வளர்ச்சி நிதியில்`
+  - scan 465 — `செயல்படுத்திக் கொண்டிருக்கிறது` → `செயல்படுத்துக் கொண்டிருக்கிறது`
+  - scan 468 — `கேட்டு விட்டு அவர்கள் பதில் சொல்லலாம்` → `கேட்டுவிட்டு அவர்கள் பதில் சொல்லலாம்`
+- cumulative Gate-E corrections — **35 entries / 35 occurrences**
+- cumulative affected scans — **27**
+- unresolved — **0**
+- source-printed English on scans 459–460 — **preserved verbatim**
+- scans 469–481 changed — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+## Exact next activity — Speech 17 Gate E Batch 9
+
+Verify **scans 469–478 / printed pp.468–477 / exactly 10 pages** against the controlling anthology pixels. Apply only source-supported fidelity corrections, record every correction, preserve source-printed English on scan **474**, preserve split continuation **475→476**, and keep the multi-date policy unchanged. Do not begin Batch 10, Gate F or Speech 18.

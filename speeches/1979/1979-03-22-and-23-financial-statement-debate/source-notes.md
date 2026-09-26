@@ -460,8 +460,37 @@ No other source-backed wording or punctuation correction was found in scans 449�
 
 Gate E remains **IN PROGRESS**.
 
+## Gate E — Batch 8 / scans 459–468
+
+**PASS / COMPLETE — 10 pages; cumulative 80 of 93.**
+
+- verified scans — **459–468**
+- verified printed pages — **458–467**
+- controlling local pages — **part019 local 9–18**
+- markers — **459→468 / exactly once / ordered**
+- source-fidelity corrections — **4 entries / 4 occurrences**
+- affected scans — **4 — scans 459, 463, 465, 468**
+- cumulative Gate-E corrections — **35 entries / 35 occurrences**
+- cumulative affected scans — **27**
+- unresolved readings — **0**
+- source-printed English on scans 459–460 — **preserved verbatim**
+- outside wording imported — **0**
+- scans 469–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Corrections:
+
+1. scan 459 / printed p.458 — `என்பதைத் தீவிரமாக நாம்` → `என்பதை தீவிரமாக நாம்`
+2. scan 463 / printed p.462 — `அரசு நகர்ப்புற வளர்ச்சி நிதியில் இருந்து` → `அரசு நகர்புற வளர்ச்சி நிதியில் இருந்து`
+3. scan 465 / printed p.464 — `வங்கிகள் மூலமாக செயல்படுத்திக் கொண்டிருக்கிறது` → `வங்கிகள் மூலமாக செயல்படுத்துக் கொண்டிருக்கிறது`
+4. scan 468 / printed p.467 — `நான் சொல்வதைக் கேட்டு விட்டு அவர்கள் பதில் சொல்லலாம்.` → `நான் சொல்வதைக் கேட்டுவிட்டு அவர்கள் பதில் சொல்லலாம்.`
+
+No other source-backed wording or punctuation correction was found in scans 459–468. Source-visible scan-462 `1979-89இல் 137 லட்சம்`, scan-465 `எ.ஆர்.டி.சி.`, scan-467 `பீஸ்பிலிட்டி ரிப்போர்ட்`, scan-468 `சொன்ன தெல்லாம்`, and all source-printed English on scans 459–460 were retained.
+
+Gate E remains **IN PROGRESS**.
+
 ## Exact next
 
-**Gate E Batch 8 — scans 459–468 / exactly 10 pages.**
+**Gate E Batch 9 — scans 469–478 / exactly 10 pages.**
 
-Preserve source-printed English on scans **459–460**.
+Preserve source-printed English on scan **474** and working-split continuation **475→476**.
