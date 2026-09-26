@@ -883,8 +883,22 @@ Source-visible final-batch forms retained without normalization:
 - scans **492–510** changed in Batch 1 — **0**
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 
+## Speech 18 Gate C Batch 2 result
+
+**PASS / COMPLETE — scans 492–501 / exactly 10 pages; cumulative 20 of 29 first-pass transcribed.**
+
+- source-page markers — **482→501 / 20 / exactly once / ordered**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- **491→492** continuation — **preserved**
+- working-split transition **500→501** — **PASS / preserved**
+- scan **501** remains open into scan 502; no final-batch wording imported
+- scans **502–510** changed in Batch 2 — **0**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+
 ## Exact next activity
 
-**Speech 18 Gate C Batch 2 — scans 492–501 / printed pp.491–500 / exactly 10 pages.**
+**Speech 18 Gate C Batch 3 FINAL — scans 502–510 / printed pp.501–509 / exactly 9 pages.**
 
-This batch crosses part020→part021: scans 492–500 are part020 local 17–25 and scan 501 is part021 local 1. Use only the controlling anthology pixels and do not begin the final batch.
+Use part021 local pages 2–10 only. Preserve the scan-501→502 continuation, the scan-510 close, and hard boundary 510→511. Do not begin Speech 19.
