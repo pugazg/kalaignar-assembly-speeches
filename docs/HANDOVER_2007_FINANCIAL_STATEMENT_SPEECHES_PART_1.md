@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 17 / `22 & 23.3.1979` = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–17 are released**. Speech 17 remains one source-preserved multi-date unit with no internal date split and no single canonical date; it is intentionally absent from the single-date root/data indexes. Speech 18 / `09.07.1980` is next and has not started.
+Latest released unit: Speech 17 / `22 & 23.3.1979` = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–17 are released**. Speech 18 / `09.07.1980` source intake + Gate-C setup is now **COMPLETE** for scans **482–510 / 29 pages**; Tamil transcription has **not started**.
 
 ## Existing-source overlaps
 
@@ -92,8 +92,8 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–17 COMPLETE; speeches 18–19 not started**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–17**
+- Gate C — **Speeches 1–17 COMPLETE; Speech 18 SETUP COMPLETE / 0 of 29 transcribed; Speech 19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–17; Speech 18 provisionally N/A / not closed**
 - Gate D — **PASS / COMPLETE for Speeches 1–17**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–17; speeches 18–19 not started**
 - Gate F — **COMPLETE for Speeches 1–17; speeches 18–19 not started**
@@ -1144,6 +1144,28 @@ Source-visible final-batch forms retained without normalization include scan 479
 - root dated table / `data/speeches.json` — **unchanged intentionally**
 - release — **RELEASED / CLOSED**
 
-## Exact next activity — Speech 18 source intake / Gate C setup
+## Speech 18 source intake + Gate C setup
 
-Begin **scans 482–510 / printed pp.481–509 / உரை : 18 / 09.07.1980**. Speech 17 is RELEASED / CLOSED and frozen; do not reopen it without a separate source-backed defect.
+**PASS / COMPLETE — setup only; transcription not started.**
+
+- working entry — `speeches/1980/1980-07-09-financial-statement-debate/`
+- source label/date — **உரை : 18 / 09.07.1980**
+- canonical date — **1980-07-09**
+- scans — **482–510 / printed pp.481–509 / 29 pages**
+- incoming boundary **481→482** — **PASS**
+- outgoing boundary **510→511** — **PASS**
+- part020 Speech-18 coverage — **local 7–25 / scans 482–500 / 19 pages**
+- part021 Speech-18 coverage — **local 1–10 / scans 501–510 / 10 pages**
+- part020 SHA-256 — `74d09c34f8ee6293e91895dbcc20fe651c314fe8f89f3241585e290a8674e1df`
+- part021 SHA-256 — `d32d5b4559b68d81675d80e9bb535e1a0e8eaf6861a6eb037ffb357fad5c92c2`
+- scan 511 / part021 local 11 — **Speech 19 / உரை : 19 / 06.03.1982 start / excluded**
+- Tamil — **NOT TRANSCRIBED / verified_against_scan=false**
+- Gate C — **SETUP COMPLETE / NOT STARTED**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+- Gates D–H — **NOT STARTED**
+- planned Gate-C batches — **482–491 / 492–501 / 502–510 FINAL**
+- outside wording imported — **0**
+
+## Exact next activity — Speech 18 Gate C Batch 1
+
+Transcribe **scans 482–491 / printed pp.481–490 / exactly 10 pages** from the controlling 2007 anthology pixels only. Preserve source spelling, punctuation, numerals, repetitions, speaker labels/interventions, printed English and page boundaries. Do not begin Batch 2.
