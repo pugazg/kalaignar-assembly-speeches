@@ -131,7 +131,7 @@
     "next_gate_f_batch": null,
     "gate_g_iteration_page_limit": 30,
     "gate_g_final_remainder_may_be_under_limit": true,
-    "current_gate_g_batch": "449-478 / 30 pages / PASS-COMPLETE / 9 refinements",
+    "current_gate_g_batch": "449-478 / 30 pages / PASS-COMPLETE / 10 refinements",
     "next_gate_g_batch": "479-481 / FINAL remainder / exactly 3 pages"
   },
   "transcription": {
@@ -271,7 +271,7 @@
     },
     "gate_g_reviewed_scans": "389-478",
     "gate_g_reviewed_page_count": 90,
-    "gate_g_refinement_count": 37,
+    "gate_g_refinement_count": 38,
     "gate_g_blocking_issue_count": 0,
     "gate_g_verified_tamil_changes": 0,
     "gate_g_source_printed_english_changes": 0,
@@ -284,9 +284,9 @@
       "batches": [
         "389-418 / 30 pages / 12 refinements",
         "419-448 / 30 pages / 16 refinements",
-        "449-478 / 30 pages / 9 refinements"
+        "449-478 / 30 pages / 10 refinements"
       ],
-      "refinement_count": 37,
+      "refinement_count": 38,
       "blocking_issue_count": 0,
       "verified_tamil_changes": 0,
       "source_printed_english_changes": 0,
