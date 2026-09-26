@@ -25,7 +25,7 @@ Translation authority: the final Gate-E-verified Tamil in `transcript.md` only.
 Review authority: the final Gate-E-verified Tamil in `transcript.md` only.
 
 - reviewed scans — **389–478 / printed pp.388–477 / 90 pages**
-- refinements — **37 cumulative — Batch 1: 12 / Batch 2: 16 / Batch 3: 9**
+- refinements — **38 cumulative — Batch 1: 12 / Batch 2: 16 / Batch 3: 10**
 - blockers — **0**
 - verified-Tamil changes — **0**
 - source-printed-English changes — **0**
@@ -112,6 +112,7 @@ Review authority: the final Gate-E-verified Tamil in `transcript.md` only.
 7. **scan 468** — `We know very well the measure of responsibility with which you behaved in judicial inquiries` → `We know very well the kind of responsibility you showed in judicial inquiries`, preserving the critical tone without the literal calque.
 8. **scans 470→471** — moved the phrase about the people coming forward and giving support, including the quoted appeal, to the end of scan 470 so the English follows the verified Tamil boundary at `ஆதரவு / தந்தபோது`.
 9. **scan 472** — `it is through the irregularities arising in a matter ... that it becomes known that something occurred in it` → `it is by examining the irregularities in a matter ... that we know something happened in it`, preserving the conditional argument in clearer English.
+10. **scan 473** — `I have no fear about this, nothing here to accept, and I am not shaken by it.` → `I have no fear about this, nothing here for me to concede, and I am not shaken by it.`, preserving the speaker's refusal while removing the opaque literal phrase.
 
 ### Gate-G Batch-3 checks
 
@@ -127,7 +128,7 @@ Review authority: the final Gate-E-verified Tamil in `transcript.md` only.
 - English scans **389–448** changes in Batch 3 — **0**
 - English scans **479–481** changes in Batch 3 — **0**
 - outside wording imported from web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
-- cumulative Gate-G review — **90/93 pages / 37 refinements**
+- cumulative Gate-G review — **90/93 pages / 38 refinements**
 - English — **PARTIALLY GATE-G-REVIEWED**
 - `verified_against_tamil=false`
 
