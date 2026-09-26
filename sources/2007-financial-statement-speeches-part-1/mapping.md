@@ -66,7 +66,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 14 | `10.03.1975` | 1975-03-10 | 263–319 | 262–318 | `1975-03-10-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 15 | `03.08.1977` | 1977-08-03 | 320–355 | 319–354 | `1977-08-03-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 16 | `1.3.1978` | 1978-03-01 | 356–388 | 355–387 | `1978-03-01-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
-| 17 | `22 & 23.3.1979` | **multi-date source unit: 1979-03-22 and 1979-03-23; no explicit internal date divider found** | 389–481 | 388–480 | `1979-03-22-and-23-financial-statement-debate`; **Gate C COMPLETE / scans 389–481 / 93 of 93 first-pass / Tamil TRANSCRIBED-NOT-VERIFIED; no single canonical date assigned** |
+| 17 | `22 & 23.3.1979` | **multi-date source unit: 1979-03-22 and 1979-03-23; no explicit internal date divider found; no single canonical date assigned** | 389–481 | 388–480 | `1979-03-22-and-23-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete; intentionally not added to single-date root/data indexes** |
 | 18 | `09.07.1980` | 1980-07-09 | 482–510 | 481–509 | `1980-07-09-financial-statement-debate` |
 | 19 | `06.03.1982` | 1982-03-06 | 511–545 | 510–544 | `1982-03-06-financial-statement-debate` |
 
@@ -128,7 +128,7 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate E — **Speeches 1–17 PASS / COMPLETE / Tamil VERIFIED; speeches 18–19 not started**
 - Gate F — **Speeches 1–17 COMPLETE; speeches 18–19 not started**
 - Gate G — **Speeches 1–17 PASS / COMPLETE / English VERIFIED; Speech 17 totals 93 of 93 reviewed / 43 cumulative refinements; speeches 18–19 not started**
-- Gate H — **Speeches 1–16 PASS / COMPLETE — RELEASED / CLOSED; Speech 17 READY / NOT STARTED; speeches 18–19 not started**
+- Gate H — **Speeches 1–17 PASS / COMPLETE — RELEASED / CLOSED; speeches 18–19 not started**
 - Speech 13 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED / RELEASED-CLOSED / 7 Gate-G refinements / 0 blockers / 0 Gate-H wording changes**
 
 ## Gate-H boundary / release check for Speeches 4–5
@@ -342,8 +342,8 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 - `data/speeches.json` — **indexed**
 - root dated speech table — **indexed**
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / canonical bilingual complete / indexed**
-- Speech 17 — **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E PASS-COMPLETE 93 of 93 / 37 corrections / 0 unresolved / Tamil VERIFIED / Gate F COMPLETE 93 of 93 / Gate G PASS-COMPLETE 93 of 93 / 43 cumulative refinements / English VERIFIED AGAINST TAMIL / Gate H READY-NOT-STARTED / multi-date source unit / no single canonical date assigned**
+- Speech 17 — **Gate C–H COMPLETE / Tamil VERIFIED / English VERIFIED / 37 Gate-E corrections / 43 Gate-G refinements / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / canonical bilingual complete / multi-date source unit / no single canonical date / intentionally absent from single-date indexes**
 
 ## Exact continuation
 
-Continue **Speech 17 Gate H archival/release audit**. Audit the Gate-E-verified Tamil and Gate-G-verified English as the canonical bilingual pair; preserve the one-unit multi-date policy and 481→482 boundary; do not assign a single canonical date and do not begin Speech 18.
+Continue **Speech 18 source intake / Gate C setup — scans 482–510 / printed pp.481–509 / உரை : 18 / 09.07.1980**. Speech 17 is RELEASED / CLOSED and must remain frozen unless a separate source-backed defect is discovered.
