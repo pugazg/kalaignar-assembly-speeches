@@ -60,13 +60,13 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - `verified_against_scan=false`
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batches 1–6 COMPLETE / scans 389–448 / 60 of 93 verified / 26 corrections / 0 unresolved**
+- Gate E — **IN PROGRESS — Batches 1–7 COMPLETE / scans 389–458 / 70 of 93 verified / 31 corrections / 0 unresolved**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - outside wording imported — **0**
 
-Source-visible first-pass forms retained rather than normalized include scan 389 **`196667ஆம்`**, scan 395 **`ஏட்டுச் சித்திரங்களாக`**, scan 398 **`அன்னியில்`**, scan 400 **`18ந்தேதி`**, scan 402 **`மூன்றாவது புதிய குழுவின்`**, scan 407 **`செளந்திரராசன்`**, scan 409 **`5.1.73`**, scan 416 **`ப்ரூஃப் லிட்டர்`**, scan 417 **`அன்ரெஸ்டிரிக்டட்` / `காம்பனண்ட்ஸ் பென்சாயின்` / `சோப் எலிமென்ட்`**, scan 419 **`ஜார்ஜ் பெர்னான்ட்ஸ்`**, scan 427 **`நாலரை ரூபாய் ஆராதி`**, scan 431 **`மிஸ்ஸி`**, scan 432 **`கேட்டபதிலிருந்து` / `அனுப்பு வதற்கு`**, scan 436 **`அப்பொழுதி லிருந்தே`**, scan 437 **`தெரியப் படுத்தி விட்டேன்`**, scan 438 **`குற்றங்களே`**, scan 444 **`1.3.79ம்`**, scan 445 **`1-30`**, scan 446 **`தெங்கைகொண்டான்`**, scan 447 **`வைக்கப்பட்ட வேண்டுமென்று`**, scan 448 **`ஆட்சேபணை சங்கராச்சாரியாரால்கூட அல்ல`**, scan 453 **`கோசிஜீனைப்` / `சித்தாந்தந்தான்`**, scan 454 **`நம்பிக் கொடுத்தேன்`**, scan 455 **`நாட்டுடைமையாக்கப்பட்டதா`**, scan 458 **`தாமம் தலை கோடிக்குச் செல்லும்`**, scan 462 **`1979-89இல் 137 லட்சம்`**, scan 465 **`எ.ஆர்.டி.சி.`**, scan 467 **`பீஸ்பிலிட்டி ரிப்போர்ட்`**, and scan 468 **`சொன்ன தெல்லாம்`**, scan 470 **`கட்டிக்கழிக்கவில்லை`**, scan 471 **`அமைச்சராக இருக்கின்ற திரு. செளந்திரராஜன் அவர்கள் பெற்றவர்கள்`**, scan 474 source English **`They are stopped.`**, scan 477 **`சாது மிரண்டால் காடு தாங்காது`**, and scan 478 **`120 அடிக்கு மேலாக`**, scan 479 **`கல்நாட்டு விழாச் செய்து` / `நிறைவேற்று வதற்கு`**, scan 480 **`பார்சல் சேலஞ்சாக` / `பேரணாம்பேடு`**, and scan 481 **`1-1-58க்குள்`**. The source footnote on scan 435 is preserved; source-printed English on scans 404, 411, 425, 426, 459, 460 and 474 and embedded English `Ivory tower` / `down to earth approach` on scans 457–458 are preserved. Scan 481 closes Speech 17 with the source ornament; scan 482 begins Speech 18 and is excluded.
+Source-visible first-pass forms retained rather than normalized include scan 389 **`196667ஆம்`**, scan 395 **`ஏட்டுச் சித்திரங்களாக`**, scan 398 **`அன்னியில்`**, scan 400 **`18ந்தேதி`**, scan 402 **`மூன்றாவது புதிய குழுவின்`**, scan 407 **`செளந்திரராசன்`**, scan 409 **`5.1.73`**, scan 416 **`ப்ரூஃப் லிட்டர்`**, scan 417 **`அன்ரெஸ்டிரிக்டட்` / `காம்பனண்ட்ஸ் பென்சாயின்` / `சோப் எலிமென்ட்`**, scan 419 **`ஜார்ஜ் பெர்னான்ட்ஸ்`**, scan 427 **`நாலரை ரூபாய் ஆராதி`**, scan 431 **`மிஸ்ஸி`**, scan 432 **`அனுப்பு வதற்கு`**, scan 436 **`அப்பொழுதி லிருந்தே`**, scan 437 **`தெரியப் படுத்தி விட்டேன்`**, scan 438 **`குற்றங்களே`**, scan 444 **`1.3.79ம்`**, scan 445 **`1-30`**, scan 446 **`தெங்கைகொண்டான்`**,  scan 448 **`ஆட்சேபணை சங்கராச்சாரியாரால்கூட அல்ல`**, scan 453 **`கோசிஜீனைப்` / `சித்தாந்தந்தான்`**, scan 454 **`நம்பிக் கொடுத்தேன்`**, scan 455 **`நாட்டுடைமையாக்கப்பட்டதா`**, scan 458 **`தாமம் தலை கோடிக்குச் செல்லும்`**, scan 462 **`1979-89இல் 137 லட்சம்`**, scan 465 **`எ.ஆர்.டி.சி.`**, scan 467 **`பீஸ்பிலிட்டி ரிப்போர்ட்`**, and scan 468 **`சொன்ன தெல்லாம்`**, scan 470 **`கட்டிக்கழிக்கவில்லை`**, scan 471 **`அமைச்சராக இருக்கின்ற திரு. செளந்திரராஜன் அவர்கள் பெற்றவர்கள்`**, scan 474 source English **`They are stopped.`**, scan 477 **`சாது மிரண்டால் காடு தாங்காது`**, and scan 478 **`120 அடிக்கு மேலாக`**, scan 479 **`கல்நாட்டு விழாச் செய்து` / `நிறைவேற்று வதற்கு`**, scan 480 **`பார்சல் சேலஞ்சாக` / `பேரணாம்பேடு`**, and scan 481 **`1-1-58க்குள்`**. The source footnote on scan 435 is preserved; source-printed English on scans 404, 411, 425, 426, 459, 460 and 474 and embedded English `Ivory tower` / `down to earth approach` on scans 457–458 are preserved. Scan 481 closes Speech 17 with the source ornament; scan 482 begins Speech 18 and is excluded.
 
 ## Fixed Gate-C / Gate-E iteration rule
 
@@ -213,8 +213,24 @@ No other source-backed wording or punctuation correction was found in scans 429�
 
 No outside wording was imported. Source-visible scan-444 `1.3.79ம்`, scan-445 `1-30`, scan-446 `தெங்கைகொண்டான்`, and scan-448 `ஆட்சேபணை சங்கராச்சாரியாரால்கூட அல்ல` were retained. The MGR intervention beginning `சொல்லாத வார்த்தையை` was moved from the scan-442 tail to the scan-443 head to match the rendered page boundary; its wording was unchanged.
 
+## Gate E Batch 7 result
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — scans 449–458 / 10 pages; cumulative 70 of 93.**
+
+- Batch-7 corrections — **5 entries / 5 occurrences**
+- affected scans — **4 — scans 449, 451, 452, 458**
+- split continuation **450→451 — PASS / unchanged**
+- cumulative Gate-E corrections — **31 entries / 31 occurrences**
+- cumulative affected scans — **23**
+- unresolved — **0**
+- embedded English `Ivory tower` / `down to earth approach` on scans 457–458 — **preserved verbatim**
+- scans 459–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+No other source-backed wording or punctuation correction was found in scans 449–458. Source-visible scan-453 `கோசிஜீனைப்` / `சித்தாந்தந்தான்`, scan-454 `நம்பிக் கொடுத்தேன்`, scan-455 `நாட்டுடைமையாக்கப்பட்டதா`, and scan-458 `தாமம் தலை கோடிக்குச் செல்லும்` were retained.
+
 ## Exact next activity
 
-**Gate E Batch 7 — scans 449–458 / printed pp.448–457 / exactly 10 pages.**
+**Gate E Batch 8 — scans 459–468 / printed pp.458–467 / exactly 10 pages.**
 
-Preserve split continuation **450→451**. Do not begin Batch 8, Gate F or Speech 18 in the same activity.
+Preserve source-printed English on scans **459–460**. Do not begin Batch 9, Gate F or Speech 18 in the same activity.

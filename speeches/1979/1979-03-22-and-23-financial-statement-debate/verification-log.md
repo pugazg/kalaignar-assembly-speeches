@@ -467,12 +467,49 @@ Gate-E Batch-6 correction ledger:
 
 No other source-backed wording or punctuation correction was found in scans 439–448. Source-visible scan-444 `1.3.79ம்`, scan-445 `1-30`, scan-446 `தெங்கைகொண்டான்`, and scan-448 `ஆட்சேபணை சங்கராச்சாரியாரால்கூட அல்ல` were retained without normalization.
 
+## Gate E — Batch 7 / scans 449–458
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — 10 pages; cumulative 70 of 93.**
+
+Coverage:
+
+- verified scans — **449–458**
+- verified printed pages — **448–457**
+- verified pages — **10/10 in batch; cumulative 70/93**
+- split/local coverage — **part018 local 24–25 + part019 local 1–8**
+- working-split continuation **450→451 — PASS / unchanged**
+- source markers in batch — **449→458 / 10 / exactly once / ordered**
+- Gate-E Batch-7 correction ledger — **5 entries / 5 occurrences**
+- Batch-7 affected scans — **4 — scans 449, 451, 452, 458**
+- cumulative Gate-E corrections — **31 entries / 31 occurrences**
+- cumulative affected scans — **23**
+- unresolved readings — **0**
+- source wording imported from OCR / web / Official Reports / alternate anthologies / released speeches / other witnesses — **0**
+- embedded English `Ivory tower` / `down to earth approach` on scans 457–458 — **preserved verbatim**
+- scans **459–481** modified in this activity — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Gate-E Batch-7 correction ledger:
+
+1. **scan 449 / printed p.448** — `ஏற்கனவே போடப்பட்ட வரிகளை` → `ஏற்கனவே போட்டப்பட்ட வரிகளை`
+   - the rendered source prints `போட்டப்பட்ட`.
+2. **scan 451 / printed p.450** — `கிளைவ் ஆஸ்டலில் நடந்துபெற்ற சம்பவத்தைக் காண` → `கிளைவ் ஆஸ்டலில் நடைபெற்ற சம்பவத்தைக் காண`
+   - the rendered source prints `நடைபெற்ற`.
+3. **scan 452 / printed p.451** — `மதுவிலக்கு நிறைவேற்றப் பெற வேண்டும்` → `மது விலக்கு நிறைவேற்றப் பெற வேண்டும்`
+   - the rendered source separates `மது விலக்கு`.
+4. **scan 458 / printed p.457** — `இது அவருக்குத் தெரியாத்தல்ல` → `இது அவருக்குத் தெரியாததல்ல`
+   - the rendered source prints `தெரியாததல்ல`.
+5. **scan 458 / printed p.457** — `கடை கோடியிலிருக்கும் மக்கள்` → `கடை கோடியில் இருக்கும் மக்கள்`
+   - the rendered source separates `கோடியில் இருக்கும்`.
+
+No other source-backed wording or punctuation correction was found in scans 449–458. Source-visible scan-453 `கோசிஜீனைப்` / `சித்தாந்தந்தான்`, scan-454 `நம்பிக் கொடுத்தேன்`, scan-455 `நாட்டுடைமையாக்கப்பட்டதா`, scan-458 `தாமம் தலை கோடிக்குச் செல்லும்`, and the embedded English on scans 457–458 were retained without normalization.
+
 ## Downstream state
 
 - Gate C — **COMPLETE / 93 of 93**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E — **IN PROGRESS / 60 of 93 verified**
+- Gate E — **IN PROGRESS / 70 of 93 verified**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -480,4 +517,4 @@ No other source-backed wording or punctuation correction was found in scans 439�
 
 ## Exact next activity
 
-**Speech 17 Gate E Batch 7 — scans 449–458 / printed pp.448–457 / exactly 10 pages. Preserve split continuation 450→451.**
+**Speech 17 Gate E Batch 8 — scans 459–468 / printed pp.458–467 / exactly 10 pages. Preserve source-printed English on scans 459–460.**

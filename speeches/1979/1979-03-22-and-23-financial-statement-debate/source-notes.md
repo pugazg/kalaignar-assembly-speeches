@@ -429,8 +429,39 @@ No other source-backed wording or punctuation correction was found in scans 439�
 
 Gate E remains **IN PROGRESS**.
 
+## Gate E — Batch 7 / scans 449–458
+
+**PASS / COMPLETE — 10 pages; cumulative 70 of 93.**
+
+- verified scans — **449–458**
+- verified printed pages — **448–457**
+- controlling local pages — **part018 local 24–25 + part019 local 1–8**
+- split continuation **450→451 — PASS / unchanged**
+- markers — **449→458 / exactly once / ordered**
+- source-fidelity corrections — **5 entries / 5 occurrences**
+- affected scans — **4 — scans 449, 451, 452, 458**
+- cumulative Gate-E corrections — **31 entries / 31 occurrences**
+- cumulative affected scans — **23**
+- unresolved readings — **0**
+- embedded English `Ivory tower` / `down to earth approach` on scans 457–458 — **preserved**
+- outside wording imported — **0**
+- scans 459–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Corrections:
+
+1. scan 449 / printed p.448 — `ஏற்கனவே போடப்பட்ட வரிகளை` → `ஏற்கனவே போட்டப்பட்ட வரிகளை`
+2. scan 451 / printed p.450 — `கிளைவ் ஆஸ்டலில் நடந்துபெற்ற சம்பவத்தைக் காண` → `கிளைவ் ஆஸ்டலில் நடைபெற்ற சம்பவத்தைக் காண`
+3. scan 452 / printed p.451 — `மதுவிலக்கு நிறைவேற்றப் பெற வேண்டும்` → `மது விலக்கு நிறைவேற்றப் பெற வேண்டும்`
+4. scan 458 / printed p.457 — `இது அவருக்குத் தெரியாத்தல்ல` → `இது அவருக்குத் தெரியாததல்ல`
+5. scan 458 / printed p.457 — `கடை கோடியிலிருக்கும் மக்கள்` → `கடை கோடியில் இருக்கும் மக்கள்`
+
+No other source-backed wording or punctuation correction was found in scans 449–458. Source-visible scan-453 `கோசிஜீனைப்` / `சித்தாந்தந்தான்`, scan-454 `நம்பிக் கொடுத்தேன்`, scan-455 `நாட்டுடைமையாக்கப்பட்டதா`, scan-458 `தாமம் தலை கோடிக்குச் செல்லும்`, and the embedded English on scans 457–458 were retained.
+
+Gate E remains **IN PROGRESS**.
+
 ## Exact next
 
-**Gate E Batch 7 — scans 449–458 / exactly 10 pages.**
+**Gate E Batch 8 — scans 459–468 / exactly 10 pages.**
 
-Preserve working-split continuation **450→451**.
+Preserve source-printed English on scans **459–460**.
