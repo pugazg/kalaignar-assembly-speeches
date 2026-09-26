@@ -36,9 +36,9 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 
 ## Gate state
 
-- Gate C — **IN PROGRESS — Batches 1–2 COMPLETE / scans 482–501 / 20 of 29 first-pass**
-- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- Gate C.5 — **PROVISIONALLY N/A / not yet closed**
+- Gate C — **PASS / COMPLETE — scans 482–510 / 29 of 29 first-pass**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Gate C.5 — **PROVISIONALLY N/A / pending explicit disposition; no legacy-type anomaly observed during Gate C**
 - Gate D — **NOT STARTED**
 - Gate E — **NOT STARTED**
 - Gate F / English — **NOT STARTED**
@@ -95,8 +95,38 @@ Source-visible first-pass forms retained rather than normalized include scan 482
 
 Source-visible first-pass forms retained rather than normalized include scan 493 `61.80 பைசா` / `71.30 பைசா`; scan 494 `4 இரண்டு 2 எட்டு ரூபாய்`; scan 497 `கட்சியல்ல - கம்யூனிஸ்ட் விவசாய சங்கம்`; scan 499 `குறிப்பிட்டிருக்கிறோம்`; scan 500 `“ரைட் ஆஃப்”`; and scan 501 printed English `"5 acres owning"`.
 
+## Gate C — Batch 3 FINAL / scans 502–510
+
+**PASS / COMPLETE — scans 502–510 / printed pp.501–509 / exactly 9 pages; cumulative 29 of 29 first-pass transcribed.**
+
+- source-page markers — **502→510 / 9 / exactly once / ordered**
+- cumulative source-page markers — **482→510 / 29 / exactly once / ordered**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- scan **501→502** continuation — **PASS / preserved**
+- scan **510** source close / ornament — **PASS / preserved**
+- hard boundary **510→511** — **PASS / scan 511 is Speech 19 start / excluded**
+- Speech-19 wording imported — **0**
+- scans **482–501** modified in FINAL Batch 3 — **0**
+- Gate C.5 — **PROVISIONALLY N/A / pending explicit disposition**
+- page-specific legacy-type anomaly observed during completed Gate C — **none**
+
+Source-visible first-pass forms retained rather than normalized include scan 502 `30 இலட்சம் ரூபாய் உபரி விழுந்ததாக`; scan 503 `வசனம்` / `கவர்னர் ஆட்சியிலே`; scan 505 `55,584 டன்` / `64,430 டன்` / `73,000 டன்`; scan 506 printed English `(Contractor)`; scans 507–508 the printed assurance-count series; scan 509 `ஸ்டே`; and scan 510 `1½ கோடி` / `மதமதப்பு`.
+
+## Gate C closure
+
+**PASS / COMPLETE — Speech 18 scans 482–510 / 29 of 29 first-pass pages.**
+
+- printed pages — **481–509**
+- source markers — **29/29 / exactly once / ordered**
+- unresolved first-pass readings — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- outside wording imported — **0**
+- Speech 19 content — **0**
+
 ## Exact next activity
 
-Perform **Speech 18 Gate C Batch 3 FINAL — scans 502–510 / exactly 9 pages**.
+Perform **Speech 18 Gate C.5 disposition / Gate D completeness audit**.
 
-Transcribe from part021 local pages 2–10 only. Preserve the scan-501→502 continuation, the scan-510 source close, and the hard boundary 510→511. Do not begin Speech 19.
+Use the completed 29-page Gate-C transcript only against the controlling anthology structure. Close Gate C.5 as N/A only if the completed pages confirm no legacy-type anomaly, then audit all 29 page sections and 28 internal transitions for completeness. Do not begin Gate E or Speech 19.
