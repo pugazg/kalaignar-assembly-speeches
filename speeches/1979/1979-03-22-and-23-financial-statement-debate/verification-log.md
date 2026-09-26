@@ -611,13 +611,13 @@ No source-backed wording or punctuation correction was required in scans 479–4
 - Gate D — **PASS / COMPLETE**
 - Gate E — **PASS / COMPLETE / 93 of 93 verified**
 - Gate F — **COMPLETE / 93 of 93 translated / 0 blockers / 0 Tamil changes**
-- Gate G — **IN PROGRESS / Batches 1–3 PASS-COMPLETE / scans 389–478 / 90 of 93 reviewed / 38 cumulative refinements / 0 blockers / 0 Tamil changes**
-- Gate H — **NOT STARTED / NOT RELEASED**
+- Gate G — **PASS / COMPLETE / scans 389–481 / 93 of 93 reviewed / 43 cumulative refinements / 0 blockers / 0 Tamil changes / verified_against_tamil=true**
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
 - Speech 18 — **NOT STARTED**
 
 ## Exact next activity
 
-**Speech 17 Gate G FINAL remainder — scans 479–481 / exactly 3 English source-page sections. Review only against Gate-E-verified Tamil; make 0 Tamil changes and do not begin Gate H or Speech 18.**
+**Speech 17 Gate H archival/release audit. Audit the 93/93 Gate-E-verified Tamil and 93/93 Gate-G-verified English source-page sections; preserve the multi-date source-unit policy and 481→482 boundary; do not begin Speech 18.**
 
 
 ## Gate F — Batch 1 / scans 389–418
@@ -741,5 +741,37 @@ Gate G Batch 1 is now **PASS / COMPLETE — scans 389–418 / 30 pages / 12 refi
 - Batch 3 result — **PASS / COMPLETE**
 - cumulative Gate G — **90/93 pages / 38 refinements / 0 blockers / 0 Tamil changes**
 - English verification status — **partial only; verified_against_tamil=false until scans 479–481 complete Gate G**
-- exact next — **Gate G FINAL remainder — scans 479–481 / exactly 3 pages**
+- Batch 3 exact-next handoff — **Gate G FINAL remainder — scans 479–481 / exactly 3 pages / now completed**
 - do not begin — **Gate H / Speech 18**
+
+
+## Gate G — FINAL remainder / scans 479–481
+
+**PASS / COMPLETE — 3 pages; cumulative 93 of 93 English source-page sections reviewed. Gate G CLOSED.**
+
+- review authority — **Gate-E-verified Tamil only**
+- reviewed scans — **479–481 / printed pp.478–480 / exactly 3 pages**
+- FINAL-remainder refinements — **5**
+- cumulative Gate-G refinements — **43**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- pre-existing **478→479** continuation — **PASS / preserved**
+- **480→481** continuation — **restored / PASS**
+- scan **481** source close / ornament — **PASS / preserved**
+- hard boundary **481→482** — **PASS / Speech 18 excluded**
+- source-visible scan-481 `1-1-58க்குள்` — **preserved without normalization**
+- English scans **389–478** modified in this activity — **0**
+- outside English / web / Official Reports / alternate anthologies / released-speech wording imported — **0**
+- cumulative review — **389–481 / 93 of 93**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
+
+### Gate-G closure disposition
+
+- Gate G — **PASS / COMPLETE**
+- cumulative Gate G — **93/93 pages / 43 refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
+- exact next — **Speech 17 Gate H archival/release audit**
+- do not begin — **Speech 18**
