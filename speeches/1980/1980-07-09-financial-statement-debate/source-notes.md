@@ -65,6 +65,25 @@ Planned fixed batches:
 
 Gate C.5 remains **provisionally N/A** because the anthology is modern 2007 typesetting; it is not closed until the Speech-18 page work confirms no page-specific legacy-type anomaly.
 
+## Gate C — Batch 1 / scans 482–491
+
+**PASS / COMPLETE — scans 482–491 / printed pp.481–490 / exactly 10 pages; cumulative 10 of 29 first-pass transcribed.**
+
+- source-page markers — **482→491 / 10 / exactly once / ordered**
+- source heading **உரை : 18 / 09.07.1980** — **preserved**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- source-visible spellings, punctuation, figures, repetitions and interventions — **preserved conservatively**
+- scan **488→489** continuation `கங்கை -` → `காவிரி இணைப்புத் திட்டம்...` — **preserved**
+- scan **491** — **ends mid-sentence; continuation belongs to scan 492 and was not transcribed in this activity**
+- scans **492–510** modified — **0**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+
+Source-visible first-pass forms retained rather than normalized include scan 482 `மாண்புமிகு பேரவைத் தலைவரவர்களே` and `“பொய்மான் காடு”`; scan 485 `982.66 கோடிய ரூபாயும்`; scan 488 `ஒலவக்கோடு` and `பற்றாக் குறையை`; scan 489 `திட்டங்களை..`; scan 491 `குவாலிபிகேஷன்`.
+
 ## Exact next
 
-**Gate C Batch 1 — scans 482–491 / exactly 10 pages.**
+**Gate C Batch 2 — scans 492–501 / exactly 10 pages.**
+
+Batch 2 crosses the working-split boundary: **492–500 = part020 local 17–25; 501 = part021 local 1**. Preserve any source continuation across **500→501** and do not begin scans 502–510 in the same activity.
