@@ -26,7 +26,7 @@ Therefore:
 - preserve Speech 17 as **one source unit with two source dates**;
 - do not invent an internal date boundary;
 - do not force a single canonical date;
-- keep it out of the single-date root/data index while unreleased and unresolved as a single-date record.
+- keep it out of the single-date root/data index because no single canonical date exists; release is recorded through the source-package and speech-level controls instead.
 
 ## Controlling split coverage
 
@@ -63,7 +63,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate E — **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**
 - Gate F — **COMPLETE — scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**
 - Gate G — **PASS / COMPLETE — scans 389–481 / 93 of 93 reviewed / 43 cumulative refinements / 0 blockers / 0 Tamil changes / verified_against_tamil=true**
-- Gate H — **READY / NOT STARTED / NOT RELEASED**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
 - outside wording imported — **0**
 
 Source-visible first-pass forms retained rather than normalized include scan 389 **`196667ஆம்`**, scan 395 **`ஏட்டுச் சித்திரங்களாக`**, scan 398 **`அன்னியில்`**, scan 400 **`18ந்தேதி`**, scan 402 **`மூன்றாவது புதிய குழுவின்`**, scan 407 **`செளந்திரராசன்`**, scan 409 **`5.1.73`**, scan 416 **`ப்ரூஃப் லிட்டர்`**, scan 417 **`அன்ரெஸ்டிரிக்டட்` / `காம்பனண்ட்ஸ் பென்சாயின்` / `சோப் எலிமென்ட்`**, scan 419 **`ஜார்ஜ் பெர்னான்ட்ஸ்`**, scan 427 **`நாலரை ரூபாய் ஆராதி`**, scan 431 **`மிஸ்ஸி`**, scan 432 **`அனுப்பு வதற்கு`**, scan 436 **`அப்பொழுதி லிருந்தே`**, scan 437 **`தெரியப் படுத்தி விட்டேன்`**, scan 438 **`குற்றங்களே`**, scan 444 **`1.3.79ம்`**, scan 445 **`1-30`**, scan 446 **`தெங்கைகொண்டான்`**,  scan 448 **`ஆட்சேபணை சங்கராச்சாரியாரால்கூட அல்ல`**, scan 453 **`கோசிஜீனைப்` / `சித்தாந்தந்தான்`**, scan 454 **`நம்பிக் கொடுத்தேன்`**, scan 455 **`நாட்டுடைமையாக்கப்பட்டதா`**, scan 458 **`தாமம் தலை கோடிக்குச் செல்லும்`**, scan 462 **`1979-89இல் 137 லட்சம்`**, scan 465 **`எ.ஆர்.டி.சி.`**, scan 467 **`பீஸ்பிலிட்டி ரிப்போர்ட்`**, and scan 468 **`சொன்ன தெல்லாம்`**, scan 470 **`கட்டிக்கழிக்கவில்லை`**, scan 471 **`அமைச்சராக இருக்கின்ற திரு. செளந்திரராஜன் அவர்கள் பெற்றவர்கள்`**, scan 474 source English **`They are stopped.`**, scan 477 **`சாது மிரண்டால் காடு தாங்காது`**, and scan 478 **`120 அடிக்கு மேலாக`**, scan 479 **`கல்நாட்டு விழாச் செய்து` / `நிறைவேற்று வதற்கு`**, scan 480 **`பார்சல் சேலஞ்சாக` / `பேரணாம்பேடு`**, and scan 481 **`1-1-58க்குள்`**. The source footnote on scan 435 is preserved; source-printed English on scans 404, 411, 425, 426, 459, 460 and 474 and embedded English `Ivory tower` / `down to earth approach` on scans 457–458 are preserved. Scan 481 closes Speech 17 with the source ornament; scan 482 begins Speech 18 and is excluded.
@@ -382,8 +382,29 @@ No source-backed wording or punctuation correction was required in scans 479–4
 - Gate G — **30 source pages per iteration**
 - only the final remainder may contain fewer than 30 pages.
 
+## Gate H closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- canonical bilingual `transcript.md` — **COMPLETE**
+- verified Tamil source-page markers — **389→481 / 93/93 / exactly once / ordered**
+- Gate-G-verified English source-page sections — **389→481 / 93/93 / exactly once / ordered**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate-E totals — **37 corrections / 37 occurrences / 0 unresolved**
+- Gate-G totals — **43 refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- continuations **478→479 / 480→481** — **PASS / preserved**
+- scan **481** source close / ornament — **PASS / preserved**
+- hard boundary **481→482** — **PASS / Speech 18 excluded**
+- Speech-18 content in Speech-17 record — **0**
+- `translation.md` — **retired to standard released pointer**
+- multi-date source-unit policy — **PRESERVED / `22 & 23.3.1979` / no internal split / no single canonical date**
+- `data/speeches.json` / root dated speech table — **UNCHANGED INTENTIONALLY / no invented single-date entry**
+- release — **RELEASED / CLOSED**
+
 ## Exact next activity
 
-**Speech 17 Gate H archival/release audit.**
+**Speech 18 source intake / Gate C setup — scans 482–510 / printed pp.481–509 / உரை : 18 / 09.07.1980.**
 
-Audit the Gate-E-verified Tamil and Gate-G-verified English as the canonical bilingual pair. Preserve the multi-date source-unit policy, source-page structure and 481→482 boundary. Do not begin Speech 18.
+Speech 17 is now frozen as **RELEASED / CLOSED**. Do not reopen it without a separate source-backed defect. Begin Speech 18 only in the next activity.
