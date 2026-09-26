@@ -60,7 +60,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - `verified_against_scan=false`
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS — Batches 1–5 COMPLETE / scans 389–438 / 50 of 93 verified / 18 corrections / 0 unresolved**
+- Gate E — **IN PROGRESS — Batches 1–6 COMPLETE / scans 389–448 / 60 of 93 verified / 26 corrections / 0 unresolved**
 - Gate F — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -199,8 +199,22 @@ No other source-backed wording or punctuation correction was found in scans 419�
 
 No other source-backed wording or punctuation correction was found in scans 429–438. Source-visible scan-431 `மிஸ்ஸி`, scan-432 `அனுப்பு வதற்கு`, scan-436 `அப்பொழுதி லிருந்தே`, scan-437 `தெரியப் படுத்தி விட்டேன்`, and scan-438 `குற்றங்களே` were retained.
 
+## Gate E Batch 6 result
+
+**PASS / STRICT SOURCE-FIDELITY VERIFICATION COMPLETE — scans 439–448 / 10 pages; cumulative 60 of 93.**
+
+- Batch-6 corrections — **8 entries / 8 occurrences**
+- affected scans — **5 — scans 441, 442, 443, 444, 447**
+- cumulative Gate-E corrections — **26 entries / 26 occurrences**
+- cumulative affected scans — **19**
+- unresolved — **0**
+- scans 449–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+No outside wording was imported. Source-visible scan-444 `1.3.79ம்`, scan-445 `1-30`, scan-446 `தெங்கைகொண்டான்`, and scan-448 `ஆட்சேபணை சங்கராச்சாரியாரால்கூட அல்ல` were retained. The MGR intervention beginning `சொல்லாத வார்த்தையை` was moved from the scan-442 tail to the scan-443 head to match the rendered page boundary; its wording was unchanged.
+
 ## Exact next activity
 
-**Gate E Batch 6 — scans 439–448 / printed pp.438–447 / exactly 10 pages.**
+**Gate E Batch 7 — scans 449–458 / printed pp.448–457 / exactly 10 pages.**
 
-Do not begin Batch 7, Gate F or Speech 18 in the same activity.
+Preserve split continuation **450→451**. Do not begin Batch 8, Gate F or Speech 18 in the same activity.

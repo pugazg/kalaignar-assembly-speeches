@@ -397,6 +397,40 @@ No other source-backed wording or punctuation correction was found in scans 429�
 
 Gate E remains **IN PROGRESS**.
 
+## Gate E — Batch 6 / scans 439–448
+
+**PASS / COMPLETE — 10 pages; cumulative 60 of 93.**
+
+- verified scans — **439–448**
+- verified printed pages — **438–447**
+- controlling local pages — **part018 local 14–23**
+- markers — **439→448 / exactly once / ordered**
+- source-fidelity corrections — **8 entries / 8 occurrences**
+- affected scans — **5 — scans 441, 442, 443, 444, 447**
+- cumulative Gate-E corrections — **26 entries / 26 occurrences**
+- cumulative affected scans — **19**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- scans 449–481 modified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Corrections:
+
+1. scan 441 / printed p.440 — `பத்திரிகைகள் எல்லாம் எழுதியன.` → `பத்திரிகைகள் எல்லாம் எழுதின.`
+2. scan 442 / printed p.441 — `பாவாயில்லை` → `பரவாயில்லை`
+3. scans 442→443 / printed pp.441→442 — MGR intervention beginning `சொல்லாத வார்த்தையை சொன்னதாக` relocated from scan-442 tail to scan-443 head; wording unchanged.
+4. scan 443 / printed p.442 — `சட்டமன்றத்தில் எழுப்பப்பட்ட வேண்டுகோள்—கோரிக்கை என்பது வைக்கப்பட்ட இடத்தில் கோயில் இருக்கக்கூடாது, உங்கள் கொள்கைகளை` → `சட்டமன்றத்தில் எழுப்பப்பட வேண்டிய பிரச்சினை அல்ல இது. அந்தந்த கட்சியைச் சேர்ந்தவர்கள் தங்கள் கொள்கைகளை`
+5. scan 443 / printed p.442 — `மறுக்கப்பட்டதே தவிர, இந்த அரசைப்` → `மறுக்கப்பட்டதே தவிர இந்த அரசைப்`
+6. scan 444 / printed p.443 — `ஏதாவது எடுத்துச் சொல்லதாக இருந்தாலும்` → `ஏதாவது எடுத்துச் சொல்வதாக இருந்தாலும்`
+7. scan 447 / printed p.446 — `நான் நேற்று குறிப்பிட்டபோதுகூட` → `நான் நேற்று குறிப்பிட்ட போதுகூட`
+8. scan 447 / printed p.446 — `ஒரு மூலையில் வைக்கப்பட்ட வேண்டுமென்று` → `ஒரு மூலையில் வைக்கப்பட வேண்டுமென்று`
+
+No other source-backed wording or punctuation correction was found in scans 439–448. Source-visible scan-444 `1.3.79ம்`, scan-445 `1-30`, scan-446 `தெங்கைகொண்டான்`, and scan-448 `ஆட்சேபணை சங்கராச்சாரியாரால்கூட அல்ல` were retained.
+
+Gate E remains **IN PROGRESS**.
+
 ## Exact next
 
-**Gate E Batch 6 — scans 439–448 / exactly 10 pages.**
+**Gate E Batch 7 — scans 449–458 / exactly 10 pages.**
+
+Preserve working-split continuation **450→451**.
