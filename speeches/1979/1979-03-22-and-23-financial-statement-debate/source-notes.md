@@ -557,28 +557,32 @@ No source-backed wording or punctuation correction was required in scans 479–4
 - outside wording imported — **0**
 - Tamil — **VERIFIED / verified_against_scan=true**
 
-## Gate F — Batch 1 / scans 389–418
+## Gate F closure
 
-**COMPLETE — 30 pages; cumulative 30 of 93 translated.**
+**COMPLETE — scans 389–481 / printed pp.388–480 / 93 of 93 translated.**
 
-- Gate-F cadence — **30 source pages per iteration**
-- translated scans — **389–418**
-- translated printed pages — **388–417**
-- English source-page sections — **30 / exactly once / ordered**
-- source-printed English on scans **404 and 411** — **preserved verbatim**
-- blocking translation questions — **0**
+- Batch 1 — **389–418 / 30 pages**
+- Batch 2 — **419–448 / 30 pages**
+- Batch 3 — **449–478 / 30 pages**
+- Batch 4 FINAL — **479–481 / 3 pages**
+- English source-page sections — **389→481 / 93 / exactly once / ordered**
+- translation authority — **Gate-E-verified Tamil only**
+- source-printed English on scans **404, 411, 425, 426, 459, 460 and 474** — **preserved verbatim**
+- embedded English `Ivory tower` / `down to earth approach` — **preserved**
+- blocking questions — **0**
 - verified-Tamil changes — **0**
-- outside English / outside-witness wording imported — **0**
-- page boundaries / speaker interventions — **preserved**
-- scans 419–481 translated — **0**
+- outside English / web / Official Reports / alternate anthologies / released-speech wording imported — **0**
+- Tamil — **VERIFIED / unchanged**
+- English — **TRANSLATED / awaiting Gate G / verified_against_tamil=false**
 
-## Fixed Gate-F iteration rule
+## Fixed English-work iteration rule
 
-- **30 source pages per iteration**
+- Gate F — **30 source pages per iteration**
+- Gate G — **30 source pages per iteration**
 - only the final remainder may contain fewer than 30 pages.
 
 ## Exact next
 
-**Gate F Batch 2 — scans 419–448 / exactly 30 pages.**
+**Gate G Batch 1 — scans 389–418 / exactly 30 pages.**
 
-Translation authority remains the Gate-E-verified Tamil only. Do not alter verified Tamil or begin Batch 3, Gate G, Gate H or Speech 18.
+Review maintained English only against Gate-E-verified Tamil. Do not alter Tamil or begin Batch 2, Gate H or Speech 18.

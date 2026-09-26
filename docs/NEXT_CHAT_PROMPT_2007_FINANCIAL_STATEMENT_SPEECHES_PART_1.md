@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate F Batch 2 — scans 419–448
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 17 Gate G Batch 1 — scans 389–418
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -23,44 +23,48 @@ Source:
 
 Gate state:
 
-- Gate C — **COMPLETE / 93 of 93 first-pass**
+- Gate C — **COMPLETE / 93 of 93**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
 - Gate E — **PASS / COMPLETE / 93 of 93 source-verified**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- Gate F Batch 1 — **COMPLETE / scans 389–418 / 30 of 93 translated**
+- Gate F — **COMPLETE / 93 of 93 translated**
+- Gate-F batches — **389–418 / 419–448 / 449–478 / 479–481**
 - Gate-F blocking questions — **0**
 - Gate-F verified-Tamil changes — **0**
 - Gate-F outside English imported — **0**
-- Gates G–H — **NOT STARTED**
+- English — **TRANSLATED / awaiting Gate G / verified_against_tamil=false**
+- Gate G — **NOT STARTED**
+- Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 18 — **NOT STARTED**
 
-## Fixed Gate-F iteration rule
+## Fixed English-work iteration rule
 
-- **30 source pages per iteration**
+- Gate F — **30 source pages per iteration**
+- Gate G — **30 source pages per iteration**
 - only the final remainder may contain fewer than 30 pages.
 
-## Gate-F translation authority
+## Gate-G authority
 
-- translate from the **Gate-E-verified Tamil only**;
+- review English only against the **Gate-E-verified Tamil**;
 - preserve source-page boundaries;
-- preserve speaker labels and interventions;
-- preserve figures, repetitions and source structure;
-- preserve source-printed English verbatim rather than retranslate it;
-- do not alter verified Tamil during Gate F;
+- preserve speaker labels/interventions, figures, repetitions and source structure;
+- preserve source-printed English verbatim;
+- do not alter verified Tamil;
 - import no English wording from web, Official Reports, alternate anthologies, released speeches or other outside witnesses.
 
 ## Exact next activity
 
-Perform **Speech 17 Gate F Batch 2 — scans 419–448 / printed pp.418–447 / exactly 30 pages**.
+Perform **Speech 17 Gate G Batch 1 — scans 389–418 / exactly 30 pages**.
 
 Requirements:
 
-1. translate scans **419–448** from the verified Tamil only;
-2. preserve page-by-page alignment and speaker/intervention structure;
-3. preserve source-printed English where encountered;
-4. record any blocking translation question without changing verified Tamil;
-5. leave scans **449–481** untranslated in this activity;
-6. synchronize Speech-17 and anthology controls after success;
-7. exact next: **Gate F Batch 3 — scans 449–478 / exactly 30 pages**;
-8. do not begin Batch 3, Gate G, Gate H or Speech 18 in the same activity.
+1. review the maintained English for scans **389–418** against the verified Tamil only;
+2. apply every needed English fidelity / voice refinement;
+3. record every refinement with scan number and before→after wording;
+4. preserve source-printed English on scan **404** and all source structure;
+5. make **0 verified-Tamil changes**;
+6. leave English scans **419–481** unchanged in this activity;
+7. synchronize Speech-17 and anthology controls after success;
+8. exact next: **Gate G Batch 2 — scans 419–448 / exactly 30 pages**;
+9. do not begin Batch 2, Gate H or Speech 18 in the same activity.

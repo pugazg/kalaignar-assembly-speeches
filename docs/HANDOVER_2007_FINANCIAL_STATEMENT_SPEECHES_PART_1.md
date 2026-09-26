@@ -96,7 +96,7 @@ Treat this 2007 anthology as its own witness.
 - Gate C.5 — **N/A / CLOSED for Speeches 1–17**
 - Gate D — **PASS / COMPLETE for Speeches 1–17**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–17; speeches 18–19 not started**
-- Gate F — **COMPLETE for Speeches 1–16; speeches 17–19 not started**
+- Gate F — **COMPLETE for Speeches 1–17; speeches 18–19 not started**
 - Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–16; speeches 17–19 not started**
 - Gate H — **Speeches 1–16 PASS / COMPLETE — RELEASED / CLOSED; speeches 17–19 not started**
 - Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
@@ -845,7 +845,7 @@ Working entry:
 - Gate C.5 — **N/A / CLOSED / 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE / 93/93 pages / 92/92 transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / scans 389–481 / 93 of 93 / 37 corrections / 0 unresolved**
-- Gate F — **IN PROGRESS / Batch 1 COMPLETE / scans 389–418 / 30 of 93 translated / 0 blockers / 0 Tamil changes**
+- Gate F — **COMPLETE / scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**
 - Gates G–H — **NOT STARTED**
 - Speech 18 — **NOT STARTED**
 - outside wording imported — **0**
@@ -1042,26 +1042,30 @@ Hard boundaries **388→389 / 481→482** and working-split continuations **400�
 
 Source-visible final-batch forms retained without normalization include scan 479 `கல்நாட்டு விழாச் செய்து` / `நிறைவேற்று வதற்கு`, scan 480 `பார்சல் சேலஞ்சாக` / `பேரணாம்பேடு`, and scan 481 `1-1-58க்குள்`.
 
-## Speech 17 Gate F Batch 1 result
+## Speech 17 Gate F result
 
-**COMPLETE — scans 389–418 / 30 of 93 source pages translated.**
+**COMPLETE — scans 389–481 / 93 of 93 source pages translated.**
 
-- Gate-F cadence — **30 source pages per iteration**
-- translated scans — **389–418**
-- translated printed pages — **388–417**
-- English source-page sections — **30 / exactly once / ordered**
-- source-printed English on scans **404 and 411** — **preserved verbatim**
+- Batch 1 — **389–418 / 30 pages**
+- Batch 2 — **419–448 / 30 pages**
+- Batch 3 — **449–478 / 30 pages**
+- Batch 4 FINAL — **479–481 / 3 pages**
+- Gate-F cadence — **30 source pages per iteration; final remainder excepted**
+- English source-page sections — **389→481 / 93 / exactly once / ordered**
+- source-printed English on scans **404, 411, 425, 426, 459, 460 and 474** — **preserved verbatim**
+- embedded English `Ivory tower` / `down to earth approach` on scans 457–458 — **preserved**
 - blocking translation questions — **0**
 - verified-Tamil changes — **0**
 - outside English / outside-witness wording imported — **0**
-- scans **419–481** translated in this activity — **0**
-- English — **PARTIALLY TRANSLATED / Gate G not started**
+- Tamil remains **VERIFIED / verified_against_scan=true**
+- English — **TRANSLATED / awaiting Gate G review / verified_against_tamil=false**
 
-## Fixed Gate-F iteration rule
+## Fixed English-review iteration rule
 
-- **30 source pages per iteration**
+- Gate F — **30 source pages per iteration**
+- Gate G — **30 source pages per iteration**
 - only the final remainder may contain fewer than 30 pages.
 
-## Exact next activity — Speech 17 Gate F Batch 2
+## Exact next activity — Speech 17 Gate G Batch 1
 
-Translate **scans 419–448 / exactly 30 verified-Tamil source pages** from the Gate-E-verified Tamil only. Preserve source-page alignment, speaker labels/interventions, figures, repetitions, source-printed English, and the verified Tamil unchanged. Do not begin Batch 3, Gate G, Gate H or Speech 18.
+Review **scans 389–418 / exactly 30 English source-page sections** against the Gate-E-verified Tamil only. Refine English fidelity and voice where needed, record every refinement, preserve source-printed English, make **0 Tamil changes**, and import **0 outside wording**. Do not begin Batch 2, Gate H or Speech 18.

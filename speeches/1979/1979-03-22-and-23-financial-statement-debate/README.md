@@ -61,7 +61,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**
-- Gate F — **IN PROGRESS — Batch 1 COMPLETE / scans 389–418 / 30 of 93 translated / 0 blockers / 0 Tamil changes**
+- Gate F — **COMPLETE — scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - outside wording imported — **0**
@@ -277,26 +277,32 @@ No other source-backed wording or punctuation correction was found in scans 469�
 
 No source-backed wording or punctuation correction was required in scans 479–481. Source-visible scan 479 `கல்நாட்டு விழாச் செய்து` / `நிறைவேற்று வதற்கு`, scan 480 `பார்சல் சேலஞ்சாக` / `பேரணாம்பேடு`, and scan 481 `1-1-58க்குள்` were retained without normalization.
 
-## Gate F Batch 1 result
+## Gate F closure
 
-**COMPLETE — scans 389–418 / printed pp.388–417 / 30 of 93 pages translated.**
+**COMPLETE — scans 389–481 / printed pp.388–480 / 93 of 93 pages translated.**
 
-- Gate-F cadence — **30 source pages per iteration**
-- English source-page sections — **30 / exactly once / ordered**
-- source-printed English on scans **404 and 411** — **preserved verbatim**
+- Batch 1 — **389–418 / 30 pages**
+- Batch 2 — **419–448 / 30 pages**
+- Batch 3 — **449–478 / 30 pages**
+- Batch 4 FINAL — **479–481 / 3 pages**
+- English source-page sections — **389→481 / 93 / exactly once / ordered**
+- source-page alignment / speaker labels / interventions — **preserved**
+- source-printed English on scans **404, 411, 425, 426, 459, 460, 474** — **preserved verbatim**
+- embedded English on scans **457–458** — **preserved**
 - blocking translation questions — **0**
 - verified-Tamil changes — **0**
 - outside English / outside-witness wording imported — **0**
-- scans 419–481 translated — **0**
-- English — **PARTIALLY TRANSLATED / Gate G not started**
+- Tamil — **VERIFIED / unchanged**
+- English — **TRANSLATED / awaiting Gate G / verified_against_tamil=false**
 
-## Fixed Gate-F iteration rule
+## Fixed English-work iteration rule
 
 - Gate F — **30 source pages per iteration**
+- Gate G — **30 source pages per iteration**
 - only the final remainder may contain fewer than 30 pages.
 
 ## Exact next activity
 
-**Gate F Batch 2 — scans 419–448 / printed pp.418–447 / exactly 30 pages.**
+**Gate G Batch 1 — scans 389–418 / printed pp.388–417 / exactly 30 pages.**
 
-Translate only from the Gate-E-verified Tamil. Preserve source-page alignment, speaker labels/interventions, figures, repetitions and source-printed English. Do not alter verified Tamil or begin Batch 3, Gate G, Gate H or Speech 18.
+Review English only against the Gate-E-verified Tamil. Record all refinements; do not alter verified Tamil or begin Batch 2, Gate H or Speech 18.

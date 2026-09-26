@@ -2,7 +2,7 @@
 
 ## உரை : 17 — 22 & 23.3.1979
 
-> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**. Gate E is **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**. The source remains one **multi-date unit** (`22 & 23.3.1979`) with no invented internal date split or single canonical date. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **IN PROGRESS — Batches 1–3 COMPLETE / scans 389–478 / 90 of 93 translated / 0 blockers / 0 Tamil changes**. Gates G–H are **NOT STARTED**. Exact next: **Gate F Batch 4 FINAL — scans 479–481 / exactly 3 pages**.
+> **Gate state:** Gate C is **COMPLETE — scans 389–481 / 93 of 93 first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 93/93 pages / 92/92 internal transitions / 0 completeness corrections**. Gate E is **PASS / COMPLETE — scans 389–481 / 93 of 93 verified / 37 corrections / 0 unresolved**. The source remains one **multi-date unit** (`22 & 23.3.1979`) with no invented internal date split or single canonical date. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **COMPLETE — scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**. Gate G is **NOT STARTED**; Gate H is **NOT STARTED / NOT RELEASED**. Exact next: **Gate G Batch 1 — scans 389–418 / exactly 30 pages**.
 
 <!-- source-page: 389 -->
 
@@ -1938,3 +1938,32 @@ Now, in facing this challenge, I wish to say that though these Hindus may be poo
 Further, although Periyar opposed religious superstitious customs, and although he did not accept that he was a Hindu, a Muslim or a Christian, he remained within the Hindu religion until the end. Even so, rationalists have the right to oppose superstitions and theistic doctrines within Hinduism. Even Sankarachariar would certainly have no objection to erecting a statue of Periyar, who was such a rationalist. Some persons—Raghavan, Irupavan, or persons of that sort—signed objections under President's Rule. The Commissioner and Collector then in office issued an order refusing permission. It was only when we spoke yesterday about reconsidering that order that the issue grew large.
 
 People of the Mukkulathor community in Madurai district conducted an agitation demanding that Madurai University be named after Perunthalaivar Kamaraj. Even then, when Kamaraj was honoured by naming Madurai University after him, it was said that similar manoeuvres arose in opposition. Therefore, in the matter of erecting Periyar's statue, by giving special emphasis to the word “Hindus”—
+
+
+### Source page 479
+
+—I tell Kandasamy that this issue should not be enlarged by giving such emphasis to it.
+
+**Thiru. K. Kandasamy:** I did not say that telegrams had come asking people to act against Periyar. They said that at the proposed site in Kanchipuram there would be no obstruction to traffic and that there would be a distance of 120 feet. How far is 120 feet? Even in an ordinary meeting where people are speaking, places separated by only a small distance have been described as objectionable. If petitions were submitted, everyone cannot join together and submit one. One or two responsible people alone can submit petitions. What matters is the feeling there. One or two people may submit a petition as a way of expressing that feeling.
+
+It has been considered. When the Hon. Kalaignar was Chief Minister, he achieved many things in the past. The Kanchipuram Municipality passed a resolution in 1974. His Government remained until January 1976. Within those two years, so many achievements could have been made. Who prevented them? Having left it all during that period, why demand it now and ask now why such an order was issued? The Hon. Chief Minister had an opportunity to see the place directly. Therefore I request that we do not become responsible for creating a confused situation at that place.
+
+**Kalaignar M. Karunanidhi:** They have compressed it into “74, 76.” But it was only toward the end of 1974 that the permission for it was given to the municipality. In many places, even large parties have conducted the stone-laying ceremony and then taken three or four years to complete the work. The Dravidar—
+
+### Source page 480
+
+—Kazhagam did not have such facilities. Therefore it could not be completed within that one year.
+
+**Thiru. K. Kandasamy:** It is wrong to say that the Dravidar Kazhagam did not have such facilities. The country knows that Thanthai Periyar had crores of rupees. On top of that, Kalaignar was in charge of the Government. If he had moved a finger, the statue would have appeared. He may say this by way of explanation, but there were plenty of opportunities. Therefore, without taking this as a “personal challenge,” I say this only because in many places—among the people in places such as Pernambedu and Pulianthope—religious animosities and communal disturbances have already occurred, and such disastrous events should not recur.
+
+**Kalaignar M. Karunanidhi:** What is your opinion about Madurai University being named after Kamaraj?
+
+**Thiru. K. Kandasamy:** Although there was a view among the public that Madurai University should be named after Thevar, who made sacrifices in that region, and although people belonging to all parties said so, Karuppaiah Nadar too was arrested in this matter. Therefore this was not for money or out of communal hatred. I request Kalaignar not to try to give it some other colour. Communal hatred has no connection with this. Karuppaiah Nadar was arrested, so it should not be said that the Nadar community opposed it. A person named Solaikomban was also arrested. Some others were arrested too; one cannot list everything. Therefore, to call this communal hatred....
+
+**Hon. Deputy Speaker:** Finish the issue quickly. The Minister has to reply to it. It must be finished by 1-1-58. We have to take up the demands and put them to vote. Finish quickly.
+
+### Source page 481
+
+**Thiru. K. Kandasamy:** I will finish. Thus, there was such an upsurge among the people. We said the Government should reconsider it and add a word such as “Madurai.” I thank this Government for acting with respect for that feeling of the public. The agitation was stopped. I wish to state that there is neither communal hatred nor any religious connection in this; it is only the people's feeling. Therefore do not magnify it. The people's feeling is what matters. Therefore, by placing Thanthai Periyar's statue there, we should not become the cause of confusion or disturbance. I say this and sit down. Greetings.
+
+**Thiru. J. James:** Mr Deputy Speaker, the Hon. Finance Minister has submitted in the final supplementary demand for grants a statement for Rs.192 crore. On this occasion I wish to place a few views before this Government. When a demand for grants of this magnitude is being sought, this Government is duty-bound to think a little about the conditions now prevailing in the country. I am duty-bound to bring to the Government's attention that various problems began on a small scale and, because they were not resolved at the outset, have today changed and developed into major problems.

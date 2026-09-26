@@ -573,7 +573,7 @@ Working entry:
 - Gate C.5 — **N/A / CLOSED across this modern 2007 typesetting — 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 93/93 pages / 92/92 transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / scans 389–481 / 93 of 93 / 37 corrections / 0 unresolved**
-- Gate F — **IN PROGRESS / Batch 1 COMPLETE / scans 389–418 / 30 of 93 translated / 0 blockers / 0 Tamil changes**
+- Gate F — **COMPLETE / scans 389–481 / 93 of 93 translated / 0 blockers / 0 Tamil changes**
 - Gates G–H — **NOT STARTED**
 - outside wording imported — **0**
 
@@ -748,25 +748,29 @@ Source-visible final-batch forms retained without normalization:
 - scan 480 — `பார்சல் சேலஞ்சாக` / `பேரணாம்பேடு`
 - scan 481 — `1-1-58க்குள்`
 
-## Speech 17 Gate F Batch 1
+## Speech 17 Gate F closure
 
-**COMPLETE — scans 389–418 / 30 of 93 translated.**
+**COMPLETE — scans 389–481 / 93 of 93 translated.**
 
-- Gate-F cadence — **30 source pages per iteration**
-- English source-page sections — **389–418 / 30 / exactly once / ordered**
-- source-printed English on scans **404 and 411** — **preserved verbatim**
-- blocking translation questions — **0**
+- Batch 1 — **389–418 / 30 pages**
+- Batch 2 — **419–448 / 30 pages**
+- Batch 3 — **449–478 / 30 pages**
+- Batch 4 FINAL — **479–481 / 3 pages**
+- English source-page sections — **389→481 / 93 / exactly once / ordered**
+- blocking questions — **0**
 - verified-Tamil changes — **0**
 - outside English / outside-witness wording imported — **0**
-- scans 419–481 translated — **0**
+- source-printed English — **preserved**
+- English — **TRANSLATED / awaiting Gate G / verified_against_tamil=false**
 
-## Fixed Gate-F iteration rule
+## Fixed English-work iteration rule
 
-- **30 source pages per iteration**
+- Gate F — **30 source pages per iteration**
+- Gate G — **30 source pages per iteration**
 - only the final remainder may contain fewer than 30 pages.
 
 ## Exact next activity
 
-**Speech 17 Gate F Batch 2 — scans 419–448 / printed pp.418–447 / exactly 30 pages.**
+**Speech 17 Gate G Batch 1 — scans 389–418 / printed pp.388–417 / exactly 30 pages.**
 
-Translate only from Gate-E-verified Tamil. Do not begin Batch 3, Gate G, Gate H or Speech 18.
+Review English only against Gate-E-verified Tamil. Do not alter Tamil or begin Batch 2, Gate H or Speech 18.

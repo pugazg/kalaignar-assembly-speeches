@@ -610,14 +610,14 @@ No source-backed wording or punctuation correction was required in scans 479–4
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
 - Gate E — **PASS / COMPLETE / 93 of 93 verified**
-- Gate F — **IN PROGRESS / Batch 1 COMPLETE / 30 of 93 translated / 0 blockers / 0 Tamil changes**
+- Gate F — **COMPLETE / 93 of 93 translated / 0 blockers / 0 Tamil changes**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 18 — **NOT STARTED**
 
 ## Exact next activity
 
-**Speech 17 Gate F Batch 2 — scans 419–448 / exactly 30 verified-Tamil source pages. Gate-F cadence is 30 pages per iteration. Translate only from Gate-E-verified Tamil; do not alter Tamil or begin Batch 3, Gate G, Gate H or Speech 18.**
+**Speech 17 Gate G Batch 1 — scans 389–418 / exactly 30 English source-page sections. Review only against Gate-E-verified Tamil; make 0 Tamil changes and do not begin Batch 2, Gate H or Speech 18.**
 
 
 ## Gate F — Batch 1 / scans 389–418
@@ -637,3 +637,24 @@ No source-backed wording or punctuation correction was required in scans 479–4
 - Gate G — **NOT STARTED**
 
 Exact next: **Gate F Batch 2 — scans 419–448 / exactly 30 pages**.
+
+
+## Gate F — Batches 2–4 / closure
+
+**COMPLETE — scans 419–481 / 63 remaining pages translated; cumulative 93/93.**
+
+- Batch 2 — **419–448 / 30 pages**
+- Batch 3 — **449–478 / 30 pages**
+- Batch 4 FINAL — **479–481 / 3 pages**
+- fixed Gate-F cadence — **30 source pages per iteration; final remainder excepted**
+- English source-page sections — **389→481 / 93 / exactly once / ordered**
+- source-printed English on scans **404, 411, 425, 426, 459, 460 and 474** — **preserved verbatim**
+- embedded English on scans **457–458** — **preserved**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / web / Official Reports / alternate anthologies / released-speech wording imported — **0**
+- Gate F — **COMPLETE**
+- Gate G — **NOT STARTED**
+- English — **TRANSLATED / verified_against_tamil=false**
+
+Exact next: **Gate G Batch 1 — scans 389–418 / exactly 30 pages**.
