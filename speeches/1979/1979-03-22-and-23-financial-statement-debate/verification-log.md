@@ -612,12 +612,12 @@ No source-backed wording or punctuation correction was required in scans 479–4
 - Gate E — **PASS / COMPLETE / 93 of 93 verified**
 - Gate F — **COMPLETE / 93 of 93 translated / 0 blockers / 0 Tamil changes**
 - Gate G — **PASS / COMPLETE / scans 389–481 / 93 of 93 reviewed / 43 cumulative refinements / 0 blockers / 0 Tamil changes / verified_against_tamil=true**
-- Gate H — **READY / NOT STARTED / NOT RELEASED**
-- Speech 18 — **NOT STARTED**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
+- Speech 18 — **NOT STARTED / exact next after Speech-17 release closure**
 
 ## Exact next activity
 
-**Speech 17 Gate H archival/release audit. Audit the 93/93 Gate-E-verified Tamil and 93/93 Gate-G-verified English source-page sections; preserve the multi-date source-unit policy and 481→482 boundary; do not begin Speech 18.**
+**Speech 18 source intake / Gate C setup — scans 482–510 / printed pp.481–509 / உரை : 18 / 09.07.1980. Speech 17 is RELEASED / CLOSED; do not reopen it without a separate source-backed defect.**
 
 
 ## Gate F — Batch 1 / scans 389–418
@@ -775,3 +775,36 @@ Gate G Batch 1 is now **PASS / COMPLETE — scans 389–418 / 30 pages / 12 refi
 - Gate H — **READY / NOT STARTED / NOT RELEASED**
 - exact next — **Speech 17 Gate H archival/release audit**
 - do not begin — **Speech 18**
+
+
+## Gate H closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- canonical bilingual `transcript.md` — **COMPLETE**
+- verified Tamil source-page markers — **389→481 / 93/93 / exactly once / ordered**
+- Gate-G-verified English source-page sections — **389→481 / 93/93 / exactly once / ordered**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate-E totals — **37 corrections / 37 occurrences / 0 unresolved**
+- Gate-G totals — **43 refinements / 0 blockers / 0 Tamil changes / 0 source-printed-English changes**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- continuations **478→479 / 480→481** — **PASS / preserved**
+- scan **481** source close / ornament — **PASS / preserved**
+- hard boundary **481→482** — **PASS / Speech 18 excluded**
+- Speech-18 content in Speech-17 record — **0**
+- `translation.md` — **retired to standard released pointer**
+- multi-date source-unit policy — **PRESERVED / `22 & 23.3.1979` / no internal split / no single canonical date**
+- `data/speeches.json` / root dated speech table — **UNCHANGED INTENTIONALLY / no invented single-date entry**
+- release — **RELEASED / CLOSED**
+
+## Downstream state after Speech 17 release
+
+- Gate C–H — **COMPLETE for Speeches 1–17**
+- Speeches 1–17 — **RELEASED / CLOSED**
+- Speech 17 — **canonical bilingual complete / multi-date source unit / intentionally absent from single-date indexes**
+- Speech 18 — **NOT STARTED**
+
+## Exact next activity after Gate H
+
+Begin **Speech 18 source intake / Gate C setup — scans 482–510 / printed pp.481–509 / உரை : 18 / 09.07.1980**. Do not reopen Speech 17 in that activity.
