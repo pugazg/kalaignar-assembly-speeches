@@ -287,8 +287,23 @@ Corrections:
 - English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
 - Gate F — **COMPLETE**
 
+## Gate G Batch 1 English-fidelity review
+
+**PASS / COMPLETE — scans 511–540 / printed pp.510–539 / exactly 30 pages; cumulative 30 of 35 reviewed.**
+
+- authority — **final verified Tamil only**
+- refinements — **10 / scans 521, 524, 525, 526, 527, 529, 531, 534, 536, 540**
+- blocking issues — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-printed English **523–525 / 535** — **preserved verbatim**
+- source-printed `foundation, weir pie` on **539** — **preserved exactly**
+- page alignment / continuations / figures / names / quotations — **preserved**
+- scans **541–545** — **not reviewed / not altered**
+- English — **PARTIALLY REVIEWED / verified_against_tamil=false**
+
 ## Exact next
 
-**Speech 19 Gate G Batch 1 — scans 511–540 / exactly 30 pages.**
+**Speech 19 Gate G Batch 2 FINAL — scans 541–545 / exactly 5 pages.**
 
-Review against the final verified Tamil only. Do not begin Gate G FINAL in the same activity.
+Review against the final verified Tamil only. Do not begin Gate H in the same activity.
