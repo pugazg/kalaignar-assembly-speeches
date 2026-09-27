@@ -93,9 +93,9 @@ Treat this 2007 anthology as its own witness.
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
 - Gate C — **Speeches 1–19 COMPLETE; Speech 19 scans 511–545 / 35 of 35 first-pass / Tamil TRANSCRIBED-NOT-VERIFIED**
-- Gate C.5 — **N/A / CLOSED for Speeches 1–18**
-- Gate D — **PASS / COMPLETE for Speeches 1–18; Speech 18 = 29/29 pages / 28/28 transitions / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–18; Speech 18 29 of 29 / 20 corrections / 0 unresolved; Speech 19 not started**
+- Gate C.5 — **N/A / CLOSED for Speeches 1–19; Speech 19 modern 2007 typesetting / 0 historical-glyph corrections**
+- Gate D — **PASS / COMPLETE for Speeches 1–19; Speech 19 = 35/35 pages / 34/34 transitions / 0 completeness corrections**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–18; Speech 19 NOT STARTED / exact next Batch 1 scans 511–520**
 - Gate F — **COMPLETE for Speeches 1–18; Speech 18 29 of 29 translated / 0 blockers / 0 Tamil changes; Speech 19 not started**
 - Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–18; Speech 18 29/29 reviewed / 6 refinements / 0 blockers / 0 Tamil changes; Speech 19 not started**
 - Gate H — **Speeches 1–18 PASS / COMPLETE — RELEASED / CLOSED; Speech 19 not started**
@@ -106,7 +106,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 17 — **Gate C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 37 Gate-E corrections / 43 Gate-G refinements / 0 blockers / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / canonical bilingual complete / multi-date source unit / no single canonical date / single-date indexes intentionally unchanged**
 - Speech 18 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 20 Gate-E corrections / 6 Gate-G refinements / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / indexed / canonical bilingual complete**
-- Speech 19 — **GATE C PASS/COMPLETE / scans 511–545 / 35 of 35 / Tamil TRANSCRIBED-NOT-VERIFIED / exact next Gate C.5 disposition + Gate D**
+- Speech 19 — **Gate C PASS/COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE 35/35 / 34/34 transitions / 0 completeness corrections / Tamil TRANSCRIBED-NOT-VERIFIED / exact next Gate E Batch 1 scans 511–520**
 
 ## Speech 1 durable Gate-C state
 
@@ -1318,37 +1318,31 @@ Do not begin Speech 19 until Speech 18 Gate H is closed.
 - release — **RELEASED / CLOSED**
 - Speech 19 / scan 511 — **excluded / NOT STARTED**
 
-## Speech 19 source intake + Gate C setup
+## Speech 19 durable state after Gate D
 
-**PASS / COMPLETE.**
+Working entry:
 
-- working entry — `speeches/1982/1982-03-06-financial-statement-debate/`
+`speeches/1982/1982-03-06-financial-statement-debate/`
+
 - source label/date — **உரை : 19 / 06.03.1982**
 - scans — **511–545 / printed pp.510–544 / 35 pages**
 - hard boundaries **510→511 / 545→546** — **PASS**
-- part021 — **local 11–25 / scans 511–525 / 15 pages / 18,938,935 bytes / SHA-256 d32d5b4559b68d81675d80e9bb535e1a0e8eaf6861a6eb037ffb357fad5c92c2**
-- part022 — **local 1–20 / scans 526–545 / 20 pages / 21 total / 15,522,557 bytes / SHA-256 7fc6e4fb4e264c9c4b836150549fc0c8c45458bc9a3869ac313ff6708fb5ceed**
-- working-split transition **525→526** — **PASS / preserved**
-- outside wording imported — **0**
-
-## Speech 19 Gate C closure
-
-**PASS / COMPLETE — scans 511–545 / 35 of 35 first-pass transcribed.**
-
-- Batch 1 — **511–520 / 10 pages / PASS**
-- Batch 2 — **521–530 / 10 pages / PASS**
-- Batch 3 — **531–540 / 10 pages / PASS**
-- Batch 4 FINAL — **541–545 / 5 pages / PASS**
-- source-page markers — **511→545 / 35 / exactly once / ordered**
-- unresolved first-pass readings — **0**
-- source-printed English on scans **523–525 / 535 / 542** — **preserved**
-- source-printed `foundation, weir pie` on scan **539** — **preserved as printed**
-- speaker changes / interventions on **544–545** — **preserved**
-- hard boundary **545→546** — **PASS / scan 546 portrait-back matter excluded**
+- Gate C — **PASS / COMPLETE / 35 of 35 first-pass**
+- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting / 0 historical-glyph corrections**
+- Gate D — **PASS / COMPLETE — 35/35 pages / 34/34 internal transitions / 0 completeness corrections**
+- source-page markers — **511→545 / exactly once / ordered**
+- missing / duplicate / empty page sections — **0 / 0 / 0**
+- working-split transition **525→526** — **PASS**
+- source-printed English on scans **523–525 / 535 / 542** — **represented**
+- source-printed `foundation, weir pie` on scan **539** — **represented as printed**
+- speaker changes / interventions on scans **544–545** — **represented**
+- scan **546** portrait/back matter — **excluded**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- Gate C.5 — **PROVISIONALLY N/A / explicit disposition next**
-- Gates D–H — **NOT STARTED**
+- outside wording imported — **0**
+- Gates E–H — **NOT STARTED for Speech 19**
 
 ## Exact next activity
 
-Perform **Speech 19 Gate C.5 disposition + Gate D structural completeness audit**. Do not begin Gate E in the same activity.
+Perform **Speech 19 Gate E Batch 1 — scans 511–520 / exactly 10 pages**.
+
+Do not begin Gate E Batch 2 in the same activity.
