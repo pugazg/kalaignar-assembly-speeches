@@ -112,8 +112,25 @@ Gate C.5 is **provisionally N/A** because this is modern 2007 typesetting; reope
 - scans **541–545** modified in Batch 3 — **0**
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 
+## Gate C Batch 4 FINAL
+
+**PASS / COMPLETE — scans 541–545 / exactly 5 pages; cumulative 35 of 35 first-pass transcribed.**
+
+- source file — part022 local **16–20**
+- source-page markers — **511→545 / 35 / exactly once / ordered**
+- **542→543** continuation — **preserved**
+- source-printed English on scan **542** — **preserved as printed**
+- speaker changes / interventions on scans **544–545** — **preserved**
+- hard boundary **545→546** — **PASS / scan 546 portrait-back matter excluded**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Gate C — **PASS / COMPLETE**
+- Gate C.5 — **PROVISIONALLY N/A / explicit disposition next**
+- Gates D–H — **NOT STARTED**
+
 ## Exact next
 
-**Speech 19 Gate C Batch 4 FINAL — scans 541–545 / exactly 5 pages.**
+**Speech 19 Gate C.5 disposition + Gate D structural completeness audit.**
 
-Do not begin Gate C.5 or Gate D in the same iteration.
+Do not begin Gate E in the same activity.
