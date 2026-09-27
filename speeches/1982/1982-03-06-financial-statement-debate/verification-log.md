@@ -490,6 +490,38 @@ Checks:
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - exact next — **Gate H archival/release audit**
 
-## Exact next activity
+## Gate H archival/release audit
 
-Perform **Speech 19 Gate H archival/release audit**.
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+Checks:
+
+- Tamil source-page markers — **511→545 / 35 / exactly once / ordered**
+- English source-page sections — **511→545 / 35 / exactly once / ordered**
+- all **34/34** adjacent merged page transitions — **PASS / both language sections non-empty / no adjacent mechanical duplication**
+- key continuations **520→521 / 525→526 / 530→531 / 542→543** — **PASS / preserved**
+- working-split transition **525→526** — **PASS**
+- all **26/26** Gate-E correction targets — **final readings present / superseded readings absent**
+- all **14/14** Gate-G refinements — **final readings present in intended source-page sections**
+- source-printed English on **523–525 / 535 / 542** — **preserved verbatim**
+- source-printed `foundation, weir pie` on **539** — **preserved exactly**
+- speaker labels/interventions and turn-taking on **544–545** — **preserved**
+- hard boundaries **510→511 / 545→546** — **PASS / scans 510 and 546 excluded**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- outside wording imported during Gate H — **0**
+- `translation.md` — **released pointer**
+- `data/speeches.json` / root dated table — **indexed exactly once**
+- release — **RELEASED / CLOSED**
+- anthology workflow — **COMPLETE / all 19 mapped speech units processed**
+
+## Gate-H disposition
+
+- Gate H — **PASS / COMPLETE**
+- release status — **RELEASED / CLOSED**
+- canonical bilingual transcript — **true**
+- Gate-H Tamil wording changes — **0**
+- Gate-H English wording changes — **0**
+- next activity — **new controlling source only**
