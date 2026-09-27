@@ -87,8 +87,8 @@
   "execution": {
     "gate_c_iteration_page_limit": 10,
     "final_remainder_may_be_under_10": true,
-    "current_gate_c_batch": "531-540 / 10 pages / PASS-COMPLETE",
-    "next_gate_c_batch": "541-545 / 5 pages FINAL",
+    "current_gate_c_batch": "541-545 / 5 pages FINAL / PASS-COMPLETE",
+    "next_gate_c_batch": null,
     "planned_gate_c_batches": [
       "511-520 / 10 pages",
       "521-530 / 10 pages",
@@ -96,7 +96,7 @@
       "541-545 / 5 pages FINAL"
     ],
     "working_split_transition": "525->526",
-    "next_activity": "Gate C Batch 4 FINAL / scans 541-545 / exactly 5 pages"
+    "next_activity": "Gate C.5 disposition + Gate D structural completeness audit"
   },
   "transcription": {
     "language": "Tamil",
@@ -109,22 +109,22 @@
     "preserve_printed_english": true,
     "preserve_source_visible_repetition": true,
     "page_boundaries_marked": true,
-    "status": "partially-transcribed-not-verified",
-    "gate_c_status": "in-progress",
-    "completed_scan_pages": "511-540",
-    "completed_printed_pages": "510-539",
-    "completed_page_count": 30,
+    "status": "transcribed-not-verified",
+    "gate_c_status": "pass-complete",
+    "completed_scan_pages": "511-545",
+    "completed_printed_pages": "510-544",
+    "completed_page_count": 35,
     "total_page_count": 35,
-    "marker_count": 30,
-    "marker_range": "511-540",
+    "marker_count": 35,
+    "marker_range": "511-545",
     "unresolved_readings": [],
     "unresolved_reading_count": 0,
     "verified_against_scan": false,
     "outside_wording_imported": false,
-    "next_gate": "Gate C Batch 4 FINAL / scans 541-545 / exactly 5 pages",
-    "gate_c_batches_completed": 3,
-    "last_completed_batch": "531-540 / 10 pages / PASS-COMPLETE",
-    "gate_c5_status": "provisionally-n-a-not-closed",
+    "next_gate": "Gate C.5 disposition + Gate D structural completeness audit",
+    "gate_c_batches_completed": 4,
+    "last_completed_batch": "541-545 / 5 pages FINAL / PASS-COMPLETE",
+    "gate_c5_status": "provisionally-n-a-disposition-next",
     "gate_c5_legacy_typeform_anomaly_observed": false,
     "gate_c_batch_1_status": "pass-complete",
     "gate_c_batch_1_scan_pages": "511-520",
@@ -162,7 +162,20 @@
       "535",
       "539"
     ],
-    "gate_c_batch_3_next_page_untouched": true
+    "gate_c_batch_3_next_page_untouched": true,
+    "gate_c_batch_4_status": "pass-complete-final",
+    "gate_c_batch_4_scan_pages": "541-545",
+    "gate_c_batch_4_printed_pages": "540-544",
+    "gate_c_batch_4_page_count": 5,
+    "gate_c_batch_4_unresolved": 0,
+    "gate_c_batch_4_outside_wording_imported": false,
+    "gate_c_batch_4_source_split": "part022 local 16-20",
+    "gate_c_batch_4_source_printed_english_scans": [
+      "542"
+    ],
+    "gate_c_batch_4_outgoing_boundary": "545->546 / PASS / scan 546 closing portrait-back matter excluded",
+    "gate_c_complete": true,
+    "gate_c_completion_note": "35/35 source pages first-pass transcribed; no unresolved first-pass readings; verified_against_scan remains false pending Gate E."
   },
   "translation": {
     "status": "not-started",
