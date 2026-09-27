@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 19 source intake + Gate C setup
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 19 Gate C Batch 1 — scans 511–520
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,33 +8,11 @@ Speeches **1–18 are RELEASED / CLOSED through Gate H** with verified Tamil and
 
 Do not reopen any released speech unless a separate source-backed defect is discovered.
 
-## Speech 18 durable closure
+## Speech 19 source state
 
 Working entry:
 
-`speeches/1980/1980-07-09-financial-statement-debate/`
-
-- source label/date — **உரை : 18 / 09.07.1980**
-- scans — **482–510 / printed pp.481–509 / 29 pages**
-- Tamil — **VERIFIED / 29/29 / verified_against_scan=true**
-- English — **VERIFIED AGAINST TAMIL / 29/29 / verified_against_tamil=true**
-- Gate-E corrections — **20 / 0 unresolved**
-- Gate-G refinements — **6 / 0 blockers / 0 Tamil changes**
-- Gate H — **PASS / COMPLETE — RELEASED / CLOSED**
-- Gate-H wording changes — **0 Tamil / 0 English**
-- canonical bilingual transcript — **COMPLETE**
-- `translation.md` — **retired release pointer**
-- `data/speeches.json` / root dated table — **indexed**
-- hard boundary **510→511 — PASS**
-- Speech 18 is now **LOCKED**
-
-## Speech 19 mapped source state
-
-Planned working entry:
-
 `speeches/1982/1982-03-06-financial-statement-debate/`
-
-Source map:
 
 - source label/date — **உரை : 19 / 06.03.1982**
 - canonical date — **1982-03-06**
@@ -45,21 +23,70 @@ Source map:
 - outgoing boundary **545→546 — PASS**
 - scan 510 — **Speech 18 close / excluded**
 - scan 546 — **closing portrait/back matter / excluded**
-- anthology Gate B — **PASS / COMPLETE / LOCKED**
+- source intake — **PASS / COMPLETE**
+- Gate C setup — **PASS / COMPLETE**
+- Gate C transcription — **NOT STARTED / 0 of 35**
+- Tamil — **NOT TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+- Gates D–H — **NOT STARTED**
+
+## Controlling source / split coverage
+
+Full source:
+
+`TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf`
+
+- pages — **546**
+- bytes — **393,027,493**
+- SHA-256 — `e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932`
+- authority — **rendered scan pixels only**
+- usable text layer — **none**
+
+Batch 1 source lies wholly inside:
+
+`TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_021_pages_501-525.pdf`
+
+- split total — **25 pages**
+- bytes — **18,938,935**
+- SHA-256 — `d32d5b4559b68d81675d80e9bb535e1a0e8eaf6861a6eb037ffb357fad5c92c2`
+- Speech-19 coverage — local **11–25 = global scans 511–525**
+- Batch 1 mapping — local **11–20 = global scans 511–520**
+- boundary witness — local **10 = scan 510 / Speech 18 close / excluded**; local **11 = scan 511 / Speech 19 heading / included**
+
+Later split:
+
+`TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_022_pages_526-546.pdf`
+
+- split total — **21 pages**
+- Speech-19 coverage — local **1–20 = scans 526–545**
+- local 21 = scan 546 / closing portrait-back matter / excluded
+- exact split byte size / SHA-256 — **not recorded in live-main controls; do not invent**
+- transition **525→526** must be audited during Batch 2
+
+## Gate-C cadence
+
+Fixed rule: **10 source pages per iteration**, except final remainder.
+
+- Batch 1 — **511–520 / 10 pages**
+- Batch 2 — **521–530 / 10 pages**
+- Batch 3 — **531–540 / 10 pages**
+- Batch 4 FINAL — **541–545 / 5 pages**
 
 ## Exact next activity
 
-Perform **Speech 19 source intake + Gate C setup only**.
+Perform **Speech 19 Gate C Batch 1 — scans 511–520 / exactly 10 pages**.
 
 Requirements:
 
-1. confirm live-main source mapping and existing-work overlap before creating or changing the Speech-19 entry;
-2. establish/confirm the controlling source split(s) available for scans **511–545** and their page/hash metadata where already recorded;
-3. create or synchronize the Speech-19 working entry and source-control files without importing outside wording;
-4. preserve hard boundaries **510→511 / 545→546** and keep Speech 18 / back matter excluded;
-5. set Gate C batching according to the repository's established fixed cadence of **10 source pages per iteration**, with only the final remainder allowed to be fewer;
-6. expected Gate-C batches for 35 pages: **511–520 / 521–530 / 531–540 / 541–545 FINAL** unless live-main control documents already establish a different source-backed split;
-7. Gate C.5 should remain provisionally N/A for this modern 2007 typesetting unless an actual legacy-type anomaly is observed;
-8. do **not** begin Gate-C transcription in the same setup activity;
-9. do **not** reopen Speech 18;
-10. exact next after setup: **Speech 19 Gate C Batch 1 — scans 511–520 / exactly 10 pages**.
+1. use only the controlling 2007 anthology pixels; no OCR/web/Official Reports/alternate anthologies/released speeches/outside witnesses may supply wording;
+2. transcribe exactly **10 pages: 511–520**, no more;
+3. add source-page markers **511→520**, each exactly once and in order;
+4. preserve source heading/date, speaker labels/interventions, spelling, punctuation, figures, repetitions and source-printed English;
+5. preserve page-spanning continuations conservatively;
+6. do not import any wording from scan 521;
+7. record unresolved readings rather than guessing;
+8. keep `verified_against_scan=false` after Gate C; this is first-pass transcription, not Gate E verification;
+9. leave Gate C.5 only **PROVISIONALLY N/A** unless an actual legacy-type anomaly is observed;
+10. update Speech-19 README, metadata, transcript, source-notes, verification-log, anthology source controls, handover and this continuation prompt;
+11. exact next after Batch 1: **Speech 19 Gate C Batch 2 — scans 521–530 / exactly 10 pages**;
+12. do not begin Batch 2 in the same activity.
