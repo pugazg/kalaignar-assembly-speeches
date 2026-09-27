@@ -86,7 +86,7 @@
       "492-501 / 10 pages",
       "502-510 / 9 pages FINAL"
     ],
-    "next_activity": "Gate F FINAL scans 482-510 / 29 pages",
+    "next_activity": "Gate G FINAL scans 482-510 / exactly 29 pages",
     "gate_e_iteration_page_limit": 10,
     "current_gate_e_batch": "502-510 / 9 pages FINAL / PASS-COMPLETE / 3 corrections",
     "next_gate_e_batch": null,
@@ -97,11 +97,15 @@
     ],
     "gate_f_iteration_page_limit": 30,
     "gate_f_final_remainder_may_be_under_limit": true,
-    "current_gate_f_batch": null,
-    "next_gate_f_batch": "482-510 / 29 pages FINAL",
+    "current_gate_f_batch": "482-510 / 29 pages FINAL / COMPLETE",
+    "next_gate_f_batch": null,
     "planned_gate_f_batches": [
       "482-510 / 29 pages FINAL"
-    ]
+    ],
+    "gate_g_iteration_page_limit": 30,
+    "gate_g_final_remainder_may_be_under_limit": true,
+    "current_gate_g_batch": null,
+    "next_gate_g_batch": "482-510 / 29 pages FINAL"
   },
   "transcription": {
     "language": "Tamil",
@@ -182,16 +186,40 @@
   },
   "translation": {
     "language": "English",
-    "status": "not-started",
-    "gate_f_status": "not-started",
+    "status": "translated-not-verified",
+    "gate_f_status": "complete",
     "gate_g_status": "not-started",
     "verified_against_tamil": false,
-    "translated_scans": null,
-    "translated_page_count": 0,
+    "translated_scans": "482-510",
+    "translated_page_count": 29,
     "total_page_count": 29,
     "blocking_question_count": 0,
     "verified_tamil_changes": 0,
-    "outside_english_imported": false
+    "outside_english_imported": false,
+    "source_text": "Gate-E-verified Tamil in transcript.md",
+    "next_gate": "Gate G FINAL",
+    "translated_printed_pages": "481-509",
+    "source_page_marker_count": 29,
+    "source_page_marker_range": "482-510",
+    "source_printed_english_preserved": true,
+    "page_boundaries_preserved": true,
+    "gate_f": {
+      "status": "complete",
+      "source_pages": "482-510",
+      "page_count": 29,
+      "batch_count": 1,
+      "batches": [
+        "482-510 / 29 pages FINAL"
+      ],
+      "iteration_page_limit": 30,
+      "blocking_question_count": 0,
+      "verified_tamil_changes": 0,
+      "verified_against_tamil": false,
+      "outside_english_imported": false,
+      "source_printed_english_preserved": true,
+      "source_page_markers_preserved": true,
+      "terminal_boundary": "510->511 PASS / scan 511 Speech 19 start excluded"
+    }
   },
   "release": {
     "status": "not-released",
