@@ -302,8 +302,24 @@ Corrections:
 - scans **541–545** — **not reviewed / not altered**
 - English — **PARTIALLY REVIEWED / verified_against_tamil=false**
 
+## Gate G Batch 2 FINAL English-fidelity review
+
+**PASS / COMPLETE — scans 541–545 / printed pp.540–544 / exactly 5 pages; cumulative 35 of 35 reviewed.**
+
+- authority — **final verified Tamil only**
+- FINAL refinements — **4 / scans 541, 543, 544, 545**
+- cumulative refinements — **14**
+- blocking issues — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-printed English on scan **542** — **preserved verbatim**
+- speaker changes/interventions **544–545** — **preserved**
+- hard boundary **545→546** — **PASS / scan 546 excluded**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate G — **PASS / COMPLETE**
+
 ## Exact next
 
-**Speech 19 Gate G Batch 2 FINAL — scans 541–545 / exactly 5 pages.**
+**Speech 19 Gate H archival/release audit.**
 
-Review against the final verified Tamil only. Do not begin Gate H in the same activity.
+Do not release or index until Gate H passes.
