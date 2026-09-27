@@ -43,7 +43,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate E — **PASS / COMPLETE — scans 482–510 / 29 of 29 verified / 20 cumulative corrections / 0 unresolved**
 - Gate F / English — **COMPLETE — scans 482–510 / 29 of 29 translated / 0 blockers / 0 Tamil changes**
 - Gate G — **PASS / COMPLETE — scans 482–510 / 29 of 29 reviewed / 6 refinements / 0 blockers / 0 Tamil changes / verified_against_tamil=true**
-- Gate H — **READY / NOT STARTED / NOT RELEASED / exact next = archival/release audit**
+- Gate H — **PASS / COMPLETE — RELEASED / CLOSED / 0 Tamil wording changes / 0 English wording changes**
 - Speech 19 — **NOT STARTED**
 
 ## Gate-C batching
@@ -282,6 +282,27 @@ Genuine source-visible forms retained include scan 482 `மாண்புமி
 - detailed before→after ledger — **`translation-review.md`**
 - Gate H — **READY / NOT STARTED / NOT RELEASED**
 
+## Gate H closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- canonical bilingual `transcript.md` — **COMPLETE**
+- verified Tamil source-page markers — **482→510 / 29/29 / exactly once / ordered**
+- Gate-G-verified English source-page sections — **482→510 / 29/29 / exactly once / ordered**
+- Gate-E correction total — **20 entries / 20 occurrences / 0 unresolved**
+- Gate-G refinement total — **6 / 0 blockers / 0 Tamil changes**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- all **28/28** merged page transitions — **PASS / no mechanical duplication or omission**
+- continuations **488→489 / 491→492 / 500→501 / 501→502** — **PASS / preserved**
+- hard boundaries **481→482 / 510→511** — **PASS / preserved**
+- source heading/date and speaker label — **preserved**
+- figures / quotations / repetitions / rhetorical questions / interventions — **preserved**
+- source-printed English on scans **492 / 501 / 506** — **preserved verbatim**
+- `translation.md` — **retired release pointer**
+- `data/speeches.json` / root dated table — **indexed**
+- release — **RELEASED / CLOSED**
+- Speech 19 / scan 511 — **excluded / NOT STARTED**
+
 ## Exact next activity
 
-Perform **Speech 18 Gate H archival/release audit**. Do not begin Speech 19 in the same activity.
+Begin **Speech 19 source intake / Gate C setup — scan 511 onward / source label `உரை : 19 / 06.03.1982`**. Do not begin Speech 19 transcription in this Gate-H activity.
