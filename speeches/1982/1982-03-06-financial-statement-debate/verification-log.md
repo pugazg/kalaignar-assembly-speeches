@@ -171,6 +171,45 @@ Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**. Gate
 - exact next — **Gate E Batch 1 / scans 511–520 / exactly 10 pages**
 - do not begin — **Gate E Batch 2**
 
+## Gate E — Batch 1 / scans 511–520
+
+**PASS / COMPLETE — printed pp.510–519 / exactly 10 pages; cumulative 10 of 35 source-verified.**
+
+Checks:
+
+- controlling source — **part021 local 11–20 / global scans 511–520**
+- direct visual comparison — **10/10 pages**
+- source-fidelity corrections — **3 entries / 3 occurrences / 2 affected scans**
+- affected scans — **518 / 520**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- source-page markers — **511→545 / unchanged / exactly once / ordered**
+- source heading/date and speaker label on scan **511** — **verified**
+- names / numerals / dates / money / units in Batch 1 — **checked**
+- quotations / repetitions / punctuation where legible — **checked**
+- page-spanning continuations within scans **511–520** — **checked**
+- **520→521** terminal continuation — **structurally preserved; scan 521 not source-verified or altered**
+- scans **521–545** altered by Gate E Batch 1 — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- Gate F — **NOT STARTED / blocked pending full Gate E**
+
+### Batch-1 correction ledger
+
+1. **scan 518** — `1½ நாள் எடுத்து கொண்டு` → `1½ நாள் எடுத்துக் கொண்டு`.
+2. **scan 520** — `எதிர்பார்க்கப்படுகிறது` → `எதிர்பார்க்கப் படுகிறது`.
+3. **scan 520** — `கட்டி முடிக்கப்பட்டன` → `கட்டிமுடிக்கப்பட்டன`.
+
+## Gate-E Batch-1 disposition
+
+- verified pages — **10/35**
+- cumulative corrections — **3**
+- cumulative correction occurrences — **3**
+- cumulative affected scans — **2**
+- unresolved — **0**
+- Tamil verification state — **PARTIALLY VERIFIED / verified_against_scan=false**
+- exact next — **Gate E Batch 2 / scans 521–530 / exactly 10 pages**
+- do not begin — **Gate E Batch 3 / Gate F**
+
 ## Exact next activity
 
-Perform **Gate E Batch 1 — scans 511–520 / exactly 10 pages** from the controlling source pixels only.
+Perform **Gate E Batch 2 — scans 521–530 / exactly 10 pages** from the controlling source pixels only.
