@@ -968,8 +968,23 @@ Source-visible final-batch forms retained without normalization:
 - Gate E — **PASS / COMPLETE / CLOSED**
 - exact next — **Gate F FINAL / scans 482–510 / exactly 29 pages**
 
+## Speech 18 Gate F result
+
+**COMPLETE — scans 482–510 / 29 of 29 English pages translated.**
+
+- one FINAL Gate-F iteration — **29 pages**
+- English source-page sections — **482→510 / exactly once / ordered**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-printed English on scans **492 / 501 / 506** — **preserved**
+- boundary **510→511** — **PASS / Speech 19 excluded**
+- Tamil — **VERIFIED / unchanged**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- exact next — **Gate G FINAL / scans 482–510 / exactly 29 pages**
+
 ## Exact next activity
 
-**Speech 18 Gate F FINAL — scans 482–510 / printed pp.481–509 / exactly 29 pages.**
+**Speech 18 Gate G FINAL — scans 482–510 / printed pp.481–509 / exactly 29 pages.**
 
-Translate only from the final Gate-E-verified Tamil, following the established Gate-F maximum of 30 source pages per iteration. Preserve page boundaries, source-printed English, figures, quotations, repetitions and interventions; make 0 Tamil changes and import 0 outside English. Do not begin Gate G or Speech 19.
+Review all English only against the final Gate-E-verified Tamil. Record every fidelity/voice refinement, preserve source-printed English verbatim, make 0 Tamil changes, import 0 outside English, and do not begin Gate H or Speech 19.
