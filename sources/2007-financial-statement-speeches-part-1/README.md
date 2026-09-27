@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches **1–18 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 18 / 09.07.1980 is indexed under its unique canonical date. Speech 19 / 06.03.1982 Gate C is **PASS / COMPLETE**; Gate C.5 is **N/A / CLOSED**; Gate D is **PASS / COMPLETE**. Gate E Batch 1 is **PASS / COMPLETE — scans 511–520 / 10 of 35 source-verified / 3 corrections / 0 unresolved**. Tamil is **PARTIALLY VERIFIED / verified_against_scan=false**. Gate E Batch 2 scans **521–530** is next. Speech 17 remains a source-preserved multi-date unit and is intentionally absent from the single-date indexes. Speech 12 / 07.03.1973 is preserved at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent released parallel witness** to the separately released `1973-03-07-financial-statement-reply`. Its canonical bilingual transcript is complete; Gate H made **0 Tamil / 0 English wording changes**. To avoid a second canonical same-date entry, `data/speeches.json` and the root dated speech table intentionally retain only the existing `1973-03-07-financial-statement-reply` index record; the anthology witness remains discoverable through this source package and repository status sections.
+Speeches **1–18 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 18 / 09.07.1980 is indexed under its unique canonical date. Speech 19 / 06.03.1982 Gate C is **PASS / COMPLETE**; Gate C.5 is **N/A / CLOSED**; Gate D is **PASS / COMPLETE**. Gate E Batches 1–2 are **PASS / COMPLETE — scans 511–530 / 20 of 35 source-verified / 7 cumulative corrections / 0 unresolved**. Tamil is **PARTIALLY VERIFIED / verified_against_scan=false**. Gate E Batch 3 scans **531–540** is next. Speech 17 remains a source-preserved multi-date unit and is intentionally absent from the single-date indexes. Speech 12 / 07.03.1973 is preserved at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent released parallel witness** to the separately released `1973-03-07-financial-statement-reply`. Its canonical bilingual transcript is complete; Gate H made **0 Tamil / 0 English wording changes**. To avoid a second canonical same-date entry, `data/speeches.json` and the root dated speech table intentionally retain only the existing `1973-03-07-financial-statement-reply` index record; the anthology witness remains discoverable through this source package and repository status sections.
 
 ## Whole-speech batching policy
 
@@ -1097,19 +1097,22 @@ Gate D — **PASS / COMPLETE — 35/35 pages / 34/34 transitions / 0 completenes
 
 **PASS / COMPLETE — scans 511–520 / exactly 10 pages; cumulative 10 of 35 source-verified.**
 
-- corrections — **3 / 3 occurrences / scans 518 and 520**
+- corrections — **3 / scans 518 and 520**
 - unresolved — **0**
-- markers — **511→545 / unchanged**
-- terminal **520→521** continuation — **preserved; scan 521 not verified**
+
+## Speech 19 Gate E Batch 2 result
+
+**PASS / COMPLETE — scans 521–530 / exactly 10 pages; cumulative 20 of 35 source-verified.**
+
+- corrections — **4 / scans 521, 529, 530**
+- cumulative corrections — **7**
+- unresolved — **0**
+- **520→521** — **PASS**
+- **525→526 / part021→part022** — **PASS**
+- source-printed English **523–525** — **preserved**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
-- Gate F — **blocked pending Gate E completion**
-
-Corrections:
-
-1. scan 518 — `1½ நாள் எடுத்து கொண்டு` → `1½ நாள் எடுத்துக் கொண்டு`
-2. scan 520 — `எதிர்பார்க்கப்படுகிறது` → `எதிர்பார்க்கப் படுகிறது`
-3. scan 520 — `கட்டி முடிக்கப்பட்டன` → `கட்டிமுடிக்கப்பட்டன`
+- Gate F — **blocked pending full Gate E**
 
 ## Exact next activity
 
-**Speech 19 Gate E Batch 2 — scans 521–530 / exactly 10 pages.**
+**Speech 19 Gate E Batch 3 — scans 531–540 / exactly 10 pages.**
