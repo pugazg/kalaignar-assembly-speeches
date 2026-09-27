@@ -226,8 +226,37 @@ Corrections:
 - scan **537** — `எந்தக் கட்சியையும் சாராத ஒரு பெரிய...` → `எந்தக் கட்சியையும் சாராத ஏடுகளிலே...`
 - scan **538** — `அளவுக்குத்தான் நடு` → `அளவுக்குத் தூண் நட்டு`
 
+## Gate E Batch 4 FINAL source-fidelity verification
+
+**PASS / COMPLETE — scans 541–545 / printed pp.540–544 / exactly 5 pages; cumulative 35 of 35 source-verified.**
+
+- controlling source — part022 local **16–20**
+- correction ledger — **10 entries / 10 occurrences / scans 541, 542, 543, 544**
+- cumulative corrections — **26**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- markers **511→545** — **unchanged / ordered**
+- source-printed English on scan **542** — **preserved exactly as printed**
+- speaker changes/interventions on scans **544–545** — **verified**
+- hard boundary **545→546** — **PASS / scan 546 portrait-back matter excluded**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate E — **PASS / COMPLETE**
+
+Corrections:
+
+- scan **541** — `தயாரிக்கப்பட்ட சேஸிஸ்களைக்` → `தயாரிக்கப்படும் சேஸிஸ்களைக்`
+- scan **542** — `ஃபண்ட்ஸ்` → `பண்ட்ஸ்`
+- scan **542** — `கொளுவுக்கு` → `தொழுவுக்கு`
+- scan **543** — `விசாரிக்கப்படவேண்டிய` → `விசாரிக்கப்பட வேண்டிய`
+- scan **543** — `சதி செய்திருக்கிறோம்` → `சதி செய்கிறோம்`
+- scan **544** — `இறுதியில் பதில்` → `இறுதியிலே பதில்`
+- scan **544** — `பதில்சொல்வதற்கோ` → `பதில் சொல்வதற்கோ`
+- scan **544** — `பலவீனம் ஏற்பட்டுத்த முடியவில்லை` → `பலவீனம் ஏற்படுத்த முடியவில்லை`
+- scan **544** — `வழக்குகள் நடைபெறுகின்றதே` → `வழக்குகள் நடைபெறுகிறதே`
+- scan **544** — `நாங்கள் போடவில்லை` → `நாங்கள் போட்டவில்லை`
+
 ## Exact next
 
-**Speech 19 Gate E Batch 4 FINAL — scans 541–545 / exactly 5 pages.**
+**Speech 19 Gate F Batch 1 — scans 511–540 / exactly 30 pages.**
 
-Do not begin Gate F in the same activity.
+Use the final Gate-E-verified Tamil only. Do not begin the final Gate-F remainder in the same activity.
