@@ -92,7 +92,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–18 COMPLETE; Speech 19 Batches 1–2 PASS/COMPLETE / scans 511–530 / cumulative 20 of 35 first-pass / exact next scans 531–540**
+- Gate C — **Speeches 1–18 COMPLETE; Speech 19 Batches 1–3 PASS/COMPLETE / scans 511–540 / cumulative 30 of 35 first-pass / exact next FINAL scans 541–545**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–18**
 - Gate D — **PASS / COMPLETE for Speeches 1–18; Speech 18 = 29/29 pages / 28/28 transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–18; Speech 18 29 of 29 / 20 corrections / 0 unresolved; Speech 19 not started**
@@ -106,7 +106,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 17 — **Gate C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 37 Gate-E corrections / 43 Gate-G refinements / 0 blockers / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / canonical bilingual complete / multi-date source unit / no single canonical date / single-date indexes intentionally unchanged**
 - Speech 18 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 20 Gate-E corrections / 6 Gate-G refinements / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / indexed / canonical bilingual complete**
-- Speech 19 — **SOURCE INTAKE + GATE C SETUP PASS/COMPLETE / Gate C Batches 1–2 PASS-COMPLETE / 20 of 35 / exact next Batch 3 scans 531–540**
+- Speech 19 — **SOURCE INTAKE + GATE C SETUP PASS/COMPLETE / Gate C Batches 1–3 PASS-COMPLETE / 30 of 35 / exact next Batch 4 FINAL scans 541–545**
 
 ## Speech 1 durable Gate-C state
 
@@ -1320,7 +1320,7 @@ Do not begin Speech 19 until Speech 18 Gate H is closed.
 
 ## Speech 19 source intake + Gate C setup
 
-**PASS / COMPLETE — setup complete; Gate C Batches 1–2 now complete.**
+**PASS / COMPLETE — setup complete; Gate C Batches 1–3 now complete.**
 
 - working entry — `speeches/1982/1982-03-06-financial-statement-debate/`
 - source label/date — **உரை : 19 / 06.03.1982**
@@ -1338,21 +1338,24 @@ Do not begin Speech 19 until Speech 18 Gate H is closed.
 
 **PASS / COMPLETE — scans 511–520 / 10 pages; cumulative 10 of 35.**
 
-- markers — **511→520 / exactly once / ordered**
-- unresolved — **0**
-- scan 520 open continuation into 521 — **preserved in Batch 2**
-
 ## Speech 19 Gate C Batch 2 result
 
 **PASS / COMPLETE — scans 521–530 / 10 pages; cumulative 20 of 35.**
 
-- markers — **511→530 / exactly once / ordered**
 - part021→part022 **525→526** — **PASS**
 - source-printed English on scans **523–525** — **preserved**
+
+## Speech 19 Gate C Batch 3 result
+
+**PASS / COMPLETE — scans 531–540 / 10 pages; cumulative 30 of 35.**
+
+- markers — **511→540 / exactly once / ordered**
+- source-printed Government of Tamil Nadu English extract on scan **535** — **preserved**
+- source-printed `foundation, weir pie` on scan **539** — **preserved as printed**
 - unresolved — **0**
 - outside wording — **0**
-- scan 531 wording imported — **0**
+- scan 541 wording imported — **0**
 
 ## Exact next activity
 
-Perform **Speech 19 Gate C Batch 3 — scans 531–540 / exactly 10 pages**. Do not process scans 541 onward in the same iteration.
+Perform **Speech 19 Gate C Batch 4 FINAL — scans 541–545 / exactly 5 pages**. Do not begin Gate C.5 or Gate D in the same iteration.
