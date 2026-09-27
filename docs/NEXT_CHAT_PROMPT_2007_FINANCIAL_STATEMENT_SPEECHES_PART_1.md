@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 18 Gate E Batch 2 — scans 492–501
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 18 Gate E Batch 3 FINAL — scans 502–510
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -25,16 +25,15 @@ Source:
 - outgoing boundary **510→511 — PASS**
 - scan 511 — **Speech 19 / உரை : 19 / 06.03.1982 start / excluded**
 
-Controlling working splits:
+Controlling final-batch source:
 
-1. part020 — Speech-18 local **7–25 / scans 482–500**
-2. part021 — Speech-18 local **1–10 / scans 501–510**
+`TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_021_pages_501-525.pdf`
 
-Batch 2 crosses the split boundary:
-
-- scans **492–500** = part020 local **17–25**
-- scan **501** = part021 local **1**
-- transition **500→501 — PASS / must remain preserved**
+- bytes — **18,938,935**
+- SHA-256 — `d32d5b4559b68d81675d80e9bb535e1a0e8eaf6861a6eb037ffb357fad5c92c2`
+- Speech-18 coverage — **local 1–10 / scans 501–510**
+- Gate-E FINAL Batch 3 — **local 2–10 / scans 502–510**
+- local page 11 / scan 511 — **Speech 19 start / excluded**
 
 ## Durable Gate state
 
@@ -42,34 +41,31 @@ Batch 2 crosses the split boundary:
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE / 29/29 pages / 28/28 transitions**
 - Gate E — **IN PROGRESS**
-- Gate-E Batch 1 — **PASS / COMPLETE / scans 482–491 / 10 pages**
-- Gate-E Batch-1 corrections — **13 entries / 13 occurrences / 8 affected scans**
-- Gate-E Batch-1 unresolved — **0**
-- cumulative Gate-E verified pages — **10 of 29**
+- Gate-E Batch 1 — **PASS / COMPLETE / scans 482–491 / 10 pages / 13 corrections**
+- Gate-E Batch 2 — **PASS / COMPLETE / scans 492–501 / 10 pages / 4 corrections**
+- cumulative Gate-E verified pages — **20 of 29**
+- cumulative Gate-E corrections — **17 entries / 17 occurrences / 11 affected scans**
+- Gate-E unresolved — **0**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - Gates F–H — **NOT STARTED**
 - Speech 19 — **NOT STARTED**
 
-## Gate-E Batch-1 corrections already applied
+## Gate-E Batch-2 corrections already applied
 
-- scan 483 — `ஒரு பையில்` → `ஒரு பையிலே`
-- scan 484 — source punctuation/hyphenation restored in three places
-- scan 485 — `கவனத்திற்குக் கொண்டுவர` (the printed `எல்லா கணக்குகளை ஆண்டின்` is retained)
-- scan 486 — `நபர்வாரி`; `திட்டங்களுக்காக`; `அதனால் அதற்கு...`
-- scan 488 — `வற்புறுத்திப் பேசி`
-- scan 489 — `மெத்த பெருமையோடு`
-- scan 490 — `கேட்கின்ற விளக்கத்திற்கு`; comma before `அதாவது`
-- scan 491 — `முதலிலே அறிவித்த`
+1. scan 492 — `எடுத்துச் சொல்லப்பட்டிருந்தாலும் கூட` → `எடுத்துச் சொல்லப்பட்டிருந்தாலும்கூட`
+2. scan 492 — `குறைந்தபட்ச உணவு, உடை, உறைவிடம்` → `குறைந்த பட்ச உணவு; உடை, உறைவிடம்`
+3. scan 494 — punctuation after `உடல் ஊனம் உற்றோர்`: comma → semicolon
+4. scan 496 — `மிகவும் அதிகமாக தேவை` → `மிகமிக அதிகமாக தேவை`
 
-Scans **492–510 remained unchanged** in Batch 1.
+The **491→492** incoming continuation and **500→501** working-split transition remain PASS. Printed English `Minimum Level of Consumption` and `"5 acres owning"` is preserved.
 
 ## Gate-E cadence
 
 - Batch 1 — **482–491 / 10 pages / COMPLETE**
-- Batch 2 — **492–501 / 10 pages / NEXT**
-- Batch 3 FINAL — **502–510 / 9 pages**
+- Batch 2 — **492–501 / 10 pages / COMPLETE**
+- Batch 3 FINAL — **502–510 / 9 pages / NEXT**
 
-Gate E is strict source-fidelity verification. Tamil becomes fully VERIFIED only after all **29/29** pages are verified.
+Gate E is strict source-fidelity verification. Tamil becomes fully VERIFIED only after all **29/29** pages are verified with no unresolved readings.
 
 ## Source authority
 
@@ -77,26 +73,26 @@ Use only the controlling **2007 anthology pixels**.
 
 Do not import wording from web sources, Official Reports, alternate anthologies, released speeches, other witnesses, or OCR output used as a substitute for reading the rendered source.
 
-Preserve genuine source-visible spellings, punctuation, numerals, repetitions, speaker labels/interventions, printed English and source-page boundaries. Correct only where the controlling pixels prove the first-pass transcript wrong.
+Preserve genuine source-visible spellings, punctuation, numerals, repetitions, speaker labels/interventions, printed English and source-page boundaries. Correct only where the controlling pixels prove the current transcript wrong.
 
 ## Exact next activity
 
-Perform **Speech 18 Gate E Batch 2 — scans 492–501 / exactly 10 pages**.
+Perform **Speech 18 Gate E Batch 3 FINAL — scans 502–510 / exactly 9 pages**.
 
 Requirements:
 
-1. strictly compare scans **492–501** against the controlling anthology pixels;
-2. verify exactly **10/10** source-page sections;
+1. strictly compare scans **502–510** against part021 local pages **2–10**;
+2. verify exactly **9/9** source-page sections;
 3. apply every source-fidelity correction proven by the pixels;
 4. record a correction ledger with scan number, before→after wording and occurrence count;
 5. preserve genuine source-visible oddities rather than normalizing them;
-6. preserve the **491→492** incoming continuation;
-7. preserve the working-split transition and any textual continuation across **500→501**;
-8. preserve figures, quotations, repetitions, printed English and source-page boundaries;
-9. import **0 outside wording**;
-10. leave scans **482–491** unchanged;
-11. leave scans **502–510** unchanged;
-12. after Batch 2, Gate E should be **20/29 verified** and Tamil must remain **PARTIALLY VERIFIED / verified_against_scan=false**;
+6. preserve the incoming **501→502** continuation;
+7. preserve figures, quotations, repetitions, printed English and source-page boundaries;
+8. preserve scan **510** source close / ornament;
+9. reconfirm hard boundary **510→511 — PASS** and ensure no Speech-19 wording enters Speech 18;
+10. import **0 outside wording**;
+11. leave scans **482–501** unchanged;
+12. after successful verification, Gate E should be **PASS / COMPLETE / 29 of 29**; if unresolved readings remain **0**, set Tamil to **VERIFIED / verified_against_scan=true**;
 13. synchronize Speech-18 and anthology controls;
-14. exact next after Batch 2: **Gate E Batch 3 FINAL — scans 502–510 / exactly 9 pages**;
-15. do not begin the final batch or Speech 19 in the same activity.
+14. establish the exact Gate-F next activity using the repository's existing English-work convention. Gate F uses up to **30 source pages per iteration** and only the final remainder may be fewer; because Speech 18 has **29 pages total**, the expected Gate-F next activity is **Speech 18 Gate F FINAL — scans 482–510 / 29 pages**, unless live controls establish a different source-specific rule;
+15. do not begin Gate F or Speech 19 in the same activity.
