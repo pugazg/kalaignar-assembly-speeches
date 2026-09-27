@@ -73,8 +73,8 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate D — **PASS / COMPLETE / 35/35 pages / 34/34 internal transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / scans 511–545 / 35 of 35 source-verified / 26 cumulative corrections / 0 unresolved**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- Gate F — **IN PROGRESS / Batch 1 PASS-COMPLETE / scans 511–540 / 30 of 35 translated / 0 blockers / 0 Tamil changes**
-- English — **IN PROGRESS / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- Gate F — **COMPLETE / scans 511–545 / 35 of 35 translated / 0 blockers / 0 Tamil changes**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
 - Gates G–H — **NOT STARTED**
 - release — **NOT RELEASED**
 - Speech 18 — **RELEASED / CLOSED / locked**
@@ -321,8 +321,29 @@ Tamil is now **VERIFIED / verified_against_scan=true**.
 - scans **541–545** — **NOT TRANSLATED**
 - Gate G — **NOT STARTED**
 
+## Gate F Batch 2 FINAL — scans 541–545
+
+**PASS / COMPLETE — exactly 5 pages translated; cumulative 35 of 35.**
+
+- translation authority — **final Gate-E-verified Tamil only**
+- cumulative English source-page sections — **511→545 / 35 / exactly once / ordered**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-printed English on scan **542** — **preserved verbatim**
+- speaker changes / interventions on scans **544–545** — **preserved**
+- terminal boundary **545→546** — **PASS / scan 546 excluded**
+- Tamil — **VERIFIED / unchanged / verified_against_scan=true**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+
+## Gate F closure
+
+**COMPLETE — scans 511–545 / 35 of 35 translated / 0 blockers / 0 Tamil changes.**
+
+Gate G is **READY / NOT STARTED**.
+
 ## Exact next activity
 
-Perform **Speech 19 Gate F Batch 2 FINAL — scans 541–545 / exactly 5 pages** using only the final Gate-E-verified Tamil.
+Perform **Speech 19 Gate G Batch 1 — scans 511–540 / exactly 30 pages** reviewing the Gate-F English against the final verified Tamil.
 
-Do not begin Gate G in the same activity.
+Do not begin the Gate-G final remainder (scans 541–545) in the same activity.
