@@ -155,8 +155,42 @@ Batch 1 lies wholly inside part021. Batch 2 crossed the part021→part022 workin
 - Gates D–H — **NOT STARTED**
 - release — **NOT RELEASED**
 
+## Gate C.5 disposition
+
+**N/A / CLOSED — modern 2007 typesetting.**
+
+- inspected scope — **scans 511–545 / 35 pages**
+- page-specific legacy Tamil typeform anomaly — **none observed**
+- historical-glyph corrections — **0**
+- unresolved historical-glyph readings — **0**
+- Tamil wording changes — **0**
+- source-page markers — **unchanged / 511→545 / 35/35**
+
+## Gate D structural completeness audit
+
+**PASS / COMPLETE — 35/35 pages / 34/34 internal transitions / 0 completeness corrections.**
+
+- source-page markers — **511→545 / 35 / exactly once / ordered**
+- missing pages — **0**
+- duplicate pages — **0**
+- empty page sections — **0**
+- hard boundaries **510→511 / 545→546** — **PASS**
+- working-split transition **525→526** — **PASS**
+- all **34/34** internal page transitions — **structurally continuous**
+- source heading/date and speaker labels — **represented**
+- speaker changes/interventions on scans **544–545** — **represented**
+- quotations / figures / repetitions — **structurally represented**
+- source-printed English on scans **523–525 / 535 / 542** — **represented**
+- scan **539** printed `foundation, weir pie` — **represented as printed**
+- scan **546** content — **excluded**
+- completeness corrections — **0**
+- Tamil wording changes — **0**
+- outside wording imported — **0**
+
+Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**.
+
 ## Exact next activity
 
-Perform **Speech 19 Gate C.5 disposition + Gate D structural completeness audit**.
+Perform **Speech 19 Gate E Batch 1 — scans 511–520 / exactly 10 pages**.
 
-Do not begin Gate E in the same activity.
+Do not begin Gate E Batch 2 in the same activity.
