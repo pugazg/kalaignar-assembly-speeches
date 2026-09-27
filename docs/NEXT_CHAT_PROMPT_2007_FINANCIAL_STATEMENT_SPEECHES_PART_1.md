@@ -1,98 +1,82 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 19 Gate H archival/release audit
+# NEXT CHAT PROMPT — completed 2007 financial-statement speeches Part 1 / new source startup
 
-Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Durable released state
+## Completed source
 
-Speeches **1–18 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English.
+The controlling source:
 
-Do not reopen any released speech unless a separate source-backed defect is discovered.
+`TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1.pdf`
 
-## Speech 19 authoritative pre-release state
+is **COMPLETE / CLOSED**.
 
-Working entry:
+Locked source identity:
+
+- printed title — `நிதிநிலை அறிக்கை மீது கலைஞரின் சட்டமன்ற உரைகள் (பாகம் - 1)`
+- physical pages — **546**
+- bytes — **393,027,493**
+- SHA-256 — `e2bc9965ae2f03008e85abaedd7f601971a5699d8a92c044e9bd2346496c3932`
+- mapped speech units — **19**
+- speech body — **scans 18–545**
+- scan 546 — **closing portrait/back matter**
+
+All **19 mapped speech units** have completed their applicable archival workflow.
+
+## Final Speech 19 state
 
 `speeches/1982/1982-03-06-financial-statement-debate/`
 
-Source:
-
-- label/date — **உரை : 19 / 06.03.1982**
-- canonical date — **1982-03-06**
-- scans — **511–545**
-- printed pages — **510–544**
-- page count — **35**
-- hard boundaries **510→511 / 545→546 — PASS**
-- scan 510 — **Speech 18 close / excluded**
-- scan 546 — **closing portrait/back matter / excluded**
-
-Current gates:
-
-- Gate C — **PASS / COMPLETE**
-- Gate C.5 — **N/A / CLOSED**
-- Gate D — **PASS / COMPLETE — 35/35 / 34/34 internal transitions**
-- Gate E — **PASS / COMPLETE — 35/35 source-verified / 26 corrections / 0 unresolved**
+- source label/date — **உரை : 19 / 06.03.1982**
+- scans — **511–545 / printed pp.510–544 / 35 pages**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- Gate F — **COMPLETE — 35/35 translated / 0 blockers / 0 Tamil changes**
-- Gate G — **PASS / COMPLETE — 35/35 English pages reviewed**
-- Gate-G refinements — **14**
-- Gate-G blockers — **0**
-- verified-Tamil changes during Gate G — **0**
-- outside English imported — **0**
+- Gate-E corrections — **26 / 0 unresolved**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **READY / NOT STARTED**
-- release — **NOT RELEASED / NOT INDEXED**
+- Gate-G refinements — **14 / 0 blockers / 0 Tamil changes**
+- Gate H — **PASS / COMPLETE**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **released pointer**
+- unique date **1982-03-06** — **indexed**
+- release — **RELEASED / CLOSED**
 
-Gate-G FINAL refinements were on scans **541 / 543 / 544 / 545** only. Source-printed English on scan **542** remained verbatim. Speaker labels/interventions on scans **544–545** remain preserved.
+Gate-H audit confirmed:
 
-## Gate-H rule
+- Tamil markers **511→545 / 35 / exactly once / ordered**
+- English source-page sections **511→545 / 35 / exactly once / ordered**
+- all **34/34** merged transitions — **PASS**
+- key continuations **520→521 / 525→526 / 530→531 / 542→543** — **PASS**
+- source-printed English **523–525 / 535 / 542** — **preserved verbatim**
+- scan **539** `foundation, weir pie` — **preserved exactly as printed**
+- speaker labels/interventions **544–545** — **preserved**
+- hard boundaries **510→511 / 545→546** — **PASS**
+- all **26 Gate-E corrections** and **14 Gate-G refinements** — **rechecked / incorporated**
 
-Gate H is an **archival/release audit**. It must not rewrite verified Tamil or Gate-G-verified English merely for style.
+## Locked released-source rule
 
-Expected Gate-H wording changes:
+Do **not** restart, retranscribe, retranslate, normalise or otherwise alter released layers from this completed anthology merely to process a new PDF.
 
-- Tamil — **0**
-- English — **0**
+A released entry may be changed only when a separate concrete defect is explicitly identified and supported by its controlling source.
 
-If a separate concrete defect is discovered, do not silently fix it inside Gate H. Record it and reopen the appropriate earlier gate instead.
+Special indexing decisions remain authoritative:
+
+- Speech 17 is a source-preserved **multi-date** unit and remains intentionally absent from single-date indexes.
+- Speech 12 / 07.03.1973 remains an **independent released parallel witness**; `1973-03-07-financial-statement-reply` remains the sole canonical same-date index record.
 
 ## Exact next activity
 
-Perform **Speech 19 Gate H archival/release audit**.
+Proceed only when a **new Assembly-speeches PDF** is attached or otherwise supplied as a new controlling source.
 
-Requirements:
+At startup:
 
-1. fetch live `main` and treat it as authoritative;
-2. verify Tamil source-page markers **511→545 / 35 / exactly once / ordered**;
-3. verify English source-page sections **511→545 / 35 / exactly once / ordered**;
-4. verify Tamil is **VERIFIED / verified_against_scan=true** and English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**;
-5. recheck all **34/34** merged page transitions for mechanical duplication or omission;
-6. preserve key page-spanning continuations and the working-split transition **525→526**;
-7. preserve source-printed English verbatim on scans **523–525 / 535 / 542**;
-8. preserve scan **539** source-printed `foundation, weir pie` exactly as printed;
-9. preserve speaker labels/interventions and turn-taking on scans **544–545**;
-10. recheck hard boundaries **510→511 / 545→546 — PASS** and keep scans 510 / 546 excluded;
-11. recheck all **26 Gate-E corrections** and all **14 Gate-G refinements** as already incorporated;
-12. Gate-H wording changes should remain **0 Tamil / 0 English**;
-13. confirm canonical bilingual `transcript.md` is complete: verified Tamil followed by Gate-G-verified English;
-14. create/retire `translation.md` to the standard released pointer used by prior speeches, pointing to canonical `transcript.md` and `translation-review.md`;
-15. update `metadata.json` release fields to **RELEASED / Gate H PASS-COMPLETE / canonical bilingual true** only after every check passes;
-16. add the unique date **1982-03-06** to `data/speeches.json` exactly once, following the established Speech-18 schema and preserving chronological order;
-17. add the Speech-19 row to the root dated speech table exactly once, following the established anthology-row pattern;
-18. synchronize Speech README, source-notes, verification-log, translation-review, anthology mapping/source README, handover, root README and this continuation prompt;
-19. confirm Speech 18 and all earlier released speeches remain unchanged;
-20. after a clean audit, set Speech 19 to **RELEASED / CLOSED through Gate H**;
-21. after Speech 19 closes, mark this 2007 financial-statement Part-1 anthology workflow **COMPLETE / all 19 mapped speech units processed**, while preserving the special non-single-date / parallel-witness indexing rules already recorded for earlier speeches.
+1. read `docs/ARCHIVAL_WORKFLOW.md` completely;
+2. read `docs/HANDOVER_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md` completely;
+3. read `docs/START_NEXT_ASSEMBLY_PDF_PROMPT.md` completely;
+4. inspect live `main` for overlap before creating anything;
+5. inspect the actual rendered new PDF before deriving publication metadata or source boundaries;
+6. establish filename, page count, bytes and SHA-256 when available;
+7. determine whether the new source is a single speech or an anthology;
+8. if it is an anthology, complete Gate A/B structural mapping before transcription;
+9. treat any overlapping dates as independent source witnesses unless the repository already defines another explicit relationship;
+10. preserve all released material from this completed source unchanged unless a separate source-backed defect requires reopening.
 
-Do not use OCR, web, Official Reports, alternate anthologies or other witnesses to alter archival wording during Gate H.
-
-If all checks pass, exact resulting state:
-
-- Tamil — **VERIFIED**
-- English — **VERIFIED AGAINST TAMIL**
-- Gate H — **PASS / COMPLETE**
-- canonical bilingual transcript — **COMPLETE**
-- Gate-H wording changes — **0 Tamil / 0 English**
-- `translation.md` — **released pointer**
-- unique-date indexes — **synchronized**
-- release — **RELEASED / CLOSED**
-- 2007 financial-statement speeches Part 1 — **all 19 speech units processed / workflow complete**
+Do not assume the next PDF shares this anthology's page offset, numbering, publication metadata, speech boundaries or indexing treatment.
