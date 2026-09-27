@@ -71,8 +71,8 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate C transcription — **PASS / COMPLETE / scans 511–545 / 35 of 35 pages first-pass**
 - Gate C.5 — **N/A / CLOSED / 0 historical-glyph corrections**
 - Gate D — **PASS / COMPLETE / 35/35 pages / 34/34 internal transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS / Batches 1–3 PASS-COMPLETE / scans 511–540 / 30 of 35 source-verified / 16 cumulative corrections / 0 unresolved**
-- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- Gate E — **PASS / COMPLETE / scans 511–545 / 35 of 35 source-verified / 26 cumulative corrections / 0 unresolved**
+- Tamil — **VERIFIED / verified_against_scan=true**
 - Gates F–H — **NOT STARTED**
 - release — **NOT RELEASED**
 - Speech 18 — **RELEASED / CLOSED / locked**
@@ -265,8 +265,45 @@ Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**.
 8. **scan 537** — `எந்தக் கட்சியையும் சாராத ஒரு பெரிய அந்தக் கவலை தரும் சம்பவங்களை எடுத்துக் காட்டியிருக்கிறார்கள்.` → `எந்தக் கட்சியையும் சாராத ஏடுகளிலே அந்த கவலை தரும் சம்பவங்களை எடுத்துக் காட்டியிருக்கிறார்கள்.`.
 9. **scan 538** — `2 லட்ச ரூபாய் அளவுக்குத்தான் நடு அதன்மேலே ஆஸ்பெஸ்டாஸ் தகடுகள் போட` → `2 லட்ச ரூபாய் அளவுக்குத் தூண் நட்டு அதன்மேலே ஆஸ்பெஸ்டாஸ் தகடுகள் போட`.
 
+## Gate E Batch 4 FINAL — scans 541–545
+
+**PASS / COMPLETE — printed pp.540–544 / exactly 5 pages; cumulative 35 of 35 source-verified.**
+
+- source-fidelity corrections — **10 entries / 10 occurrences / 4 affected scans**
+- affected scans — **541 / 542 / 543 / 544**
+- cumulative Gate-E corrections — **26**
+- cumulative affected scans — **14**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- source-page markers — **511→545 / unchanged / exactly once / ordered**
+- source-printed English on scan **542** — **preserved exactly as printed**
+- speaker changes / interventions on scans **544–545** — **verified and preserved**
+- terminal boundary **545→546** — **PASS / scan 546 portrait-back matter excluded**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate E — **PASS / COMPLETE / 35 of 35**
+- Gate F — **NOT STARTED**
+
+### Gate-E Batch-4 correction ledger
+
+1. **scan 541** — `வெளிநாட்டில் தயாரிக்கப்பட்ட சேஸிஸ்களைக்` → `வெளிநாட்டில் தயாரிக்கப்படும் சேஸிஸ்களைக்`.
+2. **scan 542** — `ஃபண்ட்ஸ் ஒதுக்கீடு` → `பண்ட்ஸ் ஒதுக்கீடு`.
+3. **scan 542** — `இந்த ஆட்சி என்றைக்கு கொளுவுக்கு வந்ததோ` → `இந்த ஆட்சி என்றைக்கு தொழுவுக்கு வந்ததோ`.
+4. **scan 543** — `400 சாட்சியங்கள் விசாரிக்கப்படவேண்டிய சூழ்நிலையில்` → `400 சாட்சியங்கள் விசாரிக்கப்பட வேண்டிய சூழ்நிலையில்`.
+5. **scan 543** — `சதி செய்திருக்கிறோம் என்கிற அளவுக்கு வழக்கு` → `சதி செய்கிறோம் என்கிற அளவுக்கு வழக்கு`.
+6. **scan 544** — `அவைகளுக்கு எல்லாம் இறுதியில் பதில் கிடைக்கும்` → `அவைகளுக்கு எல்லாம் இறுதியிலே பதில் கிடைக்கும்`.
+7. **scan 544** — `எனக்குப் பதில்சொல்வதற்கோ` → `எனக்குப் பதில் சொல்வதற்கோ`.
+8. **scan 544** — `எனக்கு பலவீனம் ஏற்பட்டுத்த முடியவில்லை` → `எனக்கு பலவீனம் ஏற்படுத்த முடியவில்லை`.
+9. **scan 544** — `வழக்குகள் நடைபெறுகின்றதே தவிர` → `வழக்குகள் நடைபெறுகிறதே தவிர`.
+10. **scan 544** — `அதைப்போல நாங்கள் போடவில்லை` → `அதைப்போல நாங்கள் போட்டவில்லை`.
+
+## Gate E closure
+
+**PASS / COMPLETE — scans 511–545 / 35 of 35 source-verified / 26 total corrections / 0 unresolved.**
+
+Tamil is now **VERIFIED / verified_against_scan=true**.
+
 ## Exact next activity
 
-Perform **Speech 19 Gate E Batch 4 FINAL — scans 541–545 / exactly 5 pages**.
+Perform **Speech 19 Gate F Batch 1 — scans 511–540 / exactly 30 pages** using only the final Gate-E-verified Tamil as the translation source.
 
-Do not begin Gate F in the same activity.
+Do not begin the Gate-F final remainder (scans 541–545) in the same activity.
