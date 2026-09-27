@@ -77,6 +77,26 @@ Scan 493 deliberately preserves the Gate-E-verified Tamil's printed unit `பை
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - Gate H — **READY / NOT STARTED / NOT RELEASED**
 
+## Gate H — canonical bilingual merge / release closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- verified Tamil source-page markers **482→510** — **29/29 / exactly once / ordered**
+- Gate-G-verified English source-page sections **482→510** — **29/29 / exactly once / ordered**
+- canonical `transcript.md` — **complete verified Tamil followed by verified English**
+- all **6** Gate-G refinements — **rechecked**
+- all **28/28** merged page transitions — **PASS / no mechanical duplication or omission**
+- continuations **488→489 / 491→492 / 500→501 / 501→502** — **preserved**
+- source-printed English on scans **492 / 501 / 506** — **preserved verbatim**
+- Gate-E totals — **20 correction entries / 20 occurrences / 0 unresolved readings**
+- Gate-G totals — **6 refinements / 0 blockers / 0 Tamil changes**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- hard boundaries **481→482 / 510→511** — **preserved**
+- `translation.md` — **retired to the standard released pointer**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- release disposition — **Speech 18 RELEASED / CLOSED**
+
 ## Exact next activity
 
-Perform **Speech 18 Gate H archival/release audit**. Do not begin Speech 19 in the same activity.
+Begin **Speech 19 source intake / Gate C setup — scan 511 onward / source label `உரை : 19 / 06.03.1982`**. Do not begin Speech 19 transcription in this same activity.
