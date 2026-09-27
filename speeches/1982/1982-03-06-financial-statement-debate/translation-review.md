@@ -136,8 +136,48 @@ No scans or outside witnesses were consulted for Gate G. No wording was imported
 - exact next — **Gate G Batch 2 FINAL / scans 541–545 / exactly 5 pages**
 - do not begin — **Gate H**
 
+## Gate G — Batch 2 FINAL / scans 541–545
+
+**PASS / COMPLETE — printed pp.540–544 / exactly 5 English source-page sections reviewed; cumulative 35 of 35.**
+
+Review authority: the final Gate-E-verified Tamil in `transcript.md` only.
+
+- reviewed scans — **541–545 / 5 pages**
+- cumulative reviewed scans — **511–545 / 35 pages / exactly once / ordered**
+- Gate-G FINAL refinements — **4 entries / 4 occurrences / 4 affected scans**
+- affected scans — **541 / 543 / 544 / 545**
+- cumulative Gate-G refinements — **14**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-printed English on scan **542** — **preserved verbatim**
+- speaker labels / interventions / turn-taking on scans **544–545** — **preserved**
+- hard terminal boundary **545→546** — **PASS / scan 546 excluded**
+- source-page sections **511→545** — **unchanged / exactly once / ordered**
+- Tamil — **VERIFIED / unchanged / verified_against_scan=true**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+
+## Gate-G FINAL refinement ledger
+
+1. **scan 541** — `Thus, leaving Tata Engineering aside, 555 chassis have been purchased from Ashok Leyland by paying Rs.88,52,805 more.` → `Thus, Tata Engineering was passed over and 555 chassis were purchased from Ashok Leyland at an additional cost of Rs.88,52,805.`
+2. **scan 543** — `in a case alleging that we tried to murder Mrs. Indira Gandhi, that we were conspiring to that extent.` → `in a case alleging that we tried to murder Mrs. Indira Gandhi and conspired to do so.`
+3. **scan 544** — `But I think he also said something to the effect that only if he were eliminated would there be some benefit to me.` → `But I think he also said something to the effect that I would somehow benefit only if he were eliminated.`
+4. **scan 545** — `It is wrong for him to add up all those cases and calculate them as cases filed by the Government.` → `It is wrong for him to add up all those cases and count them as cases filed by the Government.`
+
+## Gate-G closure
+
+**PASS / COMPLETE — scans 511–545 / 35 of 35 English source-page sections reviewed.**
+
+- total refinements — **14**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- outside English imported — **0**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
+
 ## Exact next activity
 
-Review **Speech 19 Gate G Batch 2 FINAL — scans 541–545 / exactly 5 pages** against the final verified Tamil.
+Perform **Speech 19 Gate H archival/release audit**.
 
-Do not begin Gate H in the same activity.
+Do not release or index Speech 19 unless the Gate-H audit passes.
