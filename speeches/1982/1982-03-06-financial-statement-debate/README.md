@@ -76,8 +76,10 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate F — **COMPLETE / scans 511–545 / 35 of 35 translated / 0 blockers / 0 Tamil changes**
 - Gate G — **PASS / COMPLETE / scans 511–545 / 35 of 35 reviewed / 14 refinements / 0 blockers / 0 Tamil changes**
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **READY / NOT STARTED**
-- release — **NOT RELEASED**
+- Gate H — **PASS / COMPLETE**
+- release — **RELEASED / CLOSED / indexed**
+- canonical bilingual transcript — **COMPLETE**
+- Gate-H wording changes — **0 Tamil / 0 English**
 - Speech 18 — **RELEASED / CLOSED / locked**
 - outside wording imported — **0**
 
@@ -397,8 +399,29 @@ Gate G is **IN PROGRESS — Batch 1 PASS / COMPLETE / scans 511–540 / 30 of 35
 3. scan **544** — clarified the reported “benefit if eliminated” construction without changing the attributed claim.
 4. scan **545** — `calculate them as cases` → `count them as cases`.
 
+## Gate H archival/release audit
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- canonical bilingual `transcript.md` — **COMPLETE**
+- verified Tamil source-page markers — **511→545 / 35/35 / exactly once / ordered**
+- Gate-G-verified English source-page sections — **511→545 / 35/35 / exactly once / ordered**
+- all **34/34** merged page transitions — **PASS / no mechanical duplication or omission**
+- key continuations **520→521 / 525→526 / 530→531 / 542→543** — **PASS / preserved**
+- working-split transition **525→526** — **PASS / preserved**
+- all **26** Gate-E corrections — **rechecked / incorporated**
+- all **14** Gate-G refinements — **rechecked / incorporated**
+- source-printed English on scans **523–525 / 535 / 542** — **preserved verbatim**
+- scan **539** `foundation, weir pie` — **preserved exactly as printed**
+- speaker labels/interventions / turn-taking on scans **544–545** — **preserved**
+- hard boundaries **510→511 / 545→546** — **PASS / scans 510 and 546 excluded**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- outside wording imported — **0**
+- `translation.md` — **released pointer**
+- unique canonical date **1982-03-06** — **indexed exactly once**
+- release — **RELEASED / CLOSED**
+- 2007 financial-statement speeches Part 1 — **COMPLETE / all 19 mapped speech units processed**
+
 ## Exact next activity
 
-Perform **Speech 19 Gate H archival/release audit**.
-
-Do not release or index Speech 19 unless Gate H passes.
+Proceed only with a **new controlling source**. Do not reopen Speech 19 or any other released speech without a separate concrete source-backed defect.
