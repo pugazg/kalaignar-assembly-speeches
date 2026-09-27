@@ -52,10 +52,11 @@ Working split 2:
 - printed pages — **525–544**
 - Speech-19 coverage — **20 pages**
 - split page count — **21**
-- split bytes / SHA-256 — **not recorded in live-main controls at setup time**
+- split bytes — **15,522,557**
+- split SHA-256 — `7fc6e4fb4e264c9c4b836150549fc0c8c45458bc9a3869ac313ff6708fb5ceed`
 - boundary witness — local **20 = scan 545 / Speech 19 close / included**; local **21 = scan 546 / closing portrait-back matter / excluded**
 
-The full controlling source hash remains authoritative. The second split's missing convenience-file integrity metadata must not be guessed.
+The full controlling source hash remains authoritative. During Gate-C Batch 1, the user-supplied part022 file was available and its convenience-file integrity metadata was resolved directly: **15,522,557 bytes / SHA-256 `7fc6e4fb4e264c9c4b836150549fc0c8c45458bc9a3869ac313ff6708fb5ceed`**.
 
 ## Source authority
 
@@ -67,8 +68,8 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 
 - source intake — **PASS / COMPLETE**
 - Gate C setup — **PASS / COMPLETE**
-- Gate C transcription — **NOT STARTED / 0 of 35 pages**
-- Tamil — **NOT TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Gate C transcription — **IN PROGRESS / Batch 1 PASS-COMPLETE / scans 511–520 / 10 of 35 pages**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 - Gates D–H — **NOT STARTED**
 - release — **NOT RELEASED**
@@ -79,15 +80,31 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 
 Fixed cadence: **10 source pages per iteration**; only the final remainder may be fewer.
 
-1. Batch 1 — **511–520 / printed pp.510–519 / exactly 10 pages**
+1. Batch 1 — **511–520 / printed pp.510–519 / exactly 10 pages / PASS-COMPLETE**
 2. Batch 2 — **521–530 / printed pp.520–529 / exactly 10 pages**
 3. Batch 3 — **531–540 / printed pp.530–539 / exactly 10 pages**
 4. Batch 4 FINAL — **541–545 / printed pp.540–544 / exactly 5 pages**
 
 Batch 1 lies wholly inside part021. Batch 2 crosses the part021→part022 working-split boundary at **525→526**; preserve that transition explicitly when Batch 2 is processed.
 
+## Gate C Batch 1 result
+
+**PASS / COMPLETE — scans 511–520 / printed pp.510–519 / exactly 10 pages; cumulative 10 of 35 first-pass transcribed.**
+
+- source-page markers — **511→520 / 10 / exactly once / ordered**
+- source heading **உரை : 19 / 06.03.1982** — **preserved**
+- speaker label — **preserved**
+- unresolved first-pass readings — **0**
+- outside wording imported — **0**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- scan **520** — **ends mid-sentence at `இந்த`; continuation belongs to scan 521 and was not imported**
+- scans **521–545** modified — **0**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+- part021 Batch-1 source — **local 11–20 / global scans 511–520**
+- part022 integrity metadata — **resolved from the user-supplied split: 15,522,557 bytes / SHA-256 `7fc6e4fb4e264c9c4b836150549fc0c8c45458bc9a3869ac313ff6708fb5ceed`**
+
 ## Exact next activity
 
-Perform **Speech 19 Gate C Batch 1 — scans 511–520 / exactly 10 pages**.
+Perform **Speech 19 Gate C Batch 2 — scans 521–530 / exactly 10 pages**.
 
-Do not process scans 521 onward in the same Gate-C iteration.
+Batch 2 crosses the working-split boundary **525→526**. Preserve and audit that transition explicitly. Do not process scans 531 onward in the same Gate-C iteration.
