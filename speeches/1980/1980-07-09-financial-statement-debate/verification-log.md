@@ -359,3 +359,38 @@ Genuine source-visible forms retained include scan 482 `மாண்புமி
 - Gate H — **READY / NOT STARTED / NOT RELEASED**
 - exact next — **Speech 18 Gate H archival/release audit**
 - do not begin — **Speech 19**
+
+## Gate H closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- verified Tamil source-page markers — **482→510 / 29/29 / exactly once / ordered**
+- Gate-G-verified English source-page sections — **482→510 / 29/29 / exactly once / ordered**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- all **28/28** merged page transitions — **PASS / no mechanical duplication or omission**
+- continuations **488→489 / 491→492 / 500→501 / 501→502** — **PASS / preserved**
+- Gate-G refinements on scans **484 / 491 / 493 / 500 / 505 / 508** — **rechecked / present**
+- superseded pre-Gate-G wording at those six sites — **absent**
+- source heading/date / Tamil and English speaker labels — **preserved**
+- figures / quotations / repetitions / rhetorical questions / interventions — **preserved**
+- source-printed English `Minimum Level of Consumption` / `"5 acres owning"` / `(Contractor)` — **preserved verbatim**
+- Gate-E correction total — **20 entries / 20 occurrences / 0 unresolved**
+- Gate-G refinement total — **6 / 0 blockers / 0 Tamil changes**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- hard boundaries **481→482 / 510→511** — **PASS / preserved**
+- scan 511 / Speech 19 — **excluded / NOT STARTED**
+- `translation.md` — **retired release pointer**
+- `data/speeches.json` — **indexed**
+- root dated speech table — **indexed**
+- release disposition — **Speech 18 RELEASED / CLOSED**
+
+## Downstream state
+
+- Gate C–G — **COMPLETE for Speeches 1–18**
+- Gate H — **PASS / COMPLETE for Speeches 1–18**
+- Speech 18 — **RELEASED / CLOSED**
+- Speech 19 — **NOT STARTED**
+
+## Exact next activity
+
+Begin **Speech 19 source intake / Gate C setup — scan 511 onward / source label `உரை : 19 / 06.03.1982`**. Do not begin Speech 19 transcription in this Gate-H activity.
