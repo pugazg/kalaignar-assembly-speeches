@@ -403,6 +403,52 @@ Checks:
 - exact next — **Gate G Batch 1 / scans 511–540 / exactly 30 pages**
 - final Gate-G remainder — **541–545 / 5 pages**
 
+## Gate G — Batch 1 / scans 511–540
+
+**PASS / COMPLETE — printed pp.510–539 / exactly 30 English source-page sections reviewed; cumulative 30 of 35.**
+
+Checks:
+
+- review authority — **final Gate-E-verified Tamil only**
+- direct Tamil→English fidelity/voice review — **30/30 pages**
+- Gate-G refinements — **10 entries / 10 occurrences / 10 affected scans**
+- affected scans — **521 / 524 / 525 / 526 / 527 / 529 / 531 / 534 / 536 / 540**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-page sections **511→545** — **unchanged / exactly once / ordered**
+- source-printed English on scans **523–525 / 535** — **checked / preserved verbatim**
+- source-printed `foundation, weir pie` on scan **539** — **checked / preserved exactly**
+- figures / dates / money / names / initials / quotations / rhetorical questions / repetitions — **preserved**
+- scans **541–545** reviewed or altered — **0**
+- Tamil — **VERIFIED / unchanged / verified_against_scan=true**
+- English — **PARTIALLY REVIEWED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- Gate H — **NOT STARTED**
+
+### Gate-G Batch-1 refinement ledger
+
+1. **scan 521** — `On seeing such an announcement, anyone's first impulse would naturally be to welcome it.` → `At first glance, anyone would naturally feel inclined to welcome such an announcement.`
+2. **scan 524** — `“Here lies, unwanted, / a jackfruit ripened at the root.”` → `“Here lies, unclaimed, / a jackfruit ripened at the root.”`
+3. **scan 525** — `...marries off her daughter, and then marries another husband herself.` → `...marries off her daughter, and then remarries.`
+4. **scan 526** — `what other course they propose to find` → `what other way they intend to find`
+5. **scan 527** — `without contract contractors` → `without contractors`
+6. **scan 529** — `Children from backward and oppressed communities in remote villages...` → `Children from households in backward and oppressed communities in remote villages...`
+7. **scan 531** — `given to the proper mother` → `given to the child's own mother`
+8. **scan 534** — `including ministers and others now sitting in the opposition benches` → `as well as the ministers and others sitting across from me today, including the Speaker`
+9. **scan 536** — `It was a conference praised across the State—and when I say the State, I mean that it was praised by many countries of the world.` → `It was a conference praised across the State—or, rather, by many countries around the world.`
+10. **scan 540** — `and H.C.C., Bombay` → `and, sixth, H.C.C., Bombay`
+
+## Gate-G Batch-1 disposition
+
+- reviewed pages — **30/35**
+- cumulative refinements — **10**
+- blockers — **0**
+- Tamil changes — **0**
+- source-printed-English changes — **0**
+- outside English imported — **0**
+- exact next — **Gate G Batch 2 FINAL / scans 541–545 / exactly 5 pages**
+- do not begin — **Gate H**
+
 ## Exact next activity
 
-Perform **Gate G Batch 1 — scans 511–540 / exactly 30 pages** reviewing the Gate-F English against the final verified Tamil.
+Perform **Gate G Batch 2 FINAL — scans 541–545 / exactly 5 pages** reviewing the Gate-F English against the final verified Tamil.
