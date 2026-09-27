@@ -96,7 +96,7 @@
       "541-545 / 5 pages FINAL"
     ],
     "working_split_transition": "525->526",
-    "next_activity": "Gate F Batch 1 / scans 511-540 / exactly 30 pages",
+    "next_activity": "Gate F Batch 2 FINAL / scans 541-545 / exactly 5 pages",
     "gate_e_iteration_page_limit": 10,
     "current_gate_e_batch": "541-545 / 5 pages FINAL / PASS-COMPLETE / 10 corrections",
     "next_gate_e_batch": null,
@@ -104,6 +104,14 @@
       "511-520 / 10 pages",
       "521-530 / 10 pages",
       "531-540 / 10 pages",
+      "541-545 / 5 pages FINAL"
+    ],
+    "gate_f_iteration_page_limit": 30,
+    "gate_f_final_remainder_may_be_under_limit": true,
+    "current_gate_f_batch": "511-540 / 30 pages / PASS-COMPLETE",
+    "next_gate_f_batch": "541-545 / 5 pages FINAL",
+    "planned_gate_f_batches": [
+      "511-540 / 30 pages",
       "541-545 / 5 pages FINAL"
     ]
   },
@@ -283,11 +291,34 @@
     "gate_e_completion_note": "35/35 source pages directly verified against rendered scan pixels; 26 source-fidelity corrections; 0 unresolved; verified_against_scan=true."
   },
   "translation": {
-    "status": "not-started",
-    "gate_f_status": "not-started",
+    "language": "English",
+    "status": "in-progress",
+    "gate_f_status": "in-progress",
     "gate_g_status": "not-started",
     "verified_against_tamil": false,
-    "outside_english_imported": false
+    "translated_scans": "511-540",
+    "translated_printed_pages": "510-539",
+    "translated_page_count": 30,
+    "total_page_count": 35,
+    "gate_f_batch_1_status": "pass-complete",
+    "gate_f_batch_1_scan_pages": "511-540",
+    "gate_f_batch_1_printed_pages": "510-539",
+    "gate_f_batch_1_page_count": 30,
+    "gate_f_batch_1_blocking_questions": 0,
+    "gate_f_batch_1_verified_tamil_changes": 0,
+    "gate_f_batch_1_outside_english_imported": false,
+    "gate_f_batch_1_source_printed_english_scans": [
+      "523",
+      "524",
+      "525",
+      "535",
+      "539"
+    ],
+    "blocking_question_count": 0,
+    "verified_tamil_changes": 0,
+    "outside_english_imported": false,
+    "next_gate_f_batch": "541-545 / 5 pages FINAL",
+    "next_gate": "Gate F Batch 2 FINAL / scans 541-545 / exactly 5 pages"
   },
   "release": {
     "status": "not-released",
