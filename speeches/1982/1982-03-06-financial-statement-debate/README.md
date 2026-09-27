@@ -69,9 +69,11 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - source intake — **PASS / COMPLETE**
 - Gate C setup — **PASS / COMPLETE**
 - Gate C transcription — **PASS / COMPLETE / scans 511–545 / 35 of 35 pages first-pass**
-- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- Gate C.5 — **PROVISIONALLY N/A / explicit disposition next**
-- Gates D–H — **NOT STARTED**
+- Gate C.5 — **N/A / CLOSED / 0 historical-glyph corrections**
+- Gate D — **PASS / COMPLETE / 35/35 pages / 34/34 internal transitions / 0 completeness corrections**
+- Gate E — **IN PROGRESS / Batch 1 PASS-COMPLETE / scans 511–520 / 10 of 35 source-verified / 3 corrections / 0 unresolved**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- Gates F–H — **NOT STARTED**
 - release — **NOT RELEASED**
 - Speech 18 — **RELEASED / CLOSED / locked**
 - outside wording imported — **0**
@@ -189,8 +191,28 @@ Batch 1 lies wholly inside part021. Batch 2 crossed the part021→part022 workin
 
 Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**.
 
+## Gate E Batch 1 — scans 511–520
+
+**PASS / COMPLETE — printed pp.510–519 / exactly 10 pages; cumulative 10 of 35 source-verified.**
+
+- source-fidelity corrections — **3 entries / 3 occurrences / 2 affected scans**
+- affected scans — **518 / 520**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- source-page markers — **511→545 / unchanged / exactly once / ordered**
+- Batch-1 terminal **520→521** continuation — **structurally preserved; scan 521 not source-verified or altered**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- scans **521–545** source-verification status — **NOT STARTED**
+- Gate F — **blocked until Gate E completes all 35 pages**
+
+### Gate-E Batch-1 correction ledger
+
+1. **scan 518** — `1½ நாள் எடுத்து கொண்டு` → `1½ நாள் எடுத்துக் கொண்டு`.
+2. **scan 520** — `எதிர்பார்க்கப்படுகிறது` → `எதிர்பார்க்கப் படுகிறது`.
+3. **scan 520** — `கட்டி முடிக்கப்பட்டன` → `கட்டிமுடிக்கப்பட்டன`.
+
 ## Exact next activity
 
-Perform **Speech 19 Gate E Batch 1 — scans 511–520 / exactly 10 pages**.
+Perform **Speech 19 Gate E Batch 2 — scans 521–530 / exactly 10 pages**.
 
-Do not begin Gate E Batch 2 in the same activity.
+Do not begin Gate E Batch 3 in the same activity.
