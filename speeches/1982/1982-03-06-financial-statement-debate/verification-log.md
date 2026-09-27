@@ -341,6 +341,38 @@ Checks:
 - final Gate-F remainder — **541–545 / 5 pages**
 - do not begin — **Gate F in this Gate-E activity**
 
+## Gate F — Batch 1 / scans 511–540
+
+**PASS / COMPLETE — printed pp.510–539 / exactly 30 pages; cumulative 30 of 35 translated.**
+
+Checks:
+
+- translation authority — **final Gate-E-verified Tamil only**
+- English source-page sections — **511→540 / 30 / exactly once / ordered**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-page alignment — **preserved**
+- heading/date / initial speaker label — **preserved structurally**
+- paragraph order / quotations / rhetorical questions / repetitions — **preserved**
+- figures / dates / money values / names / initials — **preserved**
+- source-printed English on scans **523–525 / 535** — **preserved verbatim**
+- source-printed `foundation, weir pie` on scan **539** — **preserved exactly as printed**
+- page-spanning continuations — **preserved**
+- scans **541–545** translated — **0**
+- Tamil — **VERIFIED / unchanged / verified_against_scan=true**
+- English — **IN PROGRESS / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- Gate G — **NOT STARTED**
+
+## Gate-F Batch-1 disposition
+
+- translated pages — **30/35**
+- blockers — **0**
+- Tamil changes — **0**
+- outside English imported — **0**
+- exact next — **Gate F Batch 2 FINAL / scans 541–545 / exactly 5 pages**
+- do not begin — **Gate G**
+
 ## Exact next activity
 
-Perform **Gate F Batch 1 — scans 511–540 / exactly 30 pages** using only the final Gate-E-verified Tamil.
+Perform **Gate F Batch 2 FINAL — scans 541–545 / exactly 5 pages** from the final Gate-E-verified Tamil only.
