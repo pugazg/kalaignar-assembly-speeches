@@ -340,10 +340,41 @@ Tamil is now **VERIFIED / verified_against_scan=true**.
 
 **COMPLETE — scans 511–545 / 35 of 35 translated / 0 blockers / 0 Tamil changes.**
 
-Gate G is **READY / NOT STARTED**.
+Gate G is **IN PROGRESS — Batch 1 PASS / COMPLETE / scans 511–540 / 30 of 35 reviewed / 10 refinements / 0 blockers / 0 Tamil changes**.
+
+## Gate G Batch 1 — scans 511–540
+
+**PASS / COMPLETE — exactly 30 English source-page sections reviewed; cumulative 30 of 35.**
+
+- review authority — **final Gate-E-verified Tamil only**
+- Gate-G refinements — **10 entries / 10 occurrences / 10 affected scans**
+- affected scans — **521 / 524 / 525 / 526 / 527 / 529 / 531 / 534 / 536 / 540**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-page sections **511→545** — **unchanged / exactly once / ordered**
+- source-printed English on scans **523–525 / 535** — **preserved verbatim**
+- scan **539** `foundation, weir pie` — **preserved exactly as printed**
+- scans **541–545** reviewed or altered — **0**
+- Tamil — **VERIFIED / unchanged / verified_against_scan=true**
+- English — **PARTIALLY REVIEWED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- Gate H — **NOT STARTED**
+
+### Gate-G Batch-1 refinement ledger
+
+1. scan **521** — first-glance welcome phrasing tightened to match `மேலெழுந்த வாரியாக`.
+2. scan **524** — `unwanted` → `unclaimed` in the Bharathidasan line.
+3. scan **525** — `marries another husband herself` → `remarries`.
+4. scan **526** — `what other course they propose to find` → `what other way they intend to find`.
+5. scan **527** — `without contract contractors` → `without contractors`.
+6. scan **529** — restored the source's household/community sense.
+7. scan **531** — `proper mother` → `child's own mother`.
+8. scan **534** — corrected `opposition benches` to the source-controlled `sitting across from me today` sense.
+9. scan **536** — clarified the source's State/world self-correction.
+10. scan **540** — restored the source enumeration `sixth, H.C.C., Bombay`.
 
 ## Exact next activity
 
-Perform **Speech 19 Gate G Batch 1 — scans 511–540 / exactly 30 pages** reviewing the Gate-F English against the final verified Tamil.
+Perform **Speech 19 Gate G Batch 2 FINAL — scans 541–545 / exactly 5 pages** reviewing the Gate-F English against the final verified Tamil.
 
-Do not begin the Gate-G final remainder (scans 541–545) in the same activity.
+Do not begin Gate H in the same activity.
