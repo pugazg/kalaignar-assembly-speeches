@@ -96,10 +96,10 @@
       "541-545 / 5 pages FINAL"
     ],
     "working_split_transition": "525->526",
-    "next_activity": "Gate E Batch 3 / scans 531-540 / exactly 10 pages",
+    "next_activity": "Gate E Batch 4 FINAL / scans 541-545 / exactly 5 pages",
     "gate_e_iteration_page_limit": 10,
-    "current_gate_e_batch": "521-530 / 10 pages / PASS-COMPLETE / 4 corrections",
-    "next_gate_e_batch": "531-540 / 10 pages",
+    "current_gate_e_batch": "531-540 / 10 pages / PASS-COMPLETE / 9 corrections",
+    "next_gate_e_batch": "541-545 / 5 pages FINAL",
     "planned_gate_e_batches": [
       "511-520 / 10 pages",
       "521-530 / 10 pages",
@@ -130,7 +130,7 @@
     "unresolved_reading_count": 0,
     "verified_against_scan": false,
     "outside_wording_imported": false,
-    "next_gate": "Gate E Batch 3 / scans 531-540 / exactly 10 pages",
+    "next_gate": "Gate E Batch 4 FINAL / scans 541-545 / exactly 5 pages",
     "gate_c_batches_completed": 4,
     "last_completed_batch": "541-545 / 5 pages FINAL / PASS-COMPLETE",
     "gate_c5_status": "n-a-closed",
@@ -205,9 +205,9 @@
     "gate_d_working_split_transition": "525->526 / PASS",
     "gate_d_outside_wording_imported": false,
     "gate_e_status": "in-progress",
-    "gate_e_verified_scan_pages": "511-530",
-    "gate_e_verified_printed_pages": "510-529",
-    "gate_e_verified_page_count": 20,
+    "gate_e_verified_scan_pages": "511-540",
+    "gate_e_verified_printed_pages": "510-539",
+    "gate_e_verified_page_count": 30,
     "gate_e_batch_1_status": "pass-complete",
     "gate_e_batch_1_scan_pages": "511-520",
     "gate_e_batch_1_printed_pages": "510-519",
@@ -219,9 +219,9 @@
       "518",
       "520"
     ],
-    "gate_e_cumulative_corrections": 7,
-    "gate_e_cumulative_correction_occurrences": 7,
-    "gate_e_cumulative_affected_scans": 5,
+    "gate_e_cumulative_corrections": 16,
+    "gate_e_cumulative_correction_occurrences": 16,
+    "gate_e_cumulative_affected_scans": 10,
     "gate_e_unresolved": 0,
     "gate_e_batch_2_status": "pass-complete",
     "gate_e_batch_2_scan_pages": "521-530",
@@ -241,7 +241,27 @@
       "523",
       "524",
       "525"
-    ]
+    ],
+    "gate_e_batch_3_status": "pass-complete",
+    "gate_e_batch_3_scan_pages": "531-540",
+    "gate_e_batch_3_printed_pages": "530-539",
+    "gate_e_batch_3_page_count": 10,
+    "gate_e_batch_3_corrections": 9,
+    "gate_e_batch_3_correction_occurrences": 9,
+    "gate_e_batch_3_affected_scans": 5,
+    "gate_e_batch_3_correction_scans": [
+      "532",
+      "535",
+      "536",
+      "537",
+      "538"
+    ],
+    "gate_e_batch_3_source_printed_english_scans": [
+      "535",
+      "539"
+    ],
+    "gate_e_batch_3_scan539_phrase": "foundation, weir pie / preserved as printed",
+    "gate_e_batch_3_scan541_untouched": true
   },
   "translation": {
     "status": "not-started",
