@@ -263,3 +263,41 @@ Genuine source-visible forms retained include scan 482 `மாண்புமி
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - exact next — **Gate E Batch 3 FINAL / scans 502–510 / exactly 9 pages**
 - do not begin — **Gate F / Speech 19**
+
+
+## Gate E — Batch 3 FINAL / scans 502–510
+
+**PASS / COMPLETE — scans 502–510 / printed pp.501–509 / exactly 9 pages; cumulative 29 of 29 source-verified. Gate E CLOSED.**
+
+- source authority — **controlling 2007 anthology pixels only**
+- verified scans — **502–510 / 9 pages**
+- Batch-3 source-fidelity corrections — **3 entries / 3 occurrences / 3 affected scans**
+- cumulative Gate-E corrections — **20 entries / 20 occurrences / 14 affected scans**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- scans **482–501** changed in FINAL Batch 3 — **0**
+- source-page markers / figures / quotations / repetitions / printed English — **preserved**
+- incoming continuation **501→502** — **PASS / preserved**
+- scan **510** source close / ornament — **PASS / preserved**
+- hard boundary **510→511** — **PASS / scan 511 is Speech 19 start / excluded**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate E — **PASS / COMPLETE / CLOSED**
+
+### Batch-3 correction ledger
+
+1. **scan 505** — `தயாரிக்கப்பட்ட ஒரு நிதிநிலை வாசக மாத்திரம் இருக்கிறது என்று நான்` → `தயாரிக்கப்பட்ட ஒரு நிதிநிலை வாசக மாத்திரம்தான் இருக்கிறது என்று நான்`
+2. **scan 506** — `காண்ட்ராக்ட் முறை இருக்காது, முழுதும் அரசுத்துறையாக இருக்கும் என்று` → `காண்ட்ராக்ட் முறை இருக்காது, முழுதும் அரசத்துறையாக இருக்கும் என்று`
+3. **scan 507** — `அவைகளெல்லாம் பட்ஜெட்டிலே நிதிநிலை அறிக்கையிலே இல்லை என்பதைத் தான் நான்` → `அவைகளெல்லாம் பட்ஜெட்டிலே நிதிநிலை அறிக்கையிலே இல்லை என்பதைத்தான் நான்`
+
+## Gate-E closure disposition
+
+- Gate E — **PASS / COMPLETE / CLOSED**
+- verified scans — **482–510 / 29 of 29**
+- final Batch-3 corrections — **3 / 3 occurrences / 3 affected scans**
+- cumulative corrections — **20 / 20 occurrences / 14 affected scans**
+- unresolved — **0**
+- outside wording imported — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- boundary **510→511 — PASS / Speech 19 excluded**
+- exact next — **Gate F FINAL / scans 482–510 / 29 pages**
+- do not begin — **Gate G / Speech 19**
