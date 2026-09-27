@@ -200,9 +200,34 @@ Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**. Gate
 
 Genuine source-visible forms retained include scan 482 `மாண்புமிகு பேரவைத் தலைவரவர்களே`; scan 485 `982.66 கோடிய ரூபாயும்`; scan 488 `ஒலவக்கோடு` / `பற்றாக் குறையை`; scan 489 `திட்டங்களை..`; and scan 491 `குவாலிபிகேஷன்`.
 
+## Gate E — Batch 2 / scans 492–501
+
+**PASS / COMPLETE — scans 492–501 / printed pp.491–500 / exactly 10 pages; cumulative 20 of 29 source-verified.**
+
+- source authority — **controlling 2007 anthology pixels only**
+- verified scans — **492–501 / 10 pages**
+- Batch-2 source-fidelity corrections — **4 entries / 4 occurrences / 3 affected scans**
+- cumulative Gate-E corrections — **17 entries / 17 occurrences / 11 affected scans**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- scans **482–491** changed in Batch 2 — **0**
+- scans **502–510** changed — **0**
+- source-page markers / figures / quotations / repetitions / printed English — **preserved**
+- incoming continuation **491→492** — **PASS / preserved**
+- working-split transition **500→501** — **PASS / preserved**
+- printed English `Minimum Level of Consumption` on scan 492 and `"5 acres owning"` on scan 501 — **preserved**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+### Batch-2 correction ledger
+
+1. **scan 492** — `இந்த மன்றத்திலே எடுத்துச் சொல்லப்பட்டிருந்தாலும் கூட நான் ஒன்றை குறிப்பிட விரும்புகிறேன்.` → `இந்த மன்றத்திலே எடுத்துச் சொல்லப்பட்டிருந்தாலும்கூட நான் ஒன்றை குறிப்பிட விரும்புகிறேன்.`
+2. **scan 492** — `Minimum Level of Consumption அதாவது குறைந்தபட்ச உணவு, உடை, உறைவிடம்.` → `Minimum Level of Consumption அதாவது குறைந்த பட்ச உணவு; உடை, உறைவிடம்.`
+3. **scan 494** — `அந்த முதியோர், கைம் பெண்கள், உடல் ஊனம் உற்றோர், கண்ணொளி இழந்தோர்` → `அந்த முதியோர், கைம் பெண்கள், உடல் ஊனம் உற்றோர்; கண்ணொளி இழந்தோர்`
+4. **scan 496** — `இந்த ஓய்வூதியம் தரப்பட இருக்கிறதா என்ற விவரம் தொழிலாளர்களுக்கு மிகவும் அதிகமாக தேவை.` → `இந்த ஓய்வூதியம் தரப்பட இருக்கிறதா என்ற விவரம் தொழிலாளர்களுக்கு மிகமிக அதிகமாக தேவை.`
+
 ## Exact next
 
-**Gate E Batch 2 — scans 492–501 / exactly 10 pages.**
+**Gate E Batch 3 FINAL — scans 502–510 / exactly 9 pages.**
 
 Batch 2 crosses the working-split boundary: **492–500 = part020 local 17–25; 501 = part021 local 1**. Preserve any source continuation across **500→501** and do not begin scans 502–510 in the same activity.
 
@@ -213,3 +238,5 @@ Completed Gate C confirms **29/29 first-pass pages / 482–510**, with scan **51
 Gate C.5 is now **N/A / CLOSED** and Gate D is **PASS / COMPLETE**. Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false** until Gate E source-fidelity verification begins.
 
 Gate E Batch 1 verified **482–491 / 10 pages** with **13 source-fidelity corrections / 0 unresolved**. Tamil is now **PARTIALLY VERIFIED / verified_against_scan=false**. Batch 2 crosses **500→501** from part020 local 25 to part021 local 1.
+
+Gate-E Batch 3 FINAL uses **part021 local pages 2–10 / scans 502–510**. Preserve the **501→502** continuation, scan-510 close, and hard boundary **510→511**; do not begin Gate F or Speech 19 in the same activity.
