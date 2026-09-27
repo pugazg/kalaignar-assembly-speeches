@@ -68,7 +68,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 
 - source intake — **PASS / COMPLETE**
 - Gate C setup — **PASS / COMPLETE**
-- Gate C transcription — **IN PROGRESS / Batches 1–2 PASS-COMPLETE / scans 511–530 / 20 of 35 pages**
+- Gate C transcription — **IN PROGRESS / Batches 1–3 PASS-COMPLETE / scans 511–540 / 30 of 35 pages**
 - Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 - Gates D–H — **NOT STARTED**
@@ -82,7 +82,7 @@ Fixed cadence: **10 source pages per iteration**; only the final remainder may b
 
 1. Batch 1 — **511–520 / printed pp.510–519 / exactly 10 pages / PASS-COMPLETE**
 2. Batch 2 — **521–530 / printed pp.520–529 / exactly 10 pages / PASS-COMPLETE**
-3. Batch 3 — **531–540 / printed pp.530–539 / exactly 10 pages**
+3. Batch 3 — **531–540 / printed pp.530–539 / exactly 10 pages / PASS-COMPLETE**
 4. Batch 4 FINAL — **541–545 / printed pp.540–544 / exactly 5 pages**
 
 Batch 1 lies wholly inside part021. Batch 2 crossed the part021→part022 working-split boundary at **525→526** and that transition is **PASS / preserved**.
@@ -120,8 +120,25 @@ Batch 1 lies wholly inside part021. Batch 2 crossed the part021→part022 workin
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 - Gates D–H — **NOT STARTED**
 
+## Gate C Batch 3 result
+
+**PASS / COMPLETE — scans 531–540 / printed pp.530–539 / exactly 10 pages; cumulative 30 of 35 first-pass transcribed.**
+
+- source-page markers — **511→540 / 30 / exactly once / ordered**
+- Batch-3 source coverage — **part022 local 6–15 = scans 531–540**
+- page-spanning continuations **531→532 / 532→533 / 533→534 / 534→535 / 535→536 / 536→537 / 537→538 / 538→539 / 539→540** — **preserved**
+- source-printed English on scan **535** — **preserved**
+- source-printed English phrase on scan **539** (`foundation, weir pie`) — **preserved as printed**
+- unresolved first-pass readings — **0**
+- outside wording imported — **0**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- scan **540** — **closes cleanly; scan 541 wording not imported**
+- scans **541–545** modified — **0**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+- Gates D–H — **NOT STARTED**
+
 ## Exact next activity
 
-Perform **Speech 19 Gate C Batch 3 — scans 531–540 / exactly 10 pages**.
+Perform **Speech 19 Gate C Batch 4 FINAL — scans 541–545 / exactly 5 pages**.
 
-Do not process scans 541 onward in the same Gate-C iteration.
+Do not begin Gate C.5 or Gate D in the same iteration.
