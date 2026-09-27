@@ -95,8 +95,8 @@ Treat this 2007 anthology as its own witness.
 - Gate C — **Speeches 1–19 COMPLETE; Speech 19 scans 511–545 / 35 of 35 first-pass / Tamil TRANSCRIBED-NOT-VERIFIED**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–19; Speech 19 modern 2007 typesetting / 0 historical-glyph corrections**
 - Gate D — **PASS / COMPLETE for Speeches 1–19; Speech 19 = 35/35 pages / 34/34 transitions / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–18; Speech 19 Batches 1–3 PASS/COMPLETE / scans 511–540 / 30 of 35 verified / 16 cumulative corrections / 0 unresolved / exact next Batch 4 FINAL scans 541–545**
-- Gate F — **COMPLETE for Speeches 1–18; Speech 18 29 of 29 translated / 0 blockers / 0 Tamil changes; Speech 19 not started**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–19; Speech 19 35/35 verified / 26 cumulative corrections / 0 unresolved / verified_against_scan=true**
+- Gate F — **COMPLETE for Speeches 1–18; Speech 19 NOT STARTED / exact next Batch 1 scans 511–540 / 30 pages**
 - Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–18; Speech 18 29/29 reviewed / 6 refinements / 0 blockers / 0 Tamil changes; Speech 19 not started**
 - Gate H — **Speeches 1–18 PASS / COMPLETE — RELEASED / CLOSED; Speech 19 not started**
 - Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
@@ -106,7 +106,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 17 — **Gate C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 37 Gate-E corrections / 43 Gate-G refinements / 0 blockers / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / canonical bilingual complete / multi-date source unit / no single canonical date / single-date indexes intentionally unchanged**
 - Speech 18 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 20 Gate-E corrections / 6 Gate-G refinements / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / indexed / canonical bilingual complete**
-- Speech 19 — **Gate C PASS/COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E Batches 1–3 PASS-COMPLETE 30/35 / 16 cumulative corrections / 0 unresolved / Tamil PARTIALLY VERIFIED / exact next Gate E Batch 4 FINAL scans 541–545**
+- Speech 19 — **Gate C PASS/COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E PASS-COMPLETE 35/35 / 26 corrections / 0 unresolved / Tamil VERIFIED / verified_against_scan=true / exact next Gate F Batch 1 scans 511–540**
 
 ## Speech 1 durable Gate-C state
 
@@ -1318,7 +1318,7 @@ Do not begin Speech 19 until Speech 18 Gate H is closed.
 - release — **RELEASED / CLOSED**
 - Speech 19 / scan 511 — **excluded / NOT STARTED**
 
-## Speech 19 durable state after Gate E Batch 3
+## Speech 19 durable state after Gate E closure
 
 Working entry:
 
@@ -1328,19 +1328,33 @@ Working entry:
 - Gate C — **PASS / COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E Batches 1–3 — **PASS / COMPLETE / scans 511–540 / 30 of 35 source-verified**
-- cumulative corrections — **16 / 16 occurrences / 10 affected scans**
-- Batch 3 corrections — **9 / scans 532, 535, 536, 537, 538**
+- Gate E — **PASS / COMPLETE / 35 of 35 source-verified**
+- cumulative Gate-E corrections — **26 / 26 occurrences / 14 affected scans**
+- Batch 4 FINAL corrections — **10 / scans 541, 542, 543, 544**
 - unresolved — **0**
-- Government of Tamil Nadu English extract on scan **535** — **preserved as printed**
-- source-printed `foundation, weir pie` on scan **539** — **preserved as printed**
-- scan **541** — **not source-verified or altered**
-- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- source-printed English on scan **542** — **preserved exactly as printed**
+- speaker changes/interventions on scans **544–545** — **verified / preserved**
+- terminal boundary **545→546** — **PASS / portrait-back matter excluded**
+- source-page markers — **511→545 / unchanged / exactly once / ordered**
+- Tamil — **VERIFIED / verified_against_scan=true**
 - outside wording imported — **0**
 - Gate F–H — **NOT STARTED**
 
+FINAL Batch-4 corrections:
+
+1. scan **541** — `தயாரிக்கப்பட்ட சேஸிஸ்களைக்` → `தயாரிக்கப்படும் சேஸிஸ்களைக்`
+2. scan **542** — `ஃபண்ட்ஸ்` → `பண்ட்ஸ்`
+3. scan **542** — `கொளுவுக்கு` → `தொழுவுக்கு`
+4. scan **543** — `விசாரிக்கப்படவேண்டிய` → `விசாரிக்கப்பட வேண்டிய`
+5. scan **543** — `சதி செய்திருக்கிறோம்` → `சதி செய்கிறோம்`
+6. scan **544** — `இறுதியில் பதில்` → `இறுதியிலே பதில்`
+7. scan **544** — `பதில்சொல்வதற்கோ` → `பதில் சொல்வதற்கோ`
+8. scan **544** — `பலவீனம் ஏற்பட்டுத்த முடியவில்லை` → `பலவீனம் ஏற்படுத்த முடியவில்லை`
+9. scan **544** — `வழக்குகள் நடைபெறுகின்றதே` → `வழக்குகள் நடைபெறுகிறதே`
+10. scan **544** — `நாங்கள் போடவில்லை` → `நாங்கள் போட்டவில்லை`
+
 ## Exact next activity
 
-Perform **Speech 19 Gate E Batch 4 FINAL — scans 541–545 / exactly 5 pages**.
+Perform **Speech 19 Gate F Batch 1 — scans 511–540 / exactly 30 pages** using only the final Gate-E-verified Tamil.
 
-Do not begin Gate F in the same activity.
+Do not begin scans 541–545 in the same Gate-F activity.
