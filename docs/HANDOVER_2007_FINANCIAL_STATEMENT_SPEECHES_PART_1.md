@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 17 / `22 & 23.3.1979` = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–17 are released**. Speech 18 / `09.07.1980` Gate G is now **PASS / COMPLETE — scans 482–510 / 29 of 29 reviewed / 6 refinements / 0 blockers / 0 Tamil changes**; Tamil is **VERIFIED**, English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**. Gate H archival/release audit is next.
+Latest released unit: Speech 18 / `09.07.1980` = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–18 are released**. Speech 18 has **29/29 verified Tamil pages**, **29/29 verified English pages**, **20 Gate-E corrections**, **6 Gate-G refinements**, **0 blockers**, and **0 Tamil / 0 English Gate-H wording changes**. Speech 19 / `06.03.1982` remains **NOT STARTED**; exact next is **source intake / Gate C setup**.
 
 ## Existing-source overlaps
 
@@ -98,14 +98,14 @@ Treat this 2007 anthology as its own witness.
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–18; Speech 18 29 of 29 / 20 corrections / 0 unresolved; Speech 19 not started**
 - Gate F — **COMPLETE for Speeches 1–18; Speech 18 29 of 29 translated / 0 blockers / 0 Tamil changes; Speech 19 not started**
 - Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–18; Speech 18 29/29 reviewed / 6 refinements / 0 blockers / 0 Tamil changes; Speech 19 not started**
-- Gate H — **Speeches 1–17 PASS / COMPLETE — RELEASED / CLOSED; Speech 18 READY / NOT STARTED / NOT RELEASED / exact next archival-release audit; Speech 19 not started**
+- Gate H — **Speeches 1–18 PASS / COMPLETE — RELEASED / CLOSED; Speech 19 not started**
 - Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 15 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 17 — **Gate C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 37 Gate-E corrections / 43 Gate-G refinements / 0 blockers / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / canonical bilingual complete / multi-date source unit / no single canonical date / single-date indexes intentionally unchanged**
-- Speech 18 — **Gate G PASS / COMPLETE / English VERIFIED AGAINST TAMIL / Gate H READY-NOT-STARTED / NOT RELEASED**
+- Speech 18 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 20 Gate-E corrections / 6 Gate-G refinements / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / indexed / canonical bilingual complete**
 - Speech 19 — **NOT STARTED**
 
 ## Speech 1 durable Gate-C state
@@ -1297,3 +1297,27 @@ Source-visible final-batch forms retained without normalization include scan 479
 - exact next — **Speech 18 Gate H archival/release audit**
 
 Do not begin Speech 19 until Speech 18 Gate H is closed.
+
+## Speech 18 Gate H closure
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- source range — **482–510 / printed pp.481–509 / 29 pages**
+- Tamil — **VERIFIED / 29/29 / verified_against_scan=true**
+- English — **VERIFIED AGAINST TAMIL / 29/29 / verified_against_tamil=true**
+- Gate-E corrections — **20 / 0 unresolved**
+- Gate-G refinements — **6 / 0 blockers / 0 Tamil changes**
+- all **28/28** merged page transitions — **PASS / no mechanical duplication or omission**
+- continuations **488→489 / 491→492 / 500→501 / 501→502** — **PASS / preserved**
+- source-printed English on scans **492 / 501 / 506** — **preserved verbatim**
+- hard boundaries **481→482 / 510→511** — **PASS**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **retired release pointer**
+- `data/speeches.json` / root dated table — **indexed**
+- release — **RELEASED / CLOSED**
+- Speech 19 / scan 511 — **excluded / NOT STARTED**
+
+## Exact next activity
+
+Begin **Speech 19 source intake / Gate C setup — scan 511 onward / source label `உரை : 19 / 06.03.1982`**. Do not begin Speech 19 transcription in the same activity.
