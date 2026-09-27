@@ -68,7 +68,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 
 - source intake — **PASS / COMPLETE**
 - Gate C setup — **PASS / COMPLETE**
-- Gate C transcription — **IN PROGRESS / Batch 1 PASS-COMPLETE / scans 511–520 / 10 of 35 pages**
+- Gate C transcription — **IN PROGRESS / Batches 1–2 PASS-COMPLETE / scans 511–530 / 20 of 35 pages**
 - Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 - Gates D–H — **NOT STARTED**
@@ -81,11 +81,11 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 Fixed cadence: **10 source pages per iteration**; only the final remainder may be fewer.
 
 1. Batch 1 — **511–520 / printed pp.510–519 / exactly 10 pages / PASS-COMPLETE**
-2. Batch 2 — **521–530 / printed pp.520–529 / exactly 10 pages**
+2. Batch 2 — **521–530 / printed pp.520–529 / exactly 10 pages / PASS-COMPLETE**
 3. Batch 3 — **531–540 / printed pp.530–539 / exactly 10 pages**
 4. Batch 4 FINAL — **541–545 / printed pp.540–544 / exactly 5 pages**
 
-Batch 1 lies wholly inside part021. Batch 2 crosses the part021→part022 working-split boundary at **525→526**; preserve that transition explicitly when Batch 2 is processed.
+Batch 1 lies wholly inside part021. Batch 2 crossed the part021→part022 working-split boundary at **525→526** and that transition is **PASS / preserved**.
 
 ## Gate C Batch 1 result
 
@@ -103,8 +103,25 @@ Batch 1 lies wholly inside part021. Batch 2 crosses the part021→part022 workin
 - part021 Batch-1 source — **local 11–20 / global scans 511–520**
 - part022 integrity metadata — **resolved from the user-supplied split: 15,522,557 bytes / SHA-256 `7fc6e4fb4e264c9c4b836150549fc0c8c45458bc9a3869ac313ff6708fb5ceed`**
 
+## Gate C Batch 2 result
+
+**PASS / COMPLETE — scans 521–530 / printed pp.520–529 / exactly 10 pages; cumulative 20 of 35 first-pass transcribed.**
+
+- source-page markers — **511→530 / 20 / exactly once / ordered**
+- Batch-2 source coverage — **part021 local 21–25 = scans 521–525; part022 local 1–5 = scans 526–530**
+- working-split transition **525→526 / part021→part022** — **PASS / preserved**
+- page-spanning continuations **520→521 / 521→522 / 523→524 / 524→525 / 525→526 / 526→527 / 527→528 / 529→530** — **preserved**
+- source-printed English on scans **523–525** — **preserved**
+- unresolved first-pass readings — **0**
+- outside wording imported — **0**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- scan **530** — **closes cleanly; scan 531 wording not imported**
+- scans **531–545** modified — **0**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+- Gates D–H — **NOT STARTED**
+
 ## Exact next activity
 
-Perform **Speech 19 Gate C Batch 2 — scans 521–530 / exactly 10 pages**.
+Perform **Speech 19 Gate C Batch 3 — scans 531–540 / exactly 10 pages**.
 
-Batch 2 crosses the working-split boundary **525→526**. Preserve and audit that transition explicitly. Do not process scans 531 onward in the same Gate-C iteration.
+Do not process scans 541 onward in the same Gate-C iteration.
