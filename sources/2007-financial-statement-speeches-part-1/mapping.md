@@ -68,7 +68,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 16 | `1.3.1978` | 1978-03-01 | 356–388 | 355–387 | `1978-03-01-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 17 | `22 & 23.3.1979` | **multi-date source unit: 1979-03-22 and 1979-03-23; no explicit internal date divider found; no single canonical date assigned** | 389–481 | 388–480 | `1979-03-22-and-23-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete; intentionally not added to single-date root/data indexes** |
 | 18 | `09.07.1980` | 1980-07-09 | 482–510 | 481–509 | `1980-07-09-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete; indexed** |
-| 19 | `06.03.1982` | 1982-03-06 | 511–545 | 510–544 | `1982-03-06-financial-statement-debate`; **source intake + Gate C setup PASS/COMPLETE; Gate C Batches 1–2 PASS/COMPLETE / scans 511–530 / 20 of 35 first-pass; Batch 3 scans 531–540 next** |
+| 19 | `06.03.1982` | 1982-03-06 | 511–545 | 510–544 | `1982-03-06-financial-statement-debate`; **source intake + Gate C setup PASS/COMPLETE; Gate C Batches 1–3 PASS/COMPLETE / scans 511–540 / 30 of 35 first-pass; FINAL Batch 4 scans 541–545 next** |
 
 ## Focused boundary re-check
 
@@ -122,7 +122,7 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–18 COMPLETE; Speech 19 Batches 1–2 PASS/COMPLETE / scans 511–530 / cumulative 20 of 35 first-pass; exact next Batch 3 scans 531–540**
+- Gate C — **Speeches 1–18 COMPLETE; Speech 19 Batches 1–3 PASS/COMPLETE / scans 511–540 / cumulative 30 of 35 first-pass; exact next Batch 4 FINAL scans 541–545**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–18**
 - Gate D — **Speeches 1–18 PASS / COMPLETE; Speech 18 29/29 pages / 28/28 transitions / 0 completeness corrections**
 - Gate E — **Speeches 1–18 PASS / COMPLETE / Tamil VERIFIED; Speech 18 29 of 29 verified / 20 corrections / 0 unresolved; Speech 19 not started**
@@ -512,3 +512,19 @@ Continue **Speech 18 Gate H archival/release audit**. Recheck the canonical bili
 - scan **531** wording imported — **0**
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 - exact next — **Gate C Batch 3 / scans 531–540 / exactly 10 pages**
+
+## Speech 19 Gate C Batch 3 result
+
+**PASS / COMPLETE — scans 531–540 / printed pp.530–539 / exactly 10 pages; cumulative 30 of 35 first-pass transcribed.**
+
+- source-page markers — **511→540 / 30 / exactly once / ordered**
+- Batch-3 source coverage — **part022 local 6–15 / scans 531–540**
+- transitions **531→532 / 532→533 / 533→534 / 534→535 / 535→536 / 536→537 / 537→538 / 538→539 / 539→540** — **PASS / preserved**
+- source-printed English on scan **535** — **preserved**
+- source-printed English phrase `foundation, weir pie` on scan **539** — **preserved as printed**
+- unresolved first-pass readings — **0**
+- outside wording imported — **0**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- scan **541** wording imported — **0**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+- exact next — **Gate C Batch 4 FINAL / scans 541–545 / exactly 5 pages**
