@@ -386,3 +386,107 @@ Next, in 1981-82, a point about the Slum Clearance Board is given on page 35, pa
 
 Third, the rural housing scheme. Regarding the rural housing scheme, on page 34, paragraph 44, the 1981-82 financial statement says that in the period from July 1980 to February 1981, sanction was given for Rs.22.68 crore on 73,756 loan applications. During that period 19,952 houses were completed. How many months is that period? From July 1980 to February 1981—eight months. In that period nearly 20,000 houses were completed. This—
 
+### Source page 521
+
+—is what is stated in the 1981-82 report. In other words, there was still one month left before the financial year ended. But what you state here is that 40,851 houses were completed in 1980-81. If nearly 20,000 houses were completed in the eight-month period from July 1980 to February 1981, how could another 20,000 houses have been completed in a single month? How was that possible? We need the details of how 20,000 houses became 40,000 houses. If such differences exist between the schemes presented in the 1981-82 and 1982-83 annual financial statements, I have cited these few examples to show that many such discrepancies abound. I trust the Finance Minister will explain them when he replies.
+
+Next, this statement announces that nutritious food will be given to children between two and ten years of age. The ruling-party side may ask, “Will you not welcome even this announcement?” On seeing such an announcement, anyone's first impulse would naturally be to welcome it. In that sense, I welcome the provision of free nutritious food to children from two to ten years of age. But my doubt arises from schemes announced in terms even more attractive than this—not on public platforms, not merely in an election manifesto, but schemes presented in financial statements placed before this House. When I think about what became of them, I cannot help wondering whether this one too will actually be implemented.
+
+During the election it was generally said that if five kilograms of rice were bought, one kilogram would be supplied free. After the election manifesto, that was then stated in the financial statement placed before the Assembly by the Finance Minister, and they specified who would be eligible for that one kilogram of rice. They said—
+
+### Source page 522
+
+—that those receiving old-age assistance, widows receiving assistance, persons who had lost their eyesight and received assistance, and disabled persons receiving assistance on that account would qualify; they gave a long list. Do all disabled persons receive assistance? No. Do all elderly persons receive assistance? No. Do all widows receive assistance? No. Even so, they announced the scheme with such a condition, such a limitation. In Tamil Nadu, whose population exceeds four crore, their total calculation came to only one lakh people. The scheme was changed to one kilogram of rice a week for about one lakh people and was announced in the 1980-81 statement. But no details are now given about how many people are actually receiving it. I expect the Finance Minister to provide them. The scheme under which one kilogram of rice would be given when five kilograms were purchased has melted away; it has withered away. I cite this only as an example of that.
+
+In the 1980-81 financial statement you expressed another idea, concerning gold for the *thali*. It said that details about unemployed goldsmiths would immediately be collected for the purpose of forming goldsmiths' cooperative societies; on that basis, steps would be taken to establish goldsmiths' industrial cooperative societies; and through them a scheme would be implemented to make marriage *thalis* available to poor people at low cost. These were words engraved in letters of gold on pages 23-24 of the 1980-81 financial statement.
+
+### Source page 523
+
+But was it implemented that year? Did the goldsmiths' cooperative society appear? Did it take shape? Was the work of making these *thalis* given to them? Were those *thalis* supplied to poor people at a low price? The 1980-81 scheme was shelved.
+
+Then, in the 1981-82 financial statement, on page 36, you stated something else: an effort would be made to implement a scheme to provide gold for *thalis* at a reduced price. The goldsmiths disappeared; I do not know what became of them.
+
+It was said that, as a first step in 1981-82, gold for *thalis* would be supplied at a reduced price for the marriages of daughters of poor widows. Rs.10 lakh was allotted for this. The financial statement loudly proclaimed, “Here, we have allotted the money itself for gold for the *thali*.” Was it implemented in this financial year? No. What news appeared in some English newspapers on March 3?
+
+The Scheme of supplying Thalis for marriage of daughters
+of poor widows has been abandoned by the AIADMK Government.
+A provision of Rs.10 lakhs was made in the 1981-82 Budget for
+the Scheme with the assurance that a beginning could be made by
+giving Thali at subsidised cost.
+
+After careful consideration for nearly a year the Govern-
+ment has now decided to grant a marriage allowance of Rs.1000
+instead of Thali. According to Government order 1000 widows will
+be granted this allowance before the end of March 31, 1982.
+
+The point to notice is: Before the end of March 1982. That is the financial year. The Rs.10 lakh you allotted last year must be spent before March 31, 1982, in this year.
+
+### Source page 524
+
+To meet marriage expenses of one of their daughters who
+are in the 18-30 age group. Among the conditions totally eight
+numbers for grant of marriage assistance were "the mother of the
+bride should furnish proof that she is a widow."
+
+Her annual income should not exceed Rs. 3000.
+
+The family of the widow should not have an Adult Member
+to support her financially and
+
+a widow has remarried is not eligible for the assistance.
+
+"The application must be made to the authorities three
+months before the marriage."
+
+Thus seven or eight conditions are imposed: the widow must be this poor; there must not be an adult in the household capable of supporting her; and the widow must not be one who has remarried. Are all these conditions appropriate? Suppose there is a poor mother who is not a widow, with an elderly husband of seventy or eighty years, and they have a daughter. If that husband is in no position to earn and the daughter is to be married, will you not give them the thousand rupees? Must that woman wait until her husband dies, become a widow, and only then obtain a thousand rupees from you to arrange her daughter's marriage?
+
+Not only that: if she has remarried, she gets nothing. The idea that widows should remarry is one of the great philosophical principles of the Self-Respect Movement:
+
+“Here lies, unwanted,
+a jackfruit ripened at the root.”
+
+### Source page 525
+
+Navalar has recited Bharathidasan's verses like this, more beautifully than I have, at so many meetings. Suppose a poor mother, a poor widow, receives a thousand rupees, marries off her daughter, and then marries another husband herself. Through these conditions, are you or are you not opposing even that revolutionary scheme of widow remarriage? On behalf of Periyar's ideas of social reform, I am duty-bound to ask this Government that question with great humility.
+
+Yesterday or the day before, our Chief Minister even said from the platform: “They asked for a thousand rupees. They said, ‘I do not even need the *thali*; I need money for all the wedding expenses. So give it as a thousand rupees.’ Therefore it is being given as a thousand rupees.” But do you know what is both amusing and painful?
+
+"The application must be made authorities the three months
+before the marriage."
+
+This appears in the newspaper on the third. We are meeting today, the sixth. This financial year ends by the thirty-first of this month. The Rs.10 lakh you allotted expires with this financial year. If widows are to receive one thousand rupees from that Rs.10 lakh for their daughters' marriages, they must have applied three months earlier. In March you say the application must have been made three months earlier. Is that possible? How can anyone now apply three months earlier? This too must be considered. Thus, gold for the *thali* began with the goldsmiths'—
+
+### Source page 526
+
+—society; then last year it was announced that the *thali* itself would be supplied; then it was said that it would be given to the daughters of widows; now it is said that one thousand rupees will be given out of that Rs.10 lakh. Yet with that Rs.10 lakh still unspent, a great barrier has been erected by requiring applications three months in advance, creating a situation in which that Rs.10 lakh cannot be spent at all. I bring this to the Government's attention.
+
+I trust that the Chief Minister and the Finance Minister will consider together what other course they propose to find and give me an explanation the day after tomorrow.
+
+Next, continuing the sequence of past events I have been describing: in the 1980-81 financial statement you said that poor pregnant women would receive nutritious food from the seventh month of pregnancy until the end of the fourth month after childbirth. Their health would be examined every month and appropriate basic medicines would be supplied. You said that not less than Rs.150 would be spent on each poor woman for these facilities. How many women received it? While speaking further in the 1980-81 statement, you said this scheme would be implemented only in Kottampatti. But newspapers carried page after page of bold headlines saying it would be implemented widely across Tamil Nadu. According to the statement in the financial report, how many pregnant women received the Rs.150? I trust the Finance Minister will give that figure in his reply the day after tomorrow. Why—
+
+### Source page 527
+
+—do I say I trust him? Because it was not given on anything like that scale. It stopped with Kottampatti. The scheme lies inactive today to the point where one may ask whether it merely “yawned” to a halt at Kottampatti.
+
+The Chief Minister said that about one lakh educated but unemployed graduates would be given Rs.50 a month. He even explained that the Rs.50 was being given so that the money might at least help them with travel expenses while seeking work. But that scheme too—the scheme announced in this very House as assistance for one lakh educated unemployed graduates—is it even being given to one or two thousand people? When one considers how many conditions were imposed, that scheme too has become virtually a shelved scheme.
+
+In the 1979-80 statement, the Finance Minister then read out on behalf of this Government that an assured employment scheme would be implemented to provide employment to all unemployed persons, educated or uneducated. Under the scheme, everyone over eighteen years of age without employment in rural areas could register their name seeking work. As far as possible, works would be undertaken within the district in order to provide them employment. The works would be carried out under the direct supervision of Government departments, without contract contractors. The wages of rural people working under these schemes would be paid once a week, based on the amount of work performed each day. Under this, each person would receive about three rupees a day, together with rice and wheat—
+
+### Source page 528
+
+—. On any day when no work was provided, each person would be given one rupee or an equivalent quantity of rice or wheat. Was this scheme implemented? If this scheme—which said work would be provided and, if work could not be provided, one rupee would be given for every day of unemployment—had been implemented; if employment had been provided as you said; if the effort to lift people from below the poverty line had been carried out properly, there would have been no starving children.
+
+You announced in the 1979-80 financial statement that even the unemployed would be given one rupee. If you had acted according to that announcement, there could not have been starving children at home! Today, under this food scheme for children, how many children are to receive food? That figure is not stated. As Hon. members have pointed out here, I went through, again and again, every book supplied to us in connection with this financial statement. Nowhere can I find any sign that the Rs.100 crore you mention has been allotted for this free nutritious-food scheme for children. No allocation has been made at all. Without any allocation, you have announced it as a Rs.100-crore scheme. Reports appeared that the Chief Minister said at a public meeting, a public function or a Government function that it would cover 60 lakh children. We need details of which children are included in those 60 lakh and which children are excluded.
+
+### Source page 529
+
+In the 1981-82 statement you said that Rs.1.54 crore had been allotted for children's homes and the nutritious-food scheme. Are those children included in these 60 lakh or deducted from them? You said that from 1981-82 the World Bank nutrition scheme would be extended to development blocks in Madurai district. How many children are covered there? Are they included in this scheme or deducted from it?
+
+During the time when Perunthalaivar Kamaraj was Chief Minister, the noon-meal scheme was implemented here, and the scheme of providing a midday meal in schools to children aged five to ten has continued from the time of the great leader Kamaraj. When those five-to-ten-year-old schoolchildren are already being given a midday meal, if you deduct those children aged five to ten from your count of children aged two to ten, does it not become clear that the scheme you speak of is only for children aged two to five? If you say, “No, we will provide it up to age ten as well,” that would mean you are saying nutritious food will be given even if they are not attending school. In any event, compulsory education is necessary. Children from backward and oppressed communities in remote villages must in any event receive education. It was because hunger drove them to other work in search of food, keeping them from school, that the noon-meal scheme arose. When that noon-meal scheme serves children from five to ten years of age—
+
+### Source page 530
+
+—and you speak of children from two to ten years, I do not understand the calculation. According to your own arithmetic, once the five-to-ten age group is deducted, only children from two to five can benefit. How many such children are there? That too is unknown.
+
+Yesterday the Chief Minister put forward from the platform a new plan, announcement or administrative idea. A question arose about it here as well, and was later amicably settled. He said that the scheme would be run through mothers. Perhaps what he meant was that no one should commit wrongdoing in a scheme concerning children; mothers alone truly understand a child's hunger, and therefore he would implement the scheme through those mothers. I offer an alternative suggestion. Rather than saying that mothers as a group have an interest in the scheme, if you bear in mind that it is the actual mother of each child who has that concern, then suppose fifty paise is spent on each child for this nutritious food—half a rupee—that comes to fifteen rupees for thirty days. How nutritious food is to be supplied for eight annas, I do not know. Even so, take a slightly larger sum—one rupee. Even if the nutritious food is to be supplied within eight annas, the Chief Minister may think that because I have said one rupee, he ought to state a slightly larger amount still. Even if you say here that nutritious food will be provided for one rupee, I wish to say this:
+
