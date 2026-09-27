@@ -92,7 +92,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–19 COMPLETE; Speech 19 scans 511–545 / 35 of 35 first-pass / Tamil TRANSCRIBED-NOT-VERIFIED**
+- Gate C — **Speeches 1–19 COMPLETE; Speech 19 scans 511–545 / 35 of 35 first-pass**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–19; Speech 19 modern 2007 typesetting / 0 historical-glyph corrections**
 - Gate D — **PASS / COMPLETE for Speeches 1–19; Speech 19 = 35/35 pages / 34/34 transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–19; Speech 19 35/35 verified / 26 cumulative corrections / 0 unresolved / verified_against_scan=true**
