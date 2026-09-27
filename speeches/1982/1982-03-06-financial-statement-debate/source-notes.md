@@ -199,8 +199,35 @@ Corrections:
 - scan **529** — `இல்லை நாங்கள் பத்து வயதுக்குப் போடுவோம்` → `இல்லை நாங்கள் பத்து வயதுக்கும் போடுவோம்`
 - scan **530** — `முதலமைச்சர் அவர்கள் மேடைவாயிலே எடுத்துக் கூறியிருக்கிறார்கள்` → `முதலமைச்சர் அவர்கள் மேடைவாயில் எடுத்துக் கூறியிருக்கிறார்கள்`
 
+## Gate E Batch 3 source-fidelity verification
+
+**PASS / COMPLETE — scans 531–540 / printed pp.530–539 / exactly 10 pages; cumulative 30 of 35 source-verified.**
+
+- controlling source — part022 local **6–15**
+- correction ledger — **9 entries / 9 occurrences / scans 532, 535, 536, 537, 538**
+- cumulative corrections — **16**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- markers **511→545** — **unchanged / ordered**
+- Government of Tamil Nadu English extract on scan **535** — **preserved as printed**
+- `foundation, weir pie` on scan **539** — **preserved as printed**
+- scan **541** — **not source-verified or altered**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Corrections:
+
+- scan **532** — `கைத்தறிக்கு வரி போடுவது கிடையாது` → `கைத்தறிக்கு வரி போட்டது கிடையாது`
+- scan **535** — inserted the source-visible full stop after the first `எட்டு கோடி ரூபாய்`
+- scan **536** — `ஆக 13 கோடி ரூபாய் நாம் இங்கே` → `ஆக 13 கோடி ரூபாய் நான் இங்கே`
+- scan **536** — `ஸ்டீல் ரோலிங் மில்ஸ் அதிபர்களுக்கு வரி விலக்கு செய்துவிட்டு` → `ஸ்டீல் ரீரோலிங் மில்லினுடைய வரியில் நீக்கம் செய்துவிட்டு`
+- scan **536** — restored the source ending `இழந்து கொண்டிருக்கின்றது, இந்த அரசு என்று குற்றஞ்சாட்டுவது எப்படித் தவறாகும் என்பதுதான் என்னுடைய கேள்வியாகும்.`
+- scan **537** — `திறந்து வைக்கப்பட்டது` → `திறந்துவைக்கப்பட்டது`
+- scan **537** — restored the source sentence beginning `எவ்வளவு கேவலமாக மோசமான முறையிலே...`
+- scan **537** — `எந்தக் கட்சியையும் சாராத ஒரு பெரிய...` → `எந்தக் கட்சியையும் சாராத ஏடுகளிலே...`
+- scan **538** — `அளவுக்குத்தான் நடு` → `அளவுக்குத் தூண் நட்டு`
+
 ## Exact next
 
-**Speech 19 Gate E Batch 3 — scans 531–540 / exactly 10 pages.**
+**Speech 19 Gate E Batch 4 FINAL — scans 541–545 / exactly 5 pages.**
 
-Do not begin Gate E Batch 4 in the same activity.
+Do not begin Gate F in the same activity.
