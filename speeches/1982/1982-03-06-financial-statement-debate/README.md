@@ -71,7 +71,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate C transcription — **PASS / COMPLETE / scans 511–545 / 35 of 35 pages first-pass**
 - Gate C.5 — **N/A / CLOSED / 0 historical-glyph corrections**
 - Gate D — **PASS / COMPLETE / 35/35 pages / 34/34 internal transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS / Batches 1–2 PASS-COMPLETE / scans 511–530 / 20 of 35 source-verified / 7 cumulative corrections / 0 unresolved**
+- Gate E — **IN PROGRESS / Batches 1–3 PASS-COMPLETE / scans 511–540 / 30 of 35 source-verified / 16 cumulative corrections / 0 unresolved**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - Gates F–H — **NOT STARTED**
 - release — **NOT RELEASED**
@@ -236,8 +236,37 @@ Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**.
 3. **scan 529** — `இல்லை நாங்கள் பத்து வயதுக்குப் போடுவோம்` → `இல்லை நாங்கள் பத்து வயதுக்கும் போடுவோம்`.
 4. **scan 530** — `முதலமைச்சர் அவர்கள் மேடைவாயிலே எடுத்துக் கூறியிருக்கிறார்கள்` → `முதலமைச்சர் அவர்கள் மேடைவாயில் எடுத்துக் கூறியிருக்கிறார்கள்`.
 
+## Gate E Batch 3 — scans 531–540
+
+**PASS / COMPLETE — printed pp.530–539 / exactly 10 pages; cumulative 30 of 35 source-verified.**
+
+- source-fidelity corrections — **9 entries / 9 occurrences / 5 affected scans**
+- affected scans — **532 / 535 / 536 / 537 / 538**
+- cumulative Gate-E corrections — **16**
+- cumulative affected scans — **10**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- source-page markers — **511→545 / unchanged / exactly once / ordered**
+- Government of Tamil Nadu English extract on scan **535** — **preserved as printed**
+- source-printed `foundation, weir pie` on scan **539** — **preserved as printed**
+- scan **541** — **not source-verified or altered**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- Gate F — **blocked until all 35 pages complete Gate E**
+
+### Gate-E Batch-3 correction ledger
+
+1. **scan 532** — `கைத்தறிக்கு வரி போடுவது கிடையாது` → `கைத்தறிக்கு வரி போட்டது கிடையாது`.
+2. **scan 535** — `ஏறத்தாழ ஏழு அல்லது எட்டு கோடி ரூபாய் இந்த ஏழு அல்லது எட்டு கோடி ரூபாய்` → `ஏறத்தாழ ஏழு அல்லது எட்டு கோடி ரூபாய். இந்த ஏழு அல்லது எட்டு கோடி ரூபாய்`.
+3. **scan 536** — `ஆக 13 கோடி ரூபாய் நாம் இங்கே எடுத்துக் காட்டிய` → `ஆக 13 கோடி ரூபாய் நான் இங்கே எடுத்துக் காட்டிய`.
+4. **scan 536** — `ஸ்டீல் ரோலிங் மில்ஸ் அதிபர்களுக்கு வரி விலக்கு செய்துவிட்டு` → `ஸ்டீல் ரீரோலிங் மில்லினுடைய வரியில் நீக்கம் செய்துவிட்டு`.
+5. **scan 536** — `இழந்து கொண்டிருக்கின்றோம். இந்த அரசு என்று கூறுவதற்காகவே எடுத்துக் காட்டியிருக்கிறேன்.` → `இழந்து கொண்டிருக்கின்றது, இந்த அரசு என்று குற்றஞ்சாட்டுவது எப்படித் தவறாகும் என்பதுதான் என்னுடைய கேள்வியாகும்.`.
+6. **scan 537** — `அவர்களால் திறந்து வைக்கப்பட்டது` → `அவர்களால் திறந்துவைக்கப்பட்டது`.
+7. **scan 537** — `எப்படி தூசி படிந்து கிடக்கிறது என்பதை தேவையாக மாண்புமிகு முதலமைச்சர் இந்த மதுரையிலே ஏதோ ஒரு மூலையிலே உள்ள பாதையிலேயே படம் போட்டு காட்டினார்கள்.` → `எப்படி தூசி படிந்து கிடக்கிறது. எவ்வளவு கேவலமாக மோசமான முறையிலே அது மதுரையிலே ஏதோ ஒரு மூலையிலே தள்ளப்பட்டிருக்கிறது என்ற செய்தியைப் பத்திரிகையிலே படம் போட்டுக் காட்டினார்கள்.`.
+8. **scan 537** — `எந்தக் கட்சியையும் சாராத ஒரு பெரிய அந்தக் கவலை தரும் சம்பவங்களை எடுத்துக் காட்டியிருக்கிறார்கள்.` → `எந்தக் கட்சியையும் சாராத ஏடுகளிலே அந்த கவலை தரும் சம்பவங்களை எடுத்துக் காட்டியிருக்கிறார்கள்.`.
+9. **scan 538** — `2 லட்ச ரூபாய் அளவுக்குத்தான் நடு அதன்மேலே ஆஸ்பெஸ்டாஸ் தகடுகள் போட` → `2 லட்ச ரூபாய் அளவுக்குத் தூண் நட்டு அதன்மேலே ஆஸ்பெஸ்டாஸ் தகடுகள் போட`.
+
 ## Exact next activity
 
-Perform **Speech 19 Gate E Batch 3 — scans 531–540 / exactly 10 pages**.
+Perform **Speech 19 Gate E Batch 4 FINAL — scans 541–545 / exactly 5 pages**.
 
-Do not begin Gate E Batch 4 in the same activity.
+Do not begin Gate F in the same activity.
