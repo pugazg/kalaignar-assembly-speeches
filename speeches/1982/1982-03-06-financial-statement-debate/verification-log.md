@@ -294,6 +294,53 @@ Checks:
 - exact next — **Gate E Batch 4 FINAL / scans 541–545 / exactly 5 pages**
 - do not begin — **Gate F**
 
+## Gate E — Batch 4 FINAL / scans 541–545
+
+**PASS / COMPLETE — printed pp.540–544 / exactly 5 pages; cumulative 35 of 35 source-verified.**
+
+Checks:
+
+- controlling source — **part022 local 16–20 / global scans 541–545**
+- direct visual comparison — **5/5 pages**
+- source-fidelity corrections — **10 entries / 10 occurrences / 4 affected scans**
+- affected scans — **541 / 542 / 543 / 544**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- markers **511→545** — **unchanged / exactly once / ordered**
+- names / numerals / dates / money / units in FINAL batch — **checked**
+- quotations / repetitions / punctuation where legible — **checked**
+- source-printed English on scan **542** — **checked / preserved exactly as printed**
+- speaker changes/interventions on **544–545** — **checked / preserved**
+- **545→546** terminal boundary — **PASS / scan 546 portrait-back matter excluded**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate E — **PASS / COMPLETE**
+- Gate F — **NOT STARTED**
+
+### Batch-4 correction ledger
+
+1. **scan 541** — `வெளிநாட்டில் தயாரிக்கப்பட்ட சேஸிஸ்களைக்` → `வெளிநாட்டில் தயாரிக்கப்படும் சேஸிஸ்களைக்`.
+2. **scan 542** — `ஃபண்ட்ஸ் ஒதுக்கீடு` → `பண்ட்ஸ் ஒதுக்கீடு`.
+3. **scan 542** — `இந்த ஆட்சி என்றைக்கு கொளுவுக்கு வந்ததோ` → `இந்த ஆட்சி என்றைக்கு தொழுவுக்கு வந்ததோ`.
+4. **scan 543** — `400 சாட்சியங்கள் விசாரிக்கப்படவேண்டிய சூழ்நிலையில்` → `400 சாட்சியங்கள் விசாரிக்கப்பட வேண்டிய சூழ்நிலையில்`.
+5. **scan 543** — `சதி செய்திருக்கிறோம் என்கிற அளவுக்கு வழக்கு` → `சதி செய்கிறோம் என்கிற அளவுக்கு வழக்கு`.
+6. **scan 544** — `அவைகளுக்கு எல்லாம் இறுதியில் பதில் கிடைக்கும்` → `அவைகளுக்கு எல்லாம் இறுதியிலே பதில் கிடைக்கும்`.
+7. **scan 544** — `எனக்குப் பதில்சொல்வதற்கோ` → `எனக்குப் பதில் சொல்வதற்கோ`.
+8. **scan 544** — `எனக்கு பலவீனம் ஏற்பட்டுத்த முடியவில்லை` → `எனக்கு பலவீனம் ஏற்படுத்த முடியவில்லை`.
+9. **scan 544** — `வழக்குகள் நடைபெறுகின்றதே தவிர` → `வழக்குகள் நடைபெறுகிறதே தவிர`.
+10. **scan 544** — `அதைப்போல நாங்கள் போடவில்லை` → `அதைப்போல நாங்கள் போட்டவில்லை`.
+
+## Gate-E FINAL disposition
+
+- verified pages — **35/35**
+- cumulative corrections — **26**
+- cumulative correction occurrences — **26**
+- cumulative affected scans — **14**
+- unresolved — **0**
+- Tamil verification state — **VERIFIED / verified_against_scan=true**
+- exact next — **Gate F Batch 1 / scans 511–540 / exactly 30 pages**
+- final Gate-F remainder — **541–545 / 5 pages**
+- do not begin — **Gate F in this Gate-E activity**
+
 ## Exact next activity
 
-Perform **Gate E Batch 4 FINAL — scans 541–545 / exactly 5 pages** from the controlling source pixels only.
+Perform **Gate F Batch 1 — scans 511–540 / exactly 30 pages** using only the final Gate-E-verified Tamil.
