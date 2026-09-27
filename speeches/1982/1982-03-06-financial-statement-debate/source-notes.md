@@ -271,8 +271,24 @@ Corrections:
 - English — **IN PROGRESS / NOT VERIFIED AGAINST TAMIL**
 - scans **541–545** — **untranslated**
 
+## Gate F Batch 2 FINAL translation
+
+**PASS / COMPLETE — scans 541–545 / printed pp.540–544 / exactly 5 pages; cumulative 35 of 35 translated.**
+
+- authority — **final Gate-E-verified Tamil only**
+- cumulative English source-page sections — **511→545 / exactly once / ordered**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-printed English on scan **542** — **preserved verbatim**
+- speaker changes/interventions on scans **544–545** — **preserved**
+- terminal boundary **545→546** — **PASS / scan 546 excluded**
+- Tamil — **VERIFIED / unchanged**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- Gate F — **COMPLETE**
+
 ## Exact next
 
-**Speech 19 Gate F Batch 2 FINAL — scans 541–545 / exactly 5 pages.**
+**Speech 19 Gate G Batch 1 — scans 511–540 / exactly 30 pages.**
 
-Use the verified Tamil only. Do not begin Gate G in the same activity.
+Review against the final verified Tamil only. Do not begin Gate G FINAL in the same activity.
