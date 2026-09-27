@@ -85,8 +85,59 @@ Translation authority: the final Gate-E-verified Tamil in `transcript.md` only.
 - source-printed English — **preserved**
 - Gate G — **READY / NOT STARTED**
 
+## Gate G — Batch 1 / scans 511–540
+
+**PASS / COMPLETE — printed pp.510–539 / exactly 30 English source-page sections reviewed; cumulative 30 of 35.**
+
+Review authority: the final Gate-E-verified Tamil in `transcript.md` only.
+
+- reviewed scans — **511–540 / 30 pages / exactly once / ordered**
+- Gate-G refinements — **10 entries / 10 occurrences / 10 affected scans**
+- affected scans — **521 / 524 / 525 / 526 / 527 / 529 / 531 / 534 / 536 / 540**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-page sections **511→545** — **unchanged / exactly once / ordered**
+- source-printed English on scans **523–525 / 535** — **preserved verbatim**
+- scan **539** source-printed `foundation, weir pie` — **preserved exactly as printed**
+- page-spanning continuations / paragraph order / figures / dates / names / quotations / rhetorical questions — **preserved**
+- scans **541–545** reviewed or altered in this batch — **0**
+- Tamil — **VERIFIED / unchanged / verified_against_scan=true**
+- English — **PARTIALLY REVIEWED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+
+## Gate-G Batch-1 refinement ledger
+
+1. **scan 521** — `On seeing such an announcement, anyone's first impulse would naturally be to welcome it.` → `At first glance, anyone would naturally feel inclined to welcome such an announcement.`
+2. **scan 524** — `“Here lies, unwanted, / a jackfruit ripened at the root.”` → `“Here lies, unclaimed, / a jackfruit ripened at the root.”`
+3. **scan 525** — `Suppose a poor mother, a poor widow, receives a thousand rupees, marries off her daughter, and then marries another husband herself.` → `Suppose a poor mother, a poor widow, receives a thousand rupees, marries off her daughter, and then remarries.`
+4. **scan 526** — `what other course they propose to find` → `what other way they intend to find`
+5. **scan 527** — `The works would be carried out under the direct supervision of Government departments, without contract contractors.` → `The works would be carried out under the direct supervision of Government departments, without contractors.`
+6. **scan 529** — `Children from backward and oppressed communities in remote villages must in any event receive education.` → `Children from households in backward and oppressed communities in remote villages must in any event receive education.`
+7. **scan 531** — `given to the proper mother` → `given to the child's own mother`
+8. **scan 534** — `including ministers and others now sitting in the opposition benches` → `as well as the ministers and others sitting across from me today, including the Speaker` within the source-controlled sentence, correcting the bench-direction sense of `எதிர் வரிசை`.
+9. **scan 536** — `It was a conference praised across the State—and when I say the State, I mean that it was praised by many countries of the world.` → `It was a conference praised across the State—or, rather, by many countries around the world.`
+10. **scan 540** — `and H.C.C., Bombay` → `and, sixth, H.C.C., Bombay`, preserving the source's `ஆறு` enumeration.
+
+## Gate-G blocking-fidelity ledger
+
+**0 blocking issues.**
+
+No scans or outside witnesses were consulted for Gate G. No wording was imported from OCR, the web, Official Reports, alternate anthologies, released English, machine translation output or other witnesses.
+
+## Gate-G Batch-1 disposition
+
+- reviewed pages — **30/35**
+- refinements — **10**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-printed-English changes — **0**
+- English verification state — **PARTIALLY REVIEWED / verified_against_tamil=false**
+- exact next — **Gate G Batch 2 FINAL / scans 541–545 / exactly 5 pages**
+- do not begin — **Gate H**
+
 ## Exact next activity
 
-Review **Speech 19 Gate G Batch 1 — scans 511–540 / exactly 30 pages** against the final verified Tamil.
+Review **Speech 19 Gate G Batch 2 FINAL — scans 541–545 / exactly 5 pages** against the final verified Tamil.
 
-Do not begin Gate G FINAL scans 541–545 in the same activity.
+Do not begin Gate H in the same activity.
