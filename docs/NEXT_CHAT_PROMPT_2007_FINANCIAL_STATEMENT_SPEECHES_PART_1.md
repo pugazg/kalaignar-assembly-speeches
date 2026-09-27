@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 19 Gate F Batch 2 FINAL — scans 541–545
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 19 Gate G Batch 1 — scans 511–540
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -32,27 +32,28 @@ Current gates:
 - Gate D — **PASS / COMPLETE**
 - Gate E — **PASS / COMPLETE — 35/35 source-verified / 26 corrections / 0 unresolved**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- Gate F Batch 1 — **PASS / COMPLETE — scans 511–540 / 30 of 35 translated**
-- Gate-F Batch-1 blockers — **0**
+- Gate F — **COMPLETE — scans 511–545 / 35 of 35 translated**
+- Gate-F blockers — **0**
 - verified-Tamil changes during Gate F — **0**
 - outside English imported — **0**
-- English — **IN PROGRESS / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
-- scans **541–545** — **NOT TRANSLATED**
+- English source-page sections — **511→545 / 35 / exactly once / ordered**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
 - Gates G–H — **NOT STARTED**
 
-## Gate-F Batch-1 fidelity state
+## Gate-F fidelity state
 
-- English source-page sections — **511→540 / 30 / exactly once / ordered**
 - page alignment / paragraph order / page-spanning continuations — **preserved**
-- source-printed English on scans **523–525 / 535** — **preserved verbatim**
+- source-printed English on scans **523–525 / 535 / 542** — **preserved verbatim**
 - scan **539** source-printed `foundation, weir pie` — **preserved exactly as printed**
+- speaker changes/interventions on scans **544–545** — **preserved**
+- terminal boundary **545→546** — **PASS / scan 546 excluded**
 - no OCR, web, Official Reports, alternate anthologies, released English, machine-translation output or other witnesses supplied wording
 
-## Gate-F translation rule
+## Gate-G review rule
 
-Translate **only the final Gate-E-verified Tamil in `transcript.md`**.
+Gate G reviews the Gate-F English **only against the final Gate-E-verified Tamil in `transcript.md`**.
 
-Do not use the scans or any outside witness to supply English wording. The source scans remain provenance for the already verified Tamil, but Gate F's sole translation authority is that verified Tamil.
+Do not use scans or outside witnesses to repair or improve English. Gate G may refine English wording only where doing so improves fidelity, clarity or voice while remaining strictly controlled by the verified Tamil.
 
 Preserve:
 
@@ -62,31 +63,41 @@ Preserve:
 - quotations and rhetorical questions;
 - figures, dates, money values, names and initials;
 - source-printed English already embedded in the verified Tamil;
-- repetitions and source-bound rhetorical awkwardness where fidelity requires it.
+- repetitions and source-bound rhetorical force.
 
-Gate F is a translation pass, not a Tamil editing pass. Tamil wording changes should be **0** unless a separate concrete source-backed defect is discovered and explicitly documented.
+Gate G must not modify verified Tamil unless a separate concrete source-backed Tamil defect is discovered and explicitly documented.
+
+Maintain a page-specific refinement ledger for every English change, with exact before→after wording. Record blockers instead of guessing.
+
+## Gate-G cadence
+
+Speech 19 has **35 pages**.
+
+Use:
+
+1. **Batch 1 — scans 511–540 / exactly 30 pages**
+2. **Batch 2 FINAL — scans 541–545 / exactly 5 pages**
 
 ## Exact next activity
 
-Perform **Speech 19 Gate F Batch 2 FINAL — scans 541–545 / exactly 5 pages**.
+Perform **Speech 19 Gate G Batch 1 — scans 511–540 / exactly 30 pages**.
 
 Requirements:
 
-1. translate exactly scans **541–545** from the final Gate-E-verified Tamil;
-2. preserve all speaker changes/interventions on scans **544–545**;
-3. preserve source-printed English on scan **542** verbatim where it appears in the verified Tamil;
-4. preserve all figures, dates, money values, names, initials, quotations and rhetorical structure;
-5. preserve page boundaries **541→545** and the locked terminal boundary **545→546**; scan 546 remains excluded;
-6. do not alter the already translated English for scans **511–540** unless a separate concrete translation defect is discovered and documented;
-7. maintain the Gate-F blocker ledger; do not invent wording for any genuine blocker;
-8. verified-Tamil changes — **0** unless separately source-backed and documented;
-9. outside English imported — **0**;
-10. after a clean FINAL batch, English source-page sections must cover **511→545 / 35 / exactly once / ordered**;
-11. after a clean FINAL batch, close Gate F as **COMPLETE / 35 of 35 translated / 0 blockers / 0 Tamil changes**;
-12. English after Gate F remains **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**;
+1. review exactly English source-page sections **511–540** against the final verified Tamil for the same pages;
+2. do not review or alter English scans **541–545** in this activity;
+3. refine English only where needed for source fidelity, clarity or voice;
+4. preserve all figures, dates, money values, names, initials, quotations, rhetorical questions, repetitions and structural continuations;
+5. preserve source-printed English on scans **523–525 / 535** verbatim;
+6. preserve scan **539** source-printed `foundation, weir pie` exactly as printed;
+7. maintain a page-specific Gate-G refinement ledger with exact before→after readings;
+8. maintain a blocking-fidelity ledger; do not invent wording for genuine blockers;
+9. verified-Tamil changes — **0** unless separately source-backed and documented;
+10. outside English imported — **0**;
+11. keep source-page sections **511→545** unchanged / exactly once / ordered;
+12. after Batch 1, Gate G remains **IN PROGRESS** and `verified_against_tamil=false`;
 13. synchronize Speech README, metadata, transcript, translation-review, source-notes, verification-log, anthology mapping/source README, handover, root README and this continuation prompt;
-14. do **not** begin Gate G in the same activity;
-15. exact next after Gate-F closure — **Speech 19 Gate G Batch 1 — scans 511–540 / exactly 30 pages**;
-16. Gate-G final remainder will be **541–545 / 5 pages**.
+14. exact next after Batch 1 — **Speech 19 Gate G Batch 2 FINAL — scans 541–545 / exactly 5 pages**;
+15. do **not** begin Gate G FINAL or Gate H in the same activity.
 
-Gate G must review the Gate-F English against the final verified Tamil and may refine English only; it must not modify verified Tamil unless a separate concrete source-backed defect is discovered.
+After the FINAL Gate-G batch, only then may English become **VERIFIED AGAINST TAMIL / verified_against_tamil=true** if there are no blockers.
