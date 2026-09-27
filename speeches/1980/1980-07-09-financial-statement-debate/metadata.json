@@ -88,7 +88,7 @@
     ],
     "next_activity": "Gate E Batch 2 scans 492-501 / exactly 10 pages",
     "gate_e_iteration_page_limit": 10,
-    "current_gate_e_batch": "482-491 / 10 pages / PASS-COMPLETE / 1 correction",
+    "current_gate_e_batch": "482-491 / 10 pages / PASS-COMPLETE / 13 corrections",
     "next_gate_e_batch": "492-501 / exactly 10 pages",
     "planned_gate_e_batches": [
       "482-491 / 10 pages",
@@ -157,12 +157,12 @@
     "gate_e_verified_printed_pages": "481-490",
     "gate_e_verified_page_count": 10,
     "gate_e_batch_1_status": "pass-complete",
-    "gate_e_batch_1_corrections": 1,
-    "gate_e_batch_1_correction_occurrences": 1,
-    "gate_e_batch_1_affected_scans": 1,
-    "gate_e_cumulative_corrections": 1,
-    "gate_e_cumulative_correction_occurrences": 1,
-    "gate_e_cumulative_affected_scans": 1,
+    "gate_e_batch_1_corrections": 13,
+    "gate_e_batch_1_correction_occurrences": 13,
+    "gate_e_batch_1_affected_scans": 8,
+    "gate_e_cumulative_corrections": 13,
+    "gate_e_cumulative_correction_occurrences": 13,
+    "gate_e_cumulative_affected_scans": 8,
     "gate_e_unresolved": 0
   },
   "translation": {
