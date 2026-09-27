@@ -250,6 +250,50 @@ Checks:
 - exact next — **Gate E Batch 3 / scans 531–540 / exactly 10 pages**
 - do not begin — **Gate E Batch 4 / Gate F**
 
+## Gate E — Batch 3 / scans 531–540
+
+**PASS / COMPLETE — printed pp.530–539 / exactly 10 pages; cumulative 30 of 35 source-verified.**
+
+Checks:
+
+- controlling source — **part022 local 6–15 / global scans 531–540**
+- direct visual comparison — **10/10 pages**
+- source-fidelity corrections — **9 entries / 9 occurrences / 5 affected scans**
+- affected scans — **532 / 535 / 536 / 537 / 538**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- markers **511→545** — **unchanged / exactly once / ordered**
+- names / numerals / dates / money / units in Batch 3 — **checked**
+- quotations / repetitions / punctuation where legible — **checked**
+- Government of Tamil Nadu English extract on scan **535** — **checked / preserved as printed**
+- `foundation, weir pie` on scan **539** — **checked / preserved as printed**
+- scan **541** altered or source-verified — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- Gate F — **NOT STARTED / blocked pending full Gate E**
+
+### Batch-3 correction ledger
+
+1. **scan 532** — `கைத்தறிக்கு வரி போடுவது கிடையாது` → `கைத்தறிக்கு வரி போட்டது கிடையாது`.
+2. **scan 535** — `ஏறத்தாழ ஏழு அல்லது எட்டு கோடி ரூபாய் இந்த ஏழு அல்லது எட்டு கோடி ரூபாய்` → `ஏறத்தாழ ஏழு அல்லது எட்டு கோடி ரூபாய். இந்த ஏழு அல்லது எட்டு கோடி ரூபாய்`.
+3. **scan 536** — `ஆக 13 கோடி ரூபாய் நாம் இங்கே எடுத்துக் காட்டிய` → `ஆக 13 கோடி ரூபாய் நான் இங்கே எடுத்துக் காட்டிய`.
+4. **scan 536** — `ஸ்டீல் ரோலிங் மில்ஸ் அதிபர்களுக்கு வரி விலக்கு செய்துவிட்டு` → `ஸ்டீல் ரீரோலிங் மில்லினுடைய வரியில் நீக்கம் செய்துவிட்டு`.
+5. **scan 536** — `இழந்து கொண்டிருக்கின்றோம். இந்த அரசு என்று கூறுவதற்காகவே எடுத்துக் காட்டியிருக்கிறேன்.` → `இழந்து கொண்டிருக்கின்றது, இந்த அரசு என்று குற்றஞ்சாட்டுவது எப்படித் தவறாகும் என்பதுதான் என்னுடைய கேள்வியாகும்.`.
+6. **scan 537** — `அவர்களால் திறந்து வைக்கப்பட்டது` → `அவர்களால் திறந்துவைக்கப்பட்டது`.
+7. **scan 537** — `எப்படி தூசி படிந்து கிடக்கிறது என்பதை தேவையாக மாண்புமிகு முதலமைச்சர் இந்த மதுரையிலே ஏதோ ஒரு மூலையிலே உள்ள பாதையிலேயே படம் போட்டு காட்டினார்கள்.` → `எப்படி தூசி படிந்து கிடக்கிறது. எவ்வளவு கேவலமாக மோசமான முறையிலே அது மதுரையிலே ஏதோ ஒரு மூலையிலே தள்ளப்பட்டிருக்கிறது என்ற செய்தியைப் பத்திரிகையிலே படம் போட்டுக் காட்டினார்கள்.`.
+8. **scan 537** — `எந்தக் கட்சியையும் சாராத ஒரு பெரிய அந்தக் கவலை தரும் சம்பவங்களை எடுத்துக் காட்டியிருக்கிறார்கள்.` → `எந்தக் கட்சியையும் சாராத ஏடுகளிலே அந்த கவலை தரும் சம்பவங்களை எடுத்துக் காட்டியிருக்கிறார்கள்.`.
+9. **scan 538** — `2 லட்ச ரூபாய் அளவுக்குத்தான் நடு அதன்மேலே ஆஸ்பெஸ்டாஸ் தகடுகள் போட` → `2 லட்ச ரூபாய் அளவுக்குத் தூண் நட்டு அதன்மேலே ஆஸ்பெஸ்டாஸ் தகடுகள் போட`.
+
+## Gate-E Batch-3 disposition
+
+- verified pages — **30/35**
+- cumulative corrections — **16**
+- cumulative correction occurrences — **16**
+- cumulative affected scans — **10**
+- unresolved — **0**
+- Tamil verification state — **PARTIALLY VERIFIED / verified_against_scan=false**
+- exact next — **Gate E Batch 4 FINAL / scans 541–545 / exactly 5 pages**
+- do not begin — **Gate F**
+
 ## Exact next activity
 
-Perform **Gate E Batch 3 — scans 531–540 / exactly 10 pages** from the controlling source pixels only.
+Perform **Gate E Batch 4 FINAL — scans 541–545 / exactly 5 pages** from the controlling source pixels only.
