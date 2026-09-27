@@ -96,8 +96,24 @@ Gate C.5 is **provisionally N/A** because this is modern 2007 typesetting; reope
 - scans **531–545** modified in Batch 2 — **0**
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 
+## Gate C Batch 3
+
+**PASS / COMPLETE — scans 531–540 / exactly 10 pages; cumulative 30 of 35 first-pass transcribed.**
+
+- source file — part022 local **6–15**
+- source-page markers — **511→540 / 30 / exactly once / ordered**
+- continuations **531→532 / 532→533 / 533→534 / 534→535 / 535→536 / 536→537 / 537→538 / 538→539 / 539→540** — **preserved**
+- source-printed English on scan **535** — **preserved as printed**
+- source-printed English phrase `foundation, weir pie` on scan **539** — **preserved**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- scan **541** wording — **not imported**
+- scans **541–545** modified in Batch 3 — **0**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+
 ## Exact next
 
-**Speech 19 Gate C Batch 3 — scans 531–540 / exactly 10 pages.**
+**Speech 19 Gate C Batch 4 FINAL — scans 541–545 / exactly 5 pages.**
 
-Do not transcribe scans 541 onward in the same iteration.
+Do not begin Gate C.5 or Gate D in the same iteration.
