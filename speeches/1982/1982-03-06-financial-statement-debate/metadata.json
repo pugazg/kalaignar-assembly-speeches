@@ -96,7 +96,7 @@
       "541-545 / 5 pages FINAL"
     ],
     "working_split_transition": "525->526",
-    "next_activity": "Gate C.5 disposition + Gate D structural completeness audit"
+    "next_activity": "Gate E Batch 1 / scans 511-520 / exactly 10 pages"
   },
   "transcription": {
     "language": "Tamil",
@@ -121,10 +121,10 @@
     "unresolved_reading_count": 0,
     "verified_against_scan": false,
     "outside_wording_imported": false,
-    "next_gate": "Gate C.5 disposition + Gate D structural completeness audit",
+    "next_gate": "Gate E Batch 1 / scans 511-520 / exactly 10 pages",
     "gate_c_batches_completed": 4,
     "last_completed_batch": "541-545 / 5 pages FINAL / PASS-COMPLETE",
-    "gate_c5_status": "provisionally-n-a-disposition-next",
+    "gate_c5_status": "n-a-closed",
     "gate_c5_legacy_typeform_anomaly_observed": false,
     "gate_c_batch_1_status": "pass-complete",
     "gate_c_batch_1_scan_pages": "511-520",
@@ -175,7 +175,26 @@
     ],
     "gate_c_batch_4_outgoing_boundary": "545->546 / PASS / scan 546 closing portrait-back matter excluded",
     "gate_c_complete": true,
-    "gate_c_completion_note": "35/35 source pages first-pass transcribed; no unresolved first-pass readings; verified_against_scan remains false pending Gate E."
+    "gate_c_completion_note": "35/35 source pages first-pass transcribed; no unresolved first-pass readings; verified_against_scan remains false pending Gate E.",
+    "gate_c5_reason": "modern 2007 typesetting; no page-specific legacy Tamil typeform anomaly observed across scans 511-545",
+    "gate_c5_historical_glyph_corrections": 0,
+    "gate_c5_unresolved_historical_glyph_readings": 0,
+    "gate_c5_tamil_wording_changes": 0,
+    "gate_d_status": "pass-complete",
+    "gate_d_page_count": 35,
+    "gate_d_marker_count": 35,
+    "gate_d_marker_range": "511-545",
+    "gate_d_internal_transition_count": 34,
+    "gate_d_internal_transitions_passed": 34,
+    "gate_d_missing_pages": 0,
+    "gate_d_duplicate_pages": 0,
+    "gate_d_empty_page_sections": 0,
+    "gate_d_completeness_corrections": 0,
+    "gate_d_tamil_wording_changes": 0,
+    "gate_d_start_boundary": "510->511 / PASS",
+    "gate_d_end_boundary": "545->546 / PASS / scan 546 excluded",
+    "gate_d_working_split_transition": "525->526 / PASS",
+    "gate_d_outside_wording_imported": false
   },
   "translation": {
     "status": "not-started",
