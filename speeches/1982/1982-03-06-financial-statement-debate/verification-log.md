@@ -20,7 +20,7 @@ Checks:
 - part021 Speech-19 coverage — **local 11–25 / scans 511–525 / 15 pages**
 - part022 mapped coverage — **local 1–20 / scans 526–545 / 20 pages**
 - part022 split total — **21 pages**
-- part022 exact bytes / SHA-256 — **not recorded in live-main controls; not invented**
+- part022 integrity metadata — **21 pages / 15,522,557 bytes / SHA-256 7fc6e4fb4e264c9c4b836150549fc0c8c45458bc9a3869ac313ff6708fb5ceed**
 - working-split transition — **525→526**
 - Gate-C cadence — **10 / 10 / 10 / 5 pages**
 - Gate C transcription — **NOT STARTED**
@@ -54,6 +54,32 @@ Checks:
 - part022 user-supplied split integrity now resolved — **21 pages / 15,522,557 bytes / SHA-256 7fc6e4fb4e264c9c4b836150549fc0c8c45458bc9a3869ac313ff6708fb5ceed**
 - Batch-2 split transition **525→526** — **mapped / audit required in next activity**
 
+## Gate C Batch 2
+
+**PASS / COMPLETE — scans 521–530 / printed pp.520–529 / exactly 10 pages.**
+
+Checks:
+
+- controlling source coverage — **part021 local 21–25 / scans 521–525 + part022 local 1–5 / scans 526–530**
+- source-page markers — **511→530 / 20 / exactly once / ordered**
+- cumulative Gate-C coverage — **20 of 35 pages**
+- **520→521** continuation — **PASS / preserved**
+- **521→522** continuation — **PASS / preserved**
+- **523→524** source-printed English continuation — **PASS / preserved**
+- **524→525** poem/commentary continuation — **PASS / preserved**
+- **525→526 / part021→part022** working-split transition — **PASS / preserved**
+- **526→527 / 527→528 / 529→530** continuations — **PASS / preserved**
+- source-printed English on scans **523–525** — **preserved**
+- scan **530** — **complete / no open wording imported from scan 531**
+- scan **531** wording imported — **0**
+- scans **531–545** modified — **0**
+- first-pass unresolved readings — **0**
+- OCR / web / Official Reports / alternate anthologies / released-speech wording imported — **0**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+- Gates D–H — **NOT STARTED**
+- Speech 18 — **unchanged / RELEASED-CLOSED**
+
 ## Exact next activity
 
-Perform **Gate C Batch 2 — scans 521–530 / exactly 10 pages** from the controlling source pixels only. Do not process scans 531 onward in the same iteration.
+Perform **Gate C Batch 3 — scans 531–540 / exactly 10 pages** from the controlling source pixels only. Do not process scans 541 onward in the same iteration.
