@@ -80,6 +80,28 @@ Checks:
 - Gates D–H — **NOT STARTED**
 - Speech 18 — **unchanged / RELEASED-CLOSED**
 
+## Gate C Batch 3
+
+**PASS / COMPLETE — scans 531–540 / printed pp.530–539 / exactly 10 pages.**
+
+Checks:
+
+- controlling source coverage — **part022 local 6–15 / scans 531–540**
+- source-page markers — **511→540 / 30 / exactly once / ordered**
+- cumulative Gate-C coverage — **30 of 35 pages**
+- transitions **531→532 / 532→533 / 533→534 / 534→535 / 535→536 / 536→537 / 537→538 / 538→539 / 539→540** — **PASS / preserved**
+- source-printed Government of Tamil Nadu English extract on scan **535** — **preserved**
+- source-printed English phrase `foundation, weir pie` on scan **539** — **preserved as printed**
+- scan **540** — **complete / no wording imported from scan 541**
+- scan **541** wording imported — **0**
+- scans **541–545** modified — **0**
+- first-pass unresolved readings — **0**
+- OCR / web / Official Reports / alternate anthologies / released-speech wording imported — **0**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+- Gates D–H — **NOT STARTED**
+- Speech 18 — **unchanged / RELEASED-CLOSED**
+
 ## Exact next activity
 
-Perform **Gate C Batch 3 — scans 531–540 / exactly 10 pages** from the controlling source pixels only. Do not process scans 541 onward in the same iteration.
+Perform **Gate C Batch 4 FINAL — scans 541–545 / exactly 5 pages** from the controlling source pixels only. Do not begin Gate C.5 or Gate D in the same iteration.
