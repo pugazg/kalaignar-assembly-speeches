@@ -302,3 +302,87 @@ The exemption will take effect retrospectively from 19th January 1976".
 
 **மாண்புமிகு திரு. எம்.ஜி. இராமச்சந்திரன் :** மாண்புமிகு சட்டப்பேரவைத் தலைவர் அவர்களே தலை இல்லாமல் வால் ஆடாது. ஆகவே எது நடந்தாலும் ஒரு முதலமைச்சர் இது சரியில்லை என்று தெரிந்து வேண்டாம் என்றால் அது நடக்காது என்பது எனக்குத் தெரியும். ஆனால் அடிப்படையில் ஏதாவது காரணம் இருந்தால்தான் வழக்குகள் வெளிவருகிறதே தவிர விருப்பம் இருந்தால்தான் வருமே தவிர வேறு அல்ல. அந்த விருப்பம் இந்த அரசுக்கு இல்லை என்பதைத் திட்டவட்டமாகத் தெரிவித்துக் கொள்கிறேன்.
 
+# English translation
+
+> **Gate-F translation state:** Gate F Batch 1 is **IN PROGRESS — scans 511–540 / 30-page batch**. Translation authority: final Gate-E-verified Tamil only. This working English is **NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**. Blocking questions currently: **0**. Verified-Tamil changes: **0**. Outside English imported: **0**. Scans **541–545 are not translated in this batch**.
+
+### Source page 511
+
+Speech: 19                                              06.03.1982
+
+**Kalaignar M. Karunanidhi:** Hon. Speaker, I am duty-bound to set out, on behalf of the Dravida Munnetra Kazhagam, my views on the receipts-and-expenditure plan for this financial year.
+
+The ruling party places the financial statement for each year and indicates the courses to be followed for its schemes. The opposition has a constructive duty to point out the shortcomings in schemes implemented so far and, so that those shortcomings may be removed, to offer advice on how schemes should be carried out in the future. Therefore, if our Finance Minister expects nothing but praise from the opposition for the financial statement he has placed here, that will be of no use either to him or to the Government. To put it in the words of Finance Minister Navalar: from the time the Dravida Munnetra Kazhagam, while in opposition, decided in 1957 to contest elections, until 1967 when the Dravida Munnetra Kazhagam assumed the responsibility of government, at every stage he repeatedly and emphatically said that the opposition is like a nose-rope for the ruling party; that the opposition is like the axle-pin on which the cart called the ruling party turns; and that the opposition is a bridle for the ruling party. Therefore a ruling party without an opposition becomes a horse without a bridle, a bull without a nose-rope—
+
+### Source page 512
+
+—an ox without a goad-stick, as Navalar has illustrated many times. Though I may not be able to put it in that style, those ideas have become deeply embedded in my mind. I therefore wish to place these views in the hope and expectation that today's Finance Minister, Navalar, will take to heart the shortcomings and irregularities pointed out on behalf of the Dravida Munnetra Kazhagam in this financial statement and use them to frame sound schemes for the people in a proper and upright manner.
+
+On page 3 of this financial statement Navalar has given a note. It says: “Our concern is that those in the Central Government desire to carry a burden that cannot be borne. If the strength of the Central Government is the total strength produced by adding together the individual strengths of all the States, that is acceptable in argument, good for politics, and suitable in practice. Perarignar Anna repeatedly stressed this whenever an opportunity arose in this House.” Our Finance Minister Navalar has written this on page 3 of this year's financial statement.
+
+I too searched through the financial statements placed in this House and the speeches delivered when Anna was Chief Minister. But I could not find anywhere those words of Anna cited on page 3. Only then did a thought occur to me. When I considered where Navalar might have taken that idea from, the year 1974 came vividly back to me. In this very—
+
+### Source page 513
+
+—House, a State Autonomy resolution was moved on behalf of the Dravida Munnetra Kazhagam Government. At that time, the Anna DMK legislators sitting in the opposition benches argued very strongly that Anna had never spoken about State autonomy. My friend and Hon. Minister Thiru Panruti Ramachandran, who was also a minister then, recalled an interview Anna had given to the Illustrated magazine and pointed out that Anna had said the States needed “full autonomy.” Even then, the Anna DMK legislators refused to accept it and emphatically said State autonomy was unacceptable. At that time, on behalf of the Dravida Munnetra Kazhagam, in which I served as leader and Navalar as General Secretary, one of Anna's major speeches was published. The title of that book was *Anna's Call for State Autonomy*. Only later did I understand that Navalar had taken the idea from there. It was not from a speech Anna delivered in this House, but from the book on Anna's State Autonomy published on behalf of the Dravida Munnetra Kazhagam:
+
+“Our concern is that those in the Central Government desire to carry a burden that cannot be borne. If the strength of the Central Government is the total strength produced by adding together the individual strengths of all the States, that is acceptable in argument, good for government, and suitable in practice. But if the Central Government keeps all rights and strength while the States have only enough authority to toddle along, that is not appropriate for anything.”
+
+Anna had expressed these views at the State Autonomy Conference, and when we cited them here—
+
+### Source page 514
+
+—as early as 1974, the Anna DMK legislators did not believe us.
+
+For a long time I was troubled that Navalar had gone from the DMK to the AIADMK. Yet after going there, somehow or other—whether the Chief Minister knew it or not, whether those in that Cabinet knew it or not—he has managed to introduce there the ideas in Anna's book on State autonomy published on behalf of the Dravida Munnetra Kazhagam. I am very happy that the credit for that belongs to our Finance Minister Navalar. It does not matter that he went. I thank him for taking this idea from Perarignar Anna's *Call for State Autonomy* and making the good ideas we had put forward resound from there.
+
+The memorandum submitted to the Seventh Finance Commission during the Dravida Munnetra Kazhagam Government was printed and published in 1977. Even in that memorandum, the view stated on behalf of the Dravida Munnetra Kazhagam Government was:
+
+“The Constitution of India describes India as a union of States. Therefore, viewed as a whole, the principle governing Centre-State financial relations must ensure financial autonomy in a manner fully consistent with the responsibilities and functions allotted under the Constitution respectively to the Central Government and the State Governments. In the Indian federal structure, the Central Government and the State Governments must be regarded as joint partners with equal rights.”
+
+### Source page 515
+
+That is the wording found in the memorandum submitted to the Seventh Finance Commission during the Kazhagam Government. Echoing that very wording, in this year's financial statement the Finance Minister has said that the Central Government must find ways to increase the resources and scope of authority of the States. I wholeheartedly welcome that view.
+
+We cannot forget that sales tax occupies an important place among the State's financial revenues. The Central Government appointed a study committee under Mohanlal Sukhadia to examine a proposal to remove sales tax, which is in the State List, from many commodities and impose excise duty instead. When that committee's report was tabled in the Rajya Sabha in Parliament, Members of Parliament from West Bengal, Kerala and Kashmir strongly objected to it. The Central Government's own report also points out that those three State Governments opposed this move.
+
+Even yesterday, while my Hon. friend Thiru Sankaraiah was speaking, the Revenue Minister intervened and said that, on behalf of the Tamil Nadu Government too, the objection had been put forward twice in Delhi. But when this report was debated in the Houses of Parliament, a member of our party, Gopalsamy, spoke very emphatically against it on behalf of the Dravida Munnetra Kazhagam. I think it is highly appropriate to recall here the words he spoke there. He said, “On behalf of the DMK, I wish—
+
+### Source page 516
+
+—to register my strong condemnation of this decision of the Central Government in the most emphatic terms. The Central Government has undertaken such an effort in order to encroach upon the powers and rights of the States. The financial resources of the States are already very limited. State Governments have long been pressing for greater resources. I fear that this action is being taken so that, by abolishing sales tax, imposing excise duty and thereby shifting the financial resource, the Central Government can render the State Governments powerless and create a situation in which they must wait upon the Centre's mercy. I charge that this is a scheme designed to turn the State Governments into mere puppet governments. To have come this far and appointed a committee without even seeking views in Parliament is an anti-democratic act.” My friend Gopalsamy expressed this view there on behalf of the Dravida Munnetra Kazhagam. What troubles and surprises me is that, although the Anna DMK had more Rajya Sabha members than the Dravida Munnetra Kazhagam, not even one member on its behalf expressed opposition when that report was being debated.
+
+Not only in this matter: this Government speaks here as though it is very vigorous even on language policy. During the Janata Government, when efforts to impose Hindi in non-Hindi-speaking States proceeded even more rapidly than they do today, a private member's resolution opposing it was moved through Murasoli Maran; days were allotted for the private member's resolution, and the debate went on for a month. Members of the Dravida Munnetra Kazhagam took part in that debate.
+
+### Source page 517
+
+Members of the Marxist Communist Party and the Communist Party of India took part. Even parties that supported Hindi entered the debate to argue that Hindi should be imposed and that Hindi should be spread. But, on behalf of the ruling Anna DMK here, no one in the Rajya Sabha appears to have taken part and spoken in support of that resolution.
+
+Therefore, on Anna's two great policies—State autonomy, and protecting Tamil and Tamils from the domination of another language—I wish to point out here that those who had greater numbers than the Dravida Munnetra Kazhagam members serving in the Rajya Sabha did not show concern. (Interruption.) You may have spoken; I am saying again and again that the Rajya Sabha members did not speak.
+
+As for the policy and programme of nationalisation, in every Budget we can see it gradually wearing away, disappearing and diminishing. During the Dravida Munnetra Kazhagam Government, a scheme was introduced to nationalise the buses in every district. Bus owners filed a case against it in the High Court; judgment was given in favour of the Government; then, around 1975, they went to the Supreme Court. For seven years after 1975 this matter has merely lain dormant in the Supreme Court. This Government has not undertaken the work of expediting it and implementing the scheme brought by the Dravida Munnetra Kazhagam Government to nationalise the buses—
+
+### Source page 518
+
+—and I am duty-bound to point that out here as a major shortcoming.
+
+In the Governor's Address it was said that henceforth anyone may generate electricity; if it is profitable and can bring a benefit to the Government, private parties will be permitted to generate electricity and will be given that right. In the financial statement, similarly, it is said that if the public sector does not come forward to take over and run sugar mills, and if the cooperative sector does not come forward, private parties may run them too. I ask those in power to consider how this can encourage or strengthen the policy of nationalisation, the policy of public ownership, or the principle that assets should be safeguarded as public property of the State.
+
+I am duty-bound to bring to the Finance Minister's attention certain contradictions between the allocations in the 1981-82 financial statement and those in the 1982-83 financial statement.
+
+He has plenty of time to consider carefully the contradictions I am placing here and, if necessary, consult the officials before replying. He is not going to reply immediately today, because, for another engagement agreed upon by everyone, he has to go to the airport. So he has a day, a day and a half in between, and I wish to continue setting out these matters so that the Finance Minister may tell us whether these points are correct or whether I have misunderstood them.
+
+This is the financial statement for 1981-82. On page 21, paragraph 28, under the heading “Road Facilities,” there is—
+
+### Source page 519
+
+—a passage: “The Government is progressively undertaking the construction and improvement of roads for the benefit of villages with a population of 1,500. Under this five-stage scheme, roads totalling 4,819 kilometres will be laid in 2,789 villages at a capital cost of Rs.28.25 crore. During the current year the scheme will be implemented in self-sufficiency development blocks. Rs.6 crore has been allotted for this. Next year this amount is being raised to Rs.7 crore. A total of Rs.40 crore has been allotted for this during the Sixth Plan period.” This is the point that must be noted. In the 1981-82 financial statement it was announced that “a total of Rs.40 crore has been allotted for this during the Sixth Five-Year Plan period.”
+
+In this year's 1982-83 financial statement, under the heading “Roads,” on page 32, paragraph 58, our Finance Minister says: “Under the self-sufficiency scheme, link roads are being laid to villages with populations below 1,500. Under the same scheme, road culverts are being built. In 1981-82 approximately Rs.43 crore will be spent on roads and culverts.” If so, according to the financial statement you placed here last year, you said Rs.40 crore would be spent over the Sixth Five-Year Plan period. Now, once this March ends, the 1981-82 financial year will be over. Yet you say that in this 1981-82 year approximately Rs.43 crore will be spent on roads and culverts. That means it would have been spent. I do not understand this contradiction. I believe the Finance Minister will explain it in his reply.
+
+### Source page 520
+
+Next, in 1981-82, a point about the Slum Clearance Board is given on page 35, paragraph 45: “The work of the Slum Clearance Board has made good progress. Up to 1980, 2,000 tenements have been built at a cost of Rs.29 crore. During the current year, 3,200 such houses are expected to be completed at a cost of Rs.3.24 crore.” When was this said? It was said in 1981-82. Up to March 1981, the houses built involved an expenditure of Rs.29 crore, and another Rs.3 crore was allotted. That makes Rs.32 crore in all. It ought to be Rs.32 crore. But in this financial statement, when referring to the Slum Clearance Board on page 31, paragraph 6, it says: “The work of the Slum Clearance Board is proceeding satisfactorily. Up to 1980-81, about 31,000 dwelling units have been built at a cost of roughly Rs.35 crore.” They say Rs.35 crore. That is Rs.29 crore plus another Rs.3 crore—Rs.32 crore—according to last year's financial statement, while this year they say Rs.35 crore for 31,000 dwellings. The number of additional dwellings being built is only a little over three thousand, but instead of Rs.3 crore an additional Rs.6 crore has been stated. I need an explanation for this contradiction too.
+
+Third, the rural housing scheme. Regarding the rural housing scheme, on page 34, paragraph 44, the 1981-82 financial statement says that in the period from July 1980 to February 1981, sanction was given for Rs.22.68 crore on 73,756 loan applications. During that period 19,952 houses were completed. How many months is that period? From July 1980 to February 1981—eight months. In that period nearly 20,000 houses were completed. This—
+
