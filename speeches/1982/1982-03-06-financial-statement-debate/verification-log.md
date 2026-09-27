@@ -373,6 +373,36 @@ Checks:
 - exact next — **Gate F Batch 2 FINAL / scans 541–545 / exactly 5 pages**
 - do not begin — **Gate G**
 
+## Gate F — Batch 2 FINAL / scans 541–545
+
+**PASS / COMPLETE — printed pp.540–544 / exactly 5 pages; cumulative 35 of 35 translated.**
+
+Checks:
+
+- translation authority — **final Gate-E-verified Tamil only**
+- cumulative English source-page sections — **511→545 / 35 / exactly once / ordered**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-printed English on scan **542** — **preserved verbatim**
+- speaker changes/interventions on scans **544–545** — **preserved**
+- page boundaries **541→545** — **preserved**
+- **545→546** terminal boundary — **PASS / scan 546 excluded**
+- Tamil — **VERIFIED / unchanged / verified_against_scan=true**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- Gate G — **NOT STARTED**
+
+## Gate-F FINAL disposition
+
+- translated pages — **35/35**
+- blockers — **0**
+- Tamil changes — **0**
+- outside English imported — **0**
+- source-page sections — **511→545 / 35 / exactly once / ordered**
+- Gate F — **COMPLETE**
+- exact next — **Gate G Batch 1 / scans 511–540 / exactly 30 pages**
+- final Gate-G remainder — **541–545 / 5 pages**
+
 ## Exact next activity
 
-Perform **Gate F Batch 2 FINAL — scans 541–545 / exactly 5 pages** from the final Gate-E-verified Tamil only.
+Perform **Gate G Batch 1 — scans 511–540 / exactly 30 pages** reviewing the Gate-F English against the final verified Tamil.
