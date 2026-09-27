@@ -42,8 +42,8 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate D — **PASS / COMPLETE — 29/29 pages / 28/28 internal transitions / 0 completeness corrections / 0 Tamil wording changes**
 - Gate E — **PASS / COMPLETE — scans 482–510 / 29 of 29 verified / 20 cumulative corrections / 0 unresolved**
 - Gate F / English — **COMPLETE — scans 482–510 / 29 of 29 translated / 0 blockers / 0 Tamil changes**
-- Gate G — **NOT STARTED / exact next = FINAL scans 482–510 / 29 pages**
-- Gate H — **NOT STARTED / NOT RELEASED**
+- Gate G — **PASS / COMPLETE — scans 482–510 / 29 of 29 reviewed / 6 refinements / 0 blockers / 0 Tamil changes / verified_against_tamil=true**
+- Gate H — **READY / NOT STARTED / NOT RELEASED / exact next = archival/release audit**
 - Speech 19 — **NOT STARTED**
 
 ## Gate-C batching
@@ -265,8 +265,23 @@ Genuine source-visible forms retained include scan 482 `மாண்புமி
 - Tamil — **VERIFIED / unchanged / verified_against_scan=true**
 - English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
 
+## Gate G FINAL closure
+
+**PASS / COMPLETE — scans 482–510 / printed pp.481–509 / 29 of 29 English source-page sections reviewed against the final Gate-E-verified Tamil.**
+
+- one FINAL Gate-G iteration — **29 pages**
+- refinements — **6 entries / 6 occurrences / 6 affected scans**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-page boundaries / continuations — **preserved**
+- figures / quotations / repetitions / rhetorical questions / interventions — **preserved**
+- source-printed English on scans **492 / 501 / 506** — **preserved verbatim**
+- hard boundary **510→511** — **PASS / Speech 19 excluded**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- detailed before→after ledger — **`translation-review.md`**
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
+
 ## Exact next activity
 
-Perform **Speech 18 Gate G FINAL — scans 482–510 / exactly 29 pages**.
-
-Review all 29 English source-page sections only against the final Gate-E-verified Tamil. Apply every needed fidelity/voice refinement, record each before→after change by scan, preserve source-printed English verbatim, make 0 verified-Tamil changes, import 0 outside English, and do not begin Gate H or Speech 19.
+Perform **Speech 18 Gate H archival/release audit**. Do not begin Speech 19 in the same activity.
