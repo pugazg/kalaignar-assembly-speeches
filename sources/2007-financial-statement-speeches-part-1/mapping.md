@@ -67,7 +67,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 15 | `03.08.1977` | 1977-08-03 | 320–355 | 319–354 | `1977-08-03-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 16 | `1.3.1978` | 1978-03-01 | 356–388 | 355–387 | `1978-03-01-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 17 | `22 & 23.3.1979` | **multi-date source unit: 1979-03-22 and 1979-03-23; no explicit internal date divider found; no single canonical date assigned** | 389–481 | 388–480 | `1979-03-22-and-23-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete; intentionally not added to single-date root/data indexes** |
-| 18 | `09.07.1980` | 1980-07-09 | 482–510 | 481–509 | `1980-07-09-financial-statement-debate`; **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E IN PROGRESS — Batch 1 PASS-COMPLETE / scans 482–491 / 10 of 29 verified / 14 corrections / 0 unresolved / Tamil PARTIALLY VERIFIED** |
+| 18 | `09.07.1980` | 1980-07-09 | 482–510 | 481–509 | `1980-07-09-financial-statement-debate`; **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E IN PROGRESS — Batch 1 PASS-COMPLETE / scans 482–491 / 10 of 29 verified / 13 corrections / 0 unresolved / Tamil PARTIALLY VERIFIED** |
 | 19 | `06.03.1982` | 1982-03-06 | 511–545 | 510–544 | `1982-03-06-financial-statement-debate` |
 
 ## Focused boundary re-check
@@ -125,7 +125,7 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate C — **Speeches 1–18 COMPLETE; Speech 18 29 of 29 first-pass / Tamil TRANSCRIBED-NOT-VERIFIED; Speech 19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–18**
 - Gate D — **Speeches 1–18 PASS / COMPLETE; Speech 18 29/29 pages / 28/28 transitions / 0 completeness corrections**
-- Gate E — **Speeches 1–17 PASS / COMPLETE / Tamil VERIFIED; Speech 18 IN PROGRESS / Batch 1 PASS-COMPLETE / 10 of 29 verified / 14 corrections / 0 unresolved; Speech 19 not started**
+- Gate E — **Speeches 1–17 PASS / COMPLETE / Tamil VERIFIED; Speech 18 IN PROGRESS / Batch 1 PASS-COMPLETE / 10 of 29 verified / 13 corrections / 0 unresolved; Speech 19 not started**
 - Gate F — **Speeches 1–17 COMPLETE; speeches 18–19 not started**
 - Gate G — **Speeches 1–17 PASS / COMPLETE / English VERIFIED; speeches 18–19 not started**
 - Gate H — **Speeches 1–17 PASS / COMPLETE — RELEASED / CLOSED; speeches 18–19 not started**
@@ -370,7 +370,7 @@ Continue **Speech 18 Gate E Batch 2 — scans 492–501 / printed pp.491–500 /
 ## Speech 18 Gate E Batch 1 state
 
 - verified scans — **482–491 / 10 of 29**
-- corrections — **14 entries / 14 occurrences / 8 affected scans**
+- corrections — **13 entries / 13 occurrences / 8 affected scans**
 - unresolved — **0**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - scans 492–510 changed — **0**
