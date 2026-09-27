@@ -96,7 +96,7 @@
       "541-545 / 5 pages FINAL"
     ],
     "working_split_transition": "525->526",
-    "next_activity": "Gate H archival/release audit",
+    "next_activity": "2007 financial-statement speeches Part 1 workflow complete / await new controlling source",
     "gate_e_iteration_page_limit": 10,
     "current_gate_e_batch": "541-545 / 5 pages FINAL / PASS-COMPLETE / 10 corrections",
     "next_gate_e_batch": null,
@@ -121,7 +121,8 @@
     "planned_gate_g_batches": [
       "511-540 / 30 pages",
       "541-545 / 5 pages FINAL"
-    ]
+    ],
+    "workflow_complete": true
   },
   "transcription": {
     "language": "Tamil",
@@ -326,7 +327,7 @@
     "verified_tamil_changes": 0,
     "outside_english_imported": false,
     "next_gate_f_batch": null,
-    "next_gate": "Gate H archival/release audit",
+    "next_gate": null,
     "gate_f_batch_2_status": "pass-complete-final",
     "gate_f_batch_2_scan_pages": "541-545",
     "gate_f_batch_2_printed_pages": "540-544",
@@ -405,14 +406,25 @@
     ],
     "gate_g_batch_2_terminal_boundary": "545->546 / PASS / scan 546 portrait-back matter excluded",
     "gate_g_complete": true,
-    "gate_g_completion_note": "35/35 English source-page sections reviewed against final verified Tamil; 14 refinements; 0 blockers; 0 Tamil changes; outside English imported=0; verified_against_tamil=true."
+    "gate_g_completion_note": "35/35 English source-page sections reviewed against final verified Tamil; 14 refinements; 0 blockers; 0 Tamil changes; outside English imported=0; verified_against_tamil=true.",
+    "placement": "canonical in transcript.md; translation.md retired to pointer",
+    "canonical_merged": true,
+    "translation_working_copy_retired": true,
+    "gate_h_status": "pass-complete",
+    "gate_h_wording_changes_tamil": 0,
+    "gate_h_wording_changes_english": 0
   },
   "release": {
-    "status": "not-released",
-    "released": false,
-    "release_ready": false,
-    "indexed": false,
-    "gate_h_status": "not-started",
-    "canonical_bilingual_transcript": false
+    "status": "released",
+    "released": true,
+    "release_ready": true,
+    "indexed": true,
+    "gate_h_status": "pass-complete",
+    "canonical_bilingual_transcript": true,
+    "translation_working_copy_retired": true,
+    "gate_h_wording_changes_tamil": 0,
+    "gate_h_wording_changes_english": 0,
+    "release_note": "Speech 19 Gate H PASS / COMPLETE. Canonical bilingual transcript released; translation.md retired to pointer; Tamil VERIFIED 35/35; English VERIFIED AGAINST TAMIL 35/35; 26 Gate-E corrections and 14 Gate-G refinements rechecked; 34/34 merged transitions passed; Gate-H wording changes 0 Tamil / 0 English; unique date 1982-03-06 indexed; scan 546 remains excluded.",
+    "workflow_completion_note": "Final mapped speech in the 2007 financial-statement speeches Part 1 anthology. All 19 mapped speech units have now been processed under the recorded indexing exceptions for multi-date and parallel-witness units."
   }
 }
