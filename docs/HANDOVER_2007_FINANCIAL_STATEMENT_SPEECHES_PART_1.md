@@ -1,4 +1,4 @@
-# Handover — 2007 financial-statement speeches anthology, Part 1
+# Handover — completed 2007 financial-statement speeches anthology, Part 1
 
 Repository: `pugazg/kalaignar-assembly-speeches`, branch `main`.
 
@@ -98,7 +98,7 @@ Treat this 2007 anthology as its own witness.
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–19; Speech 19 35/35 verified / 26 cumulative corrections / 0 unresolved / verified_against_scan=true**
 - Gate F — **COMPLETE for Speeches 1–19; Speech 19 35/35 translated / 0 blockers / 0 Tamil changes**
 - Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–19; Speech 19 35/35 reviewed / 14 refinements / 0 blockers / 0 Tamil changes / verified_against_tamil=true**
-- Gate H — **Speeches 1–18 PASS / COMPLETE — RELEASED / CLOSED; Speech 19 READY / NOT STARTED / NOT RELEASED**
+- Gate H — **Speeches 1–19 PASS / COMPLETE — RELEASED / CLOSED; Speech 19 Gate-H wording changes 0 Tamil / 0 English**
 - Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 14 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
@@ -106,7 +106,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 17 — **Gate C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 37 Gate-E corrections / 43 Gate-G refinements / 0 blockers / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / canonical bilingual complete / multi-date source unit / no single canonical date / single-date indexes intentionally unchanged**
 - Speech 18 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 20 Gate-E corrections / 6 Gate-G refinements / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / indexed / canonical bilingual complete**
-- Speech 19 — **Gates C–G COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / Gate G 35/35 / 14 refinements / 0 blockers / 0 Tamil changes / exact next Gate H archival/release audit**
+- Speech 19 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 26 Gate-E corrections / 14 Gate-G refinements / 0 blockers / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / indexed / canonical bilingual complete**
 
 ## Speech 1 durable Gate-C state
 
@@ -1318,33 +1318,53 @@ Do not begin Speech 19 until Speech 18 Gate H is closed.
 - release — **RELEASED / CLOSED**
 - Speech 19 / scan 511 — **excluded / NOT STARTED**
 
-## Speech 19 durable state after Gate G closure
+## Speech 19 Gate H closure
 
 Working entry:
 
 `speeches/1982/1982-03-06-financial-statement-debate/`
 
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- source — **உரை : 19 / 06.03.1982**
 - scans — **511–545 / printed pp.510–544 / 35 pages**
-- Gates C–F — **PASS / COMPLETE**
-- Tamil — **VERIFIED / verified_against_scan=true**
+- Tamil — **VERIFIED / 35/35 / verified_against_scan=true**
+- English — **VERIFIED AGAINST TAMIL / 35/35 / verified_against_tamil=true**
 - Gate-E corrections — **26 / 0 unresolved**
-- Gate F — **COMPLETE / 35 of 35 translated**
-- Gate G — **PASS / COMPLETE / 35 of 35 reviewed**
-- Gate-G refinements — **14 / 14 affected scans**
-- FINAL Batch-2 refinements — **4 / scans 541, 543, 544, 545**
-- blockers — **0**
-- verified-Tamil changes during Gate G — **0**
-- outside English imported — **0**
-- source-printed English on scans **523–525 / 535 / 542** — **preserved verbatim**
+- Gate-G refinements — **14 / 0 blockers / 0 Tamil changes**
+- Tamil markers — **511→545 / exactly once / ordered**
+- English source-page sections — **511→545 / exactly once / ordered**
+- all **34/34** merged transitions — **PASS / no mechanical duplication or omission**
+- key continuations **520→521 / 525→526 / 530→531 / 542→543** — **PASS**
+- source-printed English **523–525 / 535 / 542** — **preserved verbatim**
 - scan **539** `foundation, weir pie` — **preserved exactly as printed**
-- speaker labels/interventions on scans **544–545** — **preserved**
-- English source-page sections — **511→545 / 35 / exactly once / ordered**
-- hard boundary **545→546** — **PASS / scan 546 excluded**
-- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
-- Gate H — **READY / NOT STARTED / NOT RELEASED**
+- speaker labels/interventions **544–545** — **preserved**
+- hard boundaries **510→511 / 545→546** — **PASS**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- canonical bilingual `transcript.md` — **COMPLETE**
+- `translation.md` — **released pointer**
+- unique date **1982-03-06** — **indexed exactly once**
+- release — **RELEASED / CLOSED**
+
+## Completion state
+
+**This 2007 financial-statement speeches Part-1 PDF is closed and complete.**
+
+All **19 mapped speech units** have completed their applicable archival workflow. Released layers are locked. The following special indexing decisions remain authoritative:
+
+- Speech 17 is a source-preserved **multi-date** unit and remains intentionally absent from single-date indexes.
+- Speech 12 / 07.03.1973 remains an **independent released parallel witness**; the existing `1973-03-07-financial-statement-reply` remains the sole canonical same-date index record.
+- All other eligible unique-date released units remain indexed according to the repository's established rules.
 
 ## Exact next activity
 
-Perform **Speech 19 Gate H archival/release audit**.
+Proceed with a **new attached PDF as a new controlling source**.
 
-Do not release or index Speech 19 unless Gate H passes.
+At startup:
+
+1. read `docs/ARCHIVAL_WORKFLOW.md` completely;
+2. read this completed-source handover completely;
+3. read `docs/START_NEXT_ASSEMBLY_PDF_PROMPT.md` completely;
+4. inspect live `main` before creating anything;
+5. inspect the actual rendered new PDF before deriving metadata or boundaries;
+6. treat the new scan as an independent source witness and do not reopen or overwrite released layers from this completed anthology merely because dates or speeches overlap.
