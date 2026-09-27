@@ -74,9 +74,9 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate E — **PASS / COMPLETE / scans 511–545 / 35 of 35 source-verified / 26 cumulative corrections / 0 unresolved**
 - Tamil — **VERIFIED / verified_against_scan=true**
 - Gate F — **COMPLETE / scans 511–545 / 35 of 35 translated / 0 blockers / 0 Tamil changes**
-- Gate G — **IN PROGRESS / Batch 1 PASS-COMPLETE / scans 511–540 / 30 of 35 reviewed / 10 refinements / 0 blockers / 0 Tamil changes**
-- English — **PARTIALLY REVIEWED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
-- Gate H — **NOT STARTED**
+- Gate G — **PASS / COMPLETE / scans 511–545 / 35 of 35 reviewed / 14 refinements / 0 blockers / 0 Tamil changes**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **READY / NOT STARTED**
 - release — **NOT RELEASED**
 - Speech 18 — **RELEASED / CLOSED / locked**
 - outside wording imported — **0**
@@ -374,8 +374,31 @@ Gate G is **IN PROGRESS — Batch 1 PASS / COMPLETE / scans 511–540 / 30 of 35
 9. scan **536** — clarified the source's State/world self-correction.
 10. scan **540** — restored the source enumeration `sixth, H.C.C., Bombay`.
 
+## Gate G Batch 2 FINAL — scans 541–545
+
+**PASS / COMPLETE — exactly 5 English source-page sections reviewed; cumulative 35 of 35.**
+
+- FINAL refinements — **4 / scans 541, 543, 544, 545**
+- cumulative refinements — **14**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-printed English on scan **542** — **preserved verbatim**
+- speaker labels/interventions on scans **544–545** — **preserved**
+- hard boundary **545→546** — **PASS / scan 546 excluded**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate G — **PASS / COMPLETE / 35 of 35**
+- Gate H — **READY / NOT STARTED**
+
+### Gate-G FINAL refinement ledger
+
+1. scan **541** — clarified the Rs.88,52,805 additional-cost comparison while preserving the source's claim.
+2. scan **543** — tightened the murder/conspiracy allegation wording to the Tamil.
+3. scan **544** — clarified the reported “benefit if eliminated” construction without changing the attributed claim.
+4. scan **545** — `calculate them as cases` → `count them as cases`.
+
 ## Exact next activity
 
-Perform **Speech 19 Gate G Batch 2 FINAL — scans 541–545 / exactly 5 pages** reviewing the Gate-F English against the final verified Tamil.
+Perform **Speech 19 Gate H archival/release audit**.
 
-Do not begin Gate H in the same activity.
+Do not release or index Speech 19 unless Gate H passes.
