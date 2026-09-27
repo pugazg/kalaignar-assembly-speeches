@@ -2,7 +2,7 @@
 
 > **Source range:** global scans **482–510** / printed pp.**481–509** / **29 pages**. Hard boundaries **481→482 / 510→511 PASS**. Source authority: controlling 2007 anthology pixels only.
 
-> **Gate state:** Source intake + Gate-C setup **COMPLETE**. Gate C is **PASS / COMPLETE — scans 482–510 / 29 of 29 pages first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 29/29 page sections / 28/28 internal transitions / 0 completeness corrections / 0 Tamil wording changes**. Gate E is **PASS / COMPLETE — scans 482–510 / 29 of 29 source-verified / 20 cumulative corrections / 0 unresolved**. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **COMPLETE — scans 482–510 / 29 of 29 translated / 0 blockers / 0 Tamil changes**. English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**. Gate G is **NOT STARTED**. Gate H is **NOT STARTED / NOT RELEASED**. Exact next: **Gate G FINAL — scans 482–510 / exactly 29 pages**.
+> **Gate state:** Source intake + Gate-C setup **COMPLETE**. Gate C is **PASS / COMPLETE — scans 482–510 / 29 of 29 pages first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 29/29 page sections / 28/28 internal transitions / 0 completeness corrections / 0 Tamil wording changes**. Gate E is **PASS / COMPLETE — scans 482–510 / 29 of 29 source-verified / 20 cumulative corrections / 0 unresolved**. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **COMPLETE — scans 482–510 / 29 of 29 translated / 0 blockers / 0 Tamil changes**. Gate G is **PASS / COMPLETE — scans 482–510 / 29 of 29 reviewed / 6 refinements / 0 blockers / 0 Tamil changes**. English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**. Gate H is **NOT STARTED / NOT RELEASED**. Exact next: **Gate H archival/release audit**.
 
 > **Preservation rule:** preserve source spelling, punctuation, numerals, repetitions, speaker labels/interventions, printed English and source-page boundaries. Import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other witnesses.
 
@@ -212,7 +212,7 @@
 
 # English translation
 
-> **Gate-F translation state:** Gate F is **COMPLETE — scans 482–510 / 29 of 29 translated / one FINAL 29-page iteration**. Translation authority: final Gate-E-verified Tamil only. English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**. Blocking questions: **0**. Verified-Tamil changes: **0**. Outside English imported: **0**. Source-printed English on scans **492, 501 and 506** is preserved.
+> **Gate-G translation-review state:** Gate G is **PASS / COMPLETE — scans 482–510 / 29 of 29 reviewed / one FINAL 29-page iteration**. Translation authority: final Gate-E-verified Tamil only. English is **VERIFIED AGAINST TAMIL / verified_against_tamil=true**. Gate-G refinements: **6**. Blocking questions: **0**. Verified-Tamil changes: **0**. Outside English imported: **0**. Source-printed English on scans **492, 501 and 506** is preserved.
 
 ### Source page 482
 
@@ -242,7 +242,7 @@ Thus the Finance Minister presents the receipts-and-expenditure plan for that ye
 
 It is a matter of pride and happiness that our Budget this year has almost reached Rs.1,000 crore. According to the 1938-39 Budget estimates, total revenue on the revenue account was Rs.16 crore 13 lakh, expenditure Rs.16 crore 10 lakh, and the net surplus Rs.3 lakh. The position of nearly forty years ago, when the whole Budget amounted to only about Rs.16 crore, has now changed.
 
-When the Congress party governed this State, C. Subramaniam, then Finance Minister, prepared a Budget for one year and was delighted to say that he was proud to place before this great House, for the first time, a Budget of Rs.100 crore. (Interruption.) Thank you for the correction. He said that he had wanted to place a Rs.100-crore Budget but could place only a Rs.90-crore one. Our Navalar is in the same position. He too could have placed a Rs.1,000-crore Budget here; because it fell short by some Rs.16 or 17 crore, this year passed without the opportunity to place a Rs.1,000-crore Budget before the House.
+When the Congress party governed this State, C. Subramaniam, then Finance Minister, prepared a Budget for one year and was delighted to say that he was proud to place before this great House, for the first time, a Budget of Rs.100 crore. (Interruption.) Thank you for the correction. He said that he had wanted to place a Rs.100-crore Budget but could place only a Rs.90-crore one. Our Navalar is in the same position. He too could have placed a Rs.1,000-crore Budget here; because it fell short by some Rs.16 or 17 crore, this year went by without the opportunity to place a Rs.1,000-crore Budget before the House.
 
 In 1967-68, when the Dravida Munnetra Kazhagam assumed office under Perarignar Anna, revenue on the revenue account was Rs.233.39 crore, expenditure Rs.233.33 crore, and the net surplus Rs.6 lakh. Later, in 1975-76, this rose further, and on the revenue—
 
@@ -302,7 +302,7 @@ Next, the election manifesto made another specific promise: “For poor people b
 
 —but after filtering the poor through many sieves, it was finally announced that only certain categories would receive it. How many people belong to poor families below the poverty line? To how many have you supplied this one kilogram of rice?
 
-You have changed the original announcement that one kilogram of rice would be given free when five kilograms were purchased. Very well; you have now announced one kilogram a week for the poor. But which poor? How many qualifications are there? How many conditions have you divided them into? Please think about it.
+You have changed the original announcement that one kilogram of rice would be given free when five kilograms were purchased. Very well; you have now announced one kilogram a week for the poor. But which poor? How many qualifications are there? Into how many eligibility categories have you divided them? Please think about it.
 
 When this Budget was placed before the House and reporters asked me about it, I said: if the people who voted are satisfied, I too am satisfied. Even that was taken by ruling-party members to their advantage, and they said that even the Leader of the Opposition supported it. I support it even now. If it is true that all the people who voted support this, I too am duty-bound to support it. The question before us now is whether those voters know the truth about whether the assurances given to them have been fulfilled.
 
@@ -320,7 +320,7 @@ The Central Planning Commission appointed a committee under Professor D. R. Gadg
 
 —and declining, it was decided that nutrition could be used as the basis. The committee fixed the daily nutritional requirement at 2,400 calories for rural people and 2,100 calories for people living in towns.
 
-To obtain that amount of food, in 1960-61 a rural person required Rs.20 per month and an urban person Rs.25 per month. Because of rising prices and inflation, for 1976-77 that basic requirement was calculated at Rs.61.80 per person per month in rural areas and Rs.71.30 per person per month in urban areas. At today's price level, our State Planning Commission has estimated Rs.75 per person per month in villages and Rs.90 per person per month in towns.
+To obtain that amount of food, in 1960-61 a rural person required Rs.20 per month and an urban person Rs.25 per month. Because of rising prices and inflation, for 1976-77 that basic requirement was calculated at 61.80 paise per person per month in rural areas and 71.30 paise per person per month in urban areas. At today's price level, our State Planning Commission has estimated Rs.75 per person per month in villages and Rs.90 per person per month in towns.
 
 If Tamil Nadu's population is calculated on that basis, then according to the information available to me, 48 per cent of the rural population is below this poverty line and 41 per cent of the urban population is below it.
 
@@ -380,7 +380,7 @@ They have thus explained what “we will take steps” means: it means giving tw
 
 —it has announced that Rs.60 crore has been cancelled. But if one goes deeply into the figures, Rs.16 crore of that is said to be cancellation of takavi loans. What is a takavi loan? It is a kind of loan that has existed since the days of the British and is no longer being advanced now. It has been set aside as a debt that will not be recovered. Yet it continues to appear in the accounts of our financial statement. There is an important reason for that. When the State Government seeks financial assistance from the Central Government, they will certainly ask what our resources—our sources of finance—are. Central assistance is received on the basis of those financial resources.
 
-Therefore, this Rs.16-crore takavi debt has never actually been demanded from the farmers—whether under Kamaraj, Bhaktavatsalam, Anna, the Dravida Munnetra Kazhagam Government, or even the Anna DMK Government up to now. It has merely not been formally written down; it has not been called a “write-off,” but has already been set aside as irrecoverable. Now that is what has been written off. This can only reduce the resources shown on our side and place us at a disadvantage; I cannot say with certainty that it genuinely benefits the farmers.
+Therefore, this Rs.16-crore takavi debt has never actually been demanded from the farmers—whether under Kamaraj, Bhaktavatsalam, Anna, the Dravida Munnetra Kazhagam Government, or even the Anna DMK Government up to now. It had simply not been formally recorded as such; it had not been called a “write-off,” but it had already been set aside as irrecoverable. Now that is what has been written off. This can only reduce the resources shown on our side and place us at a disadvantage; I cannot say with certainty that it genuinely benefits the farmers.
 
 Our Finance Minister Navalar has said here that Rs.42 crore of debt is being cancelled for farmers owning five acres of land. But five acres differ from district to district, and even within a district from taluk to taluk and area to area. The nature of those five acres—
 
@@ -426,7 +426,7 @@ Our Local Administration Minister, when answering a question here a day or two a
 
 —lakh people were supplied 55,584 tonnes of rice in 1979-80. This is the figure given in your financial statement. If 55,584 tonnes are converted into kilograms and divided among 23 lakh people, each person receives only 24 kilograms of rice for the entire year. For the 23 lakh people you speak of, if the 55,584 tonnes you say you distributed are converted into kilograms and divided by 23 lakh, each person gets 24 kilograms for the year. That comes to Rs.40 a year; three and a half rupees a month—not a day, three and a half rupees a month—if we take your figure of 23 lakh at face value.
 
-But that is not the truth. You said 23 lakh people worked, but in the very next line you say that only 1,89,000 people—about two lakh people—were actually engaged for this work. If you conceal those two lakh people and say repeatedly that you gave employment to 23 lakh people, then it means that each person was paid only three and a half rupees a month. So that is neither a sound argument nor a sound statistic. I wish to point out—not as an accusation—that this is merely a line in the financial statement prepared in a way that can divert the public, the people who voted.
+But that is not the truth. You said 23 lakh people worked, but in the very next line you say that only 1,89,000 people—about two lakh people—were actually engaged for this work. If you conceal those two lakh people and say repeatedly that you gave employment to 23 lakh people, then it means that each person was paid only three and a half rupees a month. So that is neither a sound argument nor a sound statistic. I wish to point out—not as an accusation—that this is merely a line in the financial statement prepared in a way that misleads the public, the people who voted.
 
 Navalar said 55,584 tonnes of rice. When answering a question from my friend Kumari Ananthan here, the Local Administration Minister said 64,430 tonnes. Not only that; the Local Administration Minister gave yet another figure. He said that in 1979-80 the Central Government gave us 73,000 tonnes of rice.
 
@@ -458,7 +458,7 @@ On page 159, Appendix 2, the assurances given in 1968—that is, in Anna's time�
 
 In 1977, 367 assurances were given; 197 were treated as fulfilled or read and recorded, leaving 170 pending. In 1978, you showered 1,266 assurances; only 354 were treated as fulfilled or read and recorded, leaving 912 pending. In 1979, you gave 671 assurances, and all 671 remained pending.
 
-That is how you have fulfilled assurances. The Government Assurances Committee—a committee made up of members elected or appointed from this very House—has recorded these figures in its report. You gave 671 assurances in 1979 and left all 671 pending without fulfilling even one, or even recording one. So perhaps it is truly my offence to ask these rulers what became of their election-time promises. But because I sit in the opposition and am compelled to ask, I must ask.
+That is how you have fulfilled assurances. The Government Assurances Committee—a committee made up of members elected or appointed from this very House—has recorded these figures in its report. You gave 671 assurances in 1979 and left all 671 pending without fulfilling even one, or even recording one. So it is indeed my offence to ask these rulers what became of their election-time promises. But because I sit in the opposition and am compelled to ask, I must ask.
 
 What policy explanations are there in this financial statement? What are this Government's programmes?
 
