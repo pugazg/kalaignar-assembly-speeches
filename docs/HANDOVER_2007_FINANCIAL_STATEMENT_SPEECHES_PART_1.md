@@ -92,7 +92,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–18 COMPLETE; Speech 18 29 of 29 first-pass; Speech 19 not started**
+- Gate C — **Speeches 1–18 COMPLETE; Speech 19 source intake + setup PASS/COMPLETE / transcription NOT STARTED / 0 of 35 / exact next scans 511–520**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–18**
 - Gate D — **PASS / COMPLETE for Speeches 1–18; Speech 18 = 29/29 pages / 28/28 transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–18; Speech 18 29 of 29 / 20 corrections / 0 unresolved; Speech 19 not started**
@@ -106,7 +106,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 17 — **Gate C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 37 Gate-E corrections / 43 Gate-G refinements / 0 blockers / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / canonical bilingual complete / multi-date source unit / no single canonical date / single-date indexes intentionally unchanged**
 - Speech 18 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 20 Gate-E corrections / 6 Gate-G refinements / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / indexed / canonical bilingual complete**
-- Speech 19 — **NOT STARTED**
+- Speech 19 — **SOURCE INTAKE + GATE C SETUP PASS/COMPLETE / transcription NOT STARTED / 0 of 35 / exact next Batch 1 scans 511–520**
 
 ## Speech 1 durable Gate-C state
 
@@ -1318,6 +1318,25 @@ Do not begin Speech 19 until Speech 18 Gate H is closed.
 - release — **RELEASED / CLOSED**
 - Speech 19 / scan 511 — **excluded / NOT STARTED**
 
+## Speech 19 source intake + Gate C setup
+
+**PASS / COMPLETE — setup only; transcription not started.**
+
+- working entry — `speeches/1982/1982-03-06-financial-statement-debate/`
+- source label/date — **உரை : 19 / 06.03.1982**
+- canonical date — **1982-03-06**
+- scans — **511–545 / printed pp.510–544 / 35 pages**
+- hard boundaries **510→511 / 545→546** — **PASS**
+- part021 — **local 11–25 / scans 511–525 / 15 pages / 18,938,935 bytes / SHA-256 d32d5b4559b68d81675d80e9bb535e1a0e8eaf6861a6eb037ffb357fad5c92c2**
+- part022 — **local 1–20 / scans 526–545 / 20 pages / split total 21 pages**
+- part022 exact byte size / SHA-256 — **not recorded in live-main controls at setup; not invented**
+- split transition **525→526** — **mapped / audit in Batch 2**
+- planned Gate-C batches — **511–520 / 521–530 / 531–540 / 541–545 FINAL**
+- Tamil — **NOT TRANSCRIBED / verified_against_scan=false**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+- Gates D–H — **NOT STARTED**
+- outside wording imported — **0**
+
 ## Exact next activity
 
-Begin **Speech 19 source intake / Gate C setup — scan 511 onward / source label `உரை : 19 / 06.03.1982`**. Do not begin Speech 19 transcription in the same activity.
+Perform **Speech 19 Gate C Batch 1 — scans 511–520 / exactly 10 pages**. Do not process scans 521 onward in the same iteration.
