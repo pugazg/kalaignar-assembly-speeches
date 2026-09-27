@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 17 / `22 & 23.3.1979` = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–17 are released**. Speech 18 / `09.07.1980` Gate E is now **PASS / COMPLETE / CLOSED — scans 482–510 / 29 of 29 verified / 20 cumulative corrections / 0 unresolved**; Tamil is **VERIFIED / verified_against_scan=true**. Gate F is next.
+Latest released unit: Speech 17 / `22 & 23.3.1979` = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–17 are released**. Speech 18 / `09.07.1980` Gate F is now **COMPLETE — scans 482–510 / 29 of 29 English pages translated / 0 blockers / 0 Tamil changes**; Tamil is **VERIFIED**, English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL**. Gate G is next.
 
 ## Existing-source overlaps
 
@@ -96,8 +96,8 @@ Treat this 2007 anthology as its own witness.
 - Gate C.5 — **N/A / CLOSED for Speeches 1–18**
 - Gate D — **PASS / COMPLETE for Speeches 1–18; Speech 18 = 29/29 pages / 28/28 transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–18; Speech 18 29 of 29 / 20 corrections / 0 unresolved; Speech 19 not started**
-- Gate F — **COMPLETE for Speeches 1–17; Speech 18 NOT STARTED / exact next FINAL 482–510 / 29 pages; Speech 19 not started**
-- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–17; Speech 17 completed 93 of 93 / 43 cumulative refinements / 0 blockers / 0 Tamil changes; speeches 18–19 not started**
+- Gate F — **COMPLETE for Speeches 1–18; Speech 18 29 of 29 translated / 0 blockers / 0 Tamil changes; Speech 19 not started**
+- Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–17; Speech 18 NOT STARTED / exact next FINAL scans 482–510 / 29 pages; Speech 19 not started**
 - Gate H — **Speeches 1–17 PASS / COMPLETE — RELEASED / CLOSED; speeches 18–19 not started**
 - Speech 12 parallel-witness protection — **ACTIVE / released `1973-03-07-financial-statement-reply` unchanged**
 - Speech 13 — **RELEASED / CLOSED / indexed / canonical bilingual complete**
@@ -1264,6 +1264,21 @@ Source-visible final-batch forms retained without normalization include scan 479
 - Gate E — **PASS / COMPLETE / CLOSED**
 - exact next — **Gate F FINAL / scans 482–510 / exactly 29 pages**
 
-## Exact next activity — Speech 18 Gate F FINAL
+## Speech 18 Gate F result
 
-Translate **scans 482–510 / printed pp.481–509 / exactly 29 pages** only from the final Gate-E-verified Tamil. Gate F uses a **30-source-page maximum per iteration**, so this is one FINAL iteration. Preserve page boundaries, source-printed English, figures, quotations, repetitions and interventions; make **0 verified-Tamil changes**, import **0 outside English**, and do not begin Gate G or Speech 19.
+**COMPLETE — scans 482–510 / 29 of 29 English pages translated.**
+
+- one FINAL Gate-F iteration — **29 pages**
+- English source-page sections — **482→510 / exactly once / ordered**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-printed English on scans **492 / 501 / 506** — **preserved**
+- boundary **510→511** — **PASS / Speech 19 excluded**
+- Tamil — **VERIFIED / unchanged**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- exact next — **Gate G FINAL / scans 482–510 / exactly 29 pages**
+
+## Exact next activity — Speech 18 Gate G FINAL
+
+Review **scans 482–510 / printed pp.481–509 / exactly 29 English pages** only against the final Gate-E-verified Tamil. Record every fidelity/voice refinement by scan; preserve source-printed English verbatim; make **0 verified-Tamil changes**, import **0 outside English**, and do not begin Gate H or Speech 19.
