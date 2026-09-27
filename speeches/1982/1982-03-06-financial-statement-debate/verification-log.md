@@ -123,6 +123,54 @@ Checks:
 - Gates D–H — **NOT STARTED**
 - Speech 18 — **unchanged / RELEASED-CLOSED**
 
+## Gate C.5 disposition
+
+**N/A / CLOSED — modern 2007 typesetting across Speech 19.**
+
+Checks:
+
+- inspected scans — **511–545 / 35 pages**
+- page-specific historical/legacy typeform anomaly — **none observed**
+- historical-glyph corrections — **0**
+- unresolved historical-glyph readings — **0**
+- Tamil wording changes — **0**
+- source-page markers — **unchanged / 511→545 / 35/35**
+
+## Gate D structural completeness audit
+
+**PASS / COMPLETE — 35/35 pages / 34/34 internal transitions / 0 completeness corrections.**
+
+Checks:
+
+- source-page markers **511→545** — **35/35 / exactly once / ordered**
+- missing pages — **0**
+- duplicate pages — **0**
+- empty page sections — **0**
+- hard boundaries **510→511 / 545→546** — **PASS**
+- working-split transition **525→526** — **PASS**
+- all **34/34** internal transitions — **structurally continuous**
+- source heading/date — **represented**
+- speaker labels / interventions — **represented**
+- speaker changes on scans **544–545** — **represented**
+- quotations / figures / repetitions — **structurally represented**
+- printed English on scans **523–525 / 535 / 542** — **represented**
+- printed `foundation, weir pie` on scan **539** — **represented as printed**
+- scan **545** closes Speech 19 — **PASS**
+- scan **546** marker/content — **0 / excluded**
+- completeness corrections — **0**
+- Tamil wording changes — **0**
+- outside wording imported — **0**
+
+Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**. Gate D is a structural completeness audit, not source-fidelity verification.
+
+## Gate-D disposition
+
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE**
+- Tamil verification state — **NOT VERIFIED / verified_against_scan=false**
+- exact next — **Gate E Batch 1 / scans 511–520 / exactly 10 pages**
+- do not begin — **Gate E Batch 2**
+
 ## Exact next activity
 
-Perform **Gate C.5 disposition + Gate D structural completeness audit**. Do not begin Gate E in the same activity.
+Perform **Gate E Batch 1 — scans 511–520 / exactly 10 pages** from the controlling source pixels only.
