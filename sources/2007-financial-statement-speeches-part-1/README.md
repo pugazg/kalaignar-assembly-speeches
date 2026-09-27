@@ -980,11 +980,27 @@ Source-visible final-batch forms retained without normalization:
 - source-printed English on scans **492 / 501 / 506** — **preserved**
 - boundary **510→511** — **PASS / Speech 19 excluded**
 - Tamil — **VERIFIED / unchanged**
-- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
-- exact next — **Gate G FINAL / scans 482–510 / exactly 29 pages**
+- English after Gate F — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- Gate G — **PASS / COMPLETE / 29 of 29 reviewed / 6 refinements / 0 blockers / 0 Tamil changes**
+- English after Gate G — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- exact next — **Gate H archival/release audit**
+
+## Speech 18 Gate G result
+
+**PASS / COMPLETE — scans 482–510 / 29 of 29 English source-page sections reviewed.**
+
+- one FINAL Gate-G iteration — **29 pages**
+- refinements — **6**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-printed English on scans **492 / 501 / 506** — **preserved verbatim**
+- boundary **510→511** — **PASS / Speech 19 excluded**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
 
 ## Exact next activity
 
-**Speech 18 Gate G FINAL — scans 482–510 / printed pp.481–509 / exactly 29 pages.**
+**Speech 18 Gate H archival/release audit.**
 
-Review all English only against the final Gate-E-verified Tamil. Record every fidelity/voice refinement, preserve source-printed English verbatim, make 0 Tamil changes, import 0 outside English, and do not begin Gate H or Speech 19.
+Do not begin Speech 19 in the same activity.
