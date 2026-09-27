@@ -926,8 +926,21 @@ Source-visible final-batch forms retained without normalization:
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - exact next — **Gate E Batch 1 / scans 482–491 / exactly 10 pages**
 
+## Speech 18 Gate E Batch 1 result
+
+**PASS / COMPLETE — scans 482–491 / exactly 10 pages; cumulative 10 of 29 source-verified.**
+
+- corrections — **14 entries / 14 occurrences / 8 affected scans**
+- unresolved — **0**
+- outside wording imported — **0**
+- scans **492–510** changed — **0**
+- **488→489** continuation — **PASS**
+- scan **491** continuation into 492 — **PASS**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- exact next — **Gate E Batch 2 / scans 492–501 / exactly 10 pages**
+
 ## Exact next activity
 
-**Speech 18 Gate E Batch 1 — scans 482–491 / printed pp.481–490 / exactly 10 pages.**
+**Speech 18 Gate E Batch 2 — scans 492–501 / printed pp.491–500 / exactly 10 pages.**
 
-Strictly verify the Tamil against the controlling anthology pixels, record all source-fidelity corrections, leave scans 492–510 untouched, and do not begin Batch 2 or Speech 19.
+This batch crosses the part020→part021 split at **500→501**. Verify only against controlling anthology pixels, preserve that continuation, leave scans 482–491 and 502–510 unchanged, and do not begin the final batch or Speech 19.
