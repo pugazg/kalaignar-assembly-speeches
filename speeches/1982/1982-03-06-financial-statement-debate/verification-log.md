@@ -449,6 +449,47 @@ Checks:
 - exact next — **Gate G Batch 2 FINAL / scans 541–545 / exactly 5 pages**
 - do not begin — **Gate H**
 
+## Gate G — Batch 2 FINAL / scans 541–545
+
+**PASS / COMPLETE — printed pp.540–544 / exactly 5 English source-page sections reviewed; cumulative 35 of 35.**
+
+Checks:
+
+- review authority — **final Gate-E-verified Tamil only**
+- direct Tamil→English fidelity/voice review — **5/5 pages**
+- FINAL refinements — **4 entries / 4 occurrences / 4 affected scans**
+- affected scans — **541 / 543 / 544 / 545**
+- cumulative Gate-G refinements — **14**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-printed English on scan **542** — **checked / preserved verbatim**
+- speaker labels/interventions / turn-taking on scans **544–545** — **checked / preserved**
+- hard terminal boundary **545→546** — **PASS / scan 546 excluded**
+- English source-page sections **511→545** — **35 / exactly once / ordered**
+- Tamil — **VERIFIED / unchanged / verified_against_scan=true**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate H — **READY / NOT STARTED**
+
+### Gate-G FINAL refinement ledger
+
+1. **scan 541** — `Thus, leaving Tata Engineering aside, 555 chassis have been purchased from Ashok Leyland by paying Rs.88,52,805 more.` → `Thus, Tata Engineering was passed over and 555 chassis were purchased from Ashok Leyland at an additional cost of Rs.88,52,805.`
+2. **scan 543** — `in a case alleging that we tried to murder Mrs. Indira Gandhi, that we were conspiring to that extent.` → `in a case alleging that we tried to murder Mrs. Indira Gandhi and conspired to do so.`
+3. **scan 544** — `But I think he also said something to the effect that only if he were eliminated would there be some benefit to me.` → `But I think he also said something to the effect that I would somehow benefit only if he were eliminated.`
+4. **scan 545** — `It is wrong for him to add up all those cases and calculate them as cases filed by the Government.` → `It is wrong for him to add up all those cases and count them as cases filed by the Government.`
+
+## Gate-G FINAL disposition
+
+- reviewed pages — **35/35**
+- cumulative refinements — **14**
+- blockers — **0**
+- Tamil changes — **0**
+- source-printed-English changes — **0**
+- outside English imported — **0**
+- Gate G — **PASS / COMPLETE**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- exact next — **Gate H archival/release audit**
+
 ## Exact next activity
 
-Perform **Gate G Batch 2 FINAL — scans 541–545 / exactly 5 pages** reviewing the Gate-F English against the final verified Tamil.
+Perform **Speech 19 Gate H archival/release audit**.
