@@ -68,7 +68,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 16 | `1.3.1978` | 1978-03-01 | 356–388 | 355–387 | `1978-03-01-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 17 | `22 & 23.3.1979` | **multi-date source unit: 1979-03-22 and 1979-03-23; no explicit internal date divider found; no single canonical date assigned** | 389–481 | 388–480 | `1979-03-22-and-23-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete; intentionally not added to single-date root/data indexes** |
 | 18 | `09.07.1980` | 1980-07-09 | 482–510 | 481–509 | `1980-07-09-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete; indexed** |
-| 19 | `06.03.1982` | 1982-03-06 | 511–545 | 510–544 | `1982-03-06-financial-statement-debate`; **Gate C PASS/COMPLETE; Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE 35/35 / 34/34 transitions / 0 completeness corrections; Tamil TRANSCRIBED / NOT VERIFIED; Gate E Batch 1 next** |
+| 19 | `06.03.1982` | 1982-03-06 | 511–545 | 510–544 | `1982-03-06-financial-statement-debate`; **Gate C PASS/COMPLETE; Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE; Gate E Batch 1 PASS/COMPLETE scans 511–520 / 10 of 35 verified / 3 corrections / 0 unresolved; Tamil PARTIALLY VERIFIED; Batch 2 next** |
 
 ## Focused boundary re-check
 
@@ -125,7 +125,7 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate C — **Speeches 1–19 COMPLETE; Speech 19 scans 511–545 / 35 of 35 first-pass / Tamil TRANSCRIBED-NOT-VERIFIED**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–19; Speech 19 modern 2007 typesetting / 0 historical-glyph corrections**
 - Gate D — **Speeches 1–19 PASS / COMPLETE; Speech 19 35/35 pages / 34/34 transitions / 0 completeness corrections**
-- Gate E — **Speeches 1–18 PASS / COMPLETE / Tamil VERIFIED; Speech 19 NOT STARTED / exact next Batch 1 scans 511–520**
+- Gate E — **Speeches 1–18 PASS / COMPLETE / Tamil VERIFIED; Speech 19 Batch 1 PASS/COMPLETE / scans 511–520 / 10 of 35 verified / 3 corrections / 0 unresolved / exact next Batch 2 scans 521–530**
 - Gate F — **Speeches 1–18 COMPLETE; Speech 18 29 of 29 translated / 0 blockers / 0 Tamil changes; Speech 19 not started**
 - Gate G — **Speeches 1–18 PASS / COMPLETE / English VERIFIED; Speech 18 29 of 29 reviewed / 6 refinements / 0 blockers / 0 Tamil changes; Speech 19 not started**
 - Gate H — **Speeches 1–18 PASS / COMPLETE — RELEASED / CLOSED; Speech 19 not started beyond Gate-C setup**
@@ -568,3 +568,20 @@ Gate D — **PASS / COMPLETE — 35/35 pages / 34/34 internal transitions / 0 co
 - outside wording imported — **0**
 - Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - exact next — **Gate E Batch 1 / scans 511–520 / exactly 10 pages**
+
+## Speech 19 Gate E Batch 1 result
+
+**PASS / COMPLETE — scans 511–520 / printed pp.510–519 / exactly 10 pages; cumulative 10 of 35 source-verified.**
+
+- source-fidelity corrections — **3 entries / 3 occurrences / 2 affected scans**
+- affected scans — **518 / 520**
+- unresolved readings — **0**
+- markers **511→545** — **unchanged / exactly once / ordered**
+- **520→521** continuation — **structurally preserved; scan 521 not verified or altered**
+- outside wording imported — **0**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- corrections:
+  - scan **518** — `1½ நாள் எடுத்து கொண்டு` → `1½ நாள் எடுத்துக் கொண்டு`
+  - scan **520** — `எதிர்பார்க்கப்படுகிறது` → `எதிர்பார்க்கப் படுகிறது`
+  - scan **520** — `கட்டி முடிக்கப்பட்டன` → `கட்டிமுடிக்கப்பட்டன`
+- exact next — **Gate E Batch 2 / scans 521–530 / exactly 10 pages**
