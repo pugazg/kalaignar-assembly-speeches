@@ -2,7 +2,7 @@
 
 > **Source range:** global scans **482–510** / printed pp.**481–509** / **29 pages**. Hard boundaries **481→482 / 510→511 PASS**. Source authority: controlling 2007 anthology pixels only.
 
-> **Gate state:** Source intake + Gate-C setup **COMPLETE**. Gate C is **PASS / COMPLETE — scans 482–510 / 29 of 29 pages first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 29/29 page sections / 28/28 internal transitions / 0 completeness corrections / 0 Tamil wording changes**. Gate E is **PASS / COMPLETE — scans 482–510 / 29 of 29 source-verified / 20 cumulative corrections / 0 unresolved**. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **NOT STARTED**. Gates G–H are **NOT STARTED**. Exact next: **Gate F FINAL — scans 482–510 / 29 pages**.
+> **Gate state:** Source intake + Gate-C setup **COMPLETE**. Gate C is **PASS / COMPLETE — scans 482–510 / 29 of 29 pages first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 29/29 page sections / 28/28 internal transitions / 0 completeness corrections / 0 Tamil wording changes**. Gate E is **PASS / COMPLETE — scans 482–510 / 29 of 29 source-verified / 20 cumulative corrections / 0 unresolved**. Tamil is **VERIFIED / verified_against_scan=true**. Gate F is **COMPLETE — scans 482–510 / 29 of 29 translated / 0 blockers / 0 Tamil changes**. English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**. Gate G is **NOT STARTED**. Gate H is **NOT STARTED / NOT RELEASED**. Exact next: **Gate G FINAL — scans 482–510 / exactly 29 pages**.
 
 > **Preservation rule:** preserve source spelling, punctuation, numerals, repetitions, speaker labels/interventions, printed English and source-page boundaries. Import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other witnesses.
 
@@ -212,7 +212,7 @@
 
 # English translation
 
-> **Gate-F translation state:** Gate F is **IN PROGRESS — scans 482–491 / 10 of 29 translated in this first chunk**. Translation authority is the final Gate-E-verified Tamil only. English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**. Verified-Tamil changes: **0**. Outside English imported: **0**.
+> **Gate-F translation state:** Gate F is **COMPLETE — scans 482–510 / 29 of 29 translated / one FINAL 29-page iteration**. Translation authority: final Gate-E-verified Tamil only. English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**. Blocking questions: **0**. Verified-Tamil changes: **0**. Outside English imported: **0**. Source-printed English on scans **492, 501 and 506** is preserved.
 
 ### Source page 482
 
