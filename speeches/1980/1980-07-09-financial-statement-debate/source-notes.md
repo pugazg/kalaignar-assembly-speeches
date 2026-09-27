@@ -270,22 +270,23 @@ Genuine source-visible forms retained include scan 482 `மாண்புமி
 - Tamil — **VERIFIED / unchanged / verified_against_scan=true**
 - English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
 
+## Gate G FINAL closure
+
+**PASS / COMPLETE — scans 482–510 / 29 of 29 English source-page sections reviewed against the final Gate-E-verified Tamil.**
+
+- Gate-G iteration — **one FINAL 29-page batch**
+- refinements — **6**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-printed English on scans **492 / 501 / 506** — **preserved verbatim**
+- source-page boundaries / page-spanning continuations — **preserved**
+- hard boundary **510→511** — **PASS / Speech 19 excluded**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- detailed ledger — **`translation-review.md`**
+
 ## Exact next
 
-**Gate G FINAL — scans 482–510 / exactly 29 pages.**
+**Speech 18 Gate H archival/release audit.**
 
-Batch 2 crosses the working-split boundary: **492–500 = part020 local 17–25; 501 = part021 local 1**. Preserve any source continuation across **500→501** and do not begin scans 502–510 in the same activity.
-
-Final Gate-C batch = **part021 local 2–10 / scans 502–510**. Preserve the scan **501→502** continuation and the terminal hard boundary **510→511**; scan 511 is Speech 19 and must remain excluded.
-
-Completed Gate C confirms **29/29 first-pass pages / 482–510**, with scan **510** closing Speech 18 and scan **511** beginning Speech 19. Gate C.5 remains provisionally N/A until its explicit next-activity disposition.
-
-Gate C.5 is now **N/A / CLOSED** and Gate D is **PASS / COMPLETE**. Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false** until Gate E source-fidelity verification begins.
-
-Gate E Batch 1 verified **482–491 / 10 pages** with **13 source-fidelity corrections / 0 unresolved**. Tamil is now **PARTIALLY VERIFIED / verified_against_scan=false**. Batch 2 crosses **500→501** from part020 local 25 to part021 local 1.
-
-Gate-E Batch 3 FINAL uses **part021 local pages 2–10 / scans 502–510**. Preserve the **501→502** continuation, scan-510 close, and hard boundary **510→511**; do not begin Gate F or Speech 19 in the same activity.
-
-Gate E is now **PASS / COMPLETE / CLOSED — 29/29 source-verified / 20 cumulative corrections / 0 unresolved**. Tamil is **VERIFIED / verified_against_scan=true**. Gate F follows the established **30-page maximum per iteration** rule; Speech 18 is only 29 pages, so Gate F is one **FINAL 29-page** iteration.
-
-Gate F is now **COMPLETE — 29/29 English source-page sections translated / 0 blockers / 0 Tamil changes / 0 outside English**. English remains **NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false** until Gate G.
+Gate H has not begun. Speech 19 / scan 511 remains excluded.
