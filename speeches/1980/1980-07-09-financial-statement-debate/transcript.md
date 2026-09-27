@@ -2,7 +2,7 @@
 
 > **Source range:** global scans **482–510** / printed pp.**481–509** / **29 pages**. Hard boundaries **481→482 / 510→511 PASS**. Source authority: controlling 2007 anthology pixels only.
 
-> **Gate state:** Source intake + Gate-C setup **COMPLETE**. Gate C is **PASS / COMPLETE — scans 482–510 / 29 of 29 pages first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 29/29 page sections / 28/28 internal transitions / 0 completeness corrections / 0 Tamil wording changes**. Gate E is **IN PROGRESS — Batch 1 PASS / COMPLETE / scans 482–491 / 10 of 29 source-verified / 1 correction / 0 unresolved**. Tamil is **PARTIALLY VERIFIED / verified_against_scan=false**. Gates F–H are **NOT STARTED**. Exact next: **Gate E Batch 2 — scans 492–501 / exactly 10 pages**.
+> **Gate state:** Source intake + Gate-C setup **COMPLETE**. Gate C is **PASS / COMPLETE — scans 482–510 / 29 of 29 pages first-pass**. Gate C.5 is **N/A / CLOSED**. Gate D is **PASS / COMPLETE — 29/29 page sections / 28/28 internal transitions / 0 completeness corrections / 0 Tamil wording changes**. Gate E is **IN PROGRESS — Batch 1 PASS / COMPLETE / scans 482–491 / 10 of 29 source-verified / 13 corrections / 0 unresolved**. Tamil is **PARTIALLY VERIFIED / verified_against_scan=false**. Gates F–H are **NOT STARTED**. Exact next: **Gate E Batch 2 — scans 492–501 / exactly 10 pages**.
 
 > **Preservation rule:** preserve source spelling, punctuation, numerals, repetitions, speaker labels/interventions, printed English and source-page boundaries. Import no wording from OCR, web, Official Reports, alternate anthologies, released speeches or other witnesses.
 
