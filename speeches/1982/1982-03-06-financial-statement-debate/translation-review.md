@@ -176,8 +176,31 @@ Review authority: the final Gate-E-verified Tamil in `transcript.md` only.
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - Gate H — **READY / NOT STARTED / NOT RELEASED**
 
-## Exact next activity
+## Gate H archival/release audit
 
-Perform **Speech 19 Gate H archival/release audit**.
+**PASS / COMPLETE — RELEASED / CLOSED.**
 
-Do not release or index Speech 19 unless the Gate-H audit passes.
+- English source-page sections — **511→545 / 35/35 / exactly once / ordered**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- Gate-G refinements — **14 / all rechecked in intended source-page sections**
+- Gate-G blockers — **0**
+- verified-Tamil changes — **0**
+- source-printed-English changes — **0**
+- source-printed English on scans **523–525 / 535 / 542** — **preserved verbatim**
+- scan **539** `foundation, weir pie` — **preserved exactly**
+- speaker turn-taking on scans **544–545** — **preserved**
+- terminal boundary **545→546** — **PASS / scan 546 excluded**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- canonical English placement — **in `transcript.md` after verified Tamil**
+- `translation.md` — **released pointer**
+- release — **RELEASED / CLOSED**
+
+## Final translation disposition
+
+- Gate F — **COMPLETE**
+- Gate G — **PASS / COMPLETE**
+- Gate H — **PASS / COMPLETE**
+- English — **VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=true`
+- translation working copy — **retired to pointer**
+- next activity — **new controlling source only**
