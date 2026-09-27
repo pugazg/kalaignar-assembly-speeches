@@ -68,7 +68,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 16 | `1.3.1978` | 1978-03-01 | 356–388 | 355–387 | `1978-03-01-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 17 | `22 & 23.3.1979` | **multi-date source unit: 1979-03-22 and 1979-03-23; no explicit internal date divider found; no single canonical date assigned** | 389–481 | 388–480 | `1979-03-22-and-23-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete; intentionally not added to single-date root/data indexes** |
 | 18 | `09.07.1980` | 1980-07-09 | 482–510 | 481–509 | `1980-07-09-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete; indexed** |
-| 19 | `06.03.1982` | 1982-03-06 | 511–545 | 510–544 | `1982-03-06-financial-statement-debate` |
+| 19 | `06.03.1982` | 1982-03-06 | 511–545 | 510–544 | `1982-03-06-financial-statement-debate`; **source intake + Gate C setup PASS/COMPLETE; Gate C transcription NOT STARTED / 0 of 35; planned batches 511–520 / 521–530 / 531–540 / 541–545 FINAL** |
 
 ## Focused boundary re-check
 
@@ -122,13 +122,13 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–18 COMPLETE; Speech 18 29 of 29 first-pass; Speech 19 not started**
+- Gate C — **Speeches 1–18 COMPLETE; Speech 19 setup PASS/COMPLETE / transcription NOT STARTED / 0 of 35; exact next Batch 1 scans 511–520**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–18**
 - Gate D — **Speeches 1–18 PASS / COMPLETE; Speech 18 29/29 pages / 28/28 transitions / 0 completeness corrections**
 - Gate E — **Speeches 1–18 PASS / COMPLETE / Tamil VERIFIED; Speech 18 29 of 29 verified / 20 corrections / 0 unresolved; Speech 19 not started**
 - Gate F — **Speeches 1–18 COMPLETE; Speech 18 29 of 29 translated / 0 blockers / 0 Tamil changes; Speech 19 not started**
 - Gate G — **Speeches 1–18 PASS / COMPLETE / English VERIFIED; Speech 18 29 of 29 reviewed / 6 refinements / 0 blockers / 0 Tamil changes; Speech 19 not started**
-- Gate H — **Speeches 1–18 PASS / COMPLETE — RELEASED / CLOSED; Speech 19 not started**
+- Gate H — **Speeches 1–18 PASS / COMPLETE — RELEASED / CLOSED; Speech 19 not started beyond Gate-C setup**
 - Speech 13 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED / RELEASED-CLOSED / 7 Gate-G refinements / 0 blockers / 0 Gate-H wording changes**
 
 ## Gate-H boundary / release check for Speeches 4–5
@@ -458,3 +458,25 @@ Continue **Speech 18 Gate H archival/release audit**. Recheck the canonical bili
 - canonical bilingual transcript **COMPLETE**
 - unique date **1980-07-09 indexed**
 - exact next **Speech 19 source intake / Gate C setup**
+
+## Speech 19 source intake + Gate C setup
+
+**PASS / COMPLETE — setup only; transcription not started.**
+
+- working entry — `speeches/1982/1982-03-06-financial-statement-debate/`
+- source label/date — **உரை : 19 / 06.03.1982**
+- canonical date — **1982-03-06**
+- scans — **511–545 / printed pp.510–544 / 35 pages**
+- incoming boundary **510→511** — **PASS / Speech 18 excluded**
+- outgoing boundary **545→546** — **PASS / closing portrait-back matter excluded**
+- part021 Speech-19 coverage — **local 11–25 / scans 511–525 / 15 pages**
+- part021 integrity — **25 pages / 18,938,935 bytes / SHA-256 d32d5b4559b68d81675d80e9bb535e1a0e8eaf6861a6eb037ffb357fad5c92c2**
+- part022 mapped coverage — **local 1–20 / scans 526–545 / 20 pages; split total 21 pages**
+- part022 exact byte size / SHA-256 — **not recorded in live-main controls at setup; not guessed**
+- working-split transition **525→526** — **mapped / must be audited when Batch 2 is processed**
+- existing 1982 speech entry / data index record — **none before setup**
+- Gate C cadence — **10 / 10 / 10 / 5 pages**
+- Gate C transcription — **NOT STARTED / 0 of 35**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+- outside wording imported — **0**
+- exact next — **Gate C Batch 1 / scans 511–520 / exactly 10 pages**
