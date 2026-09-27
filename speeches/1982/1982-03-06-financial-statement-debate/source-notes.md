@@ -129,8 +129,36 @@ Gate C.5 is **provisionally N/A** because this is modern 2007 typesetting; reope
 - Gate C.5 — **PROVISIONALLY N/A / explicit disposition next**
 - Gates D–H — **NOT STARTED**
 
+## Gate C.5 disposition
+
+**N/A / CLOSED — modern 2007 typesetting across Speech 19.**
+
+- inspected scope — **511–545 / 35 pages**
+- page-specific legacy-typeform anomaly — **none**
+- historical-glyph corrections — **0**
+- unresolved historical-glyph readings — **0**
+- Tamil wording changes — **0**
+
+## Gate D structural completeness audit
+
+**PASS / COMPLETE — 35/35 pages / 34/34 transitions / 0 completeness corrections.**
+
+- markers **511→545** — **exactly once / ordered**
+- missing / duplicate / empty source sections — **0 / 0 / 0**
+- hard boundaries **510→511 / 545→546** — **PASS**
+- split transition **525→526** — **PASS**
+- all internal transitions — **structurally continuous**
+- heading/date / speaker labels / interventions — **represented**
+- source-printed English on scans **523–525 / 535 / 542** — **represented**
+- `foundation, weir pie` on scan **539** — **represented as printed**
+- completeness corrections — **0**
+- Tamil wording changes — **0**
+- outside wording imported — **0**
+
+Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**.
+
 ## Exact next
 
-**Speech 19 Gate C.5 disposition + Gate D structural completeness audit.**
+**Speech 19 Gate E Batch 1 — scans 511–520 / exactly 10 pages.**
 
-Do not begin Gate E in the same activity.
+Do not begin Gate E Batch 2 in the same activity.
