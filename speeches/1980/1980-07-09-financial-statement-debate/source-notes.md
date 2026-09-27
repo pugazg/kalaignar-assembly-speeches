@@ -285,8 +285,29 @@ Genuine source-visible forms retained include scan 482 `மாண்புமி
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - detailed ledger — **`translation-review.md`**
 
+## Gate H archival/release audit
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- canonical bilingual `transcript.md` — **complete verified Tamil followed by Gate-G-verified English**
+- Tamil page markers — **482→510 / 29/29 / exactly once / ordered**
+- English page sections — **482→510 / 29/29 / exactly once / ordered**
+- all **28/28** merged transitions — **PASS / no mechanical duplication or omission**
+- continuations **488→489 / 491→492 / 500→501 / 501→502** — **PASS / preserved**
+- all **6** Gate-G refinements — **rechecked / present in their intended source-page sections**
+- superseded pre-Gate-G wording at all six sites — **absent**
+- source heading/date / speaker label — **preserved**
+- figures / quotations / repetitions / rhetorical questions / interventions — **preserved**
+- source-printed English on scans **492 / 501 / 506** — **preserved verbatim**
+- hard boundaries **481→482 / 510→511** — **PASS**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- outside wording imported — **0**
+- `translation.md` — **retired release pointer**
+- unique canonical date **1980-07-09** — **indexed**
+- Speech 19 / scan 511 — **excluded / NOT STARTED**
+
 ## Exact next
 
-**Speech 18 Gate H archival/release audit.**
+**Speech 19 source intake / Gate C setup — scan 511 onward / source label `உரை : 19 / 06.03.1982`.**
 
-Gate H has not begun. Speech 19 / scan 511 remains excluded.
+Do not begin Speech 19 transcription in this Gate-H activity.
