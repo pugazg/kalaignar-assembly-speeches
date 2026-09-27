@@ -301,3 +301,36 @@ Genuine source-visible forms retained include scan 482 `மாண்புமி
 - boundary **510→511 — PASS / Speech 19 excluded**
 - exact next — **Gate F FINAL / scans 482–510 / 29 pages**
 - do not begin — **Gate G / Speech 19**
+
+
+## Gate F closure
+
+**COMPLETE — scans 482–510 / printed pp.481–509 / 29 of 29 English pages translated.**
+
+- batching — **one FINAL iteration / 29 pages**
+- Gate-F page limit — **maximum 30 source pages per iteration**
+- English source-page sections — **482→510 / 29 / exactly once / ordered**
+- translation authority — **final Gate-E-verified Tamil only**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-page alignment / heading / speaker label / continuations — **preserved**
+- figures / quotations / repetitions / rhetorical questions — **preserved**
+- source-printed English:
+  - scan 492 — `Minimum Level of Consumption` — **preserved**
+  - scan 501 — `"5 acres owning"` — **preserved**
+  - scan 506 — `(Contractor)` — **preserved**
+- hard boundary **510→511** — **PASS / Speech 19 excluded**
+- Tamil — **VERIFIED / unchanged / verified_against_scan=true**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+
+## Gate-F disposition
+
+- Gate F — **COMPLETE / 29 of 29**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-printed English changes — **0**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- exact next — **Gate G FINAL / scans 482–510 / exactly 29 pages**
+- do not begin — **Gate H / Speech 19**
