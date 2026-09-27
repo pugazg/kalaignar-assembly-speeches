@@ -92,7 +92,7 @@ Treat this 2007 anthology as its own witness.
 
 - Gate A — **PASS / COMPLETE**
 - Gate B — **PASS / COMPLETE / LOCKED**
-- Gate C — **Speeches 1–18 COMPLETE; Speech 19 source intake + setup PASS/COMPLETE / transcription NOT STARTED / 0 of 35 / exact next scans 511–520**
+- Gate C — **Speeches 1–18 COMPLETE; Speech 19 Batch 1 PASS/COMPLETE / scans 511–520 / cumulative 10 of 35 first-pass / exact next scans 521–530**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–18**
 - Gate D — **PASS / COMPLETE for Speeches 1–18; Speech 18 = 29/29 pages / 28/28 transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–18; Speech 18 29 of 29 / 20 corrections / 0 unresolved; Speech 19 not started**
@@ -106,7 +106,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 17 — **Gate C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 37 Gate-E corrections / 43 Gate-G refinements / 0 blockers / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / canonical bilingual complete / multi-date source unit / no single canonical date / single-date indexes intentionally unchanged**
 - Speech 18 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 20 Gate-E corrections / 6 Gate-G refinements / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / indexed / canonical bilingual complete**
-- Speech 19 — **SOURCE INTAKE + GATE C SETUP PASS/COMPLETE / transcription NOT STARTED / 0 of 35 / exact next Batch 1 scans 511–520**
+- Speech 19 — **SOURCE INTAKE + GATE C SETUP PASS/COMPLETE / Gate C Batch 1 PASS-COMPLETE / 10 of 35 / exact next Batch 2 scans 521–530**
 
 ## Speech 1 durable Gate-C state
 
@@ -1320,7 +1320,7 @@ Do not begin Speech 19 until Speech 18 Gate H is closed.
 
 ## Speech 19 source intake + Gate C setup
 
-**PASS / COMPLETE — setup only; transcription not started.**
+**PASS / COMPLETE — setup complete; Gate C Batch 1 now complete.**
 
 - working entry — `speeches/1982/1982-03-06-financial-statement-debate/`
 - source label/date — **உரை : 19 / 06.03.1982**
@@ -1328,15 +1328,28 @@ Do not begin Speech 19 until Speech 18 Gate H is closed.
 - scans — **511–545 / printed pp.510–544 / 35 pages**
 - hard boundaries **510→511 / 545→546** — **PASS**
 - part021 — **local 11–25 / scans 511–525 / 15 pages / 18,938,935 bytes / SHA-256 d32d5b4559b68d81675d80e9bb535e1a0e8eaf6861a6eb037ffb357fad5c92c2**
-- part022 — **local 1–20 / scans 526–545 / 20 pages / split total 21 pages**
-- part022 exact byte size / SHA-256 — **not recorded in live-main controls at setup; not invented**
+- part022 — **local 1–20 / scans 526–545 / 20 pages / split total 21 pages / 15,522,557 bytes / SHA-256 7fc6e4fb4e264c9c4b836150549fc0c8c45458bc9a3869ac313ff6708fb5ceed**
 - split transition **525→526** — **mapped / audit in Batch 2**
 - planned Gate-C batches — **511–520 / 521–530 / 531–540 / 541–545 FINAL**
-- Tamil — **NOT TRANSCRIBED / verified_against_scan=false**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 - Gates D–H — **NOT STARTED**
 - outside wording imported — **0**
 
+## Speech 19 Gate C Batch 1 result
+
+**PASS / COMPLETE — scans 511–520 / printed pp.510–519 / exactly 10 pages; cumulative 10 of 35 first-pass transcribed.**
+
+- source-page markers — **511→520 / 10 / exactly once / ordered**
+- source heading/date and speaker label — **preserved**
+- unresolved first-pass readings — **0**
+- outside wording imported — **0**
+- scan **520** ends mid-sentence at **`இந்த`**
+- scan **521** wording imported — **0**
+- scans **521–545** modified in Batch 1 — **0**
+- part022 integrity — **resolved directly from the user-supplied split**
+- Batch 2 crosses **525→526 / part021→part022**
+
 ## Exact next activity
 
-Perform **Speech 19 Gate C Batch 1 — scans 511–520 / exactly 10 pages**. Do not process scans 521 onward in the same iteration.
+Perform **Speech 19 Gate C Batch 2 — scans 521–530 / exactly 10 pages**. Do not process scans 531 onward in the same iteration.
