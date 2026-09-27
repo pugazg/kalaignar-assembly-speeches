@@ -42,7 +42,9 @@ Working split coverage:
 2. `...part_022_pages_526-546.pdf`
    - local **1–20 = global 526–545 / printed 525–544 / 20 Speech-19 pages**
    - split total **21 pages**
-   - exact byte size / SHA-256 — **not recorded in live-main controls at setup time; not guessed**
+   - bytes — **15,522,557**
+   - SHA-256 — `7fc6e4fb4e264c9c4b836150549fc0c8c45458bc9a3869ac313ff6708fb5ceed`
+   - integrity metadata — **resolved directly from the user-supplied split during Gate-C Batch 1**
    - local 20 / scan 545 = Speech 19 close / included
    - local 21 / scan 546 = closing portrait/back matter / excluded
 
@@ -59,8 +61,26 @@ Fixed cadence: **10 source pages per iteration**, final remainder may be fewer.
 
 Gate C.5 is **provisionally N/A** because this is modern 2007 typesetting; reopen only if a page-specific legacy typeform anomaly is actually observed.
 
+## Gate C Batch 1
+
+**PASS / COMPLETE — scans 511–520 / exactly 10 pages; cumulative 10 of 35 first-pass transcribed.**
+
+- source file — part021 local **11–20**
+- source-page markers — **511→520 / 10 / exactly once / ordered**
+- heading/date — **preserved**
+- speaker label / interventions — **preserved**
+- source spelling / punctuation / figures / repetitions / printed English — **preserved conservatively**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- scan **520** closes Batch 1 mid-sentence at **`இந்த`**
+- scan **521** wording — **not imported**
+- scans **521–545** modified in Batch 1 — **0**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+- part022 split integrity, now directly available — **21 pages / 15,522,557 bytes / SHA-256 `7fc6e4fb4e264c9c4b836150549fc0c8c45458bc9a3869ac313ff6708fb5ceed`**
+
 ## Exact next
 
-**Speech 19 Gate C Batch 1 — scans 511–520 / exactly 10 pages.**
+**Speech 19 Gate C Batch 2 — scans 521–530 / exactly 10 pages.**
 
-Do not transcribe scans 521 onward in the same iteration.
+Batch 2 crosses **525→526 / part021→part022**; audit that transition and do not transcribe scans 531 onward in the same iteration.
