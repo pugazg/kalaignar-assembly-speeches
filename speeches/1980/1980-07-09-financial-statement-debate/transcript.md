@@ -308,3 +308,87 @@ When this Budget was placed before the House and reporters asked me about it, I 
 
 That is why some people, instead of entering deeply into this Budget, entered the Central Government's Budget and pointed out defects in it. I do not wish to hold a brief for the Central Government, and I know that this is not the place for it. But this Budget speaks of free rice for the poor. Who are the people who are to receive that one kilogram? Those receiving old-age assistance, widows receiving assistance,—
 
+### Source page 492
+
+—those receiving assistance for physical disabilities, and agricultural labourers receiving assistance. Navalar has stated in this financial statement that the Government has decided to provide one kilogram of rice free each week only to such persons.
+
+For the past several days in this great House, the “poverty line” has itself been undergoing all manner of suffering as people repeatedly invoke it. What is the poverty line? What exactly is this poverty line? It has been discussed both from the ruling-party side and from the opposition side, and I understand that yesterday my dear friend Thiru Nedumaran even gave some explanations of it here. Although many views on it have thus been expressed in this House, I wish to mention one point.
+
+The Central Planning Commission appointed a committee under Professor D. R. Gadgil, with Dr P. S. Ganguli and Dr V. K. R. V. Rao. The task given to that committee was to define what the poverty line means. They defined the poverty line as the Minimum Level of Consumption—that is, the minimum food; clothing and shelter. In other words, they estimated the poverty line on the basis of these three essentials: food to eat, cloth to wear, and a place to live. It was stated that whatever a person's income might be, the cost required for the minimum necessities of food, clothing and shelter should be taken as the measure for fixing the poverty line. A dispute then arose over whether money or nutrition should be used as the measure. Since the value of the rupee keeps changing—
+
+### Source page 493
+
+—and declining, it was decided that nutrition could be used as the basis. The committee fixed the daily nutritional requirement at 2,400 calories for rural people and 2,100 calories for people living in towns.
+
+To obtain that amount of food, in 1960-61 a rural person required Rs.20 per month and an urban person Rs.25 per month. Because of rising prices and inflation, for 1976-77 that basic requirement was calculated at Rs.61.80 per person per month in rural areas and Rs.71.30 per person per month in urban areas. At today's price level, our State Planning Commission has estimated Rs.75 per person per month in villages and Rs.90 per person per month in towns.
+
+If Tamil Nadu's population is calculated on that basis, then according to the information available to me, 48 per cent of the rural population is below this poverty line and 41 per cent of the urban population is below it.
+
+As our dear friend Nedumaran said yesterday, nearly 60 per cent of the people of Tamil Nadu are below this poverty line. What did you say? You said that one kilogram of rice would be given to all poor people below the poverty line. But today you say it is only for those receiving assistance as old people, widows, physically disabled persons and people who have lost their sight. What is their number? If we turn to page 41 of the financial statement given by Navalar, we find this one-kilogram rice—
+
+### Source page 494
+
+—announcement. On page 40, the number of old people, widows, physically disabled persons and people who have lost their sight is given as 1,13,970. The number of people below the poverty line is 200 lakh—about two crore. Having said in the election manifesto that free rice would be given to them, the calculation now comes to only 1,13,970 people, or 1,15,000 people; even if agricultural labourers are added and the number is raised a little further, it comes to about two lakh people. You said that this one kilogram of rice would be given free to 200 lakh people, but the financial statement now says it will be given to two lakh. That is why I said that if the people who voted are satisfied, I too am satisfied.
+
+Even if we value this one kilogram of rice at Rs.2—I am putting it rather high; let us take the Government price as Rs.2—you are giving Rs.8 a month. All those receiving the old-age pension, widows' pension, disability pension and assistance for loss of sight already receive Rs.25. Instead of giving one kilogram of rice every week, if you calculate it as Rs.2 a week, multiply four by two to get eight rupees, add that Rs.8 to the existing Rs.25 and say that you are giving Rs.33, or raise it to Rs.35, then at least you could claim the credit that these pensions, which rose from Rs.20 to Rs.25, have now risen from Rs.25 to Rs.35.
+
+### Source page 495
+
+Whether it is the old-age pension, or the pension now announced for poor agricultural labourers over sixty years of age, what I ask is this: the old-age pension was introduced when the elder statesman Kamaraj was Chief Minister of Tamil Nadu. From then until now, it has not been given to every eligible old person in Tamil Nadu. We have always had a ceiling. We fix a limit on how much money is to be allotted for this purpose. Whether in Kamaraj's time, Bhaktavatsalam's time, Perarignar Anna's time, the period of the Dravida Munnetra Kazhagam Government or the present Government, an amount of so many lakh rupees is set aside for these pensions and expenditure is kept within that amount.
+
+If fifty people in a village receive the old-age pension, the fifty-first person remains on the waiting list. If one among those fifty leaves this world and fifty becomes forty-nine, the fifty-first person on the waiting list fills the fiftieth place.
+
+That is how this pension system works. Everyone knows it. Some ruling-party members know it; some ruling-party members and opposition members may not know it. Since those in office know it, and also from experience, I wish to explain it here. This pension is not given to everyone. Even here, people are screened through a sieve. Now it has been announced that poor agricultural labourers over sixty years of age will receive a pension. What I wish to know—
+
+### Source page 496
+
+—is whether agricultural labourers over sixty years of age were not included until now in this old-age list. Why were they excluded? I need this information. Will this pension now be given to all agricultural labourers over sixty? The labourers very much need an answer to that question.
+
+If, after combining all these categories, you say that nearly 1,15,000 people will receive one kilogram of rice every week, I am duty-bound to point out that this is wholly contrary to the assurance in the election manifesto and to the assurances given in public meetings. The promises made to Government employees in the election manifesto were not trivial either.
+
+The Anna Dravida Munnetra Kazhagam manifesto said that a committee would be formed for permanent negotiations and that it would meet once every three months; that a post-retirement family-welfare scheme would be introduced for Government employees; and that State Government employees would be given dearness allowance on par with Central Government employees. However much one searches this financial statement, there is neither an allocation nor an announcement for any of these. I am duty-bound to point that out with deep regret.
+
+The manifesto also contained another attractive promise: poor mothers would be given Rs.50 a month for three months, Rs.150 in all, for nutrition to protect the health of mother and child during childbirth. This is not even a programme being carried out at the State Government's own expense. It is being done under the weaker-sections welfare programme with World Bank financial assistance. Everyone thought that in all—
+
+### Source page 497
+
+—districts and all towns of Tamil Nadu, poor mothers could receive Rs.150 during childbirth over three months for their own nutrition and that of their children. But what is the position? This year the scheme is being implemented as a pilot project only in the Kottampatti Panchayat Union in Madurai district; it has then been announced that four or five districts will be selected and covered over a five-year period. Are the mothers in Kottampatti Panchayat Union the only poor mothers?
+
+I ask you to consider whether there is even the slightest connection between the election manifesto and the announcement that this Rs.150 will be provided under the maternity nutrition scheme.
+
+Many members have spoken here about farmers' debts. Alagarsamy, who spoke on behalf of our Communist Party of India, offered some constructive suggestions on behalf of his party. In a resolution adopted under his leadership—not by the party, but by the Communist Farmers' Association—the report appeared under the heading that Rs.150 crore of crop loans should be cancelled. After welcoming the Tamil Nadu Government's move to write off Rs.60 crore of debt, the resolution continues: “Instead of granting relief to all affected farmers, writing off only a portion of the crop loans of small farmers will in no way satisfy the farmers; it will cause great disappointment. Even according to the State—
+
+### Source page 498
+
+—Government's own statement, the crop loans of small farmers alone amount to half of the total crop loans of Rs.300 crore. Further, demanding immediate repayment of the remaining loans after this partial write-off will only recreate harsh measures such as attachment. Therefore all crop loans owed by farmers holding up to five standard acres should be written off; for other farmers, all interest on crop loans should be waived and the principal deferred for repayment over ten years as an interest-free loan. Arrangements should be made to ensure that agricultural credit is available to all farmers in the current year. In the case of long-term loans, loans that have become unproductive should be written off after proper scrutiny, all interest on the remaining debt should be waived, and an opportunity should be given to repay it in ten annual instalments.”
+
+Such resolutions have been adopted on behalf of the Farmers' Association meeting under the leadership of our Legislative Assembly member Alagarsamy of the Communist Party of India. I am duty-bound to place here the welcome fact that the DMK agrees with these proposals to a large extent.
+
+But what were the promises that were made? We must not forget them. Please do not think I am trying to taunt anyone. I consider it my responsibility merely to read here a speech attributed to the Hon. Chief Minister before the election, published in the issue of *Anna* dated 17 May 1980: “The DMK election manifesto does not state anything clearly about the farmers' nine-point programme. The principal—
+
+### Source page 499
+
+—demand of the farmers is cancellation of debt. If the Anna DMK comes to power, it will press the Central Government to help cancel farmers' debts. If the Central Government refuses, the Kazhagam Government itself will cancel that debt within five years. The Anna DMK election manifesto states this categorically and clearly. But the DMK manifesto does not say this. The Dravida Munnetra Kazhagam people, who did not have the courage to say in their manifesto that they would cancel agricultural debts if they came to power, are now saying from public platforms that they will do so. The people must not forget that this is deception. The DMK is saying this only to deceive farmers and secure votes in this election.”
+
+That was what he said. Not only that: “If we come to power, we will cancel agricultural debt. If the Central Government does not agree, the Tamil Nadu Government itself will pay the debt money to the Reserve Bank. But what does Karunanidhi say? He says, ‘We will take steps to cancel farmers' debts.’ What does ‘take steps’ mean? A man asks for Rs.100. Another person immediately says he will take steps and gives him Rs.2. That is what ‘taking steps’ means. Karunanidhi has not spoken firmly on this issue. He is trying to deceive people.”
+
+Our Chief Minister spoke in that manner then, and the statements appeared in *Anna* on 15 May 1980 and 17 May 1980.
+
+They have thus explained what “we will take steps” means: it means giving two rupees to someone who asks for a hundred. That is what the present Government itself is now saying. Having promised to cancel all debt—
+
+### Source page 500
+
+—it has announced that Rs.60 crore has been cancelled. But if one goes deeply into the figures, Rs.16 crore of that is said to be cancellation of takavi loans. What is a takavi loan? It is a kind of loan that has existed since the days of the British and is no longer being advanced now. It has been set aside as a debt that will not be recovered. Yet it continues to appear in the accounts of our financial statement. There is an important reason for that. When the State Government seeks financial assistance from the Central Government, they will certainly ask what our resources—our sources of finance—are. Central assistance is received on the basis of those financial resources.
+
+Therefore, this Rs.16-crore takavi debt has never actually been demanded from the farmers—whether under Kamaraj, Bhaktavatsalam, Anna, the Dravida Munnetra Kazhagam Government, or even the Anna DMK Government up to now. It has merely not been formally written down; it has not been called a “write-off,” but has already been set aside as irrecoverable. Now that is what has been written off. This can only reduce the resources shown on our side and place us at a disadvantage; I cannot say with certainty that it genuinely benefits the farmers.
+
+Our Finance Minister Navalar has said here that Rs.42 crore of debt is being cancelled for farmers owning five acres of land. But five acres differ from district to district, and even within a district from taluk to taluk and area to area. The nature of those five acres—
+
+### Source page 501
+
+—varies. Members of the friendly parties who spoke here have also pointed that out. Five acres in one place may be fertile land yielding Rs.10,000; elsewhere five acres may be very ordinary land yielding only Rs.500 or Rs.1,000. Without taking that into account, you simply refer in general terms to people owning five acres of land. Even the English statement says "5 acres owning"—owners. But are those who borrow money necessarily owners? No. Most are tenants. Tenants borrow money for the land they take on lease and cultivate. So what is the position of tenants in this debt cancellation? An explanation is needed. The Finance Minister must explain it.
+
+If you speak generally of five acres, are five acres yielding Rs.10,000 and five acres unable to yield even Rs.1,000 really the same? Is that what the officials have told you? Did the officials simply say, “They are asking for something—let us put down an answer”? Did you hurry into this merely because something promised in the election manifesto had to be shown in this statement? I expect explanations of these matters from Finance Minister Navalar.
+
+On page 7 of the financial statement, Navalar has said that a request has been sent to the Central Government to provide the Rs.42 crore or Rs.60 crore required to settle these agricultural debts. On page 9 too, after saying that the Central Government has been asked, written to, and requested to help cancel these farmers' debts, when he met reporters the next day—
+
