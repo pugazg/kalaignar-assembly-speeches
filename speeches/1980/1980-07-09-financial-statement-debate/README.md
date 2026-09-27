@@ -41,8 +41,8 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting / 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 29/29 pages / 28/28 internal transitions / 0 completeness corrections / 0 Tamil wording changes**
 - Gate E — **PASS / COMPLETE — scans 482–510 / 29 of 29 verified / 20 cumulative corrections / 0 unresolved**
-- Gate F / English — **NOT STARTED / exact next = FINAL scans 482–510 / 29 pages**
-- Gate G — **NOT STARTED**
+- Gate F / English — **COMPLETE — scans 482–510 / 29 of 29 translated / 0 blockers / 0 Tamil changes**
+- Gate G — **NOT STARTED / exact next = FINAL scans 482–510 / 29 pages**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 19 — **NOT STARTED**
 
@@ -244,8 +244,29 @@ Genuine source-visible forms retained include scan 482 `மாண்புமி
 2. **scan 506** — `காண்ட்ராக்ட் முறை இருக்காது, முழுதும் அரசுத்துறையாக இருக்கும் என்று` → `காண்ட்ராக்ட் முறை இருக்காது, முழுதும் அரசத்துறையாக இருக்கும் என்று`
 3. **scan 507** — `அவைகளெல்லாம் பட்ஜெட்டிலே நிதிநிலை அறிக்கையிலே இல்லை என்பதைத் தான் நான்` → `அவைகளெல்லாம் பட்ஜெட்டிலே நிதிநிலை அறிக்கையிலே இல்லை என்பதைத்தான் நான்`
 
+## Gate F closure
+
+**COMPLETE — scans 482–510 / printed pp.481–509 / 29 of 29 English pages translated.**
+
+- batching — **one FINAL iteration / 29 pages**
+- Gate-F page limit — **maximum 30 source pages per iteration**
+- English source-page sections — **482→510 / 29 / exactly once / ordered**
+- translation authority — **final Gate-E-verified Tamil only**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-page alignment / heading / speaker label / continuations — **preserved**
+- figures / quotations / repetitions / rhetorical questions — **preserved**
+- source-printed English:
+  - scan 492 — `Minimum Level of Consumption` — **preserved**
+  - scan 501 — `"5 acres owning"` — **preserved**
+  - scan 506 — `(Contractor)` — **preserved**
+- hard boundary **510→511** — **PASS / Speech 19 excluded**
+- Tamil — **VERIFIED / unchanged / verified_against_scan=true**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+
 ## Exact next activity
 
-Perform **Speech 18 Gate F FINAL — scans 482–510 / exactly 29 pages**.
+Perform **Speech 18 Gate G FINAL — scans 482–510 / exactly 29 pages**.
 
-Translate only from the final Gate-E-verified Tamil. Preserve source-page boundaries, speaker label/interventions, figures, quotations, repetitions and source-printed English. Record blocking questions conservatively; make 0 verified-Tamil changes and import 0 outside English. Do not begin Gate G or Speech 19.
+Review all 29 English source-page sections only against the final Gate-E-verified Tamil. Apply every needed fidelity/voice refinement, record each before→after change by scan, preserve source-printed English verbatim, make 0 verified-Tamil changes, import 0 outside English, and do not begin Gate H or Speech 19.
