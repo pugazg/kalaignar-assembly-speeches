@@ -939,8 +939,22 @@ Source-visible final-batch forms retained without normalization:
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - exact next — **Gate E Batch 2 / scans 492–501 / exactly 10 pages**
 
+## Speech 18 Gate E Batch 2 result
+
+**PASS / COMPLETE — scans 492–501 / exactly 10 pages; cumulative 20 of 29 source-verified.**
+
+- Batch-2 corrections — **4 entries / 4 occurrences / 3 affected scans**
+- cumulative corrections — **17 entries / 17 occurrences / 11 affected scans**
+- unresolved — **0**
+- outside wording imported — **0**
+- scans **482–491 / 502–510** changed in Batch 2 — **0**
+- **491→492 / 500→501** continuations — **PASS / preserved**
+- printed English `Minimum Level of Consumption` / `"5 acres owning"` — **preserved**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- exact next — **Gate E Batch 3 FINAL / scans 502–510 / exactly 9 pages**
+
 ## Exact next activity
 
-**Speech 18 Gate E Batch 2 — scans 492–501 / printed pp.491–500 / exactly 10 pages.**
+**Speech 18 Gate E Batch 3 FINAL — scans 502–510 / printed pp.501–509 / exactly 9 pages.**
 
-This batch crosses the part020→part021 split at **500→501**. Verify only against controlling anthology pixels, preserve that continuation, leave scans 482–491 and 502–510 unchanged, and do not begin the final batch or Speech 19.
+Verify only against part021 local pages 2–10. Preserve the 501→502 continuation, scan-510 source close and hard boundary 510→511; do not begin Gate F or Speech 19.
