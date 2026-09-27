@@ -102,6 +102,27 @@ Checks:
 - Gates D–H — **NOT STARTED**
 - Speech 18 — **unchanged / RELEASED-CLOSED**
 
+## Gate C Batch 4 FINAL
+
+**PASS / COMPLETE — scans 541–545 / printed pp.540–544 / exactly 5 pages.**
+
+Checks:
+
+- controlling source coverage — **part022 local 16–20 / scans 541–545**
+- source-page markers — **511→545 / 35 / exactly once / ordered**
+- cumulative Gate-C coverage — **35 of 35 pages**
+- **542→543** continuation — **PASS / preserved**
+- source-printed English on scan **542** — **preserved as printed**
+- speaker labels / interventions on **544–545** — **preserved**
+- hard outgoing boundary **545→546** — **PASS / scan 546 portrait-back matter excluded**
+- first-pass unresolved readings — **0**
+- OCR / web / Official Reports / alternate anthologies / released-speech wording imported — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Gate C — **PASS / COMPLETE**
+- Gate C.5 — **PROVISIONALLY N/A / explicit disposition next**
+- Gates D–H — **NOT STARTED**
+- Speech 18 — **unchanged / RELEASED-CLOSED**
+
 ## Exact next activity
 
-Perform **Gate C Batch 4 FINAL — scans 541–545 / exactly 5 pages** from the controlling source pixels only. Do not begin Gate C.5 or Gate D in the same iteration.
+Perform **Gate C.5 disposition + Gate D structural completeness audit**. Do not begin Gate E in the same activity.
