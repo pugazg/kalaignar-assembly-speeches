@@ -209,3 +209,102 @@
 கொள்கைகள் எல்லாம் இடம் பெறாத ஒரு நிதி நிலை அறிக்கை இது என்பதை நான் சுட்டிக்காட்டுவது எப்படித் தவறாகும்?
 
 எனவேதான் கருணாநிதி எதிர்க்கவில்லை என்று சொன்னார்கள். பொய் நெல்லைக் குத்தி கை நெல்லையும் விட்டவர் என்றெல்லாம் கதை பாடினார்கள், கவிதை பாடினார்கள். நிதிநிலை அறிக்கையிலேதான் பொய் நெல் நிறைய குத்தப்பட்டிருக்கிறது. அதைத்தான் இங்கே காணமுடிகிறது. தேர்தல் நேரத்து வாக்குறுதிகள் எல்லாம் பொய் நெல்லாக ஆக்கப்பட்டு இன்றைக்கு கை நெல்லும் விடப்பட்ட கதையாக வாக்காளப் பெருமக்களுக்கு ஆகி இருக்கிறது என்பதை நான் சுட்டிக் காட்ட விரும்புகிறேன். இருந்தாலும், நான் இந்த நிதி நிலை அறிக்கையை எதிர்க்கவில்லை. எதிர்த்தால் நீங்கள் அறிவித்து இருக்கிற குறைந்த பட்ச நலன்களை நான் எதிர்த்ததாக ஆகிவிடும். கிட்டத்தட்ட 1½ கோடி ரூபாய்க்கு வரிச் சலுகை அளித்திருக்கிறீர்கள், அதை நான் வரவேற்கிறேன். நான் பொதுவாக நிதிநிலை அறிக்கையை எதிர்க்கவில்லை. ஏனென்றால் நீங்கள் 1½ கோடி வரிச்சலுகை அறிவித்திருக்கிறீர்களே, அதையும் எதிர்த்ததாக ஆகிவிடும். ஆகவேதான் எதிர்க்கவில்லை. அதேபோல பாராட்டவும் முடியவில்லை. பாராட்டினால் இவனே பாராட்டிவிட்டான். இனிமேல் ஒன்றும் செய்யவேண்டாம் என்கிற மதமதப்பு எங்கே வந்துவிடுமோ என்ற பயத்தால் உங்களைப் பாராட்டவும் பயப்படுகிறேன். ஆகவே பாராட்டவில்லை. தேர்தல் வாக்குறுதிகளை நிறைவேற்றவில்லை என்பதைச் சுட்டிக் காட்டி நிதிநிலை அறிக்கையிலே அறிவிக்கப்பட்ட திட்டங்கள் இந்த நாட்டிலே இருக்கிற ஏழை எளிய மக்களுக்கு கண் துடைப்பாக இருக்கிறதே அல்லாமல், கண் ஒளி தருவதாக அமையவில்லை என்று சுட்டிக்காட்டி நிதிநிலை அறிக்கை பற்றிய திராவிட முன்னேற்றக் கழகத்தின் கருத்துக்களை இந்த அளவோடு கூறி அமைகிறேன், வணக்கம்.
+
+# English translation
+
+> **Gate-F translation state:** Gate F is **IN PROGRESS — scans 482–491 / 10 of 29 translated in this first chunk**. Translation authority is the final Gate-E-verified Tamil only. English is **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**. Verified-Tamil changes: **0**. Outside English imported: **0**.
+
+### Source page 482
+
+Speech: 18                                              09.07.1980
+
+**Kalaignar M. Karunanidhi:** Hon. Speaker, although I did not have the opportunity to congratulate you when you were elected and took your seat in this House, I hope you will accept my belated congratulations. I congratulate you and the Deputy Speaker, and I am duty-bound to set out the views of the Dravida Munnetra Kazhagam on the financial statement placed before this House by our Finance Minister, our dear Navalar.
+
+Many leaders and members who have spoken here from the ruling party, the opposition, and the friendly parties have already supplied epithets for this Budget. On the opposition side it has been called a “forest of false deer,” while from the ruling-party side it has been called a “flower garden where spotted deer play.” Amid such varied ornamental expressions, words have played on both sides and on behalf of the friendly parties in this great House.
+
+My friend Durai Murugan said this was a Budget without even a subject; someone from the ruling party retorted that he was saying so without any object. Arguments of that kind too have taken place.
+
+Our Navalar may think that I am anticipating a point he intends to make when he speaks. That is because I—
+
+### Source page 483
+
+—know what he will say. For a very long time—not one or two years, but for more than forty years—I have known him from our youth, and from close quarters I have observed what he may say and the style in which he may say it. Therefore he will certainly give an explanation of the Budget. Notes for that have also been given to the members of the House.
+
+What has been placed before this House is not, strictly speaking, the “budget” itself. No one need be startled. Many years ago in England, the person holding the office of Finance Minister would place that year's statement of receipts and expenditure in a bag and bring it to the House. Because the leather bag in which he brought that statement came to be called the budget, everyone thereafter followed that practice: they brought their statements of receipts and expenditure into the House in a leather bag, and the statement itself acquired the customary name “budget.”
+
+The Budget had to be kept secret. Great care had to be taken with the financial statement, because if it became public in advance even the Finance Minister's position could be endangered. So, in those days, it was brought in a leather bag. Since there were then no people in the country capable of stealing the leather bag along with it, it remained merely a leather bag.
+
+Thus the Finance Minister presents the receipts-and-expenditure plan for that year, supplies the related notes to the other members, a debate takes place, and after the debate the Finance Minister gives the ruling party's explanations. On the basis of the views expressed, the House performs a useful—
+
+### Source page 484
+
+—task in helping the Government undertake constructive measures. It is only in that sense that this debate has been taking place here over the past several days.
+
+It is a matter of pride and happiness that our Budget this year has almost reached Rs.1,000 crore. According to the 1938-39 Budget estimates, total revenue on the revenue account was Rs.16 crore 13 lakh, expenditure Rs.16 crore 10 lakh, and the net surplus Rs.3 lakh. The position of nearly forty years ago, when the whole Budget amounted to only about Rs.16 crore, has now changed.
+
+When the Congress party governed this State, C. Subramaniam, then Finance Minister, prepared a Budget for one year and was delighted to say that he was proud to place before this great House, for the first time, a Budget of Rs.100 crore. (Interruption.) Thank you for the correction. He said that he had wanted to place a Rs.100-crore Budget but could place only a Rs.90-crore one. Our Navalar is in the same position. He too could have placed a Rs.1,000-crore Budget here; because it fell short by some Rs.16 or 17 crore, this year passed without the opportunity to place a Rs.1,000-crore Budget before the House.
+
+In 1967-68, when the Dravida Munnetra Kazhagam assumed office under Perarignar Anna, revenue on the revenue account was Rs.233.39 crore, expenditure Rs.233.33 crore, and the net surplus Rs.6 lakh. Later, in 1975-76, this rose further, and on the revenue—
+
+### Source page 485
+
+—account revenue was Rs.563.36 crore, expenditure Rs.557.9 crore, and the surplus Rs.5.44 crore.
+
+As a result of the recommendations of the Seventh Finance Commission, and because the State's share of tax revenue due to it has begun to rise considerably over the past two years, this year's Budget estimates state revenue-account receipts of Rs.982.66 crore, expenditure of Rs.967.27 crore, and a surplus of Rs.15.3 crore. Taking all the accounts together, the financial statement says that at the end of the year's receipts and expenditure there will be an overall surplus of Rs.33 lakh.
+
+But in the “Financial Position Note” given here for 1980-81, instead of showing a surplus of Rs.33 lakh, the Tamil statement on page 6 shows “minus 33 lakh.” I am duty-bound, through the Finance Minister, to bring this to the attention of the officials. A surplus cannot be shown as “minus 33”; it should be shown as “plus 33.” I am referring to the statement supplied in Tamil. The officials must therefore remove this defect.
+
+On many occasions this House has pointed out substantial differences between the English volume, the statements supplied in English, and those supplied in Tamil. It is truly regrettable that these have not been corrected. Showing the amount of a surplus with a “minus” sign instead of a “plus” sign is a very serious error.
+
+### Source page 486
+
+On page 52 of the financial statement, our Finance Minister has stated that because Central Government plan assistance to Tamil Nadu is steadily declining, Tamil Nadu's per-capita plan expenditure is also declining. In every Five-Year Plan, Tamil Nadu is not given the amount of financial allocation that we ask for. Even if the State Government does not receive adequate Central assistance for its plans, I am duty-bound to underline here, and to place it as a request, that the Tamil Nadu Government must enlarge the size of the State's plan by increasing revenue through its own efforts and spending substantial sums on development works outside the Plan as well as on Plan expenditure.
+
+I trust that officials will bring to the attention of our Finance Minister the fact that this was done when the Dravida Munnetra Kazhagam was in office. Even while the Dravida Munnetra Kazhagam was in power, it was repeatedly stated that Central financial assistance was inadequate. Whether or not the Government then received the support of the opposition parties for that is another matter. But on behalf of the Government we argued, pointing out that the funds given by the Central Government to the State were very small and were declining further and further.
+
+On 11.01.1976, a few days before the Dravida Munnetra Kazhagam Government was displaced, in an interview with journalists—that is, reporters—I pointed out, as the person then in office, that in the First Five-Year Plan Tamil Nadu received 10.8 per cent of the total assistance given by the Centre to all States, that in the Second Plan period it received 9 per cent, and that in the Third Plan period it received only 7.4 per cent—
+
+### Source page 487
+
+—and that in the Fourth Plan period Central financial assistance had progressively fallen to 5.5 per cent, and that our State had been affected as a result. At that time, while in office, I also pointed out to those reporters the position with regard to per-capita plan expenditure and per-capita income.
+
+Even though an Anna Dravida Munnetra Kazhagam Government is now in office in Tamil Nadu, the Dravida Munnetra Kazhagam is still arguing in Parliament for Tamil Nadu's needs, for the advancement of Tamil Nadu, and for prosperity and well-being to flourish in Tamil Nadu. It argued then, it argues now, and it will continue to argue. I am duty-bound to place that fact before this House.
+
+In both the Council of States and the House of the People, members of Parliament belonging to the Dravida Munnetra Kazhagam have strongly urged that an underground railway scheme—the Metropolitan Rapid Transit System—be introduced in Madras.
+
+They have also argued in both Houses in Delhi that the Kanyakumari, Nagercoil and Tirunelveli area should continue to function under the Madurai Railway Division and should not be added to the Trivandrum Division. Not only that: on 3-7-1980 all the Dravida Munnetra Kazhagam members of Parliament met the Union Railway Minister, Kamalapati Tripathi, and submitted a memorandum. We have seen in the newspapers that the Union Railway Minister promised them that the decision already taken would be reconsidered.
+
+### Source page 488
+
+Members of the Dravida Munnetra Kazhagam have also strongly urged in both Houses in Delhi the long-standing need to convert the railway line connecting Karur, Dindigul, Madurai, Tuticorin and Tirunelveli into “broad gauge,” that is, a broad-gauge railway line.
+
+They have urged that the Podanur workshop should not be attached to the Olavakkode Division; that the workload of the Golden Rock railway workers should not be reduced and that new khalasis should be appointed; and they have pressed for many other railway lines needed by Tamil Nadu.
+
+They have also urged that arrangements be made to begin production quickly at the Kalpakkam Atomic Power Station; that work on the Hogenakkal Cauvery hydro-electric project be started immediately; that Lower Mettur power generation be commenced and approval be granted for the Lower Mettur power station; that efforts be made to implement the Sethusamudram project; that the Salem Steel Plant project be accelerated and expanded; that the Pandiar-Punnampuzha scheme be implemented; that, pointing out the large number of small industries in Tamil Nadu affected by shortages of coal and iron, the Central Government take quick action to remove those shortages; that a fishing harbour be established on Tamil Nadu's southern coast; that water flowing westward from the Western Ghats and going waste into the sea be put to use in Tamil Nadu; that the Government move quickly to settle the Cauvery water-sharing issue; and that the Ganga—
+
+### Source page 489
+
+—Cauvery linking scheme be undertaken. Thus, without the narrow thought, “Is not the Government here an Anna Dravida Munnetra Kazhagam Government? Why should we argue for all this?”, the Kazhagam's members of Parliament have argued and pressed in Parliament for many schemes that would enrich Tamil Nadu, with the larger aim that the people of Tamil Nadu and Tamil Nadu itself should prosper. I wish to place that here with great pride.
+
+One part of this financial statement concerns the extent to which promises made at election time have been left out; another concerns the extent to which steps have been taken to fulfil the promises that were made. I am duty-bound to discuss both these aspects here in some detail.
+
+The Anna Dravida Munnetra Kazhagam election manifesto states: “We will change the condition in which people below the poverty line manage to live to some extent when they have work and go hungry when there is no work, and we will arrange for every adult man and woman to receive one rupee a day during periods when work is unavailable.”
+
+This is not merely in the election manifesto. On page 7 of the 1979-80 financial statement placed before this House on behalf of the Cabinet headed by our Chief Minister, it was stated that under the assured employment scheme each person would receive Rs.3 a day together with rice and wheat, and that on days when no work was provided each of them would be given one rupee, or its equivalent in rice or wheat.
+
+### Source page 490
+
+I assume no one will begin an inquiry into who read that statement. It was a statement issued by the All India Anna Dravida Munnetra Kazhagam Government. Since the All India Anna Dravida Munnetra Kazhagam Government was the Government responsible for the 1979-80 financial statement placed here, I wish to ask this: in 1979-80 you promised that each person would receive Rs.3 a day with rice and wheat, and that during periods when no work was provided each would receive one rupee, or its equivalent in rice or wheat. Leave aside the election-time promise; you gave this assurance in the financial statement itself. In this year's statement have you given details of how many people, and how much in total, were paid at the rate of one rupee for days without work in 1979-80? If so, how many people received it? I place this before the Finance Minister with the earnest expectation that, instead of treating my questions as ridicule or as an attempt to trap you, you will give a proper answer to the explanation I seek.
+
+Next, the election manifesto made another specific promise: “For poor people below the poverty line, arrangements will be made to give one kilogram of rice free when they purchase five kilograms.” The All India Anna Dravida Munnetra Kazhagam manifesto said this emphatically. Even when this financial statement appeared, many newspapers carried large headlines in bold type announcing “Free rice for poor families”—
+
+### Source page 491
+
+—but after filtering the poor through many sieves, it was finally announced that only certain categories would receive it. How many people belong to poor families below the poverty line? To how many have you supplied this one kilogram of rice?
+
+You have changed the original announcement that one kilogram of rice would be given free when five kilograms were purchased. Very well; you have now announced one kilogram a week for the poor. But which poor? How many qualifications are there? How many conditions have you divided them into? Please think about it.
+
+When this Budget was placed before the House and reporters asked me about it, I said: if the people who voted are satisfied, I too am satisfied. Even that was taken by ruling-party members to their advantage, and they said that even the Leader of the Opposition supported it. I support it even now. If it is true that all the people who voted support this, I too am duty-bound to support it. The question before us now is whether those voters know the truth about whether the assurances given to them have been fulfilled.
+
+That is why some people, instead of entering deeply into this Budget, entered the Central Government's Budget and pointed out defects in it. I do not wish to hold a brief for the Central Government, and I know that this is not the place for it. But this Budget speaks of free rice for the poor. Who are the people who are to receive that one kilogram? Those receiving old-age assistance, widows receiving assistance,—
+
