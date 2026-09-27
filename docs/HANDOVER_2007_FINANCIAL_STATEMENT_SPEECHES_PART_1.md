@@ -1280,10 +1280,6 @@ Source-visible final-batch forms retained without normalization include scan 479
 - English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
 - exact next — **Gate G FINAL / scans 482–510 / exactly 29 pages**
 
-## Exact next activity — Speech 18 Gate G FINAL
-
-Review **scans 482–510 / printed pp.481–509 / exactly 29 English pages** only against the final Gate-E-verified Tamil. Record every fidelity/voice refinement by scan; preserve source-printed English verbatim; make **0 verified-Tamil changes**, import **0 outside English**, and do not begin Gate H or Speech 19.
-
 ## Speech 18 Gate G result
 
 **PASS / COMPLETE — scans 482–510 / 29 of 29 English source-page sections reviewed against the final Gate-E-verified Tamil.**
