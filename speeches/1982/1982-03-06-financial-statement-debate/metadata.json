@@ -87,8 +87,8 @@
   "execution": {
     "gate_c_iteration_page_limit": 10,
     "final_remainder_may_be_under_10": true,
-    "current_gate_c_batch": "521-530 / 10 pages / PASS-COMPLETE",
-    "next_gate_c_batch": "531-540 / 10 pages",
+    "current_gate_c_batch": "531-540 / 10 pages / PASS-COMPLETE",
+    "next_gate_c_batch": "541-545 / 5 pages FINAL",
     "planned_gate_c_batches": [
       "511-520 / 10 pages",
       "521-530 / 10 pages",
@@ -96,7 +96,7 @@
       "541-545 / 5 pages FINAL"
     ],
     "working_split_transition": "525->526",
-    "next_activity": "Gate C Batch 3 / scans 531-540 / exactly 10 pages"
+    "next_activity": "Gate C Batch 4 FINAL / scans 541-545 / exactly 5 pages"
   },
   "transcription": {
     "language": "Tamil",
@@ -111,19 +111,19 @@
     "page_boundaries_marked": true,
     "status": "partially-transcribed-not-verified",
     "gate_c_status": "in-progress",
-    "completed_scan_pages": "511-530",
-    "completed_printed_pages": "510-529",
-    "completed_page_count": 20,
+    "completed_scan_pages": "511-540",
+    "completed_printed_pages": "510-539",
+    "completed_page_count": 30,
     "total_page_count": 35,
-    "marker_count": 20,
-    "marker_range": "511-530",
+    "marker_count": 30,
+    "marker_range": "511-540",
     "unresolved_readings": [],
     "unresolved_reading_count": 0,
     "verified_against_scan": false,
     "outside_wording_imported": false,
-    "next_gate": "Gate C Batch 3 / scans 531-540 / exactly 10 pages",
-    "gate_c_batches_completed": 2,
-    "last_completed_batch": "521-530 / 10 pages / PASS-COMPLETE",
+    "next_gate": "Gate C Batch 4 FINAL / scans 541-545 / exactly 5 pages",
+    "gate_c_batches_completed": 3,
+    "last_completed_batch": "531-540 / 10 pages / PASS-COMPLETE",
     "gate_c5_status": "provisionally-n-a-not-closed",
     "gate_c5_legacy_typeform_anomaly_observed": false,
     "gate_c_batch_1_status": "pass-complete",
@@ -150,7 +150,19 @@
       "527->528 / preserved",
       "529->530 / preserved"
     ],
-    "gate_c_batch_2_next_page_untouched": true
+    "gate_c_batch_2_next_page_untouched": true,
+    "gate_c_batch_3_status": "pass-complete",
+    "gate_c_batch_3_scan_pages": "531-540",
+    "gate_c_batch_3_printed_pages": "530-539",
+    "gate_c_batch_3_page_count": 10,
+    "gate_c_batch_3_unresolved": 0,
+    "gate_c_batch_3_outside_wording_imported": false,
+    "gate_c_batch_3_source_split": "part022 local 6-15",
+    "gate_c_batch_3_source_printed_english_scans": [
+      "535",
+      "539"
+    ],
+    "gate_c_batch_3_next_page_untouched": true
   },
   "translation": {
     "status": "not-started",
