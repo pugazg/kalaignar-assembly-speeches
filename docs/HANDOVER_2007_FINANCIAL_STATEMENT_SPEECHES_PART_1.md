@@ -76,7 +76,7 @@ Use a **maximum 25 source-scan pages per activity** while preserving whole-speec
 - if the next speech would exceed 25 pages, defer that whole speech;
 - if a single speech itself exceeds 25 pages, process it separately as one intact unit rather than dropping it.
 
-Latest released unit: Speech 17 / `22 & 23.3.1979` = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–17 are released**. Speech 18 / `09.07.1980` Gate E is **IN PROGRESS**: Batch 1 scans **482–491 / 10 pages PASS-COMPLETE**, with **13 source-fidelity corrections / 0 unresolved**; Tamil is **PARTIALLY VERIFIED / verified_against_scan=false**.
+Latest released unit: Speech 17 / `22 & 23.3.1979` = **RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speeches **1–17 are released**. Speech 18 / `09.07.1980` Gate E is **IN PROGRESS**: Batches 1–2 scans **482–501 / 20 pages PASS-COMPLETE**, with **17 cumulative source-fidelity corrections / 0 unresolved**; Tamil is **PARTIALLY VERIFIED / verified_against_scan=false**.
 
 ## Existing-source overlaps
 
@@ -95,7 +95,7 @@ Treat this 2007 anthology as its own witness.
 - Gate C — **Speeches 1–18 COMPLETE; Speech 18 29 of 29 first-pass / Tamil NOT VERIFIED; Speech 19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–18**
 - Gate D — **PASS / COMPLETE for Speeches 1–18; Speech 18 = 29/29 pages / 28/28 transitions / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–17; Speech 18 IN PROGRESS / Batch 1 COMPLETE / 10 of 29 / 13 corrections / 0 unresolved; Speech 19 not started**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–17; Speech 18 IN PROGRESS / Batches 1–2 COMPLETE / 20 of 29 / 17 cumulative corrections / 0 unresolved; Speech 19 not started**
 - Gate F — **COMPLETE for Speeches 1–17; speeches 18–19 not started**
 - Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–17; Speech 17 completed 93 of 93 / 43 cumulative refinements / 0 blockers / 0 Tamil changes; speeches 18–19 not started**
 - Gate H — **Speeches 1–17 PASS / COMPLETE — RELEASED / CLOSED; speeches 18–19 not started**
@@ -1235,6 +1235,20 @@ Source-visible final-batch forms retained without normalization include scan 479
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - exact next — **Gate E Batch 2 / scans 492–501 / exactly 10 pages**
 
-## Exact next activity — Speech 18 Gate E Batch 2
+## Speech 18 Gate E Batch 2 result
 
-Strictly verify **scans 492–501 / printed pp.491–500 / exactly 10 pages** against the controlling 2007 anthology pixels. This batch crosses **part020 local 25 → part021 local 1 / scans 500→501**. Preserve the continuation, leave scans 482–491 and 502–510 unchanged, and do not begin the final batch or Speech 19.
+**PASS / COMPLETE — scans 492–501 / exactly 10 pages; cumulative 20 of 29 source-verified.**
+
+- Batch-2 corrections — **4 entries / 4 occurrences / 3 affected scans**
+- cumulative corrections — **17 entries / 17 occurrences / 11 affected scans**
+- unresolved — **0**
+- outside wording imported — **0**
+- scans **482–491 / 502–510** changed in Batch 2 — **0**
+- **491→492 / 500→501** continuations — **PASS / preserved**
+- printed English `Minimum Level of Consumption` / `"5 acres owning"` — **preserved**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- exact next — **Gate E Batch 3 FINAL / scans 502–510 / exactly 9 pages**
+
+## Exact next activity — Speech 18 Gate E Batch 3 FINAL
+
+Strictly verify **scans 502–510 / printed pp.501–509 / exactly 9 pages** against **part021 local pages 2–10**. Preserve the incoming **501→502** continuation, scan-510 source close and hard boundary **510→511**. Leave scans 482–501 unchanged and do not begin Gate F or Speech 19.
