@@ -43,7 +43,7 @@ Batch 2 crosses the split boundary:
 - Gate D — **PASS / COMPLETE / 29/29 pages / 28/28 transitions**
 - Gate E — **IN PROGRESS**
 - Gate-E Batch 1 — **PASS / COMPLETE / scans 482–491 / 10 pages**
-- Gate-E Batch-1 corrections — **14 entries / 14 occurrences / 8 affected scans**
+- Gate-E Batch-1 corrections — **13 entries / 13 occurrences / 8 affected scans**
 - Gate-E Batch-1 unresolved — **0**
 - cumulative Gate-E verified pages — **10 of 29**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
@@ -54,7 +54,7 @@ Batch 2 crosses the split boundary:
 
 - scan 483 — `ஒரு பையில்` → `ஒரு பையிலே`
 - scan 484 — source punctuation/hyphenation restored in three places
-- scan 485 — `எல்லா கணக்குகளையும்`; `கவனத்திற்குக் கொண்டுவர`
+- scan 485 — `கவனத்திற்குக் கொண்டுவர` (the printed `எல்லா கணக்குகளை ஆண்டின்` is retained)
 - scan 486 — `நபர்வாரி`; `திட்டங்களுக்காக`; `அதனால் அதற்கு...`
 - scan 488 — `வற்புறுத்திப் பேசி`
 - scan 489 — `மெத்த பெருமையோடு`
