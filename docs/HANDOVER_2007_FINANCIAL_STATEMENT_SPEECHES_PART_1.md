@@ -95,7 +95,7 @@ Treat this 2007 anthology as its own witness.
 - Gate C — **Speeches 1–19 COMPLETE; Speech 19 scans 511–545 / 35 of 35 first-pass / Tamil TRANSCRIBED-NOT-VERIFIED**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–19; Speech 19 modern 2007 typesetting / 0 historical-glyph corrections**
 - Gate D — **PASS / COMPLETE for Speeches 1–19; Speech 19 = 35/35 pages / 34/34 transitions / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–18; Speech 19 Batches 1–2 PASS/COMPLETE / scans 511–530 / 20 of 35 verified / 7 cumulative corrections / 0 unresolved / exact next Batch 3 scans 531–540**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–18; Speech 19 Batches 1–3 PASS/COMPLETE / scans 511–540 / 30 of 35 verified / 16 cumulative corrections / 0 unresolved / exact next Batch 4 FINAL scans 541–545**
 - Gate F — **COMPLETE for Speeches 1–18; Speech 18 29 of 29 translated / 0 blockers / 0 Tamil changes; Speech 19 not started**
 - Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–18; Speech 18 29/29 reviewed / 6 refinements / 0 blockers / 0 Tamil changes; Speech 19 not started**
 - Gate H — **Speeches 1–18 PASS / COMPLETE — RELEASED / CLOSED; Speech 19 not started**
@@ -106,7 +106,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 17 — **Gate C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 37 Gate-E corrections / 43 Gate-G refinements / 0 blockers / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / canonical bilingual complete / multi-date source unit / no single canonical date / single-date indexes intentionally unchanged**
 - Speech 18 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 20 Gate-E corrections / 6 Gate-G refinements / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / indexed / canonical bilingual complete**
-- Speech 19 — **Gate C PASS/COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E Batches 1–2 PASS-COMPLETE 20/35 / 7 cumulative corrections / 0 unresolved / Tamil PARTIALLY VERIFIED / exact next Gate E Batch 3 scans 531–540**
+- Speech 19 — **Gate C PASS/COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E Batches 1–3 PASS-COMPLETE 30/35 / 16 cumulative corrections / 0 unresolved / Tamil PARTIALLY VERIFIED / exact next Gate E Batch 4 FINAL scans 541–545**
 
 ## Speech 1 durable Gate-C state
 
@@ -1318,7 +1318,7 @@ Do not begin Speech 19 until Speech 18 Gate H is closed.
 - release — **RELEASED / CLOSED**
 - Speech 19 / scan 511 — **excluded / NOT STARTED**
 
-## Speech 19 durable state after Gate E Batch 2
+## Speech 19 durable state after Gate E Batch 3
 
 Working entry:
 
@@ -1328,25 +1328,19 @@ Working entry:
 - Gate C — **PASS / COMPLETE**
 - Gate C.5 — **N/A / CLOSED**
 - Gate D — **PASS / COMPLETE**
-- Gate E Batches 1–2 — **PASS / COMPLETE / scans 511–530 / 20 of 35 source-verified**
-- cumulative corrections — **7 / 7 occurrences / 5 affected scans**
-- Batch 2 corrections — **4 / scans 521, 529, 530**
+- Gate E Batches 1–3 — **PASS / COMPLETE / scans 511–540 / 30 of 35 source-verified**
+- cumulative corrections — **16 / 16 occurrences / 10 affected scans**
+- Batch 3 corrections — **9 / scans 532, 535, 536, 537, 538**
 - unresolved — **0**
-- **520→521** continuation — **PASS**
-- **525→526** split transition — **PASS**
-- source-printed English on **523–525** — **preserved**
+- Government of Tamil Nadu English extract on scan **535** — **preserved as printed**
+- source-printed `foundation, weir pie` on scan **539** — **preserved as printed**
+- scan **541** — **not source-verified or altered**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- outside wording imported — **0**
 - Gate F–H — **NOT STARTED**
-
-Batch-2 corrections:
-
-1. scan **521** — `இந்த அறிவிப்பை பார்த்தவுடன்` → `இந்த அறிவிப்பைப் பார்த்தவுடன்`
-2. scan **529** — `பெருந்தலைவர் காமராஜ் அவர்கள் காலத்திலிருந்து` → `பெரும் தலைவர் காமராஜ் அவர்கள் காலத்திலிருந்து`
-3. scan **529** — `இல்லை நாங்கள் பத்து வயதுக்குப் போடுவோம்` → `இல்லை நாங்கள் பத்து வயதுக்கும் போடுவோம்`
-4. scan **530** — `முதலமைச்சர் அவர்கள் மேடைவாயிலே எடுத்துக் கூறியிருக்கிறார்கள்` → `முதலமைச்சர் அவர்கள் மேடைவாயில் எடுத்துக் கூறியிருக்கிறார்கள்`
 
 ## Exact next activity
 
-Perform **Speech 19 Gate E Batch 3 — scans 531–540 / exactly 10 pages**.
+Perform **Speech 19 Gate E Batch 4 FINAL — scans 541–545 / exactly 5 pages**.
 
-Do not begin Gate E Batch 4 in the same activity.
+Do not begin Gate F in the same activity.
