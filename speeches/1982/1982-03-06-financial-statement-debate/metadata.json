@@ -56,13 +56,13 @@
       {
         "filename": "TVA_BOK_0065523_நிதிநிலை_அறிக்கை_மீது_கலைஞரின்_சட்டமன்ற_உரை_1_part_022_pages_526-546.pdf",
         "page_count": 21,
-        "file_size_bytes": null,
-        "sha256": null,
+        "file_size_bytes": 15522557,
+        "sha256": "7fc6e4fb4e264c9c4b836150549fc0c8c45458bc9a3869ac313ff6708fb5ceed",
         "local_pages": "1-20",
         "global_scans": "526-545",
         "printed_pages": "525-544",
         "speech_page_count": 20,
-        "integrity_metadata_status": "size-and-sha256-not-recorded-in-live-main-at-setup",
+        "integrity_metadata_status": "complete",
         "boundary_witness": "local page 20 = global scan 545 / Speech 19 close / included; local page 21 = global scan 546 / closing portrait/back matter / excluded"
       }
     ],
@@ -87,8 +87,8 @@
   "execution": {
     "gate_c_iteration_page_limit": 10,
     "final_remainder_may_be_under_10": true,
-    "current_gate_c_batch": null,
-    "next_gate_c_batch": "511-520 / 10 pages",
+    "current_gate_c_batch": "511-520 / 10 pages / PASS-COMPLETE",
+    "next_gate_c_batch": "521-530 / 10 pages",
     "planned_gate_c_batches": [
       "511-520 / 10 pages",
       "521-530 / 10 pages",
@@ -96,7 +96,7 @@
       "541-545 / 5 pages FINAL"
     ],
     "working_split_transition": "525->526",
-    "next_activity": "Gate C Batch 1 / scans 511-520 / exactly 10 pages"
+    "next_activity": "Gate C Batch 2 / scans 521-530 / exactly 10 pages"
   },
   "transcription": {
     "language": "Tamil",
@@ -109,23 +109,30 @@
     "preserve_printed_english": true,
     "preserve_source_visible_repetition": true,
     "page_boundaries_marked": true,
-    "status": "not-started",
-    "gate_c_status": "setup-complete-not-started",
-    "completed_scan_pages": null,
-    "completed_printed_pages": null,
-    "completed_page_count": 0,
+    "status": "partially-transcribed-not-verified",
+    "gate_c_status": "in-progress",
+    "completed_scan_pages": "511-520",
+    "completed_printed_pages": "510-519",
+    "completed_page_count": 10,
     "total_page_count": 35,
-    "marker_count": 0,
-    "marker_range": null,
+    "marker_count": 10,
+    "marker_range": "511-520",
     "unresolved_readings": [],
     "unresolved_reading_count": 0,
     "verified_against_scan": false,
     "outside_wording_imported": false,
-    "next_gate": "Gate C Batch 1 / scans 511-520 / exactly 10 pages",
-    "gate_c_batches_completed": 0,
-    "last_completed_batch": null,
+    "next_gate": "Gate C Batch 2 / scans 521-530 / exactly 10 pages",
+    "gate_c_batches_completed": 1,
+    "last_completed_batch": "511-520 / 10 pages / PASS-COMPLETE",
     "gate_c5_status": "provisionally-n-a-not-closed",
-    "gate_c5_legacy_typeform_anomaly_observed": false
+    "gate_c5_legacy_typeform_anomaly_observed": false,
+    "gate_c_batch_1_status": "pass-complete",
+    "gate_c_batch_1_scan_pages": "511-520",
+    "gate_c_batch_1_printed_pages": "510-519",
+    "gate_c_batch_1_page_count": 10,
+    "gate_c_batch_1_unresolved": 0,
+    "gate_c_batch_1_outside_wording_imported": false,
+    "gate_c_batch_1_next_page_untouched": true
   },
   "translation": {
     "status": "not-started",
