@@ -73,7 +73,9 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate D — **PASS / COMPLETE / 35/35 pages / 34/34 internal transitions / 0 completeness corrections**
 - Gate E — **PASS / COMPLETE / scans 511–545 / 35 of 35 source-verified / 26 cumulative corrections / 0 unresolved**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- Gates F–H — **NOT STARTED**
+- Gate F — **IN PROGRESS / Batch 1 PASS-COMPLETE / scans 511–540 / 30 of 35 translated / 0 blockers / 0 Tamil changes**
+- English — **IN PROGRESS / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- Gates G–H — **NOT STARTED**
 - release — **NOT RELEASED**
 - Speech 18 — **RELEASED / CLOSED / locked**
 - outside wording imported — **0**
@@ -302,8 +304,25 @@ Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**.
 
 Tamil is now **VERIFIED / verified_against_scan=true**.
 
+## Gate F Batch 1 — scans 511–540
+
+**PASS / COMPLETE — exactly 30 pages translated; cumulative 30 of 35.**
+
+- translation authority — **final Gate-E-verified Tamil only**
+- English source-page sections — **511→540 / 30 / exactly once / ordered**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-page alignment / paragraph order / continuations — **preserved**
+- source-printed English on scans **523–525 / 535** — **preserved verbatim**
+- scan **539** `foundation, weir pie` — **preserved exactly as printed**
+- Tamil — **VERIFIED / unchanged / verified_against_scan=true**
+- English — **IN PROGRESS / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- scans **541–545** — **NOT TRANSLATED**
+- Gate G — **NOT STARTED**
+
 ## Exact next activity
 
-Perform **Speech 19 Gate F Batch 1 — scans 511–540 / exactly 30 pages** using only the final Gate-E-verified Tamil as the translation source.
+Perform **Speech 19 Gate F Batch 2 FINAL — scans 541–545 / exactly 5 pages** using only the final Gate-E-verified Tamil.
 
-Do not begin the Gate-F final remainder (scans 541–545) in the same activity.
+Do not begin Gate G in the same activity.
