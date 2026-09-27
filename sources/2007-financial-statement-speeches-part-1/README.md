@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches **1–18 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 18 / 09.07.1980 is indexed under its unique canonical date. Speech 19 / 06.03.1982 Gate C is **PASS / COMPLETE**; Gate C.5 is **N/A / CLOSED**; Gate D is **PASS / COMPLETE**; Gate E is **PASS / COMPLETE — scans 511–545 / 35 of 35 source-verified / 26 corrections / 0 unresolved**. Tamil is **VERIFIED / verified_against_scan=true**. Gate F Batch 1 scans **511–540 / 30 pages** is next. Speech 17 remains a source-preserved multi-date unit and is intentionally absent from the single-date indexes. Speech 12 / 07.03.1973 is preserved at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent released parallel witness** to the separately released `1973-03-07-financial-statement-reply`. Its canonical bilingual transcript is complete; Gate H made **0 Tamil / 0 English wording changes**. To avoid a second canonical same-date entry, `data/speeches.json` and the root dated speech table intentionally retain only the existing `1973-03-07-financial-statement-reply` index record; the anthology witness remains discoverable through this source package and repository status sections.
+Speeches **1–18 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 18 / 09.07.1980 is indexed under its unique canonical date. Speech 19 / 06.03.1982 Gates C–E are **COMPLETE** with Tamil **VERIFIED / verified_against_scan=true**. Gate F Batch 1 is **PASS / COMPLETE — scans 511–540 / 30 of 35 translated / 0 blockers / 0 Tamil changes**. English is **IN PROGRESS / NOT VERIFIED AGAINST TAMIL**. Gate F Batch 2 FINAL scans **541–545 / 5 pages** is next. Speech 17 remains a source-preserved multi-date unit and is intentionally absent from the single-date indexes. Speech 12 / 07.03.1973 is preserved at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent released parallel witness** to the separately released `1973-03-07-financial-statement-reply`. Its canonical bilingual transcript is complete; Gate H made **0 Tamil / 0 English wording changes**. To avoid a second canonical same-date entry, `data/speeches.json` and the root dated speech table intentionally retain only the existing `1973-03-07-financial-statement-reply` index record; the anthology witness remains discoverable through this source package and repository status sections.
 
 ## Whole-speech batching policy
 
@@ -1141,3 +1141,21 @@ Gate D — **PASS / COMPLETE — 35/35 pages / 34/34 transitions / 0 completenes
 **Speech 19 Gate F Batch 1 — scans 511–540 / exactly 30 pages.**
 
 Translate only from the final Gate-E-verified Tamil. The Gate-F final remainder will be **541–545 / 5 pages**.
+
+## Speech 19 Gate F Batch 1 result
+
+**PASS / COMPLETE — scans 511–540 / exactly 30 pages; cumulative 30 of 35 translated.**
+
+- translation authority — **final Gate-E-verified Tamil only**
+- English source-page sections — **511→540 / exactly once / ordered**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-printed English on scans **523–525 / 535** — **preserved**
+- scan **539** `foundation, weir pie` — **preserved exactly**
+- English — **IN PROGRESS / NOT VERIFIED AGAINST TAMIL**
+- FINAL remainder — **541–545 / 5 pages**
+
+## Exact next activity
+
+**Speech 19 Gate F Batch 2 FINAL — scans 541–545 / exactly 5 pages.**
