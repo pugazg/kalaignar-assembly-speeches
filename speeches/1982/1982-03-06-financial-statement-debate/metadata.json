@@ -96,7 +96,7 @@
       "541-545 / 5 pages FINAL"
     ],
     "working_split_transition": "525->526",
-    "next_activity": "Gate F Batch 2 FINAL / scans 541-545 / exactly 5 pages",
+    "next_activity": "Gate G Batch 1 / scans 511-540 / exactly 30 pages",
     "gate_e_iteration_page_limit": 10,
     "current_gate_e_batch": "541-545 / 5 pages FINAL / PASS-COMPLETE / 10 corrections",
     "next_gate_e_batch": null,
@@ -108,9 +108,17 @@
     ],
     "gate_f_iteration_page_limit": 30,
     "gate_f_final_remainder_may_be_under_limit": true,
-    "current_gate_f_batch": "511-540 / 30 pages / PASS-COMPLETE",
-    "next_gate_f_batch": "541-545 / 5 pages FINAL",
+    "current_gate_f_batch": "541-545 / 5 pages FINAL / COMPLETE",
+    "next_gate_f_batch": null,
     "planned_gate_f_batches": [
+      "511-540 / 30 pages",
+      "541-545 / 5 pages FINAL"
+    ],
+    "gate_g_iteration_page_limit": 30,
+    "gate_g_final_remainder_may_be_under_limit": true,
+    "current_gate_g_batch": null,
+    "next_gate_g_batch": "511-540 / 30 pages",
+    "planned_gate_g_batches": [
       "511-540 / 30 pages",
       "541-545 / 5 pages FINAL"
     ]
@@ -138,7 +146,7 @@
     "unresolved_reading_count": 0,
     "verified_against_scan": true,
     "outside_wording_imported": false,
-    "next_gate": "Gate F Batch 1 / scans 511-540 / exactly 30 pages",
+    "next_gate": null,
     "gate_c_batches_completed": 4,
     "last_completed_batch": "541-545 / 5 pages FINAL / PASS-COMPLETE",
     "gate_c5_status": "n-a-closed",
@@ -292,13 +300,13 @@
   },
   "translation": {
     "language": "English",
-    "status": "in-progress",
-    "gate_f_status": "in-progress",
+    "status": "translated",
+    "gate_f_status": "complete",
     "gate_g_status": "not-started",
     "verified_against_tamil": false,
-    "translated_scans": "511-540",
-    "translated_printed_pages": "510-539",
-    "translated_page_count": 30,
+    "translated_scans": "511-545",
+    "translated_printed_pages": "510-544",
+    "translated_page_count": 35,
     "total_page_count": 35,
     "gate_f_batch_1_status": "pass-complete",
     "gate_f_batch_1_scan_pages": "511-540",
@@ -317,8 +325,25 @@
     "blocking_question_count": 0,
     "verified_tamil_changes": 0,
     "outside_english_imported": false,
-    "next_gate_f_batch": "541-545 / 5 pages FINAL",
-    "next_gate": "Gate F Batch 2 FINAL / scans 541-545 / exactly 5 pages"
+    "next_gate_f_batch": null,
+    "next_gate": "Gate G Batch 1 / scans 511-540 / exactly 30 pages",
+    "gate_f_batch_2_status": "pass-complete-final",
+    "gate_f_batch_2_scan_pages": "541-545",
+    "gate_f_batch_2_printed_pages": "540-544",
+    "gate_f_batch_2_page_count": 5,
+    "gate_f_batch_2_blocking_questions": 0,
+    "gate_f_batch_2_verified_tamil_changes": 0,
+    "gate_f_batch_2_outside_english_imported": false,
+    "gate_f_batch_2_source_printed_english_scans": [
+      "542"
+    ],
+    "gate_f_batch_2_speaker_intervention_scans": [
+      "544",
+      "545"
+    ],
+    "gate_f_batch_2_terminal_boundary": "545->546 / PASS / scan 546 portrait-back matter excluded",
+    "gate_f_complete": true,
+    "gate_f_completion_note": "35/35 pages translated from final Gate-E-verified Tamil; 0 blockers; 0 Tamil changes; outside English imported=0."
   },
   "release": {
     "status": "not-released",
