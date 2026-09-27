@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 19 Gate F Batch 1 — scans 511–540
+# NEXT CHAT PROMPT — 2007 financial-statement speeches Part 1 / Speech 19 Gate F Batch 2 FINAL — scans 541–545
 
 Continue directly in `pugazg/kalaignar-assembly-speeches`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,7 +8,7 @@ Speeches **1–18 are RELEASED / CLOSED through Gate H** with verified Tamil and
 
 Do not reopen any released speech unless a separate source-backed defect is discovered.
 
-## Speech 19 authoritative Tamil state
+## Speech 19 authoritative state
 
 Working entry:
 
@@ -27,41 +27,32 @@ Source:
 
 Current gates:
 
-- Gate C — **PASS / COMPLETE / 35 of 35 first-pass**
-- Gate C.5 — **N/A / CLOSED — modern 2007 typesetting / 0 historical-glyph corrections**
-- Gate D — **PASS / COMPLETE — 35/35 pages / 34/34 internal transitions / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE — scans 511–545 / 35 of 35 source-verified**
-- cumulative Gate-E corrections — **26 / 26 occurrences / 14 affected scans**
-- unresolved readings — **0**
+- Gate C — **PASS / COMPLETE**
+- Gate C.5 — **N/A / CLOSED**
+- Gate D — **PASS / COMPLETE**
+- Gate E — **PASS / COMPLETE — 35/35 source-verified / 26 corrections / 0 unresolved**
 - Tamil — **VERIFIED / verified_against_scan=true**
-- Gates F–H — **NOT STARTED**
+- Gate F Batch 1 — **PASS / COMPLETE — scans 511–540 / 30 of 35 translated**
+- Gate-F Batch-1 blockers — **0**
+- verified-Tamil changes during Gate F — **0**
+- outside English imported — **0**
+- English — **IN PROGRESS / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
+- scans **541–545** — **NOT TRANSLATED**
+- Gates G–H — **NOT STARTED**
 
-FINAL Batch-4 confirmations:
+## Gate-F Batch-1 fidelity state
 
-- source-printed English on scan **542** — **preserved exactly as printed**
-- speaker changes/interventions on scans **544–545** — **verified / preserved**
-- terminal boundary **545→546** — **PASS / scan 546 portrait-back matter excluded**
-- source-page markers **511→545** — **unchanged / exactly once / ordered**
-- outside wording imported — **0**
-
-Gate-E Batch-4 corrections:
-
-1. scan **541** — `தயாரிக்கப்பட்ட சேஸிஸ்களைக்` → `தயாரிக்கப்படும் சேஸிஸ்களைக்`
-2. scan **542** — `ஃபண்ட்ஸ்` → `பண்ட்ஸ்`
-3. scan **542** — `கொளுவுக்கு` → `தொழுவுக்கு`
-4. scan **543** — `விசாரிக்கப்படவேண்டிய` → `விசாரிக்கப்பட வேண்டிய`
-5. scan **543** — `சதி செய்திருக்கிறோம்` → `சதி செய்கிறோம்`
-6. scan **544** — `இறுதியில் பதில்` → `இறுதியிலே பதில்`
-7. scan **544** — `பதில்சொல்வதற்கோ` → `பதில் சொல்வதற்கோ`
-8. scan **544** — `பலவீனம் ஏற்பட்டுத்த முடியவில்லை` → `பலவீனம் ஏற்படுத்த முடியவில்லை`
-9. scan **544** — `வழக்குகள் நடைபெறுகின்றதே` → `வழக்குகள் நடைபெறுகிறதே`
-10. scan **544** — `நாங்கள் போடவில்லை` → `நாங்கள் போட்டவில்லை`
+- English source-page sections — **511→540 / 30 / exactly once / ordered**
+- page alignment / paragraph order / page-spanning continuations — **preserved**
+- source-printed English on scans **523–525 / 535** — **preserved verbatim**
+- scan **539** source-printed `foundation, weir pie` — **preserved exactly as printed**
+- no OCR, web, Official Reports, alternate anthologies, released English, machine-translation output or other witnesses supplied wording
 
 ## Gate-F translation rule
 
-Gate F translates **only the final Gate-E-verified Tamil**.
+Translate **only the final Gate-E-verified Tamil in `transcript.md`**.
 
-Do not use OCR, web, Official Reports, alternate anthologies, released English, machine translation output, or other witnesses to supply wording.
+Do not use the scans or any outside witness to supply English wording. The source scans remain provenance for the already verified Tamil, but Gate F's sole translation authority is that verified Tamil.
 
 Preserve:
 
@@ -70,38 +61,32 @@ Preserve:
 - paragraph order;
 - quotations and rhetorical questions;
 - figures, dates, money values, names and initials;
-- source-printed English already embedded in the Tamil witness;
-- repetitions and deliberate awkwardness where fidelity requires them.
+- source-printed English already embedded in the verified Tamil;
+- repetitions and source-bound rhetorical awkwardness where fidelity requires it.
 
-Gate F is a translation pass, not a Tamil editing pass. Tamil wording changes during Gate F should be **0** unless a separate concrete source-backed Tamil defect is discovered and explicitly documented.
-
-## Gate-F cadence
-
-Speech 19 has **35 pages**.
-
-Use:
-
-1. **Batch 1 — scans 511–540 / exactly 30 pages**
-2. **Batch 2 FINAL — scans 541–545 / exactly 5 pages**
+Gate F is a translation pass, not a Tamil editing pass. Tamil wording changes should be **0** unless a separate concrete source-backed defect is discovered and explicitly documented.
 
 ## Exact next activity
 
-Perform **Speech 19 Gate F Batch 1 — scans 511–540 / exactly 30 pages**.
+Perform **Speech 19 Gate F Batch 2 FINAL — scans 541–545 / exactly 5 pages**.
 
 Requirements:
 
-1. translate exactly scans **511–540**, using only the final verified Tamil in `transcript.md`;
-2. do not translate scans **541–545** in this activity;
-3. preserve page-by-page alignment and all speaker/interruption structure;
-4. preserve all figures, dates, names, initials, money values and embedded source-English verbatim where already printed in the Tamil witness;
-5. write natural English only where compatible with fidelity; do not paraphrase away argument structure or rhetorical force;
-6. do not silently normalize politically or historically contested claims; translate what the source says;
-7. maintain a Gate-F translation progress record and blocker ledger;
-8. record translation blockers rather than inventing wording;
-9. Tamil changes — **0** unless a separate source-backed defect is discovered;
-10. keep English status **IN PROGRESS / NOT VERIFIED AGAINST TAMIL** after Batch 1;
-11. synchronize Speech README, metadata, canonical transcript/translation working file according to the established repository pattern, translation review controls, source notes, verification log, anthology mapping/source README, handover, root README and this continuation prompt;
-12. exact next after Batch 1 — **Speech 19 Gate F Batch 2 FINAL — scans 541–545 / exactly 5 pages**;
-13. do not begin Gate F FINAL in the same activity.
+1. translate exactly scans **541–545** from the final Gate-E-verified Tamil;
+2. preserve all speaker changes/interventions on scans **544–545**;
+3. preserve source-printed English on scan **542** verbatim where it appears in the verified Tamil;
+4. preserve all figures, dates, money values, names, initials, quotations and rhetorical structure;
+5. preserve page boundaries **541→545** and the locked terminal boundary **545→546**; scan 546 remains excluded;
+6. do not alter the already translated English for scans **511–540** unless a separate concrete translation defect is discovered and documented;
+7. maintain the Gate-F blocker ledger; do not invent wording for any genuine blocker;
+8. verified-Tamil changes — **0** unless separately source-backed and documented;
+9. outside English imported — **0**;
+10. after a clean FINAL batch, English source-page sections must cover **511→545 / 35 / exactly once / ordered**;
+11. after a clean FINAL batch, close Gate F as **COMPLETE / 35 of 35 translated / 0 blockers / 0 Tamil changes**;
+12. English after Gate F remains **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**;
+13. synchronize Speech README, metadata, transcript, translation-review, source-notes, verification-log, anthology mapping/source README, handover, root README and this continuation prompt;
+14. do **not** begin Gate G in the same activity;
+15. exact next after Gate-F closure — **Speech 19 Gate G Batch 1 — scans 511–540 / exactly 30 pages**;
+16. Gate-G final remainder will be **541–545 / 5 pages**.
 
-Do not begin Gate G until all **35/35** pages have completed Gate F.
+Gate G must review the Gate-F English against the final verified Tamil and may refine English only; it must not modify verified Tamil unless a separate concrete source-backed defect is discovered.
