@@ -95,7 +95,7 @@ Treat this 2007 anthology as its own witness.
 - Gate C — **Speeches 1–19 COMPLETE; Speech 19 scans 511–545 / 35 of 35 first-pass / Tamil TRANSCRIBED-NOT-VERIFIED**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–19; Speech 19 modern 2007 typesetting / 0 historical-glyph corrections**
 - Gate D — **PASS / COMPLETE for Speeches 1–19; Speech 19 = 35/35 pages / 34/34 transitions / 0 completeness corrections**
-- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–18; Speech 19 NOT STARTED / exact next Batch 1 scans 511–520**
+- Gate E — **PASS / COMPLETE / Tamil VERIFIED for Speeches 1–18; Speech 19 Batch 1 PASS/COMPLETE / scans 511–520 / 10 of 35 verified / 3 corrections / 0 unresolved / exact next Batch 2 scans 521–530**
 - Gate F — **COMPLETE for Speeches 1–18; Speech 18 29 of 29 translated / 0 blockers / 0 Tamil changes; Speech 19 not started**
 - Gate G — **PASS / COMPLETE / English VERIFIED for Speeches 1–18; Speech 18 29/29 reviewed / 6 refinements / 0 blockers / 0 Tamil changes; Speech 19 not started**
 - Gate H — **Speeches 1–18 PASS / COMPLETE — RELEASED / CLOSED; Speech 19 not started**
@@ -106,7 +106,7 @@ Treat this 2007 anthology as its own witness.
 - Speech 16 — **Gate H PASS / COMPLETE — RELEASED / CLOSED / indexed / canonical bilingual complete**
 - Speech 17 — **Gate C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 37 Gate-E corrections / 43 Gate-G refinements / 0 blockers / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / canonical bilingual complete / multi-date source unit / no single canonical date / single-date indexes intentionally unchanged**
 - Speech 18 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED AGAINST TAMIL / 20 Gate-E corrections / 6 Gate-G refinements / Gate-H wording changes 0 Tamil / 0 English / RELEASED-CLOSED / indexed / canonical bilingual complete**
-- Speech 19 — **Gate C PASS/COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE 35/35 / 34/34 transitions / 0 completeness corrections / Tamil TRANSCRIBED-NOT-VERIFIED / exact next Gate E Batch 1 scans 511–520**
+- Speech 19 — **Gate C PASS/COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E Batch 1 PASS-COMPLETE 10/35 / 3 corrections / 0 unresolved / Tamil PARTIALLY VERIFIED / exact next Gate E Batch 2 scans 521–530**
 
 ## Speech 1 durable Gate-C state
 
@@ -1318,7 +1318,7 @@ Do not begin Speech 19 until Speech 18 Gate H is closed.
 - release — **RELEASED / CLOSED**
 - Speech 19 / scan 511 — **excluded / NOT STARTED**
 
-## Speech 19 durable state after Gate D
+## Speech 19 durable state after Gate E Batch 1
 
 Working entry:
 
@@ -1329,20 +1329,24 @@ Working entry:
 - hard boundaries **510→511 / 545→546** — **PASS**
 - Gate C — **PASS / COMPLETE / 35 of 35 first-pass**
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting / 0 historical-glyph corrections**
-- Gate D — **PASS / COMPLETE — 35/35 pages / 34/34 internal transitions / 0 completeness corrections**
-- source-page markers — **511→545 / exactly once / ordered**
-- missing / duplicate / empty page sections — **0 / 0 / 0**
-- working-split transition **525→526** — **PASS**
-- source-printed English on scans **523–525 / 535 / 542** — **represented**
-- source-printed `foundation, weir pie` on scan **539** — **represented as printed**
-- speaker changes / interventions on scans **544–545** — **represented**
-- scan **546** portrait/back matter — **excluded**
-- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Gate D — **PASS / COMPLETE — 35/35 pages / 34/34 transitions / 0 completeness corrections**
+- Gate E Batch 1 — **PASS / COMPLETE — scans 511–520 / 10 of 35 source-verified**
+- Gate-E corrections — **3 entries / 3 occurrences / scans 518 and 520**
+- unresolved readings — **0**
+- source-page markers — **511→545 / unchanged / exactly once / ordered**
+- **520→521** continuation — **structurally preserved; scan 521 not source-verified or altered**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - outside wording imported — **0**
-- Gates E–H — **NOT STARTED for Speech 19**
+- Gate F–H — **NOT STARTED for Speech 19**
+
+Batch-1 corrections:
+
+1. scan **518** — `1½ நாள் எடுத்து கொண்டு` → `1½ நாள் எடுத்துக் கொண்டு`
+2. scan **520** — `எதிர்பார்க்கப்படுகிறது` → `எதிர்பார்க்கப் படுகிறது`
+3. scan **520** — `கட்டி முடிக்கப்பட்டன` → `கட்டிமுடிக்கப்பட்டன`
 
 ## Exact next activity
 
-Perform **Speech 19 Gate E Batch 1 — scans 511–520 / exactly 10 pages**.
+Perform **Speech 19 Gate E Batch 2 — scans 521–530 / exactly 10 pages**.
 
-Do not begin Gate E Batch 2 in the same activity.
+Do not begin Gate E Batch 3 in the same activity.
