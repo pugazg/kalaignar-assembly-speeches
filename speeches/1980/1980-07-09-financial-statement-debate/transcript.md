@@ -392,3 +392,97 @@ If you speak generally of five acres, are five acres yielding Rs.10,000 and five
 
 On page 7 of the financial statement, Navalar has said that a request has been sent to the Central Government to provide the Rs.42 crore or Rs.60 crore required to settle these agricultural debts. On page 9 too, after saying that the Central Government has been asked, written to, and requested to help cancel these farmers' debts, when he met reporters the next day—
 
+### Source page 502
+
+—the Finance Minister said, “We are going to write a letter.” Since even asking which of these is true and which is contrary to the truth may hurt Navalar's feelings, I wish to ask him modestly which is correct and which is wrong. Was it correct to say that you had already written to the Central Government, or was it correct, when meeting reporters the next day, to say that only now were you going to write to the Government and would do so within a week? I ask Navalar to explain which of these is correct and which is wrong.
+
+The Central Government must provide the money. I too will join you in raising that demand. But what are we going to do if the Central Government does not provide it? You have announced that there is a surplus of Rs.30 lakh. If the Centre does not provide the money, this Government itself must assume responsibility for the Rs.42 crore and pay the banks on behalf of the farmers.
+
+If that Rs.42 crore is included in the overall account, does this financial statement become a deficit statement or not? I expect Navalar to explain that to me. Whether the Central Government agrees or does not agree, the promise was that this debt would certainly be settled—not merely Rs.42 crore, but even if it were Rs.400 crore, it would be repaid to the Reserve Bank in instalments within five years. Our Chief Minister, beating his chest and speaking forcefully to the Central Government, said that even if the Centre did not agree there was no need to worry: whether you give the money or not, we will repay the Reserve Bank in instalments and clear all the farmers' debts.
+
+I am confident that you will not retreat from that statement. But what arrangement are you making for the Rs.42 crore—
+
+### Source page 503
+
+—? It is not here. You say you will tell us later? It is not shown in the accounts. It has not appeared in the financial statement; no allocation has been made. What arrangement are you going to make? If the Central Government does not provide it, are you simply going to throw it aside as a deficit amount? What other course is there?
+
+We are able to read in the newspapers that Maharashtra, after cancelling nearly Rs.49 crore of farmers' debt, has itself made an allocation in its financial statement. Why has no such allocation been made here? The Finance Minister must explain.
+
+The election manifesto made another promise: “At least one person in every family will be compulsorily provided work.” That is one. Second: “There are about one lakh unemployed graduates in Tamil Nadu”—this is the wording in your own statement—“the All India Anna Dravida Munnetra Kazhagam Government announced that Rs.50 a month would be given as assistance, with Rs.6 crore allotted annually. The scheme will be extended to trained teachers who remain unemployed, and they too will be given Rs.50 assistance.” This was stated categorically in the election manifesto.
+
+You even complained that it had not been implemented under Governor's rule and, on behalf of the friendly parties, issued declarations to the extent of saying that an agitation should be conducted over it. But what happened to that scheme in this financial statement? At least one person in every family was to be compulsorily given employment. Where has that scheme gone? Likewise, by your own admission, the unemployed—
+
+### Source page 504
+
+—graduates number one lakh, and you said you would give them assistance at Rs.50 a month. Where is the financial allocation for that in this financial statement? When I ask this, I ask only so that you may explain; I am not asking in order to trap you. I am duty-bound simply to ask where the allocation is.
+
+I saw in the newspapers that Navalar told reporters that Rs.50 lakh had been allotted as a token allocation. According to your own figure there are one lakh people. At Rs.50 each, one lakh people require Rs.50 lakh for a single month. Yet you have allotted Rs.50 lakh in the Budget for an entire year. You yourselves said that for the whole year this would require Rs.6 crore. I therefore wish to ask—not as an accusation, but in order to obtain an explanation—where those Rs.6 crore have been allotted.
+
+Now the food-for-work scheme. Some members—please do not be angry when I say this—spoke as though employment had already been provided to 25 lakh people. Newspapers too carried large headlines saying “employment for 25 lakh people,” or “employment for 23 lakh people,” under Navalar's financial statement.
+
+Our Local Administration Minister, when answering a question here a day or two after Navalar presented the financial statement, said 25 lakh people instead of 23 lakh. A difference of two or three lakh will not make much difference! The Finance Minister said 23 lakh; the Local Administration Minister, answering a question, said 25 lakh. These 25 lakh or 23—
+
+### Source page 505
+
+—lakh people were supplied 55,584 tonnes of rice in 1979-80. This is the figure given in your financial statement. If 55,584 tonnes are converted into kilograms and divided among 23 lakh people, each person receives only 24 kilograms of rice for the entire year. For the 23 lakh people you speak of, if the 55,584 tonnes you say you distributed are converted into kilograms and divided by 23 lakh, each person gets 24 kilograms for the year. That comes to Rs.40 a year; three and a half rupees a month—not a day, three and a half rupees a month—if we take your figure of 23 lakh at face value.
+
+But that is not the truth. You said 23 lakh people worked, but in the very next line you say that only 1,89,000 people—about two lakh people—were actually engaged for this work. If you conceal those two lakh people and say repeatedly that you gave employment to 23 lakh people, then it means that each person was paid only three and a half rupees a month. So that is neither a sound argument nor a sound statistic. I wish to point out—not as an accusation—that this is merely a line in the financial statement prepared in a way that can divert the public, the people who voted.
+
+Navalar said 55,584 tonnes of rice. When answering a question from my friend Kumari Ananthan here, the Local Administration Minister said 64,430 tonnes. Not only that; the Local Administration Minister gave yet another figure. He said that in 1979-80 the Central Government gave us 73,000 tonnes of rice.
+
+### Source page 506
+
+So, according to Navalar's account, after 55,000 tonnes of rice were spent out of the 73,000 tonnes, how much remains? What happened to it? We need explanations of how it was spent.
+
+At this point, it is appropriate for me to mention one more matter. In the 1979-80 financial statement placed before this House, the Government stated categorically:
+
+“An ‘assured employment scheme’ will be implemented in order to provide employment to all educated and uneducated unemployed persons who have no employment opportunity. Under this scheme, every person over eighteen years of age who is unemployed in rural areas may register his or her name seeking work. As far as possible, works will be undertaken within the district so that employment can be provided to them. These works will be implemented under the direct supervision of Government departments, without a (Contractor).”
+
+I ask: have you honoured the assurance given in the 1979-80 financial statement? You assured us that there would be no contractor system and that everything would be handled by Government departments. What happened to that assurance? Yet under this food-for-work scheme, distribution has in many places taken place through the contractor system, and many irregularities have occurred in those distributions. I wish to state that bringing this to the Government's attention is an inescapable duty of mine.
+
+The Chief Minister generally says it quite openly: during elections everyone makes promises; is there any rule that all of them must be kept? He said so even the other day—
+
+### Source page 507
+
+—and asked whether the Dravida Munnetra Kazhagam had not also made promises, citing promises made by the DMK. He even said, “Look at the Budget; you will know.” We awaited the Budget eagerly. I have therefore pointed out here that the promises which you said would be fulfilled are simply not present in the Budget, in the financial statement.
+
+I consider it my duty to give just one example of the way this Government approaches assurances.
+
+This is the Government Assurances Committee's 1979-80 volume. It contains the Fourth Report of the Sixth Legislative Assembly. It gives figures showing how the assurances given in this House were fulfilled, or how many were treated as having been read and recorded, and how many such assurances were completed or recorded.
+
+On page 159, Appendix 2, the assurances given in 1968—that is, in Anna's time—numbered 199. Of these, 197 were fulfilled or treated as read and recorded; only two remained pending. In 1969, 280 assurances were given; 278 were treated as fulfilled or read and recorded; only two remained pending. In 1970, 220 assurances were given; 212 were fulfilled or recorded; eight remained. In 1971, 256 assurances were given; those fulfilled or read and recorded—
+
+### Source page 508
+
+—numbered 250, leaving six. In 1972, 158 assurances were given; 154 were fulfilled or read and recorded, leaving four. In 1973, 252 assurances were given; 219 were fulfilled or read and recorded, leaving 33 pending. In 1974, 420 assurances were given; 318 were treated as fulfilled or read and recorded, leaving 102 pending. In 1975, 416 assurances were given; 286 were treated as fulfilled or read and recorded, leaving 130 pending.
+
+In 1977, 367 assurances were given; 197 were treated as fulfilled or read and recorded, leaving 170 pending. In 1978, you showered 1,266 assurances; only 354 were treated as fulfilled or read and recorded, leaving 912 pending. In 1979, you gave 671 assurances, and all 671 remained pending.
+
+That is how you have fulfilled assurances. The Government Assurances Committee—a committee made up of members elected or appointed from this very House—has recorded these figures in its report. You gave 671 assurances in 1979 and left all 671 pending without fulfilling even one, or even recording one. So perhaps it is truly my offence to ask these rulers what became of their election-time promises. But because I sit in the opposition and am compelled to ask, I must ask.
+
+What policy explanations are there in this financial statement? What are this Government's programmes?
+
+On nationalisation, if our Haja Sheriff were to utter even a word or a single thought against it—
+
+### Source page 509
+
+—I have seen the Communist comrades here leap up in anger. But what importance has this financial statement given to the policy of nationalisation?
+
+During the Dravida Munnetra Kazhagam Government, a law was enacted to nationalise buses district by district. A stay was obtained in the Supreme Court, and the scheme remains blocked today. Meanwhile, the Chief Minister announced that buses in two districts would be nationalised. Unless that stay is lifted, this cannot be done.
+
+I ask the Chief Minister, the Finance Minister, or the Government: if we have faith in Perarignar Anna's policy of nationalisation, then the scheme that the Dravida Munnetra Kazhagam Government progressively implemented and finally extended toward district-wise nationalisation of all buses has now been held up for the past two or three years by a stay in the Supreme Court. The case should be expedited, and a scheme to nationalise all buses should be brought in immediately. I am duty-bound to request that of this Government in this great House.
+
+The financial statement refers to 36 textile mills. I do not understand why this has not registered with, or troubled, the minds of many comrades steeped in the policy of nationalisation. All 36 textile mills are to be run by private parties. And at what kind of time? Navalar himself has said that the textile mills are flourishing and operating profitably. At such a time, must all 36 mills be run by private parties? Even if not all 36, could not the Government take over and run at least 20 of them? Could they not be run on the basis of the nationalisation policy? Such—
+
+### Source page 510
+
+—policies find no place in this financial statement. How can it be wrong for me to point that out?
+
+That is why they said Karunanidhi did not oppose it. They told stories and recited verses about the man who pounded false paddy and lost the paddy in his own hand as well. It is in this financial statement that plenty of false paddy has been pounded. That is what we see here. Election-time promises have all been turned into false paddy, and today the voters have been left with the story of losing even the paddy in hand.
+
+Even so, I do not oppose this financial statement. If I opposed it, I would be taken as opposing even the minimum benefits you have announced. You have announced nearly Rs.1½ crore in tax concessions; I welcome that. I do not oppose the financial statement as a whole, because that would mean opposing those Rs.1½ crore of tax concessions too. That is why I do not oppose it.
+
+At the same time, I cannot praise it. If I praise it, you may become complacent and think, “He himself has praised it; there is nothing more to be done.” I am therefore afraid even to praise you, and I do not praise it.
+
+I point out that election promises have not been fulfilled, and that the schemes announced in the financial statement are merely an eyewash for the poor and ordinary people of this country rather than something that gives them light. With that, I conclude the views of the Dravida Munnetra Kazhagam on the financial statement. Vanakkam.
+
