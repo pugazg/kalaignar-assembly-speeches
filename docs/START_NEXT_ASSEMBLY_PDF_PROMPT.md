@@ -15,10 +15,11 @@ The next source PDF is attached. Treat the attached scan as a **new controlling 
 
 1. Read `docs/ARCHIVAL_WORKFLOW.md` completely before doing any work.
 2. Read `docs/HANDOVER_2007_INDUSTRIAL_SPEECHES.md` completely. The 2007 industrial-speeches PDF recorded there is **finished and locked**; Speeches 1–10 are fully released through Gate H.
-3. Inspect the repository before creating anything. Search for the new PDF/source, printed title, speech dates/labels and plausible canonical entries. If work already exists for this new source, continue it rather than creating duplicates.
-4. Inspect the **actual attached PDF scan** before creating metadata. Do not rely on the filename, catalogue wording, OCR or assumptions from the previous anthology.
-5. Inspect title/front matter, enough interior pages to understand structure, and the physical ending of the PDF.
-6. Establish the actual PDF page count and, when the bytes are available, record exact filename, file size and SHA-256.
+3. Read `docs/HANDOVER_2007_FINANCIAL_STATEMENT_SPEECHES_PART_1.md` completely. The 2007 financial-statement speeches Part-1 PDF recorded there is **finished and locked**; all 19 mapped speech units have completed their archival workflow, subject to the recorded multi-date and parallel-witness indexing exceptions.
+4. Inspect the repository before creating anything. Search for the new PDF/source, printed title, speech dates/labels and plausible canonical entries. If work already exists for this new source, continue it rather than creating duplicates.
+5. Inspect the **actual attached PDF scan** before creating metadata. Do not rely on the filename, catalogue wording, OCR or assumptions from the previous anthology.
+6. Inspect title/front matter, enough interior pages to understand structure, and the physical ending of the PDF.
+7. Establish the actual PDF page count and, when the bytes are available, record exact filename, file size and SHA-256.
 
 ## Source authority
 
@@ -32,7 +33,7 @@ OCR/parsed text may assist transcription but is never authoritative. If a readin
 
 ## Released material is locked
 
-Do **not** restart, retranscribe, retranslate or modify any already released Speech 1–10 from the completed 2007 industrial anthology merely because the new PDF overlaps a date, subject or speech.
+Do **not** restart, retranscribe, retranslate or modify released layers from either completed 2007 anthology—the industrial speeches source or the financial-statement speeches Part-1 source—merely because the new PDF overlaps a date, subject or speech.
 
 If the new PDF contains material overlapping an existing released speech, treat the new PDF as a separate source witness during preflight/mapping. Document the overlap. Do not silently merge editions or replace the existing canonical source layer.
 
