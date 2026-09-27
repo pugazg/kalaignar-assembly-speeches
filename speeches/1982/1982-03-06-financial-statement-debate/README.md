@@ -68,9 +68,9 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 
 - source intake — **PASS / COMPLETE**
 - Gate C setup — **PASS / COMPLETE**
-- Gate C transcription — **IN PROGRESS / Batches 1–3 PASS-COMPLETE / scans 511–540 / 30 of 35 pages**
-- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
-- Gate C.5 — **PROVISIONALLY N/A / not closed**
+- Gate C transcription — **PASS / COMPLETE / scans 511–545 / 35 of 35 pages first-pass**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Gate C.5 — **PROVISIONALLY N/A / explicit disposition next**
 - Gates D–H — **NOT STARTED**
 - release — **NOT RELEASED**
 - Speech 18 — **RELEASED / CLOSED / locked**
@@ -83,7 +83,7 @@ Fixed cadence: **10 source pages per iteration**; only the final remainder may b
 1. Batch 1 — **511–520 / printed pp.510–519 / exactly 10 pages / PASS-COMPLETE**
 2. Batch 2 — **521–530 / printed pp.520–529 / exactly 10 pages / PASS-COMPLETE**
 3. Batch 3 — **531–540 / printed pp.530–539 / exactly 10 pages / PASS-COMPLETE**
-4. Batch 4 FINAL — **541–545 / printed pp.540–544 / exactly 5 pages**
+4. Batch 4 FINAL — **541–545 / printed pp.540–544 / exactly 5 pages / PASS-COMPLETE**
 
 Batch 1 lies wholly inside part021. Batch 2 crossed the part021→part022 working-split boundary at **525→526** and that transition is **PASS / preserved**.
 
@@ -137,8 +137,26 @@ Batch 1 lies wholly inside part021. Batch 2 crossed the part021→part022 workin
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 - Gates D–H — **NOT STARTED**
 
+## Gate C Batch 4 FINAL result
+
+**PASS / COMPLETE — scans 541–545 / printed pp.540–544 / exactly 5 pages; cumulative 35 of 35 first-pass transcribed.**
+
+- source-page markers — **511→545 / 35 / exactly once / ordered**
+- FINAL source coverage — **part022 local 16–20 = scans 541–545**
+- **542→543** continuation — **preserved**
+- source-printed English on scan **542** — **preserved as printed**
+- speaker changes / interventions on scans **544–545** — **preserved**
+- hard outgoing boundary **545→546** — **PASS / scan 546 closing portrait-back matter excluded**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Gate C — **PASS / COMPLETE / 35 of 35**
+- Gate C.5 — **PROVISIONALLY N/A / explicit disposition next**
+- Gates D–H — **NOT STARTED**
+- release — **NOT RELEASED**
+
 ## Exact next activity
 
-Perform **Speech 19 Gate C Batch 4 FINAL — scans 541–545 / exactly 5 pages**.
+Perform **Speech 19 Gate C.5 disposition + Gate D structural completeness audit**.
 
-Do not begin Gate C.5 or Gate D in the same iteration.
+Do not begin Gate E in the same activity.
