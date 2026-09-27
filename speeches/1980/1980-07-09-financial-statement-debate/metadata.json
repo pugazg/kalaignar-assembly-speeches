@@ -86,7 +86,7 @@
       "492-501 / 10 pages",
       "502-510 / 9 pages FINAL"
     ],
-    "next_activity": "Gate G FINAL scans 482-510 / exactly 29 pages",
+    "next_activity": "Gate H archival/release audit",
     "gate_e_iteration_page_limit": 10,
     "current_gate_e_batch": "502-510 / 9 pages FINAL / PASS-COMPLETE / 3 corrections",
     "next_gate_e_batch": null,
@@ -104,8 +104,8 @@
     ],
     "gate_g_iteration_page_limit": 30,
     "gate_g_final_remainder_may_be_under_limit": true,
-    "current_gate_g_batch": null,
-    "next_gate_g_batch": "482-510 / 29 pages FINAL"
+    "current_gate_g_batch": "482-510 / 29 pages FINAL / PASS-COMPLETE / 6 refinements",
+    "next_gate_g_batch": null
   },
   "transcription": {
     "language": "Tamil",
@@ -130,7 +130,7 @@
     "unresolved_reading_count": 0,
     "verified_against_scan": true,
     "outside_wording_imported": false,
-    "next_gate": "Gate F FINAL",
+    "next_gate": "Gate H archival/release audit",
     "gate_c_batches_completed": 3,
     "last_completed_batch": "502-510 / 9 pages FINAL",
     "gate_c5_status": "n-a-closed",
@@ -186,10 +186,10 @@
   },
   "translation": {
     "language": "English",
-    "status": "translated-not-verified",
+    "status": "verified",
     "gate_f_status": "complete",
-    "gate_g_status": "not-started",
-    "verified_against_tamil": false,
+    "gate_g_status": "pass-complete",
+    "verified_against_tamil": true,
     "translated_scans": "482-510",
     "translated_page_count": 29,
     "total_page_count": 29,
@@ -197,7 +197,7 @@
     "verified_tamil_changes": 0,
     "outside_english_imported": false,
     "source_text": "Gate-E-verified Tamil in transcript.md",
-    "next_gate": "Gate G FINAL",
+    "next_gate": "Gate H archival/release audit",
     "translated_printed_pages": "481-509",
     "source_page_marker_count": 29,
     "source_page_marker_range": "482-510",
@@ -217,6 +217,32 @@
       "verified_against_tamil": false,
       "outside_english_imported": false,
       "source_printed_english_preserved": true,
+      "source_page_markers_preserved": true,
+      "terminal_boundary": "510->511 PASS / scan 511 Speech 19 start excluded"
+    },
+    "reviewed_scans": "482-510",
+    "reviewed_printed_pages": "481-509",
+    "reviewed_page_count": 29,
+    "gate_g_refinements": 6,
+    "gate_g_affected_scans": 6,
+    "gate_g_blocking_issue_count": 0,
+    "gate_g": {
+      "status": "pass-complete",
+      "source_pages": "482-510",
+      "printed_pages": "481-509",
+      "page_count": 29,
+      "batch_count": 1,
+      "batches": [
+        "482-510 / 29 pages FINAL"
+      ],
+      "iteration_page_limit": 30,
+      "refinement_count": 6,
+      "affected_scan_count": 6,
+      "blocking_issue_count": 0,
+      "verified_tamil_changes": 0,
+      "verified_against_tamil": true,
+      "outside_english_imported": false,
+      "source_printed_english_changes": 0,
       "source_page_markers_preserved": true,
       "terminal_boundary": "510->511 PASS / scan 511 Speech 19 start excluded"
     }
