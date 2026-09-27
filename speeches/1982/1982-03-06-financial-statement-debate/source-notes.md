@@ -318,8 +318,25 @@ Corrections:
 - English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
 - Gate G — **PASS / COMPLETE**
 
+## Gate H archival/release audit
+
+**PASS / COMPLETE — RELEASED / CLOSED.**
+
+- Tamil markers — **511→545 / 35/35 / exactly once / ordered**
+- English source-page sections — **511→545 / 35/35 / exactly once / ordered**
+- merged transitions — **34/34 PASS / no mechanical duplication or omission**
+- continuations **520→521 / 525→526 / 530→531 / 542→543** — **PASS**
+- Gate-E corrections — **26 / rechecked / present**
+- Gate-G refinements — **14 / rechecked / present**
+- source-printed English **523–525 / 535 / 542** — **preserved verbatim**
+- scan **539** `foundation, weir pie` — **preserved exactly**
+- speaker changes/interventions **544–545** — **preserved**
+- hard boundaries **510→511 / 545→546** — **PASS**
+- Gate-H wording changes — **0 Tamil / 0 English**
+- `translation.md` — **released pointer**
+- date **1982-03-06** — **indexed**
+- release — **RELEASED / CLOSED**
+
 ## Exact next
 
-**Speech 19 Gate H archival/release audit.**
-
-Do not release or index until Gate H passes.
+This source workflow is **COMPLETE**. Proceed only with a new controlling source.
