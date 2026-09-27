@@ -334,3 +334,28 @@ Genuine source-visible forms retained include scan 482 `மாண்புமி
 - English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL / verified_against_tamil=false**
 - exact next — **Gate G FINAL / scans 482–510 / exactly 29 pages**
 - do not begin — **Gate H / Speech 19**
+
+## Gate G FINAL closure
+
+**PASS / COMPLETE — scans 482–510 / printed pp.481–509 / 29 of 29 English source-page sections reviewed.**
+
+- review authority — **final Gate-E-verified Tamil in `transcript.md` only**
+- Gate-G batching — **one FINAL iteration / 29 pages**
+- refinements — **6 entries / 6 occurrences / 6 affected scans**
+- blocking fidelity issues — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-page boundaries / continuations — **preserved**
+- source heading/date / speaker label — **preserved structurally**
+- figures / quotations / repetitions / rhetorical questions / interventions — **preserved**
+- source-printed English `Minimum Level of Consumption` / `"5 acres owning"` / `(Contractor)` — **preserved verbatim**
+- hard boundary **510→511** — **PASS / Speech 19 excluded**
+- English — **VERIFIED AGAINST TAMIL / verified_against_tamil=true**
+- detailed before→after ledger — **`translation-review.md`**
+
+## Gate-G disposition
+
+- Gate G — **PASS / COMPLETE / 29 of 29**
+- Gate H — **READY / NOT STARTED / NOT RELEASED**
+- exact next — **Speech 18 Gate H archival/release audit**
+- do not begin — **Speech 19**
