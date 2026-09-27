@@ -71,7 +71,7 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 - Gate C transcription — **PASS / COMPLETE / scans 511–545 / 35 of 35 pages first-pass**
 - Gate C.5 — **N/A / CLOSED / 0 historical-glyph corrections**
 - Gate D — **PASS / COMPLETE / 35/35 pages / 34/34 internal transitions / 0 completeness corrections**
-- Gate E — **IN PROGRESS / Batch 1 PASS-COMPLETE / scans 511–520 / 10 of 35 source-verified / 3 corrections / 0 unresolved**
+- Gate E — **IN PROGRESS / Batches 1–2 PASS-COMPLETE / scans 511–530 / 20 of 35 source-verified / 7 cumulative corrections / 0 unresolved**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - Gates F–H — **NOT STARTED**
 - release — **NOT RELEASED**
@@ -211,8 +211,33 @@ Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**.
 2. **scan 520** — `எதிர்பார்க்கப்படுகிறது` → `எதிர்பார்க்கப் படுகிறது`.
 3. **scan 520** — `கட்டி முடிக்கப்பட்டன` → `கட்டிமுடிக்கப்பட்டன`.
 
+## Gate E Batch 2 — scans 521–530
+
+**PASS / COMPLETE — printed pp.520–529 / exactly 10 pages; cumulative 20 of 35 source-verified.**
+
+- source-fidelity corrections — **4 entries / 4 occurrences / 3 affected scans**
+- affected scans — **521 / 529 / 530**
+- cumulative Gate-E corrections — **7**
+- cumulative affected scans — **5**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- source-page markers — **511→545 / unchanged / exactly once / ordered**
+- **520→521** continuation — **PASS / source fidelity verified**
+- working-split transition **525→526 / part021→part022** — **PASS / source fidelity preserved**
+- source-printed English on scans **523–525** — **preserved as printed**
+- scan **531** — **not source-verified or altered**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- Gate F — **blocked until all 35 pages complete Gate E**
+
+### Gate-E Batch-2 correction ledger
+
+1. **scan 521** — `இந்த அறிவிப்பை பார்த்தவுடன்` → `இந்த அறிவிப்பைப் பார்த்தவுடன்`.
+2. **scan 529** — `பெருந்தலைவர் காமராஜ் அவர்கள் காலத்திலிருந்து` → `பெரும் தலைவர் காமராஜ் அவர்கள் காலத்திலிருந்து`.
+3. **scan 529** — `இல்லை நாங்கள் பத்து வயதுக்குப் போடுவோம்` → `இல்லை நாங்கள் பத்து வயதுக்கும் போடுவோம்`.
+4. **scan 530** — `முதலமைச்சர் அவர்கள் மேடைவாயிலே எடுத்துக் கூறியிருக்கிறார்கள்` → `முதலமைச்சர் அவர்கள் மேடைவாயில் எடுத்துக் கூறியிருக்கிறார்கள்`.
+
 ## Exact next activity
 
-Perform **Speech 19 Gate E Batch 2 — scans 521–530 / exactly 10 pages**.
+Perform **Speech 19 Gate E Batch 3 — scans 531–540 / exactly 10 pages**.
 
-Do not begin Gate E Batch 3 in the same activity.
+Do not begin Gate E Batch 4 in the same activity.
