@@ -930,7 +930,7 @@ Source-visible final-batch forms retained without normalization:
 
 **PASS / COMPLETE — scans 482–491 / exactly 10 pages; cumulative 10 of 29 source-verified.**
 
-- corrections — **14 entries / 14 occurrences / 8 affected scans**
+- corrections — **13 entries / 13 occurrences / 8 affected scans**
 - unresolved — **0**
 - outside wording imported — **0**
 - scans **492–510** changed — **0**
