@@ -54,6 +54,39 @@ No wording was imported from OCR, the web, Official Reports, alternate anthologi
 - exact next — **Gate F Batch 2 FINAL / scans 541–545 / exactly 5 pages**
 - do not begin — **Gate G**
 
+## Gate F — Batch 2 FINAL / scans 541–545
+
+**PASS / COMPLETE — final 5 pages translated; cumulative 35 of 35.**
+
+Translation authority: the final Gate-E-verified Tamil in `transcript.md` only.
+
+- translated scans — **541–545 / printed pp.540–544 / 5 pages**
+- cumulative English source-page sections — **511→545 / 35 / exactly once / ordered**
+- blocking translation questions — **0**
+- verified-Tamil changes — **0**
+- outside English / outside-witness wording imported — **0**
+- source-printed English on scan **542** — **preserved verbatim**
+- speaker changes / interventions on scans **544–545** — **preserved**
+- page boundaries **541→545** — **preserved**
+- hard terminal boundary **545→546** — **PASS / scan 546 excluded**
+- Tamil — **VERIFIED / unchanged / verified_against_scan=true**
+- English — **TRANSLATED / NOT VERIFIED AGAINST TAMIL**
+- `verified_against_tamil=false`
+
+## Gate-F closure
+
+**COMPLETE — scans 511–545 / 35 of 35 pages translated.**
+
+- Gate-F batching — **30 pages + 5-page FINAL remainder**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-page sections — **511→545 / 35 / exactly once / ordered**
+- source-printed English — **preserved**
+- Gate G — **READY / NOT STARTED**
+
 ## Exact next activity
 
-Translate **Speech 19 Gate F Batch 2 FINAL — scans 541–545 / exactly 5 pages** from the final Gate-E-verified Tamil only.
+Review **Speech 19 Gate G Batch 1 — scans 511–540 / exactly 30 pages** against the final verified Tamil.
+
+Do not begin Gate G FINAL scans 541–545 in the same activity.
