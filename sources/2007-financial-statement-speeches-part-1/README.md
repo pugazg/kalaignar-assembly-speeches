@@ -57,7 +57,7 @@ All **19** printed speech units were mapped and then boundary-rechecked. See:
 
 [`mapping.md`](./mapping.md)
 
-Speeches **1–18 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 18 / 09.07.1980 is indexed under its unique canonical date. Speech 19 / 06.03.1982 source intake + Gate C setup is **PASS / COMPLETE**; transcription is **NOT STARTED / 0 of 35**, with Batch 1 scans **511–520** next. Speech 17 remains a source-preserved multi-date unit and is intentionally absent from the single-date indexes. Speech 12 / 07.03.1973 is preserved at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent released parallel witness** to the separately released `1973-03-07-financial-statement-reply`. Its canonical bilingual transcript is complete; Gate H made **0 Tamil / 0 English wording changes**. To avoid a second canonical same-date entry, `data/speeches.json` and the root dated speech table intentionally retain only the existing `1973-03-07-financial-statement-reply` index record; the anthology witness remains discoverable through this source package and repository status sections.
+Speeches **1–18 are RELEASED / CLOSED through Gate H** with verified Tamil and verified English. Speech 18 / 09.07.1980 is indexed under its unique canonical date. Speech 19 / 06.03.1982 source intake + Gate C setup is **PASS / COMPLETE**; Gate C Batch 1 is **PASS / COMPLETE — scans 511–520 / 10 of 35 first-pass**, with Batch 2 scans **521–530** next. Speech 17 remains a source-preserved multi-date unit and is intentionally absent from the single-date indexes. Speech 12 / 07.03.1973 is preserved at `speeches/1973/1973-03-07-financial-statement-debate/` as an **independent released parallel witness** to the separately released `1973-03-07-financial-statement-reply`. Its canonical bilingual transcript is complete; Gate H made **0 Tamil / 0 English wording changes**. To avoid a second canonical same-date entry, `data/speeches.json` and the root dated speech table intentionally retain only the existing `1973-03-07-financial-statement-reply` index record; the anthology witness remains discoverable through this source package and repository status sections.
 
 ## Whole-speech batching policy
 
@@ -1028,13 +1028,27 @@ Source-visible final-batch forms retained without normalization:
 - hard boundaries **510→511 / 545→546** — **PASS**
 - part021 coverage — **scans 511–525 / local 11–25 / 15 pages / integrity metadata complete**
 - part022 coverage — **scans 526–545 / local 1–20 / 20 pages / split total 21 pages**
-- part022 exact split bytes / SHA-256 — **not recorded in live-main controls; not guessed**
+- part022 integrity — **21 pages / 15,522,557 bytes / SHA-256 `7fc6e4fb4e264c9c4b836150549fc0c8c45458bc9a3869ac313ff6708fb5ceed`**
 - Gate C cadence — **511–520 / 521–530 / 531–540 / 541–545 FINAL**
-- Gate C transcription — **NOT STARTED / 0 of 35**
+- Gate C transcription — **IN PROGRESS / Batch 1 PASS-COMPLETE / 10 of 35**
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 - outside wording imported — **0**
 - Speech 18 — **RELEASED / CLOSED / locked**
 
+## Speech 19 Gate C Batch 1 result
+
+**PASS / COMPLETE — scans 511–520 / exactly 10 pages; cumulative 10 of 35 first-pass transcribed.**
+
+- source-page markers — **511→520 / 10 / exactly once / ordered**
+- unresolved first-pass readings — **0**
+- outside wording imported — **0**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- scan **520** ends at **`இந்த`** and remains open into scan 521
+- scan **521** wording imported — **0**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+- part022 integrity — **21 pages / 15,522,557 bytes / SHA-256 `7fc6e4fb4e264c9c4b836150549fc0c8c45458bc9a3869ac313ff6708fb5ceed`**
+- Batch 2 crosses **525→526 / part021→part022**
+
 ## Exact next activity
 
-**Speech 19 Gate C Batch 1 — scans 511–520 / exactly 10 pages.**
+**Speech 19 Gate C Batch 2 — scans 521–530 / exactly 10 pages.**
