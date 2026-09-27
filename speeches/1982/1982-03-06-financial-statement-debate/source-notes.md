@@ -176,8 +176,31 @@ Corrections:
 - scan **520** — `எதிர்பார்க்கப்படுகிறது` → `எதிர்பார்க்கப் படுகிறது`
 - scan **520** — `கட்டி முடிக்கப்பட்டன` → `கட்டிமுடிக்கப்பட்டன`
 
+## Gate E Batch 2 source-fidelity verification
+
+**PASS / COMPLETE — scans 521–530 / printed pp.520–529 / exactly 10 pages; cumulative 20 of 35 source-verified.**
+
+- sources — part021 local **21–25 / scans 521–525** + part022 local **1–5 / scans 526–530**
+- correction ledger — **4 entries / 4 occurrences / scans 521, 529, 530**
+- cumulative corrections — **7**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- markers **511→545** — **unchanged / ordered**
+- **520→521** continuation — **PASS**
+- **525→526** split transition — **PASS / preserved**
+- source-printed English on scans **523–525** — **preserved exactly as printed**
+- scan **531** — **not source-verified or altered**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Corrections:
+
+- scan **521** — `இந்த அறிவிப்பை பார்த்தவுடன்` → `இந்த அறிவிப்பைப் பார்த்தவுடன்`
+- scan **529** — `பெருந்தலைவர் காமராஜ் அவர்கள் காலத்திலிருந்து` → `பெரும் தலைவர் காமராஜ் அவர்கள் காலத்திலிருந்து`
+- scan **529** — `இல்லை நாங்கள் பத்து வயதுக்குப் போடுவோம்` → `இல்லை நாங்கள் பத்து வயதுக்கும் போடுவோம்`
+- scan **530** — `முதலமைச்சர் அவர்கள் மேடைவாயிலே எடுத்துக் கூறியிருக்கிறார்கள்` → `முதலமைச்சர் அவர்கள் மேடைவாயில் எடுத்துக் கூறியிருக்கிறார்கள்`
+
 ## Exact next
 
-**Speech 19 Gate E Batch 2 — scans 521–530 / exactly 10 pages.**
+**Speech 19 Gate E Batch 3 — scans 531–540 / exactly 10 pages.**
 
-Do not begin Gate E Batch 3 in the same activity.
+Do not begin Gate E Batch 4 in the same activity.
