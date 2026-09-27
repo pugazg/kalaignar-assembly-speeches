@@ -255,8 +255,24 @@ Corrections:
 - scan **544** — `வழக்குகள் நடைபெறுகின்றதே` → `வழக்குகள் நடைபெறுகிறதே`
 - scan **544** — `நாங்கள் போடவில்லை` → `நாங்கள் போட்டவில்லை`
 
+## Gate F Batch 1 translation
+
+**PASS / COMPLETE — scans 511–540 / printed pp.510–539 / exactly 30 pages; cumulative 30 of 35 translated.**
+
+- authority — **final Gate-E-verified Tamil only**
+- English source-page sections — **511→540 / exactly once / ordered**
+- blockers — **0**
+- verified-Tamil changes — **0**
+- outside English imported — **0**
+- source-visible English on **523–525 / 535** — **preserved verbatim**
+- scan **539** `foundation, weir pie` — **preserved exactly**
+- page-spanning continuations / paragraph order / figures / names — **preserved**
+- Tamil — **VERIFIED / unchanged**
+- English — **IN PROGRESS / NOT VERIFIED AGAINST TAMIL**
+- scans **541–545** — **untranslated**
+
 ## Exact next
 
-**Speech 19 Gate F Batch 1 — scans 511–540 / exactly 30 pages.**
+**Speech 19 Gate F Batch 2 FINAL — scans 541–545 / exactly 5 pages.**
 
-Use the final Gate-E-verified Tamil only. Do not begin the final Gate-F remainder in the same activity.
+Use the verified Tamil only. Do not begin Gate G in the same activity.
