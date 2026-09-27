@@ -490,3 +490,99 @@ During the time when Perunthalaivar Kamaraj was Chief Minister, the noon-meal sc
 
 Yesterday the Chief Minister put forward from the platform a new plan, announcement or administrative idea. A question arose about it here as well, and was later amicably settled. He said that the scheme would be run through mothers. Perhaps what he meant was that no one should commit wrongdoing in a scheme concerning children; mothers alone truly understand a child's hunger, and therefore he would implement the scheme through those mothers. I offer an alternative suggestion. Rather than saying that mothers as a group have an interest in the scheme, if you bear in mind that it is the actual mother of each child who has that concern, then suppose fifty paise is spent on each child for this nutritious food—half a rupee—that comes to fifteen rupees for thirty days. How nutritious food is to be supplied for eight annas, I do not know. Even so, take a slightly larger sum—one rupee. Even if the nutritious food is to be supplied within eight annas, the Chief Minister may think that because I have said one rupee, he ought to state a slightly larger amount still. Even if you say here that nutritious food will be provided for one rupee, I wish to say this:
 
+### Source page 531
+
+Instead of creating a society of mothers, an association, or an administrative arrangement and sending the food to the children through them, give it to the mothers in the individual poor households: “Here, mother, eight annas a day; thirty times eight annas is Rs.15. Use this to give the child a nutritious midday meal.” Then it will go directly into those children's stomachs.
+
+Otherwise, before it reaches those children it will have to pass through many stomachs. When we speak of mothers in this context, no other mother can be closer than the child's own mother. Let us not identify a few mothers and then debate exceptions. If the amount is calculated at eight annas a day, or one rupee a day, for a month and given to the proper mother, the nutritious food will reach the child properly. I place this constructive suggestion here so that, even if you reject it, you cannot ask whether I offered any constructive idea.
+
+Today, in order to implement this scheme, taxes amounting to Rs.1.38 crore have been imposed. Under a Government that said it would not impose taxes at all, taxes to the tune of Rs.38 crore have been imposed. At what time? The Revenue Minister keeps saying, as a play on words, that prohibition has been “relaxed to a large extent.” But what has actually been relaxed? The signboards that used to hang high at arrack and toddy shops have now merely been lowered and hung a little closer to the ground. Apart from that, I do not know of anything else that has been relaxed. It is almost as though—
+
+### Source page 532
+
+—prohibition has been repealed, and at a time when nearly Rs.100 crore in revenue is coming from it, they speak of Rs.38 crore in taxes. A tax has been imposed on silk. At the very time when it is said that nutritious food will be given to children, taxes have been imposed on biscuits, sweets and chocolates used by children. I know that all these are the kind of taxes that will be withdrawn after members argue about them. It is a customary practice of Finance Ministers to impose some such taxes, have members speak about them, and finally, expecting loud applause in the House, announce that those taxes have been withdrawn. I too have been a Finance Minister; I speak from experience. So the taxes imposed on biscuits, sweets and chocolates, and the tax imposed on silk, may be removed in that manner.
+
+Silk traders met us. I asked them, “Have you come about *pattu*—silk?” They said, “Yes, it is indeed about silk that we have come.” So they must be saved from being ruined—*pattu pogaamal*—and it is the Government's responsibility to ensure that the handloom industry too is not ruined. Everyone calls the sales tax introduced by Rajaji a *Kamadhenu*. Even Rajaji, when he introduced sales tax, did not tax handloom goods. I am told that even a one-per-cent tax that was imposed by mistake was immediately withdrawn.
+
+Even in the receipts-and-expenditure plan presented by Central Minister Pranab Mukherjee, if polyester is produced in combination with handloom weaving, that polyester is exempt from tax by the Central Government—
+
+### Source page 533
+
+—as well. Therefore, on behalf of the Dravida Munnetra Kazhagam, which has worked for a very long time to improve the lives of handloom weavers and wipe away their tears, I ask this Government to remember that our earlier Governments were accustomed to giving handloom weavers concessions such as rebates, not imposing taxes on them. The Government should therefore consider removing both this silk tax and the taxes imposed on biscuits, chocolates and sweets in the name of nutritious food for children.
+
+When I say these taxes should all be removed, you should not think I mean the other taxes may remain. Instead of imposing this Rs.38 crore in sales taxes, you say sales tax will yield Rs.620 crore. If, while collecting that Rs.620 crore, the collection is pursued a little more vigorously—with what is called a “drive”—then the Rs.38 crore you expect can certainly be obtained without raising these taxes or imposing new ones; this Rs.30 crore can be obtained.
+
+In the time of Mutharignar Rajaji, traders with purchases of Rs.10,000 were exempt from sales tax. When Perarignar Anna was Chief Minister, that limit of Rs.10,000 was raised to Rs.15,000 and an exemption was given. After Anna's death, when I assumed that responsibility, as a first step the limit of Rs.15,000 was raised to Rs.25,000 and small traders were given exemption.
+
+After that, a one-man committee was constituted under an officer, Thiru S. P. Srinivasan, I.A.S. It recommended that exemption might be given up to Rs.35,000. Accepting the recommendation, we gave an exemption not merely up to Rs.35,000 but up to Rs.50,000. Navalar will remember very well—
+
+### Source page 534
+
+—and those who were in the Government then, including ministers and others now sitting in the opposition benches, and the Speaker too, will remember—that the Dravida Munnetra Kazhagam Government abolished multi-point tax on 59 commodities and made it a single-point tax. But traders say that today's Government has reduced those 59 to 58 and subjected jaggery to multi-point tax. Did not the Kazhagam Government remove multi-point tax on 59 commodities? Was not a single-point tax imposed on them? Apart from those, among the remaining commodities subject to multi-point tax, you point to Rs.620 crore. Of that Rs.620 crore, Rs.250 crore is waiting to come to you through multi-point tax alone. On this Rs.250 crore of tax you have raised the rate from four per cent to five per cent—an increase of one percentage point. Through that one-per-cent increase on Rs.250 crore, you are going to get Rs.60 crore from multi-point tax; besides that, through the other taxes you have imposed, another Rs.50 crore. Thus you have imposed taxes amounting to roughly Rs.100 or Rs.110 crore.
+
+This Government receives more than Rs.100 crore in revenue as a result of the repeal of prohibition. After imposing more than Rs.100 crore in taxes, to say that only Rs.38 crore in taxes has been imposed is something I cannot accept economically. I am duty-bound to state that these taxes will certainly yield this Government more than Rs.110 crore.
+
+On one side there are tax increases, and on another there are new taxes. At the same time, tax concessions running into crores are also being granted. I wish to place before the House one such regrettable matter that nevertheless has to be said.
+
+### Source page 535
+
+GOVERNMENT OF TAMIL NADU
+
+ABSTRACT : Steel Rerolling Mills - Tax - Tamil Nadu General Sales Tax 1959 and Central Sales Tax 1956 - Levy of tax - Levy of tax on the sale of re-rolled products of Iron and Steel - for the period from 19th January 1976 - Exemption - Ordered.
+
+Commercial Taxes and Religious Endowment G. O. Ms. No. 103, Dated 24.1.1982
+
+The Government after careful examination and due consideration have decided to accept the recommendation of the Task Force and order that the end products coming under Item 4 of the Schedule II such as M. S. Rounds, Rolls, and rods, etc. manufactured by the Steel Rolling Mills in Tamil Nadu out of our raw materials specified in Item 4 of Schedule II to the Tamil Nadu General Sales Tax Act which had already suffered tax under the Tamil Nadu General Sales Tax Act be exempted from the tax payable under the Tamil Nadu General Sales Tax Act and the Central Sales Tax Act.
+
+Thus a tax exemption has been granted. For how long?
+
+The exemption will take effect retrospectively from 19th January 1976".
+
+Accordingly, from 1976 to 1982, the tax payable by the re-rolling mills to this Government comes to approximately seven or eight crore rupees. These seven or eight crore rupees need not be paid. By saying that it need not be paid, with retrospective effect from 19.1.1976, this Government has lost about eight crore rupees. At a time when you are imposing Rs.38 crore in taxes, we must remember that we have lost Rs.8 crore. When it comes to cancelling farmers' debts, if farmers fail to repay their loans, this Government portrays them in pictures; yet quietly, without anyone knowing—
+
+### Source page 536
+
+—through a Government Order, it has granted nearly Rs.8 crore in tax exemption to the owners of steel rolling mills. I cannot refrain from pointing that out. Likewise, because of a hasty decision taken by this Government concerning village officers, this Government, under a Supreme Court judgment, is paying them Rs.5 crore a year in salary even though they have no work. Thus, even by the account I have cited here, we are deliberately losing Rs.13 crore. For what reason or under what circumstances the Rs.8 crore has been given up, I do not wish to elaborate. But after removing and cancelling Rs.8 crore from the tax liability of the steel re-rolling mills, and paying Rs.5 crore to the village officers, if this Government is deliberately losing Rs.13 crore, how can it be wrong for me to accuse the Government of that? That is my question.
+
+Next, we must also consider whether, if the many wasteful and needless expenditures had been avoided, there would have been any need to impose taxes like these or to announce a deficit Budget.
+
+The World Tamil Conference was held. That a conference for Tamil should be held on a world scale is something all of us can accept. Arignar Anna conducted that conference and made grand arrangements. It was a conference praised across the State—and when I say the State, I mean that it was praised by many countries of the world. A World Tamil Conference was held on behalf of this Government too. I do not wish to enter into various other minor issues concerning what happened there. But a promise was made in this House that the full accounts of the World Tamil Conference would be placed before the House. So far those accounts have not been placed here. During the World Tamil Conference—
+
+### Source page 537
+
+—the statue of Tamil Thai, which had been announced as one that would be unveiled by Prime Minister Indira Gandhi, was later unveiled by our Hon. Chief Minister while Mrs. Indira Gandhi herself was on the dais. Where is that statue of Tamil Thai now? How is it lying there covered in dust? Newspapers carried photographs showing how disgracefully and deplorably it has been cast aside in some corner of Madurai. I am not referring to Kazhagam newspapers. Newspapers belonging to no party have reported those distressing facts.
+
+Now there is the Bharathi festival. Bharathi must be celebrated. Bharathi, the poet of freedom; Bharathi, the poet of innovation; Bharathi, the teacher who made everyone write poetry in a simple style—there can be no difference of opinion about celebrating Bharathi's centenary. But was the money spent in the name of celebrating Bharathi spent properly? I am stating what I have heard. If what I heard is wrong, this Government has a duty to provide the correct figures and set me right.
+
+The Bharathi Mani Mandapam at Ettayapuram was built in September 1947 through the efforts of Professor Kalki Krishnamurthy and K. P. S. Narayanan of the Communist Party of India, at a cost of Rs.50,000. It was a very strong building, with not even a small crack in it. Yet, in the name of renovating it, a contract for Rs.2½ lakh has been awarded. If this information is true, must we not consider whether that is regrettable? For a building constructed at a cost of Rs.50,000—
+
+### Source page 538
+
+—the question whether merely applying a cement coating could cost Rs.2½ lakh is a shocking one. Behind the Mani Mandapam there was a ten-acre banana grove. Saying that an exhibition had to be held there, the authorities obtained that land, and a contract for Rs.1 lakh was awarded merely to spread gravel and level the site. Even if we compare it with that one-lakh-rupee contract, the price paid to acquire the land was only one quarter of that amount. A contract of one lakh to level it, while the land itself cost only a quarter of that—this too is information that has reached my ears. If it is wrong, I am prepared to accept an explanation.
+
+It was not a very large exhibition: it had only six pavilions. Do you know how much the contract was merely to build those six pavilions? A contract for Rs.2 lakh was awarded simply to put up posts and lay asbestos sheets over them. A contract for Rs.4 lakh was awarded merely to erect the festival pandal. We have conducted even large State conferences when these two parties were together. Even after accounting for the change in the value of money from those days to today, the cost could not have been this much. Four lakh rupees merely to put up a pandal. For just the electrical illumination of that pandal, I am told someone from Sengottai was given a contract for Rs.2 lakh. If that information is wrong, the Government has a duty to deny it.
+
+The roads around Ettayapuram did not last even for a month—
+
+### Source page 539
+
+—they have all deteriorated. A contract for Rs.10 lakh has been awarded for the maintenance of those roads.
+
+As in Madurai, eight toilets were built at Ettayapuram. A contract for Rs.4 lakh to build those eight toilets. If this too is wrong, I am prepared to accept a denial. So the Bharathi festival is necessary. But I ask that you consider whether tax money may be wasted to this extent in the name of the Bharathi festival.
+
+There is another matter. For the Lower Mettur hydro-electric project, under Tender Schedule No.1279, the name of the work was civil construction works one to four—four dams and a bridge: foundation, weir pie and bridge construction. The bidders under Schedule A were Kumar & Co., Bangalore; Ravi Constructions, Bangalore; G. & T. Company, Bombay; N.P.C.C., Delhi (a Government of India undertaking); and fifth, H.C.C. Limited, Bombay. The lowest bidder was Kumar & Co. The highest bidder was H.C.C., whose amount was Rs.30 lakh higher. To whom was the work awarded? It was awarded to H.C.C. Limited, the Bombay company.
+
+Schedule B—the second project. The bidders were Rajagopal & Co., Mettur Dam; Ravi Construction, Bangalore; Kumar & Co., Bangalore; G. & T. Company, Bombay; N.P.C.C., Delhi (a Government of India undertaking); and H.C.C. Limited, Bombay. The lowest bidder was Rajagopal. Yet this too was awarded to H.C.C. Limited, Bombay, which had quoted the higher amount.
+
+### Source page 540
+
+Likewise, for the third project the bidders were E. R. Rangasamy & Brothers, Erode; Ravi Constructions, Bangalore; Kumar & Co., Bangalore; G. & T. Company, Bombay; N.P.C.C., Delhi (a Government of India undertaking); and H.C.C., Bombay. The work was not given to Rangasamy & Brothers, who quoted the lowest amount; it was given to H.C.C., Bombay, which had asked Rs.46 lakh more.
+
+Schedule Four. The bidders were Ravi Constructions, Bangalore; Kumar & Co., Bangalore; G. & T. Company, Bombay; N.P.C.C., Delhi (a Government of India undertaking); and H.C.C., Bombay. This work was awarded to H.C.C., which had quoted about Rs.30 lakh more.
+
+Across the tenders under these four schedules, the total amount quoted by E. R. Rangasamy & Brothers was Rs.2,12,14,160. The total amount quoted by H.C.C. Limited, Bombay, was Rs.2,58,43,370. To whom should the work have been given? It should have been given to Rangasamy & Brothers. The difference was Rs.46,29,210, yet all four tenders were awarded to the Bombay company H.C.C. at that higher amount.
+
+If you ask whether this Rangasamy lacked experience: he had built a very large bridge between Bhavani and Kumarapalayam, valued at Rs.60 lakh, and completed it within the specified time. He has undertaken and completed many such works. Yet the work here was not given to him.
+
+In the same way, I will give only two more examples, to show how money is being wasted.
+
