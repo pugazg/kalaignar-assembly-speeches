@@ -68,7 +68,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 16 | `1.3.1978` | 1978-03-01 | 356–388 | 355–387 | `1978-03-01-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 17 | `22 & 23.3.1979` | **multi-date source unit: 1979-03-22 and 1979-03-23; no explicit internal date divider found; no single canonical date assigned** | 389–481 | 388–480 | `1979-03-22-and-23-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete; intentionally not added to single-date root/data indexes** |
 | 18 | `09.07.1980` | 1980-07-09 | 482–510 | 481–509 | `1980-07-09-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete; indexed** |
-| 19 | `06.03.1982` | 1982-03-06 | 511–545 | 510–544 | `1982-03-06-financial-statement-debate`; **Gate C PASS/COMPLETE; Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE; Gate E Batches 1–3 PASS/COMPLETE scans 511–540 / 30 of 35 verified / 16 cumulative corrections / 0 unresolved; Tamil PARTIALLY VERIFIED; FINAL Batch 4 next** |
+| 19 | `06.03.1982` | 1982-03-06 | 511–545 | 510–544 | `1982-03-06-financial-statement-debate`; **Gate C PASS/COMPLETE; Gate C.5 N/A/CLOSED; Gate D PASS/COMPLETE; Gate E PASS/COMPLETE 35/35 / 26 corrections / 0 unresolved; Tamil VERIFIED / verified_against_scan=true; Gate F Batch 1 next** |
 
 ## Focused boundary re-check
 
@@ -125,8 +125,8 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate C — **Speeches 1–19 COMPLETE; Speech 19 scans 511–545 / 35 of 35 first-pass / Tamil TRANSCRIBED-NOT-VERIFIED**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–19; Speech 19 modern 2007 typesetting / 0 historical-glyph corrections**
 - Gate D — **Speeches 1–19 PASS / COMPLETE; Speech 19 35/35 pages / 34/34 transitions / 0 completeness corrections**
-- Gate E — **Speeches 1–18 PASS / COMPLETE / Tamil VERIFIED; Speech 19 Batches 1–3 PASS/COMPLETE / scans 511–540 / 30 of 35 verified / 16 cumulative corrections / 0 unresolved / exact next Batch 4 FINAL scans 541–545**
-- Gate F — **Speeches 1–18 COMPLETE; Speech 18 29 of 29 translated / 0 blockers / 0 Tamil changes; Speech 19 not started**
+- Gate E — **Speeches 1–19 PASS / COMPLETE / Tamil VERIFIED; Speech 19 35/35 verified / 26 corrections / 0 unresolved / verified_against_scan=true**
+- Gate F — **Speeches 1–18 COMPLETE; Speech 19 NOT STARTED / exact next Batch 1 scans 511–540 / 30 pages**
 - Gate G — **Speeches 1–18 PASS / COMPLETE / English VERIFIED; Speech 18 29 of 29 reviewed / 6 refinements / 0 blockers / 0 Tamil changes; Speech 19 not started**
 - Gate H — **Speeches 1–18 PASS / COMPLETE — RELEASED / CLOSED; Speech 19 not started beyond Gate-C setup**
 - Speech 13 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED / RELEASED-CLOSED / 7 Gate-G refinements / 0 blockers / 0 Gate-H wording changes**
@@ -619,3 +619,20 @@ Gate D — **PASS / COMPLETE — 35/35 pages / 34/34 internal transitions / 0 co
 - outside wording imported — **0**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - exact next — **Gate E Batch 4 FINAL / scans 541–545 / exactly 5 pages**
+
+## Speech 19 Gate E FINAL result
+
+**PASS / COMPLETE — scans 541–545 FINAL / cumulative 35 of 35 source-verified.**
+
+- Batch-4 corrections — **10 entries / 10 occurrences / 4 affected scans**
+- affected scans — **541 / 542 / 543 / 544**
+- cumulative Gate-E corrections — **26**
+- cumulative affected scans — **14**
+- unresolved readings — **0**
+- source-printed English on scan **542** — **preserved exactly as printed**
+- speaker changes/interventions on scans **544–545** — **verified / preserved**
+- hard boundary **545→546** — **PASS / portrait-back matter excluded**
+- source-page markers **511→545** — **unchanged / exactly once / ordered**
+- outside wording imported — **0**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- exact next — **Gate F Batch 1 / scans 511–540 / exactly 30 pages**
