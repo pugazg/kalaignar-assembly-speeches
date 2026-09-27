@@ -67,7 +67,7 @@ The `financial-statement-debate` slug below is a neutral archival working label 
 | 15 | `03.08.1977` | 1977-08-03 | 320–355 | 319–354 | `1977-08-03-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 16 | `1.3.1978` | 1978-03-01 | 356–388 | 355–387 | `1978-03-01-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete** |
 | 17 | `22 & 23.3.1979` | **multi-date source unit: 1979-03-22 and 1979-03-23; no explicit internal date divider found; no single canonical date assigned** | 389–481 | 388–480 | `1979-03-22-and-23-financial-statement-debate`; **Tamil VERIFIED; English VERIFIED; Gate H PASS/COMPLETE; RELEASED/CLOSED; canonical bilingual complete; intentionally not added to single-date root/data indexes** |
-| 18 | `09.07.1980` | 1980-07-09 | 482–510 | 481–509 | `1980-07-09-financial-statement-debate`; **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E IN PROGRESS — Batches 1–2 PASS-COMPLETE / scans 482–501 / 20 of 29 verified / 17 cumulative corrections / 0 unresolved / Tamil PARTIALLY VERIFIED** |
+| 18 | `09.07.1980` | 1980-07-09 | 482–510 | 481–509 | `1980-07-09-financial-statement-debate`; **Gate C COMPLETE / Gate C.5 N/A-CLOSED / Gate D PASS-COMPLETE / Gate E PASS-COMPLETE-CLOSED / scans 482–510 / 29 of 29 verified / 20 corrections / 0 unresolved / Tamil VERIFIED / Gate F NOT STARTED** |
 | 19 | `06.03.1982` | 1982-03-06 | 511–545 | 510–544 | `1982-03-06-financial-statement-debate` |
 
 ## Focused boundary re-check
@@ -125,8 +125,8 @@ Speeches 9 / 29.3.1971 and 10 / 29.6.71 are **RELEASED / CLOSED through Gate H**
 - Gate C — **Speeches 1–18 COMPLETE; Speech 18 29 of 29 first-pass / Tamil TRANSCRIBED-NOT-VERIFIED; Speech 19 not started**
 - Gate C.5 — **N/A / CLOSED for Speeches 1–18**
 - Gate D — **Speeches 1–18 PASS / COMPLETE; Speech 18 29/29 pages / 28/28 transitions / 0 completeness corrections**
-- Gate E — **Speeches 1–17 PASS / COMPLETE / Tamil VERIFIED; Speech 18 IN PROGRESS / Batches 1–2 PASS-COMPLETE / 20 of 29 verified / 17 cumulative corrections / 0 unresolved; Speech 19 not started**
-- Gate F — **Speeches 1–17 COMPLETE; speeches 18–19 not started**
+- Gate E — **Speeches 1–18 PASS / COMPLETE / Tamil VERIFIED; Speech 18 29 of 29 verified / 20 corrections / 0 unresolved; Speech 19 not started**
+- Gate F — **Speeches 1–17 COMPLETE; Speech 18 NOT STARTED / exact next FINAL scans 482–510 / 29 pages; Speech 19 not started**
 - Gate G — **Speeches 1–17 PASS / COMPLETE / English VERIFIED; speeches 18–19 not started**
 - Gate H — **Speeches 1–17 PASS / COMPLETE — RELEASED / CLOSED; speeches 18–19 not started**
 - Speech 13 — **Gates C–H COMPLETE / Tamil VERIFIED / English VERIFIED / RELEASED-CLOSED / 7 Gate-G refinements / 0 blockers / 0 Gate-H wording changes**
@@ -346,7 +346,7 @@ Working entry: `speeches/1973/1973-03-07-financial-statement-debate/`
 
 ## Exact continuation
 
-Continue **Speech 18 Gate E Batch 3 FINAL — scans 502–510 / printed pp.501–509 / exactly 9 pages**. Verify only against part021 local pages 2–10, preserve 501→502 and 510→511, and do not begin Gate F or Speech 19.
+Continue **Speech 18 Gate F FINAL — scans 482–510 / printed pp.481–509 / exactly 29 pages**. Translate only from the final Gate-E-verified Tamil; preserve source structure and printed English, make 0 Tamil changes, import 0 outside English, and do not begin Gate G or Speech 19.
 
 
 ## Speech 18 setup state
@@ -390,4 +390,21 @@ Continue **Speech 18 Gate E Batch 3 FINAL — scans 502–510 / printed pp.501�
 - printed English `Minimum Level of Consumption` / `"5 acres owning"` — **preserved**
 - Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - exact next — **Gate E Batch 3 FINAL / scans 502–510 / exactly 9 pages**
+
+
+
+## Speech 18 Gate E FINAL result
+
+**PASS / COMPLETE / CLOSED — scans 502–510 / exactly 9 pages; cumulative 29 of 29 source-verified.**
+
+- Batch-3 corrections — **3 entries / 3 occurrences / 3 affected scans**
+- cumulative Gate-E corrections — **20 entries / 20 occurrences / 14 affected scans**
+- unresolved — **0**
+- outside wording imported — **0**
+- scans **482–501** changed in final Batch 3 — **0**
+- **501→502 / 510→511** — **PASS**
+- scan **510** source close / ornament — **PASS**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate E — **PASS / COMPLETE / CLOSED**
+- exact next — **Gate F FINAL / scans 482–510 / exactly 29 pages**
 
