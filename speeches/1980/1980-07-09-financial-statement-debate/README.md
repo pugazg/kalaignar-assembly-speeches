@@ -37,10 +37,10 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 ## Gate state
 
 - Gate C — **PASS / COMPLETE — scans 482–510 / 29 of 29 first-pass**
-- Tamil — **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting / 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 29/29 pages / 28/28 internal transitions / 0 completeness corrections / 0 Tamil wording changes**
-- Gate E — **NOT STARTED**
+- Gate E — **IN PROGRESS — Batch 1 PASS / COMPLETE / scans 482–491 / 10 of 29 verified / 14 corrections / 0 unresolved**
 - Gate F / English — **NOT STARTED**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
@@ -163,8 +163,41 @@ Checks:
 
 Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**. Gate D is a completeness audit, not source-fidelity verification.
 
+## Gate E — Batch 1 / scans 482–491
+
+**PASS / COMPLETE — scans 482–491 / printed pp.481–490 / exactly 10 pages; cumulative 10 of 29 source-verified.**
+
+- source-fidelity corrections — **14 entries / 14 occurrences / 8 affected scans**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- scans **492–510** modified — **0**
+- source-page markers — **482→510 / unchanged / exactly once / ordered**
+- **488→489** continuation — **PASS / preserved**
+- scan **491** terminal continuation into scan 492 — **PASS / preserved**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- exact next — **Gate E Batch 2 / scans 492–501 / exactly 10 pages**
+
+### Batch-1 correction ledger
+
+1. **scan 483** — `ஒரு பையில் போட்டு எடுத்துக் கொண்டு` → `ஒரு பையிலே போட்டு எடுத்துக் கொண்டு`.
+2. **scan 484** — `பெருமைக்குரிய மகிழ்ச்சிக்குரிய` → `பெருமைக்குரிய, மகிழ்ச்சிக்குரிய`.
+3. **scan 484** — `1938-39 ஆம் ஆண்டில் வரவு செலவு மதிப்பீட்டின்படி` → `1938-39 ஆம் ஆண்டில் வரவு-செலவு மதிப்பீட்டின்படி`.
+4. **scan 484** — `வைக்க எண்ணியிருந்தேன். ஆனால் 90 கோடி` → `வைக்க எண்ணியிருந்தேன், ஆனால் 90 கோடி`.
+5. **scan 485** — `எல்லா கணக்குகளை ஆண்டின்` → `எல்லா கணக்குகளையும் ஆண்டின்`.
+6. **scan 485** — `அதிகாரிகள் கவனத்திற்கு கொண்டுவர` → `அதிகாரிகள் கவனத்திற்குக் கொண்டுவர`.
+7. **scan 486** — `தமிழ்நாட்டின் நபாவாரி திட்டச் செலவும்` → `தமிழ்நாட்டின் நபர்வாரி திட்டச் செலவும்`.
+8. **scan 486** — `திட்டங்களுக்கு மாநில அரசுக்கு மத்திய அரசின் உதவி` → `திட்டங்களுக்காக மாநில அரசுக்கு மத்திய அரசின் உதவி`.
+9. **scan 486** — `ஆனால் அதற்கு அப்போது இருந்த எதிர்க்கட்சிகளுடைய ஆதரவு` → `அதனால் அதற்கு அப்போது இருந்த எதிர்க்கட்சிகளுடைய ஆதரவு`.
+10. **scan 488** — `இரு அவைகளிலும் வற்புறுத்தி பேசி இருக்கிறார்கள்.` → `இரு அவைகளிலும் வற்புறுத்திப் பேசி இருக்கிறார்கள்.`.
+11. **scan 489** — `நான் மிக்க பெருமையோடு இங்கே` → `நான் மெத்த பெருமையோடு இங்கே`.
+12. **scan 490** — `எண்ணாமல் கேட்கிற விளக்கத்திற்கு சரியான பதிலை` → `எண்ணாமல் கேட்கின்ற விளக்கத்திற்கு சரியான பதிலை`.
+13. **scan 490** — `இன்னொன்றும் குறிப்பிட்டிருக்கிறார்கள்; அதாவது` → `இன்னொன்றும் குறிப்பிட்டிருக்கிறார்கள், அதாவது`.
+14. **scan 491** — `முதலில் அறிவித்த 5 கிலோ அரிசி` → `முதலிலே அறிவித்த 5 கிலோ அரிசி`.
+
+Genuine source-visible forms retained include scan 482 `மாண்புமிகு பேரவைத் தலைவரவர்களே`; scan 485 `982.66 கோடிய ரூபாயும்`; scan 488 `ஒலவக்கோடு` / `பற்றாக் குறையை`; scan 489 `திட்டங்களை..`; and scan 491 `குவாலிபிகேஷன்`.
+
 ## Exact next activity
 
-Perform **Speech 18 Gate E Batch 1 — scans 482–491 / exactly 10 pages**.
+Perform **Speech 18 Gate E Batch 2 — scans 492–501 / exactly 10 pages**.
 
-Strictly verify the first 10 Tamil source-page sections against the controlling anthology pixels. Record every source-fidelity correction; keep scans 492–510 untouched and do not begin Gate E Batch 2 or Speech 19.
+Strictly verify against the controlling anthology pixels. This batch crosses the part020→part021 split at **500→501**; preserve that continuation, leave scans 482–491 and 502–510 unchanged, and do not begin the final batch or Speech 19.
