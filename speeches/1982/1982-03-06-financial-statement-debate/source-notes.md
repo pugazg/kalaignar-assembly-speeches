@@ -157,8 +157,27 @@ Gate C.5 is **provisionally N/A** because this is modern 2007 typesetting; reope
 
 Tamil remains **TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**.
 
+## Gate E Batch 1 source-fidelity verification
+
+**PASS / COMPLETE — scans 511–520 / printed pp.510–519 / exactly 10 pages; cumulative 10 of 35 source-verified.**
+
+- controlling split — part021 local **11–20**
+- correction ledger — **3 entries / 3 occurrences / scans 518 and 520**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- markers **511→545** — **unchanged / ordered**
+- source-visible forms retained rather than normalized except where first-pass transcription diverged from the pixels
+- **520→521** — **structurally preserved; scan 521 not source-verified in this activity**
+- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+
+Corrections:
+
+- scan **518** — `1½ நாள் எடுத்து கொண்டு` → `1½ நாள் எடுத்துக் கொண்டு`
+- scan **520** — `எதிர்பார்க்கப்படுகிறது` → `எதிர்பார்க்கப் படுகிறது`
+- scan **520** — `கட்டி முடிக்கப்பட்டன` → `கட்டிமுடிக்கப்பட்டன`
+
 ## Exact next
 
-**Speech 19 Gate E Batch 1 — scans 511–520 / exactly 10 pages.**
+**Speech 19 Gate E Batch 2 — scans 521–530 / exactly 10 pages.**
 
-Do not begin Gate E Batch 2 in the same activity.
+Do not begin Gate E Batch 3 in the same activity.
