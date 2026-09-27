@@ -96,7 +96,7 @@
       "541-545 / 5 pages FINAL"
     ],
     "working_split_transition": "525->526",
-    "next_activity": "Gate G Batch 2 FINAL / scans 541-545 / exactly 5 pages",
+    "next_activity": "Gate H archival/release audit",
     "gate_e_iteration_page_limit": 10,
     "current_gate_e_batch": "541-545 / 5 pages FINAL / PASS-COMPLETE / 10 corrections",
     "next_gate_e_batch": null,
@@ -116,8 +116,8 @@
     ],
     "gate_g_iteration_page_limit": 30,
     "gate_g_final_remainder_may_be_under_limit": true,
-    "current_gate_g_batch": "511-540 / 30 pages / PASS-COMPLETE / 10 refinements",
-    "next_gate_g_batch": "541-545 / 5 pages FINAL",
+    "current_gate_g_batch": "541-545 / 5 pages FINAL / PASS-COMPLETE / 4 refinements",
+    "next_gate_g_batch": null,
     "planned_gate_g_batches": [
       "511-540 / 30 pages",
       "541-545 / 5 pages FINAL"
@@ -300,10 +300,10 @@
   },
   "translation": {
     "language": "English",
-    "status": "translated",
+    "status": "verified",
     "gate_f_status": "complete",
-    "gate_g_status": "in-progress",
-    "verified_against_tamil": false,
+    "gate_g_status": "pass-complete",
+    "verified_against_tamil": true,
     "translated_scans": "511-545",
     "translated_printed_pages": "510-544",
     "translated_page_count": 35,
@@ -326,7 +326,7 @@
     "verified_tamil_changes": 0,
     "outside_english_imported": false,
     "next_gate_f_batch": null,
-    "next_gate": "Gate G Batch 2 FINAL / scans 541-545 / exactly 5 pages",
+    "next_gate": "Gate H archival/release audit",
     "gate_f_batch_2_status": "pass-complete-final",
     "gate_f_batch_2_scan_pages": "541-545",
     "gate_f_batch_2_printed_pages": "540-544",
@@ -344,9 +344,9 @@
     "gate_f_batch_2_terminal_boundary": "545->546 / PASS / scan 546 portrait-back matter excluded",
     "gate_f_complete": true,
     "gate_f_completion_note": "35/35 pages translated from final Gate-E-verified Tamil; 0 blockers; 0 Tamil changes; outside English imported=0.",
-    "gate_g_reviewed_scans": "511-540",
-    "gate_g_reviewed_printed_pages": "510-539",
-    "gate_g_reviewed_page_count": 30,
+    "gate_g_reviewed_scans": "511-545",
+    "gate_g_reviewed_printed_pages": "510-544",
+    "gate_g_reviewed_page_count": 35,
     "gate_g_batch_1_status": "pass-complete",
     "gate_g_batch_1_scan_pages": "511-540",
     "gate_g_batch_1_printed_pages": "510-539",
@@ -376,10 +376,36 @@
       "535",
       "539"
     ],
-    "gate_g_cumulative_refinements": 10,
-    "gate_g_cumulative_refinement_occurrences": 10,
-    "gate_g_cumulative_affected_scans": 10,
-    "gate_g_blocking_issue_count": 0
+    "gate_g_cumulative_refinements": 14,
+    "gate_g_cumulative_refinement_occurrences": 14,
+    "gate_g_cumulative_affected_scans": 14,
+    "gate_g_blocking_issue_count": 0,
+    "gate_g_batch_2_status": "pass-complete-final",
+    "gate_g_batch_2_scan_pages": "541-545",
+    "gate_g_batch_2_printed_pages": "540-544",
+    "gate_g_batch_2_page_count": 5,
+    "gate_g_batch_2_refinements": 4,
+    "gate_g_batch_2_refinement_occurrences": 4,
+    "gate_g_batch_2_affected_scans": 4,
+    "gate_g_batch_2_refinement_scans": [
+      "541",
+      "543",
+      "544",
+      "545"
+    ],
+    "gate_g_batch_2_blocking_issues": 0,
+    "gate_g_batch_2_verified_tamil_changes": 0,
+    "gate_g_batch_2_outside_english_imported": false,
+    "gate_g_batch_2_source_printed_english_scans": [
+      "542"
+    ],
+    "gate_g_batch_2_speaker_intervention_scans": [
+      "544",
+      "545"
+    ],
+    "gate_g_batch_2_terminal_boundary": "545->546 / PASS / scan 546 portrait-back matter excluded",
+    "gate_g_complete": true,
+    "gate_g_completion_note": "35/35 English source-page sections reviewed against final verified Tamil; 14 refinements; 0 blockers; 0 Tamil changes; outside English imported=0; verified_against_tamil=true."
   },
   "release": {
     "status": "not-released",
