@@ -48,7 +48,7 @@ Working split coverage:
    - local 20 / scan 545 = Speech 19 close / included
    - local 21 / scan 546 = closing portrait/back matter / excluded
 
-Working-split transition **525→526** must be audited when Gate C reaches Batch 2.
+Working-split transition **525→526** was audited during Gate C Batch 2 and is **PASS / preserved**.
 
 ## Gate-C setup
 
@@ -79,8 +79,25 @@ Gate C.5 is **provisionally N/A** because this is modern 2007 typesetting; reope
 - Gate C.5 — **PROVISIONALLY N/A / not closed**
 - part022 split integrity, now directly available — **21 pages / 15,522,557 bytes / SHA-256 `7fc6e4fb4e264c9c4b836150549fc0c8c45458bc9a3869ac313ff6708fb5ceed`**
 
+## Gate C Batch 2
+
+**PASS / COMPLETE — scans 521–530 / exactly 10 pages; cumulative 20 of 35 first-pass transcribed.**
+
+- source files — part021 local **21–25 / scans 521–525** + part022 local **1–5 / scans 526–530**
+- source-page markers — **511→530 / 20 / exactly once / ordered**
+- working-split transition **525→526** — **PASS / preserved**
+- open scan-520 continuation into scan 521 — **preserved**
+- continuations **521→522 / 523→524 / 524→525 / 526→527 / 527→528 / 529→530** — **preserved**
+- source-printed English on scans **523–525** — **preserved verbatim as printed**
+- first-pass unresolved readings — **0**
+- outside wording imported — **0**
+- Tamil — **PARTIALLY TRANSCRIBED / NOT VERIFIED / verified_against_scan=false**
+- scan **531** wording — **not imported**
+- scans **531–545** modified in Batch 2 — **0**
+- Gate C.5 — **PROVISIONALLY N/A / not closed**
+
 ## Exact next
 
-**Speech 19 Gate C Batch 2 — scans 521–530 / exactly 10 pages.**
+**Speech 19 Gate C Batch 3 — scans 531–540 / exactly 10 pages.**
 
-Batch 2 crosses **525→526 / part021→part022**; audit that transition and do not transcribe scans 531 onward in the same iteration.
+Do not transcribe scans 541 onward in the same iteration.
