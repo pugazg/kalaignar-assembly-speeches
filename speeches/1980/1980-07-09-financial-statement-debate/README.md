@@ -37,11 +37,11 @@ No OCR, web copy, Official Report, alternate anthology, released speech or other
 ## Gate state
 
 - Gate C — **PASS / COMPLETE — scans 482–510 / 29 of 29 first-pass**
-- Tamil — **PARTIALLY VERIFIED / verified_against_scan=false**
+- Tamil — **VERIFIED / verified_against_scan=true**
 - Gate C.5 — **N/A / CLOSED — modern 2007 typesetting / 0 historical-glyph corrections / 0 unresolved**
 - Gate D — **PASS / COMPLETE — 29/29 pages / 28/28 internal transitions / 0 completeness corrections / 0 Tamil wording changes**
-- Gate E — **IN PROGRESS — Batches 1–2 PASS / COMPLETE / scans 482–501 / 20 of 29 verified / 17 cumulative corrections / 0 unresolved**
-- Gate F / English — **NOT STARTED**
+- Gate E — **PASS / COMPLETE — scans 482–510 / 29 of 29 verified / 20 cumulative corrections / 0 unresolved**
+- Gate F / English — **NOT STARTED / exact next = FINAL scans 482–510 / 29 pages**
 - Gate G — **NOT STARTED**
 - Gate H — **NOT STARTED / NOT RELEASED**
 - Speech 19 — **NOT STARTED**
@@ -220,8 +220,32 @@ Genuine source-visible forms retained include scan 482 `மாண்புமி
 3. **scan 494** — `அந்த முதியோர், கைம் பெண்கள், உடல் ஊனம் உற்றோர், கண்ணொளி இழந்தோர்` → `அந்த முதியோர், கைம் பெண்கள், உடல் ஊனம் உற்றோர்; கண்ணொளி இழந்தோர்`
 4. **scan 496** — `இந்த ஓய்வூதியம் தரப்பட இருக்கிறதா என்ற விவரம் தொழிலாளர்களுக்கு மிகவும் அதிகமாக தேவை.` → `இந்த ஓய்வூதியம் தரப்பட இருக்கிறதா என்ற விவரம் தொழிலாளர்களுக்கு மிகமிக அதிகமாக தேவை.`
 
+## Gate E — Batch 3 FINAL / scans 502–510
+
+**PASS / COMPLETE — scans 502–510 / printed pp.501–509 / exactly 9 pages; cumulative 29 of 29 source-verified. Gate E CLOSED.**
+
+- source authority — **controlling 2007 anthology pixels only**
+- verified scans — **502–510 / 9 pages**
+- Batch-3 source-fidelity corrections — **3 entries / 3 occurrences / 3 affected scans**
+- cumulative Gate-E corrections — **20 entries / 20 occurrences / 14 affected scans**
+- unresolved readings — **0**
+- outside wording imported — **0**
+- scans **482–501** changed in FINAL Batch 3 — **0**
+- source-page markers / figures / quotations / repetitions / printed English — **preserved**
+- incoming continuation **501→502** — **PASS / preserved**
+- scan **510** source close / ornament — **PASS / preserved**
+- hard boundary **510→511** — **PASS / scan 511 is Speech 19 start / excluded**
+- Tamil — **VERIFIED / verified_against_scan=true**
+- Gate E — **PASS / COMPLETE / CLOSED**
+
+### Batch-3 correction ledger
+
+1. **scan 505** — `தயாரிக்கப்பட்ட ஒரு நிதிநிலை வாசக மாத்திரம் இருக்கிறது என்று நான்` → `தயாரிக்கப்பட்ட ஒரு நிதிநிலை வாசக மாத்திரம்தான் இருக்கிறது என்று நான்`
+2. **scan 506** — `காண்ட்ராக்ட் முறை இருக்காது, முழுதும் அரசுத்துறையாக இருக்கும் என்று` → `காண்ட்ராக்ட் முறை இருக்காது, முழுதும் அரசத்துறையாக இருக்கும் என்று`
+3. **scan 507** — `அவைகளெல்லாம் பட்ஜெட்டிலே நிதிநிலை அறிக்கையிலே இல்லை என்பதைத் தான் நான்` → `அவைகளெல்லாம் பட்ஜெட்டிலே நிதிநிலை அறிக்கையிலே இல்லை என்பதைத்தான் நான்`
+
 ## Exact next activity
 
-Perform **Speech 18 Gate E Batch 3 FINAL — scans 502–510 / exactly 9 pages**.
+Perform **Speech 18 Gate F FINAL — scans 482–510 / exactly 29 pages**.
 
-Strictly verify against part021 local pages 2–10. Preserve the 501→502 incoming continuation, scan-510 source close and hard boundary 510→511; leave scans 482–501 unchanged and do not begin Gate F or Speech 19.
+Translate only from the final Gate-E-verified Tamil. Preserve source-page boundaries, speaker label/interventions, figures, quotations, repetitions and source-printed English. Record blocking questions conservatively; make 0 verified-Tamil changes and import 0 outside English. Do not begin Gate G or Speech 19.
